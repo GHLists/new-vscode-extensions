@@ -12,26 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 12:20 UTC
+## Latest list — 2026-09-27 13:21 UTC
 
-New extensions published between 2026-09-27 10:20 UTC and 2026-09-27 12:20 UTC.
+New extensions published between 2026-09-27 11:21 UTC and 2026-09-27 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T12-20-49-563256Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T13-21-25-425399Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 11:23:41 | [La-Theresa.vivado-for-vscode](https://marketplace.visualstudio.com/items?itemName=La-Theresa.vivado-for-vscode) | Vivado for VS Code | 0.3.1 | Vivado projects, live Verilog diagnostics, builds, simulation and hardware prog… |
-| 2026-09-27 11:32:32 | [jopro.rtl-everywhere](https://marketplace.visualstudio.com/items?itemName=jopro.rtl-everywhere) | RTL Everywhere | 1.0.12 | Fixes Arabic RTL in AGENT chat and Markdown files (CSS-only, safe for Glass UI). |
-| 2026-09-27 11:36:55 | [lorenzwalthert.styler](https://marketplace.visualstudio.com/items?itemName=lorenzwalthert.styler) | {styler}: Non-Invasive Pretty Printing… | 0.0.3 | Format R code using the {styler} R package |
-| 2026-09-27 11:37:43 | [Rambots.bobgraph](https://marketplace.visualstudio.com/items?itemName=Rambots.bobgraph) | BobGraph - Workspace Visualizer | 0.0.2 | VS Code extension that parses a project's code structure and renders it as an i… |
-| 2026-09-27 11:39:59 | [lilinhuang.luminous-morna-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.luminous-morna-theme) | Luminous Morna Theme | 1.0.1 | Warm, luminous light and dark colour themes for VS Code - cream and olive neutr… |
-| 2026-09-27 11:45:06 | [digitalcicada.fan-version-theme-all-f-ya](https://marketplace.visualstudio.com/items?itemName=digitalcicada.fan-version-theme-all-f-ya) | cicadaMATA" | 0.0.1 | cicdamata inspired UI for fellow coders. +++This is who we are now. Tear bugs f… |
-| 2026-09-27 11:45:45 | [NakulJain.waiting-room](https://marketplace.visualstudio.com/items?itemName=NakulJain.waiting-room) | Break Room | 0.1.1 | A playful place to spend the moments while your coding agent works. |
-| 2026-09-27 12:01:40 | [shangchenyu.claude-code-context-monitor](https://marketplace.visualstudio.com/items?itemName=shangchenyu.claude-code-context-monitor) | Context & Quota Monitor for Claude Code | 0.1.0 | Shows Claude Code context window usage and 5h / 7d subscription quota in the VS… |
-| 2026-09-27 12:01:51 | [WoJake.agent-monitor-focus](https://marketplace.visualstudio.com/items?itemName=WoJake.agent-monitor-focus) | Agent Monitor: Focus & Images | 0.14.0 | Track Codex, Claude Code and Cursor Agent activity, inspect evidence and images… |
-| 2026-09-27 12:04:11 | [ultramanhu.smallbasic-tools-vsc](https://marketplace.visualstudio.com/items?itemName=ultramanhu.smallbasic-tools-vsc) | SmallBasic for Visual Studio Code | 0.1.0 | SmallBasic language support for VSCode. |
-| 2026-09-27 12:06:31 | [nhtera.sonde](https://marketplace.visualstudio.com/items?itemName=nhtera.sonde) | Sonde | 1.0.0 | Language support for Sonde (.sonde) and Hurl-compatible (.hurl) request files:… |
-| 2026-09-27 12:14:47 | [GhostCmdr.traecn-quota](https://marketplace.visualstudio.com/items?itemName=GhostCmdr.traecn-quota) | TraeCN Quota | 0.1.0 | 非官方（Unofficial）Trae CN 积分余量查看器：在状态栏显示余额与套餐明细，支持手动与定时刷新。 |
+| 2026-09-27 12:20:34 | [Rufo.pumlify](https://marketplace.visualstudio.com/items?itemName=Rufo.pumlify) | Pumlify | 0.0.1 | A PlantUML formatter that indents blocks and optionally numbers message flows. |
+| 2026-09-27 12:21:10 | [hostxxii.one-dark-pro-light-background](https://marketplace.visualstudio.com/items?itemName=hostxxii.one-dark-pro-light-background) | One Dark Pro Light Background | 0.1.0 | One Dark Pro syntax colors on a light background, with a Light 2026 workbench.… |
+| 2026-09-27 12:32:05 | [Memoria-ll.issue-queue](https://marketplace.visualstudio.com/items?itemName=Memoria-ll.issue-queue) | Issue Queue | 0.4.1 | GitHub Issue の着手順・資料・着手状態をサイドバーで確認・管理します。 |
+| 2026-09-27 12:32:44 | [CoffeeCatStudio.kahve-kedisi](https://marketplace.visualstudio.com/items?itemName=CoffeeCatStudio.kahve-kedisi) | Coffee Cat (Kahve Kedisi) | 1.0.2 | An interactive, animated cat companion that tracks your focus sessions, reminds… |
+| 2026-09-27 12:37:45 | [hrmcngs.toritsu-ai](https://marketplace.visualstudio.com/items?itemName=hrmcngs.toritsu-ai) | 都立AI | 0.12.0 | 都立AIの授業用APIと連携する非公式クライアント。コード説明、選択範囲編集、サイドバーチャットに対応。 |
+| 2026-09-27 12:43:36 | [mapvisual.mapvisual](https://marketplace.visualstudio.com/items?itemName=mapvisual.mapvisual) | MapVisual | 0.1.0 | Visualize embedded linker map files (GNU ld / LLVM lld) as a sortable, filterab… |
+| 2026-09-27 12:46:32 | [SatolepDev.tailwind-lens](https://marketplace.visualstudio.com/items?itemName=SatolepDev.tailwind-lens) | Tailwind Lens | 0.1.0 | Esconde, ordena e valida classes Tailwind; atalhos para shadcn/ui. |
+| 2026-09-27 12:48:55 | [sibjor.sbai-vscode](https://marketplace.visualstudio.com/items?itemName=sibjor.sbai-vscode) | SBAI | 0.1.0 | Chat and agent assistance powered by SBAI running locally on a Samsung Galaxy S… |
+| 2026-09-27 12:53:42 | [viralinclive.sftp-sync-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.sftp-sync-viralinc) | SFTP Sync, FTP Sync, Upload on Save, SF… | 1.0.1 | SFTP sync and FTP sync for VS Code: upload on save, deploy to server and browse… |
+| 2026-09-27 12:53:58 | [viralinclive.rest-client-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.rest-client-viralinc) | REST Client, HTTP Client, API Client, A… | 1.0.1 | REST Client and HTTP Client for VS Code: a free API client and API tester to se… |
+| 2026-09-27 12:54:11 | [viralinclive.todo-tree-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.todo-tree-viralinc) | TODO Highlight, TODO Tree, Better Comme… | 1.0.1 | TODO Tree, TODO Highlight and Better Comments in one: find every TODO, FIXME, H… |
+| 2026-09-27 12:59:19 | [viralinclive.kubernetes-dashboard-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.kubernetes-dashboard-viralinc) | Kubernetes Dashboard, K8s, Kubectl GUI,… | 1.0.1 | Kubernetes dashboard and K8s GUI for VS Code: a Lens and k9s alternative to bro… |
+| 2026-09-27 13:17:31 | [MAINAKKUNDU.vela-language](https://marketplace.visualstudio.com/items?itemName=MAINAKKUNDU.vela-language) | Vela by Mainak | 0.1.0 | Language support for Vela: syntax highlighting, bracket matching, and file icon… |
 
 ## Data source
 
