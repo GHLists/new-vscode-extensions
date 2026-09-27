@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T22:23:26.79Z,MidSix.doki-wallpaper-carousel,MidSix,Wallpaper Carousel for Doki Theme,1.0.0,"Unofficial companion for the Doki Theme: flip your animated wallpaper through a folder of GIFs, show it behind the side bars, panel and terminal, and turn .mp4 videos into GIF wallpapers."
+2026-09-27T22:44:00.423Z,specir.specc-vscode,specir,SpecCompiler Preview,0.1.2,Live HTML/PDF preview of SpecCompiler projects: rebuilds on save and refreshes the view in place.
+2026-09-27T22:51:02.62Z,Norhaven.jolt,Norhaven,Jolt Language,1.0.1,A friendly way of transforming JSON into different JSON.
+2026-09-27T22:54:14.97Z,GeorgeDorn.AI-brain-surgeon,GeorgeDorn,AI Brain Surgeon,0.0.20,"Manually edit LLM session contexts, instead of relying on lossy and imprecise LLM summarization."
+2026-09-27T23:10:20.46Z,saiashirwad.tandem,saiashirwad,Tandem,0.0.1,"Annotate code as you read, copy the annotations as Markdown, and follow and review walks through the code written by an agent."
+2026-09-27T23:10:25.163Z,IuriPavani.plaintext-formatter,IuriPavani,Plaintext Formatter,0.1.0,Paste. Format. Done. Automatically detect and safely format code in unsaved Plain Text tabs using Format Document.

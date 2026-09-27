@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 22:19 UTC
+## Latest list — 2026-09-27 23:19 UTC
 
-New extensions published between 2026-09-27 20:19 UTC and 2026-09-27 22:19 UTC.
+New extensions published between 2026-09-27 21:19 UTC and 2026-09-27 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T22-19-02-225149Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T23-19-31-136873Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 21:43:25 | [utiltools.rest-client-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.rest-client-utiltools) | REST Client, API Client, HTTP Client, A… | 1.0.1 | REST Client and HTTP Client for VS Code: a free API client and API tester to se… |
-| 2026-09-27 21:45:24 | [codectyl.virtual-device](https://marketplace.visualstudio.com/items?itemName=codectyl.virtual-device) | Virtual Device | 0.1.0 | Run and control Android virtual devices inside VS Code. |
-| 2026-09-27 22:16:11 | [zainzafar90.comment-sidecar](https://marketplace.visualstudio.com/items?itemName=zainzafar90.comment-sidecar) | Comment Sidecar | 0.2.0 | Per-line comments in sibling .comment patches. Hover context, line tracking, re… |
+| 2026-09-27 22:23:26 | [MidSix.doki-wallpaper-carousel](https://marketplace.visualstudio.com/items?itemName=MidSix.doki-wallpaper-carousel) | Wallpaper Carousel for Doki Theme | 1.0.0 | Unofficial companion for the Doki Theme: flip your animated wallpaper through a… |
+| 2026-09-27 22:44:00 | [specir.specc-vscode](https://marketplace.visualstudio.com/items?itemName=specir.specc-vscode) | SpecCompiler Preview | 0.1.2 | Live HTML/PDF preview of SpecCompiler projects: rebuilds on save and refreshes… |
+| 2026-09-27 22:51:02 | [Norhaven.jolt](https://marketplace.visualstudio.com/items?itemName=Norhaven.jolt) | Jolt Language | 1.0.1 | A friendly way of transforming JSON into different JSON. |
+| 2026-09-27 22:54:14 | [GeorgeDorn.AI-brain-surgeon](https://marketplace.visualstudio.com/items?itemName=GeorgeDorn.AI-brain-surgeon) | AI Brain Surgeon | 0.0.20 | Manually edit LLM session contexts, instead of relying on lossy and imprecise L… |
+| 2026-09-27 23:10:20 | [saiashirwad.tandem](https://marketplace.visualstudio.com/items?itemName=saiashirwad.tandem) | Tandem | 0.0.1 | Annotate code as you read, copy the annotations as Markdown, and follow and rev… |
+| 2026-09-27 23:10:25 | [IuriPavani.plaintext-formatter](https://marketplace.visualstudio.com/items?itemName=IuriPavani.plaintext-formatter) | Plaintext Formatter | 0.1.0 | Paste. Format. Done. Automatically detect and safely format code in unsaved Pla… |
 
 ## Data source
 
