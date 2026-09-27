@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T19:18:46.49Z,MJEvansDev.chevron,MJEvansDev,"Chevron — Compare With Branch, IntelliJ-style",1.0.1,"Compare With Branch for VS Code, IntelliJ-style: diff your working tree against any branch, tag or commit, and take changes across hunk by hunk. No account, no telemetry."
+2026-09-27T19:31:01.817Z,shivwakchaure.threadlens,shivwakchaure,ThreadLens: AI Thread Dump Analysis,0.0.2,"Analyze Java thread dumps and detect deadlocks, with AI integration."
+2026-09-27T19:34:22.17Z,chaiwithcode.xbridge,chaiwithcode,XBridge,1.4.1,"Build, test, and run Xcode projects from VS Code—with simulator, device, Test Explorer, and AI agent tools."
+2026-09-27T19:58:36.663Z,theosylvestre.preflight-tf-aws,theosylvestre,Preflight — Terraform Plan Viewer for AWS,0.1.0,"Visualizes Terraform plans and states of AWS infrastructure (`terraform show -json`, `terraform.tfstate`): summary, filters, per-resource diff and a relationship / permission graph."
+2026-09-27T20:00:24.283Z,mashurr.dynamic-liveplot,mashurr,Dynamic Liveplot,0.1.0,"Plot any data file, live or static, with any chart type."
+2026-09-27T20:01:26.41Z,bitlyne.bitlyne-ide,bitlyne,Bitlyne IDE,0.1.0,"Agent for Bitlyne packages, web apps, and mobile apps. Sync keeps shipped packages, versions, and docs on disk."
+2026-09-27T20:05:42.347Z,abogoyavlensky.quickdiff,abogoyavlensky,QuickDiff,0.1.1,"A minimal, keyboard-first diff viewer for VS Code"
+2026-09-27T20:07:22.26Z,Exaland.file-translator,Exaland,Traducteur de fichiers,0.1.4,"Traduisez vos fichiers de langue PHP, JSON et texte avec aperçu des modifications."
