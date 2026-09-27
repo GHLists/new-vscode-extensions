@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 16:19 UTC
+## Latest list — 2026-09-27 17:19 UTC
 
-New extensions published between 2026-09-27 14:19 UTC and 2026-09-27 16:19 UTC.
+New extensions published between 2026-09-27 15:19 UTC and 2026-09-27 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T16-19-31-594326Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T17-19-38-947731Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 15:21:30 | [one-byok.one-byok](https://marketplace.visualstudio.com/items?itemName=one-byok.one-byok) | One-BYOK — OpenAI-Compatible Provider | 0.4.0 | Bring your own OpenAI-compatible API provider to VS Code Chat. Configure a Base… |
-| 2026-09-27 15:30:16 | [janajithd.streak-snippets](https://marketplace.visualstudio.com/items?itemName=janajithd.streak-snippets) | Streak Snippets | 1.0.0 | Snippets, commands, and developer productivity tools for the Streak.js framework |
-| 2026-09-27 15:30:27 | [oririfai.laster](https://marketplace.visualstudio.com/items?itemName=oririfai.laster) | Laster | 0.3.0 | Review code changes made by AI agents (or anything that isn't you): green/red h… |
-| 2026-09-27 15:33:23 | [cedernaes.stgit-revived](https://marketplace.visualstudio.com/items?itemName=cedernaes.stgit-revived) | StGit Revived | 1.0.0 | Git patch management tool using StGit. Actively maintained fork of srydh/vscode… |
-| 2026-09-27 15:37:05 | [VolkanUnsal.relative-diagrams](https://marketplace.visualstudio.com/items?itemName=VolkanUnsal.relative-diagrams) | Relative Diagrams | 0.1.0 | Renders Reladraw diagrams in the VS Code Markdown preview |
-| 2026-09-27 15:51:59 | [lilinhuang.cloudy-canvas-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.cloudy-canvas-theme) | Cloudy Canvas Theme | 1.0.0 | A calm lavender VS Code theme inspired by soft clouds on a blank canvas. Light… |
-| 2026-09-27 15:52:07 | [ReadyStack.terraform-provider-pin-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.terraform-provider-pin-lint) | Terraform Provider Pin Lint | 1.0.0 | Finds unpinned providers, missing source addresses and floating module refs in… |
-| 2026-09-27 15:52:25 | [ReadyStack.fedramp-oscal-ssp-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.fedramp-oscal-ssp-lint) | FedRAMP OSCAL SSP Lint | 1.0.0 | Validates a FedRAMP OSCAL system security plan JSON in your editor: required as… |
-| 2026-09-27 15:54:09 | [VinceGoSoftware.fsm-editor](https://marketplace.visualstudio.com/items?itemName=VinceGoSoftware.fsm-editor) | FSM Editor — UML State Machines | 0.1.1 | Visual editor to create, edit and visualize UML 2.5.1 state machines (composite… |
-| 2026-09-27 16:04:35 | [TitanSystems-DE.siebel-escript-dbger](https://marketplace.visualstudio.com/items?itemName=TitanSystems-DE.siebel-escript-dbger) | Siebel eScript-Debugger | 0.1.0 | Debug and execute Siebel eScript files through Oracle's Siebel Java Data Bean. |
-| 2026-09-27 16:10:23 | [suedasen.querylens-java](https://marketplace.visualstudio.com/items?itemName=suedasen.querylens-java) | QueryLens for Java | 0.1.0 | See the SQL queries your Spring Boot endpoints really execute. |
+| 2026-09-27 16:41:11 | [KudoEngineer.kudoengineer-angular-toolkit](https://marketplace.visualstudio.com/items?itemName=KudoEngineer.kudoengineer-angular-toolkit) | KudoEngineer Angular Toolkit | 0.0.1 | Developer toolkit for Angular developers with generators, snippets, project uti… |
+| 2026-09-27 16:45:08 | [StefanSteinert.reveal-repo](https://marketplace.visualstudio.com/items?itemName=StefanSteinert.reveal-repo) | Reveal Repo | 0.1.0 | Reveal the Git repository for the active file in VS Code's Source Control view |
+| 2026-09-27 16:54:30 | [oisee.open-steamgate](https://marketplace.visualstudio.com/items?itemName=oisee.open-steamgate) | open-steamgate: local ABAP server | 0.2.1122 | A local ABAP application server in VS Code with OData, Fiori, ABAP Unit and deb… |
+| 2026-09-27 17:07:35 | [Bannysukumar2255.extension-security-inspector](https://marketplace.visualstudio.com/items?itemName=Bannysukumar2255.extension-security-inspector) | Extension Security Inspector | 0.1.0 | Understand what your VS Code extensions can do. Inspect extension metadata, cap… |
+| 2026-09-27 17:09:25 | [LearnWithEhasun.next-js-file-detector](https://marketplace.visualstudio.com/items?itemName=LearnWithEhasun.next-js-file-detector) | next.js file detector | 0.0.1 | Automatically generates Next.js page components when page.tsx or page.jsx files… |
+| 2026-09-27 17:11:37 | [JadTraboulsi.copy-for-llm-plus](https://marketplace.visualstudio.com/items?itemName=JadTraboulsi.copy-for-llm-plus) | CopyForLlm+ | 1.0.0 | Copies selected files and folders - structure and content - to the clipboard, f… |
+| 2026-09-27 17:14:22 | [orfadida.advanced-line-range-selection](https://marketplace.visualstudio.com/items?itemName=orfadida.advanced-line-range-selection) | Advanced Line Range Selection | 1.1.0 | Select text ranges using line numbers with character, column, or proportional p… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T16:41:11.943Z,KudoEngineer.kudoengineer-angular-toolkit,KudoEngineer,KudoEngineer Angular Toolkit,0.0.1,"Developer toolkit for Angular developers with generators, snippets, project utilities, and productivity features."
+2026-09-27T16:45:08.08Z,StefanSteinert.reveal-repo,StefanSteinert,Reveal Repo,0.1.0,Reveal the Git repository for the active file in VS Code's Source Control view
+2026-09-27T16:54:30.467Z,oisee.open-steamgate,oisee,open-steamgate: local ABAP server,0.2.1122,"A local ABAP application server in VS Code with OData, Fiori, ABAP Unit and debugging"
+2026-09-27T17:07:35.39Z,Bannysukumar2255.extension-security-inspector,Bannysukumar2255,Extension Security Inspector,0.1.0,"Understand what your VS Code extensions can do. Inspect extension metadata, capabilities, contribution points, and security-relevant indicators locally."
+2026-09-27T17:09:25.513Z,LearnWithEhasun.next-js-file-detector,LearnWithEhasun,next.js file detector,0.0.1,Automatically generates Next.js page components when page.tsx or page.jsx files are created inside the app directory.
+2026-09-27T17:11:37.363Z,JadTraboulsi.copy-for-llm-plus,JadTraboulsi,CopyForLlm+,1.0.0,"Copies selected files and folders - structure and content - to the clipboard, formatted for pasting into LLMs, with sensitive-file exclusion."
+2026-09-27T17:14:22.697Z,orfadida.advanced-line-range-selection,orfadida,Advanced Line Range Selection,1.1.0,"Select text ranges using line numbers with character, column, or proportional positions, negative indexing, Unicode grapheme-aware boundaries, and configurable snapping."
