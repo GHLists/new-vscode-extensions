@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T17:22:30.863Z,ZeroStudio.cdev-lang,ZeroStudio,CDev Language,2.0.0,"Official CDev support for VS Code - a simple, multi-target programming language"
+2026-09-27T17:43:57.023Z,CharlesGBOYOU.git-push-reminder-charlesgboyou,CharlesGBOYOU,Git Push Reminder by CharlesGBOYOU,0.0.1,Rappels de commit et de push par depot Git.
+2026-09-27T17:44:07.69Z,kcevib.vsturbo,kcevib,VS Turbo,0.4.0,"VS Turbo — Diagnose and reduce latency in navigation/search workflows, warmup projects, and local indexing."
+2026-09-27T17:56:02.23Z,Moovendhan-the-cybertechmind.md2slides,Moovendhan-the-cybertechmind,md2slides — Markdown Slides,0.1.0,"Open Markdown decks as slides: live preview, draggable components, customizer and presenter mode, powered by the md2slides engine."
+2026-09-27T18:03:27.957Z,azkar-guard.azkar-guard,azkar-guard,Azkar Guard — حارس الأذكار,0.2.0,"Keeps reminding you until your morning and evening Azkar are complete, right inside VS Code."
+2026-09-27T18:07:09.413Z,oub.open-term,oub,Open Term,0.0.1,Adds a button to the status bar that opens the integrated terminal.
+2026-09-27T18:12:41.05Z,utiltools.sqlite-viewer-utiltools,utiltools,SQLite Viewer & Editor by UtilTools,1.0.0,"SQLite Viewer and SQLite Editor for VS Code: open .db, .sqlite, .sqlite3 and .db3 files to browse, filter, sort and edit tables in a fast database viewer, DB browser and database explorer. Run SQL queries, edit the schema, export to CSV, JSON or SQL, compare databases and view ER diagrams. A DB Brow"
+2026-09-27T18:13:36.173Z,AndrewBenz.offramp,AndrewBenz,Offramp: modern .NET friendly code,0.15.0,"Keeps new code in .NET Framework projects ready for .NET 8/10: flags APIs modern .NET lacks, and moves classes that need nothing from .NET Framework to a portable project."

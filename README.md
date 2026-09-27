@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 17:19 UTC
+## Latest list — 2026-09-27 18:21 UTC
 
-New extensions published between 2026-09-27 15:19 UTC and 2026-09-27 17:19 UTC.
+New extensions published between 2026-09-27 16:21 UTC and 2026-09-27 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T17-19-38-947731Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T18-21-01-307364Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 16:41:11 | [KudoEngineer.kudoengineer-angular-toolkit](https://marketplace.visualstudio.com/items?itemName=KudoEngineer.kudoengineer-angular-toolkit) | KudoEngineer Angular Toolkit | 0.0.1 | Developer toolkit for Angular developers with generators, snippets, project uti… |
-| 2026-09-27 16:45:08 | [StefanSteinert.reveal-repo](https://marketplace.visualstudio.com/items?itemName=StefanSteinert.reveal-repo) | Reveal Repo | 0.1.0 | Reveal the Git repository for the active file in VS Code's Source Control view |
-| 2026-09-27 16:54:30 | [oisee.open-steamgate](https://marketplace.visualstudio.com/items?itemName=oisee.open-steamgate) | open-steamgate: local ABAP server | 0.2.1122 | A local ABAP application server in VS Code with OData, Fiori, ABAP Unit and deb… |
-| 2026-09-27 17:07:35 | [Bannysukumar2255.extension-security-inspector](https://marketplace.visualstudio.com/items?itemName=Bannysukumar2255.extension-security-inspector) | Extension Security Inspector | 0.1.0 | Understand what your VS Code extensions can do. Inspect extension metadata, cap… |
-| 2026-09-27 17:09:25 | [LearnWithEhasun.next-js-file-detector](https://marketplace.visualstudio.com/items?itemName=LearnWithEhasun.next-js-file-detector) | next.js file detector | 0.0.1 | Automatically generates Next.js page components when page.tsx or page.jsx files… |
-| 2026-09-27 17:11:37 | [JadTraboulsi.copy-for-llm-plus](https://marketplace.visualstudio.com/items?itemName=JadTraboulsi.copy-for-llm-plus) | CopyForLlm+ | 1.0.0 | Copies selected files and folders - structure and content - to the clipboard, f… |
-| 2026-09-27 17:14:22 | [orfadida.advanced-line-range-selection](https://marketplace.visualstudio.com/items?itemName=orfadida.advanced-line-range-selection) | Advanced Line Range Selection | 1.1.0 | Select text ranges using line numbers with character, column, or proportional p… |
+| 2026-09-27 17:22:30 | [ZeroStudio.cdev-lang](https://marketplace.visualstudio.com/items?itemName=ZeroStudio.cdev-lang) | CDev Language | 2.0.0 | Official CDev support for VS Code - a simple, multi-target programming language |
+| 2026-09-27 17:43:57 | [CharlesGBOYOU.git-push-reminder-charlesgboyou](https://marketplace.visualstudio.com/items?itemName=CharlesGBOYOU.git-push-reminder-charlesgboyou) | Git Push Reminder by CharlesGBOYOU | 0.0.1 | Rappels de commit et de push par depot Git. |
+| 2026-09-27 17:44:07 | [kcevib.vsturbo](https://marketplace.visualstudio.com/items?itemName=kcevib.vsturbo) | VS Turbo | 0.4.0 | VS Turbo — Diagnose and reduce latency in navigation/search workflows, warmup p… |
+| 2026-09-27 17:56:02 | [Moovendhan-the-cybertechmind.md2slides](https://marketplace.visualstudio.com/items?itemName=Moovendhan-the-cybertechmind.md2slides) | md2slides — Markdown Slides | 0.1.0 | Open Markdown decks as slides: live preview, draggable components, customizer a… |
+| 2026-09-27 18:03:27 | [azkar-guard.azkar-guard](https://marketplace.visualstudio.com/items?itemName=azkar-guard.azkar-guard) | Azkar Guard — حارس الأذكار | 0.2.0 | Keeps reminding you until your morning and evening Azkar are complete, right in… |
+| 2026-09-27 18:07:09 | [oub.open-term](https://marketplace.visualstudio.com/items?itemName=oub.open-term) | Open Term | 0.0.1 | Adds a button to the status bar that opens the integrated terminal. |
+| 2026-09-27 18:12:41 | [utiltools.sqlite-viewer-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.sqlite-viewer-utiltools) | SQLite Viewer & Editor by UtilTools | 1.0.0 | SQLite Viewer and SQLite Editor for VS Code: open .db, .sqlite, .sqlite3 and .d… |
+| 2026-09-27 18:13:36 | [AndrewBenz.offramp](https://marketplace.visualstudio.com/items?itemName=AndrewBenz.offramp) | Offramp: modern .NET friendly code | 0.15.0 | Keeps new code in .NET Framework projects ready for .NET 8/10: flags APIs moder… |
 
 ## Data source
 
