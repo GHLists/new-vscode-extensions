@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T18:23:46.883Z,utiltools.excel-csv-editor-utiltools,utiltools,Sheet Grid by UtilTools,1.0.0,"Excel viewer and CSV editor for VS Code: open, preview and edit XLSX, XLS, CSV, TSV and ODS spreadsheets in a fast data grid with sort, filter, freeze header, column stats and pivot. Convert CSV to JSON, SQL and Markdown, keep CSV diffs small, and save back to Excel with formatting and formulas inta"
+2026-09-27T18:25:59.607Z,c0dag.pattern-shadow,c0dag,Pattern Shadow,0.1.0,Moldes de design patterns para estudo: shadow do código de cada arquivo e checklist dos arquivos do padrão.
+2026-09-27T18:34:30.707Z,weixu.wx-vsce-makefile,weixu,Makefile,0.2.5,Makefile (GNU Make) editing — syntax highlighting and outline powered by a Rust analyzer compiled to WebAssembly.
+2026-09-27T19:04:16.997Z,RojasGonzalo007.aed-pseudocodigo,RojasGonzalo007,AED Pseudocódigo (UTN-FRRe),0.11.1,"Resaltado, diagnósticos y ejecución del pseudocódigo de Algoritmos y Estructuras de Datos (UTN-FRRe)."
+2026-09-27T19:11:20.237Z,AndromeralSystems.functionlanguage,AndromeralSystems,FunctionLanguage,1.1.0,"Lenguaje de mods y FunctionPacks para CreativeImagination: personalización de cualquier registro de FunctionComponents y FunctionTags, bloques, comandos y paquetes .cipak."
+2026-09-27T19:17:48.87Z,NoesaAI.noesa-code,NoesaAI,Noesa Code,0.1.6,Noesa coding agent for your workspace. Local testing preview.

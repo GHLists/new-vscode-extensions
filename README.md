@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 18:21 UTC
+## Latest list — 2026-09-27 19:21 UTC
 
-New extensions published between 2026-09-27 16:21 UTC and 2026-09-27 18:21 UTC.
+New extensions published between 2026-09-27 17:21 UTC and 2026-09-27 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T18-21-01-307364Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T19-21-49-62313Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 17:22:30 | [ZeroStudio.cdev-lang](https://marketplace.visualstudio.com/items?itemName=ZeroStudio.cdev-lang) | CDev Language | 2.0.0 | Official CDev support for VS Code - a simple, multi-target programming language |
-| 2026-09-27 17:43:57 | [CharlesGBOYOU.git-push-reminder-charlesgboyou](https://marketplace.visualstudio.com/items?itemName=CharlesGBOYOU.git-push-reminder-charlesgboyou) | Git Push Reminder by CharlesGBOYOU | 0.0.1 | Rappels de commit et de push par depot Git. |
-| 2026-09-27 17:44:07 | [kcevib.vsturbo](https://marketplace.visualstudio.com/items?itemName=kcevib.vsturbo) | VS Turbo | 0.4.0 | VS Turbo — Diagnose and reduce latency in navigation/search workflows, warmup p… |
-| 2026-09-27 17:56:02 | [Moovendhan-the-cybertechmind.md2slides](https://marketplace.visualstudio.com/items?itemName=Moovendhan-the-cybertechmind.md2slides) | md2slides — Markdown Slides | 0.1.0 | Open Markdown decks as slides: live preview, draggable components, customizer a… |
-| 2026-09-27 18:03:27 | [azkar-guard.azkar-guard](https://marketplace.visualstudio.com/items?itemName=azkar-guard.azkar-guard) | Azkar Guard — حارس الأذكار | 0.2.0 | Keeps reminding you until your morning and evening Azkar are complete, right in… |
-| 2026-09-27 18:07:09 | [oub.open-term](https://marketplace.visualstudio.com/items?itemName=oub.open-term) | Open Term | 0.0.1 | Adds a button to the status bar that opens the integrated terminal. |
-| 2026-09-27 18:12:41 | [utiltools.sqlite-viewer-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.sqlite-viewer-utiltools) | SQLite Viewer & Editor by UtilTools | 1.0.0 | SQLite Viewer and SQLite Editor for VS Code: open .db, .sqlite, .sqlite3 and .d… |
-| 2026-09-27 18:13:36 | [AndrewBenz.offramp](https://marketplace.visualstudio.com/items?itemName=AndrewBenz.offramp) | Offramp: modern .NET friendly code | 0.15.0 | Keeps new code in .NET Framework projects ready for .NET 8/10: flags APIs moder… |
+| 2026-09-27 18:23:46 | [utiltools.excel-csv-editor-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.excel-csv-editor-utiltools) | Sheet Grid by UtilTools | 1.0.0 | Excel viewer and CSV editor for VS Code: open, preview and edit XLSX, XLS, CSV,… |
+| 2026-09-27 18:25:59 | [c0dag.pattern-shadow](https://marketplace.visualstudio.com/items?itemName=c0dag.pattern-shadow) | Pattern Shadow | 0.1.0 | Moldes de design patterns para estudo: shadow do código de cada arquivo e check… |
+| 2026-09-27 18:34:30 | [weixu.wx-vsce-makefile](https://marketplace.visualstudio.com/items?itemName=weixu.wx-vsce-makefile) | Makefile | 0.2.5 | Makefile (GNU Make) editing — syntax highlighting and outline powered by a Rust… |
+| 2026-09-27 19:04:16 | [RojasGonzalo007.aed-pseudocodigo](https://marketplace.visualstudio.com/items?itemName=RojasGonzalo007.aed-pseudocodigo) | AED Pseudocódigo (UTN-FRRe) | 0.11.1 | Resaltado, diagnósticos y ejecución del pseudocódigo de Algoritmos y Estructura… |
+| 2026-09-27 19:11:20 | [AndromeralSystems.functionlanguage](https://marketplace.visualstudio.com/items?itemName=AndromeralSystems.functionlanguage) | FunctionLanguage | 1.1.0 | Lenguaje de mods y FunctionPacks para CreativeImagination: personalización de c… |
+| 2026-09-27 19:17:48 | [NoesaAI.noesa-code](https://marketplace.visualstudio.com/items?itemName=NoesaAI.noesa-code) | Noesa Code | 0.1.6 | Noesa coding agent for your workspace. Local testing preview. |
 
 ## Data source
 
