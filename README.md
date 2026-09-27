@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 10:20 UTC
+## Latest list — 2026-09-27 11:21 UTC
 
-New extensions published between 2026-09-27 08:20 UTC and 2026-09-27 10:20 UTC.
+New extensions published between 2026-09-27 09:21 UTC and 2026-09-27 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T10-20-49-559175Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T11-21-11-422402Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 09:21:28 | [CoderrAB.kiwi-agent](https://marketplace.visualstudio.com/items?itemName=CoderrAB.kiwi-agent) | KiwiAgent | 0.1.0 | Coding sessions in VS Code with a choice of model engine per session. |
-| 2026-09-27 09:39:04 | [sohophp.php-companion-symfony](https://marketplace.visualstudio.com/items?itemName=sohophp.php-companion-symfony) | SoPHP Symfony | 0.4.10 | Precise Symfony services, routes, events and controller integration for SoPHP. |
-| 2026-09-27 09:40:04 | [ikoloper.pdf-to-txt-batch](https://marketplace.visualstudio.com/items?itemName=ikoloper.pdf-to-txt-batch) | PDF to TXT Batch | 0.3.0 | Convert PDF files and folders to clean TXT output directly from the Explorer. |
-| 2026-09-27 09:52:58 | [AIPass.aipass](https://marketplace.visualstudio.com/items?itemName=AIPass.aipass) | AI Pass | 0.1.0 | Use Claude, GPT, Gemini, and more in VS Code chat with one AI Pass account. Sig… |
-| 2026-09-27 09:53:41 | [fanghua.zcode-desktop-chat](https://marketplace.visualstudio.com/items?itemName=fanghua.zcode-desktop-chat) | ZCode Chat | 0.1.0 | Chat with ZCode agent directly from VS Code, reusing desktop login, models, and… |
-| 2026-09-27 09:58:51 | [Ihor.sops-memory-editor](https://marketplace.visualstudio.com/items?itemName=Ihor.sops-memory-editor) | SOPS Memory Editor | 0.1.1 | Config-aware SOPS encryption and native-editor decryption, without decrypted si… |
-| 2026-09-27 10:02:38 | [EndCom.mythis](https://marketplace.visualstudio.com/items?itemName=EndCom.mythis) | Mythis Language | 0.0.1 | Mythis is a simple and readable programming language with modern syntax and bui… |
-| 2026-09-27 10:10:18 | [vortiago.textscene-inspector](https://marketplace.visualstudio.com/items?itemName=vortiago.textscene-inspector) | TextScene Inspector — Godot .tscn Previ… | 1.0.0 | Live 3D preview of Godot .tscn scene files in VS Code — no Godot install requir… |
-| 2026-09-27 10:12:30 | [SadeepWeerasinghe.intellij-find](https://marketplace.visualstudio.com/items?itemName=SadeepWeerasinghe.intellij-find) | IntelliJ Find | 0.1.0 | IntelliJ-style Find in Files (⇧⌘F) and Go to File (⇧⌘N) popups with live result… |
+| 2026-09-27 10:16:05 | [Loopstates.linten-vscode](https://marketplace.visualstudio.com/items?itemName=Loopstates.linten-vscode) | Linten: llms.txt Validator & Scaffolder | 1.0.5 | Validation, link checking, token estimation, and scaffolding for llms.txt and l… |
+| 2026-09-27 10:16:14 | [delaksan-sritharan.conductor-vscode](https://marketplace.visualstudio.com/items?itemName=delaksan-sritharan.conductor-vscode) | Conductor – Service Orchestrator | 0.1.1 | Start your dev services in dependency order, each one only once the previous is… |
+| 2026-09-27 10:32:24 | [DeiutzEntertainment.skill-manager-deiutz](https://marketplace.visualstudio.com/items?itemName=DeiutzEntertainment.skill-manager-deiutz) | Skill Manager by Deiutz | 0.0.1 | A VS Code extension for managing skills. |
+| 2026-09-27 10:40:55 | [lilinhuang.space-slate-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.space-slate-theme) | Space Slate Theme | 1.0.0 | A calm slate gray VS Code theme with a lavender-tinted light variant and a deep… |
+| 2026-09-27 11:09:35 | [etherener.deepcommits](https://marketplace.visualstudio.com/items?itemName=etherener.deepcommits) | DeepCommits | 0.1.0 | Generate Git commit messages from your staged changes using the DeepSeek API. |
 
 ## Data source
 

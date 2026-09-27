@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T10:16:05.8Z,Loopstates.linten-vscode,Loopstates,Linten: llms.txt Validator & Scaffolder,1.0.5,"Validation, link checking, token estimation, and scaffolding for llms.txt and llms-full.txt files."
+2026-09-27T10:16:14.583Z,delaksan-sritharan.conductor-vscode,delaksan-sritharan,Conductor – Service Orchestrator,0.1.1,"Start your dev services in dependency order, each one only once the previous is actually ready."
+2026-09-27T10:32:24.433Z,DeiutzEntertainment.skill-manager-deiutz,DeiutzEntertainment,Skill Manager by Deiutz,0.0.1,A VS Code extension for managing skills.
+2026-09-27T10:40:55.853Z,lilinhuang.space-slate-theme,lilinhuang,Space Slate Theme,1.0.0,A calm slate gray VS Code theme with a lavender-tinted light variant and a deep indigo dark variant.
+2026-09-27T11:09:35.383Z,etherener.deepcommits,etherener,DeepCommits,0.1.0,Generate Git commit messages from your staged changes using the DeepSeek API.
