@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T15:21:30.47Z,one-byok.one-byok,one-byok,One-BYOK — OpenAI-Compatible Provider,0.4.0,"Bring your own OpenAI-compatible API provider to VS Code Chat. Configure a Base URL and API Key, and One-BYOK discovers available models automatically and detects vision capabilities per model."
+2026-09-27T15:30:16.43Z,janajithd.streak-snippets,janajithd,Streak Snippets,1.0.0,"Snippets, commands, and developer productivity tools for the Streak.js framework"
+2026-09-27T15:30:27.287Z,oririfai.laster,oririfai,Laster,0.3.0,"Review code changes made by AI agents (or anything that isn't you): green/red highlights, then Approve or Revert. No git required."
+2026-09-27T15:33:23.79Z,cedernaes.stgit-revived,cedernaes,StGit Revived,1.0.0,Git patch management tool using StGit. Actively maintained fork of srydh/vscode-stgit.
+2026-09-27T15:37:05.987Z,VolkanUnsal.relative-diagrams,VolkanUnsal,Relative Diagrams,0.1.0,Renders Reladraw diagrams in the VS Code Markdown preview
+2026-09-27T15:51:59.297Z,lilinhuang.cloudy-canvas-theme,lilinhuang,Cloudy Canvas Theme,1.0.0,"A calm lavender VS Code theme inspired by soft clouds on a blank canvas. Light & dark variants, gentle contrast."
+2026-09-27T15:52:07.86Z,ReadyStack.terraform-provider-pin-lint,ReadyStack,Terraform Provider Pin Lint,1.0.0,"Finds unpinned providers, missing source addresses and floating module refs in .tf files — the lines that let a clean terraform init pull a new major."
+2026-09-27T15:52:25.25Z,ReadyStack.fedramp-oscal-ssp-lint,ReadyStack,FedRAMP OSCAL SSP Lint,1.0.0,"Validates a FedRAMP OSCAL system security plan JSON in your editor: required assemblies, RFC4122 UUID references, control-id format, timezone-stamped dates and the annual update clock."
+2026-09-27T15:54:09.327Z,VinceGoSoftware.fsm-editor,VinceGoSoftware,FSM Editor — UML State Machines,0.1.1,"Visual editor to create, edit and visualize UML 2.5.1 state machines (composite/orthogonal states, submachines with connection point references, all pseudostates, protocol state machines) stored as standard XMI with UML DI layout, with a toolbox, validation and SVG export."
+2026-09-27T16:04:35.76Z,TitanSystems-DE.siebel-escript-dbger,TitanSystems-DE,Siebel eScript-Debugger,0.1.0,Debug and execute Siebel eScript files through Oracle's Siebel Java Data Bean.
+2026-09-27T16:10:23.61Z,suedasen.querylens-java,suedasen,QueryLens for Java,0.1.0,See the SQL queries your Spring Boot endpoints really execute.

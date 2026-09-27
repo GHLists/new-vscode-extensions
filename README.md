@@ -12,23 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 15:19 UTC
+## Latest list — 2026-09-27 16:19 UTC
 
-New extensions published between 2026-09-27 13:19 UTC and 2026-09-27 15:19 UTC.
+New extensions published between 2026-09-27 14:19 UTC and 2026-09-27 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T15-19-25-833205Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T16-19-31-594326Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 14:28:20 | [yfprojects.vscode-isabelle](https://marketplace.visualstudio.com/items?itemName=yfprojects.vscode-isabelle) | Isabelle/PIDE | 2026.9.0 | Isabelle proof assistant support for unmodified VS Code, on top of Isabelle's o… |
-| 2026-09-27 14:33:44 | [aitranslate.ai-hover-translate](https://marketplace.visualstudio.com/items?itemName=aitranslate.ai-hover-translate) | AI Hover Translate | 0.4.2 | AI-powered hover documentation translation for any language (Python, JS/TS, Go,… |
-| 2026-09-27 14:35:14 | [PracticalModules.wordpress-php8-upgrade-inventory](https://marketplace.visualstudio.com/items?itemName=PracticalModules.wordpress-php8-upgrade-inventory) | WordPress PHP 8 Upgrade Inventory | 1.0.0 | Scan a WordPress codebase and list what in your own plugins and themes breaks,… |
-| 2026-09-27 14:44:12 | [LJSancibrian.secore-formater](https://marketplace.visualstudio.com/items?itemName=LJSancibrian.secore-formater) | Secore Formatter | 2.0.0 | Formatter for PHP, mixed PHP/HTML templates, HTML, CSS/SCSS/LESS and SQL, with… |
-| 2026-09-27 14:54:47 | [Lazenca.csv-lens](https://marketplace.visualstudio.com/items?itemName=Lazenca.csv-lens) | CSV Lens | 0.1.0 | A single CSV / TSV reading view for Visual Studio Code. |
-| 2026-09-27 15:07:31 | [ReoX86.graphviz-diagram-preview](https://marketplace.visualstudio.com/items?itemName=ReoX86.graphviz-diagram-preview) | Graphviz Diagram Preview | 0.1.0 | Adds Graphviz (DOT) support to VS Code's built-in Markdown preview |
-| 2026-09-27 15:10:32 | [monty-nabil.suiteql-query-editor](https://marketplace.visualstudio.com/items?itemName=monty-nabil.suiteql-query-editor) | SuiteQL Query Editor | 0.1.0 | Connect to NetSuite accounts and run SuiteQL queries, browse the record schema,… |
-| 2026-09-27 15:13:26 | [VictoriaBSagady.teide-theme](https://marketplace.visualstudio.com/items?itemName=VictoriaBSagady.teide-theme) | Teide Theme | 0.1.0 | VS Code port of teide.nvim — Darker, Dark, Dimmed and Light |
-| 2026-09-27 15:14:50 | [luxa-ecosystem.lx-lang](https://marketplace.visualstudio.com/items?itemName=luxa-ecosystem.lx-lang) | LuxaLang - LX Language Tools | 0.2.2 | Language tooling, syntax highlighting and snippets for LX |
+| 2026-09-27 15:21:30 | [one-byok.one-byok](https://marketplace.visualstudio.com/items?itemName=one-byok.one-byok) | One-BYOK — OpenAI-Compatible Provider | 0.4.0 | Bring your own OpenAI-compatible API provider to VS Code Chat. Configure a Base… |
+| 2026-09-27 15:30:16 | [janajithd.streak-snippets](https://marketplace.visualstudio.com/items?itemName=janajithd.streak-snippets) | Streak Snippets | 1.0.0 | Snippets, commands, and developer productivity tools for the Streak.js framework |
+| 2026-09-27 15:30:27 | [oririfai.laster](https://marketplace.visualstudio.com/items?itemName=oririfai.laster) | Laster | 0.3.0 | Review code changes made by AI agents (or anything that isn't you): green/red h… |
+| 2026-09-27 15:33:23 | [cedernaes.stgit-revived](https://marketplace.visualstudio.com/items?itemName=cedernaes.stgit-revived) | StGit Revived | 1.0.0 | Git patch management tool using StGit. Actively maintained fork of srydh/vscode… |
+| 2026-09-27 15:37:05 | [VolkanUnsal.relative-diagrams](https://marketplace.visualstudio.com/items?itemName=VolkanUnsal.relative-diagrams) | Relative Diagrams | 0.1.0 | Renders Reladraw diagrams in the VS Code Markdown preview |
+| 2026-09-27 15:51:59 | [lilinhuang.cloudy-canvas-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.cloudy-canvas-theme) | Cloudy Canvas Theme | 1.0.0 | A calm lavender VS Code theme inspired by soft clouds on a blank canvas. Light… |
+| 2026-09-27 15:52:07 | [ReadyStack.terraform-provider-pin-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.terraform-provider-pin-lint) | Terraform Provider Pin Lint | 1.0.0 | Finds unpinned providers, missing source addresses and floating module refs in… |
+| 2026-09-27 15:52:25 | [ReadyStack.fedramp-oscal-ssp-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.fedramp-oscal-ssp-lint) | FedRAMP OSCAL SSP Lint | 1.0.0 | Validates a FedRAMP OSCAL system security plan JSON in your editor: required as… |
+| 2026-09-27 15:54:09 | [VinceGoSoftware.fsm-editor](https://marketplace.visualstudio.com/items?itemName=VinceGoSoftware.fsm-editor) | FSM Editor — UML State Machines | 0.1.1 | Visual editor to create, edit and visualize UML 2.5.1 state machines (composite… |
+| 2026-09-27 16:04:35 | [TitanSystems-DE.siebel-escript-dbger](https://marketplace.visualstudio.com/items?itemName=TitanSystems-DE.siebel-escript-dbger) | Siebel eScript-Debugger | 0.1.0 | Debug and execute Siebel eScript files through Oracle's Siebel Java Data Bean. |
+| 2026-09-27 16:10:23 | [suedasen.querylens-java](https://marketplace.visualstudio.com/items?itemName=suedasen.querylens-java) | QueryLens for Java | 0.1.0 | See the SQL queries your Spring Boot endpoints really execute. |
 
 ## Data source
 
