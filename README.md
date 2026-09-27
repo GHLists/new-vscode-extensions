@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 09:21 UTC
+## Latest list — 2026-09-27 10:20 UTC
 
-New extensions published between 2026-09-27 07:21 UTC and 2026-09-27 09:21 UTC.
+New extensions published between 2026-09-27 08:20 UTC and 2026-09-27 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T09-21-13-123946Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T10-20-49-559175Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 08:26:19 | [sqlakit.sqlakit](https://marketplace.visualstudio.com/items?itemName=sqlakit.sqlakit) | SQLAKit | 0.1.0 | Language server for SQLAKit SQL templates. |
-| 2026-09-27 08:30:47 | [carrynote.carrynote](https://marketplace.visualstudio.com/items?itemName=carrynote.carrynote) | CarryNote | 0.0.3 | Keep a personal checklist for each workspace and return to saved code locations. |
-| 2026-09-27 08:33:34 | [KatsukenD.oracle-clean-results](https://marketplace.visualstudio.com/items?itemName=KatsukenD.oracle-clean-results) | Oracle Clean Results | 0.1.0 | A companion results viewer for Oracle SQL Developer for VS Code with clean NULL… |
-| 2026-09-27 08:46:10 | [recursivefunctions.d2mcp](https://marketplace.visualstudio.com/items?itemName=recursivefunctions.d2mcp) | D2 MCP Server | 0.5.0 | Create, edit, validate, render, and export D2 diagrams through MCP. |
-| 2026-09-27 09:00:21 | [funtohard.c-cpp-pro](https://marketplace.visualstudio.com/items?itemName=funtohard.c-cpp-pro) | C/C++ Pro | 0.1.0 | High-performance C/C++ language support, debugging, and tooling for Visual Stud… |
-| 2026-09-27 09:03:35 | [AsminGautam.i-snippet-react](https://marketplace.visualstudio.com/items?itemName=AsminGautam.i-snippet-react) | Impact's Snippets for React | 0.0.1 | Personal React and TypeScript snippets for faster development. |
-| 2026-09-27 09:09:21 | [javian-picardo-group-inc.git-tree](https://marketplace.visualstudio.com/items?itemName=javian-picardo-group-inc.git-tree) | Git Tree | 0.3.0 | A SourceTree- and GitLens-class Git client for VS Code with first-class multi-r… |
-| 2026-09-27 09:12:59 | [moon-biz-tools.muscle-tooling](https://marketplace.visualstudio.com/items?itemName=moon-biz-tools.muscle-tooling) | Muscle IDE Tools | 1.2.1 | Tools to aid you in work with Salesforce metadata files |
+| 2026-09-27 09:21:28 | [CoderrAB.kiwi-agent](https://marketplace.visualstudio.com/items?itemName=CoderrAB.kiwi-agent) | KiwiAgent | 0.1.0 | Coding sessions in VS Code with a choice of model engine per session. |
+| 2026-09-27 09:39:04 | [sohophp.php-companion-symfony](https://marketplace.visualstudio.com/items?itemName=sohophp.php-companion-symfony) | SoPHP Symfony | 0.4.10 | Precise Symfony services, routes, events and controller integration for SoPHP. |
+| 2026-09-27 09:40:04 | [ikoloper.pdf-to-txt-batch](https://marketplace.visualstudio.com/items?itemName=ikoloper.pdf-to-txt-batch) | PDF to TXT Batch | 0.3.0 | Convert PDF files and folders to clean TXT output directly from the Explorer. |
+| 2026-09-27 09:52:58 | [AIPass.aipass](https://marketplace.visualstudio.com/items?itemName=AIPass.aipass) | AI Pass | 0.1.0 | Use Claude, GPT, Gemini, and more in VS Code chat with one AI Pass account. Sig… |
+| 2026-09-27 09:53:41 | [fanghua.zcode-desktop-chat](https://marketplace.visualstudio.com/items?itemName=fanghua.zcode-desktop-chat) | ZCode Chat | 0.1.0 | Chat with ZCode agent directly from VS Code, reusing desktop login, models, and… |
+| 2026-09-27 09:58:51 | [Ihor.sops-memory-editor](https://marketplace.visualstudio.com/items?itemName=Ihor.sops-memory-editor) | SOPS Memory Editor | 0.1.1 | Config-aware SOPS encryption and native-editor decryption, without decrypted si… |
+| 2026-09-27 10:02:38 | [EndCom.mythis](https://marketplace.visualstudio.com/items?itemName=EndCom.mythis) | Mythis Language | 0.0.1 | Mythis is a simple and readable programming language with modern syntax and bui… |
+| 2026-09-27 10:10:18 | [vortiago.textscene-inspector](https://marketplace.visualstudio.com/items?itemName=vortiago.textscene-inspector) | TextScene Inspector — Godot .tscn Previ… | 1.0.0 | Live 3D preview of Godot .tscn scene files in VS Code — no Godot install requir… |
+| 2026-09-27 10:12:30 | [SadeepWeerasinghe.intellij-find](https://marketplace.visualstudio.com/items?itemName=SadeepWeerasinghe.intellij-find) | IntelliJ Find | 0.1.0 | IntelliJ-style Find in Files (⇧⌘F) and Go to File (⇧⌘N) popups with live result… |
 
 ## Data source
 

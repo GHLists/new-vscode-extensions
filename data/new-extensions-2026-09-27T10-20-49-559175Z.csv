@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T09:21:28.813Z,CoderrAB.kiwi-agent,CoderrAB,KiwiAgent,0.1.0,Coding sessions in VS Code with a choice of model engine per session.
+2026-09-27T09:39:04.637Z,sohophp.php-companion-symfony,sohophp,SoPHP Symfony,0.4.10,"Precise Symfony services, routes, events and controller integration for SoPHP."
+2026-09-27T09:40:04.953Z,ikoloper.pdf-to-txt-batch,ikoloper,PDF to TXT Batch,0.3.0,Convert PDF files and folders to clean TXT output directly from the Explorer.
+2026-09-27T09:52:58.233Z,AIPass.aipass,AIPass,AI Pass,0.1.0,"Use Claude, GPT, Gemini, and more in VS Code chat with one AI Pass account. Sign in once, no API keys to copy."
+2026-09-27T09:53:41.307Z,fanghua.zcode-desktop-chat,fanghua,ZCode Chat,0.1.0,"Chat with ZCode agent directly from VS Code, reusing desktop login, models, and sessions."
+2026-09-27T09:58:51.667Z,Ihor.sops-memory-editor,Ihor,SOPS Memory Editor,0.1.1,"Config-aware SOPS encryption and native-editor decryption, without decrypted sidecar files."
+2026-09-27T10:02:38.353Z,EndCom.mythis,EndCom,Mythis Language,0.0.1,Mythis is a simple and readable programming language with modern syntax and built-in Visual Studio Code support.
+2026-09-27T10:10:18.32Z,vortiago.textscene-inspector,vortiago,TextScene Inspector — Godot .tscn Preview,1.0.0,"Live 3D preview of Godot .tscn scene files in VS Code — no Godot install required. Renders meshes, PBR materials, lights and cameras via three.js, with a scene-tree inspector and a .tscn linter."
+2026-09-27T10:12:30.573Z,SadeepWeerasinghe.intellij-find,SadeepWeerasinghe,IntelliJ Find,0.1.0,"IntelliJ-style Find in Files (⇧⌘F) and Go to File (⇧⌘N) popups with live results, preview, and explorer-scoped search."
