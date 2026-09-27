@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T11:23:41.04Z,La-Theresa.vivado-for-vscode,La-Theresa,Vivado for VS Code,0.3.1,"Vivado projects, live Verilog diagnostics, builds, simulation and hardware programming."
+2026-09-27T11:32:32.477Z,jopro.rtl-everywhere,jopro,RTL Everywhere,1.0.12,"Fixes Arabic RTL in AGENT chat and Markdown files (CSS-only, safe for Glass UI)."
+2026-09-27T11:36:55.26Z,lorenzwalthert.styler,lorenzwalthert,{styler}: Non-Invasive Pretty Printing of R Code,0.0.3,Format R code using the {styler} R package
+2026-09-27T11:37:43.877Z,Rambots.bobgraph,Rambots,BobGraph - Workspace Visualizer,0.0.2,"VS Code extension that parses a project's code structure and renders it as an interactive graph, with click-to-view pseudocode for faster onboarding"
+2026-09-27T11:39:59.353Z,lilinhuang.luminous-morna-theme,lilinhuang,Luminous Morna Theme,1.0.1,"Warm, luminous light and dark colour themes for VS Code - cream and olive neutrals with a teal accent."
+2026-09-27T11:45:06.547Z,digitalcicada.fan-version-theme-all-f-ya,digitalcicada,"cicadaMATA""",0.0.1,cicdamata inspired UI for fellow coders. +++This is who we are now. Tear bugs from the code.+++
+2026-09-27T11:45:45.827Z,NakulJain.waiting-room,NakulJain,Break Room,0.1.1,A playful place to spend the moments while your coding agent works.
+2026-09-27T12:01:40.533Z,shangchenyu.claude-code-context-monitor,shangchenyu,Context & Quota Monitor for Claude Code,0.1.0,Shows Claude Code context window usage and 5h / 7d subscription quota in the VS Code status bar.
+2026-09-27T12:01:51.8Z,WoJake.agent-monitor-focus,WoJake,Agent Monitor: Focus & Images,0.14.0,"Track Codex, Claude Code and Cursor Agent activity, inspect evidence and images, and direct each chat's focus from your editor."
+2026-09-27T12:04:11.993Z,ultramanhu.smallbasic-tools-vsc,ultramanhu,SmallBasic for Visual Studio Code,0.1.0,SmallBasic language support for VSCode.
+2026-09-27T12:06:31.91Z,nhtera.sonde,nhtera,Sonde,1.0.0,"Language support for Sonde (.sonde) and Hurl-compatible (.hurl) request files: diagnostics, completion, hover and formatting."
+2026-09-27T12:14:47.317Z,GhostCmdr.traecn-quota,GhostCmdr,TraeCN Quota,0.1.0,非官方（Unofficial）Trae CN 积分余量查看器：在状态栏显示余额与套餐明细，支持手动与定时刷新。
