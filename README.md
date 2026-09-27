@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 20:20 UTC
+## Latest list — 2026-09-27 21:20 UTC
 
-New extensions published between 2026-09-27 18:20 UTC and 2026-09-27 20:20 UTC.
+New extensions published between 2026-09-27 19:20 UTC and 2026-09-27 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T20-20-16-989781Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T21-20-52-541189Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 19:18:46 | [MJEvansDev.chevron](https://marketplace.visualstudio.com/items?itemName=MJEvansDev.chevron) | Chevron — Compare With Branch, IntelliJ… | 1.0.1 | Compare With Branch for VS Code, IntelliJ-style: diff your working tree against… |
-| 2026-09-27 19:31:01 | [shivwakchaure.threadlens](https://marketplace.visualstudio.com/items?itemName=shivwakchaure.threadlens) | ThreadLens: AI Thread Dump Analysis | 0.0.2 | Analyze Java thread dumps and detect deadlocks, with AI integration. |
-| 2026-09-27 19:34:22 | [chaiwithcode.xbridge](https://marketplace.visualstudio.com/items?itemName=chaiwithcode.xbridge) | XBridge | 1.4.1 | Build, test, and run Xcode projects from VS Code—with simulator, device, Test E… |
-| 2026-09-27 19:58:36 | [theosylvestre.preflight-tf-aws](https://marketplace.visualstudio.com/items?itemName=theosylvestre.preflight-tf-aws) | Preflight — Terraform Plan Viewer for A… | 0.1.0 | Visualizes Terraform plans and states of AWS infrastructure (`terraform show -j… |
-| 2026-09-27 20:00:24 | [mashurr.dynamic-liveplot](https://marketplace.visualstudio.com/items?itemName=mashurr.dynamic-liveplot) | Dynamic Liveplot | 0.1.0 | Plot any data file, live or static, with any chart type. |
-| 2026-09-27 20:01:26 | [bitlyne.bitlyne-ide](https://marketplace.visualstudio.com/items?itemName=bitlyne.bitlyne-ide) | Bitlyne IDE | 0.1.0 | Agent for Bitlyne packages, web apps, and mobile apps. Sync keeps shipped packa… |
-| 2026-09-27 20:05:42 | [abogoyavlensky.quickdiff](https://marketplace.visualstudio.com/items?itemName=abogoyavlensky.quickdiff) | QuickDiff | 0.1.1 | A minimal, keyboard-first diff viewer for VS Code |
-| 2026-09-27 20:07:22 | [Exaland.file-translator](https://marketplace.visualstudio.com/items?itemName=Exaland.file-translator) | Traducteur de fichiers | 0.1.4 | Traduisez vos fichiers de langue PHP, JSON et texte avec aperçu des modificatio… |
+| 2026-09-27 20:21:02 | [utiltools.html-preview-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.html-preview-utiltools) | Live HTML Preview, Live Server, HTML Pr… | 1.0.1 | HTML preview and responsive HTML preview for VS Code: live HTML viewer with mob… |
+| 2026-09-27 20:31:10 | [lagudafuadtosin.project-problems](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.project-problems) | Project Problems | 0.1.0 | Every TypeScript error in the project in the Problems panel, including files yo… |
+| 2026-09-27 20:32:15 | [utiltools.sftp-sync-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.sftp-sync-utiltools) | SFTP Sync, Upload on Save, FTP Sync, SF… | 1.0.1 | SFTP sync and FTP sync for VS Code: upload on save, deploy to server and browse… |
+| 2026-09-27 20:33:18 | [ciro-maciel.ciro-maciel-database](https://marketplace.visualstudio.com/items?itemName=ciro-maciel.ciro-maciel-database) | Database Studio — AI Copilot, PostgreSQ… | 0.1.2 | Ultra-fast, zero-telemetry database studio with AI Copilot for VS Code. Browse… |
+| 2026-09-27 20:48:08 | [utiltools.code-screenshot-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.code-screenshot-utiltools) | CodeShot Studio by UtilTools | 1.0.0 | Code Screenshot and Code Snapshot in one click: turn selected code into beautif… |
+| 2026-09-27 20:54:15 | [Ajjayyaswamy.angular-signals-learning](https://marketplace.visualstudio.com/items?itemName=Ajjayyaswamy.angular-signals-learning) | Angular Signals Learning | 0.0.2 | A hands-on Angular Signals course with five guided lessons, TypeScript examples… |
+| 2026-09-27 20:55:39 | [Stenen.vscode-component-preview](https://marketplace.visualstudio.com/items?itemName=Stenen.vscode-component-preview) | React Component Preview (JSX/TSX) | 0.1.0 | Live in-editor preview of React components with SCSS, comment-based mock data,… |
+| 2026-09-27 21:15:47 | [sitholewb.ai-prompt-context-builder](https://marketplace.visualstudio.com/items?itemName=sitholewb.ai-prompt-context-builder) | AI Context Builder & Prompt Generator | 1.0.0 | Generate portable, dependency-aware AI prompts and source context from an exist… |
 
 ## Data source
 
