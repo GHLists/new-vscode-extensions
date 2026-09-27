@@ -12,27 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 14:21 UTC
+## Latest list — 2026-09-27 15:19 UTC
 
-New extensions published between 2026-09-27 12:21 UTC and 2026-09-27 14:21 UTC.
+New extensions published between 2026-09-27 13:19 UTC and 2026-09-27 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T14-21-34-404098Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T15-19-25-833205Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 13:20:55 | [chengbin.ai-video-creation-assistant](https://marketplace.visualstudio.com/items?itemName=chengbin.ai-video-creation-assistant) | AI视频创作助手 | 0.0.1 | AI故事剧本创作与视觉提示词生成。 |
-| 2026-09-27 13:29:46 | [vortelyn.vortelyn-devledger](https://marketplace.visualstudio.com/items?itemName=vortelyn.vortelyn-devledger) | 工时账本 · 自动化开发报价 | 1.3.0 | 分别记录人工与 AI 工时，以日历分析成本，按基础模块分摊和实际开发费用报价，独立估算项目预算。 |
-| 2026-09-27 13:29:51 | [bisan.ipydesk](https://marketplace.visualstudio.com/items?itemName=bisan.ipydesk) | IPyDesk | 0.0.1 | MATLAB-style Python desktop for VS Code. Variables and figures stay after the r… |
-| 2026-09-27 13:30:03 | [viralinclive.time-tracker-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.time-tracker-viralinc) | Coding Time Tracker, Time Tracker, Waka… | 1.0.2 | Time tracker and coding time tracking for VS Code: automatic offline time track… |
-| 2026-09-27 13:30:22 | [viralinclive.jira-worklog-viralinc](https://marketplace.visualstudio.com/items?itemName=viralinclive.jira-worklog-viralinc) | Jira Board, Jira Issues & Worklog, Time… | 1.0.2 | Jira issues and Jira worklog in VS Code: a Jira board, time tracking, log work,… |
-| 2026-09-27 13:31:35 | [AnishJoshi.openmetadata-vscode](https://marketplace.visualstudio.com/items?itemName=AnishJoshi.openmetadata-vscode) | OpenMetadata Data Explorer | 0.0.1 | Hover over table names to see metadata, lineage and data quality from OpenMetad… |
-| 2026-09-27 13:36:49 | [axsion.lunos](https://marketplace.visualstudio.com/items?itemName=axsion.lunos) | Lunos | 1.18.40 | Lunos, the EU-sovereign, self-hostable AI coding agent, in VS Code |
-| 2026-09-27 13:49:34 | [SpeedyApps.fileverse](https://marketplace.visualstudio.com/items?itemName=SpeedyApps.fileverse) | FileVerse - FTP/SFTP Sync | 0.1.1 | Download your site over FTP, FTPS or SFTP, edit it locally (by hand or with AI… |
-| 2026-09-27 13:57:13 | [noy4.docserve](https://marketplace.visualstudio.com/items?itemName=noy4.docserve) | docserve | 0.1.0 | Serve a folder of HTML as a card gallery with live reload — start/stop docserve… |
-| 2026-09-27 14:01:32 | [Hypertxtorg.kanban-bananas](https://marketplace.visualstudio.com/items?itemName=Hypertxtorg.kanban-bananas) | KanbanBananas | 1.0.0 | A kanban board for the markdown cards in your repo: safe writes that never corr… |
-| 2026-09-27 14:07:44 | [devsanjib.samo-chat](https://marketplace.visualstudio.com/items?itemName=devsanjib.samo-chat) | SaMo Chat | 0.1.0 | SaMo is your AI-powered Shopify engineering assistant, right inside VS Code. As… |
-| 2026-09-27 14:10:10 | [snippetflow-app.snippetcode](https://marketplace.visualstudio.com/items?itemName=snippetflow-app.snippetcode) | snippetcode | 0.0.6 | Guarda, organiza e inserta tus fragmentos de código directamente desde VS Code |
-| 2026-09-27 14:10:34 | [still-systems.ss-treeresolve](https://marketplace.visualstudio.com/items?itemName=still-systems.ss-treeresolve) | TreeResolve by Still Systems, LLC | 1.0.0 | Auto-resolve package-lock.json conflicts (yarn/pnpm partial), then review every… |
+| 2026-09-27 14:28:20 | [yfprojects.vscode-isabelle](https://marketplace.visualstudio.com/items?itemName=yfprojects.vscode-isabelle) | Isabelle/PIDE | 2026.9.0 | Isabelle proof assistant support for unmodified VS Code, on top of Isabelle's o… |
+| 2026-09-27 14:33:44 | [aitranslate.ai-hover-translate](https://marketplace.visualstudio.com/items?itemName=aitranslate.ai-hover-translate) | AI Hover Translate | 0.4.2 | AI-powered hover documentation translation for any language (Python, JS/TS, Go,… |
+| 2026-09-27 14:35:14 | [PracticalModules.wordpress-php8-upgrade-inventory](https://marketplace.visualstudio.com/items?itemName=PracticalModules.wordpress-php8-upgrade-inventory) | WordPress PHP 8 Upgrade Inventory | 1.0.0 | Scan a WordPress codebase and list what in your own plugins and themes breaks,… |
+| 2026-09-27 14:44:12 | [LJSancibrian.secore-formater](https://marketplace.visualstudio.com/items?itemName=LJSancibrian.secore-formater) | Secore Formatter | 2.0.0 | Formatter for PHP, mixed PHP/HTML templates, HTML, CSS/SCSS/LESS and SQL, with… |
+| 2026-09-27 14:54:47 | [Lazenca.csv-lens](https://marketplace.visualstudio.com/items?itemName=Lazenca.csv-lens) | CSV Lens | 0.1.0 | A single CSV / TSV reading view for Visual Studio Code. |
+| 2026-09-27 15:07:31 | [ReoX86.graphviz-diagram-preview](https://marketplace.visualstudio.com/items?itemName=ReoX86.graphviz-diagram-preview) | Graphviz Diagram Preview | 0.1.0 | Adds Graphviz (DOT) support to VS Code's built-in Markdown preview |
+| 2026-09-27 15:10:32 | [monty-nabil.suiteql-query-editor](https://marketplace.visualstudio.com/items?itemName=monty-nabil.suiteql-query-editor) | SuiteQL Query Editor | 0.1.0 | Connect to NetSuite accounts and run SuiteQL queries, browse the record schema,… |
+| 2026-09-27 15:13:26 | [VictoriaBSagady.teide-theme](https://marketplace.visualstudio.com/items?itemName=VictoriaBSagady.teide-theme) | Teide Theme | 0.1.0 | VS Code port of teide.nvim — Darker, Dark, Dimmed and Light |
+| 2026-09-27 15:14:50 | [luxa-ecosystem.lx-lang](https://marketplace.visualstudio.com/items?itemName=luxa-ecosystem.lx-lang) | LuxaLang - LX Language Tools | 0.2.2 | Language tooling, syntax highlighting and snippets for LX |
 
 ## Data source
 

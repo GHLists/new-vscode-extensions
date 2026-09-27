@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T14:28:20.833Z,yfprojects.vscode-isabelle,yfprojects,Isabelle/PIDE,2026.9.0,"Isabelle proof assistant support for unmodified VS Code, on top of Isabelle's own language server."
+2026-09-27T14:33:44.257Z,aitranslate.ai-hover-translate,aitranslate,AI Hover Translate,0.4.2,"AI-powered hover documentation translation for any language (Python, JS/TS, Go, Rust, Java, C++ ...) using any OpenAI-compatible API"
+2026-09-27T14:35:14.85Z,PracticalModules.wordpress-php8-upgrade-inventory,PracticalModules,WordPress PHP 8 Upgrade Inventory,1.0.0,"Scan a WordPress codebase and list what in your own plugins and themes breaks, warns, or is worth fixing on a modern PHP — in the Problems panel."
+2026-09-27T14:44:12.597Z,LJSancibrian.secore-formater,LJSancibrian,Secore Formatter,2.0.0,"Formatter for PHP, mixed PHP/HTML templates, HTML, CSS/SCSS/LESS and SQL, with folder-wide formatting and native VS Code JavaScript/TypeScript formatting support."
+2026-09-27T14:54:47.153Z,Lazenca.csv-lens,Lazenca,CSV Lens,0.1.0,A single CSV / TSV reading view for Visual Studio Code.
+2026-09-27T15:07:31.93Z,ReoX86.graphviz-diagram-preview,ReoX86,Graphviz Diagram Preview,0.1.0,Adds Graphviz (DOT) support to VS Code's built-in Markdown preview
+2026-09-27T15:10:32.483Z,monty-nabil.suiteql-query-editor,monty-nabil,SuiteQL Query Editor,0.1.0,"Connect to NetSuite accounts and run SuiteQL queries, browse the record schema, and get autocompletion, directly from VS Code."
+2026-09-27T15:13:26.023Z,VictoriaBSagady.teide-theme,VictoriaBSagady,Teide Theme,0.1.0,"VS Code port of teide.nvim — Darker, Dark, Dimmed and Light"
+2026-09-27T15:14:50.433Z,luxa-ecosystem.lx-lang,luxa-ecosystem,LuxaLang - LX Language Tools,0.2.2,"Language tooling, syntax highlighting and snippets for LX"
