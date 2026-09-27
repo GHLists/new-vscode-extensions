@@ -12,20 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 07:20 UTC
+## Latest list — 2026-09-27 08:19 UTC
 
-New extensions published between 2026-09-27 05:20 UTC and 2026-09-27 07:20 UTC.
+New extensions published between 2026-09-27 06:19 UTC and 2026-09-27 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T07-20-29-140124Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T08-19-47-911538Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 06:39:43 | [YueYu.vscode-theme-zellner](https://marketplace.visualstudio.com/items?itemName=YueYu.vscode-theme-zellner) | Zellner Theme | 0.1.0 | Port of the classic Zellner Vim color scheme to Visual Studio Code, with light… |
-| 2026-09-27 06:39:44 | [YueYu.vscode-theme-zellner-extended](https://marketplace.visualstudio.com/items?itemName=YueYu.vscode-theme-zellner-extended) | Zellner Theme Extended | 0.1.0 | Extended light and dark variants of the Zellner color theme for Visual Studio C… |
-| 2026-09-27 06:44:41 | [Sumi-Sophia.jsonlview-data-studio](https://marketplace.visualstudio.com/items?itemName=Sumi-Sophia.jsonlview-data-studio) | JsonlView Data Studio | 0.2.2 | A bounded JSONL event studio for software logs, telemetry, traces, and Agent tr… |
-| 2026-09-27 06:46:32 | [mxyer.m-tunnel-vscode](https://marketplace.visualstudio.com/items?itemName=mxyer.m-tunnel-vscode) | m-tunnel Workspace MCP | 0.1.1 | Expose the current VS Code workspace as a guarded MCP server. |
-| 2026-09-27 07:01:28 | [Galiandan-CIO.vscode-auto-ime](https://marketplace.visualstudio.com/items?itemName=Galiandan-CIO.vscode-auto-ime) | Context IME | 0.1.3 | 按代码与字符串上下文选择本机输入源 |
-| 2026-09-27 07:15:32 | [Rayan-Nasir.breadcrumb](https://marketplace.visualstudio.com/items?itemName=Rayan-Nasir.breadcrumb) | BreadCrumb | 0.1.0 | See the surrounding code, related symbols, tests, and Git history for any error… |
+| 2026-09-27 07:38:08 | [gitwithmasum.masum-galaxy-future-code](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-future-code) | Masum Galaxy // Future Code | 3.0.0 | A futuristic robotic VS Code theme with an optional animated galaxy cockpit fea… |
+| 2026-09-27 08:07:02 | [bolbol.bolbol-reviewer](https://marketplace.visualstudio.com/items?itemName=bolbol.bolbol-reviewer) | Bolbol AI Reviewer | 0.3.10 | Review Git changes before you push. Compare snapshots, inspect AI findings, and… |
 
 ## Data source
 
