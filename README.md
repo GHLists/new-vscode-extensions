@@ -12,22 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 21:20 UTC
+## Latest list — 2026-09-27 22:19 UTC
 
-New extensions published between 2026-09-27 19:20 UTC and 2026-09-27 21:20 UTC.
+New extensions published between 2026-09-27 20:19 UTC and 2026-09-27 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T21-20-52-541189Z.csv)
+[Full CSV](data/new-extensions-2026-09-27T22-19-02-225149Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 20:21:02 | [utiltools.html-preview-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.html-preview-utiltools) | Live HTML Preview, Live Server, HTML Pr… | 1.0.1 | HTML preview and responsive HTML preview for VS Code: live HTML viewer with mob… |
-| 2026-09-27 20:31:10 | [lagudafuadtosin.project-problems](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.project-problems) | Project Problems | 0.1.0 | Every TypeScript error in the project in the Problems panel, including files yo… |
-| 2026-09-27 20:32:15 | [utiltools.sftp-sync-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.sftp-sync-utiltools) | SFTP Sync, Upload on Save, FTP Sync, SF… | 1.0.1 | SFTP sync and FTP sync for VS Code: upload on save, deploy to server and browse… |
-| 2026-09-27 20:33:18 | [ciro-maciel.ciro-maciel-database](https://marketplace.visualstudio.com/items?itemName=ciro-maciel.ciro-maciel-database) | Database Studio — AI Copilot, PostgreSQ… | 0.1.2 | Ultra-fast, zero-telemetry database studio with AI Copilot for VS Code. Browse… |
-| 2026-09-27 20:48:08 | [utiltools.code-screenshot-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.code-screenshot-utiltools) | CodeShot Studio by UtilTools | 1.0.0 | Code Screenshot and Code Snapshot in one click: turn selected code into beautif… |
-| 2026-09-27 20:54:15 | [Ajjayyaswamy.angular-signals-learning](https://marketplace.visualstudio.com/items?itemName=Ajjayyaswamy.angular-signals-learning) | Angular Signals Learning | 0.0.2 | A hands-on Angular Signals course with five guided lessons, TypeScript examples… |
-| 2026-09-27 20:55:39 | [Stenen.vscode-component-preview](https://marketplace.visualstudio.com/items?itemName=Stenen.vscode-component-preview) | React Component Preview (JSX/TSX) | 0.1.0 | Live in-editor preview of React components with SCSS, comment-based mock data,… |
-| 2026-09-27 21:15:47 | [sitholewb.ai-prompt-context-builder](https://marketplace.visualstudio.com/items?itemName=sitholewb.ai-prompt-context-builder) | AI Context Builder & Prompt Generator | 1.0.0 | Generate portable, dependency-aware AI prompts and source context from an exist… |
+| 2026-09-27 21:43:25 | [utiltools.rest-client-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.rest-client-utiltools) | REST Client, API Client, HTTP Client, A… | 1.0.1 | REST Client and HTTP Client for VS Code: a free API client and API tester to se… |
+| 2026-09-27 21:45:24 | [codectyl.virtual-device](https://marketplace.visualstudio.com/items?itemName=codectyl.virtual-device) | Virtual Device | 0.1.0 | Run and control Android virtual devices inside VS Code. |
+| 2026-09-27 22:16:11 | [zainzafar90.comment-sidecar](https://marketplace.visualstudio.com/items?itemName=zainzafar90.comment-sidecar) | Comment Sidecar | 0.2.0 | Per-line comments in sibling .comment patches. Hover context, line tracking, re… |
 
 ## Data source
 
