@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-27T08:26:19.703Z,sqlakit.sqlakit,sqlakit,SQLAKit,0.1.0,Language server for SQLAKit SQL templates.
+2026-09-27T08:30:47.157Z,carrynote.carrynote,carrynote,CarryNote,0.0.3,Keep a personal checklist for each workspace and return to saved code locations.
+2026-09-27T08:33:34.243Z,KatsukenD.oracle-clean-results,KatsukenD,Oracle Clean Results,0.1.0,"A companion results viewer for Oracle SQL Developer for VS Code with clean NULL handling, NLS-aware formatting, sorting, filtering, large result sets, exports, and query provenance."
+2026-09-27T08:46:10.803Z,recursivefunctions.d2mcp,recursivefunctions,D2 MCP Server,0.5.0,"Create, edit, validate, render, and export D2 diagrams through MCP."
+2026-09-27T09:00:21.5Z,funtohard.c-cpp-pro,funtohard,C/C++ Pro,0.1.0,"High-performance C/C++ language support, debugging, and tooling for Visual Studio Code"
+2026-09-27T09:03:35.253Z,AsminGautam.i-snippet-react,AsminGautam,Impact's Snippets for React,0.0.1,Personal React and TypeScript snippets for faster development.
+2026-09-27T09:09:21.097Z,javian-picardo-group-inc.git-tree,javian-picardo-group-inc,Git Tree,0.3.0,A SourceTree- and GitLens-class Git client for VS Code with first-class multi-repo support.
+2026-09-27T09:12:59.317Z,moon-biz-tools.muscle-tooling,moon-biz-tools,Muscle IDE Tools,1.2.1,Tools to aid you in work with Salesforce metadata files
