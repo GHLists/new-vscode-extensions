@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T17:16:14.187Z,grafyx.grafyx-atlas-vscode,grafyx,Grafyx Atlas,1.0.1,Open the grafyx/atlas map of a project from VS Code.
+2026-09-28T17:17:09.39Z,AdityaNishad.cses-at-tip,AdityaNishad,CSES at Tip,1.1.2,"🏆 Personal CSES problem-solving tracker — organize solutions, track progress, sync with GitHub"
+2026-09-28T17:24:49.737Z,Symthosm.git-diff-html,Symthosm,GitDif HTML,1.0.1,"Generate side-by-side HTML diff reports for Git repositories, plus a C/C++ color theme."
+2026-09-28T17:27:07.473Z,JulietaMontenegro.visor-de-practicos,JulietaMontenegro,Visor de Prácticos,0.3.0,Visor de PDF para estudiar: marcá prácticos como hechos y tomá notas al lado.
+2026-09-28T17:29:51.43Z,SantiagoBarcenas.git-jet,SantiagoBarcenas,Git Jet,0.20.1,"WebStorm/IntelliJ-style Git for VS Code: Commit tool window, Log with graph, branches popup, interactive rebase, shelve, changelists and a 3-way merge window. Not affiliated with or endorsed by JetBrains."
+2026-09-28T17:35:53.943Z,mtcodeai.mtcode-remote-gpu,mtcodeai,Remote - GPU,0.9.1,"Remote GPU access for teams: one-click SSH terminals, Remote-SSH and Dev Containers windows, CUDA/Python environments, container workspaces, and cluster job submission on shared multi-tenant GPU servers."
+2026-09-28T17:36:42.083Z,Tappify.tappify,Tappify,Tappify Extensions,0.1.0,"Manifest validation, snippets and Tappify CLI commands for building an extension."
+2026-09-28T17:46:34.56Z,Chetan-boi.gitpurge-vscode,Chetan-boi,GitPurge: Real-Time Secret leak prevention,0.0.1,"Scan and purge secrets, API keys, and sensitive tokens."
+2026-09-28T17:47:53.76Z,subham-baral.deepseek-vscode-agent,subham-baral,DeepSeek VSCode Agent,1.0.1,AI Coding Agent via Browser Automation in VS Code
+2026-09-28T17:55:31.997Z,conn2flow.conn2flow-tools,conn2flow,Conn2Flow Dev Tools,1.1.1,"Official developer panel for SDD, Core, projects, diagnostics, agents, backlog and releases."
+2026-09-28T18:06:55.427Z,kiranlabs.codeskeleton-ai,kiranlabs,CodeSkeleton AI: Focus Extractor & Outline for LLMs,1.0.0,"Eliminate AI hallucination and line skipping. Generates compact architectural skeletons for files, folders, and functions."
+2026-09-28T18:07:20.85Z,kiranlabs.patchback-ai,kiranlabs,PatchBack AI: Zero-Friction AI Code Patch Inserter,1.0.0,"Seamlessly inject partial AI code snippets, refactors, and lazy responses back into your files without manual copy-paste errors."

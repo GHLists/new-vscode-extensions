@@ -12,21 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 17:19 UTC
+## Latest list — 2026-09-28 18:20 UTC
 
-New extensions published between 2026-09-28 15:19 UTC and 2026-09-28 17:19 UTC.
+New extensions published between 2026-09-28 16:20 UTC and 2026-09-28 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T17-19-39-194312Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T18-20-10-138045Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 16:18:13 | [windowslucker.azure-pr-toolkit](https://marketplace.visualstudio.com/items?itemName=windowslucker.azure-pr-toolkit) | Azure Pull Request Toolkit | 0.7.1 | Review, create and manage Azure DevOps pull requests (Services and Server) with… |
-| 2026-09-28 16:23:36 | [shmr.clippings](https://marketplace.visualstudio.com/items?itemName=shmr.clippings) | Clippings | 0.1.0 | Fast TODO tree backed by a Rust language server, with todo-tree's features and… |
-| 2026-09-28 16:32:50 | [Slickus.scl-language-support](https://marketplace.visualstudio.com/items?itemName=Slickus.scl-language-support) | SCL Language Support (Siemens) | 0.1.0 | Language support for Siemens SCL (Structured Control Language, TIA Portal): syn… |
-| 2026-09-28 16:34:19 | [soldadoryan.claude-agents-monitor](https://marketplace.visualstudio.com/items?itemName=soldadoryan.claude-agents-monitor) | Claude Agents Monitor | 0.3.0 | Mostra os agentes do Claude Code em execução, o modelo de cada um e o que estão… |
-| 2026-09-28 16:34:26 | [mistcoversmyeyes.shell-snippet-trigger](https://marketplace.visualstudio.com/items?itemName=mistcoversmyeyes.shell-snippet-trigger) | Shell Snippet Trigger | 0.1.0 | Trigger existing snippets with a backslash in Shell and Zsh files. |
-| 2026-09-28 16:55:22 | [daglane.daglane](https://marketplace.visualstudio.com/items?itemName=daglane.daglane) | daglane | 0.1.0 | Fast, local dbt project lineage and navigation inside VS Code and Cursor. |
-| 2026-09-28 16:55:32 | [chronos.FuncUndo-chronos](https://marketplace.visualstudio.com/items?itemName=chronos.FuncUndo-chronos) | FuncUndo | 0.1.0 | Semantic version tracking for granular code history. |
+| 2026-09-28 17:16:14 | [grafyx.grafyx-atlas-vscode](https://marketplace.visualstudio.com/items?itemName=grafyx.grafyx-atlas-vscode) | Grafyx Atlas | 1.0.1 | Open the grafyx/atlas map of a project from VS Code. |
+| 2026-09-28 17:17:09 | [AdityaNishad.cses-at-tip](https://marketplace.visualstudio.com/items?itemName=AdityaNishad.cses-at-tip) | CSES at Tip | 1.1.2 | 🏆 Personal CSES problem-solving tracker — organize solutions, track progress, s… |
+| 2026-09-28 17:24:49 | [Symthosm.git-diff-html](https://marketplace.visualstudio.com/items?itemName=Symthosm.git-diff-html) | GitDif HTML | 1.0.1 | Generate side-by-side HTML diff reports for Git repositories, plus a C/C++ colo… |
+| 2026-09-28 17:27:07 | [JulietaMontenegro.visor-de-practicos](https://marketplace.visualstudio.com/items?itemName=JulietaMontenegro.visor-de-practicos) | Visor de Prácticos | 0.3.0 | Visor de PDF para estudiar: marcá prácticos como hechos y tomá notas al lado. |
+| 2026-09-28 17:29:51 | [SantiagoBarcenas.git-jet](https://marketplace.visualstudio.com/items?itemName=SantiagoBarcenas.git-jet) | Git Jet | 0.20.1 | WebStorm/IntelliJ-style Git for VS Code: Commit tool window, Log with graph, br… |
+| 2026-09-28 17:35:53 | [mtcodeai.mtcode-remote-gpu](https://marketplace.visualstudio.com/items?itemName=mtcodeai.mtcode-remote-gpu) | Remote - GPU | 0.9.1 | Remote GPU access for teams: one-click SSH terminals, Remote-SSH and Dev Contai… |
+| 2026-09-28 17:36:42 | [Tappify.tappify](https://marketplace.visualstudio.com/items?itemName=Tappify.tappify) | Tappify Extensions | 0.1.0 | Manifest validation, snippets and Tappify CLI commands for building an extensio… |
+| 2026-09-28 17:46:34 | [Chetan-boi.gitpurge-vscode](https://marketplace.visualstudio.com/items?itemName=Chetan-boi.gitpurge-vscode) | GitPurge: Real-Time Secret leak prevent… | 0.0.1 | Scan and purge secrets, API keys, and sensitive tokens. |
+| 2026-09-28 17:47:53 | [subham-baral.deepseek-vscode-agent](https://marketplace.visualstudio.com/items?itemName=subham-baral.deepseek-vscode-agent) | DeepSeek VSCode Agent | 1.0.1 | AI Coding Agent via Browser Automation in VS Code |
+| 2026-09-28 17:55:31 | [conn2flow.conn2flow-tools](https://marketplace.visualstudio.com/items?itemName=conn2flow.conn2flow-tools) | Conn2Flow Dev Tools | 1.1.1 | Official developer panel for SDD, Core, projects, diagnostics, agents, backlog… |
+| 2026-09-28 18:06:55 | [kiranlabs.codeskeleton-ai](https://marketplace.visualstudio.com/items?itemName=kiranlabs.codeskeleton-ai) | CodeSkeleton AI: Focus Extractor & Outl… | 1.0.0 | Eliminate AI hallucination and line skipping. Generates compact architectural s… |
+| 2026-09-28 18:07:20 | [kiranlabs.patchback-ai](https://marketplace.visualstudio.com/items?itemName=kiranlabs.patchback-ai) | PatchBack AI: Zero-Friction AI Code Pat… | 1.0.0 | Seamlessly inject partial AI code snippets, refactors, and lazy responses back… |
 
 ## Data source
 
