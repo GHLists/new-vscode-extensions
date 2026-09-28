@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T12:18:51.92Z,M5Dev.vbx-language,M5Dev,VBX — Visual Basic X,0.1.0,"Language support for VBX (.vbx) files — syntax highlighting, snippets, and more."
+2026-09-28T12:22:11.177Z,NikolayLosev.sessionlens-vscode,NikolayLosev,SessionLens for VSCode,0.1.106,"Claude Code and Codex autotest session review for AQA engineers: findings, verdicts, rules for CLAUDE.md/AGENTS.md."
+2026-09-28T12:26:39.43Z,kiwiDevForWindows.line-save-tracker,kiwiDevForWindows,Line Save Tracker,0.1.0,"Visual Studio style saved and unsaved line markers, since opening a file."
+2026-09-28T12:30:05.79Z,VinayKV.locator-finder-playwright,VinayKV,Playwright Locator Finder,0.0.2,"VS Code extension for finding, testing, and exporting Playwright locators into Page Object files."
+2026-09-28T12:39:57.81Z,Polyxd.polyxd-vscode,Polyxd,Polyxd,0.3.0,"Write Polyxd UI documents with completion, the static check as you type, a live preview in 13 design systems, and the verifier a command away."
+2026-09-28T12:40:03.36Z,FiliArrochada.fili-vscode2026,FiliArrochada,Fili.VSCode2026,0.1.0,"Visual Studio 2026's themes for VS Code — Dark, Light, the eleven tinted themes and both Extra Contrast editors — rebuilt from Visual Studio's own Fluent theme tokens, with Roslyn-accurate C# and a Solution Explorer icon theme."
+2026-09-28T12:44:10.713Z,ForenZesLabs.xtensa-assembly-highlighter,ForenZesLabs,"Xtensa Assembly Syntax Highlighter For ESP32, ESP32-S2, and ESP32-S3",0.4.0,"Syntax highlighting for Xtensa GNU assembly, aimed at ESP32, ESP32-S2 and ESP32-S3."
+2026-09-28T12:46:23.36Z,ridiansyah.git-glance,ridiansyah,Git Glance,1.0.0,"A modern, ultra-lightweight, and delightful inline Git blame extension for Visual Studio Code"
+2026-09-28T12:47:03.957Z,azizguenni.rehearsal,azizguenni,Rehearsal,0.1.0,"See what a database change will actually do to your data, before you do it."
+2026-09-28T13:04:10.647Z,jaggedmountain.signal-headless,jaggedmountain,signal-headless — Signal in VS Code (unofficial),0.8.0,"Unofficial Signal client for VS Code: notifications, conversations and chat through a local signal-headless daemon. Not affiliated with Signal."
+2026-09-28T13:06:34.027Z,ducduong20.claude-octopus,ducduong20,Claude Octopus,0.1.0,Unofficial. A pixel pet that grows with your Claude Code context — click it to /compact.
+2026-09-28T13:08:18.14Z,git-workspace.git-multi-repo-actions,git-workspace,All-Repos Git Toolbar,0.4.7,"Executa git pull, descarta alterações, troca e cria branches nos repositórios do workspace."
