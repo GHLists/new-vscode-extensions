@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 19:21 UTC
+## Latest list — 2026-09-28 20:21 UTC
 
-New extensions published between 2026-09-28 17:21 UTC and 2026-09-28 19:21 UTC.
+New extensions published between 2026-09-28 18:21 UTC and 2026-09-28 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T19-21-50-619333Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T20-21-35-970835Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 18:22:53 | [matheus-tupy.Tupy-Language](https://marketplace.visualstudio.com/items?itemName=matheus-tupy.Tupy-Language) | Tapy | 0.1.0 | Linguagem de marcacao em portugues - mais facil que HTML |
-| 2026-09-28 18:30:22 | [pluttan.fpgabench](https://marketplace.visualstudio.com/items?itemName=pluttan.fpgabench) | fpgabench | 0.94.0 | Проверка, синтез и загрузка конфигурации в ПЛИС |
-| 2026-09-28 18:32:00 | [GoMufi.gomufi](https://marketplace.visualstudio.com/items?itemName=GoMufi.gomufi) | GoMufi | 0.6.1 | GoMufi derslerini VS Code'da aç: kodu kendi bilgisayarında yaz, çalıştır, ödevi… |
-| 2026-09-28 18:37:24 | [RelLabs.workspace-spectrum](https://marketplace.visualstudio.com/items?itemName=RelLabs.workspace-spectrum) | Workspace Spectrum | 0.2.3 | Dynamically customize VS Code settings (colors, themes, editor settings) by rep… |
-| 2026-09-28 18:43:37 | [IgorUzhviev.md-editor-x](https://marketplace.visualstudio.com/items?itemName=IgorUzhviev.md-editor-x) | md-editor-x | 1.1.0 | Markdown files editor - WYSIWYG |
-| 2026-09-28 18:56:59 | [Saba-Ioseliani.Vesper-Noir](https://marketplace.visualstudio.com/items?itemName=Saba-Ioseliani.Vesper-Noir) | Vesper Noir | 1.0.1 | A dark VS Code theme with near-black backgrounds, burgundy accents, and vibrant… |
-| 2026-09-28 19:06:00 | [brunomueller.pixel-agents-cloud](https://marketplace.visualstudio.com/items?itemName=brunomueller.pixel-agents-cloud) | Pixel Agents Cloud | 1.4.1 | Pixel art office where your Claude Code agents come to life as animated charact… |
-| 2026-09-28 19:09:55 | [dragoscv.codai-vscode](https://marketplace.visualstudio.com/items?itemName=dragoscv.codai-vscode) | codai for VS Code | 0.1.0 | Your GitHub Copilot Chat sessions on your watch, phone and desktop: see what th… |
-| 2026-09-28 19:14:22 | [AriTrikesuma.remote-ssh-webform](https://marketplace.visualstudio.com/items?itemName=AriTrikesuma.remote-ssh-webform) | Remote SSH WebForm | 0.3.0 | Build, run and debug classic ASP.NET (.NET Framework Web Forms / Web API) proje… |
+| 2026-09-28 19:28:35 | [ZhichengLucianLi.julia-docstring-highlighter](https://marketplace.visualstudio.com/items?itemName=ZhichengLucianLi.julia-docstring-highlighter) | Julia Docstring Highlighter | 0.1.2 | Subtle, theme-native highlighting for Julia docstrings: a light documentation r… |
+| 2026-09-28 19:30:20 | [TinyOwlKit.tiny-owl-vscode](https://marketplace.visualstudio.com/items?itemName=TinyOwlKit.tiny-owl-vscode) | Tiny Owl Kit | 0.0.7 | See your Tiny Owl Kit project's errors and incidents right in the editor |
+| 2026-09-28 19:32:25 | [mepolabs.agent-walkthrough](https://marketplace.visualstudio.com/items?itemName=mepolabs.agent-walkthrough) | Agent Walkthrough | 0.1.0 | Play back agent-written code walkthroughs step by step and send review comments… |
+| 2026-09-28 19:41:20 | [framaluna.flag](https://marketplace.visualstudio.com/items?itemName=framaluna.flag) | Flag | 0.1.0 | Flag (.flg): highlighting, and flagls for errors, hover and go to definition |
+| 2026-09-28 19:44:10 | [apoint.ms-access-mcp](https://marketplace.visualstudio.com/items?itemName=apoint.ms-access-mcp) | access-mcp.ai | 2.4.1 | Access-MCP: give your AI agent a live connection to Microsoft Access. Browse sc… |
+| 2026-09-28 20:03:32 | [fwmemguard.fw-mem-guard](https://marketplace.visualstudio.com/items?itemName=fwmemguard.fw-mem-guard) | FW Mem Guard | 0.3.1 | Compare firmware Flash/RAM usage and budgets locally, with guided GNU Arm Map +… |
 
 ## Data source
 

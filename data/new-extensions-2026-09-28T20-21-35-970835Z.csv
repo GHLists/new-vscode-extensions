@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T19:28:35.57Z,ZhichengLucianLi.julia-docstring-highlighter,ZhichengLucianLi,Julia Docstring Highlighter,0.1.2,"Subtle, theme-native highlighting for Julia docstrings: a light documentation region plus Markdown and Julia syntax inside."
+2026-09-28T19:30:20.03Z,TinyOwlKit.tiny-owl-vscode,TinyOwlKit,Tiny Owl Kit,0.0.7,See your Tiny Owl Kit project's errors and incidents right in the editor
+2026-09-28T19:32:25.457Z,mepolabs.agent-walkthrough,mepolabs,Agent Walkthrough,0.1.0,Play back agent-written code walkthroughs step by step and send review comments back to the agent.
+2026-09-28T19:41:20.067Z,framaluna.flag,framaluna,Flag,0.1.0,"Flag (.flg): highlighting, and flagls for errors, hover and go to definition"
+2026-09-28T19:44:10.433Z,apoint.ms-access-mcp,apoint,access-mcp.ai,2.4.1,"Access-MCP: give your AI agent a live connection to Microsoft Access. Browse schema, run SQL, read and edit VBA and forms — 27 tools over MCP. Windows + Access required."
+2026-09-28T20:03:32.507Z,fwmemguard.fw-mem-guard,fwmemguard,FW Mem Guard,0.3.1,"Compare firmware Flash/RAM usage and budgets locally, with guided GNU Arm Map + ELF project setup."
