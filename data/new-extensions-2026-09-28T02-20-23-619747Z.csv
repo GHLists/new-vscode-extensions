@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T01:42:33.273Z,pitcode.pitcode,pitcode,PitCode,1.1.0,"PitCode for VS Code: colors, mistakes underlined as you type, hover help, autocomplete, and a Run button"
+2026-09-28T01:44:07.617Z,esperinnovations.deckard-notes,esperinnovations,Deckard Notes,1.23.1,"Your notes, tasks, and people, connected and kept local. Find what you wrote, chase down loose ends, and retire what's done."
+2026-09-28T01:50:00.027Z,la-rebelion-labs.orca-mcp,la-rebelion-labs,OrcA: OpenAPI & Arazzo to MCP Server,0.2.0,"Turn OpenAPI (Swagger) and Arazzo contracts into MCP servers: explore, dry-run MCP tools, run locally with HAPI, deploy and manage Model Context Protocol servers without leaving VS Code."
+2026-09-28T01:56:22.167Z,chensun.git-emoji-helper,chensun,Git Emoji,0.1.0,在 VS Code Git 提交框中手动添加 Conventional Commits 类型和 Emoji。
+2026-09-28T02:07:38.487Z,clarity-orbital.key-clarity,clarity-orbital,Key Clarity,0.2.1,"Switch Claude Code and Codex between your LiteLLM virtual keys in one click, with spend, budget and expiry at a glance."
+2026-09-28T02:08:22.053Z,completionprism.completionprism,completionprism,CompletionPrism,2.0.0,"The CompletionPrism coding agent in VS Code: open it, type, and the agent works in your folder, with a receipt under every answer. For illuminis business customers."
+2026-09-28T02:14:14.277Z,dpep.trekr,dpep,trekr — Ruby code intelligence,0.4.0,"A Ruby language server backed by trekr: receiver-aware definitions, references narrowed by receiver, completion, call hierarchy."
