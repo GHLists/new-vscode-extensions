@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T09:19:04.143Z,FrontlineNetworks.fanuc-ls,FrontlineNetworks,FANUC TP (LS),0.2.0,"Syntaxhighlighting, Snippets, Syntaxprüfung und FTP-Dateitransfer für FANUC TP-Programme (.ls)"
+2026-09-28T09:32:18.077Z,devChrisho.css-ghost-buster,devChrisho,Css Ghost Buster,0.0.2,"Finds unused CSS classes and selectors, with inline indicators and a sidebar summary."
+2026-09-28T10:02:09.227Z,Quectel.quectelpi,Quectel,Quectel Pi,1.0.0,"Quectel Pi: develop for the Quectel Pi series (M2 / H1) inside VS Code — connection (local/SSH), build, flash, project management, device tools, AT commands, audio, skill docs and environment bootstrap."
