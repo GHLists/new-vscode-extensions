@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 07:19 UTC
+## Latest list — 2026-09-28 08:22 UTC
 
-New extensions published between 2026-09-28 05:19 UTC and 2026-09-28 07:19 UTC.
+New extensions published between 2026-09-28 06:22 UTC and 2026-09-28 08:22 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T07-19-01-475937Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T08-22-46-433603Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 06:34:28 | [Emulica.vscode-emulica-emulator](https://marketplace.visualstudio.com/items?itemName=Emulica.vscode-emulica-emulator) | Emulica Emulator | 0.2.0 | VS Code extension for running Emulica and compiling reviewed MCU emulator speci… |
-| 2026-09-28 06:34:49 | [JJT.jjt-blackdoor-language-support-extension](https://marketplace.visualstudio.com/items?itemName=JJT.jjt-blackdoor-language-support-extension) | Blackdoor Language Support for .bd file… | 1.1.2 | Python-style syntax highlighting, validated function coloring, and editable API… |
-| 2026-09-28 06:38:33 | [mainamiru.web2apk](https://marketplace.visualstudio.com/items?itemName=mainamiru.web2apk) | Web2APK | 1.2.0 | Create, configure, validate and build APK/AAB from web projects with the web2ap… |
-| 2026-09-28 06:41:38 | [technopradyumn.prady-lang](https://marketplace.visualstudio.com/items?itemName=technopradyumn.prady-lang) | Prady Language | 0.1.1 | Rich language support, syntax highlighting, diagnostics problem matchers, snipp… |
-| 2026-09-28 06:44:44 | [Refingere.refingere](https://marketplace.visualstudio.com/items?itemName=Refingere.refingere) | Refingere | 0.1.1 | Syntax highlighting for the Refingere language (.rfn files). |
-| 2026-09-28 06:50:16 | [jiangsheng666.piByue](https://marketplace.visualstudio.com/items?itemName=jiangsheng666.piByue) | piByue | 0.4.0 | A first-class VS Code interface powered by the native Pi coding agent SDK. |
-| 2026-09-28 06:53:47 | [okano-tomoyuki.bethany-designer](https://marketplace.visualstudio.com/items?itemName=okano-tomoyuki.bethany-designer) | Bethany Designer | 0.1.0 | GUI form designer for Bethany (C++ / Python) |
+| 2026-09-28 07:22:51 | [zach-shen.vbstools-vbscript](https://marketplace.visualstudio.com/items?itemName=zach-shen.vbstools-vbscript) | VbsTools: VBScript | 0.2.0 | VBScript for Windows: IntelliSense for COM objects, diagnostics, a debugger, a… |
+| 2026-09-28 07:25:11 | [leeyurani.codegen-universal](https://marketplace.visualstudio.com/items?itemName=leeyurani.codegen-universal) | CodeGen Universal | 0.1.0 | Universal right-click code generator for VS Code & Antigravity IDE. Scaffold Da… |
+| 2026-09-28 07:50:34 | [harjjotsinghh.helicon](https://marketplace.visualstudio.com/items?itemName=harjjotsinghh.helicon) | Helicon | 0.19.0 | Open-source GUI for the Muse Code CLI inside your editor: threads in a sidebar,… |
+| 2026-09-28 08:14:51 | [umarkhan-puzzles.coder-puzzle-break](https://marketplace.visualstudio.com/items?itemName=umarkhan-puzzles.coder-puzzle-break) | Puzzle Break: Brain Games for Coders | 0.5.0 | Take a 3-minute brain break without leaving VS Code: daily logic puzzles (Crown… |
 
 ## Data source
 

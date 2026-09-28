@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T07:22:51.59Z,zach-shen.vbstools-vbscript,zach-shen,VbsTools: VBScript,0.2.0,"VBScript for Windows: IntelliSense for COM objects, diagnostics, a debugger, a cscript-compatible script host and a code library."
+2026-09-28T07:25:11.707Z,leeyurani.codegen-universal,leeyurani,CodeGen Universal,0.1.0,"Universal right-click code generator for VS Code & Antigravity IDE. Scaffold Dart/Flutter, Laravel/PHP, React, Go, Vue, Python, and custom templates in seconds."
+2026-09-28T07:50:34.56Z,harjjotsinghh.helicon,harjjotsinghh,Helicon,0.19.0,"Open-source GUI for the Muse Code CLI inside your editor: threads in a sidebar, approvals you can read, inline diffs, session history and usage. Uses your own muse login."
+2026-09-28T08:14:51.72Z,umarkhan-puzzles.coder-puzzle-break,umarkhan-puzzles,Puzzle Break: Brain Games for Coders,0.5.0,"Take a 3-minute brain break without leaving VS Code: daily logic puzzles (Crowns, Balance, Trail, Tiles), Sudoku, Lights and Nokia-style Snake with levels."
