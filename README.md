@@ -12,20 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-27 23:19 UTC
+## Latest list — 2026-09-28 00:21 UTC
 
-New extensions published between 2026-09-27 21:19 UTC and 2026-09-27 23:19 UTC.
+New extensions published between 2026-09-27 22:21 UTC and 2026-09-28 00:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-27T23-19-31-136873Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T00-21-10-85157Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 22:23:26 | [MidSix.doki-wallpaper-carousel](https://marketplace.visualstudio.com/items?itemName=MidSix.doki-wallpaper-carousel) | Wallpaper Carousel for Doki Theme | 1.0.0 | Unofficial companion for the Doki Theme: flip your animated wallpaper through a… |
-| 2026-09-27 22:44:00 | [specir.specc-vscode](https://marketplace.visualstudio.com/items?itemName=specir.specc-vscode) | SpecCompiler Preview | 0.1.2 | Live HTML/PDF preview of SpecCompiler projects: rebuilds on save and refreshes… |
-| 2026-09-27 22:51:02 | [Norhaven.jolt](https://marketplace.visualstudio.com/items?itemName=Norhaven.jolt) | Jolt Language | 1.0.1 | A friendly way of transforming JSON into different JSON. |
-| 2026-09-27 22:54:14 | [GeorgeDorn.AI-brain-surgeon](https://marketplace.visualstudio.com/items?itemName=GeorgeDorn.AI-brain-surgeon) | AI Brain Surgeon | 0.0.20 | Manually edit LLM session contexts, instead of relying on lossy and imprecise L… |
-| 2026-09-27 23:10:20 | [saiashirwad.tandem](https://marketplace.visualstudio.com/items?itemName=saiashirwad.tandem) | Tandem | 0.0.1 | Annotate code as you read, copy the annotations as Markdown, and follow and rev… |
-| 2026-09-27 23:10:25 | [IuriPavani.plaintext-formatter](https://marketplace.visualstudio.com/items?itemName=IuriPavani.plaintext-formatter) | Plaintext Formatter | 0.1.0 | Paste. Format. Done. Automatically detect and safely format code in unsaved Pla… |
+| 2026-09-27 23:17:36 | [marie-studio.marie-studio](https://marketplace.visualstudio.com/items?itemName=marie-studio.marie-studio) | MARIE-Studio | 0.1.3 | Destaque de sintaxe e montador integrado para a linguagem Assembly do MARIE |
+| 2026-09-28 00:09:45 | [smlum.vscode-gtfs](https://marketplace.visualstudio.com/items?itemName=smlum.vscode-gtfs) | GTFS | 0.2.0 | Read GTFS transit feeds in VS Code: rainbow columns, hovers that explain column… |
 
 ## Data source
 
