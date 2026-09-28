@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T04:18:12.493Z,ReadyStack.beancount-auslandsumsatz-lint,ReadyStack,Beancount/hledger Auslandsumsatz-Check (UStG),1.0.1,"Prüft Beancount- und hledger-Journale mit Auslandskunden: Euro-Umrechnung (§ 16 Abs. 6 UStG), USt-IdNr-Formate, Reverse Charge ohne deutsche USt und ZM-Frist (§ 18a UStG)."
+2026-09-28T04:38:00.707Z,katrine-jensen-next.vscode-language-pack-da-next,katrine-jensen-next,Danish Language Pack by Katrine Jensen for Visual Studio Code (Next),1.0.10,Language pack extension for Danish
+2026-09-28T04:42:10.653Z,eiichi-ishitsuka.struct-grid-editor,eiichi-ishitsuka,StructGridEditor,0.0.2,"Edit JSON, YAML, and JSONL files in a spreadsheet-like grid view."
