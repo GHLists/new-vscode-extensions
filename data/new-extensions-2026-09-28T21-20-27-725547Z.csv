@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T20:17:26.947Z,OpenSpineConsortium.ashley,OpenSpineConsortium,Ashley: grid research environment,3.0.0,"Sets up a medical student's laptop for research on the the university HPC grid: SSH through the login node to a compute node, tokens for GitHub, Hugging Face and Claude, a persistent Claude Code worker in a Singularity container on the grid, and a bridge so the Claude Code extension can send it work"
+2026-09-28T20:19:54.067Z,stefanolabs.autodev-vscode,stefanolabs,AutoDev by Stefano Labs,0.2.0,"Keeps the agent CLI you already have — claude, codex or agy — working on one objective while you are away, on the subscription you already pay for."
+2026-09-28T20:20:17.817Z,Treluz.argus-treluz,Treluz,Argus Code,1.12.98,"Agente de IA independente para VS Code e Cursor: login OpenAI, tools, browser, skills, MCP, Master e pet nativos. Kilo/Codex/Cursor são opcionais se já existirem."
+2026-09-28T20:52:00.013Z,AllThingsSmitty.env-var-auditor-vscode,AllThingsSmitty,Env Var Auditor,0.1.0,"Inline diagnostics for undeclared, unread, and client-exposed environment variables."
+2026-09-28T21:12:28.887Z,MennoHomanWindigo.spritematex-vscode,MennoHomanWindigo,SpritemateX,0.1.0,Commander X16 sprite & tile editor by OldSkoolCoder (OSK) — VS Code port of SpritemateX
+2026-09-28T21:13:14.203Z,EdCordata.better-code-comment,EdCordata,Better Code Comment,0.0.1,This extension improves how commenting works for single-line and multi-line blocks of code.

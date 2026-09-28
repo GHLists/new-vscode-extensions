@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 20:21 UTC
+## Latest list — 2026-09-28 21:20 UTC
 
-New extensions published between 2026-09-28 18:21 UTC and 2026-09-28 20:21 UTC.
+New extensions published between 2026-09-28 19:20 UTC and 2026-09-28 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T20-21-35-970835Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T21-20-27-725547Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 19:28:35 | [ZhichengLucianLi.julia-docstring-highlighter](https://marketplace.visualstudio.com/items?itemName=ZhichengLucianLi.julia-docstring-highlighter) | Julia Docstring Highlighter | 0.1.2 | Subtle, theme-native highlighting for Julia docstrings: a light documentation r… |
-| 2026-09-28 19:30:20 | [TinyOwlKit.tiny-owl-vscode](https://marketplace.visualstudio.com/items?itemName=TinyOwlKit.tiny-owl-vscode) | Tiny Owl Kit | 0.0.7 | See your Tiny Owl Kit project's errors and incidents right in the editor |
-| 2026-09-28 19:32:25 | [mepolabs.agent-walkthrough](https://marketplace.visualstudio.com/items?itemName=mepolabs.agent-walkthrough) | Agent Walkthrough | 0.1.0 | Play back agent-written code walkthroughs step by step and send review comments… |
-| 2026-09-28 19:41:20 | [framaluna.flag](https://marketplace.visualstudio.com/items?itemName=framaluna.flag) | Flag | 0.1.0 | Flag (.flg): highlighting, and flagls for errors, hover and go to definition |
-| 2026-09-28 19:44:10 | [apoint.ms-access-mcp](https://marketplace.visualstudio.com/items?itemName=apoint.ms-access-mcp) | access-mcp.ai | 2.4.1 | Access-MCP: give your AI agent a live connection to Microsoft Access. Browse sc… |
-| 2026-09-28 20:03:32 | [fwmemguard.fw-mem-guard](https://marketplace.visualstudio.com/items?itemName=fwmemguard.fw-mem-guard) | FW Mem Guard | 0.3.1 | Compare firmware Flash/RAM usage and budgets locally, with guided GNU Arm Map +… |
+| 2026-09-28 20:17:26 | [OpenSpineConsortium.ashley](https://marketplace.visualstudio.com/items?itemName=OpenSpineConsortium.ashley) | Ashley: grid research environment | 3.0.0 | Sets up a medical student's laptop for research on the the university HPC grid:… |
+| 2026-09-28 20:19:54 | [stefanolabs.autodev-vscode](https://marketplace.visualstudio.com/items?itemName=stefanolabs.autodev-vscode) | AutoDev by Stefano Labs | 0.2.0 | Keeps the agent CLI you already have — claude, codex or agy — working on one ob… |
+| 2026-09-28 20:20:17 | [Treluz.argus-treluz](https://marketplace.visualstudio.com/items?itemName=Treluz.argus-treluz) | Argus Code | 1.12.98 | Agente de IA independente para VS Code e Cursor: login OpenAI, tools, browser,… |
+| 2026-09-28 20:52:00 | [AllThingsSmitty.env-var-auditor-vscode](https://marketplace.visualstudio.com/items?itemName=AllThingsSmitty.env-var-auditor-vscode) | Env Var Auditor | 0.1.0 | Inline diagnostics for undeclared, unread, and client-exposed environment varia… |
+| 2026-09-28 21:12:28 | [MennoHomanWindigo.spritematex-vscode](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritematex-vscode) | SpritemateX | 0.1.0 | Commander X16 sprite & tile editor by OldSkoolCoder (OSK) — VS Code port of Spr… |
+| 2026-09-28 21:13:14 | [EdCordata.better-code-comment](https://marketplace.visualstudio.com/items?itemName=EdCordata.better-code-comment) | Better Code Comment | 0.0.1 | This extension improves how commenting works for single-line and multi-line blo… |
 
 ## Data source
 
