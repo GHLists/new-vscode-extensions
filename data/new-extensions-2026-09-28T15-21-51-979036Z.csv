@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T14:24:34.773Z,sidunrealde.unreal-llm-index,sidunrealde,Unreal LLM Index,0.3.0,"Unreal Engine-aware index of your UE C++ project, its engine, and engine and Marketplace (Fab) plugins, for any LLM in VS Code chat: MCP tools, an Unreal agent and an @unreal chat participant."
+2026-09-28T14:38:12.113Z,backbone81.golr,backbone81,GoLR,0.1.0,Language support for GoLR grammar files (.golr).
+2026-09-28T14:57:45.407Z,tipandtale.taehyung-yeontan-pet,tipandtale,Taehyung and Yeontan BTS Coding Pet,0.0.1,"A cute Taehyung and Yeontan coding companion for VS Code that walks, naps, worries over errors and celebrates your saves."
+2026-09-28T15:04:02.167Z,entro.vscode-yandex-music,entro,Yandex Music Player,0.3.1,"Listen to Yandex Music in VS Code: My Vibe, Liked, playlists and search."
+2026-09-28T15:08:09.82Z,s-h-a-d-o-w.pnpm-catalog-lens-plus,s-h-a-d-o-w,Catalog Lens+,1.0.200004,Show versions inline for PNPM/Yarn/Bun catalogs
