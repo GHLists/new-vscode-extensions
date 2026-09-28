@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T13:17:35.987Z,esperinnovations.esper-themes,esperinnovations,Esper Themes,0.8.0,"High-contrast, film-inspired themes for Visual Studio Code: LCARS, Replicant, Oblivion, Synthwave, Tomcat, Fellowship, Cooper, Bluey, Bluey Night, Helix, and a generated accessibility-aware Q theme."
+2026-09-28T13:21:41.1Z,chuanyunux.pararead,chuanyunux,ParaRead: Bilingual PDF Paper Reader,0.1.1,"并读 · Read English PDF papers sentence by sentence: hover a sentence and its Chinese translation sits right beside it, at the same height. Layout-preserving translation panel, DeepSeek or any OpenAI-compatible API, annotations saved into the PDF."
+2026-09-28T13:21:47.027Z,IBM.ibm-functionaltest,IBM,IBM Functional Testing,3.0.1,Generate Galasa Functional tests
+2026-09-28T13:23:30.847Z,RivadMorinrivadmorin.jules-companion,RivadMorinrivadmorin,Jules Companion,1.0.0,Google Jules CLI & REST API companion skill with 30 specialized agents
+2026-09-28T13:24:23.157Z,jutorla.cognitive-complexity-bar,jutorla,Cognitive Complexity Bar,0.3.0,"Shows the cognitive complexity of the active file in the status bar, colored green, yellow or red."
+2026-09-28T13:40:10.713Z,Moy.obsidian-linker,Moy,Obsidian Linker,0.1.2,"Obsidian-style [[wikilinks]] for VS Code: Ctrl/Cmd+Click to open notes (new tab / split), hover actions, and open the current file in Obsidian."
+2026-09-28T13:44:24.9Z,vicxelcode.codepit,vicxelcode,Codepit,1.0.1,"A graphical cockpit for the Claude Code CLI: chat, plan limits, per-turn review and undo, Shortcut stories and optional Codex models."
+2026-09-28T13:49:21.107Z,studiolabs.cal-scratchpad,studiolabs,Cal — Inline Calculator,0.0.1,Inline Calculator
+2026-09-28T13:55:35.31Z,amisonnet8.mtqg,amisonnet8,mtqg,1.0.0,"mtqg for VS Code - browse and write your mtqg project journal (memo & rules, todo, qa & bugs, glossary) from inside the editor."
+2026-09-28T14:03:17.91Z,Pastajello.maui-sailfish-tools,Pastajello,MAUI Sailfish Tools,0.0.1,"Connect to a Sailfish OS phone, deploy and debug .NET MAUI apps on it (F5)."
+2026-09-28T14:04:06.44Z,kiranlabs.codepacker-ai,kiranlabs,CodePacker AI: Codebase to TXT for AI,1.0.0,"Instantly export full codebases or selected folders to clean TXT or clipboard for AI prompting (ChatGPT, Claude, Gemini, DeepSeek). By KiranLabs."
+2026-09-28T14:12:36.717Z,MiguelngelAmaya.org-dev-telemetry,MiguelngelAmaya,Org Dev Telemetry,0.1.0,"Reporta a la organización qué herramientas de IA están activas, en qué repos se trabaja y actividad de commits/pushes (sin contenido de código)."

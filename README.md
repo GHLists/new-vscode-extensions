@@ -12,26 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 13:19 UTC
+## Latest list — 2026-09-28 14:22 UTC
 
-New extensions published between 2026-09-28 11:19 UTC and 2026-09-28 13:19 UTC.
+New extensions published between 2026-09-28 12:22 UTC and 2026-09-28 14:22 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T13-19-08-172057Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T14-22-31-498266Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 12:18:51 | [M5Dev.vbx-language](https://marketplace.visualstudio.com/items?itemName=M5Dev.vbx-language) | VBX — Visual Basic X | 0.1.0 | Language support for VBX (.vbx) files — syntax highlighting, snippets, and more. |
-| 2026-09-28 12:22:11 | [NikolayLosev.sessionlens-vscode](https://marketplace.visualstudio.com/items?itemName=NikolayLosev.sessionlens-vscode) | SessionLens for VSCode | 0.1.106 | Claude Code and Codex autotest session review for AQA engineers: findings, verd… |
-| 2026-09-28 12:26:39 | [kiwiDevForWindows.line-save-tracker](https://marketplace.visualstudio.com/items?itemName=kiwiDevForWindows.line-save-tracker) | Line Save Tracker | 0.1.0 | Visual Studio style saved and unsaved line markers, since opening a file. |
-| 2026-09-28 12:30:05 | [VinayKV.locator-finder-playwright](https://marketplace.visualstudio.com/items?itemName=VinayKV.locator-finder-playwright) | Playwright Locator Finder | 0.0.2 | VS Code extension for finding, testing, and exporting Playwright locators into… |
-| 2026-09-28 12:39:57 | [Polyxd.polyxd-vscode](https://marketplace.visualstudio.com/items?itemName=Polyxd.polyxd-vscode) | Polyxd | 0.3.0 | Write Polyxd UI documents with completion, the static check as you type, a live… |
-| 2026-09-28 12:40:03 | [FiliArrochada.fili-vscode2026](https://marketplace.visualstudio.com/items?itemName=FiliArrochada.fili-vscode2026) | Fili.VSCode2026 | 0.1.0 | Visual Studio 2026's themes for VS Code — Dark, Light, the eleven tinted themes… |
-| 2026-09-28 12:44:10 | [ForenZesLabs.xtensa-assembly-highlighter](https://marketplace.visualstudio.com/items?itemName=ForenZesLabs.xtensa-assembly-highlighter) | Xtensa Assembly Syntax Highlighter For… | 0.4.0 | Syntax highlighting for Xtensa GNU assembly, aimed at ESP32, ESP32-S2 and ESP32… |
-| 2026-09-28 12:46:23 | [ridiansyah.git-glance](https://marketplace.visualstudio.com/items?itemName=ridiansyah.git-glance) | Git Glance | 1.0.0 | A modern, ultra-lightweight, and delightful inline Git blame extension for Visu… |
-| 2026-09-28 12:47:03 | [azizguenni.rehearsal](https://marketplace.visualstudio.com/items?itemName=azizguenni.rehearsal) | Rehearsal | 0.1.0 | See what a database change will actually do to your data, before you do it. |
-| 2026-09-28 13:04:10 | [jaggedmountain.signal-headless](https://marketplace.visualstudio.com/items?itemName=jaggedmountain.signal-headless) | signal-headless — Signal in VS Code (un… | 0.8.0 | Unofficial Signal client for VS Code: notifications, conversations and chat thr… |
-| 2026-09-28 13:06:34 | [ducduong20.claude-octopus](https://marketplace.visualstudio.com/items?itemName=ducduong20.claude-octopus) | Claude Octopus | 0.1.0 | Unofficial. A pixel pet that grows with your Claude Code context — click it to… |
-| 2026-09-28 13:08:18 | [git-workspace.git-multi-repo-actions](https://marketplace.visualstudio.com/items?itemName=git-workspace.git-multi-repo-actions) | All-Repos Git Toolbar | 0.4.7 | Executa git pull, descarta alterações, troca e cria branches nos repositórios d… |
+| 2026-09-28 13:17:35 | [esperinnovations.esper-themes](https://marketplace.visualstudio.com/items?itemName=esperinnovations.esper-themes) | Esper Themes | 0.8.0 | High-contrast, film-inspired themes for Visual Studio Code: LCARS, Replicant, O… |
+| 2026-09-28 13:21:41 | [chuanyunux.pararead](https://marketplace.visualstudio.com/items?itemName=chuanyunux.pararead) | ParaRead: Bilingual PDF Paper Reader | 0.1.1 | 并读 · Read English PDF papers sentence by sentence: hover a sentence and its Chi… |
+| 2026-09-28 13:21:47 | [IBM.ibm-functionaltest](https://marketplace.visualstudio.com/items?itemName=IBM.ibm-functionaltest) | IBM Functional Testing | 3.0.1 | Generate Galasa Functional tests |
+| 2026-09-28 13:23:30 | [RivadMorinrivadmorin.jules-companion](https://marketplace.visualstudio.com/items?itemName=RivadMorinrivadmorin.jules-companion) | Jules Companion | 1.0.0 | Google Jules CLI & REST API companion skill with 30 specialized agents |
+| 2026-09-28 13:24:23 | [jutorla.cognitive-complexity-bar](https://marketplace.visualstudio.com/items?itemName=jutorla.cognitive-complexity-bar) | Cognitive Complexity Bar | 0.3.0 | Shows the cognitive complexity of the active file in the status bar, colored gr… |
+| 2026-09-28 13:40:10 | [Moy.obsidian-linker](https://marketplace.visualstudio.com/items?itemName=Moy.obsidian-linker) | Obsidian Linker | 0.1.2 | Obsidian-style [[wikilinks]] for VS Code: Ctrl/Cmd+Click to open notes (new tab… |
+| 2026-09-28 13:44:24 | [vicxelcode.codepit](https://marketplace.visualstudio.com/items?itemName=vicxelcode.codepit) | Codepit | 1.0.1 | A graphical cockpit for the Claude Code CLI: chat, plan limits, per-turn review… |
+| 2026-09-28 13:49:21 | [studiolabs.cal-scratchpad](https://marketplace.visualstudio.com/items?itemName=studiolabs.cal-scratchpad) | Cal — Inline Calculator | 0.0.1 | Inline Calculator |
+| 2026-09-28 13:55:35 | [amisonnet8.mtqg](https://marketplace.visualstudio.com/items?itemName=amisonnet8.mtqg) | mtqg | 1.0.0 | mtqg for VS Code - browse and write your mtqg project journal (memo & rules, to… |
+| 2026-09-28 14:03:17 | [Pastajello.maui-sailfish-tools](https://marketplace.visualstudio.com/items?itemName=Pastajello.maui-sailfish-tools) | MAUI Sailfish Tools | 0.0.1 | Connect to a Sailfish OS phone, deploy and debug .NET MAUI apps on it (F5). |
+| 2026-09-28 14:04:06 | [kiranlabs.codepacker-ai](https://marketplace.visualstudio.com/items?itemName=kiranlabs.codepacker-ai) | CodePacker AI: Codebase to TXT for AI | 1.0.0 | Instantly export full codebases or selected folders to clean TXT or clipboard f… |
+| 2026-09-28 14:12:36 | [MiguelngelAmaya.org-dev-telemetry](https://marketplace.visualstudio.com/items?itemName=MiguelngelAmaya.org-dev-telemetry) | Org Dev Telemetry | 0.1.0 | Reporta a la organización qué herramientas de IA están activas, en qué repos se… |
 
 ## Data source
 
