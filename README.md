@@ -12,19 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 15:21 UTC
+## Latest list — 2026-09-28 16:20 UTC
 
-New extensions published between 2026-09-28 13:21 UTC and 2026-09-28 15:21 UTC.
+New extensions published between 2026-09-28 14:20 UTC and 2026-09-28 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T15-21-51-979036Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T16-20-36-06386Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 14:24:34 | [sidunrealde.unreal-llm-index](https://marketplace.visualstudio.com/items?itemName=sidunrealde.unreal-llm-index) | Unreal LLM Index | 0.3.0 | Unreal Engine-aware index of your UE C++ project, its engine, and engine and Ma… |
-| 2026-09-28 14:38:12 | [backbone81.golr](https://marketplace.visualstudio.com/items?itemName=backbone81.golr) | GoLR | 0.1.0 | Language support for GoLR grammar files (.golr). |
-| 2026-09-28 14:57:45 | [tipandtale.taehyung-yeontan-pet](https://marketplace.visualstudio.com/items?itemName=tipandtale.taehyung-yeontan-pet) | Taehyung and Yeontan BTS Coding Pet | 0.0.1 | A cute Taehyung and Yeontan coding companion for VS Code that walks, naps, worr… |
-| 2026-09-28 15:04:02 | [entro.vscode-yandex-music](https://marketplace.visualstudio.com/items?itemName=entro.vscode-yandex-music) | Yandex Music Player | 0.3.1 | Listen to Yandex Music in VS Code: My Vibe, Liked, playlists and search. |
-| 2026-09-28 15:08:09 | [s-h-a-d-o-w.pnpm-catalog-lens-plus](https://marketplace.visualstudio.com/items?itemName=s-h-a-d-o-w.pnpm-catalog-lens-plus) | Catalog Lens+ | 1.0.200004 | Show versions inline for PNPM/Yarn/Bun catalogs |
+| 2026-09-28 15:37:14 | [konasuke.cyclechr](https://marketplace.visualstudio.com/items?itemName=konasuke.cyclechr) | cyclechr | 0.0.1 | Cycle through candidate text every time you press a key. |
+| 2026-09-28 15:41:17 | [mimone.happydev](https://marketplace.visualstudio.com/items?itemName=mimone.happydev) | HappyDEV | 2.0.0 | Five tiny coding-themed arcade games inside VS Code, with 3 difficulty levels.… |
+| 2026-09-28 15:46:47 | [GustavoBozzano.em4-script](https://marketplace.visualstudio.com/items?itemName=GustavoBozzano.em4-script) | EM4 Script | 1.0.0 | Language support for Emergency 4 .script |
+| 2026-09-28 15:47:11 | [BigBang1112.vscode-chunkl](https://marketplace.visualstudio.com/items?itemName=BigBang1112.vscode-chunkl) | ChunkL | 0.1.0 | Language support for ChunkL (.chunkl) files |
+| 2026-09-28 15:47:11 | [s403o.azkar-guard-vscode](https://marketplace.visualstudio.com/items?itemName=s403o.azkar-guard-vscode) | Azkar Guard | 1.0.0 | Keeps reminding you until your morning and evening Azkar are complete, right in… |
+| 2026-09-28 15:52:43 | [ReadyStack.firebase-deploy-leak-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.firebase-deploy-leak-audit) | Firebase Deploy Leak Audit | 1.0.0 | Audits firebase.json before you run firebase deploy: ignore lists that let .env… |
+| 2026-09-28 15:53:02 | [ReadyStack.tfstate-secret-leak-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.tfstate-secret-leak-lint) | Terraform State Secret Leak Lint | 1.0.0 | Flags the Terraform resource attributes, outputs and backends whose values land… |
+| 2026-09-28 16:00:24 | [asyman.cuttle-blog](https://marketplace.visualstudio.com/items?itemName=asyman.cuttle-blog) | cuttle blog 工作台 | 0.1.0 | 在 VS Code 中阅读小说、管理农场、聊天并使用实时游戏大厅。 |
+| 2026-09-28 16:05:13 | [GodefroyTARD98.local-merge-request](https://marketplace.visualstudio.com/items?itemName=GodefroyTARD98.local-merge-request) | Local Merge Request | 0.1.0 | GitLab-style merge request reviews on local, unpushed commits: comment threads… |
+| 2026-09-28 16:07:05 | [samthemogul.ai-interview-prep-chat](https://marketplace.visualstudio.com/items?itemName=samthemogul.ai-interview-prep-chat) | AIInterviewPrepChat | 0.1.0 | Practice AI-assisted coding interviews in VS Code with a local, guarded AI assi… |
+| 2026-09-28 16:12:04 | [cielquan.better-gdscript-syntax](https://marketplace.visualstudio.com/items?itemName=cielquan.better-gdscript-syntax) | Better GDScript Syntax | 1.0.0 | Better GDScript Syntax for Visual Studio Code |
 
 ## Data source
 

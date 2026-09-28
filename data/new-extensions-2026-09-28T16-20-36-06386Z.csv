@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T15:37:14.27Z,konasuke.cyclechr,konasuke,cyclechr,0.0.1,Cycle through candidate text every time you press a key.
+2026-09-28T15:41:17.117Z,mimone.happydev,mimone,HappyDEV,2.0.0,"Five tiny coding-themed arcade games inside VS Code, with 3 difficulty levels. They can open automatically while Claude Code works on your prompt."
+2026-09-28T15:46:47.47Z,GustavoBozzano.em4-script,GustavoBozzano,EM4 Script,1.0.0,Language support for Emergency 4 .script
+2026-09-28T15:47:11.14Z,BigBang1112.vscode-chunkl,BigBang1112,ChunkL,0.1.0,Language support for ChunkL (.chunkl) files
+2026-09-28T15:47:11.94Z,s403o.azkar-guard-vscode,s403o,Azkar Guard,1.0.0,"Keeps reminding you until your morning and evening Azkar are complete, right inside VS Code."
+2026-09-28T15:52:43.93Z,ReadyStack.firebase-deploy-leak-audit,ReadyStack,Firebase Deploy Leak Audit,1.0.0,"Audits firebase.json before you run firebase deploy: ignore lists that let .env, source maps and admin keys reach the public bundle, catch-all public roots, and missing response headers."
+2026-09-28T15:53:02.273Z,ReadyStack.tfstate-secret-leak-lint,ReadyStack,Terraform State Secret Leak Lint,1.0.0,"Flags the Terraform resource attributes, outputs and backends whose values land in terraform.tfstate as cleartext, before an auditor or a repo reader finds them."
+2026-09-28T16:00:24.88Z,asyman.cuttle-blog,asyman,cuttle blog 工作台,0.1.0,在 VS Code 中阅读小说、管理农场、聊天并使用实时游戏大厅。
+2026-09-28T16:05:13.037Z,GodefroyTARD98.local-merge-request,GodefroyTARD98,Local Merge Request,0.1.0,"GitLab-style merge request reviews on local, unpushed commits: comment threads in native diffs, versions, suggestions, and a CLI so Claude Code can answer your comments."
+2026-09-28T16:07:05.853Z,samthemogul.ai-interview-prep-chat,samthemogul,AIInterviewPrepChat,0.1.0,"Practice AI-assisted coding interviews in VS Code with a local, guarded AI assistant powered by Ollama. Your code never leaves your machine."
+2026-09-28T16:12:04.65Z,cielquan.better-gdscript-syntax,cielquan,Better GDScript Syntax,1.0.0,Better GDScript Syntax for Visual Studio Code
