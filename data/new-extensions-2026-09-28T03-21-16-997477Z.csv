@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T02:44:22.803Z,smallhours.callflow,smallhours,"CallFlow — REST client & HTTP debugger, local only",0.1.1,"Send requests, keep collections as plain files, and (Pro) capture, inspect and replay your app's HTTP traffic. No account, no server, no telemetry."
+2026-09-28T02:56:23.48Z,jaugiust.rustforge,jaugiust,RustForge,1.0.0,"A lean extension pack for Rust in VS Code: rust-analyzer language support, CodeLLDB debugging, Code Runner, Cargo.toml editing with dependency insights, and Claude Code AI assistance."
+2026-09-28T02:59:52.343Z,butterbase.butterbase-mcp,butterbase,Butterbase MCP,1.1.1,"Butterbase Model Context Protocol server for AI coding agents — deploy apps, manage schemas, auth, storage, and more directly from your chat pane."
+2026-09-28T03:11:39.51Z,robs-studio.pane-pulse,robs-studio,Pane Pulse,0.2.1,Marks a Claude Code terminal tab thinking while it works and needs-you when it finishes in a background pane.
