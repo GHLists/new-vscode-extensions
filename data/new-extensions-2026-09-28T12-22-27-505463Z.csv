@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T11:30:21.117Z,bortunac.quick-see-links,bortunac,Quick @see Links,0.1.0,"Turns // @see path/to/file:line or path#Class.method comments into clickable links, in any file type or language."
+2026-09-28T11:55:36.467Z,kotoribako.gentle-error-ver01,kotoribako,Gentle Error 0.0.2,0.0.2,Promotes a calm coding experience by automatically suppressing error/warning squiggles during active typing.
+2026-09-28T11:55:43.713Z,Verzeta.verzeta,Verzeta,Verzeta,1.0.1,"Multi-agent project rooms inside VS Code. Connect to a paired Verzeta Studio host and chat with named-alias agent teams (@Coord, @Researcher, @Writer, @Critic) from the editor."
+2026-09-28T11:59:15.417Z,tommyli.gener,tommyli,Gener - Micro Prompting AI Coding Agent dedicated for VS Code,1.0.3,"Lightweight and no/low cost but full features coding agent dedicated for VSCode, optimized for local LLM but support every cloud LLMs and provider especially free ones."
+2026-09-28T12:15:13.833Z,dem1995.rules-relay,dem1995,Rules Relay: Claude Code rules via Google Drive,0.4.0,Sync a folder of Claude Code rule files between your computers through a folder in your own Google Drive.

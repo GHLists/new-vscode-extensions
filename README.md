@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 11:20 UTC
+## Latest list — 2026-09-28 12:22 UTC
 
-New extensions published between 2026-09-28 09:20 UTC and 2026-09-28 11:20 UTC.
+New extensions published between 2026-09-28 10:22 UTC and 2026-09-28 12:22 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T11-20-21-738978Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T12-22-27-505463Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 10:14:30 | [j62268781-alt.pi-code-chat](https://marketplace.visualstudio.com/items?itemName=j62268781-alt.pi-code-chat) | Pi Code Chat | 1.0.1 | Pi coding agent for VS Code — a Vue 3 chat panel and sidebar backed by a `pi --… |
-| 2026-09-28 10:23:52 | [unisonflow.unison-vscode](https://marketplace.visualstudio.com/items?itemName=unisonflow.unison-vscode) | Unison | 0.1.0 | A visual canvas of your project, kept in sync with VS Code. |
-| 2026-09-28 11:10:32 | [macdara.clear-resume](https://marketplace.visualstudio.com/items?itemName=macdara.clear-resume) | clear-resume | 0.2.1 | Browse your Claude Code handovers and resume one in a fresh conversation. |
-| 2026-09-28 11:11:13 | [prguard.prguard](https://marketplace.visualstudio.com/items?itemName=prguard.prguard) | PRGuard | 0.1.0 | Run PRGuard's pull-request audit on your changes before you commit, then apply… |
-| 2026-09-28 11:12:43 | [monishgiri-2001.salesforce-coding-motivator](https://marketplace.visualstudio.com/items?itemName=monishgiri-2001.salesforce-coding-motivator) | Salesforce Coding Motivator | 0.1.0 | A lightweight motivational companion for Salesforce developers working in VS Co… |
+| 2026-09-28 11:30:21 | [bortunac.quick-see-links](https://marketplace.visualstudio.com/items?itemName=bortunac.quick-see-links) | Quick @see Links | 0.1.0 | Turns // @see path/to/file:line or path#Class.method comments into clickable li… |
+| 2026-09-28 11:55:36 | [kotoribako.gentle-error-ver01](https://marketplace.visualstudio.com/items?itemName=kotoribako.gentle-error-ver01) | Gentle Error 0.0.2 | 0.0.2 | Promotes a calm coding experience by automatically suppressing error/warning sq… |
+| 2026-09-28 11:55:43 | [Verzeta.verzeta](https://marketplace.visualstudio.com/items?itemName=Verzeta.verzeta) | Verzeta | 1.0.1 | Multi-agent project rooms inside VS Code. Connect to a paired Verzeta Studio ho… |
+| 2026-09-28 11:59:15 | [tommyli.gener](https://marketplace.visualstudio.com/items?itemName=tommyli.gener) | Gener - Micro Prompting AI Coding Agent… | 1.0.3 | Lightweight and no/low cost but full features coding agent dedicated for VSCode… |
+| 2026-09-28 12:15:13 | [dem1995.rules-relay](https://marketplace.visualstudio.com/items?itemName=dem1995.rules-relay) | Rules Relay: Claude Code rules via Goog… | 0.4.0 | Sync a folder of Claude Code rule files between your computers through a folder… |
 
 ## Data source
 
