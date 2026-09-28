@@ -12,18 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 03:21 UTC
+## Latest list — 2026-09-28 04:19 UTC
 
-New extensions published between 2026-09-28 01:21 UTC and 2026-09-28 03:21 UTC.
+New extensions published between 2026-09-28 02:19 UTC and 2026-09-28 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T03-21-16-997477Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T04-19-50-714121Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 02:44:22 | [smallhours.callflow](https://marketplace.visualstudio.com/items?itemName=smallhours.callflow) | CallFlow — REST client & HTTP debugger,… | 0.1.1 | Send requests, keep collections as plain files, and (Pro) capture, inspect and… |
-| 2026-09-28 02:56:23 | [jaugiust.rustforge](https://marketplace.visualstudio.com/items?itemName=jaugiust.rustforge) | RustForge | 1.0.0 | A lean extension pack for Rust in VS Code: rust-analyzer language support, Code… |
-| 2026-09-28 02:59:52 | [butterbase.butterbase-mcp](https://marketplace.visualstudio.com/items?itemName=butterbase.butterbase-mcp) | Butterbase MCP | 1.1.1 | Butterbase Model Context Protocol server for AI coding agents — deploy apps, ma… |
-| 2026-09-28 03:11:39 | [robs-studio.pane-pulse](https://marketplace.visualstudio.com/items?itemName=robs-studio.pane-pulse) | Pane Pulse | 0.2.1 | Marks a Claude Code terminal tab thinking while it works and needs-you when it… |
+| 2026-09-28 03:18:36 | [nuxyel.bend2-vscode](https://marketplace.visualstudio.com/items?itemName=nuxyel.bend2-vscode) | Bend 2 Language Support by Nuxyel | 1.0.1 | Proof-aware language support and developer tools for Bend 2. |
+| 2026-09-28 03:18:56 | [ZONTAL.bedrock-vscode](https://marketplace.visualstudio.com/items?itemName=ZONTAL.bedrock-vscode) | ZONTAL Studio - Bedrock | 0.1.0 | Amazon Bedrock language models for VS Code |
+| 2026-09-28 03:21:08 | [jaytankdev.stdiolint](https://marketplace.visualstudio.com/items?itemName=jaytankdev.stdiolint) | StdioLint: stdout Guard for MCP Servers | 0.1.0 | Catches console.log, print() and loggers writing to stdout in stdio MCP servers… |
+| 2026-09-28 03:23:43 | [KeatonLi.kivo-git](https://marketplace.visualstudio.com/items?itemName=KeatonLi.kivo-git) | Kivo Git | 0.3.1 | An IDEA-style Git workflow for VS Code: commit changes on the left, inspect his… |
+| 2026-09-28 03:26:07 | [rawtx.lua-formatter-2026](https://marketplace.visualstudio.com/items?itemName=rawtx.lua-formatter-2026) | Lua Formatter 2026 | 0.1.3 | Formats Lua and Luau. Semicolons are optional in Lua; this formatter writes the… |
+| 2026-09-28 03:49:12 | [NashTech.nto-sdlc-panel](https://marketplace.visualstudio.com/items?itemName=NashTech.nto-sdlc-panel) | NTO Control Panel | 0.2.1 | SDLC workflow dashboard with prompt generation. |
+| 2026-09-28 03:51:16 | [ReadyStack.kani-kazei-shokuhin-1pct-lint-jp](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kani-kazei-shokuhin-1pct-lint-jp) | 消費税 簡易課税チェック（飲食料品1%特例対応） | 1.0.0 | 売上帳CSVの税率と事業区分を、令和9年4月からの飲食料品1%引下げ案と簡易課税の計算特例（1%売上税額と同額控除・75%ルールは1%取引を除く）で検査し、納… |
+| 2026-09-28 03:51:45 | [ReadyStack.barrierefreiheitserklaerung-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.barrierefreiheitserklaerung-check) | Barrierefreiheitserklärung Check (BFSG,… | 1.0.1 | Prüft Ihre Erklärung zur Barrierefreiheit (Markdown/HTML) auf die Pflichtangabe… |
+| 2026-09-28 03:52:03 | [ReadyStack.mssql-container-licence-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.mssql-container-licence-lint) | SQL Server Docker Licence Lint (MSSQL_P… | 1.0.0 | Lints docker-compose, Kubernetes YAML and Dockerfiles that run the mssql/server… |
+| 2026-09-28 03:52:35 | [ReadyStack.rds-extended-support-cost-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rds-extended-support-cost-lint) | RDS Extended Support Cost Lint for Terr… | 1.0.0 | Flags aws_db_instance and Aurora clusters in Terraform whose MySQL/PostgreSQL m… |
+| 2026-09-28 03:52:55 | [ReadyStack.nuget-commercial-license-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.nuget-commercial-license-gate) | NuGet License Gate: AutoMapper, MediatR | 1.0.0 | Flags .csproj, Directory.Packages.props and packages.config lines that pull Aut… |
+| 2026-09-28 04:13:57 | [ReadyStack.avv-pruefer-art28-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.avv-pruefer-art28-lint) | AVV-Prüfer – Auftragsverarbeitungsvertr… | 1.0.1 | Prüft Auftragsverarbeitungsverträge (AVV/DPA in Markdown) auf die Pflichtinhalt… |
 
 ## Data source
 
