@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T16:18:13.19Z,windowslucker.azure-pr-toolkit,windowslucker,Azure Pull Request Toolkit,0.7.1,"Review, create and manage Azure DevOps pull requests (Services and Server) without leaving VS Code."
+2026-09-28T16:23:36.35Z,shmr.clippings,shmr,Clippings,0.1.0,"Fast TODO tree backed by a Rust language server, with todo-tree's features and settings."
+2026-09-28T16:32:50.013Z,Slickus.scl-language-support,Slickus,SCL Language Support (Siemens),0.1.0,"Language support for Siemens SCL (Structured Control Language, TIA Portal): syntax highlighting, diagnostics, hover, and completion. No Python installation required."
+2026-09-28T16:34:19.777Z,soldadoryan.claude-agents-monitor,soldadoryan,Claude Agents Monitor,0.3.0,"Mostra os agentes do Claude Code em execução, o modelo de cada um e o que estão fazendo."
+2026-09-28T16:34:26.43Z,mistcoversmyeyes.shell-snippet-trigger,mistcoversmyeyes,Shell Snippet Trigger,0.1.0,Trigger existing snippets with a backslash in Shell and Zsh files.
+2026-09-28T16:55:22.53Z,daglane.daglane,daglane,daglane,0.1.0,"Fast, local dbt project lineage and navigation inside VS Code and Cursor."
+2026-09-28T16:55:32.023Z,chronos.FuncUndo-chronos,chronos,FuncUndo,0.1.0,Semantic version tracking for granular code history.
