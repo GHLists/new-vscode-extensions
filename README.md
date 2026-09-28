@@ -12,26 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 18:20 UTC
+## Latest list — 2026-09-28 19:21 UTC
 
-New extensions published between 2026-09-28 16:20 UTC and 2026-09-28 18:20 UTC.
+New extensions published between 2026-09-28 17:21 UTC and 2026-09-28 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T18-20-10-138045Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T19-21-50-619333Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 17:16:14 | [grafyx.grafyx-atlas-vscode](https://marketplace.visualstudio.com/items?itemName=grafyx.grafyx-atlas-vscode) | Grafyx Atlas | 1.0.1 | Open the grafyx/atlas map of a project from VS Code. |
-| 2026-09-28 17:17:09 | [AdityaNishad.cses-at-tip](https://marketplace.visualstudio.com/items?itemName=AdityaNishad.cses-at-tip) | CSES at Tip | 1.1.2 | 🏆 Personal CSES problem-solving tracker — organize solutions, track progress, s… |
-| 2026-09-28 17:24:49 | [Symthosm.git-diff-html](https://marketplace.visualstudio.com/items?itemName=Symthosm.git-diff-html) | GitDif HTML | 1.0.1 | Generate side-by-side HTML diff reports for Git repositories, plus a C/C++ colo… |
-| 2026-09-28 17:27:07 | [JulietaMontenegro.visor-de-practicos](https://marketplace.visualstudio.com/items?itemName=JulietaMontenegro.visor-de-practicos) | Visor de Prácticos | 0.3.0 | Visor de PDF para estudiar: marcá prácticos como hechos y tomá notas al lado. |
-| 2026-09-28 17:29:51 | [SantiagoBarcenas.git-jet](https://marketplace.visualstudio.com/items?itemName=SantiagoBarcenas.git-jet) | Git Jet | 0.20.1 | WebStorm/IntelliJ-style Git for VS Code: Commit tool window, Log with graph, br… |
-| 2026-09-28 17:35:53 | [mtcodeai.mtcode-remote-gpu](https://marketplace.visualstudio.com/items?itemName=mtcodeai.mtcode-remote-gpu) | Remote - GPU | 0.9.1 | Remote GPU access for teams: one-click SSH terminals, Remote-SSH and Dev Contai… |
-| 2026-09-28 17:36:42 | [Tappify.tappify](https://marketplace.visualstudio.com/items?itemName=Tappify.tappify) | Tappify Extensions | 0.1.0 | Manifest validation, snippets and Tappify CLI commands for building an extensio… |
-| 2026-09-28 17:46:34 | [Chetan-boi.gitpurge-vscode](https://marketplace.visualstudio.com/items?itemName=Chetan-boi.gitpurge-vscode) | GitPurge: Real-Time Secret leak prevent… | 0.0.1 | Scan and purge secrets, API keys, and sensitive tokens. |
-| 2026-09-28 17:47:53 | [subham-baral.deepseek-vscode-agent](https://marketplace.visualstudio.com/items?itemName=subham-baral.deepseek-vscode-agent) | DeepSeek VSCode Agent | 1.0.1 | AI Coding Agent via Browser Automation in VS Code |
-| 2026-09-28 17:55:31 | [conn2flow.conn2flow-tools](https://marketplace.visualstudio.com/items?itemName=conn2flow.conn2flow-tools) | Conn2Flow Dev Tools | 1.1.1 | Official developer panel for SDD, Core, projects, diagnostics, agents, backlog… |
-| 2026-09-28 18:06:55 | [kiranlabs.codeskeleton-ai](https://marketplace.visualstudio.com/items?itemName=kiranlabs.codeskeleton-ai) | CodeSkeleton AI: Focus Extractor & Outl… | 1.0.0 | Eliminate AI hallucination and line skipping. Generates compact architectural s… |
-| 2026-09-28 18:07:20 | [kiranlabs.patchback-ai](https://marketplace.visualstudio.com/items?itemName=kiranlabs.patchback-ai) | PatchBack AI: Zero-Friction AI Code Pat… | 1.0.0 | Seamlessly inject partial AI code snippets, refactors, and lazy responses back… |
+| 2026-09-28 18:22:53 | [matheus-tupy.Tupy-Language](https://marketplace.visualstudio.com/items?itemName=matheus-tupy.Tupy-Language) | Tapy | 0.1.0 | Linguagem de marcacao em portugues - mais facil que HTML |
+| 2026-09-28 18:30:22 | [pluttan.fpgabench](https://marketplace.visualstudio.com/items?itemName=pluttan.fpgabench) | fpgabench | 0.94.0 | Проверка, синтез и загрузка конфигурации в ПЛИС |
+| 2026-09-28 18:32:00 | [GoMufi.gomufi](https://marketplace.visualstudio.com/items?itemName=GoMufi.gomufi) | GoMufi | 0.6.1 | GoMufi derslerini VS Code'da aç: kodu kendi bilgisayarında yaz, çalıştır, ödevi… |
+| 2026-09-28 18:37:24 | [RelLabs.workspace-spectrum](https://marketplace.visualstudio.com/items?itemName=RelLabs.workspace-spectrum) | Workspace Spectrum | 0.2.3 | Dynamically customize VS Code settings (colors, themes, editor settings) by rep… |
+| 2026-09-28 18:43:37 | [IgorUzhviev.md-editor-x](https://marketplace.visualstudio.com/items?itemName=IgorUzhviev.md-editor-x) | md-editor-x | 1.1.0 | Markdown files editor - WYSIWYG |
+| 2026-09-28 18:56:59 | [Saba-Ioseliani.Vesper-Noir](https://marketplace.visualstudio.com/items?itemName=Saba-Ioseliani.Vesper-Noir) | Vesper Noir | 1.0.1 | A dark VS Code theme with near-black backgrounds, burgundy accents, and vibrant… |
+| 2026-09-28 19:06:00 | [brunomueller.pixel-agents-cloud](https://marketplace.visualstudio.com/items?itemName=brunomueller.pixel-agents-cloud) | Pixel Agents Cloud | 1.4.1 | Pixel art office where your Claude Code agents come to life as animated charact… |
+| 2026-09-28 19:09:55 | [dragoscv.codai-vscode](https://marketplace.visualstudio.com/items?itemName=dragoscv.codai-vscode) | codai for VS Code | 0.1.0 | Your GitHub Copilot Chat sessions on your watch, phone and desktop: see what th… |
+| 2026-09-28 19:14:22 | [AriTrikesuma.remote-ssh-webform](https://marketplace.visualstudio.com/items?itemName=AriTrikesuma.remote-ssh-webform) | Remote SSH WebForm | 0.3.0 | Build, run and debug classic ASP.NET (.NET Framework Web Forms / Web API) proje… |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T18:22:53.91Z,matheus-tupy.Tupy-Language,matheus-tupy,Tapy,0.1.0,Linguagem de marcacao em portugues - mais facil que HTML
+2026-09-28T18:30:22.723Z,pluttan.fpgabench,pluttan,fpgabench,0.94.0,"Проверка, синтез и загрузка конфигурации в ПЛИС"
+2026-09-28T18:32:00.517Z,GoMufi.gomufi,GoMufi,GoMufi,0.6.1,"GoMufi derslerini VS Code'da aç: kodu kendi bilgisayarında yaz, çalıştır, ödevini teslim et."
+2026-09-28T18:37:24.617Z,RelLabs.workspace-spectrum,RelLabs,Workspace Spectrum,0.2.3,"Dynamically customize VS Code settings (colors, themes, editor settings) by repository or folder name without modifying repository files."
+2026-09-28T18:43:37.887Z,IgorUzhviev.md-editor-x,IgorUzhviev,md-editor-x,1.1.0,Markdown files editor - WYSIWYG
+2026-09-28T18:56:59.593Z,Saba-Ioseliani.Vesper-Noir,Saba-Ioseliani,Vesper Noir,1.0.1,"A dark VS Code theme with near-black backgrounds, burgundy accents, and vibrant syntax highlighting."
+2026-09-28T19:06:00.45Z,brunomueller.pixel-agents-cloud,brunomueller,Pixel Agents Cloud,1.4.1,Pixel art office where your Claude Code agents come to life as animated characters
+2026-09-28T19:09:55.88Z,dragoscv.codai-vscode,dragoscv,codai for VS Code,0.1.0,"Your GitHub Copilot Chat sessions on your watch, phone and desktop: see what the agent is doing, approve tools and answer its questions from anywhere. Plus @codai in chat."
+2026-09-28T19:14:22.14Z,AriTrikesuma.remote-ssh-webform,AriTrikesuma,Remote SSH WebForm,0.3.0,"Build, run and debug classic ASP.NET (.NET Framework Web Forms / Web API) projects under IIS Express from VS Code Remote-SSH, driven by Visual Studio .slnLaunch profiles."
