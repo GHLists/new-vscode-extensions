@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 10:24 UTC
+## Latest list — 2026-09-28 11:20 UTC
 
-New extensions published between 2026-09-28 08:24 UTC and 2026-09-28 10:24 UTC.
+New extensions published between 2026-09-28 09:20 UTC and 2026-09-28 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T10-24-29-073544Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T11-20-21-738978Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 09:19:04 | [FrontlineNetworks.fanuc-ls](https://marketplace.visualstudio.com/items?itemName=FrontlineNetworks.fanuc-ls) | FANUC TP (LS) | 0.2.0 | Syntaxhighlighting, Snippets, Syntaxprüfung und FTP-Dateitransfer für FANUC TP-… |
-| 2026-09-28 09:32:18 | [devChrisho.css-ghost-buster](https://marketplace.visualstudio.com/items?itemName=devChrisho.css-ghost-buster) | Css Ghost Buster | 0.0.2 | Finds unused CSS classes and selectors, with inline indicators and a sidebar su… |
-| 2026-09-28 10:02:09 | [Quectel.quectelpi](https://marketplace.visualstudio.com/items?itemName=Quectel.quectelpi) | Quectel Pi | 1.0.0 | Quectel Pi: develop for the Quectel Pi series (M2 / H1) inside VS Code — connec… |
+| 2026-09-28 10:14:30 | [j62268781-alt.pi-code-chat](https://marketplace.visualstudio.com/items?itemName=j62268781-alt.pi-code-chat) | Pi Code Chat | 1.0.1 | Pi coding agent for VS Code — a Vue 3 chat panel and sidebar backed by a `pi --… |
+| 2026-09-28 10:23:52 | [unisonflow.unison-vscode](https://marketplace.visualstudio.com/items?itemName=unisonflow.unison-vscode) | Unison | 0.1.0 | A visual canvas of your project, kept in sync with VS Code. |
+| 2026-09-28 11:10:32 | [macdara.clear-resume](https://marketplace.visualstudio.com/items?itemName=macdara.clear-resume) | clear-resume | 0.2.1 | Browse your Claude Code handovers and resume one in a fresh conversation. |
+| 2026-09-28 11:11:13 | [prguard.prguard](https://marketplace.visualstudio.com/items?itemName=prguard.prguard) | PRGuard | 0.1.0 | Run PRGuard's pull-request audit on your changes before you commit, then apply… |
+| 2026-09-28 11:12:43 | [monishgiri-2001.salesforce-coding-motivator](https://marketplace.visualstudio.com/items?itemName=monishgiri-2001.salesforce-coding-motivator) | Salesforce Coding Motivator | 0.1.0 | A lightweight motivational companion for Salesforce developers working in VS Co… |
 
 ## Data source
 

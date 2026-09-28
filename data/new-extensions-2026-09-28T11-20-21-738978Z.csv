@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T10:14:30.567Z,j62268781-alt.pi-code-chat,j62268781-alt,Pi Code Chat,1.0.1,"Pi coding agent for VS Code — a Vue 3 chat panel and sidebar backed by a `pi --mode rpc` subprocess, with a live editor bridge and bundled pi extensions (questionnaire, rewind, todo) out of the box."
+2026-09-28T10:23:52.157Z,unisonflow.unison-vscode,unisonflow,Unison,0.1.0,"A visual canvas of your project, kept in sync with VS Code."
+2026-09-28T11:10:32.447Z,macdara.clear-resume,macdara,clear-resume,0.2.1,Browse your Claude Code handovers and resume one in a fresh conversation.
+2026-09-28T11:11:13.467Z,prguard.prguard,prguard,PRGuard,0.1.0,"Run PRGuard's pull-request audit on your changes before you commit, then apply verified fixes or hand findings to your AI assistant."
+2026-09-28T11:12:43.363Z,monishgiri-2001.salesforce-coding-motivator,monishgiri-2001,Salesforce Coding Motivator,0.1.0,A lightweight motivational companion for Salesforce developers working in VS Code.
