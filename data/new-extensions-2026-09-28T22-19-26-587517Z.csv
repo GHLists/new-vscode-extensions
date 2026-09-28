@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T21:35:13.95Z,IBM.ibm-early-development-testing-extension-pack,IBM,IBM Early Development Testing Extension Pack,3.0.0,"A curated extension pack for mainframe application developers — bundles IBM Early Development Testing, Zowe Explorer, IBM Z Open Editor, IBM Z Open Debug and IBM Compiled Code Coverage into a single install."
+2026-09-28T21:39:43.41Z,melstackbox.featuresteward,melstackbox,FeatureSteward,0.1.0,"See your FeatureSteward flags, their stewards, and stale flags without leaving the editor."
+2026-09-28T21:52:46.023Z,oisee.bpl,oisee,BPMN-Lite,0.4.37,Live preview for BPMN-Lite DSL with syntax highlighting and real-time diagram rendering
+2026-09-28T22:03:20.613Z,Kovamd.kova,Kovamd,Kova,0.0.1,"Syntax highlighting for Kova Markdown presentations, plus Present with Kova... from the command palette."
+2026-09-28T22:12:12.483Z,edtroleis.claude-code-agents-monitor,edtroleis,Claude Code Agents Monitor,0.0.1,"List your Claude Code subagents and see which ones are running right now, from a dedicated sidebar view."

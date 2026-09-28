@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 21:20 UTC
+## Latest list — 2026-09-28 22:19 UTC
 
-New extensions published between 2026-09-28 19:20 UTC and 2026-09-28 21:20 UTC.
+New extensions published between 2026-09-28 20:19 UTC and 2026-09-28 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T21-20-27-725547Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T22-19-26-587517Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 20:17:26 | [OpenSpineConsortium.ashley](https://marketplace.visualstudio.com/items?itemName=OpenSpineConsortium.ashley) | Ashley: grid research environment | 3.0.0 | Sets up a medical student's laptop for research on the the university HPC grid:… |
-| 2026-09-28 20:19:54 | [stefanolabs.autodev-vscode](https://marketplace.visualstudio.com/items?itemName=stefanolabs.autodev-vscode) | AutoDev by Stefano Labs | 0.2.0 | Keeps the agent CLI you already have — claude, codex or agy — working on one ob… |
-| 2026-09-28 20:20:17 | [Treluz.argus-treluz](https://marketplace.visualstudio.com/items?itemName=Treluz.argus-treluz) | Argus Code | 1.12.98 | Agente de IA independente para VS Code e Cursor: login OpenAI, tools, browser,… |
-| 2026-09-28 20:52:00 | [AllThingsSmitty.env-var-auditor-vscode](https://marketplace.visualstudio.com/items?itemName=AllThingsSmitty.env-var-auditor-vscode) | Env Var Auditor | 0.1.0 | Inline diagnostics for undeclared, unread, and client-exposed environment varia… |
-| 2026-09-28 21:12:28 | [MennoHomanWindigo.spritematex-vscode](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritematex-vscode) | SpritemateX | 0.1.0 | Commander X16 sprite & tile editor by OldSkoolCoder (OSK) — VS Code port of Spr… |
-| 2026-09-28 21:13:14 | [EdCordata.better-code-comment](https://marketplace.visualstudio.com/items?itemName=EdCordata.better-code-comment) | Better Code Comment | 0.0.1 | This extension improves how commenting works for single-line and multi-line blo… |
+| 2026-09-28 21:35:13 | [IBM.ibm-early-development-testing-extension-pack](https://marketplace.visualstudio.com/items?itemName=IBM.ibm-early-development-testing-extension-pack) | IBM Early Development Testing Extension… | 3.0.0 | A curated extension pack for mainframe application developers — bundles IBM Ear… |
+| 2026-09-28 21:39:43 | [melstackbox.featuresteward](https://marketplace.visualstudio.com/items?itemName=melstackbox.featuresteward) | FeatureSteward | 0.1.0 | See your FeatureSteward flags, their stewards, and stale flags without leaving… |
+| 2026-09-28 21:52:46 | [oisee.bpl](https://marketplace.visualstudio.com/items?itemName=oisee.bpl) | BPMN-Lite | 0.4.37 | Live preview for BPMN-Lite DSL with syntax highlighting and real-time diagram r… |
+| 2026-09-28 22:03:20 | [Kovamd.kova](https://marketplace.visualstudio.com/items?itemName=Kovamd.kova) | Kova | 0.0.1 | Syntax highlighting for Kova Markdown presentations, plus Present with Kova...… |
+| 2026-09-28 22:12:12 | [edtroleis.claude-code-agents-monitor](https://marketplace.visualstudio.com/items?itemName=edtroleis.claude-code-agents-monitor) | Claude Code Agents Monitor | 0.0.1 | List your Claude Code subagents and see which ones are running right now, from… |
 
 ## Data source
 
