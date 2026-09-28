@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T05:23:09.97Z,stacksolve.project-dna,stacksolve,Project DNA,0.1.1,Understand your entire codebase through a living project architecture map.
+2026-09-28T05:26:12.58Z,kradyy.terminal-layouts,kradyy,Terminal Layouts,0.6.0,"Save, bookmark and restore terminal tabs, folders and splits in VS Code and Cursor. Uses tmux when installed so running processes survive reloads."
+2026-09-28T05:37:54.43Z,bislink360.styled-markdown,bislink360,Styled Markdown (.smd),1.1.0,"Markdown for humans and AI agents: callouts, colors, diagrams, math, decisions, risks, APIs, KPIs — with live preview, validation, and token-efficient agent views."
+2026-09-28T05:55:41.687Z,tuya-yinxiu.cindex,tuya-yinxiu,CIndex,1.0.0,"C/C++ code navigation, call hierarchy and symbol highlight without compilation. 22k files: ~7 ms jumps, 315 MB RAM"
+2026-09-28T06:03:47.253Z,shchusia.commit-hike,shchusia,Commit Hike,0.1.0,"Your commits move you along a hiking trail. Local-only, never touches your repositories."
+2026-09-28T06:04:18.003Z,vidlogi.vida,vidlogi,VIDA — AI Coding Agent,1.9.19,"AI coding agent for VS Code: understand your codebase, edit files, run commands, and work with cloud or local models—with approvals and safety controls."
+2026-09-28T06:13:48.053Z,katrine-jensen-next.tpuasm,katrine-jensen-next,TPU Assembly,0.1.3,Syntax highlighting and bracket editing for tpuasm TPU assembly listings.

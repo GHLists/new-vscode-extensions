@@ -12,17 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 05:19 UTC
+## Latest list — 2026-09-28 06:20 UTC
 
-New extensions published between 2026-09-28 03:19 UTC and 2026-09-28 05:19 UTC.
+New extensions published between 2026-09-28 04:20 UTC and 2026-09-28 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T05-19-45-042004Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T06-20-48-280608Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 04:18:12 | [ReadyStack.beancount-auslandsumsatz-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.beancount-auslandsumsatz-lint) | Beancount/hledger Auslandsumsatz-Check… | 1.0.1 | Prüft Beancount- und hledger-Journale mit Auslandskunden: Euro-Umrechnung (§ 16… |
-| 2026-09-28 04:38:00 | [katrine-jensen-next.vscode-language-pack-da-next](https://marketplace.visualstudio.com/items?itemName=katrine-jensen-next.vscode-language-pack-da-next) | Danish Language Pack by Katrine Jensen… | 1.0.10 | Language pack extension for Danish |
-| 2026-09-28 04:42:10 | [eiichi-ishitsuka.struct-grid-editor](https://marketplace.visualstudio.com/items?itemName=eiichi-ishitsuka.struct-grid-editor) | StructGridEditor | 0.0.2 | Edit JSON, YAML, and JSONL files in a spreadsheet-like grid view. |
+| 2026-09-28 05:23:09 | [stacksolve.project-dna](https://marketplace.visualstudio.com/items?itemName=stacksolve.project-dna) | Project DNA | 0.1.1 | Understand your entire codebase through a living project architecture map. |
+| 2026-09-28 05:26:12 | [kradyy.terminal-layouts](https://marketplace.visualstudio.com/items?itemName=kradyy.terminal-layouts) | Terminal Layouts | 0.6.0 | Save, bookmark and restore terminal tabs, folders and splits in VS Code and Cur… |
+| 2026-09-28 05:37:54 | [bislink360.styled-markdown](https://marketplace.visualstudio.com/items?itemName=bislink360.styled-markdown) | Styled Markdown (.smd) | 1.1.0 | Markdown for humans and AI agents: callouts, colors, diagrams, math, decisions,… |
+| 2026-09-28 05:55:41 | [tuya-yinxiu.cindex](https://marketplace.visualstudio.com/items?itemName=tuya-yinxiu.cindex) | CIndex | 1.0.0 | C/C++ code navigation, call hierarchy and symbol highlight without compilation.… |
+| 2026-09-28 06:03:47 | [shchusia.commit-hike](https://marketplace.visualstudio.com/items?itemName=shchusia.commit-hike) | Commit Hike | 0.1.0 | Your commits move you along a hiking trail. Local-only, never touches your repo… |
+| 2026-09-28 06:04:18 | [vidlogi.vida](https://marketplace.visualstudio.com/items?itemName=vidlogi.vida) | VIDA — AI Coding Agent | 1.9.19 | AI coding agent for VS Code: understand your codebase, edit files, run commands… |
+| 2026-09-28 06:13:48 | [katrine-jensen-next.tpuasm](https://marketplace.visualstudio.com/items?itemName=katrine-jensen-next.tpuasm) | TPU Assembly | 0.1.3 | Syntax highlighting and bracket editing for tpuasm TPU assembly listings. |
 
 ## Data source
 
