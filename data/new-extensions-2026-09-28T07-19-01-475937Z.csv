@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T06:34:28.44Z,Emulica.vscode-emulica-emulator,Emulica,Emulica Emulator,0.2.0,VS Code extension for running Emulica and compiling reviewed MCU emulator specifications.
+2026-09-28T06:34:49.327Z,JJT.jjt-blackdoor-language-support-extension,JJT,Blackdoor Language Support for .bd files (used for game Blackdoor if editing scripts outside the game),1.1.2,"Python-style syntax highlighting, validated function coloring, and editable API hover documentation for Blackdoor .bd scripts."
+2026-09-28T06:38:33.57Z,mainamiru.web2apk,mainamiru,Web2APK,1.2.0,"Create, configure, validate and build APK/AAB from web projects with the web2apk CLI."
+2026-09-28T06:41:38.683Z,technopradyumn.prady-lang,technopradyumn,Prady Language,0.1.1,"Rich language support, syntax highlighting, diagnostics problem matchers, snippets, and execution for the Prady programming language (.pr)"
+2026-09-28T06:44:44.997Z,Refingere.refingere,Refingere,Refingere,0.1.1,Syntax highlighting for the Refingere language (.rfn files).
+2026-09-28T06:50:16.707Z,jiangsheng666.piByue,jiangsheng666,piByue,0.4.0,A first-class VS Code interface powered by the native Pi coding agent SDK.
+2026-09-28T06:53:47.543Z,okano-tomoyuki.bethany-designer,okano-tomoyuki,Bethany Designer,0.1.0,GUI form designer for Bethany (C++ / Python)

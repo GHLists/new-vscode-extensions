@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 06:20 UTC
+## Latest list — 2026-09-28 07:19 UTC
 
-New extensions published between 2026-09-28 04:20 UTC and 2026-09-28 06:20 UTC.
+New extensions published between 2026-09-28 05:19 UTC and 2026-09-28 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T06-20-48-280608Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T07-19-01-475937Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-28 05:23:09 | [stacksolve.project-dna](https://marketplace.visualstudio.com/items?itemName=stacksolve.project-dna) | Project DNA | 0.1.1 | Understand your entire codebase through a living project architecture map. |
-| 2026-09-28 05:26:12 | [kradyy.terminal-layouts](https://marketplace.visualstudio.com/items?itemName=kradyy.terminal-layouts) | Terminal Layouts | 0.6.0 | Save, bookmark and restore terminal tabs, folders and splits in VS Code and Cur… |
-| 2026-09-28 05:37:54 | [bislink360.styled-markdown](https://marketplace.visualstudio.com/items?itemName=bislink360.styled-markdown) | Styled Markdown (.smd) | 1.1.0 | Markdown for humans and AI agents: callouts, colors, diagrams, math, decisions,… |
-| 2026-09-28 05:55:41 | [tuya-yinxiu.cindex](https://marketplace.visualstudio.com/items?itemName=tuya-yinxiu.cindex) | CIndex | 1.0.0 | C/C++ code navigation, call hierarchy and symbol highlight without compilation.… |
-| 2026-09-28 06:03:47 | [shchusia.commit-hike](https://marketplace.visualstudio.com/items?itemName=shchusia.commit-hike) | Commit Hike | 0.1.0 | Your commits move you along a hiking trail. Local-only, never touches your repo… |
-| 2026-09-28 06:04:18 | [vidlogi.vida](https://marketplace.visualstudio.com/items?itemName=vidlogi.vida) | VIDA — AI Coding Agent | 1.9.19 | AI coding agent for VS Code: understand your codebase, edit files, run commands… |
-| 2026-09-28 06:13:48 | [katrine-jensen-next.tpuasm](https://marketplace.visualstudio.com/items?itemName=katrine-jensen-next.tpuasm) | TPU Assembly | 0.1.3 | Syntax highlighting and bracket editing for tpuasm TPU assembly listings. |
+| 2026-09-28 06:34:28 | [Emulica.vscode-emulica-emulator](https://marketplace.visualstudio.com/items?itemName=Emulica.vscode-emulica-emulator) | Emulica Emulator | 0.2.0 | VS Code extension for running Emulica and compiling reviewed MCU emulator speci… |
+| 2026-09-28 06:34:49 | [JJT.jjt-blackdoor-language-support-extension](https://marketplace.visualstudio.com/items?itemName=JJT.jjt-blackdoor-language-support-extension) | Blackdoor Language Support for .bd file… | 1.1.2 | Python-style syntax highlighting, validated function coloring, and editable API… |
+| 2026-09-28 06:38:33 | [mainamiru.web2apk](https://marketplace.visualstudio.com/items?itemName=mainamiru.web2apk) | Web2APK | 1.2.0 | Create, configure, validate and build APK/AAB from web projects with the web2ap… |
+| 2026-09-28 06:41:38 | [technopradyumn.prady-lang](https://marketplace.visualstudio.com/items?itemName=technopradyumn.prady-lang) | Prady Language | 0.1.1 | Rich language support, syntax highlighting, diagnostics problem matchers, snipp… |
+| 2026-09-28 06:44:44 | [Refingere.refingere](https://marketplace.visualstudio.com/items?itemName=Refingere.refingere) | Refingere | 0.1.1 | Syntax highlighting for the Refingere language (.rfn files). |
+| 2026-09-28 06:50:16 | [jiangsheng666.piByue](https://marketplace.visualstudio.com/items?itemName=jiangsheng666.piByue) | piByue | 0.4.0 | A first-class VS Code interface powered by the native Pi coding agent SDK. |
+| 2026-09-28 06:53:47 | [okano-tomoyuki.bethany-designer](https://marketplace.visualstudio.com/items?itemName=okano-tomoyuki.bethany-designer) | Bethany Designer | 0.1.0 | GUI form designer for Bethany (C++ / Python) |
 
 ## Data source
 
