@@ -12,16 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-28 00:21 UTC
+## Latest list — 2026-09-28 01:21 UTC
 
-New extensions published between 2026-09-27 22:21 UTC and 2026-09-28 00:21 UTC.
+New extensions published between 2026-09-27 23:21 UTC and 2026-09-28 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-28T00-21-10-85157Z.csv)
+[Full CSV](data/new-extensions-2026-09-28T01-21-07-191816Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-27 23:17:36 | [marie-studio.marie-studio](https://marketplace.visualstudio.com/items?itemName=marie-studio.marie-studio) | MARIE-Studio | 0.1.3 | Destaque de sintaxe e montador integrado para a linguagem Assembly do MARIE |
-| 2026-09-28 00:09:45 | [smlum.vscode-gtfs](https://marketplace.visualstudio.com/items?itemName=smlum.vscode-gtfs) | GTFS | 0.2.0 | Read GTFS transit feeds in VS Code: rainbow columns, hovers that explain column… |
+| 2026-09-28 00:20:38 | [seojaewan.codocs](https://marketplace.visualstudio.com/items?itemName=seojaewan.codocs) | Codocs | 0.0.1 | Connect code in a workspace to its local .codocs knowledge files. |
+| 2026-09-28 00:42:11 | [nvitlam.agent-deck-insights](https://marketplace.visualstudio.com/items?itemName=nvitlam.agent-deck-insights) | Agent Deck Insights | 0.1.0 | Explains Agent Deck's session stats with the agent CLI you already use (Claude… |
+| 2026-09-28 00:47:05 | [HenryGX.comment-file-links](https://marketplace.visualstudio.com/items?itemName=HenryGX.comment-file-links) | Comment File Links | 1.0.0 | Turn workspace file paths in code comments into native, clickable links. |
 
 ## Data source
 

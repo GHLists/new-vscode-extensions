@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T00:20:38.19Z,seojaewan.codocs,seojaewan,Codocs,0.0.1,Connect code in a workspace to its local .codocs knowledge files.
+2026-09-28T00:42:11.297Z,nvitlam.agent-deck-insights,nvitlam,Agent Deck Insights,0.1.0,"Explains Agent Deck's session stats with the agent CLI you already use (Claude Code or Codex), on your click: where tokens and time went, each finding tied to the numbers it cites. Licence key required to send."
+2026-09-28T00:47:05.243Z,HenryGX.comment-file-links,HenryGX,Comment File Links,1.0.0,"Turn workspace file paths in code comments into native, clickable links."
