@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T07:23:03.727Z,99change.kunlunxin-xpu,99change,KunlunXin XPU Syntax Highlighting,0.1.4,No colors in .xpu? Let VS Code treat it like CUDA C++.
+2026-09-29T07:29:10.173Z,jefuriiij.hermes-studio,jefuriiij,Hermes Studio,0.4.1,"Hermes Agent, right inside VS Code. Chat about your code, approve every change, switch models and see what Hermes learns. Needs Hermes Agent installed."
+2026-09-29T07:43:53.95Z,branchline.branchline,branchline,Branchline — Git Graph,0.1.0,"A fast, actively maintained Git Graph for VS Code: visualize branches and history, inspect commits, and run git actions right from the graph."
+2026-09-29T08:01:30.207Z,Wisteria30.logico,Wisteria30,Logico,0.1.19,"Follow the logic, together. 次に読むべきコードを先回りして 1 点だけ提示する VS Code 拡張。"
+2026-09-29T08:11:49.647Z,akckreact.m09,akckreact,m09,0.0.9,"Snippets for React components, Redux, JSON, and CSS with ct prefix"

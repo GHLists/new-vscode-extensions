@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 07:21 UTC
+## Latest list — 2026-09-29 08:27 UTC
 
-New extensions published between 2026-09-29 05:21 UTC and 2026-09-29 07:21 UTC.
+New extensions published between 2026-09-29 06:27 UTC and 2026-09-29 08:27 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T07-21-34-240943Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T08-27-06-576734Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 06:23:45 | [BennyWu.panda-vivid-black](https://marketplace.visualstudio.com/items?itemName=BennyWu.panda-vivid-black) | Panda Vivid Black | 1.0.0 | A near-black theme with vivid syntax colors, readable selections, and semantic… |
-| 2026-09-29 06:39:25 | [redaechan.claude-codex-chat-manager](https://marketplace.visualstudio.com/items?itemName=redaechan.claude-codex-chat-manager) | Chat Manager for Claude Code & Codex | 0.10.0 | Mission control for your AI chats: every Claude Code chat on one always-on-top… |
-| 2026-09-29 06:40:25 | [neoxlabs.neox-vscode](https://marketplace.visualstudio.com/items?itemName=neoxlabs.neox-vscode) | Neox Agent | 3.9.1 | Neox coding agent in your editor: chat, edit files, run commands — with sign-in… |
-| 2026-09-29 06:40:41 | [wwenc6621.pico](https://marketplace.visualstudio.com/items?itemName=wwenc6621.pico) | Pico API Client | 1.0.0 | Minimal, local-first API client for VS Code. No account, no cloud. |
-| 2026-09-29 06:43:30 | [happy-engine1.dataform-sqlx-formatter](https://marketplace.visualstudio.com/items?itemName=happy-engine1.dataform-sqlx-formatter) | Dataform SQLX Formatter | 0.1.0 | Format a single .sqlx file with the Dataform CLI's own formatter, producing exa… |
-| 2026-09-29 06:46:46 | [Aaronlu2026.vcd-waveform-viewer](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.vcd-waveform-viewer) | VCD Waveform Viewer | 0.2.3 | GTKWave-like VCD waveform viewer inside VS Code |
-| 2026-09-29 07:08:10 | [Aaronlu2026.usbtrace](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.usbtrace) | USB Trace 采集分析 | 0.1.1 | USB trace 采集/解码/分析工具链（vcdlog）的 VS Code 图形界面：VCD/LOG 采集、波形查看、断言分析。 |
-| 2026-09-29 07:11:26 | [NaserHAlharbi.alhakeem](https://marketplace.visualstudio.com/items?itemName=NaserHAlharbi.alhakeem) | Al Hakeem | 0.1.1 | Agentic coding assistant powered by C# backend |
-| 2026-09-29 07:14:03 | [CodeMaman.ai-coauthoring-tracker](https://marketplace.visualstudio.com/items?itemName=CodeMaman.ai-coauthoring-tracker) | AI Co-Authoring Tracker | 0.0.43 | Tracks AI-assisted edits in a repository and supports automatic co-author trail… |
+| 2026-09-29 07:23:03 | [99change.kunlunxin-xpu](https://marketplace.visualstudio.com/items?itemName=99change.kunlunxin-xpu) | KunlunXin XPU Syntax Highlighting | 0.1.4 | No colors in .xpu? Let VS Code treat it like CUDA C++. |
+| 2026-09-29 07:29:10 | [jefuriiij.hermes-studio](https://marketplace.visualstudio.com/items?itemName=jefuriiij.hermes-studio) | Hermes Studio | 0.4.1 | Hermes Agent, right inside VS Code. Chat about your code, approve every change,… |
+| 2026-09-29 07:43:53 | [branchline.branchline](https://marketplace.visualstudio.com/items?itemName=branchline.branchline) | Branchline — Git Graph | 0.1.0 | A fast, actively maintained Git Graph for VS Code: visualize branches and histo… |
+| 2026-09-29 08:01:30 | [Wisteria30.logico](https://marketplace.visualstudio.com/items?itemName=Wisteria30.logico) | Logico | 0.1.19 | Follow the logic, together. 次に読むべきコードを先回りして 1 点だけ提示する VS Code 拡張。 |
+| 2026-09-29 08:11:49 | [akckreact.m09](https://marketplace.visualstudio.com/items?itemName=akckreact.m09) | m09 | 0.0.9 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
 
 ## Data source
 
