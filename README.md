@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 14:19 UTC
+## Latest list — 2026-09-29 15:21 UTC
 
-New extensions published between 2026-09-29 12:19 UTC and 2026-09-29 14:19 UTC.
+New extensions published between 2026-09-29 13:21 UTC and 2026-09-29 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T14-19-13-669571Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T15-21-05-087754Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 13:23:25 | [Fux-i.fuxi-fmt-vscode](https://marketplace.visualstudio.com/items?itemName=Fux-i.fuxi-fmt-vscode) | fuxi-fmt | 0.22.0 | Format Markdown for Chinese technical writing: blank lines, marker spacing, lis… |
-| 2026-09-29 13:25:34 | [maziac.nex-sna-file-viewer](https://marketplace.visualstudio.com/items?itemName=maziac.nex-sna-file-viewer) | NEX & SNA File Viewer (ZX Spectrum Next) | 1.0.0 | Read-only viewer for ZX Spectrum Next .nex files and ZX Spectrum .sna (.snx) sn… |
-| 2026-09-29 13:41:33 | [react-wire.react-wire](https://marketplace.visualstudio.com/items?itemName=react-wire.react-wire) | ReactWire | 0.12.2 | See the wiring of your React app: where it mounts, which component renders whic… |
-| 2026-09-29 13:53:56 | [mealet.zeen](https://marketplace.visualstudio.com/items?itemName=mealet.zeen) | Zeen | 0.1.0 | Language support for Zeen |
-| 2026-09-29 13:58:31 | [YoussefSaleh.copilot-token-meter](https://marketplace.visualstudio.com/items?itemName=YoussefSaleh.copilot-token-meter) | Copilot Token Meter | 0.1.0 | Live input, output and reasoning token consumption for GitHub Copilot agent ses… |
-| 2026-09-29 14:00:19 | [gjesus.al-auto-namespace](https://marketplace.visualstudio.com/items?itemName=gjesus.al-auto-namespace) | AL Auto Namespace | 0.0.1 | Automatically adds project-based namespaces to AL files when they are saved. |
-| 2026-09-29 14:03:42 | [lczs-plugin.lczs-codeplugin-prd](https://marketplace.visualstudio.com/items?itemName=lczs-plugin.lczs-codeplugin-prd) | LCZS-CodePlugin-PRD | 0.1.0 | Internal AI coding assistant. Sign in with your organization account to use it… |
-| 2026-09-29 14:04:40 | [Cornelsen.experibot](https://marketplace.visualstudio.com/items?itemName=Cornelsen.experibot) | eXperiBot | 1.0.0 | Program your eXperiBot with Python – directly from Visual Studio Code. |
-| 2026-09-29 14:16:02 | [yashwanth112004.wia-agent](https://marketplace.visualstudio.com/items?itemName=yashwanth112004.wia-agent) | Workspace Intelligence Agent (WIA) | 0.1.1 | AI-Powered Code Intelligence, Architecture Map, Symbol Impact CodeLens, and Lay… |
+| 2026-09-29 14:17:32 | [jaycacacha.github-account-switcher](https://marketplace.visualstudio.com/items?itemName=jaycacacha.github-account-switcher) | GitHub Quick Switch | 1.0.0 | Switch which GitHub account Git pushes with, from a dropdown in the status bar.… |
+| 2026-09-29 14:18:16 | [shou6.csv-loupe](https://marketplace.visualstudio.com/items?itemName=shou6.csv-loupe) | CSV Loupe | 0.1.0 | A read-only CSV viewer for quickly inspecting CSV and TSV files, including larg… |
+| 2026-09-29 14:21:41 | [LironCohen.context-tags](https://marketplace.visualstudio.com/items?itemName=LironCohen.context-tags) | Context Tags | 1.0.3 | Save the feature logic as a tag, so Cursor and other AI agents load only the co… |
+| 2026-09-29 14:42:53 | [8bitworkshop.8bitworkshop](https://marketplace.visualstudio.com/items?itemName=8bitworkshop.8bitworkshop) | 8bitworkshop — Retro 8-bit Dev | 0.1.0 | Build, run, and debug 8-bit programs — NES, Atari, C-64, and more — with 8bitwo… |
+| 2026-09-29 14:53:24 | [dabanli.good-buddy](https://marketplace.visualstudio.com/items?itemName=dabanli.good-buddy) | Good Buddy | 0.0.1 | A local-LLM powered coding assistant: inline completions and code explanations. |
 
 ## Data source
 

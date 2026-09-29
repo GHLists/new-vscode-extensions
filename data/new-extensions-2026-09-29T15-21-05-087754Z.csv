@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T14:17:32.13Z,jaycacacha.github-account-switcher,jaycacacha,GitHub Quick Switch,1.0.0,"Switch which GitHub account Git pushes with, from a dropdown in the status bar. No more editing Windows Credential Manager."
+2026-09-29T14:18:16.093Z,shou6.csv-loupe,shou6,CSV Loupe,0.1.0,"A read-only CSV viewer for quickly inspecting CSV and TSV files, including large ones."
+2026-09-29T14:21:41.33Z,LironCohen.context-tags,LironCohen,Context Tags,1.0.3,"Save the feature logic as a tag, so Cursor and other AI agents load only the context they need."
+2026-09-29T14:42:53.29Z,8bitworkshop.8bitworkshop,8bitworkshop,8bitworkshop — Retro 8-bit Dev,0.1.0,"Build, run, and debug 8-bit programs — NES, Atari, C-64, and more — with 8bitworkshop's 6502/Z80/6809 assemblers, compilers, and emulators"
+2026-09-29T14:53:24.95Z,dabanli.good-buddy,dabanli,Good Buddy,0.0.1,A local-LLM powered coding assistant: inline completions and code explanations.
