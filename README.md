@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 02:20 UTC
+## Latest list — 2026-09-29 03:19 UTC
 
-New extensions published between 2026-09-29 00:20 UTC and 2026-09-29 02:20 UTC.
+New extensions published between 2026-09-29 01:19 UTC and 2026-09-29 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T02-20-22-613651Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T03-19-41-836792Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 01:28:05 | [TerranovaDevelopmentGroup.quark-VScode-companion](https://marketplace.visualstudio.com/items?itemName=TerranovaDevelopmentGroup.quark-VScode-companion) | Quark — Companion | 0.9.1 | A free animated coding companion that brings warmth, perspective, and a little… |
-| 2026-09-29 01:29:53 | [GravicodeStudios.dotcode-vscode](https://marketplace.visualstudio.com/items?itemName=GravicodeStudios.dotcode-vscode) | DotCode | 0.1.0 | Agentic coding with any LLM (Anthropic, OpenAI, Azure, Gemini, DeepSeek, Ollama… |
-| 2026-09-29 01:42:57 | [SoftwareHouse.warpgate-ibmi](https://marketplace.visualstudio.com/items?itemName=SoftwareHouse.warpgate-ibmi) | WaRPGate for IBM i | 1.48.1 | Language support for Warp: syntax highlighting, live diagnostics, and DDS/CL co… |
-| 2026-09-29 02:14:12 | [anonimeact.adb-toolkit](https://marketplace.visualstudio.com/items?itemName=anonimeact.adb-toolkit) | ADB Toolkit | 1.0.0 | Android Debug Bridge shortcuts: server, devices, apps, files, and logcat from V… |
+| 2026-09-29 02:20:43 | [nlsjjy84-ui.ko-typo-converter](https://marketplace.visualstudio.com/items?itemName=nlsjjy84-ui.ko-typo-converter) | 한영타자 변환기 (Ko-Typo Converter) | 0.0.1 | 영문 타이핑 실수(한글 오타)를 자동으로 감지하고 변환해주는 VS Code 확장 |
+| 2026-09-29 02:22:57 | [irony1090.anchor-notes](https://marketplace.visualstudio.com/items?itemName=irony1090.anchor-notes) | Anchor Notes | 0.1.1 | 코드 줄에 마크다운 메모를 붙이고, 메모 속 코드를 소스와 동기화한다 — Markdown notes anchored to code, with… |
+| 2026-09-29 02:27:24 | [TypeShade.vscode-typeshade](https://marketplace.visualstudio.com/items?itemName=TypeShade.vscode-typeshade) | TypeShade | 0.1.0 | TypeShade language support for VS Code: diagnostics, hover, completions and nav… |
+| 2026-09-29 02:37:21 | [RavenEibu.eva-noctis](https://marketplace.visualstudio.com/items?itemName=RavenEibu.eva-noctis) | EVA Noctis | 0.6.0 | Twenty-three vivid themes inspired by Rebuild of Evangelion, the MAGI system, N… |
+| 2026-09-29 02:39:54 | [yuhan.tmux-terminal](https://marketplace.visualstudio.com/items?itemName=yuhan.tmux-terminal) | Tmux Terminal | 0.2.6 | iTerm2-style tmux panes in the VS Code terminal on macOS |
+| 2026-09-29 02:48:55 | [medevorg.toy-models-gate](https://marketplace.visualstudio.com/items?itemName=medevorg.toy-models-gate) | Toy Models Gate | 1.0.0 | Local HTTP gateway that routes AI coding assistants (Claude Code, Codex, Copilo… |
+| 2026-09-29 02:58:11 | [xlei.vscode-kimi-quota](https://marketplace.visualstudio.com/items?itemName=xlei.vscode-kimi-quota) | Kimi Helper | 0.1.2 | 在状态栏显示 Kimi Coding 套餐余量（5 小时窗口 / 每周额度） |
 
 ## Data source
 

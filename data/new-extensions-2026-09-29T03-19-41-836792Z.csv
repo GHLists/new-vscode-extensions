@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T02:20:43.3Z,nlsjjy84-ui.ko-typo-converter,nlsjjy84-ui,한영타자 변환기 (Ko-Typo Converter),0.0.1,영문 타이핑 실수(한글 오타)를 자동으로 감지하고 변환해주는 VS Code 확장
+2026-09-29T02:22:57.917Z,irony1090.anchor-notes,irony1090,Anchor Notes,0.1.1,"코드 줄에 마크다운 메모를 붙이고, 메모 속 코드를 소스와 동기화한다 — Markdown notes anchored to code, with snippet sync"
+2026-09-29T02:27:24.037Z,TypeShade.vscode-typeshade,TypeShade,TypeShade,0.1.0,"TypeShade language support for VS Code: diagnostics, hover, completions and navigation for ""use typeshade"" files, with a WGSL and GLSL preview."
+2026-09-29T02:37:21.617Z,RavenEibu.eva-noctis,RavenEibu,EVA Noctis,0.6.0,"Twenty-three vivid themes inspired by Rebuild of Evangelion, the MAGI system, NERV, SEELE, the A.T. Field, Instrumentality, Terminal Dogma, the Angels and the berserk EVA-01, with high contrast variants, built on the Noctis theme family."
+2026-09-29T02:39:54.103Z,yuhan.tmux-terminal,yuhan,Tmux Terminal,0.2.6,iTerm2-style tmux panes in the VS Code terminal on macOS
+2026-09-29T02:48:55.773Z,medevorg.toy-models-gate,medevorg,Toy Models Gate,1.0.0,"Local HTTP gateway that routes AI coding assistants (Claude Code, Codex, Copilot, etc.) to custom or self-hosted generative-AI models, with role profiles, effort normalization and usage accounting."
+2026-09-29T02:58:11.56Z,xlei.vscode-kimi-quota,xlei,Kimi Helper,0.1.2,在状态栏显示 Kimi Coding 套餐余量（5 小时窗口 / 每周额度）
