@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-28T23:29:06.08Z,endpne.coding-font-pack,endpne,Coding Font Pack,1.0.2,精选高品质编程字体包，无需在操作系统中安装字体，即可在 VS Code 中直接加载使用
+2026-09-28T23:47:09.023Z,PatricioPittana.carbon-lime-theme,PatricioPittana,Carbon Lime,1.0.0,"A calm, near-black dark theme with a vivid green accent. Works with any icon theme."
+2026-09-28T23:48:40.427Z,EmonZhang3438.sqladmin,EmonZhang3438,SQLAdmin — Oracle Database Tools,0.1.0,"Oracle database development toolkit for VS Code: connect, run SQL, edit results with commit/rollback, export, browse objects (SQL Developer-style), with PostgreSQL-ready driver abstraction."
+2026-09-28T23:50:36.017Z,neo-schobert.prompt-share,neo-schobert,Prompt Share,0.1.1,"Chat IA à plusieurs dans VS Code, avec les modèles GitHub Copilot de l'hôte : héberger ou rejoindre une session, agent confiné au projet, l'hôte garde la main. Projet indépendant, non affilié à GitHub ni à Microsoft."
+2026-09-29T00:04:12.52Z,JonivaniRicardoPereira.fluig-process-viewer,JonivaniRicardoPereira,Fluig Process Viewer,0.1.0,Visualização local de diagramas .process do Fluig (XMI/Graphiti).
