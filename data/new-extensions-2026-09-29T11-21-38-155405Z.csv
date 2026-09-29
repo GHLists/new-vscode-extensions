@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T10:30:06.613Z,igorbezanovic.mui-icon-preview,igorbezanovic,MUI Icon Preview,0.1.0,Preview Material UI icons in VS Code hovers and completions.
+2026-09-29T10:47:12.553Z,ReoX86.smiles-structure-preview,ReoX86,SMILES Structure Preview,0.1.0,Adds SMILES molecular structure rendering to VS Code's built-in Markdown preview
+2026-09-29T10:53:04.333Z,emvigo.emrequest,emvigo,emRequest — REST API Client,0.2.0,"Fast, lightweight REST API client for VS Code by Emvigo. Send requests, save collections, use environments, import cURL."
+2026-09-29T10:57:02.487Z,bobrowsse-tech.smartmerge-resolver,bobrowsse-tech,SmartMergeResolver,0.1.2,Editor adapter for SmartMergeResolver. It renders the shared panel and forwards actions to the daemon.
+2026-09-29T10:59:30.35Z,tuya.tuyaopen,tuya,tuyaopen,1.0.1,TuyaOpen + Miniapp + Tuya Platform companion extension for VSCode. Streamlines AIoT and Agentic AI project workflows.
+2026-09-29T11:11:06.89Z,cathouse.cathouse,cathouse,CatHouse,0.1.0,"catherd in VS Code: Claude plans and verifies while Codex, opencode or Claude Code workers write the code, starting on the cheapest model that can do each job. CatHouse replaces catherd's terminal setup and TUI with one-click setup, a chat to start tasks, and live views of every role, budget and mil"
+2026-09-29T11:14:16.21Z,impact-log.impact-log-vscode,impact-log,impact log,0.1.0,"Capture what you did and its impact from VS Code: selected code, the current file or the last commit. Drafts open in your impact log — nothing is sent to a server."
+2026-09-29T11:16:28.373Z,flawot.FTheme,flawot,FTheme,0.0.1,Тёмная тема на основе любимых цветов разработчика flawot
