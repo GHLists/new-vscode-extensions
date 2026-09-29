@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T01:28:05.693Z,TerranovaDevelopmentGroup.quark-VScode-companion,TerranovaDevelopmentGroup,Quark — Companion,0.9.1,"A free animated coding companion that brings warmth, perspective, and a little playful humanity to your VS Code workspace."
+2026-09-29T01:29:53.883Z,GravicodeStudios.dotcode-vscode,GravicodeStudios,DotCode,0.1.0,"Agentic coding with any LLM (Anthropic, OpenAI, Azure, Gemini, DeepSeek, Ollama) inside VS Code: chat, tool calls, diffs and permission prompts from the DotCode agent. By Gravicode Studios, led by Kang Fadhil."
+2026-09-29T01:42:57.013Z,SoftwareHouse.warpgate-ibmi,SoftwareHouse,WaRPGate for IBM i,1.48.1,"Language support for Warp: syntax highlighting, live diagnostics, and DDS/CL code generation with IBM i deployment"
+2026-09-29T02:14:12.69Z,anonimeact.adb-toolkit,anonimeact,ADB Toolkit,1.0.0,"Android Debug Bridge shortcuts: server, devices, apps, files, and logcat from VS Code."
