@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T13:23:25.913Z,Fux-i.fuxi-fmt-vscode,Fux-i,fuxi-fmt,0.22.0,"Format Markdown for Chinese technical writing: blank lines, marker spacing, list renumbering, CJK to Latin spacing and Chinese punctuation width - with code, front matter and inline spans never touched."
+2026-09-29T13:25:34.28Z,maziac.nex-sna-file-viewer,maziac,NEX & SNA File Viewer (ZX Spectrum Next),1.0.0,"Read-only viewer for ZX Spectrum Next .nex files and ZX Spectrum .sna (.snx) snapshots: header, screen, palette, memory hex dumps and Z80 disassembly."
+2026-09-29T13:41:33.207Z,react-wire.react-wire,react-wire,ReactWire,0.12.2,"See the wiring of your React app: where it mounts, which component renders which, and where a prop or context travels. Click any node to open it."
+2026-09-29T13:53:56.09Z,mealet.zeen,mealet,Zeen,0.1.0,Language support for Zeen
+2026-09-29T13:58:31.937Z,YoussefSaleh.copilot-token-meter,YoussefSaleh,Copilot Token Meter,0.1.0,"Live input, output and reasoning token consumption for GitHub Copilot agent sessions, read from the local Copilot session store."
+2026-09-29T14:00:19.237Z,gjesus.al-auto-namespace,gjesus,AL Auto Namespace,0.0.1,Automatically adds project-based namespaces to AL files when they are saved.
+2026-09-29T14:03:42.387Z,lczs-plugin.lczs-codeplugin-prd,lczs-plugin,LCZS-CodePlugin-PRD,0.1.0,Internal AI coding assistant. Sign in with your organization account to use it in VS Code.
+2026-09-29T14:04:40.363Z,Cornelsen.experibot,Cornelsen,eXperiBot,1.0.0,Program your eXperiBot with Python – directly from Visual Studio Code.
+2026-09-29T14:16:02.95Z,yashwanth112004.wia-agent,yashwanth112004,Workspace Intelligence Agent (WIA),0.1.1,"AI-Powered Code Intelligence, Architecture Map, Symbol Impact CodeLens, and Laya Decision Agent for VS Code"
