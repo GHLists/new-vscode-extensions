@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 06:21 UTC
+## Latest list — 2026-09-29 07:21 UTC
 
-New extensions published between 2026-09-29 04:21 UTC and 2026-09-29 06:21 UTC.
+New extensions published between 2026-09-29 05:21 UTC and 2026-09-29 07:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T06-21-39-056294Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T07-21-34-240943Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 05:25:13 | [raghu-bhandi.schema-tree-editor](https://marketplace.visualstudio.com/items?itemName=raghu-bhandi.schema-tree-editor) | Schema Tree Editor | 0.1.0 | Edit tree-shaped JSON (menus, rules, configs, content trees) as a tree with for… |
-| 2026-09-29 05:27:04 | [claude-room.claude-room-orchestrator](https://marketplace.visualstudio.com/items?itemName=claude-room.claude-room-orchestrator) | Claude Room Orchestrator | 0.0.1 | Run, share and watch a Claude Room: publish the room, invite people, and see wh… |
-| 2026-09-29 05:39:50 | [zhanghongyun.z-book](https://marketplace.visualstudio.com/items?itemName=zhanghongyun.z-book) | 本地小说阅读器 | 0.1.8 | 在 VS Code 中阅读本地 EPUB 和 TXT 小说并记住阅读位置 |
-| 2026-09-29 06:00:53 | [BITWORKER.seofuxx-mcp](https://marketplace.visualstudio.com/items?itemName=BITWORKER.seofuxx-mcp) | SEOFuxx MCP – SEO Audit for Copilot | 0.1.0 | SEO analyses and prioritized on-page recommendations from your SEOFuxx account,… |
-| 2026-09-29 06:17:21 | [DomGenie.domgenie-payment-advisor](https://marketplace.visualstudio.com/items?itemName=DomGenie.domgenie-payment-advisor) | DomGenie Payment Advisor | 0.2.3 | Payment-domain Q&A and development suggestions you can copy into Claude Code. R… |
+| 2026-09-29 06:23:45 | [BennyWu.panda-vivid-black](https://marketplace.visualstudio.com/items?itemName=BennyWu.panda-vivid-black) | Panda Vivid Black | 1.0.0 | A near-black theme with vivid syntax colors, readable selections, and semantic… |
+| 2026-09-29 06:39:25 | [redaechan.claude-codex-chat-manager](https://marketplace.visualstudio.com/items?itemName=redaechan.claude-codex-chat-manager) | Chat Manager for Claude Code & Codex | 0.10.0 | Mission control for your AI chats: every Claude Code chat on one always-on-top… |
+| 2026-09-29 06:40:25 | [neoxlabs.neox-vscode](https://marketplace.visualstudio.com/items?itemName=neoxlabs.neox-vscode) | Neox Agent | 3.9.1 | Neox coding agent in your editor: chat, edit files, run commands — with sign-in… |
+| 2026-09-29 06:40:41 | [wwenc6621.pico](https://marketplace.visualstudio.com/items?itemName=wwenc6621.pico) | Pico API Client | 1.0.0 | Minimal, local-first API client for VS Code. No account, no cloud. |
+| 2026-09-29 06:43:30 | [happy-engine1.dataform-sqlx-formatter](https://marketplace.visualstudio.com/items?itemName=happy-engine1.dataform-sqlx-formatter) | Dataform SQLX Formatter | 0.1.0 | Format a single .sqlx file with the Dataform CLI's own formatter, producing exa… |
+| 2026-09-29 06:46:46 | [Aaronlu2026.vcd-waveform-viewer](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.vcd-waveform-viewer) | VCD Waveform Viewer | 0.2.3 | GTKWave-like VCD waveform viewer inside VS Code |
+| 2026-09-29 07:08:10 | [Aaronlu2026.usbtrace](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.usbtrace) | USB Trace 采集分析 | 0.1.1 | USB trace 采集/解码/分析工具链（vcdlog）的 VS Code 图形界面：VCD/LOG 采集、波形查看、断言分析。 |
+| 2026-09-29 07:11:26 | [NaserHAlharbi.alhakeem](https://marketplace.visualstudio.com/items?itemName=NaserHAlharbi.alhakeem) | Al Hakeem | 0.1.1 | Agentic coding assistant powered by C# backend |
+| 2026-09-29 07:14:03 | [CodeMaman.ai-coauthoring-tracker](https://marketplace.visualstudio.com/items?itemName=CodeMaman.ai-coauthoring-tracker) | AI Co-Authoring Tracker | 0.0.43 | Tracks AI-assisted edits in a repository and supports automatic co-author trail… |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T06:23:45.723Z,BennyWu.panda-vivid-black,BennyWu,Panda Vivid Black,1.0.0,"A near-black theme with vivid syntax colors, readable selections, and semantic highlighting for Flutter, Go and Vue."
+2026-09-29T06:39:25.357Z,redaechan.claude-codex-chat-manager,redaechan,Chat Manager for Claude Code & Codex,0.10.0,"Mission control for your AI chats: every Claude Code chat on one always-on-top board and your phone, prompts queued for the usage reset. Codex and Copilot too."
+2026-09-29T06:40:25.91Z,neoxlabs.neox-vscode,neoxlabs,Neox Agent,3.9.1,"Neox coding agent in your editor: chat, edit files, run commands — with sign-in, history and approvals."
+2026-09-29T06:40:41.7Z,wwenc6621.pico,wwenc6621,Pico API Client,1.0.0,"Minimal, local-first API client for VS Code. No account, no cloud."
+2026-09-29T06:43:30.033Z,happy-engine1.dataform-sqlx-formatter,happy-engine1,Dataform SQLX Formatter,0.1.0,"Format a single .sqlx file with the Dataform CLI's own formatter, producing exactly the same output as `dataform format`."
+2026-09-29T06:46:46.543Z,Aaronlu2026.vcd-waveform-viewer,Aaronlu2026,VCD Waveform Viewer,0.2.3,GTKWave-like VCD waveform viewer inside VS Code
+2026-09-29T07:08:10.157Z,Aaronlu2026.usbtrace,Aaronlu2026,USB Trace 采集分析,0.1.1,USB trace 采集/解码/分析工具链（vcdlog）的 VS Code 图形界面：VCD/LOG 采集、波形查看、断言分析。
+2026-09-29T07:11:26.853Z,NaserHAlharbi.alhakeem,NaserHAlharbi,Al Hakeem,0.1.1,Agentic coding assistant powered by C# backend
+2026-09-29T07:14:03.03Z,CodeMaman.ai-coauthoring-tracker,CodeMaman,AI Co-Authoring Tracker,0.0.43,Tracks AI-assisted edits in a repository and supports automatic co-author trailers via Git hooks. Requires the GitHub CLI (gh) for PR attribution summaries.
