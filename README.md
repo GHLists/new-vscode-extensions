@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 18:21 UTC
+## Latest list — 2026-09-29 19:20 UTC
 
-New extensions published between 2026-09-29 16:21 UTC and 2026-09-29 18:21 UTC.
+New extensions published between 2026-09-29 17:20 UTC and 2026-09-29 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T18-21-11-574459Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T19-20-44-562691Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 17:35:30 | [oub.lucidite-product-icons](https://marketplace.visualstudio.com/items?itemName=oub.lucidite-product-icons) | Lucidité Product Icons Theme | 0.1.2 | Product Icon Theme for VS Code, based on Lucide icons |
-| 2026-09-29 18:03:13 | [AniError.anierror](https://marketplace.visualstudio.com/items?itemName=AniError.anierror) | AniError | 0.0.1 | Custom error detector with animated notifications for VS Code |
-| 2026-09-29 18:09:32 | [MyloKaye.vs-html-preview](https://marketplace.visualstudio.com/items?itemName=MyloKaye.vs-html-preview) | VS HTML Preview | 0.1.2 | Preview an HTML file in a browser-like panel. |
-| 2026-09-29 18:12:06 | [codemakor.console-prism](https://marketplace.visualstudio.com/items?itemName=codemakor.console-prism) | Console Prism | 0.1.0 | Multiple live filtered views for the VS Code Debug Console |
-| 2026-09-29 18:16:31 | [BrieucInc.claude-usage-monitor-live](https://marketplace.visualstudio.com/items?itemName=BrieucInc.claude-usage-monitor-live) | Usage & Conversations Monitor for Claud… | 0.1.0 | Live Claude subscription limits, token usage and the state of your Claude Code… |
+| 2026-09-29 18:20:42 | [navoff.vscode-agent-sessions](https://marketplace.visualstudio.com/items?itemName=navoff.vscode-agent-sessions) | AI Agent Sessions | 0.1.3 | Claude Code and Codex sessions from local and remote machines in one view |
+| 2026-09-29 18:24:53 | [paeduh.html-tag-outline](https://marketplace.visualstudio.com/items?itemName=paeduh.html-tag-outline) | HTML Tag Outline | 0.1.1 | Clean Outline and Breadcrumbs for HTML: show only tag names (optionally #id), w… |
+| 2026-09-29 19:04:29 | [ColinConwell.dirtreedraw](https://marketplace.visualstudio.com/items?itemName=ColinConwell.dirtreedraw) | DirTreeDraw | 0.1.0 | Draft directory trees in the sidebar and copy them as plain text or Markdown. |
 
 ## Data source
 

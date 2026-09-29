@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T18:20:42.6Z,navoff.vscode-agent-sessions,navoff,AI Agent Sessions,0.1.3,Claude Code and Codex sessions from local and remote machines in one view
+2026-09-29T18:24:53.61Z,paeduh.html-tag-outline,paeduh,HTML Tag Outline,0.1.1,"Clean Outline and Breadcrumbs for HTML: show only tag names (optionally #id), without the class clutter from Tailwind & co."
+2026-09-29T19:04:29.513Z,ColinConwell.dirtreedraw,ColinConwell,DirTreeDraw,0.1.0,Draft directory trees in the sidebar and copy them as plain text or Markdown.
