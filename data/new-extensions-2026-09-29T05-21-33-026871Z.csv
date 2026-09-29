@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T04:46:40.357Z,opsva.cost-gate-for-oci,opsva,Cost Gate for OCI,1.0.0,"Installs, with no internet access needed, an Excel tool to request Oracle Cloud (OCI) resources, estimate their cost at Oracle's official prices, get them approved and track what exists."
+2026-09-29T05:00:33.657Z,AmanKumarrajambala.claudecodechat,AmanKumarrajambala,AnonymusChat,0.0.1,AnonymusChat AI assistant for Visual Studio Code
+2026-09-29T05:11:02.657Z,JamesWang.codex-image-paste,JamesWang,Codex Image Paste,0.1.0,Paste Mac clipboard images into Codex in a VS Code Remote-SSH terminal with one shortcut.
