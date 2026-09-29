@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 05:21 UTC
+## Latest list — 2026-09-29 06:21 UTC
 
-New extensions published between 2026-09-29 03:21 UTC and 2026-09-29 05:21 UTC.
+New extensions published between 2026-09-29 04:21 UTC and 2026-09-29 06:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T05-21-33-026871Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T06-21-39-056294Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 04:46:40 | [opsva.cost-gate-for-oci](https://marketplace.visualstudio.com/items?itemName=opsva.cost-gate-for-oci) | Cost Gate for OCI | 1.0.0 | Installs, with no internet access needed, an Excel tool to request Oracle Cloud… |
-| 2026-09-29 05:00:33 | [AmanKumarrajambala.claudecodechat](https://marketplace.visualstudio.com/items?itemName=AmanKumarrajambala.claudecodechat) | AnonymusChat | 0.0.1 | AnonymusChat AI assistant for Visual Studio Code |
-| 2026-09-29 05:11:02 | [JamesWang.codex-image-paste](https://marketplace.visualstudio.com/items?itemName=JamesWang.codex-image-paste) | Codex Image Paste | 0.1.0 | Paste Mac clipboard images into Codex in a VS Code Remote-SSH terminal with one… |
+| 2026-09-29 05:25:13 | [raghu-bhandi.schema-tree-editor](https://marketplace.visualstudio.com/items?itemName=raghu-bhandi.schema-tree-editor) | Schema Tree Editor | 0.1.0 | Edit tree-shaped JSON (menus, rules, configs, content trees) as a tree with for… |
+| 2026-09-29 05:27:04 | [claude-room.claude-room-orchestrator](https://marketplace.visualstudio.com/items?itemName=claude-room.claude-room-orchestrator) | Claude Room Orchestrator | 0.0.1 | Run, share and watch a Claude Room: publish the room, invite people, and see wh… |
+| 2026-09-29 05:39:50 | [zhanghongyun.z-book](https://marketplace.visualstudio.com/items?itemName=zhanghongyun.z-book) | 本地小说阅读器 | 0.1.8 | 在 VS Code 中阅读本地 EPUB 和 TXT 小说并记住阅读位置 |
+| 2026-09-29 06:00:53 | [BITWORKER.seofuxx-mcp](https://marketplace.visualstudio.com/items?itemName=BITWORKER.seofuxx-mcp) | SEOFuxx MCP – SEO Audit for Copilot | 0.1.0 | SEO analyses and prioritized on-page recommendations from your SEOFuxx account,… |
+| 2026-09-29 06:17:21 | [DomGenie.domgenie-payment-advisor](https://marketplace.visualstudio.com/items?itemName=DomGenie.domgenie-payment-advisor) | DomGenie Payment Advisor | 0.2.3 | Payment-domain Q&A and development suggestions you can copy into Claude Code. R… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T05:25:13.643Z,raghu-bhandi.schema-tree-editor,raghu-bhandi,Schema Tree Editor,0.1.0,"Edit tree-shaped JSON (menus, rules, configs, content trees) as a tree with forms, driven by your TypeScript types or a JSON Schema. Stays in sync with the JSON text."
+2026-09-29T05:27:04.483Z,claude-room.claude-room-orchestrator,claude-room,Claude Room Orchestrator,0.0.1,"Run, share and watch a Claude Room: publish the room, invite people, and see what the workers are doing."
+2026-09-29T05:39:50.677Z,zhanghongyun.z-book,zhanghongyun,本地小说阅读器,0.1.8,在 VS Code 中阅读本地 EPUB 和 TXT 小说并记住阅读位置
+2026-09-29T06:00:53.433Z,BITWORKER.seofuxx-mcp,BITWORKER,SEOFuxx MCP – SEO Audit for Copilot,0.1.0,"SEO analyses and prioritized on-page recommendations from your SEOFuxx account, right inside GitHub Copilot Chat (MCP server)."
+2026-09-29T06:17:21.55Z,DomGenie.domgenie-payment-advisor,DomGenie,DomGenie Payment Advisor,0.2.3,"Payment-domain Q&A and development suggestions you can copy into Claude Code. Read-only: never touches Git, terminals, or your files."
