@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T12:28:58.08Z,DeployStudio.kora,DeployStudio,Kora CLI,0.1.0,"Kora CLI in the integrated terminal: REPL, session picker, and editor context."
+2026-09-29T12:43:12.047Z,Rmanaf.moja,Rmanaf,Moja,0.0.1,Detects mojibake (mis-decoded UTF-8 text) in your files and lets you fix it by re-encoding the selection to UTF-8.
+2026-09-29T12:43:59.32Z,lczs-plugin.lczs-prd-codeplugin,lczs-plugin,LCZS-PRD-CodePlugin,0.1.0,Internal AI coding assistant. Sign in with your organization account to use it in VS Code.
+2026-09-29T12:47:40.313Z,SiboXu.stc-toolkit,SiboXu,STC Toolkit,0.2.0,Unified VS Code build/flash workflow for common STC MCUs: legacy stcgal + new-generation STC-ISP/AiCube + experimental native USB HID.
+2026-09-29T12:50:58.56Z,cyberbobjr.zomboid-tiles-viewer,cyberbobjr,Project Zomboid Tile & Texture Pack Viewer,0.1.0,"Unofficial viewer for Project Zomboid .pack texture packs and .tiles tile definitions (TileZed): atlas pages, sprites, tilesets and tile properties."
