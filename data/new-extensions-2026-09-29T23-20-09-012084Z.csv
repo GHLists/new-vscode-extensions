@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T22:20:55.47Z,kernbot.kern-code,kernbot,KERN Code,0.5.28,Chat with KERN's library and get coding help directly inside VS Code / Cursor.
+2026-09-29T22:23:37.877Z,datamind.datamind-oda,datamind,Datamind Oda,0.2.23992,"Datamind Oda, the Datamind agent, in VS Code; runs on the installed Datamind Oda desktop app"
+2026-09-29T22:32:22.5Z,chaffed.duckweed,chaffed,Duckweed,0.1.0,"Browse and edit SQLite, DuckDB and CSV/TSV files in VS Code with no native binaries: the database engines run as WebAssembly."
+2026-09-29T22:38:51.84Z,rdurooon.roomscode-extension,rdurooon,RoomsCode,0.0.1,"Transmita ao vivo, em tempo real, o código que você está editando para os espectadores de uma sala RoomsCode"
+2026-09-29T22:52:24.033Z,tmidorikawa.tsuzuri,tmidorikawa,Tsuzuri,0.1.0,Tsuzuri IDE
+2026-09-29T23:13:02.09Z,extenza-works.kanoniq,extenza-works,Kanoniq,0.1.0,Kanoniq by Extenza Works — the VS Code extension: `.kq` language support.

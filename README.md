@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 22:19 UTC
+## Latest list — 2026-09-29 23:20 UTC
 
-New extensions published between 2026-09-29 20:19 UTC and 2026-09-29 22:19 UTC.
+New extensions published between 2026-09-29 21:20 UTC and 2026-09-29 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T22-19-06-222007Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T23-20-09-012084Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 21:35:30 | [MennoHomanWindigo.spritematex-vsc-plugin](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritematex-vsc-plugin) | SpritemateX (VS Code Plugin) | 1.0.0 | A VS Code plugin that runs SpritemateX — the Commander X16 sprite & tile editor… |
-| 2026-09-29 21:38:47 | [kinetic-helix.sealed-rose-detector](https://marketplace.visualstudio.com/items?itemName=kinetic-helix.sealed-rose-detector) | Sealed Rose — AI Deepfake & Synthetic M… | 1.0.0 | Inspect and verify synthetic media, AI deepfakes, manipulated images, and clone… |
-| 2026-09-29 21:52:42 | [MennoHomanWindigo.spritemate-visual-studio-code-plugin](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritemate-visual-studio-code-plugin) | Spritemate - C64 Sprite Editor (Visual… | 1.0.2 | A VS Code plugin that runs Spritemate — the Commodore 64 sprite editor by Ingo… |
-| 2026-09-29 21:56:34 | [tintlang.tint-lang](https://marketplace.visualstudio.com/items?itemName=tintlang.tint-lang) | Tint Language | 0.1.2 | Syntax highlighting and development tools for the Tint programming language |
+| 2026-09-29 22:20:55 | [kernbot.kern-code](https://marketplace.visualstudio.com/items?itemName=kernbot.kern-code) | KERN Code | 0.5.28 | Chat with KERN's library and get coding help directly inside VS Code / Cursor. |
+| 2026-09-29 22:23:37 | [datamind.datamind-oda](https://marketplace.visualstudio.com/items?itemName=datamind.datamind-oda) | Datamind Oda | 0.2.23992 | Datamind Oda, the Datamind agent, in VS Code; runs on the installed Datamind Od… |
+| 2026-09-29 22:32:22 | [chaffed.duckweed](https://marketplace.visualstudio.com/items?itemName=chaffed.duckweed) | Duckweed | 0.1.0 | Browse and edit SQLite, DuckDB and CSV/TSV files in VS Code with no native bina… |
+| 2026-09-29 22:38:51 | [rdurooon.roomscode-extension](https://marketplace.visualstudio.com/items?itemName=rdurooon.roomscode-extension) | RoomsCode | 0.0.1 | Transmita ao vivo, em tempo real, o código que você está editando para os espec… |
+| 2026-09-29 22:52:24 | [tmidorikawa.tsuzuri](https://marketplace.visualstudio.com/items?itemName=tmidorikawa.tsuzuri) | Tsuzuri | 0.1.0 | Tsuzuri IDE |
+| 2026-09-29 23:13:02 | [extenza-works.kanoniq](https://marketplace.visualstudio.com/items?itemName=extenza-works.kanoniq) | Kanoniq | 0.1.0 | Kanoniq by Extenza Works — the VS Code extension: `.kq` language support. |
 
 ## Data source
 
