@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T20:40:37.397Z,JohnMorillo.mail-language,JohnMorillo,MAIL: Master Automated Informatics Language,2.1.0,"MAIL 2.0 for laboratory informatics: syntax, live validation with the MAIL reference engine, hover documentation for all 197 library functions, completion, signature help, outline, and test and query runners."
+2026-09-29T20:55:58.14Z,BooleanFalse.kompot-lens,BooleanFalse,Kompot Lens,0.10.1,"Kompot (declarative UI for VoxelCore): previews beside the editor, interactive mode, completion and docs for components, modifiers, themes and icons."
+2026-09-29T20:58:23.57Z,JohnMorillo.master-automated-informatics-debugger,JohnMorillo,MD: Master Automated Informatics Debugger,1.0.0,"Step-through debugger for laboratory informatics rules and interface scripts: breakpoints, step back, live expression values, and test results on synthetic demonstration data."
+2026-09-29T21:04:09.213Z,EdCordata.edcordata-adaptive-comments,EdCordata,Adaptive Comments by EdCordata,0.0.1,This extension improves how commenting works for single-line and multi-line blocks of code.
+2026-09-29T21:04:31.19Z,EdCordata.edcordata-os-specific-settings,EdCordata,OS-Specific Settings by EdCordata,0.0.1,Set OS-Specific Settings in settings.json
+2026-09-29T21:04:57.65Z,EdCordata.edcordata-remove-line,EdCordata,Remove Line by EdCordata,0.0.1,A tiny Visual Studio Code extension that adds a single command to delete the current line.
