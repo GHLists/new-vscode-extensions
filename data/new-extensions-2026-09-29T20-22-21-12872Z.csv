@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T19:19:40.343Z,TorbScript.torbscript,TorbScript,TorbScript,0.2.20260929,"TorbScript for VS Code: the language server of torb lsp (diagnostics of the whole workspace, hover with documentation, go to definition, references, a checked rename, completion, signature help, symbols, formatting, quick fixes, semantic tokens), tests in the Test Explorer, the debugger of torb debu"
+2026-09-29T19:21:33.137Z,ghost-regex.ghost-regex,ghost-regex,Ghost Regex,1.0.0,"Work with regular expressions right inside VS Code — Railroad diagrams, Explain, ReDoS detector, Unit tests, and Preview on real files."
+2026-09-29T19:29:19.33Z,pablosagarna.opentool-designer,pablosagarna,OpenTool Designer,1.34.0,"Write Open Tool Specification (OTS) contracts — tools, resources and prompts — as a form, with a live map, a breakpoint that holds a real call, and the OTS Gateway inside."
+2026-09-29T19:29:48.903Z,fernandonavg.one-light-pro-enhanced,fernandonavg,One Light Pro Enhanced,0.0.1,A light VS Code theme inspired by One Dark Pro
+2026-09-29T19:58:49.093Z,X4DevTools.x4codesense,X4DevTools,X4CodeSense,0.1.1,"Language support for X4: Foundations scripts (AI scripts, Mission Director scripts and their patches): diagnostics, completion, hover, navigation, rename and quick fixes, powered by a language server."
+2026-09-29T20:11:20.447Z,lizzardmeister.lizzard-ai-usage,lizzardmeister,lizzard AI Usage,0.3.4,"Track Codex, Claude Code, and GitHub Copilot usage in the VS Code status bar."
+2026-09-29T20:16:54.48Z,EdCordata.adaptive-comments,EdCordata,Adaptive Comments,0.0.1,This extension improves how commenting works for single-line and multi-line blocks of code.
