@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 21:20 UTC
+## Latest list — 2026-09-29 22:19 UTC
 
-New extensions published between 2026-09-29 19:20 UTC and 2026-09-29 21:20 UTC.
+New extensions published between 2026-09-29 20:19 UTC and 2026-09-29 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T21-20-10-969655Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T22-19-06-222007Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 20:40:37 | [JohnMorillo.mail-language](https://marketplace.visualstudio.com/items?itemName=JohnMorillo.mail-language) | MAIL: Master Automated Informatics Lang… | 2.1.0 | MAIL 2.0 for laboratory informatics: syntax, live validation with the MAIL refe… |
-| 2026-09-29 20:55:58 | [BooleanFalse.kompot-lens](https://marketplace.visualstudio.com/items?itemName=BooleanFalse.kompot-lens) | Kompot Lens | 0.10.1 | Kompot (declarative UI for VoxelCore): previews beside the editor, interactive… |
-| 2026-09-29 20:58:23 | [JohnMorillo.master-automated-informatics-debugger](https://marketplace.visualstudio.com/items?itemName=JohnMorillo.master-automated-informatics-debugger) | MD: Master Automated Informatics Debugg… | 1.0.0 | Step-through debugger for laboratory informatics rules and interface scripts: b… |
-| 2026-09-29 21:04:09 | [EdCordata.edcordata-adaptive-comments](https://marketplace.visualstudio.com/items?itemName=EdCordata.edcordata-adaptive-comments) | Adaptive Comments by EdCordata | 0.0.1 | This extension improves how commenting works for single-line and multi-line blo… |
-| 2026-09-29 21:04:31 | [EdCordata.edcordata-os-specific-settings](https://marketplace.visualstudio.com/items?itemName=EdCordata.edcordata-os-specific-settings) | OS-Specific Settings by EdCordata | 0.0.1 | Set OS-Specific Settings in settings.json |
-| 2026-09-29 21:04:57 | [EdCordata.edcordata-remove-line](https://marketplace.visualstudio.com/items?itemName=EdCordata.edcordata-remove-line) | Remove Line by EdCordata | 0.0.1 | A tiny Visual Studio Code extension that adds a single command to delete the cu… |
+| 2026-09-29 21:35:30 | [MennoHomanWindigo.spritematex-vsc-plugin](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritematex-vsc-plugin) | SpritemateX (VS Code Plugin) | 1.0.0 | A VS Code plugin that runs SpritemateX — the Commander X16 sprite & tile editor… |
+| 2026-09-29 21:38:47 | [kinetic-helix.sealed-rose-detector](https://marketplace.visualstudio.com/items?itemName=kinetic-helix.sealed-rose-detector) | Sealed Rose — AI Deepfake & Synthetic M… | 1.0.0 | Inspect and verify synthetic media, AI deepfakes, manipulated images, and clone… |
+| 2026-09-29 21:52:42 | [MennoHomanWindigo.spritemate-visual-studio-code-plugin](https://marketplace.visualstudio.com/items?itemName=MennoHomanWindigo.spritemate-visual-studio-code-plugin) | Spritemate - C64 Sprite Editor (Visual… | 1.0.2 | A VS Code plugin that runs Spritemate — the Commodore 64 sprite editor by Ingo… |
+| 2026-09-29 21:56:34 | [tintlang.tint-lang](https://marketplace.visualstudio.com/items?itemName=tintlang.tint-lang) | Tint Language | 0.1.2 | Syntax highlighting and development tools for the Tint programming language |
 
 ## Data source
 

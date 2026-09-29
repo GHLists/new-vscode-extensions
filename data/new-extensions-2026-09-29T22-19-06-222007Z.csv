@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T21:35:30.633Z,MennoHomanWindigo.spritematex-vsc-plugin,MennoHomanWindigo,SpritemateX (VS Code Plugin),1.0.0,A VS Code plugin that runs SpritemateX — the Commander X16 sprite & tile editor by OldSkoolCoder (OSK) — inside a VS Code webview.
+2026-09-29T21:38:47.15Z,kinetic-helix.sealed-rose-detector,kinetic-helix,Sealed Rose — AI Deepfake & Synthetic Media Detector,1.0.0,"Inspect and verify synthetic media, AI deepfakes, manipulated images, and cloned voice authenticity directly within Visual Studio Code."
+2026-09-29T21:52:42.403Z,MennoHomanWindigo.spritemate-visual-studio-code-plugin,MennoHomanWindigo,Spritemate - C64 Sprite Editor (Visual Studio Code Plugin),1.0.2,"A VS Code plugin that runs Spritemate — the Commodore 64 sprite editor by Ingo Hinterding (awsm) — inside a VS Code webview. Draw, animate and export C64 sprites."
+2026-09-29T21:56:34.69Z,tintlang.tint-lang,tintlang,Tint Language,0.1.2,Syntax highlighting and development tools for the Tint programming language
