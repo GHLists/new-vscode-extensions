@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 08:27 UTC
+## Latest list — 2026-09-29 09:22 UTC
 
-New extensions published between 2026-09-29 06:27 UTC and 2026-09-29 08:27 UTC.
+New extensions published between 2026-09-29 07:22 UTC and 2026-09-29 09:22 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T08-27-06-576734Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T09-22-40-071353Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 07:23:03 | [99change.kunlunxin-xpu](https://marketplace.visualstudio.com/items?itemName=99change.kunlunxin-xpu) | KunlunXin XPU Syntax Highlighting | 0.1.4 | No colors in .xpu? Let VS Code treat it like CUDA C++. |
-| 2026-09-29 07:29:10 | [jefuriiij.hermes-studio](https://marketplace.visualstudio.com/items?itemName=jefuriiij.hermes-studio) | Hermes Studio | 0.4.1 | Hermes Agent, right inside VS Code. Chat about your code, approve every change,… |
-| 2026-09-29 07:43:53 | [branchline.branchline](https://marketplace.visualstudio.com/items?itemName=branchline.branchline) | Branchline — Git Graph | 0.1.0 | A fast, actively maintained Git Graph for VS Code: visualize branches and histo… |
-| 2026-09-29 08:01:30 | [Wisteria30.logico](https://marketplace.visualstudio.com/items?itemName=Wisteria30.logico) | Logico | 0.1.19 | Follow the logic, together. 次に読むべきコードを先回りして 1 点だけ提示する VS Code 拡張。 |
-| 2026-09-29 08:11:49 | [akckreact.m09](https://marketplace.visualstudio.com/items?itemName=akckreact.m09) | m09 | 0.0.9 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
+| 2026-09-29 08:26:42 | [luskyle.moz-dxf-viewer](https://marketplace.visualstudio.com/items?itemName=luskyle.moz-dxf-viewer) | Moz DXF/DWG Viewer | 0.2.3 | 在 VS Code 里直接查看 DXF/DWG 图纸：点击文件即打开，**可交互的原始图纸**（图层开关、悬停看图层/点选看图元、滚轮缩放、拖动平移）。自带… |
+| 2026-09-29 08:27:31 | [akckreact.m10](https://marketplace.visualstudio.com/items?itemName=akckreact.m10) | m10 | 0.0.9 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
+| 2026-09-29 08:29:58 | [Aaronlu2026.windows-download-tool](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.windows-download-tool) | Windows Download Tool | 0.1.0 | 稳定调用 Cmd_download_tool.exe 下载并运行固件。首次在配置界面填入参数（含工具路径），之后 AI 可通过 CLI 免填参自动调用。 |
+| 2026-09-29 08:33:24 | [aicodegen.vinaAI](https://marketplace.visualstudio.com/items?itemName=aicodegen.vinaAI) | vInA_AI | 0.0.3 | Generate code using AI |
+| 2026-09-29 08:54:08 | [hapTeamTwo.hap-eslints](https://marketplace.visualstudio.com/items?itemName=hapTeamTwo.hap-eslints) | hap-eslints | 1.7.0 | Lint quickapp .ux files with the ESLint library installed in your project. Fork… |
+| 2026-09-29 08:59:51 | [Cepho.ctimer](https://marketplace.visualstudio.com/items?itemName=Cepho.ctimer) | Ctimer | 0.2.0 | Active coding time for the open project. Pauses after 45s idle. From cepho.clou… |
+| 2026-09-29 09:00:12 | [Cepho.ctoken](https://marketplace.visualstudio.com/items?itemName=Cepho.ctoken) | Ctoken | 0.1.8 | See an estimated token count for your file or selection, offline. Built by Ceph… |
+| 2026-09-29 09:00:28 | [Cepho.cwip](https://marketplace.visualstudio.com/items?itemName=Cepho.cwip) | Cwip | 0.1.8 | Warns you about uncommitted changes before you build. Built by Cepho — cepho.cl… |
+| 2026-09-29 09:04:03 | [moyu-panel.moyu-panel](https://marketplace.visualstudio.com/items?itemName=moyu-panel.moyu-panel) | MOY | 0.20.113 | 在编辑器里安心摸鱼：小说、网页、小游戏、自选行情四种模式，共用一块代码外观，看起来一直在写代码 |
 
 ## Data source
 
