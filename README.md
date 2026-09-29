@@ -12,24 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 17:21 UTC
+## Latest list — 2026-09-29 18:21 UTC
 
-New extensions published between 2026-09-29 15:21 UTC and 2026-09-29 17:21 UTC.
+New extensions published between 2026-09-29 16:21 UTC and 2026-09-29 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T17-21-06-655556Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T18-21-11-574459Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 16:15:33 | [xNode360.xnode360](https://marketplace.visualstudio.com/items?itemName=xNode360.xnode360) | xNode360 | 0.1.2 | The living map of your infrastructure, inside VS Code. |
-| 2026-09-29 16:28:57 | [Manishnalumachu.highhxconverter](https://marketplace.visualstudio.com/items?itemName=Manishnalumachu.highhxconverter) | HighhXConverter | 0.1.0 | A simple local file converter for VS Code. |
-| 2026-09-29 16:36:09 | [UniCorp.claude-profiles](https://marketplace.visualstudio.com/items?itemName=UniCorp.claude-profiles) | Claude Profiles | 1.0.1 | Use a different Claude Code account in each VS Code window, and manage them fro… |
-| 2026-09-29 16:42:11 | [left-code.vscode-ai-usage](https://marketplace.visualstudio.com/items?itemName=left-code.vscode-ai-usage) | AI Usage | 0.1.2 | Shows current Codex and Claude usage limits (5-hour and weekly) in VS Code and… |
-| 2026-09-29 16:56:56 | [Abhishekbhatta.comment-text-highlighter](https://marketplace.visualstudio.com/items?itemName=Abhishekbhatta.comment-text-highlighter) | Comment Text Highlighter | 1.0.0 | Highlight important text inside code comments with customizable colors directly… |
-| 2026-09-29 17:02:27 | [ManojDevarakonda.kratu](https://marketplace.visualstudio.com/items?itemName=ManojDevarakonda.kratu) | Kratu — Azure DevOps Autopilot | 0.1.0 | Syncs your Azure DevOps board, ranks work by priority, and has your AI coding C… |
-| 2026-09-29 17:05:25 | [orbitwake.orbitwake-vscode](https://marketplace.visualstudio.com/items?itemName=orbitwake.orbitwake-vscode) | OrbitWake | 0.1.0 | OrbitWake coding agent for VS Code with code-aware chat, workspace context, rev… |
-| 2026-09-29 17:07:32 | [pfbuxton.xml-form-editor](https://marketplace.visualstudio.com/items?itemName=pfbuxton.xml-form-editor) | XML Form Editor | 0.1.0 | Edit the values in an XML file in a form built from its XSD schema: dropdowns f… |
-| 2026-09-29 17:08:06 | [VedantGupta.context-pack](https://marketplace.visualstudio.com/items?itemName=VedantGupta.context-pack) | Context Pack | 0.0.1 | Package code intelligently for AI workflows |
-| 2026-09-29 17:12:53 | [ApoorvMittal.snippetpath](https://marketplace.visualstudio.com/items?itemName=ApoorvMittal.snippetpath) | SnippetPath | 0.1.1 | Keep VS Code snippet bodies in real template files instead of escaped JSON stri… |
+| 2026-09-29 17:35:30 | [oub.lucidite-product-icons](https://marketplace.visualstudio.com/items?itemName=oub.lucidite-product-icons) | Lucidité Product Icons Theme | 0.1.2 | Product Icon Theme for VS Code, based on Lucide icons |
+| 2026-09-29 18:03:13 | [AniError.anierror](https://marketplace.visualstudio.com/items?itemName=AniError.anierror) | AniError | 0.0.1 | Custom error detector with animated notifications for VS Code |
+| 2026-09-29 18:09:32 | [MyloKaye.vs-html-preview](https://marketplace.visualstudio.com/items?itemName=MyloKaye.vs-html-preview) | VS HTML Preview | 0.1.2 | Preview an HTML file in a browser-like panel. |
+| 2026-09-29 18:12:06 | [codemakor.console-prism](https://marketplace.visualstudio.com/items?itemName=codemakor.console-prism) | Console Prism | 0.1.0 | Multiple live filtered views for the VS Code Debug Console |
+| 2026-09-29 18:16:31 | [BrieucInc.claude-usage-monitor-live](https://marketplace.visualstudio.com/items?itemName=BrieucInc.claude-usage-monitor-live) | Usage & Conversations Monitor for Claud… | 0.1.0 | Live Claude subscription limits, token usage and the state of your Claude Code… |
 
 ## Data source
 
