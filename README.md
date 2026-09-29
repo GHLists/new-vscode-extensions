@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 11:21 UTC
+## Latest list — 2026-09-29 12:19 UTC
 
-New extensions published between 2026-09-29 09:21 UTC and 2026-09-29 11:21 UTC.
+New extensions published between 2026-09-29 10:19 UTC and 2026-09-29 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T11-21-38-155405Z.csv)
+[Full CSV](data/new-extensions-2026-09-29T12-19-57-219739Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 10:30:06 | [igorbezanovic.mui-icon-preview](https://marketplace.visualstudio.com/items?itemName=igorbezanovic.mui-icon-preview) | MUI Icon Preview | 0.1.0 | Preview Material UI icons in VS Code hovers and completions. |
-| 2026-09-29 10:47:12 | [ReoX86.smiles-structure-preview](https://marketplace.visualstudio.com/items?itemName=ReoX86.smiles-structure-preview) | SMILES Structure Preview | 0.1.0 | Adds SMILES molecular structure rendering to VS Code's built-in Markdown preview |
-| 2026-09-29 10:53:04 | [emvigo.emrequest](https://marketplace.visualstudio.com/items?itemName=emvigo.emrequest) | emRequest — REST API Client | 0.2.0 | Fast, lightweight REST API client for VS Code by Emvigo. Send requests, save co… |
-| 2026-09-29 10:57:02 | [bobrowsse-tech.smartmerge-resolver](https://marketplace.visualstudio.com/items?itemName=bobrowsse-tech.smartmerge-resolver) | SmartMergeResolver | 0.1.2 | Editor adapter for SmartMergeResolver. It renders the shared panel and forwards… |
-| 2026-09-29 10:59:30 | [tuya.tuyaopen](https://marketplace.visualstudio.com/items?itemName=tuya.tuyaopen) | tuyaopen | 1.0.1 | TuyaOpen + Miniapp + Tuya Platform companion extension for VSCode. Streamlines… |
-| 2026-09-29 11:11:06 | [cathouse.cathouse](https://marketplace.visualstudio.com/items?itemName=cathouse.cathouse) | CatHouse | 0.1.0 | catherd in VS Code: Claude plans and verifies while Codex, opencode or Claude C… |
-| 2026-09-29 11:14:16 | [impact-log.impact-log-vscode](https://marketplace.visualstudio.com/items?itemName=impact-log.impact-log-vscode) | impact log | 0.1.0 | Capture what you did and its impact from VS Code: selected code, the current fi… |
-| 2026-09-29 11:16:28 | [flawot.FTheme](https://marketplace.visualstudio.com/items?itemName=flawot.FTheme) | FTheme | 0.0.1 | Тёмная тема на основе любимых цветов разработчика flawot |
+| 2026-09-29 11:22:29 | [xlsx-crud.excel-viewer-pro](https://marketplace.visualstudio.com/items?itemName=xlsx-crud.excel-viewer-pro) | Excel Viewer Pro | 1.0.2 | View and edit Excel (.xlsx, .xls) files directly in VS Code with a beautiful sp… |
+| 2026-09-29 11:31:21 | [branchline.todo-lens](https://marketplace.visualstudio.com/items?itemName=branchline.todo-lens) | TODO Lens — Better Comments & TODO Tree | 0.1.0 | Highlight TODO, FIXME, ! alerts, ? questions and more in your comments, and see… |
+| 2026-09-29 11:36:17 | [Julius3722.justopenitalready](https://marketplace.visualstudio.com/items?itemName=Julius3722.justopenitalready) | JustOpenIt! | 0.0.3 | Adds “Open Folder Here” and “Open Parent Folder Here” to the Explorer context m… |
+| 2026-09-29 11:43:26 | [db0w.iron-orange](https://marketplace.visualstudio.com/items?itemName=db0w.iron-orange) | Iron Orange | 0.1.0 | Metallic orange theme: copper and mandarin surfaces, orange bars and high-contr… |
+| 2026-09-29 11:52:49 | [Nuvoling.taskit](https://marketplace.visualstudio.com/items?itemName=Nuvoling.taskit) | Taskit — AI Code Review Tasks | 1.0.1 | Finds errors, feature ideas and security issues in your workspace with Google G… |
+| 2026-09-29 11:53:23 | [archi-Doc.kimi-ext](https://marketplace.visualstudio.com/items?itemName=archi-Doc.kimi-ext) | Kimi Extension | 0.0.9 | Kimi language diagnostics, build, run, and check commands for Visual Studio Cod… |
+| 2026-09-29 11:56:15 | [branchline.snapline-code-screenshots](https://marketplace.visualstudio.com/items?itemName=branchline.snapline-code-screenshots) | Snapline — Code Screenshots | 0.1.0 | Turn code into beautiful, shareable images in one click — using your exact edit… |
+| 2026-09-29 12:05:41 | [peterfangtw.squadron](https://marketplace.visualstudio.com/items?itemName=peterfangtw.squadron) | Squadron | 0.2.4 | Run Claude Code, Codex and Grok sessions from a panel in your editor, and let t… |
+| 2026-09-29 12:06:50 | [Julius3722.juxt-theme](https://marketplace.visualstudio.com/items?itemName=Julius3722.juxt-theme) | juxt Theme | 0.1.0 | Quiet grayscale themes for VS Code in the juxt.ui design language. Green marks… |
+| 2026-09-29 12:07:23 | [orbit-debug.orbit-for-vscode](https://marketplace.visualstudio.com/items?itemName=orbit-debug.orbit-for-vscode) | Orbit STM32 Debugger | 1.1.3 | Modern STM32 and ARM Cortex-M debugging frontend for J-Link and CMSIS-DAP with… |
 
 ## Data source
 
