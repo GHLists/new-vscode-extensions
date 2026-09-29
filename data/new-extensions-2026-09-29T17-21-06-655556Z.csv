@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T16:15:33.333Z,xNode360.xnode360,xNode360,xNode360,0.1.2,"The living map of your infrastructure, inside VS Code."
+2026-09-29T16:28:57.58Z,Manishnalumachu.highhxconverter,Manishnalumachu,HighhXConverter,0.1.0,A simple local file converter for VS Code.
+2026-09-29T16:36:09.763Z,UniCorp.claude-profiles,UniCorp,Claude Profiles,1.0.1,"Use a different Claude Code account in each VS Code window, and manage them from a side panel"
+2026-09-29T16:42:11.307Z,left-code.vscode-ai-usage,left-code,AI Usage,0.1.2,Shows current Codex and Claude usage limits (5-hour and weekly) in VS Code and the VS Code Agents window.
+2026-09-29T16:56:56.493Z,Abhishekbhatta.comment-text-highlighter,Abhishekbhatta,Comment Text Highlighter,1.0.0,Highlight important text inside code comments with customizable colors directly in Visual Studio Code.
+2026-09-29T17:02:27.3Z,ManojDevarakonda.kratu,ManojDevarakonda,Kratu — Azure DevOps Autopilot,0.1.0,"Syncs your Azure DevOps board, ranks work by priority, and has your AI coding CLI (Claude Code, Codex, Copilot CLI, Gemini, Cursor, Aider) analyze, fix, verify and raise reviewed pull requests."
+2026-09-29T17:05:25.877Z,orbitwake.orbitwake-vscode,orbitwake,OrbitWake,0.1.0,"OrbitWake coding agent for VS Code with code-aware chat, workspace context, reviewed multi-file patches, and secure pairing."
+2026-09-29T17:07:32.273Z,pfbuxton.xml-form-editor,pfbuxton,XML Form Editor,0.1.0,"Edit the values in an XML file in a form built from its XSD schema: dropdowns for enumerations, checkboxes for booleans, and checking as you type."
+2026-09-29T17:08:06.487Z,VedantGupta.context-pack,VedantGupta,Context Pack,0.0.1,Package code intelligently for AI workflows
+2026-09-29T17:12:53.467Z,ApoorvMittal.snippetpath,ApoorvMittal,SnippetPath,0.1.1,Keep VS Code snippet bodies in real template files instead of escaped JSON strings.
