@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-09-29T09:24:49.797Z,cssxio.cssx-intellisense,cssxio,CSSX Utility Assistant,0.1.1,Completion and hover documentation for CSSX static utility strings.
+2026-09-29T09:27:59.513Z,vs-daw.vs-daw,vs-daw,VS DAW,1.0.0,纯文本多轨 DAW：鼓/钢琴/吉他/贝斯、MIDI+SoundFont 播放
+2026-09-29T09:33:32.787Z,SyedTalhaAhmed.traceability-toolkit,SyedTalhaAhmed,Traceability Toolkit,0.0.1,"Extract test cases, synchronize Jira IDs, and detect duplicate scenarios in feature files."
+2026-09-29T09:49:24.103Z,Sekr1382.sekr-dark,Sekr1382,Sekr's Theme,1.0.0,My custom VS Code theme
+2026-09-29T10:00:46.163Z,cyberbobjr-pz-modding.pz-tiles-viewer,cyberbobjr-pz-modding,Project Zomboid Tiles & Pack Viewer,0.1.0,"Unofficial viewer for Project Zomboid .pack texture packs and .tiles tile definitions (TileZed): atlas pages, sprites, tilesets and tile properties."
+2026-09-29T10:04:58.897Z,CodeMaman.codemamans-git-branch-viewer,CodeMaman,CodeMaman's Git Branch Viewer,0.1.1,"See every branch alongside its pull request, CI build state and review count, then switch branch or rebase onto main in one click. Requires the GitHub CLI (gh) for pull request data."
+2026-09-29T10:07:29.057Z,AbYzzX.aoh-nuget-intellisense,AbYzzX,AOH - NuGet IntelliSense,0.1.3,NuGet package and version IntelliSense for .NET project files.
+2026-09-29T10:07:53.76Z,AbYzzX.aoh-solution-explorer,AbYzzX,AOH - Solution Explorer,0.1.8,A Rider-inspired .NET solution explorer for VS Code.
+2026-09-29T10:08:20.923Z,AbYzzX.aoh-run-selector,AbYzzX,AOH - Run Selector,0.1.3,AOH - Rider-style launch configuration controls in the VS Code status bar.
+2026-09-29T10:10:06.767Z,AbYzzX.aoh-git,AbYzzX,AOH - Git,0.1.5,AOH - Rider-inspired Git workflow for VS Code.
