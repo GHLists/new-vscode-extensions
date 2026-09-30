@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T14:21:12.957Z,openconsole.openconsole,openconsole,OpenConsole,0.1.1,A terminal in the panel of VS Code that shows Arabic and Hebrew correctly: connected letters and right-to-left order.
+2026-09-30T14:35:19.58Z,Revamp.revamp,Revamp,Revamp,1.0.0,Create or redesign websites and build web apps by chatting. Preview and refine your projects with Revamp in GitHub Copilot.
+2026-09-30T14:37:37.52Z,owlcoder.kova-local,owlcoder,Kova — Local Coding Agent,0.2.0,Local coding assistant for VS Code using Ollama
+2026-09-30T14:39:51.23Z,SoftwareEngineeringofAmerica.jremotevs,SoftwareEngineeringofAmerica,JCLPlus⁺ JRemote for Visual Studio Code,4.5.10,The JRemote Plug-in can be used to syntax check JCL and explore the output in Visual Studio Code.
+2026-09-30T14:43:25.113Z,codevilot.ai-illustrator-file-editor,codevilot,Ai Illustrator File Editor,0.1.0,Preview and safely edit Adobe Illustrator-compatible AI files inside VS Code.
+2026-09-30T14:57:07.457Z,ludikrizz.delphi-theme,ludikrizz,Delφ Theme,0.1.0,"Indigo blue dark and light themes for VS Code, from the delφ brand palette."
+2026-09-30T15:05:55.937Z,m2script.m2script-tools,m2script,996M2 传世脚本工具,0.1.5,996M2传世引擎脚本语言支持：语法高亮、上下文感知代码补全、已占用变量查询
+2026-09-30T15:06:01.697Z,swtools.swtools-antigravity-bridge,swtools,SW Tools Bridge for Antigravity,1.0.0,Cầu nối chuyển đổi tài khoản trực tiếp (Live Hot-Swap) và hiển thị hạn ngạch Quota giữa SW Tools và Antigravity IDE
+2026-09-30T15:08:48.383Z,JoekerLabs.dyscoder-theme,JoekerLabs,DysCoder Theme,1.0.0,"Un thème pensé pour les développeurs avec des besoins spécifiques, comme les utilisateurs dyslexiques."
+2026-09-30T15:13:53.43Z,nefald-community.quest-language,nefald-community,Quest (.quest),0.4.0,"Coloration syntaxique et auto-complétion du format .quest de quest-compiler (BetonQuest 3.2), avec aperçu des codes couleur Minecraft."
