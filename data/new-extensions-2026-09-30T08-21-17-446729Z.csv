@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T07:23:46.143Z,xiaogaokunkun.c-error-helper,xiaogaokunkun,C语言报错翻译器,0.1.1,把 C/C++ 编译报错翻译成中文解释：错在哪、为什么、怎么改、正确写法。纯本地离线，秒解析。
+2026-09-30T07:35:26.927Z,xuyilongs.json-selection-converter,xuyilongs,JSON Selection Converter,1.0.0,Decode and encode selected JSON text from the editor context menu
+2026-09-30T07:41:08.583Z,sumery.libra-coding-time,sumery,Sumery Libra — Coding Time,0.1.0,"Records coding time for Sumery Libra, only while you are editing code. Writes time metadata locally; never file names or contents."
+2026-09-30T07:47:37.187Z,pablospaniard.airo-vscode,pablospaniard,AIRO,1.0.0,A full AIRO chat workspace in the VS Code sidebar.
+2026-09-30T08:01:34.81Z,Schizm.clauswitch,Schizm,Clauswitch — Claude Code Account Switcher,1.0.0,"Switch Claude Code accounts from the status bar, pin them to projects, always see the active one. Switching works for any number of accounts, Pro adds current usage display for all of them. No hidden telemetry. Not affiliated with Anthropic."
+2026-09-30T08:17:33.077Z,BlaiseRodrigues.quoto,BlaiseRodrigues,Quoto,1.2.0,"Track AI model quotas and reset countdowns in your status bar (supporting Antigravity IDE, with more coding agents planned)"

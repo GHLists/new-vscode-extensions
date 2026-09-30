@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 07:19 UTC
+## Latest list — 2026-09-30 08:21 UTC
 
-New extensions published between 2026-09-30 05:19 UTC and 2026-09-30 07:19 UTC.
+New extensions published between 2026-09-30 06:21 UTC and 2026-09-30 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T07-19-38-706002Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T08-21-17-446729Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 06:17:19 | [fms-plugin.lczs-codeplugin-uat](https://marketplace.visualstudio.com/items?itemName=fms-plugin.lczs-codeplugin-uat) | LCZS-CodePlugin-UAT | 0.1.0 | Internal AI coding assistant. Sign in with your organization account to use it… |
-| 2026-09-30 06:17:24 | [SoftUmeYa-llc.vscode-tonel-smalltalk](https://marketplace.visualstudio.com/items?itemName=SoftUmeYa-llc.vscode-tonel-smalltalk) | Tonel Smalltalk | 0.1.0 | Tonel Smalltalk language support for .st files |
-| 2026-09-30 06:36:22 | [Doer.antigravity-quota-plus](https://marketplace.visualstudio.com/items?itemName=Doer.antigravity-quota-plus) | Antigravity Quota Plus | 1.0.0 | Monitor dual AI model quotas (5-Hour & Weekly limits) for Antigravity in the st… |
-| 2026-09-30 06:38:16 | [aslilac.squill](https://marketplace.visualstudio.com/items?itemName=aslilac.squill) | Squill | 0.1.0 | A formatter and syntax highlighter for SQL, everywhere. |
-| 2026-09-30 06:41:03 | [easy-ssh.easy-ssh](https://marketplace.visualstudio.com/items?itemName=easy-ssh.easy-ssh) | Easy SSH | 0.1.0 | Manage SSH connections in a terminal and transfer files with the remote directo… |
-| 2026-09-30 06:42:08 | [theourgia.theourgos](https://marketplace.visualstudio.com/items?itemName=theourgia.theourgos) | Theourgos | 1.0.0 | Browse and edit a theourgia block store from VS Code. |
+| 2026-09-30 07:23:46 | [xiaogaokunkun.c-error-helper](https://marketplace.visualstudio.com/items?itemName=xiaogaokunkun.c-error-helper) | C语言报错翻译器 | 0.1.1 | 把 C/C++ 编译报错翻译成中文解释：错在哪、为什么、怎么改、正确写法。纯本地离线，秒解析。 |
+| 2026-09-30 07:35:26 | [xuyilongs.json-selection-converter](https://marketplace.visualstudio.com/items?itemName=xuyilongs.json-selection-converter) | JSON Selection Converter | 1.0.0 | Decode and encode selected JSON text from the editor context menu |
+| 2026-09-30 07:41:08 | [sumery.libra-coding-time](https://marketplace.visualstudio.com/items?itemName=sumery.libra-coding-time) | Sumery Libra — Coding Time | 0.1.0 | Records coding time for Sumery Libra, only while you are editing code. Writes t… |
+| 2026-09-30 07:47:37 | [pablospaniard.airo-vscode](https://marketplace.visualstudio.com/items?itemName=pablospaniard.airo-vscode) | AIRO | 1.0.0 | A full AIRO chat workspace in the VS Code sidebar. |
+| 2026-09-30 08:01:34 | [Schizm.clauswitch](https://marketplace.visualstudio.com/items?itemName=Schizm.clauswitch) | Clauswitch — Claude Code Account Switch… | 1.0.0 | Switch Claude Code accounts from the status bar, pin them to projects, always s… |
+| 2026-09-30 08:17:33 | [BlaiseRodrigues.quoto](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.quoto) | Quoto | 1.2.0 | Track AI model quotas and reset countdowns in your status bar (supporting Antig… |
 
 ## Data source
 
