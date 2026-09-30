@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 08:21 UTC
+## Latest list — 2026-09-30 09:18 UTC
 
-New extensions published between 2026-09-30 06:21 UTC and 2026-09-30 08:21 UTC.
+New extensions published between 2026-09-30 07:18 UTC and 2026-09-30 09:18 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T08-21-17-446729Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T09-18-53-25441Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 07:23:46 | [xiaogaokunkun.c-error-helper](https://marketplace.visualstudio.com/items?itemName=xiaogaokunkun.c-error-helper) | C语言报错翻译器 | 0.1.1 | 把 C/C++ 编译报错翻译成中文解释：错在哪、为什么、怎么改、正确写法。纯本地离线，秒解析。 |
-| 2026-09-30 07:35:26 | [xuyilongs.json-selection-converter](https://marketplace.visualstudio.com/items?itemName=xuyilongs.json-selection-converter) | JSON Selection Converter | 1.0.0 | Decode and encode selected JSON text from the editor context menu |
-| 2026-09-30 07:41:08 | [sumery.libra-coding-time](https://marketplace.visualstudio.com/items?itemName=sumery.libra-coding-time) | Sumery Libra — Coding Time | 0.1.0 | Records coding time for Sumery Libra, only while you are editing code. Writes t… |
-| 2026-09-30 07:47:37 | [pablospaniard.airo-vscode](https://marketplace.visualstudio.com/items?itemName=pablospaniard.airo-vscode) | AIRO | 1.0.0 | A full AIRO chat workspace in the VS Code sidebar. |
-| 2026-09-30 08:01:34 | [Schizm.clauswitch](https://marketplace.visualstudio.com/items?itemName=Schizm.clauswitch) | Clauswitch — Claude Code Account Switch… | 1.0.0 | Switch Claude Code accounts from the status bar, pin them to projects, always s… |
-| 2026-09-30 08:17:33 | [BlaiseRodrigues.quoto](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.quoto) | Quoto | 1.2.0 | Track AI model quotas and reset countdowns in your status bar (supporting Antig… |
+| 2026-09-30 08:22:22 | [jkudo.wslc-manager](https://marketplace.visualstudio.com/items?itemName=jkudo.wslc-manager) | WSLC Manager | 0.1.0 | Manage WSL containers (wslc) from VS Code — containers, images, volumes, networ… |
+| 2026-09-30 08:26:47 | [zihu97.chipltech-balance](https://marketplace.visualstudio.com/items?itemName=zihu97.chipltech-balance) | ChipLTech Balance | 0.3.0 | 在 VS Code 远端状态栏显示 ChipLTech 余额。 |
+| 2026-09-30 08:51:34 | [withoutthem.block-banner-generator](https://marketplace.visualstudio.com/items?itemName=withoutthem.block-banner-generator) | Block Banner Generator | 1.0.0 | Big block-letter banner comments in any language: English, Korean, Japanese, Ch… |
+| 2026-09-30 08:58:20 | [dagangshe.copy-path-line-dagangshe](https://marketplace.visualstudio.com/items?itemName=dagangshe.copy-path-line-dagangshe) | Copy Path with Line Number | 0.1.0 | Copy a workspace-relative file path with the cursor line or selected line range. |
+| 2026-09-30 08:58:39 | [BlaiseRodrigues.Quotoo](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.Quotoo) | Quotoo | 1.0.0 | Track AI model quotas and reset countdowns in your status bar (supporting Antig… |
+| 2026-09-30 09:05:11 | [TomFrumy.sni-algo-29](https://marketplace.visualstudio.com/items?itemName=TomFrumy.sni-algo-29) | SNI-Algo-29 | 0.1.0 | Coloration, plan et snippets pour le pseudo-code en français (fichiers .algo). |
+| 2026-09-30 09:11:27 | [mestermarc.traceml](https://marketplace.visualstudio.com/items?itemName=mestermarc.traceml) | TraceML | 0.1.4 | Read-only, filesystem-only viewer for ML training runs (tables, plots, comparis… |
+| 2026-09-30 09:13:29 | [jefung.escaped-json-tools](https://marketplace.visualstudio.com/items?itemName=jefung.escaped-json-tools) | Escaped JSON Tools | 0.1.0 | Format, minify, escape, and inspect JSON without losing large-integer precision |
 
 ## Data source
 

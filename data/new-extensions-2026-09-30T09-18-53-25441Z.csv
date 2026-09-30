@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T08:22:22.2Z,jkudo.wslc-manager,jkudo,WSLC Manager,0.1.0,"Manage WSL containers (wslc) from VS Code — containers, images, volumes, networks, snapshots and groups."
+2026-09-30T08:26:47.917Z,zihu97.chipltech-balance,zihu97,ChipLTech Balance,0.3.0,在 VS Code 远端状态栏显示 ChipLTech 余额。
+2026-09-30T08:51:34.603Z,withoutthem.block-banner-generator,withoutthem,Block Banner Generator,1.0.0,"Big block-letter banner comments in any language: English, Korean, Japanese, Chinese, symbols. Rendered with the fonts on your machine."
+2026-09-30T08:58:20.733Z,dagangshe.copy-path-line-dagangshe,dagangshe,Copy Path with Line Number,0.1.0,Copy a workspace-relative file path with the cursor line or selected line range.
+2026-09-30T08:58:39.393Z,BlaiseRodrigues.Quotoo,BlaiseRodrigues,Quotoo,1.0.0,"Track AI model quotas and reset countdowns in your status bar (supporting Antigravity IDE, with more coding agents planned)"
+2026-09-30T09:05:11.76Z,TomFrumy.sni-algo-29,TomFrumy,SNI-Algo-29,0.1.0,"Coloration, plan et snippets pour le pseudo-code en français (fichiers .algo)."
+2026-09-30T09:11:27.603Z,mestermarc.traceml,mestermarc,TraceML,0.1.4,"Read-only, filesystem-only viewer for ML training runs (tables, plots, comparison) inside VS Code. Works over Remote-SSH."
+2026-09-30T09:13:29.41Z,jefung.escaped-json-tools,jefung,Escaped JSON Tools,0.1.0,"Format, minify, escape, and inspect JSON without losing large-integer precision"
