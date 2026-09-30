@@ -12,20 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-29 23:20 UTC
+## Latest list — 2026-09-30 00:20 UTC
 
-New extensions published between 2026-09-29 21:20 UTC and 2026-09-29 23:20 UTC.
+New extensions published between 2026-09-29 22:20 UTC and 2026-09-30 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-29T23-20-09-012084Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T00-20-15-147526Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-29 22:20:55 | [kernbot.kern-code](https://marketplace.visualstudio.com/items?itemName=kernbot.kern-code) | KERN Code | 0.5.28 | Chat with KERN's library and get coding help directly inside VS Code / Cursor. |
-| 2026-09-29 22:23:37 | [datamind.datamind-oda](https://marketplace.visualstudio.com/items?itemName=datamind.datamind-oda) | Datamind Oda | 0.2.23992 | Datamind Oda, the Datamind agent, in VS Code; runs on the installed Datamind Od… |
-| 2026-09-29 22:32:22 | [chaffed.duckweed](https://marketplace.visualstudio.com/items?itemName=chaffed.duckweed) | Duckweed | 0.1.0 | Browse and edit SQLite, DuckDB and CSV/TSV files in VS Code with no native bina… |
-| 2026-09-29 22:38:51 | [rdurooon.roomscode-extension](https://marketplace.visualstudio.com/items?itemName=rdurooon.roomscode-extension) | RoomsCode | 0.0.1 | Transmita ao vivo, em tempo real, o código que você está editando para os espec… |
-| 2026-09-29 22:52:24 | [tmidorikawa.tsuzuri](https://marketplace.visualstudio.com/items?itemName=tmidorikawa.tsuzuri) | Tsuzuri | 0.1.0 | Tsuzuri IDE |
-| 2026-09-29 23:13:02 | [extenza-works.kanoniq](https://marketplace.visualstudio.com/items?itemName=extenza-works.kanoniq) | Kanoniq | 0.1.0 | Kanoniq by Extenza Works — the VS Code extension: `.kq` language support. |
+| 2026-09-29 23:52:10 | [omoshiRoyQ.chat-model-provider-for-amazon-bedrock](https://marketplace.visualstudio.com/items?itemName=omoshiRoyQ.chat-model-provider-for-amazon-bedrock) | Chat Model Provider for Amazon Bedrock | 1.0.0 | Use Amazon Bedrock models in VS Code Chat via your AWS profile (SSO supported). |
+| 2026-09-29 23:52:55 | [L-Language.l-language-vscode-extension](https://marketplace.visualstudio.com/items?itemName=L-Language.l-language-vscode-extension) | L Language | 2026.9.0 | Syntax highlighting for the L Language (.ll files) |
 
 ## Data source
 
