@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T05:15:44.153Z,planq-cli.planq,planq-cli,PlanQ,0.1.2,"Plan as Code authoring with syntax highlighting, PlanQ language intelligence, and Gantt preview."
+2026-09-30T05:28:06.407Z,PrashantKurlekar.apple-fm-copilot-provider,PrashantKurlekar,Apple Foundation Models for Copilot Chat,1.0.0,"Use Apple's on-device Foundation Model (Apple Intelligence) as a model in VS Code Copilot Chat. Private, offline, free."
+2026-09-30T05:48:54.13Z,yxiaoa.replace-history,yxiaoa,Replace History,0.0.1,Save and reuse find and replace pairs
+2026-09-30T06:06:17.713Z,bhanuagarwal.karate-runner-v2,bhanuagarwal,Karate Runner v2 extended by Bhanu,0.0.1,"Karate Runner v2 extended by Bhanu — run and debug Karate 1.x/2.x tests from VS Code, with Windows path fixes for Karate 2 karate.options."
+2026-09-30T06:16:35.15Z,djain912.clipcmd,djain912,clipcmd — Copy Command Output,0.0.1,"One-click [COPY OUTPUT] and [COPY BOTH] buttons for every command in VS Code's terminal, with the clipcmd CLI."
