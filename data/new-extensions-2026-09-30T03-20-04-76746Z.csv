@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T02:19:13.61Z,MichaelBlythe.ai-provider-status-monitor,MichaelBlythe,AIUP: AI Service Status,0.1.0,"Reported incidents from your AI providers, at a glance."
+2026-09-30T02:21:28.147Z,redaechan.charlie-and-the-chat-factory,redaechan,Charlie and the Chat Factory - Claude Code & Codex,0.10.2,"Mission control for your AI chats: every Claude Code chat on one always-on-top board and your phone, prompts queued for the usage reset. Codex and Copilot too."
+2026-09-30T02:21:30.567Z,mblet.project-scaffold-vscode,mblet,ProjectScaffold,0.1.0,"Software architecture editor for *.scaffold.yaml files: modules, ports, typed interfaces and links"
+2026-09-30T02:37:13.813Z,jokeran.vueClick,jokeran,vueClick,0.1.0,vue点击变量或函数名称，快速跳转到定义的位置
+2026-09-30T02:48:46.163Z,pradeepverse.spark-lens,pradeepverse,Spark Lens,0.1.0,"Understand research papers and patents layer by layer, from ""like you are 5"" to expert, powered by your GitHub Copilot."

@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 02:18 UTC
+## Latest list — 2026-09-30 03:20 UTC
 
-New extensions published between 2026-09-30 00:18 UTC and 2026-09-30 02:18 UTC.
+New extensions published between 2026-09-30 01:20 UTC and 2026-09-30 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T02-18-54-683044Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T03-20-04-76746Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 01:21:03 | [SimKDT.ZedScripts](https://marketplace.visualstudio.com/items?itemName=SimKDT.ZedScripts) | ZedScripts | 0.0.1 | BETA - Implements the ZedScripts language server protocol inside Visual Studio… |
-| 2026-09-30 01:46:12 | [kio-lang.kio](https://marketplace.visualstudio.com/items?itemName=kio-lang.kio) | Kio | 0.1.0 | Syntax highlighting and language-server integration for the Kio programming lan… |
-| 2026-09-30 02:09:01 | [Indrasol.labs-pipeline-smoke](https://marketplace.visualstudio.com/items?itemName=Indrasol.labs-pipeline-smoke) | Labs Pipeline Smoke Test | 0.0.1 | Does nothing. Verifies the Indrasol Labs release pipeline. by Indrasol Labs |
-| 2026-09-30 02:09:09 | [jokeran.vue2click](https://marketplace.visualstudio.com/items?itemName=jokeran.vue2click) | Vue2Click | 0.1.3 | Go to local JavaScript/TypeScript/Vue declarations, including Vue 2 this.method… |
-| 2026-09-30 02:12:31 | [SCADADOG.scadadog-fezd](https://marketplace.visualstudio.com/items?itemName=SCADADOG.scadadog-fezd) | SCADADOG FEZD | 0.1.2 | Convert Control Expert .zef archives to .stu and deploy to a hosted or on-prem… |
+| 2026-09-30 02:19:13 | [MichaelBlythe.ai-provider-status-monitor](https://marketplace.visualstudio.com/items?itemName=MichaelBlythe.ai-provider-status-monitor) | AIUP: AI Service Status | 0.1.0 | Reported incidents from your AI providers, at a glance. |
+| 2026-09-30 02:21:28 | [redaechan.charlie-and-the-chat-factory](https://marketplace.visualstudio.com/items?itemName=redaechan.charlie-and-the-chat-factory) | Charlie and the Chat Factory - Claude C… | 0.10.2 | Mission control for your AI chats: every Claude Code chat on one always-on-top… |
+| 2026-09-30 02:21:30 | [mblet.project-scaffold-vscode](https://marketplace.visualstudio.com/items?itemName=mblet.project-scaffold-vscode) | ProjectScaffold | 0.1.0 | Software architecture editor for *.scaffold.yaml files: modules, ports, typed i… |
+| 2026-09-30 02:37:13 | [jokeran.vueClick](https://marketplace.visualstudio.com/items?itemName=jokeran.vueClick) | vueClick | 0.1.0 | vue点击变量或函数名称，快速跳转到定义的位置 |
+| 2026-09-30 02:48:46 | [pradeepverse.spark-lens](https://marketplace.visualstudio.com/items?itemName=pradeepverse.spark-lens) | Spark Lens | 0.1.0 | Understand research papers and patents layer by layer, from "like you are 5" to… |
 
 ## Data source
 
