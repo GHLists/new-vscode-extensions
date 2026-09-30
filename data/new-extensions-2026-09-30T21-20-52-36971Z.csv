@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T20:13:07.36Z,CoderrAB.kiwipow-agent,CoderrAB,Kiwipow Agent,0.2.3,Coding sessions in VS Code with a choice of model engine per session.
+2026-09-30T20:25:23.317Z,hevanaco.hevana-theme,hevanaco,Hevana Theme,1.4.0,"A minimal well-focused theme crafted for deep work, clear code, and effortless flow—designed to make long coding sessions feel productive and more enjoyable."
+2026-09-30T20:37:26.207Z,anonychun.pi-shrimp,anonychun,Pi Shrimp,0.0.1,Run the Pi coding agent inside VS Code
+2026-09-30T20:40:32.68Z,izakdvlpr.vscode-emulator-panel,izakdvlpr,Emulator in VS Code Panel,0.0.1,Run and control the Android Emulator and the iOS Simulator inside a VS Code panel.
+2026-09-30T20:56:30.777Z,luminary-dev.luminary-map,luminary-dev,Luminary — Map for your Codebase,0.1.0,"Turn any codebase into a visual architecture map, then trace the path a feature takes through it."
+2026-09-30T21:03:11.973Z,MuukLabsInc.amikoo-vscode,MuukLabsInc,Amikoo,1.0.0,"Amikoo — your QA assistant in VS Code. Chat about tests, executions, coverage and failures, and let it read and repair your workspace."
+2026-09-30T21:06:19.157Z,AhmadMalik1376.bumpscan-vscode,AhmadMalik1376,bumpscan,0.1.0,"See which lines of your code an npm upgrade will break, right in the editor."
+2026-09-30T21:08:08.377Z,ReoX86.spice-schematic-preview,ReoX86,SPICE Schematic Preview,0.1.0,Draws SPICE netlists as circuit schematics in VS Code's built-in Markdown preview
+2026-09-30T21:08:31.147Z,Tyhp.tyhp,Tyhp,Tyhp Language,0.8.1,"Tyhp language support: syntax highlighting, LSP, XDebug proxy debugging, tasks, workspace init, status bar, file icons, and CLI binary management for .tyhp / .tyhpdef"
