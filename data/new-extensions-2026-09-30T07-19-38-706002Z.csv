@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T06:17:19.41Z,fms-plugin.lczs-codeplugin-uat,fms-plugin,LCZS-CodePlugin-UAT,0.1.0,Internal AI coding assistant. Sign in with your organization account to use it in VS Code.
+2026-09-30T06:17:24.82Z,SoftUmeYa-llc.vscode-tonel-smalltalk,SoftUmeYa-llc,Tonel Smalltalk,0.1.0,Tonel Smalltalk language support for .st files
+2026-09-30T06:36:22.593Z,Doer.antigravity-quota-plus,Doer,Antigravity Quota Plus,1.0.0,Monitor dual AI model quotas (5-Hour & Weekly limits) for Antigravity in the status bar
+2026-09-30T06:38:16.793Z,aslilac.squill,aslilac,Squill,0.1.0,"A formatter and syntax highlighter for SQL, everywhere."
+2026-09-30T06:41:03.963Z,easy-ssh.easy-ssh,easy-ssh,Easy SSH,0.1.0,"Manage SSH connections in a terminal and transfer files with the remote directory you are in. Works in VS Code and Cursor, on internal and external networks."
+2026-09-30T06:42:08.61Z,theourgia.theourgos,theourgia,Theourgos,1.0.0,Browse and edit a theourgia block store from VS Code.

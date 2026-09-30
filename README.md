@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 06:20 UTC
+## Latest list — 2026-09-30 07:19 UTC
 
-New extensions published between 2026-09-30 04:20 UTC and 2026-09-30 06:20 UTC.
+New extensions published between 2026-09-30 05:19 UTC and 2026-09-30 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T06-20-00-594561Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T07-19-38-706002Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 05:15:44 | [planq-cli.planq](https://marketplace.visualstudio.com/items?itemName=planq-cli.planq) | PlanQ | 0.1.2 | Plan as Code authoring with syntax highlighting, PlanQ language intelligence, a… |
-| 2026-09-30 05:28:06 | [PrashantKurlekar.apple-fm-copilot-provider](https://marketplace.visualstudio.com/items?itemName=PrashantKurlekar.apple-fm-copilot-provider) | Apple Foundation Models for Copilot Chat | 1.0.0 | Use Apple's on-device Foundation Model (Apple Intelligence) as a model in VS Co… |
-| 2026-09-30 05:48:54 | [yxiaoa.replace-history](https://marketplace.visualstudio.com/items?itemName=yxiaoa.replace-history) | Replace History | 0.0.1 | Save and reuse find and replace pairs |
-| 2026-09-30 06:06:17 | [bhanuagarwal.karate-runner-v2](https://marketplace.visualstudio.com/items?itemName=bhanuagarwal.karate-runner-v2) | Karate Runner v2 extended by Bhanu | 0.0.1 | Karate Runner v2 extended by Bhanu — run and debug Karate 1.x/2.x tests from VS… |
-| 2026-09-30 06:16:35 | [djain912.clipcmd](https://marketplace.visualstudio.com/items?itemName=djain912.clipcmd) | clipcmd — Copy Command Output | 0.0.1 | One-click [COPY OUTPUT] and [COPY BOTH] buttons for every command in VS Code's… |
+| 2026-09-30 06:17:19 | [fms-plugin.lczs-codeplugin-uat](https://marketplace.visualstudio.com/items?itemName=fms-plugin.lczs-codeplugin-uat) | LCZS-CodePlugin-UAT | 0.1.0 | Internal AI coding assistant. Sign in with your organization account to use it… |
+| 2026-09-30 06:17:24 | [SoftUmeYa-llc.vscode-tonel-smalltalk](https://marketplace.visualstudio.com/items?itemName=SoftUmeYa-llc.vscode-tonel-smalltalk) | Tonel Smalltalk | 0.1.0 | Tonel Smalltalk language support for .st files |
+| 2026-09-30 06:36:22 | [Doer.antigravity-quota-plus](https://marketplace.visualstudio.com/items?itemName=Doer.antigravity-quota-plus) | Antigravity Quota Plus | 1.0.0 | Monitor dual AI model quotas (5-Hour & Weekly limits) for Antigravity in the st… |
+| 2026-09-30 06:38:16 | [aslilac.squill](https://marketplace.visualstudio.com/items?itemName=aslilac.squill) | Squill | 0.1.0 | A formatter and syntax highlighter for SQL, everywhere. |
+| 2026-09-30 06:41:03 | [easy-ssh.easy-ssh](https://marketplace.visualstudio.com/items?itemName=easy-ssh.easy-ssh) | Easy SSH | 0.1.0 | Manage SSH connections in a terminal and transfer files with the remote directo… |
+| 2026-09-30 06:42:08 | [theourgia.theourgos](https://marketplace.visualstudio.com/items?itemName=theourgia.theourgos) | Theourgos | 1.0.0 | Browse and edit a theourgia block store from VS Code. |
 
 ## Data source
 
