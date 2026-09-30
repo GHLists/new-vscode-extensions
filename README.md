@@ -12,22 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 09:18 UTC
+## Latest list — 2026-09-30 10:20 UTC
 
-New extensions published between 2026-09-30 07:18 UTC and 2026-09-30 09:18 UTC.
+New extensions published between 2026-09-30 08:20 UTC and 2026-09-30 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T09-18-53-25441Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T10-20-24-323993Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 08:22:22 | [jkudo.wslc-manager](https://marketplace.visualstudio.com/items?itemName=jkudo.wslc-manager) | WSLC Manager | 0.1.0 | Manage WSL containers (wslc) from VS Code — containers, images, volumes, networ… |
-| 2026-09-30 08:26:47 | [zihu97.chipltech-balance](https://marketplace.visualstudio.com/items?itemName=zihu97.chipltech-balance) | ChipLTech Balance | 0.3.0 | 在 VS Code 远端状态栏显示 ChipLTech 余额。 |
-| 2026-09-30 08:51:34 | [withoutthem.block-banner-generator](https://marketplace.visualstudio.com/items?itemName=withoutthem.block-banner-generator) | Block Banner Generator | 1.0.0 | Big block-letter banner comments in any language: English, Korean, Japanese, Ch… |
-| 2026-09-30 08:58:20 | [dagangshe.copy-path-line-dagangshe](https://marketplace.visualstudio.com/items?itemName=dagangshe.copy-path-line-dagangshe) | Copy Path with Line Number | 0.1.0 | Copy a workspace-relative file path with the cursor line or selected line range. |
-| 2026-09-30 08:58:39 | [BlaiseRodrigues.Quotoo](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.Quotoo) | Quotoo | 1.0.0 | Track AI model quotas and reset countdowns in your status bar (supporting Antig… |
-| 2026-09-30 09:05:11 | [TomFrumy.sni-algo-29](https://marketplace.visualstudio.com/items?itemName=TomFrumy.sni-algo-29) | SNI-Algo-29 | 0.1.0 | Coloration, plan et snippets pour le pseudo-code en français (fichiers .algo). |
-| 2026-09-30 09:11:27 | [mestermarc.traceml](https://marketplace.visualstudio.com/items?itemName=mestermarc.traceml) | TraceML | 0.1.4 | Read-only, filesystem-only viewer for ML training runs (tables, plots, comparis… |
-| 2026-09-30 09:13:29 | [jefung.escaped-json-tools](https://marketplace.visualstudio.com/items?itemName=jefung.escaped-json-tools) | Escaped JSON Tools | 0.1.0 | Format, minify, escape, and inspect JSON without losing large-integer precision |
+| 2026-09-30 09:35:02 | [ReadyStack.cinc-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cinc-migration-check) | Cinc Migration Check: Chef Infra licenc… | 1.0.1 | Cinc migration check for Chef users: flags lines that install Chef Infra Client… |
+| 2026-09-30 09:35:17 | [ReadyStack.crashlytics-migration-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.crashlytics-migration-lint) | Crashlytics Migration Lint for App Cent… | 1.0.1 | Finds leftover Visual Studio App Center SDK calls (retired 2025-03-31, Analytic… |
+| 2026-09-30 09:35:38 | [ReadyStack.ferretdb-migration-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.ferretdb-migration-lint) | FerretDB Migration Lint — MongoDB SSPL… | 1.0.1 | FerretDB migration check: flags SSPL MongoDB server images in docker-compose, H… |
+| 2026-09-30 09:37:08 | [PRODCopycatDVT.vsc-panorama-extM280W1](https://marketplace.visualstudio.com/items?itemName=PRODCopycatDVT.vsc-panorama-extM280W1) | CS2 Panorama (VXML / VCSS)M280W1 | 1.0.0 | Language support for CS2 Panorama layouts and styles |
+| 2026-09-30 09:39:52 | [opsva.archi-revue-securite](https://marketplace.visualstudio.com/items?itemName=opsva.archi-revue-securite) | Archi Agents — Agent Revue de sécurité | 0.1.0 | Agent tiers d'exemple : revue du chiffrement des flux documentés (protocoles ch… |
+| 2026-09-30 09:45:03 | [llynn23232-ops.autumn-equinox](https://marketplace.visualstudio.com/items?itemName=llynn23232-ops.autumn-equinox) | 秋分 | 0.1.1 | An eye-friendly autumn light VS Code theme inspired by oat cream, sage green, m… |
+| 2026-09-30 09:46:28 | [devSachin13.loc-counter](https://marketplace.visualstudio.com/items?itemName=devSachin13.loc-counter) | LOC Counter | 0.0.1 | Count lines of code in your VS Code project by file type, with support for excl… |
+| 2026-09-30 09:47:41 | [PRODM280DVTWEEK1.vscode-nexterminalM280W1](https://marketplace.visualstudio.com/items?itemName=PRODM280DVTWEEK1.vscode-nexterminalM280W1) | Nexus Terminal Copycat reviewW1 | 2.8.218 | Full SSH + serial + telnet + port-forwarding client inside VS Code — no 300MB R… |
+| 2026-09-30 09:50:18 | [PRODM280DVTWEEK1.platformio-PRODM280DVTW1](https://marketplace.visualstudio.com/items?itemName=PRODM280DVTWEEK1.platformio-PRODM280DVTW1) | PRODM280W1 TESTone On Platform | 3.3.8 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
+| 2026-09-30 09:50:46 | [SyncfusionInc.syncfusion-json-visualizer](https://marketplace.visualstudio.com/items?itemName=SyncfusionInc.syncfusion-json-visualizer) | JSON Visualizer - Syncfusion | 1.0.0 | Visualize and explore complex JSON structures with interactive graphs directly… |
+| 2026-09-30 09:50:49 | [leeannong.session-manager-for-claude-code](https://marketplace.visualstudio.com/items?itemName=leeannong.session-manager-for-claude-code) | Session Manager for Claude Code | 0.2.0 | Organise Claude Code sessions into nested, colour-coded groups, with live statu… |
+| 2026-09-30 09:52:34 | [adityavarman-manjunath.roc-nightly](https://marketplace.visualstudio.com/items?itemName=adityavarman-manjunath.roc-nightly) | Roc (nightly) | 0.0.2 | Roc support for the new compiler nightlies, powered by `roc experimental-lsp` |
+| 2026-09-30 09:56:39 | [mindconnect-ai.mindconnect](https://marketplace.visualstudio.com/items?itemName=mindconnect-ai.mindconnect) | MindConnect | 1.4.0 | Run the MindConnect agent server locally and talk to its agents from the VS Cod… |
+| 2026-09-30 10:01:11 | [AliAlalawi14.stoat](https://marketplace.visualstudio.com/items?itemName=AliAlalawi14.stoat) | Stoat – AI Coding Agent | 0.3.1 | Small agent, takes on the big ones. An open-source AI coding agent for VS Code:… |
+| 2026-09-30 10:03:34 | [etechtrove.ini-table-view](https://marketplace.visualstudio.com/items?itemName=etechtrove.ini-table-view) | INI Table View | 0.5.2 | Opens .ini files (including AudioCodes SBC config INIs) as bordered, aligned ta… |
 
 ## Data source
 
