@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 17:19 UTC
+## Latest list — 2026-09-30 18:21 UTC
 
-New extensions published between 2026-09-30 15:19 UTC and 2026-09-30 17:19 UTC.
+New extensions published between 2026-09-30 16:21 UTC and 2026-09-30 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T17-19-44-668291Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T18-21-48-470717Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 16:11:53 | [WindRiver.wind-river-vxworks](https://marketplace.visualstudio.com/items?itemName=WindRiver.wind-river-vxworks) | Wind River VxWorks | 1.0.0 | VxWorks development support for VS Code |
-| 2026-09-30 16:20:15 | [Gamis.difft](https://marketplace.visualstudio.com/items?itemName=Gamis.difft) | DiffT | 0.0.2 | Compare branches or directories with native difftastic hunks in one webview tab. |
-| 2026-09-30 16:29:34 | [viraj-s15.oxocarbon-grey](https://marketplace.visualstudio.com/items?itemName=viraj-s15.oxocarbon-grey) | Oxocarbon Grey | 1.0.0 | A dark cool-grey take on Oxocarbon, with richer syntax colours and full semanti… |
-| 2026-09-30 16:39:36 | [globalmentor.jekt](https://marketplace.visualstudio.com/items?itemName=globalmentor.jekt) | Jekt | 0.1.0 | Support for Jekt, a context architecture that records tickets, plans, and decis… |
-| 2026-09-30 16:44:38 | [luca-ecosystem.luca-code](https://marketplace.visualstudio.com/items?itemName=luca-ecosystem.luca-code) | Luca Code (1.0 Beta) | 1.0.1 | Official language support for Luca Code 1.0 Beta: syntax highlighting, snippets… |
-| 2026-09-30 16:48:19 | [oxygenhub.oxygen-vscode](https://marketplace.visualstudio.com/items?itemName=oxygenhub.oxygen-vscode) | Oxygen VCS | 0.16.1 | Oxygen version control: source control view, diffs, decorations, bookmarks and… |
-| 2026-09-30 17:01:49 | [sheeptao.pixi](https://marketplace.visualstudio.com/items?itemName=sheeptao.pixi) | Pixi | 1.0.262731701 | Pixi package manager and polyglot workspace integration for Visual Studio Code |
-| 2026-09-30 17:04:23 | [Rubix-lang-v10.rubix-language](https://marketplace.visualstudio.com/items?itemName=Rubix-lang-v10.rubix-language) | Rubix Programming Language | 1.0.0 | Official IDE language support for the Rubix programming language (*.bix) |
+| 2026-09-30 17:51:06 | [CodeMaman.ctxshift](https://marketplace.visualstudio.com/items?itemName=CodeMaman.ctxshift) | CtxShift | 0.0.3 | Switch between project folders in one click and get everything back exactly as… |
+| 2026-09-30 17:54:41 | [BrahmaByte.devdashboardv1](https://marketplace.visualstudio.com/items?itemName=BrahmaByte.devdashboardv1) | DevDashboardV1 | 0.1.0 | A local-first developer command center inside VS Code. |
+| 2026-09-30 17:59:25 | [nifty.nifty-sql](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-sql) | Nifty SQL: SQL Formatter for 20 Dialects | 0.1.1 | Format SQL in 20 dialects, including dbt and Jinja templates, with your team's… |
+| 2026-09-30 17:59:40 | [nifty.nifty-git-links](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-git-links) | Nifty Git Links: Open in GitHub, GitLab… | 0.1.0 | Open or copy links to files, lines, commits and pull requests on GitHub, GitLab… |
+| 2026-09-30 17:59:53 | [nifty.nifty-paste-json](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-paste-json) | Nifty Paste JSON as Code: JSON to Types | 0.1.0 | Turn JSON on your clipboard into types for TypeScript, C#, Go, Rust, Python, Ja… |
+| 2026-09-30 18:00:07 | [nifty.nifty-node-search](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-node-search) | Nifty Node Search: Search Files in node… | 0.1.0 | Fuzzy-find and open files inside node_modules, jump to a package's README, and… |
+| 2026-09-30 18:00:19 | [nifty.nifty-monitor](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-monitor) | Nifty Monitor: CPU & Memory in the Stat… | 0.1.0 | CPU, memory and disk usage in the status bar, including on remote SSH machines… |
+| 2026-09-30 18:00:31 | [nifty.nifty-nuget](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-nuget) | Nifty NuGet: NuGet Package Manager | 0.1.0 | Search, add, update and remove NuGet packages, see outdated and vulnerable ones… |
+| 2026-09-30 18:02:18 | [inai.inai](https://marketplace.visualstudio.com/items?itemName=inai.inai) | INAI | 0.1.1 | Provider-agnostic AI coding assistant with safe edits, agent tools, and local-f… |
+| 2026-09-30 18:06:48 | [newmatik.pcba-studio](https://marketplace.visualstudio.com/items?itemName=newmatik.pcba-studio) | PCBA Studio | 1.0.0 | Optional VS Code UI for PCBA Studio: run hardware/firmware reviews, open Altium… |
+| 2026-09-30 18:12:42 | [oxygenhub.oxygenhub](https://marketplace.visualstudio.com/items?itemName=oxygenhub.oxygenhub) | OxygenHub VCS | 0.11.1 | Proposals, reviews, issues and checks from an OxygenHub, in the editor. Builds… |
 
 ## Data source
 

@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T17:51:06.24Z,CodeMaman.ctxshift,CodeMaman,CtxShift,0.0.3,"Switch between project folders in one click and get everything back exactly as you left it: open tabs, editor layout, terminals, git branch and breakpoints. Groups, favourites and multi-folder projects included."
+2026-09-30T17:54:41.07Z,BrahmaByte.devdashboardv1,BrahmaByte,DevDashboardV1,0.1.0,A local-first developer command center inside VS Code.
+2026-09-30T17:59:25.87Z,nifty.nifty-sql,nifty,Nifty SQL: SQL Formatter for 20 Dialects,0.1.1,"Format SQL in 20 dialects, including dbt and Jinja templates, with your team's settings."
+2026-09-30T17:59:40.163Z,nifty.nifty-git-links,nifty,"Nifty Git Links: Open in GitHub, GitLab & Bitbucket",0.1.0,"Open or copy links to files, lines, commits and pull requests on GitHub, GitLab, Bitbucket, Azure DevOps and Gitea."
+2026-09-30T17:59:53.493Z,nifty.nifty-paste-json,nifty,Nifty Paste JSON as Code: JSON to Types,0.1.0,"Turn JSON on your clipboard into types for TypeScript, C#, Go, Rust, Python, Java, Kotlin, Swift, Dart and more."
+2026-09-30T18:00:07.433Z,nifty.nifty-node-search,nifty,Nifty Node Search: Search Files in node_modules,0.1.0,"Fuzzy-find and open files inside node_modules, jump to a package's README, and see installed versions."
+2026-09-30T18:00:19.703Z,nifty.nifty-monitor,nifty,Nifty Monitor: CPU & Memory in the Status Bar,0.1.0,"CPU, memory and disk usage in the status bar, including on remote SSH machines and dev containers."
+2026-09-30T18:00:31.963Z,nifty.nifty-nuget,nifty,Nifty NuGet: NuGet Package Manager,0.1.0,"Search, add, update and remove NuGet packages, see outdated and vulnerable ones, in VS Code, Cursor and every editor."
+2026-09-30T18:02:18.35Z,inai.inai,inai,INAI,0.1.1,"Provider-agnostic AI coding assistant with safe edits, agent tools, and local-first defaults (Ollama)."
+2026-09-30T18:06:48.497Z,newmatik.pcba-studio,newmatik,PCBA Studio,1.0.0,"Optional VS Code UI for PCBA Studio: run hardware/firmware reviews, open Altium .SchDoc files, and track project decisions as linted Markdown."
+2026-09-30T18:12:42.33Z,oxygenhub.oxygenhub,oxygenhub,OxygenHub VCS,0.11.1,"Proposals, reviews, issues and checks from an OxygenHub, in the editor. Builds on the Oxygen extension."
