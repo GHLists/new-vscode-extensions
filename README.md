@@ -12,29 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 12:19 UTC
+## Latest list — 2026-09-30 13:19 UTC
 
-New extensions published between 2026-09-30 10:19 UTC and 2026-09-30 12:19 UTC.
+New extensions published between 2026-09-30 11:19 UTC and 2026-09-30 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T12-19-59-705851Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T13-19-47-201048Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 11:20:30 | [itstushar.timemachine](https://marketplace.visualstudio.com/items?itemName=itstushar.timemachine) | TimeMachine | 1.2.0 | A local project timeline of file saves, terminal commands, server starts, and t… |
-| 2026-09-30 11:20:59 | [sup2point0.vscode-supcode-visuals](https://marketplace.visualstudio.com/items?itemName=sup2point0.vscode-supcode-visuals) | supcode Visuals | 1.4.1 | supcode’s text displaying conventions: `kebab-case` identifiers, half-spaced in… |
-| 2026-09-30 11:24:46 | [BunnyWhite.site-sync](https://marketplace.visualstudio.com/items?itemName=BunnyWhite.site-sync) | Site Sync | 0.4.0 | Edit the HTML, CSS, JavaScript and other resources of a remote website locally… |
-| 2026-09-30 11:29:27 | [utiltools.time-tracker-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.time-tracker-utiltools) | Time Tracker, WakaTime Alternative, Cod… | 1.0.3 | Time tracker and coding time tracking for VS Code: automatic offline time track… |
-| 2026-09-30 11:31:37 | [gdsfactory.gdsfp2-beta](https://marketplace.visualstudio.com/items?itemName=gdsfactory.gdsfp2-beta) | gdsfp2-beta | 2026.930.0 | GDSFactory + is an end to end chip design tool. |
-| 2026-09-30 11:32:24 | [Ramlaoui.atompack-vscode](https://marketplace.visualstudio.com/items?itemName=Ramlaoui.atompack-vscode) | Atompack Viewer | 0.1.0 | Browse and visualize atompack (.atp) databases |
-| 2026-09-30 11:43:49 | [utiltools.kubernetes-dashboard-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.kubernetes-dashboard-utiltools) | Kubernetes Dashboard, Kubectl GUI, K8s,… | 1.0.3 | Kubernetes dashboard and K8s GUI for VS Code: a Lens and k9s alternative to bro… |
-| 2026-09-30 11:49:01 | [FriendSea.emptyengine-host](https://marketplace.visualstudio.com/items?itemName=FriendSea.emptyengine-host) | EmptyEngine Host | 0.6.1 | Shows the EmptyEngine editor (the local web UI served by the Host) inside VSCode |
-| 2026-09-30 11:55:31 | [ddalus.hyperfocus](https://marketplace.visualstudio.com/items?itemName=ddalus.hyperfocus) | hyperfocus | 0.1.0 | Your hyperfocus stats, weak spots and saved questions, right in VS Code. |
-| 2026-09-30 11:56:11 | [mubash.xpositor](https://marketplace.visualstudio.com/items?itemName=mubash.xpositor) | Xpositor | 0.1.0 | Review your changes from your phone: guided AI walkthroughs, line-by-line expla… |
-| 2026-09-30 12:04:00 | [ReedInc.reedpl-vscode](https://marketplace.visualstudio.com/items?itemName=ReedInc.reedpl-vscode) | Reed Programming Language | 1.1.0 | Official Visual Studio Code extension for the Reed programming language, provid… |
-| 2026-09-30 12:07:03 | [furiouskopan.claude-usage-meters](https://marketplace.visualstudio.com/items?itemName=furiouskopan.claude-usage-meters) | Claude Usage Meters | 1.0.0 | Unofficial. Your Claude Code plan usage (session, weekly, weekly Fable) and res… |
-| 2026-09-30 12:11:23 | [dhruvsuthar.code-to-english](https://marketplace.visualstudio.com/items?itemName=dhruvsuthar.code-to-english) | Code to English | 0.1.0 | Translate the current file into plain English, line for line, with the same lin… |
-| 2026-09-30 12:12:31 | [TimPillinger.colour-palette](https://marketplace.visualstudio.com/items?itemName=TimPillinger.colour-palette) | Colour Palette | 1.0.0 | Browse colour palettes from an external JSON file. |
-| 2026-09-30 12:15:12 | [Fwedpat.context-canary](https://marketplace.visualstudio.com/items?itemName=Fwedpat.context-canary) | Context Canary | 0.0.1 | A watchful canary for your Copilot chat. If the model stops following your inst… |
+| 2026-09-30 12:18:43 | [Unfinished-draft.latex-change-reviewer](https://marketplace.visualstudio.com/items?itemName=Unfinished-draft.latex-change-reviewer) | LaTeX Change Reviewer | 0.2.1 | A VS Code extension to review LaTeX edits more easily: compare text and accept… |
+| 2026-09-30 12:32:45 | [mesutpiskin.litellm-usage](https://marketplace.visualstudio.com/items?itemName=mesutpiskin.litellm-usage) | LiteLLM Usage | 0.3.0 | Track your LiteLLM proxy spend, token and model usage from the VS Code status b… |
+| 2026-09-30 12:35:21 | [thehasnainizhar.react-template-literal-formatter](https://marketplace.visualstudio.com/items?itemName=thehasnainizhar.react-template-literal-formatter) | React Template Literal Formatter | 2.0.0 | A vscode extension to format and organize React className props in one click, m… |
+| 2026-09-30 12:43:34 | [ANRui.kcoding](https://marketplace.visualstudio.com/items?itemName=ANRui.kcoding) | Kcoding | 4.3.0 | Kcoding - autonomous coding agent right in your IDE, capable of creating/editin… |
+| 2026-09-30 12:45:10 | [opsva.archi-analyst](https://marketplace.visualstudio.com/items?itemName=opsva.archi-analyst) | Archi Agents — Agent Analyste | 0.1.0 | Construit le modèle d'architecture (composants, flux, technologies, sécurité…)… |
+| 2026-09-30 12:45:12 | [nimasl.nimasl-for-copilot](https://marketplace.visualstudio.com/items?itemName=nimasl.nimasl-for-copilot) | Nimasl 尼码思勒 for Copilot Chat | 0.3.1 | 在 Copilot Chat / Agent 里直接用尼码思勒（nimasl.cn）：DeepSeek 与 MiMo 共用一条 Key，支持思考模式调节与图片… |
+| 2026-09-30 12:45:50 | [opsva.archi-docx](https://marketplace.visualstudio.com/items?itemName=opsva.archi-docx) | Archi Agents — Agent Générateur DOCX | 0.1.0 | Génère un dossier d'architecture Word professionnel, déterministe, avec diagram… |
+| 2026-09-30 12:46:30 | [opsva.archi-extractor](https://marketplace.visualstudio.com/items?itemName=opsva.archi-extractor) | Archi Agents — Agent Extracteur | 0.1.0 | Extraction 100 % hors ligne de PDF (texte et scannés), DOCX, XLSX, CSV, TXT, Ma… |
+| 2026-09-30 12:47:10 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-01](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-01) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 1/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-09-30 12:47:58 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-02](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-02) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 2/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-09-30 12:48:45 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-03](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-03) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 3/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-09-30 12:58:51 | [gurtejhundal.codenote](https://marketplace.visualstudio.com/items?itemName=gurtejhundal.codenote) | .cnote | 6.3.0 | Write visual Markdown notes inside real source files, browse them in Notebook,… |
+| 2026-09-30 12:59:17 | [band-ai.band](https://marketplace.visualstudio.com/items?itemName=band-ai.band) | Band for VS Code: Your AI Coding Team | 1.4.0 | Band for VS Code: Your AI Coding Team |
 
 ## Data source
 
