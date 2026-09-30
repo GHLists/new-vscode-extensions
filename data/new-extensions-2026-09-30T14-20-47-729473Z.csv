@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T13:22:47.437Z,boopathi-dev.ai-code-context-collector,boopathi-dev,AI Code Context Collector,1.0.0,"Local-first code context extractor for web-based AI assistants (ChatGPT, Claude, Gemini, Copilot)."
+2026-09-30T13:23:33.62Z,Jolli.jollicode,Jolli,Jolli Code,0.0.1,Jolli Code for VS Code
+2026-09-30T13:41:27.577Z,JingLIN.spss-studio,JingLIN,SPSS Studio,0.3.0,"SPSS Syntax IntelliSense, Active Dataset preview, and native HTML output through a local IBM SPSS Statistics engine."
+2026-09-30T13:47:44.13Z,atomicptr.vscode-moonbug,atomicptr,moonbug,0.1.0,"Single-file, in-process, DAP powered Lua debugger for your favorite code editor!"
+2026-09-30T13:51:56.72Z,vmikhailov.code-explorer-vscode,vmikhailov,CodeExplorer,1.11.3,Interactive code architecture and dependency graph visualizer powered by CodeExplorer (ce)
+2026-09-30T13:58:12.497Z,ByUsiStudio.codecin-cin,ByUsiStudio,Code CIN Language Support,1.0.0,"Code CIN language support: syntax highlighting, bracket matching, snippets for .cin files"
+2026-09-30T14:14:14.907Z,seo-audit-tool.seowebchecker,seo-audit-tool,SEOWebChecker - Technical SEO Audit & Analyzer,1.0.0,"Real-time technical SEO linter for HTML, JSX, TSX, Astro, Vue, Svelte, and Markdown. Detects missing alt tags, duplicate H1s, title/meta lengths, and OpenGraph issues."

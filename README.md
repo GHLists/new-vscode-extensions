@@ -12,27 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 13:19 UTC
+## Latest list — 2026-09-30 14:20 UTC
 
-New extensions published between 2026-09-30 11:19 UTC and 2026-09-30 13:19 UTC.
+New extensions published between 2026-09-30 12:20 UTC and 2026-09-30 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T13-19-47-201048Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T14-20-47-729473Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 12:18:43 | [Unfinished-draft.latex-change-reviewer](https://marketplace.visualstudio.com/items?itemName=Unfinished-draft.latex-change-reviewer) | LaTeX Change Reviewer | 0.2.1 | A VS Code extension to review LaTeX edits more easily: compare text and accept… |
-| 2026-09-30 12:32:45 | [mesutpiskin.litellm-usage](https://marketplace.visualstudio.com/items?itemName=mesutpiskin.litellm-usage) | LiteLLM Usage | 0.3.0 | Track your LiteLLM proxy spend, token and model usage from the VS Code status b… |
-| 2026-09-30 12:35:21 | [thehasnainizhar.react-template-literal-formatter](https://marketplace.visualstudio.com/items?itemName=thehasnainizhar.react-template-literal-formatter) | React Template Literal Formatter | 2.0.0 | A vscode extension to format and organize React className props in one click, m… |
-| 2026-09-30 12:43:34 | [ANRui.kcoding](https://marketplace.visualstudio.com/items?itemName=ANRui.kcoding) | Kcoding | 4.3.0 | Kcoding - autonomous coding agent right in your IDE, capable of creating/editin… |
-| 2026-09-30 12:45:10 | [opsva.archi-analyst](https://marketplace.visualstudio.com/items?itemName=opsva.archi-analyst) | Archi Agents — Agent Analyste | 0.1.0 | Construit le modèle d'architecture (composants, flux, technologies, sécurité…)… |
-| 2026-09-30 12:45:12 | [nimasl.nimasl-for-copilot](https://marketplace.visualstudio.com/items?itemName=nimasl.nimasl-for-copilot) | Nimasl 尼码思勒 for Copilot Chat | 0.3.1 | 在 Copilot Chat / Agent 里直接用尼码思勒（nimasl.cn）：DeepSeek 与 MiMo 共用一条 Key，支持思考模式调节与图片… |
-| 2026-09-30 12:45:50 | [opsva.archi-docx](https://marketplace.visualstudio.com/items?itemName=opsva.archi-docx) | Archi Agents — Agent Générateur DOCX | 0.1.0 | Génère un dossier d'architecture Word professionnel, déterministe, avec diagram… |
-| 2026-09-30 12:46:30 | [opsva.archi-extractor](https://marketplace.visualstudio.com/items?itemName=opsva.archi-extractor) | Archi Agents — Agent Extracteur | 0.1.0 | Extraction 100 % hors ligne de PDF (texte et scannés), DOCX, XLSX, CSV, TXT, Ma… |
-| 2026-09-30 12:47:10 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-01](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-01) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 1/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
-| 2026-09-30 12:47:58 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-02](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-02) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 2/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
-| 2026-09-30 12:48:45 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-03](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-03) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 3/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
-| 2026-09-30 12:58:51 | [gurtejhundal.codenote](https://marketplace.visualstudio.com/items?itemName=gurtejhundal.codenote) | .cnote | 6.3.0 | Write visual Markdown notes inside real source files, browse them in Notebook,… |
-| 2026-09-30 12:59:17 | [band-ai.band](https://marketplace.visualstudio.com/items?itemName=band-ai.band) | Band for VS Code: Your AI Coding Team | 1.4.0 | Band for VS Code: Your AI Coding Team |
+| 2026-09-30 13:22:47 | [boopathi-dev.ai-code-context-collector](https://marketplace.visualstudio.com/items?itemName=boopathi-dev.ai-code-context-collector) | AI Code Context Collector | 1.0.0 | Local-first code context extractor for web-based AI assistants (ChatGPT, Claude… |
+| 2026-09-30 13:23:33 | [Jolli.jollicode](https://marketplace.visualstudio.com/items?itemName=Jolli.jollicode) | Jolli Code | 0.0.1 | Jolli Code for VS Code |
+| 2026-09-30 13:41:27 | [JingLIN.spss-studio](https://marketplace.visualstudio.com/items?itemName=JingLIN.spss-studio) | SPSS Studio | 0.3.0 | SPSS Syntax IntelliSense, Active Dataset preview, and native HTML output throug… |
+| 2026-09-30 13:47:44 | [atomicptr.vscode-moonbug](https://marketplace.visualstudio.com/items?itemName=atomicptr.vscode-moonbug) | moonbug | 0.1.0 | Single-file, in-process, DAP powered Lua debugger for your favorite code editor! |
+| 2026-09-30 13:51:56 | [vmikhailov.code-explorer-vscode](https://marketplace.visualstudio.com/items?itemName=vmikhailov.code-explorer-vscode) | CodeExplorer | 1.11.3 | Interactive code architecture and dependency graph visualizer powered by CodeEx… |
+| 2026-09-30 13:58:12 | [ByUsiStudio.codecin-cin](https://marketplace.visualstudio.com/items?itemName=ByUsiStudio.codecin-cin) | Code CIN Language Support | 1.0.0 | Code CIN language support: syntax highlighting, bracket matching, snippets for… |
+| 2026-09-30 14:14:14 | [seo-audit-tool.seowebchecker](https://marketplace.visualstudio.com/items?itemName=seo-audit-tool.seowebchecker) | SEOWebChecker - Technical SEO Audit & A… | 1.0.0 | Real-time technical SEO linter for HTML, JSX, TSX, Astro, Vue, Svelte, and Mark… |
 
 ## Data source
 
