@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 01:19 UTC
+## Latest list — 2026-09-30 02:18 UTC
 
-New extensions published between 2026-09-29 23:19 UTC and 2026-09-30 01:19 UTC.
+New extensions published between 2026-09-30 00:18 UTC and 2026-09-30 02:18 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T01-19-49-893166Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T02-18-54-683044Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 00:40:37 | [augscript.augscript](https://marketplace.visualstudio.com/items?itemName=augscript.augscript) | AugScript | 0.19.0 | AugScript language support: completion, diagnostics, formatting, tests, native… |
-| 2026-09-30 00:42:06 | [DualSoftDev.ds2](https://marketplace.visualstudio.com/items?itemName=DualSoftDev.ds2) | DS — Sequence Modeling & Simulation | 2.0.0 | 공정 시퀀스 모델(.sdf)을 11개 뷰로 보고, DS2 Text(.ds)로 쓰고, 브라우저에서 바로 시뮬레이션합니다. PLC·AAS 기반 자… |
-| 2026-09-30 00:50:28 | [YipTszkwan.adb-sql-formatter](https://marketplace.visualstudio.com/items?itemName=YipTszkwan.adb-sql-formatter) | ADB SQL Formatter | 1.4.0 | ADB / AnalyticDB MySQL flavored SQL formatter for VS Code: lowercase keywords,… |
-| 2026-09-30 01:10:08 | [SaumyaJoshi2005.algosnap](https://marketplace.visualstudio.com/items?itemName=SaumyaJoshi2005.algosnap) | AlgoSnap | 0.3.0 | Offline algorithm templates for Python, C++, and Java with editable context-awa… |
-| 2026-09-30 01:14:41 | [AustinSenna.digimon-buddy](https://marketplace.visualstudio.com/items?itemName=AustinSenna.digimon-buddy) | Digimon Buddy | 0.1.0 | A V-Pet Digimon in your sidebar that grows while you and Claude Code write code. |
+| 2026-09-30 01:21:03 | [SimKDT.ZedScripts](https://marketplace.visualstudio.com/items?itemName=SimKDT.ZedScripts) | ZedScripts | 0.0.1 | BETA - Implements the ZedScripts language server protocol inside Visual Studio… |
+| 2026-09-30 01:46:12 | [kio-lang.kio](https://marketplace.visualstudio.com/items?itemName=kio-lang.kio) | Kio | 0.1.0 | Syntax highlighting and language-server integration for the Kio programming lan… |
+| 2026-09-30 02:09:01 | [Indrasol.labs-pipeline-smoke](https://marketplace.visualstudio.com/items?itemName=Indrasol.labs-pipeline-smoke) | Labs Pipeline Smoke Test | 0.0.1 | Does nothing. Verifies the Indrasol Labs release pipeline. by Indrasol Labs |
+| 2026-09-30 02:09:09 | [jokeran.vue2click](https://marketplace.visualstudio.com/items?itemName=jokeran.vue2click) | Vue2Click | 0.1.3 | Go to local JavaScript/TypeScript/Vue declarations, including Vue 2 this.method… |
+| 2026-09-30 02:12:31 | [SCADADOG.scadadog-fezd](https://marketplace.visualstudio.com/items?itemName=SCADADOG.scadadog-fezd) | SCADADOG FEZD | 0.1.2 | Convert Control Expert .zef archives to .stu and deploy to a hosted or on-prem… |
 
 ## Data source
 
