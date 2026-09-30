@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T10:21:23.16Z,niaz.niaz-theme,niaz,Niaz Theme Suite,1.1.0,"Ophthalmic, medical-grade ergonomic themes engineered for eye comfort, zero glare, and peak visual wellness."
+2026-09-30T10:37:08.843Z,kraft-sdlc.kraft,kraft-sdlc,Kraft,1.2.1,"Clear what your Kraft agents are waiting on you for — gates, review, config — without leaving the editor."
+2026-09-30T10:50:05.363Z,ParasJain.aem-build-buttons,ParasJain,AEM Build Buttons,0.1.0,"Trigger AEM Maven and frontend build commands with a single click, with auto-detection for multi-module Maven projects."
+2026-09-30T10:51:53.66Z,HasnainIzhar.react-template-literal-formater,HasnainIzhar,React Template Literal Formater,2.0.0,"A vscode extension to format and organize React className props in one click, making clean up of Tailwind classes into dynamic template literals classes easier than ever before."
+2026-09-30T10:59:27.027Z,kodeohq.kodeo,kodeohq,KODEO,1.1.1,"Edit KODEO projects live from VS Code: teammates' cursors, comments, chat, follow mode, and the project's Git in Source Control. Works with linked folders and on vscode.dev."
+2026-09-30T11:00:28.247Z,root-at-skic.archify-vscode-ext,root-at-skic,Archify Diagram Viewer,0.2.0,"Visualize Archify diagrams: preview .archify files (and *.architecture.json-style sources) live, and open rendered Archify HTML inside VS Code."
+2026-09-30T11:09:14.443Z,Ramlaoui.ssync-vscode,Ramlaoui,ssync,0.2.0,"Your cluster workspace: submit SLURM jobs, monitor experiments, and inspect output."
