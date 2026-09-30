@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T18:21:58.313Z,Florian-Noever.xliff-viewer,Florian-Noever,XLIFF Viewer,1.0.0,View and edit XLIFF translation files with a structured GUI
+2026-09-30T18:38:41.69Z,kirillnst.context-bridge,kirillnst,Context Bridge,0.1.0,Build workspace context selections for LLM prompts and apply structured patch responses back to the project.
+2026-09-30T19:11:20.21Z,MzwandileZulu.perry-language-support,MzwandileZulu,Perry Language Support,0.2.0,"Perry language support: run programs with F5, see mistakes underlined, syntax highlighting, snippets and the Perry Black theme. Perry is an English-style language for exact decimal calculations."
+2026-09-30T19:11:23.153Z,samarin-aa-aka-rtm00.mongo-compass,samarin-aa-aka-rtm00,MongoDB Explorer & Compass Tools,0.1.0,"Explore MongoDB, edit documents, build aggregation pipelines, manage indexes, analyze schemas and inspect performance without leaving VS Code."
+2026-09-30T19:17:05.103Z,PDDEVELOPMENT.pdsharp-language-support,PDDEVELOPMENT,PD# Language Support & Compiler,0.1.0,"Full syntax highlighting, interpreter runner, and PDCOMP standalone compiler for the PD# programming language."
+2026-09-30T19:18:01.957Z,ntdev005.neutronium-lang,ntdev005,Neutronium Language,0.0.1,

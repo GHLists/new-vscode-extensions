@@ -12,25 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 18:21 UTC
+## Latest list — 2026-09-30 19:20 UTC
 
-New extensions published between 2026-09-30 16:21 UTC and 2026-09-30 18:21 UTC.
+New extensions published between 2026-09-30 17:20 UTC and 2026-09-30 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T18-21-48-470717Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T19-20-48-290191Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 17:51:06 | [CodeMaman.ctxshift](https://marketplace.visualstudio.com/items?itemName=CodeMaman.ctxshift) | CtxShift | 0.0.3 | Switch between project folders in one click and get everything back exactly as… |
-| 2026-09-30 17:54:41 | [BrahmaByte.devdashboardv1](https://marketplace.visualstudio.com/items?itemName=BrahmaByte.devdashboardv1) | DevDashboardV1 | 0.1.0 | A local-first developer command center inside VS Code. |
-| 2026-09-30 17:59:25 | [nifty.nifty-sql](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-sql) | Nifty SQL: SQL Formatter for 20 Dialects | 0.1.1 | Format SQL in 20 dialects, including dbt and Jinja templates, with your team's… |
-| 2026-09-30 17:59:40 | [nifty.nifty-git-links](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-git-links) | Nifty Git Links: Open in GitHub, GitLab… | 0.1.0 | Open or copy links to files, lines, commits and pull requests on GitHub, GitLab… |
-| 2026-09-30 17:59:53 | [nifty.nifty-paste-json](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-paste-json) | Nifty Paste JSON as Code: JSON to Types | 0.1.0 | Turn JSON on your clipboard into types for TypeScript, C#, Go, Rust, Python, Ja… |
-| 2026-09-30 18:00:07 | [nifty.nifty-node-search](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-node-search) | Nifty Node Search: Search Files in node… | 0.1.0 | Fuzzy-find and open files inside node_modules, jump to a package's README, and… |
-| 2026-09-30 18:00:19 | [nifty.nifty-monitor](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-monitor) | Nifty Monitor: CPU & Memory in the Stat… | 0.1.0 | CPU, memory and disk usage in the status bar, including on remote SSH machines… |
-| 2026-09-30 18:00:31 | [nifty.nifty-nuget](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-nuget) | Nifty NuGet: NuGet Package Manager | 0.1.0 | Search, add, update and remove NuGet packages, see outdated and vulnerable ones… |
-| 2026-09-30 18:02:18 | [inai.inai](https://marketplace.visualstudio.com/items?itemName=inai.inai) | INAI | 0.1.1 | Provider-agnostic AI coding assistant with safe edits, agent tools, and local-f… |
-| 2026-09-30 18:06:48 | [newmatik.pcba-studio](https://marketplace.visualstudio.com/items?itemName=newmatik.pcba-studio) | PCBA Studio | 1.0.0 | Optional VS Code UI for PCBA Studio: run hardware/firmware reviews, open Altium… |
-| 2026-09-30 18:12:42 | [oxygenhub.oxygenhub](https://marketplace.visualstudio.com/items?itemName=oxygenhub.oxygenhub) | OxygenHub VCS | 0.11.1 | Proposals, reviews, issues and checks from an OxygenHub, in the editor. Builds… |
+| 2026-09-30 18:21:58 | [Florian-Noever.xliff-viewer](https://marketplace.visualstudio.com/items?itemName=Florian-Noever.xliff-viewer) | XLIFF Viewer | 1.0.0 | View and edit XLIFF translation files with a structured GUI |
+| 2026-09-30 18:38:41 | [kirillnst.context-bridge](https://marketplace.visualstudio.com/items?itemName=kirillnst.context-bridge) | Context Bridge | 0.1.0 | Build workspace context selections for LLM prompts and apply structured patch r… |
+| 2026-09-30 19:11:20 | [MzwandileZulu.perry-language-support](https://marketplace.visualstudio.com/items?itemName=MzwandileZulu.perry-language-support) | Perry Language Support | 0.2.0 | Perry language support: run programs with F5, see mistakes underlined, syntax h… |
+| 2026-09-30 19:11:23 | [samarin-aa-aka-rtm00.mongo-compass](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.mongo-compass) | MongoDB Explorer & Compass Tools | 0.1.0 | Explore MongoDB, edit documents, build aggregation pipelines, manage indexes, a… |
+| 2026-09-30 19:17:05 | [PDDEVELOPMENT.pdsharp-language-support](https://marketplace.visualstudio.com/items?itemName=PDDEVELOPMENT.pdsharp-language-support) | PD# Language Support & Compiler | 0.1.0 | Full syntax highlighting, interpreter runner, and PDCOMP standalone compiler fo… |
+| 2026-09-30 19:18:01 | [ntdev005.neutronium-lang](https://marketplace.visualstudio.com/items?itemName=ntdev005.neutronium-lang) | Neutronium Language | 0.0.1 |  |
 
 ## Data source
 
