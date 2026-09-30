@@ -1,0 +1,2 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T04:22:21.793Z,darek.backseat,darek,Backseat,0.9.13,"Backseat-drive your Cline coding agent from your phone. Polls the bridge repo for tasks from your AI agent (Muse, Grok, or any agent that can use git) and runs them through Cline."
