@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T21:20:33.36Z,ubidk.mainframe-commander,ubidk,Mainframe Commander,1.0.0,"Total Commander-style dual-pane file manager for z/OS, powered by Zowe."
+2026-09-30T21:27:07.62Z,rusher.rikka-code,rusher,Rikka Code — AI coding agent for RikkaHub,1.2.0,"A Claude Code / Copilot-style AI coding agent for VS Code that runs on the models of your RikkaHub app through its local web server: chat, agent mode with file edits and commands, diffs, approvals, MCP native tools."
+2026-09-30T21:30:10.223Z,AircodeZero.aircode-vscode-desktop,AircodeZero,AirCode Ø for VS Code,0.1.3,Use an existing AirCode Ø instance in VS Code.
+2026-09-30T21:55:21.927Z,Astronomer.astronomer-vscode,Astronomer,Astro for VS Code,0.1.0,"Airflow and Astro in your editor: Otto chat, local development, and Deployment operations."
+2026-09-30T21:55:54.21Z,opsva.archi-orchestrator,opsva,Archi Agents — Orchestrateur,0.1.0,"Transforme localement un ensemble de documents techniques en dossier d'architecture professionnel en français, 100 % hors ligne, en pilotant les agents Archi (Extracteur, Indexeur RAG, Analyste, Rédacteur, Vérificateur, Générateur DOCX)."
+2026-09-30T22:16:46.577Z,ApesDev.wizards,ApesDev,Wizards,1.0.0,Multiplayer turn-based wizard duels played from the VS Code sidebar.

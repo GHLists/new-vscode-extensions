@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 21:20 UTC
+## Latest list — 2026-09-30 22:20 UTC
 
-New extensions published between 2026-09-30 19:20 UTC and 2026-09-30 21:20 UTC.
+New extensions published between 2026-09-30 20:20 UTC and 2026-09-30 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T21-20-52-36971Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T22-20-38-695133Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 20:13:07 | [CoderrAB.kiwipow-agent](https://marketplace.visualstudio.com/items?itemName=CoderrAB.kiwipow-agent) | Kiwipow Agent | 0.2.3 | Coding sessions in VS Code with a choice of model engine per session. |
-| 2026-09-30 20:25:23 | [hevanaco.hevana-theme](https://marketplace.visualstudio.com/items?itemName=hevanaco.hevana-theme) | Hevana Theme | 1.4.0 | A minimal well-focused theme crafted for deep work, clear code, and effortless… |
-| 2026-09-30 20:37:26 | [anonychun.pi-shrimp](https://marketplace.visualstudio.com/items?itemName=anonychun.pi-shrimp) | Pi Shrimp | 0.0.1 | Run the Pi coding agent inside VS Code |
-| 2026-09-30 20:40:32 | [izakdvlpr.vscode-emulator-panel](https://marketplace.visualstudio.com/items?itemName=izakdvlpr.vscode-emulator-panel) | Emulator in VS Code Panel | 0.0.1 | Run and control the Android Emulator and the iOS Simulator inside a VS Code pan… |
-| 2026-09-30 20:56:30 | [luminary-dev.luminary-map](https://marketplace.visualstudio.com/items?itemName=luminary-dev.luminary-map) | Luminary — Map for your Codebase | 0.1.0 | Turn any codebase into a visual architecture map, then trace the path a feature… |
-| 2026-09-30 21:03:11 | [MuukLabsInc.amikoo-vscode](https://marketplace.visualstudio.com/items?itemName=MuukLabsInc.amikoo-vscode) | Amikoo | 1.0.0 | Amikoo — your QA assistant in VS Code. Chat about tests, executions, coverage a… |
-| 2026-09-30 21:06:19 | [AhmadMalik1376.bumpscan-vscode](https://marketplace.visualstudio.com/items?itemName=AhmadMalik1376.bumpscan-vscode) | bumpscan | 0.1.0 | See which lines of your code an npm upgrade will break, right in the editor. |
-| 2026-09-30 21:08:08 | [ReoX86.spice-schematic-preview](https://marketplace.visualstudio.com/items?itemName=ReoX86.spice-schematic-preview) | SPICE Schematic Preview | 0.1.0 | Draws SPICE netlists as circuit schematics in VS Code's built-in Markdown previ… |
-| 2026-09-30 21:08:31 | [Tyhp.tyhp](https://marketplace.visualstudio.com/items?itemName=Tyhp.tyhp) | Tyhp Language | 0.8.1 | Tyhp language support: syntax highlighting, LSP, XDebug proxy debugging, tasks,… |
+| 2026-09-30 21:20:33 | [ubidk.mainframe-commander](https://marketplace.visualstudio.com/items?itemName=ubidk.mainframe-commander) | Mainframe Commander | 1.0.0 | Total Commander-style dual-pane file manager for z/OS, powered by Zowe. |
+| 2026-09-30 21:27:07 | [rusher.rikka-code](https://marketplace.visualstudio.com/items?itemName=rusher.rikka-code) | Rikka Code — AI coding agent for RikkaH… | 1.2.0 | A Claude Code / Copilot-style AI coding agent for VS Code that runs on the mode… |
+| 2026-09-30 21:30:10 | [AircodeZero.aircode-vscode-desktop](https://marketplace.visualstudio.com/items?itemName=AircodeZero.aircode-vscode-desktop) | AirCode Ø for VS Code | 0.1.3 | Use an existing AirCode Ø instance in VS Code. |
+| 2026-09-30 21:55:21 | [Astronomer.astronomer-vscode](https://marketplace.visualstudio.com/items?itemName=Astronomer.astronomer-vscode) | Astro for VS Code | 0.1.0 | Airflow and Astro in your editor: Otto chat, local development, and Deployment… |
+| 2026-09-30 21:55:54 | [opsva.archi-orchestrator](https://marketplace.visualstudio.com/items?itemName=opsva.archi-orchestrator) | Archi Agents — Orchestrateur | 0.1.0 | Transforme localement un ensemble de documents techniques en dossier d'architec… |
+| 2026-09-30 22:16:46 | [ApesDev.wizards](https://marketplace.visualstudio.com/items?itemName=ApesDev.wizards) | Wizards | 1.0.0 | Multiplayer turn-based wizard duels played from the VS Code sidebar. |
 
 ## Data source
 
