@@ -12,21 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 11:21 UTC
+## Latest list — 2026-09-30 12:19 UTC
 
-New extensions published between 2026-09-30 09:21 UTC and 2026-09-30 11:21 UTC.
+New extensions published between 2026-09-30 10:19 UTC and 2026-09-30 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T11-21-29-263445Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T12-19-59-705851Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 10:21:23 | [niaz.niaz-theme](https://marketplace.visualstudio.com/items?itemName=niaz.niaz-theme) | Niaz Theme Suite | 1.1.0 | Ophthalmic, medical-grade ergonomic themes engineered for eye comfort, zero gla… |
-| 2026-09-30 10:37:08 | [kraft-sdlc.kraft](https://marketplace.visualstudio.com/items?itemName=kraft-sdlc.kraft) | Kraft | 1.2.1 | Clear what your Kraft agents are waiting on you for — gates, review, config — w… |
-| 2026-09-30 10:50:05 | [ParasJain.aem-build-buttons](https://marketplace.visualstudio.com/items?itemName=ParasJain.aem-build-buttons) | AEM Build Buttons | 0.1.0 | Trigger AEM Maven and frontend build commands with a single click, with auto-de… |
-| 2026-09-30 10:51:53 | [HasnainIzhar.react-template-literal-formater](https://marketplace.visualstudio.com/items?itemName=HasnainIzhar.react-template-literal-formater) | React Template Literal Formater | 2.0.0 | A vscode extension to format and organize React className props in one click, m… |
-| 2026-09-30 10:59:27 | [kodeohq.kodeo](https://marketplace.visualstudio.com/items?itemName=kodeohq.kodeo) | KODEO | 1.1.1 | Edit KODEO projects live from VS Code: teammates' cursors, comments, chat, foll… |
-| 2026-09-30 11:00:28 | [root-at-skic.archify-vscode-ext](https://marketplace.visualstudio.com/items?itemName=root-at-skic.archify-vscode-ext) | Archify Diagram Viewer | 0.2.0 | Visualize Archify diagrams: preview .archify files (and *.architecture.json-sty… |
-| 2026-09-30 11:09:14 | [Ramlaoui.ssync-vscode](https://marketplace.visualstudio.com/items?itemName=Ramlaoui.ssync-vscode) | ssync | 0.2.0 | Your cluster workspace: submit SLURM jobs, monitor experiments, and inspect out… |
+| 2026-09-30 11:20:30 | [itstushar.timemachine](https://marketplace.visualstudio.com/items?itemName=itstushar.timemachine) | TimeMachine | 1.2.0 | A local project timeline of file saves, terminal commands, server starts, and t… |
+| 2026-09-30 11:20:59 | [sup2point0.vscode-supcode-visuals](https://marketplace.visualstudio.com/items?itemName=sup2point0.vscode-supcode-visuals) | supcode Visuals | 1.4.1 | supcode’s text displaying conventions: `kebab-case` identifiers, half-spaced in… |
+| 2026-09-30 11:24:46 | [BunnyWhite.site-sync](https://marketplace.visualstudio.com/items?itemName=BunnyWhite.site-sync) | Site Sync | 0.4.0 | Edit the HTML, CSS, JavaScript and other resources of a remote website locally… |
+| 2026-09-30 11:29:27 | [utiltools.time-tracker-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.time-tracker-utiltools) | Time Tracker, WakaTime Alternative, Cod… | 1.0.3 | Time tracker and coding time tracking for VS Code: automatic offline time track… |
+| 2026-09-30 11:31:37 | [gdsfactory.gdsfp2-beta](https://marketplace.visualstudio.com/items?itemName=gdsfactory.gdsfp2-beta) | gdsfp2-beta | 2026.930.0 | GDSFactory + is an end to end chip design tool. |
+| 2026-09-30 11:32:24 | [Ramlaoui.atompack-vscode](https://marketplace.visualstudio.com/items?itemName=Ramlaoui.atompack-vscode) | Atompack Viewer | 0.1.0 | Browse and visualize atompack (.atp) databases |
+| 2026-09-30 11:43:49 | [utiltools.kubernetes-dashboard-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.kubernetes-dashboard-utiltools) | Kubernetes Dashboard, Kubectl GUI, K8s,… | 1.0.3 | Kubernetes dashboard and K8s GUI for VS Code: a Lens and k9s alternative to bro… |
+| 2026-09-30 11:49:01 | [FriendSea.emptyengine-host](https://marketplace.visualstudio.com/items?itemName=FriendSea.emptyengine-host) | EmptyEngine Host | 0.6.1 | Shows the EmptyEngine editor (the local web UI served by the Host) inside VSCode |
+| 2026-09-30 11:55:31 | [ddalus.hyperfocus](https://marketplace.visualstudio.com/items?itemName=ddalus.hyperfocus) | hyperfocus | 0.1.0 | Your hyperfocus stats, weak spots and saved questions, right in VS Code. |
+| 2026-09-30 11:56:11 | [mubash.xpositor](https://marketplace.visualstudio.com/items?itemName=mubash.xpositor) | Xpositor | 0.1.0 | Review your changes from your phone: guided AI walkthroughs, line-by-line expla… |
+| 2026-09-30 12:04:00 | [ReedInc.reedpl-vscode](https://marketplace.visualstudio.com/items?itemName=ReedInc.reedpl-vscode) | Reed Programming Language | 1.1.0 | Official Visual Studio Code extension for the Reed programming language, provid… |
+| 2026-09-30 12:07:03 | [furiouskopan.claude-usage-meters](https://marketplace.visualstudio.com/items?itemName=furiouskopan.claude-usage-meters) | Claude Usage Meters | 1.0.0 | Unofficial. Your Claude Code plan usage (session, weekly, weekly Fable) and res… |
+| 2026-09-30 12:11:23 | [dhruvsuthar.code-to-english](https://marketplace.visualstudio.com/items?itemName=dhruvsuthar.code-to-english) | Code to English | 0.1.0 | Translate the current file into plain English, line for line, with the same lin… |
+| 2026-09-30 12:12:31 | [TimPillinger.colour-palette](https://marketplace.visualstudio.com/items?itemName=TimPillinger.colour-palette) | Colour Palette | 1.0.0 | Browse colour palettes from an external JSON file. |
+| 2026-09-30 12:15:12 | [Fwedpat.context-canary](https://marketplace.visualstudio.com/items?itemName=Fwedpat.context-canary) | Context Canary | 0.0.1 | A watchful canary for your Copilot chat. If the model stops following your inst… |
 
 ## Data source
 
