@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-09-30T16:11:53.923Z,WindRiver.wind-river-vxworks,WindRiver,Wind River VxWorks,1.0.0,VxWorks development support for VS Code
+2026-09-30T16:20:15.367Z,Gamis.difft,Gamis,DiffT,0.0.2,Compare branches or directories with native difftastic hunks in one webview tab.
+2026-09-30T16:29:34.713Z,viraj-s15.oxocarbon-grey,viraj-s15,Oxocarbon Grey,1.0.0,"A dark cool-grey take on Oxocarbon, with richer syntax colours and full semantic highlighting."
+2026-09-30T16:39:36.683Z,globalmentor.jekt,globalmentor,Jekt,0.1.0,"Support for Jekt, a context architecture that records tickets, plans, and decisions as files in a repository, shared directly between people and AI assistants."
+2026-09-30T16:44:38.623Z,luca-ecosystem.luca-code,luca-ecosystem,Luca Code (1.0 Beta),1.0.1,"Official language support for Luca Code 1.0 Beta: syntax highlighting, snippets, and one-key run for .lucc files."
+2026-09-30T16:48:19.633Z,oxygenhub.oxygen-vscode,oxygenhub,Oxygen VCS,0.16.1,"Oxygen version control: source control view, diffs, decorations, bookmarks and history for oxy repositories"
+2026-09-30T17:01:49.583Z,sheeptao.pixi,sheeptao,Pixi,1.0.262731701,Pixi package manager and polyglot workspace integration for Visual Studio Code
+2026-09-30T17:04:23.37Z,Rubix-lang-v10.rubix-language,Rubix-lang-v10,Rubix Programming Language,1.0.0,Official IDE language support for the Rubix programming language (*.bix)
