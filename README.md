@@ -12,20 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 19:20 UTC
+## Latest list — 2026-09-30 20:19 UTC
 
-New extensions published between 2026-09-30 17:20 UTC and 2026-09-30 19:20 UTC.
+New extensions published between 2026-09-30 18:19 UTC and 2026-09-30 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T19-20-48-290191Z.csv)
+[Full CSV](data/new-extensions-2026-09-30T20-19-11-306237Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 18:21:58 | [Florian-Noever.xliff-viewer](https://marketplace.visualstudio.com/items?itemName=Florian-Noever.xliff-viewer) | XLIFF Viewer | 1.0.0 | View and edit XLIFF translation files with a structured GUI |
-| 2026-09-30 18:38:41 | [kirillnst.context-bridge](https://marketplace.visualstudio.com/items?itemName=kirillnst.context-bridge) | Context Bridge | 0.1.0 | Build workspace context selections for LLM prompts and apply structured patch r… |
-| 2026-09-30 19:11:20 | [MzwandileZulu.perry-language-support](https://marketplace.visualstudio.com/items?itemName=MzwandileZulu.perry-language-support) | Perry Language Support | 0.2.0 | Perry language support: run programs with F5, see mistakes underlined, syntax h… |
-| 2026-09-30 19:11:23 | [samarin-aa-aka-rtm00.mongo-compass](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.mongo-compass) | MongoDB Explorer & Compass Tools | 0.1.0 | Explore MongoDB, edit documents, build aggregation pipelines, manage indexes, a… |
-| 2026-09-30 19:17:05 | [PDDEVELOPMENT.pdsharp-language-support](https://marketplace.visualstudio.com/items?itemName=PDDEVELOPMENT.pdsharp-language-support) | PD# Language Support & Compiler | 0.1.0 | Full syntax highlighting, interpreter runner, and PDCOMP standalone compiler fo… |
-| 2026-09-30 19:18:01 | [ntdev005.neutronium-lang](https://marketplace.visualstudio.com/items?itemName=ntdev005.neutronium-lang) | Neutronium Language | 0.0.1 |  |
+| 2026-09-30 19:44:31 | [strawberyy-coconut.vscode-vue-brace](https://marketplace.visualstudio.com/items?itemName=strawberyy-coconut.vscode-vue-brace) | Vue Brace Templates | 0.1.4 | Syntax highlighting for lang="brace" templates in Vue SFCs |
+| 2026-09-30 20:08:39 | [pinaki-das-sage.sql-client](https://marketplace.visualstudio.com/items?itemName=pinaki-das-sage.sql-client) | SQL Client | 1.0.0 | Multi-database SQL client for VS Code (Oracle, MySQL, SQLite) |
 
 ## Data source
 
