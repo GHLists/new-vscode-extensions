@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T20:26:43.31Z,kallagoutham.pypolish,kallagoutham,PyPolish,0.1.0,"Zero-config Python polish on save: isort sorts imports, black formats, flake8 flags problems. Uses your project's own pyproject.toml / setup.cfg."
+2026-10-01T20:28:07Z,Linkbai.open-with-excel,Linkbai,Open With Excel,1.0.2,在 VS Code 资源管理器右键菜单中用 Excel 打开表格文件。
+2026-10-01T20:34:46.997Z,Mickey20.codefy-whoami,Mickey20,Codefy - WhoAmI,0.1.0,"Real-time taint-flow finding detection, visual attack paths, and local runtime verification inside VS Code."
+2026-10-01T20:35:51.147Z,DevRubio.rasa-utter-hover,DevRubio,Rasa Utter Hover,1.0.0,Hover over utter_* references to instantly preview RASA response texts from your domain YAML files. Click to navigate to the definition.
+2026-10-01T20:37:51.05Z,trevin-lee.cobrowser,trevin-lee,Cobrowser,0.9.12,"An agent-controllable browser inside your editor — rendered offscreen by a companion app, co-driven by you (webview) and your AI agent (MCP)."
+2026-10-01T20:52:18.54Z,ivankovic.omnidiff,ivankovic,OmniDiff,0.1.0,"Syntax-aware diff highlighting, backed by the omnidiff CLI"
+2026-10-01T20:56:18.623Z,whysargis.agent-crew-claude-code,whysargis,Agent Crew for Claude Code,0.4.0,"A crew of AI agents that builds small-business web apps inside Claude Code, on your own Claude subscription — interview, brief, architecture, tests, reviewed code — with a live view of tasks, questions and spend."
+2026-10-01T20:56:50.777Z,trevin-lee.ide-design,trevin-lee,ide-design,0.9.0,"The ide-design viewer linked to your code, ided check in Problems, and design review comments on the lines they point at."
