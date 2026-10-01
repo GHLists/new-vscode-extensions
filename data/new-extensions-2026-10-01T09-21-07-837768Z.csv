@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T08:17:21.13Z,SioHaft.gugugaga,SioHaft,Gugugaga,0.1.0,Syntax highlighting and execution support for the Gugu programming language
+2026-10-01T08:19:56.203Z,kodolinija.claude-master,kodolinija,Claude Master,0.1.0,"Compact, dockable list of this window's Claude Code sessions with live status and running subagent counts."
+2026-10-01T08:21:51.81Z,edmccard.look-dont-touch,edmccard,"Look, Don't Touch",1.0.0,Files outside a workspace are read-only
+2026-10-01T08:34:54.433Z,ReadyStack.gke-extended-channel-fee-lint,ReadyStack,GKE Extended Channel Fee Lint — Terraform,1.0.2,"GKE Extended channel fee check for Terraform: flags google_container_cluster versions billed $0.50 per cluster-hour past end of standard support, forced-upgrade dates and Extended channel blockers."
+2026-10-01T08:35:18.903Z,divagar-n.fetched-diff,divagar-n,Fetched Diff — Inline Git Diff vs Upstream,0.1.0,"Shows, inside the editor, how your current code differs from the latest fetched commit (your branch's upstream, e.g. origin/main), plus repository details."
+2026-10-01T08:41:43.487Z,sanoriva.sanoriva,sanoriva,Sanoriva Architect,0.2.0,Análisis de arquitectura Arbo para proyectos Angular.
+2026-10-01T09:05:14.81Z,aiand.aiand-copilot,aiand,ai& for GitHub Copilot,1.0.0,Use hosted ai& models in GitHub Copilot Chat with your ai& API key.
+2026-10-01T09:08:19.987Z,SolutionLink.seqworks,SolutionLink,SeqWorks — Sequence Diagram DSL,0.9.0,"Author sequence diagrams as text with a Langium DSL, live SVG preview, cross-file references, quick fixes, and image export."
