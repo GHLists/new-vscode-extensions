@@ -12,15 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-09-30 23:20 UTC
+## Latest list — 2026-10-01 00:19 UTC
 
-New extensions published between 2026-09-30 21:20 UTC and 2026-09-30 23:20 UTC.
+New extensions published between 2026-09-30 22:19 UTC and 2026-10-01 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-09-30T23-20-16-314126Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T00-19-34-674796Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-09-30 22:44:28 | [KaynoxDev.kayshield](https://marketplace.visualstudio.com/items?itemName=KaynoxDev.kayshield) | KayShield | 1.0.0 | Hide your environment variables while screen sharing, streaming or recording. L… |
+| 2026-09-30 23:10:08 | [Ziroo.ziroo-code](https://marketplace.visualstudio.com/items?itemName=Ziroo.ziroo-code) | Ziroo Code | 1.0.6 | Ziroo coding agent for VS Code: chat with Ziroo in the sidebar and connect the… |
+| 2026-09-30 23:18:30 | [Numerisinstitute.numeris-institute-classroom](https://marketplace.visualstudio.com/items?itemName=Numerisinstitute.numeris-institute-classroom) | Numeris Institute Classroom | 0.3.0 | Numeris lessons inside VS Code — run and validate. For Numeris Institute studen… |
+| 2026-09-30 23:32:36 | [svg153.nan-builders-vscode](https://marketplace.visualstudio.com/items?itemName=svg153.nan-builders-vscode) | NaN Builders for VS Code | 1.5.1 | Use NaN Builders models natively in VS Code Chat and Agent mode. |
 
 ## Data source
 
