@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 15:19 UTC
+## Latest list — 2026-10-01 16:20 UTC
 
-New extensions published between 2026-10-01 13:19 UTC and 2026-10-01 15:19 UTC.
+New extensions published between 2026-10-01 14:20 UTC and 2026-10-01 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T15-19-56-054491Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T16-20-20-119042Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 14:18:19 | [pydemia.mark-your-scope](https://marketplace.visualstudio.com/items?itemName=pydemia.mark-your-scope) | Mark Your Scope | 0.1.1 | Highlight the current code scope and indentation guides in VS Code. Navigate ne… |
-| 2026-10-01 14:18:24 | [maghorbani.maghorbani-git-compare](https://marketplace.visualstudio.com/items?itemName=maghorbani.maghorbani-git-compare) | Git Pointers Compare | 0.0.3 | Compare any two Git points and open a labeled side-by-side diff |
-| 2026-10-01 14:37:06 | [lilinhuang.galaxy-moon-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.galaxy-moon-theme) | Galaxy Moon Theme | 1.0.0 | A moonlit VS Code theme: warm gold crescent accents over a deep night sky, plus… |
-| 2026-10-01 14:55:51 | [qfortier.vscode-exercices-mpi](https://marketplace.visualstudio.com/items?itemName=qfortier.vscode-exercices-mpi) | Exercices Typst | 0.5.0 | Parcourir une banque d'exercices Typst, composer des feuilles et prévisualiser… |
-| 2026-10-01 15:01:51 | [antenna-tec.symbols-connector](https://marketplace.visualstudio.com/items?itemName=antenna-tec.symbols-connector) | Symbols Connector | 0.4.2 | Draw connecting lines from the symbol under the cursor to its definition and ev… |
-| 2026-10-01 15:07:48 | [AhmetKAYACI.unravel-code](https://marketplace.visualstudio.com/items?itemName=AhmetKAYACI.unravel-code) | Unravel Code | 0.1.0 | Explain selected code or a regex, step by step, in Turkish or English. |
-| 2026-10-01 15:07:55 | [shaevitz.codex-notebook-context](https://marketplace.visualstudio.com/items?itemName=shaevitz.codex-notebook-context) | Notebook Context for Codex | 0.2.0 | Automatically supply the active notebook cell, cursor and selection to Codex pr… |
-| 2026-10-01 15:10:01 | [Abdulla-Aldosari.mindstream](https://marketplace.visualstudio.com/items?itemName=Abdulla-Aldosari.mindstream) | MindStream | 1.1.0 | Capture notes and ideas as they happen, organize them into custom types and cat… |
-| 2026-10-01 15:11:39 | [wanglr.pilot-support](https://marketplace.visualstudio.com/items?itemName=wanglr.pilot-support) | Pilot Support | 0.0.1 | Python パイプライン自動生成支援 VS Code 拡張機能 |
+| 2026-10-01 15:35:59 | [zhdk-critical-coding.basiljs](https://marketplace.visualstudio.com/items?itemName=zhdk-critical-coding.basiljs) | Basil.js – Code Completion and Document… | 1.0.0 | Code completion, hover documentation and parameter hints for basil.js, the Proc… |
+| 2026-10-01 15:52:34 | [ReadyStack.cert-lifetime-lint-47day](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cert-lifetime-lint-47day) | Cert Lifetime Lint - 200/100/47-Day TLS… | 0.1.7 | Finds the 365-day and 90-day certificate assumptions left in your cert-manager,… |
+| 2026-10-01 15:52:39 | [ReadyStack.cloud-manifest-audit-kit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cloud-manifest-audit-kit) | Manifest Snippets + Removed-API Audit (… | 0.1.7 | Your editor does not reject a removed apiVersion. The cluster does, at deploy t… |
+| 2026-10-01 15:52:47 | [ReadyStack.config-dsl-lint-snippet-pack](https://marketplace.visualstudio.com/items?itemName=ReadyStack.config-dsl-lint-snippet-pack) | Config & DSL Lint + Snippets — 9 Sets | 0.1.5 | Your config files are never compiled — nothing fails until deploy. 36 snippets… |
+| 2026-10-01 15:52:56 | [ReadyStack.config-dsl-lint-snippets](https://marketplace.visualstudio.com/items?itemName=ReadyStack.config-dsl-lint-snippets) | Config & DSL Check — 9 languages | 0.1.5 | VS Code colours these 9 languages but never checks them: 30 rules and 35 snippe… |
+| 2026-10-01 16:03:37 | [RamBahalTiwari.copilot-quota-monitor](https://marketplace.visualstudio.com/items?itemName=RamBahalTiwari.copilot-quota-monitor) | Copilot Quota Monitor | 0.1.0 | Shows GitHub Copilot quota, remaining allowance, and reset date in the VS Code… |
+| 2026-10-01 16:09:07 | [Matsuyanagi.surround-lines](https://marketplace.visualstudio.com/items?itemName=Matsuyanagi.surround-lines) | surround-lines | 0.0.1 | Surround the selected lines with a header and footer. |
 
 ## Data source
 
