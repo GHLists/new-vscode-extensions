@@ -12,16 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 05:18 UTC
+## Latest list — 2026-10-01 06:20 UTC
 
-New extensions published between 2026-10-01 03:18 UTC and 2026-10-01 05:18 UTC.
+New extensions published between 2026-10-01 04:20 UTC and 2026-10-01 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T05-18-57-691711Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T06-20-48-565634Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 04:16:34 | [GroverLee.paper-workspace](https://marketplace.visualstudio.com/items?itemName=GroverLee.paper-workspace) | Paper Workspace | 1.0.0 | Open code as movable, editable 'papers' on an infinite canvas. Each paper is a… |
-| 2026-10-01 04:32:45 | [srijan.terminal-profile-manager](https://marketplace.visualstudio.com/items?itemName=srijan.terminal-profile-manager) | Terminal Profile Manager | 1.0.0 |  |
+| 2026-10-01 05:42:05 | [Reytechz.rey-themes](https://marketplace.visualstudio.com/items?itemName=Reytechz.rey-themes) | Rey-Themes | 0.1.0 | A modern premium theme collection (Midnight OLED, Tokyo Dusk, Cyberpunk, Dracul… |
+| 2026-10-01 05:53:15 | [markrios.marke](https://marketplace.visualstudio.com/items?itemName=markrios.marke) | Marke Code | 0.10.7 | Editor estilo Notion com monitoramento de projeto e modo Foco. Seu projeto sob… |
+| 2026-10-01 05:53:55 | [jalil-stanikzai.php-operator-assist](https://marketplace.visualstudio.com/items?itemName=jalil-stanikzai.php-operator-assist) | PHP Operator Assist | 0.1.3 | Use a dot for PHP object and static access operators: -> and ::. |
+| 2026-10-01 06:01:37 | [nifty.nifty-csharp-templates](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-csharp-templates) | Nifty C# Templates: New Class, Record &… | 0.1.0 | New C# class, interface, record, enum, test and controller files with the right… |
+| 2026-10-01 06:01:42 | [nifty.nifty-php-server](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-php-server) | Nifty PHP Server: Built-in PHP Web Serv… | 0.1.0 | Serve a folder with PHP's built-in web server in one click, see requests live,… |
+| 2026-10-01 06:01:48 | [nifty.nifty-beautify](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-beautify) | Nifty Beautify: Format HTML in PHP, Bla… | 0.1.0 | Format HTML inside PHP, Blade, Twig, Jinja, Handlebars, ERB and Liquid template… |
+| 2026-10-01 06:01:54 | [nifty.nifty-docs](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-docs) | Nifty Docs: Dash, Zeal & DevDocs Lookup | 0.1.0 | Look up the word under the cursor in Dash, Zeal or DevDocs, with docsets picked… |
+| 2026-10-01 06:02:00 | [nifty.nifty-sftp](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-sftp) | Nifty SFTP: Upload on Save & Folder Sync | 0.1.0 | Upload on save and sync folders over SFTP, compatible with existing sftp.json f… |
+| 2026-10-01 06:02:11 | [nifty.nifty-xml](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-xml) | Nifty XML: XPath, Formatter & XML to JS… | 0.1.0 | Evaluate XPath with namespaces, copy the XPath of any element, format, minify,… |
+| 2026-10-01 06:02:16 | [nifty.nifty-yaml](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-yaml) | Nifty YAML: Formatter, Validator & Conv… | 0.1.0 | Format YAML without losing comments (Kubernetes-style indents), sort keys, lint… |
+| 2026-10-01 06:12:48 | [tipandtale.v-wears-nothing](https://marketplace.visualstudio.com/items?itemName=tipandtale.v-wears-nothing) | V Wears Nothing | 0.0.1 | A cute V coding companion for VS Code that walks, naps, worries over errors and… |
 
 ## Data source
 

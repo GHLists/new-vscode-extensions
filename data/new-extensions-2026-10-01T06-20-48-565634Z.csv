@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T05:42:05.763Z,Reytechz.rey-themes,Reytechz,Rey-Themes,0.1.0,"A modern premium theme collection (Midnight OLED, Tokyo Dusk, Cyberpunk, Dracula, Nord, Emerald, Rosé Pine, Mocha, Light & Snow White) with Flow Icons, Pixel Code font, and customization studio"
+2026-10-01T05:53:15.367Z,markrios.marke,markrios,Marke Code,0.10.7,Editor estilo Notion com monitoramento de projeto e modo Foco. Seu projeto sob controle total.
+2026-10-01T05:53:55.483Z,jalil-stanikzai.php-operator-assist,jalil-stanikzai,PHP Operator Assist,0.1.3,Use a dot for PHP object and static access operators: -> and ::.
+2026-10-01T06:01:37.047Z,nifty.nifty-csharp-templates,nifty,"Nifty C# Templates: New Class, Record & Namespace",0.1.0,"New C# class, interface, record, enum, test and controller files with the right namespace, plus namespace syncing."
+2026-10-01T06:01:42.483Z,nifty.nifty-php-server,nifty,Nifty PHP Server: Built-in PHP Web Server,0.1.0,"Serve a folder with PHP's built-in web server in one click, see requests live, and open pages in your browser."
+2026-10-01T06:01:48.44Z,nifty.nifty-beautify,nifty,"Nifty Beautify: Format HTML in PHP, Blade & Twig",0.1.0,"Format HTML inside PHP, Blade, Twig, Jinja, Handlebars, ERB and Liquid templates without breaking the template tags."
+2026-10-01T06:01:54.057Z,nifty.nifty-docs,nifty,"Nifty Docs: Dash, Zeal & DevDocs Lookup",0.1.0,"Look up the word under the cursor in Dash, Zeal or DevDocs, with docsets picked from your language and frameworks."
+2026-10-01T06:02:00.92Z,nifty.nifty-sftp,nifty,Nifty SFTP: Upload on Save & Folder Sync,0.1.0,"Upload on save and sync folders over SFTP, compatible with existing sftp.json files: download, diff with the server, browse remote files, profiles, and passwords kept in the OS keychain."
+2026-10-01T06:02:11.03Z,nifty.nifty-xml,nifty,"Nifty XML: XPath, Formatter & XML to JSON",0.1.0,"Evaluate XPath with namespaces, copy the XPath of any element, format, minify, check well-formedness and convert XML to JSON."
+2026-10-01T06:02:16.897Z,nifty.nifty-yaml,nifty,"Nifty YAML: Formatter, Validator & Converter",0.1.0,"Format YAML without losing comments (Kubernetes-style indents), sort keys, lint with yamllint, copy the key path, and convert to and from JSON."
+2026-10-01T06:12:48.52Z,tipandtale.v-wears-nothing,tipandtale,V Wears Nothing,0.0.1,"A cute V coding companion for VS Code that walks, naps, worries over errors and celebrates your saves. Fan-made, unofficial and unpaid."
