@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 21:19 UTC
+## Latest list — 2026-10-01 22:20 UTC
 
-New extensions published between 2026-10-01 19:19 UTC and 2026-10-01 21:19 UTC.
+New extensions published between 2026-10-01 20:20 UTC and 2026-10-01 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T21-19-22-469415Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T22-20-28-519406Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 20:26:43 | [kallagoutham.pypolish](https://marketplace.visualstudio.com/items?itemName=kallagoutham.pypolish) | PyPolish | 0.1.0 | Zero-config Python polish on save: isort sorts imports, black formats, flake8 f… |
-| 2026-10-01 20:28:07 | [Linkbai.open-with-excel](https://marketplace.visualstudio.com/items?itemName=Linkbai.open-with-excel) | Open With Excel | 1.0.2 | 在 VS Code 资源管理器右键菜单中用 Excel 打开表格文件。 |
-| 2026-10-01 20:34:46 | [Mickey20.codefy-whoami](https://marketplace.visualstudio.com/items?itemName=Mickey20.codefy-whoami) | Codefy - WhoAmI | 0.1.0 | Real-time taint-flow finding detection, visual attack paths, and local runtime… |
-| 2026-10-01 20:35:51 | [DevRubio.rasa-utter-hover](https://marketplace.visualstudio.com/items?itemName=DevRubio.rasa-utter-hover) | Rasa Utter Hover | 1.0.0 | Hover over utter_* references to instantly preview RASA response texts from you… |
-| 2026-10-01 20:37:51 | [trevin-lee.cobrowser](https://marketplace.visualstudio.com/items?itemName=trevin-lee.cobrowser) | Cobrowser | 0.9.12 | An agent-controllable browser inside your editor — rendered offscreen by a comp… |
-| 2026-10-01 20:52:18 | [ivankovic.omnidiff](https://marketplace.visualstudio.com/items?itemName=ivankovic.omnidiff) | OmniDiff | 0.1.0 | Syntax-aware diff highlighting, backed by the omnidiff CLI |
-| 2026-10-01 20:56:18 | [whysargis.agent-crew-claude-code](https://marketplace.visualstudio.com/items?itemName=whysargis.agent-crew-claude-code) | Agent Crew for Claude Code | 0.4.0 | A crew of AI agents that builds small-business web apps inside Claude Code, on… |
-| 2026-10-01 20:56:50 | [trevin-lee.ide-design](https://marketplace.visualstudio.com/items?itemName=trevin-lee.ide-design) | ide-design | 0.9.0 | The ide-design viewer linked to your code, ided check in Problems, and design r… |
+| 2026-10-01 21:24:52 | [mlops-club.uv-script-envs](https://marketplace.visualstudio.com/items?itemName=mlops-club.uv-script-envs) | uv Script Envs | 0.1.4 | Open a Python script with inline dependencies (PEP 723) and get autocompletion:… |
+| 2026-10-01 21:27:12 | [SagasysTechnologyGroup.docx-compare](https://marketplace.visualstudio.com/items?itemName=SagasysTechnologyGroup.docx-compare) | DOCX Compare | 0.1.1 | Compare Word documents side by side with formatting, across git commits, staged… |
+| 2026-10-01 21:35:23 | [nifty.nifty-git-graph](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-git-graph) | Nifty Git Graph: Git History & Branch G… | 0.1.0 | See your git history as a graph: branches, merges and tags, commit details and… |
+| 2026-10-01 21:35:29 | [nifty.nifty-todo](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-todo) | Nifty Todo: TODO Highlight & Tree | 0.1.0 | TODO, FIXME and HACK comments highlighted in the editor and listed in a tree, p… |
+| 2026-10-01 21:35:35 | [nifty.nifty-replace](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-replace) | Nifty Replace: Find & Replace Across Fi… | 0.1.0 | Find and replace across files with a preview of every change, regex groups and… |
+| 2026-10-01 21:57:33 | [isaiah-harville.switchback](https://marketplace.visualstudio.com/items?itemName=isaiah-harville.switchback) | Switchback | 0.6.0 | Local-first coding agent that escalates to a hosted model (OpenAI, Anthropic, D… |
+| 2026-10-01 21:57:57 | [code-ae.code-ae-agent](https://marketplace.visualstudio.com/items?itemName=code-ae.code-ae-agent) | code.in Agent | 0.2.56 | The code.in coding agent for your editor. Work in your local project with manag… |
+| 2026-10-01 22:14:32 | [SanjayBhoye.samosa-chat](https://marketplace.visualstudio.com/items?itemName=SanjayBhoye.samosa-chat) | Samosa Chat | 1.0.5 | Dedicated AI coding assistant connecting directly to remote Kaggle GPU backends. |
 
 ## Data source
 

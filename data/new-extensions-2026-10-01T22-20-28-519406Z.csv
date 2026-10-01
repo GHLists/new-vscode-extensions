@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T21:24:52.283Z,mlops-club.uv-script-envs,mlops-club,uv Script Envs,0.1.4,Open a Python script with inline dependencies (PEP 723) and get autocompletion: its uv environment is created and selected as the interpreter.
+2026-10-01T21:27:12.993Z,SagasysTechnologyGroup.docx-compare,SagasysTechnologyGroup,DOCX Compare,0.1.1,"Compare Word documents side by side with formatting, across git commits, staged changes and pull requests"
+2026-10-01T21:35:23.8Z,nifty.nifty-git-graph,nifty,Nifty Git Graph: Git History & Branch Graph,0.1.0,"See your git history as a graph: branches, merges and tags, commit details and diffs, and checkout, merge, rebase, cherry-pick and more from a right-click. No sign-in."
+2026-10-01T21:35:29.55Z,nifty.nifty-todo,nifty,Nifty Todo: TODO Highlight & Tree,0.1.0,"TODO, FIXME and HACK comments highlighted in the editor and listed in a tree, plus Better Comments-style markers."
+2026-10-01T21:35:35.013Z,nifty.nifty-replace,nifty,Nifty Replace: Find & Replace Across Files,0.1.0,"Find and replace across files with a preview of every change, regex groups and case transforms, case-preserving replace, and search results you can edit and apply back."
+2026-10-01T21:57:33.857Z,isaiah-harville.switchback,isaiah-harville,Switchback,0.6.0,"Local-first coding agent that escalates to a hosted model (OpenAI, Anthropic, DeepSeek, ...) only when it needs to."
+2026-10-01T21:57:57.163Z,code-ae.code-ae-agent,code-ae,code.in Agent,0.2.56,The code.in coding agent for your editor. Work in your local project with managed inference or your own provider.
+2026-10-01T22:14:32.037Z,SanjayBhoye.samosa-chat,SanjayBhoye,Samosa Chat,1.0.5,Dedicated AI coding assistant connecting directly to remote Kaggle GPU backends.
