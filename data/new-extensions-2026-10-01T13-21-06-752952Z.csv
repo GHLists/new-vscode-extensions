@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T12:24:03.61Z,zonble.tmd-vscode,zonble,TMD Music Language,0.2.1,"Syntax highlighting, snippets, and language configuration for TMD (Timebase Mark Down)"
+2026-10-01T12:31:56.17Z,RishiSharmaPro.cp-buddy,RishiSharmaPro,CP-buddy,0.0.2,A VS Code companion for competitive programmers to fetch and run test cases with ease.
+2026-10-01T12:34:52.267Z,sanoriva.arbo-architect,sanoriva,Arbo Architect,0.3.0,Análisis de arquitectura Arbo para proyectos Angular.
+2026-10-01T12:42:17.777Z,Slipn3r.busybar-anim-preview,Slipn3r,BUSY Bar Anim Preview,0.1.0,Preview and play BUSY Bar .anim animation files inside VS Code.
+2026-10-01T12:49:45.09Z,luca-ecosystem.luca-ui,luca-ecosystem,Luca UI (1.0 Beta),1.0.0,"Official language support for Luca UI 1.0 Beta: syntax highlighting, snippets, and one-key run for .lucu files."
+2026-10-01T12:51:53.147Z,amragori.commit-message-crafter,amragori,Commit Message Crafter,0.2.0,"Generate git commit messages using a local, open-source AI model (via Ollama) — no API keys, no data leaves your machine."
+2026-10-01T12:52:26.307Z,JohanselSantos.sql-script-toolkit,JohanselSantos,SQL Script Toolkit,1.0.0,"Generate and compare SQL Server object scripts (procedures, functions, views, triggers) straight from VS Code."
+2026-10-01T13:03:41.83Z,teginsoft.tegin-resx-manager,teginsoft,Tegin Resx Manager,0.1.0,"Compare .resx resource files across languages side by side, spot missing translations at a glance, edit/delete keys inline, and export/import via CSV or JSON."
+2026-10-01T13:06:31.643Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-06,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 6/42),0.1.0,"Fragment 6/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:09:31.623Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-10,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 10/42),0.1.0,"Fragment 10/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:12:45.417Z,JaymeKlein.visual-tlc,JaymeKlein,Visual TLC — Spec-Driven Tracker,0.1.1,"Acompanhe visualmente as specs geradas pela skill tlc-spec-driven: fases, tasks, rastreabilidade, verificação e avisos de specs incompletas. Projeto independente, não oficial."

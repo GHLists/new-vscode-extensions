@@ -12,23 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 12:20 UTC
+## Latest list — 2026-10-01 13:21 UTC
 
-New extensions published between 2026-10-01 10:20 UTC and 2026-10-01 12:20 UTC.
+New extensions published between 2026-10-01 11:21 UTC and 2026-10-01 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T12-20-16-442608Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T13-21-06-752952Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 11:18:52 | [castle-bird.websquare5-editor](https://marketplace.visualstudio.com/items?itemName=castle-bird.websquare5-editor) | For Websquare5 | 0.1.0 | VS Code에서 WebSquare5 에디터를 사용할 수 있게 해주는 비공식 확장 |
-| 2026-10-01 11:35:34 | [Aenzenith.pitwall-vscode](https://marketplace.visualstudio.com/items?itemName=Aenzenith.pitwall-vscode) | Pitwall for VS Code | 0.12.2 | Jump between project windows and run their npm dev servers — every open VS Code… |
-| 2026-10-01 11:43:08 | [loki05.loki-ai-agent](https://marketplace.visualstudio.com/items?itemName=loki05.loki-ai-agent) | LOKI - Your AI Coding Agent | 0.1.0 | AI coding agent with a persistent encrypted memory layer. |
-| 2026-10-01 11:46:34 | [lcs-jd.ssh-host-colors](https://marketplace.visualstudio.com/items?itemName=lcs-jd.ssh-host-colors) | SSH Host Colors | 0.2.0 | Colore l'interface de VS Code selon le serveur SSH auquel tu es connecté, avec… |
-| 2026-10-01 11:54:26 | [anyframe.anyframe](https://marketplace.visualstudio.com/items?itemName=anyframe.anyframe) | AnyFrame | 0.1.0 | Syntax highlighting for AnyFrame .frame files (script, template, look). |
-| 2026-10-01 11:54:50 | [EinsPhoenix.locomotive](https://marketplace.visualstudio.com/items?itemName=EinsPhoenix.locomotive) | LOComotive – Code Statistics, Lines of… | 2.0.1 | Count lines of code and get full code statistics: lines per language, code comp… |
-| 2026-10-01 12:02:06 | [Fretefy.mobiis-theme](https://marketplace.visualstudio.com/items?itemName=Fretefy.mobiis-theme) | Mobiis Theme | 0.1.1 | Tema de cores da Mobiis para o VSCode |
-| 2026-10-01 12:11:37 | [YashwanthKumar.oracle-cpq-extension-pack](https://marketplace.visualstudio.com/items?itemName=YashwanthKumar.oracle-cpq-extension-pack) | Oracle CPQ Extension Pack | 0.1.0 | BML development, REST API testing, and request inspection tools for Oracle CPQ… |
-| 2026-10-01 12:14:26 | [huts-a-jens.angular-cli-generate](https://marketplace.visualstudio.com/items?itemName=huts-a-jens.angular-cli-generate) | Angular CLI Generate | 1.0.0 | Right-click a folder to run ng generate (component, service, ...) with npm or p… |
+| 2026-10-01 12:24:03 | [zonble.tmd-vscode](https://marketplace.visualstudio.com/items?itemName=zonble.tmd-vscode) | TMD Music Language | 0.2.1 | Syntax highlighting, snippets, and language configuration for TMD (Timebase Mar… |
+| 2026-10-01 12:31:56 | [RishiSharmaPro.cp-buddy](https://marketplace.visualstudio.com/items?itemName=RishiSharmaPro.cp-buddy) | CP-buddy | 0.0.2 | A VS Code companion for competitive programmers to fetch and run test cases wit… |
+| 2026-10-01 12:34:52 | [sanoriva.arbo-architect](https://marketplace.visualstudio.com/items?itemName=sanoriva.arbo-architect) | Arbo Architect | 0.3.0 | Análisis de arquitectura Arbo para proyectos Angular. |
+| 2026-10-01 12:42:17 | [Slipn3r.busybar-anim-preview](https://marketplace.visualstudio.com/items?itemName=Slipn3r.busybar-anim-preview) | BUSY Bar Anim Preview | 0.1.0 | Preview and play BUSY Bar .anim animation files inside VS Code. |
+| 2026-10-01 12:49:45 | [luca-ecosystem.luca-ui](https://marketplace.visualstudio.com/items?itemName=luca-ecosystem.luca-ui) | Luca UI (1.0 Beta) | 1.0.0 | Official language support for Luca UI 1.0 Beta: syntax highlighting, snippets,… |
+| 2026-10-01 12:51:53 | [amragori.commit-message-crafter](https://marketplace.visualstudio.com/items?itemName=amragori.commit-message-crafter) | Commit Message Crafter | 0.2.0 | Generate git commit messages using a local, open-source AI model (via Ollama) —… |
+| 2026-10-01 12:52:26 | [JohanselSantos.sql-script-toolkit](https://marketplace.visualstudio.com/items?itemName=JohanselSantos.sql-script-toolkit) | SQL Script Toolkit | 1.0.0 | Generate and compare SQL Server object scripts (procedures, functions, views, t… |
+| 2026-10-01 13:03:41 | [teginsoft.tegin-resx-manager](https://marketplace.visualstudio.com/items?itemName=teginsoft.tegin-resx-manager) | Tegin Resx Manager | 0.1.0 | Compare .resx resource files across languages side by side, spot missing transl… |
+| 2026-10-01 13:06:31 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-06](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-06) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 6/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-10-01 13:09:31 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-10](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-10) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 10/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-01 13:12:45 | [JaymeKlein.visual-tlc](https://marketplace.visualstudio.com/items?itemName=JaymeKlein.visual-tlc) | Visual TLC — Spec-Driven Tracker | 0.1.1 | Acompanhe visualmente as specs geradas pela skill tlc-spec-driven: fases, tasks… |
 
 ## Data source
 
