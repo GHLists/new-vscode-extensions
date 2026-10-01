@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T13:07:21.353Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-07,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 7/42),0.1.0,"Fragment 7/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:08:06.943Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-08,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 8/42),0.1.0,"Fragment 8/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:08:52.597Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-09,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 9/42),0.1.0,"Fragment 9/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:10:13.967Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-11,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 11/42),0.1.0,"Fragment 11/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T13:18:21.58Z,OmSharma.orbit-hq,OmSharma,Orbit HQ,0.1.0,"Your home for Claude Code: every chat, usage & cost, and your whole setup in one calm sidebar. 100% local."
+2026-10-01T13:41:21.973Z,okazuki.markdstage-vscode,okazuki,MarkdStage,4.4.0,Thin VS Code integration for the independently installed MarkdStage CLI.
+2026-10-01T13:48:30.243Z,SankarMurugesan.sanvsexp,SankarMurugesan,Workspace Explorer with Git Branches,0.0.2,Browse workspace files with current Git branch names shown beside each root.
+2026-10-01T13:52:42.613Z,glowju013.churu-vscode-pet,glowju013,Churu VSCode Pet,0.0.1,Sleeping Churu inside VS Code.
+2026-10-01T13:54:08.067Z,aspengineering.strictdoc-tools,aspengineering,StrictDoc Tools,0.1.6,"IDE tooling for StrictDoc .sdoc files: live preview, language server (diagnostics, completion, hover, folding), traceability validation, UID navigation, PlantUML export, and grid-table editing and formatting."
+2026-10-01T13:55:34.48Z,lilinhuang.bubble-gum-theme,lilinhuang,Bubble Gum Theme,1.0.0,"A playful pastel VS Code theme in bubble gum pink and magenta, with light and dark variants."
+2026-10-01T14:01:48.42Z,nabeelali0707.tiller-timeline,nabeelali0707,Tiller Execution Timeline,0.2.1,Inspect Tiller's real execution events and verified patch previews inside VS Code.
+2026-10-01T14:04:13.717Z,junpeiwada.jpfilefilter,junpeiwada,JP File Filter,0.1.0,エクスプローラー上部にボタンを追加し、ツリー表示のままファイル名で絞り込めるようにする。
+2026-10-01T14:13:51.78Z,hai-browser.hai-browser,hai-browser,H/Ai Browser,0.0.1,Share VS Code's integrated browser with Claude Code and other MCP agents.
