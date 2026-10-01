@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T09:16:48.767Z,BhavyaJustChill.vscode-power-mode-reborn,BhavyaJustChill,VS Code Power Mode Reborn,1.1.0,"Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A maintained fork of hoovercj/vscode-power-mode with fixes for VS Code 1.88+."
+2026-10-01T09:19:58.52Z,proyectos-innovadores-eirl.open-shell-here,proyectos-innovadores-eirl,Open Shell Here (external terminal),0.1.0,"Open PowerShell, Command Prompt, or Git Bash in a folder from the Explorer context menu. Launches the shell directly, bypassing ConPTY."
+2026-10-01T09:21:22.06Z,tenbits.atma-utest-vscode,tenbits,UTest,0.1.1,Run UTest files and suites from inline Run actions.
+2026-10-01T09:22:33.507Z,apleno.apleno-designer,apleno,Apleno Designer,1.0.1,Create amazing apps with user-friendly UI.
+2026-10-01T09:24:51.097Z,kolnogorov.sjasmplus-code-lens,kolnogorov,sjasmplus Code Lens,0.1.1,"Code lens, references, go to definition, rename, outline and hover for Z80 assembly written for sjasmplus."
+2026-10-01T09:58:57.917Z,ReadyStack.audit-log-retention-lint,ReadyStack,"Audit Log Retention Lint (PCI DSS, CERT-In)",1.0.3,"Flags log-retention values in Loki, CloudWatch, Elasticsearch ILM, S3 lifecycle and Kubernetes audit YAML that are shorter than PCI DSS 10.5.1, CERT-In 2022 or OMB M-21-31 require."
+2026-10-01T09:59:53.177Z,ReadyStack.aurora-mysql57-upgrade-blocker-lint,ReadyStack,Aurora MySQL 5.7 to 8.0 Upgrade Blocker Lint,1.0.3,"Flags MySQL 5.7 features removed in 8.0 (query cache, PASSWORD(), NO_AUTO_CREATE_USER, new reserved words) in .sql, .cnf and Terraform before Aurora MySQL v2 Extended Support year 3 on 1 Dec 2026."
+2026-10-01T10:04:11.747Z,loki05.loki-agent,loki05,Loki,0.1.0,"AI coding agent with a persistent encrypted memory layer, Markdown-driven skills, and provider-agnostic tools."

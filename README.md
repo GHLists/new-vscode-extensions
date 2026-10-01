@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 09:21 UTC
+## Latest list — 2026-10-01 10:21 UTC
 
-New extensions published between 2026-10-01 07:21 UTC and 2026-10-01 09:21 UTC.
+New extensions published between 2026-10-01 08:21 UTC and 2026-10-01 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T09-21-07-837768Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T10-21-38-062541Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 08:17:21 | [SioHaft.gugugaga](https://marketplace.visualstudio.com/items?itemName=SioHaft.gugugaga) | Gugugaga | 0.1.0 | Syntax highlighting and execution support for the Gugu programming language |
-| 2026-10-01 08:19:56 | [kodolinija.claude-master](https://marketplace.visualstudio.com/items?itemName=kodolinija.claude-master) | Claude Master | 0.1.0 | Compact, dockable list of this window's Claude Code sessions with live status a… |
-| 2026-10-01 08:21:51 | [edmccard.look-dont-touch](https://marketplace.visualstudio.com/items?itemName=edmccard.look-dont-touch) | Look, Don't Touch | 1.0.0 | Files outside a workspace are read-only |
-| 2026-10-01 08:34:54 | [ReadyStack.gke-extended-channel-fee-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gke-extended-channel-fee-lint) | GKE Extended Channel Fee Lint — Terrafo… | 1.0.2 | GKE Extended channel fee check for Terraform: flags google_container_cluster ve… |
-| 2026-10-01 08:35:18 | [divagar-n.fetched-diff](https://marketplace.visualstudio.com/items?itemName=divagar-n.fetched-diff) | Fetched Diff — Inline Git Diff vs Upstr… | 0.1.0 | Shows, inside the editor, how your current code differs from the latest fetched… |
-| 2026-10-01 08:41:43 | [sanoriva.sanoriva](https://marketplace.visualstudio.com/items?itemName=sanoriva.sanoriva) | Sanoriva Architect | 0.2.0 | Análisis de arquitectura Arbo para proyectos Angular. |
-| 2026-10-01 09:05:14 | [aiand.aiand-copilot](https://marketplace.visualstudio.com/items?itemName=aiand.aiand-copilot) | ai& for GitHub Copilot | 1.0.0 | Use hosted ai& models in GitHub Copilot Chat with your ai& API key. |
-| 2026-10-01 09:08:19 | [SolutionLink.seqworks](https://marketplace.visualstudio.com/items?itemName=SolutionLink.seqworks) | SeqWorks — Sequence Diagram DSL | 0.9.0 | Author sequence diagrams as text with a Langium DSL, live SVG preview, cross-fi… |
+| 2026-10-01 09:16:48 | [BhavyaJustChill.vscode-power-mode-reborn](https://marketplace.visualstudio.com/items?itemName=BhavyaJustChill.vscode-power-mode-reborn) | VS Code Power Mode Reborn | 1.1.0 | Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A mai… |
+| 2026-10-01 09:19:58 | [proyectos-innovadores-eirl.open-shell-here](https://marketplace.visualstudio.com/items?itemName=proyectos-innovadores-eirl.open-shell-here) | Open Shell Here (external terminal) | 0.1.0 | Open PowerShell, Command Prompt, or Git Bash in a folder from the Explorer cont… |
+| 2026-10-01 09:21:22 | [tenbits.atma-utest-vscode](https://marketplace.visualstudio.com/items?itemName=tenbits.atma-utest-vscode) | UTest | 0.1.1 | Run UTest files and suites from inline Run actions. |
+| 2026-10-01 09:22:33 | [apleno.apleno-designer](https://marketplace.visualstudio.com/items?itemName=apleno.apleno-designer) | Apleno Designer | 1.0.1 | Create amazing apps with user-friendly UI. |
+| 2026-10-01 09:24:51 | [kolnogorov.sjasmplus-code-lens](https://marketplace.visualstudio.com/items?itemName=kolnogorov.sjasmplus-code-lens) | sjasmplus Code Lens | 0.1.1 | Code lens, references, go to definition, rename, outline and hover for Z80 asse… |
+| 2026-10-01 09:58:57 | [ReadyStack.audit-log-retention-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.audit-log-retention-lint) | Audit Log Retention Lint (PCI DSS, CERT… | 1.0.3 | Flags log-retention values in Loki, CloudWatch, Elasticsearch ILM, S3 lifecycle… |
+| 2026-10-01 09:59:53 | [ReadyStack.aurora-mysql57-upgrade-blocker-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.aurora-mysql57-upgrade-blocker-lint) | Aurora MySQL 5.7 to 8.0 Upgrade Blocker… | 1.0.3 | Flags MySQL 5.7 features removed in 8.0 (query cache, PASSWORD(), NO_AUTO_CREAT… |
+| 2026-10-01 10:04:11 | [loki05.loki-agent](https://marketplace.visualstudio.com/items?itemName=loki05.loki-agent) | Loki | 0.1.0 | AI coding agent with a persistent encrypted memory layer, Markdown-driven skill… |
 
 ## Data source
 
