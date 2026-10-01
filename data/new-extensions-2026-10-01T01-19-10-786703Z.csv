@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T00:18:25.643Z,foogoo.shavefmt,foogoo,Shave Format,0.1.0,Opinionated multi-language code formatter for 16 languages (C/C++/C#/Java/Go/Rust/Kotlin/Swift/PHP/JS/TS/Ruby/Python/JSON/HTML/CSS).
+2026-10-01T00:19:49.03Z,BuddhikeDeSilva.oldaussiebook,BuddhikeDeSilva,Old Aussie Book ,1.0.0,"A low-distraction, grayscale/sepia VS Code theme styled after an old book or newspaper page, tuned for clear Go semantic highlighting (types vs. variables vs. structs vs. methods)."
+2026-10-01T00:30:07.137Z,NiceNick.rawr-poc,NiceNick,rawr,0.0.1,
+2026-10-01T00:57:42.303Z,opsva.archi-rag,opsva,Archi Agents — Agent Indexeur RAG,0.1.0,"Chunking sémantique, index lexical BM25, embeddings et reranking embarqués : recherche hybride locale sans serveur."
+2026-10-01T00:58:28.093Z,opsva.archi-writer,opsva,Archi Agents — Agent Rédacteur,0.1.0,"Rédige les 32 sections du dossier en français à partir du modèle validé : texte sourcé, reformulation LLM gardée, glossaire imposé."
+2026-10-01T00:59:39.797Z,opsva.archi-verifier,opsva,Archi Agents — Agent Vérificateur,0.1.0,"Contrôles déterministes (schémas, références, citations, terminologie) et vérification factuelle IA phrase par phrase, avec correction ciblée."
+2026-10-01T01:00:21.823Z,opsva.archi-model-qwen3-reranker-0-6b-q8-part-01,opsva,Archi Agents — Modèle Qwen3 Reranker 0.6B (fragment 1/2),0.1.0,"Fragment 1/2 du modèle Qwen3 Reranker 0.6B q8_0 utilisé hors ligne par Archi Agents (reranking de la recherche). Aucun code, aucune connexion réseau."
+2026-10-01T01:00:53.367Z,opsva.archi-model-qwen3-reranker-0-6b-q8-part-02,opsva,Archi Agents — Modèle Qwen3 Reranker 0.6B (fragment 2/2),0.1.0,"Fragment 2/2 du modèle Qwen3 Reranker 0.6B q8_0 utilisé hors ligne par Archi Agents (reranking de la recherche). Aucun code, aucune connexion réseau."
+2026-10-01T01:01:31.797Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-04,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 4/42),0.1.0,"Fragment 4/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
