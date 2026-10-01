@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T14:18:19.06Z,pydemia.mark-your-scope,pydemia,Mark Your Scope,0.1.1,"Highlight the current code scope and indentation guides in VS Code. Navigate nested blocks and scope boundaries, switch focus modes and tune palettes for JavaScript, TypeScript, Python and JSON."
+2026-10-01T14:18:24.12Z,maghorbani.maghorbani-git-compare,maghorbani,Git Pointers Compare,0.0.3,Compare any two Git points and open a labeled side-by-side diff
+2026-10-01T14:37:06.543Z,lilinhuang.galaxy-moon-theme,lilinhuang,Galaxy Moon Theme,1.0.0,"A moonlit VS Code theme: warm gold crescent accents over a deep night sky, plus a lavender-tinted light variant."
+2026-10-01T14:55:51.177Z,qfortier.vscode-exercices-mpi,qfortier,Exercices Typst,0.5.0,"Parcourir une banque d'exercices Typst, composer des feuilles et prévisualiser les énoncés et corrigés."
+2026-10-01T15:01:51.937Z,antenna-tec.symbols-connector,antenna-tec,Symbols Connector,0.4.2,Draw connecting lines from the symbol under the cursor to its definition and every reference.
+2026-10-01T15:07:48.587Z,AhmetKAYACI.unravel-code,AhmetKAYACI,Unravel Code,0.1.0,"Explain selected code or a regex, step by step, in Turkish or English."
+2026-10-01T15:07:55.617Z,shaevitz.codex-notebook-context,shaevitz,Notebook Context for Codex,0.2.0,"Automatically supply the active notebook cell, cursor and selection to Codex prompts via a local hook."
+2026-10-01T15:10:01.5Z,Abdulla-Aldosari.mindstream,Abdulla-Aldosari,MindStream,1.1.0,"Capture notes and ideas as they happen, organize them into custom types and categories, and track their status."
+2026-10-01T15:11:39.02Z,wanglr.pilot-support,wanglr,Pilot Support,0.0.1,Python パイプライン自動生成支援 VS Code 拡張機能
