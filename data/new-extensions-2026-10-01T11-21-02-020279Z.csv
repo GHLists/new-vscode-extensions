@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T10:04:50.4Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-05,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 5/42),0.1.0,"Fragment 5/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T10:30:27.57Z,Overengineered-detect.overengineered,Overengineered-detect,Overengineered,1.1.0,"Flags complexity in TypeScript, JavaScript, HTML, and CSS that may be heavier than the problem the code solves."
+2026-10-01T10:30:35.597Z,NoahAIbyAllionTechnologiesPtyLtd.noah-ai-agents-and-workflows,NoahAIbyAllionTechnologiesPtyLtd,Noah AI Agents And Workflows,1.0.13,"Your all-in-one agentic engineering partner. Generate code, automate tasks, get inline autocomplete, and debug with an AI agent that adapts to your workflow. Access 500+ AI models including Claude (Anthropic), Gemini, Grok, GPT, Codex and GLM at transparent, provider-rate pricing."
+2026-10-01T10:39:07.66Z,HarshalMoon.spring-boot-initializer,HarshalMoon,Spring Boot Initializer & Generator,0.1.2,Create and configure Spring Boot projects directly inside VS Code. The ultimate native Spring Initializr experience.
+2026-10-01T10:39:23.983Z,MiniBtMaster.minibt-charts,MiniBtMaster,MiniBT Charts,0.2.1,在 VS Code 编辑器页里运行并查看 MiniBT 策略图表（pylightcharts / bokeh，回测 / 回放 / 实时；也可导出成自包含 HTML）。
+2026-10-01T10:39:30.74Z,XtroEdge.xtroedge-code,XtroEdge,XtroEdge Code,1.8.0,"XtroEdge Code: an autonomous computer-use agent for VS Code. Operates files, terminal, VS Code, browser and desktop applications with your own Claude account through the official Claude Code CLI."
+2026-10-01T10:39:51.54Z,Markoolos.sphinx-preview,Markoolos,Sphinx Preview,0.1.0,Build and preview Sphinx documentation with live reload.
+2026-10-01T11:01:49.463Z,Cheatoid.lua-divider-outline,Cheatoid,Lua Divider Outline,0.1.0,Adds 3-line divider headers to the VS Code Outline for Lua files without replacing LuaLS symbols.
+2026-10-01T11:05:42.18Z,loki05.agent-loki,loki05,Loki AI Agent,0.1.0,AI coding agent with a persistent encrypted memory layer.
+2026-10-01T11:11:59.37Z,AFatNiBBa.vscode-lang-cil,AFatNiBBa,Common Intermediate Language,0.0.1,Rich syntax highlighting for .NET's Common Intermediate Language
+2026-10-01T11:14:01.653Z,SurenShrestha.vscode-indent-lang,SurenShrestha,Indent,0.2.1,Syntax highlighting for Indent Markup Language (.inml)

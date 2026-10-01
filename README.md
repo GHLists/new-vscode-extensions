@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 10:21 UTC
+## Latest list — 2026-10-01 11:21 UTC
 
-New extensions published between 2026-10-01 08:21 UTC and 2026-10-01 10:21 UTC.
+New extensions published between 2026-10-01 09:21 UTC and 2026-10-01 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T10-21-38-062541Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T11-21-02-020279Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 09:16:48 | [BhavyaJustChill.vscode-power-mode-reborn](https://marketplace.visualstudio.com/items?itemName=BhavyaJustChill.vscode-power-mode-reborn) | VS Code Power Mode Reborn | 1.1.0 | Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A mai… |
-| 2026-10-01 09:19:58 | [proyectos-innovadores-eirl.open-shell-here](https://marketplace.visualstudio.com/items?itemName=proyectos-innovadores-eirl.open-shell-here) | Open Shell Here (external terminal) | 0.1.0 | Open PowerShell, Command Prompt, or Git Bash in a folder from the Explorer cont… |
-| 2026-10-01 09:21:22 | [tenbits.atma-utest-vscode](https://marketplace.visualstudio.com/items?itemName=tenbits.atma-utest-vscode) | UTest | 0.1.1 | Run UTest files and suites from inline Run actions. |
-| 2026-10-01 09:22:33 | [apleno.apleno-designer](https://marketplace.visualstudio.com/items?itemName=apleno.apleno-designer) | Apleno Designer | 1.0.1 | Create amazing apps with user-friendly UI. |
-| 2026-10-01 09:24:51 | [kolnogorov.sjasmplus-code-lens](https://marketplace.visualstudio.com/items?itemName=kolnogorov.sjasmplus-code-lens) | sjasmplus Code Lens | 0.1.1 | Code lens, references, go to definition, rename, outline and hover for Z80 asse… |
-| 2026-10-01 09:58:57 | [ReadyStack.audit-log-retention-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.audit-log-retention-lint) | Audit Log Retention Lint (PCI DSS, CERT… | 1.0.3 | Flags log-retention values in Loki, CloudWatch, Elasticsearch ILM, S3 lifecycle… |
-| 2026-10-01 09:59:53 | [ReadyStack.aurora-mysql57-upgrade-blocker-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.aurora-mysql57-upgrade-blocker-lint) | Aurora MySQL 5.7 to 8.0 Upgrade Blocker… | 1.0.3 | Flags MySQL 5.7 features removed in 8.0 (query cache, PASSWORD(), NO_AUTO_CREAT… |
-| 2026-10-01 10:04:11 | [loki05.loki-agent](https://marketplace.visualstudio.com/items?itemName=loki05.loki-agent) | Loki | 0.1.0 | AI coding agent with a persistent encrypted memory layer, Markdown-driven skill… |
+| 2026-10-01 10:04:50 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-05](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-05) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 5/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-10-01 10:30:27 | [Overengineered-detect.overengineered](https://marketplace.visualstudio.com/items?itemName=Overengineered-detect.overengineered) | Overengineered | 1.1.0 | Flags complexity in TypeScript, JavaScript, HTML, and CSS that may be heavier t… |
+| 2026-10-01 10:30:35 | [NoahAIbyAllionTechnologiesPtyLtd.noah-ai-agents-and-workflows](https://marketplace.visualstudio.com/items?itemName=NoahAIbyAllionTechnologiesPtyLtd.noah-ai-agents-and-workflows) | Noah AI Agents And Workflows | 1.0.13 | Your all-in-one agentic engineering partner. Generate code, automate tasks, get… |
+| 2026-10-01 10:39:07 | [HarshalMoon.spring-boot-initializer](https://marketplace.visualstudio.com/items?itemName=HarshalMoon.spring-boot-initializer) | Spring Boot Initializer & Generator | 0.1.2 | Create and configure Spring Boot projects directly inside VS Code. The ultimate… |
+| 2026-10-01 10:39:23 | [MiniBtMaster.minibt-charts](https://marketplace.visualstudio.com/items?itemName=MiniBtMaster.minibt-charts) | MiniBT Charts | 0.2.1 | 在 VS Code 编辑器页里运行并查看 MiniBT 策略图表（pylightcharts / bokeh，回测 / 回放 / 实时；也可导出成自包含 HT… |
+| 2026-10-01 10:39:30 | [XtroEdge.xtroedge-code](https://marketplace.visualstudio.com/items?itemName=XtroEdge.xtroedge-code) | XtroEdge Code | 1.8.0 | XtroEdge Code: an autonomous computer-use agent for VS Code. Operates files, te… |
+| 2026-10-01 10:39:51 | [Markoolos.sphinx-preview](https://marketplace.visualstudio.com/items?itemName=Markoolos.sphinx-preview) | Sphinx Preview | 0.1.0 | Build and preview Sphinx documentation with live reload. |
+| 2026-10-01 11:01:49 | [Cheatoid.lua-divider-outline](https://marketplace.visualstudio.com/items?itemName=Cheatoid.lua-divider-outline) | Lua Divider Outline | 0.1.0 | Adds 3-line divider headers to the VS Code Outline for Lua files without replac… |
+| 2026-10-01 11:05:42 | [loki05.agent-loki](https://marketplace.visualstudio.com/items?itemName=loki05.agent-loki) | Loki AI Agent | 0.1.0 | AI coding agent with a persistent encrypted memory layer. |
+| 2026-10-01 11:11:59 | [AFatNiBBa.vscode-lang-cil](https://marketplace.visualstudio.com/items?itemName=AFatNiBBa.vscode-lang-cil) | Common Intermediate Language | 0.0.1 | Rich syntax highlighting for .NET's Common Intermediate Language |
+| 2026-10-01 11:14:01 | [SurenShrestha.vscode-indent-lang](https://marketplace.visualstudio.com/items?itemName=SurenShrestha.vscode-indent-lang) | Indent | 0.2.1 | Syntax highlighting for Indent Markup Language (.inml) |
 
 ## Data source
 
