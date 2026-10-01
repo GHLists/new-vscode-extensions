@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T17:37:15.163Z,vladanpro.axonyx-vscode,vladanpro,Axonyx,0.0.14,VS Code language support for Axonyx .asx frontend and .ax backend files.
+2026-10-01T17:41:58.263Z,iokaio.vcp-local,iokaio,VCP Local,0.2.1,"Local VCP workspace connection, trust and recovery."
+2026-10-01T17:59:16.44Z,amortimer20.emerald-vscode,amortimer20,Emerald Lang,0.2.2,"Editor support for Emerald (emerald-lang.web.app): highlighting, diagnostics, completion, and more."
+2026-10-01T18:05:56.24Z,iitdeveloper.llm-bridge,iitdeveloper,LLM Bridge,0.1.0,"Connect custom LLM endpoints (OpenAI-compatible, Responses, Azure OpenAI, Ollama) to the native VS Code Chat model picker. By IITDEVELOPER."
+2026-10-01T18:08:07.463Z,CamiloTapia.visual-git-flow-camilo,CamiloTapia,Visual Git Flow,1.0.0,Explorador visual profesional de ramas y commits. Desarrollado por Camilo.
