@@ -12,22 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 22:20 UTC
+## Latest list — 2026-10-01 23:20 UTC
 
-New extensions published between 2026-10-01 20:20 UTC and 2026-10-01 22:20 UTC.
+New extensions published between 2026-10-01 21:20 UTC and 2026-10-01 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T22-20-28-519406Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T23-20-26-996525Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 21:24:52 | [mlops-club.uv-script-envs](https://marketplace.visualstudio.com/items?itemName=mlops-club.uv-script-envs) | uv Script Envs | 0.1.4 | Open a Python script with inline dependencies (PEP 723) and get autocompletion:… |
-| 2026-10-01 21:27:12 | [SagasysTechnologyGroup.docx-compare](https://marketplace.visualstudio.com/items?itemName=SagasysTechnologyGroup.docx-compare) | DOCX Compare | 0.1.1 | Compare Word documents side by side with formatting, across git commits, staged… |
-| 2026-10-01 21:35:23 | [nifty.nifty-git-graph](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-git-graph) | Nifty Git Graph: Git History & Branch G… | 0.1.0 | See your git history as a graph: branches, merges and tags, commit details and… |
-| 2026-10-01 21:35:29 | [nifty.nifty-todo](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-todo) | Nifty Todo: TODO Highlight & Tree | 0.1.0 | TODO, FIXME and HACK comments highlighted in the editor and listed in a tree, p… |
-| 2026-10-01 21:35:35 | [nifty.nifty-replace](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-replace) | Nifty Replace: Find & Replace Across Fi… | 0.1.0 | Find and replace across files with a preview of every change, regex groups and… |
-| 2026-10-01 21:57:33 | [isaiah-harville.switchback](https://marketplace.visualstudio.com/items?itemName=isaiah-harville.switchback) | Switchback | 0.6.0 | Local-first coding agent that escalates to a hosted model (OpenAI, Anthropic, D… |
-| 2026-10-01 21:57:57 | [code-ae.code-ae-agent](https://marketplace.visualstudio.com/items?itemName=code-ae.code-ae-agent) | code.in Agent | 0.2.56 | The code.in coding agent for your editor. Work in your local project with manag… |
-| 2026-10-01 22:14:32 | [SanjayBhoye.samosa-chat](https://marketplace.visualstudio.com/items?itemName=SanjayBhoye.samosa-chat) | Samosa Chat | 1.0.5 | Dedicated AI coding assistant connecting directly to remote Kaggle GPU backends. |
+| 2026-10-01 22:14:14 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-12](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-12) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 12/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-01 22:19:31 | [Matdata.matdata-sparql-formatter](https://marketplace.visualstudio.com/items?itemName=Matdata.matdata-sparql-formatter) | Matdata's SPARQL Formatter | 1.0.0 | SPARQL 1.2 query and update formatter that keeps your comments where you put th… |
+| 2026-10-01 22:37:23 | [Sysprogs.visualgdb-vscode](https://marketplace.visualstudio.com/items?itemName=Sysprogs.visualgdb-vscode) | VisualGDB for VS Code | 0.1.0 | Launches Stand-Alone VisualGDB GUI for VS Code Projects |
+| 2026-10-01 23:10:35 | [srijan.custom-terminal-profile-manager](https://marketplace.visualstudio.com/items?itemName=srijan.custom-terminal-profile-manager) | Custom Terminal Profile Manager | 1.0.0 |  |
 
 ## Data source
 

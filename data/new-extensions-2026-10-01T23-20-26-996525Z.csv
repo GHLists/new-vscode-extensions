@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T22:14:14.907Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-12,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 12/42),0.1.0,"Fragment 12/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-01T22:19:31.63Z,Matdata.matdata-sparql-formatter,Matdata,Matdata's SPARQL Formatter,1.0.0,SPARQL 1.2 query and update formatter that keeps your comments where you put them
+2026-10-01T22:37:23.773Z,Sysprogs.visualgdb-vscode,Sysprogs,VisualGDB for VS Code,0.1.0,Launches Stand-Alone VisualGDB GUI for VS Code Projects
+2026-10-01T23:10:35.723Z,srijan.custom-terminal-profile-manager,srijan,Custom Terminal Profile Manager,1.0.0,
