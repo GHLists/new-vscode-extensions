@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 02:20 UTC
+## Latest list — 2026-10-01 03:19 UTC
 
-New extensions published between 2026-10-01 00:20 UTC and 2026-10-01 02:20 UTC.
+New extensions published between 2026-10-01 01:19 UTC and 2026-10-01 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T02-20-04-719704Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T03-19-48-89449Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 01:27:35 | [QuEraComputing.vscode-stim](https://marketplace.visualstudio.com/items?itemName=QuEraComputing.vscode-stim) | Stim | 0.1.0 | Syntax highlighting and circuit visualization for .stim and .dem files |
-| 2026-10-01 01:32:02 | [Junxi.sage-paper-light](https://marketplace.visualstudio.com/items?itemName=Junxi.sage-paper-light) | Sage Paper Light | 0.2.4 | A light theme with a palette hand-tuned by Junxi: warm paper surfaces, soft sag… |
-| 2026-10-01 01:43:11 | [EKLABDEV.better-than-copilot](https://marketplace.visualstudio.com/items?itemName=EKLABDEV.better-than-copilot) | Better Than Copilot (Composer & Agent E… | 0.1.0 | Cursor-like Composer & Autonomous Agent inside VS Code powered by GitHub Copilo… |
-| 2026-10-01 01:44:34 | [Sciad.planisphere](https://marketplace.visualstudio.com/items?itemName=Sciad.planisphere) | Planisphere | 0.1.0 | Read a codebase as a drawing: the types of a Python, TypeScript, Go, Rust or Ja… |
-| 2026-10-01 01:45:11 | [Vibefuel.vibefuel](https://marketplace.visualstudio.com/items?itemName=Vibefuel.vibefuel) | Vibefuel | 0.1.0 | Sponsored messages in a sidebar while you build. Earn rewards toward your next… |
-| 2026-10-01 02:16:48 | [aiworkforceone.awo-hq](https://marketplace.visualstudio.com/items?itemName=aiworkforceone.awo-hq) | AI Workforce One HQ | 0.1.0 | Your AI Workforce One HQ teams inside VS Code: join their session terminals and… |
+| 2026-10-01 02:28:26 | [Ascribe.ascribe-vscode](https://marketplace.visualstudio.com/items?itemName=Ascribe.ascribe-vscode) | Ascribe | 0.1.0 | The Ascribe extension for VS Code. |
+| 2026-10-01 02:37:03 | [beihai23.gtv-vscode](https://marketplace.visualstudio.com/items?itemName=beihai23.gtv-vscode) | gtv — Git Timeline Viewer | 0.1.2 | Branch-lane git history timeline inside VS Code: every branch a track, born at… |
+| 2026-10-01 02:45:36 | [yahiabsk.dimidium-theme](https://marketplace.visualstudio.com/items?itemName=yahiabsk.dimidium-theme) | Dimidium Theme | 0.0.1 | A terminal based theme for vscode |
+| 2026-10-01 03:07:44 | [abhay-sudhir.securelint](https://marketplace.visualstudio.com/items?itemName=abhay-sudhir.securelint) | SecureLint — Code Security Scanner | 0.1.1 | Real-time security vulnerability detection for VS Code and Cursor. Catches hard… |
 
 ## Data source
 

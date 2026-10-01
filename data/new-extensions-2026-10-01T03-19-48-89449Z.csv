@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T02:28:26.197Z,Ascribe.ascribe-vscode,Ascribe,Ascribe,0.1.0,The Ascribe extension for VS Code.
+2026-10-01T02:37:03.47Z,beihai23.gtv-vscode,beihai23,gtv — Git Timeline Viewer,0.1.2,"Branch-lane git history timeline inside VS Code: every branch a track, born at a fork, folded back at a merge."
+2026-10-01T02:45:36.55Z,yahiabsk.dimidium-theme,yahiabsk,Dimidium Theme,0.0.1,A terminal based theme for vscode
+2026-10-01T03:07:44.75Z,abhay-sudhir.securelint,abhay-sudhir,SecureLint — Code Security Scanner,0.1.1,"Real-time security vulnerability detection for VS Code and Cursor. Catches hardcoded secrets, injection risks, insecure crypto, and unsafe patterns as you code."
