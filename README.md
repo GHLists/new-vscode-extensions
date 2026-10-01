@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 01:19 UTC
+## Latest list — 2026-10-01 02:20 UTC
 
-New extensions published between 2026-09-30 23:19 UTC and 2026-10-01 01:19 UTC.
+New extensions published between 2026-10-01 00:20 UTC and 2026-10-01 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T01-19-10-786703Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T02-20-04-719704Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 00:18:25 | [foogoo.shavefmt](https://marketplace.visualstudio.com/items?itemName=foogoo.shavefmt) | Shave Format | 0.1.0 | Opinionated multi-language code formatter for 16 languages (C/C++/C#/Java/Go/Ru… |
-| 2026-10-01 00:19:49 | [BuddhikeDeSilva.oldaussiebook](https://marketplace.visualstudio.com/items?itemName=BuddhikeDeSilva.oldaussiebook) | Old Aussie Book | 1.0.0 | A low-distraction, grayscale/sepia VS Code theme styled after an old book or ne… |
-| 2026-10-01 00:30:07 | [NiceNick.rawr-poc](https://marketplace.visualstudio.com/items?itemName=NiceNick.rawr-poc) | rawr | 0.0.1 |  |
-| 2026-10-01 00:57:42 | [opsva.archi-rag](https://marketplace.visualstudio.com/items?itemName=opsva.archi-rag) | Archi Agents — Agent Indexeur RAG | 0.1.0 | Chunking sémantique, index lexical BM25, embeddings et reranking embarqués : re… |
-| 2026-10-01 00:58:28 | [opsva.archi-writer](https://marketplace.visualstudio.com/items?itemName=opsva.archi-writer) | Archi Agents — Agent Rédacteur | 0.1.0 | Rédige les 32 sections du dossier en français à partir du modèle validé : texte… |
-| 2026-10-01 00:59:39 | [opsva.archi-verifier](https://marketplace.visualstudio.com/items?itemName=opsva.archi-verifier) | Archi Agents — Agent Vérificateur | 0.1.0 | Contrôles déterministes (schémas, références, citations, terminologie) et vérif… |
-| 2026-10-01 01:00:21 | [opsva.archi-model-qwen3-reranker-0-6b-q8-part-01](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-reranker-0-6b-q8-part-01) | Archi Agents — Modèle Qwen3 Reranker 0.… | 0.1.0 | Fragment 1/2 du modèle Qwen3 Reranker 0.6B q8_0 utilisé hors ligne par Archi Ag… |
-| 2026-10-01 01:00:53 | [opsva.archi-model-qwen3-reranker-0-6b-q8-part-02](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-reranker-0-6b-q8-part-02) | Archi Agents — Modèle Qwen3 Reranker 0.… | 0.1.0 | Fragment 2/2 du modèle Qwen3 Reranker 0.6B q8_0 utilisé hors ligne par Archi Ag… |
-| 2026-10-01 01:01:31 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-04](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-04) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 4/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
+| 2026-10-01 01:27:35 | [QuEraComputing.vscode-stim](https://marketplace.visualstudio.com/items?itemName=QuEraComputing.vscode-stim) | Stim | 0.1.0 | Syntax highlighting and circuit visualization for .stim and .dem files |
+| 2026-10-01 01:32:02 | [Junxi.sage-paper-light](https://marketplace.visualstudio.com/items?itemName=Junxi.sage-paper-light) | Sage Paper Light | 0.2.4 | A light theme with a palette hand-tuned by Junxi: warm paper surfaces, soft sag… |
+| 2026-10-01 01:43:11 | [EKLABDEV.better-than-copilot](https://marketplace.visualstudio.com/items?itemName=EKLABDEV.better-than-copilot) | Better Than Copilot (Composer & Agent E… | 0.1.0 | Cursor-like Composer & Autonomous Agent inside VS Code powered by GitHub Copilo… |
+| 2026-10-01 01:44:34 | [Sciad.planisphere](https://marketplace.visualstudio.com/items?itemName=Sciad.planisphere) | Planisphere | 0.1.0 | Read a codebase as a drawing: the types of a Python, TypeScript, Go, Rust or Ja… |
+| 2026-10-01 01:45:11 | [Vibefuel.vibefuel](https://marketplace.visualstudio.com/items?itemName=Vibefuel.vibefuel) | Vibefuel | 0.1.0 | Sponsored messages in a sidebar while you build. Earn rewards toward your next… |
+| 2026-10-01 02:16:48 | [aiworkforceone.awo-hq](https://marketplace.visualstudio.com/items?itemName=aiworkforceone.awo-hq) | AI Workforce One HQ | 0.1.0 | Your AI Workforce One HQ teams inside VS Code: join their session terminals and… |
 
 ## Data source
 

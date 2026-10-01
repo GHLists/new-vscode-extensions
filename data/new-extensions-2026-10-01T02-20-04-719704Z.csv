@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T01:27:35.117Z,QuEraComputing.vscode-stim,QuEraComputing,Stim,0.1.0,Syntax highlighting and circuit visualization for .stim and .dem files
+2026-10-01T01:32:02.137Z,Junxi.sage-paper-light,Junxi,Sage Paper Light,0.2.4,"A light theme with a palette hand-tuned by Junxi: warm paper surfaces, soft sage layers, and forest-green accents."
+2026-10-01T01:43:11.447Z,EKLABDEV.better-than-copilot,EKLABDEV,Better Than Copilot (Composer & Agent Engine),0.1.0,"Cursor-like Composer & Autonomous Agent inside VS Code powered by GitHub Copilot LM, Hybrid Graph-RAG, and MCP Tools with 0% repo footprint."
+2026-10-01T01:44:34.153Z,Sciad.planisphere,Sciad,Planisphere,0.1.0,"Read a codebase as a drawing: the types of a Python, TypeScript, Go, Rust or Java project as a radial map, with click-to-jump to the source."
+2026-10-01T01:45:11.487Z,Vibefuel.vibefuel,Vibefuel,Vibefuel,0.1.0,Sponsored messages in a sidebar while you build. Earn rewards toward your next AI credits.
+2026-10-01T02:16:48.733Z,aiworkforceone.awo-hq,aiworkforceone,AI Workforce One HQ,0.1.0,"Your AI Workforce One HQ teams inside VS Code: join their session terminals and forward their ports, without SSH."
