@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 16:20 UTC
+## Latest list — 2026-10-01 17:22 UTC
 
-New extensions published between 2026-10-01 14:20 UTC and 2026-10-01 16:20 UTC.
+New extensions published between 2026-10-01 15:22 UTC and 2026-10-01 17:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T16-20-20-119042Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T17-22-31-919757Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 15:35:59 | [zhdk-critical-coding.basiljs](https://marketplace.visualstudio.com/items?itemName=zhdk-critical-coding.basiljs) | Basil.js – Code Completion and Document… | 1.0.0 | Code completion, hover documentation and parameter hints for basil.js, the Proc… |
-| 2026-10-01 15:52:34 | [ReadyStack.cert-lifetime-lint-47day](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cert-lifetime-lint-47day) | Cert Lifetime Lint - 200/100/47-Day TLS… | 0.1.7 | Finds the 365-day and 90-day certificate assumptions left in your cert-manager,… |
-| 2026-10-01 15:52:39 | [ReadyStack.cloud-manifest-audit-kit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cloud-manifest-audit-kit) | Manifest Snippets + Removed-API Audit (… | 0.1.7 | Your editor does not reject a removed apiVersion. The cluster does, at deploy t… |
-| 2026-10-01 15:52:47 | [ReadyStack.config-dsl-lint-snippet-pack](https://marketplace.visualstudio.com/items?itemName=ReadyStack.config-dsl-lint-snippet-pack) | Config & DSL Lint + Snippets — 9 Sets | 0.1.5 | Your config files are never compiled — nothing fails until deploy. 36 snippets… |
-| 2026-10-01 15:52:56 | [ReadyStack.config-dsl-lint-snippets](https://marketplace.visualstudio.com/items?itemName=ReadyStack.config-dsl-lint-snippets) | Config & DSL Check — 9 languages | 0.1.5 | VS Code colours these 9 languages but never checks them: 30 rules and 35 snippe… |
-| 2026-10-01 16:03:37 | [RamBahalTiwari.copilot-quota-monitor](https://marketplace.visualstudio.com/items?itemName=RamBahalTiwari.copilot-quota-monitor) | Copilot Quota Monitor | 0.1.0 | Shows GitHub Copilot quota, remaining allowance, and reset date in the VS Code… |
-| 2026-10-01 16:09:07 | [Matsuyanagi.surround-lines](https://marketplace.visualstudio.com/items?itemName=Matsuyanagi.surround-lines) | surround-lines | 0.0.1 | Surround the selected lines with a header and footer. |
+| 2026-10-01 16:26:52 | [dont-be-evil-company.kulala-code](https://marketplace.visualstudio.com/items?itemName=dont-be-evil-company.kulala-code) | Kulala for Code | 1.0.1 | A fully-featured HTTP/GraphQL/gRPC/Websocket-client interface for (Visual Studi… |
+| 2026-10-01 16:28:26 | [useful-ext.pptx-design-studio](https://marketplace.visualstudio.com/items?itemName=useful-ext.pptx-design-studio) | PPTX Design Studio | 0.1.0 | Generate executive-grade, fully editable PowerPoint (.pptx) decks 100% offline… |
+| 2026-10-01 16:41:41 | [msrclab47c2d275.rollback-79441fc3](https://marketplace.visualstudio.com/items?itemName=msrclab47c2d275.rollback-79441fc3) | MSRC owned inert rollback validation -… | 1.0.0 | Short lived inert owned security validation fixture; do not install |
+| 2026-10-01 16:46:59 | [letsgo.letsgo-vscode](https://marketplace.visualstudio.com/items?itemName=letsgo.letsgo-vscode) | letsgo | 1.2.0 | A thin editor client for letsgo: a per-module panel, a status bar built from `l… |
+| 2026-10-01 16:49:44 | [sarfudheen.tokensculpt](https://marketplace.visualstudio.com/items?itemName=sarfudheen.tokensculpt) | TokenSculpt — AI Token & Cost Optimizer… | 1.0.19 | Save 60–90% AI token & LLM costs across GitHub Copilot, Claude Code, and Codex.… |
+| 2026-10-01 16:50:24 | [devparanjay.command-code-provider](https://marketplace.visualstudio.com/items?itemName=devparanjay.command-code-provider) | Command Code Provider | 0.3.6 | Use Command Code models in VS Code's AI features, including Copilot Chat. |
+| 2026-10-01 16:55:52 | [LinkZelda99-cpp.notion-sidebar](https://marketplace.visualstudio.com/items?itemName=LinkZelda99-cpp.notion-sidebar) | Notion Sidebar | 0.1.0 | Notion workspace inside VS Code |
+| 2026-10-01 16:57:07 | [N7K5.diff-studio](https://marketplace.visualstudio.com/items?itemName=N7K5.diff-studio) | Diff Studio | 0.5.0 | Editable local, SSH and Git comparisons with a visual agent bridge. |
+| 2026-10-01 17:06:45 | [for56.vim-jupyter](https://marketplace.visualstudio.com/items?itemName=for56.vim-jupyter) | Vim Jupyter | 0.15.0 | Vim where VSCodeVim stops short in Jupyter notebooks: gd/Ctrl-O jumps across ce… |
 
 ## Data source
 

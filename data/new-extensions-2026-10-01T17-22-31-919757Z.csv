@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T16:26:52.487Z,dont-be-evil-company.kulala-code,dont-be-evil-company,Kulala for Code,1.0.1,"A fully-featured HTTP/GraphQL/gRPC/Websocket-client interface for (Visual Studio) Code, that supports the Jetbrains .http spec (with full scripting support)."
+2026-10-01T16:28:26.89Z,useful-ext.pptx-design-studio,useful-ext,PPTX Design Studio,0.1.0,"Generate executive-grade, fully editable PowerPoint (.pptx) decks 100% offline from prompts, outlines and documents, driven by a real design system: palettes, design tokens, templates, charts, tables, diagrams, automatic QA and encrypted private asset packs."
+2026-10-01T16:41:41.34Z,msrclab47c2d275.rollback-79441fc3,msrclab47c2d275,MSRC owned inert rollback validation - do not install,1.0.0,Short lived inert owned security validation fixture; do not install
+2026-10-01T16:46:59.1Z,letsgo.letsgo-vscode,letsgo,letsgo,1.2.0,"A thin editor client for letsgo: a per-module panel, a status bar built from `letsgo plan --json`, and language features for letsgo.mod served by `letsgo lsp`."
+2026-10-01T16:49:44.933Z,sarfudheen.tokensculpt,sarfudheen,TokenSculpt — AI Token & Cost Optimizer (Copilot & Claude),1.0.19,"Save 60–90% AI token & LLM costs across GitHub Copilot, Claude Code, and Codex. Zero-latency context pruning, AST skeletons, semantic cache, and real-time savings tracking."
+2026-10-01T16:50:24.167Z,devparanjay.command-code-provider,devparanjay,Command Code Provider,0.3.6,"Use Command Code models in VS Code's AI features, including Copilot Chat."
+2026-10-01T16:55:52.27Z,LinkZelda99-cpp.notion-sidebar,LinkZelda99-cpp,Notion Sidebar,0.1.0,Notion workspace inside VS Code
+2026-10-01T16:57:07.177Z,N7K5.diff-studio,N7K5,Diff Studio,0.5.0,"Editable local, SSH and Git comparisons with a visual agent bridge."
+2026-10-01T17:06:45.99Z,for56.vim-jupyter,for56,Vim Jupyter,0.15.0,"Vim where VSCodeVim stops short in Jupyter notebooks: gd/Ctrl-O jumps across cells, a ':' command line and Ctrl-W on selected cells, and a § search of the whole notebook."
