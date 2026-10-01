@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T19:20:10.663Z,WilliamGravesCorporationLtd.satisfaction-language,WilliamGravesCorporationLtd,Satisfaction Language,0.1.1,VS Code language support for Satisfaction (.satif and .satui).
+2026-10-01T19:29:33.133Z,JasonSwartz.matchstyle,JasonSwartz,MatchStyle,1.0.0,"Style regex-matched text with custom fonts, sizes, weights, and colors."
+2026-10-01T19:32:42.36Z,koupualen.codex-model-router,koupualen,Codex Model Router,0.5.1,Route Codex model aliases to providers through a local proxy. 在 VS Code 中管理模型映射。
+2026-10-01T19:33:18.133Z,koupualen.codex-io-bridge,koupualen,Codex IO Bridge,0.12.2,共享 VS Code 官方 Codex 扩展的会话输入、输出和本地历史接口，供 Remote、Voice 等插件接入。
+2026-10-01T19:33:44.603Z,koupualen.codex-remote,koupualen,Codex Remote · 飞书,0.18.1,通过一个飞书机器人连接本机 VS Code Codex 会话。
+2026-10-01T19:40:52.47Z,HaydarDemir.buildmeter,HaydarDemir,BuildMeter,1.0.0,"Measures how long Flutter debug sessions take until the app is up, and feeds the results to the BuildMeter macOS app."
+2026-10-01T19:42:26.853Z,ezhiladhavan.cblite-browser,ezhiladhavan,CBlite Browser,0.3.0,"Browse Couchbase Lite (.cblite2) databases in VS Code: collections, documents, revision history and N1QL queries, using the cblite CLI."
+2026-10-01T19:50:08.767Z,navoff.vscode-spec-review,navoff,Spec Review,0.1.0,"Review Markdown documents written by AI agents: comments, revisions and diffs like a pull request"
+2026-10-01T19:55:49.287Z,iitdeveloper.llm-bridge-ai,iitdeveloper,LLM Bridge by IITDEVELOPER,1.0.0,"Connect custom LLM endpoints (OpenAI-compatible, Responses, Azure OpenAI, Ollama) to the native VS Code Chat model picker. By IITDEVELOPER."
+2026-10-01T19:56:28.547Z,Vertiso.vertiso-memory,Vertiso,Vertiso Memory,1.3.1,"Portable, user-owned memory and session workflows for AI agents in VS Code."
+2026-10-01T19:57:31.757Z,nifty.nifty-mermaid,nifty,Nifty Mermaid: Mermaid Diagram Preview & Export,0.1.0,"Mermaid diagrams with no account: live preview beside .mmd files and Markdown, diagrams in the Markdown preview, syntax highlighting, and export to SVG or PNG."
+2026-10-01T19:57:44.873Z,nifty.nifty-data,nifty,Nifty Data Viewer: CSV & Parquet Viewer with SQL,0.1.0,"Open CSV, Parquet and JSON files as a fast table and query them with SQL, powered by DuckDB. Sort, page through millions of rows, and export to CSV, Parquet or JSON."
+2026-10-01T19:57:53.8Z,nifty.nifty-sqlite,nifty,Nifty SQLite: SQLite Viewer & Query Editor,0.1.0,"Browse and query SQLite databases: tables and views in the side bar, a fast grid for any table, SQL queries with results, and export to CSV or JSON, with no native modules."
+2026-10-01T19:57:59.737Z,nifty.nifty-rest-client,nifty,Nifty REST Client: .http Files & HTTP Requests,0.1.0,"Send HTTP requests from .http files: variables, environments, request chaining, response viewer, cURL import and export, and history. No account, no cloud."
