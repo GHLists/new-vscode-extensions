@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T06:45:40.247Z,tsangkenneth.vscode-theme-soy,tsangkenneth,Soy Themes,0.1.0,Themes for Visual Studio Code with minimal syntax highlighting and a fully colored UI
+2026-10-01T06:50:13.243Z,Rashmiee.pink-onyx,Rashmiee,Pink Onyx,1.0.0,"A pink theme on pure black: soft bubblegum pink, cute and easy on the eyes."
+2026-10-01T06:58:31.33Z,diffrigor.diffrigor,diffrigor,DiffRigor,0.1.0,Verify what your coding agent missed: independent production-risk review for AI-generated code changes.
+2026-10-01T07:00:14.503Z,akashmaddheshiya.ai-chatbot-custom-model,akashmaddheshiya,AI Chatbot — Local & Custom Models,0.1.0,"AI chat sidebar for VS Code powered by your own local model (Ollama, LM Studio) or any OpenAI-compatible backend. Chat, explain code, review code, generate code, inline completions, conversation history."
+2026-10-01T07:11:37.837Z,praveenojha.tokenshield-contextplus,praveenojha,TokenShield & Context++,1.0.1,"Stop AI coding agents from forgetting your architecture. In-RAM AST RAG & offline pre-flight linter that cuts token costs by 70–90% on Cursor, Windsurf & VS Code."
