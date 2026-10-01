@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T11:18:52.24Z,castle-bird.websquare5-editor,castle-bird,For Websquare5,0.1.0,VS Code에서 WebSquare5 에디터를 사용할 수 있게 해주는 비공식 확장
+2026-10-01T11:35:34.07Z,Aenzenith.pitwall-vscode,Aenzenith,Pitwall for VS Code,0.12.2,"Jump between project windows and run their npm dev servers — every open VS Code window in one panel, with a dot where Claude is waiting on you."
+2026-10-01T11:43:08.057Z,loki05.loki-ai-agent,loki05,LOKI - Your AI Coding Agent,0.1.0,AI coding agent with a persistent encrypted memory layer.
+2026-10-01T11:46:34.037Z,lcs-jd.ssh-host-colors,lcs-jd,SSH Host Colors,0.2.0,"Colore l'interface de VS Code selon le serveur SSH auquel tu es connecté, avec aperçu en direct."
+2026-10-01T11:54:26.827Z,anyframe.anyframe,anyframe,AnyFrame,0.1.0,"Syntax highlighting for AnyFrame .frame files (script, template, look)."
+2026-10-01T11:54:50.05Z,EinsPhoenix.locomotive,EinsPhoenix,"LOComotive – Code Statistics, Lines of Code & Complexity",2.0.1,"Count lines of code and get full code statistics: lines per language, code complexity, git history and ownership, dependency licenses and vulnerabilities, a TODO pinboard, interactive import graphs and a 3D train through your dependencies."
+2026-10-01T12:02:06.217Z,Fretefy.mobiis-theme,Fretefy,Mobiis Theme,0.1.1,Tema de cores da Mobiis para o VSCode
+2026-10-01T12:11:37.07Z,YashwanthKumar.oracle-cpq-extension-pack,YashwanthKumar,Oracle CPQ Extension Pack,0.1.0,"BML development, REST API testing, and request inspection tools for Oracle CPQ developers."
+2026-10-01T12:14:26.137Z,huts-a-jens.angular-cli-generate,huts-a-jens,Angular CLI Generate,1.0.0,"Right-click a folder to run ng generate (component, service, ...) with npm or pnpm."

@@ -12,25 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 11:21 UTC
+## Latest list — 2026-10-01 12:20 UTC
 
-New extensions published between 2026-10-01 09:21 UTC and 2026-10-01 11:21 UTC.
+New extensions published between 2026-10-01 10:20 UTC and 2026-10-01 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T11-21-02-020279Z.csv)
+[Full CSV](data/new-extensions-2026-10-01T12-20-16-442608Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 10:04:50 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-05](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-05) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 5/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agent… |
-| 2026-10-01 10:30:27 | [Overengineered-detect.overengineered](https://marketplace.visualstudio.com/items?itemName=Overengineered-detect.overengineered) | Overengineered | 1.1.0 | Flags complexity in TypeScript, JavaScript, HTML, and CSS that may be heavier t… |
-| 2026-10-01 10:30:35 | [NoahAIbyAllionTechnologiesPtyLtd.noah-ai-agents-and-workflows](https://marketplace.visualstudio.com/items?itemName=NoahAIbyAllionTechnologiesPtyLtd.noah-ai-agents-and-workflows) | Noah AI Agents And Workflows | 1.0.13 | Your all-in-one agentic engineering partner. Generate code, automate tasks, get… |
-| 2026-10-01 10:39:07 | [HarshalMoon.spring-boot-initializer](https://marketplace.visualstudio.com/items?itemName=HarshalMoon.spring-boot-initializer) | Spring Boot Initializer & Generator | 0.1.2 | Create and configure Spring Boot projects directly inside VS Code. The ultimate… |
-| 2026-10-01 10:39:23 | [MiniBtMaster.minibt-charts](https://marketplace.visualstudio.com/items?itemName=MiniBtMaster.minibt-charts) | MiniBT Charts | 0.2.1 | 在 VS Code 编辑器页里运行并查看 MiniBT 策略图表（pylightcharts / bokeh，回测 / 回放 / 实时；也可导出成自包含 HT… |
-| 2026-10-01 10:39:30 | [XtroEdge.xtroedge-code](https://marketplace.visualstudio.com/items?itemName=XtroEdge.xtroedge-code) | XtroEdge Code | 1.8.0 | XtroEdge Code: an autonomous computer-use agent for VS Code. Operates files, te… |
-| 2026-10-01 10:39:51 | [Markoolos.sphinx-preview](https://marketplace.visualstudio.com/items?itemName=Markoolos.sphinx-preview) | Sphinx Preview | 0.1.0 | Build and preview Sphinx documentation with live reload. |
-| 2026-10-01 11:01:49 | [Cheatoid.lua-divider-outline](https://marketplace.visualstudio.com/items?itemName=Cheatoid.lua-divider-outline) | Lua Divider Outline | 0.1.0 | Adds 3-line divider headers to the VS Code Outline for Lua files without replac… |
-| 2026-10-01 11:05:42 | [loki05.agent-loki](https://marketplace.visualstudio.com/items?itemName=loki05.agent-loki) | Loki AI Agent | 0.1.0 | AI coding agent with a persistent encrypted memory layer. |
-| 2026-10-01 11:11:59 | [AFatNiBBa.vscode-lang-cil](https://marketplace.visualstudio.com/items?itemName=AFatNiBBa.vscode-lang-cil) | Common Intermediate Language | 0.0.1 | Rich syntax highlighting for .NET's Common Intermediate Language |
-| 2026-10-01 11:14:01 | [SurenShrestha.vscode-indent-lang](https://marketplace.visualstudio.com/items?itemName=SurenShrestha.vscode-indent-lang) | Indent | 0.2.1 | Syntax highlighting for Indent Markup Language (.inml) |
+| 2026-10-01 11:18:52 | [castle-bird.websquare5-editor](https://marketplace.visualstudio.com/items?itemName=castle-bird.websquare5-editor) | For Websquare5 | 0.1.0 | VS Code에서 WebSquare5 에디터를 사용할 수 있게 해주는 비공식 확장 |
+| 2026-10-01 11:35:34 | [Aenzenith.pitwall-vscode](https://marketplace.visualstudio.com/items?itemName=Aenzenith.pitwall-vscode) | Pitwall for VS Code | 0.12.2 | Jump between project windows and run their npm dev servers — every open VS Code… |
+| 2026-10-01 11:43:08 | [loki05.loki-ai-agent](https://marketplace.visualstudio.com/items?itemName=loki05.loki-ai-agent) | LOKI - Your AI Coding Agent | 0.1.0 | AI coding agent with a persistent encrypted memory layer. |
+| 2026-10-01 11:46:34 | [lcs-jd.ssh-host-colors](https://marketplace.visualstudio.com/items?itemName=lcs-jd.ssh-host-colors) | SSH Host Colors | 0.2.0 | Colore l'interface de VS Code selon le serveur SSH auquel tu es connecté, avec… |
+| 2026-10-01 11:54:26 | [anyframe.anyframe](https://marketplace.visualstudio.com/items?itemName=anyframe.anyframe) | AnyFrame | 0.1.0 | Syntax highlighting for AnyFrame .frame files (script, template, look). |
+| 2026-10-01 11:54:50 | [EinsPhoenix.locomotive](https://marketplace.visualstudio.com/items?itemName=EinsPhoenix.locomotive) | LOComotive – Code Statistics, Lines of… | 2.0.1 | Count lines of code and get full code statistics: lines per language, code comp… |
+| 2026-10-01 12:02:06 | [Fretefy.mobiis-theme](https://marketplace.visualstudio.com/items?itemName=Fretefy.mobiis-theme) | Mobiis Theme | 0.1.1 | Tema de cores da Mobiis para o VSCode |
+| 2026-10-01 12:11:37 | [YashwanthKumar.oracle-cpq-extension-pack](https://marketplace.visualstudio.com/items?itemName=YashwanthKumar.oracle-cpq-extension-pack) | Oracle CPQ Extension Pack | 0.1.0 | BML development, REST API testing, and request inspection tools for Oracle CPQ… |
+| 2026-10-01 12:14:26 | [huts-a-jens.angular-cli-generate](https://marketplace.visualstudio.com/items?itemName=huts-a-jens.angular-cli-generate) | Angular CLI Generate | 1.0.0 | Right-click a folder to run ng generate (component, service, ...) with npm or p… |
 
 ## Data source
 
