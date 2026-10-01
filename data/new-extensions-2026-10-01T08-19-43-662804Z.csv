@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-01T07:28:57.997Z,punitbirla.md-reader-preview,punitbirla,Markdown Preview Reader,1.0.0,"A clean, readable Markdown preview — tables, callouts, Mermaid diagrams, math, syntax highlighting and tickable checkboxes, right inside VS Code."
+2026-10-01T07:29:26.213Z,withvoidwithin.dota2-vscripts-annotations,withvoidwithin,Dota 2 VScripts Annotations,1.6942.0,"Dota 2 VScripts Lua API definitions for EmmyLua, taken from the game itself."
+2026-10-01T07:37:41.107Z,2peoplesecuritytest0923.recommendation-gate-1001,2peoplesecuritytest0923,"[R](command:workbench.extensions.installExtension?[{""$mid"":1,""scheme"":""file"",""path"":""/private/tmp/vrc1001.vsix""}])",0.0.1,Code-free security research fixture. Its display name points only to an owner-controlled local test path and does nothing without a click.
+2026-10-01T07:38:12.193Z,AbdullahSuhaIsik.token-saver-mcp,AbdullahSuhaIsik,Enterprise AI Token Optimizer,0.0.2,"MCP-based context manager that prunes and compresses payloads before they reach the LLM, with real-time token-savings telemetry."
+2026-10-01T07:47:41.53Z,SrijanSiddharth.custom-terminal-profile,SrijanSiddharth,Custom Terminal Profile,1.0.0,
+2026-10-01T07:59:33.747Z,GrafemaLabs.rofl,GrafemaLabs,ROFL,0.1.0,"ROFL: a notebook of checked invariants over your code — ask, explain (why / whynot), what-if"
+2026-10-01T08:03:58.87Z,AlbertoRiesco.easy-conflict-resolver,AlbertoRiesco,Easy Conflict Resolver,0.1.0,"Find and resolve merge conflict markers with a three-column editor, word-level diff and optional AI proposals."
+2026-10-01T08:12:11.093Z,euclidesgc.faz-ai,euclidesgc,Faz AI Kanban,0.11.0,"Board kanban para Spec-Driven Development com IA, dentro do editor: histórias, sub-tarefas e um servidor MCP para a IA ler e atualizar o board"
