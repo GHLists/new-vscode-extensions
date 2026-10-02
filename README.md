@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 00:19 UTC
+## Latest list — 2026-10-02 01:19 UTC
 
-New extensions published between 2026-10-01 22:19 UTC and 2026-10-02 00:19 UTC.
+New extensions published between 2026-10-01 23:19 UTC and 2026-10-02 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T00-19-35-748453Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T01-19-51-207852Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 23:25:31 | [Psycho345.ols-profile-switcher](https://marketplace.visualstudio.com/items?itemName=Psycho345.ols-profile-switcher) | OLS Profile Switcher | 1.0.1 | Switch Odin Language Server profiles from the VS Code status bar. |
-| 2026-10-01 23:51:44 | [iokaio.vcp](https://marketplace.visualstudio.com/items?itemName=iokaio.vcp) | VCP Coding Agent | 0.2.2 | Vibe Code Pro — Plan, code, and review—with you in control. |
-| 2026-10-01 23:52:15 | [bascik.bascik-vscode](https://marketplace.visualstudio.com/items?itemName=bascik.bascik-vscode) | Bascik | 0.1.0 | Navigate Bascik components and catch scoping, server script, stream, and API ro… |
-| 2026-10-01 23:55:57 | [OmojiP.shaderlyn](https://marketplace.visualstudio.com/items?itemName=OmojiP.shaderlyn) | Shaderlyn | 0.1.0 | Unity の ShaderLab / HLSL を編集しながら解析する |
-| 2026-10-01 23:56:41 | [quantumsoftware.nm-quantum-language](https://marketplace.visualstudio.com/items?itemName=quantumsoftware.nm-quantum-language) | N/M Quantum Language | 0.2.0 | N/M quantum language tools: diagnostics, navigation, simulation tests and bilin… |
+| 2026-10-02 00:46:45 | [midnightdev.midnightdev](https://marketplace.visualstudio.com/items?itemName=midnightdev.midnightdev) | midnightdev | 0.0.2 | TriciaTheme midnightdev |
+| 2026-10-02 01:03:43 | [HastyCapybara.tasks-for-markdown](https://marketplace.visualstudio.com/items?itemName=HastyCapybara.tasks-for-markdown) | Tasks for Markdown | 1.0.0 | Obsidian Tasks-style task management for Markdown in VS Code and Cursor: querie… |
 
 ## Data source
 

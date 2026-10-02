@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T00:46:45.887Z,midnightdev.midnightdev,midnightdev,midnightdev,0.0.2,TriciaTheme midnightdev
+2026-10-02T01:03:43.093Z,HastyCapybara.tasks-for-markdown,HastyCapybara,Tasks for Markdown,1.0.0,"Obsidian Tasks-style task management for Markdown in VS Code and Cursor: queries, rendered view, kanban, calendar, recurrence and notes. Inspired by and compatible with the Obsidian Tasks plugin."
