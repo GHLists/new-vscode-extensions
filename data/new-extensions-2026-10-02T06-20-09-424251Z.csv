@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T05:17:59.48Z,HariVenuV.aicontextflow,HariVenuV,AIContextFlow,1.0.0,"Unified management and validation tool for project AI context files (.context/, AGENTS.md, CLAUDE.md, Copilot)."
+2026-10-02T05:21:08.447Z,msrchb158a8e0dc9.hook-2b3bcd3e,msrchb158a8e0dc9,Owned Local Uninstall Hook Fixture,1.0.0,Inert local UI fixture with a hard-guarded uninstall marker hook.
+2026-10-02T05:24:35.99Z,msrcrbcb70757dc2.remote-62a01143,msrcrbcb70757dc2,Owned Remote Bridge Fixture,3.0.0,"Inert code-free remote fixture, benign version 3 with no dependencies or extension pack."
+2026-10-02T05:55:27.577Z,AmanNasir.safe-console-log-remover,AmanNasir,Safe Console.log Remover,0.0.1,"Right-click a folder to remove every console.log call inside it, safely, using a real parser."
+2026-10-02T05:55:58.29Z,maghorbani.git-pointers-diff,maghorbani,Git Pointers Diff,0.0.4,Compare any two Git points and open a labeled side-by-side diff
+2026-10-02T06:02:14.683Z,AakashRajbanshi.code-pro,AakashRajbanshi,Code Pro,1.0.0,"Professional API token manager for AI providers (OpenAI, Anthropic, Google, Groq, Ollama, OpenRouter, custom). Secure storage, multi-provider support, model switching."
+2026-10-02T06:10:51.56Z,KUNU.diff-studio-pro,KUNU,Diff Studio Pro,1.0.0,"Built for coding agents: review project diffs, edit side by side, discuss changes with line comments, and share portable review sessions."
+2026-10-02T06:12:20.963Z,ritaj.ensemble-cli,ritaj,Ensemble Workspace,0.36.0,"Ensemble workspace support, powered by the ens CLI."
