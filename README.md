@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-01 23:20 UTC
+## Latest list — 2026-10-02 00:19 UTC
 
-New extensions published between 2026-10-01 21:20 UTC and 2026-10-01 23:20 UTC.
+New extensions published between 2026-10-01 22:19 UTC and 2026-10-02 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-01T23-20-26-996525Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T00-19-35-748453Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-01 22:14:14 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-12](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-12) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 12/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-01 22:19:31 | [Matdata.matdata-sparql-formatter](https://marketplace.visualstudio.com/items?itemName=Matdata.matdata-sparql-formatter) | Matdata's SPARQL Formatter | 1.0.0 | SPARQL 1.2 query and update formatter that keeps your comments where you put th… |
-| 2026-10-01 22:37:23 | [Sysprogs.visualgdb-vscode](https://marketplace.visualstudio.com/items?itemName=Sysprogs.visualgdb-vscode) | VisualGDB for VS Code | 0.1.0 | Launches Stand-Alone VisualGDB GUI for VS Code Projects |
-| 2026-10-01 23:10:35 | [srijan.custom-terminal-profile-manager](https://marketplace.visualstudio.com/items?itemName=srijan.custom-terminal-profile-manager) | Custom Terminal Profile Manager | 1.0.0 |  |
+| 2026-10-01 23:25:31 | [Psycho345.ols-profile-switcher](https://marketplace.visualstudio.com/items?itemName=Psycho345.ols-profile-switcher) | OLS Profile Switcher | 1.0.1 | Switch Odin Language Server profiles from the VS Code status bar. |
+| 2026-10-01 23:51:44 | [iokaio.vcp](https://marketplace.visualstudio.com/items?itemName=iokaio.vcp) | VCP Coding Agent | 0.2.2 | Vibe Code Pro — Plan, code, and review—with you in control. |
+| 2026-10-01 23:52:15 | [bascik.bascik-vscode](https://marketplace.visualstudio.com/items?itemName=bascik.bascik-vscode) | Bascik | 0.1.0 | Navigate Bascik components and catch scoping, server script, stream, and API ro… |
+| 2026-10-01 23:55:57 | [OmojiP.shaderlyn](https://marketplace.visualstudio.com/items?itemName=OmojiP.shaderlyn) | Shaderlyn | 0.1.0 | Unity の ShaderLab / HLSL を編集しながら解析する |
+| 2026-10-01 23:56:41 | [quantumsoftware.nm-quantum-language](https://marketplace.visualstudio.com/items?itemName=quantumsoftware.nm-quantum-language) | N/M Quantum Language | 0.2.0 | N/M quantum language tools: diagnostics, navigation, simulation tests and bilin… |
 
 ## Data source
 
