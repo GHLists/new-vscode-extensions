@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 19:20 UTC
+## Latest list — 2026-10-02 20:19 UTC
 
-New extensions published between 2026-10-02 17:20 UTC and 2026-10-02 19:20 UTC.
+New extensions published between 2026-10-02 18:19 UTC and 2026-10-02 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T19-20-14-762804Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T20-19-31-241714Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 18:47:48 | [Made-By-Rohit.starveil](https://marketplace.visualstudio.com/items?itemName=Made-By-Rohit.starveil) | Starveil | 0.0.1 | A modern, space-inspired VS Code theme designed for a clean, immersive, and com… |
-| 2026-10-02 18:53:04 | [AmazonWebServices.aws-iac-vscode](https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.aws-iac-vscode) | AWS CloudFormation | 1.0.0 | AWS CloudFormation language support: validation, completion, hover documentatio… |
-| 2026-10-02 18:53:13 | [leetcode-md.minimal-leetcode-md](https://marketplace.visualstudio.com/items?itemName=leetcode-md.minimal-leetcode-md) | Minimal LeetCode.md | 1.7.5 | Browse LeetCode problems, view daily challenges, and look up user profiles dire… |
-| 2026-10-02 18:57:24 | [gitwithmasum.masum-galaxy-file-icons](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-file-icons) | Masum Galaxy // File Icons | 1.3.2 | A futuristic galaxy-inspired VS Code file icon theme for web, full-stack, AI/ML… |
-| 2026-10-02 19:08:43 | [code-health-score.code-health-score](https://marketplace.visualstudio.com/items?itemName=code-health-score.code-health-score) | Project Health — Code Health Score | 1.0.7 | Production-grade, 100% offline Software Project Health Platform for VS Code |
-| 2026-10-02 19:15:00 | [wjf-developer.madecoders](https://marketplace.visualstudio.com/items?itemName=wjf-developer.madecoders) | MadeCoders | 1.0.0 | Turns your own commits into professional evidence on MadeCoders: a side bar pan… |
+| 2026-10-02 19:15:15 | [purestack.purestack-component-navigation](https://marketplace.visualstudio.com/items?itemName=purestack.purestack-component-navigation) | PureStack Component Tools | 1.1.0 | Component navigation, prop IntelliSense, lit-html syntax highlighting, and temp… |
+| 2026-10-02 19:18:44 | [villev.estorm](https://marketplace.visualstudio.com/items?itemName=villev.estorm) | estorm | 0.1.1 | Event Storming boards as plain text: syntax highlighting, errors as you type an… |
+| 2026-10-02 19:29:15 | [aisw.aisw-vscode](https://marketplace.visualstudio.com/items?itemName=aisw.aisw-vscode) | AI Switcher for Coding Agents | 0.1.0 | Switch Claude Code, Codex CLI, Gemini CLI, and Antigravity accounts for work, p… |
+| 2026-10-02 19:40:29 | [yoonie-studio.froggit](https://marketplace.visualstudio.com/items?itemName=yoonie-studio.froggit) | Froggit | 0.1.0 | Froggit: a cozy pixel-art frog that lives in your editor and eats your bugs as… |
+| 2026-10-02 19:48:23 | [glevski.wt](https://marketplace.visualstudio.com/items?itemName=glevski.wt) | wt - git worktrees | 0.1.1 | Switch, create, fork and remove git worktrees from the sidebar, powered by the… |
+| 2026-10-02 19:55:43 | [Frost-rA9.everforest-remastered](https://marketplace.visualstudio.com/items?itemName=Frost-rA9.everforest-remastered) | Everforest Remastered | 1.0.0 | Six static Everforest themes (Dark/Light × Hard/Medium/Soft) built from the off… |
 
 ## Data source
 
