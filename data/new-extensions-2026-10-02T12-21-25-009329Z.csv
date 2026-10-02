@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T11:35:56.257Z,len5ky.sessiondeck,len5ky,SessionDeck,0.42.2,"One panel for every Claude Code, Codex and Cursor session on this host: grouped by project, live status, subagent activity, unread and approval alerts, click-to-navigate."
+2026-10-02T11:35:57.827Z,len5ky.sessiondeck-bridge,len5ky,SessionDeck Bridge,0.42.2,"Invisible companion that aggregates SessionDeck host snapshots on the local desktop so one panel can show every open host. No UI, no network, no configuration."
+2026-10-02T11:40:18.813Z,CauseEffect.causeeffect-gtsx,CauseEffect,GTSX,0.0.3,Generator-preserving TypeScript JSX language support for .gtsx files
+2026-10-02T11:42:45.987Z,thinQitAI.thinqit-cody,thinQitAI,thinQit Cody,0.4.3,"Your thinQit coding teammate in VS Code. Ask, let it make the change on a thinQit machine, and review every file in your editor."
+2026-10-02T11:49:16.467Z,EpicDataNV.epicdata-md2pdf,EpicDataNV,md2pdf by EpicData,1.0.0,"Export Markdown (including raw HTML) to PDF or self-contained HTML, with Mermaid diagrams, local images and syntax highlighting."
+2026-10-02T11:54:16.273Z,redi-cool-themes.anna-karenina-theme,redi-cool-themes,Anna Karenina Theme,0.0.2,A theme based on Anna Karenina character
+2026-10-02T11:54:18.467Z,samarin-aa-aka-rtm00.makefile-target-launcher,samarin-aa-aka-rtm00,Makefile Target Launcher,0.1.0,"Run Makefile targets and workspace commands from a configurable list via the Command Palette, CodeLens and status bar."
+2026-10-02T12:13:24.56Z,chonjh.codex-tabs,chonjh,Codex Tabs,0.1.0,"Independent tabs for Codex, with optional experimental per-tab progress and completion indicators."

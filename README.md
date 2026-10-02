@@ -12,18 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 11:19 UTC
+## Latest list — 2026-10-02 12:21 UTC
 
-New extensions published between 2026-10-02 09:19 UTC and 2026-10-02 11:19 UTC.
+New extensions published between 2026-10-02 10:21 UTC and 2026-10-02 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T11-19-10-395896Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T12-21-25-009329Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 10:20:45 | [FLEXUS.branch-storyline-vscode](https://marketplace.visualstudio.com/items?itemName=FLEXUS.branch-storyline-vscode) | Branch Storyline | 0.9.2 | Горизонтальний граф гілок git у стилі Plastic SCM |
-| 2026-10-02 10:30:56 | [csantosm.agent-watch-status](https://marketplace.visualstudio.com/items?itemName=csantosm.agent-watch-status) | Agent Watch | 0.1.0 | Watch your coding agents from the status bar: one dot per session (working, wai… |
-| 2026-10-02 10:32:52 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-19](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-19) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 19/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 10:58:35 | [GodfreyLebo.sether](https://marketplace.visualstudio.com/items?itemName=GodfreyLebo.sether) | Sether: PII & Secrets Guard | 0.1.0 | Detect and replace supported personal data and secret patterns in your editor.… |
+| 2026-10-02 11:35:56 | [len5ky.sessiondeck](https://marketplace.visualstudio.com/items?itemName=len5ky.sessiondeck) | SessionDeck | 0.42.2 | One panel for every Claude Code, Codex and Cursor session on this host: grouped… |
+| 2026-10-02 11:35:57 | [len5ky.sessiondeck-bridge](https://marketplace.visualstudio.com/items?itemName=len5ky.sessiondeck-bridge) | SessionDeck Bridge | 0.42.2 | Invisible companion that aggregates SessionDeck host snapshots on the local des… |
+| 2026-10-02 11:40:18 | [CauseEffect.causeeffect-gtsx](https://marketplace.visualstudio.com/items?itemName=CauseEffect.causeeffect-gtsx) | GTSX | 0.0.3 | Generator-preserving TypeScript JSX language support for .gtsx files |
+| 2026-10-02 11:42:45 | [thinQitAI.thinqit-cody](https://marketplace.visualstudio.com/items?itemName=thinQitAI.thinqit-cody) | thinQit Cody | 0.4.3 | Your thinQit coding teammate in VS Code. Ask, let it make the change on a thinQ… |
+| 2026-10-02 11:49:16 | [EpicDataNV.epicdata-md2pdf](https://marketplace.visualstudio.com/items?itemName=EpicDataNV.epicdata-md2pdf) | md2pdf by EpicData | 1.0.0 | Export Markdown (including raw HTML) to PDF or self-contained HTML, with Mermai… |
+| 2026-10-02 11:54:16 | [redi-cool-themes.anna-karenina-theme](https://marketplace.visualstudio.com/items?itemName=redi-cool-themes.anna-karenina-theme) | Anna Karenina Theme | 0.0.2 | A theme based on Anna Karenina character |
+| 2026-10-02 11:54:18 | [samarin-aa-aka-rtm00.makefile-target-launcher](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.makefile-target-launcher) | Makefile Target Launcher | 0.1.0 | Run Makefile targets and workspace commands from a configurable list via the Co… |
+| 2026-10-02 12:13:24 | [chonjh.codex-tabs](https://marketplace.visualstudio.com/items?itemName=chonjh.codex-tabs) | Codex Tabs | 0.1.0 | Independent tabs for Codex, with optional experimental per-tab progress and com… |
 
 ## Data source
 
