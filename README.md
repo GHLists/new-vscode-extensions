@@ -12,22 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 02:20 UTC
+## Latest list — 2026-10-02 03:20 UTC
 
-New extensions published between 2026-10-02 00:20 UTC and 2026-10-02 02:20 UTC.
+New extensions published between 2026-10-02 01:20 UTC and 2026-10-02 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T02-20-09-256533Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T03-20-03-595577Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 01:15:42 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-13](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-13) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 13/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:16:41 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-14](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-14) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 14/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:17:26 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-15](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-15) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 15/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:18:11 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-16](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-16) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 16/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:18:53 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-17](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-17) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 17/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:19:49 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-18](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-18) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 18/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 01:21:20 | [cubehosting.cube-hosting-vscode](https://marketplace.visualstudio.com/items?itemName=cubehosting.cube-hosting-vscode) | Cube Hosting | 0.1.0 | Seus projetos da Cube Hosting no editor: status, iniciar, parar e reiniciar, lo… |
-| 2026-10-02 01:26:00 | [jefuriiij.synthra-vscode](https://marketplace.visualstudio.com/items?itemName=jefuriiij.synthra-vscode) | Synthra | 0.33.1 | A memory and a skill book for Claude Code: it remembers your project, learns yo… |
+| 2026-10-02 02:18:10 | [betbetter.betbetter-predicted-scores](https://marketplace.visualstudio.com/items?itemName=betbetter.betbetter-predicted-scores) | Bet Better Predicted Scores | 1.0.1 | Projected final scores for upcoming games in 11 sports from the free Bet Better… |
+| 2026-10-02 02:31:26 | [etairi.vscode-idris2](https://marketplace.visualstudio.com/items?itemName=etairi.vscode-idris2) | Idris 2 | 0.1.0 | Idris 2 language support: the compiler's errors and warnings, types and documen… |
+| 2026-10-02 03:11:43 | [Balavamp.kuyil](https://marketplace.visualstudio.com/items?itemName=Balavamp.kuyil) | Kuyil – LWC Relationships for Salesforc… | 0.1.0 | See which child components each Lightning Web Component uses, which @api proper… |
 
 ## Data source
 

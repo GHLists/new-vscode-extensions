@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T02:18:10.1Z,betbetter.betbetter-predicted-scores,betbetter,Bet Better Predicted Scores,1.0.1,Projected final scores for upcoming games in 11 sports from the free Bet Better sports model API. No key. Data CC BY 4.0.
+2026-10-02T02:31:26.007Z,etairi.vscode-idris2,etairi,Idris 2,0.1.0,"Idris 2 language support: the compiler's errors and warnings, types and documentation on hover, go to definition, completion, semantic highlighting, inlay hints, evaluation of expressions, interactive editing with holes (case split, proof search, generate definition and more) and a list of holes, sy"
+2026-10-02T03:11:43.497Z,Balavamp.kuyil,Balavamp,Kuyil – LWC Relationships for Salesforce (Beta),0.1.0,"See which child components each Lightning Web Component uses, which @api properties it sets, and Ctrl+click straight to them."
