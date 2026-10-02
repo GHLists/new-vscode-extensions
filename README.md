@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 10:19 UTC
+## Latest list — 2026-10-02 11:19 UTC
 
-New extensions published between 2026-10-02 08:19 UTC and 2026-10-02 10:19 UTC.
+New extensions published between 2026-10-02 09:19 UTC and 2026-10-02 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T10-19-39-580642Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T11-19-10-395896Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 09:21:29 | [bwgdesignsystem.bxui-design](https://marketplace.visualstudio.com/items?itemName=bwgdesignsystem.bxui-design) | BX-UI Design | 1.0.0 | 와이어프레임을 보면서 요소를 찍고, 고치고, AI 에게 요청한다 (P3 - 편집) |
-| 2026-10-02 09:28:59 | [hseen.hus-language](https://marketplace.visualstudio.com/items?itemName=hseen.hus-language) | Hus Language | 1.1.5 | Hus Language support for Visual Studio Code |
-| 2026-10-02 10:00:20 | [paper-reader.academic-pdf-reader](https://marketplace.visualstudio.com/items?itemName=paper-reader.academic-pdf-reader) | Bilingual Paper Reader | 0.4.2 | 给学术论文用的 PDF 阅读插件：左右对照翻译、划词即译、划线高亮与便签批注、笔记导出（Bilingual reading for academic pape… |
+| 2026-10-02 10:20:45 | [FLEXUS.branch-storyline-vscode](https://marketplace.visualstudio.com/items?itemName=FLEXUS.branch-storyline-vscode) | Branch Storyline | 0.9.2 | Горизонтальний граф гілок git у стилі Plastic SCM |
+| 2026-10-02 10:30:56 | [csantosm.agent-watch-status](https://marketplace.visualstudio.com/items?itemName=csantosm.agent-watch-status) | Agent Watch | 0.1.0 | Watch your coding agents from the status bar: one dot per session (working, wai… |
+| 2026-10-02 10:32:52 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-19](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-19) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 19/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 10:58:35 | [GodfreyLebo.sether](https://marketplace.visualstudio.com/items?itemName=GodfreyLebo.sether) | Sether: PII & Secrets Guard | 0.1.0 | Detect and replace supported personal data and secret patterns in your editor.… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T10:20:45.443Z,FLEXUS.branch-storyline-vscode,FLEXUS,Branch Storyline,0.9.2,Горизонтальний граф гілок git у стилі Plastic SCM
+2026-10-02T10:30:56.48Z,csantosm.agent-watch-status,csantosm,Agent Watch,0.1.0,"Watch your coding agents from the status bar: one dot per session (working, waiting or idle), what each is doing, the files it changed, and a sound when it needs you. Supports Claude Code."
+2026-10-02T10:32:52.8Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-19,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 19/42),0.1.0,"Fragment 19/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-02T10:58:35.703Z,GodfreyLebo.sether,GodfreyLebo,Sether: PII & Secrets Guard,0.1.0,"Detect and replace supported personal data and secret patterns in your editor. Local processing, session-scoped restoration, and no telemetry."
