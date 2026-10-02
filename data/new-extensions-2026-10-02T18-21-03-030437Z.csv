@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T17:26:17.52Z,rairfs.jolt-jslt-extension,rairfs,jolt-jslt-extension,1.5.1,JOLT and JSLT for VS Code
+2026-10-02T17:29:35.19Z,v4rm4n.roc-community,v4rm4n,Roc Community,0.0.5,"Unofficial, community-maintained VS Code support for the Roc programming language, including support for Roc compiler nightlies."
+2026-10-02T17:57:37.977Z,5001.ftp-php-test-deploy,5001,FTP-PHP Test Deploy,2.0.1,Deploys build files to any FTP/SFTP server for testing. Fully compatible with Visual Studio Code and Google Antigravity IDE.
+2026-10-02T18:06:01.773Z,dilojbusiness.gridlens,dilojbusiness,GridLens - CSV Editor & XLSX Viewer,0.1.0,Local CSV/TSV grid editing and read-only XLSX sheet browsing. No telemetry or file uploads.
+2026-10-02T18:09:13.733Z,rykantas.intellicommit,rykantas,IntelliCommit,1.0.0,Generate Git commit messages. Uses the Claude Code CLI or LLMs available in VS Code.
+2026-10-02T18:14:19.887Z,graphify-labs.graphify-mcp,graphify-labs,Graphify MCP,0.1.0,Connect VS Code agents to Graphify’s hosted code knowledge graph with OAuth.

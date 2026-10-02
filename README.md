@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 17:19 UTC
+## Latest list — 2026-10-02 18:21 UTC
 
-New extensions published between 2026-10-02 15:19 UTC and 2026-10-02 17:19 UTC.
+New extensions published between 2026-10-02 16:21 UTC and 2026-10-02 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T17-19-59-176478Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T18-21-03-030437Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 16:21:20 | [aydin-fatoglu.claude-tts-local](https://marketplace.visualstudio.com/items?itemName=aydin-fatoglu.claude-tts-local) | Claude TTS Local | 0.1.2 | Local Windows SAPI text-to-speech controls for Claude Code Stop hook output. |
-| 2026-10-02 16:25:10 | [cuihuaxia.notebook-headings](https://marketplace.visualstudio.com/items?itemName=cuihuaxia.notebook-headings) | Notebook Headings | 1.0.1 | A heading outline for Jupyter notebooks and Markdown files that opens expanded… |
-| 2026-10-02 16:27:15 | [ChathurangaJayasinghe.velo-terminal](https://marketplace.visualstudio.com/items?itemName=ChathurangaJayasinghe.velo-terminal) | Velo Terminal | 0.3.0 | The Velo terminal — blocks, autosuggestions and AI help — in VS Code's panel. |
-| 2026-10-02 16:31:26 | [PbsandtDev.swat-investigator](https://marketplace.visualstudio.com/items?itemName=PbsandtDev.swat-investigator) | SWAT+ Investigator | 0.1.0 | Recorded, evidence-gated SWAT+ investigations for VS Code agent mode: one MCP s… |
-| 2026-10-02 16:44:07 | [nifty.nifty-problems](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-problems) | Nifty Problems: Project-Wide TypeScript… | 0.1.0 | See TypeScript and ESLint errors for your whole project in the Problems panel,… |
-| 2026-10-02 16:44:18 | [nifty.nifty-errors](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-errors) | Nifty Pretty Errors: Readable Error Mes… | 0.1.0 | Readable error messages for every language: TypeScript types formatted as code,… |
-| 2026-10-02 16:44:25 | [nifty.nifty-explorer-plus](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-explorer-plus) | Nifty Explorer+: File Sizes, Dates & Pi… | 0.1.0 | A second Explorer with file sizes and dates, sorting by date or size, filters,… |
-| 2026-10-02 16:47:31 | [ad070809.micromamba-environments](https://marketplace.visualstudio.com/items?itemName=ad070809.micromamba-environments) | Micromamba Environments | 1.0.0 | Manage micromamba environments and packages, select Python interpreters, and ac… |
-| 2026-10-02 16:49:36 | [mm-lab.3mf-gcode-preview](https://marketplace.visualstudio.com/items?itemName=mm-lab.3mf-gcode-preview) | 3MF G-code Preview | 0.2.0 | Read-only 3MF viewer with interactive 3D layer and toolpath review. |
+| 2026-10-02 17:26:17 | [rairfs.jolt-jslt-extension](https://marketplace.visualstudio.com/items?itemName=rairfs.jolt-jslt-extension) | jolt-jslt-extension | 1.5.1 | JOLT and JSLT for VS Code |
+| 2026-10-02 17:29:35 | [v4rm4n.roc-community](https://marketplace.visualstudio.com/items?itemName=v4rm4n.roc-community) | Roc Community | 0.0.5 | Unofficial, community-maintained VS Code support for the Roc programming langua… |
+| 2026-10-02 17:57:37 | [5001.ftp-php-test-deploy](https://marketplace.visualstudio.com/items?itemName=5001.ftp-php-test-deploy) | FTP-PHP Test Deploy | 2.0.1 | Deploys build files to any FTP/SFTP server for testing. Fully compatible with V… |
+| 2026-10-02 18:06:01 | [dilojbusiness.gridlens](https://marketplace.visualstudio.com/items?itemName=dilojbusiness.gridlens) | GridLens - CSV Editor & XLSX Viewer | 0.1.0 | Local CSV/TSV grid editing and read-only XLSX sheet browsing. No telemetry or f… |
+| 2026-10-02 18:09:13 | [rykantas.intellicommit](https://marketplace.visualstudio.com/items?itemName=rykantas.intellicommit) | IntelliCommit | 1.0.0 | Generate Git commit messages. Uses the Claude Code CLI or LLMs available in VS… |
+| 2026-10-02 18:14:19 | [graphify-labs.graphify-mcp](https://marketplace.visualstudio.com/items?itemName=graphify-labs.graphify-mcp) | Graphify MCP | 0.1.0 | Connect VS Code agents to Graphify’s hosted code knowledge graph with OAuth. |
 
 ## Data source
 
