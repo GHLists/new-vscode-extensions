@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T06:21:42.413Z,sangyu-phellinus.lumen-drift-theme,sangyu-phellinus,Lumen Drift,1.0.0,"A vivid VS Code theme family with dark and light variants, neon accents, and a subtle active-line glow."
+2026-10-02T06:38:10.82Z,xndrjs.ziel-vscode,xndrjs,Ziel,0.0.2,Syntax highlighting and diagnostics for Ziel (.ziel) files.
+2026-10-02T06:56:29.7Z,Indrasol.churnmap,Indrasol,Churnmap: Code Hotspots City,1.0.0,"Find the riskiest files in your codebase: code hotspots and technical debt from git history, as a 3D city. AI-ready. Zero telemetry. by Indrasol Labs"
