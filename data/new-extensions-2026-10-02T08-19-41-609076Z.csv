@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T07:18:07.463Z,LIghtJUNction.lmm-copilot-provider,LIghtJUNction,LMM for Copilot,0.1.0,Use LMM models in VS Code Chat with secure browser OAuth sign-in.
+2026-10-02T07:21:46.62Z,QINIT.qpi-vscode,QINIT,Qubic QPI,0.1.19,Code completion and QPI diagnostics for Qubic contracts.
+2026-10-02T07:25:51.653Z,4d696e6b.luxios,4d696e6b,Luxios,0.1.6,"A refined dark VS Code theme with navy surfaces, champagne-gold accents, and clear everyday syntax."
+2026-10-02T07:39:22.357Z,yosukei3108.hdbviewer,yosukei3108,Tokyo Cabinet HDB Viewer,0.0.2,Display the contents of a Tokyo Cabinet Hash DB file as a table
+2026-10-02T07:45:01.833Z,xnervwang.claude-code-extras,xnervwang,Extras for Claude Code,1.0.0,"Work plan: a tree of what the conversation still has to do, kept current by Claude itself; also adds timestamps, reply figures, navigation, context details, and chimes to the Claude Code chat panel. Patches the installed Claude Code extension's files. Not affiliated with Anthropic."
+2026-10-02T08:10:57.63Z,ludikrizz1.delphi-color-theme,ludikrizz1,Delφ Color Theme,0.1.0,"Indigo blue dark and light themes for VS Code, from the delφ brand palette."
