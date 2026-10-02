@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T16:21:20.78Z,aydin-fatoglu.claude-tts-local,aydin-fatoglu,Claude TTS Local,0.1.2,Local Windows SAPI text-to-speech controls for Claude Code Stop hook output.
+2026-10-02T16:25:10.023Z,cuihuaxia.notebook-headings,cuihuaxia,Notebook Headings,1.0.1,A heading outline for Jupyter notebooks and Markdown files that opens expanded only to a chosen level.
+2026-10-02T16:27:15.087Z,ChathurangaJayasinghe.velo-terminal,ChathurangaJayasinghe,Velo Terminal,0.3.0,"The Velo terminal — blocks, autosuggestions and AI help — in VS Code's panel."
+2026-10-02T16:31:26.2Z,PbsandtDev.swat-investigator,PbsandtDev,SWAT+ Investigator,0.1.0,"Recorded, evidence-gated SWAT+ investigations for VS Code agent mode: one MCP server your assistant drives, with deterministic checkpoints, claim ceilings and replayable reports."
+2026-10-02T16:44:07.14Z,nifty.nifty-problems,nifty,Nifty Problems: Project-Wide TypeScript Errors,0.1.0,"See TypeScript and ESLint errors for your whole project in the Problems panel, not just open files."
+2026-10-02T16:44:18.957Z,nifty.nifty-errors,nifty,Nifty Pretty Errors: Readable Error Messages,0.1.0,"Readable error messages for every language: TypeScript types formatted as code, long C++ and Rust types folded, and a docs link for every error code, in the hover and a side panel."
+2026-10-02T16:44:25.637Z,nifty.nifty-explorer-plus,nifty,"Nifty Explorer+: File Sizes, Dates & Pinned Files",0.1.0,"A second Explorer with file sizes and dates, sorting by date or size, filters, folder focus, recently changed files, and pinned files and folders from anywhere."
+2026-10-02T16:47:31.12Z,ad070809.micromamba-environments,ad070809,Micromamba Environments,1.0.0,"Manage micromamba environments and packages, select Python interpreters, and activate terminals."
+2026-10-02T16:49:36.847Z,mm-lab.3mf-gcode-preview,mm-lab,3MF G-code Preview,0.2.0,Read-only 3MF viewer with interactive 3D layer and toolpath review.

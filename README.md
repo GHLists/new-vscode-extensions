@@ -12,26 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 16:20 UTC
+## Latest list — 2026-10-02 17:19 UTC
 
-New extensions published between 2026-10-02 14:20 UTC and 2026-10-02 16:20 UTC.
+New extensions published between 2026-10-02 15:19 UTC and 2026-10-02 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T16-20-53-654856Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T17-19-59-176478Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 15:22:42 | [spandanhldr.easycoderunner](https://marketplace.visualstudio.com/items?itemName=spandanhldr.easycoderunner) | Easy Code Runner — External Terminal | 0.4.2 | Compile and run source files in your preferred external terminal on Windows, Li… |
-| 2026-10-02 15:30:25 | [sohang3112.pdf-fork](https://marketplace.visualstudio.com/items?itemName=sohang3112.pdf-fork) | vscode-pdf-fork | 1.2.2 | Display pdf file in VSCode. Fork of tomoki1207/vscode-pdfviewer . |
-| 2026-10-02 15:34:38 | [toon-format.toon](https://marketplace.visualstudio.com/items?itemName=toon-format.toon) | Token-Oriented Object Notation (TOON) S… | 0.1.0 | Syntax highlighting for TOON (Token-Oriented Object Notation) |
-| 2026-10-02 15:44:09 | [zhouzan.omniview](https://marketplace.visualstudio.com/items?itemName=zhouzan.omniview) | OmniView | 1.2.39 | OmniView 多格式文件渲染与预览插件 |
-| 2026-10-02 15:51:22 | [ReadyStack.openpdf-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.openpdf-migration-check) | OpenPDF Migration Check: iText AGPL Gate | 1.0.1 | Finds every iText (AGPLv3) dependency in pom.xml and build.gradle with file and… |
-| 2026-10-02 15:51:39 | [ReadyStack.podman-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.podman-migration-check) | Podman Migration Check — Docker Desktop… | 1.0.2 | Podman migration check: flags Docker Desktop-only lines (docker.sock, host.dock… |
-| 2026-10-02 15:52:07 | [ReadyStack.powersync-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.powersync-migration-check) | PowerSync Migration Check: Realm Sync &… | 1.0.2 | Finds MongoDB Atlas Device Sync (Realm Sync), Atlas Data API and HTTPS Endpoint… |
-| 2026-10-02 15:52:27 | [ReadyStack.pypdf-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.pypdf-migration-check) | pypdf Migration Check - PyMuPDF AGPL Li… | 1.0.1 | Finds every PyMuPDF / fitz import, call and requirement line (AGPL-3.0 or paid… |
-| 2026-10-02 15:58:41 | [sguisse.sgu-workspace-switcher](https://marketplace.visualstudio.com/items?itemName=sguisse.sgu-workspace-switcher) | Switch between workspaces with a single… | 1.0.0 | Switches between opened and recent VS Code workspaces in the Explorer |
-| 2026-10-02 15:59:27 | [swayamprabhu2005.identity-generator](https://marketplace.visualstudio.com/items?itemName=swayamprabhu2005.identity-generator) | Identity Generator | 0.1.0 | Developer utility for generating unique synthetic mock identities directly from… |
-| 2026-10-02 16:08:17 | [p3rception.quick-font-size](https://marketplace.visualstudio.com/items?itemName=p3rception.quick-font-size) | Quick Font Size | 0.9.0 | Cmd/Ctrl +/- changes the font size of the focused area (editor, chat, terminal,… |
-| 2026-10-02 16:14:23 | [natinaelsamuel.memo-living-memory](https://marketplace.visualstudio.com/items?itemName=natinaelsamuel.memo-living-memory) | Memo — Living Memory for AI-Assisted De… | 0.1.0 | Persistent memory, governance rules, and a visual dashboard that keeps your AI… |
+| 2026-10-02 16:21:20 | [aydin-fatoglu.claude-tts-local](https://marketplace.visualstudio.com/items?itemName=aydin-fatoglu.claude-tts-local) | Claude TTS Local | 0.1.2 | Local Windows SAPI text-to-speech controls for Claude Code Stop hook output. |
+| 2026-10-02 16:25:10 | [cuihuaxia.notebook-headings](https://marketplace.visualstudio.com/items?itemName=cuihuaxia.notebook-headings) | Notebook Headings | 1.0.1 | A heading outline for Jupyter notebooks and Markdown files that opens expanded… |
+| 2026-10-02 16:27:15 | [ChathurangaJayasinghe.velo-terminal](https://marketplace.visualstudio.com/items?itemName=ChathurangaJayasinghe.velo-terminal) | Velo Terminal | 0.3.0 | The Velo terminal — blocks, autosuggestions and AI help — in VS Code's panel. |
+| 2026-10-02 16:31:26 | [PbsandtDev.swat-investigator](https://marketplace.visualstudio.com/items?itemName=PbsandtDev.swat-investigator) | SWAT+ Investigator | 0.1.0 | Recorded, evidence-gated SWAT+ investigations for VS Code agent mode: one MCP s… |
+| 2026-10-02 16:44:07 | [nifty.nifty-problems](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-problems) | Nifty Problems: Project-Wide TypeScript… | 0.1.0 | See TypeScript and ESLint errors for your whole project in the Problems panel,… |
+| 2026-10-02 16:44:18 | [nifty.nifty-errors](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-errors) | Nifty Pretty Errors: Readable Error Mes… | 0.1.0 | Readable error messages for every language: TypeScript types formatted as code,… |
+| 2026-10-02 16:44:25 | [nifty.nifty-explorer-plus](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-explorer-plus) | Nifty Explorer+: File Sizes, Dates & Pi… | 0.1.0 | A second Explorer with file sizes and dates, sorting by date or size, filters,… |
+| 2026-10-02 16:47:31 | [ad070809.micromamba-environments](https://marketplace.visualstudio.com/items?itemName=ad070809.micromamba-environments) | Micromamba Environments | 1.0.0 | Manage micromamba environments and packages, select Python interpreters, and ac… |
+| 2026-10-02 16:49:36 | [mm-lab.3mf-gcode-preview](https://marketplace.visualstudio.com/items?itemName=mm-lab.3mf-gcode-preview) | 3MF G-code Preview | 0.2.0 | Read-only 3MF viewer with interactive 3D layer and toolpath review. |
 
 ## Data source
 
