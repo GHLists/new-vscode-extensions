@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T22:35:04.383Z,PigonAI.echomemory,PigonAI,EchoMemory™: remember with your AI partner,0.0.1,"Coming soon. Milo's memory: what your team decided, as readable markdown on your own machine, shared by your AI coding partners. This listing holds the name for the EchoTools suite; the first release"
+2026-10-02T22:35:20.367Z,PigonAI.echosense,PigonAI,EchoSense™,0.0.1,"Coming soon. The next EchoTools organ for Milo, by PiGON AI. This listing holds the name for the EchoTools suite; the first release will replace it."
+2026-10-02T22:35:32.823Z,PigonAI.echoloop,PigonAI,EchoLoop™,0.0.1,"Coming soon. The next EchoTools organ for Milo, by PiGON AI. This listing holds the name for the EchoTools suite; the first release will replace it."
+2026-10-02T22:42:03.753Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-26,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 26/42),0.1.0,"Fragment 26/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-02T22:50:18.28Z,GuoZheng.pi-fellow,GuoZheng,Pi Fellow — omp & pi Agent with Voice Pair Programmer,0.1.0,"Unofficial VS Code GUI for the omp (Oh My Pi) and pi coding agents, plus a voice AI pair-programming partner that talks with you, points at code, edits and debugs alongside you, or hands work to the agent."
+2026-10-02T23:08:14.337Z,ncrzw9.grebe,ncrzw9,grebe,0.4.1,"DuckDB SQL diagnostics, quick fixes and formatting via the grebe LSP server"
+2026-10-02T23:18:47.637Z,sdgdieupm.matrixmcu-full,sdgdieupm,MatrixMCU: completo,0.1.1,Extensiones de VS Code para C nativo y compilación cruzada STM32 con MatrixMCU.
