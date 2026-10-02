@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T21:19:14.47Z,Foxglove.foxglove-mcap-explorer,Foxglove,Foxglove MCAP Explorer,0.1.0,Inspect MCAP files and visualize with Foxglove
+2026-10-02T21:22:21.117Z,krake-devs.static-image-sidebar,krake-devs,Show image on sidebar,1.0.1,Muestra una imagen personalizada en el sidebar de VS Code
+2026-10-02T21:47:42.58Z,SaeedDeveloper.codeigniter-file-navigator,SaeedDeveloper,CodeIgniter File Navigator,1.0.0,"Direct click-to-open navigation for Views, Models, Libraries, and Helpers in CodeIgniter 3 and 4."
+2026-10-02T22:06:52.67Z,YannosayProductions.sinth-language,YannosayProductions,Sinth Language,5.0.0,"Official VSCode extension for Sinth 5 - declarative, component-based web UI language"
+2026-10-02T22:07:05.053Z,AndrewBenz.history-slider,AndrewBenz,History Slider,0.3.0,Scrub through a file's git history with a two-handle slider and watch the diff update live.
+2026-10-02T22:10:19.953Z,ObjectPL.object-ontology,ObjectPL,Object Ontology,0.1.0,"A visual editor for OPM models stored as JSON, with validation, OPL text and markdown export."
+2026-10-02T22:12:32.773Z,tomjnet.vscode-seq-lang,tomjnet,Seq Language for VS Code,0.1.0,"Syntax, diagnostics, and build inspection for the Seq programming language."
+2026-10-02T22:14:22.853Z,Ruvaaaaaa.bunny-code-tracker,Ruvaaaaaa,Bunny Code Tracker,0.0.1,A bunny that follows your cursor around VS Code
