@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 14:20 UTC
+## Latest list — 2026-10-02 15:19 UTC
 
-New extensions published between 2026-10-02 12:20 UTC and 2026-10-02 14:20 UTC.
+New extensions published between 2026-10-02 13:19 UTC and 2026-10-02 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T14-20-38-364475Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T15-19-58-221752Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 13:20:07 | [yuchenh912.cursor-hook-sounds](https://marketplace.visualstudio.com/items?itemName=yuchenh912.cursor-hook-sounds) | Cursor Hook Sounds | 0.0.1 | Toggle Cursor hook sounds from Settings or the status bar. |
-| 2026-10-02 13:34:19 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-20](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-20) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 20/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:35:00 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-21](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-21) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 21/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:35:41 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-22](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-22) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 22/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:36:24 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-23](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-23) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 23/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:37:05 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-24](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-24) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 24/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:37:46 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-25](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-25) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 25/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 13:38:17 | [mcmah309.vscode-keybindings-visualizer](https://marketplace.visualstudio.com/items?itemName=mcmah309.vscode-keybindings-visualizer) | Keybindings Visualizer | 0.1.1 | Explore default and custom VS Code shortcuts on an interactive keyboard. |
-| 2026-10-02 13:49:00 | [EdnihsYahska.slipstream-practice](https://marketplace.visualstudio.com/items?itemName=EdnihsYahska.slipstream-practice) | Slipstream Practice | 0.3.0 | Draft behind your AI agent: it writes the code, you retype it with its changes… |
+| 2026-10-02 14:19:07 | [burtonrodman.windows-keymap](https://marketplace.visualstudio.com/items?itemName=burtonrodman.windows-keymap) | Windows Keymap (PCMode) | 1.0.0 | Windows-style keyboard shortcuts for VS Code on macOS — the companion extension… |
+| 2026-10-02 14:39:54 | [davtax.ferry](https://marketplace.visualstudio.com/items?itemName=davtax.ferry) | Ferry – SFTP Sync & Deploy | 0.1.0 | PyCharm-style deployment for VS Code: compare local and remote files over SFTP,… |
+| 2026-10-02 14:42:37 | [workscribe.workscribe](https://marketplace.visualstudio.com/items?itemName=workscribe.workscribe) | Workscribe | 0.1.0 | Passive editor activity capture for Workscribe — file saves, debug sessions, an… |
+| 2026-10-02 14:44:45 | [khons-hu.khonsu-moonlight](https://marketplace.visualstudio.com/items?itemName=khons-hu.khonsu-moonlight) | Khonsu Moonlight | 0.2.2 | A restrained midnight-navy VS Code theme with ice-blue, lavender, and mint acce… |
+| 2026-10-02 14:46:27 | [liugui.git-charm](https://marketplace.visualstudio.com/items?itemName=liugui.git-charm) | GitCharm — IDEA Git Log & Graph | 0.0.1 | Replicate IntelliJ IDEA's Git UI and workflow in VSCode |
+| 2026-10-02 14:47:19 | [serptail.no-url-files-drag](https://marketplace.visualstudio.com/items?itemName=serptail.no-url-files-drag) | No URL Files Drag | 0.4.0 | Drag files out of VS Code as real files, not .url shortcuts. Works with browser… |
 
 ## Data source
 

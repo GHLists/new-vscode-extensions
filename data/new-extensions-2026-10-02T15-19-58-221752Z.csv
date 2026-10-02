@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T14:19:07.357Z,burtonrodman.windows-keymap,burtonrodman,Windows Keymap (PCMode),1.0.0,Windows-style keyboard shortcuts for VS Code on macOS — the companion extension to PCMode.
+2026-10-02T14:39:54.257Z,davtax.ferry,davtax,Ferry – SFTP Sync & Deploy,0.1.0,"PyCharm-style deployment for VS Code: compare local and remote files over SFTP, review diffs, choose the sync direction per file, and upload on save."
+2026-10-02T14:42:37.833Z,workscribe.workscribe,workscribe,Workscribe,0.1.0,"Passive editor activity capture for Workscribe — file saves, debug sessions, and tasks feed into your daily work summary."
+2026-10-02T14:44:45.473Z,khons-hu.khonsu-moonlight,khons-hu,Khonsu Moonlight,0.2.2,"A restrained midnight-navy VS Code theme with ice-blue, lavender, and mint accents."
+2026-10-02T14:46:27.98Z,liugui.git-charm,liugui,GitCharm — IDEA Git Log & Graph,0.0.1,Replicate IntelliJ IDEA's Git UI and workflow in VSCode
+2026-10-02T14:47:19.553Z,serptail.no-url-files-drag,serptail,No URL Files Drag,0.4.0,"Drag files out of VS Code as real files, not .url shortcuts. Works with browser uploads and other apps. Windows only."
