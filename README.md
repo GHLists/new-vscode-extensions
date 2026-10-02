@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 13:20 UTC
+## Latest list — 2026-10-02 14:20 UTC
 
-New extensions published between 2026-10-02 11:20 UTC and 2026-10-02 13:20 UTC.
+New extensions published between 2026-10-02 12:20 UTC and 2026-10-02 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T13-20-40-547724Z.csv)
+[Full CSV](data/new-extensions-2026-10-02T14-20-38-364475Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 12:24:03 | [samarin-aa-aka-rtm00.go-target-launcher](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.go-target-launcher) | Go Target Launcher | 0.1.0 | Run, debug and profile Go main files and workspace commands from a configurable… |
-| 2026-10-02 12:29:22 | [infinit-test.docuflow](https://marketplace.visualstudio.com/items?itemName=infinit-test.docuflow) | DocuFlow | 0.0.17 | Rendered Markdown diffs you can edit and review in VS Code, with your coding ag… |
-| 2026-10-02 12:31:45 | [Hokutaka.cerune-language-support](https://marketplace.visualstudio.com/items?itemName=Hokutaka.cerune-language-support) | Cerune Language Support | 0.0.1 | Syntax highlighting and basic editor support for the Cerune programming languag… |
-| 2026-10-02 12:36:16 | [Disnana.nagi-lang](https://marketplace.visualstudio.com/items?itemName=Disnana.nagi-lang) | Nagi for VS Code | 0.1.8 | Nagi High/Lowの型検査、定義ジャンプ、型表示、補完とビルド・実行 |
-| 2026-10-02 12:39:44 | [Pro203S.jaeminlang-syntax](https://marketplace.visualstudio.com/items?itemName=Pro203S.jaeminlang-syntax) | jaeminlang-syntax | 1.0.0 | 재민랭(.jml) 문법 하이라이팅과 포맷팅을 지원합니다. |
-| 2026-10-02 12:43:00 | [ryota-abe.twigline](https://marketplace.visualstudio.com/items?itemName=ryota-abe.twigline) | Twigline | 0.4.0 | A Git client inside VS Code: branches, commit graph, file status with line stag… |
-| 2026-10-02 12:48:30 | [kingace2056.json-to-dart-wizard-kingace2056](https://marketplace.visualstudio.com/items?itemName=kingace2056.json-to-dart-wizard-kingace2056) | Json to Dart Wizard (Community Fork) | 1.0.1 | Community-maintained fork of Json to Dart Model with focused fixes for Freezed… |
-| 2026-10-02 12:48:38 | [jbrulmans.conventional-comments-vscode](https://marketplace.visualstudio.com/items?itemName=jbrulmans.conventional-comments-vscode) | Conventional Comments for PR Reviews | 1.0.0 | Label PR review comments with Conventional Comments (praise, nitpick, issue…) a… |
+| 2026-10-02 13:20:07 | [yuchenh912.cursor-hook-sounds](https://marketplace.visualstudio.com/items?itemName=yuchenh912.cursor-hook-sounds) | Cursor Hook Sounds | 0.0.1 | Toggle Cursor hook sounds from Settings or the status bar. |
+| 2026-10-02 13:34:19 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-20](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-20) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 20/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:35:00 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-21](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-21) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 21/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:35:41 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-22](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-22) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 22/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:36:24 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-23](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-23) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 23/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:37:05 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-24](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-24) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 24/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:37:46 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-25](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-25) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 25/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-02 13:38:17 | [mcmah309.vscode-keybindings-visualizer](https://marketplace.visualstudio.com/items?itemName=mcmah309.vscode-keybindings-visualizer) | Keybindings Visualizer | 0.1.1 | Explore default and custom VS Code shortcuts on an interactive keyboard. |
+| 2026-10-02 13:49:00 | [EdnihsYahska.slipstream-practice](https://marketplace.visualstudio.com/items?itemName=EdnihsYahska.slipstream-practice) | Slipstream Practice | 0.3.0 | Draft behind your AI agent: it writes the code, you retype it with its changes… |
 
 ## Data source
 
