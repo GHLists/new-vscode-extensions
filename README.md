@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-02 23:19 UTC
+## Latest list — 2026-10-03 00:20 UTC
 
-New extensions published between 2026-10-02 21:19 UTC and 2026-10-02 23:19 UTC.
+New extensions published between 2026-10-02 22:20 UTC and 2026-10-03 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-02T23-19-50-513269Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T00-20-41-384955Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 22:35:04 | [PigonAI.echomemory](https://marketplace.visualstudio.com/items?itemName=PigonAI.echomemory) | EchoMemory™: remember with your AI part… | 0.0.1 | Coming soon. Milo's memory: what your team decided, as readable markdown on you… |
-| 2026-10-02 22:35:20 | [PigonAI.echosense](https://marketplace.visualstudio.com/items?itemName=PigonAI.echosense) | EchoSense™ | 0.0.1 | Coming soon. The next EchoTools organ for Milo, by PiGON AI. This listing holds… |
-| 2026-10-02 22:35:32 | [PigonAI.echoloop](https://marketplace.visualstudio.com/items?itemName=PigonAI.echoloop) | EchoLoop™ | 0.0.1 | Coming soon. The next EchoTools organ for Milo, by PiGON AI. This listing holds… |
-| 2026-10-02 22:42:03 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-26](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-26) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 26/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-02 22:50:18 | [GuoZheng.pi-fellow](https://marketplace.visualstudio.com/items?itemName=GuoZheng.pi-fellow) | Pi Fellow — omp & pi Agent with Voice P… | 0.1.0 | Unofficial VS Code GUI for the omp (Oh My Pi) and pi coding agents, plus a voic… |
-| 2026-10-02 23:08:14 | [ncrzw9.grebe](https://marketplace.visualstudio.com/items?itemName=ncrzw9.grebe) | grebe | 0.4.1 | DuckDB SQL diagnostics, quick fixes and formatting via the grebe LSP server |
-| 2026-10-02 23:18:47 | [sdgdieupm.matrixmcu-full](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-full) | MatrixMCU: completo | 0.1.1 | Extensiones de VS Code para C nativo y compilación cruzada STM32 con MatrixMCU. |
+| 2026-10-02 23:18:57 | [sdgdieupm.matrixmcu-macos](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-macos) | MatrixMCU: macOS | 0.1.1 | Extensión complementaria de depuración nativa para MatrixMCU en macOS. |
+| 2026-10-02 23:19:02 | [martins-code-criminal.martins-the-code-criminal](https://marketplace.visualstudio.com/items?itemName=martins-code-criminal.martins-the-code-criminal) | Martins, the code criminal | 0.0.1 | Pls stop to code man, appreciate! |
+| 2026-10-02 23:19:27 | [sdgdieupm.matrixmcu-stm32](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-stm32) | MatrixMCU: STM32 cruzado | 0.1.1 | Extensiones de VS Code para compilación cruzada y depuración de STM32 con Matri… |
+| 2026-10-02 23:19:36 | [sdgdieupm.matrixmcu-windows-wsl](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-windows-wsl) | MatrixMCU: Windows y WSL | 0.1.1 | Extensiones locales de Windows para trabajar con MatrixMCU en WSL y conectar US… |
+| 2026-10-02 23:34:23 | [Peckage.linkleap](https://marketplace.visualstudio.com/items?itemName=Peckage.linkleap) | LinkLeap | 0.2.0 | Double-click to follow links, paths, wiki links, issues, symbols and URLs in an… |
+| 2026-10-02 23:36:31 | [All-Stone-Tech.lorefountain](https://marketplace.visualstudio.com/items?itemName=All-Stone-Tech.lorefountain) | LoreFountain | 1.0.0 | A Fountain-native worldbuilding layer for VS Code: link character cues and scen… |
+| 2026-10-02 23:41:51 | [sdgdieupm.matrixmcu-c-native](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-c-native) | MatrixMCU: C/C++ nativo | 0.1.1 | Extensiones de VS Code para programación en C nativo con MatrixMCU. |
 
 ## Data source
 

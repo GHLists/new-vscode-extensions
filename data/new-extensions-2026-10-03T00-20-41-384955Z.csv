@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-02T23:18:57.17Z,sdgdieupm.matrixmcu-macos,sdgdieupm,MatrixMCU: macOS,0.1.1,Extensión complementaria de depuración nativa para MatrixMCU en macOS.
+2026-10-02T23:19:02.897Z,martins-code-criminal.martins-the-code-criminal,martins-code-criminal,"Martins, the code criminal",0.0.1,"Pls stop to code man, appreciate!"
+2026-10-02T23:19:27.297Z,sdgdieupm.matrixmcu-stm32,sdgdieupm,MatrixMCU: STM32 cruzado,0.1.1,Extensiones de VS Code para compilación cruzada y depuración de STM32 con MatrixMCU.
+2026-10-02T23:19:36.657Z,sdgdieupm.matrixmcu-windows-wsl,sdgdieupm,MatrixMCU: Windows y WSL,0.1.1,Extensiones locales de Windows para trabajar con MatrixMCU en WSL y conectar USBIP.
+2026-10-02T23:34:23.407Z,Peckage.linkleap,Peckage,LinkLeap,0.2.0,"Double-click to follow links, paths, wiki links, issues, symbols and URLs in any file — no more Ctrl+Click. Plus peek mode, a link picker and backlinks."
+2026-10-02T23:36:31.357Z,All-Stone-Tech.lorefountain,All-Stone-Tech,LoreFountain,1.0.0,"A Fountain-native worldbuilding layer for VS Code: link character cues and scene headings to structured entity files with typed relationships, hover previews, and backlinks."
+2026-10-02T23:41:51.03Z,sdgdieupm.matrixmcu-c-native,sdgdieupm,MatrixMCU: C/C++ nativo,0.1.1,Extensiones de VS Code para programación en C nativo con MatrixMCU.
