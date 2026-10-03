@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T19:38:07.393Z,ShurpoT.blueprintor,ShurpoT,Blueprintor,0.0.1,Create files and folders from your own templates with one command.
+2026-10-03T19:40:20.717Z,DropDrop.dropdrop,DropDrop,DropDrop,0.1.0,"Drop it. Share it. Sync it. Real-time shared text and code rooms in VS Code, no login required."
+2026-10-03T19:42:21.67Z,Lovervoid.railyard,Lovervoid,Railyard,0.1.1,"A different way to work with source control, on a git layer of its own."
+2026-10-03T19:50:20.83Z,mat-jan.python-colors-help,mat-jan,Python Colors Help,0.1.0,Zadawaj pytania Gemini bezposrednio z VS Code (wymaga osobistego tokena dostepu).
+2026-10-03T19:50:45.773Z,ShadiAbuHilal.codex-context-picker,ShadiAbuHilal,Codex Context Picker,1.0.0,"A Codex prompt context helper that makes it easy to select files, code lines, and HTML elements in the browser and include them in your prompt"
+2026-10-03T20:02:55.553Z,DeepSoft.rakupp,DeepSoft,Raku++ (rakupp),1.0.1,"Raku language support from the rakupp language server: errors and lint findings as you type, hover documentation, completion and go-to-definition."
+2026-10-03T20:02:57.637Z,nifty.nifty-import-cost,nifty,Nifty Import Cost: Bundle Size of Imports,0.1.0,"See the bundle size of every import inline, fast and cached, without maxing out your CPU."
+2026-10-03T20:03:12.54Z,nifty.nifty-csharp-scratchpad,nifty,Nifty C# Scratchpad: Run C# Snippets & NuGet,0.1.0,"Run C# snippets instantly with NuGet packages and rich Dump() output, a LINQPad-style scratchpad and Polyglot Notebooks replacement."
+2026-10-03T20:03:20.463Z,nifty.nifty-compare,nifty,Nifty Folder Compare: Diff Two Folders,0.1.0,"Compare two folders: see which files were added, removed or changed in a tree, open side-by-side diffs, ignore whitespace or line endings, and copy files across."
+2026-10-03T20:03:28.65Z,nifty.nifty-metrics,nifty,Nifty Code Metrics: Complexity & Hotspots,0.1.0,"Complexity and size for every function in any language, as CodeLens and warnings, plus a hotspots view of the complex files that change most often."
+2026-10-03T20:03:36.873Z,nifty.nifty-spreadsheet,nifty,"Nifty Spreadsheet Viewer: XLSX, XLS & ODS",0.1.0,"Open Excel, OpenDocument and other spreadsheets in a fast read-only grid with sheet tabs, formulas, search and CSV export, and compare two workbooks as a diff."
+2026-10-03T20:03:44.26Z,nifty.nifty-hex,nifty,Nifty Hex Editor: Binary File Editor & Inspector,0.1.0,"Edit binary files: overwrite, insert and delete bytes with undo, a data inspector, hex and text search, go to offset, and a structure view for PNG, ZIP, WAV, ELF and PE files."
+2026-10-03T20:03:52.17Z,nifty.nifty-env,nifty,"Nifty Env: .env Files, Profiles & Secrets",0.1.0,"Load .env files into terminals, tasks and debug sessions, switch between .env profiles, hide secret values on screen, and check .env against .env.example."
+2026-10-03T20:04:55.647Z,houssam-ouatmani.thymeleaf-integration,houssam-ouatmani,Thymeleaf Integration,0.1.0,The missing Thymeleaf extension for Spring Boot apps.
+2026-10-03T20:05:45.72Z,MECoreLabs.claude-auto-shutdown,MECoreLabs,Claude Auto Shutdown,0.1.0,"Shut down, sleep, hibernate or lock your computer only after every Claude Code session has really finished working."
+2026-10-03T20:13:09.133Z,dapurtechnology.wheniseeus,dapurtechnology,Wheniseeus Code AI,0.1.0,"Wheniseeus en VS Code: chatea con la IA, pregunta sobre tu código, envía imágenes, escucha las respuestas y trabaja en equipo en tus espacios de trabajo."
