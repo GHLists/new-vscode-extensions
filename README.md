@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 10:20 UTC
+## Latest list — 2026-10-03 11:19 UTC
 
-New extensions published between 2026-10-03 08:20 UTC and 2026-10-03 10:20 UTC.
+New extensions published between 2026-10-03 09:19 UTC and 2026-10-03 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T10-20-30-996352Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T11-19-30-503022Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 09:22:21 | [sonensei.json-canopy](https://marketplace.visualstudio.com/items?itemName=sonensei.json-canopy) | JSON Canopy | 0.3.0 | Browse and edit JSON files as nested tables and forms, with JSON Schema support. |
-| 2026-10-03 09:40:35 | [Manas-dev.cpp-boilerplate](https://marketplace.visualstudio.com/items?itemName=Manas-dev.cpp-boilerplate) | C++ Competitive Programming Boilerplate | 1.0.0 | Instant C++ and Competitive Programming templates, fast I/O snippets, and code… |
-| 2026-10-03 09:50:13 | [AgentlandLab.ue-quick-buttons](https://marketplace.visualstudio.com/items?itemName=AgentlandLab.ue-quick-buttons) | UE Quick Buttons | 0.1.9 | 自动识别虚幻引擎项目(*.uproject)或引擎源码(UE5.sln)，在VScode里编译/运行 |
-| 2026-10-03 09:52:28 | [IThlet.schedex](https://marketplace.visualstudio.com/items?itemName=IThlet.schedex) | Schedex | 1.0.0 | Schedule prompts for existing or new Codex conversations. |
-| 2026-10-03 09:58:16 | [codecampus.codecampus](https://marketplace.visualstudio.com/items?itemName=codecampus.codecampus) | CodeCampus | 1.0.0 | Testez et validez vos exercices Python CodeCampus directement depuis VS Code, a… |
+| 2026-10-03 10:50:12 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-33](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-33) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 33/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 10:53:22 | [beskid-lang.beskid-vscode](https://marketplace.visualstudio.com/items?itemName=beskid-lang.beskid-vscode) | Beskid | 0.5.2 | Beskid language support for VS Code with bundled cross-platform LSP binaries an… |
+| 2026-10-03 10:57:16 | [lanoerber.agents-usage-vscode](https://marketplace.visualstudio.com/items?itemName=lanoerber.agents-usage-vscode) | Agents Usage | 1.0.12 | View provider-reported OpenAI Codex and GitHub Copilot usage in Visual Studio C… |
+| 2026-10-03 11:08:32 | [VincentKempers.gobbie-gob-goo](https://marketplace.visualstudio.com/items?itemName=VincentKempers.gobbie-gob-goo) | Gobbie Gob Goo | 2.0.0 | A dark theme with a bit of light |
+| 2026-10-03 11:12:28 | [U-EPTM.sqlite-libsql-preview-edit](https://marketplace.visualstudio.com/items?itemName=U-EPTM.sqlite-libsql-preview-edit) | SQLite/LibSQL Preview&Edit | 0.0.1 | Preview and edit SQLite / LibSQL database files with a rich UI, SQL editor, imp… |
 
 ## Data source
 

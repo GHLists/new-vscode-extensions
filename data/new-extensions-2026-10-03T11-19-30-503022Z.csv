@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T10:50:12.04Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-33,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 33/42),0.1.0,"Fragment 33/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-03T10:53:22.667Z,beskid-lang.beskid-vscode,beskid-lang,Beskid,0.5.2,Beskid language support for VS Code with bundled cross-platform LSP binaries and optional dev mode.
+2026-10-03T10:57:16.773Z,lanoerber.agents-usage-vscode,lanoerber,Agents Usage,1.0.12,View provider-reported OpenAI Codex and GitHub Copilot usage in Visual Studio Code.
+2026-10-03T11:08:32.233Z,VincentKempers.gobbie-gob-goo,VincentKempers,Gobbie Gob Goo,2.0.0,A dark theme with a bit of light
+2026-10-03T11:12:28.527Z,U-EPTM.sqlite-libsql-preview-edit,U-EPTM,SQLite/LibSQL Preview&Edit,0.0.1,"Preview and edit SQLite / LibSQL database files with a rich UI, SQL editor, import/export, and bilingual interface."
