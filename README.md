@@ -12,24 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 13:19 UTC
+## Latest list — 2026-10-03 14:20 UTC
 
-New extensions published between 2026-10-03 11:19 UTC and 2026-10-03 13:19 UTC.
+New extensions published between 2026-10-03 12:20 UTC and 2026-10-03 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T13-19-27-668359Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T14-20-28-223855Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 12:22:58 | [chengbin.aigc-video-studio](https://marketplace.visualstudio.com/items?itemName=chengbin.aigc-video-studio) | AIGC Video Studio | 0.1.0 | 在 VS Code 中完成 AIGC 视频创作：剧本、分镜、素材与视频生成。 |
-| 2026-10-03 12:28:05 | [lilinhuang.garnet-porcelain-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.garnet-porcelain-theme) | Garnet Porcelain Theme | 1.0.0 | Garnet red, ivory porcelain, pale gold and dusty blue in coordinated light and… |
-| 2026-10-03 12:32:11 | [super-shrine.ond-vscode-ext](https://marketplace.visualstudio.com/items?itemName=super-shrine.ond-vscode-ext) | Ond | 0.1.0 | Language support for the Ond programming language. |
-| 2026-10-03 12:40:59 | [vscode-full-featured-hub.vscode-full-featured-hub](https://marketplace.visualstudio.com/items?itemName=vscode-full-featured-hub.vscode-full-featured-hub) | Full Featured Hub | 2.1.0 | ONE extensible HUD card in the bottom panel that hosts many panels in a free co… |
-| 2026-10-03 12:43:41 | [Nylo.vscode-nylo](https://marketplace.visualstudio.com/items?itemName=Nylo.vscode-nylo) | Nylo for VS Code | 0.1.2 | Per-environment Flutter run configurations for Nylo projects, generated from yo… |
-| 2026-10-03 12:43:56 | [balochdev.fusionai](https://marketplace.visualstudio.com/items?itemName=balochdev.fusionai) | FusionAI | 0.1.0 | Chat with FusionAI, analyze trusted workspaces read-only, and review single-fil… |
-| 2026-10-03 12:58:27 | [lilinhuang.sapphire-tide-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.sapphire-tide-theme) | Sapphire Tide Theme | 1.0.0 | Deep sea blue, indigo and pale cyan in coordinated ocean-inspired light and dar… |
-| 2026-10-03 12:59:21 | [CostinRizan.ohipfn](https://marketplace.visualstudio.com/items?itemName=CostinRizan.ohipfn) | OhipFn | 0.9.1 | Catalog, scaffolding, validation, local dev host and invocation inspection for… |
-| 2026-10-03 13:10:25 | [pac-local.pax-pascal](https://marketplace.visualstudio.com/items?itemName=pac-local.pax-pascal) | PAX Pascal | 0.3.1 | Outils Pascal : coloration, snippets, compilation, diagnostics et navigation. |
-| 2026-10-03 13:13:59 | [lilinhuang.coral-dusk-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.coral-dusk-theme) | Coral Dusk Theme | 1.0.0 | Coral sunset, dusty rose, muted purple and steel blue in coordinated light and… |
+| 2026-10-03 13:18:52 | [jteixido.ai-governance-scaffolding](https://marketplace.visualstudio.com/items?itemName=jteixido.ai-governance-scaffolding) | AI Governance Scaffolding | 0.0.4 | Scaffolding y gobernanza de proyectos asistidos por IA para Visual Studio Code |
+| 2026-10-03 13:19:45 | [jteixido.git-facil](https://marketplace.visualstudio.com/items?itemName=jteixido.git-facil) | Git Fácil | 0.1.3 | Gestor amigable e intuitivo de Git para VS Code (inicializar, vincular, clonar,… |
+| 2026-10-03 13:51:43 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-34](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-34) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 34/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:52:21 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-35](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-35) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 35/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:53:12 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-36](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-36) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 36/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:53:56 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-37](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-37) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 37/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:54:33 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-38](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-38) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 38/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:55:18 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-39](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-39) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 39/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 13:57:38 | [filippochinni.settings-ides--color-theme](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--color-theme) | Settings IDEs - ColorTheme | 1.0.1 | Settings IDEs - Color Theme - VS Code |
+| 2026-10-03 14:05:14 | [technolukas.auto-typst-preview](https://marketplace.visualstudio.com/items?itemName=technolukas.auto-typst-preview) | Auto Typst Preview | 0.0.1 | Automatically pins the active Typst file in Preview when it becomes the active… |
+| 2026-10-03 14:06:28 | [mokxi.mokxi](https://marketplace.visualstudio.com/items?itemName=mokxi.mokxi) | Mokxi: Arduino and Circuit Simulator | 0.1.0 | Edit your Mokxi projects in VS Code, sync them with mokxi.com and your own git… |
+| 2026-10-03 14:07:59 | [traitome.oxo-flow](https://marketplace.visualstudio.com/items?itemName=traitome.oxo-flow) | oxo-flow Pipeline | 0.23.0 | Language support, smart syntax, and one-click CLI lifecycle (run, dry-run, vali… |
+| 2026-10-03 14:13:44 | [z3er0day.music-bar](https://marketplace.visualstudio.com/items?itemName=z3er0day.music-bar) | Music-bar | 0.1.0 | Control the macOS Music app from the status bar: playback buttons, scrolling tr… |
 
 ## Data source
 
