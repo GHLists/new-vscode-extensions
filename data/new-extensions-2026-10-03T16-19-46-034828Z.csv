@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T15:23:18.9Z,lilinhuang.blue-hour-theme,lilinhuang,Blue Hour Theme,1.0.0,"Quiet indigo, muted slate blue and warm parchment in coordinated light and dark themes."
+2026-10-03T15:35:02.51Z,lilinhuang.emerald-clear-theme,lilinhuang,Emerald Clear Theme,1.0.0,Clear emerald accents and neutral gray surfaces in coordinated light and dark themes.
+2026-10-03T15:36:59.037Z,guardrelay.guard-code,guardrelay,Guard Code,0.1.0,Агент для программирования на моделях GUARD API. Все семейства по одному ключу.
+2026-10-03T15:39:56.66Z,fallmo.terminal-cli,fallmo,Terminal CLI,0.0.1,Open/Close VS Code terminals from the command line.
+2026-10-03T15:44:28.017Z,technolukas.typst-auto-preview,technolukas,Typst Auto Preview,0.0.2,Automatically pins the active Typst file in Preview when it becomes active in the editor.
+2026-10-03T15:44:40.937Z,forinda.forinda-kickjs-devtools,forinda,Forinda KickJS DevTools,5.3.0,"VS Code extension for inspecting KickJS applications — routes, DI container, metrics, and health"
+2026-10-03T15:49:48.197Z,lilinhuang.moss-lantern-theme,lilinhuang,Moss Lantern Theme,1.0.0,"Moss green, blue-gray woodland dusk and warm lantern light in coordinated light and dark themes."
+2026-10-03T15:51:27.137Z,ReadyStack.yosys-migration-check,ReadyStack,Yosys Migration Check - Vivado-only blockers,1.0.2,"Yosys migration check for Verilog/SystemVerilog: flags Vivado-only XPM macros, IP-core instances, encrypted IP, ILA/VIO debug cores and glbl references before you leave a Vivado licence."
+2026-10-03T15:51:44.06Z,ReadyStack.yugabytedb-migration-check,ReadyStack,YugabyteDB Migration Check: CockroachDB SQL,1.0.2,"YugabyteDB migration check for CockroachDB .sql files: flags 25 statements YSQL rejects or changes (UPSERT, unique_rowid, STRING, 64-bit INT, inline INDEX) plus licence-key and telemetry settings."
+2026-10-03T15:52:21.287Z,ReadyStack.owasp-dependency-check-config-lint,ReadyStack,OWASP Dependency Check Config Lint,1.0.0,"OWASP dependency check setup lint for pom.xml, Gradle, suppression XML and CI files: plugin versions below the 12.1.0 mandatory upgrade, expired suppressions, hardcoded NVD API keys, failBuildOnCVSS 1"
+2026-10-03T15:56:51.053Z,amisonnet8.srwr-view,amisonnet8,srwr-view,0.1.0,"Replay what an AI agent did with srwr, frame by frame, with the reason of each step"
+2026-10-03T16:05:06.053Z,MargaretAILearning.learning-platform,MargaretAILearning,Learning Platform,0.3.0,Learn programming through an adaptive course inside VS Code.
+2026-10-03T16:14:39.207Z,CostinRizan.stayfn,CostinRizan,StayFn,0.10.0,"Build, run and debug typed C# functions for Oracle Hospitality Integration Platform (OHIP) and OPERA Cloud — catalog, scaffolding, local runs and invocation tracing."
