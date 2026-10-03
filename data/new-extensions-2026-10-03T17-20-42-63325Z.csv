@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T16:21:08.553Z,filippochinni.settings-ides--keymap,filippochinni,Settings IDEs - Keymap,1.0.1,Settings IDEs - Keymap - VS Code
+2026-10-03T16:30:59.81Z,Operandi.codex-companion-vscode,Operandi,Codex Companion,0.38.2,"Private mobile companion for Codex: browse chat history, monitor AI coding agents, review approvals and control Companion chats from your phone."
+2026-10-03T16:47:44.233Z,NathanRoark.sora,NathanRoark,Sora,1.0.0,Sora Theme for VS Code
+2026-10-03T16:57:05.083Z,technolukas.typst-preview-auto,technolukas,Typst Preview Auto,0.0.4,Automatically pins the active Typst file in Preview when it becomes active in the editor.
+2026-10-03T17:01:39.053Z,m0m0.m0m0-33-project-manager,m0m0,m0m0-33-project-manager,0.1.0,"Fork of Project Manager by Alessandro Fragnani, modified by m0m0. Turns the projects file into a real JSON with Comments file (projects.jsonc) that Code opens correctly everywhere, keeps the comments when the file is saved, stops projects added by hand from being lost, and adds Open with VS Code / O"
+2026-10-03T17:10:29.763Z,maanavkrishna.pyweb,maanavkrishna,PyWeb,0.4.1,"PyWeb (.pyweb) support: highlighting, errors as you type, hover that shows what runs in the browser or on the server, completion and go to definition."
+2026-10-03T17:10:52.83Z,grikomsn.opencode-bridge-for-copilot-chat,grikomsn,OpenCode Bridge for Copilot Chat,1.0.0,Use OpenCode Console and Go models in GitHub Copilot Chat.

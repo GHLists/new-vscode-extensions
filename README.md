@@ -12,27 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 16:19 UTC
+## Latest list — 2026-10-03 17:20 UTC
 
-New extensions published between 2026-10-03 14:19 UTC and 2026-10-03 16:19 UTC.
+New extensions published between 2026-10-03 15:20 UTC and 2026-10-03 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T16-19-46-034828Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T17-20-42-63325Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 15:23:18 | [lilinhuang.blue-hour-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.blue-hour-theme) | Blue Hour Theme | 1.0.0 | Quiet indigo, muted slate blue and warm parchment in coordinated light and dark… |
-| 2026-10-03 15:35:02 | [lilinhuang.emerald-clear-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.emerald-clear-theme) | Emerald Clear Theme | 1.0.0 | Clear emerald accents and neutral gray surfaces in coordinated light and dark t… |
-| 2026-10-03 15:36:59 | [guardrelay.guard-code](https://marketplace.visualstudio.com/items?itemName=guardrelay.guard-code) | Guard Code | 0.1.0 | Агент для программирования на моделях GUARD API. Все семейства по одному ключу. |
-| 2026-10-03 15:39:56 | [fallmo.terminal-cli](https://marketplace.visualstudio.com/items?itemName=fallmo.terminal-cli) | Terminal CLI | 0.0.1 | Open/Close VS Code terminals from the command line. |
-| 2026-10-03 15:44:28 | [technolukas.typst-auto-preview](https://marketplace.visualstudio.com/items?itemName=technolukas.typst-auto-preview) | Typst Auto Preview | 0.0.2 | Automatically pins the active Typst file in Preview when it becomes active in t… |
-| 2026-10-03 15:44:40 | [forinda.forinda-kickjs-devtools](https://marketplace.visualstudio.com/items?itemName=forinda.forinda-kickjs-devtools) | Forinda KickJS DevTools | 5.3.0 | VS Code extension for inspecting KickJS applications — routes, DI container, me… |
-| 2026-10-03 15:49:48 | [lilinhuang.moss-lantern-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.moss-lantern-theme) | Moss Lantern Theme | 1.0.0 | Moss green, blue-gray woodland dusk and warm lantern light in coordinated light… |
-| 2026-10-03 15:51:27 | [ReadyStack.yosys-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.yosys-migration-check) | Yosys Migration Check - Vivado-only blo… | 1.0.2 | Yosys migration check for Verilog/SystemVerilog: flags Vivado-only XPM macros,… |
-| 2026-10-03 15:51:44 | [ReadyStack.yugabytedb-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.yugabytedb-migration-check) | YugabyteDB Migration Check: CockroachDB… | 1.0.2 | YugabyteDB migration check for CockroachDB .sql files: flags 25 statements YSQL… |
-| 2026-10-03 15:52:21 | [ReadyStack.owasp-dependency-check-config-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.owasp-dependency-check-config-lint) | OWASP Dependency Check Config Lint | 1.0.0 | OWASP dependency check setup lint for pom.xml, Gradle, suppression XML and CI f… |
-| 2026-10-03 15:56:51 | [amisonnet8.srwr-view](https://marketplace.visualstudio.com/items?itemName=amisonnet8.srwr-view) | srwr-view | 0.1.0 | Replay what an AI agent did with srwr, frame by frame, with the reason of each… |
-| 2026-10-03 16:05:06 | [MargaretAILearning.learning-platform](https://marketplace.visualstudio.com/items?itemName=MargaretAILearning.learning-platform) | Learning Platform | 0.3.0 | Learn programming through an adaptive course inside VS Code. |
-| 2026-10-03 16:14:39 | [CostinRizan.stayfn](https://marketplace.visualstudio.com/items?itemName=CostinRizan.stayfn) | StayFn | 0.10.0 | Build, run and debug typed C# functions for Oracle Hospitality Integration Plat… |
+| 2026-10-03 16:21:08 | [filippochinni.settings-ides--keymap](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--keymap) | Settings IDEs - Keymap | 1.0.1 | Settings IDEs - Keymap - VS Code |
+| 2026-10-03 16:30:59 | [Operandi.codex-companion-vscode](https://marketplace.visualstudio.com/items?itemName=Operandi.codex-companion-vscode) | Codex Companion | 0.38.2 | Private mobile companion for Codex: browse chat history, monitor AI coding agen… |
+| 2026-10-03 16:47:44 | [NathanRoark.sora](https://marketplace.visualstudio.com/items?itemName=NathanRoark.sora) | Sora | 1.0.0 | Sora Theme for VS Code |
+| 2026-10-03 16:57:05 | [technolukas.typst-preview-auto](https://marketplace.visualstudio.com/items?itemName=technolukas.typst-preview-auto) | Typst Preview Auto | 0.0.4 | Automatically pins the active Typst file in Preview when it becomes active in t… |
+| 2026-10-03 17:01:39 | [m0m0.m0m0-33-project-manager](https://marketplace.visualstudio.com/items?itemName=m0m0.m0m0-33-project-manager) | m0m0-33-project-manager | 0.1.0 | Fork of Project Manager by Alessandro Fragnani, modified by m0m0. Turns the pro… |
+| 2026-10-03 17:10:29 | [maanavkrishna.pyweb](https://marketplace.visualstudio.com/items?itemName=maanavkrishna.pyweb) | PyWeb | 0.4.1 | PyWeb (.pyweb) support: highlighting, errors as you type, hover that shows what… |
+| 2026-10-03 17:10:52 | [grikomsn.opencode-bridge-for-copilot-chat](https://marketplace.visualstudio.com/items?itemName=grikomsn.opencode-bridge-for-copilot-chat) | OpenCode Bridge for Copilot Chat | 1.0.0 | Use OpenCode Console and Go models in GitHub Copilot Chat. |
 
 ## Data source
 
