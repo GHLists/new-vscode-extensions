@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 22:20 UTC
+## Latest list — 2026-10-03 23:19 UTC
 
-New extensions published between 2026-10-03 20:20 UTC and 2026-10-03 22:20 UTC.
+New extensions published between 2026-10-03 21:19 UTC and 2026-10-03 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T22-20-42-080015Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T23-19-15-451379Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 21:26:19 | [othmxnee.github-analyzer](https://marketplace.visualstudio.com/items?itemName=othmxnee.github-analyzer) | GitHub Analyzer | 2.0.0 | Knowledge risk, bus factor, hotspots and developer roles for your local Git rep… |
-| 2026-10-03 21:27:15 | [DevAds.devads-extension](https://marketplace.visualstudio.com/items?itemName=DevAds.devads-extension) | DevAds | 1.0.0 | Lightweight advertisement extension displaying sponsored content inside VS Code… |
-| 2026-10-03 21:34:27 | [GrillMyCode.grillmycode](https://marketplace.visualstudio.com/items?itemName=GrillMyCode.grillmycode) | GrillMyCode Companion | 0.1.2 | The companion to the GrillMyCode GitHub Action. Shows the questions it wrote ab… |
-| 2026-10-03 22:00:14 | [UZDoom.uzdoom-vscode](https://marketplace.visualstudio.com/items?itemName=UZDoom.uzdoom-vscode) | UZDoom ZScript | 2.0.0 | UZDoom's multiple scripting languages support (with a focus on ZScript) for VSC… |
-| 2026-10-03 22:13:14 | [prsniffer.prsniffer-review](https://marketplace.visualstudio.com/items?itemName=prsniffer.prsniffer-review) | PRSniffer | 0.5.0 | AI code review + AppSec for your working tree: inline findings, editable fixes,… |
+| 2026-10-03 22:34:31 | [houssam-ouatmani.thymeleaf-companion](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.thymeleaf-companion) | Thymeleaf Companion | 0.1.0 | The missing Thymeleaf extension for Spring Boot apps. |
+| 2026-10-03 22:59:21 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-40](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-40) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 40/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
+| 2026-10-03 23:08:56 | [nolindnaidoo.i18n-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.i18n-le) | i18n-LE | 1.0.0 | Audit translation catalogues against the source locale: missing keys, broken pl… |
 
 ## Data source
 

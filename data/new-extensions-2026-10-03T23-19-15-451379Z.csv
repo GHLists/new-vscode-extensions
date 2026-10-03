@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T22:34:31.14Z,houssam-ouatmani.thymeleaf-companion,houssam-ouatmani,Thymeleaf Companion,0.1.0,The missing Thymeleaf extension for Spring Boot apps.
+2026-10-03T22:59:21.733Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-40,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 40/42),0.1.0,"Fragment 40/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-03T23:08:56.23Z,nolindnaidoo.i18n-le,nolindnaidoo,i18n-LE,1.0.0,"Audit translation catalogues against the source locale: missing keys, broken placeholders, wrong-convention syntax — and never print a translation"
