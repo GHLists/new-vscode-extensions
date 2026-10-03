@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T06:24:11.613Z,agomezb.git-project-explorer,agomezb,Git Project Explorer,0.1.0,"Multi-repo management extension for Visual Studio Code: Explorer, Commands, and CLI across all workspace Git repositories."
+2026-10-03T06:26:23.987Z,emanuelebartolesi.vscode-carbonbit,emanuelebartolesi,CarbonBit,0.0.2,"Estimate the energy, CO₂e and water behind your AI coding (GitHub Copilot, Claude Code, Codex) with everyday comparisons and a live 16-bit planet. Local and private."
+2026-10-03T06:50:55.463Z,tsekino62.voice-coder,tsekino62,Voice Coder,0.1.1,日本語の音声で generate / explain / debug を指示する VS Code 拡張
+2026-10-03T07:11:13.107Z,Kurosyss.svg2css,Kurosyss,SVG2CSS Studio — SVG to CSS & Tailwind Converter,1.0.0,"Convert SVG files and code directly into optimized CSS Data URIs, CSS mask-images (currentColor), and Tailwind CSS classes with one click."
+2026-10-03T07:14:11.537Z,nifty.nifty-runner,nifty,Nifty Code Runner: Run Code in 25+ Languages,0.1.0,"Run the current file or selection in 25+ languages in the terminal, with input support, your own commands and no telemetry."
+2026-10-03T07:14:26.947Z,nifty.nifty-format-on-save,nifty,"Nifty Format on Save: Toggle, Exclude & Chains",0.1.0,"Control format on save: a status bar toggle, folders and files that are never formatted, time limits, and save chains like organize imports, ESLint fix, then format."
