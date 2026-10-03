@@ -12,21 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 00:20 UTC
+## Latest list — 2026-10-03 01:20 UTC
 
-New extensions published between 2026-10-02 22:20 UTC and 2026-10-03 00:20 UTC.
+New extensions published between 2026-10-02 23:20 UTC and 2026-10-03 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T00-20-41-384955Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T01-20-39-884976Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-02 23:18:57 | [sdgdieupm.matrixmcu-macos](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-macos) | MatrixMCU: macOS | 0.1.1 | Extensión complementaria de depuración nativa para MatrixMCU en macOS. |
-| 2026-10-02 23:19:02 | [martins-code-criminal.martins-the-code-criminal](https://marketplace.visualstudio.com/items?itemName=martins-code-criminal.martins-the-code-criminal) | Martins, the code criminal | 0.0.1 | Pls stop to code man, appreciate! |
-| 2026-10-02 23:19:27 | [sdgdieupm.matrixmcu-stm32](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-stm32) | MatrixMCU: STM32 cruzado | 0.1.1 | Extensiones de VS Code para compilación cruzada y depuración de STM32 con Matri… |
-| 2026-10-02 23:19:36 | [sdgdieupm.matrixmcu-windows-wsl](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-windows-wsl) | MatrixMCU: Windows y WSL | 0.1.1 | Extensiones locales de Windows para trabajar con MatrixMCU en WSL y conectar US… |
-| 2026-10-02 23:34:23 | [Peckage.linkleap](https://marketplace.visualstudio.com/items?itemName=Peckage.linkleap) | LinkLeap | 0.2.0 | Double-click to follow links, paths, wiki links, issues, symbols and URLs in an… |
-| 2026-10-02 23:36:31 | [All-Stone-Tech.lorefountain](https://marketplace.visualstudio.com/items?itemName=All-Stone-Tech.lorefountain) | LoreFountain | 1.0.0 | A Fountain-native worldbuilding layer for VS Code: link character cues and scen… |
-| 2026-10-02 23:41:51 | [sdgdieupm.matrixmcu-c-native](https://marketplace.visualstudio.com/items?itemName=sdgdieupm.matrixmcu-c-native) | MatrixMCU: C/C++ nativo | 0.1.1 | Extensiones de VS Code para programación en C nativo con MatrixMCU. |
+| 2026-10-03 00:21:48 | [cemerenb.csharp-to-dart-model-generator](https://marketplace.visualstudio.com/items?itemName=cemerenb.csharp-to-dart-model-generator) | C# to Dart Model Generator | 1.0.1 | Convert C# DTO / model classes into Dart models (with fromJson and toJson) and… |
+| 2026-10-03 01:05:54 | [rsandoval1206.js-obfuscator-pro](https://marketplace.visualstudio.com/items?itemName=rsandoval1206.js-obfuscator-pro) | JS Obfuscator Pro | 1.0.0 | Obfuscate JavaScript, TypeScript and inline HTML scripts from inside VS Code. |
+| 2026-10-03 01:06:04 | [ashisha7i.status-bar-customizer](https://marketplace.visualstudio.com/items?itemName=ashisha7i.status-bar-customizer) | Color My Status | 0.0.5 | Show custom text in the status bar and change the status bar color. |
 
 ## Data source
 

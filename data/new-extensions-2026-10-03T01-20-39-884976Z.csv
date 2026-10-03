@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T00:21:48.347Z,cemerenb.csharp-to-dart-model-generator,cemerenb,C# to Dart Model Generator,1.0.1,Convert C# DTO / model classes into Dart models (with fromJson and toJson) and paste directly in VS Code.
+2026-10-03T01:05:54.79Z,rsandoval1206.js-obfuscator-pro,rsandoval1206,JS Obfuscator Pro,1.0.0,"Obfuscate JavaScript, TypeScript and inline HTML scripts from inside VS Code."
+2026-10-03T01:06:04.01Z,ashisha7i.status-bar-customizer,ashisha7i,Color My Status,0.0.5,Show custom text in the status bar and change the status bar color.
