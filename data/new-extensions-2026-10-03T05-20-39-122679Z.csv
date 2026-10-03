@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T04:18:29.067Z,player-Muteki.sakura-macaron,player-Muteki,Sakura Macaron,0.1.0,樱花马卡龙配色主题 — 暗色灰蓝与亮色樱粉的完整独立主题，含语法高亮、Git、终端、Diff、调试与 Chat 全面配色。
+2026-10-03T04:35:43.06Z,TripleHelixProgramming.wpilog-analyzer,TripleHelixProgramming,WPILog Analyzer,0.9.0,AI-powered FRC robot log analysis via MCP. Analyzes .wpilog telemetry from the roboRIO.
+2026-10-03T04:46:58.573Z,codeprism-team.codeprism-static-analyser,codeprism-team,CodePrism - Static Code Analyser & Visualizer,1.0.0,"Google Maps for Codebases: Interactive multi-language codebase analysis, progressive code maps, call graphs, dependency trees, and architectural mapping directly inside VS Code."
+2026-10-03T04:50:48.137Z,bensz.bac-viewer,bensz,BAC 贡献账本,0.1.0,查看 BAC 贡献时间线、Git 账本变化及关联代码差异。
+2026-10-03T04:53:26.773Z,cluesurf.term-code,cluesurf,Term,0.5.0,Syntax highlighting and the language server for Term .tree files
+2026-10-03T04:59:10.807Z,alei1180.vscode-code-review-notebook,alei1180,Code Review Notebook,0.1.28,Manual code reviews with local notes and Markdown or PDF reports.

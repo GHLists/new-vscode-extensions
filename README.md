@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 04:19 UTC
+## Latest list — 2026-10-03 05:20 UTC
 
-New extensions published between 2026-10-03 02:19 UTC and 2026-10-03 04:19 UTC.
+New extensions published between 2026-10-03 03:20 UTC and 2026-10-03 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T04-19-59-78513Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T05-20-39-122679Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 03:28:33 | [Arkanit.kurd-web](https://marketplace.visualstudio.com/items?itemName=Arkanit.kurd-web) | Kurd Web | 1.0.2 | Kurd Web – build a complete RTL Kurdish website (Sorani or Badini) step by step… |
-| 2026-10-03 03:51:14 | [ReadyStack.resend-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.resend-migration-check) | Resend Migration Check: SendGrid code l… | 1.0.2 | Moving from Twilio SendGrid to Resend? Flags every @sendgrid/mail and sendgrid… |
-| 2026-10-03 03:51:31 | [ReadyStack.rf-detr-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rf-detr-migration-check) | rf-detr Migration Check — Ultralytics Y… | 1.0.1 | rf-detr migration check: flags Ultralytics YOLO (AGPL-3.0) ties in requirements… |
-| 2026-10-03 03:51:47 | [ReadyStack.skiasharp-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.skiasharp-migration-check) | SkiaSharp Migration Check for ImageSharp | 1.0.2 | Flags SixLabors ImageSharp 3+, Drawing 2+, Fonts 2+ and ImageSharp.Web 3+ refer… |
-| 2026-10-03 03:51:59 | [ReadyStack.vscodium-extension-licence-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.vscodium-extension-licence-lint) | VSCodium Migration Lint: Microsoft-only… | 1.0.2 | VSCodium migration check: flags extensions in .vscode/extensions.json and devco… |
-| 2026-10-03 04:05:12 | [clarity-orbital.pixel-clarity](https://marketplace.visualstudio.com/items?itemName=clarity-orbital.pixel-clarity) | Pixel Clarity — FITS, HDF5 & NumPy imag… | 0.1.0 | Inspect FITS, NumPy, HDF5 and TIFF images in VS Code: zscale, stretches, colorm… |
+| 2026-10-03 04:18:29 | [player-Muteki.sakura-macaron](https://marketplace.visualstudio.com/items?itemName=player-Muteki.sakura-macaron) | Sakura Macaron | 0.1.0 | 樱花马卡龙配色主题 — 暗色灰蓝与亮色樱粉的完整独立主题，含语法高亮、Git、终端、Diff、调试与 Chat 全面配色。 |
+| 2026-10-03 04:35:43 | [TripleHelixProgramming.wpilog-analyzer](https://marketplace.visualstudio.com/items?itemName=TripleHelixProgramming.wpilog-analyzer) | WPILog Analyzer | 0.9.0 | AI-powered FRC robot log analysis via MCP. Analyzes .wpilog telemetry from the… |
+| 2026-10-03 04:46:58 | [codeprism-team.codeprism-static-analyser](https://marketplace.visualstudio.com/items?itemName=codeprism-team.codeprism-static-analyser) | CodePrism - Static Code Analyser & Visu… | 1.0.0 | Google Maps for Codebases: Interactive multi-language codebase analysis, progre… |
+| 2026-10-03 04:50:48 | [bensz.bac-viewer](https://marketplace.visualstudio.com/items?itemName=bensz.bac-viewer) | BAC 贡献账本 | 0.1.0 | 查看 BAC 贡献时间线、Git 账本变化及关联代码差异。 |
+| 2026-10-03 04:53:26 | [cluesurf.term-code](https://marketplace.visualstudio.com/items?itemName=cluesurf.term-code) | Term | 0.5.0 | Syntax highlighting and the language server for Term .tree files |
+| 2026-10-03 04:59:10 | [alei1180.vscode-code-review-notebook](https://marketplace.visualstudio.com/items?itemName=alei1180.vscode-code-review-notebook) | Code Review Notebook | 0.1.28 | Manual code reviews with local notes and Markdown or PDF reports. |
 
 ## Data source
 
