@@ -12,23 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 02:19 UTC
+## Latest list — 2026-10-03 03:20 UTC
 
-New extensions published between 2026-10-03 00:19 UTC and 2026-10-03 02:19 UTC.
+New extensions published between 2026-10-03 01:20 UTC and 2026-10-03 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T02-19-03-891147Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T03-20-37-242696Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 01:17:47 | [machshev1969.markdown-format-diff](https://marketplace.visualstudio.com/items?itemName=machshev1969.markdown-format-diff) | Markdown Format Diff | 0.2.2 | Preview Markdown formatting changes in a VS Code diff editor before modifying f… |
-| 2026-10-03 01:30:58 | [Draco12191712.claude-inspired-theme-unofficial](https://marketplace.visualstudio.com/items?itemName=Draco12191712.claude-inspired-theme-unofficial) | Claude-Inspired Theme (Unofficial) | 0.0.1 | An unofficial theme for VS Code inspired by the look of the Claude app. Not aff… |
-| 2026-10-03 01:43:29 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-27](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-27) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 27/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:44:12 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-28](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-28) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 28/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:44:54 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-29](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-29) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 29/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:45:32 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-30](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-30) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 30/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:46:12 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-31](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-31) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 31/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:46:52 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-32](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-32) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 32/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 01:58:12 | [supanadit.morse](https://marketplace.visualstudio.com/items?itemName=supanadit.morse) | Morse | 0.2.1 | Comfortable Pi Interface — chat with the Pi coding agent inside VS Code, using… |
+| 2026-10-03 02:18:22 | [Ronica.csv-row-details](https://marketplace.visualstudio.com/items?itemName=Ronica.csv-row-details) | CSV Viewer: Table + Row Details | 0.7.1 | Read wide CSV/TSV files without scrolling sideways: keep key columns in the tab… |
+| 2026-10-03 02:37:04 | [statiolake.simple-swagger-viewer](https://marketplace.visualstudio.com/items?itemName=statiolake.simple-swagger-viewer) | Simple Swagger Viewer | 0.1.0 | Live Swagger UI preview for OpenAPI / Swagger YAML and JSON files. |
 
 ## Data source
 
