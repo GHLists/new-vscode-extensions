@@ -12,21 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 12:19 UTC
+## Latest list — 2026-10-03 13:19 UTC
 
-New extensions published between 2026-10-03 10:19 UTC and 2026-10-03 12:19 UTC.
+New extensions published between 2026-10-03 11:19 UTC and 2026-10-03 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T12-19-33-508469Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T13-19-27-668359Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 11:37:12 | [bey-muhendislik.bmtool-vscode](https://marketplace.visualstudio.com/items?itemName=bey-muhendislik.bmtool-vscode) | BM Tool | 0.5.0 | Nuvoton NuMicro projeleri için GCC/Keil/SDCC derleme, doğrulamalı flash, debug… |
-| 2026-10-03 11:47:00 | [Meiorz.hopout](https://marketplace.visualstudio.com/items?itemName=Meiorz.hopout) | HopOut - Tab Out of Brackets & Quotes | 0.1.0 | Move outside the nearest enclosing quote, bracket or paren. Structure-aware, mu… |
-| 2026-10-03 11:48:37 | [MECoreLabs.script-runner-gui](https://marketplace.visualstudio.com/items?itemName=MECoreLabs.script-runner-gui) | Script Runner GUI | 1.3.1 | A polished GUI for discovering and running NPM scripts with real-time output |
-| 2026-10-03 11:53:35 | [nexoracoding.nexora-ai](https://marketplace.visualstudio.com/items?itemName=nexoracoding.nexora-ai) | Nexora AI | 1.0.0 | The AI that transforms the way you code |
-| 2026-10-03 12:00:11 | [liadyar.pandera-hover](https://marketplace.visualstudio.com/items?itemName=liadyar.pandera-hover) | Pandera Schema Hover | 0.1.0 | See a pandera DataFrameModel's columns right in the hover of any DataFrame[Sche… |
-| 2026-10-03 12:03:53 | [Nylo.nylo](https://marketplace.visualstudio.com/items?itemName=Nylo.nylo) | Nylo | 0.1.2 | Per-environment Flutter run configurations for Nylo projects, generated from yo… |
-| 2026-10-03 12:05:08 | [AlanRemanan.code2prompt](https://marketplace.visualstudio.com/items?itemName=AlanRemanan.code2prompt) | code2prompt | 0.0.1 | Copy files and folders into AI-friendly prompts |
+| 2026-10-03 12:22:58 | [chengbin.aigc-video-studio](https://marketplace.visualstudio.com/items?itemName=chengbin.aigc-video-studio) | AIGC Video Studio | 0.1.0 | 在 VS Code 中完成 AIGC 视频创作：剧本、分镜、素材与视频生成。 |
+| 2026-10-03 12:28:05 | [lilinhuang.garnet-porcelain-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.garnet-porcelain-theme) | Garnet Porcelain Theme | 1.0.0 | Garnet red, ivory porcelain, pale gold and dusty blue in coordinated light and… |
+| 2026-10-03 12:32:11 | [super-shrine.ond-vscode-ext](https://marketplace.visualstudio.com/items?itemName=super-shrine.ond-vscode-ext) | Ond | 0.1.0 | Language support for the Ond programming language. |
+| 2026-10-03 12:40:59 | [vscode-full-featured-hub.vscode-full-featured-hub](https://marketplace.visualstudio.com/items?itemName=vscode-full-featured-hub.vscode-full-featured-hub) | Full Featured Hub | 2.1.0 | ONE extensible HUD card in the bottom panel that hosts many panels in a free co… |
+| 2026-10-03 12:43:41 | [Nylo.vscode-nylo](https://marketplace.visualstudio.com/items?itemName=Nylo.vscode-nylo) | Nylo for VS Code | 0.1.2 | Per-environment Flutter run configurations for Nylo projects, generated from yo… |
+| 2026-10-03 12:43:56 | [balochdev.fusionai](https://marketplace.visualstudio.com/items?itemName=balochdev.fusionai) | FusionAI | 0.1.0 | Chat with FusionAI, analyze trusted workspaces read-only, and review single-fil… |
+| 2026-10-03 12:58:27 | [lilinhuang.sapphire-tide-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.sapphire-tide-theme) | Sapphire Tide Theme | 1.0.0 | Deep sea blue, indigo and pale cyan in coordinated ocean-inspired light and dar… |
+| 2026-10-03 12:59:21 | [CostinRizan.ohipfn](https://marketplace.visualstudio.com/items?itemName=CostinRizan.ohipfn) | OhipFn | 0.9.1 | Catalog, scaffolding, validation, local dev host and invocation inspection for… |
+| 2026-10-03 13:10:25 | [pac-local.pax-pascal](https://marketplace.visualstudio.com/items?itemName=pac-local.pax-pascal) | PAX Pascal | 0.3.1 | Outils Pascal : coloration, snippets, compilation, diagnostics et navigation. |
+| 2026-10-03 13:13:59 | [lilinhuang.coral-dusk-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.coral-dusk-theme) | Coral Dusk Theme | 1.0.0 | Coral sunset, dusty rose, muted purple and steel blue in coordinated light and… |
 
 ## Data source
 

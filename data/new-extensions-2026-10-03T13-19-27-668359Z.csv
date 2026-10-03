@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T12:22:58.043Z,chengbin.aigc-video-studio,chengbin,AIGC Video Studio,0.1.0,在 VS Code 中完成 AIGC 视频创作：剧本、分镜、素材与视频生成。
+2026-10-03T12:28:05.85Z,lilinhuang.garnet-porcelain-theme,lilinhuang,Garnet Porcelain Theme,1.0.0,"Garnet red, ivory porcelain, pale gold and dusty blue in coordinated light and dark themes."
+2026-10-03T12:32:11.717Z,super-shrine.ond-vscode-ext,super-shrine,Ond,0.1.0,Language support for the Ond programming language.
+2026-10-03T12:40:59.593Z,vscode-full-featured-hub.vscode-full-featured-hub,vscode-full-featured-hub,Full Featured Hub,2.1.0,"ONE extensible HUD card in the bottom panel that hosts many panels in a free column grid. Subscription quota (OpenCode GO, DeepSeek, GLM, Kimi, Grok, MiMo, OpenRouter, SiliconFlow, Qwen Token Plan, Command Code, custom JSON endpoints, in-card credential drawer, 30-day usage chart), GitHub activity,"
+2026-10-03T12:43:41.797Z,Nylo.vscode-nylo,Nylo,Nylo for VS Code,0.1.2,"Per-environment Flutter run configurations for Nylo projects, generated from your .env files."
+2026-10-03T12:43:56.373Z,balochdev.fusionai,balochdev,FusionAI,0.1.0,"Chat with FusionAI, analyze trusted workspaces read-only, and review single-file code proposals."
+2026-10-03T12:58:27.047Z,lilinhuang.sapphire-tide-theme,lilinhuang,Sapphire Tide Theme,1.0.0,"Deep sea blue, indigo and pale cyan in coordinated ocean-inspired light and dark themes."
+2026-10-03T12:59:21.433Z,CostinRizan.ohipfn,CostinRizan,OhipFn,0.9.1,"Catalog, scaffolding, validation, local dev host and invocation inspection for OhipFn function developers — a thin client over the OhipFn dev host and MCP server."
+2026-10-03T13:10:25.673Z,pac-local.pax-pascal,pac-local,PAX Pascal,0.3.1,"Outils Pascal : coloration, snippets, compilation, diagnostics et navigation."
+2026-10-03T13:13:59.62Z,lilinhuang.coral-dusk-theme,lilinhuang,Coral Dusk Theme,1.0.0,"Coral sunset, dusty rose, muted purple and steel blue in coordinated light and dark themes."
