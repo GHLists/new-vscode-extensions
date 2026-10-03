@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T08:10:01.073Z,DoItBetterStudio.vscode-xenoscript,DoItBetterStudio,XenoScript,1.0.1,Language support for XenoScript — the modding scripting language
+2026-10-03T08:29:38.483Z,fengdonglu.mermaid-opm-vscode,fengdonglu,mermaid-opm-vscode,0.1.1,"VS Code support for OPL (ISO 19450) — syntax highlighting, diagnostics, preview"
+2026-10-03T09:01:33.287Z,an5orm.an5-orm-vscode,an5orm,AN5 ORM Schema Tooling,1.0.5,Syntax highlighting and formatting for .an5 schema files.
+2026-10-03T09:04:41.383Z,Jakobonly.vaultwarden-env,Jakobonly,Vaultwarden Env Sync,0.2.1,Sidebar panel to sync .env files (and other small secret files) between machines via Vaultwarden or Bitwarden Secure Notes.
+2026-10-03T09:05:38.607Z,rover-lernumgebung.rover-welt,rover-lernumgebung,Rover-Welt (Vorschau),0.0.1,"Vorschau für Rover-Programme im Informatikunterricht: Java im Browser kompilieren und ausführen, ohne Installation."
+2026-10-03T09:05:40.563Z,fengdonglu.sysml2-mermaid-vscode,fengdonglu,sysml2-mermaid-vscode,0.1.1,"VS Code support for SysML v2 textual notation — syntax highlighting, diagnostics, preview"
+2026-10-03T09:11:10.15Z,chirag-sharma.project-statistics,chirag-sharma,Project Statistics,0.0.1,Analyze project files and generate useful statistics
