@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 17:20 UTC
+## Latest list — 2026-10-03 18:20 UTC
 
-New extensions published between 2026-10-03 15:20 UTC and 2026-10-03 17:20 UTC.
+New extensions published between 2026-10-03 16:20 UTC and 2026-10-03 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T17-20-42-63325Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T18-20-58-551391Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 16:21:08 | [filippochinni.settings-ides--keymap](https://marketplace.visualstudio.com/items?itemName=filippochinni.settings-ides--keymap) | Settings IDEs - Keymap | 1.0.1 | Settings IDEs - Keymap - VS Code |
-| 2026-10-03 16:30:59 | [Operandi.codex-companion-vscode](https://marketplace.visualstudio.com/items?itemName=Operandi.codex-companion-vscode) | Codex Companion | 0.38.2 | Private mobile companion for Codex: browse chat history, monitor AI coding agen… |
-| 2026-10-03 16:47:44 | [NathanRoark.sora](https://marketplace.visualstudio.com/items?itemName=NathanRoark.sora) | Sora | 1.0.0 | Sora Theme for VS Code |
-| 2026-10-03 16:57:05 | [technolukas.typst-preview-auto](https://marketplace.visualstudio.com/items?itemName=technolukas.typst-preview-auto) | Typst Preview Auto | 0.0.4 | Automatically pins the active Typst file in Preview when it becomes active in t… |
-| 2026-10-03 17:01:39 | [m0m0.m0m0-33-project-manager](https://marketplace.visualstudio.com/items?itemName=m0m0.m0m0-33-project-manager) | m0m0-33-project-manager | 0.1.0 | Fork of Project Manager by Alessandro Fragnani, modified by m0m0. Turns the pro… |
-| 2026-10-03 17:10:29 | [maanavkrishna.pyweb](https://marketplace.visualstudio.com/items?itemName=maanavkrishna.pyweb) | PyWeb | 0.4.1 | PyWeb (.pyweb) support: highlighting, errors as you type, hover that shows what… |
-| 2026-10-03 17:10:52 | [grikomsn.opencode-bridge-for-copilot-chat](https://marketplace.visualstudio.com/items?itemName=grikomsn.opencode-bridge-for-copilot-chat) | OpenCode Bridge for Copilot Chat | 1.0.0 | Use OpenCode Console and Go models in GitHub Copilot Chat. |
+| 2026-10-03 17:28:17 | [AvijitKumarTewary.buildarch](https://marketplace.visualstudio.com/items?itemName=AvijitKumarTewary.buildarch) | BuildArch | 1.0.0 | 100% free workspace architecture & design analyzer. Supports Java, C#/.NET, C/C… |
+| 2026-10-03 17:39:15 | [ShurpoT.file-scaffolder-blueprints](https://marketplace.visualstudio.com/items?itemName=ShurpoT.file-scaffolder-blueprints) | File Scaffolder Blueprints | 0.0.1 | Create files and folders from your own templates with one command. |
+| 2026-10-03 17:47:25 | [mat-jan.matjan-gemini-assistant](https://marketplace.visualstudio.com/items?itemName=mat-jan.matjan-gemini-assistant) | Matjan's Gemini Assistant (Private) | 0.1.0 | Zadawaj pytania Gemini bezpośrednio z VS Code (wymaga osobistego tokena dostępu… |
+| 2026-10-03 17:52:11 | [NikolaMSFT.gogo-language](https://marketplace.visualstudio.com/items?itemName=NikolaMSFT.gogo-language) | Gogo UI | 0.2.1 | Syntax highlighting for .gogo UI files. |
+| 2026-10-03 17:57:27 | [Talyvor.talyvor-code](https://marketplace.visualstudio.com/items?itemName=Talyvor.talyvor-code) | Talyvor Code | 0.1.0 | AI coding assistant powered by Talyvor Lens — track AI costs per issue |
+| 2026-10-03 18:02:54 | [aizan.flask-starter](https://marketplace.visualstudio.com/items?itemName=aizan.flask-starter) | Flask Starter | 0.0.1 | Høyreklikk på en mappe og få app.py, templates/index.html og static/stil.css –… |
+| 2026-10-03 18:11:19 | [gauravgupta0612.vanthrex-ibmi](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.vanthrex-ibmi) | Vanthrex for IBM i | 0.3.0 | A friendly, all-in-one IBM i workbench for VS Code: connection wizard, library… |
 
 ## Data source
 

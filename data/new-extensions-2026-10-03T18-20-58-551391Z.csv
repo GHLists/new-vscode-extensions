@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T17:28:17.67Z,AvijitKumarTewary.buildarch,AvijitKumarTewary,BuildArch,1.0.0,"100% free workspace architecture & design analyzer. Supports Java, C#/.NET, C/C++, Delphi/Object Pascal, Python, JavaScript, TypeScript, React.js, Angular, Node.js, Dart/Flutter, PowerShell, Perl, Go, Rust, Kotlin, Swift, PHP, Ruby, Shell/Bash, SQL, Docker, Kubernetes, CI/CD, gRPC Proto, OpenAPI."
+2026-10-03T17:39:15.657Z,ShurpoT.file-scaffolder-blueprints,ShurpoT,File Scaffolder Blueprints,0.0.1,Create files and folders from your own templates with one command.
+2026-10-03T17:47:25.803Z,mat-jan.matjan-gemini-assistant,mat-jan,Matjan's Gemini Assistant (Private),0.1.0,Zadawaj pytania Gemini bezpośrednio z VS Code (wymaga osobistego tokena dostępu).
+2026-10-03T17:52:11.183Z,NikolaMSFT.gogo-language,NikolaMSFT,Gogo UI,0.2.1,Syntax highlighting for .gogo UI files.
+2026-10-03T17:57:27Z,Talyvor.talyvor-code,Talyvor,Talyvor Code,0.1.0,AI coding assistant powered by Talyvor Lens — track AI costs per issue
+2026-10-03T18:02:54.063Z,aizan.flask-starter,aizan,Flask Starter,0.0.1,"Høyreklikk på en mappe og få app.py, templates/index.html og static/stil.css – klart til å kode Flask."
+2026-10-03T18:11:19.203Z,gauravgupta0612.vanthrex-ibmi,gauravgupta0612,Vanthrex for IBM i,0.3.0,"A friendly, all-in-one IBM i workbench for VS Code: connection wizard, library & IFS browser, edit and compile with inline errors, Db2 for i SQL with autocomplete, table data editor, system dashboard, jobs & messages, object and source search, RPG navigation and code checks, local history."
