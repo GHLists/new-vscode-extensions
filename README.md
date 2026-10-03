@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 11:19 UTC
+## Latest list — 2026-10-03 12:19 UTC
 
-New extensions published between 2026-10-03 09:19 UTC and 2026-10-03 11:19 UTC.
+New extensions published between 2026-10-03 10:19 UTC and 2026-10-03 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T11-19-30-503022Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T12-19-33-508469Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 10:50:12 | [opsva.archi-model-qwen3-30b-a3b-q4km-part-33](https://marketplace.visualstudio.com/items?itemName=opsva.archi-model-qwen3-30b-a3b-q4km-part-33) | Archi Agents — Modèle Qwen3 MoE 30B (fr… | 0.1.0 | Fragment 33/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agen… |
-| 2026-10-03 10:53:22 | [beskid-lang.beskid-vscode](https://marketplace.visualstudio.com/items?itemName=beskid-lang.beskid-vscode) | Beskid | 0.5.2 | Beskid language support for VS Code with bundled cross-platform LSP binaries an… |
-| 2026-10-03 10:57:16 | [lanoerber.agents-usage-vscode](https://marketplace.visualstudio.com/items?itemName=lanoerber.agents-usage-vscode) | Agents Usage | 1.0.12 | View provider-reported OpenAI Codex and GitHub Copilot usage in Visual Studio C… |
-| 2026-10-03 11:08:32 | [VincentKempers.gobbie-gob-goo](https://marketplace.visualstudio.com/items?itemName=VincentKempers.gobbie-gob-goo) | Gobbie Gob Goo | 2.0.0 | A dark theme with a bit of light |
-| 2026-10-03 11:12:28 | [U-EPTM.sqlite-libsql-preview-edit](https://marketplace.visualstudio.com/items?itemName=U-EPTM.sqlite-libsql-preview-edit) | SQLite/LibSQL Preview&Edit | 0.0.1 | Preview and edit SQLite / LibSQL database files with a rich UI, SQL editor, imp… |
+| 2026-10-03 11:37:12 | [bey-muhendislik.bmtool-vscode](https://marketplace.visualstudio.com/items?itemName=bey-muhendislik.bmtool-vscode) | BM Tool | 0.5.0 | Nuvoton NuMicro projeleri için GCC/Keil/SDCC derleme, doğrulamalı flash, debug… |
+| 2026-10-03 11:47:00 | [Meiorz.hopout](https://marketplace.visualstudio.com/items?itemName=Meiorz.hopout) | HopOut - Tab Out of Brackets & Quotes | 0.1.0 | Move outside the nearest enclosing quote, bracket or paren. Structure-aware, mu… |
+| 2026-10-03 11:48:37 | [MECoreLabs.script-runner-gui](https://marketplace.visualstudio.com/items?itemName=MECoreLabs.script-runner-gui) | Script Runner GUI | 1.3.1 | A polished GUI for discovering and running NPM scripts with real-time output |
+| 2026-10-03 11:53:35 | [nexoracoding.nexora-ai](https://marketplace.visualstudio.com/items?itemName=nexoracoding.nexora-ai) | Nexora AI | 1.0.0 | The AI that transforms the way you code |
+| 2026-10-03 12:00:11 | [liadyar.pandera-hover](https://marketplace.visualstudio.com/items?itemName=liadyar.pandera-hover) | Pandera Schema Hover | 0.1.0 | See a pandera DataFrameModel's columns right in the hover of any DataFrame[Sche… |
+| 2026-10-03 12:03:53 | [Nylo.nylo](https://marketplace.visualstudio.com/items?itemName=Nylo.nylo) | Nylo | 0.1.2 | Per-environment Flutter run configurations for Nylo projects, generated from yo… |
+| 2026-10-03 12:05:08 | [AlanRemanan.code2prompt](https://marketplace.visualstudio.com/items?itemName=AlanRemanan.code2prompt) | code2prompt | 0.0.1 | Copy files and folders into AI-friendly prompts |
 
 ## Data source
 
