@@ -12,20 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 07:19 UTC
+## Latest list — 2026-10-03 08:19 UTC
 
-New extensions published between 2026-10-03 05:19 UTC and 2026-10-03 07:19 UTC.
+New extensions published between 2026-10-03 06:19 UTC and 2026-10-03 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T07-19-01-219698Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T08-19-36-099634Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 06:24:11 | [agomezb.git-project-explorer](https://marketplace.visualstudio.com/items?itemName=agomezb.git-project-explorer) | Git Project Explorer | 0.1.0 | Multi-repo management extension for Visual Studio Code: Explorer, Commands, and… |
-| 2026-10-03 06:26:23 | [emanuelebartolesi.vscode-carbonbit](https://marketplace.visualstudio.com/items?itemName=emanuelebartolesi.vscode-carbonbit) | CarbonBit | 0.0.2 | Estimate the energy, CO₂e and water behind your AI coding (GitHub Copilot, Clau… |
-| 2026-10-03 06:50:55 | [tsekino62.voice-coder](https://marketplace.visualstudio.com/items?itemName=tsekino62.voice-coder) | Voice Coder | 0.1.1 | 日本語の音声で generate / explain / debug を指示する VS Code 拡張 |
-| 2026-10-03 07:11:13 | [Kurosyss.svg2css](https://marketplace.visualstudio.com/items?itemName=Kurosyss.svg2css) | SVG2CSS Studio — SVG to CSS & Tailwind… | 1.0.0 | Convert SVG files and code directly into optimized CSS Data URIs, CSS mask-imag… |
-| 2026-10-03 07:14:11 | [nifty.nifty-runner](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-runner) | Nifty Code Runner: Run Code in 25+ Lang… | 0.1.0 | Run the current file or selection in 25+ languages in the terminal, with input… |
-| 2026-10-03 07:14:26 | [nifty.nifty-format-on-save](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-format-on-save) | Nifty Format on Save: Toggle, Exclude &… | 0.1.0 | Control format on save: a status bar toggle, folders and files that are never f… |
+| 2026-10-03 07:14:21 | [nifty.nifty-run](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-run) | Nifty Run: npm Scripts, Make & Task Run… | 0.1.0 | Everything you can run in one view: npm, pnpm and yarn scripts, make and just t… |
+| 2026-10-03 07:18:56 | [abhijeetkaze.amaze-browser](https://marketplace.visualstudio.com/items?itemName=abhijeetkaze.amaze-browser) | Amaze Browser | 1.0.1 | A fast embedded Chromium browser inside VS Code, with DevTools, device emulatio… |
+| 2026-10-03 07:21:15 | [russoedu.lore-master](https://marketplace.visualstudio.com/items?itemName=russoedu.lore-master) | Lore Master | 0.0.4 | Gathers a project's lore: syncs the workspace's Markdown into a documentation p… |
+| 2026-10-03 07:23:41 | [nifty.nifty-docstrings](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-docstrings) | Nifty Docstrings: Doc Comments for Pyth… | 0.1.0 | Type three quotes under a Python function and get a Google, NumPy or Sphinx doc… |
+| 2026-10-03 07:23:47 | [nifty.nifty-shortcuts](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-shortcuts) | Nifty Shortcut Trainer: Learn Keyboard… | 0.1.0 | Learn VS Code keyboard shortcuts while you work: spots slow habits like arrow-k… |
+| 2026-10-03 07:23:52 | [nifty.nifty-workspace-keybindings](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-workspace-keybindings) | Nifty Workspace Keybindings: Per-Projec… | 0.1.0 | Keybindings per project: put them in .vscode/keybindings.json and they work onl… |
+| 2026-10-03 07:23:59 | [nifty.nifty-launch](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-launch) | Nifty Launch: launch.json Generator & C… | 0.1.0 | Add debug configurations for what's in your project (npm scripts, tests, Python… |
+| 2026-10-03 07:42:55 | [vhyxara.vhyxchart-vscode](https://marketplace.visualstudio.com/items?itemName=vhyxara.vhyxchart-vscode) | VhyxChart — animated diagrams | 0.1.1 | Live, animated architecture, flow, sequence and algorithm diagrams in Markdown… |
+| 2026-10-03 07:49:41 | [levkosyk.transform-tools](https://marketplace.visualstudio.com/items?itemName=levkosyk.transform-tools) | Transform — JSON Formatter, JWT Decoder… | 1.0.0 | JSON formatter & validator, JWT decoder, Base64 and timestamp hovers, JSON to T… |
+| 2026-10-03 08:01:53 | [olumuyiwa-agboola.line-up](https://marketplace.visualstudio.com/items?itemName=olumuyiwa-agboola.line-up) | Line Up | 1.0.3 | Rearranges selected lines in ascending order of length, from shortest to longes… |
+| 2026-10-03 08:09:53 | [ashisha7i.status-quo](https://marketplace.visualstudio.com/items?itemName=ashisha7i.status-quo) | Status Quo | 0.0.1 | Show custom text in the status bar and change the status bar color. |
+| 2026-10-03 08:10:11 | [voidric.codeatlas-architecture](https://marketplace.visualstudio.com/items?itemName=voidric.codeatlas-architecture) | CodeAtlas Architecture: Code Graph & Le… | 0.1.0 | 多语言代码架构资产全景认知中心 (Python / TypeScript / JS)，提供四层架构透镜、全景报告、拓扑流转与代码罗盘 |
+| 2026-10-03 08:13:34 | [ape1121.dark-2026-minimal-purple](https://marketplace.visualstudio.com/items?itemName=ape1121.dark-2026-minimal-purple) | Dark 2026 Minimal Purple | 0.1.0 | A minimal near-black VS Code theme with deep purple accents, based on Dark 2026. |
 
 ## Data source
 
