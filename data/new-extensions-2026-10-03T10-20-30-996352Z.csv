@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T09:22:21.123Z,sonensei.json-canopy,sonensei,JSON Canopy,0.3.0,"Browse and edit JSON files as nested tables and forms, with JSON Schema support."
+2026-10-03T09:40:35.89Z,Manas-dev.cpp-boilerplate,Manas-dev,C++ Competitive Programming Boilerplate,1.0.0,"Instant C++ and Competitive Programming templates, fast I/O snippets, and code generators for VS Code."
+2026-10-03T09:50:13.11Z,AgentlandLab.ue-quick-buttons,AgentlandLab,UE Quick Buttons,0.1.9,自动识别虚幻引擎项目(*.uproject)或引擎源码(UE5.sln)，在VScode里编译/运行
+2026-10-03T09:52:28.057Z,IThlet.schedex,IThlet,Schedex,1.0.0,Schedule prompts for existing or new Codex conversations.
+2026-10-03T09:58:16.463Z,codecampus.codecampus,codecampus,CodeCampus,1.0.0,"Testez et validez vos exercices Python CodeCampus directement depuis VS Code, avec votre propre interpréteur Python."
