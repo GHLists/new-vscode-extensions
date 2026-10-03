@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T20:18:45.537Z,IdeogramTechnologySolutionsPvtLtd.ideogram-claude-account-switcher,IdeogramTechnologySolutionsPvtLtd,Account Switcher for Claude Code (Unofficial),0.1.0,"Switch between multiple Claude Code accounts (work, personal, clients) without logging in and out. Not affiliated with Anthropic."
+2026-10-03T20:49:28.557Z,TraceGrab-KaranSinha.tracegrab,TraceGrab-KaranSinha,Tracegrab,0.0.2,"Prove AI-changed code still behaves correctly at runtime. Drive handlers with sequenced API calls, trace the real data flow, diff behavior against a baseline, and gate the change on it."
+2026-10-03T20:50:28.397Z,ukown812.expo-snippets,ukown812,Expo Snippets,0.1.2,Generate complete React Native screens with a single abbreviation.
+2026-10-03T20:52:55.477Z,dmoreano-dev.service-bus-workbench,dmoreano-dev,Service Bus Workbench,0.2.0,"Explore Azure Service Bus queues: peek and receive messages, send and resend them, and keep a history of everything you sent."
+2026-10-03T21:09:34.933Z,nolindnaidoo.unicode-le,nolindnaidoo,Unicode-LE,1.0.0,"Find the Unicode that hides meaning in a codebase, and never print one of those characters into the report"
+2026-10-03T21:13:10.74Z,OezbekVenturesGmbH.claude-revive,OezbekVenturesGmbH,Claude Revive,0.1.0,"Reopen Claude Code sessions after a reboot, a VS Code update or a closed window. Unofficial."
