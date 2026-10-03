@@ -12,16 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 03:20 UTC
+## Latest list — 2026-10-03 04:19 UTC
 
-New extensions published between 2026-10-03 01:20 UTC and 2026-10-03 03:20 UTC.
+New extensions published between 2026-10-03 02:19 UTC and 2026-10-03 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T03-20-37-242696Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T04-19-59-78513Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 02:18:22 | [Ronica.csv-row-details](https://marketplace.visualstudio.com/items?itemName=Ronica.csv-row-details) | CSV Viewer: Table + Row Details | 0.7.1 | Read wide CSV/TSV files without scrolling sideways: keep key columns in the tab… |
-| 2026-10-03 02:37:04 | [statiolake.simple-swagger-viewer](https://marketplace.visualstudio.com/items?itemName=statiolake.simple-swagger-viewer) | Simple Swagger Viewer | 0.1.0 | Live Swagger UI preview for OpenAPI / Swagger YAML and JSON files. |
+| 2026-10-03 03:28:33 | [Arkanit.kurd-web](https://marketplace.visualstudio.com/items?itemName=Arkanit.kurd-web) | Kurd Web | 1.0.2 | Kurd Web – build a complete RTL Kurdish website (Sorani or Badini) step by step… |
+| 2026-10-03 03:51:14 | [ReadyStack.resend-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.resend-migration-check) | Resend Migration Check: SendGrid code l… | 1.0.2 | Moving from Twilio SendGrid to Resend? Flags every @sendgrid/mail and sendgrid… |
+| 2026-10-03 03:51:31 | [ReadyStack.rf-detr-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rf-detr-migration-check) | rf-detr Migration Check — Ultralytics Y… | 1.0.1 | rf-detr migration check: flags Ultralytics YOLO (AGPL-3.0) ties in requirements… |
+| 2026-10-03 03:51:47 | [ReadyStack.skiasharp-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.skiasharp-migration-check) | SkiaSharp Migration Check for ImageSharp | 1.0.2 | Flags SixLabors ImageSharp 3+, Drawing 2+, Fonts 2+ and ImageSharp.Web 3+ refer… |
+| 2026-10-03 03:51:59 | [ReadyStack.vscodium-extension-licence-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.vscodium-extension-licence-lint) | VSCodium Migration Lint: Microsoft-only… | 1.0.2 | VSCodium migration check: flags extensions in .vscode/extensions.json and devco… |
+| 2026-10-03 04:05:12 | [clarity-orbital.pixel-clarity](https://marketplace.visualstudio.com/items?itemName=clarity-orbital.pixel-clarity) | Pixel Clarity — FITS, HDF5 & NumPy imag… | 0.1.0 | Inspect FITS, NumPy, HDF5 and TIFF images in VS Code: zscale, stretches, colorm… |
 
 ## Data source
 
