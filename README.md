@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 05:20 UTC
+## Latest list — 2026-10-03 06:19 UTC
 
-New extensions published between 2026-10-03 03:20 UTC and 2026-10-03 05:20 UTC.
+New extensions published between 2026-10-03 04:19 UTC and 2026-10-03 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T05-20-39-122679Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T06-19-18-955733Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 04:18:29 | [player-Muteki.sakura-macaron](https://marketplace.visualstudio.com/items?itemName=player-Muteki.sakura-macaron) | Sakura Macaron | 0.1.0 | 樱花马卡龙配色主题 — 暗色灰蓝与亮色樱粉的完整独立主题，含语法高亮、Git、终端、Diff、调试与 Chat 全面配色。 |
-| 2026-10-03 04:35:43 | [TripleHelixProgramming.wpilog-analyzer](https://marketplace.visualstudio.com/items?itemName=TripleHelixProgramming.wpilog-analyzer) | WPILog Analyzer | 0.9.0 | AI-powered FRC robot log analysis via MCP. Analyzes .wpilog telemetry from the… |
-| 2026-10-03 04:46:58 | [codeprism-team.codeprism-static-analyser](https://marketplace.visualstudio.com/items?itemName=codeprism-team.codeprism-static-analyser) | CodePrism - Static Code Analyser & Visu… | 1.0.0 | Google Maps for Codebases: Interactive multi-language codebase analysis, progre… |
-| 2026-10-03 04:50:48 | [bensz.bac-viewer](https://marketplace.visualstudio.com/items?itemName=bensz.bac-viewer) | BAC 贡献账本 | 0.1.0 | 查看 BAC 贡献时间线、Git 账本变化及关联代码差异。 |
-| 2026-10-03 04:53:26 | [cluesurf.term-code](https://marketplace.visualstudio.com/items?itemName=cluesurf.term-code) | Term | 0.5.0 | Syntax highlighting and the language server for Term .tree files |
-| 2026-10-03 04:59:10 | [alei1180.vscode-code-review-notebook](https://marketplace.visualstudio.com/items?itemName=alei1180.vscode-code-review-notebook) | Code Review Notebook | 0.1.28 | Manual code reviews with local notes and Markdown or PDF reports. |
+| 2026-10-03 05:20:38 | [jeffnyman.inform-ecosystem-vscode](https://marketplace.visualstudio.com/items?itemName=jeffnyman.inform-ecosystem-vscode) | Inform Ecosystem | 0.1.0 | Language and tool support for the Inform ecosystem: Inform 7, Inform 6, Inweb,… |
+| 2026-10-03 05:48:56 | [DeeSchaedler.dragonruby-intellisense](https://marketplace.visualstudio.com/items?itemName=DeeSchaedler.dragonruby-intellisense) | DragonRuby Intellisense | 0.0.1 | Ruby completions, snippets, hover descriptions, and signature help for DragonRu… |
+| 2026-10-03 06:04:08 | [cx-language.cx-lang](https://marketplace.visualstudio.com/items?itemName=cx-language.cx-lang) | cx Programming Language | 0.2.0 | Support for the cx programming language |
 
 ## Data source
 
