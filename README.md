@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-03 21:21 UTC
+## Latest list — 2026-10-03 22:20 UTC
 
-New extensions published between 2026-10-03 19:21 UTC and 2026-10-03 21:21 UTC.
+New extensions published between 2026-10-03 20:20 UTC and 2026-10-03 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-03T21-21-33-182579Z.csv)
+[Full CSV](data/new-extensions-2026-10-03T22-20-42-080015Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 20:18:45 | [IdeogramTechnologySolutionsPvtLtd.ideogram-claude-account-switcher](https://marketplace.visualstudio.com/items?itemName=IdeogramTechnologySolutionsPvtLtd.ideogram-claude-account-switcher) | Account Switcher for Claude Code (Unoff… | 0.1.0 | Switch between multiple Claude Code accounts (work, personal, clients) without… |
-| 2026-10-03 20:49:28 | [TraceGrab-KaranSinha.tracegrab](https://marketplace.visualstudio.com/items?itemName=TraceGrab-KaranSinha.tracegrab) | Tracegrab | 0.0.2 | Prove AI-changed code still behaves correctly at runtime. Drive handlers with s… |
-| 2026-10-03 20:50:28 | [ukown812.expo-snippets](https://marketplace.visualstudio.com/items?itemName=ukown812.expo-snippets) | Expo Snippets | 0.1.2 | Generate complete React Native screens with a single abbreviation. |
-| 2026-10-03 20:52:55 | [dmoreano-dev.service-bus-workbench](https://marketplace.visualstudio.com/items?itemName=dmoreano-dev.service-bus-workbench) | Service Bus Workbench | 0.2.0 | Explore Azure Service Bus queues: peek and receive messages, send and resend th… |
-| 2026-10-03 21:09:34 | [nolindnaidoo.unicode-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.unicode-le) | Unicode-LE | 1.0.0 | Find the Unicode that hides meaning in a codebase, and never print one of those… |
-| 2026-10-03 21:13:10 | [OezbekVenturesGmbH.claude-revive](https://marketplace.visualstudio.com/items?itemName=OezbekVenturesGmbH.claude-revive) | Claude Revive | 0.1.0 | Reopen Claude Code sessions after a reboot, a VS Code update or a closed window… |
+| 2026-10-03 21:26:19 | [othmxnee.github-analyzer](https://marketplace.visualstudio.com/items?itemName=othmxnee.github-analyzer) | GitHub Analyzer | 2.0.0 | Knowledge risk, bus factor, hotspots and developer roles for your local Git rep… |
+| 2026-10-03 21:27:15 | [DevAds.devads-extension](https://marketplace.visualstudio.com/items?itemName=DevAds.devads-extension) | DevAds | 1.0.0 | Lightweight advertisement extension displaying sponsored content inside VS Code… |
+| 2026-10-03 21:34:27 | [GrillMyCode.grillmycode](https://marketplace.visualstudio.com/items?itemName=GrillMyCode.grillmycode) | GrillMyCode Companion | 0.1.2 | The companion to the GrillMyCode GitHub Action. Shows the questions it wrote ab… |
+| 2026-10-03 22:00:14 | [UZDoom.uzdoom-vscode](https://marketplace.visualstudio.com/items?itemName=UZDoom.uzdoom-vscode) | UZDoom ZScript | 2.0.0 | UZDoom's multiple scripting languages support (with a focus on ZScript) for VSC… |
+| 2026-10-03 22:13:14 | [prsniffer.prsniffer-review](https://marketplace.visualstudio.com/items?itemName=prsniffer.prsniffer-review) | PRSniffer | 0.5.0 | AI code review + AppSec for your working tree: inline findings, editable fixes,… |
 
 ## Data source
 

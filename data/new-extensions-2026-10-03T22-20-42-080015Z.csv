@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T21:26:19.003Z,othmxnee.github-analyzer,othmxnee,GitHub Analyzer,2.0.0,"Knowledge risk, bus factor, hotspots and developer roles for your local Git repositories. Same dashboard and engine as the website, fully offline."
+2026-10-03T21:27:15.977Z,DevAds.devads-extension,DevAds,DevAds,1.0.0,Lightweight advertisement extension displaying sponsored content inside VS Code & VSCodium.
+2026-10-03T21:34:27.95Z,GrillMyCode.grillmycode,GrillMyCode,GrillMyCode Companion,0.1.2,"The companion to the GrillMyCode GitHub Action. Shows the questions it wrote about your code, beside the code they ask about."
+2026-10-03T22:00:14.747Z,UZDoom.uzdoom-vscode,UZDoom,UZDoom ZScript,2.0.0,UZDoom's multiple scripting languages support (with a focus on ZScript) for VSCode (and compatible editors)
+2026-10-03T22:13:14.017Z,prsniffer.prsniffer-review,prsniffer,PRSniffer,0.5.0,"AI code review + AppSec for your working tree: inline findings, editable fixes, repro steps, and agent handoff."
