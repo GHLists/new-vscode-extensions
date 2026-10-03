@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-03T14:18:15.977Z,PDDEVELOPMENT.easybasic,PDDEVELOPMENT,EasyBASIC,1.0.0,"Rich language support, syntax highlighting, integrated execution, standalone compiler (ebpack), and graphical installer wizard (ebinstaller) for EasyBASIC (.eb)."
+2026-10-03T14:31:18.213Z,sa1ntsinner.rung-scl,sa1ntsinner,rung: SCL and TIA Portal sync,0.2.0,"Siemens SCL language support and two-way TIA Portal sync, compile, online and download through the rung CLI."
+2026-10-03T14:52:28.44Z,yourkwan.easy-gpu,yourkwan,Easy GPU,1.1.0,监控远程 SSH 服务器的 GPU / CPU / 内存状态（gpustat 风格面板），支持各用户显存占用统计。
