@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T12:15:56.563Z,seddryck.expressif-language-support,seddryck,Expressif Language Support,0.37.0,Thin VS Code client for Expressif.LanguageServer.
+2026-10-04T12:19:18.11Z,dkormann.bend-2,dkormann,Bend 2 + BendHub,0.1.0,Bend language coloring and navigation powered by the Bend parser
+2026-10-04T12:25:33.04Z,Acacus.acacus-code,Acacus,Acacus Code,0.2.0,"AI coding agent and inline autocomplete for Visual Studio Code, powered by your Acacus plan. Open models (DeepSeek, Qwen, Kimi, GLM), Arabic and English interface."
+2026-10-04T12:31:29.677Z,thingraph.gcode-viewer,thingraph,GCode Viewer,1.0.0,"A high-performance GCode and 3D model viewer. Supports GCode, IFP, STL, STEP, glTF, and more."
+2026-10-04T12:45:43.283Z,jest-test-team.endpoint-security,jest-test-team,Endpoint Security & Compliance Toolkit,0.1.0,"WFP / ETW / macOS Endpoint Security API validation, PCI DSS 4.0.1 & CCSP compliance scanning, and process-tree detection simulation."
+2026-10-04T12:45:55.603Z,jest-test-team.hw-security,jest-test-team,Embedded Hardware Security Workbench,0.1.0,"ESP32 firmware security linter, NIST SP 800-90B entropy & PUF analysis, and ChipWhisperer side-channel tags."
+2026-10-04T12:46:04.537Z,jest-test-team.julia-profiler,jest-test-team,Julia Invalidation & Compiler Profiler,0.1.0,"Visualise SnoopCompile.jl invalidations and inference time, lint invalidation-prone code, and compare benchmarks."
+2026-10-04T12:46:16.557Z,jest-test-team.security-pack,jest-test-team,Security & Systems Engineering Pack,0.1.0,"Installs the Endpoint Security, Julia Profiler and Embedded Hardware Security extensions together."
+2026-10-04T12:55:58.163Z,shota-m-y.hex-converter,shota-m-y,Hex Converter,0.1.0,"See any number in decimal, hex, binary, octal and ASCII on hover, by shortcut, or in a converter panel — and replace it in place."
