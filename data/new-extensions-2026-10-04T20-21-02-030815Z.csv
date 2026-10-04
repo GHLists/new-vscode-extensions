@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T19:30:06.143Z,5yearsKim.tepl-vscode,5yearsKim,TEPL,0.1.0,Syntax highlighting and configurable formatting for Tensor Equality Pattern Language
+2026-10-04T19:33:11.46Z,archidev-pdlc.archidev-vscode,archidev-pdlc,ArchiDev / PDLC,0.1.6,"Governed PDLC workspaces, Plans and Tasks inside VS Code."
+2026-10-04T19:53:46.71Z,AGRLabs.agr-document-viewer,AGRLabs,AGR Document Viewer,0.3.0,"View Word, Excel and PowerPoint documents right inside VS Code. Double-click to open them in their own app. By AGR Labs."
+2026-10-04T20:07:59.153Z,AGRLabs.agr-theme,AGRLabs,AGR Theme,1.0.0,"AGR Labs themes for VS Code. Starts with Noir Ambre: a minimalist dark theme with a single amber accent, plus file icons with real logos."
+2026-10-04T20:14:46.69Z,epl-lang.konvert,epl-lang,Konvert — English to Code Compiler,0.1.0,"Deterministic English-to-Code compiler — Write English, Ship Code. 0% Hallucinations, <2ms Latency, 100% Offline."
+2026-10-04T20:16:15.683Z,fwdslsh.unify-preview,fwdslsh,unify preview,0.1.0,"Live preview of unify pages, layouts and includes while you edit them, from your own `unify dev`"

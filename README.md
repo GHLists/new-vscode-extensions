@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 19:19 UTC
+## Latest list — 2026-10-04 20:21 UTC
 
-New extensions published between 2026-10-04 17:19 UTC and 2026-10-04 19:19 UTC.
+New extensions published between 2026-10-04 18:21 UTC and 2026-10-04 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T19-19-43-545402Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T20-21-02-030815Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 18:25:41 | [marco-daniel.toucan](https://marketplace.visualstudio.com/items?itemName=marco-daniel.toucan) | Toucan | 1.0.0 | Every repo gets its own color. Know which VS Code window you're in at a glance,… |
-| 2026-10-04 18:33:50 | [takauztovies.epic-pulse](https://marketplace.visualstudio.com/items?itemName=takauztovies.epic-pulse) | Epic Pulse | 0.1.0 | GitHub epic progress for Claude Code sessions |
-| 2026-10-04 18:39:42 | [jenesei-software.project-manager-hub](https://marketplace.visualstudio.com/items?itemName=jenesei-software.project-manager-hub) | Project Manager Hub | 1.0.1 | A git-aware project hub: auto-discovers repositories, shows branch and working-… |
-| 2026-10-04 18:49:13 | [LorikeetSecurity.lory](https://marketplace.visualstudio.com/items?itemName=LorikeetSecurity.lory) | Lory | 0.1.0 | Lorikeet Security's AI reviewer points out vulnerabilities in your code as you… |
-| 2026-10-04 18:58:18 | [FagulhaSoftware.orquestrador-fagulha](https://marketplace.visualstudio.com/items?itemName=FagulhaSoftware.orquestrador-fagulha) | Orquestrador Fagulha | 0.1.0 | Uma sala local para orquestrar seus agentes de desenvolvimento no VS Code. |
-| 2026-10-04 19:07:36 | [vibesaur.vibesaur](https://marketplace.visualstudio.com/items?itemName=vibesaur.vibesaur) | Vibesaur | 0.1.39 | Raise a dinosaur from the quality of your git commits — not just the quantity. |
-| 2026-10-04 19:14:21 | [potosua7.nattee-grader](https://marketplace.visualstudio.com/items?itemName=potosua7.nattee-grader) | Nattee Grader | 0.3.1 | NatteeGrader (Chula 2190101) in VS Code: problem statements, test cases, run, s… |
+| 2026-10-04 19:30:06 | [5yearsKim.tepl-vscode](https://marketplace.visualstudio.com/items?itemName=5yearsKim.tepl-vscode) | TEPL | 0.1.0 | Syntax highlighting and configurable formatting for Tensor Equality Pattern Lan… |
+| 2026-10-04 19:33:11 | [archidev-pdlc.archidev-vscode](https://marketplace.visualstudio.com/items?itemName=archidev-pdlc.archidev-vscode) | ArchiDev / PDLC | 0.1.6 | Governed PDLC workspaces, Plans and Tasks inside VS Code. |
+| 2026-10-04 19:53:46 | [AGRLabs.agr-document-viewer](https://marketplace.visualstudio.com/items?itemName=AGRLabs.agr-document-viewer) | AGR Document Viewer | 0.3.0 | View Word, Excel and PowerPoint documents right inside VS Code. Double-click to… |
+| 2026-10-04 20:07:59 | [AGRLabs.agr-theme](https://marketplace.visualstudio.com/items?itemName=AGRLabs.agr-theme) | AGR Theme | 1.0.0 | AGR Labs themes for VS Code. Starts with Noir Ambre: a minimalist dark theme wi… |
+| 2026-10-04 20:14:46 | [epl-lang.konvert](https://marketplace.visualstudio.com/items?itemName=epl-lang.konvert) | Konvert — English to Code Compiler | 0.1.0 | Deterministic English-to-Code compiler — Write English, Ship Code. 0% Hallucina… |
+| 2026-10-04 20:16:15 | [fwdslsh.unify-preview](https://marketplace.visualstudio.com/items?itemName=fwdslsh.unify-preview) | unify preview | 0.1.0 | Live preview of unify pages, layouts and includes while you edit them, from you… |
 
 ## Data source
 
