@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T05:23:27.16Z,takdanai-mp.ducklake-sql-assistant,takdanai-mp,DuckLake SQL Assistant,0.4.0,"SQL Syntax Highlighting, Smart Autocomplete, Sidebar Catalog Explorer, and Postgres/DuckDB Catalog Autosuggestion inside Python & Jupyter Notebook triple quotes for DuckLake / DuckDB."
+2026-10-04T05:42:42.01Z,harish-chirati.md-previewer-harish,harish-chirati,.md previewer (markdown),0.4.7,A live Markdown viewer and Git-backed development journal.
+2026-10-04T05:46:07.483Z,rscgg.codex-chinese-commit-message,rscgg,Codex 中文提交说明,0.1.1,使用 Codex 生成中文 Git 提交说明并填入提交输入框。
+2026-10-04T05:54:32.153Z,NoThlnG.jupyter-notebook-manager,NoThlnG,Jupyter Notebook Manager,0.0.1,Inspect and stop your own Jupyter kernels on Linux and Remote SSH hosts.
+2026-10-04T06:05:52.523Z,the-b4rd.orb,the-b4rd,Orb,0.1.0,"A coding agent for VS Code, with its own sidebar, that runs entirely on your own Ollama server."
+2026-10-04T06:12:45.41Z,manavbhut.plum,manavbhut,plum by manavbhut,0.0.1,"This is the README for your extension ""plum""."
+2026-10-04T06:15:07.35Z,qscythee.capataz,qscythee,Capataz,0.0.3,Feature-based Systems management for Rojo projects. Opt-in by adding a capataz.config.json at the workspace root.
