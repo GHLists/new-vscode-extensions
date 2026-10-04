@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 18:20 UTC
+## Latest list — 2026-10-04 19:19 UTC
 
-New extensions published between 2026-10-04 16:20 UTC and 2026-10-04 18:20 UTC.
+New extensions published between 2026-10-04 17:19 UTC and 2026-10-04 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T18-20-35-702021Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T19-19-43-545402Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 17:20:12 | [zso-Rose.sakura-nova-X](https://marketplace.visualstudio.com/items?itemName=zso-Rose.sakura-nova-X) | Sakura Nova X | 0.0.1 | A cosmic cherry-blossom theme for VS Code — five hand-tuned variants (Dark, Dar… |
-| 2026-10-04 17:26:24 | [NawfalJaffri.haskell-project-manager](https://marketplace.visualstudio.com/items?itemName=NawfalJaffri.haskell-project-manager) | Haskell Project Manager | 0.0.1 | Add New Haskell File |
-| 2026-10-04 17:27:28 | [PawanP1.copy-file-name-faster](https://marketplace.visualstudio.com/items?itemName=PawanP1.copy-file-name-faster) | Copy File Name (Faster) | 0.0.3 | Quickly copy file names from the context menu |
-| 2026-10-04 17:34:16 | [successO.flowdevmcp](https://marketplace.visualstudio.com/items?itemName=successO.flowdevmcp) | FlowDev MCP | 1.0.2 | Connect any MCP-compatible AI to your VS Code workspace. Your AI reads files, w… |
-| 2026-10-04 17:41:05 | [netpolicymap.netpolicy-map-vscode](https://marketplace.visualstudio.com/items?itemName=netpolicymap.netpolicy-map-vscode) | NetPolicy Map for Kubernetes | 1.0.2 | Visualize your Kubernetes network policies and infrastructure topology generate… |
-| 2026-10-04 17:45:17 | [paginel.paginel-text](https://marketplace.visualstudio.com/items?itemName=paginel.paginel-text) | Paginel Text | 0.1.1 | Ouvrez vos Markdown et vos Word avec Paginel dans VS Code : vues Markdown/Web/É… |
-| 2026-10-04 17:56:26 | [pavlyshyn.typegraph-vscode](https://marketplace.visualstudio.com/items?itemName=pavlyshyn.typegraph-vscode) | TypeGraph | 0.5.1 | Typed backlinks and a graph view for your markdown and code, with no Obsidian r… |
-| 2026-10-04 18:07:32 | [rxnova.changedeck](https://marketplace.visualstudio.com/items?itemName=rxnova.changedeck) | Changedeck: JetBrains-style Changelists… | 1.7.9 | JetBrains-style changelists for Git: group changes into named lists (down to in… |
+| 2026-10-04 18:25:41 | [marco-daniel.toucan](https://marketplace.visualstudio.com/items?itemName=marco-daniel.toucan) | Toucan | 1.0.0 | Every repo gets its own color. Know which VS Code window you're in at a glance,… |
+| 2026-10-04 18:33:50 | [takauztovies.epic-pulse](https://marketplace.visualstudio.com/items?itemName=takauztovies.epic-pulse) | Epic Pulse | 0.1.0 | GitHub epic progress for Claude Code sessions |
+| 2026-10-04 18:39:42 | [jenesei-software.project-manager-hub](https://marketplace.visualstudio.com/items?itemName=jenesei-software.project-manager-hub) | Project Manager Hub | 1.0.1 | A git-aware project hub: auto-discovers repositories, shows branch and working-… |
+| 2026-10-04 18:49:13 | [LorikeetSecurity.lory](https://marketplace.visualstudio.com/items?itemName=LorikeetSecurity.lory) | Lory | 0.1.0 | Lorikeet Security's AI reviewer points out vulnerabilities in your code as you… |
+| 2026-10-04 18:58:18 | [FagulhaSoftware.orquestrador-fagulha](https://marketplace.visualstudio.com/items?itemName=FagulhaSoftware.orquestrador-fagulha) | Orquestrador Fagulha | 0.1.0 | Uma sala local para orquestrar seus agentes de desenvolvimento no VS Code. |
+| 2026-10-04 19:07:36 | [vibesaur.vibesaur](https://marketplace.visualstudio.com/items?itemName=vibesaur.vibesaur) | Vibesaur | 0.1.39 | Raise a dinosaur from the quality of your git commits — not just the quantity. |
+| 2026-10-04 19:14:21 | [potosua7.nattee-grader](https://marketplace.visualstudio.com/items?itemName=potosua7.nattee-grader) | Nattee Grader | 0.3.1 | NatteeGrader (Chula 2190101) in VS Code: problem statements, test cases, run, s… |
 
 ## Data source
 
