@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 15:19 UTC
+## Latest list — 2026-10-04 16:19 UTC
 
-New extensions published between 2026-10-04 13:19 UTC and 2026-10-04 15:19 UTC.
+New extensions published between 2026-10-04 14:19 UTC and 2026-10-04 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T15-19-04-883862Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T16-19-02-457913Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 14:23:19 | [ondrej-honc.kztl](https://marketplace.visualstudio.com/items?itemName=ondrej-honc.kztl) | KZTL: HTML Syntax and Snippets | 1.1.6 | Treats .kztl files exactly like HTML |
-| 2026-10-04 14:31:13 | [alishba9896ops.codeexplain-ai](https://marketplace.visualstudio.com/items?itemName=alishba9896ops.codeexplain-ai) | CodeExplain AI | 0.0.2 | Explain selected code with a language model available through VS Code. |
-| 2026-10-04 14:40:30 | [auralix.alma-lang](https://marketplace.visualstudio.com/items?itemName=auralix.alma-lang) | Alma | 0.2.0 | Lenguaje de programación en español: colores, icono de archivo, fragmentos y ej… |
-| 2026-10-04 14:41:52 | [AbdullahHassan.look-busy](https://marketplace.visualstudio.com/items?itemName=AbdullahHassan.look-busy) | Look Busy | 0.0.1 | Pretend to look busy while AI writes your code |
-| 2026-10-04 14:47:12 | [ondrej-honc.ostrascript](https://marketplace.visualstudio.com/items?itemName=ondrej-honc.ostrascript) | Ostrascript | 1.3.0 | Nejostřejší rozšíření pro nejostřejší jazyk na světě. Přidává podporu pro synta… |
-| 2026-10-04 14:57:54 | [akanthed.secureai-scan-vscode](https://marketplace.visualstudio.com/items?itemName=akanthed.secureai-scan-vscode) | SecureAI-Scan | 0.2.0 | Offline LLM/MCP/RAG security scanner — prompt injection, tool poisoning, RAG mi… |
-| 2026-10-04 15:01:14 | [Mafty43211.vscode-leetcode-study-plan](https://marketplace.visualstudio.com/items?itemName=Mafty43211.vscode-leetcode-study-plan) | LeetCode Study Plan | 0.2.0 | Solve LeetCode problems in VS Code with workspace-defined custom study plans. |
-| 2026-10-04 15:12:16 | [dreamyfishmt.dreamyfishmt-kimi-code](https://marketplace.visualstudio.com/items?itemName=dreamyfishmt.dreamyfishmt-kimi-code) | Kimi Code Provider for Copilot | 0.6.0 | Bring your Kimi Code subscription to Copilot Chat and Agent mode, with automati… |
+| 2026-10-04 15:40:24 | [ackibar.onbellek-bekcisi](https://marketplace.visualstudio.com/items?itemName=ackibar.onbellek-bekcisi) | Önbellek Bekçisi | 0.9.0 | Claude Code önbellek süresi, bağlam boyutu ve kullanım limiti takibi; sıkıştırm… |
+| 2026-10-04 15:51:20 | [ReadyStack.nuget-pack-csproj-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.nuget-pack-csproj-gate) | NuGet Pack Gate — csproj licence, icon,… | 1.0.1 | nuget pack csproj check: flags PackageLicenseUrl (NU5125), PackageIconUrl (NU50… |
+| 2026-10-04 15:51:42 | [ReadyStack.xcode-26-sdk-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.xcode-26-sdk-gate) | Xcode 26 SDK Gate for GitHub Actions | 1.0.0 | Maps every macOS job in .github/workflows to the Xcode it really builds with an… |
+| 2026-10-04 15:52:04 | [ReadyStack.fdroid-inclusion-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.fdroid-inclusion-gate) | F-Droid Inclusion Gate - non-free Gradl… | 1.0.0 | F-Droid migration check for build.gradle: flags Play Services, Firebase, Crashl… |
+| 2026-10-04 15:52:16 | [ReadyStack.composer-release-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.composer-release-gate) | composer.json Validate - PHP EOL Releas… | 1.0.0 | composer.json validate before a Packagist release: flags a require.php floor on… |
+| 2026-10-04 16:11:41 | [pathfinder-team-stormhacks.pathfinder-stormhacks](https://marketplace.visualstudio.com/items?itemName=pathfinder-team-stormhacks.pathfinder-stormhacks) | PathFinder StormHacks | 0.0.1 | Right-click a function to see every call path that leads to it. |
 
 ## Data source
 
