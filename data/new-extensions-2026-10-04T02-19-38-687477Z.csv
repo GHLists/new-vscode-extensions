@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T01:30:01.59Z,jgusta-dev.cjtaskrunner-vscode,jgusta-dev,CJTaskrunner,0.1.0,Taskfile language support and task runner view for CJTaskrunner.
+2026-10-04T01:30:49.367Z,druta-ai.voltra-ai,druta-ai,Voltra AI,1.7.3,"Multi-agent AI coding assistant for VS Code - orchestrates Claude, OpenAI, and DeepSeek agents to plan, write, test, and quality-check code from a plain-English description. Bring your own API key."
+2026-10-04T01:40:23.99Z,willer-barros.gelido-w,willer-barros,gelido-w,0.0.2,tema dark gelido moderno
+2026-10-04T01:41:20.647Z,6arshid.rtl-ai-reader,6arshid,RTL AI Reader — OpenCode & Grok,0.3.3,Readable Persian and Arabic AI output with isolated left-to-right code. عرض واضح للنصوص العربية والفارسية مع الحفاظ على اتجاه الأكواد من اليسار إلى اليمين.
+2026-10-04T02:01:48.28Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-42,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 42/42),0.1.0,"Fragment 42/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-04T02:02:01.213Z,kubemoot.crewforge,kubemoot,CrewForge,0.16.0,"Create, deploy, ask, and test Kubemoot agent crews on Kubernetes from VS Code, through your kubeconfig"
