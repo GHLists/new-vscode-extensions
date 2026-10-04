@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T22:31:21.287Z,JohnMorillo.informaticsmail,JohnMorillo,InformaticsMAIL,2.1.0,"MAIL 2.0 for laboratory informatics: syntax, live validation with the MAIL reference engine, hover documentation for all 197 library functions, completion, signature help, outline, and test and query runners."
+2026-10-04T22:37:56.897Z,dydxfx.matra,dydxfx,Mātrā: AI Usage,0.1.3,"Independent Claude Code, Codex, Cursor and Antigravity usage monitor with reset dates and countdowns."
+2026-10-04T22:42:38.19Z,nolindnaidoo.jevlint-le,nolindnaidoo,JevLint-LE,0.1.0,"Lint the questions you send to TypeSafe's Jev model as you type, with no API key and no network calls. An optional command asks Jev itself to check a file"
+2026-10-04T22:43:05.45Z,beatahumeniuk.docx-to-md,beatahumeniuk,Word to Markdown,0.1.0,"Converts Word documents (.docx, and old .doc through Word or LibreOffice) to Markdown, keeping headings, formatting, list numbering, the table of contents (as links to the headings), bookmarks and cross-references, tables with merged cells, footnotes, comments, tracked changes and images."
+2026-10-04T22:44:43.463Z,j0yb0y.runtone,j0yb0y,RunTone,0.0.1,Play sounds when code succeeds or fails

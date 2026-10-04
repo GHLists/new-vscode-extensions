@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 22:19 UTC
+## Latest list — 2026-10-04 23:19 UTC
 
-New extensions published between 2026-10-04 20:19 UTC and 2026-10-04 22:19 UTC.
+New extensions published between 2026-10-04 21:19 UTC and 2026-10-04 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T22-19-48-080452Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T23-19-32-329367Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 21:20:31 | [capriele.antigravity-telegram-enhanced](https://marketplace.visualstudio.com/items?itemName=capriele.antigravity-telegram-enhanced) | Antigravity Telegram Enhanced | 1.4.0 | Control Antigravity from Telegram, target specific conversations, and use Engli… |
-| 2026-10-04 21:35:56 | [noirebox.noirebox](https://marketplace.visualstudio.com/items?itemName=noirebox.noirebox) | NoireBox — Flight Recorder | 0.10.1 | Seal your coding agent's decisions into the tamper-evident NoireBox journal: se… |
-| 2026-10-04 21:54:57 | [smooth-soft.assessme-grader](https://marketplace.visualstudio.com/items?itemName=smooth-soft.assessme-grader) | AssessME Grader | 0.9.2 | Check your work with the checks your instructor published: one button, readable… |
-| 2026-10-04 22:16:51 | [goraw.goraw-vscode](https://marketplace.visualstudio.com/items?itemName=goraw.goraw-vscode) | Goraw Language Support | 0.4.0 | Syntax highlighting, LSP diagnostics, compiler integration and language support… |
+| 2026-10-04 22:31:21 | [JohnMorillo.informaticsmail](https://marketplace.visualstudio.com/items?itemName=JohnMorillo.informaticsmail) | InformaticsMAIL | 2.1.0 | MAIL 2.0 for laboratory informatics: syntax, live validation with the MAIL refe… |
+| 2026-10-04 22:37:56 | [dydxfx.matra](https://marketplace.visualstudio.com/items?itemName=dydxfx.matra) | Mātrā: AI Usage | 0.1.3 | Independent Claude Code, Codex, Cursor and Antigravity usage monitor with reset… |
+| 2026-10-04 22:42:38 | [nolindnaidoo.jevlint-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.jevlint-le) | JevLint-LE | 0.1.0 | Lint the questions you send to TypeSafe's Jev model as you type, with no API ke… |
+| 2026-10-04 22:43:05 | [beatahumeniuk.docx-to-md](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.docx-to-md) | Word to Markdown | 0.1.0 | Converts Word documents (.docx, and old .doc through Word or LibreOffice) to Ma… |
+| 2026-10-04 22:44:43 | [j0yb0y.runtone](https://marketplace.visualstudio.com/items?itemName=j0yb0y.runtone) | RunTone | 0.0.1 | Play sounds when code succeeds or fails |
 
 ## Data source
 
