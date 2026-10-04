@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 04:19 UTC
+## Latest list — 2026-10-04 05:19 UTC
 
-New extensions published between 2026-10-04 02:19 UTC and 2026-10-04 04:19 UTC.
+New extensions published between 2026-10-04 03:19 UTC and 2026-10-04 05:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T04-19-14-198027Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T05-19-39-291465Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 03:50:16 | [GF-Linux.truecoral](https://marketplace.visualstudio.com/items?itemName=GF-Linux.truecoral) | True Coral | 0.3.0 | O que cada linha do seu código Python fez de verdade: valores, laços, condições… |
-| 2026-10-04 03:51:49 | [ReadyStack.valkey-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.valkey-migration-check) | Valkey Migration Check — ElastiCache Re… | 1.0.0 | Valkey migration check: flags ElastiCache Redis OSS 4/5/6 engine versions (Exte… |
-| 2026-10-04 03:51:58 | [ReadyStack.gomod-release-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gomod-release-gate) | go.mod Release Gate: /vN suffix and go… | 1.0.0 | Checks go.mod before you tag: missing /vN major version suffix, go line older t… |
-| 2026-10-04 04:12:28 | [thiago-borba-andrade.podl-language-support](https://marketplace.visualstudio.com/items?itemName=thiago-borba-andrade.podl-language-support) | BRM PODL Support | 0.1.0 | Syntax highlighting for Oracle BRM Portal Object Definition Language (.podl). |
+| 2026-10-04 04:21:46 | [nolindnaidoo.ips-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.ips-le) | IPs-LE | 1.0.0 | Extract every IP address, CIDR block and MAC, normalized and classified by scope |
+| 2026-10-04 04:23:51 | [naveenkumar171837.smartdocs](https://marketplace.visualstudio.com/items?itemName=naveenkumar171837.smartdocs) | SmartDocs | 0.0.2 | Create, store, and manage inline documentation for code blocks without affectin… |
+| 2026-10-04 05:10:13 | [keithfajardo.agent-stream](https://marketplace.visualstudio.com/items?itemName=keithfajardo.agent-stream) | Agent Stream | 0.2.0 | Co-create a workflow graph with an AI planner and run it step by step on your o… |
 
 ## Data source
 
