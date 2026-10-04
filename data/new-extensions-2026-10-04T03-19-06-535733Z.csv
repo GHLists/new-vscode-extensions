@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T02:01:06.53Z,opsva.archi-model-qwen3-30b-a3b-q4km-part-41,opsva,Archi Agents — Modèle Qwen3 MoE 30B (fragment 41/42),0.1.0,"Fragment 41/42 du modèle Qwen3 MoE 30B Q4_K_M utilisé hors ligne par Archi Agents (profil MAX). Aucun code, aucune connexion réseau."
+2026-10-04T02:29:23.747Z,nolindnaidoo.ids-le,nolindnaidoo,IDs-LE,1.0.0,"Extract every UUID, ULID, NanoID, ObjectId and Snowflake, decode the time inside, and refuse the ambiguous ones by name"
+2026-10-04T02:32:22.4Z,opsva.archi-agents-pack,opsva,Archi Agents — Pack complet (hors ligne),0.1.0,"Installe en un clic les agents Archi Agents et les fragments des modèles Qwen3-30B-A3B et Qwen3-Reranker : dossier d'architecture en français, 100 % hors ligne."
+2026-10-04T02:37:26.523Z,Renanrod.vscode-code-in-comments,Renanrod,CodeInComments,0.0.2,Highlight code blocks inside comments in VSCode!
+2026-10-04T02:48:55.813Z,iliaskarim.bikini-atoll,iliaskarim,Bikini Atoll,1.0.0,Dark theme with no syntax highlighting
+2026-10-04T02:55:02.943Z,ksanjeev9211.fast-cucumber-java-runner,ksanjeev9211,Fast Cucumber Java Runner,0.0.1,
