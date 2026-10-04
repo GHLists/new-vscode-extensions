@@ -12,26 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 10:20 UTC
+## Latest list — 2026-10-04 11:21 UTC
 
-New extensions published between 2026-10-04 08:20 UTC and 2026-10-04 10:20 UTC.
+New extensions published between 2026-10-04 09:21 UTC and 2026-10-04 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T10-20-59-875069Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T11-21-07-602262Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 09:25:03 | [GrayWolfLabs.rn-product-helper](https://marketplace.visualstudio.com/items?itemName=GrayWolfLabs.rn-product-helper) | Hunter Wolf | 1.1.3 | Hunter Wolf: quick React Native Product App helpers for common exam tasks. |
-| 2026-10-04 09:47:52 | [yuval-abdm.ftp-sftp-deploy](https://marketplace.visualstudio.com/items?itemName=yuval-abdm.ftp-sftp-deploy) | FTP SFTP Deploy | 1.0.0 | Deploy over FTP, FTPS and SFTP: upload files and folders, browse and edit the s… |
-| 2026-10-04 09:48:04 | [yuval-abdm.changed-files-explorer](https://marketplace.visualstudio.com/items?itemName=yuval-abdm.changed-files-explorer) | Changed Files Explorer | 1.0.0 | All your git changed files (staged, modified, untracked, conflicts, or since a… |
-| 2026-10-04 09:59:18 | [Xavi99.helpmake](https://marketplace.visualstudio.com/items?itemName=Xavi99.helpmake) | HelpMake | 1.0.0 | Syntax highlighting for HelpMake.txt |
-| 2026-10-04 10:11:04 | [ebi-katsu.pomodoro-vscode](https://marketplace.visualstudio.com/items?itemName=ebi-katsu.pomodoro-vscode) | Pomodoro Timer - Multi-Template & Custo… | 0.1.0 | A streamlined, low-CPU Pomodoro timer for VSCode with multi-template support, c… |
-| 2026-10-04 10:13:42 | [nifty.nifty-licenses](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-licenses) | Nifty Licenses: Dependency License Chec… | 0.1.0 | See the license of every dependency (npm, Python, Cargo, Go, NuGet, Composer),… |
-| 2026-10-04 10:13:52 | [nifty.nifty-svn](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-svn) | Nifty SVN: Subversion Source Control | 0.1.0 | Subversion in the Source Control view: changes, changelists, diffs, commit, upd… |
-| 2026-10-04 10:13:57 | [nifty.nifty-team-settings](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-team-settings) | Nifty Team Settings: Shared Settings fo… | 0.1.0 | Share VS Code settings with your team: a committed base file, per-OS blocks, pe… |
-| 2026-10-04 10:14:04 | [nifty.nifty-essentials-pack](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-essentials-pack) | Nifty Essentials Pack | 0.1.0 | 8 Nifty extensions for everyday editing, whatever language you write: JSON, YAM… |
-| 2026-10-04 10:14:09 | [nifty.nifty-data-pack](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-data-pack) | Nifty Data Pack | 0.1.0 | 9 Nifty extensions for working with JSON, YAML, XML, CSV, SQL and spreadsheets:… |
-| 2026-10-04 10:14:15 | [nifty.nifty-colors](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-colors) | Nifty Colors: Swatches & Picker in Ever… | 0.1.0 | Colour swatches and VS Code's picker in any file: CSS, Tailwind, Flutter, Swift… |
-| 2026-10-04 10:14:21 | [nifty.nifty-whitespace](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-whitespace) | Nifty Whitespace: Indent Rainbow, Invis… | 0.1.0 | Indent rainbow, invisible and confusable characters with quick fixes, mixed lin… |
+| 2026-10-04 10:25:15 | [BaylyAI.agentgraph-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.agentgraph-vscode) | AgentGraph: Multi-Plane AI Knowledge Gr… | 1.0.0 | Multi-plane cognitive substrate, DAG dependency resolver, BM25 search, and inte… |
+| 2026-10-04 10:27:18 | [apexdev.apexdev-code](https://marketplace.visualstudio.com/items?itemName=apexdev.apexdev-code) | ApexDev Code | 0.1.0 | Autonomous AI coding agent for VS Code — plans the work, edits files, runs comm… |
+| 2026-10-04 10:39:05 | [BaylyAI.agentguard-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.agentguard-vscode) | AgentGuard - AI Security Guardrails and… | 1.0.0 | Enterprise security guardrails, Quad-Graph cognitive substrate, deterministic R… |
+| 2026-10-04 10:39:42 | [BaylyAI.hath0r-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.hath0r-vscode) | Hath0r - Enterprise Autonomous AI Agent… | 0.9.0 | Enterprise control plane, autonomous agent execution, Taguchi parameter optimiz… |
+| 2026-10-04 10:56:54 | [PalmEmanuel.azure-pipelines-field-guide-vscode](https://marketplace.visualstudio.com/items?itemName=PalmEmanuel.azure-pipelines-field-guide-vscode) | Azure Pipelines Field Guide | 1.0.0 | Extended IntelliSense for Azure Pipelines YAML with autocompletion for variable… |
+| 2026-10-04 11:02:13 | [NGJUNKAI.development-tools-kit](https://marketplace.visualstudio.com/items?itemName=NGJUNKAI.development-tools-kit) | Development Tools Kit | 0.4.0 | API debugging, JSON formatting, text/file/Git comparison, and project-aware CI/… |
+| 2026-10-04 11:12:06 | [Maxrall.nexrall-code-for-vscode](https://marketplace.visualstudio.com/items?itemName=Maxrall.nexrall-code-for-vscode) | Nexrall Code for VS Code | 2.0.1 | Your autonomous AI coding agent for VS Code: reads your codebase, edits files,… |
+| 2026-10-04 11:15:07 | [SwetaAgarwal.ghcp-logger](https://marketplace.visualstudio.com/items?itemName=SwetaAgarwal.ghcp-logger) | GHCP Logger | 1.6.0 | Uses editing heuristics to track Human, Machine, and Collaborative activity and… |
 
 ## Data source
 
