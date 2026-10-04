@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T08:28:36.2Z,s-simoncelli.pywr-vscode,s-simoncelli,Pywr,1.3.0,"Build, explore and run Pywr water resource models without leaving your editor. Compatible with the pywr-1 and pywr-2 packages"
+2026-10-04T08:35:22.703Z,AINGEARMENG.mengboi-extension-icon,AINGEARMENG,Extension Icons,0.0.3,File icon theme that shows an icon for each file based on its extension.
+2026-10-04T08:45:06.72Z,Hyacine.laymesh-language,Hyacine,LayMesh,0.3.4,"LayMesh DSL and LCSS: live figure preview, unit-aware rulers, canvas and plot coordinates, language help and color editing."
+2026-10-04T08:54:01.387Z,tazziedevil.tazziedevil-vscode,tazziedevil,TazzieDevil AI Operator,2.0.1,"Your AI operator in VS Code — chat, agent tools, and media generation (text-to-image, text-to-speech, CGI render) via ai.anchoraiguard.com"

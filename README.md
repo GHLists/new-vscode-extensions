@@ -12,16 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 08:20 UTC
+## Latest list — 2026-10-04 09:19 UTC
 
-New extensions published between 2026-10-04 06:20 UTC and 2026-10-04 08:20 UTC.
+New extensions published between 2026-10-04 07:19 UTC and 2026-10-04 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T08-20-45-514918Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T09-19-57-693666Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 07:31:31 | [michael-obele.creel](https://marketplace.visualstudio.com/items?itemName=michael-obele.creel) | Creel: attach skills with # | 0.2.1 | Attach any number of agent skills to one Copilot chat message, anywhere in the… |
-| 2026-10-04 07:59:38 | [LindonAbarra.mapper-pro-workspace](https://marketplace.visualstudio.com/items?itemName=LindonAbarra.mapper-pro-workspace) | Mapper Pro XSL | 0.2.0 | Schema-aware Mapper Pro XSL editing, quoted XPath IntelliSense, cross-reference… |
+| 2026-10-04 08:28:36 | [s-simoncelli.pywr-vscode](https://marketplace.visualstudio.com/items?itemName=s-simoncelli.pywr-vscode) | Pywr | 1.3.0 | Build, explore and run Pywr water resource models without leaving your editor.… |
+| 2026-10-04 08:35:22 | [AINGEARMENG.mengboi-extension-icon](https://marketplace.visualstudio.com/items?itemName=AINGEARMENG.mengboi-extension-icon) | Extension Icons | 0.0.3 | File icon theme that shows an icon for each file based on its extension. |
+| 2026-10-04 08:45:06 | [Hyacine.laymesh-language](https://marketplace.visualstudio.com/items?itemName=Hyacine.laymesh-language) | LayMesh | 0.3.4 | LayMesh DSL and LCSS: live figure preview, unit-aware rulers, canvas and plot c… |
+| 2026-10-04 08:54:01 | [tazziedevil.tazziedevil-vscode](https://marketplace.visualstudio.com/items?itemName=tazziedevil.tazziedevil-vscode) | TazzieDevil AI Operator | 2.0.1 | Your AI operator in VS Code — chat, agent tools, and media generation (text-to-… |
 
 ## Data source
 
