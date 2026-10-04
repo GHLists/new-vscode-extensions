@@ -12,16 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 00:20 UTC
+## Latest list — 2026-10-04 01:20 UTC
 
-New extensions published between 2026-10-03 22:20 UTC and 2026-10-04 00:20 UTC.
+New extensions published between 2026-10-03 23:20 UTC and 2026-10-04 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T00-20-45-795401Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T01-20-41-399263Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-03 23:32:22 | [ManjuAi.manju-ai](https://marketplace.visualstudio.com/items?itemName=ManjuAi.manju-ai) | ManjuAi | 0.1.12 | ManjuAi coding agent for your current VS Code folder — Free router + premium mo… |
-| 2026-10-03 23:43:32 | [prsniffer.prsniffer-test](https://marketplace.visualstudio.com/items?itemName=prsniffer.prsniffer-test) | PRSniffer Test | 0.6.0 | AI code review + AppSec for your working tree: inline findings, editable fixes,… |
+| 2026-10-04 00:19:57 | [ultrasonic-technologies.ultra-studio-theme](https://marketplace.visualstudio.com/items?itemName=ultrasonic-technologies.ultra-studio-theme) | Ultra Studio Theme | 0.1.0 | The only and great theme for Ultra Studio |
+| 2026-10-04 00:20:34 | [swipewalk.swipewalk-vscode](https://marketplace.visualstudio.com/items?itemName=swipewalk.swipewalk-vscode) | Swipewalk: accessibility findings in yo… | 0.1.0 | Shows the accessibility findings from a saved Swipewalk scan on the source line… |
+| 2026-10-04 00:59:24 | [AnvilHDL.anvil-lsp](https://marketplace.visualstudio.com/items?itemName=AnvilHDL.anvil-lsp) | anvil-lsp | 0.1.1 | Language support for the AnvilHDL hardware description language: diagnostics, h… |
+| 2026-10-04 01:02:28 | [yutat23.dot-run-files](https://marketplace.visualstudio.com/items?itemName=yutat23.dot-run-files) | Dot Run Files | 0.1.1 | Run C# file-based apps with arguments, history, and restart controls. |
 
 ## Data source
 
