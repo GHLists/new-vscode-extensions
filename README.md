@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 11:21 UTC
+## Latest list — 2026-10-04 12:19 UTC
 
-New extensions published between 2026-10-04 09:21 UTC and 2026-10-04 11:21 UTC.
+New extensions published between 2026-10-04 10:19 UTC and 2026-10-04 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T11-21-07-602262Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T12-19-06-605228Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 10:25:15 | [BaylyAI.agentgraph-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.agentgraph-vscode) | AgentGraph: Multi-Plane AI Knowledge Gr… | 1.0.0 | Multi-plane cognitive substrate, DAG dependency resolver, BM25 search, and inte… |
-| 2026-10-04 10:27:18 | [apexdev.apexdev-code](https://marketplace.visualstudio.com/items?itemName=apexdev.apexdev-code) | ApexDev Code | 0.1.0 | Autonomous AI coding agent for VS Code — plans the work, edits files, runs comm… |
-| 2026-10-04 10:39:05 | [BaylyAI.agentguard-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.agentguard-vscode) | AgentGuard - AI Security Guardrails and… | 1.0.0 | Enterprise security guardrails, Quad-Graph cognitive substrate, deterministic R… |
-| 2026-10-04 10:39:42 | [BaylyAI.hath0r-vscode](https://marketplace.visualstudio.com/items?itemName=BaylyAI.hath0r-vscode) | Hath0r - Enterprise Autonomous AI Agent… | 0.9.0 | Enterprise control plane, autonomous agent execution, Taguchi parameter optimiz… |
-| 2026-10-04 10:56:54 | [PalmEmanuel.azure-pipelines-field-guide-vscode](https://marketplace.visualstudio.com/items?itemName=PalmEmanuel.azure-pipelines-field-guide-vscode) | Azure Pipelines Field Guide | 1.0.0 | Extended IntelliSense for Azure Pipelines YAML with autocompletion for variable… |
-| 2026-10-04 11:02:13 | [NGJUNKAI.development-tools-kit](https://marketplace.visualstudio.com/items?itemName=NGJUNKAI.development-tools-kit) | Development Tools Kit | 0.4.0 | API debugging, JSON formatting, text/file/Git comparison, and project-aware CI/… |
-| 2026-10-04 11:12:06 | [Maxrall.nexrall-code-for-vscode](https://marketplace.visualstudio.com/items?itemName=Maxrall.nexrall-code-for-vscode) | Nexrall Code for VS Code | 2.0.1 | Your autonomous AI coding agent for VS Code: reads your codebase, edits files,… |
-| 2026-10-04 11:15:07 | [SwetaAgarwal.ghcp-logger](https://marketplace.visualstudio.com/items?itemName=SwetaAgarwal.ghcp-logger) | GHCP Logger | 1.6.0 | Uses editing heuristics to track Human, Machine, and Collaborative activity and… |
+| 2026-10-04 11:29:18 | [Pomni-org.dacode-programming-language](https://marketplace.visualstudio.com/items?itemName=Pomni-org.dacode-programming-language) | DaCode Language by Pomni | 0.5.3 | Thin DaCode bootstrap for VS Code. Client behavior, language rules and runtime… |
+| 2026-10-04 11:35:56 | [nolindnaidoo.versions-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.versions-le) | Versions-LE | 1.0.0 | Find where one dependency is constrained differently across a repository's mani… |
+| 2026-10-04 11:39:49 | [reactogenic.rtsx](https://marketplace.visualstudio.com/items?itemName=reactogenic.rtsx) | Reactogenic (.rtsx) | 0.1.1 | Language support for Reactogenic's .rtsx files. |
+| 2026-10-04 11:41:25 | [Tituya.xsd-visualizer](https://marketplace.visualstudio.com/items?itemName=Tituya.xsd-visualizer) | XSD Graph Visualizer | 0.1.0 | Visualize XSD files in a Mermaid diagram |
+| 2026-10-04 11:52:19 | [tombumd.tombumd](https://marketplace.visualstudio.com/items?itemName=tombumd.tombumd) | tombumd · 同步马 | 2.0.1 | tombumd (同步马): what you see is what you edit, in sync both ways. Opens Markdown… |
+| 2026-10-04 12:03:20 | [tutory.stylet](https://marketplace.visualstudio.com/items?itemName=tutory.stylet) | stylet | 0.1.0 | stylet language support: highlighting, diagnostics, formatting, completions, go… |
+| 2026-10-04 12:06:43 | [pracapr.pracapr](https://marketplace.visualstudio.com/items?itemName=pracapr.pracapr) | PracAPR - Automated Program Repair | 0.1.0 | Find and repair runtime bugs in Python, Java and C++ files with a local Ollama… |
+| 2026-10-04 12:08:08 | [dkormann.bend-flow-vscode](https://marketplace.visualstudio.com/items?itemName=dkormann.bend-flow-vscode) | Bend & Flow Language Tools | 0.1.0 | Bend language coloring and navigation powered by the Bend parser |
+| 2026-10-04 12:15:26 | [flowdev.flowdev](https://marketplace.visualstudio.com/items?itemName=flowdev.flowdev) | FlowDev — Claude AI in Your Editor | 1.0.0 | Connect Claude AI directly to your VS Code workspace. Claude reads your files,… |
 
 ## Data source
 

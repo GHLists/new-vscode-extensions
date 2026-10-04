@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T11:29:18.543Z,Pomni-org.dacode-programming-language,Pomni-org,DaCode Language by Pomni,0.5.3,"Thin DaCode bootstrap for VS Code. Client behavior, language rules and runtime are synchronized from pomni-org/DaCode on GitHub."
+2026-10-04T11:35:56.75Z,nolindnaidoo.versions-le,nolindnaidoo,Versions-LE,1.0.0,Find where one dependency is constrained differently across a repository's manifests
+2026-10-04T11:39:49.91Z,reactogenic.rtsx,reactogenic,Reactogenic (.rtsx),0.1.1,Language support for Reactogenic's .rtsx files.
+2026-10-04T11:41:25.547Z,Tituya.xsd-visualizer,Tituya,XSD Graph Visualizer,0.1.0,Visualize XSD files in a Mermaid diagram
+2026-10-04T11:52:19.717Z,tombumd.tombumd,tombumd,tombumd · 同步马,2.0.1,"tombumd (同步马): what you see is what you edit, in sync both ways. Opens Markdown as an editable live preview; edit the source in VS Code side by side with two-way caret sync. 所见所得：md 默认以可编辑预览打开，源码用 VS Code 编辑器，光标双向同步。"
+2026-10-04T12:03:20.97Z,tutory.stylet,tutory,stylet,0.1.0,"stylet language support: highlighting, diagnostics, formatting, completions, go to definition and references"
+2026-10-04T12:06:43.12Z,pracapr.pracapr,pracapr,PracAPR - Automated Program Repair,0.1.0,"Find and repair runtime bugs in Python, Java and C++ files with a local Ollama model, then preview and apply the fix."
+2026-10-04T12:08:08.04Z,dkormann.bend-flow-vscode,dkormann,Bend & Flow Language Tools,0.1.0,Bend language coloring and navigation powered by the Bend parser
+2026-10-04T12:15:26.347Z,flowdev.flowdev,flowdev,FlowDev — Claude AI in Your Editor,1.0.0,"Connect Claude AI directly to your VS Code workspace. Claude reads your files, writes code, runs terminal commands, and pushes to GitHub — no copy-pasting, no tab switching, just flow."
