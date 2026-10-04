@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T03:50:16.133Z,GF-Linux.truecoral,GF-Linux,True Coral,0.3.0,"O que cada linha do seu código Python fez de verdade: valores, laços, condições, saídas e erros, ao lado da linha."
+2026-10-04T03:51:49.857Z,ReadyStack.valkey-migration-check,ReadyStack,Valkey Migration Check — ElastiCache Redis ties,1.0.0,"Valkey migration check: flags ElastiCache Redis OSS 4/5/6 engine versions (Extended Support billing), redis parameter-group families and redis:7.4+ images in Terraform, CloudFormation, compose and Doc"
+2026-10-04T03:51:58.23Z,ReadyStack.gomod-release-gate,ReadyStack,go.mod Release Gate: /vN suffix and go line check,1.0.0,"Checks go.mod before you tag: missing /vN major version suffix, go line older than the two supported Go releases, toolchain below go, local replace, require path/version mismatch. Each finding has the"
+2026-10-04T04:12:28.46Z,thiago-borba-andrade.podl-language-support,thiago-borba-andrade,BRM PODL Support,0.1.0,Syntax highlighting for Oracle BRM Portal Object Definition Language (.podl).
