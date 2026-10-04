@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T20:16:57.04Z,alleninstituteseahub.igv-vscode,alleninstituteseahub,IGV Viewer for VS Code (unofficial),0.1.0,"Embed the igv.js genome browser in VS Code. View BAM, CRAM, VCF, bigWig, BED and more next to your code, with a CLI and MCP server for AI agents."
+2026-10-04T20:27:58.863Z,typemf.vscode-runtime,typemf,TypeMF Runtime,0.5.0,Shared TypeMF runtime: one package registry and one instance of every shared model module for all TypeMF extensions.
+2026-10-04T20:28:02.603Z,typemf.instance-editor,typemf,TypeMF Instance Editor,0.5.0,"A reflective editor for TypeMF model instances (.xmi, .json, .ecore), for generated as well as dynamically loaded metamodels."
+2026-10-04T20:57:20.247Z,builderweb.freekit,builderweb,Freekit — Free AI Coding Agent,2.4.6,"Connect web AI chats (DeepSeek, ChatGPT, Gemini, Claude, Mistral, Qwen) — or a local Ollama model — to VS Code, with a built-in MCP (Model Context Protocol) client for external tools and a local semantic code index"
+2026-10-04T20:59:24.6Z,Ageshks.hydra-dev,Ageshks,HydraDev — Developer Hydration Companion,1.0.0,A friendly hydration companion that reminds you to drink water with an animated desktop avatar.
+2026-10-04T21:01:42.243Z,zmbq.degauss,zmbq,Degauss: Retro Computer Looks,0.3.0,"Vintage computer looks for VS Code and Windows Terminal: Apple //e green and amber and IBM 3270 ISPF, with period fonts. Windows Terminal also gets IBM PS/2 VGA."
