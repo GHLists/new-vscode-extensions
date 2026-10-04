@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T17:20:12.97Z,zso-Rose.sakura-nova-X,zso-Rose,Sakura Nova X,0.0.1,"A cosmic cherry-blossom theme for VS Code — five hand-tuned variants (Dark, Dark Pro, Warm, Dark Red and Light) with full semantic highlighting and a matching terminal palette."
+2026-10-04T17:26:24.253Z,NawfalJaffri.haskell-project-manager,NawfalJaffri,Haskell Project Manager,0.0.1,Add New Haskell File
+2026-10-04T17:27:28.853Z,PawanP1.copy-file-name-faster,PawanP1,Copy File Name (Faster),0.0.3,Quickly copy file names from the context menu
+2026-10-04T17:34:16.6Z,successO.flowdevmcp,successO,FlowDev MCP,1.0.2,"Connect any MCP-compatible AI to your VS Code workspace. Your AI reads files, writes code, runs terminal commands, and pushes to GitHub directly in your editor. Works with Claude, Grok, GPT-4, Gemini and more."
+2026-10-04T17:41:05.053Z,netpolicymap.netpolicy-map-vscode,netpolicymap,NetPolicy Map for Kubernetes,1.0.2,Visualize your Kubernetes network policies and infrastructure topology generated from Terraform files as an interactive graph.
+2026-10-04T17:45:17.197Z,paginel.paginel-text,paginel,Paginel Text,0.1.1,"Ouvrez vos Markdown et vos Word avec Paginel dans VS Code : vues Markdown/Web/Édition/PDF, PDF, Markdown synchronisé pour vos agents, collaboration en ligne."
+2026-10-04T17:56:26.96Z,pavlyshyn.typegraph-vscode,pavlyshyn,TypeGraph,0.5.1,"Typed backlinks and a graph view for your markdown and code, with no Obsidian required."
+2026-10-04T18:07:32.97Z,rxnova.changedeck,rxnova,Changedeck: JetBrains-style Changelists for Git,1.7.9,"JetBrains-style changelists for Git: group changes into named lists (down to individual changes within a file), commit selected changes, shelve and unshelve, roll back, and create patches."
