@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 21:20 UTC
+## Latest list — 2026-10-04 22:19 UTC
 
-New extensions published between 2026-10-04 19:20 UTC and 2026-10-04 21:20 UTC.
+New extensions published between 2026-10-04 20:19 UTC and 2026-10-04 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T21-20-33-632305Z.csv)
+[Full CSV](data/new-extensions-2026-10-04T22-19-48-080452Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 20:16:57 | [alleninstituteseahub.igv-vscode](https://marketplace.visualstudio.com/items?itemName=alleninstituteseahub.igv-vscode) | IGV Viewer for VS Code (unofficial) | 0.1.0 | Embed the igv.js genome browser in VS Code. View BAM, CRAM, VCF, bigWig, BED an… |
-| 2026-10-04 20:27:58 | [typemf.vscode-runtime](https://marketplace.visualstudio.com/items?itemName=typemf.vscode-runtime) | TypeMF Runtime | 0.5.0 | Shared TypeMF runtime: one package registry and one instance of every shared mo… |
-| 2026-10-04 20:28:02 | [typemf.instance-editor](https://marketplace.visualstudio.com/items?itemName=typemf.instance-editor) | TypeMF Instance Editor | 0.5.0 | A reflective editor for TypeMF model instances (.xmi, .json, .ecore), for gener… |
-| 2026-10-04 20:57:20 | [builderweb.freekit](https://marketplace.visualstudio.com/items?itemName=builderweb.freekit) | Freekit — Free AI Coding Agent | 2.4.6 | Connect web AI chats (DeepSeek, ChatGPT, Gemini, Claude, Mistral, Qwen) — or a… |
-| 2026-10-04 20:59:24 | [Ageshks.hydra-dev](https://marketplace.visualstudio.com/items?itemName=Ageshks.hydra-dev) | HydraDev — Developer Hydration Companion | 1.0.0 | A friendly hydration companion that reminds you to drink water with an animated… |
-| 2026-10-04 21:01:42 | [zmbq.degauss](https://marketplace.visualstudio.com/items?itemName=zmbq.degauss) | Degauss: Retro Computer Looks | 0.3.0 | Vintage computer looks for VS Code and Windows Terminal: Apple //e green and am… |
+| 2026-10-04 21:20:31 | [capriele.antigravity-telegram-enhanced](https://marketplace.visualstudio.com/items?itemName=capriele.antigravity-telegram-enhanced) | Antigravity Telegram Enhanced | 1.4.0 | Control Antigravity from Telegram, target specific conversations, and use Engli… |
+| 2026-10-04 21:35:56 | [noirebox.noirebox](https://marketplace.visualstudio.com/items?itemName=noirebox.noirebox) | NoireBox — Flight Recorder | 0.10.1 | Seal your coding agent's decisions into the tamper-evident NoireBox journal: se… |
+| 2026-10-04 21:54:57 | [smooth-soft.assessme-grader](https://marketplace.visualstudio.com/items?itemName=smooth-soft.assessme-grader) | AssessME Grader | 0.9.2 | Check your work with the checks your instructor published: one button, readable… |
+| 2026-10-04 22:16:51 | [goraw.goraw-vscode](https://marketplace.visualstudio.com/items?itemName=goraw.goraw-vscode) | Goraw Language Support | 0.4.0 | Syntax highlighting, LSP diagnostics, compiler integration and language support… |
 
 ## Data source
 

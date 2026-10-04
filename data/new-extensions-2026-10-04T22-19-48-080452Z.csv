@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-04T21:20:31.04Z,capriele.antigravity-telegram-enhanced,capriele,Antigravity Telegram Enhanced,1.4.0,"Control Antigravity from Telegram, target specific conversations, and use English or Italian."
+2026-10-04T21:35:56.407Z,noirebox.noirebox,noirebox,NoireBox — Flight Recorder,0.10.1,"Seal your coding agent's decisions into the tamper-evident NoireBox journal: seal, verify, attest — from the VSCode sidebar."
+2026-10-04T21:54:57.907Z,smooth-soft.assessme-grader,smooth-soft,AssessME Grader,0.9.2,"Check your work with the checks your instructor published: one button, readable feedback per requirement, no test tools to learn. Python and Java. Runs on your computer, works offline."
+2026-10-04T22:16:51.62Z,goraw.goraw-vscode,goraw,Goraw Language Support,0.4.0,"Syntax highlighting, LSP diagnostics, compiler integration and language support for the Goraw programming language (.gw)"
