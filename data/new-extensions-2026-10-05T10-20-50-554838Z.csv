@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T09:19:31.06Z,GhostCmdr.codebuddy-quota,GhostCmdr,CodeBuddy Quota,0.1.1,CodeBuddy 积分余量查看器：在状态栏显示 CodeBuddy 积分使用情况，悬停查看积分浮窗
+2026-10-05T09:29:32.947Z,AthurLau.pushright,AthurLau,PushRight,0.2.2,"Git for multi-branch work: push to the same-name branch, pull with rebase by default, and see who wrote every line."
+2026-10-05T09:40:43.76Z,ketsu.codex-cache-status,ketsu,Codex Cache Status,0.1.2,Quiet local cache-read status and an estimated 30-minute countdown for Codex.
+2026-10-05T09:47:43.38Z,5mdt.ansible-vault-editor,5mdt,Ansible Vault Editor,1.0.0,"Encrypt, decrypt and edit Ansible Vault files and inline !vault values."
+2026-10-05T09:49:59.33Z,sujitkumar.colab-sync,sujitkumar,Colab Sync,1.0.30,"Bidirectional synchronization between a local VS Code workspace and a Google Colab notebook runtime, with Python and R kernel support."
+2026-10-05T09:55:46.517Z,rhaluk.ariv-better-themes,rhaluk,Ariv Better Themes,1.0.0,A customized dark theme based on Ariv Themes.
+2026-10-05T10:07:20.69Z,lukyvj.gss-language,lukyvj,GSS — GPU Style Sheets,0.4.0,"Syntax highlighting, file icon and formatting for GSS"
