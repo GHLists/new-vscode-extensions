@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T06:31:06.933Z,maxontorres.cold-boot,maxontorres,Cold Boot,1.1.0,"A dark Y2K techno-noir color theme with matching terminal-style file and folder icons, inspired by early-2000s hacker workstations."
+2026-10-05T06:31:37.773Z,hoanghuy.terra-expedition-3d,hoanghuy,Terra Expedition 3D,1.0.0,Game phiêu lưu 3D vượt chướng ngại vật phong cách Stop-Motion Claymation chạy trực tiếp trong VS Code Webview.
+2026-10-05T06:36:41.52Z,antonbru.cline-cost-dashboard,antonbru,Cline Cost Dashboard,0.1.0,"Track LLM (DeepSeek) spending in Cline per project: dashboard, CSV/HTML export, provider-bill reconciliation, off-peak pricing."
+2026-10-05T06:40:56.313Z,ClarifyDoc.clarifydoc-vscode,ClarifyDoc,ClarifyDoc,0.1.4,"Map any codebase — frontend route → API endpoint → database — straight from source, without leaving VS Code."
+2026-10-05T07:02:54.83Z,tsvetelin-stoyanov.rsf-language-pack,tsvetelin-stoyanov,RSF Language Pack,1.0.0,Tree-sitter syntax highlighting and formatter for the RSF format. Grammar by Georgi Nikolov.
+2026-10-05T07:11:17.747Z,DenizhanDaklr.muse-code-for-copilot,DenizhanDaklr,Muse Code: Copilot Provider,0.1.0,Use your Meta Muse Code subscription in GitHub Copilot Chat.
+2026-10-05T07:13:26.2Z,cosminoance.evening-in-kyoto,cosminoance,Evening in Kyoto,0.1.0,"A dark and a light colour theme calibrated for protanomaly, with matching file icons, from the Neovim theme evening-in-kyoto-nvim."
