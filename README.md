@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 10:20 UTC
+## Latest list — 2026-10-05 11:20 UTC
 
-New extensions published between 2026-10-05 08:20 UTC and 2026-10-05 10:20 UTC.
+New extensions published between 2026-10-05 09:20 UTC and 2026-10-05 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T10-20-50-554838Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T11-20-59-473771Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 09:19:31 | [GhostCmdr.codebuddy-quota](https://marketplace.visualstudio.com/items?itemName=GhostCmdr.codebuddy-quota) | CodeBuddy Quota | 0.1.1 | CodeBuddy 积分余量查看器：在状态栏显示 CodeBuddy 积分使用情况，悬停查看积分浮窗 |
-| 2026-10-05 09:29:32 | [AthurLau.pushright](https://marketplace.visualstudio.com/items?itemName=AthurLau.pushright) | PushRight | 0.2.2 | Git for multi-branch work: push to the same-name branch, pull with rebase by de… |
-| 2026-10-05 09:40:43 | [ketsu.codex-cache-status](https://marketplace.visualstudio.com/items?itemName=ketsu.codex-cache-status) | Codex Cache Status | 0.1.2 | Quiet local cache-read status and an estimated 30-minute countdown for Codex. |
-| 2026-10-05 09:47:43 | [5mdt.ansible-vault-editor](https://marketplace.visualstudio.com/items?itemName=5mdt.ansible-vault-editor) | Ansible Vault Editor | 1.0.0 | Encrypt, decrypt and edit Ansible Vault files and inline !vault values. |
-| 2026-10-05 09:49:59 | [sujitkumar.colab-sync](https://marketplace.visualstudio.com/items?itemName=sujitkumar.colab-sync) | Colab Sync | 1.0.30 | Bidirectional synchronization between a local VS Code workspace and a Google Co… |
-| 2026-10-05 09:55:46 | [rhaluk.ariv-better-themes](https://marketplace.visualstudio.com/items?itemName=rhaluk.ariv-better-themes) | Ariv Better Themes | 1.0.0 | A customized dark theme based on Ariv Themes. |
-| 2026-10-05 10:07:20 | [lukyvj.gss-language](https://marketplace.visualstudio.com/items?itemName=lukyvj.gss-language) | GSS — GPU Style Sheets | 0.4.0 | Syntax highlighting, file icon and formatting for GSS |
+| 2026-10-05 10:19:03 | [LegendaryRedfox.run-kotlin-vscode](https://marketplace.visualstudio.com/items?itemName=LegendaryRedfox.run-kotlin-vscode) | Run Kotlin | 0.1.0 | Kotlin syntax highlighting, autocomplete and a one click Run button over main f… |
+| 2026-10-05 10:22:11 | [codico.codico](https://marketplace.visualstudio.com/items?itemName=codico.codico) | Codico | 0.1.1 | Autonomous VS Code coding agent with native tools, resilient streaming, multi-p… |
+| 2026-10-05 10:30:56 | [idlepal.idlepal](https://marketplace.visualstudio.com/items?itemName=idlepal.idlepal) | IdlePal: A Pixel Pet for Coders | 1.0.0 | A pixel-art pet that lives in your editor and grows with your coding. 14 mini-g… |
+| 2026-10-05 10:54:05 | [chensuiyi.git-preview](https://marketplace.visualstudio.com/items?itemName=chensuiyi.git-preview) | Git Preview - GIT 审阅 | 0.2.0 | 侧边栏 Git 提交图谱，看历史、看每次提交改了什么、点开文件直接看 diff |
+| 2026-10-05 10:56:53 | [AhsanMandhar.vibecode-engine](https://marketplace.visualstudio.com/items?itemName=AhsanMandhar.vibecode-engine) | VibeCode Engine | 0.1.0 | VibeCode Engine: AI-powered code generation and chat interface for VS Code |
+| 2026-10-05 11:12:45 | [MinhHong.odoo-doctor](https://marketplace.visualstudio.com/items?itemName=MinhHong.odoo-doctor) | Odoo Doctor | 0.7.0 | Health findings for Odoo custom addons in your editor, with quick fixes (experi… |
 
 ## Data source
 
