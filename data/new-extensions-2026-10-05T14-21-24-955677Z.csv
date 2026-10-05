@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T13:40:12.34Z,MoNecromanCi.mnci,MoNecromanCi,MNCI,0.0.2,"The MoNecromanCI monorepo CLI in your editor: create workspaces, add projects, check and update them, from the side bar or the command palette."
+2026-10-05T13:48:46.8Z,voyager-api.voyager-api-client,voyager-api,Voyager API Client,0.1.0,"Voyager — API development platform, inside VS Code."
+2026-10-05T13:51:58.43Z,netpolicymap.netpolicymap-vscode,netpolicymap,NetPolicy Map: Kubernetes Policies for Terraform,1.0.2,Visualize your Kubernetes network policies and infrastructure topology generated from Terraform files as an interactive graph.
+2026-10-05T13:58:32.483Z,21CS.verifin,21CS,21CS VERIFIn,1.0.0,VS Code Extension for VERIFIn
+2026-10-05T14:11:35.187Z,hurfy.enfusion-plugin,hurfy,Enfusion,0.0.28,"Enfusion mod tooling for VS Code: discover, build, launch and open DayZ mods in Workbench"

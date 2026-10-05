@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 13:20 UTC
+## Latest list — 2026-10-05 14:21 UTC
 
-New extensions published between 2026-10-05 11:20 UTC and 2026-10-05 13:20 UTC.
+New extensions published between 2026-10-05 12:21 UTC and 2026-10-05 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T13-20-04-122271Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T14-21-24-955677Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 12:35:43 | [fosteev.gitsprout](https://marketplace.visualstudio.com/items?itemName=fosteev.gitsprout) | Gitsprout | 0.1.0 | Multi-repo git overview, commit graph and native diffs for VS Code and Cursor. |
-| 2026-10-05 12:45:42 | [nphearum.agent-orchestration-studio](https://marketplace.visualstudio.com/items?itemName=nphearum.agent-orchestration-studio) | Agent Orchestration Studio | 0.1.2 | Coordinate AI agents in VS Code with model providers, tool approvals, task dele… |
-| 2026-10-05 12:56:00 | [puida.tape-language](https://marketplace.visualstudio.com/items?itemName=puida.tape-language) | Tape | 1.0.0 | Tape language support: syntax highlighting for every region and live diagnostic… |
-| 2026-10-05 12:56:37 | [kastel.forge-kastel](https://marketplace.visualstudio.com/items?itemName=kastel.forge-kastel) | Forge — Kastel | 0.1.0 | Support officiel de Kastel (.ks) dans VS Code : coloration syntaxique, snippets… |
+| 2026-10-05 13:40:12 | [MoNecromanCi.mnci](https://marketplace.visualstudio.com/items?itemName=MoNecromanCi.mnci) | MNCI | 0.0.2 | The MoNecromanCI monorepo CLI in your editor: create workspaces, add projects,… |
+| 2026-10-05 13:48:46 | [voyager-api.voyager-api-client](https://marketplace.visualstudio.com/items?itemName=voyager-api.voyager-api-client) | Voyager API Client | 0.1.0 | Voyager — API development platform, inside VS Code. |
+| 2026-10-05 13:51:58 | [netpolicymap.netpolicymap-vscode](https://marketplace.visualstudio.com/items?itemName=netpolicymap.netpolicymap-vscode) | NetPolicy Map: Kubernetes Policies for… | 1.0.2 | Visualize your Kubernetes network policies and infrastructure topology generate… |
+| 2026-10-05 13:58:32 | [21CS.verifin](https://marketplace.visualstudio.com/items?itemName=21CS.verifin) | 21CS VERIFIn | 1.0.0 | VS Code Extension for VERIFIn |
+| 2026-10-05 14:11:35 | [hurfy.enfusion-plugin](https://marketplace.visualstudio.com/items?itemName=hurfy.enfusion-plugin) | Enfusion | 0.0.28 | Enfusion mod tooling for VS Code: discover, build, launch and open DayZ mods in… |
 
 ## Data source
 
