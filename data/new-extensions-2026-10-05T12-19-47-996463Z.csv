@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T11:20:12.32Z,SamuelGuizani.adaptive-effort,SamuelGuizani,Claude Adaptive Effort,1.0.3,"Automatically adjusts Claude Code reasoning effort (low to max) to each task: quick edits stay fast and cheap, hard bugs and architecture get maximum thinking. Live effort panel included."
+2026-10-05T11:39:36.593Z,rowstile.rowstile,rowstile,rowstile policy language,0.1.0,"For .authz policy files: highlighting (with SQL inside { }), errors while typing, hover, go to definition, references, outline and completion, from the rowstile language server."
+2026-10-05T11:40:25.607Z,moewolf.moe-icons-plugins,moewolf,Moe Icons,0.0.1,Code completion and semantic highlighting for the Moe Icons library (React & Vue).
+2026-10-05T11:41:26.983Z,zerob.vscode-zerob,zerob,Zero B Language Support World-Class Pro,0.7.0,"World-Class language intelligence for Zero B (.zb): Native LSP 3.17, Real-time Type Inlay Hints, CodeLens One-Click Run, Dynamic IntelliSense, Symbol Outline, and Formatting."
+2026-10-05T11:43:28.927Z,SreehariR.developer-productivity-assistant,SreehariR,Developer Assistant,1.0.0,"Universal Developer Productivity & Project Assistant for Laravel, Next.js, NestJS, React, Symfony, Angular, Node, and more."
+2026-10-05T11:50:00.74Z,AhsanMandhar.vibecode-engine-pro-free,AhsanMandhar,vibecode engine pro free,0.1.0,VibeCode Engine: AI-powered code generation and chat interface for VS Code
+2026-10-05T11:53:52.167Z,devShakib.ds-pubspec,devShakib,"Pubspec Health — SwiftPM, AGP 9 & Discontinued Packages",0.1.0,"Flags discontinued and retracted Flutter/Dart packages in pubspec.yaml, and the plugins in your dependency tree that still need CocoaPods (its registry goes read-only on 2 Dec 2026) or block AGP 9's built-in Kotlin. Quick fixes, and hovers with pub points, likes and downloads."
+2026-10-05T12:02:59.35Z,Ayaesue.macverilog,Ayaesue,MacVerilog,0.0.2,在 VS Code 中编译、运行 Icarus Verilog 项目并打开 VCD 波形。
+2026-10-05T12:04:57.727Z,LoreMaster.loremaster,LoreMaster,LoreMaster,0.1.1,"Gathers a project's lore: syncs your workspace's Markdown to Confluence, and publishes it as a static site on GitHub Pages."
+2026-10-05T12:09:19.69Z,fosteev.agentura,fosteev,Agentura,0.3.0,"Claude chat in VS Code: context, cost, cache and limits gauges"
+2026-10-05T12:13:56.137Z,fosteev.jiraffe,fosteev,Jiraffe,0.3.0,"Jira in VS Code: your issues, issue card, attachments, status changes, time logging with Tempo, epics and releases"
