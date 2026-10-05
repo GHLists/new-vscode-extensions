@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 07:21 UTC
+## Latest list — 2026-10-05 08:21 UTC
 
-New extensions published between 2026-10-05 05:21 UTC and 2026-10-05 07:21 UTC.
+New extensions published between 2026-10-05 06:21 UTC and 2026-10-05 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T07-21-07-029751Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T08-21-46-302848Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 06:31:06 | [maxontorres.cold-boot](https://marketplace.visualstudio.com/items?itemName=maxontorres.cold-boot) | Cold Boot | 1.1.0 | A dark Y2K techno-noir color theme with matching terminal-style file and folder… |
-| 2026-10-05 06:31:37 | [hoanghuy.terra-expedition-3d](https://marketplace.visualstudio.com/items?itemName=hoanghuy.terra-expedition-3d) | Terra Expedition 3D | 1.0.0 | Game phiêu lưu 3D vượt chướng ngại vật phong cách Stop-Motion Claymation chạy t… |
-| 2026-10-05 06:36:41 | [antonbru.cline-cost-dashboard](https://marketplace.visualstudio.com/items?itemName=antonbru.cline-cost-dashboard) | Cline Cost Dashboard | 0.1.0 | Track LLM (DeepSeek) spending in Cline per project: dashboard, CSV/HTML export,… |
-| 2026-10-05 06:40:56 | [ClarifyDoc.clarifydoc-vscode](https://marketplace.visualstudio.com/items?itemName=ClarifyDoc.clarifydoc-vscode) | ClarifyDoc | 0.1.4 | Map any codebase — frontend route → API endpoint → database — straight from sou… |
-| 2026-10-05 07:02:54 | [tsvetelin-stoyanov.rsf-language-pack](https://marketplace.visualstudio.com/items?itemName=tsvetelin-stoyanov.rsf-language-pack) | RSF Language Pack | 1.0.0 | Tree-sitter syntax highlighting and formatter for the RSF format. Grammar by Ge… |
-| 2026-10-05 07:11:17 | [DenizhanDaklr.muse-code-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.muse-code-for-copilot) | Muse Code: Copilot Provider | 0.1.0 | Use your Meta Muse Code subscription in GitHub Copilot Chat. |
-| 2026-10-05 07:13:26 | [cosminoance.evening-in-kyoto](https://marketplace.visualstudio.com/items?itemName=cosminoance.evening-in-kyoto) | Evening in Kyoto | 0.1.0 | A dark and a light colour theme calibrated for protanomaly, with matching file… |
+| 2026-10-05 07:20:49 | [midnightzkkornz.korn-extension](https://marketplace.visualstudio.com/items?itemName=midnightzkkornz.korn-extension) | Korn Markdown Sync | 0.1.1 | Markdown notes (.r.md) with a toolbar, 4 view modes and one-click Git sync: aut… |
+| 2026-10-05 07:29:32 | [StefanDriaanTurvey.afrikaans-gemeenskap](https://marketplace.visualstudio.com/items?itemName=StefanDriaanTurvey.afrikaans-gemeenskap) | Afrikaans Language Pack for VS Code | 1.0.3 | Language pack for VS Code in Afrikaans. Taalpak vir VS Code in Afrikaans. |
+| 2026-10-05 07:49:25 | [typedreammoon.dreamgui-language-support](https://marketplace.visualstudio.com/items?itemName=typedreammoon.dreamgui-language-support) | DreamGUI Language Support | 0.9.3 | Language support for DreamGUI .dui widget hierarchies: completion, hover, outli… |
+| 2026-10-05 07:50:07 | [AaronCui.vscode-systemverilog](https://marketplace.visualstudio.com/items?itemName=AaronCui.vscode-systemverilog) | SystemVerilog | 1.0.0 | SystemVerilog and Verilog language support: highlighting, navigation, completio… |
+| 2026-10-05 07:59:17 | [winst0niuss.naparnik-1c-chat](https://marketplace.visualstudio.com/items?itemName=winst0niuss.naparnik-1c-chat) | Чат с 1С:Напарник (неофициальный) | 0.3.0 | Неофициальный чат с сервисом 1С:Напарник (code.1c.ai) в VS Code. Не связан с фи… |
+| 2026-10-05 08:03:15 | [neonarcstudio.neonarc-theme-pack](https://marketplace.visualstudio.com/items?itemName=neonarcstudio.neonarc-theme-pack) | NeonArc Theme Pack | 0.1.8 | Anime-inspired VS Code themes for a bold coding vibe. |
+| 2026-10-05 08:03:28 | [AnujAnthwal.arch-for-LLD-design](https://marketplace.visualstudio.com/items?itemName=AnujAnthwal.arch-for-LLD-design) | Arch Design | 0.0.1 | Visual architecture canvas for mapping modules, services, functions and externa… |
+| 2026-10-05 08:07:30 | [StefanoV1989.Ariel-Package-Manager](https://marketplace.visualstudio.com/items?itemName=StefanoV1989.Ariel-Package-Manager) | Ariel Package Manager | 0.2.2 | The official VS Code extension for the Ariel Framework. |
 
 ## Data source
 

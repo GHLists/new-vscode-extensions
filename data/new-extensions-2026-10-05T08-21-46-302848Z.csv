@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T07:20:49.163Z,midnightzkkornz.korn-extension,midnightzkkornz,Korn Markdown Sync,0.1.1,"Markdown notes (.r.md) with a toolbar, 4 view modes and one-click Git sync: auto-sync, pull, and a built-in conflict resolver."
+2026-10-05T07:29:32.55Z,StefanDriaanTurvey.afrikaans-gemeenskap,StefanDriaanTurvey,Afrikaans Language Pack for VS Code,1.0.3,Language pack for VS Code in Afrikaans. Taalpak vir VS Code in Afrikaans.
+2026-10-05T07:49:25.267Z,typedreammoon.dreamgui-language-support,typedreammoon,DreamGUI Language Support,0.9.3,"Language support for DreamGUI .dui widget hierarchies: completion, hover, outline, diagnostics, driven by symbols the Unreal plugin exports."
+2026-10-05T07:50:07.157Z,AaronCui.vscode-systemverilog,AaronCui,SystemVerilog,1.0.0,"SystemVerilog and Verilog language support: highlighting, navigation, completion, alignment, instantiation and linting. Port of the Sublime Text SystemVerilog plugin."
+2026-10-05T07:59:17.787Z,winst0niuss.naparnik-1c-chat,winst0niuss,Чат с 1С:Напарник (неофициальный),0.3.0,Неофициальный чат с сервисом 1С:Напарник (code.1c.ai) в VS Code. Не связан с фирмой «1С».
+2026-10-05T08:03:15.543Z,neonarcstudio.neonarc-theme-pack,neonarcstudio,NeonArc Theme Pack,0.1.8,Anime-inspired VS Code themes for a bold coding vibe.
+2026-10-05T08:03:28.547Z,AnujAnthwal.arch-for-LLD-design,AnujAnthwal,Arch Design,0.0.1,"Visual architecture canvas for mapping modules, services, functions and external dependencies"
+2026-10-05T08:07:30.927Z,StefanoV1989.Ariel-Package-Manager,StefanoV1989,Ariel Package Manager,0.2.2,The official VS Code extension for the Ariel Framework.
