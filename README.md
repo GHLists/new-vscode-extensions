@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 14:21 UTC
+## Latest list — 2026-10-05 15:20 UTC
 
-New extensions published between 2026-10-05 12:21 UTC and 2026-10-05 14:21 UTC.
+New extensions published between 2026-10-05 13:20 UTC and 2026-10-05 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T14-21-24-955677Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T15-20-48-477152Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 13:40:12 | [MoNecromanCi.mnci](https://marketplace.visualstudio.com/items?itemName=MoNecromanCi.mnci) | MNCI | 0.0.2 | The MoNecromanCI monorepo CLI in your editor: create workspaces, add projects,… |
-| 2026-10-05 13:48:46 | [voyager-api.voyager-api-client](https://marketplace.visualstudio.com/items?itemName=voyager-api.voyager-api-client) | Voyager API Client | 0.1.0 | Voyager — API development platform, inside VS Code. |
-| 2026-10-05 13:51:58 | [netpolicymap.netpolicymap-vscode](https://marketplace.visualstudio.com/items?itemName=netpolicymap.netpolicymap-vscode) | NetPolicy Map: Kubernetes Policies for… | 1.0.2 | Visualize your Kubernetes network policies and infrastructure topology generate… |
-| 2026-10-05 13:58:32 | [21CS.verifin](https://marketplace.visualstudio.com/items?itemName=21CS.verifin) | 21CS VERIFIn | 1.0.0 | VS Code Extension for VERIFIn |
-| 2026-10-05 14:11:35 | [hurfy.enfusion-plugin](https://marketplace.visualstudio.com/items?itemName=hurfy.enfusion-plugin) | Enfusion | 0.0.28 | Enfusion mod tooling for VS Code: discover, build, launch and open DayZ mods in… |
+| 2026-10-05 14:24:13 | [Mel.openmel](https://marketplace.visualstudio.com/items?itemName=Mel.openmel) | Mel | 0.1.1 | Mel's agent in VS Code: the same agent as the Mel app, on your Mel plan. |
+| 2026-10-05 14:25:11 | [spufidoo.vscode-3270](https://marketplace.visualstudio.com/items?itemName=spufidoo.vscode-3270) | 3270 Terminal | 1.0.0 | Native 3270 terminal view for VS Code and Cursor, powered by IBM tnz. |
+| 2026-10-05 14:35:59 | [h1romas4.mmlx-lsp](https://marketplace.visualstudio.com/items?itemName=h1romas4.mmlx-lsp) | mmlx-lsp | 0.2.0 | MML language support powered by mmlx and WebAssembly. |
+| 2026-10-05 15:03:25 | [iliazeus.vscode-quilt](https://marketplace.visualstudio.com/items?itemName=iliazeus.vscode-quilt) | Quilt Patch Management | 1.0.0 | Quilt allows you to easily manage large numbers of patches by keeping track of… |
 
 ## Data source
 

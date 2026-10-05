@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T14:24:13.673Z,Mel.openmel,Mel,Mel,0.1.1,"Mel's agent in VS Code: the same agent as the Mel app, on your Mel plan."
+2026-10-05T14:25:11.173Z,spufidoo.vscode-3270,spufidoo,3270 Terminal,1.0.0,"Native 3270 terminal view for VS Code and Cursor, powered by IBM tnz."
+2026-10-05T14:35:59.757Z,h1romas4.mmlx-lsp,h1romas4,mmlx-lsp,0.2.0,MML language support powered by mmlx and WebAssembly.
+2026-10-05T15:03:25.353Z,iliazeus.vscode-quilt,iliazeus,Quilt Patch Management,1.0.0,"Quilt allows you to easily manage large numbers of patches by keeping track of the changes each patch makes. Patches can be applied, un-applied, refreshed, and more."
