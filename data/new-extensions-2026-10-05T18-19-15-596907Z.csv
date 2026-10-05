@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T17:22:42.747Z,silasjak.download-all,silasjak,Download All,1.0.0,Download all selected files and folders from a remote workspace with a single destination prompt.
+2026-10-05T17:24:58.687Z,Gotharden.sicht-debugger,Gotharden,Sicht Debugger,1.0.0,"Sicht language support (diagnostics, completion, hover, definition, references, rename, formatting, folding, semantic highlighting)"
+2026-10-05T17:30:38.857Z,cloudadministrator.bicepflex,cloudadministrator,BicepFlex,0.3.0,"Standalone, configurable Bicep and Bicep parameters formatter backed by the Bicep compiler."
+2026-10-05T17:55:28.933Z,AnandSundaramoorthySa.sql-file-explainer,AnandSundaramoorthySa,SQL File Explainer,0.1.0,It explains your SQL file.
+2026-10-05T17:58:39.243Z,kucherenko.jscpd,kucherenko,jscpd,0.1.0,"Copy/paste detection in the editor: exact, renamed, near-miss, similar and semantic clones, dead code and complexity from jscpd --lsp, and a migration view for jscpd --compare."
+2026-10-05T18:02:22.313Z,Maxrall-Inc.nexrall-coding,Maxrall-Inc,Nexrall Code - Agent Coding,2.0.11,"Your autonomous AI coding agent for VS Code: reads your codebase, edits files, runs commands and ships work end-to-end — with your approval at every step. One account for every frontier model — up to 1M-token context, MCP tools, checkpoints and granular permissions."
