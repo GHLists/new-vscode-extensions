@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 21:20 UTC
+## Latest list — 2026-10-05 22:19 UTC
 
-New extensions published between 2026-10-05 19:20 UTC and 2026-10-05 21:20 UTC.
+New extensions published between 2026-10-05 20:19 UTC and 2026-10-05 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T21-20-28-289639Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T22-19-26-024616Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 20:37:29 | [nikisalli.git-graph-cumulative-additions-deletions](https://marketplace.visualstudio.com/items?itemName=nikisalli.git-graph-cumulative-additions-deletions) | Git Graph with Additions & Deletions | 0.1.1 | View a Git Graph with total lines added and deleted for each commit. Fork of Gi… |
-| 2026-10-05 20:56:49 | [theokeist-hcode-org.bloom-highlighter](https://marketplace.visualstudio.com/items?itemName=theokeist-hcode-org.bloom-highlighter) | Bloom Syntax Highlighter | 0.13.2 | Language-specific cognitive code views, category switches, colors and risky-ope… |
-| 2026-10-05 20:58:10 | [zackaryh8.osc-lens](https://marketplace.visualstudio.com/items?itemName=zackaryh8.osc-lens) | OSC Lens | 0.1.0 | Highlighting, completion, hover and diagnostics for OMSI 2 .osc scripts, varlis… |
-| 2026-10-05 21:13:09 | [leovvvx.grain-theme](https://marketplace.visualstudio.com/items?itemName=leovvvx.grain-theme) | Grain Theme | 1.0.0 | Minimal light and dark VS Code themes: Min Theme's syntax on Tailwind CSS neutr… |
-| 2026-10-05 21:15:41 | [NurshatjanSherpidin.antigravity-quota-lens](https://marketplace.visualstudio.com/items?itemName=NurshatjanSherpidin.antigravity-quota-lens) | Antigravity Quota Lens | 1.2.0 | Real-time Gemini token usage, 5-hour sprint quota, and weekly limits right on y… |
+| 2026-10-05 21:47:30 | [RecurLoop.recurloop-vscode](https://marketplace.visualstudio.com/items?itemName=RecurLoop.recurloop-vscode) | RecurLoop | 0.1.2 | Language intelligence and debugging for RecurLoop. |
+| 2026-10-05 21:58:07 | [SebastianIngebrigtsen.codealong](https://marketplace.visualstudio.com/items?itemName=SebastianIngebrigtsen.codealong) | CodeAlong | 0.1.0 | Coding tutorials that wait for you. Pauses the video in Chrome while you type a… |
+| 2026-10-05 22:02:56 | [ottowolfenden.polychromatic-theme](https://marketplace.visualstudio.com/items?itemName=ottowolfenden.polychromatic-theme) | Polychromatic Theme | 5.1.2 | A colour theme, file icon theme and product icon theme for VS Code which suppor… |
+| 2026-10-05 22:09:16 | [PrinOrange.markdown-d2-preview](https://marketplace.visualstudio.com/items?itemName=PrinOrange.markdown-d2-preview) | D2 Diagram Preview in VSCode Markdown | 0.1.1 | Render D2 diagrams in VS Code's built-in Markdown preview. |
+| 2026-10-05 22:15:00 | [Netajam.localaitab](https://marketplace.visualstudio.com/items?itemName=Netajam.localaitab) | LocalAITab | 0.11.0 | On-demand local FIM completion and selection refactoring, backed by Ollama. |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T21:47:30.483Z,RecurLoop.recurloop-vscode,RecurLoop,RecurLoop,0.1.2,Language intelligence and debugging for RecurLoop.
+2026-10-05T21:58:07.563Z,SebastianIngebrigtsen.codealong,SebastianIngebrigtsen,CodeAlong,0.1.0,Coding tutorials that wait for you. Pauses the video in Chrome while you type and continues when you're done.
+2026-10-05T22:02:56.977Z,ottowolfenden.polychromatic-theme,ottowolfenden,Polychromatic Theme,5.1.2,"A colour theme, file icon theme and product icon theme for VS Code which supports light and dark mode."
+2026-10-05T22:09:16.377Z,PrinOrange.markdown-d2-preview,PrinOrange,D2 Diagram Preview in VSCode Markdown,0.1.1,Render D2 diagrams in VS Code's built-in Markdown preview.
+2026-10-05T22:15:00.733Z,Netajam.localaitab,Netajam,LocalAITab,0.11.0,"On-demand local FIM completion and selection refactoring, backed by Ollama."
