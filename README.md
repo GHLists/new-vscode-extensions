@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-04 23:19 UTC
+## Latest list — 2026-10-05 00:19 UTC
 
-New extensions published between 2026-10-04 21:19 UTC and 2026-10-04 23:19 UTC.
+New extensions published between 2026-10-04 22:19 UTC and 2026-10-05 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-04T23-19-32-329367Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T00-19-12-805871Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 22:31:21 | [JohnMorillo.informaticsmail](https://marketplace.visualstudio.com/items?itemName=JohnMorillo.informaticsmail) | InformaticsMAIL | 2.1.0 | MAIL 2.0 for laboratory informatics: syntax, live validation with the MAIL refe… |
-| 2026-10-04 22:37:56 | [dydxfx.matra](https://marketplace.visualstudio.com/items?itemName=dydxfx.matra) | Mātrā: AI Usage | 0.1.3 | Independent Claude Code, Codex, Cursor and Antigravity usage monitor with reset… |
-| 2026-10-04 22:42:38 | [nolindnaidoo.jevlint-le](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.jevlint-le) | JevLint-LE | 0.1.0 | Lint the questions you send to TypeSafe's Jev model as you type, with no API ke… |
-| 2026-10-04 22:43:05 | [beatahumeniuk.docx-to-md](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.docx-to-md) | Word to Markdown | 0.1.0 | Converts Word documents (.docx, and old .doc through Word or LibreOffice) to Ma… |
-| 2026-10-04 22:44:43 | [j0yb0y.runtone](https://marketplace.visualstudio.com/items?itemName=j0yb0y.runtone) | RunTone | 0.0.1 | Play sounds when code succeeds or fails |
+| 2026-10-04 23:34:33 | [UrSaviourDev.practicalexpander](https://marketplace.visualstudio.com/items?itemName=UrSaviourDev.practicalexpander) | PracticalExpander | 0.0.3 | Find college practicals offline with keyword IntelliSense and safely expand the… |
+| 2026-10-04 23:41:16 | [catalystproject.catalyst-evidence-graph](https://marketplace.visualstudio.com/items?itemName=catalystproject.catalyst-evidence-graph) | Catalyst Evidence Graph | 0.2.0 | Findings on what compounds, supplements and nutrients do in the body, for Copil… |
+| 2026-10-04 23:57:01 | [VerdantLeaf.voltage-theme](https://marketplace.visualstudio.com/items?itemName=VerdantLeaf.voltage-theme) | Voltage Theme | 1.2.1 | A high-contrast, vibrant dark theme with clear semantic distinctions between de… |
+| 2026-10-05 00:11:01 | [413287184954.serge-next](https://marketplace.visualstudio.com/items?itemName=413287184954.serge-next) | Serge Forge — agent IA DevOps (console… | 0.2.0 | Serge — agent IA DevOps. Console Studio Forge (backend :8070). |
 
 ## Data source
 
