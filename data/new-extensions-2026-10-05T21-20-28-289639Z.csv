@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T20:37:29.747Z,nikisalli.git-graph-cumulative-additions-deletions,nikisalli,Git Graph with Additions & Deletions,0.1.1,View a Git Graph with total lines added and deleted for each commit. Fork of Git Graph with a resizable + / - column.
+2026-10-05T20:56:49.963Z,theokeist-hcode-org.bloom-highlighter,theokeist-hcode-org,Bloom Syntax Highlighter,0.13.2,"Language-specific cognitive code views, category switches, colors and risky-operation review"
+2026-10-05T20:58:10.157Z,zackaryh8.osc-lens,zackaryh8,OSC Lens,0.1.0,"Highlighting, completion, hover and diagnostics for OMSI 2 .osc scripts, varlists and constfiles - rules taken from reverse engineering of Omsi.exe."
+2026-10-05T21:13:09.273Z,leovvvx.grain-theme,leovvvx,Grain Theme,1.0.0,"Minimal light and dark VS Code themes: Min Theme's syntax on Tailwind CSS neutral palettes — stone, taupe, olive, zinc, slate and more."
+2026-10-05T21:15:41.503Z,NurshatjanSherpidin.antigravity-quota-lens,NurshatjanSherpidin,Antigravity Quota Lens,1.2.0,"Real-time Gemini token usage, 5-hour sprint quota, and weekly limits right on your status bar."
