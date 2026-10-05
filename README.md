@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 00:19 UTC
+## Latest list — 2026-10-05 01:19 UTC
 
-New extensions published between 2026-10-04 22:19 UTC and 2026-10-05 00:19 UTC.
+New extensions published between 2026-10-04 23:19 UTC and 2026-10-05 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T00-19-12-805871Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T01-19-37-275321Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-04 23:34:33 | [UrSaviourDev.practicalexpander](https://marketplace.visualstudio.com/items?itemName=UrSaviourDev.practicalexpander) | PracticalExpander | 0.0.3 | Find college practicals offline with keyword IntelliSense and safely expand the… |
-| 2026-10-04 23:41:16 | [catalystproject.catalyst-evidence-graph](https://marketplace.visualstudio.com/items?itemName=catalystproject.catalyst-evidence-graph) | Catalyst Evidence Graph | 0.2.0 | Findings on what compounds, supplements and nutrients do in the body, for Copil… |
-| 2026-10-04 23:57:01 | [VerdantLeaf.voltage-theme](https://marketplace.visualstudio.com/items?itemName=VerdantLeaf.voltage-theme) | Voltage Theme | 1.2.1 | A high-contrast, vibrant dark theme with clear semantic distinctions between de… |
-| 2026-10-05 00:11:01 | [413287184954.serge-next](https://marketplace.visualstudio.com/items?itemName=413287184954.serge-next) | Serge Forge — agent IA DevOps (console… | 0.2.0 | Serge — agent IA DevOps. Console Studio Forge (backend :8070). |
+| 2026-10-05 00:21:11 | [caputoluca.bluehour](https://marketplace.visualstudio.com/items?itemName=caputoluca.bluehour) | Blue Hour | 0.2.11 | A minimal dark theme: one near-black background, gray text, and two color famil… |
+| 2026-10-05 00:23:52 | [PacketAnglers.eos-linter](https://marketplace.visualstudio.com/items?itemName=PacketAnglers.eos-linter) | Arista EOS Config Linter | 0.5.4 | Syntax highlighting, structure, validation, cross-reference lints with quick fi… |
+| 2026-10-05 00:35:13 | [r3d3dev.opencode-terminal-cli](https://marketplace.visualstudio.com/items?itemName=r3d3dev.opencode-terminal-cli) | OpenCode v2 Terminal | 0.1.1 | OpenCode terminal launcher for VS Code: open the OpenCode CLI agent in the inte… |
+| 2026-10-05 00:59:43 | [martincodes.task-relay](https://marketplace.visualstudio.com/items?itemName=martincodes.task-relay) | Task Relay | 0.4.0 | Plan, delegate, and review development work in VS Code with Markdown tasks, mil… |
+| 2026-10-05 01:01:36 | [adaptiv.komando](https://marketplace.visualstudio.com/items?itemName=adaptiv.komando) | Komando | 0.1.0 | Configure, validate and deploy Komando workspaces from VS Code. |
 
 ## Data source
 

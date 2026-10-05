@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T00:21:11.903Z,caputoluca.bluehour,caputoluca,Blue Hour,0.2.11,"A minimal dark theme: one near-black background, gray text, and two color families, a soft blue and a peach."
+2026-10-05T00:23:52.667Z,PacketAnglers.eos-linter,PacketAnglers,Arista EOS Config Linter,0.5.4,"Syntax highlighting, structure, validation, cross-reference lints with quick fixes, completion, navigation (Go to Definition, Find References) and Rename (F2) for Arista EOS device configurations"
+2026-10-05T00:35:13.817Z,r3d3dev.opencode-terminal-cli,r3d3dev,OpenCode v2 Terminal,0.1.1,"OpenCode terminal launcher for VS Code: open the OpenCode CLI agent in the integrated terminal with one shortcut and insert @file references from the editor. A dependency-free alternative to the official sst-dev.opencode extension, which stopped working with OpenCode CLI v2. Works with CLI v1 and v2"
+2026-10-05T00:59:43.277Z,martincodes.task-relay,martincodes,Task Relay,0.4.0,"Plan, delegate, and review development work in VS Code with Markdown tasks, milestones, and workflows for humans and AI agents like Codex, Claude, and Devin."
+2026-10-05T01:01:36.287Z,adaptiv.komando,adaptiv,Komando,0.1.0,"Configure, validate and deploy Komando workspaces from VS Code."
