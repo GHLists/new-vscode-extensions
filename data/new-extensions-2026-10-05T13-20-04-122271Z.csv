@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T12:35:43.14Z,fosteev.gitsprout,fosteev,Gitsprout,0.1.0,"Multi-repo git overview, commit graph and native diffs for VS Code and Cursor."
+2026-10-05T12:45:42.753Z,nphearum.agent-orchestration-studio,nphearum,Agent Orchestration Studio,0.1.2,"Coordinate AI agents in VS Code with model providers, tool approvals, task delegation, and persistent memory."
+2026-10-05T12:56:00.407Z,puida.tape-language,puida,Tape,1.0.0,Tape language support: syntax highlighting for every region and live diagnostics from tape-lsp.
+2026-10-05T12:56:37.013Z,kastel.forge-kastel,kastel,Forge — Kastel,0.1.0,"Support officiel de Kastel (.ks) dans VS Code : coloration syntaxique, snippets, LSP, exécution, REPL et Gate."
