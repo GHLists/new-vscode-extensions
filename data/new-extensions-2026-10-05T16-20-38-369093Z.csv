@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T15:36:28.1Z,DawChae.git-next,DawChae,Git Next,0.2.1,"Git 그래프, Safe Guard, 한국어 가이드와 AI 진단으로 Git 상태와 다음 행동을 이해하기 쉽게 보여주는 VS Code 확장입니다."
+2026-10-05T15:42:10.657Z,michalstrba.ai-pair,michalstrba,AI Pair,0.1.0,Pair program with an AI agent: a second cursor that types at a human pace and narrates what it's doing.
+2026-10-05T15:51:34.313Z,ReadyStack.bitnami-image-catalog-gate,ReadyStack,"Bitnami Image Gate: Compose, Helm, Dockerfile",1.0.4,"Flags Bitnami image lines that broke with the 2025-09-29 catalog change: removed docker.io/bitnami tags, frozen bitnamilegacy images, Helm values pins, allowInsecureImages."
+2026-10-05T15:51:48.657Z,ReadyStack.connection-string-secret-audit,ReadyStack,Connection String & Secret Audit — 8 Stacks,0.1.7,"26 rules and 32 safe-replacement snippets for hardcoded connection strings, keys and kubeconfigs across 8 VS Code stacks. Runs on your machine, sends nothing anywhere. One-time $29."
+2026-10-05T15:51:53.003Z,ReadyStack.consent-audit-eu,ReadyStack,Pre-Consent Tracker Audit for EU Client Websites,0.1.7,"Finds the analytics, pixels, fonts and embeds that fire before your cookie banner is answered - in the source, before you deploy. 24 rules."
+2026-10-05T15:52:03.597Z,ReadyStack.consent-mode-v2-lint,ReadyStack,Consent Mode v2 Lint for GA4 & Google Ads,0.1.7,"Finds the consent-signal bugs that silently switch off Google Ads conversions and remarketing for EEA and UK traffic - in your source, before you ship."
