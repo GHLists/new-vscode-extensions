@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T22:14:53.52Z,mlsomers.lsmsgpack-explorer,mlsomers,MsgPack Explorer (LsMsgPack),2026.10.7,"Inspect MsgPack data while debugging (byte[], Stream, List<byte>, Memory<byte>, HttpContent...) and in .msgpack files: item tree, hex view, properties, validation, objects with the indexed schema of LsMsgPack."
+2026-10-05T22:25:36.2Z,shamsine.minab-vscode,shamsine,Minab,0.2.0,"Syntax highlighting, snippets and live diagnostics for Minab (.minab) files"
+2026-10-05T22:30:09.043Z,NikolaiFedorov.vscode-rider-light-minimal-theme,NikolaiFedorov,Rider Light Minimal,0.4.1,Light and dark color themes for VS Code. Consistent syntax highlighting across languages with a themed markdown preview style. Inspired by JetBrains Rider.
+2026-10-05T22:43:06.877Z,Leandros.mips-forge,Leandros,MIPS Forge,0.1.0,"A self-contained MIPS assembler, interpreter and debugger for Visual Studio Code."
+2026-10-05T22:51:13.847Z,FabianReyes.smart-pr-review,FabianReyes,Smart PR Review — GitHub & Azure DevOps PR Review with AI,0.0.1,"Review GitHub and Azure DevOps pull requests inside VS Code: diffs, comments, suggestions and votes."
+2026-10-05T22:57:15.373Z,Sufini.vscode-project-brain,Sufini,Sufini,0.1.0,"VS Code AI client adapter for Sufini — workspace discovery, Link AI, and retrieval context injection."

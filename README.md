@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 22:19 UTC
+## Latest list — 2026-10-05 23:20 UTC
 
-New extensions published between 2026-10-05 20:19 UTC and 2026-10-05 22:19 UTC.
+New extensions published between 2026-10-05 21:20 UTC and 2026-10-05 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T22-19-26-024616Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T23-20-18-88945Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 21:47:30 | [RecurLoop.recurloop-vscode](https://marketplace.visualstudio.com/items?itemName=RecurLoop.recurloop-vscode) | RecurLoop | 0.1.2 | Language intelligence and debugging for RecurLoop. |
-| 2026-10-05 21:58:07 | [SebastianIngebrigtsen.codealong](https://marketplace.visualstudio.com/items?itemName=SebastianIngebrigtsen.codealong) | CodeAlong | 0.1.0 | Coding tutorials that wait for you. Pauses the video in Chrome while you type a… |
-| 2026-10-05 22:02:56 | [ottowolfenden.polychromatic-theme](https://marketplace.visualstudio.com/items?itemName=ottowolfenden.polychromatic-theme) | Polychromatic Theme | 5.1.2 | A colour theme, file icon theme and product icon theme for VS Code which suppor… |
-| 2026-10-05 22:09:16 | [PrinOrange.markdown-d2-preview](https://marketplace.visualstudio.com/items?itemName=PrinOrange.markdown-d2-preview) | D2 Diagram Preview in VSCode Markdown | 0.1.1 | Render D2 diagrams in VS Code's built-in Markdown preview. |
-| 2026-10-05 22:15:00 | [Netajam.localaitab](https://marketplace.visualstudio.com/items?itemName=Netajam.localaitab) | LocalAITab | 0.11.0 | On-demand local FIM completion and selection refactoring, backed by Ollama. |
+| 2026-10-05 22:14:53 | [mlsomers.lsmsgpack-explorer](https://marketplace.visualstudio.com/items?itemName=mlsomers.lsmsgpack-explorer) | MsgPack Explorer (LsMsgPack) | 2026.10.7 | Inspect MsgPack data while debugging (byte[], Stream, List<byte>, Memory<byte>,… |
+| 2026-10-05 22:25:36 | [shamsine.minab-vscode](https://marketplace.visualstudio.com/items?itemName=shamsine.minab-vscode) | Minab | 0.2.0 | Syntax highlighting, snippets and live diagnostics for Minab (.minab) files |
+| 2026-10-05 22:30:09 | [NikolaiFedorov.vscode-rider-light-minimal-theme](https://marketplace.visualstudio.com/items?itemName=NikolaiFedorov.vscode-rider-light-minimal-theme) | Rider Light Minimal | 0.4.1 | Light and dark color themes for VS Code. Consistent syntax highlighting across… |
+| 2026-10-05 22:43:06 | [Leandros.mips-forge](https://marketplace.visualstudio.com/items?itemName=Leandros.mips-forge) | MIPS Forge | 0.1.0 | A self-contained MIPS assembler, interpreter and debugger for Visual Studio Cod… |
+| 2026-10-05 22:51:13 | [FabianReyes.smart-pr-review](https://marketplace.visualstudio.com/items?itemName=FabianReyes.smart-pr-review) | Smart PR Review — GitHub & Azure DevOps… | 0.0.1 | Review GitHub and Azure DevOps pull requests inside VS Code: diffs, comments, s… |
+| 2026-10-05 22:57:15 | [Sufini.vscode-project-brain](https://marketplace.visualstudio.com/items?itemName=Sufini.vscode-project-brain) | Sufini | 0.1.0 | VS Code AI client adapter for Sufini — workspace discovery, Link AI, and retrie… |
 
 ## Data source
 
