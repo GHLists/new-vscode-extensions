@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-05 19:19 UTC
+## Latest list — 2026-10-05 20:20 UTC
 
-New extensions published between 2026-10-05 17:19 UTC and 2026-10-05 19:19 UTC.
+New extensions published between 2026-10-05 18:20 UTC and 2026-10-05 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-05T19-19-22-026173Z.csv)
+[Full CSV](data/new-extensions-2026-10-05T20-20-51-932656Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 18:16:19 | [Swordpartee.partee-theme](https://marketplace.visualstudio.com/items?itemName=Swordpartee.partee-theme) | Partee Theme | 0.0.1 | A custom color theme for VS Code. |
-| 2026-10-05 18:23:35 | [beatahumeniuk.xlsx-to-md](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.xlsx-to-md) | Excel & CSV to Markdown | 0.2.0 | Turn the part of an Excel workbook or CSV file you need into Markdown: pick the… |
-| 2026-10-05 18:32:36 | [spendlens.spendlens](https://marketplace.visualstudio.com/items?itemName=spendlens.spendlens) | SpendLens | 0.1.0 | See what your Claude Code sessions would cost at list prices, and set how long… |
-| 2026-10-05 18:38:58 | [Mythra.tracelens](https://marketplace.visualstudio.com/items?itemName=Mythra.tracelens) | TraceLens | 1.0.2 | See what happens when your code runs. Real execution tracing, call trees and ti… |
-| 2026-10-05 18:52:05 | [Mythra.python-correct-indentation](https://marketplace.visualstudio.com/items?itemName=Mythra.python-correct-indentation) | Python Correct Indentation | 1.0.0 | Fix Python indentation intelligently — with diagnostics, explanations, safe rep… |
-| 2026-10-05 18:52:31 | [nifty.nifty-git](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-git) | Nifty Git: Git Client, Graph, Rebase &… | 0.1.0 | 14-day free trial, then $39 once. A Git client in VS Code: commit graph, drag-a… |
-| 2026-10-05 18:55:30 | [FelipeEmbersisc.cupertino-code](https://marketplace.visualstudio.com/items?itemName=FelipeEmbersisc.cupertino-code) | Cupertino Code | 1.1.0 | Temas claro e escuro inspirados no Xcode para o VS Code, com ícones no estilo m… |
+| 2026-10-05 19:12:18 | [useful-ext.architecture-designer](https://marketplace.visualstudio.com/items?itemName=useful-ext.architecture-designer) | Architecture Designer for OCI & Hybrid | 1.1.0 | Turn a Paint sketch (typed or hand-written), an SVG, a draw.io file, a YAML fil… |
+| 2026-10-05 19:32:40 | [stringutilitybelt.string-utility-belt](https://marketplace.visualstudio.com/items?itemName=stringutilitybelt.string-utility-belt) | String Utility Belt | 1.3.0 | Run 240+ string transforms — encoding, hashing, ciphers, formatting and more —… |
+| 2026-10-05 19:37:40 | [lleonardogr.sphynx](https://marketplace.visualstudio.com/items?itemName=lleonardogr.sphynx) | Sphynx | 1.0.0 | LeetCode/HackerRank-style coding challenges inside VS Code, with mixed-skill te… |
+| 2026-10-05 19:39:46 | [nifty.nifty-templates](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-templates) | Nifty Templates: Jinja, Twig & Nunjucks | 0.1.0 | Jinja, Twig and Nunjucks: highlighting in HTML, YAML and any file, block format… |
+| 2026-10-05 19:40:19 | [nifty.nifty-i18n](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-i18n) | Nifty i18n: Inline Translations & Missi… | 0.1.0 | See translations inline next to t('key') calls, find missing keys and translati… |
+| 2026-10-05 19:40:43 | [nifty.nifty-openapi](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-openapi) | Nifty OpenAPI: Outline, Checks and Try… | 0.1.0 | Edit OpenAPI and Swagger files with an outline, $ref navigation and completion,… |
+| 2026-10-05 19:41:08 | [nifty.nifty-python-envs](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-python-envs) | Nifty Python Envs: venv, uv, conda & py… | 0.1.0 | See and manage every Python environment: project venvs (uv or venv), uv-managed… |
+| 2026-10-05 19:41:46 | [nifty.nifty-pytest](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-pytest) | Nifty pytest: pytest Test Explorer | 0.1.0 | A pytest test explorer with saved run configurations, marker filters, real asse… |
+| 2026-10-05 19:44:28 | [nifty.nifty-python-profiler](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-python-profiler) | Nifty Python Profiler: cProfile Hotspot… | 0.1.0 | Profile Python scripts and pytest runs with cProfile: hotspot table, call count… |
 
 ## Data source
 
