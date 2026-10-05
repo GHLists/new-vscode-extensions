@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T18:16:19.23Z,Swordpartee.partee-theme,Swordpartee,Partee Theme,0.0.1,A custom color theme for VS Code.
+2026-10-05T18:23:35.78Z,beatahumeniuk.xlsx-to-md,beatahumeniuk,Excel & CSV to Markdown,0.2.0,"Turn the part of an Excel workbook or CSV file you need into Markdown: pick the sheet and ranges in a live grid, choose columns by name, filter rows, preview the result — and save the setup as a filter to reuse on any workbook."
+2026-10-05T18:32:36.973Z,spendlens.spendlens,spendlens,SpendLens,0.1.0,"See what your Claude Code sessions would cost at list prices, and set how long Claude Code keeps transcripts. Unofficial; not affiliated with Anthropic."
+2026-10-05T18:38:58.87Z,Mythra.tracelens,Mythra,TraceLens,1.0.2,"See what happens when your code runs. Real execution tracing, call trees and timelines for Python, JavaScript and TypeScript."
+2026-10-05T18:52:05.053Z,Mythra.python-correct-indentation,Mythra,Python Correct Indentation,1.0.0,"Fix Python indentation intelligently — with diagnostics, explanations, safe repairs, confidence scoring, preview, and syntax verification."
+2026-10-05T18:52:31.247Z,nifty.nifty-git,nifty,"Nifty Git: Git Client, Graph, Rebase & Worktrees",0.1.0,"14-day free trial, then $39 once. A Git client in VS Code: commit graph, drag-and-drop merge and rebase, interactive rebase, undo, worktrees. No account."
+2026-10-05T18:55:30.82Z,FelipeEmbersisc.cupertino-code,FelipeEmbersisc,Cupertino Code,1.1.0,"Temas claro e escuro inspirados no Xcode para o VS Code, com ícones no estilo macOS e configuração de fonte SF Mono em um clique."
