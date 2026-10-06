@@ -12,24 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 10:20 UTC
+## Latest list — 2026-10-06 11:20 UTC
 
-New extensions published between 2026-10-06 08:20 UTC and 2026-10-06 10:20 UTC.
+New extensions published between 2026-10-06 09:20 UTC and 2026-10-06 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T10-20-12-328148Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T11-20-21-156766Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 09:22:41 | [q4usdev.QUnit](https://marketplace.visualstudio.com/items?itemName=q4usdev.QUnit) | QUnit - Test Generator | 1.0.3 | Automatically generate high-quality unit and integration tests for Moleculer.js… |
-| 2026-10-06 09:24:08 | [Elagoht.collage-snippets-highlighter](https://marketplace.visualstudio.com/items?itemName=Elagoht.collage-snippets-highlighter) | Collage Snippets & Highlighter | 0.7.0 | Snippets, template highlighting, completion and plugins-config.json validation… |
-| 2026-10-06 09:25:03 | [BuldiDev.agent-army](https://marketplace.visualstudio.com/items?itemName=BuldiDev.agent-army) | Agent Army | 0.7.0 | Every active Claude Code session and subagent becomes a diep.io-style tank that… |
-| 2026-10-06 09:28:40 | [puupuls.better-ssh](https://marketplace.visualstudio.com/items?itemName=puupuls.better-ssh) | Better SSH | 0.1.6 | Fast multi-target SFTP sync via rclone, with hopping, diff, and Open SSH Termin… |
-| 2026-10-06 09:32:42 | [OktayAydoan.diff-viewer](https://marketplace.visualstudio.com/items?itemName=OktayAydoan.diff-viewer) | Diff Viewer for PHP | 0.1.1 | Compare PHP files or functions from your workspace in an editable Monaco diff e… |
-| 2026-10-06 09:40:50 | [AhsanulHoque.monorepo-component-map](https://marketplace.visualstudio.com/items?itemName=AhsanulHoque.monorepo-component-map) | Monorepo Component Map | 0.1.0 | Uses your Copilot subscription to write component skills for a monorepo, then d… |
-| 2026-10-06 09:44:43 | [MehranMohammadif.mehran-codex-theme](https://marketplace.visualstudio.com/items?itemName=MehranMohammadif.mehran-codex-theme) | Codex Theme | 0.1.0 | Independent local themes for the Codex chat panel, with reversible CSS patches. |
-| 2026-10-06 09:46:02 | [lagudafuadtosin.settings-layers](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.settings-layers) | Settings Layers | 1.0.0 | Team settings in git, your own settings on top, and settings for each operating… |
-| 2026-10-06 09:59:18 | [mergeflow.mergeflow](https://marketplace.visualstudio.com/items?itemName=mergeflow.mergeflow) | MergeFlow | 0.1.0 | A modern Git merge conflict resolver with a clean three-pane experience. |
-| 2026-10-06 10:10:14 | [akckreact.c2](https://marketplace.visualstudio.com/items?itemName=akckreact.c2) | c2 | 0.0.1 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
+| 2026-10-06 10:29:12 | [DenizhanDaklr.antigravity-acp-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.antigravity-acp-for-copilot) | Antigravity: Copilot Provider | 0.4.1 | Use your Google Antigravity plan's Gemini models in GitHub Copilot Chat, throug… |
+| 2026-10-06 10:29:38 | [DenizhanDaklr.baton-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.baton-for-copilot) | Baton: Copilot Provider | 0.2.0 | Use your own Claude Pro or Max plan in GitHub Copilot Chat. Baton runs Claude C… |
+| 2026-10-06 10:30:30 | [raiki-kiyomura.daily-note-button](https://marketplace.visualstudio.com/items?itemName=raiki-kiyomura.daily-note-button) | Daily Note Button | 0.1.1 | A status bar button that opens today's YYYY-MM-DD.md in a folder you choose onc… |
+| 2026-10-06 10:49:01 | [3ndetz.hapi-chat](https://marketplace.visualstudio.com/items?itemName=3ndetz.hapi-chat) | HAPI Chat | 0.5.5 | Full HAPI website chats in independent VS Code windows, saved hub profiles, gro… |
+| 2026-10-06 10:53:15 | [AnandShah.upgradelens](https://marketplace.visualstudio.com/items?itemName=AnandShah.upgradelens) | UpgradeLens | 0.1.2 | Simulate the real-world impact of an npm dependency upgrade before you install… |
+| 2026-10-06 11:02:40 | [rasoolzia.codecontext-toolkit](https://marketplace.visualstudio.com/items?itemName=rasoolzia.codecontext-toolkit) | CodeContext Toolkit | 0.2.0 | Developer toolkit for exporting, importing, exploring, and sharing project cont… |
+| 2026-10-06 11:10:49 | [anateii.white-wolf](https://marketplace.visualstudio.com/items?itemName=anateii.white-wolf) | White Wolf - Witcher edition | 0.1.0 | Dark & gritty Witcher-inspired theme with a wolf companion |
 
 ## Data source
 

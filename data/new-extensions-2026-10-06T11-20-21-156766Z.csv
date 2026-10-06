@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T10:29:12.017Z,DenizhanDaklr.antigravity-acp-for-copilot,DenizhanDaklr,Antigravity: Copilot Provider,0.4.1,"Use your Google Antigravity plan's Gemini models in GitHub Copilot Chat, through Google's official Antigravity ACP server on your machine."
+2026-10-06T10:29:38.157Z,DenizhanDaklr.baton-for-copilot,DenizhanDaklr,Baton: Copilot Provider,0.2.0,"Use your own Claude Pro or Max plan in GitHub Copilot Chat. Baton runs Claude Code on your machine, signed in with your own account."
+2026-10-06T10:30:30.63Z,raiki-kiyomura.daily-note-button,raiki-kiyomura,Daily Note Button,0.1.1,A status bar button that opens today's YYYY-MM-DD.md in a folder you choose once per machine.
+2026-10-06T10:49:01.603Z,3ndetz.hapi-chat,3ndetz,HAPI Chat,0.5.5,"Full HAPI website chats in independent VS Code windows, saved hub profiles, grouped folders, automatic login and configurable proxy."
+2026-10-06T10:53:15.477Z,AnandShah.upgradelens,AnandShah,UpgradeLens,0.1.2,"Simulate the real-world impact of an npm dependency upgrade before you install it: affected files, breaking API changes, deprecations, and a risk-scored migration checklist."
+2026-10-06T11:02:40.11Z,rasoolzia.codecontext-toolkit,rasoolzia,CodeContext Toolkit,0.2.0,"Developer toolkit for exporting, importing, exploring, and sharing project context."
+2026-10-06T11:10:49.893Z,anateii.white-wolf,anateii,White Wolf - Witcher edition,0.1.0,Dark & gritty Witcher-inspired theme with a wolf companion
