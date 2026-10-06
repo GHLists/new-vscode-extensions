@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 08:20 UTC
+## Latest list — 2026-10-06 09:20 UTC
 
-New extensions published between 2026-10-06 06:20 UTC and 2026-10-06 08:20 UTC.
+New extensions published between 2026-10-06 07:20 UTC and 2026-10-06 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T08-20-23-384565Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T09-20-15-175315Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 07:32:41 | [lagudafuadtosin.php-namespace-mover](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.php-namespace-mover) | PHP Namespace Mover | 1.0.0 | Move or rename PHP files and the namespace and every reference follow. Import,… |
-| 2026-10-06 07:39:14 | [mikedegany.md2textbook](https://marketplace.visualstudio.com/items?itemName=mikedegany.md2textbook) | Markdown to Textbook PDF | 0.1.1 | Turn the Markdown file you are reading into a textbook-style PDF, saved next to… |
-| 2026-10-06 07:44:22 | [victorsauter.marklive](https://marketplace.visualstudio.com/items?itemName=victorsauter.marklive) | Marklive — Live Markdown Editor | 0.1.0 | Edit Markdown files directly in their rendered form (Obsidian-style Live Previe… |
-| 2026-10-06 07:44:31 | [r2sv8t5s.flowglownode](https://marketplace.visualstudio.com/items?itemName=r2sv8t5s.flowglownode) | FlowGlow (Nodejs) | 0.4.2 | Watch executed Node.js files glow in a live file tree. |
-| 2026-10-06 07:45:15 | [RobertCincotta.wax-icarus](https://marketplace.visualstudio.com/items?itemName=RobertCincotta.wax-icarus) | Wax for Icarus | 0.1.0 | Write Lua mods for ICARUS with Wax: new mods from a template, completion and ch… |
-| 2026-10-06 07:52:18 | [neniy.neniy](https://marketplace.visualstudio.com/items?itemName=neniy.neniy) | Neniy | 0.1.1 | Neniy Programming Language |
-| 2026-10-06 07:57:06 | [CloudFish.dataverse-to-code](https://marketplace.visualstudio.com/items?itemName=CloudFish.dataverse-to-code) | DataverseToCode | 0.17.4 | Dataverse schema as code: tables, columns, choices and form scripts as YAML in… |
-| 2026-10-06 08:02:06 | [tato9689.visor-for-claude-code](https://marketplace.visualstudio.com/items?itemName=tato9689.visor-for-claude-code) | Visor — media previews for Claude Code | 0.2.0 | See the images, SVG, HTML and video Claude Code reads or creates, live in a sid… |
-| 2026-10-06 08:13:55 | [quantumcns.quantumcns-quantum-code](https://marketplace.visualstudio.com/items?itemName=quantumcns.quantumcns-quantum-code) | Quantum Code (QuantumCNS) | 0.21.8 | 사내 LLM Endpoint 기반 코딩 에이전트 — 워크스페이스 읽기·수정, 명령 실행, 코드 완성, 채팅 (㈜퀀텀씨엔에스) |
+| 2026-10-06 08:31:29 | [Dev48.dev48-altools](https://marketplace.visualstudio.com/items?itemName=Dev48.dev48-altools) | AL Tools | 1.1.0 | Dev48: AL Tools provides small utilities for Business Central (AL) developers |
+| 2026-10-06 08:33:07 | [LMO-LAB.f-gitgraph](https://marketplace.visualstudio.com/items?itemName=LMO-LAB.f-gitgraph) | F-GitGraph | 1.0.0 | High-performance Git Graph powered by F# Native AOT Core, visual history, branc… |
+| 2026-10-06 08:33:47 | [precraftslabsPrecraftsDigitalLabs.deploybuddy](https://marketplace.visualstudio.com/items?itemName=precraftslabsPrecraftsDigitalLabs.deploybuddy) | DeployBuddy | 0.1.0 | Your brutally honest pre-deployment sanity checker. |
+| 2026-10-06 08:37:45 | [Saniee.ion-atom-theme](https://marketplace.visualstudio.com/items?itemName=Saniee.ion-atom-theme) | Ion Atom Theme | 0.3.10 | Blue and red blend theme with dark and light variants inspired by the ion atom. |
+| 2026-10-06 08:47:42 | [cerium-lang.cerium](https://marketplace.visualstudio.com/items?itemName=cerium-lang.cerium) | Cerium | 0.0.1 | Syntax highlighting for Cerium (.ce). |
+| 2026-10-06 08:49:01 | [kttFox.csws](https://marketplace.visualstudio.com/items?itemName=kttFox.csws) | CsWSC Script | 0.0.1 | CsWSC スクリプト (.csws) の補完・ホバー・引数ヒント・エラー表示・実行 |
+| 2026-10-06 08:51:15 | [j-a-y-e-s-h.mangabar](https://marketplace.visualstudio.com/items?itemName=j-a-y-e-s-h.mangabar) | MangaBar — Manga, Manhwa & Comic Reader… | 0.2.0 | Read manga, manhwa, webtoons, and comics directly in any IDE (VS Code, Cursor,… |
+| 2026-10-06 08:53:45 | [Zahraaresen.visual-code-editor](https://marketplace.visualstudio.com/items?itemName=Zahraaresen.visual-code-editor) | Visual Code Editor | 0.5.0 | A Figma-like visual editor for real web code. Select elements in your running s… |
+| 2026-10-06 09:13:40 | [kkkwang.markdown-quote](https://marketplace.visualstudio.com/items?itemName=kkkwang.markdown-quote) | Markdown Quote | 0.0.1 | 把选中的文本一键转成 Markdown 引用，可选标注为 AI 回答 |
 
 ## Data source
 
