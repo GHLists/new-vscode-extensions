@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T02:31:11.637Z,ValkyrLabsInc.graymatter-memory,ValkyrLabsInc,Valkyr GrayMatter,0.1.2,"Durable memory and context for VS Code agents. Hosted GrayMatter by default, or local Lite without signup."
+2026-10-06T02:43:52.433Z,SimonsonTechnicalLLC.g-code-multi-channel,SimonsonTechnicalLLC,G-Code Multi-channel,0.1.0,G-Code Extension for Multichannel CNC Machines
+2026-10-06T03:00:41.947Z,el1pn.vscode-agent-bridge,el1pn,VS Code Agent Bridge,4.0.2,"Localhost bridge letting local agents use VS Code APIs (diagnostics, commands, rename, call hierarchy, tasks, debugging, terminal output) without focusing the window"

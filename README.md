@@ -12,16 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 02:20 UTC
+## Latest list — 2026-10-06 03:19 UTC
 
-New extensions published between 2026-10-06 00:20 UTC and 2026-10-06 02:20 UTC.
+New extensions published between 2026-10-06 01:19 UTC and 2026-10-06 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T02-20-44-564922Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T03-19-30-303967Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 01:56:27 | [toskilabs.toski-theme](https://marketplace.visualstudio.com/items?itemName=toskilabs.toski-theme) | Toski Theme | 1.0.0 | Toski Dark e Toski Light: temas quentes, em tons de caramelo, ferrugem e carvão… |
-| 2026-10-06 02:12:23 | [StarWright.renpy-proofreader](https://marketplace.visualstudio.com/items?itemName=StarWright.renpy-proofreader) | Ren'Py Proofreader | 0.1.0 | Live spelling and grammar checking for the dialogue and narration in Ren'Py scr… |
+| 2026-10-06 02:31:11 | [ValkyrLabsInc.graymatter-memory](https://marketplace.visualstudio.com/items?itemName=ValkyrLabsInc.graymatter-memory) | Valkyr GrayMatter | 0.1.2 | Durable memory and context for VS Code agents. Hosted GrayMatter by default, or… |
+| 2026-10-06 02:43:52 | [SimonsonTechnicalLLC.g-code-multi-channel](https://marketplace.visualstudio.com/items?itemName=SimonsonTechnicalLLC.g-code-multi-channel) | G-Code Multi-channel | 0.1.0 | G-Code Extension for Multichannel CNC Machines |
+| 2026-10-06 03:00:41 | [el1pn.vscode-agent-bridge](https://marketplace.visualstudio.com/items?itemName=el1pn.vscode-agent-bridge) | VS Code Agent Bridge | 4.0.2 | Localhost bridge letting local agents use VS Code APIs (diagnostics, commands,… |
 
 ## Data source
 
