@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T12:24:00.407Z,centropic.centropic-test-automation,centropic,Centropic Test Automation,0.9.0,Centropic Test Automation — AI-native quality orchestrator for your project
+2026-10-06T12:39:37.517Z,cedric217.ssh-folders,cedric217,SSH - Folders,0.2.2,Liste les hôtes SSH et des dossiers distants favoris. Remote-SSH gère la connexion.
+2026-10-06T12:40:32.923Z,7Askar7.dashai,7Askar7,DashAI,1.4.3,"A local Kanban dashboard for Codex and Claude Code: projects, subprojects, tasks, and change history inside VS Code."
+2026-10-06T12:52:15.123Z,darkcoderai.darkcoder-ai,darkcoderai,DarkCoder,0.2.3,"A coding agent in your sidebar, signed in with your DarkCoder.ai account. Chat with any model, let it read, search and edit your code with diff approval, and run commands."
+2026-10-06T13:00:36.337Z,CameronBraunstein.cluster-watcher,CameronBraunstein,Cluster Watcher,0.1.0,Monitor Cluster Watcher Slurm jobs and partition capacity from the VS Code sidebar.
+2026-10-06T13:03:55.687Z,akckreact.rct,akckreact,rct,0.0.1,"Snippets for React components, Redux, JSON, and CSS with ct prefix"
+2026-10-06T13:09:05.127Z,Bsharp-stodyo1001010101001-64-255-998356.bsharp-compiler,Bsharp-stodyo1001010101001-64-255-998356,B#/Bsharp compiler,0.1.0,VS Code extension for Compileing B# language.

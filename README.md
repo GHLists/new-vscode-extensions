@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 12:20 UTC
+## Latest list — 2026-10-06 13:19 UTC
 
-New extensions published between 2026-10-06 10:20 UTC and 2026-10-06 12:20 UTC.
+New extensions published between 2026-10-06 11:19 UTC and 2026-10-06 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T12-20-41-154353Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T13-19-06-345862Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 11:16:15 | [MehranMohammadif.terminal-pets](https://marketplace.visualstudio.com/items?itemName=MehranMohammadif.terminal-pets) | Terminal Pets | 1.0.0 | Interactive animated pets walking back and forth in your VS Code terminal with… |
-| 2026-10-06 11:25:19 | [yuval-abdm.git-spark](https://marketplace.visualstudio.com/items?itemName=yuval-abdm.git-spark) | Git Spark | 1.0.1 | Free and lightweight Git tools: inline blame, file history, conflict resolution… |
-| 2026-10-06 11:25:33 | [VSReaderCommunity.vsreader](https://marketplace.visualstudio.com/items?itemName=VSReaderCommunity.vsreader) | VSReader | 0.2.1 | 在 VS Code 中阅读本地 TXT 与 Legado 书源，支持书架、进度、账号登录和浏览器设置页。 |
-| 2026-10-06 11:54:46 | [Saropa.claude-chat-explorer](https://marketplace.visualstudio.com/items?itemName=Saropa.claude-chat-explorer) | Saropa Chat Explorer | 0.25.1 | Search your AI agent chat history in VS Code: full-text search of every session… |
-| 2026-10-06 12:02:58 | [FerhatAkkopru.remoteforge-sftp](https://marketplace.visualstudio.com/items?itemName=FerhatAkkopru.remoteforge-sftp) | RemoteForge SFTP | 0.1.0 | Lightweight SSH/SFTP remote file editor with conflict detection, sync control,… |
-| 2026-10-06 12:04:00 | [anca.foxel](https://marketplace.visualstudio.com/items?itemName=anca.foxel) | Foxel | 1.0.0 | A cute pixel-art fox cub that lives in your editor: it naps, hunts butterflies,… |
+| 2026-10-06 12:24:00 | [centropic.centropic-test-automation](https://marketplace.visualstudio.com/items?itemName=centropic.centropic-test-automation) | Centropic Test Automation | 0.9.0 | Centropic Test Automation — AI-native quality orchestrator for your project |
+| 2026-10-06 12:39:37 | [cedric217.ssh-folders](https://marketplace.visualstudio.com/items?itemName=cedric217.ssh-folders) | SSH - Folders | 0.2.2 | Liste les hôtes SSH et des dossiers distants favoris. Remote-SSH gère la connex… |
+| 2026-10-06 12:40:32 | [7Askar7.dashai](https://marketplace.visualstudio.com/items?itemName=7Askar7.dashai) | DashAI | 1.4.3 | A local Kanban dashboard for Codex and Claude Code: projects, subprojects, task… |
+| 2026-10-06 12:52:15 | [darkcoderai.darkcoder-ai](https://marketplace.visualstudio.com/items?itemName=darkcoderai.darkcoder-ai) | DarkCoder | 0.2.3 | A coding agent in your sidebar, signed in with your DarkCoder.ai account. Chat… |
+| 2026-10-06 13:00:36 | [CameronBraunstein.cluster-watcher](https://marketplace.visualstudio.com/items?itemName=CameronBraunstein.cluster-watcher) | Cluster Watcher | 0.1.0 | Monitor Cluster Watcher Slurm jobs and partition capacity from the VS Code side… |
+| 2026-10-06 13:03:55 | [akckreact.rct](https://marketplace.visualstudio.com/items?itemName=akckreact.rct) | rct | 0.0.1 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
+| 2026-10-06 13:09:05 | [Bsharp-stodyo1001010101001-64-255-998356.bsharp-compiler](https://marketplace.visualstudio.com/items?itemName=Bsharp-stodyo1001010101001-64-255-998356.bsharp-compiler) | B#/Bsharp compiler | 0.1.0 | VS Code extension for Compileing B# language. |
 
 ## Data source
 
