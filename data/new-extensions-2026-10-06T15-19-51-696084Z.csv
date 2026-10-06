@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T14:20:10.11Z,nitishbhosale7.sf-site-package-generator,nitishbhosale7,Salesforce Site Package.xml Generator,0.3.1,Pick an Experience Cloud site and generate a package.xml for the site and everything it depends on
+2026-10-06T14:22:23.923Z,CTOUP.codeflux-live,CTOUP,CodeFlux,0.1.1,"Live semantic workspace for Go and TypeScript: every package is a class diagram, edits are compile-gated proposals, and branch reviews are triaged — proven-mechanical changes collapsed, risky behaviour and untested code first. Includes an MCP server so coding agents can review their own changes."
+2026-10-06T14:23:20.503Z,strata-sql.strata-sql,strata-sql,Strata SQL,0.1.0,Lean visualizer and editor for physical data models stored in .model.json files
+2026-10-06T14:41:12.81Z,david-medina.armonia-puerta,david-medina,ArmonIA,0.1.1,"Deja tu VS Code listo para trabajar con tu armonizador: instala lo que hace falta, te explica como va y descarga tus proyectos."
+2026-10-06T15:13:51.63Z,SrijanSiddharth.terminal-profile-tools,SrijanSiddharth,Terminal Profile Tools,0.1.0,"Create custom VS Code terminal profiles with configurable shells, arguments, and startup commands"
