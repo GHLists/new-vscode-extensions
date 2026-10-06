@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 19:20 UTC
+## Latest list — 2026-10-06 20:21 UTC
 
-New extensions published between 2026-10-06 17:20 UTC and 2026-10-06 19:20 UTC.
+New extensions published between 2026-10-06 18:21 UTC and 2026-10-06 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T19-20-59-919513Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T20-21-19-005026Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 18:17:25 | [quilliot.epicancel-marvin](https://marketplace.visualstudio.com/items?itemName=quilliot.epicancel-marvin) | EpiCancel Marvin | 0.0.1 | Find and fix Epitech C CodingStyle errors (C-*) |
-| 2026-10-06 18:24:41 | [KairoDev.os-helper](https://marketplace.visualstudio.com/items?itemName=KairoDev.os-helper) | OS Helper | 0.0.1 | Set up the basics of your OS (may imply open-source code from github) |
-| 2026-10-06 18:26:15 | [yurikarasawa.codex-secure-profile-switcher](https://marketplace.visualstudio.com/items?itemName=yurikarasawa.codex-secure-profile-switcher) | Codex Profile Vault | 0.3.1 | Switch securely between local Codex accounts and monitor every profile's usage… |
-| 2026-10-06 18:26:28 | [goosenest.codex-profiles](https://marketplace.visualstudio.com/items?itemName=goosenest.codex-profiles) | Codex Profiles | 0.10.5 | Switch Codex accounts, view usage limits, and manage compatible providers from… |
-| 2026-10-06 18:26:36 | [dhruvildave.session-rewind](https://marketplace.visualstudio.com/items?itemName=dhruvildave.session-rewind) | Session Rewind: AI Coding Usage Report | 0.1.2 | Private usage report for AI coding tools: token and context stats, prompt habit… |
-| 2026-10-06 18:32:56 | [backtickjs.backtick-vscode](https://marketplace.visualstudio.com/items?itemName=backtickjs.backtick-vscode) | Backtick for VS Code | 0.1.0 | Syntax highlighting and type-checking for Backtick. |
-| 2026-10-06 18:44:23 | [bardiazamanian.auto-hide-empty-editor](https://marketplace.visualstudio.com/items?itemName=bardiazamanian.auto-hide-empty-editor) | Auto Hide Empty Editor | 0.1.0 | Hides the empty editor area so Claude Code and the Terminal fill the window whe… |
-| 2026-10-06 18:46:22 | [hermanyhho.wayfinder](https://marketplace.visualstudio.com/items?itemName=hermanyhho.wayfinder) | Wayfinder | 0.1.0 | Shows where the open file sits in the codebase: what imports it, what it import… |
-| 2026-10-06 18:50:32 | [Alphalobo666.infinite-pendulum](https://marketplace.visualstudio.com/items?itemName=Alphalobo666.infinite-pendulum) | Infinite Pendulum | 1.0.0 | Una cuna de Newton animada que nunca se detiene, en tu barra lateral. Puramente… |
+| 2026-10-06 19:23:49 | [suman-rajak.command-harvester](https://marketplace.visualstudio.com/items?itemName=suman-rajak.command-harvester) | Command Harvester | 0.1.1 | Stop re-typing terminal commands. Turns the ones you repeat into one-click VS C… |
+| 2026-10-06 19:32:01 | [fagundes.vscode-modules-for-laravel](https://marketplace.visualstudio.com/items?itemName=fagundes.vscode-modules-for-laravel) | Modules for Laravel | 0.1.0 | Community VS Code extension with first-class support for nwidart/laravel-module… |
+| 2026-10-06 19:33:10 | [remsoftdev.ai-os-care](https://marketplace.visualstudio.com/items?itemName=remsoftdev.ai-os-care) | AI OS Care | 0.1.0 | Shows what the wsl-care daemon measures inside WSL — memory, swap, disk, contai… |
+| 2026-10-06 19:38:16 | [samtherocket.funcloom](https://marketplace.visualstudio.com/items?itemName=samtherocket.funcloom) | FuncLoom | 0.10.5 | FuncLoom, the Python functionizer: turn scripts, snippets and notebooks into ve… |
+| 2026-10-06 19:38:29 | [samtherocket.refactrail](https://marketplace.visualstudio.com/items?itemName=samtherocket.refactrail) | RefacTrail | 0.5.1 | RefacTrail, the Python refactorizer: linting, formatting and verified refactori… |
+| 2026-10-06 19:38:39 | [samtherocket.flowblueprint](https://marketplace.visualstudio.com/items?itemName=samtherocket.flowblueprint) | FlowBlueprint | 0.2.0 | FlowBlueprint, the Python architect: draw a script, notebook or whole project a… |
+| 2026-10-06 19:49:17 | [HannahYue.hyue-theme](https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme) | hyue-theme | 0.1.2 | A clean, focused dark theme for Visual Studio Code, designed for comfortable ev… |
+| 2026-10-06 20:12:28 | [dbdeck.dbdeck](https://marketplace.visualstudio.com/items?itemName=dbdeck.dbdeck) | DBDeck — Database Client | 0.2.0 | Free database client for MySQL, PostgreSQL, ClickHouse, MongoDB, Redis, Elastic… |
 
 ## Data source
 

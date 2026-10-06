@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T19:23:49.29Z,suman-rajak.command-harvester,suman-rajak,Command Harvester,0.1.1,"Stop re-typing terminal commands. Turns the ones you repeat into one-click VS Code tasks, npm scripts and status bar buttons."
+2026-10-06T19:32:01.337Z,fagundes.vscode-modules-for-laravel,fagundes,Modules for Laravel,0.1.0,Community VS Code extension with first-class support for nwidart/laravel-modules.
+2026-10-06T19:33:10.353Z,remsoftdev.ai-os-care,remsoftdev,AI OS Care,0.1.0,"Shows what the wsl-care daemon measures inside WSL — memory, swap, disk, containers and the cleanup candidates — read-only. Windows with WSL only; the daemon is installed separately."
+2026-10-06T19:38:16.083Z,samtherocket.funcloom,samtherocket,FuncLoom,0.10.5,"FuncLoom, the Python functionizer: turn scripts, snippets and notebooks into verified functions and packages, locally. Experimental preview."
+2026-10-06T19:38:29.357Z,samtherocket.refactrail,samtherocket,RefacTrail,0.5.1,"RefacTrail, the Python refactorizer: linting, formatting and verified refactoring, locally. Experimental preview."
+2026-10-06T19:38:39.973Z,samtherocket.flowblueprint,samtherocket,FlowBlueprint,0.2.0,"FlowBlueprint, the Python architect: draw a script, notebook or whole project as a block diagram (draw.io, SVG, HTML or Mermaid) without running it. Experimental preview."
+2026-10-06T19:49:17.71Z,HannahYue.hyue-theme,HannahYue,hyue-theme,0.1.2,"A clean, focused dark theme for Visual Studio Code, designed for comfortable everyday development."
+2026-10-06T20:12:28.16Z,dbdeck.dbdeck,dbdeck,DBDeck — Database Client,0.2.0,"Free database client for MySQL, PostgreSQL, ClickHouse, MongoDB, Redis, Elasticsearch, S3 and Docker. No paywalls, no telemetry."
