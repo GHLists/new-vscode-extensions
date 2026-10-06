@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 05:20 UTC
+## Latest list — 2026-10-06 06:20 UTC
 
-New extensions published between 2026-10-06 03:20 UTC and 2026-10-06 05:20 UTC.
+New extensions published between 2026-10-06 04:20 UTC and 2026-10-06 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T05-20-39-448716Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T06-20-09-935905Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 04:19:34 | [GirishKumar.coverage-xml-importer](https://marketplace.visualstudio.com/items?itemName=GirishKumar.coverage-xml-importer) | Pytest Test Explorer + Coverage XML (Dj… | 4.4.0 | Fast pytest test tree for your apps folder in the Testing panel, with Run / Run… |
-| 2026-10-06 04:25:38 | [sanjayadanushka.dracula-deep](https://marketplace.visualstudio.com/items?itemName=sanjayadanushka.dracula-deep) | Dracula Deep | 0.1.0 | The eye-care angle stated outright. A low-glare dark theme for VS Code with a d… |
-| 2026-10-06 04:36:10 | [AxrydeStudio.codexia-archaeologist](https://marketplace.visualstudio.com/items?itemName=AxrydeStudio.codexia-archaeologist) | Codexia - Code Archaeologist | 0.1.1 | Understand why code exists, how it evolved, what depends on it, and what could… |
-| 2026-10-06 04:41:49 | [mdq.spec-execution-engine](https://marketplace.visualstudio.com/items?itemName=mdq.spec-execution-engine) | Spec Execution Engine | 1.0.0 | Run the Spec Execution Engine from VS Code: launch a run, watch waves live, and… |
-| 2026-10-06 05:02:39 | [MindWork.emo-tools-lsp](https://marketplace.visualstudio.com/items?itemName=MindWork.emo-tools-lsp) | Emo LSP | 0.2.0 | Emo language support: syntax highlighting, completion, diagnostics, and package… |
-| 2026-10-06 05:15:42 | [XNGE.css-dense-xng](https://marketplace.visualstudio.com/items?itemName=XNGE.css-dense-xng) | CSS Dense XNG | 1.3.1 | 面向大屏阅读与编辑的紧凑型 CSS 格式化工具（Compact CSS formatter for large-screen reading and edit… |
+| 2026-10-06 05:19:47 | [IsaiasDiaz.nest-rn-lens](https://marketplace.visualstudio.com/items?itemName=IsaiasDiaz.nest-rn-lens) | NestRN Lens | 0.1.0 | See the live traffic between your React Native app and your NestJS API, inside… |
+| 2026-10-06 05:21:52 | [SrijanSiddharth.vscode-testing-extension](https://marketplace.visualstudio.com/items?itemName=SrijanSiddharth.vscode-testing-extension) | VS Code Testing Extension | 0.0.0 |  |
+| 2026-10-06 05:39:20 | [PrashanthReddyMunagala.spark-cell-runner](https://marketplace.visualstudio.com/items?itemName=PrashanthReddyMunagala.spark-cell-runner) | Spark Cell Runner | 0.6.5 | Run Databricks notebook-source .py cells and SQL in VS Code — against Databrick… |
+| 2026-10-06 05:41:55 | [pradeepverse.uplift](https://marketplace.visualstudio.com/items?itemName=pradeepverse.uplift) | Uplift | 0.1.0 | Delegate work to your team instead of doing it yourself. Copilot breaks tasks d… |
+| 2026-10-06 06:04:14 | [forge-language.forge-lsp-vscode](https://marketplace.visualstudio.com/items?itemName=forge-language.forge-lsp-vscode) | Forge LSP | 0.1.0 | Forge language support — syntax highlighting and LSP |
+| 2026-10-06 06:14:28 | [forth-ink.twill](https://marketplace.visualstudio.com/items?itemName=forth-ink.twill) | Twill | 0.1.0 | Twill language support: TypeScript completion, diagnostics, navigation, formatt… |
+| 2026-10-06 06:15:06 | [AustinSenna.aespa-themes](https://marketplace.visualstudio.com/items?itemName=AustinSenna.aespa-themes) | aespa Themes | 0.1.0 | Twelve VS Code color themes, one per aespa era. From Black Mamba's ice-blue are… |
+| 2026-10-06 06:17:22 | [Lusyne.codemori](https://marketplace.visualstudio.com/items?itemName=Lusyne.codemori) | CodeMori | 0.1.0 | Local code snapshots and linked document summaries in your editor. |
 
 ## Data source
 

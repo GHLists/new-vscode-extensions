@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T05:19:47.71Z,IsaiasDiaz.nest-rn-lens,IsaiasDiaz,NestRN Lens,0.1.0,"See the live traffic between your React Native app and your NestJS API, inside a Turborepo."
+2026-10-06T05:21:52.88Z,SrijanSiddharth.vscode-testing-extension,SrijanSiddharth,VS Code Testing Extension,0.0.0,
+2026-10-06T05:39:20.057Z,PrashanthReddyMunagala.spark-cell-runner,PrashanthReddyMunagala,Spark Cell Runner,0.6.5,"Run Databricks notebook-source .py cells and SQL in VS Code — against Databricks (Databricks Connect) or fully offline on a local Sail Spark pool, with Unity Catalog sync and a local Delta warehouse."
+2026-10-06T05:41:55.897Z,pradeepverse.uplift,pradeepverse,Uplift,0.1.0,"Delegate work to your team instead of doing it yourself. Copilot breaks tasks down, matches people on a delegation ladder, writes their briefs and tracks their growth."
+2026-10-06T06:04:14.047Z,forge-language.forge-lsp-vscode,forge-language,Forge LSP,0.1.0,Forge language support — syntax highlighting and LSP
+2026-10-06T06:14:28.813Z,forth-ink.twill,forth-ink,Twill,0.1.0,"Twill language support: TypeScript completion, diagnostics, navigation, formatting and source debugging for .twill and .twillx."
+2026-10-06T06:15:06.363Z,AustinSenna.aespa-themes,AustinSenna,aespa Themes,0.1.0,"Twelve VS Code color themes, one per aespa era. From Black Mamba's ice-blue arena to LEMONADE's candy light mode."
+2026-10-06T06:17:22.01Z,Lusyne.codemori,Lusyne,CodeMori,0.1.0,Local code snapshots and linked document summaries in your editor.
