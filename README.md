@@ -12,17 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 00:21 UTC
+## Latest list — 2026-10-06 02:20 UTC
 
-New extensions published between 2026-10-05 22:21 UTC and 2026-10-06 00:21 UTC.
+New extensions published between 2026-10-06 00:20 UTC and 2026-10-06 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T00-21-04-177714Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T02-20-44-564922Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-05 23:20:08 | [vtek-innovations.heapfile-vscode](https://marketplace.visualstudio.com/items?itemName=vtek-innovations.heapfile-vscode) | HeapFile for VS Code | 4.2.3 | Connect VS Code agent mode to HeapFile Desktop's local MCP server with clear fi… |
-| 2026-10-05 23:33:33 | [lunarabbit.lunarabbit-vscode](https://marketplace.visualstudio.com/items?itemName=lunarabbit.lunarabbit-vscode) | LunaRabbit Code | 0.1.67 | Autonomous AI coding agent for VS Code — plans, edits, and executes code in you… |
-| 2026-10-06 00:07:34 | [KeteCode.kete-code](https://marketplace.visualstudio.com/items?itemName=KeteCode.kete-code) | Kete Code | 0.2.4 | AI coding agent that runs next to your code: chat, edits with diff review, and… |
+| 2026-10-06 01:56:27 | [toskilabs.toski-theme](https://marketplace.visualstudio.com/items?itemName=toskilabs.toski-theme) | Toski Theme | 1.0.0 | Toski Dark e Toski Light: temas quentes, em tons de caramelo, ferrugem e carvão… |
+| 2026-10-06 02:12:23 | [StarWright.renpy-proofreader](https://marketplace.visualstudio.com/items?itemName=StarWright.renpy-proofreader) | Ren'Py Proofreader | 0.1.0 | Live spelling and grammar checking for the dialogue and narration in Ren'Py scr… |
 
 ## Data source
 
