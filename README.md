@@ -12,19 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 15:19 UTC
+## Latest list — 2026-10-06 16:20 UTC
 
-New extensions published between 2026-10-06 13:19 UTC and 2026-10-06 15:19 UTC.
+New extensions published between 2026-10-06 14:20 UTC and 2026-10-06 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T15-19-51-696084Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T16-20-39-169708Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 14:20:10 | [nitishbhosale7.sf-site-package-generator](https://marketplace.visualstudio.com/items?itemName=nitishbhosale7.sf-site-package-generator) | Salesforce Site Package.xml Generator | 0.3.1 | Pick an Experience Cloud site and generate a package.xml for the site and every… |
-| 2026-10-06 14:22:23 | [CTOUP.codeflux-live](https://marketplace.visualstudio.com/items?itemName=CTOUP.codeflux-live) | CodeFlux | 0.1.1 | Live semantic workspace for Go and TypeScript: every package is a class diagram… |
-| 2026-10-06 14:23:20 | [strata-sql.strata-sql](https://marketplace.visualstudio.com/items?itemName=strata-sql.strata-sql) | Strata SQL | 0.1.0 | Lean visualizer and editor for physical data models stored in .model.json files |
-| 2026-10-06 14:41:12 | [david-medina.armonia-puerta](https://marketplace.visualstudio.com/items?itemName=david-medina.armonia-puerta) | ArmonIA | 0.1.1 | Deja tu VS Code listo para trabajar con tu armonizador: instala lo que hace fal… |
-| 2026-10-06 15:13:51 | [SrijanSiddharth.terminal-profile-tools](https://marketplace.visualstudio.com/items?itemName=SrijanSiddharth.terminal-profile-tools) | Terminal Profile Tools | 0.1.0 | Create custom VS Code terminal profiles with configurable shells, arguments, an… |
+| 2026-10-06 15:21:28 | [pecuniaestai.projecthub](https://marketplace.visualstudio.com/items?itemName=pecuniaestai.projecthub) | Project Hub — Multi-Project & Agent Wor… | 0.19.2 | One VS Code window, many projects: switch from a sidebar without reloading, run… |
+| 2026-10-06 15:23:07 | [openehr-no.adl-vscode-extension](https://marketplace.visualstudio.com/items?itemName=openehr-no.adl-vscode-extension) | openEHR Archetype Definition Language (… | 0.2.0 | Syntax highlighting and snippets for the openEHR Archetype Definition Language… |
+| 2026-10-06 15:37:19 | [bobrowsse-tech.codebank](https://marketplace.visualstudio.com/items?itemName=bobrowsse-tech.codebank) | Codebank | 0.1.0 | Bank reusable code locally and recall it in any project. No telemetry. A deposi… |
+| 2026-10-06 15:38:16 | [SarthikKhanna.redline-dark](https://marketplace.visualstudio.com/items?itemName=SarthikKhanna.redline-dark) | Redline Dark | 0.0.1 | A crimson-on-charcoal dark theme for VS Code, with teal strings, sky-blue types… |
+| 2026-10-06 15:49:13 | [studyloop.studyloop](https://marketplace.visualstudio.com/items?itemName=studyloop.studyloop) | StudyLoop | 1.0.0 | เขียนโค้ดใน VS Code แล้วส่งตรวจที่ StudyLoop — แข่งเขียนโค้ดกับเพื่อนแบบเรียลไท… |
+| 2026-10-06 15:51:48 | [ReadyStack.container-hardening-800-190](https://marketplace.visualstudio.com/items?itemName=ReadyStack.container-hardening-800-190) | Cybersecurity Container Audit — NIST SP… | 1.0.7 | Audits Dockerfile and docker-compose.yml against NIST SP 800-190 container hard… |
+| 2026-10-06 15:52:03 | [ReadyStack.cra-annex-ii-docs-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cra-annex-ii-docs-lint) | CRA Annex II User Docs Lint | 1.0.11 | Lints the user documentation that ships with your product against the mandatory… |
+| 2026-10-06 15:52:04 | [ReadyStack.consent-proof-record-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.consent-proof-record-lint) | Consent Proof Record Lint (GDPR Art.7) | 1.0.10 | Lints stored consent-record JSON against the GDPR Article 7(1) proof-of-consent… |
+| 2026-10-06 15:52:12 | [ReadyStack.cra-readiness-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cra-readiness-audit) | CRA Readiness Audit | 0.1.6 | Flags the lines in your repo that break the EU Cyber Resilience Act - default p… |
+| 2026-10-06 15:52:50 | [Edd.edd-codex-usage](https://marketplace.visualstudio.com/items?itemName=Edd.edd-codex-usage) | Codex Usage by Edd | 0.1.0 | Track remaining Codex 5-hour and weekly quota with live status bar progress bar… |
 
 ## Data source
 
