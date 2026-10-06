@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T07:32:41.51Z,lagudafuadtosin.php-namespace-mover,lagudafuadtosin,PHP Namespace Mover,1.0.0,"Move or rename PHP files and the namespace and every reference follow. Import, organize and tidy PHP use statements, without freezing VS Code."
+2026-10-06T07:39:14.153Z,mikedegany.md2textbook,mikedegany,Markdown to Textbook PDF,0.1.1,"Turn the Markdown file you are reading into a textbook-style PDF, saved next to it, with one click."
+2026-10-06T07:44:22.67Z,victorsauter.marklive,victorsauter,Marklive — Live Markdown Editor,0.1.0,Edit Markdown files directly in their rendered form (Obsidian-style Live Preview) while keeping Markdown as the source of truth and Git diffs clean.
+2026-10-06T07:44:31.347Z,r2sv8t5s.flowglownode,r2sv8t5s,FlowGlow (Nodejs),0.4.2,Watch executed Node.js files glow in a live file tree.
+2026-10-06T07:45:15.843Z,RobertCincotta.wax-icarus,RobertCincotta,Wax for Icarus,0.1.0,"Write Lua mods for ICARUS with Wax: new mods from a template, completion and checking, run code in the running game, its log and its errors in VS Code."
+2026-10-06T07:52:18.553Z,neniy.neniy,neniy,Neniy,0.1.1,Neniy Programming Language
+2026-10-06T07:57:06Z,CloudFish.dataverse-to-code,CloudFish,DataverseToCode,0.17.4,"Dataverse schema as code: tables, columns, choices and form scripts as YAML in Git, a Table Designer, plan and push to dev, and solution releases. Works with Microsoft Dataverse; not a Microsoft product."
+2026-10-06T08:02:06.907Z,tato9689.visor-for-claude-code,tato9689,Visor — media previews for Claude Code,0.2.0,"See the images, SVG, HTML and video Claude Code reads or creates, live in a side panel. Before/after, variants, crisp pixel art. Works over Remote-SSH."
+2026-10-06T08:13:55.79Z,quantumcns.quantumcns-quantum-code,quantumcns,Quantum Code (QuantumCNS),0.21.8,"사내 LLM Endpoint 기반 코딩 에이전트 — 워크스페이스 읽기·수정, 명령 실행, 코드 완성, 채팅 (㈜퀀텀씨엔에스)"
