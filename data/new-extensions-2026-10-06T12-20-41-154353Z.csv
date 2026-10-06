@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T11:16:15.083Z,MehranMohammadif.terminal-pets,MehranMohammadif,Terminal Pets,1.0.0,Interactive animated pets walking back and forth in your VS Code terminal with 20 selectable pet models!
+2026-10-06T11:25:19.18Z,yuval-abdm.git-spark,yuval-abdm,Git Spark,1.0.1,"Free and lightweight Git tools: inline blame, file history, conflict resolution, local merge and commit graph."
+2026-10-06T11:25:33.203Z,VSReaderCommunity.vsreader,VSReaderCommunity,VSReader,0.2.1,在 VS Code 中阅读本地 TXT 与 Legado 书源，支持书架、进度、账号登录和浏览器设置页。
+2026-10-06T11:54:46.56Z,Saropa.claude-chat-explorer,Saropa,Saropa Chat Explorer,0.25.1,"Search your AI agent chat history in VS Code: full-text search of every session, including subagents, then resume the chat you find."
+2026-10-06T12:02:58.407Z,FerhatAkkopru.remoteforge-sftp,FerhatAkkopru,RemoteForge SFTP,0.1.0,"Lightweight SSH/SFTP remote file editor with conflict detection, sync control, and transparent logging"
+2026-10-06T12:04:00.107Z,anca.foxel,anca,Foxel,1.0.0,"A cute pixel-art fox cub that lives in your editor: it naps, hunts butterflies, plays fetch and reacts to your coding."

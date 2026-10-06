@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 11:20 UTC
+## Latest list — 2026-10-06 12:20 UTC
 
-New extensions published between 2026-10-06 09:20 UTC and 2026-10-06 11:20 UTC.
+New extensions published between 2026-10-06 10:20 UTC and 2026-10-06 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T11-20-21-156766Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T12-20-41-154353Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 10:29:12 | [DenizhanDaklr.antigravity-acp-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.antigravity-acp-for-copilot) | Antigravity: Copilot Provider | 0.4.1 | Use your Google Antigravity plan's Gemini models in GitHub Copilot Chat, throug… |
-| 2026-10-06 10:29:38 | [DenizhanDaklr.baton-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.baton-for-copilot) | Baton: Copilot Provider | 0.2.0 | Use your own Claude Pro or Max plan in GitHub Copilot Chat. Baton runs Claude C… |
-| 2026-10-06 10:30:30 | [raiki-kiyomura.daily-note-button](https://marketplace.visualstudio.com/items?itemName=raiki-kiyomura.daily-note-button) | Daily Note Button | 0.1.1 | A status bar button that opens today's YYYY-MM-DD.md in a folder you choose onc… |
-| 2026-10-06 10:49:01 | [3ndetz.hapi-chat](https://marketplace.visualstudio.com/items?itemName=3ndetz.hapi-chat) | HAPI Chat | 0.5.5 | Full HAPI website chats in independent VS Code windows, saved hub profiles, gro… |
-| 2026-10-06 10:53:15 | [AnandShah.upgradelens](https://marketplace.visualstudio.com/items?itemName=AnandShah.upgradelens) | UpgradeLens | 0.1.2 | Simulate the real-world impact of an npm dependency upgrade before you install… |
-| 2026-10-06 11:02:40 | [rasoolzia.codecontext-toolkit](https://marketplace.visualstudio.com/items?itemName=rasoolzia.codecontext-toolkit) | CodeContext Toolkit | 0.2.0 | Developer toolkit for exporting, importing, exploring, and sharing project cont… |
-| 2026-10-06 11:10:49 | [anateii.white-wolf](https://marketplace.visualstudio.com/items?itemName=anateii.white-wolf) | White Wolf - Witcher edition | 0.1.0 | Dark & gritty Witcher-inspired theme with a wolf companion |
+| 2026-10-06 11:16:15 | [MehranMohammadif.terminal-pets](https://marketplace.visualstudio.com/items?itemName=MehranMohammadif.terminal-pets) | Terminal Pets | 1.0.0 | Interactive animated pets walking back and forth in your VS Code terminal with… |
+| 2026-10-06 11:25:19 | [yuval-abdm.git-spark](https://marketplace.visualstudio.com/items?itemName=yuval-abdm.git-spark) | Git Spark | 1.0.1 | Free and lightweight Git tools: inline blame, file history, conflict resolution… |
+| 2026-10-06 11:25:33 | [VSReaderCommunity.vsreader](https://marketplace.visualstudio.com/items?itemName=VSReaderCommunity.vsreader) | VSReader | 0.2.1 | 在 VS Code 中阅读本地 TXT 与 Legado 书源，支持书架、进度、账号登录和浏览器设置页。 |
+| 2026-10-06 11:54:46 | [Saropa.claude-chat-explorer](https://marketplace.visualstudio.com/items?itemName=Saropa.claude-chat-explorer) | Saropa Chat Explorer | 0.25.1 | Search your AI agent chat history in VS Code: full-text search of every session… |
+| 2026-10-06 12:02:58 | [FerhatAkkopru.remoteforge-sftp](https://marketplace.visualstudio.com/items?itemName=FerhatAkkopru.remoteforge-sftp) | RemoteForge SFTP | 0.1.0 | Lightweight SSH/SFTP remote file editor with conflict detection, sync control,… |
+| 2026-10-06 12:04:00 | [anca.foxel](https://marketplace.visualstudio.com/items?itemName=anca.foxel) | Foxel | 1.0.0 | A cute pixel-art fox cub that lives in your editor: it naps, hunts butterflies,… |
 
 ## Data source
 
