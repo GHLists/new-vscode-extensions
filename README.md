@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 20:21 UTC
+## Latest list — 2026-10-06 21:20 UTC
 
-New extensions published between 2026-10-06 18:21 UTC and 2026-10-06 20:21 UTC.
+New extensions published between 2026-10-06 19:20 UTC and 2026-10-06 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T20-21-19-005026Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T21-20-13-754298Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 19:23:49 | [suman-rajak.command-harvester](https://marketplace.visualstudio.com/items?itemName=suman-rajak.command-harvester) | Command Harvester | 0.1.1 | Stop re-typing terminal commands. Turns the ones you repeat into one-click VS C… |
-| 2026-10-06 19:32:01 | [fagundes.vscode-modules-for-laravel](https://marketplace.visualstudio.com/items?itemName=fagundes.vscode-modules-for-laravel) | Modules for Laravel | 0.1.0 | Community VS Code extension with first-class support for nwidart/laravel-module… |
-| 2026-10-06 19:33:10 | [remsoftdev.ai-os-care](https://marketplace.visualstudio.com/items?itemName=remsoftdev.ai-os-care) | AI OS Care | 0.1.0 | Shows what the wsl-care daemon measures inside WSL — memory, swap, disk, contai… |
-| 2026-10-06 19:38:16 | [samtherocket.funcloom](https://marketplace.visualstudio.com/items?itemName=samtherocket.funcloom) | FuncLoom | 0.10.5 | FuncLoom, the Python functionizer: turn scripts, snippets and notebooks into ve… |
-| 2026-10-06 19:38:29 | [samtherocket.refactrail](https://marketplace.visualstudio.com/items?itemName=samtherocket.refactrail) | RefacTrail | 0.5.1 | RefacTrail, the Python refactorizer: linting, formatting and verified refactori… |
-| 2026-10-06 19:38:39 | [samtherocket.flowblueprint](https://marketplace.visualstudio.com/items?itemName=samtherocket.flowblueprint) | FlowBlueprint | 0.2.0 | FlowBlueprint, the Python architect: draw a script, notebook or whole project a… |
-| 2026-10-06 19:49:17 | [HannahYue.hyue-theme](https://marketplace.visualstudio.com/items?itemName=HannahYue.hyue-theme) | hyue-theme | 0.1.2 | A clean, focused dark theme for Visual Studio Code, designed for comfortable ev… |
-| 2026-10-06 20:12:28 | [dbdeck.dbdeck](https://marketplace.visualstudio.com/items?itemName=dbdeck.dbdeck) | DBDeck — Database Client | 0.2.0 | Free database client for MySQL, PostgreSQL, ClickHouse, MongoDB, Redis, Elastic… |
+| 2026-10-06 20:18:36 | [pablodegroot.glsl-intellisense](https://marketplace.visualstudio.com/items?itemName=pablodegroot.glsl-intellisense) | GLSL IntelliSense | 0.4.0 | GLSL completion, go to definition, rename and hover docs that follow your #incl… |
+| 2026-10-06 20:32:50 | [sidecarlol.sidecar-panel](https://marketplace.visualstudio.com/items?itemName=sidecarlol.sidecar-panel) | Sidecar Panel | 0.1.1 | Plays the Sidecar ad video beside Claude Code in VS Code's terminal. Needs the… |
+| 2026-10-06 20:40:20 | [rayz.claude-session-notify](https://marketplace.visualstudio.com/items?itemName=rayz.claude-session-notify) | Notify for Claude Code | 0.2.0 | Know the moment a Claude Code session finishes or needs you, and get back to it… |
+| 2026-10-06 20:49:39 | [marcelo-seo.bridgecode](https://marketplace.visualstudio.com/items?itemName=marcelo-seo.bridgecode) | bridgecode | 2.0.12 | Um squad de agentes de IA no seu editor: Claude Code, Codex, OpenCode, Antigrav… |
+| 2026-10-06 20:53:27 | [pepenotti.seamless-markdown](https://marketplace.visualstudio.com/items?itemName=pepenotti.seamless-markdown) | Seamless Markdown | 0.1.1 | Edit Markdown in place with three modes: raw, half preview and full preview. Ta… |
+| 2026-10-06 21:11:16 | [Jotrorox.dodo-vscode](https://marketplace.visualstudio.com/items?itemName=Jotrorox.dodo-vscode) | Dodo | 0.1.4 | Dodo language support: highlighting, diagnostics, quick fixes, type inlay hints… |
+| 2026-10-06 21:16:49 | [iamzayn19.kara-agent](https://marketplace.visualstudio.com/items?itemName=iamzayn19.kara-agent) | Kara Agent | 0.1.0 | Local-first coding agent. Chat, edits, tests and reviews in VS Code, driven by… |
 
 ## Data source
 

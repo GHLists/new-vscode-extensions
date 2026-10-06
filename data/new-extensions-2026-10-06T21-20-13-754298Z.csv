@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T20:18:36.337Z,pablodegroot.glsl-intellisense,pablodegroot,GLSL IntelliSense,0.4.0,"GLSL completion, go to definition, rename and hover docs that follow your #includes, plus diagnostics, a formatter and live sliders and color pickers. For OpenGL, Vulkan, WebGL, LYGIA and Shadertoy."
+2026-10-06T20:32:50.653Z,sidecarlol.sidecar-panel,sidecarlol,Sidecar Panel,0.1.1,Plays the Sidecar ad video beside Claude Code in VS Code's terminal. Needs the Sidecar Claude Code plugin.
+2026-10-06T20:40:20.793Z,rayz.claude-session-notify,rayz,Notify for Claude Code,0.2.0,"Know the moment a Claude Code session finishes or needs you, and get back to it in one click. Run several sessions at once and keep them all under control."
+2026-10-06T20:49:39.73Z,marcelo-seo.bridgecode,marcelo-seo,bridgecode,2.0.12,"Um squad de agentes de IA no seu editor: Claude Code, Codex, OpenCode, Antigravity e outros em painéis paralelos, com comando de voz, prints e missões entregues já testadas."
+2026-10-06T20:53:27.787Z,pepenotti.seamless-markdown,pepenotti,Seamless Markdown,0.1.1,"Edit Markdown in place with three modes: raw, half preview and full preview. Tables, images and formatting without a separate preview pane."
+2026-10-06T21:11:16.187Z,Jotrorox.dodo-vscode,Jotrorox,Dodo,0.1.4,"Dodo language support: highlighting, diagnostics, quick fixes, type inlay hints, completion, navigation, rename, and formatting."
+2026-10-06T21:16:49.18Z,iamzayn19.kara-agent,iamzayn19,Kara Agent,0.1.0,"Local-first coding agent. Chat, edits, tests and reviews in VS Code, driven by the Kara binary on your machine."
