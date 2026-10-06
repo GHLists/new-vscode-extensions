@@ -12,23 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 09:20 UTC
+## Latest list — 2026-10-06 10:20 UTC
 
-New extensions published between 2026-10-06 07:20 UTC and 2026-10-06 09:20 UTC.
+New extensions published between 2026-10-06 08:20 UTC and 2026-10-06 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T09-20-15-175315Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T10-20-12-328148Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 08:31:29 | [Dev48.dev48-altools](https://marketplace.visualstudio.com/items?itemName=Dev48.dev48-altools) | AL Tools | 1.1.0 | Dev48: AL Tools provides small utilities for Business Central (AL) developers |
-| 2026-10-06 08:33:07 | [LMO-LAB.f-gitgraph](https://marketplace.visualstudio.com/items?itemName=LMO-LAB.f-gitgraph) | F-GitGraph | 1.0.0 | High-performance Git Graph powered by F# Native AOT Core, visual history, branc… |
-| 2026-10-06 08:33:47 | [precraftslabsPrecraftsDigitalLabs.deploybuddy](https://marketplace.visualstudio.com/items?itemName=precraftslabsPrecraftsDigitalLabs.deploybuddy) | DeployBuddy | 0.1.0 | Your brutally honest pre-deployment sanity checker. |
-| 2026-10-06 08:37:45 | [Saniee.ion-atom-theme](https://marketplace.visualstudio.com/items?itemName=Saniee.ion-atom-theme) | Ion Atom Theme | 0.3.10 | Blue and red blend theme with dark and light variants inspired by the ion atom. |
-| 2026-10-06 08:47:42 | [cerium-lang.cerium](https://marketplace.visualstudio.com/items?itemName=cerium-lang.cerium) | Cerium | 0.0.1 | Syntax highlighting for Cerium (.ce). |
-| 2026-10-06 08:49:01 | [kttFox.csws](https://marketplace.visualstudio.com/items?itemName=kttFox.csws) | CsWSC Script | 0.0.1 | CsWSC スクリプト (.csws) の補完・ホバー・引数ヒント・エラー表示・実行 |
-| 2026-10-06 08:51:15 | [j-a-y-e-s-h.mangabar](https://marketplace.visualstudio.com/items?itemName=j-a-y-e-s-h.mangabar) | MangaBar — Manga, Manhwa & Comic Reader… | 0.2.0 | Read manga, manhwa, webtoons, and comics directly in any IDE (VS Code, Cursor,… |
-| 2026-10-06 08:53:45 | [Zahraaresen.visual-code-editor](https://marketplace.visualstudio.com/items?itemName=Zahraaresen.visual-code-editor) | Visual Code Editor | 0.5.0 | A Figma-like visual editor for real web code. Select elements in your running s… |
-| 2026-10-06 09:13:40 | [kkkwang.markdown-quote](https://marketplace.visualstudio.com/items?itemName=kkkwang.markdown-quote) | Markdown Quote | 0.0.1 | 把选中的文本一键转成 Markdown 引用，可选标注为 AI 回答 |
+| 2026-10-06 09:22:41 | [q4usdev.QUnit](https://marketplace.visualstudio.com/items?itemName=q4usdev.QUnit) | QUnit - Test Generator | 1.0.3 | Automatically generate high-quality unit and integration tests for Moleculer.js… |
+| 2026-10-06 09:24:08 | [Elagoht.collage-snippets-highlighter](https://marketplace.visualstudio.com/items?itemName=Elagoht.collage-snippets-highlighter) | Collage Snippets & Highlighter | 0.7.0 | Snippets, template highlighting, completion and plugins-config.json validation… |
+| 2026-10-06 09:25:03 | [BuldiDev.agent-army](https://marketplace.visualstudio.com/items?itemName=BuldiDev.agent-army) | Agent Army | 0.7.0 | Every active Claude Code session and subagent becomes a diep.io-style tank that… |
+| 2026-10-06 09:28:40 | [puupuls.better-ssh](https://marketplace.visualstudio.com/items?itemName=puupuls.better-ssh) | Better SSH | 0.1.6 | Fast multi-target SFTP sync via rclone, with hopping, diff, and Open SSH Termin… |
+| 2026-10-06 09:32:42 | [OktayAydoan.diff-viewer](https://marketplace.visualstudio.com/items?itemName=OktayAydoan.diff-viewer) | Diff Viewer for PHP | 0.1.1 | Compare PHP files or functions from your workspace in an editable Monaco diff e… |
+| 2026-10-06 09:40:50 | [AhsanulHoque.monorepo-component-map](https://marketplace.visualstudio.com/items?itemName=AhsanulHoque.monorepo-component-map) | Monorepo Component Map | 0.1.0 | Uses your Copilot subscription to write component skills for a monorepo, then d… |
+| 2026-10-06 09:44:43 | [MehranMohammadif.mehran-codex-theme](https://marketplace.visualstudio.com/items?itemName=MehranMohammadif.mehran-codex-theme) | Codex Theme | 0.1.0 | Independent local themes for the Codex chat panel, with reversible CSS patches. |
+| 2026-10-06 09:46:02 | [lagudafuadtosin.settings-layers](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.settings-layers) | Settings Layers | 1.0.0 | Team settings in git, your own settings on top, and settings for each operating… |
+| 2026-10-06 09:59:18 | [mergeflow.mergeflow](https://marketplace.visualstudio.com/items?itemName=mergeflow.mergeflow) | MergeFlow | 0.1.0 | A modern Git merge conflict resolver with a clean three-pane experience. |
+| 2026-10-06 10:10:14 | [akckreact.c2](https://marketplace.visualstudio.com/items?itemName=akckreact.c2) | c2 | 0.0.1 | Snippets for React components, Redux, JSON, and CSS with ct prefix |
 
 ## Data source
 

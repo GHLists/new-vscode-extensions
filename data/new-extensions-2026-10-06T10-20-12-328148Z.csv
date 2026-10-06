@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T09:22:41.15Z,q4usdev.QUnit,q4usdev,QUnit - Test Generator,1.0.3,"Automatically generate high-quality unit and integration tests for Moleculer.js microservices using AI. Smart test planning, deep mocking, and auto-validation included."
+2026-10-06T09:24:08.727Z,Elagoht.collage-snippets-highlighter,Elagoht,Collage Snippets & Highlighter,0.7.0,"Snippets, template highlighting, completion and plugins-config.json validation for collage, the Go framework for server-rendered pages — its template functions and those of its published plugins."
+2026-10-06T09:25:03.163Z,BuldiDev.agent-army,BuldiDev,Agent Army,0.7.0,Every active Claude Code session and subagent becomes a diep.io-style tank that fights on its own in a shared arena inside VS Code.
+2026-10-06T09:28:40.57Z,puupuls.better-ssh,puupuls,Better SSH,0.1.6,"Fast multi-target SFTP sync via rclone, with hopping, diff, and Open SSH Terminal"
+2026-10-06T09:32:42.48Z,OktayAydoan.diff-viewer,OktayAydoan,Diff Viewer for PHP,0.1.1,Compare PHP files or functions from your workspace in an editable Monaco diff editor.
+2026-10-06T09:40:50.913Z,AhsanulHoque.monorepo-component-map,AhsanulHoque,Monorepo Component Map,0.1.0,"Uses your Copilot subscription to write component skills for a monorepo, then draws a drill-down component diagram from those skills."
+2026-10-06T09:44:43.623Z,MehranMohammadif.mehran-codex-theme,MehranMohammadif,Codex Theme,0.1.0,"Independent local themes for the Codex chat panel, with reversible CSS patches."
+2026-10-06T09:46:02.07Z,lagudafuadtosin.settings-layers,lagudafuadtosin,Settings Layers,1.0.0,"Team settings in git, your own settings on top, and settings for each operating system. VS Code builds settings.json from the layers."
+2026-10-06T09:59:18.857Z,mergeflow.mergeflow,mergeflow,MergeFlow,0.1.0,A modern Git merge conflict resolver with a clean three-pane experience.
+2026-10-06T10:10:14.603Z,akckreact.c2,akckreact,c2,0.0.1,"Snippets for React components, Redux, JSON, and CSS with ct prefix"
