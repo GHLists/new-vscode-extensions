@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T17:29:30.517Z,async.async-classroom,async,Async Classroom,1.0.1,"Travaille sur tes projets Async Classroom (Sup de Vinci) dans VS Code : synchronisation avec le site, modules Python installes automatiquement, cours en direct, demande d'aide et chat avec le formateur."
+2026-10-06T17:36:06.363Z,LegendaryRedfox.foxrun-kotlin,LegendaryRedfox,Foxrun for Kotlin,0.2.0,"Kotlin syntax highlighting, autocomplete and a one click Run button over main functions. Lightweight, no language server."
+2026-10-06T17:48:04.863Z,lovisdotio.claude-codex-cost,lovisdotio,Claude + Codex Cost,1.0.0,"See what Claude Code and Codex cost you since the 1st of the month, right in the status bar."
+2026-10-06T18:02:15.463Z,WispInbox.wispinbox,WispInbox,WispInbox Temp Mail,1.0.0,Create disposable WispInbox addresses and wait for OTP codes inside VS Code / Cursor.
+2026-10-06T18:04:54.803Z,devupai.devup-code,devupai,DEVUP AI — AI code assistant,1.0.0,Top AI models beside your code. Pay in Algerian dinars with BaridiMob or Edahabia.
+2026-10-06T18:14:22.143Z,fluffyfen.kosh,fluffyfen,Koshka Shell Toolkit,0.1.0,"Koshka LSP and utilties for Shell, Bash and CI scripts"
+2026-10-06T18:15:43.42Z,juancastillov.criticmarkup-vsc-plus,juancastillov,CriticMarkup VSC-plus,0.3.1,"Track changes for plain-text Quarto and Markdown: CriticMarkup editing with author initials, accept/reject, hover actions, highlighting, and an HTML render filter."

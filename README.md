@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 17:19 UTC
+## Latest list — 2026-10-06 18:21 UTC
 
-New extensions published between 2026-10-06 15:19 UTC and 2026-10-06 17:19 UTC.
+New extensions published between 2026-10-06 16:21 UTC and 2026-10-06 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T17-19-34-806228Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T18-21-13-666894Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 16:21:13 | [VijaySuryawanshi.resume-where-you-left-off](https://marketplace.visualstudio.com/items?itemName=VijaySuryawanshi.resume-where-you-left-off) | Resume Where You Left Off | 0.0.3 | Captures your coding context as you work and turns it into detailed, grounded p… |
-| 2026-10-06 16:30:37 | [toketer.toketer](https://marketplace.visualstudio.com/items?itemName=toketer.toketer) | Toketer — AI Cost Meter | 1.0.0 | A live fuel gauge for AI coding: see how many tokens each AI prompt used and wh… |
-| 2026-10-06 16:44:03 | [NetCatTest.catsuite-studio](https://marketplace.visualstudio.com/items?itemName=NetCatTest.catsuite-studio) | CatSuite Studio | 1.2.0 | Build JavaScript plugins for the CatSuite Android app with SDK completions, val… |
-| 2026-10-06 16:46:39 | [rodrigocardoso-dev.multiclaude](https://marketplace.visualstudio.com/items?itemName=rodrigocardoso-dev.multiclaude) | MultiClaude - Account Switcher | 0.1.0 | Troque entre várias contas do Claude Code com um clique na barra de status. |
-| 2026-10-06 16:52:07 | [tasty-lobster.kanban-boards](https://marketplace.visualstudio.com/items?itemName=tasty-lobster.kanban-boards) | Kanban Boards | 0.1.0 | Minimal kanban board editor for *.knbn files that follows your theme. |
-| 2026-10-06 17:08:46 | [VortiqLabs.codebase-indexer](https://marketplace.visualstudio.com/items?itemName=VortiqLabs.codebase-indexer) | VortiqLabs Codebase Indexer | 0.1.0 | Local codebase indexing and MCP integration for VS Code. |
-| 2026-10-06 17:14:57 | [Sergiy.tssworkflow](https://marketplace.visualstudio.com/items?itemName=Sergiy.tssworkflow) | TeXstudio-style Workflow | 0.5.0 | TeXstudio-style workflow for VS Code: clickable file names, standalone chapter/… |
+| 2026-10-06 17:29:30 | [async.async-classroom](https://marketplace.visualstudio.com/items?itemName=async.async-classroom) | Async Classroom | 1.0.1 | Travaille sur tes projets Async Classroom (Sup de Vinci) dans VS Code : synchro… |
+| 2026-10-06 17:36:06 | [LegendaryRedfox.foxrun-kotlin](https://marketplace.visualstudio.com/items?itemName=LegendaryRedfox.foxrun-kotlin) | Foxrun for Kotlin | 0.2.0 | Kotlin syntax highlighting, autocomplete and a one click Run button over main f… |
+| 2026-10-06 17:48:04 | [lovisdotio.claude-codex-cost](https://marketplace.visualstudio.com/items?itemName=lovisdotio.claude-codex-cost) | Claude + Codex Cost | 1.0.0 | See what Claude Code and Codex cost you since the 1st of the month, right in th… |
+| 2026-10-06 18:02:15 | [WispInbox.wispinbox](https://marketplace.visualstudio.com/items?itemName=WispInbox.wispinbox) | WispInbox Temp Mail | 1.0.0 | Create disposable WispInbox addresses and wait for OTP codes inside VS Code / C… |
+| 2026-10-06 18:04:54 | [devupai.devup-code](https://marketplace.visualstudio.com/items?itemName=devupai.devup-code) | DEVUP AI — AI code assistant | 1.0.0 | Top AI models beside your code. Pay in Algerian dinars with BaridiMob or Edahab… |
+| 2026-10-06 18:14:22 | [fluffyfen.kosh](https://marketplace.visualstudio.com/items?itemName=fluffyfen.kosh) | Koshka Shell Toolkit | 0.1.0 | Koshka LSP and utilties for Shell, Bash and CI scripts |
+| 2026-10-06 18:15:43 | [juancastillov.criticmarkup-vsc-plus](https://marketplace.visualstudio.com/items?itemName=juancastillov.criticmarkup-vsc-plus) | CriticMarkup VSC-plus | 0.3.1 | Track changes for plain-text Quarto and Markdown: CriticMarkup editing with aut… |
 
 ## Data source
 
