@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T18:17:25.147Z,quilliot.epicancel-marvin,quilliot,EpiCancel Marvin,0.0.1,Find and fix Epitech C CodingStyle errors (C-*)
+2026-10-06T18:24:41.637Z,KairoDev.os-helper,KairoDev,OS Helper,0.0.1,Set up the basics of your OS (may imply open-source code from github)
+2026-10-06T18:26:15.26Z,yurikarasawa.codex-secure-profile-switcher,yurikarasawa,Codex Profile Vault,0.3.1,Switch securely between local Codex accounts and monitor every profile's usage limits.
+2026-10-06T18:26:28.38Z,goosenest.codex-profiles,goosenest,Codex Profiles,0.10.5,"Switch Codex accounts, view usage limits, and manage compatible providers from VS Code"
+2026-10-06T18:26:36.72Z,dhruvildave.session-rewind,dhruvildave,Session Rewind: AI Coding Usage Report,0.1.2,"Private usage report for AI coding tools: token and context stats, prompt habits, and where you correct the AI. Supports Claude Code. Runs locally, nothing is uploaded."
+2026-10-06T18:32:56.547Z,backtickjs.backtick-vscode,backtickjs,Backtick for VS Code,0.1.0,Syntax highlighting and type-checking for Backtick.
+2026-10-06T18:44:23.093Z,bardiazamanian.auto-hide-empty-editor,bardiazamanian,Auto Hide Empty Editor,0.1.0,Hides the empty editor area so Claude Code and the Terminal fill the window when no files are open.
+2026-10-06T18:46:22.093Z,hermanyhho.wayfinder,hermanyhho,Wayfinder,0.1.0,"Shows where the open file sits in the codebase: what imports it, what it imports, its members, its tests and what is missing."
+2026-10-06T18:50:32.873Z,Alphalobo666.infinite-pendulum,Alphalobo666,Infinite Pendulum,1.0.0,"Una cuna de Newton animada que nunca se detiene, en tu barra lateral. Puramente decorativa."

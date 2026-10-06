@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-06 18:21 UTC
+## Latest list — 2026-10-06 19:20 UTC
 
-New extensions published between 2026-10-06 16:21 UTC and 2026-10-06 18:21 UTC.
+New extensions published between 2026-10-06 17:20 UTC and 2026-10-06 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-06T18-21-13-666894Z.csv)
+[Full CSV](data/new-extensions-2026-10-06T19-20-59-919513Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 17:29:30 | [async.async-classroom](https://marketplace.visualstudio.com/items?itemName=async.async-classroom) | Async Classroom | 1.0.1 | Travaille sur tes projets Async Classroom (Sup de Vinci) dans VS Code : synchro… |
-| 2026-10-06 17:36:06 | [LegendaryRedfox.foxrun-kotlin](https://marketplace.visualstudio.com/items?itemName=LegendaryRedfox.foxrun-kotlin) | Foxrun for Kotlin | 0.2.0 | Kotlin syntax highlighting, autocomplete and a one click Run button over main f… |
-| 2026-10-06 17:48:04 | [lovisdotio.claude-codex-cost](https://marketplace.visualstudio.com/items?itemName=lovisdotio.claude-codex-cost) | Claude + Codex Cost | 1.0.0 | See what Claude Code and Codex cost you since the 1st of the month, right in th… |
-| 2026-10-06 18:02:15 | [WispInbox.wispinbox](https://marketplace.visualstudio.com/items?itemName=WispInbox.wispinbox) | WispInbox Temp Mail | 1.0.0 | Create disposable WispInbox addresses and wait for OTP codes inside VS Code / C… |
-| 2026-10-06 18:04:54 | [devupai.devup-code](https://marketplace.visualstudio.com/items?itemName=devupai.devup-code) | DEVUP AI — AI code assistant | 1.0.0 | Top AI models beside your code. Pay in Algerian dinars with BaridiMob or Edahab… |
-| 2026-10-06 18:14:22 | [fluffyfen.kosh](https://marketplace.visualstudio.com/items?itemName=fluffyfen.kosh) | Koshka Shell Toolkit | 0.1.0 | Koshka LSP and utilties for Shell, Bash and CI scripts |
-| 2026-10-06 18:15:43 | [juancastillov.criticmarkup-vsc-plus](https://marketplace.visualstudio.com/items?itemName=juancastillov.criticmarkup-vsc-plus) | CriticMarkup VSC-plus | 0.3.1 | Track changes for plain-text Quarto and Markdown: CriticMarkup editing with aut… |
+| 2026-10-06 18:17:25 | [quilliot.epicancel-marvin](https://marketplace.visualstudio.com/items?itemName=quilliot.epicancel-marvin) | EpiCancel Marvin | 0.0.1 | Find and fix Epitech C CodingStyle errors (C-*) |
+| 2026-10-06 18:24:41 | [KairoDev.os-helper](https://marketplace.visualstudio.com/items?itemName=KairoDev.os-helper) | OS Helper | 0.0.1 | Set up the basics of your OS (may imply open-source code from github) |
+| 2026-10-06 18:26:15 | [yurikarasawa.codex-secure-profile-switcher](https://marketplace.visualstudio.com/items?itemName=yurikarasawa.codex-secure-profile-switcher) | Codex Profile Vault | 0.3.1 | Switch securely between local Codex accounts and monitor every profile's usage… |
+| 2026-10-06 18:26:28 | [goosenest.codex-profiles](https://marketplace.visualstudio.com/items?itemName=goosenest.codex-profiles) | Codex Profiles | 0.10.5 | Switch Codex accounts, view usage limits, and manage compatible providers from… |
+| 2026-10-06 18:26:36 | [dhruvildave.session-rewind](https://marketplace.visualstudio.com/items?itemName=dhruvildave.session-rewind) | Session Rewind: AI Coding Usage Report | 0.1.2 | Private usage report for AI coding tools: token and context stats, prompt habit… |
+| 2026-10-06 18:32:56 | [backtickjs.backtick-vscode](https://marketplace.visualstudio.com/items?itemName=backtickjs.backtick-vscode) | Backtick for VS Code | 0.1.0 | Syntax highlighting and type-checking for Backtick. |
+| 2026-10-06 18:44:23 | [bardiazamanian.auto-hide-empty-editor](https://marketplace.visualstudio.com/items?itemName=bardiazamanian.auto-hide-empty-editor) | Auto Hide Empty Editor | 0.1.0 | Hides the empty editor area so Claude Code and the Terminal fill the window whe… |
+| 2026-10-06 18:46:22 | [hermanyhho.wayfinder](https://marketplace.visualstudio.com/items?itemName=hermanyhho.wayfinder) | Wayfinder | 0.1.0 | Shows where the open file sits in the codebase: what imports it, what it import… |
+| 2026-10-06 18:50:32 | [Alphalobo666.infinite-pendulum](https://marketplace.visualstudio.com/items?itemName=Alphalobo666.infinite-pendulum) | Infinite Pendulum | 1.0.0 | Una cuna de Newton animada que nunca se detiene, en tu barra lateral. Puramente… |
 
 ## Data source
 
