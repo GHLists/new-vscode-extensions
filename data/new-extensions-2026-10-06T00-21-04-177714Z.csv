@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-05T23:20:08.62Z,vtek-innovations.heapfile-vscode,vtek-innovations,HeapFile for VS Code,4.2.3,Connect VS Code agent mode to HeapFile Desktop's local MCP server with clear first-run setup and profile controls.
+2026-10-05T23:33:33.613Z,lunarabbit.lunarabbit-vscode,lunarabbit,LunaRabbit Code,0.1.67,"Autonomous AI coding agent for VS Code — plans, edits, and executes code in your workspace with a local engine and multi-provider LLMs."
+2026-10-06T00:07:34.27Z,KeteCode.kete-code,KeteCode,Kete Code,0.2.4,"AI coding agent that runs next to your code: chat, edits with diff review, and your Kete account."
