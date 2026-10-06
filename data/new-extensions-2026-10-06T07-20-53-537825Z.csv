@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T06:36:31.363Z,Yqloss.cpp-studio-web,Yqloss,C++ Studio Web,0.3.7,Run single-file C++ locally in VS Code Web with WASM Clang and clangd.
+2026-10-06T06:40:04.69Z,rowhitswami.nameplate,rowhitswami,Nameplate,0.3.0,"Shows the project name in the status bar and gives every VS Code window its own color, so you always know which project you are in. Works in Cursor, Windsurf, Antigravity and other editors built on VS Code."
+2026-10-06T06:43:31.163Z,qqaazz0222.dcmviewer,qqaazz0222,DCMViewer,2.0.4,"View DICOM series, NIfTI and NumPy volumes with multi-planar slices and comparison inside VS Code."
+2026-10-06T06:51:34.98Z,Seagull-W.seagull-practice,Seagull-W,Seagull Algorithms & Knowledge,0.2.2,离线 Python / Rust 算法练习、后训练问答、SQLite 记录与复习。
+2026-10-06T06:52:42.117Z,yuval-abdm.php-forge,yuval-abdm,PHP Forge,1.0.0,"Free PHP language server: completion, type inference, navigation and include-aware analysis for modern and legacy PHP."
+2026-10-06T07:04:00.257Z,LephicBryan.codex-usage-viewer,LephicBryan,Codex Usage Viewer,0.1.0,Shows your Codex usage limits in the VS Code status bar.
+2026-10-06T07:04:33.41Z,GirishKumar.coverage-xml-importer-breakpoint-fix,GirishKumar,Pytest Test Explorer + Coverage XML (Django) - Breakpoint Fix,1.0.0,"Fast pytest test tree for your apps folder in the Testing panel, with Run / Run with Coverage (pytest-cov), coverage.xml view, built-in coverage gutters and detection of new code that has no tests."
+2026-10-06T07:17:50.787Z,kodekz01.simply-slate-theme,kodekz01,Simply Slate Theme,0.0.4,"A minimal dark theme with neutral gray surfaces, white text, and blue interface accents."
