@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T16:21:13.41Z,VijaySuryawanshi.resume-where-you-left-off,VijaySuryawanshi,Resume Where You Left Off,0.0.3,"Captures your coding context as you work and turns it into detailed, grounded project docs (Overview, Progress, README) using your own Copilot. Everything stays on your machine."
+2026-10-06T16:30:37.477Z,toketer.toketer,toketer,Toketer — AI Cost Meter,1.0.0,"A live fuel gauge for AI coding: see how many tokens each AI prompt used and what it cost, right inside your editor. Metadata-only, private, zero-config."
+2026-10-06T16:44:03.253Z,NetCatTest.catsuite-studio,NetCatTest,CatSuite Studio,1.2.0,"Build JavaScript plugins for the CatSuite Android app with SDK completions, validation, local previews, signed packages and custom themes."
+2026-10-06T16:46:39.307Z,rodrigocardoso-dev.multiclaude,rodrigocardoso-dev,MultiClaude - Account Switcher,0.1.0,Troque entre várias contas do Claude Code com um clique na barra de status.
+2026-10-06T16:52:07.87Z,tasty-lobster.kanban-boards,tasty-lobster,Kanban Boards,0.1.0,Minimal kanban board editor for *.knbn files that follows your theme.
+2026-10-06T17:08:46.11Z,VortiqLabs.codebase-indexer,VortiqLabs,VortiqLabs Codebase Indexer,0.1.0,Local codebase indexing and MCP integration for VS Code.
+2026-10-06T17:14:57.37Z,Sergiy.tssworkflow,Sergiy,TeXstudio-style Workflow,0.5.0,"TeXstudio-style workflow for VS Code: clickable file names, standalone chapter/figure compile, project-wide labels, quick error checks, Ukrainian typography, table/environment tools, frames, change preview, hovers, heading navigator, build-log warnings, quick fixes, outline, document templates (docu"
