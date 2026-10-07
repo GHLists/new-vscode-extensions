@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T19:18:28.52Z,koppel.koppel,koppel,Koppel,0.4.3,"Let the AI you already use build your Webflow and Framer code: Claude, ChatGPT, Copilot or Cursor. No API keys. Save to staging, publish live in one click."
+2026-10-07T19:30:33.97Z,Bannysukumar2255.devconnect-vscode-extension,Bannysukumar2255,DevConnect,0.1.1,A developer community inside Visual Studio Code.
+2026-10-07T19:48:44.957Z,screentrace.scribble-flow,screentrace,Scribble Flow,1.0.2,Save editor selections and chat decisions onto your Scribble Flow desk.
+2026-10-07T20:01:03.333Z,aprogramq.open-working-tree-file,aprogramq,Open Working Tree File,1.0.0,
+2026-10-07T20:09:41.103Z,awmium.claude-stats-statusbar,awmium,ClaudeStats,0.2.0,"See your Claude Code plan usage in the status bar: session and weekly limits at a glance, with every window and its reset time on hover."
+2026-10-07T20:14:16.903Z,jft63.task-model-advisor,jft63,Task Model Advisor,0.1.0,"Recommend the best available LLM (model, context, thinking) for a task using live benchmarks."
