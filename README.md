@@ -12,24 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 11:20 UTC
+## Latest list — 2026-10-07 12:19 UTC
 
-New extensions published between 2026-10-07 09:20 UTC and 2026-10-07 11:20 UTC.
+New extensions published between 2026-10-07 10:19 UTC and 2026-10-07 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T11-20-51-487764Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T12-19-53-984197Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 10:22:25 | [tikusieg.hayaku-vscode](https://marketplace.visualstudio.com/items?itemName=tikusieg.hayaku-vscode) | Hayaku for VS Code (Unofficial) | 0.4.0 | Hayakuの略記展開と自作スニペットを組み合わせた、CSS入力支援の非公式移植版です。 |
-| 2026-10-07 10:24:43 | [QuocDev.devhelm](https://marketplace.visualstudio.com/items?itemName=QuocDev.devhelm) | DevHelm | 0.1.0 | Local development workflow tools: project detection, service controls, environm… |
-| 2026-10-07 10:30:39 | [alperbeser.claude-usage-pace](https://marketplace.visualstudio.com/items?itemName=alperbeser.claude-usage-pace) | Claude Code Usage Time Marker | 1.0.0 | Time marker for Claude Code session and weekly usage. Shows whether you are ove… |
-| 2026-10-07 10:33:31 | [bhuvaneswaranvijayan.running-girl](https://marketplace.visualstudio.com/items?itemName=bhuvaneswaranvijayan.running-girl) | Running Girl | 1.3.0 | A cartoon girl runs across your editor. Shows in the sidebar or a panel. |
-| 2026-10-07 10:37:34 | [mathnetica.mathnetica-tools-for-cudaq](https://marketplace.visualstudio.com/items?itemName=mathnetica.mathnetica-tools-for-cudaq) | Mathnetica Tools for CUDA-Q | 0.1.12 | Independent developer tools for NVIDIA CUDA-Q™ in Visual Studio Code and Cursor. |
-| 2026-10-07 10:46:40 | [N-Faranda.sync-ai-setup](https://marketplace.visualstudio.com/items?itemName=N-Faranda.sync-ai-setup) | Sync AI Setup for VSCode | 1.0.0 | Sync Copilot instructions, skills and agent setup across your team |
-| 2026-10-07 10:58:18 | [qdusxg4536.codex-history-fix](https://marketplace.visualstudio.com/items?itemName=qdusxg4536.codex-history-fix) | CodeX plugin | 1.6.5 | 修复 CodeX 历史记录并管理 CodeX 服务商。 |
-| 2026-10-07 11:10:47 | [joaomariok.system-metrics](https://marketplace.visualstudio.com/items?itemName=joaomariok.system-metrics) | System Metrics | 0.1.0 | Task Manager-style CPU, memory, GPU, disk and network graphs in the sidebar. |
-| 2026-10-07 11:14:53 | [sepoina.vitetranslate-ide](https://marketplace.visualstudio.com/items?itemName=sepoina.vitetranslate-ide) | viteTranslate | 0.0.6 | Your viteTranslate setup at a glance, in its own panel, and your marked strings… |
-| 2026-10-07 11:15:35 | [tanishbhandari24.rlforge](https://marketplace.visualstudio.com/items?itemName=tanishbhandari24.rlforge) | RLForge — RL Developer Toolkit | 0.1.0 | DevTools for RL: watch agents play, health-check and fuzz Gymnasium environment… |
+| 2026-10-07 11:26:32 | [DietCode.token-optimizer](https://marketplace.visualstudio.com/items?itemName=DietCode.token-optimizer) | DietCode Token Optimizer | 0.1.0 | Live token-usage dashboard and optimization nudges for GitHub Copilot Chat (inp… |
+| 2026-10-07 11:28:01 | [RiisDev.simple-line-filter](https://marketplace.visualstudio.com/items?itemName=RiisDev.simple-line-filter) | Simple Line Filter | 1.0.0 | Keep or remove lines matching the Find widget search. |
+| 2026-10-07 11:31:06 | [meghanadh05.agentmux-vscode](https://marketplace.visualstudio.com/items?itemName=meghanadh05.agentmux-vscode) | AgentMux Account Switcher | 0.1.0 | Save and switch Codex accounts in your normal VS Code window while preserving s… |
+| 2026-10-07 12:01:09 | [VictorBeckmann.rosa-cavaleira](https://marketplace.visualstudio.com/items?itemName=VictorBeckmann.rosa-cavaleira) | Rosa Cavaleira - Papel de Parede | 1.0.0 | Troca o papel de parede (imagem de fundo) do VS Code com poucos cliques, sem ed… |
+| 2026-10-07 12:07:07 | [Ktnuity.kirdow-simple](https://marketplace.visualstudio.com/items?itemName=Ktnuity.kirdow-simple) | Kirdow Simple | 1.0.0 | Plain foreground on plain background. Only comments are colored. |
 
 ## Data source
 
