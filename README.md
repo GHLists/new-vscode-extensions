@@ -12,29 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 10:21 UTC
+## Latest list — 2026-10-07 11:20 UTC
 
-New extensions published between 2026-10-07 08:21 UTC and 2026-10-07 10:21 UTC.
+New extensions published between 2026-10-07 09:20 UTC and 2026-10-07 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T10-21-09-418486Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T11-20-51-487764Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 09:13:16 | [am-asas.gh-accounts](https://marketplace.visualstudio.com/items?itemName=am-asas.gh-accounts) | GH Accounts | 0.1.0 | Manage GitHub CLI accounts by host with native VS Code controls. |
-| 2026-10-07 09:17:33 | [maximem.waitpro-vscode](https://marketplace.visualstudio.com/items?itemName=maximem.waitpro-vscode) | WaitPro by Maximem | 0.2.8 | Turn AI wait time into reading time. While Claude Code works, a sidebar card sh… |
-| 2026-10-07 09:20:49 | [thecraftbuildx.remotesync](https://marketplace.visualstudio.com/items?itemName=thecraftbuildx.remotesync) | RemoteSync - Safe SFTP & Remote Deploy | 0.1.0 | Edit, sync and safely deploy files to remote servers directly from VS Code. Kno… |
-| 2026-10-07 09:26:54 | [alexbeatnik.manul-browser](https://marketplace.visualstudio.com/items?itemName=alexbeatnik.manul-browser) | Manul Browser | 0.1.0 | Write and run browser automation in plain English. Runs .hunt files with the ma… |
-| 2026-10-07 09:28:39 | [DeepSpaceCartel.devcontainer-builder](https://marketplace.visualstudio.com/items?itemName=DeepSpaceCartel.devcontainer-builder) | Dev Containers for Coder in K8S | 0.5.0 | Clone a repository into a new Coder workspace built from its devcontainer.json,… |
-| 2026-10-07 09:28:43 | [iamjailan.pashto-lorem](https://marketplace.visualstudio.com/items?itemName=iamjailan.pashto-lorem) | Pashto Lorem | 0.3.0 | Generate Pashto placeholder paragraphs, sentences, and words in VS Code and Cur… |
-| 2026-10-07 09:30:08 | [mirage-interactive-fr.perfchecker-vscode](https://marketplace.visualstudio.com/items?itemName=mirage-interactive-fr.perfchecker-vscode) | PerfChecker | 1.0.0 | Measure Julia performance, explore interactive results and improve code with a… |
-| 2026-10-07 09:40:50 | [der-feb.wrapper-ts](https://marketplace.visualstudio.com/items?itemName=der-feb.wrapper-ts) | Wrapper-TS | 0.0.1 | Wrap TypeScript snippets in blocks |
-| 2026-10-07 09:52:46 | [itxahmaddev.800-plus-theme](https://marketplace.visualstudio.com/items?itemName=itxahmaddev.800-plus-theme) | 800+ Theme (All Theme At One Place) | 1.0.0 | 800+ color themes in one extension: dark, light, high-contrast and more, all in… |
-| 2026-10-07 09:55:25 | [sepps-workshop.sepps-workshop-theme](https://marketplace.visualstudio.com/items?itemName=sepps-workshop.sepps-workshop-theme) | Sepp’s Workshop Theme | 0.1.0 | One dark color theme for VS Code (Visual Studio Code) on sepp.med Darkblue. WCA… |
-| 2026-10-07 09:58:27 | [quilliot.epiheader-by-quix](https://marketplace.visualstudio.com/items?itemName=quilliot.epiheader-by-quix) | EpiHeader by Quix | 1.0.0 | Visual Studio Code extension designed to automate and simplify standard Epitech… |
-| 2026-10-07 10:00:01 | [tarekwady.code-storyline](https://marketplace.visualstudio.com/items?itemName=tarekwady.code-storyline) | code storyline | 0.1.0 | Read your code as a story: AI breaks a file into its logical moments and lays t… |
-| 2026-10-07 10:09:57 | [Kaesinol.inline-css-selector-comments](https://marketplace.visualstudio.com/items?itemName=Kaesinol.inline-css-selector-comments) | Inline CSS Selector Comments | 0.1.0 | Highlight CSS selector comments inside JavaScript and TypeScript string literal… |
-| 2026-10-07 10:16:04 | [ion-andoni-palma.sf-inspector](https://marketplace.visualstudio.com/items?itemName=ion-andoni-palma.sf-inspector) | IAPL - SFInspector | 0.1.0 | Salesforce Inspector-like tool for VS Code: SOQL runner, object/field explorer,… |
-| 2026-10-07 10:16:54 | [grabowskmr.redline-for-claude-code](https://marketplace.visualstudio.com/items?itemName=grabowskmr.redline-for-claude-code) | Redline for Claude Code | 1.0.0 | See Claude Code’s last changes and accept unreviewed files in a native VS Code… |
+| 2026-10-07 10:22:25 | [tikusieg.hayaku-vscode](https://marketplace.visualstudio.com/items?itemName=tikusieg.hayaku-vscode) | Hayaku for VS Code (Unofficial) | 0.4.0 | Hayakuの略記展開と自作スニペットを組み合わせた、CSS入力支援の非公式移植版です。 |
+| 2026-10-07 10:24:43 | [QuocDev.devhelm](https://marketplace.visualstudio.com/items?itemName=QuocDev.devhelm) | DevHelm | 0.1.0 | Local development workflow tools: project detection, service controls, environm… |
+| 2026-10-07 10:30:39 | [alperbeser.claude-usage-pace](https://marketplace.visualstudio.com/items?itemName=alperbeser.claude-usage-pace) | Claude Code Usage Time Marker | 1.0.0 | Time marker for Claude Code session and weekly usage. Shows whether you are ove… |
+| 2026-10-07 10:33:31 | [bhuvaneswaranvijayan.running-girl](https://marketplace.visualstudio.com/items?itemName=bhuvaneswaranvijayan.running-girl) | Running Girl | 1.3.0 | A cartoon girl runs across your editor. Shows in the sidebar or a panel. |
+| 2026-10-07 10:37:34 | [mathnetica.mathnetica-tools-for-cudaq](https://marketplace.visualstudio.com/items?itemName=mathnetica.mathnetica-tools-for-cudaq) | Mathnetica Tools for CUDA-Q | 0.1.12 | Independent developer tools for NVIDIA CUDA-Q™ in Visual Studio Code and Cursor. |
+| 2026-10-07 10:46:40 | [N-Faranda.sync-ai-setup](https://marketplace.visualstudio.com/items?itemName=N-Faranda.sync-ai-setup) | Sync AI Setup for VSCode | 1.0.0 | Sync Copilot instructions, skills and agent setup across your team |
+| 2026-10-07 10:58:18 | [qdusxg4536.codex-history-fix](https://marketplace.visualstudio.com/items?itemName=qdusxg4536.codex-history-fix) | CodeX plugin | 1.6.5 | 修复 CodeX 历史记录并管理 CodeX 服务商。 |
+| 2026-10-07 11:10:47 | [joaomariok.system-metrics](https://marketplace.visualstudio.com/items?itemName=joaomariok.system-metrics) | System Metrics | 0.1.0 | Task Manager-style CPU, memory, GPU, disk and network graphs in the sidebar. |
+| 2026-10-07 11:14:53 | [sepoina.vitetranslate-ide](https://marketplace.visualstudio.com/items?itemName=sepoina.vitetranslate-ide) | viteTranslate | 0.0.6 | Your viteTranslate setup at a glance, in its own panel, and your marked strings… |
+| 2026-10-07 11:15:35 | [tanishbhandari24.rlforge](https://marketplace.visualstudio.com/items?itemName=tanishbhandari24.rlforge) | RLForge — RL Developer Toolkit | 0.1.0 | DevTools for RL: watch agents play, health-check and fuzz Gymnasium environment… |
 
 ## Data source
 
