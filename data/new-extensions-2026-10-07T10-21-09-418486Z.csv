@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T09:13:16.34Z,am-asas.gh-accounts,am-asas,GH Accounts,0.1.0,Manage GitHub CLI accounts by host with native VS Code controls.
+2026-10-07T09:17:33.64Z,maximem.waitpro-vscode,maximem,WaitPro by Maximem,0.2.8,"Turn AI wait time into reading time. While Claude Code works, a sidebar card shows a short read from your bookmarks or topics you follow, and closes when the reply is ready."
+2026-10-07T09:20:49.74Z,thecraftbuildx.remotesync,thecraftbuildx,RemoteSync - Safe SFTP & Remote Deploy,0.1.0,"Edit, sync and safely deploy files to remote servers directly from VS Code. Know exactly what reached your server."
+2026-10-07T09:26:54.04Z,alexbeatnik.manul-browser,alexbeatnik,Manul Browser,0.1.0,"Write and run browser automation in plain English. Runs .hunt files with the manul-browser engine from npm, PyPI or a Go build, with a test explorer, step-by-step debugging and automatic hook pickup."
+2026-10-07T09:28:39.107Z,DeepSpaceCartel.devcontainer-builder,DeepSpaceCartel,Dev Containers for Coder in K8S,0.5.0,"Clone a repository into a new Coder workspace built from its devcontainer.json, and rebuild the workspace when that configuration changes on its branch."
+2026-10-07T09:28:43.473Z,iamjailan.pashto-lorem,iamjailan,Pashto Lorem,0.3.0,"Generate Pashto placeholder paragraphs, sentences, and words in VS Code and Cursor."
+2026-10-07T09:30:08.633Z,mirage-interactive-fr.perfchecker-vscode,mirage-interactive-fr,PerfChecker,1.0.0,"Measure Julia performance, explore interactive results and improve code with a connected agent."
+2026-10-07T09:40:50.22Z,der-feb.wrapper-ts,der-feb,Wrapper-TS,0.0.1,Wrap TypeScript snippets in blocks
+2026-10-07T09:52:46.15Z,itxahmaddev.800-plus-theme,itxahmaddev,800+ Theme (All Theme At One Place),1.0.0,"800+ color themes in one extension: dark, light, high-contrast and more, all in one place."
+2026-10-07T09:55:25.723Z,sepps-workshop.sepps-workshop-theme,sepps-workshop,Sepp’s Workshop Theme,0.1.0,One dark color theme for VS Code (Visual Studio Code) on sepp.med Darkblue. WCAG AA verified.
+2026-10-07T09:58:27.027Z,quilliot.epiheader-by-quix,quilliot,EpiHeader by Quix,1.0.0,"Visual Studio Code extension designed to automate and simplify standard Epitech header insertion for C, headers, and Makefiles."
+2026-10-07T10:00:01.87Z,tarekwady.code-storyline,tarekwady,code storyline,0.1.0,"Read your code as a story: AI breaks a file into its logical moments and lays them out left to right as a storyline, each part with a plain sentence and its code."
+2026-10-07T10:09:57.753Z,Kaesinol.inline-css-selector-comments,Kaesinol,Inline CSS Selector Comments,0.1.0,Highlight CSS selector comments inside JavaScript and TypeScript string literals.
+2026-10-07T10:16:04.15Z,ion-andoni-palma.sf-inspector,ion-andoni-palma,IAPL - SFInspector,0.1.0,"Salesforce Inspector-like tool for VS Code: SOQL runner, object/field explorer, record viewer/editor, REST explorer. Uses orgs authenticated with Salesforce CLI."
+2026-10-07T10:16:54.267Z,grabowskmr.redline-for-claude-code,grabowskmr,Redline for Claude Code,1.0.0,See Claude Code’s last changes and accept unreviewed files in a native VS Code diff viewer.
