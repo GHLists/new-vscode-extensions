@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 05:20 UTC
+## Latest list — 2026-10-07 06:19 UTC
 
-New extensions published between 2026-10-07 03:20 UTC and 2026-10-07 05:20 UTC.
+New extensions published between 2026-10-07 04:19 UTC and 2026-10-07 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T05-20-23-722806Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T06-19-14-228408Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 04:17:07 | [hungtienhuang.t3-vscode](https://marketplace.visualstudio.com/items?itemName=hungtienhuang.t3-vscode) | T3 VSCode | 0.1.12 | Alpha client for local T3 Code servers: workspace sessions, editor chat, rich m… |
-| 2026-10-07 04:18:42 | [drbh.xmd](https://marketplace.visualstudio.com/items?itemName=drbh.xmd) | XMD | 0.2.1 | Calculated notes, checklists, and timers powered by the XMD language server. |
-| 2026-10-07 04:32:53 | [LomaDeveloper.antigravity-ai-quota-monitor](https://marketplace.visualstudio.com/items?itemName=LomaDeveloper.antigravity-ai-quota-monitor) | Antigravity AI Quota Monitor | 1.0.0 | Real-time AI Model Quota & Rate Limit Monitor for Antigravity IDE & VS Code (Ge… |
-| 2026-10-07 04:39:11 | [htkym.lithosharp](https://marketplace.visualstudio.com/items?itemName=htkym.lithosharp) | LithoSharp | 0.1.0 | Markdown/MDX project detection and trusted CLI control for LithoSharp sites. |
-| 2026-10-07 04:46:09 | [cr1124.font-profiles](https://marketplace.visualstudio.com/items?itemName=cr1124.font-profiles) | Font Profiles | 0.1.0 | Quickly switch font profiles in Visual Studio Code. |
-| 2026-10-07 04:51:56 | [kasunkodagoda.rich-markdown-preview](https://marketplace.visualstudio.com/items?itemName=kasunkodagoda.rich-markdown-preview) | Rich Markdown Preview - A Styled Markdo… | 1.0.0 | A styled Markdown preview with 18 reading themes, Mermaid diagrams, syntax high… |
-| 2026-10-07 05:13:35 | [jetvs.jet-git](https://marketplace.visualstudio.com/items?itemName=jetvs.jet-git) | JetVS Git | 0.1.8 | JetBrains-style Git log, branches, commit and merge tool window for VS Code |
-| 2026-10-07 05:13:56 | [fadi-hajji1.custom-sublime](https://marketplace.visualstudio.com/items?itemName=fadi-hajji1.custom-sublime) | Custom Sublime Panels | 2.0.0 | Premium glowing syntax theme featuring custom deep charcoal and pitch black wor… |
+| 2026-10-07 05:39:02 | [michael-dev.future-debt-predictor](https://marketplace.visualstudio.com/items?itemName=michael-dev.future-debt-predictor) | Future Debt Predictor | 0.3.0 | Developer-side security and code-debt scanner: finds CWE-mapped vulnerabilities… |
+| 2026-10-07 05:53:52 | [developerOne.developerone](https://marketplace.visualstudio.com/items?itemName=developerOne.developerone) | DeveloperOne: AI Coding Agent for Small… | 0.1.2 | AI coding agent for VS Code that routes every task to the cheapest model that c… |
+| 2026-10-07 05:56:48 | [wppes.acm](https://marketplace.visualstudio.com/items?itemName=wppes.acm) | AEM Content Manager (ACM) | 0.1.1 | Write, validate and run AEM Content Manager (ACM) Groovy scripts from VS Code. |
+| 2026-10-07 05:59:50 | [PlanXLab.tos-remote](https://marketplace.visualstudio.com/items?itemName=PlanXLab.tos-remote) | tOS Remote | 0.2.0 | Open, edit, run, and debug the workspace of a tOS (Raspberry Pi 5) board from V… |
+| 2026-10-07 06:15:19 | [nifty.nifty-js-tests](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-js-tests) | Nifty JS Tests: Mocha, node:test & Bun… | 0.1.0 | Run and debug Mocha, node:test and Bun tests from the Test Explorer: real diffs… |
+| 2026-10-07 06:15:33 | [nifty.nifty-agent-config](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-agent-config) | Nifty Agent Config: AGENTS.md, Rules &… | 0.1.0 | See which AGENTS.md, CLAUDE.md, Cursor, Copilot, Windsurf and Gemini rules appl… |
+| 2026-10-07 06:15:39 | [nifty.nifty-web-pack](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-web-pack) | Nifty Web Pack | 0.1.0 | 10 Nifty extensions for front-end and web development: Beautify, CSS Classes, C… |
+| 2026-10-07 06:15:53 | [nifty.nifty-struct-layout](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-struct-layout) | Nifty Struct Layout: C/C++ Struct Paddi… | 0.1.0 | See the memory layout of C and C++ structs: offsets, sizes, alignment and paddi… |
+| 2026-10-07 06:16:00 | [nifty.nifty-go](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-go) | Nifty Go Tools: Struct Tags & Error Fol… | 0.1.0 | Go power tools that don't need anything installed: fold if err != nil blocks, a… |
+| 2026-10-07 06:16:06 | [nifty.nifty-dotnet](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-dotnet) | Nifty .NET Explorer: Solution & Test Ex… | 0.1.1 | A solution explorer and test explorer for .NET in VS Code, Cursor, Windsurf and… |
 
 ## Data source
 
