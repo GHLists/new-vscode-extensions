@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T16:32:21.09Z,bochenek11.troll-code,bochenek11,Troll Code 🤡,1.7.0,"A prank extension for VS Code with three modes: Legit (light jokes), Troll (annoying) and opt-in Hardcore (pure chaos). Never edits your files. Panic button: Ctrl+Alt+Shift+P."
+2026-10-07T16:32:28.1Z,TilakPadole.apex-cleaner,TilakPadole,Apex Cleaner,0.0.1,"Format Apex code, remove blank lines, comment out System.debug statements (never inside catch blocks) and highlight them in red for Salesforce Apex."
+2026-10-07T17:08:45.63Z,reny-develop.rulealizestudio-avalonia,reny-develop,RulealizeStudio.Avalonia,0.2.0,"Open a rule set as what it means: change a value it states or what one of its lists holds, see what that did to what is legal, and say whether it is what you meant."
+2026-10-07T17:10:45.233Z,Catomak.swagger-lens,Catomak,Swagger Lens,0.3.8,"Swagger preview with local OpenAPI diffs, affected endpoints, shared schemas, and light/dark themes."
