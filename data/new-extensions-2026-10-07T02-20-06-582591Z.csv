@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T01:27:11.747Z,kadiace.unity-compile-on-save,kadiace,Unity Compile on Save,0.0.6,Recompile Unity scripts after VS Code saves or Git changes. Wait for the Editor and coalesce changes per project. Requires Unity CLI 1.0.0-beta.11+.
+2026-10-07T01:35:48.883Z,pks424.atom-power-mode,pks424,Atom Power Mode (Canvas),1.1.0,"Atom activate-power-mode for VS Code: real canvas particles in your syntax colors, screen shake and a combo counter."
+2026-10-07T01:44:28.017Z,bone-ni.vscode-language-pack-lo,bone-ni,ຊຸດພາສາລາວ ສຳລັບ Visual Studio Code,1.131.0,ສ່ວນຂະຫຍາຍຊຸດພາສາ ສຳລັບພາສາລາວ
+2026-10-07T02:01:41.3Z,sh-u-x-in.ros2-dev-extension,sh-u-x-in,RDE for ROS 2,0.0.1,A Visual Studio Code extension for Robot Operating System (ROS) 2 development.
+2026-10-07T02:06:40.207Z,Slacklab.darkberry-theme,Slacklab,Darkberry,0.3.0,Darkberry: a four-flavour bog-witch berry theme.
+2026-10-07T02:13:06.987Z,Slacklab.darkberry-with-tints-theme,Slacklab,Darkberry with tints,0.3.0,"Darkberry: a four-flavour bog-witch berry theme. This edition also carries the Lingonberry, Cloudberry, Crowberry, Blueberry tints."
+2026-10-07T02:14:42.613Z,wespner.wespner-game-panel,wespner,Wespner Game Panel,0.5.0,"Sign in with your Wespner Game Panel account, drive your game servers' consoles and edit server files from VS Code."
