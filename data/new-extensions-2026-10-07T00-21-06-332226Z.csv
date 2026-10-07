@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-06T23:41:34.943Z,Oak.oak-vcs,Oak,Oak Version Control,0.1.0,"Oak version control for VS Code: source control view, quick diff, history, branches, sync, merge and CI for oak.space repositories."
+2026-10-06T23:42:21.833Z,shouzhuan.shouzhuan-kuikly-kit,shouzhuan,ShouZhuan Kuikly Kit,0.1.0,守赚 UI 公开 API 片段：Maven / OHPM 坐标、组件 snippet、官网与 Gallery 演示入口。不捆绑实现源码。
+2026-10-06T23:42:38.433Z,DocumentationFirst.config-key-viewer,DocumentationFirst,JSON YAML XML Key Viewer,1.0.0,"Displays the full dot-notation path of any configuration key in JSON, YAML and XML files."
+2026-10-06T23:58:37.477Z,enthonyaraujo.agent-cli-terminal,enthonyaraujo,Agent CLI Terminal,1.0.0,"Dedicated sidebar terminal for AI CLI agents (Claude, Codex, Gemini, etc.) running alongside VS Code's native terminal."
+2026-10-07T00:07:44.88Z,michael-reques.phone-preview-frame,michael-reques,Phone Preview Frame,0.0.1,"Preview your local web project inside a realistic iPhone 15, iPhone 15 Pro Max or Google Pixel 10 frame, with Safari/Chrome bars, live clock and auto-reload."
