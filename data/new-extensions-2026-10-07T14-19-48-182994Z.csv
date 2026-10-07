@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T13:29:03.503Z,amatsuka.maimai-chart-preview,amatsuka,maimai Chart Preview,0.1.0,Play and preview maimai DX Simai and MA2 charts in Visual Studio Code
+2026-10-07T13:53:04.257Z,MegDev.agent-mux,MegDev,Agent Mux,0.1.1,Save and switch Codex accounts in your normal VS Code window while preserving shared history and settings.
+2026-10-07T13:56:06.837Z,datastep-labs.datastep-studio,datastep-labs,DataStep Studio,0.1.0,"A development environment for SAS® programmers in VS Code: run with one key, a log that points back to your code, a data viewer, DATA step and macro debuggers. Independent product, not affiliated with SAS Institute Inc."
+2026-10-07T13:58:30.223Z,scistack.scistack-gui,scistack,SciStack Pipeline GUI,0.1.30,Visual pipeline builder for SciStack scientific data processing
+2026-10-07T14:01:27.247Z,skrelectronicslab.flutter-device-manager,skrelectronicslab,Flutter Device Manager,1.0.0,"All-in-one Flutter & Android developer companion by SKR Electronics Lab: Wireless ADB over Wi-Fi, QR code pairing, scrcpy screen mirroring, reverse port forwarding, real-time Logcat filtering, deep link testing, and 1-click Flutter workflow."

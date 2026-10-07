@@ -12,27 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 13:19 UTC
+## Latest list — 2026-10-07 14:19 UTC
 
-New extensions published between 2026-10-07 11:19 UTC and 2026-10-07 13:19 UTC.
+New extensions published between 2026-10-07 12:19 UTC and 2026-10-07 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T13-19-29-024743Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T14-19-48-182994Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 12:21:32 | [KoenRempt.gegevensbeheer](https://marketplace.visualstudio.com/items?itemName=KoenRempt.gegevensbeheer) | Gegevensbeheer | 0.1.1 | Language support (autocomplete, hover, highlighting) for the Gegevensbeheer lan… |
-| 2026-10-07 12:32:57 | [JeffersonGoncalves.jsg-herd-manager](https://marketplace.visualstudio.com/items?itemName=JeffersonGoncalves.jsg-herd-manager) | JSG Herd Manager | 1.0.0 | Manage Laravel Herd sites from VS Code: herd.yml configuration, link/unlink, HT… |
-| 2026-10-07 12:33:09 | [JeffersonGoncalves.jsg-hubdev-manager](https://marketplace.visualstudio.com/items?itemName=JeffersonGoncalves.jsg-hubdev-manager) | JSG HubDev Manager | 1.0.0 | Manage HubDev local development sites from VS Code: link/unlink, start/stop, re… |
-| 2026-10-07 12:38:47 | [doomsec.opencode-ai](https://marketplace.visualstudio.com/items?itemName=doomsec.opencode-ai) | OpenCode AI | 0.1.0 | OpenCode projects, session terminals, commit drafts, and inline suggestions in… |
-| 2026-10-07 12:45:53 | [motimotinotch.loopfinder](https://marketplace.visualstudio.com/items?itemName=motimotinotch.loopfinder) | loopfinder | 0.1.0 | Find the feedback loops in your workspace: trace your scripts with writes block… |
-| 2026-10-07 12:46:01 | [Anniep.jsp-tab4-formatter](https://marketplace.visualstudio.com/items?itemName=Anniep.jsp-tab4-formatter) | JSP TAB4 Formatter | 0.0.1 | JSP/HTML formatter using TAB indentation |
-| 2026-10-07 12:46:36 | [AhsanulHoque.solution-architecture-diagram](https://marketplace.visualstudio.com/items?itemName=AhsanulHoque.solution-architecture-diagram) | ArchLens - Solution Architecture Diagra… | 0.2.4 | Generate and visualize your solution architecture from your code: components, h… |
-| 2026-10-07 12:46:41 | [gitext.gitext](https://marketplace.visualstudio.com/items?itemName=gitext.gitext) | GitExt | 1.0.1 | Git Extensions inside VS Code: revision graph, commit details, changed files an… |
-| 2026-10-07 12:58:22 | [ketrik.ketrik-firestore-studio](https://marketplace.visualstudio.com/items?itemName=ketrik.ketrik-firestore-studio) | Ketrik Firestore Studio | 1.1.0 | Ketrik Firestore Database Explorer & Editor for Visual Studio Code |
-| 2026-10-07 13:03:47 | [OwenRumney.tilt-viewer](https://marketplace.visualstudio.com/items?itemName=OwenRumney.tilt-viewer) | Tilt Viewer | 0.1.1 | View Tilt resources, stream their logs, and trigger updates from VS Code |
-| 2026-10-07 13:07:50 | [mach-works.ai-agents-orchestra](https://marketplace.visualstudio.com/items?itemName=mach-works.ai-agents-orchestra) | AI Agents Orchestra | 0.1.0 | A VSCode extension where Claude Code and Codex work together as a team in one c… |
-| 2026-10-07 13:11:29 | [FabLrc.pr-radar](https://marketplace.visualstudio.com/items?itemName=FabLrc.pr-radar) | PR Radar | 1.0.0 | Signale les fichiers modifiés par des pull requests ouvertes pour anticiper les… |
-| 2026-10-07 13:14:35 | [marearts.marearts-themes](https://marketplace.visualstudio.com/items?itemName=marearts.marearts-themes) | MareArts Themes | 0.1.0 | Colour themes built from the MareArts brand palettes — dark and light for each. |
+| 2026-10-07 13:29:03 | [amatsuka.maimai-chart-preview](https://marketplace.visualstudio.com/items?itemName=amatsuka.maimai-chart-preview) | maimai Chart Preview | 0.1.0 | Play and preview maimai DX Simai and MA2 charts in Visual Studio Code |
+| 2026-10-07 13:53:04 | [MegDev.agent-mux](https://marketplace.visualstudio.com/items?itemName=MegDev.agent-mux) | Agent Mux | 0.1.1 | Save and switch Codex accounts in your normal VS Code window while preserving s… |
+| 2026-10-07 13:56:06 | [datastep-labs.datastep-studio](https://marketplace.visualstudio.com/items?itemName=datastep-labs.datastep-studio) | DataStep Studio | 0.1.0 | A development environment for SAS® programmers in VS Code: run with one key, a… |
+| 2026-10-07 13:58:30 | [scistack.scistack-gui](https://marketplace.visualstudio.com/items?itemName=scistack.scistack-gui) | SciStack Pipeline GUI | 0.1.30 | Visual pipeline builder for SciStack scientific data processing |
+| 2026-10-07 14:01:27 | [skrelectronicslab.flutter-device-manager](https://marketplace.visualstudio.com/items?itemName=skrelectronicslab.flutter-device-manager) | Flutter Device Manager | 1.0.0 | All-in-one Flutter & Android developer companion by SKR Electronics Lab: Wirele… |
 
 ## Data source
 
