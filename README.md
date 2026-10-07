@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 02:20 UTC
+## Latest list — 2026-10-07 03:19 UTC
 
-New extensions published between 2026-10-07 00:20 UTC and 2026-10-07 02:20 UTC.
+New extensions published between 2026-10-07 01:19 UTC and 2026-10-07 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T02-20-06-582591Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T03-19-48-785217Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 01:27:11 | [kadiace.unity-compile-on-save](https://marketplace.visualstudio.com/items?itemName=kadiace.unity-compile-on-save) | Unity Compile on Save | 0.0.6 | Recompile Unity scripts after VS Code saves or Git changes. Wait for the Editor… |
-| 2026-10-07 01:35:48 | [pks424.atom-power-mode](https://marketplace.visualstudio.com/items?itemName=pks424.atom-power-mode) | Atom Power Mode (Canvas) | 1.1.0 | Atom activate-power-mode for VS Code: real canvas particles in your syntax colo… |
-| 2026-10-07 01:44:28 | [bone-ni.vscode-language-pack-lo](https://marketplace.visualstudio.com/items?itemName=bone-ni.vscode-language-pack-lo) | ຊຸດພາສາລາວ ສຳລັບ Visual Studio Code | 1.131.0 | ສ່ວນຂະຫຍາຍຊຸດພາສາ ສຳລັບພາສາລາວ |
-| 2026-10-07 02:01:41 | [sh-u-x-in.ros2-dev-extension](https://marketplace.visualstudio.com/items?itemName=sh-u-x-in.ros2-dev-extension) | RDE for ROS 2 | 0.0.1 | A Visual Studio Code extension for Robot Operating System (ROS) 2 development. |
-| 2026-10-07 02:06:40 | [Slacklab.darkberry-theme](https://marketplace.visualstudio.com/items?itemName=Slacklab.darkberry-theme) | Darkberry | 0.3.0 | Darkberry: a four-flavour bog-witch berry theme. |
-| 2026-10-07 02:13:06 | [Slacklab.darkberry-with-tints-theme](https://marketplace.visualstudio.com/items?itemName=Slacklab.darkberry-with-tints-theme) | Darkberry with tints | 0.3.0 | Darkberry: a four-flavour bog-witch berry theme. This edition also carries the… |
-| 2026-10-07 02:14:42 | [wespner.wespner-game-panel](https://marketplace.visualstudio.com/items?itemName=wespner.wespner-game-panel) | Wespner Game Panel | 0.5.0 | Sign in with your Wespner Game Panel account, drive your game servers' consoles… |
+| 2026-10-07 02:19:34 | [qingleiwang.cursor4vscode](https://marketplace.visualstudio.com/items?itemName=qingleiwang.cursor4vscode) | cursor4vscode (Unofficial Cursor Agent… | 0.2.0 | Unofficial chat panel that runs a Cursor agent in the open folder. Not affiliat… |
+| 2026-10-07 02:54:56 | [ducttapeworks.polyscope](https://marketplace.visualstudio.com/items?itemName=ducttapeworks.polyscope) | Polyscope | 0.2.0 | Read files and logs from local folders, S3 buckets, Kubernetes pods and contain… |
+| 2026-10-07 02:57:07 | [nero1dev.hollow](https://marketplace.visualstudio.com/items?itemName=nero1dev.hollow) | hollow tui | 1.0.1 | A dark TUI-style theme: framed windows with labels, gaps between panels, red bo… |
+| 2026-10-07 02:58:15 | [NateKramber.sync-worktrees](https://marketplace.visualstudio.com/items?itemName=NateKramber.sync-worktrees) | Sync Worktrees | 0.1.3 | Make registered Git worktrees appear in VS Code Source Control. |
+| 2026-10-07 03:10:02 | [KITian.dev-companion](https://marketplace.visualstudio.com/items?itemName=KITian.dev-companion) | Dev Companion AI | 0.0.1 | Diagnoses failed terminal commands with AI, lists API endpoints with OpenAPI ex… |
 
 ## Data source
 

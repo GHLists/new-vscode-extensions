@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T02:19:34.7Z,qingleiwang.cursor4vscode,qingleiwang,cursor4vscode (Unofficial Cursor Agent Panel),0.2.0,Unofficial chat panel that runs a Cursor agent in the open folder. Not affiliated with Cursor or Anysphere. The Cursor SDK is downloaded from npm on first use.
+2026-10-07T02:54:56.08Z,ducttapeworks.polyscope,ducttapeworks,Polyscope,0.2.0,"Read files and logs from local folders, S3 buckets, Kubernetes pods and container logs in one sidebar. Follow logs live, open multi-gigabyte files, and colour tabs by environment. Read-only."
+2026-10-07T02:57:07.923Z,nero1dev.hollow,nero1dev,hollow tui,1.0.1,"A dark TUI-style theme: framed windows with labels, gaps between panels, red border on hover and focus-follows-mouse."
+2026-10-07T02:58:15.813Z,NateKramber.sync-worktrees,NateKramber,Sync Worktrees,0.1.3,Make registered Git worktrees appear in VS Code Source Control.
+2026-10-07T03:10:02.317Z,KITian.dev-companion,KITian,Dev Companion AI,0.0.1,"Diagnoses failed terminal commands with AI, lists API endpoints with OpenAPI export, and draws architecture diagrams of the workspace."
