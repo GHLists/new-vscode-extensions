@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 00:21 UTC
+## Latest list — 2026-10-07 01:19 UTC
 
-New extensions published between 2026-10-06 22:21 UTC and 2026-10-07 00:21 UTC.
+New extensions published between 2026-10-06 23:19 UTC and 2026-10-07 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T00-21-06-332226Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T01-19-37-205585Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-06 23:41:34 | [Oak.oak-vcs](https://marketplace.visualstudio.com/items?itemName=Oak.oak-vcs) | Oak Version Control | 0.1.0 | Oak version control for VS Code: source control view, quick diff, history, bran… |
-| 2026-10-06 23:42:21 | [shouzhuan.shouzhuan-kuikly-kit](https://marketplace.visualstudio.com/items?itemName=shouzhuan.shouzhuan-kuikly-kit) | ShouZhuan Kuikly Kit | 0.1.0 | 守赚 UI 公开 API 片段：Maven / OHPM 坐标、组件 snippet、官网与 Gallery 演示入口。不捆绑实现源码。 |
-| 2026-10-06 23:42:38 | [DocumentationFirst.config-key-viewer](https://marketplace.visualstudio.com/items?itemName=DocumentationFirst.config-key-viewer) | JSON YAML XML Key Viewer | 1.0.0 | Displays the full dot-notation path of any configuration key in JSON, YAML and… |
-| 2026-10-06 23:58:37 | [enthonyaraujo.agent-cli-terminal](https://marketplace.visualstudio.com/items?itemName=enthonyaraujo.agent-cli-terminal) | Agent CLI Terminal | 1.0.0 | Dedicated sidebar terminal for AI CLI agents (Claude, Codex, Gemini, etc.) runn… |
-| 2026-10-07 00:07:44 | [michael-reques.phone-preview-frame](https://marketplace.visualstudio.com/items?itemName=michael-reques.phone-preview-frame) | Phone Preview Frame | 0.0.1 | Preview your local web project inside a realistic iPhone 15, iPhone 15 Pro Max… |
+| 2026-10-07 00:25:36 | [ArtePrime.specforge-angular-tests](https://marketplace.visualstudio.com/items?itemName=ArtePrime.specforge-angular-tests) | SpecForge Angular Test Generator | 0.0.3 | Analisa projetos Angular, gera testes de Component e Service e prova que execut… |
+| 2026-10-07 00:47:56 | [hypergraph-Inc.hypergraph-vscode-extension](https://marketplace.visualstudio.com/items?itemName=hypergraph-Inc.hypergraph-vscode-extension) | Hypergraph Extension | 2.0.0 | View the Hypergraph inside VS Code |
 
 ## Data source
 
