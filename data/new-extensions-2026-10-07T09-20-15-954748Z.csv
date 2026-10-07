@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T08:22:58.603Z,optersoft.oxid,optersoft,Oxid,0.2.0,"Templates, checks and completion for oxid — reactive Python UI in the browser."
+2026-10-07T08:29:34.53Z,TMTC.ks-abap-workbench,TMTC,KS ABAP Workbench,0.5.9,"Develop ABAP locally with SAP ADT, browse repository objects, sync changes with SAP, and run SonarQube quality checks."
+2026-10-07T08:37:28.12Z,kryptonlab.kryptonlab-dark,kryptonlab,KryptonLab Dark,1.0.3,"The official KryptonLab dark theme — a dense, disciplined, transparent indigo/violet workbench for Visual Studio Code."
+2026-10-07T08:48:01.157Z,CrimzonTerror.ghost-type,CrimzonTerror,Ghost-Type,0.1.0,Ghost-Type VSCode Theme
+2026-10-07T09:01:39.693Z,eunomiac.tts-tools,eunomiac,TTS Tools (Community Fork),3.0.1,"Community fork of Sebastian Stern’s TTS Editor — External Editor API for Tabletop Simulator (scripts, XmlUI bundling, objects). Not affiliated with Berserk Games."
+2026-10-07T09:04:09.007Z,Cloudscaff.window-pin-mac,Cloudscaff,Window Pin,0.4.0,View a live Mac app window in a VS Code panel while you code.
