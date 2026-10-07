@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T20:17:40.42Z,FabienONNIS.ctx-reductor-vscode,FabienONNIS,Ctx Reductor,0.0.1,Smart context packing for LLMs
+2026-10-07T20:20:21.77Z,nitishVishwakarma.tossive,nitishVishwakarma,Tossive,0.1.1,Tossive code assistant for Visual Studio Code.
+2026-10-07T20:23:38.02Z,pawls.cairn-comments-vscode,pawls,Cairn Comments: Hide AI Comments,0.1.0,"Stash the slop, keep the context. Keeps AI-written comments out of your committed code without losing them: agents still read them inline, and you see them as a toggleable overlay."
+2026-10-07T20:24:27.033Z,luishw.jira-timer-vscode,luishw,Jira Timer,0.9.1,"Timer de horas para o Jira dentro do VS Code: barra de status, painel na sidebar e lançamento automático de worklogs."
+2026-10-07T20:41:29.24Z,OwenRumney.tilt-tools,OwenRumney,Tilt Tools,0.2.1,"Tiltfile language support, resource tree, logs and tilt up/down from VS Code"
+2026-10-07T20:56:43.04Z,assistoone.assisto-one,assistoone,Assisto One,1.0.0,"Kodlama süreni Assisto One projelerine kendiliğinden yazar, görevlerini editörden yönetirsin. Kod ve dosya adları asla gönderilmez."
+2026-10-07T21:06:14.673Z,colrealpro.react-luau-doctor,colrealpro,React-Luau Doctor,0.20.0,Live and deep diagnostics for React-Luau projects
+2026-10-07T21:09:54.703Z,DennyRodriguez.ragdown,DennyRodriguez,RAGdown,0.0.1,Adds an inline CodeLens button to automatically refactor and optimize Markdown files for RAG and AI parsing.
