@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T16:55:54.903Z,Storehouseconsciousness.git-baseline-marker,Storehouseconsciousness,Git Baseline,0.3.4,Pin a Git baseline and see all accumulated changes in VS Code.
+2026-10-07T17:17:06.813Z,JSny.skm-rpt-dashboard,JSny,SKM RPT Dashboard,0.1.0,"Opens SKM Power*Tools short-circuit and load flow / voltage drop .RPT reports as engineering dashboards and exports formatted Excel workbooks. Parsers, validators and exporters are implemented in C# (.NET 8)."
+2026-10-07T17:19:12.933Z,kod8-platform.kod8,kod8-platform,KOD8 — Apprendre et pratiquer,0.1.0,Tester vos programmes Python et envoyer vos exercices à KOD8 depuis VS Code.
+2026-10-07T17:28:53.12Z,moon-biz-tools.muscle-premium-tooling,moon-biz-tools,Muscle Premium IDE Tools,2.0.0,"Diagnostics, code generators and indexes for Salesforce metadata files"
+2026-10-07T17:32:06.803Z,thecraftbuildx.local-api-workbench,thecraftbuildx,Local API Workbench — REST & GraphQL Client,1.0.0,"Thunder Client alternative for VS Code with a one-time purchase. No login, no cloud. Import your Thunder Client, Postman and Insomnia collections in one click. REST, GraphQL, WebSocket, gRPC. Saved work is always yours."
+2026-10-07T17:42:13.697Z,PlikaiDev.plikai,PlikaiDev,Plikai,1.0.21,Autonomous coding agent in your editor.
+2026-10-07T17:48:45.07Z,slonotik.work-quality-os,slonotik,Work Quality OS,0.7.0,"Workday quality analyzer for TimeCamp users on macOS: active time, focus sessions, breaks and daily norm."
+2026-10-07T17:49:40.783Z,Florian-Noever.xliff-auto-sync,Florian-Noever,XLIFF Auto Sync,1.0.0,Automatically sync XLIFF translations after every Git commit and commit them for you.
+2026-10-07T17:53:21.553Z,CodeBurn.codeburn,CodeBurn,CodeBurn,1.0.0,"See where your AI coding spend goes, by project, model, session and pull request, without leaving the editor. Local only."
+2026-10-07T18:09:54.107Z,Florian-Noever.branch-compare-decorations,Florian-Noever,Branch Compare Decorations,1.0.1,Choose which branch Git file decorations in the Explorer compare against.
