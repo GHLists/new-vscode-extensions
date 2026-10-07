@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 03:19 UTC
+## Latest list — 2026-10-07 04:19 UTC
 
-New extensions published between 2026-10-07 01:19 UTC and 2026-10-07 03:19 UTC.
+New extensions published between 2026-10-07 02:19 UTC and 2026-10-07 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T03-19-48-785217Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T04-19-33-178829Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 02:19:34 | [qingleiwang.cursor4vscode](https://marketplace.visualstudio.com/items?itemName=qingleiwang.cursor4vscode) | cursor4vscode (Unofficial Cursor Agent… | 0.2.0 | Unofficial chat panel that runs a Cursor agent in the open folder. Not affiliat… |
-| 2026-10-07 02:54:56 | [ducttapeworks.polyscope](https://marketplace.visualstudio.com/items?itemName=ducttapeworks.polyscope) | Polyscope | 0.2.0 | Read files and logs from local folders, S3 buckets, Kubernetes pods and contain… |
-| 2026-10-07 02:57:07 | [nero1dev.hollow](https://marketplace.visualstudio.com/items?itemName=nero1dev.hollow) | hollow tui | 1.0.1 | A dark TUI-style theme: framed windows with labels, gaps between panels, red bo… |
-| 2026-10-07 02:58:15 | [NateKramber.sync-worktrees](https://marketplace.visualstudio.com/items?itemName=NateKramber.sync-worktrees) | Sync Worktrees | 0.1.3 | Make registered Git worktrees appear in VS Code Source Control. |
-| 2026-10-07 03:10:02 | [KITian.dev-companion](https://marketplace.visualstudio.com/items?itemName=KITian.dev-companion) | Dev Companion AI | 0.0.1 | Diagnoses failed terminal commands with AI, lists API endpoints with OpenAPI ex… |
+| 2026-10-07 03:16:22 | [jaytankdev.composevars](https://marketplace.visualstudio.com/items?itemName=jaytankdev.composevars) | ComposeVars: Docker Compose Variable Ch… | 0.1.0 | Catch unset ${VAR} interpolation in docker-compose.yml / compose.yaml before `d… |
+| 2026-10-07 03:19:02 | [jaytankdev.deployrace](https://marketplace.visualstudio.com/items?itemName=jaytankdev.deployrace) | DeployRace: GitHub Actions Deploy Concu… | 0.1.0 | Finds deploy workflows that can run at the same time: GitHub Actions deploy job… |
+| 2026-10-07 03:31:50 | [whizi.modelname](https://marketplace.visualstudio.com/items?itemName=whizi.modelname) | Model Name Hover | 0.1.0 | Hover any AI model ID (claude-sonnet-4-5, gpt-4o-mini, gemini-2.5-flash) to see… |
+| 2026-10-07 03:51:06 | [ReadyStack.cra-reporting-clock-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cra-reporting-clock-lint) | CRA Reporting Clock Lint (EU 2024/2847) | 1.0.10 | Checks SECURITY.md against the EU Cyber Resilience Act clocks that went live 11… |
+| 2026-10-07 03:51:24 | [ReadyStack.crypto-export-notice-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.crypto-export-notice-lint) | Crypto Export Notice Lint (EAR 742.15) | 1.0.8 | Checks a README or EXPORT notice against the US EAR 742.15(b) publication items… |
+| 2026-10-07 03:51:47 | [ReadyStack.data-act-switching-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.data-act-switching-lint) | EU Data Act Switching Clause Lint | 1.0.11 | Lint cloud/SaaS contract text for EU Data Act Chapter VI switching clauses: not… |
+| 2026-10-07 03:52:01 | [ReadyStack.declaracion-accesibilidad-lint-es](https://marketplace.visualstudio.com/items?itemName=ReadyStack.declaracion-accesibilidad-lint-es) | Declaración de Accesibilidad Lint (RD 1… | 1.0.6 | Revisa la declaración de accesibilidad de una web pública española contra el ar… |
 
 ## Data source
 
