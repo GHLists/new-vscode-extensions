@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 04:19 UTC
+## Latest list — 2026-10-07 05:20 UTC
 
-New extensions published between 2026-10-07 02:19 UTC and 2026-10-07 04:19 UTC.
+New extensions published between 2026-10-07 03:20 UTC and 2026-10-07 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T04-19-33-178829Z.csv)
+[Full CSV](data/new-extensions-2026-10-07T05-20-23-722806Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 03:16:22 | [jaytankdev.composevars](https://marketplace.visualstudio.com/items?itemName=jaytankdev.composevars) | ComposeVars: Docker Compose Variable Ch… | 0.1.0 | Catch unset ${VAR} interpolation in docker-compose.yml / compose.yaml before `d… |
-| 2026-10-07 03:19:02 | [jaytankdev.deployrace](https://marketplace.visualstudio.com/items?itemName=jaytankdev.deployrace) | DeployRace: GitHub Actions Deploy Concu… | 0.1.0 | Finds deploy workflows that can run at the same time: GitHub Actions deploy job… |
-| 2026-10-07 03:31:50 | [whizi.modelname](https://marketplace.visualstudio.com/items?itemName=whizi.modelname) | Model Name Hover | 0.1.0 | Hover any AI model ID (claude-sonnet-4-5, gpt-4o-mini, gemini-2.5-flash) to see… |
-| 2026-10-07 03:51:06 | [ReadyStack.cra-reporting-clock-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cra-reporting-clock-lint) | CRA Reporting Clock Lint (EU 2024/2847) | 1.0.10 | Checks SECURITY.md against the EU Cyber Resilience Act clocks that went live 11… |
-| 2026-10-07 03:51:24 | [ReadyStack.crypto-export-notice-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.crypto-export-notice-lint) | Crypto Export Notice Lint (EAR 742.15) | 1.0.8 | Checks a README or EXPORT notice against the US EAR 742.15(b) publication items… |
-| 2026-10-07 03:51:47 | [ReadyStack.data-act-switching-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.data-act-switching-lint) | EU Data Act Switching Clause Lint | 1.0.11 | Lint cloud/SaaS contract text for EU Data Act Chapter VI switching clauses: not… |
-| 2026-10-07 03:52:01 | [ReadyStack.declaracion-accesibilidad-lint-es](https://marketplace.visualstudio.com/items?itemName=ReadyStack.declaracion-accesibilidad-lint-es) | Declaración de Accesibilidad Lint (RD 1… | 1.0.6 | Revisa la declaración de accesibilidad de una web pública española contra el ar… |
+| 2026-10-07 04:17:07 | [hungtienhuang.t3-vscode](https://marketplace.visualstudio.com/items?itemName=hungtienhuang.t3-vscode) | T3 VSCode | 0.1.12 | Alpha client for local T3 Code servers: workspace sessions, editor chat, rich m… |
+| 2026-10-07 04:18:42 | [drbh.xmd](https://marketplace.visualstudio.com/items?itemName=drbh.xmd) | XMD | 0.2.1 | Calculated notes, checklists, and timers powered by the XMD language server. |
+| 2026-10-07 04:32:53 | [LomaDeveloper.antigravity-ai-quota-monitor](https://marketplace.visualstudio.com/items?itemName=LomaDeveloper.antigravity-ai-quota-monitor) | Antigravity AI Quota Monitor | 1.0.0 | Real-time AI Model Quota & Rate Limit Monitor for Antigravity IDE & VS Code (Ge… |
+| 2026-10-07 04:39:11 | [htkym.lithosharp](https://marketplace.visualstudio.com/items?itemName=htkym.lithosharp) | LithoSharp | 0.1.0 | Markdown/MDX project detection and trusted CLI control for LithoSharp sites. |
+| 2026-10-07 04:46:09 | [cr1124.font-profiles](https://marketplace.visualstudio.com/items?itemName=cr1124.font-profiles) | Font Profiles | 0.1.0 | Quickly switch font profiles in Visual Studio Code. |
+| 2026-10-07 04:51:56 | [kasunkodagoda.rich-markdown-preview](https://marketplace.visualstudio.com/items?itemName=kasunkodagoda.rich-markdown-preview) | Rich Markdown Preview - A Styled Markdo… | 1.0.0 | A styled Markdown preview with 18 reading themes, Mermaid diagrams, syntax high… |
+| 2026-10-07 05:13:35 | [jetvs.jet-git](https://marketplace.visualstudio.com/items?itemName=jetvs.jet-git) | JetVS Git | 0.1.8 | JetBrains-style Git log, branches, commit and merge tool window for VS Code |
+| 2026-10-07 05:13:56 | [fadi-hajji1.custom-sublime](https://marketplace.visualstudio.com/items?itemName=fadi-hajji1.custom-sublime) | Custom Sublime Panels | 2.0.0 | Premium glowing syntax theme featuring custom deep charcoal and pitch black wor… |
 
 ## Data source
 
