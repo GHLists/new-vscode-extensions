@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T12:21:32.633Z,KoenRempt.gegevensbeheer,KoenRempt,Gegevensbeheer,0.1.1,"Language support (autocomplete, hover, highlighting) for the Gegevensbeheer language (.ggbh), based on Vectorworks scripting functions."
+2026-10-07T12:32:57.943Z,JeffersonGoncalves.jsg-herd-manager,JeffersonGoncalves,JSG Herd Manager,1.0.0,"Manage Laravel Herd sites from VS Code: herd.yml configuration, link/unlink, HTTPS and open in browser"
+2026-10-07T12:33:09.373Z,JeffersonGoncalves.jsg-hubdev-manager,JeffersonGoncalves,JSG HubDev Manager,1.0.0,"Manage HubDev local development sites from VS Code: link/unlink, start/stop, renew SSL and open in browser"
+2026-10-07T12:38:47.2Z,doomsec.opencode-ai,doomsec,OpenCode AI,0.1.0,"OpenCode projects, session terminals, commit drafts, and inline suggestions in VS Code."
+2026-10-07T12:45:53.41Z,motimotinotch.loopfinder,motimotinotch,loopfinder,0.1.0,"Find the feedback loops in your workspace: trace your scripts with writes blocked, add the human/AI steps, and see every loop, including the ones you never declared."
+2026-10-07T12:46:01.063Z,Anniep.jsp-tab4-formatter,Anniep,JSP TAB4 Formatter,0.0.1,JSP/HTML formatter using TAB indentation
+2026-10-07T12:46:36.597Z,AhsanulHoque.solution-architecture-diagram,AhsanulHoque,ArchLens - Solution Architecture Diagrams,0.2.4,"Generate and visualize your solution architecture from your code: components, how they connect (protocols, async links), and search that opens the code. Powered by GitHub Copilot."
+2026-10-07T12:46:41.913Z,gitext.gitext,gitext,GitExt,1.0.1,"Git Extensions inside VS Code: revision graph, commit details, changed files and safe fetch/pull/push, powered by @gitext/core."
+2026-10-07T12:58:22.87Z,ketrik.ketrik-firestore-studio,ketrik,Ketrik Firestore Studio,1.1.0,Ketrik Firestore Database Explorer & Editor for Visual Studio Code
+2026-10-07T13:03:47.5Z,OwenRumney.tilt-viewer,OwenRumney,Tilt Viewer,0.1.1,"View Tilt resources, stream their logs, and trigger updates from VS Code"
+2026-10-07T13:07:50.237Z,mach-works.ai-agents-orchestra,mach-works,AI Agents Orchestra,0.1.0,A VSCode extension where Claude Code and Codex work together as a team in one chat
+2026-10-07T13:11:29.22Z,FabLrc.pr-radar,FabLrc,PR Radar,1.0.0,Signale les fichiers modifiés par des pull requests ouvertes pour anticiper les conflits.
+2026-10-07T13:14:35.233Z,marearts.marearts-themes,marearts,MareArts Themes,0.1.0,Colour themes built from the MareArts brand palettes — dark and light for each.
