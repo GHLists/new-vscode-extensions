@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T21:26:07.98Z,ZeroWiggliness.vscode-httpyac-zw,ZeroWiggliness,httpYac (ZW edition) - Rest Client,6.18.0,"Quickly and easily send REST, Soap, GraphQL, GRPC, Kafka, MQTT, RabbitMQ and WebSocket requests directly within Visual Studio Code"
+2026-10-07T21:26:46.813Z,TinyLittleUs.cosmopolitan-vscode,TinyLittleUs,Cosmopolitan C/C++,1.0.0,Automatically install Cosmopolitan and configure C/C++ workspaces to build with cosmocc.
+2026-10-07T21:34:59.753Z,admlang.adm,admlang,ADM,0.1.0,"ADM language support: diagnostics, navigation, completion, formatting and tests, through the adm language server."
+2026-10-07T21:54:49.55Z,gerecj.anjuna-theme,gerecj,Anjuna Theme,0.1.0,A darker take on VS Code's Dark Modern theme
+2026-10-07T22:06:53.773Z,workday.workday-toolkit,workday,Workday Toolkit,1.0.0,VS Code extension for developing Workday Build applications
+2026-10-07T22:12:10.873Z,ManagedCode.managedcode-nuget-package-manager,ManagedCode,NuGet Package Manager by ManagedCode,0.1.1,"Review and update NuGet dependencies by package family, version scope, and declaration file."
