@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T05:16:42.943Z,PRODDVTM279Test.M280W3,PRODDVTM279Test,ThunderTestM280W3,3.9.1,Lightweight Rest API Client for VS Code
+2026-10-08T05:33:23.387Z,PRODDVTM279Test.VirusScanFailureTestM280W3,PRODDVTM279Test,TestM280W3,0.0.9,A simple extension to display Hello World on startup
+2026-10-08T05:40:09.677Z,Sabricakmakci.devpilot-jira-bitbucket,Sabricakmakci,DevPilot for Jira & Bitbucket,0.5.7,"Checks that commit messages reference your Jira tasks, and notifies you about new comments on your Bitbucket pull requests so you can reply without leaving VS Code."
+2026-10-08T05:43:17.693Z,sunnynarzary.ai-usage-sidebar,sunnynarzary,AI Usage Sidebar,0.1.0,"Claude, Codex and Cursor account usage in the sidebar."
+2026-10-08T05:47:13.347Z,kych-net.uhvs,kych-net,地狱之下 · 元素工具,1.0.0,"为 UnderHell / UHTemp 的 Typst 正文提供元素系统支持:悬停/跳转/诊断/高亮,及补全/清理/排序/改名。"
+2026-10-08T05:50:35.957Z,itda.django-wireview,itda,Django Wireview,0.1.0,"Django template language support and django-wireview component intelligence: syntax, completion, navigation and diagnostics for templates."

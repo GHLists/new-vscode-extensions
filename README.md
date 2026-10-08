@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 05:19 UTC
+## Latest list — 2026-10-08 06:20 UTC
 
-New extensions published between 2026-10-08 03:19 UTC and 2026-10-08 05:19 UTC.
+New extensions published between 2026-10-08 04:20 UTC and 2026-10-08 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T05-19-34-981035Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T06-20-54-130443Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 04:27:47 | [opencode-v2-maker.opencode-v2-vscode](https://marketplace.visualstudio.com/items?itemName=opencode-v2-maker.opencode-v2-vscode) | Opencode V2 | 0.1.0 | opencode for VS Code, adapted for OpenCode V2 (shared background service, no pe… |
-| 2026-10-08 04:35:25 | [techentangle.zerodq-vscode](https://marketplace.visualstudio.com/items?itemName=techentangle.zerodq-vscode) | 0dq | 0.2.1 | Credentials and quantum-vulnerable cryptography, underlined as you type. |
-| 2026-10-08 04:42:36 | [ddb-nz-omc.dotdotdash-tools](https://marketplace.visualstudio.com/items?itemName=ddb-nz-omc.dotdotdash-tools) | DotDotDash Tools | 0.0.1 | Install and update approved private DotDotDash extensions from GitHub Releases. |
-| 2026-10-08 04:51:17 | [IBM.cics-ia-smart-ai-assistant](https://marketplace.visualstudio.com/items?itemName=IBM.cics-ia-smart-ai-assistant) | CICS IA Smart AI Assistant | 6.3.0 | Extension to the IBM CICS Interdependency Analyzer Smart AI Assistant |
-| 2026-10-08 04:52:05 | [dnj-meiko.i18n-inline-viewer](https://marketplace.visualstudio.com/items?itemName=dnj-meiko.i18n-inline-viewer) | i18n Inline Viewer | 0.2.16 | 代码中行内显示 i18next 译文 |
-| 2026-10-08 04:57:32 | [unblck.ship-your-site](https://marketplace.visualstudio.com/items?itemName=unblck.ship-your-site) | Ship your site: domain, Netlify, DNS, H… | 1.0.0 | Free step-by-step walkthrough and agent skill to take a local site live on your… |
+| 2026-10-08 05:16:42 | [PRODDVTM279Test.M280W3](https://marketplace.visualstudio.com/items?itemName=PRODDVTM279Test.M280W3) | ThunderTestM280W3 | 3.9.1 | Lightweight Rest API Client for VS Code |
+| 2026-10-08 05:33:23 | [PRODDVTM279Test.VirusScanFailureTestM280W3](https://marketplace.visualstudio.com/items?itemName=PRODDVTM279Test.VirusScanFailureTestM280W3) | TestM280W3 | 0.0.9 | A simple extension to display Hello World on startup |
+| 2026-10-08 05:40:09 | [Sabricakmakci.devpilot-jira-bitbucket](https://marketplace.visualstudio.com/items?itemName=Sabricakmakci.devpilot-jira-bitbucket) | DevPilot for Jira & Bitbucket | 0.5.7 | Checks that commit messages reference your Jira tasks, and notifies you about n… |
+| 2026-10-08 05:43:17 | [sunnynarzary.ai-usage-sidebar](https://marketplace.visualstudio.com/items?itemName=sunnynarzary.ai-usage-sidebar) | AI Usage Sidebar | 0.1.0 | Claude, Codex and Cursor account usage in the sidebar. |
+| 2026-10-08 05:47:13 | [kych-net.uhvs](https://marketplace.visualstudio.com/items?itemName=kych-net.uhvs) | 地狱之下 · 元素工具 | 1.0.0 | 为 UnderHell / UHTemp 的 Typst 正文提供元素系统支持:悬停/跳转/诊断/高亮,及补全/清理/排序/改名。 |
+| 2026-10-08 05:50:35 | [itda.django-wireview](https://marketplace.visualstudio.com/items?itemName=itda.django-wireview) | Django Wireview | 0.1.0 | Django template language support and django-wireview component intelligence: sy… |
 
 ## Data source
 
