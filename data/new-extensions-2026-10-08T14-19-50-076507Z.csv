@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T13:20:24.14Z,low-poly-ai-workspace.low-poly-ai-workspace,low-poly-ai-workspace,Low Poly AI Workspace,0.1.9,Open the local AI Workspace visualization inside VS Code.
+2026-10-08T13:21:25.353Z,vibecode.vibecode-vscode,vibecode,VibeCode AI Agent,0.1.40,"A coding agent that reads and writes files, runs commands, searches the web, and asks before doing anything risky."
+2026-10-08T13:23:28.56Z,ColinHouse.sprig-language,ColinHouse,Sprig,0.3.0,"Sprig language support through the Sprig language server: diagnostics as you type, hover, completion, navigation, references, rename, formatting, tests, Run and generated Java."
+2026-10-08T13:27:48.733Z,apoint.ms-sql-mcp,apoint,APoint-ms-sql,1.1.0,"SQL Server MCP server for VS Code, Cursor and Claude - multi-connection, object explorer with DDL, read-only profiles, AI schema insights."
+2026-10-08T13:31:06.44Z,Farrago-studio.gitlab-project-pipelines,Farrago-studio,Farrago GitLab Pipelines,0.2.1,"Monitor every GitLab pipeline in the current project, filter branches and tags, inspect job logs, and run manual jobs from VS Code."
+2026-10-08T13:32:14.447Z,playree.markdown-sequence-side-notes,playree,Markdown Sequence Side Notes,0.1.0,"Preview design-document Markdown with mermaid sequence diagrams side by side with their step descriptions, linked arrow-to-heading."
+2026-10-08T13:36:21.34Z,Grain-ts.grain-vscode,Grain-ts,Grain.ts,0.2.0,"Grain.ts language support: syntax highlighting, diagnostics, go-to-definition, hover, completion and component prop hints"
+2026-10-08T13:59:39.877Z,usetrim.trim-ide,usetrim,Trim IDE,1.0.0,Starts the local Trim Fast Mode proxy with your IDE and posts tab acceptance / AI LOC metrics to Trim cloud.
+2026-10-08T14:10:55.773Z,bsesic.vscode-color-palette-creator,bsesic,VSCode Color Palette Creator,1.0.0,"Color picker, palette generator with color harmonies, image color extraction, gradients, contrast checker, color blindness simulator, inline color boxes and live editing of the colors in your code."
+2026-10-08T14:11:49.277Z,drt-hub.vscode-drt,drt-hub,drt — Reverse ETL,0.1.13,"YAML validation, autocomplete, and hover docs for drt sync files."
+2026-10-08T14:13:38.427Z,TronForgeX.clidevoff-agent,TronForgeX,Clidevoff — AI Coding Agent,1.0.1,A portable cloud coding agent for VS Code-compatible editors

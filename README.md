@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 13:19 UTC
+## Latest list — 2026-10-08 14:19 UTC
 
-New extensions published between 2026-10-08 11:19 UTC and 2026-10-08 13:19 UTC.
+New extensions published between 2026-10-08 12:19 UTC and 2026-10-08 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T13-19-54-362325Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T14-19-50-076507Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 12:25:29 | [kyber.kyber-companion](https://marketplace.visualstudio.com/items?itemName=kyber.kyber-companion) | Kyber Companion | 0.4.5 | A deterministic Kyber guide with a documentation-grounded AI companion. |
-| 2026-10-08 12:49:24 | [niklehmann.pdf-ink](https://marketplace.visualstudio.com/items?itemName=niklehmann.pdf-ink) | PDF Ink | 0.2.1 | A Visual Studio Code PDF edit extension intended to work with touch pen displays |
-| 2026-10-08 13:05:14 | [AravindMerugu.vscode-custom-llm-router](https://marketplace.visualstudio.com/items?itemName=AravindMerugu.vscode-custom-llm-router) | Custom LLM Router | 1.0.0 | Use Ollama, LM Studio, vLLM, OpenRouter, DeepSeek, Groq, Gemini and any OpenAI-… |
-| 2026-10-08 13:10:16 | [Lawaty.lalog](https://marketplace.visualstudio.com/items?itemName=Lawaty.lalog) | LaLog | 0.7.3 | Local-first work session tracker with automatic event capture, human session de… |
-| 2026-10-08 13:12:16 | [AdilElKanabi.devcontainer-composer](https://marketplace.visualstudio.com/items?itemName=AdilElKanabi.devcontainer-composer) | DevContainer Composer | 0.1.0 | Pick packages in a webview and generate a ready-to-use .devcontainer with persi… |
-| 2026-10-08 13:12:22 | [NithinMM.pingme](https://marketplace.visualstudio.com/items?itemName=NithinMM.pingme) | PingMe | 0.0.1 | User reminders for VS Code |
-| 2026-10-08 13:14:52 | [hussnain-143.api-routes-explorer](https://marketplace.visualstudio.com/items?itemName=hussnain-143.api-routes-explorer) | API Routes Explorer | 1.5.1 | Discover, analyze, search, and navigate API routes directly inside VS Code. |
+| 2026-10-08 13:20:24 | [low-poly-ai-workspace.low-poly-ai-workspace](https://marketplace.visualstudio.com/items?itemName=low-poly-ai-workspace.low-poly-ai-workspace) | Low Poly AI Workspace | 0.1.9 | Open the local AI Workspace visualization inside VS Code. |
+| 2026-10-08 13:21:25 | [vibecode.vibecode-vscode](https://marketplace.visualstudio.com/items?itemName=vibecode.vibecode-vscode) | VibeCode AI Agent | 0.1.40 | A coding agent that reads and writes files, runs commands, searches the web, an… |
+| 2026-10-08 13:23:28 | [ColinHouse.sprig-language](https://marketplace.visualstudio.com/items?itemName=ColinHouse.sprig-language) | Sprig | 0.3.0 | Sprig language support through the Sprig language server: diagnostics as you ty… |
+| 2026-10-08 13:27:48 | [apoint.ms-sql-mcp](https://marketplace.visualstudio.com/items?itemName=apoint.ms-sql-mcp) | APoint-ms-sql | 1.1.0 | SQL Server MCP server for VS Code, Cursor and Claude - multi-connection, object… |
+| 2026-10-08 13:31:06 | [Farrago-studio.gitlab-project-pipelines](https://marketplace.visualstudio.com/items?itemName=Farrago-studio.gitlab-project-pipelines) | Farrago GitLab Pipelines | 0.2.1 | Monitor every GitLab pipeline in the current project, filter branches and tags,… |
+| 2026-10-08 13:32:14 | [playree.markdown-sequence-side-notes](https://marketplace.visualstudio.com/items?itemName=playree.markdown-sequence-side-notes) | Markdown Sequence Side Notes | 0.1.0 | Preview design-document Markdown with mermaid sequence diagrams side by side wi… |
+| 2026-10-08 13:36:21 | [Grain-ts.grain-vscode](https://marketplace.visualstudio.com/items?itemName=Grain-ts.grain-vscode) | Grain.ts | 0.2.0 | Grain.ts language support: syntax highlighting, diagnostics, go-to-definition,… |
+| 2026-10-08 13:59:39 | [usetrim.trim-ide](https://marketplace.visualstudio.com/items?itemName=usetrim.trim-ide) | Trim IDE | 1.0.0 | Starts the local Trim Fast Mode proxy with your IDE and posts tab acceptance /… |
+| 2026-10-08 14:10:55 | [bsesic.vscode-color-palette-creator](https://marketplace.visualstudio.com/items?itemName=bsesic.vscode-color-palette-creator) | VSCode Color Palette Creator | 1.0.0 | Color picker, palette generator with color harmonies, image color extraction, g… |
+| 2026-10-08 14:11:49 | [drt-hub.vscode-drt](https://marketplace.visualstudio.com/items?itemName=drt-hub.vscode-drt) | drt — Reverse ETL | 0.1.13 | YAML validation, autocomplete, and hover docs for drt sync files. |
+| 2026-10-08 14:13:38 | [TronForgeX.clidevoff-agent](https://marketplace.visualstudio.com/items?itemName=TronForgeX.clidevoff-agent) | Clidevoff — AI Coding Agent | 1.0.1 | A portable cloud coding agent for VS Code-compatible editors |
 
 ## Data source
 
