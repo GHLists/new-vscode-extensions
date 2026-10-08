@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 02:19 UTC
+## Latest list — 2026-10-08 03:20 UTC
 
-New extensions published between 2026-10-08 00:19 UTC and 2026-10-08 02:19 UTC.
+New extensions published between 2026-10-08 01:20 UTC and 2026-10-08 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T02-19-09-901036Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T03-20-53-122601Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 01:52:12 | [matteopolak.jai-toolchain](https://marketplace.visualstudio.com/items?itemName=matteopolak.jai-toolchain) | Jai Toolchain | 0.4.2 | Jai language support: language server, linter, formatter and syntax highlighting |
-| 2026-10-08 02:03:59 | [karson1992.simple-sidebar-terminal](https://marketplace.visualstudio.com/items?itemName=karson1992.simple-sidebar-terminal) | Simple Sidebar Terminal | 0.1.3 | 轻量的侧边栏终端：独立 PowerShell、多 Tab、关闭与重命名。 |
+| 2026-10-08 02:21:31 | [kayabeans.bg3-toolkit](https://marketplace.visualstudio.com/items?itemName=kayabeans.bg3-toolkit) | bg3-toolkit | 0.8.3 |  |
+| 2026-10-08 02:26:48 | [RodionShlomoSolomonyk.panevrix](https://marketplace.visualstudio.com/items?itemName=RodionShlomoSolomonyk.panevrix) | Panevrix — Dual-panel File Workspace | 0.1.0 | Commander-style file management, hex inspection, comparisons and background tas… |
 
 ## Data source
 
