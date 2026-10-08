@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T12:25:29.483Z,kyber.kyber-companion,kyber,Kyber Companion,0.4.5,A deterministic Kyber guide with a documentation-grounded AI companion.
+2026-10-08T12:49:24.23Z,niklehmann.pdf-ink,niklehmann,PDF Ink,0.2.1,A Visual Studio Code PDF edit extension intended to work with touch pen displays
+2026-10-08T13:05:14.527Z,AravindMerugu.vscode-custom-llm-router,AravindMerugu,Custom LLM Router,1.0.0,"Use Ollama, LM Studio, vLLM, OpenRouter, DeepSeek, Groq, Gemini and any OpenAI-compatible endpoint as native models in GitHub Copilot Chat — with health checks, fallback routes, secure API keys and a model manager."
+2026-10-08T13:10:16.307Z,Lawaty.lalog,Lawaty,LaLog,0.7.3,"Local-first work session tracker with automatic event capture, human session descriptions, and optional opencode-powered AI assistance."
+2026-10-08T13:12:16.783Z,AdilElKanabi.devcontainer-composer,AdilElKanabi,DevContainer Composer,0.1.0,"Pick packages in a webview and generate a ready-to-use .devcontainer with persistent volumes for CLI logins, Copilot sessions and shell history."
+2026-10-08T13:12:22.75Z,NithinMM.pingme,NithinMM,PingMe,0.0.1,User reminders for VS Code
+2026-10-08T13:14:52.127Z,hussnain-143.api-routes-explorer,hussnain-143,API Routes Explorer,1.5.1,"Discover, analyze, search, and navigate API routes directly inside VS Code."

@@ -12,24 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 12:21 UTC
+## Latest list — 2026-10-08 13:19 UTC
 
-New extensions published between 2026-10-08 10:21 UTC and 2026-10-08 12:21 UTC.
+New extensions published between 2026-10-08 11:19 UTC and 2026-10-08 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T12-21-12-499091Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T13-19-54-362325Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 11:17:06 | [LeoOrtega.vscodesidebar-notes](https://marketplace.visualstudio.com/items?itemName=LeoOrtega.vscodesidebar-notes) | Sidebar Quick Notes | 0.0.1 | Keep your thoughts organized with persistent notes that sync across projects |
-| 2026-10-08 11:24:54 | [ShailendraSingh.sip-squad-water-reminder](https://marketplace.visualstudio.com/items?itemName=ShailendraSingh.sip-squad-water-reminder) | Sip Squad: Water Reminder | 1.0.0 | A squad of heroes takes turns dropping into your editor and stays until you dri… |
-| 2026-10-08 11:25:03 | [yutotnh.terminal-any-encoding](https://marketplace.visualstudio.com/items?itemName=yutotnh.terminal-any-encoding) | Terminal Any Encoding | 0.1.0 | Use non-UTF-8 character encodings (Windows-1252, ISO-8859-1, Windows-1251, KOI8… |
-| 2026-10-08 11:29:30 | [Jan-HendrikMueller.terminal-color-cycle](https://marketplace.visualstudio.com/items?itemName=Jan-HendrikMueller.terminal-color-cycle) | Terminal Color Cycle | 0.1.0 | Every new terminal gets the next color in a rotation, so terminals are easy to… |
-| 2026-10-08 11:29:34 | [tisp.gitst8](https://marketplace.visualstudio.com/items?itemName=tisp.gitst8) | gitSt8 | 0.1.0 | One view for advanced git workflows: graph history, search, fetch/prune, branch… |
-| 2026-10-08 11:38:03 | [alidendenne.client](https://marketplace.visualstudio.com/items?itemName=alidendenne.client) | Echo Local AI Assistant | 0.0.1 | Local Ai coding assistant |
-| 2026-10-08 11:39:44 | [isaim0011.blastcode-vscode](https://marketplace.visualstudio.com/items?itemName=isaim0011.blastcode-vscode) | BlastCode - Code Graph & MCP Companion | 0.1.1 | Code-graph engine, live workspace caretaker, and blast-radius analysis companio… |
-| 2026-10-08 11:41:57 | [AltrobyteLab.altrobyte-trainer](https://marketplace.visualstudio.com/items?itemName=AltrobyteLab.altrobyte-trainer) | Altrobyte AI Trainer | 0.1.1 | A hands-on lab instructor inside VS Code: it watches your real setup (PlatformI… |
-| 2026-10-08 11:50:22 | [Orbinuity.asmc-support](https://marketplace.visualstudio.com/items?itemName=Orbinuity.asmc-support) | ASMC Support | 1.0.0 | Support the custom ASM Craft language. |
-| 2026-10-08 11:54:20 | [bluekachina.fmcuttingboard](https://marketplace.visualstudio.com/items?itemName=bluekachina.fmcuttingboard) | FMCuttingBoard | 0.0.1 | Move FileMaker objects (scripts, fields, tables, layouts, custom functions, val… |
+| 2026-10-08 12:25:29 | [kyber.kyber-companion](https://marketplace.visualstudio.com/items?itemName=kyber.kyber-companion) | Kyber Companion | 0.4.5 | A deterministic Kyber guide with a documentation-grounded AI companion. |
+| 2026-10-08 12:49:24 | [niklehmann.pdf-ink](https://marketplace.visualstudio.com/items?itemName=niklehmann.pdf-ink) | PDF Ink | 0.2.1 | A Visual Studio Code PDF edit extension intended to work with touch pen displays |
+| 2026-10-08 13:05:14 | [AravindMerugu.vscode-custom-llm-router](https://marketplace.visualstudio.com/items?itemName=AravindMerugu.vscode-custom-llm-router) | Custom LLM Router | 1.0.0 | Use Ollama, LM Studio, vLLM, OpenRouter, DeepSeek, Groq, Gemini and any OpenAI-… |
+| 2026-10-08 13:10:16 | [Lawaty.lalog](https://marketplace.visualstudio.com/items?itemName=Lawaty.lalog) | LaLog | 0.7.3 | Local-first work session tracker with automatic event capture, human session de… |
+| 2026-10-08 13:12:16 | [AdilElKanabi.devcontainer-composer](https://marketplace.visualstudio.com/items?itemName=AdilElKanabi.devcontainer-composer) | DevContainer Composer | 0.1.0 | Pick packages in a webview and generate a ready-to-use .devcontainer with persi… |
+| 2026-10-08 13:12:22 | [NithinMM.pingme](https://marketplace.visualstudio.com/items?itemName=NithinMM.pingme) | PingMe | 0.0.1 | User reminders for VS Code |
+| 2026-10-08 13:14:52 | [hussnain-143.api-routes-explorer](https://marketplace.visualstudio.com/items?itemName=hussnain-143.api-routes-explorer) | API Routes Explorer | 1.5.1 | Discover, analyze, search, and navigate API routes directly inside VS Code. |
 
 ## Data source
 
