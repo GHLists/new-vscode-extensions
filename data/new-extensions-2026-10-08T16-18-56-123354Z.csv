@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T15:25:16.347Z,SchulzOli.carapace-turtle-vscode,SchulzOli,Carapace Turtle — TTL & OWL Graph Visualiser,0.2.0,"Live OWL-aware graph visualisation for Turtle (TTL) ontologies, right next to your editor. A VS Code port of Carapace."
+2026-10-08T15:50:39.043Z,Shelus2021.tab-groups-pro,Shelus2021,Tab Groups Pro,2.0.0,Create and manage tab groups to improve your development workflow.
+2026-10-08T15:51:48.187Z,ReadyStack.energielabel-feed-lint-eu,ReadyStack,Energielabel Feed Check,1.0.5,"Prüft Produkt-Feeds (CSV) gegen das EU-Energielabel: fehlende Klasse, alte A+++-Skala auf reskalierten Geräten, fehlendes Label oder Produktdatenblatt, Smartphone-Label seit 20.06.2025."
+2026-10-08T15:52:04.823Z,ReadyStack.erb-escape-audit,ReadyStack,ERB Escape Audit - Rails XSS lint,1.0.11,"Finds unescaped output in Rails ERB templates - raw, html_safe, <%==, script and href context - and names the escaping helper that fixes each line."
+2026-10-08T15:52:17.213Z,ReadyStack.erb-rails-view-snippets-audit,ReadyStack,ERB Snippets + View Audit for Rails,0.1.6,"36 ERB snippets and 26 rules that catch the raw, html_safe and params output a Rails security review sends back — offline, in the editor, no account."
+2026-10-08T15:52:54.457Z,russeldanielpaul.multi-codex,russeldanielpaul,Multi Codex,0.1.0,Manage Codex accounts and switch the current Codex panel without reloading VS Code.
+2026-10-08T15:54:54.28Z,benjamin-ruesink.bc-page-opener,benjamin-ruesink,Business Central Object Opener,1.0.0,Open Business Central pages and tables directly from AL files in your browser
+2026-10-08T16:01:59.747Z,BarMelamed.gitdeck,BarMelamed,GitDeck,0.1.0,"Your git flow in one panel: switch branches in one click. Each branch gets its own worktree with shared node_modules/.env, its own ports, and a live run status."
+2026-10-08T16:09:03.85Z,baa4ts.pimp,baa4ts,pimp,0.0.1,Utility

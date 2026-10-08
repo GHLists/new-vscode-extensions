@@ -12,18 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 15:21 UTC
+## Latest list — 2026-10-08 16:18 UTC
 
-New extensions published between 2026-10-08 13:21 UTC and 2026-10-08 15:21 UTC.
+New extensions published between 2026-10-08 14:18 UTC and 2026-10-08 16:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T15-21-29-540661Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T16-18-56-123354Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 14:44:18 | [dr-opensource.gitwizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.gitwizard) | GitWizard | 0.1.0 | Intent-based Git safety and orchestration extension for vibe coders |
-| 2026-10-08 15:01:20 | [JGalego.wif-viewer](https://marketplace.visualstudio.com/items?itemName=JGalego.wif-viewer) | WIF Viewer | 0.1.0 | View weaving draft files (.wif): threading, tie-up, treadling and a colored dra… |
-| 2026-10-08 15:06:21 | [tython.tython](https://marketplace.visualstudio.com/items?itemName=tython.tython) | TyThon | 0.1.0 | Python with an erasable structural type system powered by the adapted TypeScrip… |
-| 2026-10-08 15:13:08 | [RodrigoScola.automated-processes](https://marketplace.visualstudio.com/items?itemName=RodrigoScola.automated-processes) | Automated Processes | 1.0.0 | Per-branch PostgreSQL databases and one-click project scripts. |
+| 2026-10-08 15:25:16 | [SchulzOli.carapace-turtle-vscode](https://marketplace.visualstudio.com/items?itemName=SchulzOli.carapace-turtle-vscode) | Carapace Turtle — TTL & OWL Graph Visua… | 0.2.0 | Live OWL-aware graph visualisation for Turtle (TTL) ontologies, right next to y… |
+| 2026-10-08 15:50:39 | [Shelus2021.tab-groups-pro](https://marketplace.visualstudio.com/items?itemName=Shelus2021.tab-groups-pro) | Tab Groups Pro | 2.0.0 | Create and manage tab groups to improve your development workflow. |
+| 2026-10-08 15:51:48 | [ReadyStack.energielabel-feed-lint-eu](https://marketplace.visualstudio.com/items?itemName=ReadyStack.energielabel-feed-lint-eu) | Energielabel Feed Check | 1.0.5 | Prüft Produkt-Feeds (CSV) gegen das EU-Energielabel: fehlende Klasse, alte A+++… |
+| 2026-10-08 15:52:04 | [ReadyStack.erb-escape-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.erb-escape-audit) | ERB Escape Audit - Rails XSS lint | 1.0.11 | Finds unescaped output in Rails ERB templates - raw, html_safe, <%==, script an… |
+| 2026-10-08 15:52:17 | [ReadyStack.erb-rails-view-snippets-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.erb-rails-view-snippets-audit) | ERB Snippets + View Audit for Rails | 0.1.6 | 36 ERB snippets and 26 rules that catch the raw, html_safe and params output a… |
+| 2026-10-08 15:52:54 | [russeldanielpaul.multi-codex](https://marketplace.visualstudio.com/items?itemName=russeldanielpaul.multi-codex) | Multi Codex | 0.1.0 | Manage Codex accounts and switch the current Codex panel without reloading VS C… |
+| 2026-10-08 15:54:54 | [benjamin-ruesink.bc-page-opener](https://marketplace.visualstudio.com/items?itemName=benjamin-ruesink.bc-page-opener) | Business Central Object Opener | 1.0.0 | Open Business Central pages and tables directly from AL files in your browser |
+| 2026-10-08 16:01:59 | [BarMelamed.gitdeck](https://marketplace.visualstudio.com/items?itemName=BarMelamed.gitdeck) | GitDeck | 0.1.0 | Your git flow in one panel: switch branches in one click. Each branch gets its… |
+| 2026-10-08 16:09:03 | [baa4ts.pimp](https://marketplace.visualstudio.com/items?itemName=baa4ts.pimp) | pimp | 0.0.1 | Utility |
 
 ## Data source
 
