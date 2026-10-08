@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 19:21 UTC
+## Latest list — 2026-10-08 20:19 UTC
 
-New extensions published between 2026-10-08 17:21 UTC and 2026-10-08 19:21 UTC.
+New extensions published between 2026-10-08 18:19 UTC and 2026-10-08 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T19-21-18-435613Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T20-19-47-365351Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 18:09:11 | [Kierkegaardist.codex-sidecar-vscode](https://marketplace.visualstudio.com/items?itemName=Kierkegaardist.codex-sidecar-vscode) | Codex Sidecar | 1.0.1 | Watch Codex work, live, in a pane beside Claude Code, Cursor, Copilot or anothe… |
-| 2026-10-08 18:20:37 | [p-ota-q.pixel-pal](https://marketplace.visualstudio.com/items?itemName=p-ota-q.pixel-pal) | Pixel Pal | 0.0.1 | エクスプローラーに好きなドット絵ペットを表示する拡張機能。素材フォルダを差し替えて自作キャラクターにでき、AIでペットを作るスキルも同梱。 |
-| 2026-10-08 18:30:23 | [developer-manishdevan.flutter-db-inspector](https://marketplace.visualstudio.com/items?itemName=developer-manishdevan.flutter-db-inspector) | Flutter DB Inspector | 1.0.0 | Inspect, query and edit your running Flutter app's local databases — SQLite, Dr… |
-| 2026-10-08 18:54:33 | [harigovind99.haritrail](https://marketplace.visualstudio.com/items?itemName=harigovind99.haritrail) | HariTrail | 1.0.0 | Watch Claude Code work through your codebase live: every file it reads, edits a… |
-| 2026-10-08 19:05:01 | [igitscor.estuary-theme](https://marketplace.visualstudio.com/items?itemName=igitscor.estuary-theme) | Estuary | 0.1.0 | The Estuary theme of @iscor/design, in light and dark: off-white, ink and one l… |
-| 2026-10-08 19:17:01 | [chengbin.workspace-toolbox](https://marketplace.visualstudio.com/items?itemName=chengbin.workspace-toolbox) | VS Code 工具箱 | 0.1.0 | 在底部工具箱管理工作区文件、VS Code 命令和 Copilot 消息。 |
+| 2026-10-08 19:22:11 | [maxlabs.maxlabs-vscode](https://marketplace.visualstudio.com/items?itemName=maxlabs.maxlabs-vscode) | MaxLabs | 0.1.0 | OAuth-first MaxLabs coding agent for Visual Studio Code |
+| 2026-10-08 19:28:55 | [digitwhale.orust-vscode](https://marketplace.visualstudio.com/items?itemName=digitwhale.orust-vscode) | ORust Language Support | 0.3.1 | Language support for ORust (.or) source files. |
+| 2026-10-08 19:30:20 | [yassataiseer.beaconbob](https://marketplace.visualstudio.com/items?itemName=yassataiseer.beaconbob) | BeaconBob | 0.1.0 | Zero-cloud pair programming on your LAN: discovery, encrypted chat and groups,… |
+| 2026-10-08 19:37:28 | [UnkDev.stealth-math-solver](https://marketplace.visualstudio.com/items?itemName=UnkDev.stealth-math-solver) | Stealth Math Solver | 1.0.0 | Solve algebra, expand expressions, and generate practice problems stealthily in… |
 
 ## Data source
 

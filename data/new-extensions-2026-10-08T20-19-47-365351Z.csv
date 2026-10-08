@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T19:22:11.383Z,maxlabs.maxlabs-vscode,maxlabs,MaxLabs,0.1.0,OAuth-first MaxLabs coding agent for Visual Studio Code
+2026-10-08T19:28:55.717Z,digitwhale.orust-vscode,digitwhale,ORust Language Support,0.3.1,Language support for ORust (.or) source files.
+2026-10-08T19:30:20.343Z,yassataiseer.beaconbob,yassataiseer,BeaconBob,0.1.0,"Zero-cloud pair programming on your LAN: discovery, encrypted chat and groups, live shared editing, and voice. No accounts, no servers."
+2026-10-08T19:37:28.253Z,UnkDev.stealth-math-solver,UnkDev,Stealth Math Solver,1.0.0,"Solve algebra, expand expressions, and generate practice problems stealthily in your code comments."
