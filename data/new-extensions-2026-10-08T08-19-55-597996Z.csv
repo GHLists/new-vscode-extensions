@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T07:27:11.37Z,lukiiiz22.linebeam,lukiiiz22,Linebeam - Guided Diff Walkthroughs,0.1.2,"Key changes. Clear explanations. Understand agent-generated code through evidence-linked, native diff walkthroughs."
+2026-10-08T07:34:32.87Z,RabbitShare.opencode-native-chat,RabbitShare,OpenCode Native Chat,0.0.1,OpenCode ACP sessions in the native VS Code chat. Experimental proposed API integration.
+2026-10-08T07:49:06.527Z,miragon-gmbh.value-chain-modeler,miragon-gmbh,Value Chain Modeler,0.1.0,View and edit value chain diagrams (Wertschöpfungskettendiagramme) directly in VS Code as *.vc.json files.
+2026-10-08T07:51:03.29Z,ciriodev.f1-themes,ciriodev,F1 Themes,1.2.0,"Tema de VS Code inspirado en la Fórmula 1: carbono oscuro, rojo de salida y colores de neumáticos y sectores. Pensado para programar horas sin cansar la vista."
+2026-10-08T07:56:46.683Z,chihang03.word-translation-shortcuts,chihang03,Word Translation Shortcuts,0.1.6,一款纯粹的VSCode划词翻译插件
+2026-10-08T08:02:16.253Z,lerzegov-xln.xln,lerzegov-xln,xln — Excel names as code,0.1.0,"Excel defined names and LAMBDAs as text: pull a workbook's names into .xln modules, edit, check and audit them, and build them back into the .xlsx. No add-in. Desktop VS Code and vscode.dev."
