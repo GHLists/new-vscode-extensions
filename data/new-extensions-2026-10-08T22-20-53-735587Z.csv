@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T21:45:23.303Z,infinityinnovationsdev.envcheck,infinityinnovationsdev,EnvCheck,1.0.0,"Local environment validation, missing variable checks and safe example generation."
+2026-10-08T21:52:03.367Z,infinityinnovationsdev.apicom,infinityinnovationsdev,APICom,1.0.0,Generate TypeScript API clients and React Query hooks from local OpenAPI JSON.
+2026-10-08T22:00:41.83Z,ncsu-aial.aila,ncsu-aial,Aila: AIAL Learning Assistant,0.1.0,"A Java tutor for intro CS from NC State's AIAL Lab. It explains, hints, and shows worked examples, but never writes your solution."
