@@ -12,18 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 00:19 UTC
+## Latest list — 2026-10-08 01:19 UTC
 
-New extensions published between 2026-10-07 22:19 UTC and 2026-10-08 00:19 UTC.
+New extensions published between 2026-10-07 23:19 UTC and 2026-10-08 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T00-19-34-729403Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T01-19-12-149802Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 23:28:31 | [GlobalWebSolutions.opencode-chat-sidebar](https://marketplace.visualstudio.com/items?itemName=GlobalWebSolutions.opencode-chat-sidebar) | OpenCode Chat Sidebar GWS | 0.2.4 | A focused chat sidebar for OpenCode agents in VS Code. |
-| 2026-10-07 23:35:30 | [joffroy.vscode-extension-open-workspace](https://marketplace.visualstudio.com/items?itemName=joffroy.vscode-extension-open-workspace) | Open Workspace If Exists | 1.0.1 | Automatically opens a workspace file (.code-workspace) if it exists in the curr… |
-| 2026-10-07 23:36:17 | [LPX.lpx-conversation-board](https://marketplace.visualstudio.com/items?itemName=LPX.lpx-conversation-board) | Chat Atlas by LPX | 0.1.7 | A local conversation organizer with project filters, topic boards, workflow sta… |
-| 2026-10-08 00:10:00 | [cumabozkurt.super-orkestra-vscode](https://marketplace.visualstudio.com/items?itemName=cumabozkurt.super-orkestra-vscode) | Super Orkestra | 1.0.1 | Şef model + 3 işçi model: en az token ve limitle en kaliteli kod. |
+| 2026-10-08 00:20:33 | [rellik92j.sessionsai](https://marketplace.visualstudio.com/items?itemName=rellik92j.sessionsai) | SessionsAI — Claude Code, Copilot, & VS… | 0.4.1 | Browse, search, read and resume your Claude Code, GitHub Copilot CLI and VS Cod… |
+| 2026-10-08 00:22:24 | [workday.workday-developer-agent](https://marketplace.visualstudio.com/items?itemName=workday.workday-developer-agent) | Workday Developer Agent Extension | 1.0.0 | AI-powered agent for building custom apps and agents on the Workday Platform |
+| 2026-10-08 00:32:00 | [workday.workday-extension-pack](https://marketplace.visualstudio.com/items?itemName=workday.workday-extension-pack) | Workday Development Tools | 1.0.0 | Installs the necessary extensions for Workday Build development |
+| 2026-10-08 00:43:05 | [gritfytechnologies.bicep-cost-lens](https://marketplace.visualstudio.com/items?itemName=gritfytechnologies.bicep-cost-lens) | Bicep Cost Lens | 0.1.0 | Directional monthly cost estimates on Bicep resources, right in the editor. Fre… |
+| 2026-10-08 00:44:28 | [Bushee.logix-color-remade-bushee](https://marketplace.visualstudio.com/items?itemName=Bushee.logix-color-remade-bushee) | Bushee's Logix Theme | 0.0.3 | Logix's color theme is one of the BEST dark color themes. Go ahead! Try it for… |
+| 2026-10-08 00:49:40 | [CaidenKotter.vscollab](https://marketplace.visualstudio.com/items?itemName=CaidenKotter.vscollab) | VSCollab: Shared Workspaces | 0.1.0 | Share a VS Code workspace for collaborative editing through a self-hosted relay. |
+| 2026-10-08 00:53:25 | [MrSkele.vscode-ai-undo](https://marketplace.visualstudio.com/items?itemName=MrSkele.vscode-ai-undo) | AI Undo | 1.0.1 | Ctrl+Z for your AI agent: 1-click snapshot & rollback for Claude, Cursor, Copil… |
+| 2026-10-08 01:00:22 | [Tumerit.tethered](https://marketplace.visualstudio.com/items?itemName=Tumerit.tethered) | Tethered Task Sessions | 0.2.3 | Temporary Tethered task profiles |
 
 ## Data source
 
