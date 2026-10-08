@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T20:20:47.397Z,acedatacloud.chat-models,acedatacloud,Ace Data Cloud Chat Models,0.1.1,Use Ace Data Cloud chat models in the VS Code Chat model picker with your own API key.
+2026-10-08T20:21:48.753Z,rodrioliveira.adr-guard,rodrioliveira,ADR Guard,0.1.1,Use the ADR Guard CLI safely from a trusted VS Code workspace.
+2026-10-08T20:50:45.42Z,MirzaAtharBaig.kicad-lens,MirzaAtharBaig,KiCad Lens,0.1.2,View KiCad schematics and PCBs in VS Code and diff them across git revisions — visually and semantically.
+2026-10-08T20:57:16.007Z,infinityinnovationsdev.promodo,infinityinnovationsdev,Promodo,1.0.1,Chronomètre de travail et pauses avec sonneries configurables.
+2026-10-08T20:57:30.617Z,RiccardoFilippozzi.mongoster,RiccardoFilippozzi,Mongoster,0.1.0,"MongoDB client for VS Code: browse collections in a table, query and aggregate, edit documents, analyze schemas, indexes and relations, monitor the server."
+2026-10-08T20:57:53.487Z,RiccardoFilippozzi.meteor-power,RiccardoFilippozzi,Meteor Power,0.1.0,"Navigate Meteor and Blaze code: go to definition, references, hover and completion for methods, publications, templates and helpers, plus a side panel."
+2026-10-08T20:58:55.61Z,MisterPandaPooh.explain-mode,MisterPandaPooh,Explain Mode,0.1.0,"Step through code like a debugger — nothing runs, a local model explains each statement in place."
+2026-10-08T21:07:35.59Z,Sachilaranawaka.repo-manager,Sachilaranawaka,Repo Manager by Sachila,0.1.0,"Check out a common branch across workspace repositories, creating it where needed."
