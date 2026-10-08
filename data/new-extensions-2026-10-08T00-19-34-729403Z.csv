@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-07T23:28:31.493Z,GlobalWebSolutions.opencode-chat-sidebar,GlobalWebSolutions,OpenCode Chat Sidebar GWS,0.2.4,A focused chat sidebar for OpenCode agents in VS Code.
+2026-10-07T23:35:30.68Z,joffroy.vscode-extension-open-workspace,joffroy,Open Workspace If Exists,1.0.1,Automatically opens a workspace file (.code-workspace) if it exists in the current directory or workspace root upon opening VS Code.
+2026-10-07T23:36:17.537Z,LPX.lpx-conversation-board,LPX,Chat Atlas by LPX,0.1.7,"A local conversation organizer with project filters, topic boards, workflow status, and a timeline."
+2026-10-08T00:10:00.297Z,cumabozkurt.super-orkestra-vscode,cumabozkurt,Super Orkestra,1.0.1,Şef model + 3 işçi model: en az token ve limitle en kaliteli kod.

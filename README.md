@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-07 23:21 UTC
+## Latest list — 2026-10-08 00:19 UTC
 
-New extensions published between 2026-10-07 21:21 UTC and 2026-10-07 23:21 UTC.
+New extensions published between 2026-10-07 22:19 UTC and 2026-10-08 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-07T23-21-04-179974Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T00-19-34-729403Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-07 22:06:12 | [QubeSurvey.vscode-qube](https://marketplace.visualstudio.com/items?itemName=QubeSurvey.vscode-qube) | QUBE Survey Workbench — NIPO Odin & Qub… | 0.8.6 | Edit NIPO Odin and QubeScript surveys, run local interviews, and review testing… |
-| 2026-10-07 23:06:20 | [kabartay.tokenwatchclaude](https://marketplace.visualstudio.com/items?itemName=kabartay.tokenwatchclaude) | Tokenwatch for Claude Code | 1.0.1 | Live Claude Code quota in your status bar: 5-hour session and weekly usage with… |
-| 2026-10-07 23:15:38 | [instinct.instinct-ai](https://marketplace.visualstudio.com/items?itemName=instinct.instinct-ai) | Instinct AI | 1.0.0 | AI pair-programmer in your editor: explain, refactor, generate, summarize, and… |
+| 2026-10-07 23:28:31 | [GlobalWebSolutions.opencode-chat-sidebar](https://marketplace.visualstudio.com/items?itemName=GlobalWebSolutions.opencode-chat-sidebar) | OpenCode Chat Sidebar GWS | 0.2.4 | A focused chat sidebar for OpenCode agents in VS Code. |
+| 2026-10-07 23:35:30 | [joffroy.vscode-extension-open-workspace](https://marketplace.visualstudio.com/items?itemName=joffroy.vscode-extension-open-workspace) | Open Workspace If Exists | 1.0.1 | Automatically opens a workspace file (.code-workspace) if it exists in the curr… |
+| 2026-10-07 23:36:17 | [LPX.lpx-conversation-board](https://marketplace.visualstudio.com/items?itemName=LPX.lpx-conversation-board) | Chat Atlas by LPX | 0.1.7 | A local conversation organizer with project filters, topic boards, workflow sta… |
+| 2026-10-08 00:10:00 | [cumabozkurt.super-orkestra-vscode](https://marketplace.visualstudio.com/items?itemName=cumabozkurt.super-orkestra-vscode) | Super Orkestra | 1.0.1 | Şef model + 3 işçi model: en az token ve limitle en kaliteli kod. |
 
 ## Data source
 
