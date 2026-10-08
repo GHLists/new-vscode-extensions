@@ -12,24 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 10:20 UTC
+## Latest list — 2026-10-08 11:22 UTC
 
-New extensions published between 2026-10-08 08:20 UTC and 2026-10-08 10:20 UTC.
+New extensions published between 2026-10-08 09:22 UTC and 2026-10-08 11:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T10-20-21-907733Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T11-22-16-236797Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 09:34:31 | [yeonbee.clickit](https://marketplace.visualstudio.com/items?itemName=yeonbee.clickit) | Clickit — Git for Beginners | 0.0.4 | An all-in-one git screen for beginners. Commit, push and branch with buttons. |
-| 2026-10-08 09:38:59 | [SURIYALAKSHMIA.terminal-error-helper](https://marketplace.visualstudio.com/items?itemName=SURIYALAKSHMIA.terminal-error-helper) | Terminal Error Helper | 0.1.1 | Watches your terminal, detects errors, and explains how to fix them using Copil… |
-| 2026-10-08 09:49:35 | [HeavenSky.editor-comfort-theme](https://marketplace.visualstudio.com/items?itemName=HeavenSky.editor-comfort-theme) | Editor Comfort Theme | 0.0.1 | One Dark Pro Lite plus eye-care tuned One Dark, One Light, Ayu and Solarized th… |
-| 2026-10-08 09:57:34 | [IvanCuenca.maya-link](https://marketplace.visualstudio.com/items?itemName=IvanCuenca.maya-link) | Maya link | 0.0.1 | Connect to different Maya instances from VS Code using maya.cmds.commandPort |
-| 2026-10-08 10:02:37 | [wangxiaocuo.recent-switcher](https://marketplace.visualstudio.com/items?itemName=wangxiaocuo.recent-switcher) | Recent Switcher | 0.1.0 | Quickly access and switch between recently opened VS Code projects. |
-| 2026-10-08 10:10:13 | [BlaiseRodrigues.cychef](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.cychef) | CyChef | 0.1.0 | CyChef encryption, decryption, encoding, decoding, and hashing workbench in the… |
-| 2026-10-08 10:10:45 | [eflens.schemawise](https://marketplace.visualstudio.com/items?itemName=eflens.schemawise) | Schemawise | 0.1.2 | EF Core superpowers for VS Code: explore your EF Core model, detect schema drif… |
-| 2026-10-08 10:12:21 | [XunQu.simple-csv-viewer](https://marketplace.visualstudio.com/items?itemName=XunQu.simple-csv-viewer) | Simple CSV Viewer | 0.1.0 | A lightweight CSV table viewer: open any .csv directly as a table, with column… |
-| 2026-10-08 10:12:59 | [debjitmitra000.runcase-code-runner](https://marketplace.visualstudio.com/items?itemName=debjitmitra000.runcase-code-runner) | RunCase | 0.1.1 | Run Java, Python, C++ and 30+ languages with one click. Test cases with pass/fa… |
-| 2026-10-08 10:13:52 | [abhinav29102005.rewind-guard](https://marketplace.visualstudio.com/items?itemName=abhinav29102005.rewind-guard) | Rewind — AI Agent Guardrails & Approval | 0.1.0 | Enforced approval and undo layer for AI agents (Cursor, Claude, Antigravity, Wi… |
+| 2026-10-08 10:42:52 | [jeffreyhaen.csharp-exception-filters](https://marketplace.visualstudio.com/items?itemName=jeffreyhaen.csharp-exception-filters) | C# Exception Filters | 0.1.1 | Automatically exclude selected exceptions from C# exception breakpoints in ever… |
+| 2026-10-08 10:46:34 | [Medik-GH.medieval-2-tw-script](https://marketplace.visualstudio.com/items?itemName=Medik-GH.medieval-2-tw-script) | Medieval 2 Synax | 2.0.0 | Language extension for working with Medieval 2: Total War text files |
+| 2026-10-08 10:54:49 | [nifty.nifty-snippets](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-snippets) | Nifty Snippets: Snippets & File Templat… | 0.1.0 | Snippets and file templates with live values: dates, UUIDs, file and folder nam… |
+| 2026-10-08 10:55:01 | [nifty.nifty-macros](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-macros) | Nifty Macros: Record & Replay Keystrokes | 0.1.0 | Record typing and cursor moves and replay them any number of times, or define n… |
+| 2026-10-08 10:55:07 | [nifty.nifty-undo-tree](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-undo-tree) | Nifty Undo Tree: Local History & Undo B… | 0.1.0 | Never lose an edit to undo again: every version of a file is kept in a tree, in… |
+| 2026-10-08 10:55:14 | [nifty.nifty-containers](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-containers) | Nifty Containers: Podman, Docker & Appl… | 0.1.0 | One container view for Podman, Docker, nerdctl and Apple's container CLI: start… |
+| 2026-10-08 10:55:23 | [nifty.nifty-helm](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-helm) | Nifty Helm & Kustomize: Values IntelliS… | 0.1.0 | Helm .Values IntelliSense (completion, hover, go to definition, missing values)… |
+| 2026-10-08 10:55:29 | [nifty.nifty-hcl](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-hcl) | Nifty HCL Tools: .tf and .hcl Language… | 0.1.0 | Fast, lightweight Terraform and OpenTofu support: highlighting, outline, go to… |
+| 2026-10-08 10:55:35 | [nifty.nifty-nginx](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-nginx) | Nifty Nginx: nginx.conf Formatting & In… | 0.1.0 | nginx config support: syntax highlighting, formatting, directive completion and… |
+| 2026-10-08 10:58:10 | [jojox.jojox-vscode](https://marketplace.visualstudio.com/items?itemName=jojox.jojox-vscode) | JoJoX — Sicurezza per codice AI | 0.1.0 | Controlla il codice mentre scrivi: gli stessi 40 controlli di sicurezza del sit… |
+| 2026-10-08 11:04:08 | [ComarchSA.aisdlc-companion](https://marketplace.visualstudio.com/items?itemName=ComarchSA.aisdlc-companion) | AISDLC Companion | 0.2.2 | Human interface for AISDLC forges: connect your services, start a forge for a t… |
+| 2026-10-08 11:09:14 | [vishant-shah.delta-builder](https://marketplace.visualstudio.com/items?itemName=vishant-shah.delta-builder) | Delta Builder for sfdx-git-delta | 1.0.2 | Build Salesforce delta packages between two git refs with a guided form for `sf… |
 
 ## Data source
 
