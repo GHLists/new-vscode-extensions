@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T11:17:06.537Z,LeoOrtega.vscodesidebar-notes,LeoOrtega,Sidebar Quick Notes,0.0.1,Keep your thoughts organized with persistent notes that sync across projects
+2026-10-08T11:24:54.557Z,ShailendraSingh.sip-squad-water-reminder,ShailendraSingh,Sip Squad: Water Reminder,1.0.0,"A squad of heroes takes turns dropping into your editor and stays until you drink your water. Waits until you stop typing, counts your glasses in the status bar."
+2026-10-08T11:25:03.403Z,yutotnh.terminal-any-encoding,yutotnh,Terminal Any Encoding,0.1.0,"Use non-UTF-8 character encodings (Windows-1252, ISO-8859-1, Windows-1251, KOI8-R, Shift JIS, EUC-JP, GBK, Big5, EUC-KR, and the rest of the 45 non-Unicode encodings VS Code natively supports) in the VS Code integrated terminal."
+2026-10-08T11:29:30.117Z,Jan-HendrikMueller.terminal-color-cycle,Jan-HendrikMueller,Terminal Color Cycle,0.1.0,"Every new terminal gets the next color in a rotation, so terminals are easy to tell apart."
+2026-10-08T11:29:34.46Z,tisp.gitst8,tisp,gitSt8,0.1.0,"One view for advanced git workflows: graph history, search, fetch/prune, branch, merge, rebase (incl. interactive), stacks, worktrees, tags, reflog undo, compare and diff."
+2026-10-08T11:38:03.833Z,alidendenne.client,alidendenne,Echo Local AI Assistant,0.0.1,Local Ai coding assistant
+2026-10-08T11:39:44.24Z,isaim0011.blastcode-vscode,isaim0011,BlastCode - Code Graph & MCP Companion,0.1.1,"Code-graph engine, live workspace caretaker, and blast-radius analysis companion for AI agents in VS Code and Cursor"
+2026-10-08T11:41:57.157Z,AltrobyteLab.altrobyte-trainer,AltrobyteLab,Altrobyte AI Trainer,0.1.1,"A hands-on lab instructor inside VS Code: it watches your real setup (PlatformIO, board, serial, MQTT), teaches without doing the work for you, and verifies every milestone with real checks."
+2026-10-08T11:50:22.483Z,Orbinuity.asmc-support,Orbinuity,ASMC Support,1.0.0,Support the custom ASM Craft language.
+2026-10-08T11:54:20.537Z,bluekachina.fmcuttingboard,bluekachina,FMCuttingBoard,0.0.1,"Move FileMaker objects (scripts, fields, tables, layouts, custom functions, value lists) between FileMaker's clipboard and editable fmxmlsnippet XML."

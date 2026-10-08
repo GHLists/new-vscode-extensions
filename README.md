@@ -12,26 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 11:22 UTC
+## Latest list — 2026-10-08 12:21 UTC
 
-New extensions published between 2026-10-08 09:22 UTC and 2026-10-08 11:22 UTC.
+New extensions published between 2026-10-08 10:21 UTC and 2026-10-08 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T11-22-16-236797Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T12-21-12-499091Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 10:42:52 | [jeffreyhaen.csharp-exception-filters](https://marketplace.visualstudio.com/items?itemName=jeffreyhaen.csharp-exception-filters) | C# Exception Filters | 0.1.1 | Automatically exclude selected exceptions from C# exception breakpoints in ever… |
-| 2026-10-08 10:46:34 | [Medik-GH.medieval-2-tw-script](https://marketplace.visualstudio.com/items?itemName=Medik-GH.medieval-2-tw-script) | Medieval 2 Synax | 2.0.0 | Language extension for working with Medieval 2: Total War text files |
-| 2026-10-08 10:54:49 | [nifty.nifty-snippets](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-snippets) | Nifty Snippets: Snippets & File Templat… | 0.1.0 | Snippets and file templates with live values: dates, UUIDs, file and folder nam… |
-| 2026-10-08 10:55:01 | [nifty.nifty-macros](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-macros) | Nifty Macros: Record & Replay Keystrokes | 0.1.0 | Record typing and cursor moves and replay them any number of times, or define n… |
-| 2026-10-08 10:55:07 | [nifty.nifty-undo-tree](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-undo-tree) | Nifty Undo Tree: Local History & Undo B… | 0.1.0 | Never lose an edit to undo again: every version of a file is kept in a tree, in… |
-| 2026-10-08 10:55:14 | [nifty.nifty-containers](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-containers) | Nifty Containers: Podman, Docker & Appl… | 0.1.0 | One container view for Podman, Docker, nerdctl and Apple's container CLI: start… |
-| 2026-10-08 10:55:23 | [nifty.nifty-helm](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-helm) | Nifty Helm & Kustomize: Values IntelliS… | 0.1.0 | Helm .Values IntelliSense (completion, hover, go to definition, missing values)… |
-| 2026-10-08 10:55:29 | [nifty.nifty-hcl](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-hcl) | Nifty HCL Tools: .tf and .hcl Language… | 0.1.0 | Fast, lightweight Terraform and OpenTofu support: highlighting, outline, go to… |
-| 2026-10-08 10:55:35 | [nifty.nifty-nginx](https://marketplace.visualstudio.com/items?itemName=nifty.nifty-nginx) | Nifty Nginx: nginx.conf Formatting & In… | 0.1.0 | nginx config support: syntax highlighting, formatting, directive completion and… |
-| 2026-10-08 10:58:10 | [jojox.jojox-vscode](https://marketplace.visualstudio.com/items?itemName=jojox.jojox-vscode) | JoJoX — Sicurezza per codice AI | 0.1.0 | Controlla il codice mentre scrivi: gli stessi 40 controlli di sicurezza del sit… |
-| 2026-10-08 11:04:08 | [ComarchSA.aisdlc-companion](https://marketplace.visualstudio.com/items?itemName=ComarchSA.aisdlc-companion) | AISDLC Companion | 0.2.2 | Human interface for AISDLC forges: connect your services, start a forge for a t… |
-| 2026-10-08 11:09:14 | [vishant-shah.delta-builder](https://marketplace.visualstudio.com/items?itemName=vishant-shah.delta-builder) | Delta Builder for sfdx-git-delta | 1.0.2 | Build Salesforce delta packages between two git refs with a guided form for `sf… |
+| 2026-10-08 11:17:06 | [LeoOrtega.vscodesidebar-notes](https://marketplace.visualstudio.com/items?itemName=LeoOrtega.vscodesidebar-notes) | Sidebar Quick Notes | 0.0.1 | Keep your thoughts organized with persistent notes that sync across projects |
+| 2026-10-08 11:24:54 | [ShailendraSingh.sip-squad-water-reminder](https://marketplace.visualstudio.com/items?itemName=ShailendraSingh.sip-squad-water-reminder) | Sip Squad: Water Reminder | 1.0.0 | A squad of heroes takes turns dropping into your editor and stays until you dri… |
+| 2026-10-08 11:25:03 | [yutotnh.terminal-any-encoding](https://marketplace.visualstudio.com/items?itemName=yutotnh.terminal-any-encoding) | Terminal Any Encoding | 0.1.0 | Use non-UTF-8 character encodings (Windows-1252, ISO-8859-1, Windows-1251, KOI8… |
+| 2026-10-08 11:29:30 | [Jan-HendrikMueller.terminal-color-cycle](https://marketplace.visualstudio.com/items?itemName=Jan-HendrikMueller.terminal-color-cycle) | Terminal Color Cycle | 0.1.0 | Every new terminal gets the next color in a rotation, so terminals are easy to… |
+| 2026-10-08 11:29:34 | [tisp.gitst8](https://marketplace.visualstudio.com/items?itemName=tisp.gitst8) | gitSt8 | 0.1.0 | One view for advanced git workflows: graph history, search, fetch/prune, branch… |
+| 2026-10-08 11:38:03 | [alidendenne.client](https://marketplace.visualstudio.com/items?itemName=alidendenne.client) | Echo Local AI Assistant | 0.0.1 | Local Ai coding assistant |
+| 2026-10-08 11:39:44 | [isaim0011.blastcode-vscode](https://marketplace.visualstudio.com/items?itemName=isaim0011.blastcode-vscode) | BlastCode - Code Graph & MCP Companion | 0.1.1 | Code-graph engine, live workspace caretaker, and blast-radius analysis companio… |
+| 2026-10-08 11:41:57 | [AltrobyteLab.altrobyte-trainer](https://marketplace.visualstudio.com/items?itemName=AltrobyteLab.altrobyte-trainer) | Altrobyte AI Trainer | 0.1.1 | A hands-on lab instructor inside VS Code: it watches your real setup (PlatformI… |
+| 2026-10-08 11:50:22 | [Orbinuity.asmc-support](https://marketplace.visualstudio.com/items?itemName=Orbinuity.asmc-support) | ASMC Support | 1.0.0 | Support the custom ASM Craft language. |
+| 2026-10-08 11:54:20 | [bluekachina.fmcuttingboard](https://marketplace.visualstudio.com/items?itemName=bluekachina.fmcuttingboard) | FMCuttingBoard | 0.0.1 | Move FileMaker objects (scripts, fields, tables, layouts, custom functions, val… |
 
 ## Data source
 
