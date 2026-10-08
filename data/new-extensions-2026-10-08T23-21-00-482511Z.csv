@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T22:27:40.447Z,chengbin.onetap,chengbin,OneTap,0.1.0,"Run workspace files, execute VS Code commands, and open saved Copilot Chat prompts from a compact panel."
+2026-10-08T22:34:40.23Z,MasTurboDeploy.masturbodeploy,MasTurboDeploy,MasTurbo Deploy,1.0.0,"Creates the release branch, bumps the version, and handles merge and deploy for workspace repositories"
+2026-10-08T22:38:20.27Z,elpandap.auto-disable-extensions,elpandap,Auto Disable Extensions,0.2.0,Automatically disables the extensions each workspace doesn't need. Zero config: detects the project and keeps only what it uses.
+2026-10-08T22:44:53.037Z,mesqueeb.fast-swift-format,mesqueeb,Fast Swift Format,0.1.1,"Apple's swift-format directly, without waiting for SourceKit-LSP or project discovery."
+2026-10-08T22:49:55.257Z,the-lucky-company.lucky-code,the-lucky-company,Lucky Code,0.4.6,Orquesta los proveedores de ingenieria de tu equipo con contexto minimo y comprueba el resultado con evidencia del repositorio.
+2026-10-08T22:51:40.417Z,zerep.vscode-structurizr-visualizer,zerep,Structurizr Visualizer,0.0.2,"IDE-grade Structurizr DSL support with IntelliSense, validation, cross-file navigation, multi-file includes, and complete styling."
+2026-10-08T22:58:18.173Z,MisterPandaPooh.debuddy,MisterPandaPooh,DeBuddy,0.1.0,"The placebo debugger: step through code like a debugger, nothing runs, everything gets explained — by a local model, in VS Code or Cursor."
