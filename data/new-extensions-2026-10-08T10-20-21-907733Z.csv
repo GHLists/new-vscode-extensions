@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T09:34:31.473Z,yeonbee.clickit,yeonbee,Clickit — Git for Beginners,0.0.4,"An all-in-one git screen for beginners. Commit, push and branch with buttons."
+2026-10-08T09:38:59.117Z,SURIYALAKSHMIA.terminal-error-helper,SURIYALAKSHMIA,Terminal Error Helper,0.1.1,"Watches your terminal, detects errors, and explains how to fix them using Copilot, Gemini, GPT, Grok or Claude."
+2026-10-08T09:49:35.263Z,HeavenSky.editor-comfort-theme,HeavenSky,Editor Comfort Theme,0.0.1,"One Dark Pro Lite plus eye-care tuned One Dark, One Light, Ayu and Solarized themes with matching Terminal.app profiles."
+2026-10-08T09:57:34.263Z,IvanCuenca.maya-link,IvanCuenca,Maya link,0.0.1,Connect to different Maya instances from VS Code using maya.cmds.commandPort
+2026-10-08T10:02:37.32Z,wangxiaocuo.recent-switcher,wangxiaocuo,Recent Switcher,0.1.0,Quickly access and switch between recently opened VS Code projects.
+2026-10-08T10:10:13.82Z,BlaiseRodrigues.cychef,BlaiseRodrigues,CyChef,0.1.0,"CyChef encryption, decryption, encoding, decoding, and hashing workbench in the sidebar with in-place editor transforms"
+2026-10-08T10:10:45.683Z,eflens.schemawise,eflens,Schemawise,0.1.2,"EF Core superpowers for VS Code: explore your EF Core model, detect schema drift against SQL Server and PostgreSQL, and understand migration risks before you apply them. 100% local."
+2026-10-08T10:12:21.11Z,XunQu.simple-csv-viewer,XunQu,Simple CSV Viewer,0.1.0,"A lightweight CSV table viewer: open any .csv directly as a table, with column sorting, global search, and per-column filtering."
+2026-10-08T10:12:59.807Z,debjitmitra000.runcase-code-runner,debjitmitra000,RunCase,0.1.1,"Run Java, Python, C++ and 30+ languages with one click. Test cases with pass/fail verdicts, parallel inputs, and save to GitHub. A Code Runner alternative."
+2026-10-08T10:13:52.157Z,abhinav29102005.rewind-guard,abhinav29102005,Rewind — AI Agent Guardrails & Approval,0.1.0,"Enforced approval and undo layer for AI agents (Cursor, Claude, Antigravity, Windsurf). Intercepts destructive actions with instant rollback."
