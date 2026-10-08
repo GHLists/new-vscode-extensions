@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 18:19 UTC
+## Latest list — 2026-10-08 19:21 UTC
 
-New extensions published between 2026-10-08 16:19 UTC and 2026-10-08 18:19 UTC.
+New extensions published between 2026-10-08 17:21 UTC and 2026-10-08 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T18-19-16-10559Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T19-21-18-435613Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 17:35:23 | [scandoc.scandoc](https://marketplace.visualstudio.com/items?itemName=scandoc.scandoc) | scanDoc | 0.1.1 | Consulte a documentação do seu projeto com IA, com respostas fundamentadas e re… |
-| 2026-10-08 17:45:05 | [devneonix.open-gitlens](https://marketplace.visualstudio.com/items?itemName=devneonix.open-gitlens) | Open GitLens | 0.2.1 | Free Git supercharger for VS Code: commit graph, line blame, file history, work… |
-| 2026-10-08 17:52:25 | [flowpact.vscode-flowpact](https://marketplace.visualstudio.com/items?itemName=flowpact.vscode-flowpact) | flowpact | 0.7.0 | Diagnostics, hover traces and go to definition across GitHub Actions workflow c… |
-| 2026-10-08 17:53:13 | [KhushdeepBrar.thoughtpath](https://marketplace.visualstudio.com/items?itemName=KhushdeepBrar.thoughtpath) | ThoughtPath - Agent Trace | 0.0.4 | Live decision maps, tool activity and reported token usage for Copilot Agent ch… |
-| 2026-10-08 17:58:44 | [DawsonDevelopment.ibm-member-picker](https://marketplace.visualstudio.com/items?itemName=DawsonDevelopment.ibm-member-picker) | Ibm Member Picker | 0.1.3 | Open IBM i source members with an RDi-style guided picker. |
-| 2026-10-08 18:01:10 | [sriharirao.herdr-cockpit](https://marketplace.visualstudio.com/items?itemName=sriharirao.herdr-cockpit) | Herdr Cockpit | 0.2.0 | Your Herdr agents and spaces in one VS Code window: files, git, diffs and all y… |
-| 2026-10-08 18:01:23 | [RDR.build-distribute](https://marketplace.visualstudio.com/items?itemName=RDR.build-distribute) | Build&Distribute | 0.1.0 | Build a release APK from the opened Flutter project and upload it to Firebase A… |
-| 2026-10-08 18:06:01 | [krimsn.hfm-preview](https://marketplace.visualstudio.com/items?itemName=krimsn.hfm-preview) | Markdown Preview for Habr | 0.1.2 | Превью статьи в том виде, в каком её отрисует Хабр, и диагностика неподдерживае… |
-| 2026-10-08 18:07:10 | [mclovin.gremlin](https://marketplace.visualstudio.com/items?itemName=mclovin.gremlin) | Gremlin | 0.1.0 | AST-native AI code editor. Type-checked single-file edits, powered by Gemini or… |
+| 2026-10-08 18:09:11 | [Kierkegaardist.codex-sidecar-vscode](https://marketplace.visualstudio.com/items?itemName=Kierkegaardist.codex-sidecar-vscode) | Codex Sidecar | 1.0.1 | Watch Codex work, live, in a pane beside Claude Code, Cursor, Copilot or anothe… |
+| 2026-10-08 18:20:37 | [p-ota-q.pixel-pal](https://marketplace.visualstudio.com/items?itemName=p-ota-q.pixel-pal) | Pixel Pal | 0.0.1 | エクスプローラーに好きなドット絵ペットを表示する拡張機能。素材フォルダを差し替えて自作キャラクターにでき、AIでペットを作るスキルも同梱。 |
+| 2026-10-08 18:30:23 | [developer-manishdevan.flutter-db-inspector](https://marketplace.visualstudio.com/items?itemName=developer-manishdevan.flutter-db-inspector) | Flutter DB Inspector | 1.0.0 | Inspect, query and edit your running Flutter app's local databases — SQLite, Dr… |
+| 2026-10-08 18:54:33 | [harigovind99.haritrail](https://marketplace.visualstudio.com/items?itemName=harigovind99.haritrail) | HariTrail | 1.0.0 | Watch Claude Code work through your codebase live: every file it reads, edits a… |
+| 2026-10-08 19:05:01 | [igitscor.estuary-theme](https://marketplace.visualstudio.com/items?itemName=igitscor.estuary-theme) | Estuary | 0.1.0 | The Estuary theme of @iscor/design, in light and dark: off-white, ink and one l… |
+| 2026-10-08 19:17:01 | [chengbin.workspace-toolbox](https://marketplace.visualstudio.com/items?itemName=chengbin.workspace-toolbox) | VS Code 工具箱 | 0.1.0 | 在底部工具箱管理工作区文件、VS Code 命令和 Copilot 消息。 |
 
 ## Data source
 

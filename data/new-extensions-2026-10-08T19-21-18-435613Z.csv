@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T18:09:11.65Z,Kierkegaardist.codex-sidecar-vscode,Kierkegaardist,Codex Sidecar,1.0.1,"Watch Codex work, live, in a pane beside Claude Code, Cursor, Copilot or another coding agent, and step in while it works. Windows; macOS and Linux experimental."
+2026-10-08T18:20:37.28Z,p-ota-q.pixel-pal,p-ota-q,Pixel Pal,0.0.1,エクスプローラーに好きなドット絵ペットを表示する拡張機能。素材フォルダを差し替えて自作キャラクターにでき、AIでペットを作るスキルも同梱。
+2026-10-08T18:30:23.283Z,developer-manishdevan.flutter-db-inspector,developer-manishdevan,Flutter DB Inspector,1.0.0,"Inspect, query and edit your running Flutter app's local databases — SQLite, Drift, Isar, Hive, SharedPreferences and more — without copying database files."
+2026-10-08T18:54:33.703Z,harigovind99.haritrail,harigovind99,HariTrail,1.0.0,"Watch Claude Code work through your codebase live: every file it reads, edits and creates, every command and test, and every loop back after a failure. See it as a journey, a map of your project or lanes over time, and replay it step by step."
+2026-10-08T19:05:01.377Z,igitscor.estuary-theme,igitscor,Estuary,0.1.0,"The Estuary theme of @iscor/design, in light and dark: off-white, ink and one lime accent."
+2026-10-08T19:17:01.347Z,chengbin.workspace-toolbox,chengbin,VS Code 工具箱,0.1.0,在底部工具箱管理工作区文件、VS Code 命令和 Copilot 消息。
