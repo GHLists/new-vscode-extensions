@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 17:20 UTC
+## Latest list — 2026-10-08 18:19 UTC
 
-New extensions published between 2026-10-08 15:20 UTC and 2026-10-08 17:20 UTC.
+New extensions published between 2026-10-08 16:19 UTC and 2026-10-08 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T17-20-37-737584Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T18-19-16-10559Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 16:26:56 | [gitwithmasum.masum-galaxy-cp-arena](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-galaxy-cp-arena) | Masum Galaxy // CP Arena | 1.0.0 | A competitive programming cockpit for VS Code with local judging, verdict diffs… |
-| 2026-10-08 16:27:14 | [intersoftbs.terminal-automator](https://marketplace.visualstudio.com/items?itemName=intersoftbs.terminal-automator) | Terminal Automator | 1.0.0 | A secure tool for executing predefined terminal commands from .terminal files w… |
-| 2026-10-08 16:32:22 | [CommandCode.commandcode-vscode](https://marketplace.visualstudio.com/items?itemName=CommandCode.commandcode-vscode) | Command Code for VS Code | 0.0.1 | Stop fixing sloppy AI code. Command Code continuously learns your coding taste. |
-| 2026-10-08 16:54:54 | [archibot.archibot-vscode](https://marketplace.visualstudio.com/items?itemName=archibot.archibot-vscode) | Archibot | 0.1.121 | Chat with Archibot from inside VS Code using your Archibot account. Linux and W… |
-| 2026-10-08 16:57:46 | [spdedsec.shae-vscode](https://marketplace.visualstudio.com/items?itemName=spdedsec.shae-vscode) | Shae | 0.1.0 | Official VS Code extension for the Shae programming language, featuring syntax… |
-| 2026-10-08 17:00:47 | [linewatch.linewatch](https://marketplace.visualstudio.com/items?itemName=linewatch.linewatch) | Linewatch | 0.1.0 | Shows Linewatch AI code review findings on the lines in your editor. |
-| 2026-10-08 17:03:06 | [Optimizely2026.optimizely-web-experimentation](https://marketplace.visualstudio.com/items?itemName=Optimizely2026.optimizely-web-experimentation) | Optimizely Web Experimentation | 1.0.0 | Edit Optimizely Web Experimentation Custom JS/CSS directly in VSCode. |
-| 2026-10-08 17:11:38 | [xiaofanfan.fix-markdown-math-tool](https://marketplace.visualstudio.com/items?itemName=xiaofanfan.fix-markdown-math-tool) | Fix Markdown Math Tool | 0.0.3 | Normalize LaTeX math and repair common Markdown formatting issues in the curren… |
-| 2026-10-08 17:12:24 | [hmmvot.omp-desk](https://marketplace.visualstudio.com/items?itemName=hmmvot.omp-desk) | OMP Desk | 0.1.0 | Run Oh My Pi (omp) sessions in VS Code: a Sessions view, Chat or the native Ter… |
-| 2026-10-08 17:13:28 | [sriharirao.herdr-hub](https://marketplace.visualstudio.com/items?itemName=sriharirao.herdr-hub) | Herdr Hub | 0.1.2 | Community client for Herdr: your Herdr spaces, agents and shells in one VS Code… |
+| 2026-10-08 17:35:23 | [scandoc.scandoc](https://marketplace.visualstudio.com/items?itemName=scandoc.scandoc) | scanDoc | 0.1.1 | Consulte a documentação do seu projeto com IA, com respostas fundamentadas e re… |
+| 2026-10-08 17:45:05 | [devneonix.open-gitlens](https://marketplace.visualstudio.com/items?itemName=devneonix.open-gitlens) | Open GitLens | 0.2.1 | Free Git supercharger for VS Code: commit graph, line blame, file history, work… |
+| 2026-10-08 17:52:25 | [flowpact.vscode-flowpact](https://marketplace.visualstudio.com/items?itemName=flowpact.vscode-flowpact) | flowpact | 0.7.0 | Diagnostics, hover traces and go to definition across GitHub Actions workflow c… |
+| 2026-10-08 17:53:13 | [KhushdeepBrar.thoughtpath](https://marketplace.visualstudio.com/items?itemName=KhushdeepBrar.thoughtpath) | ThoughtPath - Agent Trace | 0.0.4 | Live decision maps, tool activity and reported token usage for Copilot Agent ch… |
+| 2026-10-08 17:58:44 | [DawsonDevelopment.ibm-member-picker](https://marketplace.visualstudio.com/items?itemName=DawsonDevelopment.ibm-member-picker) | Ibm Member Picker | 0.1.3 | Open IBM i source members with an RDi-style guided picker. |
+| 2026-10-08 18:01:10 | [sriharirao.herdr-cockpit](https://marketplace.visualstudio.com/items?itemName=sriharirao.herdr-cockpit) | Herdr Cockpit | 0.2.0 | Your Herdr agents and spaces in one VS Code window: files, git, diffs and all y… |
+| 2026-10-08 18:01:23 | [RDR.build-distribute](https://marketplace.visualstudio.com/items?itemName=RDR.build-distribute) | Build&Distribute | 0.1.0 | Build a release APK from the opened Flutter project and upload it to Firebase A… |
+| 2026-10-08 18:06:01 | [krimsn.hfm-preview](https://marketplace.visualstudio.com/items?itemName=krimsn.hfm-preview) | Markdown Preview for Habr | 0.1.2 | Превью статьи в том виде, в каком её отрисует Хабр, и диагностика неподдерживае… |
+| 2026-10-08 18:07:10 | [mclovin.gremlin](https://marketplace.visualstudio.com/items?itemName=mclovin.gremlin) | Gremlin | 0.1.0 | AST-native AI code editor. Type-checked single-file edits, powered by Gemini or… |
 
 ## Data source
 
