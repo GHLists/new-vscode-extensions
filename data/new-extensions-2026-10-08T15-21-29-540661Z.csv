@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T14:44:18.27Z,dr-opensource.gitwizard,dr-opensource,GitWizard,0.1.0,Intent-based Git safety and orchestration extension for vibe coders
+2026-10-08T15:01:20.847Z,JGalego.wif-viewer,JGalego,WIF Viewer,0.1.0,"View weaving draft files (.wif): threading, tie-up, treadling and a colored drawdown."
+2026-10-08T15:06:21.763Z,tython.tython,tython,TyThon,0.1.0,Python with an erasable structural type system powered by the adapted TypeScript checker. Independent project.
+2026-10-08T15:13:08.487Z,RodrigoScola.automated-processes,RodrigoScola,Automated Processes,1.0.0,Per-branch PostgreSQL databases and one-click project scripts.

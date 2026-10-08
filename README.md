@@ -12,25 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 14:19 UTC
+## Latest list — 2026-10-08 15:21 UTC
 
-New extensions published between 2026-10-08 12:19 UTC and 2026-10-08 14:19 UTC.
+New extensions published between 2026-10-08 13:21 UTC and 2026-10-08 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T14-19-50-076507Z.csv)
+[Full CSV](data/new-extensions-2026-10-08T15-21-29-540661Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 13:20:24 | [low-poly-ai-workspace.low-poly-ai-workspace](https://marketplace.visualstudio.com/items?itemName=low-poly-ai-workspace.low-poly-ai-workspace) | Low Poly AI Workspace | 0.1.9 | Open the local AI Workspace visualization inside VS Code. |
-| 2026-10-08 13:21:25 | [vibecode.vibecode-vscode](https://marketplace.visualstudio.com/items?itemName=vibecode.vibecode-vscode) | VibeCode AI Agent | 0.1.40 | A coding agent that reads and writes files, runs commands, searches the web, an… |
-| 2026-10-08 13:23:28 | [ColinHouse.sprig-language](https://marketplace.visualstudio.com/items?itemName=ColinHouse.sprig-language) | Sprig | 0.3.0 | Sprig language support through the Sprig language server: diagnostics as you ty… |
-| 2026-10-08 13:27:48 | [apoint.ms-sql-mcp](https://marketplace.visualstudio.com/items?itemName=apoint.ms-sql-mcp) | APoint-ms-sql | 1.1.0 | SQL Server MCP server for VS Code, Cursor and Claude - multi-connection, object… |
-| 2026-10-08 13:31:06 | [Farrago-studio.gitlab-project-pipelines](https://marketplace.visualstudio.com/items?itemName=Farrago-studio.gitlab-project-pipelines) | Farrago GitLab Pipelines | 0.2.1 | Monitor every GitLab pipeline in the current project, filter branches and tags,… |
-| 2026-10-08 13:32:14 | [playree.markdown-sequence-side-notes](https://marketplace.visualstudio.com/items?itemName=playree.markdown-sequence-side-notes) | Markdown Sequence Side Notes | 0.1.0 | Preview design-document Markdown with mermaid sequence diagrams side by side wi… |
-| 2026-10-08 13:36:21 | [Grain-ts.grain-vscode](https://marketplace.visualstudio.com/items?itemName=Grain-ts.grain-vscode) | Grain.ts | 0.2.0 | Grain.ts language support: syntax highlighting, diagnostics, go-to-definition,… |
-| 2026-10-08 13:59:39 | [usetrim.trim-ide](https://marketplace.visualstudio.com/items?itemName=usetrim.trim-ide) | Trim IDE | 1.0.0 | Starts the local Trim Fast Mode proxy with your IDE and posts tab acceptance /… |
-| 2026-10-08 14:10:55 | [bsesic.vscode-color-palette-creator](https://marketplace.visualstudio.com/items?itemName=bsesic.vscode-color-palette-creator) | VSCode Color Palette Creator | 1.0.0 | Color picker, palette generator with color harmonies, image color extraction, g… |
-| 2026-10-08 14:11:49 | [drt-hub.vscode-drt](https://marketplace.visualstudio.com/items?itemName=drt-hub.vscode-drt) | drt — Reverse ETL | 0.1.13 | YAML validation, autocomplete, and hover docs for drt sync files. |
-| 2026-10-08 14:13:38 | [TronForgeX.clidevoff-agent](https://marketplace.visualstudio.com/items?itemName=TronForgeX.clidevoff-agent) | Clidevoff — AI Coding Agent | 1.0.1 | A portable cloud coding agent for VS Code-compatible editors |
+| 2026-10-08 14:44:18 | [dr-opensource.gitwizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.gitwizard) | GitWizard | 0.1.0 | Intent-based Git safety and orchestration extension for vibe coders |
+| 2026-10-08 15:01:20 | [JGalego.wif-viewer](https://marketplace.visualstudio.com/items?itemName=JGalego.wif-viewer) | WIF Viewer | 0.1.0 | View weaving draft files (.wif): threading, tie-up, treadling and a colored dra… |
+| 2026-10-08 15:06:21 | [tython.tython](https://marketplace.visualstudio.com/items?itemName=tython.tython) | TyThon | 0.1.0 | Python with an erasable structural type system powered by the adapted TypeScrip… |
+| 2026-10-08 15:13:08 | [RodrigoScola.automated-processes](https://marketplace.visualstudio.com/items?itemName=RodrigoScola.automated-processes) | Automated Processes | 1.0.0 | Per-branch PostgreSQL databases and one-click project scripts. |
 
 ## Data source
 
