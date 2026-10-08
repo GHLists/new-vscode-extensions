@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T06:28:59.487Z,yusu79.vscode-todo-drop,yusu79,Todo Drop,1.0.0,Drop Markdown and text checklists into Explorer and sync task completion with source files.
+2026-10-08T06:34:39.76Z,MohsinPatel.apivo,MohsinPatel,Apivo,1.0.0,"Local-first API client for VS Code and Cursor. Import cURL, send requests without browser CORS limits, inspect responses, manage collections and environments."
+2026-10-08T06:35:50.82Z,santriverse.santri-code,santriverse,Santri Code,0.1.6,"AI Flow Studio Santriverse di editor: susun PRD, ARCHITECTURE.md, SDLC, dan DESIGN.md lalu simpan langsung ke project (khusus Member Premium)."
+2026-10-08T06:40:42.153Z,sigityuki.yuki-templatify,sigityuki,yuki templatify,0.0.1,generate files from your own templates
+2026-10-08T06:41:40.8Z,AINGEARMENG.terminal-colors,AINGEARMENG,Terminal.app Colors,0.0.1,Copy your macOS Terminal.app profile colors into the VS Code integrated terminal.
+2026-10-08T06:50:25.42Z,MogoVsixRightMenu1.shuyu-ai-commit,MogoVsixRightMenu1,shuyu - AI Commit,1.0.6,一键分析本地未暂存修改并生成 Commit 备注
+2026-10-08T07:00:23.223Z,IRUMI.irumi-language,IRUMI,IRUMI Language Support,0.1.1,日本語語順スクリプト言語「IRUMI」の公式VS Code拡張機能。シンタックスハイライト・コード補完・実行機能を提供します。
+2026-10-08T07:04:28.33Z,bravos.bravos,bravos,Bravos — threat modeling that proves itself,0.10.0,"Threats are annotated in your code, then attacked until each one is confirmed, ruled out, or shown to be by design."
+2026-10-08T07:06:31.447Z,JaviFRX.codex-agent-monitor,JaviFRX,Codex Agent Monitor,0.3.0,Monitor de conversaciones locales de Codex en una barra lateral compacta.
+2026-10-08T07:09:59.71Z,gamstek.msdata-vscode,gamstek,MSData Viewer,0.2.1,"Read-only sample, component, chromatogram and spectrum viewer for .msdata and .mzML files"
+2026-10-08T07:10:36.283Z,ia-souveraine.ia-souveraine-chat,ia-souveraine,IA-Souveraine code,0.1.15,"AI pair programmer in VS Code — agent chat with file edits, terminal, search, sessions, and workspace @-mentions. Powered by IA-Souveraine."
