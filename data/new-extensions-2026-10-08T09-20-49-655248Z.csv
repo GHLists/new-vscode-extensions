@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T08:18:20.033Z,m-hiratani.vscode-branch-colors,m-hiratani,Branch Colors,0.0.1,Colors the title bar and status bar based on the current git branch name
+2026-10-08T08:38:35.637Z,IbrahimAwaly.awalgo,IbrahimAwaly,Awalgo – Pseudo-code en français,1.0.1,"Écris, colorie et exécute ton pseudo-code en français (fichiers .Awalgo) : SI, SELON QUE, POUR, TANT QUE, FAIRE, fonctions, procédures et tableaux."
+2026-10-08T08:43:23.893Z,alakanani.godcode,alakanani,God Code,2.2.0,"Language support for God Code. The spiritually-inspired programming language. Syntax highlighting, snippets, and one-key running of .god files."
+2026-10-08T08:45:44.797Z,afmhenry.point-at-line,afmhenry,point-at-line,0.0.1,Copy the current file path and cursor position
+2026-10-08T08:47:56.853Z,GalaruxSoftwareandConsultingSL.pte-deploy,GalaruxSoftwareandConsultingSL,PTE Deploy for Business Central,0.9.0,"Deploy per-tenant extensions to any Business Central environment from VS Code, across all your customer tenants, via the Admin Center API."
+2026-10-08T08:52:16.853Z,PavlenkoEvgeny.ollama-balance,PavlenkoEvgeny,Ollama Balance,1.1.3,"Shows how many ollama.com cloud credits are left, in the status bar. Unofficial — not affiliated with Ollama."
+2026-10-08T08:53:07.887Z,billionairestechnologies.friday-x,billionairestechnologies,FridayX,0.2.0,"FridayX in VS Code: Friday's coding agent in a chat panel beside your code. Same engine as the friday CLI, your Friday account, plan and models."
+2026-10-08T08:53:54.43Z,kele14x.dslx-syntax,kele14x,DSLX Syntax,0.1.1,"Syntax highlighting and editing support for Google XLS DSLX, with no language server required."
+2026-10-08T08:55:01.187Z,Modelog.modelog,Modelog,Modelog — AI Model Cost & Usage Analytics,0.1.0,"See exactly what switching AI models costs and changes — measured from your own Claude Code & GitHub Copilot session logs. 100% local, zero telemetry."
+2026-10-08T08:57:10.997Z,Mellow.mellow-peek,Mellow,Mellow Peek,0.0.3,"Team awareness for the agent era: what colleagues and their coding agents are doing, in your editor."
+2026-10-08T08:57:52.423Z,Pogl.pogl-play,Pogl,Pogl Play — play while your AI codes,0.4.0,"Play a quick Pogl game while your AI codes — Claude Code, Codex, Cursor, Gemini CLI, Copilot, Windsurf, OpenCode, Kiro, Cline, Roo, Amp, Aider. Opens on its own when your AI takes a while, and tells you the moment it’s done."
