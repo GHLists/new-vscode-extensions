@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T16:26:56.41Z,gitwithmasum.masum-galaxy-cp-arena,gitwithmasum,Masum Galaxy // CP Arena,1.0.0,"A competitive programming cockpit for VS Code with local judging, verdict diffs, benchmarks, stress testing, contest tools, snippets, and AI coaching."
+2026-10-08T16:27:14.66Z,intersoftbs.terminal-automator,intersoftbs,Terminal Automator,1.0.0,A secure tool for executing predefined terminal commands from .terminal files with visual feedback
+2026-10-08T16:32:22.737Z,CommandCode.commandcode-vscode,CommandCode,Command Code for VS Code,0.0.1,Stop fixing sloppy AI code. Command Code continuously learns your coding taste.
+2026-10-08T16:54:54.617Z,archibot.archibot-vscode,archibot,Archibot,0.1.121,Chat with Archibot from inside VS Code using your Archibot account. Linux and Windows.
+2026-10-08T16:57:46.617Z,spdedsec.shae-vscode,spdedsec,Shae,0.1.0,"Official VS Code extension for the Shae programming language, featuring syntax highlighting and language server protocol (LSP) support."
+2026-10-08T17:00:47.977Z,linewatch.linewatch,linewatch,Linewatch,0.1.0,Shows Linewatch AI code review findings on the lines in your editor.
+2026-10-08T17:03:06.19Z,Optimizely2026.optimizely-web-experimentation,Optimizely2026,Optimizely Web Experimentation,1.0.0,Edit Optimizely Web Experimentation Custom JS/CSS directly in VSCode.
+2026-10-08T17:11:38.423Z,xiaofanfan.fix-markdown-math-tool,xiaofanfan,Fix Markdown Math Tool,0.0.3,Normalize LaTeX math and repair common Markdown formatting issues in the current file.
+2026-10-08T17:12:24.627Z,hmmvot.omp-desk,hmmvot,OMP Desk,0.1.0,"Run Oh My Pi (omp) sessions in VS Code: a Sessions view, Chat or the native Terminal TUI in one editor, and sessions that survive reloads. Windows only."
+2026-10-08T17:13:28.13Z,sriharirao.herdr-hub,sriharirao,Herdr Hub,0.1.2,"Community client for Herdr: your Herdr spaces, agents and shells in one VS Code window. Switch spaces, open agents as terminal tabs, review their changes. Works in VS Code, Cursor, Kiro and Positron."
