@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T03:27:37.707Z,wangzhy.wangzhy-keymap,wangzhy,wangzhy Keymap,0.1.0,"IDEA-inspired keyboard shortcuts for VS Code on macOS, with workspace-level control."
+2026-10-08T03:27:48.22Z,XiaoXinCodes.antigravity-account-manager,XiaoXinCodes,Antigravity Workbench,0.1.0,Manage Google Antigravity accounts and generate images in one VS Code workbench.
+2026-10-08T03:31:30.193Z,flowstate.luaslope,flowstate,luaslope,0.0.1,Placeholder for luaslope. This extension currently provides no functionality.
+2026-10-08T03:31:45.713Z,Yokeeswaran.file-viewer,Yokeeswaran,File Viewer,0.1.0,"View and edit .xlsx, .csv and .md files, and view .docx files, inside VS Code."
+2026-10-08T03:35:56.357Z,lengmh.krill-usage,lengmh,Krill Usage,0.1.4,非官方 Krill 额度工具：在 VS Code 中查看套餐额度与账户余额。
+2026-10-08T03:36:53.693Z,RbxForge.rbxforge,RbxForge,RbxForge,0.0.1,Placeholder for RbxForge. This extension currently provides no functionality.
+2026-10-08T03:46:44.763Z,StyleUi.styleartist,StyleUi,StyleArtist,0.0.1,Placeholder for StyleArtist. This extension currently provides no functionality.
+2026-10-08T03:51:17.383Z,ReadyStack.dotnet-eol-support-gate,ReadyStack,.NET EOL & CRA Support Window Gate,1.0.11,"Reads a .csproj or global.json and dates every target framework against Microsoft's published end-of-support day, then against the support period you promise buyers."
+2026-10-08T03:51:34.71Z,ReadyStack.einvoice-lint-en16931,ReadyStack,"E-Invoice Lint for XRechnung, Factur-X and UBL",0.1.6,"Catches retired profile identifiers, code-list values outside EN 16931 and malformed dates in your e-invoice XML, in the editor, before an access point rejects the file."
+2026-10-08T03:51:43.787Z,ReadyStack.en16931-einvoice-lint,ReadyStack,EN 16931 e-Invoice Lint,1.0.12,"Lints invoice payloads and field mappings against EN 16931 and national CIUS rules (XRechnung, Factur-X, FatturaPA, Peppol BIS, KSeF): missing business terms, stale spec IDs, wrong mandate dates."
+2026-10-08T03:51:53.693Z,ReadyStack.en301549-lint,ReadyStack,EN 301 549 Lint — EU Accessibility Act,0.1.8,"Flags the EN 301 549 clause each line breaks, and separates what is in force today from what arrives with V4.1.1."
+2026-10-08T03:54:29.06Z,darkpyonix.letify-status,darkpyonix,letify Status,1.2.0,"letify quota and GPU activity in the status bar, read from the letify CLI."
