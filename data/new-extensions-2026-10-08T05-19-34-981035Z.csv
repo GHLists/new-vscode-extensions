@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T04:27:47.98Z,opencode-v2-maker.opencode-v2-vscode,opencode-v2-maker,Opencode V2,0.1.0,"opencode for VS Code, adapted for OpenCode V2 (shared background service, no per-terminal server)."
+2026-10-08T04:35:25.39Z,techentangle.zerodq-vscode,techentangle,0dq,0.2.1,"Credentials and quantum-vulnerable cryptography, underlined as you type."
+2026-10-08T04:42:36.4Z,ddb-nz-omc.dotdotdash-tools,ddb-nz-omc,DotDotDash Tools,0.0.1,Install and update approved private DotDotDash extensions from GitHub Releases.
+2026-10-08T04:51:17.24Z,IBM.cics-ia-smart-ai-assistant,IBM,CICS IA Smart AI Assistant,6.3.0,Extension to the IBM CICS Interdependency Analyzer Smart AI Assistant
+2026-10-08T04:52:05.973Z,dnj-meiko.i18n-inline-viewer,dnj-meiko,i18n Inline Viewer,0.2.16,代码中行内显示 i18next 译文
+2026-10-08T04:57:32.15Z,unblck.ship-your-site,unblck,"Ship your site: domain, Netlify, DNS, HTTPS",1.0.0,"Free step-by-step walkthrough and agent skill to take a local site live on your own domain with Netlify: deploy, make public, buy a domain, DNS, HTTPS, verify. By unblck.me."
