@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T17:23:22.137Z,kietmn.nestjs-microservices-manager,kietmn,NestJS Microservices Manager,0.1.0,"Discover Nest CLI applications and run, stop, restart and inspect them from Cursor/VS Code."
+2026-10-09T17:33:52.673Z,ArnavNKamat.poke-code,ArnavNKamat,PokeCode,1.0.0,A Pokémon companion inside VS Code
+2026-10-09T17:43:56.81Z,komallsingh.api-contract-guardian,komallsingh,API Contract Guardian,2.0.1,Detect potentially breaking API contract changes in projects.
+2026-10-09T17:57:18.933Z,v3nn7.ryn-lang,v3nn7,Ryn,0.1.0,"Ryn language support: syntax highlighting, completion, hover, signature help, go to definition, outline, and ryn check diagnostics."
+2026-10-09T17:58:03.137Z,sobansheikh.vibe-prompt,sobansheikh,Vibe Prompt,0.9.0,"Private, local voice-to-text for prompts and code in VS Code."
+2026-10-09T18:07:48.51Z,rajbagri.contrail,rajbagri,Contrail – Prompt Enhancer & Context Packer,0.1.0,"Pack only the code that matters into AI prompts, reuse prompt templates and improve prompts before you send them. Works with Copilot Chat, Claude Code and any AI chat."

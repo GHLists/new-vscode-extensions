@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 17:20 UTC
+## Latest list — 2026-10-09 18:20 UTC
 
-New extensions published between 2026-10-09 15:20 UTC and 2026-10-09 17:20 UTC.
+New extensions published between 2026-10-09 16:20 UTC and 2026-10-09 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T17-20-15-880537Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T18-20-20-258061Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 16:19:22 | [saolabs.saola-language-support](https://marketplace.visualstudio.com/items?itemName=saolabs.saola-language-support) | Saola Framework Tools | 1.0.3 | Complete Saola syntax highlighting, snippets, and formatting for .sao template… |
-| 2026-10-09 16:33:31 | [bacumi.bacumi-theme](https://marketplace.visualstudio.com/items?itemName=bacumi.bacumi-theme) | Bacumi Theme | 0.2.0 | Light and dark themes with warm Bacumi accents, readable syntax and semantic hi… |
-| 2026-10-09 16:40:37 | [Lambogenius.tar-gz-viewer](https://marketplace.visualstudio.com/items?itemName=Lambogenius.tar-gz-viewer) | Tar.gz Viewer | 0.2.0 | Browse .tar.gz / .tgz archives and view the text files inside them (and plain .… |
-| 2026-10-09 16:40:50 | [lilinhuang.extension-sorter](https://marketplace.visualstudio.com/items?itemName=lilinhuang.extension-sorter) | Extension Sorter | 1.0.0 | Sort installed extensions by install date, filter themes, and open the native e… |
-| 2026-10-09 16:42:20 | [dr-opensource.envwizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.envwizard) | EnvWizard | 0.1.0 | Port unjammer & dev environment guardian for vibe coders. 1-click unjam ports,… |
-| 2026-10-09 16:45:38 | [qianwenlei.vscode-one-click-deploy](https://marketplace.visualstudio.com/items?itemName=qianwenlei.vscode-one-click-deploy) | One Click Deploy SFTP | 0.4.1 | Deploy to SSH servers via SFTP. Separate host and project management. |
+| 2026-10-09 17:23:22 | [kietmn.nestjs-microservices-manager](https://marketplace.visualstudio.com/items?itemName=kietmn.nestjs-microservices-manager) | NestJS Microservices Manager | 0.1.0 | Discover Nest CLI applications and run, stop, restart and inspect them from Cur… |
+| 2026-10-09 17:33:52 | [ArnavNKamat.poke-code](https://marketplace.visualstudio.com/items?itemName=ArnavNKamat.poke-code) | PokeCode | 1.0.0 | A Pokémon companion inside VS Code |
+| 2026-10-09 17:43:56 | [komallsingh.api-contract-guardian](https://marketplace.visualstudio.com/items?itemName=komallsingh.api-contract-guardian) | API Contract Guardian | 2.0.1 | Detect potentially breaking API contract changes in projects. |
+| 2026-10-09 17:57:18 | [v3nn7.ryn-lang](https://marketplace.visualstudio.com/items?itemName=v3nn7.ryn-lang) | Ryn | 0.1.0 | Ryn language support: syntax highlighting, completion, hover, signature help, g… |
+| 2026-10-09 17:58:03 | [sobansheikh.vibe-prompt](https://marketplace.visualstudio.com/items?itemName=sobansheikh.vibe-prompt) | Vibe Prompt | 0.9.0 | Private, local voice-to-text for prompts and code in VS Code. |
+| 2026-10-09 18:07:48 | [rajbagri.contrail](https://marketplace.visualstudio.com/items?itemName=rajbagri.contrail) | Contrail – Prompt Enhancer & Context Pa… | 0.1.0 | Pack only the code that matters into AI prompts, reuse prompt templates and imp… |
 
 ## Data source
 
