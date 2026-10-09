@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T09:37:24.553Z,thai1108.artboard-inspector,thai1108,Artboard Inspector,0.1.0,"View and inspect Adobe XD (.xd) files inside VS Code: artboards, layers, sizes, spacing, colors, fonts and CSS. Works offline."
+2026-10-09T09:54:43.39Z,ai-follwer.make-run-tasks,ai-follwer,Make Run Tasks,1.7.6,"Run Makefile targets from the editor or task explorer, individually, in sequence, or in parallel."
+2026-10-09T09:59:03.317Z,zhangxue.env-switch-vite-zx,zhangxue,Env Switch for Vite 环境一键切换,0.1.1,在 VS Code 状态栏一键切换前端项目的运行环境与后端代理，支持一个项目配置任意多套自定义环境（含多后端代理）

@@ -12,23 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 09:21 UTC
+## Latest list — 2026-10-09 10:20 UTC
 
-New extensions published between 2026-10-09 07:21 UTC and 2026-10-09 09:21 UTC.
+New extensions published between 2026-10-09 08:20 UTC and 2026-10-09 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T09-21-09-747037Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T10-20-07-435948Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 08:22:46 | [hacrodev.static-site-preview-web](https://marketplace.visualstudio.com/items?itemName=hacrodev.static-site-preview-web) | Static Site Preview (Web) | 0.2.2 | Preview static HTML/CSS/JS sites inside VS Code, including vscode.dev, without… |
-| 2026-10-09 08:26:33 | [gitwithmasum.masum-chronos](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-chronos) | MASUM CHRONOS — Futuristic Timer & To-Do | 1.2.2 | Neon Pomodoro focus timer, countdown, stopwatch, To-Do Mission Control and opti… |
-| 2026-10-09 08:31:05 | [praveenreddypoosapati.ondemand-ultimate](https://marketplace.visualstudio.com/items?itemName=praveenreddypoosapati.ondemand-ultimate) | OnDemand DB - One Box Any DB - STABLE | 3.0.0 | STABLE v3 - One Connection String. Any DB. Real Data. MySQL Postgres BigQuery S… |
-| 2026-10-09 08:42:15 | [chenqinru.versiondock](https://marketplace.visualstudio.com/items?itemName=chenqinru.versiondock) | VersionDock | 1.0.0 | A Git and SVN workbench for VS Code — Commit panel, history graph, multi-repo w… |
-| 2026-10-09 08:53:37 | [iyansr.paddock](https://marketplace.visualstudio.com/items?itemName=iyansr.paddock) | paddock | 0.1.0 | Switch projects in one VS Code window without losing your coding agents |
-| 2026-10-09 09:09:37 | [hantafunto.jsonto](https://marketplace.visualstudio.com/items?itemName=hantafunto.jsonto) | JSONTO | 0.2.0 | Format, minify and convert JSON (YAML, CSV, TypeScript, XML, ...) right inside… |
-| 2026-10-09 09:09:40 | [EGWWritings.weml-tools](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-tools) | WEML Tools | 0.3.0 | Editing tools for WEML (White Estate Markup Language) documents in the side bar… |
-| 2026-10-09 09:09:47 | [EGWWritings.weml-preview](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-preview) | WEML Preview | 0.2.0 | Live preview of WEML (White Estate Markup Language) and HTML documents rendered… |
-| 2026-10-09 09:09:53 | [EGWWritings.weml-extension-pack](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-extension-pack) | WEML Extension Pack | 0.1.0 | Everything for WEML (White Estate Markup Language) documents in VS Code: the la… |
+| 2026-10-09 09:37:24 | [thai1108.artboard-inspector](https://marketplace.visualstudio.com/items?itemName=thai1108.artboard-inspector) | Artboard Inspector | 0.1.0 | View and inspect Adobe XD (.xd) files inside VS Code: artboards, layers, sizes,… |
+| 2026-10-09 09:54:43 | [ai-follwer.make-run-tasks](https://marketplace.visualstudio.com/items?itemName=ai-follwer.make-run-tasks) | Make Run Tasks | 1.7.6 | Run Makefile targets from the editor or task explorer, individually, in sequenc… |
+| 2026-10-09 09:59:03 | [zhangxue.env-switch-vite-zx](https://marketplace.visualstudio.com/items?itemName=zhangxue.env-switch-vite-zx) | Env Switch for Vite 环境一键切换 | 0.1.1 | 在 VS Code 状态栏一键切换前端项目的运行环境与后端代理，支持一个项目配置任意多套自定义环境（含多后端代理） |
 
 ## Data source
 
