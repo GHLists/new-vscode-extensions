@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 19:19 UTC
+## Latest list — 2026-10-09 20:20 UTC
 
-New extensions published between 2026-10-09 17:19 UTC and 2026-10-09 19:19 UTC.
+New extensions published between 2026-10-09 18:20 UTC and 2026-10-09 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T19-19-37-308825Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T20-20-28-829368Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 18:17:55 | [crisvsgame.pgform](https://marketplace.visualstudio.com/items?itemName=crisvsgame.pgform) | Pgform | 0.1.0 | Format PostgreSQL SQL using pgFormatter. |
-| 2026-10-09 18:28:51 | [rclsilver.threavia](https://marketplace.visualstudio.com/items?itemName=rclsilver.threavia) | Threavia | 0.10.0 | Follow and answer your Threavia coding agents from the editor. |
-| 2026-10-09 18:37:34 | [manas-chaurasia.codepilot-manas-chaurasia](https://marketplace.visualstudio.com/items?itemName=manas-chaurasia.codepilot-manas-chaurasia) | CodePilot-ai-assistant | 0.2.1 | AI coding assistant for VS Code: chat with your files, inline edit with diff pr… |
-| 2026-10-09 18:52:09 | [skpaul82.tabfold](https://marketplace.visualstudio.com/items?itemName=skpaul82.tabfold) | TabFold: Tab Groups | 0.1.0 | Group, name, color and collapse editor tabs like Chrome — on the tab bar and in… |
-| 2026-10-09 19:07:23 | [gauravgupta0612.routinel](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.routinel) | Routinel – API Finder & Client | 1.1.2 | Routinel (Route + Sentinel) auto-discovers every HTTP API in your workspace — a… |
-| 2026-10-09 19:10:17 | [kabartay.jobwatch](https://marketplace.visualstudio.com/items?itemName=kabartay.jobwatch) | Jobwatch: GPU Jobs and Spend | 0.1.2 | Your Hugging Face Jobs in the VS Code status bar: what is running, what it has… |
-| 2026-10-09 19:12:13 | [ashchur.universal-diff-viewer](https://marketplace.visualstudio.com/items?itemName=ashchur.universal-diff-viewer) | Universal Diff Viewer | 1.0.0 | Review image, text, spreadsheet and document changes in a VS Code tab. |
+| 2026-10-09 19:28:28 | [champrep.champrep-ai](https://marketplace.visualstudio.com/items?itemName=champrep.champrep-ai) | Eve AI | 0.2.1 | Eve AI, the coding agent by CHAMPREP (formerly CHAMPREP AI), in VS Code with ac… |
+| 2026-10-09 19:29:07 | [hhdblog.cmdkit](https://marketplace.visualstudio.com/items?itemName=hhdblog.cmdkit) | Cmdkit | 0.2.1 | Group frequently used terminal commands and run them from the status bar. Ships… |
+| 2026-10-09 19:36:46 | [PearsReview.ai-pear-review](https://marketplace.visualstudio.com/items?itemName=PearsReview.ai-pear-review) | AI Pear Review | 0.0.2 | Walk through your uncommitted changes one hunk at a time with an AI reviewer yo… |
+| 2026-10-09 19:51:15 | [FlyingsMarmotUW.flyingsmarmot-clangd-ucpp](https://marketplace.visualstudio.com/items?itemName=FlyingsMarmotUW.flyingsmarmot-clangd-ucpp) | clangd-uC++ (UW) | 1.2.0 | uC++/C/C++ completion, navigation, and insights |
+| 2026-10-09 20:02:46 | [Lekasnet.dams](https://marketplace.visualstudio.com/items?itemName=Lekasnet.dams) | DAMS | 0.2.3 |  |
 
 ## Data source
 
