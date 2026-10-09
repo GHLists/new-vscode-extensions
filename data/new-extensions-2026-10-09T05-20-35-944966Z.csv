@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T04:35:45.557Z,ShiweiX.bugpilot,ShiweiX,BugPilot,0.1.0,"Turn a Jira issue or a bug you describe into focused code context for your AI coding agent, without leaving the editor."
+2026-10-09T04:40:16.32Z,cloud-mavericks.koala-hydrate,cloud-mavericks,Koala Hydrate - Drink Water Reminder,1.0.1,"A funny animated Koala reminder to keep you hydrated while coding. Configurable intervals (30m, 1h, 2h), cute interactive animations, streak tracking, and customizable alerts."
+2026-10-09T04:52:58.153Z,playree.markdown-design-doc-viewer,playree,Markdown Design Doc Viewer,0.2.0,"Preview design documents written in Markdown: mermaid sequence diagrams side by side with their linked step descriptions, a table of contents, GitHub alerts and task lists."
