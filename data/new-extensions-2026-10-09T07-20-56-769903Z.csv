@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T06:46:03.253Z,smartmx.mrvc,smartmx,MRVC,0.1.7,"MRVC — open, configure and build MounRiver (MRS) projects for WCH MCUs directly in VSCode."
+2026-10-09T06:46:55.517Z,bianliuzhu.mockjs-completion,bianliuzhu,Mock.js Completion,0.0.2,Mock.js placeholder completion in VS Code for workspace-root mocks/**/*.json files.
+2026-10-09T06:51:12.34Z,grikomsn.ampersand-bridge-copilot-chat,grikomsn,Ampersand Bridge for GitHub Copilot Chat,1.0.0,"Use ai& models in GitHub Copilot Chat with your own API key. Independent extension, not affiliated with ai&."
+2026-10-09T07:09:44.423Z,bigsmartie.mycode-vscode,bigsmartie,MythosCode,0.1.0,Open MyCode in the active workspace and prepare file context for review.
