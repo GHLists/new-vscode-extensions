@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 15:19 UTC
+## Latest list — 2026-10-09 16:20 UTC
 
-New extensions published between 2026-10-09 13:19 UTC and 2026-10-09 15:19 UTC.
+New extensions published between 2026-10-09 14:20 UTC and 2026-10-09 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T15-19-13-72648Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T16-20-21-706863Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 14:18:15 | [hopleus.hopl-agent-sessions](https://marketplace.visualstudio.com/items?itemName=hopleus.hopl-agent-sessions) | HOPL Agent Sessions | 0.2.0 | All your Claude Code and Codex sessions in one panel. Resume any conversation w… |
-| 2026-10-09 14:29:33 | [LiaoJianjin.large-jsonl-viewer](https://marketplace.visualstudio.com/items?itemName=LiaoJianjin.large-jsonl-viewer) | Large JSONL Viewer | 0.1.3 | A read-only, indexed JSONL/NDJSON viewer with folding and key navigation. |
-| 2026-10-09 14:31:44 | [vithrive.immersive-translate-plugin-for-vscode](https://marketplace.visualstudio.com/items?itemName=vithrive.immersive-translate-plugin-for-vscode) | Immersive Translate Plugin for VS Code | 1.0.4 | 在 VS Code 中提供对照滑窗、仅译文滑窗、行内沉浸三种翻译视图，并为 LaTeX / Markdown 提供同步翻译文件：只重翻改动句，公式与结构原样保… |
-| 2026-10-09 14:33:40 | [AraadShams.claude-tab-manager](https://marketplace.visualstudio.com/items?itemName=AraadShams.claude-tab-manager) | Claude Code Tab Manager | 0.9.2 | Group, color-code, rename, and reorder Claude Code session tabs, and see which… |
-| 2026-10-09 14:48:20 | [mart-dev.importtrace](https://marketplace.visualstudio.com/items?itemName=mart-dev.importtrace) | ImportTrace | 0.0.1 | See your code as connected windows. Files are nodes, imports and includes are a… |
-| 2026-10-09 14:53:16 | [mtasa-resource-compiler.mtasa-resource-script-compiler](https://marketplace.visualstudio.com/items?itemName=mtasa-resource-compiler.mtasa-resource-script-compiler) | MTA Resource Lua Compiler | 0.1.3 | Compile the Lua scripts declared by an MTA resource from Visual Studio Code or… |
-| 2026-10-09 15:04:32 | [LesliePaulAjayi.plain-code-reader](https://marketplace.visualstudio.com/items?itemName=LesliePaulAjayi.plain-code-reader) | Plain Code Reader | 0.1.0 | Breaks JavaScript and TypeScript files down into plain-English explanations of… |
-| 2026-10-09 15:07:21 | [lanly-dev.deval](https://marketplace.visualstudio.com/items?itemName=lanly-dev.deval) | Deval - Agent Evaluator ✅ | 0.0.1 | Run DeepEval TypeScript test suites to evaluate your agent behavior. |
+| 2026-10-09 15:25:40 | [evolve-data.gatepulse](https://marketplace.visualstudio.com/items?itemName=evolve-data.gatepulse) | GatePulse — SQL via Fabric Pipeline | 1.0.1 | Run ad hoc SQL from VS Code on any Microsoft Fabric-authorized connection — gat… |
+| 2026-10-09 15:36:24 | [ShivMohan.caped-themes](https://marketplace.visualstudio.com/items?itemName=ShivMohan.caped-themes) | Marvel Heroes Themes | 0.0.1 | 15 calm, lightweight colour themes inspired by Marvel heroes and villains |
+| 2026-10-09 15:38:22 | [zoomieloaf.margin](https://marketplace.visualstudio.com/items?itemName=zoomieloaf.margin) | Margin — Markdown Editor | 0.1.1 | Turn the Markdown in your repo into a Notion-style knowledge base: clean pages… |
+| 2026-10-09 15:45:05 | [satendra2rajput.sr-angular-toolkit](https://marketplace.visualstudio.com/items?itemName=satendra2rajput.sr-angular-toolkit) | sr Angular Toolkit | 0.0.1 | Developer toolkit for Angular developers with generators, snippets, project uti… |
+| 2026-10-09 15:51:01 | [PetrushaPetrovich.recent-workspaces](https://marketplace.visualstudio.com/items?itemName=PetrushaPetrovich.recent-workspaces) | Recent Workspaces | 0.3.2 | Open Recent, but workspaces only: every .code-workspace you have ever opened in… |
+| 2026-10-09 15:51:49 | [ReadyStack.formvorschriften-lint-beg4](https://marketplace.visualstudio.com/items?itemName=ReadyStack.formvorschriften-lint-beg4) | Formular-Check: Schriftform & Textform… | 1.0.8 | Prüft deutsche Formular- und Vertragsvorlagen (Markdown, HTML, Text) auf veralt… |
+| 2026-10-09 15:52:06 | [ReadyStack.fristenkalender-lint-de](https://marketplace.visualstudio.com/items?itemName=ReadyStack.fristenkalender-lint-de) | Fristenkalender Lint: Fristen berechnen | 1.0.8 | Prüft Fristenkalender-CSV gegen §§ 187–193 BGB und § 222 ZPO: Ereignistag, Mona… |
+| 2026-10-09 15:52:18 | [ReadyStack.gdpr-privacy-notice-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gdpr-privacy-notice-lint) | GDPR Privacy Notice Lint | 1.0.11 | Reads the privacy notice in your repo against 16 rules from GDPR Articles 13 an… |
+| 2026-10-09 16:02:54 | [BostonIdentity.pingam-config-promoter](https://marketplace.visualstudio.com/items?itemName=BostonIdentity.pingam-config-promoter) | PingAM Config Promoter | 0.1.0 | Compare self-hosted PingAM (7.x/8.x) environments and promote OAuth2 clients, t… |
 
 ## Data source
 
