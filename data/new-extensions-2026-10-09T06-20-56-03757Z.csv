@@ -1,0 +1,21 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T05:23:35.197Z,tsangkenneth.vscode-theme-duotone-blue,tsangkenneth,DuoTone Blue,0.1.0,A double-hue blue and gold theme for Visual Studio Code
+2026-10-09T05:37:34.467Z,Chikara-Power.instant-data-formatter,Chikara-Power,Instant Data Formatter,0.0.2,Format and clean messy JSON/data instantly
+2026-10-09T05:43:32.583Z,routy.routy-vscode,routy,Routy API Client,0.6.2,"API requests as plain .routy files in your repo: send them, check responses, keep them in sync with Go routes."
+2026-10-09T05:44:37.887Z,kosama685.usama-sftp,kosama685,Usama SFTP,2.1.0,"Easy SFTP, FTP, FTPS and Git HTTPS connections, remote editing and separate local Git checkouts."
+2026-10-09T05:50:52.827Z,AltasExpressLLC.tempest-remote,AltasExpressLLC,Tempest Remote,0.0.3,Open saved Tempest SSH servers in VS Code with the Tempest CLI.
+2026-10-09T05:55:32.81Z,celebi.celebi,celebi,Celebi,0.0.4,
+2026-10-09T06:01:30.22Z,throthe.codecoach-skills,throthe,Code Coach Skills Package,1.0.0,"Interactive coding tutor for GitHub Copilot with adaptive quizzes, snapshots, and tool discovery"
+2026-10-09T06:02:12.76Z,geongyu09.pilsa,geongyu09,Pilsa,0.0.1,"Claude 채팅 패널, 2단계 탭 자동완성, AI 코드 필사 모드"
+2026-10-09T06:08:34.233Z,nifty.nifty-shell-format,nifty,Nifty Shell Format: shfmt Formatter for Bash,0.1.0,"Format shell scripts (bash, sh, zsh, bats) with shfmt built in: no binary to install, reads .editorconfig, and shows syntax errors."
+2026-10-09T06:08:46.64Z,nifty.nifty-logs,nifty,Nifty Log Viewer: Log Highlighting & Filters,0.1.0,"Read log files faster: colored levels, error counts, jump to the next error, filter by level or text, follow live logs, fold stack traces, and open huge logs."
+2026-10-09T06:08:54.41Z,nifty.nifty-slurm,nifty,Nifty Slurm: HPC Jobs & #SBATCH Support,0.1.0,"Slurm for HPC clusters: see your jobs, cancel, hold or open their output, submit batch scripts, and get completion, docs and checks for #SBATCH directives. Works over Remote SSH."
+2026-10-09T06:09:04.547Z,nifty.nifty-grpc,nifty,Nifty gRPC: gRPC Client & Proto Support,0.1.0,"Call gRPC services from .grpc files and edit .proto files: unary and streaming calls, metadata, TLS, request templates from your protos, outline and error checking."
+2026-10-09T06:09:14.66Z,nifty.nifty-guard,nifty,Nifty Dependency Guard: Package Security Check,0.1.0,"Catch risky dependencies before you install them: made-up (AI-hallucinated) packages, lookalike names, brand-new versions, install scripts and deprecations, in package.json and requirements.txt."
+2026-10-09T06:09:21.307Z,nifty.nifty-audit,nifty,Nifty Extension Audit: Extension Security Check,0.1.0,"See what your installed extensions can do: activation, processes, network, native code, telemetry and secrets access, scored and reported, with an allowlist policy for teams."
+2026-10-09T06:09:27.513Z,nifty.nifty-archive,nifty,"Nifty Archive Browser: ZIP, JAR, VSIX & tar.gz",0.1.0,"Browse zip, jar, vsix, whl, nupkg and tar.gz archives like folders: open files inside, compare, extract, and create zips."
+2026-10-09T06:11:41.12Z,EngineersTools.openamx-vscode,EngineersTools,OpenAMX,0.10.0,"Formatting, completion, static diagnostics, navigation, outline, references and contextual fixes for OpenAMX documents."
+2026-10-09T06:11:42.103Z,tuya-dengcong.vscode-cindex,tuya-dengcong,CIndex: C/C++ Navigation,1.0.0,"C/C++ code navigation, call hierarchy and symbol highlight without compilation"
+2026-10-09T06:12:27.693Z,irodev.php-blade-livewire-formatter,irodev,"PHP, Blade & Livewire Formatter",0.0.1,"All-in-one PHP and Blade formatter featuring PSR-12 compliance, Tailwind integration, and smart Livewire 4 autocompletion."
+2026-10-09T06:13:17.987Z,haja-andrianantoanina.plane-vscode,haja-andrianantoanina,Plane Tracker,0.3.0,Gérez vos tickets Plane directement depuis VS Code ou Cursor.
+2026-10-09T06:16:20.293Z,minhtalent-dev.jarvis-ide-enhancer,minhtalent-dev,JARVIS IDE Enhancer,1.1.8,"Enhance VS Code with JARVIS 3D cursor, chat styles, prompt slash intellisense, and UI automation."
