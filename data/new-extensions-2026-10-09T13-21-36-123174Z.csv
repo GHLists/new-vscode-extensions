@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T12:29:07.303Z,DaniyalMusadiq.database-performance-analyzer,DaniyalMusadiq,Database Performance Analyzer,1.3.0,"Understand database performance across PostgreSQL, MySQL, SQL Server, SQLite, MongoDB and Redis directly in VS Code."
+2026-10-09T12:29:38.667Z,sengbin.rujian-studio,sengbin,RUJIAN Studio,0.1.0,AI 分镜与视频生成系统：在 VS Code 中完成剧本、分镜、素材与视频生成。
+2026-10-09T12:32:15.797Z,NavikkumarModi.agentvow,NavikkumarModi,Agentvow,0.1.0,"Check what a coding agent says it did against what is actually in your repository, before you approve."
+2026-10-09T12:36:52.443Z,w0x7y.revo-formatter,w0x7y,Revofmt Code Formatter,0.1.7,Format Revo documents through the preservation-checked revofmt CLI.
+2026-10-09T12:37:09.46Z,RedFoxLabs.sloppy,RedFoxLabs,Sloppy,0.2.1,"The Sloppy language: highlighting, errors as you type, hover, go to definition, references, rename, completion, signature help, inlay type hints, outline; run files in a terminal or the browser"
+2026-10-09T12:40:55.613Z,aetherexa.stackgenome,aetherexa,StackGenome,1.0.0,"Understand your project's technology stack, existing capabilities, dependency health, and what to reuse before adding something new."
+2026-10-09T12:43:42.65Z,m-mirz.cimoxide,m-mirz,cimoxide — CGMES & NC,0.4.0,"SHACL validation, hover, go to definition and completion for ENTSO-E CGMES and Network Code RDF/XML"
+2026-10-09T12:48:30.633Z,aditya-gupta-dev.walltheme,aditya-gupta-dev,WallTheme,0.1.0,"Generate Material You themes from images, including editor UI and code colors."
+2026-10-09T12:49:14.303Z,Skrety.sf-org-open,Skrety,SF Org Open,0.2.0,"Open a Salesforce org in the browser from the status bar: one click for the current org, a chevron to pick another."
+2026-10-09T12:55:25.577Z,AfzalKhan.power-viz,AfzalKhan,Power Viz — Power BI Projects,0.1.0,"Preview Power BI reports offline, see visual diffs between git revisions, validate PBIR/TMDL, convert .pbix to PBIP and edit dashboards with AI."
+2026-10-09T12:57:41.29Z,vanpeiyu.hushmark,vanpeiyu,Hushmark,0.3.0,A quiet Markdown live preview editor that expands only the elements your cursor touches
+2026-10-09T13:02:18.157Z,Canonical.launchpad-merge-proposals,Canonical,Launchpad Merge Proposals,0.5.0,"Browse, review, and comment on Launchpad merge proposals without leaving VS Code"
+2026-10-09T13:10:25.883Z,outry.outry-vscode,outry,Outry API Client,0.10.0,"Executable API specs in your repo: send .outry requests, check responses, keep them in sync with your Go routes."
+2026-10-09T13:12:42.06Z,baobablang.baobab-vscode,baobablang,Baobab Language,0.1.0,"Baobab - the French-first programming language. Syntax highlighting, snippets, and Run support for .bao files."
