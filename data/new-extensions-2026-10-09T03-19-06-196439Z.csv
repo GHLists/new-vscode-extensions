@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T02:20:30.98Z,Yokeeswaran.filestudio,Yokeeswaran,FileStudio - Universal File Viewer & Editor,0.1.0,"View and edit common document, spreadsheet, and presentation files directly in VS Code."
+2026-10-09T02:43:03.933Z,mikehung.file-notes-system,mikehung,NOTE123,0.2.1,跟著檔案切換的 Markdown 筆記，支援檔案共享、LaTeX、圖片、內嵌畫布與按需載入的 YouTube 影片。
+2026-10-09T02:48:04.993Z,lucidlabs.draffin-theme,lucidlabs,Draffin Street Furniture,1.0.0,"A crisp VS Code colour theme pairing Draffin red with powder-coat charcoal, inspired by the Draffin Street Furniture visual identity."
+2026-10-09T02:55:01.877Z,gy903.code-runner-pro,gy903,Code Runner Pro,0.13.0,"Fork of Code Runner: multi-action picker, non-text file support (docx / exe / pdf), multi-segment file extensions, multi-selection concat run."
+2026-10-09T03:09:20.737Z,DenizhanDaklr.lodestar,DenizhanDaklr,Lodestar: Codemaps and Code Explanations,0.11.0,"Codemaps, code reviews and an explanation of anything you hover, on the models you already use in Copilot Chat. Paid: a one-time purchase of $10 plus tax."

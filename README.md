@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 02:21 UTC
+## Latest list — 2026-10-09 03:19 UTC
 
-New extensions published between 2026-10-09 00:21 UTC and 2026-10-09 02:21 UTC.
+New extensions published between 2026-10-09 01:19 UTC and 2026-10-09 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T02-21-27-436491Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T03-19-06-196439Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 01:22:46 | [LeVanThien.code-pulse-focus](https://marketplace.visualstudio.com/items?itemName=LeVanThien.code-pulse-focus) | Code Pulse Focus | 0.0.1 | Minimalist developer workflow & micro-focus companion on status bar |
-| 2026-10-09 01:25:53 | [B4dman.b4dman-stealth-novel-reader](https://marketplace.visualstudio.com/items?itemName=B4dman.b4dman-stealth-novel-reader) | Stealth Novel Reader | 0.0.5 | 极简隐蔽的VS Code摸鱼小说阅读器，以代码注释形式在光标处呈现，智能标点断句，支持快捷翻页与无感进度记忆 |
-| 2026-10-09 01:31:34 | [AgentYard.worktree-graph](https://marketplace.visualstudio.com/items?itemName=AgentYard.worktree-graph) | AgentYard - Parallel AI Agents | 1.0.0 | Mission control for parallel AI-agent development: worktrees and branches in on… |
-| 2026-10-09 01:38:23 | [kele14x.verilog-syntax](https://marketplace.visualstudio.com/items?itemName=kele14x.verilog-syntax) | Verilog / SystemVerilog Syntax | 0.1.1 | Lightweight Verilog and SystemVerilog syntax highlighting, including assertions… |
-| 2026-10-09 01:53:09 | [visparashar.sf-preflight-vscode](https://marketplace.visualstudio.com/items?itemName=visparashar.sf-preflight-vscode) | sf-preflight: Salesforce change impact | 0.2.0 | See what a Salesforce change sets off before it ships: flows, triggers, validat… |
-| 2026-10-09 02:19:19 | [CyrillKravtsoff.vsced-dark](https://marketplace.visualstudio.com/items?itemName=CyrillKravtsoff.vsced-dark) | vsced dark | 0.0.7 | A dark VS Code theme inspired by the supplied Zed palette. |
+| 2026-10-09 02:20:30 | [Yokeeswaran.filestudio](https://marketplace.visualstudio.com/items?itemName=Yokeeswaran.filestudio) | FileStudio - Universal File Viewer & Ed… | 0.1.0 | View and edit common document, spreadsheet, and presentation files directly in… |
+| 2026-10-09 02:43:03 | [mikehung.file-notes-system](https://marketplace.visualstudio.com/items?itemName=mikehung.file-notes-system) | NOTE123 | 0.2.1 | 跟著檔案切換的 Markdown 筆記，支援檔案共享、LaTeX、圖片、內嵌畫布與按需載入的 YouTube 影片。 |
+| 2026-10-09 02:48:04 | [lucidlabs.draffin-theme](https://marketplace.visualstudio.com/items?itemName=lucidlabs.draffin-theme) | Draffin Street Furniture | 1.0.0 | A crisp VS Code colour theme pairing Draffin red with powder-coat charcoal, ins… |
+| 2026-10-09 02:55:01 | [gy903.code-runner-pro](https://marketplace.visualstudio.com/items?itemName=gy903.code-runner-pro) | Code Runner Pro | 0.13.0 | Fork of Code Runner: multi-action picker, non-text file support (docx / exe / p… |
+| 2026-10-09 03:09:20 | [DenizhanDaklr.lodestar](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.lodestar) | Lodestar: Codemaps and Code Explanations | 0.11.0 | Codemaps, code reviews and an explanation of anything you hover, on the models… |
 
 ## Data source
 
