@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T22:52:49.113Z,PureCipher.omniseal,PureCipher,Omniseal for GitHub Copilot,1.0.0,"Seal, retrieve, verify, and remove hidden files through PureCipher's Omniseal MCP service."
+2026-10-09T22:57:28.45Z,adarshchate.aurora-midnight-theme,adarshchate,Aurora Midnight,0.1.0,"A premium dark VS Code theme with refined syntax highlighting and midnight navy, blue, and violet accents. Perfect for night owls and those who prefer a sleek, modern look. Experience a visually stunning coding environment."
+2026-10-09T23:11:50.95Z,hhdblog.cmddock,hhdblog,CmdDock,0.2.5,Group frequently used terminal commands and run them from the status bar. Ships with a library of 167 commands in 16 groups.
+2026-10-09T23:12:54.07Z,abutalebco.notimetowaste,abutalebco,No Time To Waste,0.0.1,"A gamified tasbih / tally counter for your adhkar, right inside VS Code."
