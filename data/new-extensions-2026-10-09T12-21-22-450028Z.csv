@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T11:24:31.92Z,lilinhuang.iris-cloud-theme,lilinhuang,Iris Cloud Theme,1.0.0,"Soft ice blue and lavender in calm, cloud-inspired light and dark themes."
+2026-10-09T11:26:13.64Z,Darshangupta.localbridge,Darshangupta,LocalBridge,1.0.1,"Local Bridge for VS Code: connect Claude, ChatGPT, and other MCP clients to your workspace with authenticated tools for files, git, terminal, tests, and diagnostics."
+2026-10-09T11:40:17.19Z,AhuraSense.vani-code,AhuraSense,Vani Code Agent,0.1.1,"A coding agent in VS Code, backed by the Vani API: chat, read and edit files with diff review, run commands with your approval."
+2026-10-09T11:42:38.397Z,migliorelli.astronvimtheme,migliorelli,AstroNvim Theme,1.0.1,"AstroNvim AstroTheme palettes for VS Code and Cursor (AstroDark, AstroLight, AstroMars, AstroJupiter)."
+2026-10-09T11:44:07.367Z,lilinhuang.apricot-glow-theme,lilinhuang,Apricot Glow Theme,1.0.0,"Warm apricot, soft peach and petal pink in coordinated light and dark themes."
+2026-10-09T11:46:21.78Z,studiomedio.jsonery,studiomedio,Jsonery,1.0.0,"Reliable JSON toolkit: format, minify, change indentation, fold to level, sort keys, JSON path and escape/unescape — comments and big numbers stay intact."
+2026-10-09T11:52:10.683Z,aetherexa.codecausality,aetherexa,CodeCausality — Change Impact Intelligence,1.0.5,Understand your repository and see what a code change can affect before you ship it.
+2026-10-09T11:54:43.9Z,CodyOunora.react-native-snippet-core,CodyOunora,ReactNative Snippet Core,1.0.2,"A lightweight, productive React Native & TypeScript snippet collection for modern mobile UI, state hooks, and component scaffolding."
+2026-10-09T11:58:54.727Z,TobiasHochguertel.image-viewer-fork,TobiasHochguertel,Image Viewer (Fork Fixes),2.0.6,"Browse workspace images in a fast thumbnail gallery or open individual files in a full-screen custom editor. Includes sorting, filtering, zoom, themes, and large-folder tuning."
+2026-10-09T12:00:37.797Z,AndrixNg.devlingo-translate,AndrixNg,DevLingo Translate,1.0.1,"Translate code comments, selected text and Markdown directly in VS Code."
+2026-10-09T12:01:16.787Z,lilinhuang.wisteria-blush-theme,lilinhuang,Wisteria Blush Theme,1.0.0,"Soft wisteria violet, dusty blush and peach in coordinated light and dark themes."
+2026-10-09T12:13:24.383Z,lilinhuang.garden-letter-theme,lilinhuang,Garden Letter Theme,1.0.0,"Muted slate blue, sage leaves and pressed-flower pink in coordinated light and dark themes."
+2026-10-09T12:13:59.13Z,64kramsystem.ruby-paste-fix,64kramsystem,Ruby Paste Fix,0.1.0,Keeps the line following a Ruby paste at its original indentation.
+2026-10-09T12:16:47.03Z,ReadyStack.hanji-theme,ReadyStack,Hanji Theme — Warm Paper & Ink,1.0.0,"Code on paper. Three warm, low-glare themes: Day, Ink and Lamplight. Every code colour measured: body text 11.1-13.1:1 (WCAG AAA), comments 4.6:1 or more."

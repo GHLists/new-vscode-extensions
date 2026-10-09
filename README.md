@@ -12,25 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 11:20 UTC
+## Latest list — 2026-10-09 12:21 UTC
 
-New extensions published between 2026-10-09 09:20 UTC and 2026-10-09 11:20 UTC.
+New extensions published between 2026-10-09 10:21 UTC and 2026-10-09 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T11-20-46-007006Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T12-21-22-450028Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 10:19:48 | [chengbin.rujian](https://marketplace.visualstudio.com/items?itemName=chengbin.rujian) | 如见 Studio | 0.1.0 | AI 分镜与视频生成系统：在 VS Code 中完成剧本、分镜、素材与视频生成。 |
-| 2026-10-09 10:21:25 | [LeandroBisceglie.artscript](https://marketplace.visualstudio.com/items?itemName=LeandroBisceglie.artscript) | ArtScript | 0.2.7 | ArtScript language support: file icons, highlighting, snippets, live errors wit… |
-| 2026-10-09 10:23:00 | [gokimedia.sewlore-measurement-record-checker](https://marketplace.visualstudio.com/items?itemName=gokimedia.sewlore-measurement-record-checker) | Sewlore Measurement Record Checker | 0.1.1 | Check fabric-care CSV measurements locally, with field diagnostics and signed d… |
-| 2026-10-09 10:24:37 | [N-Faranda.ai-env-sync](https://marketplace.visualstudio.com/items?itemName=N-Faranda.ai-env-sync) | AI Env. Sync for VScode | 1.0.1 | Sync Copilot instructions, skills and agent setup across your team |
-| 2026-10-09 10:31:36 | [CIME-Technologies.pln-editor](https://marketplace.visualstudio.com/items?itemName=CIME-Technologies.pln-editor) | Plan: .pln Editor | 0.1.2 | Visual project list editor for .pln plan files |
-| 2026-10-09 10:41:50 | [masahirocom.codes-doctor](https://marketplace.visualstudio.com/items?itemName=masahirocom.codes-doctor) | Codes Doctor | 1.0.0 | Diagnose the current workspace for God Classes, technical debt, security issues… |
-| 2026-10-09 10:47:38 | [dbarjs.hero-synergy](https://marketplace.visualstudio.com/items?itemName=dbarjs.hero-synergy) | Hero Synergy | 0.1.0 | Unofficial cockpit for mattpocock/skills: wayfinder maps, frontier tickets and… |
-| 2026-10-09 10:51:32 | [DenizhanDaklr.vertex-ai-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.vertex-ai-for-copilot) | Vertex AI: Copilot Provider | 0.1.0 | Use Gemini on Vertex AI in GitHub Copilot Chat, billed to your Google Cloud pro… |
-| 2026-10-09 10:57:13 | [gauravgupta0612.ibmi-zos-explorer](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.ibmi-zos-explorer) | IBM i & z/OS Explorer | 1.0.0 | Connect to IBM i (SSH + SQL) and z/OS (z/OSMF REST). Browse libraries, source m… |
-| 2026-10-09 11:04:10 | [lilinhuang.lime-whisper-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.lime-whisper-theme) | Lime Whisper Theme | 1.0.0 | A gentle citrus-inspired theme with soft lime and mint tones. |
-| 2026-10-09 11:05:32 | [MarkoPintera.explain-yourself](https://marketplace.visualstudio.com/items?itemName=MarkoPintera.explain-yourself) | Explain Yourself: AI Code Review Assist… | 0.1.0 | AI-assisted code review helper tool: Claude explains your uncommitted changes c… |
+| 2026-10-09 11:24:31 | [lilinhuang.iris-cloud-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.iris-cloud-theme) | Iris Cloud Theme | 1.0.0 | Soft ice blue and lavender in calm, cloud-inspired light and dark themes. |
+| 2026-10-09 11:26:13 | [Darshangupta.localbridge](https://marketplace.visualstudio.com/items?itemName=Darshangupta.localbridge) | LocalBridge | 1.0.1 | Local Bridge for VS Code: connect Claude, ChatGPT, and other MCP clients to you… |
+| 2026-10-09 11:40:17 | [AhuraSense.vani-code](https://marketplace.visualstudio.com/items?itemName=AhuraSense.vani-code) | Vani Code Agent | 0.1.1 | A coding agent in VS Code, backed by the Vani API: chat, read and edit files wi… |
+| 2026-10-09 11:42:38 | [migliorelli.astronvimtheme](https://marketplace.visualstudio.com/items?itemName=migliorelli.astronvimtheme) | AstroNvim Theme | 1.0.1 | AstroNvim AstroTheme palettes for VS Code and Cursor (AstroDark, AstroLight, As… |
+| 2026-10-09 11:44:07 | [lilinhuang.apricot-glow-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.apricot-glow-theme) | Apricot Glow Theme | 1.0.0 | Warm apricot, soft peach and petal pink in coordinated light and dark themes. |
+| 2026-10-09 11:46:21 | [studiomedio.jsonery](https://marketplace.visualstudio.com/items?itemName=studiomedio.jsonery) | Jsonery | 1.0.0 | Reliable JSON toolkit: format, minify, change indentation, fold to level, sort… |
+| 2026-10-09 11:52:10 | [aetherexa.codecausality](https://marketplace.visualstudio.com/items?itemName=aetherexa.codecausality) | CodeCausality — Change Impact Intellige… | 1.0.5 | Understand your repository and see what a code change can affect before you shi… |
+| 2026-10-09 11:54:43 | [CodyOunora.react-native-snippet-core](https://marketplace.visualstudio.com/items?itemName=CodyOunora.react-native-snippet-core) | ReactNative Snippet Core | 1.0.2 | A lightweight, productive React Native & TypeScript snippet collection for mode… |
+| 2026-10-09 11:58:54 | [TobiasHochguertel.image-viewer-fork](https://marketplace.visualstudio.com/items?itemName=TobiasHochguertel.image-viewer-fork) | Image Viewer (Fork Fixes) | 2.0.6 | Browse workspace images in a fast thumbnail gallery or open individual files in… |
+| 2026-10-09 12:00:37 | [AndrixNg.devlingo-translate](https://marketplace.visualstudio.com/items?itemName=AndrixNg.devlingo-translate) | DevLingo Translate | 1.0.1 | Translate code comments, selected text and Markdown directly in VS Code. |
+| 2026-10-09 12:01:16 | [lilinhuang.wisteria-blush-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.wisteria-blush-theme) | Wisteria Blush Theme | 1.0.0 | Soft wisteria violet, dusty blush and peach in coordinated light and dark theme… |
+| 2026-10-09 12:13:24 | [lilinhuang.garden-letter-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.garden-letter-theme) | Garden Letter Theme | 1.0.0 | Muted slate blue, sage leaves and pressed-flower pink in coordinated light and… |
+| 2026-10-09 12:13:59 | [64kramsystem.ruby-paste-fix](https://marketplace.visualstudio.com/items?itemName=64kramsystem.ruby-paste-fix) | Ruby Paste Fix | 0.1.0 | Keeps the line following a Ruby paste at its original indentation. |
+| 2026-10-09 12:16:47 | [ReadyStack.hanji-theme](https://marketplace.visualstudio.com/items?itemName=ReadyStack.hanji-theme) | Hanji Theme — Warm Paper & Ink | 1.0.0 | Code on paper. Three warm, low-glare themes: Day, Ink and Lamplight. Every code… |
 
 ## Data source
 
