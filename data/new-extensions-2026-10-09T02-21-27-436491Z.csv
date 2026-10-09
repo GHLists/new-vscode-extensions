@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T01:22:46.67Z,LeVanThien.code-pulse-focus,LeVanThien,Code Pulse Focus,0.0.1,Minimalist developer workflow & micro-focus companion on status bar
+2026-10-09T01:25:53.96Z,B4dman.b4dman-stealth-novel-reader,B4dman,Stealth Novel Reader,0.0.5,极简隐蔽的VS Code摸鱼小说阅读器，以代码注释形式在光标处呈现，智能标点断句，支持快捷翻页与无感进度记忆
+2026-10-09T01:31:34.62Z,AgentYard.worktree-graph,AgentYard,AgentYard - Parallel AI Agents,1.0.0,"Mission control for parallel AI-agent development: worktrees and branches in one graph, merges with conflict preview, PRs/MRs with review status, pipelines, issues (GitHub, GitLab, Bitbucket, Azure DevOps, Jira, Redmine), Claude Code in every worktree with sessions and usage, task queues and schedul"
+2026-10-09T01:38:23.153Z,kele14x.verilog-syntax,kele14x,Verilog / SystemVerilog Syntax,0.1.1,"Lightweight Verilog and SystemVerilog syntax highlighting, including assertions, with no language server or external tools."
+2026-10-09T01:53:09.95Z,visparashar.sf-preflight-vscode,visparashar,sf-preflight: Salesforce change impact,0.2.0,"See what a Salesforce change sets off before it ships: flows, triggers, validation rules, roll-ups, permissions and Agentforce actions, with findings in the Problems panel and the blast radius beside your code."
+2026-10-09T02:19:19.323Z,CyrillKravtsoff.vsced-dark,CyrillKravtsoff,vsced dark,0.0.7,A dark VS Code theme inspired by the supplied Zed palette.
