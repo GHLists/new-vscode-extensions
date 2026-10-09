@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T13:33:20.68Z,eliostruyf.switchboard-companion,eliostruyf,Switchboard Companion,0.1.1,"Send the open file, selected lines, problems and terminal output from VS Code to a Switchboard session."
+2026-10-09T13:36:34.127Z,thmsn-dev.apim-policy,thmsn-dev,Azure APIM Policies,0.1.23,"Editor support for Azure API Management policy files: tolerant parsing, structural diagnostics and C# IntelliSense inside policy expressions."
+2026-10-09T13:38:19.583Z,lilinhuang.lavender-parchment-theme,lilinhuang,Lavender Parchment Theme,1.0.0,"Quiet lavender, warm parchment and muted beige in coordinated light and dark themes."
+2026-10-09T13:57:07.203Z,spatial-one.stage2,spatial-one,Stage²,0.0.1,"Browse Stage², manage assets, and Build & Push Docker operations from local project folders."
