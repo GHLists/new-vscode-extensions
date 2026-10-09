@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-08T23:21:59.17Z,Avers.seedforge,Avers,SeedForge — Prisma Seed Data Generator,0.1.0,"Generate realistic, type-correct seed/test data from your Prisma schema. Export to JSON, SQL, or CSV — fully local, no telemetry."
+2026-10-08T23:54:19.717Z,ao81.casl2-trace,ao81,CASL II 実行トレース,0.1.10,CASL II の命令ごとの実行結果を表で確認する学習用プロトタイプ
+2026-10-08T23:56:14.913Z,prime0x2.0x2-theme,prime0x2,0x2 Theme,1.1.0,"A dark VS Code theme by prime0x2 with 18 dark themes, vivid syntax colors and a bright yellow cursor."
+2026-10-09T00:05:12.933Z,DynatraceExtensionCommunity.dt-ai-observability,DynatraceExtensionCommunity,Dynatrace AI Governance,1.9.0,"Collects AI usage traces (GitHub Copilot, Claude Code) and sends them to Dynatrace via OpenTelemetry."

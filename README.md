@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-08 23:21 UTC
+## Latest list — 2026-10-09 00:19 UTC
 
-New extensions published between 2026-10-08 21:21 UTC and 2026-10-08 23:21 UTC.
+New extensions published between 2026-10-08 22:19 UTC and 2026-10-09 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-08T23-21-00-482511Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T00-19-27-046861Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 22:27:40 | [chengbin.onetap](https://marketplace.visualstudio.com/items?itemName=chengbin.onetap) | OneTap | 0.1.0 | Run workspace files, execute VS Code commands, and open saved Copilot Chat prom… |
-| 2026-10-08 22:34:40 | [MasTurboDeploy.masturbodeploy](https://marketplace.visualstudio.com/items?itemName=MasTurboDeploy.masturbodeploy) | MasTurbo Deploy | 1.0.0 | Creates the release branch, bumps the version, and handles merge and deploy for… |
-| 2026-10-08 22:38:20 | [elpandap.auto-disable-extensions](https://marketplace.visualstudio.com/items?itemName=elpandap.auto-disable-extensions) | Auto Disable Extensions | 0.2.0 | Automatically disables the extensions each workspace doesn't need. Zero config:… |
-| 2026-10-08 22:44:53 | [mesqueeb.fast-swift-format](https://marketplace.visualstudio.com/items?itemName=mesqueeb.fast-swift-format) | Fast Swift Format | 0.1.1 | Apple's swift-format directly, without waiting for SourceKit-LSP or project dis… |
-| 2026-10-08 22:49:55 | [the-lucky-company.lucky-code](https://marketplace.visualstudio.com/items?itemName=the-lucky-company.lucky-code) | Lucky Code | 0.4.6 | Orquesta los proveedores de ingenieria de tu equipo con contexto minimo y compr… |
-| 2026-10-08 22:51:40 | [zerep.vscode-structurizr-visualizer](https://marketplace.visualstudio.com/items?itemName=zerep.vscode-structurizr-visualizer) | Structurizr Visualizer | 0.0.2 | IDE-grade Structurizr DSL support with IntelliSense, validation, cross-file nav… |
-| 2026-10-08 22:58:18 | [MisterPandaPooh.debuddy](https://marketplace.visualstudio.com/items?itemName=MisterPandaPooh.debuddy) | DeBuddy | 0.1.0 | The placebo debugger: step through code like a debugger, nothing runs, everythi… |
+| 2026-10-08 23:21:59 | [Avers.seedforge](https://marketplace.visualstudio.com/items?itemName=Avers.seedforge) | SeedForge — Prisma Seed Data Generator | 0.1.0 | Generate realistic, type-correct seed/test data from your Prisma schema. Export… |
+| 2026-10-08 23:54:19 | [ao81.casl2-trace](https://marketplace.visualstudio.com/items?itemName=ao81.casl2-trace) | CASL II 実行トレース | 0.1.10 | CASL II の命令ごとの実行結果を表で確認する学習用プロトタイプ |
+| 2026-10-08 23:56:14 | [prime0x2.0x2-theme](https://marketplace.visualstudio.com/items?itemName=prime0x2.0x2-theme) | 0x2 Theme | 1.1.0 | A dark VS Code theme by prime0x2 with 18 dark themes, vivid syntax colors and a… |
+| 2026-10-09 00:05:12 | [DynatraceExtensionCommunity.dt-ai-observability](https://marketplace.visualstudio.com/items?itemName=DynatraceExtensionCommunity.dt-ai-observability) | Dynatrace AI Governance | 1.9.0 | Collects AI usage traces (GitHub Copilot, Claude Code) and sends them to Dynatr… |
 
 ## Data source
 
