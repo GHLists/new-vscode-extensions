@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T07:19:03.687Z,RichardPhillip.the-fold-pdf,RichardPhillip,the Fold: Markdown Pdf,0.6.9,Render the current Markdown or TSV file to a vector-first PDF beside the source file.
+2026-10-09T07:23:21.207Z,zetatechnology.medical-3d-viewer,zetatechnology,Medical 3D Viewer,0.1.0,"Local DICOM 2D image, CT series and NIfTI volume viewer with RTSTRUCT and LIDC XML overlays for VS Code (research and development use)"
+2026-10-09T07:26:15.227Z,dwidevelopes.streamlit-launcher,dwidevelopes,Streamlit Launcher For Vscode,2.0.0,"Automated preview and interactive data analysis for CSV and Excel files with charts, notes, and DOCX/PDF journal export"
+2026-10-09T07:31:19.957Z,i-shl.juejin-pins,i-shl,Juejin Pins,0.2.0,在 VSCode 中浏览掘金沸点，查看详情和评论
+2026-10-09T07:31:35.38Z,Kareemlsd.spotrun,Kareemlsd,Spot Run,0.6.0,"Run any Python function on the spot. A language model invents the inputs, external dependencies become lazy fakes, and you step through the recorded run in the editor."
+2026-10-09T07:35:17.607Z,ankit-swami.sf-org-deploy-guard,ankit-swami,SF Org Deploy Guard,1.0.0,"Warns before deploying Salesforce source when the target org is on your blocked list, then delegates to the Salesforce Extension Pack."
+2026-10-09T07:37:05.093Z,HolySN.holysn-sync,HolySN,HolySN Sync,0.1.0,"Edit ServiceNow scripts in VS Code. The editor never talks to ServiceNow, and the session token never leaves the browser."
+2026-10-09T07:38:41.053Z,opencj.sense,opencj,Sense (Cangjie) support for VSCode,0.1.0,Cangjie language support built on the sense package manager and its sense lsp language server
+2026-10-09T07:41:11.973Z,dwidevelopes.python-remove-comment,dwidevelopes,Remove Comment Python,2.0.0,python powerfull remove comment python extension
+2026-10-09T07:43:42.293Z,abdulrahman-obaid.flutter-intercept,abdulrahman-obaid,Flutter Intercept,0.1.0,"Inspect, pause, edit, block and mock your Flutter app's HTTP traffic — no code in your app, no setup. Just press F5."
+2026-10-09T07:49:38.393Z,fefeding.vscode-pptx,fefeding,PPTX Editor,0.1.2,VSCode PPTX preview and editor extension powered by pptx-parser (default handler for .pptx)
+2026-10-09T07:53:46.14Z,bigsmartie.mythoscode-vscode,bigsmartie,BigSmartie MythosCode,0.1.0,Open MythosCode in the active workspace and prepare file context for review.
+2026-10-09T08:00:42.4Z,tonic.html-proofview,tonic,HTML ProofView,0.3.0,HTMLをレンダリングした見た目のまま、文言のgit差分を表示してその場で修正できるプレビュー
+2026-10-09T08:07:51.417Z,wjs.text-transformer-menu,wjs,Text Transformer Menu,0.0.36,常用文本转换工具：SQL IN、命名转换、JSON 美化、Unicode 解码和时间戳格式化。
+2026-10-09T08:11:43.357Z,loopgad.ferris-yaru-smelt,loopgad,Ferris × Yaru 熔铸,0.0.1,把 Rust 品牌结构 × Ubuntu 26.04 Yaru 的「熔铸」设计系统带进 VS Code:四套经 WCAG 审计的情绪配色、完整工作台覆盖面、配套图标主题与动效预设。
+2026-10-09T08:13:24.02Z,DeutscheBank.testtool1234,DeutscheBank,testtool1234,0.0.1,An internal helper for AI assited coding
+2026-10-09T08:14:33.39Z,phuphan.phuphan-dev-essentials,phuphan,Phu Phan Dev Essentials,1.0.0,"Cấu hình chuẩn cá nhân hóa: Auto format 4 spaces, phím tắt format tiện lợi và bộ thiết lập tối ưu"
