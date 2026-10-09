@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T16:19:22.677Z,saolabs.saola-language-support,saolabs,Saola Framework Tools,1.0.3,"Complete Saola syntax highlighting, snippets, and formatting for .sao template files. Supports JS-like directives with autocomplete and features."
+2026-10-09T16:33:31.29Z,bacumi.bacumi-theme,bacumi,Bacumi Theme,0.2.0,"Light and dark themes with warm Bacumi accents, readable syntax and semantic highlighting. A quiet workspace for your code."
+2026-10-09T16:40:37.92Z,Lambogenius.tar-gz-viewer,Lambogenius,Tar.gz Viewer,0.2.0,Browse .tar.gz / .tgz archives and view the text files inside them (and plain .gz files) without extracting.
+2026-10-09T16:40:50.83Z,lilinhuang.extension-sorter,lilinhuang,Extension Sorter,1.0.0,"Sort installed extensions by install date, filter themes, and open the native extension details page in one click."
+2026-10-09T16:42:20.11Z,dr-opensource.envwizard,dr-opensource,EnvWizard,0.1.0,"Port unjammer & dev environment guardian for vibe coders. 1-click unjam ports, kill zombie servers, and auto-heal missing .env variables."
+2026-10-09T16:45:38.427Z,qianwenlei.vscode-one-click-deploy,qianwenlei,One Click Deploy SFTP,0.4.1,Deploy to SSH servers via SFTP. Separate host and project management.
