@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 18:20 UTC
+## Latest list — 2026-10-09 19:19 UTC
 
-New extensions published between 2026-10-09 16:20 UTC and 2026-10-09 18:20 UTC.
+New extensions published between 2026-10-09 17:19 UTC and 2026-10-09 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T18-20-20-258061Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T19-19-37-308825Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 17:23:22 | [kietmn.nestjs-microservices-manager](https://marketplace.visualstudio.com/items?itemName=kietmn.nestjs-microservices-manager) | NestJS Microservices Manager | 0.1.0 | Discover Nest CLI applications and run, stop, restart and inspect them from Cur… |
-| 2026-10-09 17:33:52 | [ArnavNKamat.poke-code](https://marketplace.visualstudio.com/items?itemName=ArnavNKamat.poke-code) | PokeCode | 1.0.0 | A Pokémon companion inside VS Code |
-| 2026-10-09 17:43:56 | [komallsingh.api-contract-guardian](https://marketplace.visualstudio.com/items?itemName=komallsingh.api-contract-guardian) | API Contract Guardian | 2.0.1 | Detect potentially breaking API contract changes in projects. |
-| 2026-10-09 17:57:18 | [v3nn7.ryn-lang](https://marketplace.visualstudio.com/items?itemName=v3nn7.ryn-lang) | Ryn | 0.1.0 | Ryn language support: syntax highlighting, completion, hover, signature help, g… |
-| 2026-10-09 17:58:03 | [sobansheikh.vibe-prompt](https://marketplace.visualstudio.com/items?itemName=sobansheikh.vibe-prompt) | Vibe Prompt | 0.9.0 | Private, local voice-to-text for prompts and code in VS Code. |
-| 2026-10-09 18:07:48 | [rajbagri.contrail](https://marketplace.visualstudio.com/items?itemName=rajbagri.contrail) | Contrail – Prompt Enhancer & Context Pa… | 0.1.0 | Pack only the code that matters into AI prompts, reuse prompt templates and imp… |
+| 2026-10-09 18:17:55 | [crisvsgame.pgform](https://marketplace.visualstudio.com/items?itemName=crisvsgame.pgform) | Pgform | 0.1.0 | Format PostgreSQL SQL using pgFormatter. |
+| 2026-10-09 18:28:51 | [rclsilver.threavia](https://marketplace.visualstudio.com/items?itemName=rclsilver.threavia) | Threavia | 0.10.0 | Follow and answer your Threavia coding agents from the editor. |
+| 2026-10-09 18:37:34 | [manas-chaurasia.codepilot-manas-chaurasia](https://marketplace.visualstudio.com/items?itemName=manas-chaurasia.codepilot-manas-chaurasia) | CodePilot-ai-assistant | 0.2.1 | AI coding assistant for VS Code: chat with your files, inline edit with diff pr… |
+| 2026-10-09 18:52:09 | [skpaul82.tabfold](https://marketplace.visualstudio.com/items?itemName=skpaul82.tabfold) | TabFold: Tab Groups | 0.1.0 | Group, name, color and collapse editor tabs like Chrome — on the tab bar and in… |
+| 2026-10-09 19:07:23 | [gauravgupta0612.routinel](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.routinel) | Routinel – API Finder & Client | 1.1.2 | Routinel (Route + Sentinel) auto-discovers every HTTP API in your workspace — a… |
+| 2026-10-09 19:10:17 | [kabartay.jobwatch](https://marketplace.visualstudio.com/items?itemName=kabartay.jobwatch) | Jobwatch: GPU Jobs and Spend | 0.1.2 | Your Hugging Face Jobs in the VS Code status bar: what is running, what it has… |
+| 2026-10-09 19:12:13 | [ashchur.universal-diff-viewer](https://marketplace.visualstudio.com/items?itemName=ashchur.universal-diff-viewer) | Universal Diff Viewer | 1.0.0 | Review image, text, spreadsheet and document changes in a VS Code tab. |
 
 ## Data source
 

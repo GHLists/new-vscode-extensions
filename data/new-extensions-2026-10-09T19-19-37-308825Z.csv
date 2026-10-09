@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T18:17:55.877Z,crisvsgame.pgform,crisvsgame,Pgform,0.1.0,Format PostgreSQL SQL using pgFormatter.
+2026-10-09T18:28:51.197Z,rclsilver.threavia,rclsilver,Threavia,0.10.0,Follow and answer your Threavia coding agents from the editor.
+2026-10-09T18:37:34.23Z,manas-chaurasia.codepilot-manas-chaurasia,manas-chaurasia,CodePilot-ai-assistant,0.2.1,"AI coding assistant for VS Code: chat with your files, inline edit with diff preview, and searchable chat history. Works with any OpenAI-compatible API."
+2026-10-09T18:52:09.35Z,skpaul82.tabfold,skpaul82,TabFold: Tab Groups,0.1.0,"Group, name, color and collapse editor tabs like Chrome — on the tab bar and in the sidebar. No network, no telemetry, no runtime dependencies."
+2026-10-09T19:07:23.707Z,gauravgupta0612.routinel,gauravgupta0612,Routinel – API Finder & Client,1.1.2,"Routinel (Route + Sentinel) auto-discovers every HTTP API in your workspace — any language, with parameters — and calls them from a built-in Postman-like client."
+2026-10-09T19:10:17.193Z,kabartay.jobwatch,kabartay,Jobwatch: GPU Jobs and Spend,0.1.2,"Your Hugging Face Jobs in the VS Code status bar: what is running, what it has cost so far, and an alert when a job fails, runs out of memory, nears its timeout or sits in the queue."
+2026-10-09T19:12:13.893Z,ashchur.universal-diff-viewer,ashchur,Universal Diff Viewer,1.0.0,"Review image, text, spreadsheet and document changes in a VS Code tab."
