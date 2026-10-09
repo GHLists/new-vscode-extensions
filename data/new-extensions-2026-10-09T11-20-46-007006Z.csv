@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T10:19:48.247Z,chengbin.rujian,chengbin,如见 Studio,0.1.0,AI 分镜与视频生成系统：在 VS Code 中完成剧本、分镜、素材与视频生成。
+2026-10-09T10:21:25.77Z,LeandroBisceglie.artscript,LeandroBisceglie,ArtScript,0.2.7,"ArtScript language support: file icons, highlighting, snippets, live errors with fixes, formatting, completion, go to definition, hover and rename (art lsp)."
+2026-10-09T10:23:00.837Z,gokimedia.sewlore-measurement-record-checker,gokimedia,Sewlore Measurement Record Checker,0.1.1,"Check fabric-care CSV measurements locally, with field diagnostics and signed dimensional changes."
+2026-10-09T10:24:37.277Z,N-Faranda.ai-env-sync,N-Faranda,AI Env. Sync for VScode,1.0.1,"Sync Copilot instructions, skills and agent setup across your team"
+2026-10-09T10:31:36.17Z,CIME-Technologies.pln-editor,CIME-Technologies,Plan: .pln Editor,0.1.2,Visual project list editor for .pln plan files
+2026-10-09T10:41:50.607Z,masahirocom.codes-doctor,masahirocom,Codes Doctor,1.0.0,"Diagnose the current workspace for God Classes, technical debt, security issues, and dependency structure."
+2026-10-09T10:47:38.877Z,dbarjs.hero-synergy,dbarjs,Hero Synergy,0.1.0,"Unofficial cockpit for mattpocock/skills: wayfinder maps, frontier tickets and named Claude Code sessions in VS Code terminals."
+2026-10-09T10:51:32.223Z,DenizhanDaklr.vertex-ai-for-copilot,DenizhanDaklr,Vertex AI: Copilot Provider,0.1.0,"Use Gemini on Vertex AI in GitHub Copilot Chat, billed to your Google Cloud project and its credits."
+2026-10-09T10:57:13.357Z,gauravgupta0612.ibmi-zos-explorer,gauravgupta0612,IBM i & z/OS Explorer,1.0.0,"Connect to IBM i (SSH + SQL) and z/OS (z/OSMF REST). Browse libraries, source members, IFS, data sets, USS and jobs; edit and save remote source; submit JCL; run CL, SQL, TSO and console commands; compile members."
+2026-10-09T11:04:10.047Z,lilinhuang.lime-whisper-theme,lilinhuang,Lime Whisper Theme,1.0.0,A gentle citrus-inspired theme with soft lime and mint tones.
+2026-10-09T11:05:32.007Z,MarkoPintera.explain-yourself,MarkoPintera,Explain Yourself: AI Code Review Assistant,0.1.0,"AI-assisted code review helper tool: Claude explains your uncommitted changes category by category and flags code smells, and you stage hunks and lines as you accept them."
