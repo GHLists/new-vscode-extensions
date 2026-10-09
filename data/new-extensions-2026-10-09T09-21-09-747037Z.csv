@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T08:22:46.28Z,hacrodev.static-site-preview-web,hacrodev,Static Site Preview (Web),0.2.2,"Preview static HTML/CSS/JS sites inside VS Code, including vscode.dev, without running a server."
+2026-10-09T08:26:33.677Z,gitwithmasum.masum-chronos,gitwithmasum,MASUM CHRONOS — Futuristic Timer & To-Do,1.2.2,"Neon Pomodoro focus timer, countdown, stopwatch, To-Do Mission Control and optional Chrome-to-VS-Code local task sync."
+2026-10-09T08:31:05.477Z,praveenreddypoosapati.ondemand-ultimate,praveenreddypoosapati,OnDemand DB - One Box Any DB - STABLE,3.0.0,"STABLE v3 - One Connection String. Any DB. Real Data. MySQL Postgres BigQuery Sheets. Direct TCP, No leak, No bug."
+2026-10-09T08:42:15.5Z,chenqinru.versiondock,chenqinru,VersionDock,1.0.0,"A Git and SVN workbench for VS Code — Commit panel, history graph, multi-repo workflows, merge tools and more."
+2026-10-09T08:53:37.827Z,iyansr.paddock,iyansr,paddock,0.1.0,Switch projects in one VS Code window without losing your coding agents
+2026-10-09T09:09:37.563Z,hantafunto.jsonto,hantafunto,JSONTO,0.2.0,"Format, minify and convert JSON (YAML, CSV, TypeScript, XML, ...) right inside VS Code."
+2026-10-09T09:09:40.683Z,EGWWritings.weml-tools,EGWWritings,WEML Tools,0.3.0,"Editing tools for WEML (White Estate Markup Language) documents in the side bar: wrap the selection, insert snippets, renumber <div> ids, and EGW search suggestions with sign-in."
+2026-10-09T09:09:47.023Z,EGWWritings.weml-preview,EGWWritings,WEML Preview,0.2.0,Live preview of WEML (White Estate Markup Language) and HTML documents rendered with the weml-stylesheet — even when the file itself links no stylesheet or script.
+2026-10-09T09:09:53.457Z,EGWWritings.weml-extension-pack,EGWWritings,WEML Extension Pack,0.1.0,"Everything for WEML (White Estate Markup Language) documents in VS Code: the language support, the side-bar editing tools with EGW search, and the live preview."

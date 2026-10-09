@@ -12,31 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 08:20 UTC
+## Latest list — 2026-10-09 09:21 UTC
 
-New extensions published between 2026-10-09 06:20 UTC and 2026-10-09 08:20 UTC.
+New extensions published between 2026-10-09 07:21 UTC and 2026-10-09 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T08-20-59-030069Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T09-21-09-747037Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 07:19:03 | [RichardPhillip.the-fold-pdf](https://marketplace.visualstudio.com/items?itemName=RichardPhillip.the-fold-pdf) | the Fold: Markdown Pdf | 0.6.9 | Render the current Markdown or TSV file to a vector-first PDF beside the source… |
-| 2026-10-09 07:23:21 | [zetatechnology.medical-3d-viewer](https://marketplace.visualstudio.com/items?itemName=zetatechnology.medical-3d-viewer) | Medical 3D Viewer | 0.1.0 | Local DICOM 2D image, CT series and NIfTI volume viewer with RTSTRUCT and LIDC… |
-| 2026-10-09 07:26:15 | [dwidevelopes.streamlit-launcher](https://marketplace.visualstudio.com/items?itemName=dwidevelopes.streamlit-launcher) | Streamlit Launcher For Vscode | 2.0.0 | Automated preview and interactive data analysis for CSV and Excel files with ch… |
-| 2026-10-09 07:31:19 | [i-shl.juejin-pins](https://marketplace.visualstudio.com/items?itemName=i-shl.juejin-pins) | Juejin Pins | 0.2.0 | 在 VSCode 中浏览掘金沸点，查看详情和评论 |
-| 2026-10-09 07:31:35 | [Kareemlsd.spotrun](https://marketplace.visualstudio.com/items?itemName=Kareemlsd.spotrun) | Spot Run | 0.6.0 | Run any Python function on the spot. A language model invents the inputs, exter… |
-| 2026-10-09 07:35:17 | [ankit-swami.sf-org-deploy-guard](https://marketplace.visualstudio.com/items?itemName=ankit-swami.sf-org-deploy-guard) | SF Org Deploy Guard | 1.0.0 | Warns before deploying Salesforce source when the target org is on your blocked… |
-| 2026-10-09 07:37:05 | [HolySN.holysn-sync](https://marketplace.visualstudio.com/items?itemName=HolySN.holysn-sync) | HolySN Sync | 0.1.0 | Edit ServiceNow scripts in VS Code. The editor never talks to ServiceNow, and t… |
-| 2026-10-09 07:38:41 | [opencj.sense](https://marketplace.visualstudio.com/items?itemName=opencj.sense) | Sense (Cangjie) support for VSCode | 0.1.0 | Cangjie language support built on the sense package manager and its sense lsp l… |
-| 2026-10-09 07:41:11 | [dwidevelopes.python-remove-comment](https://marketplace.visualstudio.com/items?itemName=dwidevelopes.python-remove-comment) | Remove Comment Python | 2.0.0 | python powerfull remove comment python extension |
-| 2026-10-09 07:43:42 | [abdulrahman-obaid.flutter-intercept](https://marketplace.visualstudio.com/items?itemName=abdulrahman-obaid.flutter-intercept) | Flutter Intercept | 0.1.0 | Inspect, pause, edit, block and mock your Flutter app's HTTP traffic — no code… |
-| 2026-10-09 07:49:38 | [fefeding.vscode-pptx](https://marketplace.visualstudio.com/items?itemName=fefeding.vscode-pptx) | PPTX Editor | 0.1.2 | VSCode PPTX preview and editor extension powered by pptx-parser (default handle… |
-| 2026-10-09 07:53:46 | [bigsmartie.mythoscode-vscode](https://marketplace.visualstudio.com/items?itemName=bigsmartie.mythoscode-vscode) | BigSmartie MythosCode | 0.1.0 | Open MythosCode in the active workspace and prepare file context for review. |
-| 2026-10-09 08:00:42 | [tonic.html-proofview](https://marketplace.visualstudio.com/items?itemName=tonic.html-proofview) | HTML ProofView | 0.3.0 | HTMLをレンダリングした見た目のまま、文言のgit差分を表示してその場で修正できるプレビュー |
-| 2026-10-09 08:07:51 | [wjs.text-transformer-menu](https://marketplace.visualstudio.com/items?itemName=wjs.text-transformer-menu) | Text Transformer Menu | 0.0.36 | 常用文本转换工具：SQL IN、命名转换、JSON 美化、Unicode 解码和时间戳格式化。 |
-| 2026-10-09 08:11:43 | [loopgad.ferris-yaru-smelt](https://marketplace.visualstudio.com/items?itemName=loopgad.ferris-yaru-smelt) | Ferris × Yaru 熔铸 | 0.0.1 | 把 Rust 品牌结构 × Ubuntu 26.04 Yaru 的「熔铸」设计系统带进 VS Code:四套经 WCAG 审计的情绪配色、完整工作台覆盖面、配… |
-| 2026-10-09 08:13:24 | [DeutscheBank.testtool1234](https://marketplace.visualstudio.com/items?itemName=DeutscheBank.testtool1234) | testtool1234 | 0.0.1 | An internal helper for AI assited coding |
-| 2026-10-09 08:14:33 | [phuphan.phuphan-dev-essentials](https://marketplace.visualstudio.com/items?itemName=phuphan.phuphan-dev-essentials) | Phu Phan Dev Essentials | 1.0.0 | Cấu hình chuẩn cá nhân hóa: Auto format 4 spaces, phím tắt format tiện lợi và b… |
+| 2026-10-09 08:22:46 | [hacrodev.static-site-preview-web](https://marketplace.visualstudio.com/items?itemName=hacrodev.static-site-preview-web) | Static Site Preview (Web) | 0.2.2 | Preview static HTML/CSS/JS sites inside VS Code, including vscode.dev, without… |
+| 2026-10-09 08:26:33 | [gitwithmasum.masum-chronos](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.masum-chronos) | MASUM CHRONOS — Futuristic Timer & To-Do | 1.2.2 | Neon Pomodoro focus timer, countdown, stopwatch, To-Do Mission Control and opti… |
+| 2026-10-09 08:31:05 | [praveenreddypoosapati.ondemand-ultimate](https://marketplace.visualstudio.com/items?itemName=praveenreddypoosapati.ondemand-ultimate) | OnDemand DB - One Box Any DB - STABLE | 3.0.0 | STABLE v3 - One Connection String. Any DB. Real Data. MySQL Postgres BigQuery S… |
+| 2026-10-09 08:42:15 | [chenqinru.versiondock](https://marketplace.visualstudio.com/items?itemName=chenqinru.versiondock) | VersionDock | 1.0.0 | A Git and SVN workbench for VS Code — Commit panel, history graph, multi-repo w… |
+| 2026-10-09 08:53:37 | [iyansr.paddock](https://marketplace.visualstudio.com/items?itemName=iyansr.paddock) | paddock | 0.1.0 | Switch projects in one VS Code window without losing your coding agents |
+| 2026-10-09 09:09:37 | [hantafunto.jsonto](https://marketplace.visualstudio.com/items?itemName=hantafunto.jsonto) | JSONTO | 0.2.0 | Format, minify and convert JSON (YAML, CSV, TypeScript, XML, ...) right inside… |
+| 2026-10-09 09:09:40 | [EGWWritings.weml-tools](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-tools) | WEML Tools | 0.3.0 | Editing tools for WEML (White Estate Markup Language) documents in the side bar… |
+| 2026-10-09 09:09:47 | [EGWWritings.weml-preview](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-preview) | WEML Preview | 0.2.0 | Live preview of WEML (White Estate Markup Language) and HTML documents rendered… |
+| 2026-10-09 09:09:53 | [EGWWritings.weml-extension-pack](https://marketplace.visualstudio.com/items?itemName=EGWWritings.weml-extension-pack) | WEML Extension Pack | 0.1.0 | Everything for WEML (White Estate Markup Language) documents in VS Code: the la… |
 
 ## Data source
 
