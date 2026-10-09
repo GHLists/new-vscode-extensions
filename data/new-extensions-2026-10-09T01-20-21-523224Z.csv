@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-09T00:15:35.87Z,masahirocom.sbom-tool,masahirocom,SBOM Tool,0.1.1,Generate SBOM and run vulnerability checks for the current workspace
+2026-10-09T00:20:10.543Z,jgstew.bigfix-relevance-developer,jgstew,BigFix Relevance Developer,1.23.1,"Live diagnostics and syntax highlighting for BigFix Relevance in fixlets, tasks, analyses, dashboards, .rel files and Markdown."
+2026-10-09T00:35:53.633Z,AsahSkillTeknologiIndonesia.vscode-webm-player,AsahSkillTeknologiIndonesia,WebM Player,0.1.0,Preview WebM video in VS Code using the ogv.js WebAssembly decoders.

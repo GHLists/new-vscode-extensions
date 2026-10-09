@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-09 00:19 UTC
+## Latest list — 2026-10-09 01:20 UTC
 
-New extensions published between 2026-10-08 22:19 UTC and 2026-10-09 00:19 UTC.
+New extensions published between 2026-10-08 23:20 UTC and 2026-10-09 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-09T00-19-27-046861Z.csv)
+[Full CSV](data/new-extensions-2026-10-09T01-20-21-523224Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-08 23:21:59 | [Avers.seedforge](https://marketplace.visualstudio.com/items?itemName=Avers.seedforge) | SeedForge — Prisma Seed Data Generator | 0.1.0 | Generate realistic, type-correct seed/test data from your Prisma schema. Export… |
-| 2026-10-08 23:54:19 | [ao81.casl2-trace](https://marketplace.visualstudio.com/items?itemName=ao81.casl2-trace) | CASL II 実行トレース | 0.1.10 | CASL II の命令ごとの実行結果を表で確認する学習用プロトタイプ |
-| 2026-10-08 23:56:14 | [prime0x2.0x2-theme](https://marketplace.visualstudio.com/items?itemName=prime0x2.0x2-theme) | 0x2 Theme | 1.1.0 | A dark VS Code theme by prime0x2 with 18 dark themes, vivid syntax colors and a… |
-| 2026-10-09 00:05:12 | [DynatraceExtensionCommunity.dt-ai-observability](https://marketplace.visualstudio.com/items?itemName=DynatraceExtensionCommunity.dt-ai-observability) | Dynatrace AI Governance | 1.9.0 | Collects AI usage traces (GitHub Copilot, Claude Code) and sends them to Dynatr… |
+| 2026-10-09 00:15:35 | [masahirocom.sbom-tool](https://marketplace.visualstudio.com/items?itemName=masahirocom.sbom-tool) | SBOM Tool | 0.1.1 | Generate SBOM and run vulnerability checks for the current workspace |
+| 2026-10-09 00:20:10 | [jgstew.bigfix-relevance-developer](https://marketplace.visualstudio.com/items?itemName=jgstew.bigfix-relevance-developer) | BigFix Relevance Developer | 1.23.1 | Live diagnostics and syntax highlighting for BigFix Relevance in fixlets, tasks… |
+| 2026-10-09 00:35:53 | [AsahSkillTeknologiIndonesia.vscode-webm-player](https://marketplace.visualstudio.com/items?itemName=AsahSkillTeknologiIndonesia.vscode-webm-player) | WebM Player | 0.1.0 | Preview WebM video in VS Code using the ogv.js WebAssembly decoders. |
 
 ## Data source
 
