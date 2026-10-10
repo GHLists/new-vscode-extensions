@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T07:30:37.1Z,nelvaron.verdant-ledger-light,nelvaron,Verdant Ledger Light,1.0.0,"A calm, low-glare light theme in forest green, warm ochre, and soft neutrals, built to WCAG AA contrast."
+2026-10-10T07:30:55.07Z,creditwise-llm.creditwise-llm-vscode,creditwise-llm,CreditWise LLM,2.4.0,"⚡ Intelligent Model Router, FinOps Engine & Codebase Knowledge Graph for GitHub Copilot in VS Code"
+2026-10-10T07:39:05.587Z,Evidra.evidra,Evidra,Evidra,1.0.0,"Evidra - evidence-based autonomous engineering. Evidence-linked status, safe goal planning, and compliance export from VS Code (powered by the Evidra engine)."
+2026-10-10T07:46:52.96Z,hongs-lab.vstagram,hongs-lab,Visual Stagram Code DM,0.1.2,인스타그램 DM을 파이썬 코드처럼 보여줍니다. Visual Stagram Code 데스크톱 앱이 필요합니다.
+2026-10-10T07:55:06.863Z,JenniferGao.pychart-extension,JenniferGao,pychart-extension,1.0.0,Visualizes Python code as flowcharts in VS Code
+2026-10-10T08:00:11.923Z,prism-hdl.vscode-prism,prism-hdl,Prism HDL,0.8.0,Prism 硬件设计语言的编辑器支持：语法高亮、关键字补全、代码片段与语言配置。Prism 是一门“算法-调度分离 + RTL/TLM 同源双出 + 三方 cosim 闭环”的硬件设计语言。
+2026-10-10T08:00:12.58Z,sumangalkaran.code-runner-plus,sumangalkaran,Code Runner++ ,0.0.1,"Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,"
+2026-10-10T08:03:58.863Z,appicmarketing.iconoven,appicmarketing,IconOven Icons,1.0.0,"Search 85,000+ IconOven icons and insert them as SVG, React, Vue, Svelte, Angular or web component code."
+2026-10-10T08:10:57.787Z,cceevv.spine-resource-preview,cceevv,Spine Resource Preview,1.0.0,"Preview local Spine 3.7, 3.8 and 4.0–4.3 animation resources."

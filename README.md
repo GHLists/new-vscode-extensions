@@ -12,26 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 07:20 UTC
+## Latest list — 2026-10-10 08:18 UTC
 
-New extensions published between 2026-10-10 05:20 UTC and 2026-10-10 07:20 UTC.
+New extensions published between 2026-10-10 06:18 UTC and 2026-10-10 08:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T07-20-43-97946Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T08-18-45-393489Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 06:25:41 | [OXSystem.ox-developer](https://marketplace.visualstudio.com/items?itemName=OXSystem.ox-developer) | OX Developer | 1.1.0 | Build on OX from VS Code — connect your eShop store's code, keep it in sync wit… |
-| 2026-10-10 06:29:34 | [FXEdison.leekfund-fxedison](https://marketplace.visualstudio.com/items?itemName=FXEdison.leekfund-fxedison) | LeekFund FXEdison | 3.24.0 | 韭菜盒子，VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 |
-| 2026-10-10 06:29:39 | [PamalJayasinghe.codeneat](https://marketplace.visualstudio.com/items?itemName=PamalJayasinghe.codeneat) | CodeNeat | 0.1.0 | Format code in 41 languages with one extension. A visual settings dashboard, li… |
-| 2026-10-10 06:38:59 | [secretqsan.clear-auto](https://marketplace.visualstudio.com/items?itemName=secretqsan.clear-auto) | Clear Auto | 1.0.0 | Overlay C++ auto declarations as function or var, classified by clangd |
-| 2026-10-10 06:44:08 | [tokumarulabs.tokumaru-vscode-themes](https://marketplace.visualstudio.com/items?itemName=tokumarulabs.tokumaru-vscode-themes) | Tokumaru Labs VS Code Themes | 0.2.0 | Three readable VS Code color themes: Citypop midnight neon, a dreamy summer day… |
-| 2026-10-10 06:46:38 | [FelixKrueckel.panelwarp](https://marketplace.visualstudio.com/items?itemName=FelixKrueckel.panelwarp) | Panelwarp | 0.1.0 | An unofficial fork of the open-source Warp terminal, running in a VS Code panel… |
-| 2026-10-10 06:51:52 | [munanno.devpulse-Yahu](https://marketplace.visualstudio.com/items?itemName=munanno.devpulse-Yahu) | Gemma4 DevPulse | 1.0.0 | Local-first developer context and pre-commit review. |
-| 2026-10-10 07:03:19 | [AgentTracker.agent-tracker](https://marketplace.visualstudio.com/items?itemName=AgentTracker.agent-tracker) | Agent Tracker | 0.1.2 | Claude and Codex subscription usage and local token statistics per user request |
-| 2026-10-10 07:05:01 | [TolgaTuncoglu.kfp-dag-preview](https://marketplace.visualstudio.com/items?itemName=TolgaTuncoglu.kfp-dag-preview) | KFP DAG Preview | 0.2.0 | Read-only local DAG preview for Kubeflow Pipelines |
-| 2026-10-10 07:05:20 | [sammyboi1801.gitkit-vscode](https://marketplace.visualstudio.com/items?itemName=sammyboi1801.gitkit-vscode) | GitKit for VS Code | 0.2.0 | Everyday git and GitHub, made visual and safe: status at a glance, branch lanes… |
-| 2026-10-10 07:07:39 | [flamingo.propertieseditor](https://marketplace.visualstudio.com/items?itemName=flamingo.propertieseditor) | PropertiesEditor | 2.4.3 | Multi-file editor for .properties, .json and .jsonc translation/configuration f… |
-| 2026-10-10 07:14:54 | [toytools.markish-editor](https://marketplace.visualstudio.com/items?itemName=toytools.markish-editor) | Markish for VS Code: WYSIWYG Markdown E… | 1.0.0 | Edit Markdown as it looks when rendered. A WYSIWYG visual editor that stays in… |
+| 2026-10-10 07:30:37 | [nelvaron.verdant-ledger-light](https://marketplace.visualstudio.com/items?itemName=nelvaron.verdant-ledger-light) | Verdant Ledger Light | 1.0.0 | A calm, low-glare light theme in forest green, warm ochre, and soft neutrals, b… |
+| 2026-10-10 07:30:55 | [creditwise-llm.creditwise-llm-vscode](https://marketplace.visualstudio.com/items?itemName=creditwise-llm.creditwise-llm-vscode) | CreditWise LLM | 2.4.0 | ⚡ Intelligent Model Router, FinOps Engine & Codebase Knowledge Graph for GitHub… |
+| 2026-10-10 07:39:05 | [Evidra.evidra](https://marketplace.visualstudio.com/items?itemName=Evidra.evidra) | Evidra | 1.0.0 | Evidra - evidence-based autonomous engineering. Evidence-linked status, safe go… |
+| 2026-10-10 07:46:52 | [hongs-lab.vstagram](https://marketplace.visualstudio.com/items?itemName=hongs-lab.vstagram) | Visual Stagram Code DM | 0.1.2 | 인스타그램 DM을 파이썬 코드처럼 보여줍니다. Visual Stagram Code 데스크톱 앱이 필요합니다. |
+| 2026-10-10 07:55:06 | [JenniferGao.pychart-extension](https://marketplace.visualstudio.com/items?itemName=JenniferGao.pychart-extension) | pychart-extension | 1.0.0 | Visualizes Python code as flowcharts in VS Code |
+| 2026-10-10 08:00:11 | [prism-hdl.vscode-prism](https://marketplace.visualstudio.com/items?itemName=prism-hdl.vscode-prism) | Prism HDL | 0.8.0 | Prism 硬件设计语言的编辑器支持：语法高亮、关键字补全、代码片段与语言配置。Prism 是一门“算法-调度分离 + RTL/TLM 同源双出 + 三方 c… |
+| 2026-10-10 08:00:12 | [sumangalkaran.code-runner-plus](https://marketplace.visualstudio.com/items?itemName=sumangalkaran.code-runner-plus) | Code Runner++ | 0.0.1 | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD… |
+| 2026-10-10 08:03:58 | [appicmarketing.iconoven](https://marketplace.visualstudio.com/items?itemName=appicmarketing.iconoven) | IconOven Icons | 1.0.0 | Search 85,000+ IconOven icons and insert them as SVG, React, Vue, Svelte, Angul… |
+| 2026-10-10 08:10:57 | [cceevv.spine-resource-preview](https://marketplace.visualstudio.com/items?itemName=cceevv.spine-resource-preview) | Spine Resource Preview | 1.0.0 | Preview local Spine 3.7, 3.8 and 4.0–4.3 animation resources. |
 
 ## Data source
 
