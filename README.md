@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 13:20 UTC
+## Latest list — 2026-10-10 14:19 UTC
 
-New extensions published between 2026-10-10 11:20 UTC and 2026-10-10 13:20 UTC.
+New extensions published between 2026-10-10 12:19 UTC and 2026-10-10 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T13-20-15-924814Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T14-19-41-842929Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 12:26:52 | [MicoGujic.salesforce-call-map](https://marketplace.visualstudio.com/items?itemName=MicoGujic.salesforce-call-map) | Call Map | 0.6.2 | Zoom out from the method you're reading into a graph of who calls it and what i… |
-| 2026-10-10 12:40:15 | [db-explorer-dev.db-kit](https://marketplace.visualstudio.com/items?itemName=db-explorer-dev.db-kit) | DB Kit | 0.1.0 | 在 VSCode 内浏览、查询、编辑 MySQL / PostgreSQL / Redis / SQLite / MongoDB：资源树、表格视图、SQL C… |
-| 2026-10-10 12:45:51 | [ahsaniat.code-canvas-oss](https://marketplace.visualstudio.com/items?itemName=ahsaniat.code-canvas-oss) | Code Canvas OSS | 0.2.0 | Interactive canvas for your codebase: a file and folder graph with inline code… |
-| 2026-10-10 13:01:06 | [Winstead-Inc.live-characters-and-words-count](https://marketplace.visualstudio.com/items?itemName=Winstead-Inc.live-characters-and-words-count) | Live Characters & Words Count | 1.0.0 | Counts word and characters as you type in editor. |
-| 2026-10-10 13:10:46 | [VincentKimuri.zuntenium-vscode](https://marketplace.visualstudio.com/items?itemName=VincentKimuri.zuntenium-vscode) | Zuntenium Quantum Simulator | 0.1.0 | VS Code integration for Zuntenium - AI-Native Hybrid Quantum Simulator |
+| 2026-10-10 13:31:57 | [brianronock.grounded-pair-vscode](https://marketplace.visualstudio.com/items?itemName=brianronock.grounded-pair-vscode) | GroundedPair | 0.1.3 | Provider-independent AI pair-programming workbench — technical preview. |
+| 2026-10-10 13:47:41 | [Sulsira.relay-vscode](https://marketplace.visualstudio.com/items?itemName=Sulsira.relay-vscode) | Relay for CLI Agents | 1.5.2 | Send file paths and code selections to a CLI coding agent running in a dedicate… |
+| 2026-10-10 13:57:49 | [gauravgupta0612.repopilot](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.repopilot) | RepoPilot — Project Understanding Assis… | 0.1.4 | Open any repository and instantly see its architecture, entry points, build com… |
+| 2026-10-10 13:58:02 | [martindotts.minuet](https://marketplace.visualstudio.com/items?itemName=martindotts.minuet) | minuet | 0.1.0 | Step-by-step debugging, explained: your AI agent turns breakpoints into a guide… |
+| 2026-10-10 14:02:39 | [diamondlightsource.claude-sandbox-vscode](https://marketplace.visualstudio.com/items?itemName=diamondlightsource.claude-sandbox-vscode) | Claude Sandbox for VS Code | 0.7.0 | Run a sandboxed Claude Code in VS Code with claude-sandbox: its terminal in the… |
+| 2026-10-10 14:05:11 | [qmvis.latex-suite-vscode](https://marketplace.visualstudio.com/items?itemName=qmvis.latex-suite-vscode) | LaTeX Suite for VSCode | 1.1.0 | Fast LaTeX math typing in Markdown and LaTeX: auto-expanding snippets, auto-fra… |
+| 2026-10-10 14:10:39 | [JesserLahmer.offhand](https://marketplace.visualstudio.com/items?itemName=JesserLahmer.offhand) | Offhand | 0.1.0 | Free, lightweight commit model: suggests a Conventional Commits message right a… |
 
 ## Data source
 

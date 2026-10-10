@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T13:31:57.26Z,brianronock.grounded-pair-vscode,brianronock,GroundedPair,0.1.3,Provider-independent AI pair-programming workbench — technical preview.
+2026-10-10T13:47:41.173Z,Sulsira.relay-vscode,Sulsira,Relay for CLI Agents,1.5.2,Send file paths and code selections to a CLI coding agent running in a dedicated terminal.
+2026-10-10T13:57:49.2Z,gauravgupta0612.repopilot,gauravgupta0612,RepoPilot — Project Understanding Assistant,0.1.4,"Open any repository and instantly see its architecture, entry points, build commands, modules and dependency map — with evidence links for every claim. Supports TypeScript/JavaScript, Python, Java/Kotlin, Go, C# and IBM i (RPGLE, SQLRPGLE, CL, DDS, SQL, COBOL)."
+2026-10-10T13:58:02.817Z,martindotts.minuet,martindotts,minuet,0.1.0,"Step-by-step debugging, explained: your AI agent turns breakpoints into a guided tour of any JavaScript/TypeScript flow, with the real values of the run."
+2026-10-10T14:02:39.967Z,diamondlightsource.claude-sandbox-vscode,diamondlightsource,Claude Sandbox for VS Code,0.7.0,"Run a sandboxed Claude Code in VS Code with claude-sandbox: its terminal in the editor, selections, diffs, presets and a list of what it changed."
+2026-10-10T14:05:11.447Z,qmvis.latex-suite-vscode,qmvis,LaTeX Suite for VSCode,1.1.0,"Fast LaTeX math typing in Markdown and LaTeX: auto-expanding snippets, auto-fractions, matrix shortcuts, and Tab navigation. A port of Obsidian LaTeX Suite."
+2026-10-10T14:10:39.097Z,JesserLahmer.offhand,JesserLahmer,Offhand,0.1.0,"Free, lightweight commit model: suggests a Conventional Commits message right after `git add` in the terminal. Your data stays local and private."
