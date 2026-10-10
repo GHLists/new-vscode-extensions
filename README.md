@@ -12,15 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 00:20 UTC
+## Latest list — 2026-10-10 01:19 UTC
 
-New extensions published between 2026-10-09 22:20 UTC and 2026-10-10 00:20 UTC.
+New extensions published between 2026-10-09 23:19 UTC and 2026-10-10 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T00-20-33-126554Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T01-19-43-385973Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-09 23:56:15 | [inventora-digital.deluge-forge-vscode-extension](https://marketplace.visualstudio.com/items?itemName=inventora-digital.deluge-forge-vscode-extension) | Deluge Forge | 0.1.2308 | Write, run, and manage Zoho Deluge code for CRM, Books, and Creator from VS Cod… |
+| 2026-10-10 00:29:20 | [MancSoftware.visual-sqitch](https://marketplace.visualstudio.com/items?itemName=MancSoftware.visual-sqitch) | Visual Sqitch | 0.1.0 | See where every database sits in your Sqitch plan, compare with upstream, and d… |
+| 2026-10-10 00:52:38 | [ptanmay143.techstack-gitignore](https://marketplace.visualstudio.com/items?itemName=ptanmay143.techstack-gitignore) | TechStack .gitignore Builder | 1.0.0 | Search, download, and combine .gitignore rules from templates directly from wit… |
+| 2026-10-10 00:52:55 | [RichasyZhang.rodel-resource-editor](https://marketplace.visualstudio.com/items?itemName=RichasyZhang.rodel-resource-editor) | Rodel Resource Editor | 0.0.2 | Native-feeling resource editing and multilingual management for .resw and .resx. |
+| 2026-10-10 01:04:32 | [elecbug.gitex](https://marketplace.visualstudio.com/items?itemName=elecbug.gitex) | GiTex | 0.13.1 | Git-backed passage comments and collaboration for LaTeX papers. |
 
 ## Data source
 
