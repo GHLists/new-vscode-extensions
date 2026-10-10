@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T09:18:20.13Z,BHA.bha-plus-plus,BHA,BHA++,1.0.0,Среда разработок ВНА
+2026-10-10T09:20:50.537Z,samxxu.ct-vscode,samxxu,CT — C with Traits,0.0.1,"Syntax highlighting, snippets and language configuration for CT (C with Traits), the trait-flavoured C compiled by ctc."
+2026-10-10T09:26:32.69Z,Orion-vega.gitcrawl,Orion-vega,gitcrawl: TODO Raid,0.1.1,Your TODOs come alive as pixel goblins and hunt your cursor. Fix the TODO to banish its monster for good.
+2026-10-10T09:35:33.853Z,eci99.freemarker-intellisense,eci99,FreeMarker IntelliSense,0.1.1,"Completion, navigation, validation, and formatting for Apache FreeMarker templates, across imported and included files."
+2026-10-10T09:38:43.94Z,Arachne.weavr,Arachne,Weavr - Fragmented Thinking & Writing,0.0.1,Weave fragmented thinking into logic. Build the ultimate thought-driven map with Markdown writing.
+2026-10-10T09:43:16.553Z,FallenMax.diffway,FallenMax,Diffway,0.1.0,Navigate changes and files while reviewing Git diffs.
+2026-10-10T09:47:03.327Z,sagez.opencode-cli-sidebar,sagez,Opencode CLI Sidebar,5.0.0,"Run the OpenCode AI coding agent in the VS Code sidebar with full terminal management. Unofficial third-party extension, not affiliated with the OpenCode team."
+2026-10-10T09:57:14.64Z,baker-link-lab.baker-link-env,baker-link-lab,Baker Link Env,0.1.1,"Embedded debugging and Dev Container integration for Baker Link Env, powered by probe-rs."
+2026-10-10T10:15:33.07Z,scesna.scesna-language-extension,scesna,SCESNA Language extension,0.1.1,Syntax highlighting and editor support for SCESNA assembly files.
+2026-10-10T10:16:39.023Z,waitearn.waitearn,waitearn,WaitEarn,0.1.0,Install and manage WaitEarn from the VS Code integrated terminal.
