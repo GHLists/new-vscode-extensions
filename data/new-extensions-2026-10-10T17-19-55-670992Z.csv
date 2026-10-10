@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T16:20:50.683Z,AIzyusousei.docs-translation-synchronizer,AIzyusousei,Docs Translation Synchronizer,0.1.1,Synchronize Japanese and English Markdown documents.
+2026-10-10T16:31:27.643Z,zoomieslabs.retramo,zoomieslabs,Retramo,0.2.0,Saves your working state when you step away and shows it to you when you come back. Made for people who lose the thread with every interruption.
+2026-10-10T16:31:37.917Z,reaxios.axs-language,reaxios,AXS Language,0.1.0,"Syntax highlighting, live diagnostics, canonical formatting, and smart list editing for AXS files. No Rust or CLI installation required."
+2026-10-10T16:32:21.72Z,octavadigital.octava-digital-theme,octavadigital,Octava Digital Theme,1.0.0,Tema vibrante con colores neón y acentos naranja inspirado en Octava Digital. 3 variantes oscuras y 2 claras.
+2026-10-10T16:39:05.07Z,heebm.school-csharp,heebm,School C#,0.4.2,C# console project setup for school students.
+2026-10-10T16:41:04.57Z,XAI247.xai247-code,XAI247,XAI247 Code,0.1.0,"Trợ lý lập trình AI ngay trong VS Code, chạy bằng API key XAI247: chọn model, xem hạn mức và thời điểm reset ngay trong extension."
+2026-10-10T16:45:12.393Z,PutraAdiJaya.live-api-mock-pro,PutraAdiJaya,Live API Mock Pro,1.5.2,"Zero-setup mock REST & GraphQL server inside VS Code — 47 templates, realistic Faker data, error simulation and a built-in API playground."
+2026-10-10T17:03:01.023Z,ExtraAgente.nexus-agent,ExtraAgente,Extra Agent AI,1.0.0,Agentic Coding Platform inside VS Code
