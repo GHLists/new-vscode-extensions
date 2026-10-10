@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 02:19 UTC
+## Latest list — 2026-10-10 03:20 UTC
 
-New extensions published between 2026-10-10 00:19 UTC and 2026-10-10 02:19 UTC.
+New extensions published between 2026-10-10 01:20 UTC and 2026-10-10 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T02-19-14-869705Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T03-20-20-734159Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 01:30:11 | [gvart.proschi](https://marketplace.visualstudio.com/items?itemName=gvart.proschi) | Proschi | 0.10.0 | Syntax highlighting, validation, completion and outline for Proschi architectur… |
-| 2026-10-10 01:31:24 | [ODSS-VideoCode.odss-vscode-extension](https://marketplace.visualstudio.com/items?itemName=ODSS-VideoCode.odss-vscode-extension) | ODSS Recorder | 0.1.10 | Records VS Code editing + terminal sessions in the ODSS format. |
-| 2026-10-10 01:32:52 | [Tees-software.tees-novel-view](https://marketplace.visualstudio.com/items?itemName=Tees-software.tees-novel-view) | Tee's Novel View | 1.0.0 | テキストファイル(.txt)を小説として閲覧するための「小説ビュー」。「小説家になろう」形式のルビ表示と、会話文・心の声などの色分けに対応。 |
-| 2026-10-10 01:36:35 | [abutalebco.Sabha](https://marketplace.visualstudio.com/items?itemName=abutalebco.Sabha) | Sabha | 0.0.1 | A gamified tasbih / tally counter for your adhkar, right inside VS Code. |
-| 2026-10-10 01:37:03 | [dolphlabs.slang-analyser](https://marketplace.visualstudio.com/items?itemName=dolphlabs.slang-analyser) | slang-analyser | 0.1.0 | Language support for slang (.sl): hover types, goto-definition, diagnostics, fo… |
-| 2026-10-10 01:41:15 | [wxb.localizetip2](https://marketplace.visualstudio.com/items?itemName=wxb.localizetip2) | LocalizeTip2 | 0.1.0 | C# localization completion, hover, inline hints and source navigation |
+| 2026-10-10 02:22:30 | [zhangxue.team-conventions](https://marketplace.visualstudio.com/items?itemName=zhangxue.team-conventions) | 团队项目约定 | 0.1.0 | 提供 TypeScript 项目脚手架和团队约定检查命令。 |
+| 2026-10-10 02:23:07 | [zhangxue.yapi-explorer](https://marketplace.visualstudio.com/items?itemName=zhangxue.yapi-explorer) | YApi Explorer | 0.1.0 | 浏览 YApi 项目目录、搜索接口、查看详情并生成请求代码片段。 |
+| 2026-10-10 02:24:07 | [zhangxue.zentao-collaboration](https://marketplace.visualstudio.com/items?itemName=zhangxue.zentao-collaboration) | 禅道协作 | 0.1.0 | 通过禅道官方 REST API 查看当前用户 Bug 并执行已确认的状态操作。 |
+| 2026-10-10 02:37:35 | [treehouse00.squash-merge-pr-attribution](https://marketplace.visualstudio.com/items?itemName=treehouse00.squash-merge-pr-attribution) | Squash Merge PR Attribution | 0.2.3 | Recover the original PR commit authors and file diffs hidden by GitHub squash m… |
+| 2026-10-10 02:44:28 | [reecepoint.open-office-externally](https://marketplace.visualstudio.com/items?itemName=reecepoint.open-office-externally) | ReecePoint | 1.2.1 | Open Word, Excel and PowerPoint files directly from the VS Code Explorer. Left-… |
+| 2026-10-10 02:54:54 | [mzuniga51.claude-vsc-quick-launch](https://marketplace.visualstudio.com/items?itemName=mzuniga51.claude-vsc-quick-launch) | Quick Launch for Claude Code | 0.41.0 | Project and server shortcuts in the VS Code Activity Bar |
+| 2026-10-10 03:12:26 | [LKAppFactory.explain-diff](https://marketplace.visualstudio.com/items?itemName=LKAppFactory.explain-diff) | Explain Diff | 0.1.0 | Plain-language, diagram-rich explanations of the commits Claude Code made, with… |
 
 ## Data source
 

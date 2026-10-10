@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T02:22:30.09Z,zhangxue.team-conventions,zhangxue,团队项目约定,0.1.0,提供 TypeScript 项目脚手架和团队约定检查命令。
+2026-10-10T02:23:07.997Z,zhangxue.yapi-explorer,zhangxue,YApi Explorer,0.1.0,浏览 YApi 项目目录、搜索接口、查看详情并生成请求代码片段。
+2026-10-10T02:24:07.023Z,zhangxue.zentao-collaboration,zhangxue,禅道协作,0.1.0,通过禅道官方 REST API 查看当前用户 Bug 并执行已确认的状态操作。
+2026-10-10T02:37:35.18Z,treehouse00.squash-merge-pr-attribution,treehouse00,Squash Merge PR Attribution,0.2.3,Recover the original PR commit authors and file diffs hidden by GitHub squash merges.
+2026-10-10T02:44:28.46Z,reecepoint.open-office-externally,reecepoint,ReecePoint,1.2.1,"Open Word, Excel and PowerPoint files directly from the VS Code Explorer. Left-click a file and it opens in its Windows default app."
+2026-10-10T02:54:54.187Z,mzuniga51.claude-vsc-quick-launch,mzuniga51,Quick Launch for Claude Code,0.41.0,Project and server shortcuts in the VS Code Activity Bar
+2026-10-10T03:12:26.583Z,LKAppFactory.explain-diff,LKAppFactory,Explain Diff,0.1.0,"Plain-language, diagram-rich explanations of the commits Claude Code made, with the session's context."
