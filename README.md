@@ -12,29 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 15:20 UTC
+## Latest list — 2026-10-10 16:20 UTC
 
-New extensions published between 2026-10-10 13:20 UTC and 2026-10-10 15:20 UTC.
+New extensions published between 2026-10-10 14:20 UTC and 2026-10-10 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T15-20-19-731714Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T16-20-57-039017Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 14:20:00 | [lemion.nasm-ide](https://marketplace.visualstudio.com/items?itemName=lemion.nasm-ide) | NASM IDE | 0.1.8 | Language Server Protocol-based IntelliSense, hover docs, cross-file extern supp… |
-| 2026-10-10 14:23:05 | [gauravgupta0612.bugtrail](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.bugtrail) | BugTrail — Debugging Memory | 0.1.0 | Automatically keeps a searchable timeline of the errors you hit (terminal, debu… |
-| 2026-10-10 14:23:12 | [gauravgupta0612.devimpact](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.devimpact) | DevImpact — Change Impact Analyzer | 0.1.0 | Before you change code, see what depends on it, what could break and which test… |
-| 2026-10-10 14:24:00 | [Archipelagic.flotilla](https://marketplace.visualstudio.com/items?itemName=Archipelagic.flotilla) | Flotilla | 0.1.0 | Files, search, version control and Claude Code chats for every git worktree, in… |
-| 2026-10-10 14:24:46 | [vaibhav-gupta.codepilot-vaibhav-coding](https://marketplace.visualstudio.com/items?itemName=vaibhav-gupta.codepilot-vaibhav-coding) | CodePilot-vaibhav-ai | 0.2.2 | AI coding assistant for VS Code: chat with your files, inline edit with diff pr… |
-| 2026-10-10 14:26:20 | [lvsflat.remote-image-preview](https://marketplace.visualstudio.com/items?itemName=lvsflat.remote-image-preview) | Remote Image Preview | 0.0.1 | Preview remote and CDN images on hover and in the editor gutter, with full SVG… |
-| 2026-10-10 14:30:37 | [uitosource.uitosource](https://marketplace.visualstudio.com/items?itemName=uitosource.uitosource) | UIToSource | 0.19.1 | Right-click any element in your running React or Angular app and jump to — or e… |
-| 2026-10-10 14:34:09 | [gauravgupta0612.devsuite-tracelens](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.devsuite-tracelens) | DevSuite TraceLens — API Flow Explorer | 0.1.1 | See every API endpoint in your workspace and trace a request through routes, co… |
-| 2026-10-10 14:34:09 | [gauravgupta0612.devsuite-codeguard](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.devsuite-codeguard) | DevSuite CodeGuard — Pre-Commit Risk Sc… | 0.1.1 | A prioritised risk report for your changes before you commit: leaked secrets, i… |
-| 2026-10-10 14:42:28 | [iihao.pi-agent-assistant](https://marketplace.visualstudio.com/items?itemName=iihao.pi-agent-assistant) | Pi Agent for VS Code | 0.1.0 | AI coding assistant in VS Code, powered by the local pi agent |
-| 2026-10-10 14:54:52 | [ts91.urscript-ls](https://marketplace.visualstudio.com/items?itemName=ts91.urscript-ls) | URScript Language Server | 0.1.0 | URScript language support with full LSP features |
-| 2026-10-10 14:59:53 | [harmeling.kurt](https://marketplace.visualstudio.com/items?itemName=harmeling.kurt) | Kurt | 0.8.1 | The Kurt proof language: each line of a proof checked as you type, with its rea… |
-| 2026-10-10 15:11:21 | [PraveenDhaked2.overstory](https://marketplace.visualstudio.com/items?itemName=PraveenDhaked2.overstory) | Overstory | 0.7.2 | Overstory: your Claude Code and Codex sessions across every repo and git worktr… |
-| 2026-10-10 15:13:15 | [DoubleGeste.agent-standup](https://marketplace.visualstudio.com/items?itemName=DoubleGeste.agent-standup) | Agent Standup | 1.11.0 | Watch your Claude Code session as a live, animated team call: the lead gives or… |
-| 2026-10-10 15:17:53 | [autodocslife.auto-docs-live](https://marketplace.visualstudio.com/items?itemName=autodocslife.auto-docs-live) | Auto Docs Live | 0.1.0 | Documenta tu código mientras programas: genera comentarios de documentación al… |
+| 2026-10-10 15:19:31 | [MochiiiAIAgent.mochiii-vscode](https://marketplace.visualstudio.com/items?itemName=MochiiiAIAgent.mochiii-vscode) | Mochiii | 0.1.0 | A local-first AI coding assistant. Your code is indexed, embedded and retrieved… |
+| 2026-10-10 15:21:36 | [cfuncdoor.rivet](https://marketplace.visualstudio.com/items?itemName=cfuncdoor.rivet) | Rivet (Cargo for C++) | 0.1.0 | Configures C/C++ IntelliSense from your rivet build, so project and dependency… |
+| 2026-10-10 15:35:50 | [ToanBui.toanbui-review-comments](https://marketplace.visualstudio.com/items?itemName=ToanBui.toanbui-review-comments) | I Review Comments | 1.0.1 | Add review comments to code and documents without changing the source. Track fe… |
+| 2026-10-10 15:38:48 | [gauravgupta0612.devsuite-pack](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.devsuite-pack) | DevSuite — Developer Productivity Pack | 0.1.0 | Five focused tools in one install: RepoPilot (understand any repository), DevIm… |
+| 2026-10-10 15:40:20 | [PutraAdiJaya.fastclient](https://marketplace.visualstudio.com/items?itemName=PutraAdiJaya.fastclient) | FastClient – Lightweight REST API Client | 0.6.1 | A tiny, fast REST/HTTP API client for VS Code and all its forks. Collections as… |
+| 2026-10-10 15:51:24 | [ReadyStack.gensen-choshu-rate-lint-jp](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gensen-choshu-rate-lint-jp) | 源泉徴収 計算チェック 10.21%・20.42%（令和9年改正対応） | 1.0.6 | 報酬・料金の源泉徴収を計算するコード(JS/TS/Python)を国税庁の式で検査。10%だけ・20.42%を全額に・102,100円抜け・端数の四捨五入・令… |
+| 2026-10-10 15:51:41 | [ReadyStack.getraenke-beleg-lint-de](https://marketplace.visualstudio.com/items?itemName=ReadyStack.getraenke-beleg-lint-de) | Belegfelder-Lint für Getränkehandel | 1.0.9 | Prüft Rechnungs-, Lieferschein- und Begleitdokument-Vorlagen auf die Alkoholste… |
+| 2026-10-10 15:51:59 | [ReadyStack.gitlab-ci-break-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gitlab-ci-break-lint) | GitLab CI Break Lint | 1.0.8 | Finds the .gitlab-ci.yml keywords GitLab retired, plus the GitHub Actions synta… |
+| 2026-10-10 15:52:15 | [ReadyStack.gitlab-ci-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gitlab-ci-migration-check) | GitLab CI/CD Migration Check for GitHub… | 1.0.3 | GitLab CI/CD migration check: flags every line of a GitHub Actions workflow tha… |
+| 2026-10-10 15:54:59 | [okano-tomoyuki.tokotachi-designer](https://marketplace.visualstudio.com/items?itemName=okano-tomoyuki.tokotachi-designer) | Tokotachi Designer | 0.1.0 | GUI designer for the Tokotachi C++ GUI library |
+| 2026-10-10 15:57:13 | [lyjy.livewrite-md](https://marketplace.visualstudio.com/items?itemName=lyjy.livewrite-md) | LiveWriteMD | 0.0.2 | WYSIWYG Markdown editor for VS Code with Obsidian-style live preview. Tables, M… |
+| 2026-10-10 16:02:56 | [nqd881.lets-translate](https://marketplace.visualstudio.com/items?itemName=nqd881.lets-translate) | Let's Translate | 1.0.0 | Translate selected text inline, with smart paragraph and list handling. |
 
 ## Data source
 
