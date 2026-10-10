@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T22:18:44.033Z,montemr.unreal-mcp-status,montemr,Unreal MCP Status,1.1.1,"Status bar light for Unreal Engine MCP: see at a glance whether Claude Code, Cursor or Copilot can reach the Unreal Editor. Works with Epic's built-in Unreal MCP plugin (UE 5.8)."
+2026-10-10T22:29:24.783Z,guizin-sccp.dashvanced-theme,guizin-sccp,Dashvanced Theme,1.0.0,A different and unique color theme extension made by a brazilian student.
+2026-10-10T22:34:25.72Z,marcimoto.midnight-theme-studio,marcimoto,Midnight Theme Studio,1.0.1,"Dark themes with clear syntax colors, mint accents, and vibrant or soft palettes."
+2026-10-10T22:39:00.817Z,Yantrakar.gitpro,Yantrakar,gitpro,0.3.1,"Shows the git name and email this repo commits with, finds repos that override gitpro, and runs gitpro plan, apply and pin."
+2026-10-10T22:40:16.99Z,autoresolve.autoresolve-vscode,autoresolve,AutoResolve,0.1.0,AI code review and repair for Python with proven fixes only
+2026-10-10T22:55:28.977Z,itek-ai.pidesk,itek-ai,piDesk,0.0.1,"Lista sesiones de piDesk, manda prompts y muestra tokens sin salir de VS Code."
