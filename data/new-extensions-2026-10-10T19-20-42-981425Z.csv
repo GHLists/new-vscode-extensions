@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T18:25:07.017Z,samarin-aa-aka-rtm00.model-bridge-for-copilot,samarin-aa-aka-rtm00,"Model Bridge for Copilot - Claude, Codex & Local LLMs",0.1.0,"Use Claude subscriptions, ChatGPT Codex, and local LM Studio models in native VS Code Chat and Agent mode."
+2026-10-10T18:38:22.51Z,g4-api.g4-test-wright,g4-api,G4 Studio Test Wright,2026.10.3,"A G4 bots test workbench for VS Code: discover the bots of a G4 project, build run plans with drag and drop, run them against the G4 engine, and review G4 and Allure reports."
+2026-10-10T18:49:26.127Z,Rowan.rowan,Rowan,rowan — abstract interpretation for Python,0.1.0,Hover over a variable to see the values rowan infers for it; accesses that can fail as diagnostics.
