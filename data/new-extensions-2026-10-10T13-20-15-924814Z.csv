@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T12:26:52.46Z,MicoGujic.salesforce-call-map,MicoGujic,Call Map,0.6.2,"Zoom out from the method you're reading into a graph of who calls it and what it calls, with the arguments on every line. Walk the calls with the arrow keys."
+2026-10-10T12:40:15.867Z,db-explorer-dev.db-kit,db-explorer-dev,DB Kit,0.1.0,在 VSCode 内浏览、查询、编辑 MySQL / PostgreSQL / Redis / SQLite / MongoDB：资源树、表格视图、SQL Console、结构管理与流式导出。
+2026-10-10T12:45:51.54Z,ahsaniat.code-canvas-oss,ahsaniat,Code Canvas OSS,0.2.0,"Interactive canvas for your codebase: a file and folder graph with inline code previews, search, descriptions and resizable nodes."
+2026-10-10T13:01:06.537Z,Winstead-Inc.live-characters-and-words-count,Winstead-Inc,Live Characters & Words Count,1.0.0,Counts word and characters as you type in editor.
+2026-10-10T13:10:46.693Z,VincentKimuri.zuntenium-vscode,VincentKimuri,Zuntenium Quantum Simulator,0.1.0,VS Code integration for Zuntenium - AI-Native Hybrid Quantum Simulator

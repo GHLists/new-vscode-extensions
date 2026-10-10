@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 12:20 UTC
+## Latest list — 2026-10-10 13:20 UTC
 
-New extensions published between 2026-10-10 10:20 UTC and 2026-10-10 12:20 UTC.
+New extensions published between 2026-10-10 11:20 UTC and 2026-10-10 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T12-20-22-673757Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T13-20-15-924814Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 11:14:59 | [ott-academy.id-dost](https://marketplace.visualstudio.com/items?itemName=ott-academy.id-dost) | ID Dost | 0.1.0 | Friendly HTML ID validation for duplicate, empty, and whitespace-containing IDs. |
-| 2026-10-10 11:44:14 | [RoyBerris.devbox-agents](https://marketplace.visualstudio.com/items?itemName=RoyBerris.devbox-agents) | Devbox Agents | 0.1.0 | Start, follow and resume AI coding agents (Claude Code, Codex) in tmux sessions… |
-| 2026-10-10 11:47:54 | [ReadyStack.kiln-glaze-theme](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kiln-glaze-theme) | Kiln Theme — Pottery glaze colours: rak… | 1.0.0 | Pottery glaze colours: raku smoke, tenmoku iron, celadon jade. Kiln takes its c… |
-| 2026-10-10 12:00:09 | [atlarix.atlarix](https://marketplace.visualstudio.com/items?itemName=atlarix.atlarix) | Atlarix — AI Coding Agent (Any Model, Y… | 15.4.0 | AI coding agent for VS Code, Cursor, Kiro and Windsurf. Use Claude, GPT, Gemini… |
-| 2026-10-10 12:00:34 | [MartyZhou.vscode-copilot-local](https://marketplace.visualstudio.com/items?itemName=MartyZhou.vscode-copilot-local) | Copilot Local | 0.1.6 | Expose GitHub Copilot as an Ollama-compatible HTTP API server for external appl… |
-| 2026-10-10 12:03:33 | [fhasancse.codeXstudio](https://marketplace.visualstudio.com/items?itemName=fhasancse.codeXstudio) | codeXstudio - vscode dev assistant for… | 0.1.0 | A Visual Studio-inspired Solution Explorer, virtual solution folders, .NET CLI… |
-| 2026-10-10 12:08:57 | [nextllms.nextllms-vscode](https://marketplace.visualstudio.com/items?itemName=nextllms.nextllms-vscode) | NextLLMs for VS Code | 0.3.1 | Chat, plan, inspect project files, and apply targeted code changes with your Ne… |
+| 2026-10-10 12:26:52 | [MicoGujic.salesforce-call-map](https://marketplace.visualstudio.com/items?itemName=MicoGujic.salesforce-call-map) | Call Map | 0.6.2 | Zoom out from the method you're reading into a graph of who calls it and what i… |
+| 2026-10-10 12:40:15 | [db-explorer-dev.db-kit](https://marketplace.visualstudio.com/items?itemName=db-explorer-dev.db-kit) | DB Kit | 0.1.0 | 在 VSCode 内浏览、查询、编辑 MySQL / PostgreSQL / Redis / SQLite / MongoDB：资源树、表格视图、SQL C… |
+| 2026-10-10 12:45:51 | [ahsaniat.code-canvas-oss](https://marketplace.visualstudio.com/items?itemName=ahsaniat.code-canvas-oss) | Code Canvas OSS | 0.2.0 | Interactive canvas for your codebase: a file and folder graph with inline code… |
+| 2026-10-10 13:01:06 | [Winstead-Inc.live-characters-and-words-count](https://marketplace.visualstudio.com/items?itemName=Winstead-Inc.live-characters-and-words-count) | Live Characters & Words Count | 1.0.0 | Counts word and characters as you type in editor. |
+| 2026-10-10 13:10:46 | [VincentKimuri.zuntenium-vscode](https://marketplace.visualstudio.com/items?itemName=VincentKimuri.zuntenium-vscode) | Zuntenium Quantum Simulator | 0.1.0 | VS Code integration for Zuntenium - AI-Native Hybrid Quantum Simulator |
 
 ## Data source
 
