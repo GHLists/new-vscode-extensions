@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 19:20 UTC
+## Latest list — 2026-10-10 20:19 UTC
 
-New extensions published between 2026-10-10 17:20 UTC and 2026-10-10 19:20 UTC.
+New extensions published between 2026-10-10 18:19 UTC and 2026-10-10 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T19-20-42-981425Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T20-19-44-19051Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 18:25:07 | [samarin-aa-aka-rtm00.model-bridge-for-copilot](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.model-bridge-for-copilot) | Model Bridge for Copilot - Claude, Code… | 0.1.0 | Use Claude subscriptions, ChatGPT Codex, and local LM Studio models in native V… |
-| 2026-10-10 18:38:22 | [g4-api.g4-test-wright](https://marketplace.visualstudio.com/items?itemName=g4-api.g4-test-wright) | G4 Studio Test Wright | 2026.10.3 | A G4 bots test workbench for VS Code: discover the bots of a G4 project, build… |
-| 2026-10-10 18:49:26 | [Rowan.rowan](https://marketplace.visualstudio.com/items?itemName=Rowan.rowan) | rowan — abstract interpretation for Pyt… | 0.1.0 | Hover over a variable to see the values rowan infers for it; accesses that can… |
+| 2026-10-10 19:55:21 | [brok.penmark](https://marketplace.visualstudio.com/items?itemName=brok.penmark) | Penmark | 0.1.0 | Review the markdown docs Claude Code edits: see only what Claude changed, comme… |
+| 2026-10-10 19:55:52 | [manapotionstudios.md-status](https://marketplace.visualstudio.com/items?itemName=manapotionstudios.md-status) | MD Status | 0.4.0 | Shows the status written inside a Markdown file (tasks, decisions, specs, ADRs)… |
+| 2026-10-10 20:00:22 | [sealant-sh.mend](https://marketplace.visualstudio.com/items?itemName=sealant-sh.mend) | Mend by Sealant | 0.36.0 | Open and steer Mend coding-agent sessions from VS Code. |
 
 ## Data source
 

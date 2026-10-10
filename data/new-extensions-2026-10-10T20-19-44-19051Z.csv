@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T19:55:21.697Z,brok.penmark,brok,Penmark,0.1.0,"Review the markdown docs Claude Code edits: see only what Claude changed, comment on the text, and send all comments back in one go."
+2026-10-10T19:55:52.587Z,manapotionstudios.md-status,manapotionstudios,MD Status,0.4.0,"Shows the status written inside a Markdown file (tasks, decisions, specs, ADRs) as the file's icon, name colour and folder progress in the Explorer. File names never change."
+2026-10-10T20:00:22.047Z,sealant-sh.mend,sealant-sh,Mend by Sealant,0.36.0,Open and steer Mend coding-agent sessions from VS Code.
