@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T04:35:04.01Z,iwantads.iwantads,iwantads,iwantads,0.1.0,"One small, labelled ad while your AI works. Picked on your computer, so your chats never leave it. You get 70% of what it earns."
+2026-10-10T04:57:46.55Z,xbghc.nvim-marks,xbghc,Neovim Marks,0.1.0,Show Neovim marks in the VS Code gutter when using vscode-neovim. Marks stay native to Neovim; this extension only renders them.
