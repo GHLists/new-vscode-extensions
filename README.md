@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 06:20 UTC
+## Latest list — 2026-10-10 07:20 UTC
 
-New extensions published between 2026-10-10 04:20 UTC and 2026-10-10 06:20 UTC.
+New extensions published between 2026-10-10 05:20 UTC and 2026-10-10 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T06-20-12-877416Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T07-20-43-97946Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 05:29:25 | [namth587.ai-session-metrics](https://marketplace.visualstudio.com/items?itemName=namth587.ai-session-metrics) | AI Session Metrics | 1.0.0 | Companion extension that displays real-time context size, token usage, and esti… |
-| 2026-10-10 05:33:46 | [lp0124.mpx-tsgo](https://marketplace.visualstudio.com/items?itemName=lp0124.mpx-tsgo) | Mpx tsgo | 0.1.1 | 基于 TypeScript 7（tsgo）的 Mpx 语言支持：大型项目里 .mpx 的跳转、补全、类型提示几秒内可用，保留完整的跨文件引用 |
-| 2026-10-10 05:34:39 | [Randomizez.pycodex](https://marketplace.visualstudio.com/items?itemName=Randomizez.pycodex) | Pycodex | 0.0.1 | Workspace chat using your Python environment and Codex profiles, with inline co… |
-| 2026-10-10 05:39:53 | [andreymyssak.git-ui-native](https://marketplace.visualstudio.com/items?itemName=andreymyssak.git-ui-native) | Git UI | 0.1.2 | Finally, a proper Git UI for VS Code. Inspired by JetBrains IDEs. |
-| 2026-10-10 05:44:39 | [munanno.devpulseYahu](https://marketplace.visualstudio.com/items?itemName=munanno.devpulseYahu) | Gemma DevPulse | 0.0.1 | Local-first developer context and pre-commit review. |
-| 2026-10-10 05:47:04 | [kyto64.vscode-git-graph-zero](https://marketplace.visualstudio.com/items?itemName=kyto64.vscode-git-graph-zero) | Git Graph Zero | 0.0.1 | A lightweight commit graph for Visual Studio Code. |
-| 2026-10-10 06:06:04 | [ninokroesen.milkpad](https://marketplace.visualstudio.com/items?itemName=ninokroesen.milkpad) | Milkpad — WYSIWYG Markdown Editor | 0.1.12 | A WYSIWYG markdown editor for VS Code. Edit .md files as rendered text, in a pa… |
-| 2026-10-10 06:14:09 | [tabulens.tabulens](https://marketplace.visualstudio.com/items?itemName=tabulens.tabulens) | Tabulens — DBF, Excel, SPSS, Stata, Par… | 1.19.0 | Open DBF, Excel, SPSS .sav, Stata .dta, SAS .xpt, Parquet, SQLite, Access and 2… |
-| 2026-10-10 06:16:53 | [chief2001.dotenv-scanner](https://marketplace.visualstudio.com/items?itemName=chief2001.dotenv-scanner) | dotenv-scanner | 0.0.1 | Scan the workspace for environment variables used in JavaScript and TypeScript… |
+| 2026-10-10 06:25:41 | [OXSystem.ox-developer](https://marketplace.visualstudio.com/items?itemName=OXSystem.ox-developer) | OX Developer | 1.1.0 | Build on OX from VS Code — connect your eShop store's code, keep it in sync wit… |
+| 2026-10-10 06:29:34 | [FXEdison.leekfund-fxedison](https://marketplace.visualstudio.com/items?itemName=FXEdison.leekfund-fxedison) | LeekFund FXEdison | 3.24.0 | 韭菜盒子，VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 |
+| 2026-10-10 06:29:39 | [PamalJayasinghe.codeneat](https://marketplace.visualstudio.com/items?itemName=PamalJayasinghe.codeneat) | CodeNeat | 0.1.0 | Format code in 41 languages with one extension. A visual settings dashboard, li… |
+| 2026-10-10 06:38:59 | [secretqsan.clear-auto](https://marketplace.visualstudio.com/items?itemName=secretqsan.clear-auto) | Clear Auto | 1.0.0 | Overlay C++ auto declarations as function or var, classified by clangd |
+| 2026-10-10 06:44:08 | [tokumarulabs.tokumaru-vscode-themes](https://marketplace.visualstudio.com/items?itemName=tokumarulabs.tokumaru-vscode-themes) | Tokumaru Labs VS Code Themes | 0.2.0 | Three readable VS Code color themes: Citypop midnight neon, a dreamy summer day… |
+| 2026-10-10 06:46:38 | [FelixKrueckel.panelwarp](https://marketplace.visualstudio.com/items?itemName=FelixKrueckel.panelwarp) | Panelwarp | 0.1.0 | An unofficial fork of the open-source Warp terminal, running in a VS Code panel… |
+| 2026-10-10 06:51:52 | [munanno.devpulse-Yahu](https://marketplace.visualstudio.com/items?itemName=munanno.devpulse-Yahu) | Gemma4 DevPulse | 1.0.0 | Local-first developer context and pre-commit review. |
+| 2026-10-10 07:03:19 | [AgentTracker.agent-tracker](https://marketplace.visualstudio.com/items?itemName=AgentTracker.agent-tracker) | Agent Tracker | 0.1.2 | Claude and Codex subscription usage and local token statistics per user request |
+| 2026-10-10 07:05:01 | [TolgaTuncoglu.kfp-dag-preview](https://marketplace.visualstudio.com/items?itemName=TolgaTuncoglu.kfp-dag-preview) | KFP DAG Preview | 0.2.0 | Read-only local DAG preview for Kubeflow Pipelines |
+| 2026-10-10 07:05:20 | [sammyboi1801.gitkit-vscode](https://marketplace.visualstudio.com/items?itemName=sammyboi1801.gitkit-vscode) | GitKit for VS Code | 0.2.0 | Everyday git and GitHub, made visual and safe: status at a glance, branch lanes… |
+| 2026-10-10 07:07:39 | [flamingo.propertieseditor](https://marketplace.visualstudio.com/items?itemName=flamingo.propertieseditor) | PropertiesEditor | 2.4.3 | Multi-file editor for .properties, .json and .jsonc translation/configuration f… |
+| 2026-10-10 07:14:54 | [toytools.markish-editor](https://marketplace.visualstudio.com/items?itemName=toytools.markish-editor) | Markish for VS Code: WYSIWYG Markdown E… | 1.0.0 | Edit Markdown as it looks when rendered. A WYSIWYG visual editor that stays in… |
 
 ## Data source
 

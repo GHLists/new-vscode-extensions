@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T06:25:41.33Z,OXSystem.ox-developer,OXSystem,OX Developer,1.1.0,"Build on OX from VS Code — connect your eShop store's code, keep it in sync with the builder, preview it live, and give Claude Code and Copilot the OX tools."
+2026-10-10T06:29:34.577Z,FXEdison.leekfund-fxedison,FXEdison,LeekFund FXEdison,3.24.0,韭菜盒子，VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件
+2026-10-10T06:29:39.477Z,PamalJayasinghe.codeneat,PamalJayasinghe,CodeNeat,0.1.0,"Format code in 41 languages with one extension. A visual settings dashboard, live before/after preview, formatting profiles and per-language styles, powered by the official formatting engines. 32 languages work with nothing else to install."
+2026-10-10T06:38:59.067Z,secretqsan.clear-auto,secretqsan,Clear Auto,1.0.0,"Overlay C++ auto declarations as function or var, classified by clangd"
+2026-10-10T06:44:08.81Z,tokumarulabs.tokumaru-vscode-themes,tokumarulabs,Tokumaru Labs VS Code Themes,0.2.0,"Three readable VS Code color themes: Citypop midnight neon, a dreamy summer daylight sky, and a phosphor-green hacker terminal. No scripts or tracking."
+2026-10-10T06:46:38.927Z,FelixKrueckel.panelwarp,FelixKrueckel,Panelwarp,0.1.0,"An unofficial fork of the open-source Warp terminal, running in a VS Code panel tab next to Terminal: blocks, command search, completions and BYOK AI. Not affiliated with Warp."
+2026-10-10T06:51:52.333Z,munanno.devpulse-Yahu,munanno,Gemma4 DevPulse,1.0.0,Local-first developer context and pre-commit review.
+2026-10-10T07:03:19.05Z,AgentTracker.agent-tracker,AgentTracker,Agent Tracker,0.1.2,Claude and Codex subscription usage and local token statistics per user request
+2026-10-10T07:05:01.197Z,TolgaTuncoglu.kfp-dag-preview,TolgaTuncoglu,KFP DAG Preview,0.2.0,Read-only local DAG preview for Kubeflow Pipelines
+2026-10-10T07:05:20.563Z,sammyboi1801.gitkit-vscode,sammyboi1801,GitKit for VS Code,0.2.0,"Everyday git and GitHub, made visual and safe: status at a glance, branch lanes, conflict forecasts, undo, and a visual GitHub Actions builder."
+2026-10-10T07:07:39.08Z,flamingo.propertieseditor,flamingo,PropertiesEditor,2.4.3,"Multi-file editor for .properties, .json and .jsonc translation/configuration files."
+2026-10-10T07:14:54.24Z,toytools.markish-editor,toytools,Markish for VS Code: WYSIWYG Markdown Editor,1.0.0,Edit Markdown as it looks when rendered. A WYSIWYG visual editor that stays in sync with the Markdown source in real time. Requires the Markish desktop app.
