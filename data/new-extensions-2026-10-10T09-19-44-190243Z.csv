@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T08:33:10.573Z,JiakeNiu.claude-code-zh-simplified,JiakeNiu,Chinese (Simplified) (简体中文) Language Pack for Claude Code,1.0.0,为 Claude Code for VS Code 提供简体中文界面
+2026-10-10T08:34:06.87Z,zihu97.vscode-debug-bridge,zihu97,Guided Debug Bridge,0.4.0,让编码助手读取和控制 VS Code 当前调试会话，支持源码定位、断点和停点历史。
+2026-10-10T08:57:48.007Z,zsxdrctfvygbuhunujimik.sqm-lang,zsxdrctfvygbuhunujimik,SqM 2000-bit,1.0.0,SqM vYBuhuytur5edtfygt7uu8ih
+2026-10-10T09:06:27.357Z,Sicigia.eclips-engine,Sicigia,Eclips Engine,0.1.0,"Colorea guiones EclipScript (.ecl), mapas .eclmap, temas y el proyecto .eclips. Vista previa: no ejecuta el juego ni valida."
+2026-10-10T09:07:13.247Z,nifty.nifty-git-pack,nifty,Nifty Git Pack,0.1.0,"6 Nifty extensions for working with Git: Branches, Git Graph, Git Links, Changelists, AI Review, Pre-commit."
+2026-10-10T09:07:34.167Z,nifty.nifty-devops-pack,nifty,Nifty DevOps Pack,0.1.0,"8 Nifty extensions for containers, Kubernetes, infrastructure and servers: Containers, Helm & Kustomize, HCL Tools, Nginx, Shell Format, Env, SFTP, Log Viewer."
+2026-10-10T09:07:42.957Z,nifty.nifty-actions,nifty,"Nifty Actions: Workflow Checks, SHA Pinning & act",0.1.0,"GitHub Actions workflows without sign-in: completion and go to definition for local and reusable actions, actionlint checks, pin actions to commit SHAs, and run jobs locally with act."
+2026-10-10T09:07:49.283Z,nifty.nifty-rust,nifty,Nifty Tools for Rust: Organize Imports & Modules,0.1.0,"Rust helpers next to rust-analyzer: organize and merge use imports, move items into module files, split inline modules, toggle derives, and see the latest crate versions in Cargo.toml."
+2026-10-10T09:07:55.517Z,nifty.nifty-bash-debug,nifty,Nifty Bash Debugger: Breakpoints & Step Through Scripts,0.1.0,"Debug Bash scripts without bashdb: breakpoints, conditions, logpoints, stepping, call stack, variables and arrays. Works with bash 4.2 to 5.2+ and Git Bash on Windows."
+2026-10-10T09:08:01.863Z,nifty.nifty-java-quality,nifty,"Nifty Java Quality: Format, Checkstyle & PMD",0.1.0,"Format Java with google-java-format or palantir-java-format, and see Checkstyle and PMD problems as you save. Tools download from Maven Central when you say so; zero setup for Maven and Gradle."
+2026-10-10T09:08:08.917Z,nifty.nifty-app-servers,nifty,Nifty Java App Servers: Run Tomcat & Jetty,0.1.0,"Run Tomcat and Jetty in VS Code: start, stop and debug servers, deploy WAR files or exploded Maven webapps with hot sync, follow colored logs and open your app in the browser."
+2026-10-10T09:10:48.7Z,NathanGERDAY.guttered,NathanGERDAY,Guttered,0.4.1,"Live gutter indicators for your branch's changes since its merge base, including unsaved edits."
