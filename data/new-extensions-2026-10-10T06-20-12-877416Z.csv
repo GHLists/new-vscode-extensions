@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T05:29:25.347Z,namth587.ai-session-metrics,namth587,AI Session Metrics,1.0.0,"Companion extension that displays real-time context size, token usage, and estimated cost across Claude Code, Gemini, and Codex."
+2026-10-10T05:33:46.897Z,lp0124.mpx-tsgo,lp0124,Mpx tsgo,0.1.1,基于 TypeScript 7（tsgo）的 Mpx 语言支持：大型项目里 .mpx 的跳转、补全、类型提示几秒内可用，保留完整的跨文件引用
+2026-10-10T05:34:39.663Z,Randomizez.pycodex,Randomizez,Pycodex,0.0.1,"Workspace chat using your Python environment and Codex profiles, with inline code context and context usage."
+2026-10-10T05:39:53.837Z,andreymyssak.git-ui-native,andreymyssak,Git UI,0.1.2,"Finally, a proper Git UI for VS Code. Inspired by JetBrains IDEs."
+2026-10-10T05:44:39.833Z,munanno.devpulseYahu,munanno,Gemma DevPulse,0.0.1,Local-first developer context and pre-commit review.
+2026-10-10T05:47:04.467Z,kyto64.vscode-git-graph-zero,kyto64,Git Graph Zero,0.0.1,A lightweight commit graph for Visual Studio Code.
+2026-10-10T06:06:04.383Z,ninokroesen.milkpad,ninokroesen,Milkpad — WYSIWYG Markdown Editor,0.1.12,"A WYSIWYG markdown editor for VS Code. Edit .md files as rendered text, in a pane as narrow as a terminal."
+2026-10-10T06:14:09.72Z,tabulens.tabulens,tabulens,"Tabulens — DBF, Excel, SPSS, Stata, Parquet & SQLite Viewer",1.19.0,"Open DBF, Excel, SPSS .sav, Stata .dta, SAS .xpt, Parquet, SQLite, Access and 20+ table formats right in VS Code. Filter, pivot, compare with Git, edit and save in place. Files stay on your machine."
+2026-10-10T06:16:53.96Z,chief2001.dotenv-scanner,chief2001,dotenv-scanner,0.0.1,Scan the workspace for environment variables used in JavaScript and TypeScript that are missing from .env files.
