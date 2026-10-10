@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 01:19 UTC
+## Latest list — 2026-10-10 02:19 UTC
 
-New extensions published between 2026-10-09 23:19 UTC and 2026-10-10 01:19 UTC.
+New extensions published between 2026-10-10 00:19 UTC and 2026-10-10 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T01-19-43-385973Z.csv)
+[Full CSV](data/new-extensions-2026-10-10T02-19-14-869705Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 00:29:20 | [MancSoftware.visual-sqitch](https://marketplace.visualstudio.com/items?itemName=MancSoftware.visual-sqitch) | Visual Sqitch | 0.1.0 | See where every database sits in your Sqitch plan, compare with upstream, and d… |
-| 2026-10-10 00:52:38 | [ptanmay143.techstack-gitignore](https://marketplace.visualstudio.com/items?itemName=ptanmay143.techstack-gitignore) | TechStack .gitignore Builder | 1.0.0 | Search, download, and combine .gitignore rules from templates directly from wit… |
-| 2026-10-10 00:52:55 | [RichasyZhang.rodel-resource-editor](https://marketplace.visualstudio.com/items?itemName=RichasyZhang.rodel-resource-editor) | Rodel Resource Editor | 0.0.2 | Native-feeling resource editing and multilingual management for .resw and .resx. |
-| 2026-10-10 01:04:32 | [elecbug.gitex](https://marketplace.visualstudio.com/items?itemName=elecbug.gitex) | GiTex | 0.13.1 | Git-backed passage comments and collaboration for LaTeX papers. |
+| 2026-10-10 01:30:11 | [gvart.proschi](https://marketplace.visualstudio.com/items?itemName=gvart.proschi) | Proschi | 0.10.0 | Syntax highlighting, validation, completion and outline for Proschi architectur… |
+| 2026-10-10 01:31:24 | [ODSS-VideoCode.odss-vscode-extension](https://marketplace.visualstudio.com/items?itemName=ODSS-VideoCode.odss-vscode-extension) | ODSS Recorder | 0.1.10 | Records VS Code editing + terminal sessions in the ODSS format. |
+| 2026-10-10 01:32:52 | [Tees-software.tees-novel-view](https://marketplace.visualstudio.com/items?itemName=Tees-software.tees-novel-view) | Tee's Novel View | 1.0.0 | テキストファイル(.txt)を小説として閲覧するための「小説ビュー」。「小説家になろう」形式のルビ表示と、会話文・心の声などの色分けに対応。 |
+| 2026-10-10 01:36:35 | [abutalebco.Sabha](https://marketplace.visualstudio.com/items?itemName=abutalebco.Sabha) | Sabha | 0.0.1 | A gamified tasbih / tally counter for your adhkar, right inside VS Code. |
+| 2026-10-10 01:37:03 | [dolphlabs.slang-analyser](https://marketplace.visualstudio.com/items?itemName=dolphlabs.slang-analyser) | slang-analyser | 0.1.0 | Language support for slang (.sl): hover types, goto-definition, diagnostics, fo… |
+| 2026-10-10 01:41:15 | [wxb.localizetip2](https://marketplace.visualstudio.com/items?itemName=wxb.localizetip2) | LocalizeTip2 | 0.1.0 | C# localization completion, hover, inline hints and source navigation |
 
 ## Data source
 

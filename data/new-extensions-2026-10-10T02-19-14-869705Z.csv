@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-10T01:30:11.1Z,gvart.proschi,gvart,Proschi,0.10.0,"Syntax highlighting, validation, completion and outline for Proschi architecture diagrams (.proschi)"
+2026-10-10T01:31:24.933Z,ODSS-VideoCode.odss-vscode-extension,ODSS-VideoCode,ODSS Recorder,0.1.10,Records VS Code editing + terminal sessions in the ODSS format.
+2026-10-10T01:32:52.48Z,Tees-software.tees-novel-view,Tees-software,Tee's Novel View,1.0.0,テキストファイル(.txt)を小説として閲覧するための「小説ビュー」。「小説家になろう」形式のルビ表示と、会話文・心の声などの色分けに対応。
+2026-10-10T01:36:35.167Z,abutalebco.Sabha,abutalebco,Sabha,0.0.1,"A gamified tasbih / tally counter for your adhkar, right inside VS Code."
+2026-10-10T01:37:03.543Z,dolphlabs.slang-analyser,dolphlabs,slang-analyser,0.1.0,"Language support for slang (.sl): hover types, goto-definition, diagnostics, formatting, semantic highlighting."
+2026-10-10T01:41:15.36Z,wxb.localizetip2,wxb,LocalizeTip2,0.1.0,"C# localization completion, hover, inline hints and source navigation"
