@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T12:19:35.713Z,CifroArts.soft-default-theme,CifroArts,Soft Default Theme,1.0.0,"Adds ""Soft Default Light"" and ""Soft Default Dark"" color themes and ""Soft Default Icons"" file icon theme"
+2026-10-11T12:31:41.617Z,HCLonely.openfast-helper,HCLonely,OpenFAST Helper,1.0.0,"OpenFAST highlighting, bilingual explanations, validation, case comparison and direct execution."
+2026-10-11T12:37:27.51Z,Serogi.serogi-delta,Serogi,Zero Delta,0.2.0,"Zero Delta — Serogi's coding agent. Sign in with your Zero account (included with Zero Pro, or £4.99/month on its own), bring your own model keys, and drive it from your phone with Zero Alpha."
+2026-10-11T12:48:26.613Z,lntvow.deepseek-copilot-usage,lntvow,DeepSeek Copilot Usage,0.0.1,Show token usage and context cache hit rate for DeepSeek V4 for Copilot Chat in the status bar
+2026-10-11T13:03:19.49Z,PolywickStudio.polywick-blue,PolywickStudio,Polywick Blue,1.0.0,A Visual Studio 2022-inspired dark theme with deep navy backgrounds and familiar syntax colors for VS Code.
+2026-10-11T13:03:27.953Z,tkworks.ecal,tkworks,ecal,0.4.0,Offline circuit design tools: voltage divider selection and first-order RC filters with tolerance analysis.
+2026-10-11T13:03:36.863Z,lnexp.simplecode-agent,lnexp,SimpleCode,0.1.2,在侧边栏里跑 simple-code agent
+2026-10-11T13:05:24.7Z,lnexp.SimpleCode-Companion,lnexp,SimpleCode Companion,0.1.2,SimpleCode 的本机伴生扩展：Remote-SSH 时模型请求走本机网络（key 不出本机），并自动配置反向隧道。
+2026-10-11T13:14:57.82Z,krispachi.aria-review,krispachi,ARIA: A Review Inline Agent,0.17.2,"Review edits from terminal AI agents (OpenCode, Claude Code, Codex CLI, Cursor CLI; GitHub Copilot CLI and Gemini CLI adapters included) with inline diffs and Accept/Reject per change, file or all files. Per-agent on/off, guarded Undo, local recovery. No Git required."
