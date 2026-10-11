@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T22:31:48.343Z,patch-tutor.patch-tutor,patch-tutor,Patch Tutor,0.1.1,Turns your git changes into short lessons: inline explanations and quizzes on the code you changed.
+2026-10-11T22:33:15.98Z,delbi76.softone-vscode,delbi76,SoftOne-VSCode,0.7.6,Standalone AdvancedJS and Form Script synchronization with SoftOne.
+2026-10-11T22:59:09.993Z,HemantBanke.tex-side-preview,HemantBanke,TeX Side Preview,1.0.0,"Overleaf-style side-by-side LaTeX preview with SyncTeX, plus two-way Overleaf sync over Git."
+2026-10-11T23:11:06.793Z,NetClaw.netclaw,NetClaw,NetClaw,0.1.1,Manage existing NetClaw and Risk installations from Visual Studio Code.
+2026-10-11T23:13:34.287Z,OpcodeASM.informant,OpcodeASM,Informant,1.0.0,A self-contained Inform development environment for Visual Studio Code.

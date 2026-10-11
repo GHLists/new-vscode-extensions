@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 22:19 UTC
+## Latest list — 2026-10-11 23:20 UTC
 
-New extensions published between 2026-10-11 20:19 UTC and 2026-10-11 22:19 UTC.
+New extensions published between 2026-10-11 21:20 UTC and 2026-10-11 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T22-19-30-883334Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T23-20-17-465304Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 21:20:44 | [Adam-Elmi.arcmoon-language](https://marketplace.visualstudio.com/items?itemName=Adam-Elmi.arcmoon-language) | ArcMoon Language | 0.1.0 | ArcMoon (.arcm) language support: errors, colors and completions from arcmoon-l… |
-| 2026-10-11 21:27:42 | [muxlang.mux-programming-language](https://marketplace.visualstudio.com/items?itemName=muxlang.mux-programming-language) | Mux Language Tools | 0.13.0 | Syntax highlighting and language support for the Mux programming language |
-| 2026-10-11 21:42:49 | [jsimonrichard.vscode-prosemark-vim-integration](https://marketplace.visualstudio.com/items?itemName=jsimonrichard.vscode-prosemark-vim-integration) | ProseMark - Vim mode | 0.0.1 | Vim-style editing in the ProseMark editor via @replit/codemirror-vim |
-| 2026-10-11 22:05:42 | [MauroGarcia.reasonline](https://marketplace.visualstudio.com/items?itemName=MauroGarcia.reasonline) | ReasonLine | 0.2.0 | Understand the code. Understand the why. Select code for a grounded explanation… |
-| 2026-10-11 22:15:21 | [Vaktex.vakt-vscode](https://marketplace.visualstudio.com/items?itemName=Vaktex.vakt-vscode) | VAKT: local security review (DOM-0.8B) | 0.1.0 | Function-level security risk scores from DOM-0.8B, inline in the editor. Runs o… |
+| 2026-10-11 22:31:48 | [patch-tutor.patch-tutor](https://marketplace.visualstudio.com/items?itemName=patch-tutor.patch-tutor) | Patch Tutor | 0.1.1 | Turns your git changes into short lessons: inline explanations and quizzes on t… |
+| 2026-10-11 22:33:15 | [delbi76.softone-vscode](https://marketplace.visualstudio.com/items?itemName=delbi76.softone-vscode) | SoftOne-VSCode | 0.7.6 | Standalone AdvancedJS and Form Script synchronization with SoftOne. |
+| 2026-10-11 22:59:09 | [HemantBanke.tex-side-preview](https://marketplace.visualstudio.com/items?itemName=HemantBanke.tex-side-preview) | TeX Side Preview | 1.0.0 | Overleaf-style side-by-side LaTeX preview with SyncTeX, plus two-way Overleaf s… |
+| 2026-10-11 23:11:06 | [NetClaw.netclaw](https://marketplace.visualstudio.com/items?itemName=NetClaw.netclaw) | NetClaw | 0.1.1 | Manage existing NetClaw and Risk installations from Visual Studio Code. |
+| 2026-10-11 23:13:34 | [OpcodeASM.informant](https://marketplace.visualstudio.com/items?itemName=OpcodeASM.informant) | Informant | 1.0.0 | A self-contained Inform development environment for Visual Studio Code. |
 
 ## Data source
 
