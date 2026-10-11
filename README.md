@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 15:20 UTC
+## Latest list — 2026-10-11 16:20 UTC
 
-New extensions published between 2026-10-11 13:20 UTC and 2026-10-11 15:20 UTC.
+New extensions published between 2026-10-11 14:20 UTC and 2026-10-11 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T15-20-32-658066Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T16-20-12-774682Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 14:18:45 | [fefeding.vscode-aicmd](https://marketplace.visualstudio.com/items?itemName=fefeding.vscode-aicmd) | AICmd Terminal | 0.1.2 | AI 驱动的 Web SSH 终端：SSH/本地终端、AI Agent、技能系统、命令审计、日志监控、批量操作与文件传输，全部在 VSCode 内运行。 |
-| 2026-10-11 14:36:13 | [Gursukh.nnef-syntax](https://marketplace.visualstudio.com/items?itemName=Gursukh.nnef-syntax) | NNEF Syntax Highlighting | 0.1.0 | Syntax highlighting, snippets and editor support for Khronos NNEF (Neural Netwo… |
-| 2026-10-11 14:50:27 | [Feiyang472.fadetop](https://marketplace.visualstudio.com/items?itemName=Feiyang472.fadetop) | FadeTop | 0.2.2 | Real-time visualiser for Python stack samples, powered by py-spy. |
-| 2026-10-11 14:51:44 | [Inflector.inflector-lux](https://marketplace.visualstudio.com/items?itemName=Inflector.inflector-lux) | Lux Framework | 0.1.0 | Syntax highlighting and IntelliSense for Lux (.lx) components |
-| 2026-10-11 15:01:56 | [MYFSillyBa.stm32-project-helper](https://marketplace.visualstudio.com/items?itemName=MYFSillyBa.stm32-project-helper) | STM32 工程助手 | 1.0.3 | STM32 本地工程工具：CubeMX Keil MDK-ARM/CMake 双向转换、ARM GCC 环境检测、VS Code 一键编译与 DAPLink… |
-| 2026-10-11 15:02:24 | [dev-first.dev-first](https://marketplace.visualstudio.com/items?itemName=dev-first.dev-first) | Dev-First | 0.1.0 | Plan-first AI coding agent — every request becomes a plan you approve before a… |
-| 2026-10-11 15:15:28 | [aseel1.agent-changes](https://marketplace.visualstudio.com/items?itemName=aseel1.agent-changes) | Agent Changes | 0.15.0 | See each Claude Code agent's changes as its own group in Source Control, on one… |
+| 2026-10-11 15:23:34 | [untanya.claude-workspace-focus](https://marketplace.visualstudio.com/items?itemName=untanya.claude-workspace-focus) | Claude Workspace Focus | 1.0.1 | Focus Claude Code (and other extensions that only look at the first folder) on… |
+| 2026-10-11 15:26:03 | [Neuralcube.neural-green](https://marketplace.visualstudio.com/items?itemName=Neuralcube.neural-green) | Neural Green | 1.0.3 | A Matrix-inspired green-on-black VS Code theme with phosphor-green highlights,… |
+| 2026-10-11 15:27:09 | [Proxylang.handoffbar](https://marketplace.visualstudio.com/items?itemName=Proxylang.handoffbar) | HandoffBar for Claude Code | 0.1.1 | Copy a Claude Code chat's handoff with one click from the chat tab, and see how… |
+| 2026-10-11 15:31:56 | [gon-lang.gon](https://marketplace.visualstudio.com/items?itemName=gon-lang.gon) | Gon | 0.1.0 | Gon language support, with automatic tool discovery and a Run File button. |
+| 2026-10-11 15:32:18 | [next-hat.nanocl-vscode](https://marketplace.visualstudio.com/items?itemName=next-hat.nanocl-vscode) | nanocl for vscode | 0.1.5 | Validation, hover documentation and completion for versioned nanocl YAML Statef… |
+| 2026-10-11 15:41:09 | [Bill-Testing.publisher-consent-probe](https://marketplace.visualstudio.com/items?itemName=Bill-Testing.publisher-consent-probe) | Publisher Consent Probe](command:workbe… | 0.0.1 | Benign test of how the VS Code publisher-consent dialog renders Marketplace ext… |
+| 2026-10-11 15:43:29 | [CodeSM.sdev-language](https://marketplace.visualstudio.com/items?itemName=CodeSM.sdev-language) | sdev Language | 5.1.0 | Official VS Code support for the sdev programming language — v1 + v2 syntax hig… |
+| 2026-10-11 15:51:25 | [ReadyStack.python-310-eol-pin-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.python-310-eol-pin-check) | Python 3.10 End of Life — Pin Check & F… | 1.0.0 | Python 3.10 end of life was 2026-10-01. Finds every 3.10 pin — Dockerfile, GitH… |
+| 2026-10-11 15:52:09 | [ReadyStack.gnu-global-cpp-vscode-config-pack](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gnu-global-cpp-vscode-config-pack) | GNU Global C/C++ .vscode Config Pack | 0.1.6 | 45 ready .vscode snippets and 21 audit rules across 8 setups: GNU Global gtags… |
+| 2026-10-11 16:06:29 | [Maikurosofuto.value-snap](https://marketplace.visualstudio.com/items?itemName=Maikurosofuto.value-snap) | Value Snap | 1.0.0 | Keyboard shortcuts to speed-up programming in VS Code. |
+| 2026-10-11 16:06:58 | [makayis.codecook](https://marketplace.visualstudio.com/items?itemName=makayis.codecook) | CodeCook | 2.3.0 | A powerful coding add-on for VS Code. Keep the quality. Cut the cost. |
 
 ## Data source
 

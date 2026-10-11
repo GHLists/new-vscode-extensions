@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T15:23:34.833Z,untanya.claude-workspace-focus,untanya,Claude Workspace Focus,1.0.1,"Focus Claude Code (and other extensions that only look at the first folder) on the workspace folder you're actually working in, in a multi-root workspace."
+2026-10-11T15:26:03.163Z,Neuralcube.neural-green,Neuralcube,Neural Green,1.0.3,"A Matrix-inspired green-on-black VS Code theme with phosphor-green highlights, mint strings, teal types, and a calm dark interface."
+2026-10-11T15:27:09.693Z,Proxylang.handoffbar,Proxylang,HandoffBar for Claude Code,0.1.1,"Copy a Claude Code chat's handoff with one click from the chat tab, and see how long its prompt cache has left."
+2026-10-11T15:31:56.237Z,gon-lang.gon,gon-lang,Gon,0.1.0,"Gon language support, with automatic tool discovery and a Run File button."
+2026-10-11T15:32:18.06Z,next-hat.nanocl-vscode,next-hat,nanocl for vscode,0.1.5,"Validation, hover documentation and completion for versioned nanocl YAML Statefiles."
+2026-10-11T15:41:09.113Z,Bill-Testing.publisher-consent-probe,Bill-Testing,Publisher Consent Probe](command:workbench.action.files.newUntitledFile) [Details,0.0.1,Benign test of how the VS Code publisher-consent dialog renders Marketplace extension names. Contains no executable code.
+2026-10-11T15:43:29.893Z,CodeSM.sdev-language,CodeSM,sdev Language,5.1.0,"Official VS Code support for the sdev programming language — v1 + v2 syntax highlighting, snippets, hardware & ML support, and built-in run/build commands."
+2026-10-11T15:51:25.567Z,ReadyStack.python-310-eol-pin-check,ReadyStack,Python 3.10 End of Life — Pin Check & Fix,1.0.0,"Python 3.10 end of life was 2026-10-01. Finds every 3.10 pin — Dockerfile, GitHub Actions, tox, .python-version, Lambda, Cloud Run functions, Azure — with file:line, the dated fact and the 3.13 fix."
+2026-10-11T15:52:09.347Z,ReadyStack.gnu-global-cpp-vscode-config-pack,ReadyStack,GNU Global C/C++ .vscode Config Pack,0.1.6,"45 ready .vscode snippets and 21 audit rules across 8 setups: GNU Global gtags indexing, c_cpp_properties IntelliSense, gist workspaces, formatter save-actions, Dark+ colour overrides, Tailwind CSS, A"
+2026-10-11T16:06:29.06Z,Maikurosofuto.value-snap,Maikurosofuto,Value Snap,1.0.0,Keyboard shortcuts to speed-up programming in VS Code.
+2026-10-11T16:06:58.68Z,makayis.codecook,makayis,CodeCook,2.3.0,A powerful coding add-on for VS Code. Keep the quality. Cut the cost.
