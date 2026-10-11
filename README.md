@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 10:19 UTC
+## Latest list — 2026-10-11 11:21 UTC
 
-New extensions published between 2026-10-11 08:19 UTC and 2026-10-11 10:19 UTC.
+New extensions published between 2026-10-11 09:21 UTC and 2026-10-11 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T10-19-05-689906Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T11-21-02-425236Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 09:24:49 | [zehanchen.acsl-toolkit](https://marketplace.visualstudio.com/items?itemName=zehanchen.acsl-toolkit) | ACSL Toolkit | 0.1.0 | ACSL syntax highlighting, annotation-aware completion, and snippets inside C an… |
-| 2026-10-11 09:28:20 | [alibayatmokhtari.abm-vscode-theme](https://marketplace.visualstudio.com/items?itemName=alibayatmokhtari.abm-vscode-theme) | ABM Theme | 1.0.0 | A balanced light & dark theme crafted for front-end development — comfortable,… |
-| 2026-10-11 09:34:01 | [utiltools.i18n-editor-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.i18n-editor-utiltools) | i18n Editor, Translation Manager, Local… | 1.0.1 | Edit every translation in one spreadsheet: inline t('key') previews and hover,… |
-| 2026-10-11 09:34:52 | [utiltools.bundle-size-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.bundle-size-utiltools) | Import Cost, Bundle Size, Package Size,… | 1.0.1 | Import Cost and Bundle Size for VS Code: see the size of every import inline (m… |
-| 2026-10-11 09:47:12 | [utiltools.react-refactor-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.react-refactor-utiltools) | React Refactor & Component Tree by Util… | 1.0.0 | React refactoring for VS Code without AI: extract JSX to a new component (same… |
-| 2026-10-11 10:15:49 | [pritompurkayasta.complementer](https://marketplace.visualstudio.com/items?itemName=pritompurkayasta.complementer) | Complementer | 1.0.0 | Context and plan-limit meters, a session manager and usage insights for Claude… |
+| 2026-10-11 10:46:54 | [CoconutWater.dygnosis](https://marketplace.visualstudio.com/items?itemName=CoconutWater.dygnosis) | Dygnosis | 0.11.17 | Language support for Dynare |
+| 2026-10-11 10:49:53 | [NazmulIslamNaim.nin-claude-dashboard](https://marketplace.visualstudio.com/items?itemName=NazmulIslamNaim.nin-claude-dashboard) | Nin Claude Dashboard | 0.2.0 | See your Claude Code sessions and requirement status per project, inside VS Cod… |
+| 2026-10-11 10:55:11 | [d3j1x.swaplines](https://marketplace.visualstudio.com/items?itemName=d3j1x.swaplines) | SwapLines | 0.0.1 | Quickly swap two lines of code using a keyboard shortcut. |
+| 2026-10-11 10:56:22 | [denisbitter.zenorbit-vscode](https://marketplace.visualstudio.com/items?itemName=denisbitter.zenorbit-vscode) | ZenOrbit | 0.1.0 | Build, preview and export branded orbit navigation directly in VS Code. |
+| 2026-10-11 10:59:26 | [studykit.markdown-chroma](https://marketplace.visualstudio.com/items?itemName=studykit.markdown-chroma) | Markdown Chroma | 0.1.0 | Obsidian and MyST Markdown preview for VS Code, with saved-document CLI and MCP… |
+| 2026-10-11 11:03:38 | [code-point-navigator-dev.code-point-navigator](https://marketplace.visualstudio.com/items?itemName=code-point-navigator-dev.code-point-navigator) | Code Point Navigator | 0.0.1 | Navigate between numbered code points in Visual Studio Code |
 
 ## Data source
 
