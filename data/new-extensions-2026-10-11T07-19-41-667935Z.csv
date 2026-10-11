@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T06:19:27.147Z,komocs.komanage,komocs,KoManage,0.1.1,"Colored, grouped dashboard of your projects. Click to open."
+2026-10-11T06:37:46.503Z,Young581.codex-beacon-collector,Young581,Codex Beacon Collector,0.5.1,Remote SSH and container event collection for Codex Beacon. Install the main extension on Windows.
+2026-10-11T06:38:08.227Z,Young581.codex-beacon,Young581,Codex Beacon,0.8.1,"Track Codex tasks by project with a compact dashboard, colored states, token usage and completion alerts."
+2026-10-11T06:38:48.103Z,devchan64.vscod-image-editor,devchan64,Minimal Image Editor,0.1.0,"A minimal image editor with magic wand selection, layers and history."
+2026-10-11T06:40:42.803Z,Moaswies.bedrock-feature-viewer,Moaswies,Bedrock Feature Viewer,0.2.20,在 VS Code 里 3D 预览 Minecraft 基岩版地物（feature / feature_rules）：查看方块、结构与生成效果，自动应用资源包贴图，支持引用链浏览与随机种子重放。
+2026-10-11T06:54:57.417Z,Populr.populr-seo,Populr,Populr SEO,1.0.1,"Apply the SEO fixes you approve in Populr from your editor's AI agent — titles, descriptions, structured data and llms.txt, in your site's code. Works in VS Code and Cursor."
