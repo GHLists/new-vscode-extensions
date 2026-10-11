@@ -12,20 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-10 23:20 UTC
+## Latest list — 2026-10-11 00:19 UTC
 
-New extensions published between 2026-10-10 21:20 UTC and 2026-10-10 23:20 UTC.
+New extensions published between 2026-10-10 22:19 UTC and 2026-10-11 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-10T23-20-38-021585Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T00-19-19-960075Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-10 22:18:44 | [montemr.unreal-mcp-status](https://marketplace.visualstudio.com/items?itemName=montemr.unreal-mcp-status) | Unreal MCP Status | 1.1.1 | Status bar light for Unreal Engine MCP: see at a glance whether Claude Code, Cu… |
-| 2026-10-10 22:29:24 | [guizin-sccp.dashvanced-theme](https://marketplace.visualstudio.com/items?itemName=guizin-sccp.dashvanced-theme) | Dashvanced Theme | 1.0.0 | A different and unique color theme extension made by a brazilian student. |
-| 2026-10-10 22:34:25 | [marcimoto.midnight-theme-studio](https://marketplace.visualstudio.com/items?itemName=marcimoto.midnight-theme-studio) | Midnight Theme Studio | 1.0.1 | Dark themes with clear syntax colors, mint accents, and vibrant or soft palette… |
-| 2026-10-10 22:39:00 | [Yantrakar.gitpro](https://marketplace.visualstudio.com/items?itemName=Yantrakar.gitpro) | gitpro | 0.3.1 | Shows the git name and email this repo commits with, finds repos that override… |
-| 2026-10-10 22:40:16 | [autoresolve.autoresolve-vscode](https://marketplace.visualstudio.com/items?itemName=autoresolve.autoresolve-vscode) | AutoResolve | 0.1.0 | AI code review and repair for Python with proven fixes only |
-| 2026-10-10 22:55:28 | [itek-ai.pidesk](https://marketplace.visualstudio.com/items?itemName=itek-ai.pidesk) | piDesk | 0.0.1 | Lista sesiones de piDesk, manda prompts y muestra tokens sin salir de VS Code. |
+| 2026-10-11 00:04:40 | [LorapokLabs.loragent](https://marketplace.visualstudio.com/items?itemName=LorapokLabs.loragent) | Loragent — Universal Multi-Agent Ecosys… | 2.0.1 | 224-agent virtual software firm for Lorapok Labs — Hub-and-Spoke topology, 6 sq… |
 
 ## Data source
 
