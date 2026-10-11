@@ -12,15 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 00:19 UTC
+## Latest list — 2026-10-11 01:20 UTC
 
-New extensions published between 2026-10-10 22:19 UTC and 2026-10-11 00:19 UTC.
+New extensions published between 2026-10-10 23:20 UTC and 2026-10-11 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T00-19-19-960075Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T01-20-03-912717Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 00:04:40 | [LorapokLabs.loragent](https://marketplace.visualstudio.com/items?itemName=LorapokLabs.loragent) | Loragent — Universal Multi-Agent Ecosys… | 2.0.1 | 224-agent virtual software firm for Lorapok Labs — Hub-and-Spoke topology, 6 sq… |
+| 2026-10-11 01:05:39 | [BRCreator.brasic-language-highlighting](https://marketplace.visualstudio.com/items?itemName=BRCreator.brasic-language-highlighting) | Brasic Language Highlighter | 1.0.0 | Resaltado de sintaxis para el lenguaje de programación Brasic |
 
 ## Data source
 
