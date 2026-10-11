@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T18:24:20.2Z,Chatixia-AI.interlatch,Chatixia-AI,Interlatch,0.3.0,"Shared memory for your coding agents, in the Explorer: the agent sessions that read or changed the open file, and every file they worked on, from your local Interlatch."
+2026-10-11T18:46:03.973Z,byteblendmatrix.bbm-atlas,byteblendmatrix,BBM-Atlas,0.3.0,"Structural code intelligence in the editor: what calls this, what breaks if it changes, and BBM-Atlas's tools for your AI assistant."
+2026-10-11T18:46:28.07Z,codextio.codextio-pr-review-helper,codextio,PR Review Helper,1.2.0,"Review and merge Azure DevOps and GitHub pull requests in VS Code. AI code review with GitHub Copilot, the Copilot CLI, Claude Code or the Codex CLI — your own sign-in, no API key. The pull request branch is loaded into a private sandbox the CLI agents can read."
+2026-10-11T19:00:55.02Z,NathanGERDAY.guttered-workbench,NathanGERDAY,Guttered Workbench,0.7.0,Optional desktop helper for Guttered glyph clicks in WSL and other remote workspaces.
+2026-10-11T19:06:05.41Z,SuspiOwl.kenari-copilot-provider,SuspiOwl,Kenari Provider for Copilot,0.0.1,Integrate Kenari models into GitHub Copilot Chat
+2026-10-11T19:18:33.16Z,BRCreator.brasic-language-support,BRCreator,Brasic Language Support,1.0.0,Resaltado de sintaxis y ejecución de programas Brasic en Visual Studio Code
