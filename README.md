@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 08:19 UTC
+## Latest list — 2026-10-11 09:19 UTC
 
-New extensions published between 2026-10-11 06:19 UTC and 2026-10-11 08:19 UTC.
+New extensions published between 2026-10-11 07:19 UTC and 2026-10-11 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T08-19-18-211999Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T09-19-50-823141Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 07:50:11 | [oxython.oxython](https://marketplace.visualstudio.com/items?itemName=oxython.oxython) | oxython | 0.1.0 | Syntax highlighting for Cython with the oxython Rust-style syntax |
-| 2026-10-11 07:53:36 | [JUNGHO.thymeleaf-language-support](https://marketplace.visualstudio.com/items?itemName=JUNGHO.thymeleaf-language-support) | Thymeleaf Language Support | 1.1.2 | Thymeleaf syntax highlighting, expression parser diagnostics, Spring controller… |
-| 2026-10-11 07:58:29 | [SamuelUrias.spreadsheet-viewer](https://marketplace.visualstudio.com/items?itemName=SamuelUrias.spreadsheet-viewer) | Spreadsheet Viewer by Samuel Urias | 0.0.1 | View and edit CSV, TSV, TAB, XLSX, and ODS spreadsheets in VS Code, with raw va… |
-| 2026-10-11 08:00:33 | [OllamaSidebar.ollama-sidebar](https://marketplace.visualstudio.com/items?itemName=OllamaSidebar.ollama-sidebar) | Ollama Sidebar | 0.1.4 | Local Codex and Ollama in your right sidebar |
-| 2026-10-11 08:17:04 | [gapple.buddy-roams](https://marketplace.visualstudio.com/items?itemName=gapple.buddy-roams) | Buddy Roams | 1.0.0 | Brings a roaming pet into the editor area using the patched `window.createEdito… |
+| 2026-10-11 08:20:56 | [clhome.antigravity-quota-yufeng](https://marketplace.visualstudio.com/items?itemName=clhome.antigravity-quota-yufeng) | antigravityQuota | 1.0.1 | Minimal local-only quota monitor for Antigravity. No credentials, no OAuth, no… |
+| 2026-10-11 08:22:26 | [SoftForge.soft-forge-hdl-studio](https://marketplace.visualstudio.com/items?itemName=SoftForge.soft-forge-hdl-studio) | Soft Forge HDL Studio | 1.0.3 | VHDL development on GHDL and Vivado: highlighting, a debugger that steps throug… |
+| 2026-10-11 08:24:34 | [ahati.vscode-office-file-reader-viewer](https://marketplace.visualstudio.com/items?itemName=ahati.vscode-office-file-reader-viewer) | VSCode-Office-File-Reader-Viewer | 0.1.2 | View .docx, .xlsx and .pptx files rendered on canvas with WASM — no Office inst… |
+| 2026-10-11 08:37:51 | [SwavotiSouthAfrica.codetist](https://marketplace.visualstudio.com/items?itemName=SwavotiSouthAfrica.codetist) | Swavoti/Codetist Agent | 0.1.0 | Autonomous coding agent for vscode experiance the power of Codetist wiythout le… |
+| 2026-10-11 08:41:27 | [funground-hq.funground](https://marketplace.visualstudio.com/items?itemName=funground-hq.funground) | funground | 0.1.0 | Run your funground sketch beside your code in github.dev, vscode.dev and VS Cod… |
+| 2026-10-11 08:46:07 | [utiltools.json-viewer-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.json-viewer-utiltools) | JSON Viewer, JSONL Viewer, JSON Formatt… | 1.0.1 | JSON Viewer and JSONL Editor for VS Code: open huge .json, .jsonl, .ndjson and… |
+| 2026-10-11 09:06:19 | [Alexanderius.vscode-theme-orange-alexanderius](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-orange-alexanderius) | Orange Theme VS Code | 1.0.0 | Visual Studio Code dark theme. |
 
 ## Data source
 
