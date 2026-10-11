@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T02:49:11.543Z,molchalih.rpf,molchalih,RPF Archives,0.3.0,"Open a RAGE .rpf archive as a folder in the editor: entries edit and save as ordinary files, patched in place, rebuilt when you ask."
+2026-10-11T02:54:20.447Z,sygnal.sygnal,sygnal,Sygnal,0.1.0,"Sygnal's static checker in the editor: wiring bugs that fail silently (intent/model/view, EVENTS, child components, Collections) as you type, with explanations and quick fixes."
+2026-10-11T03:06:46.407Z,molchalih.rpfd,molchalih,rpfd — RPF Archives,0.3.1,"Open a RAGE .rpf archive as a folder in the editor: entries edit and save as ordinary files, patched in place, rebuilt when you ask."

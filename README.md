@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 02:20 UTC
+## Latest list — 2026-10-11 03:19 UTC
 
-New extensions published between 2026-10-11 00:20 UTC and 2026-10-11 02:20 UTC.
+New extensions published between 2026-10-11 01:19 UTC and 2026-10-11 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T02-20-29-40194Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T03-19-23-660432Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 01:20:35 | [220labs.sheepfold](https://marketplace.visualstudio.com/items?itemName=220labs.sheepfold) | sheepfold | 0.5.5 | Your coding-agent sessions from spacesheep, in a VS Code sidebar, the ones that… |
-| 2026-10-11 01:29:19 | [Efeblabs.rovot-messenger](https://marketplace.visualstudio.com/items?itemName=Efeblabs.rovot-messenger) | Rovot Messenger | 0.2.2 | Un espacio para conectar personas y agentes desde VS Code. Acceso por invitació… |
-| 2026-10-11 01:58:19 | [arjungyawali.mochi-companion](https://marketplace.visualstudio.com/items?itemName=arjungyawali.mochi-companion) | Mochi Companion | 0.1.0 | A cozy AI companion that lives in VS Code. |
+| 2026-10-11 02:49:11 | [molchalih.rpf](https://marketplace.visualstudio.com/items?itemName=molchalih.rpf) | RPF Archives | 0.3.0 | Open a RAGE .rpf archive as a folder in the editor: entries edit and save as or… |
+| 2026-10-11 02:54:20 | [sygnal.sygnal](https://marketplace.visualstudio.com/items?itemName=sygnal.sygnal) | Sygnal | 0.1.0 | Sygnal's static checker in the editor: wiring bugs that fail silently (intent/m… |
+| 2026-10-11 03:06:46 | [molchalih.rpfd](https://marketplace.visualstudio.com/items?itemName=molchalih.rpfd) | rpfd — RPF Archives | 0.3.1 | Open a RAGE .rpf archive as a folder in the editor: entries edit and save as or… |
 
 ## Data source
 
