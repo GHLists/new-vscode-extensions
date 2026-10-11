@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 09:19 UTC
+## Latest list — 2026-10-11 10:19 UTC
 
-New extensions published between 2026-10-11 07:19 UTC and 2026-10-11 09:19 UTC.
+New extensions published between 2026-10-11 08:19 UTC and 2026-10-11 10:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T09-19-50-823141Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T10-19-05-689906Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 08:20:56 | [clhome.antigravity-quota-yufeng](https://marketplace.visualstudio.com/items?itemName=clhome.antigravity-quota-yufeng) | antigravityQuota | 1.0.1 | Minimal local-only quota monitor for Antigravity. No credentials, no OAuth, no… |
-| 2026-10-11 08:22:26 | [SoftForge.soft-forge-hdl-studio](https://marketplace.visualstudio.com/items?itemName=SoftForge.soft-forge-hdl-studio) | Soft Forge HDL Studio | 1.0.3 | VHDL development on GHDL and Vivado: highlighting, a debugger that steps throug… |
-| 2026-10-11 08:24:34 | [ahati.vscode-office-file-reader-viewer](https://marketplace.visualstudio.com/items?itemName=ahati.vscode-office-file-reader-viewer) | VSCode-Office-File-Reader-Viewer | 0.1.2 | View .docx, .xlsx and .pptx files rendered on canvas with WASM — no Office inst… |
-| 2026-10-11 08:37:51 | [SwavotiSouthAfrica.codetist](https://marketplace.visualstudio.com/items?itemName=SwavotiSouthAfrica.codetist) | Swavoti/Codetist Agent | 0.1.0 | Autonomous coding agent for vscode experiance the power of Codetist wiythout le… |
-| 2026-10-11 08:41:27 | [funground-hq.funground](https://marketplace.visualstudio.com/items?itemName=funground-hq.funground) | funground | 0.1.0 | Run your funground sketch beside your code in github.dev, vscode.dev and VS Cod… |
-| 2026-10-11 08:46:07 | [utiltools.json-viewer-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.json-viewer-utiltools) | JSON Viewer, JSONL Viewer, JSON Formatt… | 1.0.1 | JSON Viewer and JSONL Editor for VS Code: open huge .json, .jsonl, .ndjson and… |
-| 2026-10-11 09:06:19 | [Alexanderius.vscode-theme-orange-alexanderius](https://marketplace.visualstudio.com/items?itemName=Alexanderius.vscode-theme-orange-alexanderius) | Orange Theme VS Code | 1.0.0 | Visual Studio Code dark theme. |
+| 2026-10-11 09:24:49 | [zehanchen.acsl-toolkit](https://marketplace.visualstudio.com/items?itemName=zehanchen.acsl-toolkit) | ACSL Toolkit | 0.1.0 | ACSL syntax highlighting, annotation-aware completion, and snippets inside C an… |
+| 2026-10-11 09:28:20 | [alibayatmokhtari.abm-vscode-theme](https://marketplace.visualstudio.com/items?itemName=alibayatmokhtari.abm-vscode-theme) | ABM Theme | 1.0.0 | A balanced light & dark theme crafted for front-end development — comfortable,… |
+| 2026-10-11 09:34:01 | [utiltools.i18n-editor-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.i18n-editor-utiltools) | i18n Editor, Translation Manager, Local… | 1.0.1 | Edit every translation in one spreadsheet: inline t('key') previews and hover,… |
+| 2026-10-11 09:34:52 | [utiltools.bundle-size-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.bundle-size-utiltools) | Import Cost, Bundle Size, Package Size,… | 1.0.1 | Import Cost and Bundle Size for VS Code: see the size of every import inline (m… |
+| 2026-10-11 09:47:12 | [utiltools.react-refactor-utiltools](https://marketplace.visualstudio.com/items?itemName=utiltools.react-refactor-utiltools) | React Refactor & Component Tree by Util… | 1.0.0 | React refactoring for VS Code without AI: extract JSX to a new component (same… |
+| 2026-10-11 10:15:49 | [pritompurkayasta.complementer](https://marketplace.visualstudio.com/items?itemName=pritompurkayasta.complementer) | Complementer | 1.0.0 | Context and plan-limit meters, a session manager and usage insights for Claude… |
 
 ## Data source
 
