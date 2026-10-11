@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 21:19 UTC
+## Latest list — 2026-10-11 22:19 UTC
 
-New extensions published between 2026-10-11 19:19 UTC and 2026-10-11 21:19 UTC.
+New extensions published between 2026-10-11 20:19 UTC and 2026-10-11 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T21-19-39-074185Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T22-19-30-883334Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 20:28:12 | [ReadyStack.saltmarsh-theme](https://marketplace.visualstudio.com/items?itemName=ReadyStack.saltmarsh-theme) | Saltmarsh Theme — Estuary colours: sea… | 1.0.0 | Estuary colours: sea lavender, cordgrass, samphire, tide. Saltmarsh is the edge… |
-| 2026-10-11 20:43:28 | [sam-ai.sam-theme](https://marketplace.visualstudio.com/items?itemName=sam-ai.sam-theme) | SAM — Simplifying AI Management | 0.5.0 | The SAM look for VS Code (light and dark, in SAM blue) plus a SAM side panel th… |
-| 2026-10-11 20:48:56 | [impuLssse.diff-inline](https://marketplace.visualstudio.com/items?itemName=impuLssse.diff-inline) | Diff Inline (Cursor Based) | 0.7.0 | Cursor-style review of Claude Code edits right in the file: old lines in red, n… |
-| 2026-10-11 20:51:10 | [looot.looot](https://marketplace.visualstudio.com/items?itemName=looot.looot) | looot | 0.1.0 | Adds the looot MCP server to VS Code: search, price and run 2,500+ data API end… |
-| 2026-10-11 21:02:20 | [MarkaSchmidt.obsidian-integrated](https://marketplace.visualstudio.com/items?itemName=MarkaSchmidt.obsidian-integrated) | Obsidian IDE Knowledge Bridge | 0.5.0 | Manage workspace-scoped Obsidian knowledge for Cursor and VS Code |
-| 2026-10-11 21:02:39 | [Jatin-Jain.lemiki](https://marketplace.visualstudio.com/items?itemName=Jatin-Jain.lemiki) | Lemiki – Desktop Pets for Coders | 0.3.3 | A pet that lives on your desktop and reacts to your coding: it celebrates passi… |
-| 2026-10-11 21:06:22 | [Danil0ws.hermes-agent-for-vscode](https://marketplace.visualstudio.com/items?itemName=Danil0ws.hermes-agent-for-vscode) | Hermes Agent for VS Code | 0.1.0 | Native VS Code interface for the Hermes Agent CLI (Nous Research) over ACP — ch… |
-| 2026-10-11 21:11:50 | [TREV-Software.Trevware](https://marketplace.visualstudio.com/items?itemName=TREV-Software.Trevware) | Trevware | 1.0.0 | An extension for: setting up, compiling, uploading and debugging STM32 applicat… |
+| 2026-10-11 21:20:44 | [Adam-Elmi.arcmoon-language](https://marketplace.visualstudio.com/items?itemName=Adam-Elmi.arcmoon-language) | ArcMoon Language | 0.1.0 | ArcMoon (.arcm) language support: errors, colors and completions from arcmoon-l… |
+| 2026-10-11 21:27:42 | [muxlang.mux-programming-language](https://marketplace.visualstudio.com/items?itemName=muxlang.mux-programming-language) | Mux Language Tools | 0.13.0 | Syntax highlighting and language support for the Mux programming language |
+| 2026-10-11 21:42:49 | [jsimonrichard.vscode-prosemark-vim-integration](https://marketplace.visualstudio.com/items?itemName=jsimonrichard.vscode-prosemark-vim-integration) | ProseMark - Vim mode | 0.0.1 | Vim-style editing in the ProseMark editor via @replit/codemirror-vim |
+| 2026-10-11 22:05:42 | [MauroGarcia.reasonline](https://marketplace.visualstudio.com/items?itemName=MauroGarcia.reasonline) | ReasonLine | 0.2.0 | Understand the code. Understand the why. Select code for a grounded explanation… |
+| 2026-10-11 22:15:21 | [Vaktex.vakt-vscode](https://marketplace.visualstudio.com/items?itemName=Vaktex.vakt-vscode) | VAKT: local security review (DOM-0.8B) | 0.1.0 | Function-level security risk scores from DOM-0.8B, inline in the editor. Runs o… |
 
 ## Data source
 

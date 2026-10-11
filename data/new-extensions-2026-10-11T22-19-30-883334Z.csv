@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T21:20:44.48Z,Adam-Elmi.arcmoon-language,Adam-Elmi,ArcMoon Language,0.1.0,"ArcMoon (.arcm) language support: errors, colors and completions from arcmoon-lsp."
+2026-10-11T21:27:42.26Z,muxlang.mux-programming-language,muxlang,Mux Language Tools,0.13.0,Syntax highlighting and language support for the Mux programming language
+2026-10-11T21:42:49.953Z,jsimonrichard.vscode-prosemark-vim-integration,jsimonrichard,ProseMark - Vim mode,0.0.1,Vim-style editing in the ProseMark editor via @replit/codemirror-vim
+2026-10-11T22:05:42.08Z,MauroGarcia.reasonline,MauroGarcia,ReasonLine,0.2.0,"Understand the code. Understand the why. Select code for a grounded explanation of what you're doing, a quality rating, and a verified improvement suggestion."
+2026-10-11T22:15:21.477Z,Vaktex.vakt-vscode,Vaktex,VAKT: local security review (DOM-0.8B),0.1.0,"Function-level security risk scores from DOM-0.8B, inline in the editor. Runs on your machine; your code never leaves it."
