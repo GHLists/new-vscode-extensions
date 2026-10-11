@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T20:28:12.707Z,ReadyStack.saltmarsh-theme,ReadyStack,"Saltmarsh Theme — Estuary colours: sea lavender, cordgrass, samphire, tide",1.0.0,"Estuary colours: sea lavender, cordgrass, samphire, tide. Saltmarsh is the edge of an estuary at low tide: sea lavender in flower, cordgrass gone to straw, samphire reddening on the mud, and the channel water holding the sky. Every code colour measur"
+2026-10-11T20:43:28.31Z,sam-ai.sam-theme,sam-ai,SAM — Simplifying AI Management,0.5.0,"The SAM look for VS Code (light and dark, in SAM blue) plus a SAM side panel that connects Claude Code to the businesses you work with."
+2026-10-11T20:48:56.633Z,impuLssse.diff-inline,impuLssse,Diff Inline (Cursor Based),0.7.0,"Cursor-style review of Claude Code edits right in the file: old lines in red, new in green, Accept / Reject for every change. Unofficial, not affiliated with Anthropic."
+2026-10-11T20:51:10.31Z,looot.looot,looot,looot,0.1.0,"Adds the looot MCP server to VS Code: search, price and run 2,500+ data API endpoints from your agent."
+2026-10-11T21:02:20.85Z,MarkaSchmidt.obsidian-integrated,MarkaSchmidt,Obsidian IDE Knowledge Bridge,0.5.0,Manage workspace-scoped Obsidian knowledge for Cursor and VS Code
+2026-10-11T21:02:39.44Z,Jatin-Jain.lemiki,Jatin-Jain,Lemiki – Desktop Pets for Coders,0.3.3,"A pet that lives on your desktop and reacts to your coding: it celebrates passing builds, gets sad when tests fail, and naps when you are away."
+2026-10-11T21:06:22.207Z,Danil0ws.hermes-agent-for-vscode,Danil0ws,Hermes Agent for VS Code,0.1.0,"Native VS Code interface for the Hermes Agent CLI (Nous Research) over ACP — chat, tools, diffs, approvals, plans, sessions and the full CLI."
+2026-10-11T21:11:50.117Z,TREV-Software.Trevware,TREV-Software,Trevware,1.0.0,"An extension for: setting up, compiling, uploading and debugging STM32 applications"

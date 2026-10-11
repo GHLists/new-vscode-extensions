@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 20:20 UTC
+## Latest list — 2026-10-11 21:19 UTC
 
-New extensions published between 2026-10-11 18:20 UTC and 2026-10-11 20:20 UTC.
+New extensions published between 2026-10-11 19:19 UTC and 2026-10-11 21:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T20-20-14-203502Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T21-19-39-074185Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 19:22:40 | [devakmmm.claude-session-folders](https://marketplace.visualstudio.com/items?itemName=devakmmm.claude-session-folders) | Session Folders for Claude Code | 0.1.2 | Group your Claude Code sessions into named, colored folders in the VS Code side… |
-| 2026-10-11 19:34:02 | [technochiya.task-blocks](https://marketplace.visualstudio.com/items?itemName=technochiya.task-blocks) | Task Blocks | 1.0.0 | Track TASK, TODO, FIXME, BUG, HACK, and REVIEW comments across programming lang… |
-| 2026-10-11 19:37:14 | [howell-technologies.enoch-vscode](https://marketplace.visualstudio.com/items?itemName=howell-technologies.enoch-vscode) | Apollo AI | 0.7.0 | AI coding agent for your workspace — chat, edit files, run builds and tests, pr… |
-| 2026-10-11 19:40:07 | [yasir-erkam-ozdemir.multi-harness-terminal-editor](https://marketplace.visualstudio.com/items?itemName=yasir-erkam-ozdemir.multi-harness-terminal-editor) | Multi-Harness Terminal Editor | 0.1.0 | Open AI coding-agent CLIs (Claude Code, Codex, OpenCode, Pi, Oh My Pi, Gemini C… |
-| 2026-10-11 19:42:27 | [Brunoddev.quick-terminal-button](https://marketplace.visualstudio.com/items?itemName=Brunoddev.quick-terminal-button) | Quick Terminal button | 0.0.3 | Quickly open a new terminal with a convenient button in the status bar. |
-| 2026-10-11 19:46:44 | [skrunk.schematic](https://marketplace.visualstudio.com/items?itemName=skrunk.schematic) | Schematic Syntax | 1.1.1 | Syntax highlighting for the various Schematic syntaxes. |
-| 2026-10-11 19:55:50 | [andradevander.clickup-devtimer](https://marketplace.visualstudio.com/items?itemName=andradevander.clickup-devtimer) | ClickUp DevTimer - Smart Time Tracker f… | 0.1.0 | Seamless, active-time tracking for ClickUp tasks directly from the VS Code stat… |
-| 2026-10-11 19:57:13 | [MarbleMD.marble-markdown](https://marketplace.visualstudio.com/items?itemName=MarbleMD.marble-markdown) | Marble Markdown | 0.1.0 | Write Markdown and see it formatted as you type. |
-| 2026-10-11 19:58:19 | [Axtra.term-in-new-win](https://marketplace.visualstudio.com/items?itemName=Axtra.term-in-new-win) | Terminal in New Window | 1.0.0 | Open a VS Code terminal in a new VS Code window via the status bar or command p… |
-| 2026-10-11 20:03:32 | [Mallen220.ftc-core](https://marketplace.visualstudio.com/items?itemName=Mallen220.ftc-core) | FTC Core | 0.1.0 | Create, build, deploy and debug FIRST Tech Challenge robot code in VS Code and… |
-| 2026-10-11 20:11:11 | [philippru.agent-session-radar](https://marketplace.visualstudio.com/items?itemName=philippru.agent-session-radar) | Agent Session Radar | 0.1.0 | See all your AI coding agent sessions at a glance: what is running, what is wai… |
+| 2026-10-11 20:28:12 | [ReadyStack.saltmarsh-theme](https://marketplace.visualstudio.com/items?itemName=ReadyStack.saltmarsh-theme) | Saltmarsh Theme — Estuary colours: sea… | 1.0.0 | Estuary colours: sea lavender, cordgrass, samphire, tide. Saltmarsh is the edge… |
+| 2026-10-11 20:43:28 | [sam-ai.sam-theme](https://marketplace.visualstudio.com/items?itemName=sam-ai.sam-theme) | SAM — Simplifying AI Management | 0.5.0 | The SAM look for VS Code (light and dark, in SAM blue) plus a SAM side panel th… |
+| 2026-10-11 20:48:56 | [impuLssse.diff-inline](https://marketplace.visualstudio.com/items?itemName=impuLssse.diff-inline) | Diff Inline (Cursor Based) | 0.7.0 | Cursor-style review of Claude Code edits right in the file: old lines in red, n… |
+| 2026-10-11 20:51:10 | [looot.looot](https://marketplace.visualstudio.com/items?itemName=looot.looot) | looot | 0.1.0 | Adds the looot MCP server to VS Code: search, price and run 2,500+ data API end… |
+| 2026-10-11 21:02:20 | [MarkaSchmidt.obsidian-integrated](https://marketplace.visualstudio.com/items?itemName=MarkaSchmidt.obsidian-integrated) | Obsidian IDE Knowledge Bridge | 0.5.0 | Manage workspace-scoped Obsidian knowledge for Cursor and VS Code |
+| 2026-10-11 21:02:39 | [Jatin-Jain.lemiki](https://marketplace.visualstudio.com/items?itemName=Jatin-Jain.lemiki) | Lemiki – Desktop Pets for Coders | 0.3.3 | A pet that lives on your desktop and reacts to your coding: it celebrates passi… |
+| 2026-10-11 21:06:22 | [Danil0ws.hermes-agent-for-vscode](https://marketplace.visualstudio.com/items?itemName=Danil0ws.hermes-agent-for-vscode) | Hermes Agent for VS Code | 0.1.0 | Native VS Code interface for the Hermes Agent CLI (Nous Research) over ACP — ch… |
+| 2026-10-11 21:11:50 | [TREV-Software.Trevware](https://marketplace.visualstudio.com/items?itemName=TREV-Software.Trevware) | Trevware | 1.0.0 | An extension for: setting up, compiling, uploading and debugging STM32 applicat… |
 
 ## Data source
 
