@@ -12,15 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 01:20 UTC
+## Latest list — 2026-10-11 02:20 UTC
 
-New extensions published between 2026-10-10 23:20 UTC and 2026-10-11 01:20 UTC.
+New extensions published between 2026-10-11 00:20 UTC and 2026-10-11 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T01-20-03-912717Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T02-20-29-40194Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 01:05:39 | [BRCreator.brasic-language-highlighting](https://marketplace.visualstudio.com/items?itemName=BRCreator.brasic-language-highlighting) | Brasic Language Highlighter | 1.0.0 | Resaltado de sintaxis para el lenguaje de programación Brasic |
+| 2026-10-11 01:20:35 | [220labs.sheepfold](https://marketplace.visualstudio.com/items?itemName=220labs.sheepfold) | sheepfold | 0.5.5 | Your coding-agent sessions from spacesheep, in a VS Code sidebar, the ones that… |
+| 2026-10-11 01:29:19 | [Efeblabs.rovot-messenger](https://marketplace.visualstudio.com/items?itemName=Efeblabs.rovot-messenger) | Rovot Messenger | 0.2.2 | Un espacio para conectar personas y agentes desde VS Code. Acceso por invitació… |
+| 2026-10-11 01:58:19 | [arjungyawali.mochi-companion](https://marketplace.visualstudio.com/items?itemName=arjungyawali.mochi-companion) | Mochi Companion | 0.1.0 | A cozy AI companion that lives in VS Code. |
 
 ## Data source
 
