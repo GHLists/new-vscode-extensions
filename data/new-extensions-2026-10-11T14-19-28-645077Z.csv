@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T13:28:36.737Z,jjeabydev.jinsheet,jjeabydev,"JinSheet — Excel, CSV & Office Viewer",1.0.1,"A local CSV/TSV/XLSX editor with rendered, read-only previews for Word, PowerPoint, and PDF."
+2026-10-11T13:29:47.993Z,boosterleap.boosterleap-runner,boosterleap,Booster LEAP Runner,1.0.0,"Run Booster LEAP code examples (Python, Java, C++, SQL) in VS Code with one click."
+2026-10-11T13:44:19.227Z,fefeding.vscode-fdb2,fefeding,Database Tool (fdb2),1.0.5,强大的数据库管理工具：连接管理、SQL 查询、数据浏览与表结构查看，支持 MySQL / PostgreSQL / SQL Server / SQLite / Oracle / MongoDB / ClickHouse 等多种数据库。
+2026-10-11T13:57:17.673Z,hmamut39.tewip,hmamut39,Tewip - why did my test fail?,0.8.0,"Proves the work: is this change done, could these tests ever fail, would they catch a bug, what will this migration do to a live database, and why did CI fail."
+2026-10-11T14:09:13.267Z,RenanFerrari.rfcode,RenanFerrari,rfcode — agente de IA gratuito,1.9.0,"Agente de IA gratuito para VS Code: edita código, roda testes, pesquisa na web, cria PowerPoint, Word e vídeos narrados, controla o PC e funciona pelo celular. Usa os modelos gratuitos de build.nvidia.com."
+2026-10-11T14:11:46.54Z,developermp.grimley-spectrum,developermp,Grimley Spectrum,0.5.0,Midnight Violet: a consistent dark VS Code interface with distinct language-specific syntax palettes.
