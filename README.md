@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 17:18 UTC
+## Latest list — 2026-10-11 18:20 UTC
 
-New extensions published between 2026-10-11 15:18 UTC and 2026-10-11 17:18 UTC.
+New extensions published between 2026-10-11 16:20 UTC and 2026-10-11 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T17-18-42-710374Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T18-20-12-826419Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 16:23:00 | [w0x7y.rime-theme](https://marketplace.visualstudio.com/items?itemName=w0x7y.rime-theme) | Rime Theme | 0.1.0 | A cold dark theme in four variants: Rime, Glacier, Aurora and Abyss. |
-| 2026-10-11 16:23:39 | [kite-labs.kite-suite](https://marketplace.visualstudio.com/items?itemName=kite-labs.kite-suite) | Kite Suite | 1.0.0 | Kite Suite for Visual Studio Code |
-| 2026-10-11 16:29:46 | [Akshat270.checklist-bridge](https://marketplace.visualstudio.com/items?itemName=Akshat270.checklist-bridge) | Checklist Bridge for Claude Code | 0.3.2 | Each Claude Code chat gets its own checklist in VS Code for the things you have… |
-| 2026-10-11 16:43:43 | [kite-labs.vibe-tools](https://marketplace.visualstudio.com/items?itemName=kite-labs.vibe-tools) | Vibe Tools | 1.0.0 | Vibe Tools for Visual Studio Code |
-| 2026-10-11 16:59:21 | [Hatuos.angular-radar](https://marketplace.visualstudio.com/items?itemName=Hatuos.angular-radar) | Angular Radar | 0.1.0 | A lightweight way for staying up to date with Angular releases |
+| 2026-10-11 17:16:22 | [jakub-medrzak.gitversionstatusbar](https://marketplace.visualstudio.com/items?itemName=jakub-medrzak.gitversionstatusbar) | GitVersion Status Bar | 0.2.0 | Display the actual git version of the current branch. |
+| 2026-10-11 17:21:05 | [BuildShare.buildshare](https://marketplace.visualstudio.com/items?itemName=BuildShare.buildshare) | BuildShare | 1.0.0 | Upload Android (.apk) and iOS (.ipa) builds to BuildShare and manage them witho… |
+| 2026-10-11 17:47:48 | [tanmaydot.jelly-spinel-beans-theme](https://marketplace.visualstudio.com/items?itemName=tanmaydot.jelly-spinel-beans-theme) | Jelly Spinel Beans Theme | 0.1.1 | A dark theme blending Jellybeans and Shopify Ruby. |
+| 2026-10-11 18:13:06 | [zobo.php-notebook](https://marketplace.visualstudio.com/items?itemName=zobo.php-notebook) | PHP Notebook | 1.0.0 | Write, run and debug PHP code in a notebook. |
 
 ## Data source
 

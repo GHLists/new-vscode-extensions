@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T17:16:22.603Z,jakub-medrzak.gitversionstatusbar,jakub-medrzak,GitVersion Status Bar,0.2.0,Display the actual git version of the current branch.
+2026-10-11T17:21:05.137Z,BuildShare.buildshare,BuildShare,BuildShare,1.0.0,Upload Android (.apk) and iOS (.ipa) builds to BuildShare and manage them without leaving VS Code.
+2026-10-11T17:47:48.157Z,tanmaydot.jelly-spinel-beans-theme,tanmaydot,Jelly Spinel Beans Theme,0.1.1,A dark theme blending Jellybeans and Shopify Ruby.
+2026-10-11T18:13:06.617Z,zobo.php-notebook,zobo,PHP Notebook,1.0.0,"Write, run and debug PHP code in a notebook."
