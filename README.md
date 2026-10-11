@@ -12,25 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 16:20 UTC
+## Latest list — 2026-10-11 17:18 UTC
 
-New extensions published between 2026-10-11 14:20 UTC and 2026-10-11 16:20 UTC.
+New extensions published between 2026-10-11 15:18 UTC and 2026-10-11 17:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T16-20-12-774682Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T17-18-42-710374Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 15:23:34 | [untanya.claude-workspace-focus](https://marketplace.visualstudio.com/items?itemName=untanya.claude-workspace-focus) | Claude Workspace Focus | 1.0.1 | Focus Claude Code (and other extensions that only look at the first folder) on… |
-| 2026-10-11 15:26:03 | [Neuralcube.neural-green](https://marketplace.visualstudio.com/items?itemName=Neuralcube.neural-green) | Neural Green | 1.0.3 | A Matrix-inspired green-on-black VS Code theme with phosphor-green highlights,… |
-| 2026-10-11 15:27:09 | [Proxylang.handoffbar](https://marketplace.visualstudio.com/items?itemName=Proxylang.handoffbar) | HandoffBar for Claude Code | 0.1.1 | Copy a Claude Code chat's handoff with one click from the chat tab, and see how… |
-| 2026-10-11 15:31:56 | [gon-lang.gon](https://marketplace.visualstudio.com/items?itemName=gon-lang.gon) | Gon | 0.1.0 | Gon language support, with automatic tool discovery and a Run File button. |
-| 2026-10-11 15:32:18 | [next-hat.nanocl-vscode](https://marketplace.visualstudio.com/items?itemName=next-hat.nanocl-vscode) | nanocl for vscode | 0.1.5 | Validation, hover documentation and completion for versioned nanocl YAML Statef… |
-| 2026-10-11 15:41:09 | [Bill-Testing.publisher-consent-probe](https://marketplace.visualstudio.com/items?itemName=Bill-Testing.publisher-consent-probe) | Publisher Consent Probe](command:workbe… | 0.0.1 | Benign test of how the VS Code publisher-consent dialog renders Marketplace ext… |
-| 2026-10-11 15:43:29 | [CodeSM.sdev-language](https://marketplace.visualstudio.com/items?itemName=CodeSM.sdev-language) | sdev Language | 5.1.0 | Official VS Code support for the sdev programming language — v1 + v2 syntax hig… |
-| 2026-10-11 15:51:25 | [ReadyStack.python-310-eol-pin-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.python-310-eol-pin-check) | Python 3.10 End of Life — Pin Check & F… | 1.0.0 | Python 3.10 end of life was 2026-10-01. Finds every 3.10 pin — Dockerfile, GitH… |
-| 2026-10-11 15:52:09 | [ReadyStack.gnu-global-cpp-vscode-config-pack](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gnu-global-cpp-vscode-config-pack) | GNU Global C/C++ .vscode Config Pack | 0.1.6 | 45 ready .vscode snippets and 21 audit rules across 8 setups: GNU Global gtags… |
-| 2026-10-11 16:06:29 | [Maikurosofuto.value-snap](https://marketplace.visualstudio.com/items?itemName=Maikurosofuto.value-snap) | Value Snap | 1.0.0 | Keyboard shortcuts to speed-up programming in VS Code. |
-| 2026-10-11 16:06:58 | [makayis.codecook](https://marketplace.visualstudio.com/items?itemName=makayis.codecook) | CodeCook | 2.3.0 | A powerful coding add-on for VS Code. Keep the quality. Cut the cost. |
+| 2026-10-11 16:23:00 | [w0x7y.rime-theme](https://marketplace.visualstudio.com/items?itemName=w0x7y.rime-theme) | Rime Theme | 0.1.0 | A cold dark theme in four variants: Rime, Glacier, Aurora and Abyss. |
+| 2026-10-11 16:23:39 | [kite-labs.kite-suite](https://marketplace.visualstudio.com/items?itemName=kite-labs.kite-suite) | Kite Suite | 1.0.0 | Kite Suite for Visual Studio Code |
+| 2026-10-11 16:29:46 | [Akshat270.checklist-bridge](https://marketplace.visualstudio.com/items?itemName=Akshat270.checklist-bridge) | Checklist Bridge for Claude Code | 0.3.2 | Each Claude Code chat gets its own checklist in VS Code for the things you have… |
+| 2026-10-11 16:43:43 | [kite-labs.vibe-tools](https://marketplace.visualstudio.com/items?itemName=kite-labs.vibe-tools) | Vibe Tools | 1.0.0 | Vibe Tools for Visual Studio Code |
+| 2026-10-11 16:59:21 | [Hatuos.angular-radar](https://marketplace.visualstudio.com/items?itemName=Hatuos.angular-radar) | Angular Radar | 0.1.0 | A lightweight way for staying up to date with Angular releases |
 
 ## Data source
 
