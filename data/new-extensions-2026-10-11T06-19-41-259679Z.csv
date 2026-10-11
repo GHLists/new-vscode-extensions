@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T05:21:30.527Z,smcolorthemesohagsheik.stackmint-theme,smcolorthemesohagsheik,StackMint Theme,1.1.0,"Professional, eye-comfort, and modern VS Code color themes featuring StackMint Eye Comfort, StackMint Pro, and StackMint Midnight with vibrant, ultra-readable syntax highlighting."
+2026-10-11T05:47:27.527Z,ArrowSlashArrow.tasm-lang-gd,ArrowSlashArrow,.tasm,0.0.1,VSCode support for Trigger Assembly (TASM) -- not Borland Turbo Assembler.
+2026-10-11T05:49:31.437Z,ujyong.codex-quota-monitor-ujyong,ujyong,Codex Quota,0.1.13,A Visual Studio Code extension showing remaining 5-hour and weekly quota for the Codex CLI account on the machine where it is installed.
+2026-10-11T05:58:44.703Z,Noor-CRCIS.rtl-copilot,Noor-CRCIS,"Noor RTL — VS Code, Copilot & AI Chat",2.9.18,راست‌چین هوشمند نور برای فارسی و عربی در VS Code، GitHub Copilot و AI Chat؛ تنظیم مستقل ورودی‌ها، Markdown و کامنت‌های ادیتور.
+2026-10-11T05:59:02.79Z,step-by-step.heta-highlight,step-by-step,Heta Highlight,0.1.16,Syntax highlighting for Heta model files.
+2026-10-11T06:07:02.15Z,xcheng.esp-dap-debug,xcheng,XFlashGate MCU Debug,0.2.0,"XFlashGate MCU debugging via ESP-DAP, flash algorithms and J-Link / GDB connections"
