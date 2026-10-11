@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T07:50:11.347Z,oxython.oxython,oxython,oxython,0.1.0,Syntax highlighting for Cython with the oxython Rust-style syntax
+2026-10-11T07:53:36.57Z,JUNGHO.thymeleaf-language-support,JUNGHO,Thymeleaf Language Support,1.1.2,"Thymeleaf syntax highlighting, expression parser diagnostics, Spring controller model validation, completion, hover, navigation, and fragment tooling for HTML templates in VSCode"
+2026-10-11T07:58:29.737Z,SamuelUrias.spreadsheet-viewer,SamuelUrias,Spreadsheet Viewer by Samuel Urias,0.0.1,"View and edit CSV, TSV, TAB, XLSX, and ODS spreadsheets in VS Code, with raw values, search, sorting, filters, and save-to-file support."
+2026-10-11T08:00:33.067Z,OllamaSidebar.ollama-sidebar,OllamaSidebar,Ollama Sidebar,0.1.4,Local Codex and Ollama in your right sidebar
+2026-10-11T08:17:04.637Z,gapple.buddy-roams,gapple,Buddy Roams,1.0.0,Brings a roaming pet into the editor area using the patched `window.createEditorOverlay` API.

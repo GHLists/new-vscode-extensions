@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 07:19 UTC
+## Latest list — 2026-10-11 08:19 UTC
 
-New extensions published between 2026-10-11 05:19 UTC and 2026-10-11 07:19 UTC.
+New extensions published between 2026-10-11 06:19 UTC and 2026-10-11 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T07-19-41-667935Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T08-19-18-211999Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 06:19:27 | [komocs.komanage](https://marketplace.visualstudio.com/items?itemName=komocs.komanage) | KoManage | 0.1.1 | Colored, grouped dashboard of your projects. Click to open. |
-| 2026-10-11 06:37:46 | [Young581.codex-beacon-collector](https://marketplace.visualstudio.com/items?itemName=Young581.codex-beacon-collector) | Codex Beacon Collector | 0.5.1 | Remote SSH and container event collection for Codex Beacon. Install the main ex… |
-| 2026-10-11 06:38:08 | [Young581.codex-beacon](https://marketplace.visualstudio.com/items?itemName=Young581.codex-beacon) | Codex Beacon | 0.8.1 | Track Codex tasks by project with a compact dashboard, colored states, token us… |
-| 2026-10-11 06:38:48 | [devchan64.vscod-image-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.vscod-image-editor) | Minimal Image Editor | 0.1.0 | A minimal image editor with magic wand selection, layers and history. |
-| 2026-10-11 06:40:42 | [Moaswies.bedrock-feature-viewer](https://marketplace.visualstudio.com/items?itemName=Moaswies.bedrock-feature-viewer) | Bedrock Feature Viewer | 0.2.20 | 在 VS Code 里 3D 预览 Minecraft 基岩版地物（feature / feature_rules）：查看方块、结构与生成效果，自动应用资源包… |
-| 2026-10-11 06:54:57 | [Populr.populr-seo](https://marketplace.visualstudio.com/items?itemName=Populr.populr-seo) | Populr SEO | 1.0.1 | Apply the SEO fixes you approve in Populr from your editor's AI agent — titles,… |
+| 2026-10-11 07:50:11 | [oxython.oxython](https://marketplace.visualstudio.com/items?itemName=oxython.oxython) | oxython | 0.1.0 | Syntax highlighting for Cython with the oxython Rust-style syntax |
+| 2026-10-11 07:53:36 | [JUNGHO.thymeleaf-language-support](https://marketplace.visualstudio.com/items?itemName=JUNGHO.thymeleaf-language-support) | Thymeleaf Language Support | 1.1.2 | Thymeleaf syntax highlighting, expression parser diagnostics, Spring controller… |
+| 2026-10-11 07:58:29 | [SamuelUrias.spreadsheet-viewer](https://marketplace.visualstudio.com/items?itemName=SamuelUrias.spreadsheet-viewer) | Spreadsheet Viewer by Samuel Urias | 0.0.1 | View and edit CSV, TSV, TAB, XLSX, and ODS spreadsheets in VS Code, with raw va… |
+| 2026-10-11 08:00:33 | [OllamaSidebar.ollama-sidebar](https://marketplace.visualstudio.com/items?itemName=OllamaSidebar.ollama-sidebar) | Ollama Sidebar | 0.1.4 | Local Codex and Ollama in your right sidebar |
+| 2026-10-11 08:17:04 | [gapple.buddy-roams](https://marketplace.visualstudio.com/items?itemName=gapple.buddy-roams) | Buddy Roams | 1.0.0 | Brings a roaming pet into the editor area using the patched `window.createEdito… |
 
 ## Data source
 
