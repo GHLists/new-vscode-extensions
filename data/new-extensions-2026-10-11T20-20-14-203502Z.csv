@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T19:22:40.48Z,devakmmm.claude-session-folders,devakmmm,Session Folders for Claude Code,0.1.2,"Group your Claude Code sessions into named, colored folders in the VS Code sidebar."
+2026-10-11T19:34:02.3Z,technochiya.task-blocks,technochiya,Task Blocks,1.0.0,"Track TASK, TODO, FIXME, BUG, HACK, and REVIEW comments across programming languages."
+2026-10-11T19:37:14.383Z,howell-technologies.enoch-vscode,howell-technologies,Apollo AI,0.7.0,"AI coding agent for your workspace — chat, edit files, run builds and tests, preview your app, and split big work across agents. Sign in with your company's Apollo account."
+2026-10-11T19:40:07.037Z,yasir-erkam-ozdemir.multi-harness-terminal-editor,yasir-erkam-ozdemir,Multi-Harness Terminal Editor,0.1.0,"Open AI coding-agent CLIs (Claude Code, Codex, OpenCode, Pi, Oh My Pi, Gemini CLI, Copilot CLI, Cursor Agent, Aider, Crush, Qwen Code, Goose) in native editor-area terminal tabs."
+2026-10-11T19:42:27.813Z,Brunoddev.quick-terminal-button,Brunoddev,Quick Terminal button,0.0.3,Quickly open a new terminal with a convenient button in the status bar.
+2026-10-11T19:46:44.063Z,skrunk.schematic,skrunk,Schematic Syntax,1.1.1,Syntax highlighting for the various Schematic syntaxes.
+2026-10-11T19:55:50.53Z,andradevander.clickup-devtimer,andradevander,ClickUp DevTimer - Smart Time Tracker for ClickUp,0.1.0,"Seamless, active-time tracking for ClickUp tasks directly from the VS Code status bar, with idle detection."
+2026-10-11T19:57:13.323Z,MarbleMD.marble-markdown,MarbleMD,Marble Markdown,0.1.0,Write Markdown and see it formatted as you type.
+2026-10-11T19:58:19.22Z,Axtra.term-in-new-win,Axtra,Terminal in New Window,1.0.0,"Open a VS Code terminal in a new VS Code window via the status bar or command palette, with a configurable default command."
+2026-10-11T20:03:32.29Z,Mallen220.ftc-core,Mallen220,FTC Core,0.1.0,"Create, build, deploy and debug FIRST Tech Challenge robot code in VS Code and VSCodium without Android Studio."
+2026-10-11T20:11:11.063Z,philippru.agent-session-radar,philippru,Agent Session Radar,0.1.0,"See all your AI coding agent sessions at a glance: what is running, what is waiting for you, what is done. Supports Claude Code."
