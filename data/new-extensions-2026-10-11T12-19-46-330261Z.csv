@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T11:26:34.683Z,Chain-Frost.wkt-prj-formatter,Chain-Frost,WKT / PRJ Formatter,0.3.0,"Readable, lossless WKT1, WKT2 and PROJ parameter-string formatting for GIS .prj and .wkt files."
+2026-10-11T11:52:48.39Z,ReadyStack.runtime-eol-deploy-block-audit,ReadyStack,Runtime EOL Guard,0.1.8,"Finds the end-of-life runtimes an AI assistant still writes for you — node:20, python3.9, ubuntu-22.04, nodejs20.x — and prints the exact date each one stops deploying."
+2026-10-11T11:53:16.427Z,ReadyStack.python-upgrade-removed-api-lint,ReadyStack,Python Upgrade Lint: Removed Stdlib 3.12-3.14,1.0.9,"Flags imports and calls removed from the Python standard library in 3.12, 3.13 and 3.14 (cgi, imp, distutils, telnetlib, unittest aliases, ast.Str) before you leave Python 3.10."
+2026-10-11T12:04:25.783Z,stubbedev.shell-lsp,stubbedev,Shell LSP,0.1.0,"Language server for bash, zsh, POSIX sh, dash and ksh: diagnostics, completion, hover, navigation, refactorings and formatting."
+2026-10-11T12:08:26.99Z,TimoBeermann.agent-city,TimoBeermann,Agent City - Workspace and Agent Session Manager,0.1.0,A living city visualization of your local Claude Code sessions and agents.
