@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-11T14:18:45.593Z,fefeding.vscode-aicmd,fefeding,AICmd Terminal,0.1.2,AI 驱动的 Web SSH 终端：SSH/本地终端、AI Agent、技能系统、命令审计、日志监控、批量操作与文件传输，全部在 VSCode 内运行。
+2026-10-11T14:36:13.513Z,Gursukh.nnef-syntax,Gursukh,NNEF Syntax Highlighting,0.1.0,"Syntax highlighting, snippets and editor support for Khronos NNEF (Neural Network Exchange Format) graph and quantization files."
+2026-10-11T14:50:27.183Z,Feiyang472.fadetop,Feiyang472,FadeTop,0.2.2,"Real-time visualiser for Python stack samples, powered by py-spy."
+2026-10-11T14:51:44.567Z,Inflector.inflector-lux,Inflector,Lux Framework,0.1.0,Syntax highlighting and IntelliSense for Lux (.lx) components
+2026-10-11T15:01:56.727Z,MYFSillyBa.stm32-project-helper,MYFSillyBa,STM32 工程助手,1.0.3,STM32 本地工程工具：CubeMX Keil MDK-ARM/CMake 双向转换、ARM GCC 环境检测、VS Code 一键编译与 DAPLink 烧录任务、源文件管理和修改恢复。
+2026-10-11T15:02:24.423Z,dev-first.dev-first,dev-first,Dev-First,0.1.0,Plan-first AI coding agent — every request becomes a plan you approve before a single line changes.
+2026-10-11T15:15:28.91Z,aseel1.agent-changes,aseel1,Agent Changes,0.15.0,"See each Claude Code agent's changes as its own group in Source Control, on one branch and one working tree."

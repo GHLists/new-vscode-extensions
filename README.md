@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 14:19 UTC
+## Latest list — 2026-10-11 15:20 UTC
 
-New extensions published between 2026-10-11 12:19 UTC and 2026-10-11 14:19 UTC.
+New extensions published between 2026-10-11 13:20 UTC and 2026-10-11 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T14-19-28-645077Z.csv)
+[Full CSV](data/new-extensions-2026-10-11T15-20-32-658066Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 13:28:36 | [jjeabydev.jinsheet](https://marketplace.visualstudio.com/items?itemName=jjeabydev.jinsheet) | JinSheet — Excel, CSV & Office Viewer | 1.0.1 | A local CSV/TSV/XLSX editor with rendered, read-only previews for Word, PowerPo… |
-| 2026-10-11 13:29:47 | [boosterleap.boosterleap-runner](https://marketplace.visualstudio.com/items?itemName=boosterleap.boosterleap-runner) | Booster LEAP Runner | 1.0.0 | Run Booster LEAP code examples (Python, Java, C++, SQL) in VS Code with one cli… |
-| 2026-10-11 13:44:19 | [fefeding.vscode-fdb2](https://marketplace.visualstudio.com/items?itemName=fefeding.vscode-fdb2) | Database Tool (fdb2) | 1.0.5 | 强大的数据库管理工具：连接管理、SQL 查询、数据浏览与表结构查看，支持 MySQL / PostgreSQL / SQL Server / SQLite /… |
-| 2026-10-11 13:57:17 | [hmamut39.tewip](https://marketplace.visualstudio.com/items?itemName=hmamut39.tewip) | Tewip - why did my test fail? | 0.8.0 | Proves the work: is this change done, could these tests ever fail, would they c… |
-| 2026-10-11 14:09:13 | [RenanFerrari.rfcode](https://marketplace.visualstudio.com/items?itemName=RenanFerrari.rfcode) | rfcode — agente de IA gratuito | 1.9.0 | Agente de IA gratuito para VS Code: edita código, roda testes, pesquisa na web,… |
-| 2026-10-11 14:11:46 | [developermp.grimley-spectrum](https://marketplace.visualstudio.com/items?itemName=developermp.grimley-spectrum) | Grimley Spectrum | 0.5.0 | Midnight Violet: a consistent dark VS Code interface with distinct language-spe… |
+| 2026-10-11 14:18:45 | [fefeding.vscode-aicmd](https://marketplace.visualstudio.com/items?itemName=fefeding.vscode-aicmd) | AICmd Terminal | 0.1.2 | AI 驱动的 Web SSH 终端：SSH/本地终端、AI Agent、技能系统、命令审计、日志监控、批量操作与文件传输，全部在 VSCode 内运行。 |
+| 2026-10-11 14:36:13 | [Gursukh.nnef-syntax](https://marketplace.visualstudio.com/items?itemName=Gursukh.nnef-syntax) | NNEF Syntax Highlighting | 0.1.0 | Syntax highlighting, snippets and editor support for Khronos NNEF (Neural Netwo… |
+| 2026-10-11 14:50:27 | [Feiyang472.fadetop](https://marketplace.visualstudio.com/items?itemName=Feiyang472.fadetop) | FadeTop | 0.2.2 | Real-time visualiser for Python stack samples, powered by py-spy. |
+| 2026-10-11 14:51:44 | [Inflector.inflector-lux](https://marketplace.visualstudio.com/items?itemName=Inflector.inflector-lux) | Lux Framework | 0.1.0 | Syntax highlighting and IntelliSense for Lux (.lx) components |
+| 2026-10-11 15:01:56 | [MYFSillyBa.stm32-project-helper](https://marketplace.visualstudio.com/items?itemName=MYFSillyBa.stm32-project-helper) | STM32 工程助手 | 1.0.3 | STM32 本地工程工具：CubeMX Keil MDK-ARM/CMake 双向转换、ARM GCC 环境检测、VS Code 一键编译与 DAPLink… |
+| 2026-10-11 15:02:24 | [dev-first.dev-first](https://marketplace.visualstudio.com/items?itemName=dev-first.dev-first) | Dev-First | 0.1.0 | Plan-first AI coding agent — every request becomes a plan you approve before a… |
+| 2026-10-11 15:15:28 | [aseel1.agent-changes](https://marketplace.visualstudio.com/items?itemName=aseel1.agent-changes) | Agent Changes | 0.15.0 | See each Claude Code agent's changes as its own group in Source Control, on one… |
 
 ## Data source
 
