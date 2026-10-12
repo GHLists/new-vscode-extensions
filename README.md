@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 09:19 UTC
+## Latest list — 2026-10-12 10:20 UTC
 
-New extensions published between 2026-10-12 07:19 UTC and 2026-10-12 09:19 UTC.
+New extensions published between 2026-10-12 08:20 UTC and 2026-10-12 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T09-19-09-306648Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T10-20-36-85939Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 08:29:55 | [CifroArts.cifroarts-csharp-devkit-extended](https://marketplace.visualstudio.com/items?itemName=CifroArts.cifroarts-csharp-devkit-extended) | C# Dev Kit Extended by CifroArts | 1.0.0 | Add-ons to C# Dev Kit for working with C# projects |
-| 2026-10-12 08:41:26 | [nox-lang.noxlang](https://marketplace.visualstudio.com/items?itemName=nox-lang.noxlang) | Nox Programming Language | 0.1.0 | Nox language support: syntax highlighting and a language-server client (noxlsp:… |
-| 2026-10-12 08:43:39 | [proofpulse.proofpulse-vscode](https://marketplace.visualstudio.com/items?itemName=proofpulse.proofpulse-vscode) | ProofPulse | 0.1.0 | Dafny proof coverage analysis for VSCode — inline coverage decorations, gutter… |
-| 2026-10-12 09:02:15 | [greengoldlang.greengold-vscode](https://marketplace.visualstudio.com/items?itemName=greengoldlang.greengold-vscode) | Greengold Language Support | 0.19.1 | Full IDE experience for Greengold (.gg): LSP, Test Explorer, CodeLens, native d… |
+| 2026-10-12 09:26:44 | [liumin.onetouch](https://marketplace.visualstudio.com/items?itemName=liumin.onetouch) | OneTouch | 0.1.6 | Quick prompt buttons for VS Code — one-click copy of preset prompts |
+| 2026-10-12 09:30:06 | [jchrist.graphima](https://marketplace.visualstudio.com/items?itemName=jchrist.graphima) | Graphima | 0.0.2 | Git history graph: commit lanes, branches and tags, file diff, squash, reword,… |
+| 2026-10-12 09:34:21 | [HanMaXiao.commands-manager](https://marketplace.visualstudio.com/items?itemName=HanMaXiao.commands-manager) | 命令管理者 - Commands Manager | 0.3.0 | 一键启动项目开发命令，支持包管理器自动识别和批量启动 |
+| 2026-10-12 09:49:08 | [PrashantAgarwal.omnipy](https://marketplace.visualstudio.com/items?itemName=PrashantAgarwal.omnipy) | OmniPy | 0.0.1 | Omniscient Python testing: real-time test execution, inline runtime values, and… |
+| 2026-10-12 10:15:28 | [fqix.sshx-studio](https://marketplace.visualstudio.com/items?itemName=fqix.sshx-studio) | SSHX Studio | 0.1.0 | SSH hosts with a terminal + SFTP file manager in one tab, port forwarding (-L /… |
 
 ## Data source
 

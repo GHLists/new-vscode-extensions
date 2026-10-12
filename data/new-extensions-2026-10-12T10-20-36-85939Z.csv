@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T09:26:44.863Z,liumin.onetouch,liumin,OneTouch,0.1.6,Quick prompt buttons for VS Code — one-click copy of preset prompts
+2026-10-12T09:30:06.627Z,jchrist.graphima,jchrist,Graphima,0.0.2,"Git history graph: commit lanes, branches and tags, file diff, squash, reword, drop, rebase."
+2026-10-12T09:34:21.977Z,HanMaXiao.commands-manager,HanMaXiao,命令管理者 - Commands Manager,0.3.0,一键启动项目开发命令，支持包管理器自动识别和批量启动
+2026-10-12T09:49:08.31Z,PrashantAgarwal.omnipy,PrashantAgarwal,OmniPy,0.0.1,"Omniscient Python testing: real-time test execution, inline runtime values, and zero-breakpoint time-travel debugging"
+2026-10-12T10:15:28.397Z,fqix.sshx-studio,fqix,SSHX Studio,0.1.0,"SSH hosts with a terminal + SFTP file manager in one tab, port forwarding (-L / -R), ProxyJump / ProxyCommand. Hosts are stored in a local SQLite database, secrets in the OS keychain."
