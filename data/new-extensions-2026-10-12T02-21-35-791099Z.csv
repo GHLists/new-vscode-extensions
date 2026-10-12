@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T01:21:41.827Z,Abidghods.dbml-diagrams,Abidghods,DBML Diagrams,0.1.0,Open DBML files as interactive database diagrams with the DBML Diagrams Rust parser.
+2026-10-12T01:24:37.097Z,het8023.mdn-search-zh,het8023,MDN Search 中文,0.3.0,在 VS Code 中快速搜索 CSS、JavaScript、Web API、HTML 等 MDN 文档。
+2026-10-12T01:38:36.583Z,moulo.tiangz-developer-tools,moulo,TiangZ Developer Tools,0.16.4,TiangZ Process、Scene、协议导航、运行与 TypeScript 调试工具
+2026-10-12T01:38:51.903Z,moulo.tiangz-native-language,moulo,TiangZ Native Language,0.16.4,为 TiangZ .native Entity 与 Native op schema 提供中文语言支持
+2026-10-12T01:56:01.75Z,PauloooSNP.caveman-commit,PauloooSNP,Caveman Commit,0.5.2,Gera e copia mensagens de commit em pt-BR com Codex CLI ou Claude Code CLI.
+2026-10-12T02:03:17.74Z,dri-water.observe-agents-do-things,dri-water,Observe Agents: live view of Claude Code and Codex,0.1.0,"Watch your Claude Code and Codex agents work in real time, right in VS Code. Read-only: no hooks, no wrappers, no API keys."
+2026-10-12T02:17:07.533Z,ingchips-vsc.ingvsc,ingchips-vsc,INGCHIPS BLE Development,0.7.2,"One-stop development environment for INGCHIPS BLE50 chips (ING916/ING918): project creation, Keil build/rebuild, target/bundle switching, Rust-driven high-speed flash, and SDK management."
+2026-10-12T02:17:19.313Z,MadPenWin.MadPenWin,MadPenWin,MadPenWin,0.1.6,Your AI Companion For VSCode
