@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T06:24:24.52Z,Nu-Pie.compass-router,Nu-Pie,Compass Router,0.1.0,"AI coding assistant with team-managed model access, project tracking, and unified Credits."
+2026-10-12T06:26:07.337Z,andenore.copperscript,andenore,CopperScript,0.3.0,"CopperScript language server and source-authoritative mechanical editor, using a selected local compiler"
+2026-10-12T06:26:23.517Z,takagamba.markdown-wysiwyg-pdf,takagamba,Markdown WYSIWYG + PDF,0.1.0,"Edit Markdown as it looks, in the same tab (Typora-like). Keeps your original formatting, with read-only mode and PDF export. / Markdown を見たまま同じタブで編集。閲覧モードと PDF 出力に対応。"
+2026-10-12T06:28:50.753Z,newplayerxu.8086-lab-debug,newplayerxu,8086 Lab: MASM/TASM Debugger,0.2.0,"Step through 16-bit MASM/TASM machine code with registers, flags, memory and stack in VS Code."
+2026-10-12T06:30:52.393Z,yunn030123.ui-feedback,yunn030123,redpen — UI Markup,0.1.9,"Annotate screenshots, sketch UI changes, and export clear instructions for your coding agent."
+2026-10-12T06:47:40.96Z,AIC.codevistafci,AIC,New CodeVista - AI Coding Assistant,1.5.6,From Code Assistant to AI Teammate
+2026-10-12T06:51:25.84Z,jupyterv-snippet.jupyter-v-snippets,jupyterv-snippet,Jupyter V Snippets,0.0.2,Jupyter Python
+2026-10-12T06:55:25.157Z,sanwal-mehmood.json-grid-vscode,sanwal-mehmood,JSON Grid,0.1.0,"View JSON as nested, expandable tables with GridSync and CSV export."
