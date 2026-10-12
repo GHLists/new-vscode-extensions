@@ -12,19 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-11 23:20 UTC
+## Latest list — 2026-10-12 00:19 UTC
 
-New extensions published between 2026-10-11 21:20 UTC and 2026-10-11 23:20 UTC.
+New extensions published between 2026-10-11 22:19 UTC and 2026-10-12 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-11T23-20-17-465304Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T00-19-48-095949Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 22:31:48 | [patch-tutor.patch-tutor](https://marketplace.visualstudio.com/items?itemName=patch-tutor.patch-tutor) | Patch Tutor | 0.1.1 | Turns your git changes into short lessons: inline explanations and quizzes on t… |
-| 2026-10-11 22:33:15 | [delbi76.softone-vscode](https://marketplace.visualstudio.com/items?itemName=delbi76.softone-vscode) | SoftOne-VSCode | 0.7.6 | Standalone AdvancedJS and Form Script synchronization with SoftOne. |
-| 2026-10-11 22:59:09 | [HemantBanke.tex-side-preview](https://marketplace.visualstudio.com/items?itemName=HemantBanke.tex-side-preview) | TeX Side Preview | 1.0.0 | Overleaf-style side-by-side LaTeX preview with SyncTeX, plus two-way Overleaf s… |
-| 2026-10-11 23:11:06 | [NetClaw.netclaw](https://marketplace.visualstudio.com/items?itemName=NetClaw.netclaw) | NetClaw | 0.1.1 | Manage existing NetClaw and Risk installations from Visual Studio Code. |
-| 2026-10-11 23:13:34 | [OpcodeASM.informant](https://marketplace.visualstudio.com/items?itemName=OpcodeASM.informant) | Informant | 1.0.0 | A self-contained Inform development environment for Visual Studio Code. |
+| 2026-10-11 23:31:10 | [okidev.coagent8-mcp](https://marketplace.visualstudio.com/items?itemName=okidev.coagent8-mcp) | CoAgent8 - MCP bridge to coding CLIs | 0.6.0 | Ask Codex, Claude Code and Antigravity for second opinions and Git reviews from… |
 
 ## Data source
 
