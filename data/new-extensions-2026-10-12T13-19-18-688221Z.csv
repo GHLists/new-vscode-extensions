@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T12:16:40.22Z,xulbux.theme-isolux,xulbux,Isolux Theme,1.0.0,"Calm dark and light themes with clear, semantic syntax colors."
+2026-10-12T12:30:09.517Z,janibert.flisp-asm,janibert,FLISP Assembly,0.4.0,"Syntax highlighting and assembling (with the bundled qaflisp) for FLISP (FLexible Instruction Set Processor) assembly, as used with DigiFlisp."
+2026-10-12T12:35:23.9Z,kinnethjavier.kinban,kinnethjavier,Kinban,0.9.0,"A simple Kanban board for VS Code to help you keep track of your tasks without leaving your editor. Organize your work, move tasks between columns, and see what needs to get done at a glance. Everything stays stored locally on your machine, so you can manage your tasks without relying on cloud servi"
+2026-10-12T12:35:52.7Z,Hatuos.angular-lens,Hatuos,Angular Lens,0.1.1,A lightweight way for staying up to date with Angular releases
+2026-10-12T12:47:49.473Z,HCui91.pdf-preview-dark,HCui91,PDF Preview Dark,0.1.1,Preview PDF files in dark colour schemes that keep plot colours readable. Works over Remote-SSH.
+2026-10-12T12:56:20.873Z,akshat009.semantic-a11y-snippets,akshat009,Semantic A11y Snippets,1.0.0,"Semantic, accessible HTML snippets: landmark page boilerplate, labelled forms, ARIA widgets and captioned media, plus a11y CSS and JS helpers."
+2026-10-12T12:57:09.783Z,dannysteenman.iam-policy-debugger,dannysteenman,AWS IAM Policy Debugger,0.1.0,"Validate AWS IAM policies, debug access decisions and run regression scenarios in VS Code."
+2026-10-12T12:59:07.973Z,digital-cover.gulp-for-vscode,digital-cover,Gulp for VS Code,0.2.4,"Liste les tâches Gulp, les lance, les arrête et les relance, avec un statut clair."
+2026-10-12T13:01:52.703Z,OpenCodeV2Community.opencode-v2-community-terminal,OpenCodeV2Community,OpenCode V2 Community Terminal,0.1.0,Use the OpenCode V2 terminal interface directly inside Visual Studio Code.
+2026-10-12T13:04:06.943Z,castle-bird.for-websquare5,castle-bird,ForWebsquare5,1.0.0,VS Code에서 WebSquare5 에디터를 사용할 수 있게 해주는 비공식 확장
+2026-10-12T13:09:48.31Z,Shivambuilds.mochi-buddy,Shivambuilds,Mochi - Tiny AI Coding Buddy,1.9.0,"A tiny, big-headed AI buddy who floats in the corner of your editor. She faces your code while you type, follows your mouse with her eyes, and tells you in a sweet voice whether your code looks right."
+2026-10-12T13:09:52.703Z,mackans95.markdown-toc-sidebar,mackans95,Markdown TOC Sidebar,0.1.0,Shows a table of contents sidebar inside the built-in Markdown preview.
