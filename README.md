@@ -12,23 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 15:22 UTC
+## Latest list — 2026-10-12 16:21 UTC
 
-New extensions published between 2026-10-12 13:22 UTC and 2026-10-12 15:22 UTC.
+New extensions published between 2026-10-12 14:21 UTC and 2026-10-12 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T15-22-38-798213Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T16-21-00-656237Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 14:19:54 | [OmkarPramodBandikatte.provenyx-security](https://marketplace.visualstudio.com/items?itemName=OmkarPramodBandikatte.provenyx-security) | Provenyx Security | 0.1.1 | Software dependency trust and supply-chain security analysis |
-| 2026-10-12 14:20:29 | [baby-blue-studio.baby-blue-breeze](https://marketplace.visualstudio.com/items?itemName=baby-blue-studio.baby-blue-breeze) | Baby Blue Breeze | 1.0.5 | A light baby blue theme with readable code colors, coordinated diff and merge v… |
-| 2026-10-12 14:27:01 | [sindresorhus.soml](https://marketplace.visualstudio.com/items?itemName=sindresorhus.soml) | SOML | 0.0.1 | SOML language support with validation, formatting, navigation, and precise valu… |
-| 2026-10-12 14:37:48 | [MBKDevStudio.nightdocs](https://marketplace.visualstudio.com/items?itemName=MBKDevStudio.nightdocs) | Nightdocs | 0.1.0 | A lightweight, dark-first, view-only viewer for Word and Excel files. |
-| 2026-10-12 14:41:09 | [MrPerfectH.semantic-model-viewer](https://marketplace.visualstudio.com/items?itemName=MrPerfectH.semantic-model-viewer) | Semantic Model Viewer | 0.3.4 | Explore Power BI semantic models with a table workspace, relationship filters,… |
-| 2026-10-12 14:44:39 | [devchan64.vscode-image-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.vscode-image-editor) | Pixel Layer Image Editor | 0.3.0 | A minimal image editor with magic wand selection, layers and history. |
-| 2026-10-12 14:46:43 | [embedded-sw.arxplorer](https://marketplace.visualstudio.com/items?itemName=embedded-sw.arxplorer) | ARXplorer | 1.0.0 | ARXML Explorer & Analyzer - semantic AUTOSAR ARXML navigation for VS Code |
-| 2026-10-12 14:56:56 | [QivioAPI.qivio-ai-assistant](https://marketplace.visualstudio.com/items?itemName=QivioAPI.qivio-ai-assistant) | Qivio AI Assistant & Agent | 1.0.0 | Trợ lý AI & Autonomous Coding Agent cho VS Code, tích hợp cổng QivioAPI (Dual E… |
-| 2026-10-12 15:07:17 | [SoniyaBJ.previsx](https://marketplace.visualstudio.com/items?itemName=SoniyaBJ.previsx) | PreVisX | 0.1.0 | Project Readiness & Environment Verification System |
+| 2026-10-12 15:23:00 | [nimblescape.nimblescape-markdown-comment-links](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-markdown-comment-links) | nimblescape Markdown Comment Links | 0.1.3 | Clickable Markdown links in code comments that open at the named heading. |
+| 2026-10-12 15:23:18 | [rodiumai.rodiumai-code](https://marketplace.visualstudio.com/items?itemName=rodiumai.rodiumai-code) | RodiumAi Code | 1.0.0 | RodiumAi Code, the coding agent for VS Code and Cursor: the full RodiumAi Code… |
+| 2026-10-12 15:25:11 | [alcyon-dev.auto-push-tags](https://marketplace.visualstudio.com/items?itemName=alcyon-dev.auto-push-tags) | Auto Push Tags | 0.1.0 | Asks whether to push a Git tag to the remote right after you create it. |
+| 2026-10-12 15:36:21 | [KANAKPRABHAKAR.punarnava](https://marketplace.visualstudio.com/items?itemName=KANAKPRABHAKAR.punarnava) | Punarnava — Old Java to Modern Java (Le… | 1.0.0 | Turn old Java (public static void main, Scanner, colon switch) into modern Java… |
+| 2026-10-12 15:48:21 | [Ariyan.Velvet-Pro](https://marketplace.visualstudio.com/items?itemName=Ariyan.Velvet-Pro) | Velvet Pro | 1.0.0 | A refined, warm-dark theme featuring deep charcoal tones and subtle crimson acc… |
+| 2026-10-12 15:51:14 | [ReadyStack.proxmox-migration-check-vmware-vsphere-licence-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.proxmox-migration-check-vmware-vsphere-licence-gate) | Proxmox Migration Check: VMware vSphere… | 1.0.0 | Maps every VMware vSphere dependency in Terraform, Packer and Ansible files (vs… |
+| 2026-10-12 15:51:52 | [ReadyStack.grundsteuer-anzeige-fristen-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.grundsteuer-anzeige-fristen-check) | Grundsteuer Fristen-Check für Objektlis… | 1.0.8 | Prüft Objekt-Änderungslisten (CSV) auf Grundsteuer-Anzeigefristen: § 228 BewG (… |
+| 2026-10-12 15:52:11 | [ReadyStack.gtags-workspace-config-kit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gtags-workspace-config-kit) | GNU GLOBAL (gtags) Workspace Setup Kit | 0.1.5 | 46 config snippets, 26 audit rules, 8 setups in one extension — because one abs… |
+| 2026-10-12 15:52:23 | [ReadyStack.haken-keiyaku-kisai-lint-jp](https://marketplace.visualstudio.com/items?itemName=ReadyStack.haken-keiyaku-kisai-lint-jp) | 派遣契約書チェック — 個別契約・就業条件明示書 | 1.0.9 | 労働者派遣の個別契約書と就業条件明示書の下書き(.md/.txt)を、派遣法26条1項・施行規則22条・34条の記載事項と照らし、抜けている項目を行番号つきで… |
+| 2026-10-12 16:00:53 | [heineiuo.notes-vscode](https://marketplace.visualstudio.com/items?itemName=heineiuo.notes-vscode) | Notes for VS Code | 0.0.9 | Browse dated notes Markdown files in a movable Explorer section. |
+| 2026-10-12 16:00:56 | [icaro0310.devin-doctor](https://marketplace.visualstudio.com/items?itemName=icaro0310.devin-doctor) | devin-doctor | 0.1.0 | Ecosystem health checks from devin-doctor, inside the editor. Thin adapter: the… |
+| 2026-10-12 16:04:51 | [fehrlich.pydebugscope](https://marketplace.visualstudio.com/items?itemName=fehrlich.pydebugscope) | PyDebugScope | 0.1.0 | Visualize numpy / torch / jax / tensorflow arrays as signals, images and histog… |
+| 2026-10-12 16:12:45 | [H9elix.c-insight](https://marketplace.visualstudio.com/items?itemName=H9elix.c-insight) | C Insight | 0.22.20 | Source Insight-style C/C++ navigation powered by clangd or Microsoft C/C++. |
 
 ## Data source
 
