@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T20:25:58.647Z,ReadyStack.cyanotype-theme,ReadyStack,"Cyanotype Theme — Sun-printed blue, tea-toned brown and cotton paper",1.0.0,"Sun-printed blue, tea-toned brown and cotton paper. Cyanotype is the old sun-print: paper brushed with iron salts, laid under the sky, washed to Prussian blue, sometimes toned brown in tea. Every code colour measured: body text WCAG AAA, comments inc"
+2026-10-12T20:35:48.687Z,alidendenne.echo-local-ai,alidendenne,Echo Local AI Code Assistant,1.0.0,Local AI coding assistant
+2026-10-12T20:54:51.003Z,Zelvory.offline-coder,Zelvory,OfflineCoder,0.1.1,"Offline coding assistant with workspace retrieval, running Qwen2.5-Coder locally via llama.cpp."
+2026-10-12T20:58:01.627Z,agaura3.devtracr,agaura3,DevTracr,0.2.0,"Logs your coding time to DevTracr automatically, per project and language. No code ever leaves your editor."
+2026-10-12T21:03:14.633Z,robervx.tokenvisillo,robervx,TokenVisillo,0.1.0,"The nosy neighbour behind the curtain: a context meter and token-saving coach for Claude Code and Codex, with advice drawn from your own sessions."
