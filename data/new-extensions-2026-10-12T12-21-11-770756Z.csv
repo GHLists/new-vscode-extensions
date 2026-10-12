@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T11:22:54.483Z,TheRealHanschu.diffstat,TheRealHanschu,Diffstat,0.2.0,"Lines added and removed since your last commit, with green/red diffstat bars right in the Source Control tab."
+2026-10-12T11:35:54.34Z,dev-subhash.michi-dev,dev-subhash,MICHI — Idea to Software,0.2.0,"MICHI — turn an idea into requirements, decisions, architecture and a precise brief for your AI coding agent. Local-first, no API key, works with Claude Code, Cursor, Copilot, Codex, Zed and more."
+2026-10-12T11:37:57.32Z,dannysteenman.cloudburn-vscode,dannysteenman,CloudBurn — AWS Cost Checks,0.1.0,"Catch AWS cost waste in Terraform and CloudFormation before you commit, using the CloudBurn CLI."
+2026-10-12T11:56:13.767Z,ITSARMEN.svg-view-edit,ITSARMEN,SVG View & Edit,1.0.0,"View and edit SVG files side by side: editable SVG source on the left with a live image preview on the right, so you never have to rename a .svg to .xml just to change it."
+2026-10-12T11:56:41.103Z,ITSARMEN.md-file-viewer,ITSARMEN,MD File Viewer,1.0.0,"View and edit Markdown in a full custom editor with a WYSIWYG surface, GitHub-style (GFM) preview, view/edit switcher and live status bar."
+2026-10-12T11:58:11.08Z,thinkmine.kobo-language-support,thinkmine,Kobo,0.1.7,"Language support for Kobo, powered by the Kobo language server."
+2026-10-12T12:01:11.983Z,solvaholic.markdown-loom,solvaholic,Markdown Loom,0.4.3,Plain-markdown note taking with wikilinks and backlinks.
+2026-10-12T12:01:33.027Z,useful-finds-daily.today-in-tech-history,useful-finds-daily,Today in Tech History,1.0.0,"Daily verified historical technology milestones, computing breakthroughs, and primary sources in your status bar."
+2026-10-12T12:08:41.463Z,asiakochen.asia-kochen-guide,asiakochen,Asia Kochen - Wok & Recipe Guide,1.0.0,"Authentische asiatische Rezepte, Wok-Garstufen, Saucenprofile und Zutatenwissen für Entwickler."
+2026-10-12T12:09:53.097Z,CollinsChimbganda24.aiw-extension,CollinsChimbganda24,DevRelay,0.0.1,"Switch AI coding agents without losing your place. Shared task state, decisions and one-click handoffs between Claude Code, Codex and Copilot."
+2026-10-12T12:10:58.2Z,FelipeMagalhaes.scrolllock-cursor,FelipeMagalhaes,Scroll Lock Cursor Color,1.0.0,Changes the cursor color when Scroll Lock is toggled.
+2026-10-12T12:12:39.947Z,WaldekP.jsonconfigviewer,WaldekP,JSONConfigViewer,0.8.0,"Visual YAML and JSON configuration editor with schema-aware forms, inline lists, and multiline fields"
+2026-10-12T12:14:04.39Z,piotroszko.github-desktop-plus,piotroszko,GitHub Desktop Plus,1.9.0,"GitHub Desktop Plus brings GitHub Desktop's complete workflow to VS Code: staged/unstaged change sections, a commit box with draft persistence, branch and sync controls, conflict resolution, stashes and multi-account support."
