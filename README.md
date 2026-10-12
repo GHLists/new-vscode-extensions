@@ -12,26 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 13:19 UTC
+## Latest list — 2026-10-12 14:19 UTC
 
-New extensions published between 2026-10-12 11:19 UTC and 2026-10-12 13:19 UTC.
+New extensions published between 2026-10-12 12:19 UTC and 2026-10-12 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T13-19-18-688221Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T14-19-47-887338Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 12:16:40 | [xulbux.theme-isolux](https://marketplace.visualstudio.com/items?itemName=xulbux.theme-isolux) | Isolux Theme | 1.0.0 | Calm dark and light themes with clear, semantic syntax colors. |
-| 2026-10-12 12:30:09 | [janibert.flisp-asm](https://marketplace.visualstudio.com/items?itemName=janibert.flisp-asm) | FLISP Assembly | 0.4.0 | Syntax highlighting and assembling (with the bundled qaflisp) for FLISP (FLexib… |
-| 2026-10-12 12:35:23 | [kinnethjavier.kinban](https://marketplace.visualstudio.com/items?itemName=kinnethjavier.kinban) | Kinban | 0.9.0 | A simple Kanban board for VS Code to help you keep track of your tasks without… |
-| 2026-10-12 12:35:52 | [Hatuos.angular-lens](https://marketplace.visualstudio.com/items?itemName=Hatuos.angular-lens) | Angular Lens | 0.1.1 | A lightweight way for staying up to date with Angular releases |
-| 2026-10-12 12:47:49 | [HCui91.pdf-preview-dark](https://marketplace.visualstudio.com/items?itemName=HCui91.pdf-preview-dark) | PDF Preview Dark | 0.1.1 | Preview PDF files in dark colour schemes that keep plot colours readable. Works… |
-| 2026-10-12 12:56:20 | [akshat009.semantic-a11y-snippets](https://marketplace.visualstudio.com/items?itemName=akshat009.semantic-a11y-snippets) | Semantic A11y Snippets | 1.0.0 | Semantic, accessible HTML snippets: landmark page boilerplate, labelled forms,… |
-| 2026-10-12 12:57:09 | [dannysteenman.iam-policy-debugger](https://marketplace.visualstudio.com/items?itemName=dannysteenman.iam-policy-debugger) | AWS IAM Policy Debugger | 0.1.0 | Validate AWS IAM policies, debug access decisions and run regression scenarios… |
-| 2026-10-12 12:59:07 | [digital-cover.gulp-for-vscode](https://marketplace.visualstudio.com/items?itemName=digital-cover.gulp-for-vscode) | Gulp for VS Code | 0.2.4 | Liste les tâches Gulp, les lance, les arrête et les relance, avec un statut cla… |
-| 2026-10-12 13:01:52 | [OpenCodeV2Community.opencode-v2-community-terminal](https://marketplace.visualstudio.com/items?itemName=OpenCodeV2Community.opencode-v2-community-terminal) | OpenCode V2 Community Terminal | 0.1.0 | Use the OpenCode V2 terminal interface directly inside Visual Studio Code. |
-| 2026-10-12 13:04:06 | [castle-bird.for-websquare5](https://marketplace.visualstudio.com/items?itemName=castle-bird.for-websquare5) | ForWebsquare5 | 1.0.0 | VS Code에서 WebSquare5 에디터를 사용할 수 있게 해주는 비공식 확장 |
-| 2026-10-12 13:09:48 | [Shivambuilds.mochi-buddy](https://marketplace.visualstudio.com/items?itemName=Shivambuilds.mochi-buddy) | Mochi - Tiny AI Coding Buddy | 1.9.0 | A tiny, big-headed AI buddy who floats in the corner of your editor. She faces… |
-| 2026-10-12 13:09:52 | [mackans95.markdown-toc-sidebar](https://marketplace.visualstudio.com/items?itemName=mackans95.markdown-toc-sidebar) | Markdown TOC Sidebar | 0.1.0 | Shows a table of contents sidebar inside the built-in Markdown preview. |
+| 2026-10-12 13:25:49 | [opencraw.opencraw](https://marketplace.visualstudio.com/items?itemName=opencraw.opencraw) | OpenCraw | 0.0.2 | OpenCraw in the editor: starts the Studio server and opens a folder, recipe or… |
+| 2026-10-12 13:34:15 | [RobKeys.workbench-wallpaper](https://marketplace.visualstudio.com/items?itemName=RobKeys.workbench-wallpaper) | workbench-wallpaper | 4.0.1 | Show one full-opacity image behind the VS Code workbench. |
+| 2026-10-12 13:34:23 | [adeploy.b1-devkit](https://marketplace.visualstudio.com/items?itemName=adeploy.b1-devkit) | B1 DevKit for SAP Business One | 0.2.2 | Build, debug and design SAP Business One desktop add-ons in VS Code: run them i… |
+| 2026-10-12 13:40:22 | [RobKeys.live-markdown-pane](https://marketplace.visualstudio.com/items?itemName=RobKeys.live-markdown-pane) | Live Markdown Pane Editor | 0.1.0 | Edit Markdown in a rendered VS Code pane with source mode, local settings, and… |
+| 2026-10-12 13:54:00 | [nimblescape.nimblescape-devspaces](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-devspaces) | nimblescape Devspaces | 0.1.0 | Open your GitHub repositories in local dev containers with one action. |
+| 2026-10-12 13:55:08 | [wyan.embedded-sql-c-prettier](https://marketplace.visualstudio.com/items?itemName=wyan.embedded-sql-c-prettier) | IBM Embedded SQL C Prettier | 0.1.0 | Formats IBM Embedded SQL for C files (.sqc) with a lightweight formatter tuned… |
+| 2026-10-12 13:56:52 | [Upercat.cks-language](https://marketplace.visualstudio.com/items?itemName=Upercat.cks-language) | CKS (Imperivm scripts) | 0.1.1 | Unofficial community language support for Imperivm CKS scripts (.vs): highlight… |
+| 2026-10-12 13:57:38 | [nexkeys.sandbox-atlas](https://marketplace.visualstudio.com/items?itemName=nexkeys.sandbox-atlas) | Sandbox Atlas | 0.1.0 | Map any codebase in seconds: dependency graph, impact analysis and AI edit plan… |
+| 2026-10-12 14:03:25 | [nimblescape.nimblescape-comment-markdown-links](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-comment-markdown-links) | nimblescape Comment Markdown Links | 0.1.0 | Clickable Markdown links in code comments that open at the named heading. |
+| 2026-10-12 14:05:55 | [ichir0roie.claude-usage-statusbar-gauge](https://marketplace.visualstudio.com/items?itemName=ichir0roie.claude-usage-statusbar-gauge) | Claude Usage Statusbar Gauge | 0.0.1 | Gauges for your Claude Code rate limits in the status bar and the sidebar. Unof… |
 
 ## Data source
 

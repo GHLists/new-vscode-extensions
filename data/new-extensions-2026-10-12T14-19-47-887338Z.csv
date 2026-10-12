@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T13:25:49.667Z,opencraw.opencraw,opencraw,OpenCraw,0.0.2,"OpenCraw in the editor: starts the Studio server and opens a folder, recipe or document in the browser."
+2026-10-12T13:34:15.897Z,RobKeys.workbench-wallpaper,RobKeys,workbench-wallpaper,4.0.1,Show one full-opacity image behind the VS Code workbench.
+2026-10-12T13:34:23.963Z,adeploy.b1-devkit,adeploy,B1 DevKit for SAP Business One,0.2.2,"Build, debug and design SAP Business One desktop add-ons in VS Code: run them in the client, edit .b1f and .srf forms in a visual designer with a live preview."
+2026-10-12T13:40:22.61Z,RobKeys.live-markdown-pane,RobKeys,Live Markdown Pane Editor,0.1.0,"Edit Markdown in a rendered VS Code pane with source mode, local settings, and document sync."
+2026-10-12T13:54:00.233Z,nimblescape.nimblescape-devspaces,nimblescape,nimblescape Devspaces,0.1.0,Open your GitHub repositories in local dev containers with one action.
+2026-10-12T13:55:08.697Z,wyan.embedded-sql-c-prettier,wyan,IBM Embedded SQL C Prettier,0.1.0,Formats IBM Embedded SQL for C files (.sqc) with a lightweight formatter tuned for EXEC SQL statements.
+2026-10-12T13:56:52.447Z,Upercat.cks-language,Upercat,CKS (Imperivm scripts),0.1.1,"Unofficial community language support for Imperivm CKS scripts (.vs): highlighting, diagnostics, completion, hover and signature help."
+2026-10-12T13:57:38.123Z,nexkeys.sandbox-atlas,nexkeys,Sandbox Atlas,0.1.0,"Map any codebase in seconds: dependency graph, impact analysis and AI edit plans. Local-first, works offline with Ollama."
+2026-10-12T14:03:25.78Z,nimblescape.nimblescape-comment-markdown-links,nimblescape,nimblescape Comment Markdown Links,0.1.0,Clickable Markdown links in code comments that open at the named heading.
+2026-10-12T14:05:55.623Z,ichir0roie.claude-usage-statusbar-gauge,ichir0roie,Claude Usage Statusbar Gauge,0.0.1,Gauges for your Claude Code rate limits in the status bar and the sidebar. Unofficial; reads what the claude CLI reports.
