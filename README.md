@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 03:20 UTC
+## Latest list — 2026-10-12 04:20 UTC
 
-New extensions published between 2026-10-12 01:20 UTC and 2026-10-12 03:20 UTC.
+New extensions published between 2026-10-12 02:20 UTC and 2026-10-12 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T03-20-50-374323Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T04-20-00-868321Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 02:47:28 | [ruansbueno.visor-for-ai-devs](https://marketplace.visualstudio.com/items?itemName=ruansbueno.visor-for-ai-devs) | Visor - for AI devs | 0.1.1 | Mostra a execução de agentes do Claude Code como um grafo de nodes. |
-| 2026-10-12 02:56:43 | [arpuuk.spatial-explorer](https://marketplace.visualstudio.com/items?itemName=arpuuk.spatial-explorer) | Spatial Explorer: Spatial SQL & Map Vie… | 0.1.0 | Open a geospatial file and see it on a map and in a table, without opening a de… |
-| 2026-10-12 03:09:36 | [MasonHuang.stale-window-cleaner](https://marketplace.visualstudio.com/items?itemName=MasonHuang.stale-window-cleaner) | Stale Window Cleaner | 0.0.9 | Safely detects stale VS Code workspace windows and optionally closes them. |
-| 2026-10-12 03:10:07 | [juanma-aguero.code-flow-explorer](https://marketplace.visualstudio.com/items?itemName=juanma-aguero.code-flow-explorer) | Code Flow Explorer | 0.1.1 | Step through the logical flow of TypeScript, JavaScript and Go code without run… |
+| 2026-10-12 03:20:51 | [jaytankdev.portclash](https://marketplace.visualstudio.com/items?itemName=jaytankdev.portclash) | PortClash: Find Port Conflicts Across C… | 0.1.0 | Finds "port already in use" before you run anything: collects every declared po… |
+| 2026-10-12 03:34:03 | [petrichoral.idea-git-log](https://marketplace.visualstudio.com/items?itemName=petrichoral.idea-git-log) | IDEA Git Log | 0.0.25 | A focused Git log view with branches, commit graph, and commit details. No AI f… |
+| 2026-10-12 03:51:03 | [ReadyStack.arangodb-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.arangodb-migration-check) | ArangoDB Migration Check: Neo4j End-of-… | 1.0.0 | Moving off Neo4j? Finds every Neo4j image, enterprise licence line, driver and… |
+| 2026-10-12 03:51:23 | [ReadyStack.apache-echarts-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.apache-echarts-migration-check) | Apache ECharts Migration: Highcharts Li… | 1.0.0 | Finds every Highcharts package, NuGet reference, import and CDN tag in package.… |
+| 2026-10-12 03:51:32 | [ReadyStack.codeberg-gitlab-anonymous-fetch-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.codeberg-gitlab-anonymous-fetch-lint) | Codeberg / GitLab.com Anonymous Fetch L… | 1.0.0 | Maps every token-less gitlab.com fetch in workflows, Dockerfiles, go.mod, requi… |
+| 2026-10-12 03:51:51 | [ReadyStack.swift-package-manager-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.swift-package-manager-migration-check) | Swift Package Manager Migration: CocoaP… | 1.0.0 | CocoaPods trunk turns read-only on 2026-12-02. Maps every Podfile and .podspec… |
 
 ## Data source
 
