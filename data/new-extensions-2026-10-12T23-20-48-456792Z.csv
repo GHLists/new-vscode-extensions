@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T22:17:36.83Z,NazmusSayad.makefmt,NazmusSayad,makefmt - Makefile Formatter,0.0.2,"Fast, safe Makefile formatter. Aligns assignments and line continuations, indents conditionals, and never touches recipes."
+2026-10-12T22:18:16.297Z,Zelvory.offline-coder-payload-runtime,Zelvory,OfflineCoder Payload (Runtime),0.1.1,Payload extension carrying the local llama.cpp CPU runtime for the chunked OfflineCoder distribution.
+2026-10-12T22:41:25.843Z,RadwanAlmsora.code-text-cleaner,RadwanAlmsora,Code & Text Cleaner,1.0.0,"One-click code & text cleaner: strip comments across 20+ languages, remove repeated blank lines, trim trailing spaces, eliminate invisible ghost characters, and transform text casing."
+2026-10-12T22:54:10.37Z,abhishekkundu25.turtle-language-server,abhishekkundu25,Turtle (RDF) — turtle-lsp,0.1.0,"Fast language support for RDF Turtle: diagnostics, completion, hover, navigation, rename and quick fixes."
+2026-10-12T22:55:26.547Z,Zelvory.offline-coder-payload-a,Zelvory,OfflineCoder Payload (A),0.1.1,Payload extension (chunk A) for OfflineCoder.
+2026-10-12T22:59:48.12Z,Zelvory.offline-coder-payload-b,Zelvory,OfflineCoder Payload (B),0.1.1,Payload extension (chunk B) for OfflineCoder.
+2026-10-12T23:04:14.387Z,Zelvory.offline-coder-pack,Zelvory,OfflineCoder Suite (all extensions),0.1.1,"Installs the complete OfflineCoder suite: local WebForms/C# assistant, workspace retrieval, test generation, code review, data access, docs, modernization, inline completion and commit messages."
+2026-10-12T23:06:05.483Z,Zelvory.offline-coder-payload-c,Zelvory,OfflineCoder Payload (C),0.1.1,Payload extension (chunk C) for OfflineCoder.
+2026-10-12T23:10:16.483Z,Zelvory.offline-coder-payload-d,Zelvory,OfflineCoder Payload (D),0.1.1,Payload extension (chunk D) for OfflineCoder.
+2026-10-12T23:12:28.353Z,bls.opencode-bls,bls,OpenCode BLS,1.0.0,Optimized OpenCode extension for VS Code with native OpenCode v2.x support
