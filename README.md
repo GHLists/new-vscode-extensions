@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 19:19 UTC
+## Latest list — 2026-10-12 20:20 UTC
 
-New extensions published between 2026-10-12 17:19 UTC and 2026-10-12 19:19 UTC.
+New extensions published between 2026-10-12 18:20 UTC and 2026-10-12 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T19-19-52-877939Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T20-20-49-4139Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 17:45:03 | [aiekick.cmakeparams](https://marketplace.visualstudio.com/items?itemName=aiekick.cmakeparams) | CMake Params | 0.1.8 | Editable CMakeCache view with user defined sections and widgets (combo, slider,… |
-| 2026-10-12 18:25:25 | [dr-opensource.launchwizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.launchwizard) | LaunchWizard | 0.2.0 | Pre-flight build check & 1-click shareable preview engine for vibe coders. Catc… |
-| 2026-10-12 18:32:58 | [aiekick.text-tooling](https://marketplace.visualstudio.com/items?itemName=aiekick.text-tooling) | Text Tooling | 0.0.3 | Line and identifier transformations on the current selection |
-| 2026-10-12 18:36:48 | [mroosioks.ide-test-feedback-vscode](https://marketplace.visualstudio.com/items?itemName=mroosioks.ide-test-feedback-vscode) | IDE Test Feedback for Moodle | 0.1.0 | Run your unit tests and submit the results to Moodle |
-| 2026-10-12 18:38:13 | [honey-the-codewitch.parsley-xbnf-lsp](https://marketplace.visualstudio.com/items?itemName=honey-the-codewitch.parsley-xbnf-lsp) | Parsley XBNF Language Provider | 1.0.0 | Highlighting and language support for Parsley's XBNF grammars: go to definition… |
-| 2026-10-12 18:46:14 | [mudassarsindoli.suggestmee](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.suggestmee) | SuggestMee | 0.1.0 | Explains why TypeScript and JavaScript code is broken, why it happens, and appl… |
-| 2026-10-12 19:01:09 | [jasnzhng.autograder-vscode](https://marketplace.visualstudio.com/items?itemName=jasnzhng.autograder-vscode) | Autograder.io in VSCode | 0.1.2 | Submit to autograder.io, browse results with clickable line numbers, and tie ea… |
-| 2026-10-12 19:05:19 | [AMD.amd-git-time-lapse-vscode](https://marketplace.visualstudio.com/items?itemName=AMD.amd-git-time-lapse-vscode) | Git Time-Lapse View | 1.1.2 | Git Time-Lapse View v1.1.2 — visual time-lapse viewer for file history in git r… |
-| 2026-10-12 19:10:01 | [JohannesTiefnig.tablify](https://marketplace.visualstudio.com/items?itemName=JohannesTiefnig.tablify) | Tablify | 0.1.0 | View and edit JSON and YAML lists and hashes of entries, and CSV files, as an i… |
+| 2026-10-12 19:19:07 | [MariuszCzyrnek.pvmanage](https://marketplace.visualstudio.com/items?itemName=MariuszCzyrnek.pvmanage) | PVmanage | 1.0.0 | Panel for PV voltage-reduction controllers (PVlowVoltage firmware): readings, s… |
+| 2026-10-12 19:28:08 | [flightcoders.veyra-port-manager](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-port-manager) | Veyra Port Manager | 1.0.0 | See every port in use and the app behind it: Vite, Next.js, Django, Postgres an… |
+| 2026-10-12 19:29:53 | [yaegerbomb42.omnexx](https://marketplace.visualstudio.com/items?itemName=yaegerbomb42.omnexx) | omnexx | 0.1.0 | Start omnexx coding-agent runs, let them work for hours, and watch their todo l… |
+| 2026-10-12 19:44:38 | [safira-moraes.sleepwalker](https://marketplace.visualstudio.com/items?itemName=safira-moraes.sleepwalker) | Sleepwalker | 0.1.2 | Close the lid, keep your AI agents running. Turns the screen off and keeps the… |
+| 2026-10-12 19:47:08 | [sarvam.sarvam-code](https://marketplace.visualstudio.com/items?itemName=sarvam.sarvam-code) | Sarvam Code | 0.0.13 | Run Sarvam Code inside VS Code. Chat with the agent, review diffs, and approve… |
+| 2026-10-12 19:50:02 | [MimikkAi.open-pdf-with-browser](https://marketplace.visualstudio.com/items?itemName=MimikkAi.open-pdf-with-browser) | Open PDF with Browser | 0.0.4 | Open PDF files in the integrated browser. |
+| 2026-10-12 19:51:13 | [arsw.arsw-claude-usage-bar](https://marketplace.visualstudio.com/items?itemName=arsw.arsw-claude-usage-bar) | Usage Bar for Claude | 1.0.0 | Your Claude Code 5-hour and weekly usage, always in VS Code's status bar |
+| 2026-10-12 19:54:09 | [Normahub.1c-bsl-ai-copilot](https://marketplace.visualstudio.com/items?itemName=Normahub.1c-bsl-ai-copilot) | 1C BSL AI Copilot (NormaHub) | 1.0.0 | Бесплатный AI-ассистент для разработчиков 1С:Предприятие (BSL) в VS Code и Curs… |
+| 2026-10-12 19:59:27 | [tuerss.tuerss-ai-agent](https://marketplace.visualstudio.com/items?itemName=tuerss.tuerss-ai-agent) | TuerSS AI Agent | 0.12.4 | The official TuerSS AI coding agent for VS Code: edits real files with a review… |
+| 2026-10-12 20:03:36 | [JacobCXDev.moxer-community](https://marketplace.visualstudio.com/items?itemName=JacobCXDev.moxer-community) | Moxer (Community) | 1.0.0 | Preserved Moxer colour themes and file icons, updated for current VS Code. Unof… |
+| 2026-10-12 20:08:17 | [mjethwa-streamlit.repochat](https://marketplace.visualstudio.com/items?itemName=mjethwa-streamlit.repochat) | RepoChat | 0.3.1 | Chat with the collaborators of the GitHub repository you have open. Share files… |
+| 2026-10-12 20:09:35 | [benmeador.stats-explorer-mcp](https://marketplace.visualstudio.com/items?itemName=benmeador.stats-explorer-mcp) | Stats Explorer MCP: Verified Statistics… | 1.1.0 | 14 statistics tools your AI assistant calls instead of guessing numbers: t-test… |
 
 ## Data source
 
