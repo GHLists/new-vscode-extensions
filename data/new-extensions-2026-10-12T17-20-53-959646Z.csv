@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T16:16:27.44Z,DuncanAviation.db2-workbench,DuncanAviation,DB2 Workbench,0.1.0,"Run SQL and stored procedures against IBM DB2 for i (AS/400) over ODBC, with a results grid, schema browser, ER diagrams and SQL formatting."
+2026-10-12T16:21:09.957Z,CoolBirdV.agent-tandem,CoolBirdV,"AgentTandem — Claude Code & Codex Chat, Code Review & Usage",0.1.2,"Chat with Claude Code and Codex, review code changes, restore checkpoints, resume conversations and track usage in VS Code."
+2026-10-12T16:23:33.943Z,mudassarsindoli.tudooo,mudassarsindoli,tudooo,0.1.0,"Find and manage forgotten TODO, FIXME, HACK, and XXX comments in your workspace."
+2026-10-12T16:34:49.693Z,mudassarsindoli.scooop,mudassarsindoli,Scooop,0.1.0,Scooop analyzes your project against user-defined rules and generates a detailed health & security report.
+2026-10-12T16:40:43.653Z,SoftForge.softforge-ui-designer,SoftForge,UI Designer,1.0.0,"Design user interfaces in VS Code: a Figma-class vector editor over a .design file in your repository, with the ud command line that gives Claude Code and scripts every editor command through the Figm"
+2026-10-12T16:42:31.313Z,talakbairam.noteroot,talakbairam,NoteRoot,0.1.0,"Notes in a folder you choose: a notes tree, a Quick Note box, tags and categories, and optional encrypted sync to GitHub."
+2026-10-12T16:56:47.897Z,jsabacinski.markdown-preview-wheel-zoom,jsabacinski,Markdown Preview Wheel Zoom,0.1.0,"Ctrl + scroll to zoom the built-in Markdown preview, like in a browser. Independent of window zoom, works with Foam, Mermaid and other preview extensions."
+2026-10-12T17:02:22.57Z,crudh.night-eagle,crudh,Night Eagle,0.0.1,"A maintained dark theme for night coding, based on Night Owl by Sarah Drasner."
+2026-10-12T17:07:58.373Z,codewrapper12.dsa-playback,codewrapper12,DSA Playback,1.0.0,"Watch your C# or Python solution run step by step — pointers sliding, lists rewiring, trees filling — and see why it has the complexity it has. Built for learning data structures and algorithms."
+2026-10-12T17:09:41.107Z,akdey.heyhuman,akdey,HeyHuman,1.1.1,Your AI is waiting. Permission required. Audible alerts when AI coding agents need your approval.
+2026-10-12T17:16:42.543Z,Castov.castov-vscode,Castov,Castov – Fast Developer Utilities,0.1.0,"Instant Unix timestamps, UUID v4/v7 generation, JWT decoding, Base64 converter, and timestamp hover tooltips right inside VS Code."

@@ -12,27 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 16:21 UTC
+## Latest list — 2026-10-12 17:20 UTC
 
-New extensions published between 2026-10-12 14:21 UTC and 2026-10-12 16:21 UTC.
+New extensions published between 2026-10-12 15:20 UTC and 2026-10-12 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T16-21-00-656237Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T17-20-53-959646Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 15:23:00 | [nimblescape.nimblescape-markdown-comment-links](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-markdown-comment-links) | nimblescape Markdown Comment Links | 0.1.3 | Clickable Markdown links in code comments that open at the named heading. |
-| 2026-10-12 15:23:18 | [rodiumai.rodiumai-code](https://marketplace.visualstudio.com/items?itemName=rodiumai.rodiumai-code) | RodiumAi Code | 1.0.0 | RodiumAi Code, the coding agent for VS Code and Cursor: the full RodiumAi Code… |
-| 2026-10-12 15:25:11 | [alcyon-dev.auto-push-tags](https://marketplace.visualstudio.com/items?itemName=alcyon-dev.auto-push-tags) | Auto Push Tags | 0.1.0 | Asks whether to push a Git tag to the remote right after you create it. |
-| 2026-10-12 15:36:21 | [KANAKPRABHAKAR.punarnava](https://marketplace.visualstudio.com/items?itemName=KANAKPRABHAKAR.punarnava) | Punarnava — Old Java to Modern Java (Le… | 1.0.0 | Turn old Java (public static void main, Scanner, colon switch) into modern Java… |
-| 2026-10-12 15:48:21 | [Ariyan.Velvet-Pro](https://marketplace.visualstudio.com/items?itemName=Ariyan.Velvet-Pro) | Velvet Pro | 1.0.0 | A refined, warm-dark theme featuring deep charcoal tones and subtle crimson acc… |
-| 2026-10-12 15:51:14 | [ReadyStack.proxmox-migration-check-vmware-vsphere-licence-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.proxmox-migration-check-vmware-vsphere-licence-gate) | Proxmox Migration Check: VMware vSphere… | 1.0.0 | Maps every VMware vSphere dependency in Terraform, Packer and Ansible files (vs… |
-| 2026-10-12 15:51:52 | [ReadyStack.grundsteuer-anzeige-fristen-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.grundsteuer-anzeige-fristen-check) | Grundsteuer Fristen-Check für Objektlis… | 1.0.8 | Prüft Objekt-Änderungslisten (CSV) auf Grundsteuer-Anzeigefristen: § 228 BewG (… |
-| 2026-10-12 15:52:11 | [ReadyStack.gtags-workspace-config-kit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.gtags-workspace-config-kit) | GNU GLOBAL (gtags) Workspace Setup Kit | 0.1.5 | 46 config snippets, 26 audit rules, 8 setups in one extension — because one abs… |
-| 2026-10-12 15:52:23 | [ReadyStack.haken-keiyaku-kisai-lint-jp](https://marketplace.visualstudio.com/items?itemName=ReadyStack.haken-keiyaku-kisai-lint-jp) | 派遣契約書チェック — 個別契約・就業条件明示書 | 1.0.9 | 労働者派遣の個別契約書と就業条件明示書の下書き(.md/.txt)を、派遣法26条1項・施行規則22条・34条の記載事項と照らし、抜けている項目を行番号つきで… |
-| 2026-10-12 16:00:53 | [heineiuo.notes-vscode](https://marketplace.visualstudio.com/items?itemName=heineiuo.notes-vscode) | Notes for VS Code | 0.0.9 | Browse dated notes Markdown files in a movable Explorer section. |
-| 2026-10-12 16:00:56 | [icaro0310.devin-doctor](https://marketplace.visualstudio.com/items?itemName=icaro0310.devin-doctor) | devin-doctor | 0.1.0 | Ecosystem health checks from devin-doctor, inside the editor. Thin adapter: the… |
-| 2026-10-12 16:04:51 | [fehrlich.pydebugscope](https://marketplace.visualstudio.com/items?itemName=fehrlich.pydebugscope) | PyDebugScope | 0.1.0 | Visualize numpy / torch / jax / tensorflow arrays as signals, images and histog… |
-| 2026-10-12 16:12:45 | [H9elix.c-insight](https://marketplace.visualstudio.com/items?itemName=H9elix.c-insight) | C Insight | 0.22.20 | Source Insight-style C/C++ navigation powered by clangd or Microsoft C/C++. |
+| 2026-10-12 16:16:27 | [DuncanAviation.db2-workbench](https://marketplace.visualstudio.com/items?itemName=DuncanAviation.db2-workbench) | DB2 Workbench | 0.1.0 | Run SQL and stored procedures against IBM DB2 for i (AS/400) over ODBC, with a… |
+| 2026-10-12 16:21:09 | [CoolBirdV.agent-tandem](https://marketplace.visualstudio.com/items?itemName=CoolBirdV.agent-tandem) | AgentTandem — Claude Code & Codex Chat,… | 0.1.2 | Chat with Claude Code and Codex, review code changes, restore checkpoints, resu… |
+| 2026-10-12 16:23:33 | [mudassarsindoli.tudooo](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.tudooo) | tudooo | 0.1.0 | Find and manage forgotten TODO, FIXME, HACK, and XXX comments in your workspace. |
+| 2026-10-12 16:34:49 | [mudassarsindoli.scooop](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.scooop) | Scooop | 0.1.0 | Scooop analyzes your project against user-defined rules and generates a detaile… |
+| 2026-10-12 16:40:43 | [SoftForge.softforge-ui-designer](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-ui-designer) | UI Designer | 1.0.0 | Design user interfaces in VS Code: a Figma-class vector editor over a .design f… |
+| 2026-10-12 16:42:31 | [talakbairam.noteroot](https://marketplace.visualstudio.com/items?itemName=talakbairam.noteroot) | NoteRoot | 0.1.0 | Notes in a folder you choose: a notes tree, a Quick Note box, tags and categori… |
+| 2026-10-12 16:56:47 | [jsabacinski.markdown-preview-wheel-zoom](https://marketplace.visualstudio.com/items?itemName=jsabacinski.markdown-preview-wheel-zoom) | Markdown Preview Wheel Zoom | 0.1.0 | Ctrl + scroll to zoom the built-in Markdown preview, like in a browser. Indepen… |
+| 2026-10-12 17:02:22 | [crudh.night-eagle](https://marketplace.visualstudio.com/items?itemName=crudh.night-eagle) | Night Eagle | 0.0.1 | A maintained dark theme for night coding, based on Night Owl by Sarah Drasner. |
+| 2026-10-12 17:07:58 | [codewrapper12.dsa-playback](https://marketplace.visualstudio.com/items?itemName=codewrapper12.dsa-playback) | DSA Playback | 1.0.0 | Watch your C# or Python solution run step by step — pointers sliding, lists rew… |
+| 2026-10-12 17:09:41 | [akdey.heyhuman](https://marketplace.visualstudio.com/items?itemName=akdey.heyhuman) | HeyHuman | 1.1.1 | Your AI is waiting. Permission required. Audible alerts when AI coding agents n… |
+| 2026-10-12 17:16:42 | [Castov.castov-vscode](https://marketplace.visualstudio.com/items?itemName=Castov.castov-vscode) | Castov – Fast Developer Utilities | 0.1.0 | Instant Unix timestamps, UUID v4/v7 generation, JWT decoding, Base64 converter,… |
 
 ## Data source
 
