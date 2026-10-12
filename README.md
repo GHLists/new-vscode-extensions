@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 21:20 UTC
+## Latest list — 2026-10-12 22:19 UTC
 
-New extensions published between 2026-10-12 19:20 UTC and 2026-10-12 21:20 UTC.
+New extensions published between 2026-10-12 20:19 UTC and 2026-10-12 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T21-20-13-033626Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T22-19-41-133659Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 20:25:58 | [ReadyStack.cyanotype-theme](https://marketplace.visualstudio.com/items?itemName=ReadyStack.cyanotype-theme) | Cyanotype Theme — Sun-printed blue, tea… | 1.0.0 | Sun-printed blue, tea-toned brown and cotton paper. Cyanotype is the old sun-pr… |
-| 2026-10-12 20:35:48 | [alidendenne.echo-local-ai](https://marketplace.visualstudio.com/items?itemName=alidendenne.echo-local-ai) | Echo Local AI Code Assistant | 1.0.0 | Local AI coding assistant |
-| 2026-10-12 20:54:51 | [Zelvory.offline-coder](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder) | OfflineCoder | 0.1.1 | Offline coding assistant with workspace retrieval, running Qwen2.5-Coder locall… |
-| 2026-10-12 20:58:01 | [agaura3.devtracr](https://marketplace.visualstudio.com/items?itemName=agaura3.devtracr) | DevTracr | 0.2.0 | Logs your coding time to DevTracr automatically, per project and language. No c… |
-| 2026-10-12 21:03:14 | [robervx.tokenvisillo](https://marketplace.visualstudio.com/items?itemName=robervx.tokenvisillo) | TokenVisillo | 0.1.0 | The nosy neighbour behind the curtain: a context meter and token-saving coach f… |
+| 2026-10-12 21:36:56 | [aevix.aevix-language](https://marketplace.visualstudio.com/items?itemName=aevix.aevix-language) | Aevix Language | 0.2.0 | Syntax highlighting, snippets, and file icons for the Aevix programming language |
+| 2026-10-12 21:39:28 | [nulifyer.git-graph-modern](https://marketplace.visualstudio.com/items?itemName=nulifyer.git-graph-modern) | Git Graph Modern | 1.31.5 | View a Git Graph of your repository, and perform Git actions from the graph. |
+| 2026-10-12 21:44:34 | [MihaniCircle.mihan-language](https://marketplace.visualstudio.com/items?itemName=MihaniCircle.mihan-language) | Mihan Language | 0.7.3 | Mihan — a programming language that reads the way Persian is spoken. Autocomple… |
+| 2026-10-12 21:45:28 | [tedderland.gbasic](https://marketplace.visualstudio.com/items?itemName=tedderland.gbasic) | gBASIC | 0.2.0 | gBASIC language support: highlighting, snippets, and live errors from the gbasi… |
+| 2026-10-12 21:54:15 | [acro.pfc-charts](https://marketplace.visualstudio.com/items?itemName=acro.pfc-charts) | PFC Charts (ISA-88) | 1.1.0 | Render ISA-88 Procedure Function Charts from `pfc` code blocks in the Markdown… |
+| 2026-10-12 21:56:56 | [acro.physical-model-charts](https://marketplace.visualstudio.com/items?itemName=acro.physical-model-charts) | Physical Model Charts (ISA-88) | 1.0.0 | Render ISA-88 physical models (enterprise to control module) from `physical` co… |
 
 ## Data source
 
