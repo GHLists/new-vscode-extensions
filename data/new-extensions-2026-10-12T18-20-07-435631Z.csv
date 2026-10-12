@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T17:19:28.613Z,nijil71.year-in-code-wrapped,nijil71,Wrapped for VS Code – Your Year in Code,1.0.0,"Your coding year in review, Wrapped-style: streaks, peak hours, languages, commits and Claude Code stats, built instantly from local history. Share your card."
+2026-10-12T17:24:14.083Z,Binada.code-flow-astii,Binada,code-flo,0.0.1,Visualizes code files as flowcharts
+2026-10-12T17:32:35.807Z,isaim0011.switchx-antigravity,isaim0011,Antigravity & Universal AI Account Switcher,1.0.2,"Ultra-fast account switcher and rolling quota monitor for Antigravity, Cursor, Claude Code, and Copilot"
+2026-10-12T17:43:28.453Z,flightcoders.veyra-live-server,flightcoders,Veyra Live Server,1.2.0,"Save. See it. Instantly. A local development server with live reload for HTML, CSS and JavaScript: CSS updates without a page reload, works over Remote SSH, WSL and Codespaces, no dependencies."
+2026-10-12T17:45:33.567Z,mudassarsindoli.whytfisthis,mudassarsindoli,whytfisthis,1.0.0,"Fully local unused-code detector for TypeScript, JavaScript, and React. No AI, no network, never deletes code automatically."
+2026-10-12T17:51:57.257Z,microhobby.openembedded,microhobby,Simple Bitbake Syntax Highlight,0.0.2,Simple Language Syntax Highlight for Open Embedded/Yocto 💩 files. No need of a lot of configuration and shit writting in the settings.
+2026-10-12T18:05:38.153Z,abbasKareem.twinroot,abbasKareem,TwinRoot,0.1.0,"Open any folder as a second file explorer on the opposite side of the window — backend on one side, frontend on the other."
+2026-10-12T18:09:26.17Z,integrations-at.claude-harness,integrations-at,Claude Harness,0.1.26,"Visualize and edit your Claude Code harness in VS Code: memory, rules, agents, skills, commands, output styles, workflows, hooks, MCP servers and plugins, globally and per repository."
+2026-10-12T18:15:00.907Z,aiekick.ai-code-anonymizer,aiekick,AI Code Anonymizer,0.0.2,Anonymize source code with live-previewed rules before sharing it with an AI

@@ -12,25 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 17:20 UTC
+## Latest list — 2026-10-12 18:20 UTC
 
-New extensions published between 2026-10-12 15:20 UTC and 2026-10-12 17:20 UTC.
+New extensions published between 2026-10-12 16:20 UTC and 2026-10-12 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T17-20-53-959646Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T18-20-07-435631Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 16:16:27 | [DuncanAviation.db2-workbench](https://marketplace.visualstudio.com/items?itemName=DuncanAviation.db2-workbench) | DB2 Workbench | 0.1.0 | Run SQL and stored procedures against IBM DB2 for i (AS/400) over ODBC, with a… |
-| 2026-10-12 16:21:09 | [CoolBirdV.agent-tandem](https://marketplace.visualstudio.com/items?itemName=CoolBirdV.agent-tandem) | AgentTandem — Claude Code & Codex Chat,… | 0.1.2 | Chat with Claude Code and Codex, review code changes, restore checkpoints, resu… |
-| 2026-10-12 16:23:33 | [mudassarsindoli.tudooo](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.tudooo) | tudooo | 0.1.0 | Find and manage forgotten TODO, FIXME, HACK, and XXX comments in your workspace. |
-| 2026-10-12 16:34:49 | [mudassarsindoli.scooop](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.scooop) | Scooop | 0.1.0 | Scooop analyzes your project against user-defined rules and generates a detaile… |
-| 2026-10-12 16:40:43 | [SoftForge.softforge-ui-designer](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-ui-designer) | UI Designer | 1.0.0 | Design user interfaces in VS Code: a Figma-class vector editor over a .design f… |
-| 2026-10-12 16:42:31 | [talakbairam.noteroot](https://marketplace.visualstudio.com/items?itemName=talakbairam.noteroot) | NoteRoot | 0.1.0 | Notes in a folder you choose: a notes tree, a Quick Note box, tags and categori… |
-| 2026-10-12 16:56:47 | [jsabacinski.markdown-preview-wheel-zoom](https://marketplace.visualstudio.com/items?itemName=jsabacinski.markdown-preview-wheel-zoom) | Markdown Preview Wheel Zoom | 0.1.0 | Ctrl + scroll to zoom the built-in Markdown preview, like in a browser. Indepen… |
-| 2026-10-12 17:02:22 | [crudh.night-eagle](https://marketplace.visualstudio.com/items?itemName=crudh.night-eagle) | Night Eagle | 0.0.1 | A maintained dark theme for night coding, based on Night Owl by Sarah Drasner. |
-| 2026-10-12 17:07:58 | [codewrapper12.dsa-playback](https://marketplace.visualstudio.com/items?itemName=codewrapper12.dsa-playback) | DSA Playback | 1.0.0 | Watch your C# or Python solution run step by step — pointers sliding, lists rew… |
-| 2026-10-12 17:09:41 | [akdey.heyhuman](https://marketplace.visualstudio.com/items?itemName=akdey.heyhuman) | HeyHuman | 1.1.1 | Your AI is waiting. Permission required. Audible alerts when AI coding agents n… |
-| 2026-10-12 17:16:42 | [Castov.castov-vscode](https://marketplace.visualstudio.com/items?itemName=Castov.castov-vscode) | Castov – Fast Developer Utilities | 0.1.0 | Instant Unix timestamps, UUID v4/v7 generation, JWT decoding, Base64 converter,… |
+| 2026-10-12 17:19:28 | [nijil71.year-in-code-wrapped](https://marketplace.visualstudio.com/items?itemName=nijil71.year-in-code-wrapped) | Wrapped for VS Code – Your Year in Code | 1.0.0 | Your coding year in review, Wrapped-style: streaks, peak hours, languages, comm… |
+| 2026-10-12 17:24:14 | [Binada.code-flow-astii](https://marketplace.visualstudio.com/items?itemName=Binada.code-flow-astii) | code-flo | 0.0.1 | Visualizes code files as flowcharts |
+| 2026-10-12 17:32:35 | [isaim0011.switchx-antigravity](https://marketplace.visualstudio.com/items?itemName=isaim0011.switchx-antigravity) | Antigravity & Universal AI Account Swit… | 1.0.2 | Ultra-fast account switcher and rolling quota monitor for Antigravity, Cursor,… |
+| 2026-10-12 17:43:28 | [flightcoders.veyra-live-server](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-live-server) | Veyra Live Server | 1.2.0 | Save. See it. Instantly. A local development server with live reload for HTML,… |
+| 2026-10-12 17:45:33 | [mudassarsindoli.whytfisthis](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.whytfisthis) | whytfisthis | 1.0.0 | Fully local unused-code detector for TypeScript, JavaScript, and React. No AI,… |
+| 2026-10-12 17:51:57 | [microhobby.openembedded](https://marketplace.visualstudio.com/items?itemName=microhobby.openembedded) | Simple Bitbake Syntax Highlight | 0.0.2 | Simple Language Syntax Highlight for Open Embedded/Yocto 💩 files. No need of a… |
+| 2026-10-12 18:05:38 | [abbasKareem.twinroot](https://marketplace.visualstudio.com/items?itemName=abbasKareem.twinroot) | TwinRoot | 0.1.0 | Open any folder as a second file explorer on the opposite side of the window —… |
+| 2026-10-12 18:09:26 | [integrations-at.claude-harness](https://marketplace.visualstudio.com/items?itemName=integrations-at.claude-harness) | Claude Harness | 0.1.26 | Visualize and edit your Claude Code harness in VS Code: memory, rules, agents,… |
+| 2026-10-12 18:15:00 | [aiekick.ai-code-anonymizer](https://marketplace.visualstudio.com/items?itemName=aiekick.ai-code-anonymizer) | AI Code Anonymizer | 0.0.2 | Anonymize source code with live-previewed rules before sharing it with an AI |
 
 ## Data source
 
