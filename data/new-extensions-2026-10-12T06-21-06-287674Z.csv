@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T05:20:43.443Z,ellsworthmmcc.notes-in-markdown,ellsworthmmcc,Notes in Markdown,1.0.0,Editing helpers for taking notes in Markdown
+2026-10-12T05:41:16.223Z,krapie.mycelium-vscode,krapie,Mycelium for VS Code,0.2.2,"Browse, resume and hand off your AI coding-agent sessions from the sidebar."
+2026-10-12T05:44:41.117Z,nicrandomlee.tracesprout,nicrandomlee,TraceSprout,0.1.0,"Understand Python and React codebases fast: interactive sequence, activity and UML class diagrams, entry-point maps, example inputs and outputs per function, and a screen map for React/Next.js. Diagrams come from reading your code; code only runs when you choose Run it or Record."
