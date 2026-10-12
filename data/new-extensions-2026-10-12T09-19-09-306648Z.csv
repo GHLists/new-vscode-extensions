@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T08:29:55.393Z,CifroArts.cifroarts-csharp-devkit-extended,CifroArts,C# Dev Kit Extended by CifroArts,1.0.0,Add-ons to C# Dev Kit for working with C# projects
+2026-10-12T08:41:26.94Z,nox-lang.noxlang,nox-lang,Nox Programming Language,0.1.0,"Nox language support: syntax highlighting and a language-server client (noxlsp: diagnostics, completion, go to definition, hover, formatting)"
+2026-10-12T08:43:39.48Z,proofpulse.proofpulse-vscode,proofpulse,ProofPulse,0.1.0,"Dafny proof coverage analysis for VSCode — inline coverage decorations, gutter marks, and hover diagnostics for proof dependencies."
+2026-10-12T09:02:15.527Z,greengoldlang.greengold-vscode,greengoldlang,Greengold Language Support,0.19.1,"Full IDE experience for Greengold (.gg): LSP, Test Explorer, CodeLens, native debugging, syntax highlighting, diagnostics, hover, inlay hints, definition, references, rename, completion, formatting, snippets, and tasks."
