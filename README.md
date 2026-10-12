@@ -12,15 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 00:19 UTC
+## Latest list — 2026-10-12 01:20 UTC
 
-New extensions published between 2026-10-11 22:19 UTC and 2026-10-12 00:19 UTC.
+New extensions published between 2026-10-11 23:20 UTC and 2026-10-12 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T00-19-48-095949Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T01-20-21-724803Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-11 23:31:10 | [okidev.coagent8-mcp](https://marketplace.visualstudio.com/items?itemName=okidev.coagent8-mcp) | CoAgent8 - MCP bridge to coding CLIs | 0.6.0 | Ask Codex, Claude Code and Antigravity for second opinions and Git reviews from… |
+| 2026-10-12 00:18:43 | [ravenmagbanua.tuturuify](https://marketplace.visualstudio.com/items?itemName=ravenmagbanua.tuturuify) | Tuturuify | 1.0.0 | Play your tuturu sound when a new error appears in VS Code. |
+| 2026-10-12 00:59:17 | [Bill-Testing.activation-marker-20261011](https://marketplace.visualstudio.com/items?itemName=Bill-Testing.activation-marker-20261011) | Activation Marker Test | 0.0.1 | A benign test extension that prints one activation marker to the extension host… |
 
 ## Data source
 
