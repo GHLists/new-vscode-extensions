@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 04:20 UTC
+## Latest list — 2026-10-12 05:20 UTC
 
-New extensions published between 2026-10-12 02:20 UTC and 2026-10-12 04:20 UTC.
+New extensions published between 2026-10-12 03:20 UTC and 2026-10-12 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T04-20-00-868321Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T05-20-57-554256Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 03:20:51 | [jaytankdev.portclash](https://marketplace.visualstudio.com/items?itemName=jaytankdev.portclash) | PortClash: Find Port Conflicts Across C… | 0.1.0 | Finds "port already in use" before you run anything: collects every declared po… |
-| 2026-10-12 03:34:03 | [petrichoral.idea-git-log](https://marketplace.visualstudio.com/items?itemName=petrichoral.idea-git-log) | IDEA Git Log | 0.0.25 | A focused Git log view with branches, commit graph, and commit details. No AI f… |
-| 2026-10-12 03:51:03 | [ReadyStack.arangodb-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.arangodb-migration-check) | ArangoDB Migration Check: Neo4j End-of-… | 1.0.0 | Moving off Neo4j? Finds every Neo4j image, enterprise licence line, driver and… |
-| 2026-10-12 03:51:23 | [ReadyStack.apache-echarts-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.apache-echarts-migration-check) | Apache ECharts Migration: Highcharts Li… | 1.0.0 | Finds every Highcharts package, NuGet reference, import and CDN tag in package.… |
-| 2026-10-12 03:51:32 | [ReadyStack.codeberg-gitlab-anonymous-fetch-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.codeberg-gitlab-anonymous-fetch-lint) | Codeberg / GitLab.com Anonymous Fetch L… | 1.0.0 | Maps every token-less gitlab.com fetch in workflows, Dockerfiles, go.mod, requi… |
-| 2026-10-12 03:51:51 | [ReadyStack.swift-package-manager-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.swift-package-manager-migration-check) | Swift Package Manager Migration: CocoaP… | 1.0.0 | CocoaPods trunk turns read-only on 2026-12-02. Maps every Podfile and .podspec… |
+| 2026-10-12 04:22:08 | [feyitech.frontbacked-language-tools](https://marketplace.visualstudio.com/items?itemName=feyitech.frontbacked-language-tools) | Frontbacked FQL and FRL | 0.1.0 | Syntax highlighting and diagnostics for Frontbacked themes. |
+| 2026-10-12 04:23:03 | [Shelus2021.tabs-group-pro](https://marketplace.visualstudio.com/items?itemName=Shelus2021.tabs-group-pro) | Tabs Group Pro | 2.0.6 | Create and manage tab groups to improve your development workflow. |
+| 2026-10-12 04:39:31 | [GetMoreBrain.bitmark-language](https://marketplace.visualstudio.com/items?itemName=GetMoreBrain.bitmark-language) | bitmark language | 7.9.1 | Write bitmark with highlighting, error checking, completion, hover help, live p… |
+| 2026-10-12 04:54:10 | [anghelll.data-pilot-vscode](https://marketplace.visualstudio.com/items?itemName=anghelll.data-pilot-vscode) | Data Pilot | 0.3.0 | Find, understand, and prepare test datasets without loading everything into mem… |
+| 2026-10-12 04:56:18 | [cstrainge.shelly-shell](https://marketplace.visualstudio.com/items?itemName=cstrainge.shelly-shell) | Shelly Shell | 0.1.0 | Parser-driven language support for the Shelly shell and scripting language. |
+| 2026-10-12 05:03:39 | [SpecStream.specstream](https://marketplace.visualstudio.com/items?itemName=SpecStream.specstream) | SpecStream | 0.1.4 | Give your agent finished lists from the live web. One plain-English request ret… |
 
 ## Data source
 
