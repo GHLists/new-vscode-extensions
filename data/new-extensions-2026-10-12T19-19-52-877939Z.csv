@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T17:45:03.877Z,aiekick.cmakeparams,aiekick,CMake Params,0.1.8,"Editable CMakeCache view with user defined sections and widgets (combo, slider, checkbox...)"
+2026-10-12T18:25:25.5Z,dr-opensource.launchwizard,dr-opensource,LaunchWizard,0.2.0,"Pre-flight build check & 1-click shareable preview engine for vibe coders. Catch production TypeScript & bundler build errors before deploy, and get instant mobile preview links."
+2026-10-12T18:32:58.703Z,aiekick.text-tooling,aiekick,Text Tooling,0.0.3,Line and identifier transformations on the current selection
+2026-10-12T18:36:48.733Z,mroosioks.ide-test-feedback-vscode,mroosioks,IDE Test Feedback for Moodle,0.1.0,Run your unit tests and submit the results to Moodle
+2026-10-12T18:38:13.227Z,honey-the-codewitch.parsley-xbnf-lsp,honey-the-codewitch,Parsley XBNF Language Provider,1.0.0,"Highlighting and language support for Parsley's XBNF grammars: go to definition, find references, completion, hover and diagnostics."
+2026-10-12T18:46:14.523Z,mudassarsindoli.suggestmee,mudassarsindoli,SuggestMee,0.1.0,"Explains why TypeScript and JavaScript code is broken, why it happens, and applies safe one-click fixes. Local, no AI."
+2026-10-12T19:01:09.713Z,jasnzhng.autograder-vscode,jasnzhng,Autograder.io in VSCode,0.1.2,"Submit to autograder.io, browse results with clickable line numbers, and tie each submission to a git snapshot."
+2026-10-12T19:05:19.407Z,AMD.amd-git-time-lapse-vscode,AMD,Git Time-Lapse View,1.1.2,Git Time-Lapse View v1.1.2 — visual time-lapse viewer for file history in git repositories
+2026-10-12T19:10:01.24Z,JohannesTiefnig.tablify,JohannesTiefnig,Tablify,0.1.0,"View and edit JSON and YAML lists and hashes of entries, and CSV files, as an interactive table."

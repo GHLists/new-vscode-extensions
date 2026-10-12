@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 18:20 UTC
+## Latest list — 2026-10-12 19:19 UTC
 
-New extensions published between 2026-10-12 16:20 UTC and 2026-10-12 18:20 UTC.
+New extensions published between 2026-10-12 17:19 UTC and 2026-10-12 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T18-20-07-435631Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T19-19-52-877939Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 17:19:28 | [nijil71.year-in-code-wrapped](https://marketplace.visualstudio.com/items?itemName=nijil71.year-in-code-wrapped) | Wrapped for VS Code – Your Year in Code | 1.0.0 | Your coding year in review, Wrapped-style: streaks, peak hours, languages, comm… |
-| 2026-10-12 17:24:14 | [Binada.code-flow-astii](https://marketplace.visualstudio.com/items?itemName=Binada.code-flow-astii) | code-flo | 0.0.1 | Visualizes code files as flowcharts |
-| 2026-10-12 17:32:35 | [isaim0011.switchx-antigravity](https://marketplace.visualstudio.com/items?itemName=isaim0011.switchx-antigravity) | Antigravity & Universal AI Account Swit… | 1.0.2 | Ultra-fast account switcher and rolling quota monitor for Antigravity, Cursor,… |
-| 2026-10-12 17:43:28 | [flightcoders.veyra-live-server](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-live-server) | Veyra Live Server | 1.2.0 | Save. See it. Instantly. A local development server with live reload for HTML,… |
-| 2026-10-12 17:45:33 | [mudassarsindoli.whytfisthis](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.whytfisthis) | whytfisthis | 1.0.0 | Fully local unused-code detector for TypeScript, JavaScript, and React. No AI,… |
-| 2026-10-12 17:51:57 | [microhobby.openembedded](https://marketplace.visualstudio.com/items?itemName=microhobby.openembedded) | Simple Bitbake Syntax Highlight | 0.0.2 | Simple Language Syntax Highlight for Open Embedded/Yocto 💩 files. No need of a… |
-| 2026-10-12 18:05:38 | [abbasKareem.twinroot](https://marketplace.visualstudio.com/items?itemName=abbasKareem.twinroot) | TwinRoot | 0.1.0 | Open any folder as a second file explorer on the opposite side of the window —… |
-| 2026-10-12 18:09:26 | [integrations-at.claude-harness](https://marketplace.visualstudio.com/items?itemName=integrations-at.claude-harness) | Claude Harness | 0.1.26 | Visualize and edit your Claude Code harness in VS Code: memory, rules, agents,… |
-| 2026-10-12 18:15:00 | [aiekick.ai-code-anonymizer](https://marketplace.visualstudio.com/items?itemName=aiekick.ai-code-anonymizer) | AI Code Anonymizer | 0.0.2 | Anonymize source code with live-previewed rules before sharing it with an AI |
+| 2026-10-12 17:45:03 | [aiekick.cmakeparams](https://marketplace.visualstudio.com/items?itemName=aiekick.cmakeparams) | CMake Params | 0.1.8 | Editable CMakeCache view with user defined sections and widgets (combo, slider,… |
+| 2026-10-12 18:25:25 | [dr-opensource.launchwizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.launchwizard) | LaunchWizard | 0.2.0 | Pre-flight build check & 1-click shareable preview engine for vibe coders. Catc… |
+| 2026-10-12 18:32:58 | [aiekick.text-tooling](https://marketplace.visualstudio.com/items?itemName=aiekick.text-tooling) | Text Tooling | 0.0.3 | Line and identifier transformations on the current selection |
+| 2026-10-12 18:36:48 | [mroosioks.ide-test-feedback-vscode](https://marketplace.visualstudio.com/items?itemName=mroosioks.ide-test-feedback-vscode) | IDE Test Feedback for Moodle | 0.1.0 | Run your unit tests and submit the results to Moodle |
+| 2026-10-12 18:38:13 | [honey-the-codewitch.parsley-xbnf-lsp](https://marketplace.visualstudio.com/items?itemName=honey-the-codewitch.parsley-xbnf-lsp) | Parsley XBNF Language Provider | 1.0.0 | Highlighting and language support for Parsley's XBNF grammars: go to definition… |
+| 2026-10-12 18:46:14 | [mudassarsindoli.suggestmee](https://marketplace.visualstudio.com/items?itemName=mudassarsindoli.suggestmee) | SuggestMee | 0.1.0 | Explains why TypeScript and JavaScript code is broken, why it happens, and appl… |
+| 2026-10-12 19:01:09 | [jasnzhng.autograder-vscode](https://marketplace.visualstudio.com/items?itemName=jasnzhng.autograder-vscode) | Autograder.io in VSCode | 0.1.2 | Submit to autograder.io, browse results with clickable line numbers, and tie ea… |
+| 2026-10-12 19:05:19 | [AMD.amd-git-time-lapse-vscode](https://marketplace.visualstudio.com/items?itemName=AMD.amd-git-time-lapse-vscode) | Git Time-Lapse View | 1.1.2 | Git Time-Lapse View v1.1.2 — visual time-lapse viewer for file history in git r… |
+| 2026-10-12 19:10:01 | [JohannesTiefnig.tablify](https://marketplace.visualstudio.com/items?itemName=JohannesTiefnig.tablify) | Tablify | 0.1.0 | View and edit JSON and YAML lists and hashes of entries, and CSV files, as an i… |
 
 ## Data source
 
