@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T02:47:28.07Z,ruansbueno.visor-for-ai-devs,ruansbueno,Visor - for AI devs,0.1.1,Mostra a execução de agentes do Claude Code como um grafo de nodes.
+2026-10-12T02:56:43.983Z,arpuuk.spatial-explorer,arpuuk,Spatial Explorer: Spatial SQL & Map Viewer,0.1.0,"Open a geospatial file and see it on a map and in a table, without opening a desktop GIS."
+2026-10-12T03:09:36.753Z,MasonHuang.stale-window-cleaner,MasonHuang,Stale Window Cleaner,0.0.9,Safely detects stale VS Code workspace windows and optionally closes them.
+2026-10-12T03:10:07.693Z,juanma-aguero.code-flow-explorer,juanma-aguero,Code Flow Explorer,0.1.1,"Step through the logical flow of TypeScript, JavaScript and Go code without running it, with optional AI explanations."
