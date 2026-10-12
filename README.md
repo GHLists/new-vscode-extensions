@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-12 14:19 UTC
+## Latest list — 2026-10-12 15:22 UTC
 
-New extensions published between 2026-10-12 12:19 UTC and 2026-10-12 14:19 UTC.
+New extensions published between 2026-10-12 13:22 UTC and 2026-10-12 15:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-12T14-19-47-887338Z.csv)
+[Full CSV](data/new-extensions-2026-10-12T15-22-38-798213Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 13:25:49 | [opencraw.opencraw](https://marketplace.visualstudio.com/items?itemName=opencraw.opencraw) | OpenCraw | 0.0.2 | OpenCraw in the editor: starts the Studio server and opens a folder, recipe or… |
-| 2026-10-12 13:34:15 | [RobKeys.workbench-wallpaper](https://marketplace.visualstudio.com/items?itemName=RobKeys.workbench-wallpaper) | workbench-wallpaper | 4.0.1 | Show one full-opacity image behind the VS Code workbench. |
-| 2026-10-12 13:34:23 | [adeploy.b1-devkit](https://marketplace.visualstudio.com/items?itemName=adeploy.b1-devkit) | B1 DevKit for SAP Business One | 0.2.2 | Build, debug and design SAP Business One desktop add-ons in VS Code: run them i… |
-| 2026-10-12 13:40:22 | [RobKeys.live-markdown-pane](https://marketplace.visualstudio.com/items?itemName=RobKeys.live-markdown-pane) | Live Markdown Pane Editor | 0.1.0 | Edit Markdown in a rendered VS Code pane with source mode, local settings, and… |
-| 2026-10-12 13:54:00 | [nimblescape.nimblescape-devspaces](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-devspaces) | nimblescape Devspaces | 0.1.0 | Open your GitHub repositories in local dev containers with one action. |
-| 2026-10-12 13:55:08 | [wyan.embedded-sql-c-prettier](https://marketplace.visualstudio.com/items?itemName=wyan.embedded-sql-c-prettier) | IBM Embedded SQL C Prettier | 0.1.0 | Formats IBM Embedded SQL for C files (.sqc) with a lightweight formatter tuned… |
-| 2026-10-12 13:56:52 | [Upercat.cks-language](https://marketplace.visualstudio.com/items?itemName=Upercat.cks-language) | CKS (Imperivm scripts) | 0.1.1 | Unofficial community language support for Imperivm CKS scripts (.vs): highlight… |
-| 2026-10-12 13:57:38 | [nexkeys.sandbox-atlas](https://marketplace.visualstudio.com/items?itemName=nexkeys.sandbox-atlas) | Sandbox Atlas | 0.1.0 | Map any codebase in seconds: dependency graph, impact analysis and AI edit plan… |
-| 2026-10-12 14:03:25 | [nimblescape.nimblescape-comment-markdown-links](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-comment-markdown-links) | nimblescape Comment Markdown Links | 0.1.0 | Clickable Markdown links in code comments that open at the named heading. |
-| 2026-10-12 14:05:55 | [ichir0roie.claude-usage-statusbar-gauge](https://marketplace.visualstudio.com/items?itemName=ichir0roie.claude-usage-statusbar-gauge) | Claude Usage Statusbar Gauge | 0.0.1 | Gauges for your Claude Code rate limits in the status bar and the sidebar. Unof… |
+| 2026-10-12 14:19:54 | [OmkarPramodBandikatte.provenyx-security](https://marketplace.visualstudio.com/items?itemName=OmkarPramodBandikatte.provenyx-security) | Provenyx Security | 0.1.1 | Software dependency trust and supply-chain security analysis |
+| 2026-10-12 14:20:29 | [baby-blue-studio.baby-blue-breeze](https://marketplace.visualstudio.com/items?itemName=baby-blue-studio.baby-blue-breeze) | Baby Blue Breeze | 1.0.5 | A light baby blue theme with readable code colors, coordinated diff and merge v… |
+| 2026-10-12 14:27:01 | [sindresorhus.soml](https://marketplace.visualstudio.com/items?itemName=sindresorhus.soml) | SOML | 0.0.1 | SOML language support with validation, formatting, navigation, and precise valu… |
+| 2026-10-12 14:37:48 | [MBKDevStudio.nightdocs](https://marketplace.visualstudio.com/items?itemName=MBKDevStudio.nightdocs) | Nightdocs | 0.1.0 | A lightweight, dark-first, view-only viewer for Word and Excel files. |
+| 2026-10-12 14:41:09 | [MrPerfectH.semantic-model-viewer](https://marketplace.visualstudio.com/items?itemName=MrPerfectH.semantic-model-viewer) | Semantic Model Viewer | 0.3.4 | Explore Power BI semantic models with a table workspace, relationship filters,… |
+| 2026-10-12 14:44:39 | [devchan64.vscode-image-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.vscode-image-editor) | Pixel Layer Image Editor | 0.3.0 | A minimal image editor with magic wand selection, layers and history. |
+| 2026-10-12 14:46:43 | [embedded-sw.arxplorer](https://marketplace.visualstudio.com/items?itemName=embedded-sw.arxplorer) | ARXplorer | 1.0.0 | ARXML Explorer & Analyzer - semantic AUTOSAR ARXML navigation for VS Code |
+| 2026-10-12 14:56:56 | [QivioAPI.qivio-ai-assistant](https://marketplace.visualstudio.com/items?itemName=QivioAPI.qivio-ai-assistant) | Qivio AI Assistant & Agent | 1.0.0 | Trợ lý AI & Autonomous Coding Agent cho VS Code, tích hợp cổng QivioAPI (Dual E… |
+| 2026-10-12 15:07:17 | [SoniyaBJ.previsx](https://marketplace.visualstudio.com/items?itemName=SoniyaBJ.previsx) | PreVisX | 0.1.0 | Project Readiness & Environment Verification System |
 
 ## Data source
 

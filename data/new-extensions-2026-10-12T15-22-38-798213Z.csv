@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T14:19:54.327Z,OmkarPramodBandikatte.provenyx-security,OmkarPramodBandikatte,Provenyx Security,0.1.1,Software dependency trust and supply-chain security analysis
+2026-10-12T14:20:29.24Z,baby-blue-studio.baby-blue-breeze,baby-blue-studio,Baby Blue Breeze,1.0.5,"A light baby blue theme with readable code colors, coordinated diff and merge views, and an optional whale PowerShell prompt."
+2026-10-12T14:27:01.997Z,sindresorhus.soml,sindresorhus,SOML,0.0.1,"SOML language support with validation, formatting, navigation, and precise value hovers."
+2026-10-12T14:37:48.96Z,MBKDevStudio.nightdocs,MBKDevStudio,Nightdocs,0.1.0,"A lightweight, dark-first, view-only viewer for Word and Excel files."
+2026-10-12T14:41:09.65Z,MrPerfectH.semantic-model-viewer,MrPerfectH,Semantic Model Viewer,0.3.4,"Explore Power BI semantic models with a table workspace, relationship filters, measure dependencies and DAX. Save complete interactive HTML snapshots for offline sharing."
+2026-10-12T14:44:39.023Z,devchan64.vscode-image-editor,devchan64,Pixel Layer Image Editor,0.3.0,"A minimal image editor with magic wand selection, layers and history."
+2026-10-12T14:46:43.67Z,embedded-sw.arxplorer,embedded-sw,ARXplorer,1.0.0,ARXML Explorer & Analyzer - semantic AUTOSAR ARXML navigation for VS Code
+2026-10-12T14:56:56.15Z,QivioAPI.qivio-ai-assistant,QivioAPI,Qivio AI Assistant & Agent,1.0.0,"Trợ lý AI & Autonomous Coding Agent cho VS Code, tích hợp cổng QivioAPI (Dual Engine: CodeX & Antigravity)"
+2026-10-12T15:07:17.793Z,SoniyaBJ.previsx,SoniyaBJ,PreVisX,0.1.0,Project Readiness & Environment Verification System
