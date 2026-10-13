@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 05:20 UTC
+## Latest list — 2026-10-13 06:20 UTC
 
-New extensions published between 2026-10-13 03:20 UTC and 2026-10-13 05:20 UTC.
+New extensions published between 2026-10-13 04:20 UTC and 2026-10-13 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T05-20-57-579566Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T06-20-21-980037Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 04:50:26 | [kairbros-dev.vc-bomber](https://marketplace.visualstudio.com/items?itemName=kairbros-dev.vc-bomber) | VC Bomber | 0.0.1 | Juego inspirado en Bomberman con multijugador local para VS Code |
-| 2026-10-13 05:04:15 | [jlumbroso.porthole](https://marketplace.visualstudio.com/items?itemName=jlumbroso.porthole) | Porthole | 0.1.0 | Pop the HTML page you are looking at into a floating window: only the rendered… |
-| 2026-10-13 05:11:43 | [OldSchoolToolz.command-link](https://marketplace.visualstudio.com/items?itemName=OldSchoolToolz.command-link) | Command Link | 1.0.0 | Click commands in the editor to run them in the vscode terminal. |
-| 2026-10-13 05:11:48 | [sean5940.vscode-rn-preview](https://marketplace.visualstudio.com/items?itemName=sean5940.vscode-rn-preview) | RN Preview | 0.4.0 | Render React Native components in an editor panel without building the app. |
+| 2026-10-13 05:27:18 | [clikcode.clikcode](https://marketplace.visualstudio.com/items?itemName=clikcode.clikcode) | ClikCode | 0.2.0 | Claude Code, Codex, Gemini, Copilot, OpenCode and 20 more coding agents in one… |
+| 2026-10-13 06:11:15 | [oshokin.cursor-chat-transit](https://marketplace.visualstudio.com/items?itemName=oshokin.cursor-chat-transit) | Cursor Chat Transit | 1.0.0 | Move your Cursor chats between workspaces and devices. |
 
 ## Data source
 
