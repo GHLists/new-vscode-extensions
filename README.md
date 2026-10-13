@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 08:19 UTC
+## Latest list — 2026-10-13 09:21 UTC
 
-New extensions published between 2026-10-13 06:19 UTC and 2026-10-13 08:19 UTC.
+New extensions published between 2026-10-13 07:21 UTC and 2026-10-13 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T08-19-35-230042Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T09-21-04-169024Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 07:27:26 | [AppsationsEnterprisesInc.appsite-vault](https://marketplace.visualstudio.com/items?itemName=AppsationsEnterprisesInc.appsite-vault) | AppSite Vault - CLI Extension | 0.1.1 | The AppSite Vault on this computer, inside VS Code — see, sync and open the off… |
-| 2026-10-13 07:27:47 | [AppsationsEnterprisesInc.appsite-ai](https://marketplace.visualstudio.com/items?itemName=AppsationsEnterprisesInc.appsite-ai) | AppSite AI - CLI Extension | 0.3.0 | Your tenant's AppSite AI and the appsite CLI, inside VS Code — metered to your… |
-| 2026-10-13 07:36:28 | [MianliWang.pietto-vscode-extension](https://marketplace.visualstudio.com/items?itemName=MianliWang.pietto-vscode-extension) | Pietto | 0.1.0 | Compiler-backed Pietto editing and declared model and connection preview. |
-| 2026-10-13 07:50:00 | [MuhammadIkhsan.claude-account-switcher-for-vscode](https://marketplace.visualstudio.com/items?itemName=MuhammadIkhsan.claude-account-switcher-for-vscode) | Claude Account Switcher for VSCode | 0.4.0 | Pindah antar akun Claude Code tanpa login ulang, lihat akun aktif di status bar… |
-| 2026-10-13 07:50:00 | [macdara.session-compass](https://marketplace.visualstudio.com/items?itemName=macdara.session-compass) | Session Compass | 0.3.2 | Where each parallel Claude Code session is: plan, stage, current step, branch. |
-| 2026-10-13 08:04:28 | [ChaplainRafael.Wrenchy](https://marketplace.visualstudio.com/items?itemName=ChaplainRafael.Wrenchy) | Wrenchy | 1.0.0 | A tiny companion that will react to your code state. He has different emotions… |
-| 2026-10-13 08:07:42 | [promptbox.promptbox](https://marketplace.visualstudio.com/items?itemName=promptbox.promptbox) | PromptBox — Universal Coding Agent Prom… | 0.1.0 | Local-first searchable prompt library and memory for coding agents and develope… |
-| 2026-10-13 08:14:25 | [kirana-style.kirana](https://marketplace.visualstudio.com/items?itemName=kirana-style.kirana) | Kirana | 0.1.0 | Hover the CSS a style compiles to, see token colours, an inline summary of what… |
-| 2026-10-13 08:16:02 | [mjethwa-streamlit.moonmilk-theme](https://marketplace.visualstudio.com/items?itemName=mjethwa-streamlit.moonmilk-theme) | Moonmilk | 0.1.0 | Soft pastels on an inky plum base, with a matching cream light variant. Easy on… |
+| 2026-10-13 08:24:04 | [flespark.gdb-rtos-views](https://marketplace.visualstudio.com/items?itemName=flespark.gdb-rtos-views) | GDB RTOS Views | 2026.4.0 | RTOS kernel state views for embedded debugging, driven by the GDR |
+| 2026-10-13 08:39:18 | [sangram.morph-orm](https://marketplace.visualstudio.com/items?itemName=sangram.morph-orm) | Morph ORM - Schema & Tools | 0.1.0 | Prisma-style schema support, syntax highlighting, formatter, linter, snippets,… |
+| 2026-10-13 08:49:41 | [marvinfrede.ng-tab-grouper](https://marketplace.visualstudio.com/items?itemName=marvinfrede.ng-tab-grouper) | Tab Grouper for Angular | 0.0.4 | Keeps the files of an Angular component next to each other in the tab bar, sort… |
+| 2026-10-13 08:50:27 | [coalesce.coalesce-local-ui](https://marketplace.visualstudio.com/items?itemName=coalesce.coalesce-local-ui) | Coalesce Local UI | 0.3.0 | Run Coalesce directly on your local repo: the Coalesce UI in a VS Code tab, wor… |
+| 2026-10-13 09:05:47 | [andtii.velt](https://marketplace.visualstudio.com/items?itemName=andtii.velt) | Velt | 0.1.1 | Velt language support: syntax highlighting, diagnostics, quick fixes, formattin… |
+| 2026-10-13 09:12:24 | [shiroenguyen.minify-companion](https://marketplace.visualstudio.com/items?itemName=shiroenguyen.minify-companion) | Minify Companion | 0.1.0 | Minify CSS, JS, HTML and compile SCSS/Sass on save: edit style.css and style.mi… |
+| 2026-10-13 09:13:08 | [HashtagPub.antigravity-tokendashboard](https://marketplace.visualstudio.com/items?itemName=HashtagPub.antigravity-tokendashboard) | Antigravity Token & Cost Intelligence | 1.0.0 | Native in-IDE Token, Cost, Prompt Cache & CO2e intelligence dashboard for Antig… |
 
 ## Data source
 

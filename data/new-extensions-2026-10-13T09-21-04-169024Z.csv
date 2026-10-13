@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T08:24:04.573Z,flespark.gdb-rtos-views,flespark,GDB RTOS Views,2026.4.0,"RTOS kernel state views for embedded debugging, driven by the GDR"
+2026-10-13T08:39:18.773Z,sangram.morph-orm,sangram,Morph ORM - Schema & Tools,0.1.0,"Prisma-style schema support, syntax highlighting, formatter, linter, snippets, and Dart client generator for Morph ORM in VS Code, Cursor, and Antigravity."
+2026-10-13T08:49:41.973Z,marvinfrede.ng-tab-grouper,marvinfrede,Tab Grouper for Angular,0.0.4,"Keeps the files of an Angular component next to each other in the tab bar, sorted alphabetically."
+2026-10-13T08:50:27.357Z,coalesce.coalesce-local-ui,coalesce,Coalesce Local UI,0.3.0,"Run Coalesce directly on your local repo: the Coalesce UI in a VS Code tab, working on the files on disk. Perfect when working with AI agents."
+2026-10-13T09:05:47.147Z,andtii.velt,andtii,Velt,0.1.1,"Velt language support: syntax highlighting, diagnostics, quick fixes, formatting, outline, go to definition, hover, completion, inlay hints, signature help and semantic highlighting (via `velt lsp`), and F5 debugging."
+2026-10-13T09:12:24.693Z,shiroenguyen.minify-companion,shiroenguyen,Minify Companion,0.1.0,"Minify CSS, JS, HTML and compile SCSS/Sass on save: edit style.css and style.min.css updates itself. Source maps, no build tool needed."
+2026-10-13T09:13:08.7Z,HashtagPub.antigravity-tokendashboard,HashtagPub,Antigravity Token & Cost Intelligence,1.0.0,"Native in-IDE Token, Cost, Prompt Cache & CO2e intelligence dashboard for Antigravity IDE."
