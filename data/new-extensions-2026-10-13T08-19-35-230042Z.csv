@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T07:27:26.607Z,AppsationsEnterprisesInc.appsite-vault,AppsationsEnterprisesInc,AppSite Vault - CLI Extension,0.1.1,"The AppSite Vault on this computer, inside VS Code — see, sync and open the offline copies of the AppSite platform and every tenant, through the appsite CLI."
+2026-10-13T07:27:47.857Z,AppsationsEnterprisesInc.appsite-ai,AppsationsEnterprisesInc,AppSite AI - CLI Extension,0.3.0,"Your tenant's AppSite AI and the appsite CLI, inside VS Code — metered to your tenant's allowance, linked to the AI module."
+2026-10-13T07:36:28.99Z,MianliWang.pietto-vscode-extension,MianliWang,Pietto,0.1.0,Compiler-backed Pietto editing and declared model and connection preview.
+2026-10-13T07:50:00.383Z,MuhammadIkhsan.claude-account-switcher-for-vscode,MuhammadIkhsan,Claude Account Switcher for VSCode,0.4.0,"Pindah antar akun Claude Code tanpa login ulang, lihat akun aktif di status bar, dan pakai akun berbeda di tiap jendela VS Code."
+2026-10-13T07:50:00.3Z,macdara.session-compass,macdara,Session Compass,0.3.2,"Where each parallel Claude Code session is: plan, stage, current step, branch."
+2026-10-13T08:04:28.16Z,ChaplainRafael.Wrenchy,ChaplainRafael,Wrenchy,1.0.0,"A tiny companion that will react to your code state. He has different emotions such as happy,neutral,sad and confused just don't make him angry!"
+2026-10-13T08:07:42.627Z,promptbox.promptbox,promptbox,PromptBox — Universal Coding Agent Prompt Memory,0.1.0,Local-first searchable prompt library and memory for coding agents and developer workflows.
+2026-10-13T08:14:25.023Z,kirana-style.kirana,kirana-style,Kirana,0.1.0,"Hover the CSS a style compiles to, see token colours, an inline summary of what each element receives, completion for conditions and utilities, and the compiler's diagnostics as you type."
+2026-10-13T08:16:02.997Z,mjethwa-streamlit.moonmilk-theme,mjethwa-streamlit,Moonmilk,0.1.0,"Soft pastels on an inky plum base, with a matching cream light variant. Easy on the eyes for long sessions."
