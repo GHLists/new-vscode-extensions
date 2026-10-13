@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 09:21 UTC
+## Latest list — 2026-10-13 10:21 UTC
 
-New extensions published between 2026-10-13 07:21 UTC and 2026-10-13 09:21 UTC.
+New extensions published between 2026-10-13 08:21 UTC and 2026-10-13 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T09-21-04-169024Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T10-21-21-835156Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 08:24:04 | [flespark.gdb-rtos-views](https://marketplace.visualstudio.com/items?itemName=flespark.gdb-rtos-views) | GDB RTOS Views | 2026.4.0 | RTOS kernel state views for embedded debugging, driven by the GDR |
-| 2026-10-13 08:39:18 | [sangram.morph-orm](https://marketplace.visualstudio.com/items?itemName=sangram.morph-orm) | Morph ORM - Schema & Tools | 0.1.0 | Prisma-style schema support, syntax highlighting, formatter, linter, snippets,… |
-| 2026-10-13 08:49:41 | [marvinfrede.ng-tab-grouper](https://marketplace.visualstudio.com/items?itemName=marvinfrede.ng-tab-grouper) | Tab Grouper for Angular | 0.0.4 | Keeps the files of an Angular component next to each other in the tab bar, sort… |
-| 2026-10-13 08:50:27 | [coalesce.coalesce-local-ui](https://marketplace.visualstudio.com/items?itemName=coalesce.coalesce-local-ui) | Coalesce Local UI | 0.3.0 | Run Coalesce directly on your local repo: the Coalesce UI in a VS Code tab, wor… |
-| 2026-10-13 09:05:47 | [andtii.velt](https://marketplace.visualstudio.com/items?itemName=andtii.velt) | Velt | 0.1.1 | Velt language support: syntax highlighting, diagnostics, quick fixes, formattin… |
-| 2026-10-13 09:12:24 | [shiroenguyen.minify-companion](https://marketplace.visualstudio.com/items?itemName=shiroenguyen.minify-companion) | Minify Companion | 0.1.0 | Minify CSS, JS, HTML and compile SCSS/Sass on save: edit style.css and style.mi… |
-| 2026-10-13 09:13:08 | [HashtagPub.antigravity-tokendashboard](https://marketplace.visualstudio.com/items?itemName=HashtagPub.antigravity-tokendashboard) | Antigravity Token & Cost Intelligence | 1.0.0 | Native in-IDE Token, Cost, Prompt Cache & CO2e intelligence dashboard for Antig… |
+| 2026-10-13 09:43:02 | [obrocki.bear-in-mind](https://marketplace.visualstudio.com/items?itemName=obrocki.bear-in-mind) | Bear in Mind — Copilot Token Meter | 0.6.5 | A polar bear's iceberg tracks Copilot plan allowance and selected-chat context.… |
+| 2026-10-13 09:43:33 | [kei29.claudekei-vscode](https://marketplace.visualstudio.com/items?itemName=kei29.claudekei-vscode) | ClaudeKei (VSCode) | 0.1.7 | ClaudeKei VS Code extension for Claude (Claude Agent SDK) |
+| 2026-10-13 09:51:57 | [Normalxxnavi.bureau-theme](https://marketplace.visualstudio.com/items?itemName=Normalxxnavi.bureau-theme) | Bureau — CONTROL Fan Theme | 0.5.0 | Clearance granted. Turn VS Code into the Federal Bureau of Control: four WCAG-t… |
+| 2026-10-13 10:00:29 | [NekoMatsu1.codex-usage-student](https://marketplace.visualstudio.com/items?itemName=NekoMatsu1.codex-usage-student) | Codex Usage Buddy | 0.1.0 | A simple student-built style quota monitor for your own Codex account. |
+| 2026-10-13 10:07:22 | [jvdl.vscode-typescript-styled-plugin-config](https://marketplace.visualstudio.com/items?itemName=jvdl.vscode-typescript-styled-plugin-config) | TypeScript Styled Plugin Config | 0.1.0 | Configure @styled/typescript-styled-plugin from VS Code settings instead of tsc… |
 
 ## Data source
 
