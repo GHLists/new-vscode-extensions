@@ -12,22 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 04:20 UTC
+## Latest list — 2026-10-13 05:20 UTC
 
-New extensions published between 2026-10-13 02:20 UTC and 2026-10-13 04:20 UTC.
+New extensions published between 2026-10-13 03:20 UTC and 2026-10-13 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T04-20-28-774325Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T05-20-57-579566Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 03:15:31 | [involvex.involvexs-opencode-gui](https://marketplace.visualstudio.com/items?itemName=involvex.involvexs-opencode-gui) | OpenCode GUI (Involvex) | 0.4.4 | OpenCode AI coding agent for VSCode GUI extension |
-| 2026-10-13 03:35:57 | [camiloruizx.dotpilot](https://marketplace.visualstudio.com/items?itemName=camiloruizx.dotpilot) | DotPilot | 0.9.0 | Run, debug and build .NET, run Node.js, PHP, Python and Docker projects, and le… |
-| 2026-10-13 03:51:27 | [kkihyeon.co-slide](https://marketplace.visualstudio.com/items?itemName=kkihyeon.co-slide) | Co-Slide | 0.1.0 | 실시간 AI 에이전트 협업 및 PPTX 네이티브 출력을 지원하는 차세대 프레젠테이션 에디터 |
-| 2026-10-13 03:51:31 | [ReadyStack.shouldly-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.shouldly-migration-check) | Shouldly Migration Check for FluentAsse… | 1.0.0 | Maps every FluentAssertions line in a .csproj or C# test file to its Shouldly r… |
-| 2026-10-13 03:51:48 | [ReadyStack.conda-forge-pytorch-channel-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.conda-forge-pytorch-channel-check) | conda-forge PyTorch Channel Migration C… | 1.0.0 | Finds -c pytorch, pytorch:: and pytorch-cuda lines in environment.yml, Dockerfi… |
-| 2026-10-13 03:52:27 | [ReadyStack.rancher-desktop-migration-check](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rancher-desktop-migration-check) | Rancher Desktop Migration: Docker Deskt… | 1.0.0 | Finds Docker Desktop-only lines (host-gateway, desktop-linux context, ~/.docker… |
-| 2026-10-13 03:52:35 | [KevinSamosir.antigravity-multiagents-starterpack](https://marketplace.visualstudio.com/items?itemName=KevinSamosir.antigravity-multiagents-starterpack) | Antigravity Multiagents Starterpack | 0.0.1 | Scaffolds the Antigravity Multiagent Agents Orchestrator Starter Pack |
-| 2026-10-13 03:53:53 | [ReadyStack.verdaccio-migration-check-nexus-repository-pricing](https://marketplace.visualstudio.com/items?itemName=ReadyStack.verdaccio-migration-check-nexus-repository-pricing) | Nexus Repository Pricing: Verdaccio Mig… | 1.0.0 | Maps every Sonatype Nexus Repository URL in .npmrc, settings.xml, pom.xml, buil… |
+| 2026-10-13 04:50:26 | [kairbros-dev.vc-bomber](https://marketplace.visualstudio.com/items?itemName=kairbros-dev.vc-bomber) | VC Bomber | 0.0.1 | Juego inspirado en Bomberman con multijugador local para VS Code |
+| 2026-10-13 05:04:15 | [jlumbroso.porthole](https://marketplace.visualstudio.com/items?itemName=jlumbroso.porthole) | Porthole | 0.1.0 | Pop the HTML page you are looking at into a floating window: only the rendered… |
+| 2026-10-13 05:11:43 | [OldSchoolToolz.command-link](https://marketplace.visualstudio.com/items?itemName=OldSchoolToolz.command-link) | Command Link | 1.0.0 | Click commands in the editor to run them in the vscode terminal. |
+| 2026-10-13 05:11:48 | [sean5940.vscode-rn-preview](https://marketplace.visualstudio.com/items?itemName=sean5940.vscode-rn-preview) | RN Preview | 0.4.0 | Render React Native components in an editor panel without building the app. |
 
 ## Data source
 
