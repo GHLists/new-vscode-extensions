@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T01:17:29.45Z,jdwyer.vscode-eilmer,jdwyer,Eilmer Lua,0.1.0,"Hover docs, completions and diagnostics for Eilmer 5 (lmr) Lua input scripts, layered on the sumneko Lua language server."
+2026-10-13T01:29:07.977Z,lupee.mysql-studio,lupee,MySQL Studio,1.0.1,MySQL 8 数据源浏览、数据查询与编辑、命令窗口、表结构迁移、数据同步、表导出与实例监控
+2026-10-13T01:31:12.977Z,lupee.es-studio,lupee,Elasticsearch Studio,1.0.0,Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query - EDQL）、命令窗口、数据查看与编辑、导入导出
+2026-10-13T02:02:35.567Z,giulicatellapy.vaultflow,giulicatellapy,VaultFlow,0.4.1,Abre el panel de VaultFlow en el proyecto activo del editor y sigue desde la barra lateral las sesiones de los agentes.

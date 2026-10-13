@@ -12,15 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 01:19 UTC
+## Latest list — 2026-10-13 02:20 UTC
 
-New extensions published between 2026-10-12 23:19 UTC and 2026-10-13 01:19 UTC.
+New extensions published between 2026-10-13 00:20 UTC and 2026-10-13 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T01-19-47-644872Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T02-20-29-316188Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 00:39:28 | [isl2m.rightflow](https://marketplace.visualstudio.com/items?itemName=isl2m.rightflow) | RightFlow - Universal RTL and Arabic En… | 1.0.17 | Universal Arabic, Hebrew and Persian RTL and BiDi engine for AI Coding IDEs and… |
+| 2026-10-13 01:17:29 | [jdwyer.vscode-eilmer](https://marketplace.visualstudio.com/items?itemName=jdwyer.vscode-eilmer) | Eilmer Lua | 0.1.0 | Hover docs, completions and diagnostics for Eilmer 5 (lmr) Lua input scripts, l… |
+| 2026-10-13 01:29:07 | [lupee.mysql-studio](https://marketplace.visualstudio.com/items?itemName=lupee.mysql-studio) | MySQL Studio | 1.0.1 | MySQL 8 数据源浏览、数据查询与编辑、命令窗口、表结构迁移、数据同步、表导出与实例监控 |
+| 2026-10-13 01:31:12 | [lupee.es-studio](https://marketplace.visualstudio.com/items?itemName=lupee.es-studio) | Elasticsearch Studio | 1.0.0 | Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query… |
+| 2026-10-13 02:02:35 | [giulicatellapy.vaultflow](https://marketplace.visualstudio.com/items?itemName=giulicatellapy.vaultflow) | VaultFlow | 0.4.1 | Abre el panel de VaultFlow en el proyecto activo del editor y sigue desde la ba… |
 
 ## Data source
 
