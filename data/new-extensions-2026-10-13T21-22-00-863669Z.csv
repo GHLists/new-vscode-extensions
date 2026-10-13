@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T20:33:48.407Z,EugeneGubenkov.lanefold-git,EugeneGubenkov,Lanefold Git Graph,0.1.0,"A Git client built around the commit graph: see the git commands of every operation before it runs, undo it afterwards, and edit history visually."
+2026-10-13T20:39:37.527Z,luksys3.worky,luksys3,Worky,0.1.0,"Git worktrees, GitHub pull requests, and repository-defined setup terminals."
+2026-10-13T20:42:30.497Z,jcruz.archeology-doc,jcruz,Archeology Doc,0.1.1,"archeology-doc tasks, findings, knowledge and specs inside the editor."
+2026-10-13T21:00:51.09Z,ActiveMindsGamesInc.clickuplink,ActiveMindsGamesInc,ClickUpLink,1.7.4,"Link ClickUp tasks to your code. Clickable breadcrumbs, status, priority and assignee right in the editor."
+2026-10-13T21:08:56.357Z,uptokey.quimera-uptokey-vscode,uptokey,Uptokey,0.6.0,"AI coding in VS Code with Uptokey: connected models, explicit context, reviewed edits and real verification."
