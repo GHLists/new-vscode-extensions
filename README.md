@@ -12,20 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 13:25 UTC
+## Latest list — 2026-10-13 14:22 UTC
 
-New extensions published between 2026-10-13 11:25 UTC and 2026-10-13 13:25 UTC.
+New extensions published between 2026-10-13 12:22 UTC and 2026-10-13 14:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T13-25-48-523271Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T14-22-07-268711Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 12:19:19 | [divilly.vscode-publish-check-orgpat-20261013](https://marketplace.visualstudio.com/items?itemName=divilly.vscode-publish-check-orgpat-20261013) | VS Code Publish Org PAT Check 2026-10-13 | 0.0.1 | A minimal Hello World extension used to check Marketplace publishing with an or… |
-| 2026-10-13 12:28:17 | [eric-jonsson-hederstedt.haxe-inactive-regions](https://marketplace.visualstudio.com/items?itemName=eric-jonsson-hederstedt.haxe-inactive-regions) | Haxe Inactive Regions | 0.2.0 | Greys out Haxe code that is excluded by #if / #elseif / #else conditional compi… |
-| 2026-10-13 12:35:15 | [tajikgpt.tajikgpt-agent](https://marketplace.visualstudio.com/items?itemName=tajikgpt.tajikgpt-agent) | TajikGPT Agent | 0.1.0 | Autonomous coding agent for TajikGPT Studio — reads, edits, runs and verifies y… |
-| 2026-10-13 12:57:59 | [ColinMoldenhauer.prettify-symbols-mode-continued](https://marketplace.visualstudio.com/items?itemName=ColinMoldenhauer.prettify-symbols-mode-continued) | Prettify Symbols Mode (Continued) | 2.0.1 | Displays identifiers & symbols using more aesthetically pleasing symbols. |
-| 2026-10-13 13:00:30 | [SurendharND.csv-to-json-preview](https://marketplace.visualstudio.com/items?itemName=SurendharND.csv-to-json-preview) | CSV to JSON Preview | 0.1.0 | Preview the active CSV file as a formatted, read-only JSON array. |
-| 2026-10-13 13:14:20 | [MichaelBrambrink.jetsym-stx-formatter](https://marketplace.visualstudio.com/items?itemName=MichaelBrambrink.jetsym-stx-formatter) | JetSym STX Formatter | 0.0.2 | Formatter for JetSym Structured Text |
+| 2026-10-13 13:28:20 | [NoveraX.courier-file-icons](https://marketplace.visualstudio.com/items?itemName=NoveraX.courier-file-icons) | Courier File Icons | 0.1.0 | Courier's own icons for courier.config.ts, courier.mocks.ts and the .courier fo… |
+| 2026-10-13 13:29:09 | [Shakibstu69.csv-to-sqlserver](https://marketplace.visualstudio.com/items?itemName=Shakibstu69.csv-to-sqlserver) | CSV to SQL Server | 0.2.0 | Import CSV files into SQL Server with validated mappings, exact numeric convers… |
+| 2026-10-13 13:29:23 | [tchandrap.dbt-airflow-lineage](https://marketplace.visualstudio.com/items?itemName=tchandrap.dbt-airflow-lineage) | dbt Lineage + Airflow Pipelines | 0.1.0 | Interactive dbt lineage graph that also shows which Airflow pipelines run and i… |
+| 2026-10-13 13:49:07 | [uliege-dre.rml-dev-server](https://marketplace.visualstudio.com/items?itemName=uliege-dre.rml-dev-server) | RML Dev Server | 0.0.1 | A RDF Mapping Language (RML) Development Server with the BURP RML Processor |
+| 2026-10-13 14:03:37 | [dodecadev.macro-deck-bridge](https://marketplace.visualstudio.com/items?itemName=dodecadev.macro-deck-bridge) | Macro Deck Bridge | 1.0.0 | Connects VS Code to the VS Code Plugin for Macro Deck: run commands and tasks f… |
+| 2026-10-13 14:11:02 | [JahLion.jahlion-themes-pack](https://marketplace.visualstudio.com/items?itemName=JahLion.jahlion-themes-pack) | JahLion Themes | 1.1.0 | Remixes of popular dark themes with reworked syntax highlighting, including JL… |
+| 2026-10-13 14:12:20 | [Neuralcube.neural-neon-themes](https://marketplace.visualstudio.com/items?itemName=Neuralcube.neural-neon-themes) | Neural Neon Themes | 1.0.0 | A collection of futuristic dark VS Code themes featuring neon green, purple, an… |
+| 2026-10-13 14:16:31 | [jeevavarshan.gridly](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.gridly) | Gridly | 0.1.0 | Gridly VS Code extension. Real-time programming activity and duration tracker. |
+| 2026-10-13 14:18:17 | [AnandSundaramoorthySa.mean-stack-basics](https://marketplace.visualstudio.com/items?itemName=AnandSundaramoorthySa.mean-stack-basics) | MEAN Stack Basics | 0.2.1 | 23 MEAN stack lab programs (HTML, CSS, JavaScript, AngularJS, Node, Express, Mo… |
 
 ## Data source
 

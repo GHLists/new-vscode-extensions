@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T13:28:20.153Z,NoveraX.courier-file-icons,NoveraX,Courier File Icons,0.1.0,"Courier's own icons for courier.config.ts, courier.mocks.ts and the .courier folder in Material Icon Theme and vscode-icons, the folder drawn in each theme's own style. Agree once: they follow you into the other theme, onto your other machines, into remote windows and through updates."
+2026-10-13T13:29:09.317Z,Shakibstu69.csv-to-sqlserver,Shakibstu69,CSV to SQL Server,0.2.0,"Import CSV files into SQL Server with validated mappings, exact numeric conversion, and transactional loading."
+2026-10-13T13:29:23.097Z,tchandrap.dbt-airflow-lineage,tchandrap,dbt Lineage + Airflow Pipelines,0.1.0,"Interactive dbt lineage graph that also shows which Airflow pipelines run and ingest each model, resolving dbt selectors (tags, graph operators, excludes). Edit model YAML in place."
+2026-10-13T13:49:07.35Z,uliege-dre.rml-dev-server,uliege-dre,RML Dev Server,0.0.1,A RDF Mapping Language (RML) Development Server with the BURP RML Processor
+2026-10-13T14:03:37.747Z,dodecadev.macro-deck-bridge,dodecadev,Macro Deck Bridge,1.0.0,"Connects VS Code to the VS Code Plugin for Macro Deck: run commands and tasks from your deck, and show the active file, Git branch and problem counts on its buttons."
+2026-10-13T14:11:02.01Z,JahLion.jahlion-themes-pack,JahLion,JahLion Themes,1.1.0,"Remixes of popular dark themes with reworked syntax highlighting, including JL Darcula New: the WebStorm New UI palette on a Darcula background"
+2026-10-13T14:12:20.643Z,Neuralcube.neural-neon-themes,Neuralcube,Neural Neon Themes,1.0.0,"A collection of futuristic dark VS Code themes featuring neon green, purple, and red syntax palettes."
+2026-10-13T14:16:31.097Z,jeevavarshan.gridly,jeevavarshan,Gridly,0.1.0,Gridly VS Code extension. Real-time programming activity and duration tracker.
+2026-10-13T14:18:17.727Z,AnandSundaramoorthySa.mean-stack-basics,AnandSundaramoorthySa,MEAN Stack Basics,0.2.1,"23 MEAN stack lab programs (HTML, CSS, JavaScript, AngularJS, Node, Express, MongoDB) one click or one command away."
