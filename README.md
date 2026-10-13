@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 02:20 UTC
+## Latest list — 2026-10-13 03:20 UTC
 
-New extensions published between 2026-10-13 00:20 UTC and 2026-10-13 02:20 UTC.
+New extensions published between 2026-10-13 01:20 UTC and 2026-10-13 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T02-20-29-316188Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T03-20-00-703257Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 01:17:29 | [jdwyer.vscode-eilmer](https://marketplace.visualstudio.com/items?itemName=jdwyer.vscode-eilmer) | Eilmer Lua | 0.1.0 | Hover docs, completions and diagnostics for Eilmer 5 (lmr) Lua input scripts, l… |
-| 2026-10-13 01:29:07 | [lupee.mysql-studio](https://marketplace.visualstudio.com/items?itemName=lupee.mysql-studio) | MySQL Studio | 1.0.1 | MySQL 8 数据源浏览、数据查询与编辑、命令窗口、表结构迁移、数据同步、表导出与实例监控 |
-| 2026-10-13 01:31:12 | [lupee.es-studio](https://marketplace.visualstudio.com/items?itemName=lupee.es-studio) | Elasticsearch Studio | 1.0.0 | Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query… |
-| 2026-10-13 02:02:35 | [giulicatellapy.vaultflow](https://marketplace.visualstudio.com/items?itemName=giulicatellapy.vaultflow) | VaultFlow | 0.4.1 | Abre el panel de VaultFlow en el proyecto activo del editor y sigue desde la ba… |
+| 2026-10-13 02:37:34 | [bpcarson.vscode-webmcp](https://marketplace.visualstudio.com/items?itemName=bpcarson.vscode-webmcp) | Aero WebMCP | 0.1.1 | Share live Visual Studio Code workspace and editor context with browser agents… |
+| 2026-10-13 02:52:39 | [ChakyiuLI.local-autocomplete](https://marketplace.visualstudio.com/items?itemName=ChakyiuLI.local-autocomplete) | Local Autocomplete | 0.1.0 | Inline code completions from a local LLM (Ollama, LM Studio, llama.cpp, vLLM),… |
+| 2026-10-13 03:03:09 | [tomcat-agent.tomcat-vscode-ext](https://marketplace.visualstudio.com/items?itemName=tomcat-agent.tomcat-vscode-ext) | Tomcat AI Agent | 0.1.89 | Tomcat Agent Box, an AI coding agent in your VS Code sidebar. |
+| 2026-10-13 03:12:33 | [Cortega.cortega-ai-pack](https://marketplace.visualstudio.com/items?itemName=Cortega.cortega-ai-pack) | Cortega AI Booster Pack | 1.1.7 | Signs developers, lawyers and other teams in to Cortega; governs AI tools, sele… |
+| 2026-10-13 03:14:37 | [ali50m.markupfmt](https://marketplace.visualstudio.com/items?itemName=ali50m.markupfmt) | markupfmt | 1.6.1 | Personal markup formatter for VS Code. |
 
 ## Data source
 

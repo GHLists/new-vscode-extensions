@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T02:37:34.753Z,bpcarson.vscode-webmcp,bpcarson,Aero WebMCP,0.1.1,Share live Visual Studio Code workspace and editor context with browser agents through WebMCP.
+2026-10-13T02:52:39.903Z,ChakyiuLI.local-autocomplete,ChakyiuLI,Local Autocomplete,0.1.0,"Inline code completions from a local LLM (Ollama, LM Studio, llama.cpp, vLLM), switchable per file, per language, or everywhere from the status bar."
+2026-10-13T03:03:09.207Z,tomcat-agent.tomcat-vscode-ext,tomcat-agent,Tomcat AI Agent,0.1.89,"Tomcat Agent Box, an AI coding agent in your VS Code sidebar."
+2026-10-13T03:12:33.5Z,Cortega.cortega-ai-pack,Cortega,Cortega AI Booster Pack,1.1.7,"Signs developers, lawyers and other teams in to Cortega; governs AI tools, selects projects, and protects sensitive work."
+2026-10-13T03:14:37.793Z,ali50m.markupfmt,ali50m,markupfmt,1.6.1,Personal markup formatter for VS Code.
