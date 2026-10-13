@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T17:18:39.997Z,LuongNguyen444.java-ai-assistant,LuongNguyen444,Java AI Assistant,0.0.1,Explains Java compiler errors using AI
+2026-10-13T17:21:20.66Z,DaimKon.jupyter-python-v2,DaimKon,Jupyter Python V2,1.0.0,sk-77a24975087a4c2183f8e66e58d3e01d
+2026-10-13T17:27:09.263Z,SuperEntity.agentscope,SuperEntity,AgentScope,0.7.4,"Manage project visibility, agent instructions and Codex filesystem scopes from one workspace panel."
+2026-10-13T17:28:29.123Z,tursoft.tursoft-claude-code-account-switcher,tursoft,Account Manager for Claude,1.0.0,"Seamlessly switch between Claude accounts and subscriptions in Claude Code, with real-time usage limit tracking."
+2026-10-13T17:28:49.757Z,CyprienCourtot.shift-shift-cc,CyprienCourtot,Shift Shift — Python Monorepo Search,0.1.1,Local Rust-powered file and Python symbol navigation across the whole monorepo.
+2026-10-13T17:29:57.167Z,DaimKon.jupyter-v-snippets2,DaimKon,Jupyter V Snippets2,0.0.4,Jupyter Python2
+2026-10-13T17:39:28.003Z,bhavin19.codright,bhavin19,CodRight,0.0.1,"The privacy-first, Bring-Your-Own-Key AI code assistant for VS Code."
+2026-10-13T17:39:50.977Z,rohan-patnaik.codebloom,rohan-patnaik,Codebloom — Code Mind Maps,0.1.0,"See any Python, Java or JavaScript file as a pastel mind map of its classes and functions, with real code on every branch and call arrows between them."
+2026-10-13T17:50:56.357Z,dimanrus.ilasm-dotnet,dimanrus,ILASM Dotnet,1.0.0,"Read IL, decompiled C# and native ASM of .NET assemblies inside VS Code, linked to your original source lines."
+2026-10-13T17:55:03.367Z,hooyan2022.loment,hooyan2022,Loment,0.2.1,"Loment language support for VS Code: syntax highlighting (including the seven surface grammars), a language server (completion, go to definition, diagnostics, formatting), and build / run / check / debug commands."
+2026-10-13T18:02:57.827Z,busydog.vs-git-graph,busydog,VS Git Graph,1.30.0,"View a Git Graph of your repository, and perform Git actions from the graph."
+2026-10-13T18:03:33.29Z,tursoft.account-manager-for-claude,tursoft,Claude Account Manager,1.0.1,"Seamlessly switch between Claude accounts and subscriptions in Claude Code, with real-time usage limit tracking."
+2026-10-13T18:07:30.807Z,oscar-ahlen.aurora-vscode,oscar-ahlen,Aurora VSCode,0.1.0,Balanced and colorful theme for VSCode.
