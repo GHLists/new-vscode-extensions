@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T16:42:55.367Z,Kalaiarasan.sales-grid,Kalaiarasan,Sales Grid,0.1.1,"See every Salesforce org you are connected to, open it in the browser, or copy its login URL."
+2026-10-13T16:51:05.377Z,hasanur82.dockable-window,hasanur82,Dockable Floating Windows,1.0.3,"Ultra-lightweight floating windows, header buttons, and dockable columns for VS Code with zero bloat."
+2026-10-13T16:52:36.523Z,yagipass.vscode-spotless-for-gradle-and-maven,yagipass,Spotless for Gradle and Maven,1.0.0,Format on save with the Spotless configuration of your Gradle or Maven build.
+2026-10-13T17:01:26.827Z,dark-byte.kilo-qol-patch,dark-byte,Kilo QoL Patch,0.8.2,"QoL patch for Kilo Code: drag & drop @file/@folder mentions, full keyboard controls, KaTeX math, raw markdown toggle, custom typography, inline MCP images, cross-workspace chat history."
+2026-10-13T17:07:18.94Z,LincZero.smart-region,LincZero,Smart Region,0.0.1,Smartly create regions
+2026-10-13T17:09:32.12Z,MohitGhegadmal.dircore,MohitGhegadmal,DirCore,0.0.1,Automatically maintains safe tracker files in empty workspace directories.
