@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 22:20 UTC
+## Latest list — 2026-10-13 23:20 UTC
 
-New extensions published between 2026-10-13 20:20 UTC and 2026-10-13 22:20 UTC.
+New extensions published between 2026-10-13 21:20 UTC and 2026-10-13 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T22-20-30-580109Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T23-20-18-715412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 21:25:30 | [ayaandh.Tekst](https://marketplace.visualstudio.com/items?itemName=ayaandh.Tekst) | Tekst | 0.1.8 | Language support for Tekst with syntax highlighting, editor intelligence, build… |
-| 2026-10-13 21:33:35 | [techselva.ai-cost-drilldown-vscode](https://marketplace.visualstudio.com/items?itemName=techselva.ai-cost-drilldown-vscode) | AI Cost Drilldown | 0.2.2 | See where your AI spend goes, from a month down to a single tool call, for Clau… |
-| 2026-10-13 21:34:15 | [ramros-team.ramros](https://marketplace.visualstudio.com/items?itemName=ramros-team.ramros) | Really Awesome Management of ROS (RAMRO… | 1.3.1 | VSCode Extension for ROS2 Workspace Management |
-| 2026-10-13 21:42:21 | [onurkarakus.package-hub](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub) | PackageHub | 0.0.1 | Manage your NuGet packages in the editor. See which ones need attention, then u… |
-| 2026-10-13 21:48:12 | [pedrosakuma.dotnet-diagnostics](https://marketplace.visualstudio.com/items?itemName=pedrosakuma.dotnet-diagnostics) | .NET Diagnostics | 0.1.0 | Live runtime counters, GC pauses, and point-in-time CPU captures for .NET proce… |
-| 2026-10-13 21:52:38 | [ChuyExtension.tutor-ide](https://marketplace.visualstudio.com/items?itemName=ChuyExtension.tutor-ide) | Tutor IDE | 0.4.3 | Aprende programación sin salir del editor: cursos con ejercicios y pruebas auto… |
-| 2026-10-13 21:54:22 | [ainsurancemarket.workspace-observatory](https://marketplace.visualstudio.com/items?itemName=ainsurancemarket.workspace-observatory) | Workspace Observatory | 0.1.0 | Explore your workspace as a live 3D graph. |
-| 2026-10-13 22:03:41 | [tasermonkey.ic10-bench](https://marketplace.visualstudio.com/items?itemName=tasermonkey.ic10-bench) | IC10 Bench | 0.0.1 | Step through Stationeers IC10 scripts while their @tasermonkey/ic10-bench tests… |
-| 2026-10-13 22:11:10 | [jakub-ochremiak.maister-lens](https://marketplace.visualstudio.com/items?itemName=jakub-ochremiak.maister-lens) | Maister Lens | 0.3.0 | Explore Maister AI development workflows, tasks, artifacts and follow-ups insid… |
+| 2026-10-13 22:18:47 | [PinoyITSolution.suitecrm-mcp](https://marketplace.visualstudio.com/items?itemName=PinoyITSolution.suitecrm-mcp) | MCP Server for SuiteCRM | 0.1.0 | Read-first Model Context Protocol server for SuiteCRM 7 (v4.1 REST API): module… |
+| 2026-10-13 22:19:09 | [PinoyITSolution.mailchimp-mcp](https://marketplace.visualstudio.com/items?itemName=PinoyITSolution.mailchimp-mcp) | MCP Server for Mailchimp | 0.1.0 | Read-first Model Context Protocol server for the Mailchimp Marketing API: audie… |
+| 2026-10-13 22:19:34 | [PinoyITSolution.webjaguar-mcp](https://marketplace.visualstudio.com/items?itemName=PinoyITSolution.webjaguar-mcp) | MCP Server for WebJaguar | 0.1.0 | Model Context Protocol server for the WebJaguar e-commerce REST API: products,… |
+| 2026-10-13 22:30:13 | [ahati.office-file-editor-viewer](https://marketplace.visualstudio.com/items?itemName=ahati.office-file-editor-viewer) | Office File Editor & Viewer | 0.1.3 | Open Word, Excel, PowerPoint and Visio files with high-fidelity, fully offline… |
+| 2026-10-13 22:35:27 | [BarMelamed.deepdive-mysql](https://marketplace.visualstudio.com/items?itemName=BarMelamed.deepdive-mysql) | DeepDive — Visual MySQL Explorer | 0.1.0 | Dive into your MySQL servers visually: bubble canvas explorer, schema relations… |
+| 2026-10-13 22:41:47 | [gilmar-sales.heimdall-vscode](https://marketplace.visualstudio.com/items?itemName=gilmar-sales.heimdall-vscode) | Heimdall - C++ Lint and Format | 0.14.4 | C++ diagnostics, quick fixes, formatting, and code completion powered by Heimda… |
+| 2026-10-13 22:58:03 | [FagulhaEscudo.fagulha-escudo](https://marketplace.visualstudio.com/items?itemName=FagulhaEscudo.fagulha-escudo) | Fagulha Escudo | 0.4.0 | Revisão de segurança no editor, sem instalar nada: código, configuração, contai… |
+| 2026-10-13 23:09:56 | [Zacess.zacess-themes](https://marketplace.visualstudio.com/items?itemName=Zacess.zacess-themes) | Zacess Themes | 0.1.0 | Four high contrast code themes matching the Zacess reader: Light, Dark, Yellow… |
 
 ## Data source
 
