@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 14:22 UTC
+## Latest list — 2026-10-13 15:20 UTC
 
-New extensions published between 2026-10-13 12:22 UTC and 2026-10-13 14:22 UTC.
+New extensions published between 2026-10-13 13:20 UTC and 2026-10-13 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T14-22-07-268711Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T15-20-11-669885Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 13:28:20 | [NoveraX.courier-file-icons](https://marketplace.visualstudio.com/items?itemName=NoveraX.courier-file-icons) | Courier File Icons | 0.1.0 | Courier's own icons for courier.config.ts, courier.mocks.ts and the .courier fo… |
-| 2026-10-13 13:29:09 | [Shakibstu69.csv-to-sqlserver](https://marketplace.visualstudio.com/items?itemName=Shakibstu69.csv-to-sqlserver) | CSV to SQL Server | 0.2.0 | Import CSV files into SQL Server with validated mappings, exact numeric convers… |
-| 2026-10-13 13:29:23 | [tchandrap.dbt-airflow-lineage](https://marketplace.visualstudio.com/items?itemName=tchandrap.dbt-airflow-lineage) | dbt Lineage + Airflow Pipelines | 0.1.0 | Interactive dbt lineage graph that also shows which Airflow pipelines run and i… |
-| 2026-10-13 13:49:07 | [uliege-dre.rml-dev-server](https://marketplace.visualstudio.com/items?itemName=uliege-dre.rml-dev-server) | RML Dev Server | 0.0.1 | A RDF Mapping Language (RML) Development Server with the BURP RML Processor |
-| 2026-10-13 14:03:37 | [dodecadev.macro-deck-bridge](https://marketplace.visualstudio.com/items?itemName=dodecadev.macro-deck-bridge) | Macro Deck Bridge | 1.0.0 | Connects VS Code to the VS Code Plugin for Macro Deck: run commands and tasks f… |
-| 2026-10-13 14:11:02 | [JahLion.jahlion-themes-pack](https://marketplace.visualstudio.com/items?itemName=JahLion.jahlion-themes-pack) | JahLion Themes | 1.1.0 | Remixes of popular dark themes with reworked syntax highlighting, including JL… |
-| 2026-10-13 14:12:20 | [Neuralcube.neural-neon-themes](https://marketplace.visualstudio.com/items?itemName=Neuralcube.neural-neon-themes) | Neural Neon Themes | 1.0.0 | A collection of futuristic dark VS Code themes featuring neon green, purple, an… |
-| 2026-10-13 14:16:31 | [jeevavarshan.gridly](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.gridly) | Gridly | 0.1.0 | Gridly VS Code extension. Real-time programming activity and duration tracker. |
-| 2026-10-13 14:18:17 | [AnandSundaramoorthySa.mean-stack-basics](https://marketplace.visualstudio.com/items?itemName=AnandSundaramoorthySa.mean-stack-basics) | MEAN Stack Basics | 0.2.1 | 23 MEAN stack lab programs (HTML, CSS, JavaScript, AngularJS, Node, Express, Mo… |
+| 2026-10-13 14:20:01 | [videoTools.videoTools](https://marketplace.visualstudio.com/items?itemName=videoTools.videoTools) | Video Player (with Audio) | 0.1.11 | Play MP4 / MOV / M4V / WebM videos with sound directly inside VS Code — audio t… |
+| 2026-10-13 14:27:46 | [gitmit.gitmit](https://marketplace.visualstudio.com/items?itemName=gitmit.gitmit) | gitmit: Commit Messages | 0.1.0 | Convention-compliant commit messages from your staged changes. Follows your com… |
+| 2026-10-13 14:32:33 | [z-riley.helix-emulation](https://marketplace.visualstudio.com/items?itemName=z-riley.helix-emulation) | Helix Emulation | 0.9.0 | Helix emulation for Visual Studio Code |
+| 2026-10-13 14:50:46 | [partcad.partcad-official](https://marketplace.visualstudio.com/items?itemName=partcad.partcad-official) | PartCAD: Digital Thread | 0.8.192 | Build system and package manager for CAD files, and assembly modeling framework |
+| 2026-10-13 14:50:47 | [vvenv.vscode-janja](https://marketplace.visualstudio.com/items?itemName=vvenv.vscode-janja) | Janja | 0.1.1 | Syntax highlighting, diagnostics, completions, hover and formatting for Janja t… |
+| 2026-10-13 14:55:28 | [PutraAdiJaya.gigagrid-fast-excel](https://marketplace.visualstudio.com/items?itemName=PutraAdiJaya.gigagrid-fast-excel) | Gigagrid Excel Sheet Pro | 0.5.1 | Fast Excel (.xlsx) viewer and editor for VS Code: big sheets, formulas, cell fo… |
+| 2026-10-13 15:08:26 | [PutraAdiJaya.gigagrid-csv](https://marketplace.visualstudio.com/items?itemName=PutraAdiJaya.gigagrid-csv) | Gigagrid CSV Pro | 0.1.2 | Fast viewer and editor for very large CSV/TSV files: lazy indexing, virtual scr… |
+| 2026-10-13 15:12:33 | [ocieio.all-in-one](https://marketplace.visualstudio.com/items?itemName=ocieio.all-in-one) | All In One | 0.0.1 | Color VS Code editor backgrounds by language or file extension. |
 
 ## Data source
 

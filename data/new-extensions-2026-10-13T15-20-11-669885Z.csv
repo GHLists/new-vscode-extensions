@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T14:20:01.587Z,videoTools.videoTools,videoTools,Video Player (with Audio),0.1.11,"Play MP4 / MOV / M4V / WebM videos with sound directly inside VS Code — audio that actually plays, and stays in sync."
+2026-10-13T14:27:46.45Z,gitmit.gitmit,gitmit,gitmit: Commit Messages,0.1.0,"Convention-compliant commit messages from your staged changes. Follows your commitlint rules, keeps secrets on your machine, and splits messy changes into focused commits."
+2026-10-13T14:32:33.267Z,z-riley.helix-emulation,z-riley,Helix Emulation,0.9.0,Helix emulation for Visual Studio Code
+2026-10-13T14:50:46.597Z,partcad.partcad-official,partcad,PartCAD: Digital Thread,0.8.192,"Build system and package manager for CAD files, and assembly modeling framework"
+2026-10-13T14:50:47.133Z,vvenv.vscode-janja,vvenv,Janja,0.1.1,"Syntax highlighting, diagnostics, completions, hover and formatting for Janja templates"
+2026-10-13T14:55:28.503Z,PutraAdiJaya.gigagrid-fast-excel,PutraAdiJaya,Gigagrid Excel Sheet Pro,0.5.1,"Fast Excel (.xlsx) viewer and editor for VS Code: big sheets, formulas, cell formatting, images, row insert/delete, themes."
+2026-10-13T15:08:26.843Z,PutraAdiJaya.gigagrid-csv,PutraAdiJaya,Gigagrid CSV Pro,0.1.2,"Fast viewer and editor for very large CSV/TSV files: lazy indexing, virtual scrolling of millions of rows, search, sort, filter, row editing and Excel / Dark / Light themes."
+2026-10-13T15:12:33.777Z,ocieio.all-in-one,ocieio,All In One,0.0.1,Color VS Code editor backgrounds by language or file extension.
