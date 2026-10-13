@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T11:20:41.727Z,lp0124.mpx-oxc,lp0124,Mpx Oxc,0.1.0,为 Mpx、TypeScript、JavaScript 提供代码检查、格式化与保存自动修复，复用项目 Oxlint 和 Oxfmt 工具
+2026-10-13T11:21:58.85Z,Schlingensiepen.tmux-sessions,Schlingensiepen,tmux Sessions,0.1.0,Manage remote tmux sessions on any number of SSH hosts from the VS Code sidebar.
+2026-10-13T11:38:29.983Z,Arm.cmsis-developer-assistant,Arm,CMSIS Developer Assistant,2.5.20,Enable AI coding agents to develop and debug CMSIS projects with AI skills and MCP tools.
+2026-10-13T11:49:11.24Z,ninozala.pocket-code,ninozala,Pocket Code,0.0.1,"Restricted coding agents, read-only files and approved project previews from your phone. End-to-end encrypted."
+2026-10-13T12:03:26.86Z,codigrate.cod-color-picker,codigrate,Color Picker by Codigrate,2026.1.0,"Eyedrop any color on screen and read it in every color space, with contrast checks, harmonies and more. Works with the colors in your code. By Codigrate."
+2026-10-13T12:05:28.827Z,Ronix-Blue.ronix-blue,Ronix-Blue,Ronix Blue,1.0.1,"Un tema oscuro profesional y elegante para VS Code con fondo azul casi negro, paneles azul marino, detalles celestes y una sintaxis viva y equilibrada."
+2026-10-13T12:08:53.62Z,bhoov.shadow-edit,bhoov,Shadow Edit,0.1.5,Private per-file editing with three-way merges against the live working directory.
