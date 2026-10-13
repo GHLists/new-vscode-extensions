@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T12:19:19.903Z,divilly.vscode-publish-check-orgpat-20261013,divilly,VS Code Publish Org PAT Check 2026-10-13,0.0.1,A minimal Hello World extension used to check Marketplace publishing with an organization-scoped PAT.
+2026-10-13T12:28:17.487Z,eric-jonsson-hederstedt.haxe-inactive-regions,eric-jonsson-hederstedt,Haxe Inactive Regions,0.2.0,Greys out Haxe code that is excluded by #if / #elseif / #else conditional compilation.
+2026-10-13T12:35:15.123Z,tajikgpt.tajikgpt-agent,tajikgpt,TajikGPT Agent,0.1.0,"Autonomous coding agent for TajikGPT Studio — reads, edits, runs and verifies your project"
+2026-10-13T12:57:59.61Z,ColinMoldenhauer.prettify-symbols-mode-continued,ColinMoldenhauer,Prettify Symbols Mode (Continued),2.0.1,Displays identifiers & symbols using more aesthetically pleasing symbols.
+2026-10-13T13:00:30.163Z,SurendharND.csv-to-json-preview,SurendharND,CSV to JSON Preview,0.1.0,"Preview the active CSV file as a formatted, read-only JSON array."
+2026-10-13T13:14:20.443Z,MichaelBrambrink.jetsym-stx-formatter,MichaelBrambrink,JetSym STX Formatter,0.0.2,Formatter for JetSym Structured Text

@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 12:21 UTC
+## Latest list — 2026-10-13 13:25 UTC
 
-New extensions published between 2026-10-13 10:21 UTC and 2026-10-13 12:21 UTC.
+New extensions published between 2026-10-13 11:25 UTC and 2026-10-13 13:25 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T12-21-01-108283Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T13-25-48-523271Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 11:20:41 | [lp0124.mpx-oxc](https://marketplace.visualstudio.com/items?itemName=lp0124.mpx-oxc) | Mpx Oxc | 0.1.0 | 为 Mpx、TypeScript、JavaScript 提供代码检查、格式化与保存自动修复，复用项目 Oxlint 和 Oxfmt 工具 |
-| 2026-10-13 11:21:58 | [Schlingensiepen.tmux-sessions](https://marketplace.visualstudio.com/items?itemName=Schlingensiepen.tmux-sessions) | tmux Sessions | 0.1.0 | Manage remote tmux sessions on any number of SSH hosts from the VS Code sidebar. |
-| 2026-10-13 11:38:29 | [Arm.cmsis-developer-assistant](https://marketplace.visualstudio.com/items?itemName=Arm.cmsis-developer-assistant) | CMSIS Developer Assistant | 2.5.20 | Enable AI coding agents to develop and debug CMSIS projects with AI skills and… |
-| 2026-10-13 11:49:11 | [ninozala.pocket-code](https://marketplace.visualstudio.com/items?itemName=ninozala.pocket-code) | Pocket Code | 0.0.1 | Restricted coding agents, read-only files and approved project previews from yo… |
-| 2026-10-13 12:03:26 | [codigrate.cod-color-picker](https://marketplace.visualstudio.com/items?itemName=codigrate.cod-color-picker) | Color Picker by Codigrate | 2026.1.0 | Eyedrop any color on screen and read it in every color space, with contrast che… |
-| 2026-10-13 12:05:28 | [Ronix-Blue.ronix-blue](https://marketplace.visualstudio.com/items?itemName=Ronix-Blue.ronix-blue) | Ronix Blue | 1.0.1 | Un tema oscuro profesional y elegante para VS Code con fondo azul casi negro, p… |
-| 2026-10-13 12:08:53 | [bhoov.shadow-edit](https://marketplace.visualstudio.com/items?itemName=bhoov.shadow-edit) | Shadow Edit | 0.1.5 | Private per-file editing with three-way merges against the live working directo… |
+| 2026-10-13 12:19:19 | [divilly.vscode-publish-check-orgpat-20261013](https://marketplace.visualstudio.com/items?itemName=divilly.vscode-publish-check-orgpat-20261013) | VS Code Publish Org PAT Check 2026-10-13 | 0.0.1 | A minimal Hello World extension used to check Marketplace publishing with an or… |
+| 2026-10-13 12:28:17 | [eric-jonsson-hederstedt.haxe-inactive-regions](https://marketplace.visualstudio.com/items?itemName=eric-jonsson-hederstedt.haxe-inactive-regions) | Haxe Inactive Regions | 0.2.0 | Greys out Haxe code that is excluded by #if / #elseif / #else conditional compi… |
+| 2026-10-13 12:35:15 | [tajikgpt.tajikgpt-agent](https://marketplace.visualstudio.com/items?itemName=tajikgpt.tajikgpt-agent) | TajikGPT Agent | 0.1.0 | Autonomous coding agent for TajikGPT Studio — reads, edits, runs and verifies y… |
+| 2026-10-13 12:57:59 | [ColinMoldenhauer.prettify-symbols-mode-continued](https://marketplace.visualstudio.com/items?itemName=ColinMoldenhauer.prettify-symbols-mode-continued) | Prettify Symbols Mode (Continued) | 2.0.1 | Displays identifiers & symbols using more aesthetically pleasing symbols. |
+| 2026-10-13 13:00:30 | [SurendharND.csv-to-json-preview](https://marketplace.visualstudio.com/items?itemName=SurendharND.csv-to-json-preview) | CSV to JSON Preview | 0.1.0 | Preview the active CSV file as a formatted, read-only JSON array. |
+| 2026-10-13 13:14:20 | [MichaelBrambrink.jetsym-stx-formatter](https://marketplace.visualstudio.com/items?itemName=MichaelBrambrink.jetsym-stx-formatter) | JetSym STX Formatter | 0.0.2 | Formatter for JetSym Structured Text |
 
 ## Data source
 
