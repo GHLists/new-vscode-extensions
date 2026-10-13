@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T10:34:48.3Z,greengoldlang.greengold-themes,greengoldlang,Greengold Themes - Green Dark & Light,1.0.1,"Green color themes for VS Code: a deep forest-green dark theme and a soft sage light theme with gold accents. Great for any language, tuned for Greengold."
+2026-10-13T10:48:29.99Z,droidvisx.droidvisx,droidvisx,Droid - AI Coding Agent,0.8.11,"Unofficial Factory Droid integration for VS Code and Cursor, with coding chat, code review, BYOK models, and independent code completion."
+2026-10-13T11:01:21.37Z,electroleg-tools.agentless-ssh,electroleg-tools,Agentless SSH,0.2.0,"SSH file browser that installs nothing on the server: edit over SFTP, switch user with sudo/su per session, drag & drop upload."
+2026-10-13T11:03:11.54Z,codshot.codshot-vscode,codshot,CodShot,0.4.6,"Browse, preview, insert, and save code snippets in your CodShot workspace directly from VS Code."
+2026-10-13T11:06:24.75Z,at-besa.git-submodule-update,at-besa,Git Submodule Update,1.1.0,Adds buttons to the Source Control view for git submodule update (--init and --remote).
