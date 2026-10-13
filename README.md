@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 21:22 UTC
+## Latest list — 2026-10-13 22:20 UTC
 
-New extensions published between 2026-10-13 19:22 UTC and 2026-10-13 21:22 UTC.
+New extensions published between 2026-10-13 20:20 UTC and 2026-10-13 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T21-22-00-863669Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T22-20-30-580109Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 20:33:48 | [EugeneGubenkov.lanefold-git](https://marketplace.visualstudio.com/items?itemName=EugeneGubenkov.lanefold-git) | Lanefold Git Graph | 0.1.0 | A Git client built around the commit graph: see the git commands of every opera… |
-| 2026-10-13 20:39:37 | [luksys3.worky](https://marketplace.visualstudio.com/items?itemName=luksys3.worky) | Worky | 0.1.0 | Git worktrees, GitHub pull requests, and repository-defined setup terminals. |
-| 2026-10-13 20:42:30 | [jcruz.archeology-doc](https://marketplace.visualstudio.com/items?itemName=jcruz.archeology-doc) | Archeology Doc | 0.1.1 | archeology-doc tasks, findings, knowledge and specs inside the editor. |
-| 2026-10-13 21:00:51 | [ActiveMindsGamesInc.clickuplink](https://marketplace.visualstudio.com/items?itemName=ActiveMindsGamesInc.clickuplink) | ClickUpLink | 1.7.4 | Link ClickUp tasks to your code. Clickable breadcrumbs, status, priority and as… |
-| 2026-10-13 21:08:56 | [uptokey.quimera-uptokey-vscode](https://marketplace.visualstudio.com/items?itemName=uptokey.quimera-uptokey-vscode) | Uptokey | 0.6.0 | AI coding in VS Code with Uptokey: connected models, explicit context, reviewed… |
+| 2026-10-13 21:25:30 | [ayaandh.Tekst](https://marketplace.visualstudio.com/items?itemName=ayaandh.Tekst) | Tekst | 0.1.8 | Language support for Tekst with syntax highlighting, editor intelligence, build… |
+| 2026-10-13 21:33:35 | [techselva.ai-cost-drilldown-vscode](https://marketplace.visualstudio.com/items?itemName=techselva.ai-cost-drilldown-vscode) | AI Cost Drilldown | 0.2.2 | See where your AI spend goes, from a month down to a single tool call, for Clau… |
+| 2026-10-13 21:34:15 | [ramros-team.ramros](https://marketplace.visualstudio.com/items?itemName=ramros-team.ramros) | Really Awesome Management of ROS (RAMRO… | 1.3.1 | VSCode Extension for ROS2 Workspace Management |
+| 2026-10-13 21:42:21 | [onurkarakus.package-hub](https://marketplace.visualstudio.com/items?itemName=onurkarakus.package-hub) | PackageHub | 0.0.1 | Manage your NuGet packages in the editor. See which ones need attention, then u… |
+| 2026-10-13 21:48:12 | [pedrosakuma.dotnet-diagnostics](https://marketplace.visualstudio.com/items?itemName=pedrosakuma.dotnet-diagnostics) | .NET Diagnostics | 0.1.0 | Live runtime counters, GC pauses, and point-in-time CPU captures for .NET proce… |
+| 2026-10-13 21:52:38 | [ChuyExtension.tutor-ide](https://marketplace.visualstudio.com/items?itemName=ChuyExtension.tutor-ide) | Tutor IDE | 0.4.3 | Aprende programación sin salir del editor: cursos con ejercicios y pruebas auto… |
+| 2026-10-13 21:54:22 | [ainsurancemarket.workspace-observatory](https://marketplace.visualstudio.com/items?itemName=ainsurancemarket.workspace-observatory) | Workspace Observatory | 0.1.0 | Explore your workspace as a live 3D graph. |
+| 2026-10-13 22:03:41 | [tasermonkey.ic10-bench](https://marketplace.visualstudio.com/items?itemName=tasermonkey.ic10-bench) | IC10 Bench | 0.0.1 | Step through Stationeers IC10 scripts while their @tasermonkey/ic10-bench tests… |
+| 2026-10-13 22:11:10 | [jakub-ochremiak.maister-lens](https://marketplace.visualstudio.com/items?itemName=jakub-ochremiak.maister-lens) | Maister Lens | 0.3.0 | Explore Maister AI development workflows, tasks, artifacts and follow-ups insid… |
 
 ## Data source
 

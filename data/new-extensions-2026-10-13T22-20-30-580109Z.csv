@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T21:25:30.837Z,ayaandh.Tekst,ayaandh,Tekst,0.1.8,"Language support for Tekst with syntax highlighting, editor intelligence, builds, and tests."
+2026-10-13T21:33:35.943Z,techselva.ai-cost-drilldown-vscode,techselva,AI Cost Drilldown,0.2.2,"See where your AI spend goes, from a month down to a single tool call, for Claude Code, GitHub Copilot CLI and VS Code Copilot Chat."
+2026-10-13T21:34:15.413Z,ramros-team.ramros,ramros-team,Really Awesome Management of ROS (RAMROS),1.3.1,VSCode Extension for ROS2 Workspace Management
+2026-10-13T21:42:21.183Z,onurkarakus.package-hub,onurkarakus,PackageHub,0.0.1,"Manage your NuGet packages in the editor. See which ones need attention, then update them in a few clicks."
+2026-10-13T21:48:12.76Z,pedrosakuma.dotnet-diagnostics,pedrosakuma,.NET Diagnostics,0.1.0,"Live runtime counters, GC pauses, and point-in-time CPU captures for .NET processes using dotnet-diagnostics-cli."
+2026-10-13T21:52:38.893Z,ChuyExtension.tutor-ide,ChuyExtension,Tutor IDE,0.4.3,"Aprende programación sin salir del editor: cursos con ejercicios y pruebas automáticas, evaluaciones, progreso, tutor con IA en modo mentor y opciones de enfoque y accesibilidad."
+2026-10-13T21:54:22.867Z,ainsurancemarket.workspace-observatory,ainsurancemarket,Workspace Observatory,0.1.0,Explore your workspace as a live 3D graph.
+2026-10-13T22:03:41.823Z,tasermonkey.ic10-bench,tasermonkey,IC10 Bench,0.0.1,Step through Stationeers IC10 scripts while their @tasermonkey/ic10-bench tests run
+2026-10-13T22:11:10.887Z,jakub-ochremiak.maister-lens,jakub-ochremiak,Maister Lens,0.3.0,"Explore Maister AI development workflows, tasks, artifacts and follow-ups inside VS Code."
