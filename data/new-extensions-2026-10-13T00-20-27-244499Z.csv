@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-12T23:29:36.34Z,VenkateshEllur.venel-filemanager,VenkateshEllur,VenEl File Manager,1.0.1,"Modern interactive File Explorer for VS Code & Cursor with Grid View, Instant Previews & Native Drive Navigation."
+2026-10-12T23:54:44.063Z,antlambe.iconimp-vsc-cli-itpng-20261012235305-229c,antlambe,II Test - VS Code - CLI - Icon PNG - 20261012235305-229c,1.0.0,Generated PROD extension for testing Marketplace icon behavior.
+2026-10-13T00:00:43.3Z,antlambe.iconimp-vsc-cli-ichurn-20261012235305-229c,antlambe,II Test - VS Code - CLI - Icon Churn - 20261012235305-229c,1.0.2,Generated PROD extension for testing Marketplace icon behavior.
+2026-10-13T00:06:21.523Z,nnn706.ansible-runner,nnn706,Ansible Runner (Community Fork),0.0.4,"Community fork of vscode-ansible with portable runner cwd and Run Playbook CodeLens, including imported playbooks."
