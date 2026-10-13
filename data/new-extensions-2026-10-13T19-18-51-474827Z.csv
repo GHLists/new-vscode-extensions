@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T18:21:38.737Z,prashant-kumar.dev-refactor-ai,prashant-kumar,AI Copilot Companion,0.0.4,Commercial-grade AI Coding Assistant powered by Gemini 3.8 Flash
+2026-10-13T18:22:17.44Z,Annala-son.archimate-viewer,Annala-son,ArchiMate Viewer,0.1.0,"Open ArchiMate Model Exchange diagrams in VS Code. Pan, zoom, drag shapes, route arrows, retarget relationships, and edit labels. Inspired by bpmn.io."
+2026-10-13T18:23:01.997Z,JiRackautomationCodingAgentIDE.jirack-agent,JiRackautomationCodingAgentIDE,JiRack Agent,0.11.0,Agentic coding assistant powered by a JiRack model (Ollama or OpenAI-compatible endpoint). Every change is queued for your approval.
+2026-10-13T18:39:17.76Z,AMIdentity.iscat-executor,AMIdentity,ISC Test case runner,2.0.0,Execute ISC test case by remotly connecting to you ISC tenant.
+2026-10-13T18:41:26.383Z,cristianpaulo4.flow-tracer,cristianpaulo4,FlowTracer - API Sequence Visualizer,1.0.0,"Intercepta, mapeia e visualiza fluxos de chamadas HTTP distribuídas em diagramas de sequência."
+2026-10-13T19:00:35.31Z,EliezerBwana.xenoui,EliezerBwana,XenoUI,0.1.5,"XenoUI Preview, project, page and component templates, device selection and application launching for XenoUI projects."
+2026-10-13T19:02:12.267Z,server-healthcare.server-health-monitor,server-healthcare,Server Health Monitor,0.1.0,"Add a Linux server by IP and watch CPU, memory, storage, network and processes live over SSH, with an interactive dashboard. Built to put almost no load on your servers."
