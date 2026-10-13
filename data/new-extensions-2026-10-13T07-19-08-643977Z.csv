@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T06:21:14.99Z,toprouter.topcode,toprouter,TopCode,0.5.1,"ИИ-агент для программирования на DeepSeek V4: правит код, запускает команды и тесты. Оплата в рублях через TopRouter."
+2026-10-13T06:38:59.167Z,rosenkolev.mcp-vscode,rosenkolev,MCP VS Code,1.0.0,"Lets AI agents run tasks, terminals and commands, navigate, refactor and debug code, and search files in VS Code over MCP."
+2026-10-13T06:55:05.45Z,querysmith.querysmith,querysmith,QuerySmith,0.1.1,Query databases from VS Code without the Electron app
+2026-10-13T06:57:57.053Z,conf-ernce.conference-study-snippets,conf-ernce,Conference Study Snippets,2.0.0,"Учебные шаблоны HTML, CSS, Express, Prisma, SQL и инструкция запуска."
