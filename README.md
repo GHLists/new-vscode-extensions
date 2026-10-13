@@ -12,18 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 00:20 UTC
+## Latest list — 2026-10-13 01:19 UTC
 
-New extensions published between 2026-10-12 22:20 UTC and 2026-10-13 00:20 UTC.
+New extensions published between 2026-10-12 23:19 UTC and 2026-10-13 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T00-20-27-244499Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T01-19-47-644872Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-12 23:29:36 | [VenkateshEllur.venel-filemanager](https://marketplace.visualstudio.com/items?itemName=VenkateshEllur.venel-filemanager) | VenEl File Manager | 1.0.1 | Modern interactive File Explorer for VS Code & Cursor with Grid View, Instant P… |
-| 2026-10-12 23:54:44 | [antlambe.iconimp-vsc-cli-itpng-20261012235305-229c](https://marketplace.visualstudio.com/items?itemName=antlambe.iconimp-vsc-cli-itpng-20261012235305-229c) | II Test - VS Code - CLI - Icon PNG - 20… | 1.0.0 | Generated PROD extension for testing Marketplace icon behavior. |
-| 2026-10-13 00:00:43 | [antlambe.iconimp-vsc-cli-ichurn-20261012235305-229c](https://marketplace.visualstudio.com/items?itemName=antlambe.iconimp-vsc-cli-ichurn-20261012235305-229c) | II Test - VS Code - CLI - Icon Churn -… | 1.0.2 | Generated PROD extension for testing Marketplace icon behavior. |
-| 2026-10-13 00:06:21 | [nnn706.ansible-runner](https://marketplace.visualstudio.com/items?itemName=nnn706.ansible-runner) | Ansible Runner (Community Fork) | 0.0.4 | Community fork of vscode-ansible with portable runner cwd and Run Playbook Code… |
+| 2026-10-13 00:39:28 | [isl2m.rightflow](https://marketplace.visualstudio.com/items?itemName=isl2m.rightflow) | RightFlow - Universal RTL and Arabic En… | 1.0.17 | Universal Arabic, Hebrew and Persian RTL and BiDi engine for AI Coding IDEs and… |
 
 ## Data source
 
