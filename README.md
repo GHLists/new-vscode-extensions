@@ -12,21 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 19:18 UTC
+## Latest list — 2026-10-13 20:21 UTC
 
-New extensions published between 2026-10-13 17:18 UTC and 2026-10-13 19:18 UTC.
+New extensions published between 2026-10-13 18:21 UTC and 2026-10-13 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T19-18-51-474827Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T20-21-12-877179Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 18:21:38 | [prashant-kumar.dev-refactor-ai](https://marketplace.visualstudio.com/items?itemName=prashant-kumar.dev-refactor-ai) | AI Copilot Companion | 0.0.4 | Commercial-grade AI Coding Assistant powered by Gemini 3.8 Flash |
-| 2026-10-13 18:22:17 | [Annala-son.archimate-viewer](https://marketplace.visualstudio.com/items?itemName=Annala-son.archimate-viewer) | ArchiMate Viewer | 0.1.0 | Open ArchiMate Model Exchange diagrams in VS Code. Pan, zoom, drag shapes, rout… |
-| 2026-10-13 18:23:01 | [JiRackautomationCodingAgentIDE.jirack-agent](https://marketplace.visualstudio.com/items?itemName=JiRackautomationCodingAgentIDE.jirack-agent) | JiRack Agent | 0.11.0 | Agentic coding assistant powered by a JiRack model (Ollama or OpenAI-compatible… |
-| 2026-10-13 18:39:17 | [AMIdentity.iscat-executor](https://marketplace.visualstudio.com/items?itemName=AMIdentity.iscat-executor) | ISC Test case runner | 2.0.0 | Execute ISC test case by remotly connecting to you ISC tenant. |
-| 2026-10-13 18:41:26 | [cristianpaulo4.flow-tracer](https://marketplace.visualstudio.com/items?itemName=cristianpaulo4.flow-tracer) | FlowTracer - API Sequence Visualizer | 1.0.0 | Intercepta, mapeia e visualiza fluxos de chamadas HTTP distribuídas em diagrama… |
-| 2026-10-13 19:00:35 | [EliezerBwana.xenoui](https://marketplace.visualstudio.com/items?itemName=EliezerBwana.xenoui) | XenoUI | 0.1.5 | XenoUI Preview, project, page and component templates, device selection and app… |
-| 2026-10-13 19:02:12 | [server-healthcare.server-health-monitor](https://marketplace.visualstudio.com/items?itemName=server-healthcare.server-health-monitor) | Server Health Monitor | 0.1.0 | Add a Linux server by IP and watch CPU, memory, storage, network and processes… |
+| 2026-10-13 19:11:00 | [HazemBasha.azure-shell-theme](https://marketplace.visualstudio.com/items?itemName=HazemBasha.azure-shell-theme) | Azure Shell Theme | 0.0.2 | Minimal theme adjustments for Azure Cloud Shell |
+| 2026-10-13 19:20:15 | [nuwanthapasindu.perch-for-agy](https://marketplace.visualstudio.com/items?itemName=nuwanthapasindu.perch-for-agy) | Perch for Google Antigravity CLI | 0.1.1 | Open Google's Antigravity CLI in a dedicated right-side panel in VS Code. Indep… |
+| 2026-10-13 19:22:17 | [RiccardoFilippozzi.gitar](https://marketplace.visualstudio.com/items?itemName=RiccardoFilippozzi.gitar) | Gitar | 0.1.0 | Commit graph, history and everyday Git operations in a single panel. |
+| 2026-10-13 19:26:56 | [nadeemzack09.fast-download](https://marketplace.visualstudio.com/items?itemName=nadeemzack09.fast-download) | Fast Download | 0.1.0 | Download files and videos at maximum speed from HTTP/HTTPS and SSH/SFTP servers… |
+| 2026-10-13 19:34:43 | [Zelvory.offline-coder-payload-g](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-g) | OfflineCoder Payload (G) | 0.1.1 | Payload extension (chunk G) for OfflineCoder. |
+| 2026-10-13 19:37:41 | [Zelvory.offline-coder-payload-h](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-h) | OfflineCoder Payload (H) | 0.1.1 | Payload extension (chunk H) for OfflineCoder. |
+| 2026-10-13 19:39:18 | [adhunna.markdown-previewedit](https://marketplace.visualstudio.com/items?itemName=adhunna.markdown-previewedit) | Markdown PreviewEdit | 0.3.1 | Preview and edit Markdown in VS Code: Mermaid diagrams, GitHub alerts, formatti… |
+| 2026-10-13 19:42:22 | [RizwanAnsari.json-studio](https://marketplace.visualstudio.com/items?itemName=RizwanAnsari.json-studio) | JSON Studio | 0.1.0 | Swiss army knife for JSON: tree & table view/edit, repair, JSONPath/JMESPath/jq… |
+| 2026-10-13 19:42:40 | [Zelvory.offline-coder-payload-i](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-i) | OfflineCoder Payload (I) | 0.1.1 | Payload extension (chunk I) for OfflineCoder. |
+| 2026-10-13 19:46:32 | [Zelvory.offline-coder-payload-j](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-j) | OfflineCoder Payload (J) | 0.1.1 | Payload extension (chunk J) for OfflineCoder. |
+| 2026-10-13 19:53:20 | [nulifyer.git-graphity](https://marketplace.visualstudio.com/items?itemName=nulifyer.git-graphity) | Git Graphity | 1.32.4 | Explore repository history, compare changes, and manage branches, worktrees, an… |
+| 2026-10-13 19:58:27 | [Zelvory.offline-coder-payload-k](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-k) | OfflineCoder Payload (K) | 0.1.1 | Payload extension (chunk K) for OfflineCoder. |
+| 2026-10-13 20:05:30 | [fa137.benom](https://marketplace.visualstudio.com/items?itemName=fa137.benom) | Benom | 0.1.1 | A dark VS Code theme in two variants, built from the Venom palette. |
 
 ## Data source
 

@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-13T19:11:00.417Z,HazemBasha.azure-shell-theme,HazemBasha,Azure Shell Theme,0.0.2,Minimal theme adjustments for Azure Cloud Shell
+2026-10-13T19:20:15.597Z,nuwanthapasindu.perch-for-agy,nuwanthapasindu,Perch for Google Antigravity CLI,0.1.1,"Open Google's Antigravity CLI in a dedicated right-side panel in VS Code. Independent project, not affiliated with or endorsed by Google."
+2026-10-13T19:22:17.623Z,RiccardoFilippozzi.gitar,RiccardoFilippozzi,Gitar,0.1.0,"Commit graph, history and everyday Git operations in a single panel."
+2026-10-13T19:26:56.823Z,nadeemzack09.fast-download,nadeemzack09,Fast Download,0.1.0,"Download files and videos at maximum speed from HTTP/HTTPS and SSH/SFTP servers using parallel connections. A download accelerator with resume, retries and configurable connection counts — right inside VS Code."
+2026-10-13T19:34:43.337Z,Zelvory.offline-coder-payload-g,Zelvory,OfflineCoder Payload (G),0.1.1,Payload extension (chunk G) for OfflineCoder.
+2026-10-13T19:37:41.23Z,Zelvory.offline-coder-payload-h,Zelvory,OfflineCoder Payload (H),0.1.1,Payload extension (chunk H) for OfflineCoder.
+2026-10-13T19:39:18.557Z,adhunna.markdown-previewedit,adhunna,Markdown PreviewEdit,0.3.1,"Preview and edit Markdown in VS Code: Mermaid diagrams, GitHub alerts, formatting from the preview, and Word/PDF/HTML export. Offline, no telemetry."
+2026-10-13T19:42:22.593Z,RizwanAnsari.json-studio,RizwanAnsari,JSON Studio,0.1.0,"Swiss army knife for JSON: tree & table view/edit, repair, JSONPath/JMESPath/jq queries, transforms, conversions, type generation, diff and schema validation."
+2026-10-13T19:42:40.897Z,Zelvory.offline-coder-payload-i,Zelvory,OfflineCoder Payload (I),0.1.1,Payload extension (chunk I) for OfflineCoder.
+2026-10-13T19:46:32.5Z,Zelvory.offline-coder-payload-j,Zelvory,OfflineCoder Payload (J),0.1.1,Payload extension (chunk J) for OfflineCoder.
+2026-10-13T19:53:20.93Z,nulifyer.git-graphity,nulifyer,Git Graphity,1.32.4,"Explore repository history, compare changes, and manage branches, worktrees, and rebases in VS Code."
+2026-10-13T19:58:27.217Z,Zelvory.offline-coder-payload-k,Zelvory,OfflineCoder Payload (K),0.1.1,Payload extension (chunk K) for OfflineCoder.
+2026-10-13T20:05:30.533Z,fa137.benom,fa137,Benom,0.1.1,"A dark VS Code theme in two variants, built from the Venom palette."
