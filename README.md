@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-13 15:20 UTC
+## Latest list — 2026-10-13 16:19 UTC
 
-New extensions published between 2026-10-13 13:20 UTC and 2026-10-13 15:20 UTC.
+New extensions published between 2026-10-13 14:19 UTC and 2026-10-13 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-13T15-20-11-669885Z.csv)
+[Full CSV](data/new-extensions-2026-10-13T16-19-31-056842Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-13 14:20:01 | [videoTools.videoTools](https://marketplace.visualstudio.com/items?itemName=videoTools.videoTools) | Video Player (with Audio) | 0.1.11 | Play MP4 / MOV / M4V / WebM videos with sound directly inside VS Code — audio t… |
-| 2026-10-13 14:27:46 | [gitmit.gitmit](https://marketplace.visualstudio.com/items?itemName=gitmit.gitmit) | gitmit: Commit Messages | 0.1.0 | Convention-compliant commit messages from your staged changes. Follows your com… |
-| 2026-10-13 14:32:33 | [z-riley.helix-emulation](https://marketplace.visualstudio.com/items?itemName=z-riley.helix-emulation) | Helix Emulation | 0.9.0 | Helix emulation for Visual Studio Code |
-| 2026-10-13 14:50:46 | [partcad.partcad-official](https://marketplace.visualstudio.com/items?itemName=partcad.partcad-official) | PartCAD: Digital Thread | 0.8.192 | Build system and package manager for CAD files, and assembly modeling framework |
-| 2026-10-13 14:50:47 | [vvenv.vscode-janja](https://marketplace.visualstudio.com/items?itemName=vvenv.vscode-janja) | Janja | 0.1.1 | Syntax highlighting, diagnostics, completions, hover and formatting for Janja t… |
-| 2026-10-13 14:55:28 | [PutraAdiJaya.gigagrid-fast-excel](https://marketplace.visualstudio.com/items?itemName=PutraAdiJaya.gigagrid-fast-excel) | Gigagrid Excel Sheet Pro | 0.5.1 | Fast Excel (.xlsx) viewer and editor for VS Code: big sheets, formulas, cell fo… |
-| 2026-10-13 15:08:26 | [PutraAdiJaya.gigagrid-csv](https://marketplace.visualstudio.com/items?itemName=PutraAdiJaya.gigagrid-csv) | Gigagrid CSV Pro | 0.1.2 | Fast viewer and editor for very large CSV/TSV files: lazy indexing, virtual scr… |
-| 2026-10-13 15:12:33 | [ocieio.all-in-one](https://marketplace.visualstudio.com/items?itemName=ocieio.all-in-one) | All In One | 0.0.1 | Color VS Code editor backgrounds by language or file extension. |
+| 2026-10-13 15:38:45 | [Zelvory.offline-coder-payload-e](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-e) | OfflineCoder Payload (E) | 0.1.1 | Payload extension (chunk E) for OfflineCoder. |
+| 2026-10-13 15:43:18 | [Viamericas.viam-coverage-report](https://marketplace.visualstudio.com/items?itemName=Viamericas.viam-coverage-report) | Viam Coverage Report | 0.0.5 | Visualiza reportes de cobertura de pruebas en un WebView interactivo estilo Son… |
+| 2026-10-13 15:43:33 | [Zelvory.offline-coder-payload-f](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-f) | OfflineCoder Payload (F) | 0.1.1 | Payload extension (chunk F) for OfflineCoder. |
+| 2026-10-13 15:45:44 | [Harlon.nolrah-themes](https://marketplace.visualstudio.com/items?itemName=Harlon.nolrah-themes) | Nolrah Themes | 0.2.0 | Three vivid Dracula-inspired dark themes for VS Code. |
+| 2026-10-13 15:47:48 | [akdey.blueprint-idea-to-brief](https://marketplace.visualstudio.com/items?itemName=akdey.blueprint-idea-to-brief) | Blueprint: Idea to Build Brief | 0.4.0 | 8 specialized AI agents that transform your app idea into a complete, annotated… |
+| 2026-10-13 15:51:36 | [ReadyStack.postgresql-17-azure-extended-support-map](https://marketplace.visualstudio.com/items?itemName=ReadyStack.postgresql-17-azure-extended-support-map) | PostgreSQL 17 Upgrade Map: Azure Extend… | 1.0.0 | Finds every Azure PostgreSQL Flexible Server in your Terraform still pinned to… |
+| 2026-10-13 15:52:40 | [ReadyStack.hardcoded-credential-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.hardcoded-credential-audit) | Hardcoded Credential Audit — 8 Stacks | 0.1.6 | 30 checks and 30 safe-config snippets across 8 file families. A key pasted into… |
+| 2026-10-13 15:53:00 | [Jingbo.vs-code-for-edk2](https://marketplace.visualstudio.com/items?itemName=Jingbo.vs-code-for-edk2) | VS Code for EDK2 | 0.0.1 | VS Code Extension for reading EDK2 Language easily. |
+| 2026-10-13 15:54:38 | [hoanghuilinh.healing-icons-vscode](https://marketplace.visualstudio.com/items?itemName=hoanghuilinh.healing-icons-vscode) | Healing Icons | 0.1.0 | Search 3,500+ icons in 4 styles and insert them as React, Vue, Svelte, Angular,… |
+| 2026-10-13 16:06:02 | [CLAYCopilot.clay-copilot](https://marketplace.visualstudio.com/items?itemName=CLAYCopilot.clay-copilot) | CLAY Copilot | 1.6.14 | Autonomous Repository Intelligence & Coding Agent Platform for VS Code |
+| 2026-10-13 16:09:14 | [NGC13009.opencode-dock](https://marketplace.visualstudio.com/items?itemName=NGC13009.opencode-dock) | OpenCode Dock | 0.3.0 | Launch the OpenCode TUI with one click: it opens as a tab in the editor area, a… |
 
 ## Data source
 
