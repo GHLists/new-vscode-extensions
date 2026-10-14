@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T07:14:18.423Z,KaiBerggold.yaml-schema-validator,KaiBerggold,YAML Schema Validator,0.7.0,"Validates YAML config files against JSON Schema files written in YAML (sibling *.schema.yml or declared in the first line), with recursive 'extends' includes, diagnostics, completion and hover help. Compatible with the Red Hat YAML extension."
+2026-10-14T07:19:26.287Z,binnies-digital.binnies-llm,binnies-digital,BHK Connect,1.0.2,Connect BHK language models in Copilot Chat
+2026-10-14T07:21:28.593Z,ymatsumoto43.knowledgewalk,ymatsumoto43,KnowledgeWalk,0.4.0,"A reader for LLM-maintained Markdown wikis and Open Knowledge Format (OKF) bundles: front matter cards with sources and trust, citations, link previews, and browser-style navigation."
+2026-10-14T07:21:54.04Z,NoveraX.courier-vscode,NoveraX,Courier Studio,0.2.0,"Studio in your editor: every endpoint and how its calls went, above each call and in views of their own; Studio in a tab beside your code; from a call to its endpoint and back; requests and mocks live; new endpoints written for you; recorded calls as tests; @courier in the chat; Courier's own file i"
+2026-10-14T07:22:17.103Z,florian-lucas.projects-quick-switch,florian-lucas,Projects Quick Switch,0.4.2,"Switch between projects in a flash, PhpStorm style: recent, favorite and auto-detected projects in a searchable list."
+2026-10-14T07:23:55.223Z,samrat-ambadekar.tractor-beam,samrat-ambadekar,Tractor Beam,0.2.0,Hold the open folder in continuous two-way sync with a Teleport Beam
+2026-10-14T07:33:31.657Z,kyto64.line-ref-copy,kyto64,Line Ref Copy,0.1.0,"Copy selected lines with line numbers and optional file path—ready to paste into issues, reviews, and chat."
+2026-10-14T08:11:35.73Z,hotronghai.kaio-preview,hotronghai,Kaio Preview,0.0.1,Preview Jupyter notebook Markdown and code cells side by side.
+2026-10-14T08:12:39.843Z,RizulSharma.running-devices,RizulSharma,Running Devices,0.1.0,"Mirror and control your Android device inside VS Code, like Android Studio's Running Devices window."

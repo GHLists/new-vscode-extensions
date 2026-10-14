@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 07:20 UTC
+## Latest list — 2026-10-14 08:19 UTC
 
-New extensions published between 2026-10-14 05:20 UTC and 2026-10-14 07:20 UTC.
+New extensions published between 2026-10-14 06:19 UTC and 2026-10-14 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T07-20-42-025027Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T08-19-47-07665Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 06:29:12 | [zooique.memora-vscode](https://marketplace.visualstudio.com/items?itemName=zooique.memora-vscode) | Memora | 0.1.0 | 侧边栏 AI 助手：跨会话记忆、关键节点主动提问、角色包定位（出厂自带文档打磨角色），云端 / 本地模型均可 |
-| 2026-10-14 06:30:48 | [ideshd.ideshd](https://marketplace.visualstudio.com/items?itemName=ideshd.ideshd) | IDEshd | 1.0.0 | Beta: Inspect enabled extensions with local static analysis and coverage-labell… |
-| 2026-10-14 06:30:50 | [filiph.minecraft-terms](https://marketplace.visualstudio.com/items?itemName=filiph.minecraft-terms) | Minecraft Terms | 0.0.0 | Minecraft terminology for Code Spell Checker |
-| 2026-10-14 06:31:42 | [co3moz.vsc-mcp-inspector](https://marketplace.visualstudio.com/items?itemName=co3moz.vsc-mcp-inspector) | MCP Server Inspector | 0.1.2 | Connect to Model Context Protocol servers over stdio, SSE or Streamable HTTP, b… |
-| 2026-10-14 06:33:16 | [YoungminSeo.inhouse-code-agent-fr](https://marketplace.visualstudio.com/items?itemName=YoungminSeo.inhouse-code-agent-fr) | Foundation Research Code Agent (Youngmi… | 0.7.3 | For Foundation Research Team use. Requires access to the internal model network… |
-| 2026-10-14 06:44:00 | [supht.supht-opencode-sidebar](https://marketplace.visualstudio.com/items?itemName=supht.supht-opencode-sidebar) | OpenCode Sidebar (by supht) | 0.3.2 | Embed OpenCode Web UI directly into VS Code Sidebar (Activity Bar), completely… |
-| 2026-10-14 06:52:17 | [Inwardis.inwardis](https://marketplace.visualstudio.com/items?itemName=Inwardis.inwardis) | Inwardis | 0.19.2 | Browse Inwardis models inside VS Code as a virtual filesystem — elements as fol… |
-| 2026-10-14 07:01:36 | [Enubia.pi-tabs](https://marketplace.visualstudio.com/items?itemName=Enubia.pi-tabs) | Pi Tabs | 0.1.0 | Run the Pi coding agent TUI in VS Code editor tabs, with a sessions sidebar, se… |
-| 2026-10-14 07:08:36 | [CrestedBlue.git-file-diff](https://marketplace.visualstudio.com/items?itemName=CrestedBlue.git-file-diff) | Git File Diff | 1.0.0 | 커밋 그래프와 변경 파일 트리로 Git 기록을 탐색하고, VS Code 기본 diff 편집기에서 두 커밋을 비교하세요. |
+| 2026-10-14 07:14:18 | [KaiBerggold.yaml-schema-validator](https://marketplace.visualstudio.com/items?itemName=KaiBerggold.yaml-schema-validator) | YAML Schema Validator | 0.7.0 | Validates YAML config files against JSON Schema files written in YAML (sibling… |
+| 2026-10-14 07:19:26 | [binnies-digital.binnies-llm](https://marketplace.visualstudio.com/items?itemName=binnies-digital.binnies-llm) | BHK Connect | 1.0.2 | Connect BHK language models in Copilot Chat |
+| 2026-10-14 07:21:28 | [ymatsumoto43.knowledgewalk](https://marketplace.visualstudio.com/items?itemName=ymatsumoto43.knowledgewalk) | KnowledgeWalk | 0.4.0 | A reader for LLM-maintained Markdown wikis and Open Knowledge Format (OKF) bund… |
+| 2026-10-14 07:21:54 | [NoveraX.courier-vscode](https://marketplace.visualstudio.com/items?itemName=NoveraX.courier-vscode) | Courier Studio | 0.2.0 | Studio in your editor: every endpoint and how its calls went, above each call a… |
+| 2026-10-14 07:22:17 | [florian-lucas.projects-quick-switch](https://marketplace.visualstudio.com/items?itemName=florian-lucas.projects-quick-switch) | Projects Quick Switch | 0.4.2 | Switch between projects in a flash, PhpStorm style: recent, favorite and auto-d… |
+| 2026-10-14 07:23:55 | [samrat-ambadekar.tractor-beam](https://marketplace.visualstudio.com/items?itemName=samrat-ambadekar.tractor-beam) | Tractor Beam | 0.2.0 | Hold the open folder in continuous two-way sync with a Teleport Beam |
+| 2026-10-14 07:33:31 | [kyto64.line-ref-copy](https://marketplace.visualstudio.com/items?itemName=kyto64.line-ref-copy) | Line Ref Copy | 0.1.0 | Copy selected lines with line numbers and optional file path—ready to paste int… |
+| 2026-10-14 08:11:35 | [hotronghai.kaio-preview](https://marketplace.visualstudio.com/items?itemName=hotronghai.kaio-preview) | Kaio Preview | 0.0.1 | Preview Jupyter notebook Markdown and code cells side by side. |
+| 2026-10-14 08:12:39 | [RizulSharma.running-devices](https://marketplace.visualstudio.com/items?itemName=RizulSharma.running-devices) | Running Devices | 0.1.0 | Mirror and control your Android device inside VS Code, like Android Studio's Ru… |
 
 ## Data source
 
