@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T13:25:54.783Z,ordu1453.mapcan,ordu1453,mapcan,0.6.1,"CAN signal maps as code: validation, a Map view with forms and frame bit layouts, hovers, rename, export and history for mapcan YAML files."
+2026-10-14T13:47:48.387Z,Yexiao.sproto-language-yexiao,Yexiao,Sproto Language,1.0.1,"Sproto language support for VS Code: scoped type navigation, completion, diagnostics and configurable semantic colors."
+2026-10-14T14:01:54.173Z,voipp.python-step-visualizer-local,voipp,Python Step Visualizer (Local),1.0.0,"Учебное пошаговое исполнение Python с подсветкой строк, переменными и управлением скоростью."
+2026-10-14T14:12:41.907Z,rishabkshk.codefori-cli,rishabkshk,Code for IBM i CLI,0.1.1,"Programmatic bridge enabling external automation, shell scripts, and AI agents to invoke Code for IBM i actions, manage IFS deployments, and trigger builds."
+2026-10-14T14:15:19.587Z,pnscripts.pipegrid-lite,pnscripts,Pipegrid Lite by PN Scripts,1.0.0,"Align Markdown tables with correct widths for CJK text and emoji: format the table under the cursor, every table in a file or on save, and create new tables."

@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 13:22 UTC
+## Latest list — 2026-10-14 14:20 UTC
 
-New extensions published between 2026-10-14 11:22 UTC and 2026-10-14 13:22 UTC.
+New extensions published between 2026-10-14 12:20 UTC and 2026-10-14 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T13-22-17-408266Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T14-20-55-781924Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 12:21:18 | [NekoMatsu1.ne-gcat-companion](https://marketplace.visualstudio.com/items?itemName=NekoMatsu1.ne-gcat-companion) | NEg-Cat | 0.5.0 | A playful black cat and your own voice for code errors. |
-| 2026-10-14 12:31:55 | [RizwanAnsari.csv-studio-pro](https://marketplace.visualstudio.com/items?itemName=RizwanAnsari.csv-studio-pro) | CSV Studio Pro | 0.1.3 | Swiss army knife for CSV: typed grid view & editing, filters, multi-sort, SQL q… |
-| 2026-10-14 12:52:36 | [SerpX.serpx-seo-inspector](https://marketplace.visualstudio.com/items?itemName=SerpX.serpx-seo-inspector) | SerpX SEO Inspector | 1.0.1 | Fast, private source-level SEO checks for HTML and template files. Inspect titl… |
-| 2026-10-14 13:00:43 | [KTernAI.ktern-workflow-studio](https://marketplace.visualstudio.com/items?itemName=KTernAI.ktern-workflow-studio) | KTern Workflow Studio | 1.0.0 | Visual Workflow Editor for KTern.AI CodeGenie Platform |
-| 2026-10-14 13:02:00 | [skillforge.skillforge](https://marketplace.visualstudio.com/items?itemName=skillforge.skillforge) | SkillForge | 0.1.1 | Cross-IDE developer skill discovery engine: map natural language ideas to vette… |
-| 2026-10-14 13:02:55 | [ali50m.mfmt](https://marketplace.visualstudio.com/items?itemName=ali50m.mfmt) | mfmt | 1.8.1 | Personal markup formatter for VS Code. |
-| 2026-10-14 13:07:53 | [Jatins.react-native-live-console](https://marketplace.visualstudio.com/items?itemName=Jatins.react-native-live-console) | React Native Live Console | 0.0.1 | Stream React Native logs (simulator, emulator and real device via Metro) into a… |
-| 2026-10-14 13:08:30 | [AdaCore.lkql](https://marketplace.visualstudio.com/items?itemName=AdaCore.lkql) | Lkql | 0.0.1 | Extension for the Lkql language |
+| 2026-10-14 13:25:54 | [ordu1453.mapcan](https://marketplace.visualstudio.com/items?itemName=ordu1453.mapcan) | mapcan | 0.6.1 | CAN signal maps as code: validation, a Map view with forms and frame bit layout… |
+| 2026-10-14 13:47:48 | [Yexiao.sproto-language-yexiao](https://marketplace.visualstudio.com/items?itemName=Yexiao.sproto-language-yexiao) | Sproto Language | 1.0.1 | Sproto language support for VS Code: scoped type navigation, completion, diagno… |
+| 2026-10-14 14:01:54 | [voipp.python-step-visualizer-local](https://marketplace.visualstudio.com/items?itemName=voipp.python-step-visualizer-local) | Python Step Visualizer (Local) | 1.0.0 | Учебное пошаговое исполнение Python с подсветкой строк, переменными и управлени… |
+| 2026-10-14 14:12:41 | [rishabkshk.codefori-cli](https://marketplace.visualstudio.com/items?itemName=rishabkshk.codefori-cli) | Code for IBM i CLI | 0.1.1 | Programmatic bridge enabling external automation, shell scripts, and AI agents… |
+| 2026-10-14 14:15:19 | [pnscripts.pipegrid-lite](https://marketplace.visualstudio.com/items?itemName=pnscripts.pipegrid-lite) | Pipegrid Lite by PN Scripts | 1.0.0 | Align Markdown tables with correct widths for CJK text and emoji: format the ta… |
 
 ## Data source
 
