@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 10:21 UTC
+## Latest list — 2026-10-14 11:21 UTC
 
-New extensions published between 2026-10-14 08:21 UTC and 2026-10-14 10:21 UTC.
+New extensions published between 2026-10-14 09:21 UTC and 2026-10-14 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T10-21-53-90593Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T11-21-30-09052Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 09:19:06 | [Petalzu.genai-login](https://marketplace.visualstudio.com/items?itemName=Petalzu.genai-login) | GENAI Login | 0.0.16 | UMPASS authentication and a local OpenAI-compatible bridge for University of Ma… |
-| 2026-10-14 09:25:48 | [it-perspectives.openenv](https://marketplace.visualstudio.com/items?itemName=it-perspectives.openenv) | Open ENV | 0.2.0 | Validation, completion and live preview for OpenENV YAML and JSON environment c… |
-| 2026-10-14 09:27:01 | [Sascha-OliverProlic.moggi](https://marketplace.visualstudio.com/items?itemName=Sascha-OliverProlic.moggi) | Moggi | 0.1.0 | All-in-One Moggi support |
-| 2026-10-14 09:30:48 | [orb-poc-labs.simple-status-clock](https://marketplace.visualstudio.com/items?itemName=orb-poc-labs.simple-status-clock) | Simple Status Clock | 1.0.1 | Benign Orb POV lab extension: shows a status-bar clock and a hello command. No… |
-| 2026-10-14 09:54:26 | [Mrzat.vscode-database-client-unlimited](https://marketplace.visualstudio.com/items?itemName=Mrzat.vscode-database-client-unlimited) | SHsql | 1.0.0 | All-in-one database & service client for VS Code: MySQL, PostgreSQL, SQL Server… |
-| 2026-10-14 10:02:16 | [WebieAPP.alivetabs](https://marketplace.visualstudio.com/items?itemName=WebieAPP.alivetabs) | Alive TABs | 0.2.0 | Color your editor tabs and mark files with colored flags. |
-| 2026-10-14 10:08:15 | [quota-nexus.quota-nexus](https://marketplace.visualstudio.com/items?itemName=quota-nexus.quota-nexus) | Quota Nexus - AI Usage & Context Monitor | 1.2.0 | Unofficial quota, reset-time and context-window monitor for Antigravity, Claude… |
-| 2026-10-14 10:08:29 | [amitnarw.opencode-launcher](https://marketplace.visualstudio.com/items?itemName=amitnarw.opencode-launcher) | OpenCode Launcher | 1.0.0 | Launch OpenCode (v2) in a VS Code split terminal. Top-right button, keybindings… |
+| 2026-10-14 10:26:41 | [arqawa.ccli](https://marketplace.visualstudio.com/items?itemName=arqawa.ccli) | ARQAWA CCLI | 0.0.1 |  |
+| 2026-10-14 10:27:12 | [Fawaz.humain-node-copilot](https://marketplace.visualstudio.com/items?itemName=Fawaz.humain-node-copilot) | HUMAIN Node for Copilot Chat | 0.1.4 | Use HUMAIN Node models in GitHub Copilot Chat. Brings every model available to… |
+| 2026-10-14 10:28:28 | [NicolasMalone.ollama-quota-tracker](https://marketplace.visualstudio.com/items?itemName=NicolasMalone.ollama-quota-tracker) | Ollama Quota Tracker (Unofficial) | 0.4.2 | Shows your Ollama Cloud quota (included credits or legacy limits) in the VS Cod… |
+| 2026-10-14 10:30:20 | [prettygood.pretty-good-uml](https://marketplace.visualstudio.com/items?itemName=prettygood.pretty-good-uml) | Pretty Good UML | 0.1.2 | Pretty Good UML: class, database, sequence, activity, usecase, and git diagrams… |
+| 2026-10-14 10:37:40 | [cupola.relic-vscode](https://marketplace.visualstudio.com/items?itemName=cupola.relic-vscode) | Relic | 0.1.1 | Run, debug, and test your code with Relic secrets injected. No .env files. |
+| 2026-10-14 10:53:48 | [dukehoff.dukehoff-mcp-java](https://marketplace.visualstudio.com/items?itemName=dukehoff.dukehoff-mcp-java) | Dukehoff MCP for Java | 0.2.0 | Java code intelligence and refactoring for GitHub Copilot and other agents in V… |
+| 2026-10-14 11:16:54 | [Demartini.manifest-lens](https://marketplace.visualstudio.com/items?itemName=Demartini.manifest-lens) | Manifest Lens | 0.1.0 | Understand, maintain and safely upgrade dependencies from your manifests: updat… |
 
 ## Data source
 

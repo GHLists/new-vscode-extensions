@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T10:26:41.35Z,arqawa.ccli,arqawa,ARQAWA CCLI,0.0.1,
+2026-10-14T10:27:12.547Z,Fawaz.humain-node-copilot,Fawaz,HUMAIN Node for Copilot Chat,0.1.4,"Use HUMAIN Node models in GitHub Copilot Chat. Brings every model available to your HUMAIN Node API key into the Copilot model picker, with streaming, tool calling, and vision support."
+2026-10-14T10:28:28.547Z,NicolasMalone.ollama-quota-tracker,NicolasMalone,Ollama Quota Tracker (Unofficial),0.4.2,Shows your Ollama Cloud quota (included credits or legacy limits) in the VS Code status bar.
+2026-10-14T10:30:20.03Z,prettygood.pretty-good-uml,prettygood,Pretty Good UML,0.1.2,"Pretty Good UML: class, database, sequence, activity, usecase, and git diagrams from a C# solution."
+2026-10-14T10:37:40.543Z,cupola.relic-vscode,cupola,Relic,0.1.1,"Run, debug, and test your code with Relic secrets injected. No .env files."
+2026-10-14T10:53:48.183Z,dukehoff.dukehoff-mcp-java,dukehoff,Dukehoff MCP for Java,0.2.0,"Java code intelligence and refactoring for GitHub Copilot and other agents in VS Code, over MCP: find usages and implementations, compile errors without a build, rename, change signature, move, safe delete and more, from the Apache NetBeans Java support."
+2026-10-14T11:16:54.413Z,Demartini.manifest-lens,Demartini,Manifest Lens,0.1.0,"Understand, maintain and safely upgrade dependencies from your manifests: updates, peer dependency conflicts, OSV advisories and a dependency dashboard."
