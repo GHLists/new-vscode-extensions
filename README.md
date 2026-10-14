@@ -12,31 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 16:21 UTC
+## Latest list — 2026-10-14 17:21 UTC
 
-New extensions published between 2026-10-14 14:20 UTC and 2026-10-14 16:21 UTC.
+New extensions published between 2026-10-14 15:21 UTC and 2026-10-14 17:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T16-21-27-248823Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T17-21-43-308548Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 14:20:58 | [alexbrickwedde.vscode-new-with-recent](https://marketplace.visualstudio.com/items?itemName=alexbrickwedde.vscode-new-with-recent) | New Window with Recent Folder | 0.1.0 | Shows up to 30 recent folders to open in a new VS Code window, via the Command… |
-| 2026-10-14 14:37:36 | [brage1025.phyx](https://marketplace.visualstudio.com/items?itemName=brage1025.phyx) | φyrx | 1.6.3 | φyrx (PhyrxScript / PhyrexianScript) — a programming language written in Phyrex… |
-| 2026-10-14 14:39:26 | [brunombatinica.watchman](https://marketplace.visualstudio.com/items?itemName=brunombatinica.watchman) | Watchman | 0.2.0 | Watches your Claude Code terminals in VS Code: a bell on the tab when Claude fi… |
-| 2026-10-14 14:41:01 | [wapai-studio.rinda-db-management](https://marketplace.visualstudio.com/items?itemName=wapai-studio.rinda-db-management) | Rinda MySQL | 0.3.20 | 在 VS Code 中安全地连接、浏览、查询、编辑、导出、受控恢复并维护 MySQL 数据库。 |
-| 2026-10-14 14:47:33 | [turflang.turf](https://marketplace.visualstudio.com/items?itemName=turflang.turf) | Turf | 1.0.2 | The Turf programming language: diagnostics, completion, hover, go to definition… |
-| 2026-10-14 15:10:58 | [permforge.vscode-permforge](https://marketplace.visualstudio.com/items?itemName=permforge.vscode-permforge) | PermForge: Salesforce Profile Migration… | 1.3.1 | Visual migration studio to decompose Salesforce profiles into modular Permissio… |
-| 2026-10-14 15:14:45 | [applied-knowledge-systems.terraphim-it](https://marketplace.visualstudio.com/items?itemName=applied-knowledge-systems.terraphim-it) | Terraphim It | 0.1.2 | Intelligent Markdown editor with alternatives, knowledge-graph synonyms and rol… |
-| 2026-10-14 15:18:28 | [arronei.web-spec-additions](https://marketplace.visualstudio.com/items?itemName=arronei.web-spec-additions) | Web Spec Additions (HTML & CSS) | 0.3.0 | HTML attributes and CSS properties from current specs that VS Code's built-in d… |
-| 2026-10-14 15:18:50 | [apkola29.ai-usage-credits-meter](https://marketplace.visualstudio.com/items?itemName=apkola29.ai-usage-credits-meter) | GH Copilot Usage Tracker | 0.4.2 | Track GitHub Copilot usage: local AI credits and tokens by model and monthly cy… |
-| 2026-10-14 15:19:51 | [apkola29.agent-keep-awake](https://marketplace.visualstudio.com/items?itemName=apkola29.agent-keep-awake) | Agent Keep-Awake | 1.1.0 | One coffee icon to keep your computer awake for long agent runs: Off, or Keep a… |
-| 2026-10-14 15:20:33 | [guy-argaman.lan-waifu](https://marketplace.visualstudio.com/items?itemName=guy-argaman.lan-waifu) | LAN Waifu | 0.2.0 | A tiny companion who walks between the VS Code windows of everyone on your Wi-F… |
-| 2026-10-14 15:21:26 | [ScaleXY.ve01-commit-message-generator](https://marketplace.visualstudio.com/items?itemName=ScaleXY.ve01-commit-message-generator) | ScaleXY's Commit Message Generator | 0.1.1 | Generate commit messages from your Git changes with your local Codex CLI. |
-| 2026-10-14 15:33:56 | [uliege-dre.rml](https://marketplace.visualstudio.com/items?itemName=uliege-dre.rml) | RML | 0.0.1 | A RDF Mapping Language (RML) Development Server with the BURP RML Processor |
-| 2026-10-14 15:38:34 | [AgentNexus.agentnexus](https://marketplace.visualstudio.com/items?itemName=AgentNexus.agentnexus) | AgentNexus | 0.2.0 | Conecta o Visual Studio Code e o Cursor à API MCP AgentNexus. |
-| 2026-10-14 15:41:34 | [r6d0.todovscode](https://marketplace.visualstudio.com/items?itemName=r6d0.todovscode) | todovscode | 0.0.1 | VS Code extension for highlighting TODO, FIXME, and custom tags. |
-| 2026-10-14 15:52:06 | [ReadyStack.hmrc-fraud-prevention-header-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.hmrc-fraud-prevention-header-lint) | HMRC Fraud Prevention Header Lint | 0.1.6 | Finds the Gov-Client and Gov-Vendor header mistakes HMRC rejects, in your edito… |
-| 2026-10-14 15:52:28 | [ReadyStack.hospital-mrf-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.hospital-mrf-lint) | Hospital Price Transparency MRF Lint | 1.0.11 | Check a hospital standard-charges machine-readable file against the CMS JSON te… |
+| 2026-10-14 16:21:04 | [Zelvory.offline-coder-payload-n](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-n) | OfflineCoder Payload (N) | 0.1.1 | Payload extension (chunk N) for OfflineCoder. |
+| 2026-10-14 16:24:10 | [Zelvory.offline-coder-payload-o](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-o) | OfflineCoder Payload (O) | 0.1.1 | Payload extension (chunk O) for OfflineCoder. |
+| 2026-10-14 16:25:08 | [akiodesignXXX.codelume](https://marketplace.visualstudio.com/items?itemName=akiodesignXXX.codelume) | CodeLume | 0.1.1 | Bring your project structure to light with a ready-to-use PHP conference starte… |
+| 2026-10-14 16:26:46 | [Zelvory.offline-coder-payload-p](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-p) | OfflineCoder Payload (P) | 0.1.1 | Payload extension (chunk P) for OfflineCoder. |
+| 2026-10-14 16:26:56 | [GapHunterLabs.undeclared-dependency-companion](https://marketplace.visualstudio.com/items?itemName=GapHunterLabs.undeclared-dependency-companion) | Undeclared Dependency Companion | 0.1.0 | Flags packages imported in your code but not declared in package.json — a commo… |
+| 2026-10-14 16:30:41 | [Zelvory.offline-coder-payload-q](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-q) | OfflineCoder Payload (Q) | 0.1.1 | Payload extension (chunk Q) for OfflineCoder. |
+| 2026-10-14 16:35:27 | [whitesniper.whitesniper-vscode](https://marketplace.visualstudio.com/items?itemName=whitesniper.whitesniper-vscode) | WhiteSniper | 0.1.0 | Verify every agent's work: WhiteSniper findings, recheck, and evidence in the e… |
+| 2026-10-14 16:35:32 | [Zelvory.offline-coder-payload-r](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-payload-r) | OfflineCoder Payload (R) | 0.1.1 | Payload extension (chunk R) for OfflineCoder. |
+| 2026-10-14 16:40:02 | [zmmartins.obsidian-celluloid](https://marketplace.visualstudio.com/items?itemName=zmmartins.obsidian-celluloid) | Obsidian Celluloid | 0.3.1 | Cinematic Light and Noir themes with precise syntax colors and original adaptiv… |
+| 2026-10-14 16:41:28 | [GapHunterLabs.dockerfile-missing-user-companion](https://marketplace.visualstudio.com/items?itemName=GapHunterLabs.dockerfile-missing-user-companion) | Dockerfile Missing USER Companion | 0.1.0 | Warns when a Dockerfile's final build stage never sets a non-root USER (contain… |
+| 2026-10-14 16:47:50 | [kinnethjavier.lumis-kanban](https://marketplace.visualstudio.com/items?itemName=kinnethjavier.lumis-kanban) | LUMIS Kanban | 1.0.0 | A Kanban board VS Code extension designed for programmers in Laguna University’… |
+| 2026-10-14 17:17:49 | [kksat.zals](https://marketplace.visualstudio.com/items?itemName=kksat.zals) | Ansible Language Server (zals) | 0.1.0 | Zig Ansible Language Server client for VS Code |
 
 ## Data source
 
