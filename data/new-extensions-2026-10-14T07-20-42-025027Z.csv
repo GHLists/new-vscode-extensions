@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T06:29:12.427Z,zooique.memora-vscode,zooique,Memora,0.1.0,侧边栏 AI 助手：跨会话记忆、关键节点主动提问、角色包定位（出厂自带文档打磨角色），云端 / 本地模型均可
+2026-10-14T06:30:48.993Z,ideshd.ideshd,ideshd,IDEshd,1.0.0,Beta: Inspect enabled extensions with local static analysis and coverage-labelled remote evaluation evidence.
+2026-10-14T06:30:50.433Z,filiph.minecraft-terms,filiph,Minecraft Terms,0.0.0,Minecraft terminology for Code Spell Checker
+2026-10-14T06:31:42.19Z,co3moz.vsc-mcp-inspector,co3moz,MCP Server Inspector,0.1.2,"Connect to Model Context Protocol servers over stdio, SSE or Streamable HTTP, browse their tools, prompts and resources, and invoke them from VS Code."
+2026-10-14T06:33:16.76Z,YoungminSeo.inhouse-code-agent-fr,YoungminSeo,Foundation Research Code Agent (YoungminSeo),0.7.3,For Foundation Research Team use. Requires access to the internal model network and an API key.
+2026-10-14T06:44:00.067Z,supht.supht-opencode-sidebar,supht,OpenCode Sidebar (by supht),0.3.2,"Embed OpenCode Web UI directly into VS Code Sidebar (Activity Bar), completely separate from your terminal. One-click pairing, session persistence, streaming support."
+2026-10-14T06:52:17.717Z,Inwardis.inwardis,Inwardis,Inwardis,0.19.2,"Browse Inwardis models inside VS Code as a virtual filesystem — elements as folders, notes as editable Markdown, views as live SVGs."
+2026-10-14T07:01:36.747Z,Enubia.pi-tabs,Enubia,Pi Tabs,0.1.0,"Run the Pi coding agent TUI in VS Code editor tabs, with a sessions sidebar, searchable history and subagent tabs."
+2026-10-14T07:08:36.807Z,CrestedBlue.git-file-diff,CrestedBlue,Git File Diff,1.0.0,"커밋 그래프와 변경 파일 트리로 Git 기록을 탐색하고, VS Code 기본 diff 편집기에서 두 커밋을 비교하세요."
