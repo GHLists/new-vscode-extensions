@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 22:19 UTC
+## Latest list — 2026-10-14 23:20 UTC
 
-New extensions published between 2026-10-14 20:19 UTC and 2026-10-14 22:19 UTC.
+New extensions published between 2026-10-14 21:20 UTC and 2026-10-14 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T22-19-58-773433Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T23-20-28-512938Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 21:28:32 | [alessandrolobo.claude-usage-statusbar-metric](https://marketplace.visualstudio.com/items?itemName=alessandrolobo.claude-usage-statusbar-metric) | Claude Usage: Limits, Context & Cost | 0.9.2 | Barra de status para VS Code e Antigravity com o uso do Claude Code: tempo, con… |
-| 2026-10-14 21:28:44 | [echo404.loom-tavern](https://marketplace.visualstudio.com/items?itemName=echo404.loom-tavern) | Loom Tavern | 0.1.15 | Weave your branches. A local-first Git & GitHub dashboard inside VS Code: stage… |
-| 2026-10-14 21:33:07 | [yodev.yodev-workplace](https://marketplace.visualstudio.com/items?itemName=yodev.yodev-workplace) | yoDEV Workplace | 0.1.7 | Browse, search, and preview documents from your yoDEV Workplace directly in VS… |
-| 2026-10-14 21:37:14 | [DebojeetDas.pretty-lua-errors](https://marketplace.visualstudio.com/items?itemName=DebojeetDas.pretty-lua-errors) | Pretty Lua Errors | 0.0.1 | Beautiful, beginner-friendly error messages for Lua developers. |
-| 2026-10-14 21:37:23 | [yves0003.f4data-parq](https://marketplace.visualstudio.com/items?itemName=yves0003.f4data-parq) | f4data_parq | 0.0.27 | A DuckDB client for VS Code — query CSV, Parquet, JSON, and Excel files directly |
-| 2026-10-14 21:40:56 | [AvinashAlla.drip](https://marketplace.visualstudio.com/items?itemName=AvinashAlla.drip) | DRIP | 0.0.1 | Prototype DRIP note ingestion UI |
-| 2026-10-14 21:43:57 | [gengue.nodejs-path-explorer](https://marketplace.visualstudio.com/items?itemName=gengue.nodejs-path-explorer) | Hono Route Explorer | 0.1.1 | Browse Hono routes in a sidebar, grouped by prefix, and jump to their definitio… |
-| 2026-10-14 21:44:22 | [tallisazevedo.tdah-focus-theme](https://marketplace.visualstudio.com/items?itemName=tallisazevedo.tdah-focus-theme) | TDAH Focus Theme | 0.0.1 | A dark VS Code color theme built around semantic highlighting, designed to redu… |
-| 2026-10-14 22:00:42 | [techselva.ai-cost-coach](https://marketplace.visualstudio.com/items?itemName=techselva.ai-cost-coach) | AI Cost Coach | 0.2.4 | See where your AI spend goes, from a month down to a single tool call, for Clau… |
-| 2026-10-14 22:08:05 | [iokaio.airk](https://marketplace.visualstudio.com/items?itemName=iokaio.airk) | AIRK — Artifact Indexing and Retrieval… | 0.1.0 | Pre-release beta: local collection indexing and specialized MCP evidence for co… |
+| 2026-10-14 22:14:54 | [Edgemodders.reddeck](https://marketplace.visualstudio.com/items?itemName=Edgemodders.reddeck) | REDdeck | 0.26.0 | A simple mod manager for Cyberpunk 2077: one list, add, on/off, deploy, remove. |
+| 2026-10-14 22:21:56 | [shytikov.norra](https://marketplace.visualstudio.com/items?itemName=shytikov.norra) | Norra | 1.0.0 | A dark, almost sinister Visual Studio Code theme inspired by November in Scandi… |
+| 2026-10-14 22:23:16 | [renormalizationtech.contextbridge-chat](https://marketplace.visualstudio.com/items?itemName=renormalizationtech.contextbridge-chat) | ContextBridge Chat | 0.3.1 | Copilot-style chat for Claude Code, Codex and GitHub Copilot CLI: attach contex… |
+| 2026-10-14 22:24:13 | [AlexanderLazarin.notebook-bridge](https://marketplace.visualstudio.com/items?itemName=AlexanderLazarin.notebook-bridge) | Notebook Bridge | 0.4.4 | Give panel agents access to the live notebooks in their own VS Code window. |
+| 2026-10-14 22:27:22 | [Chillaki.chillaki](https://marketplace.visualstudio.com/items?itemName=Chillaki.chillaki) | Chillaki | 0.1.0 | Pauses strongly worded messages to Claude Code, Codex and Cursor's chat before… |
+| 2026-10-14 22:41:10 | [maratib.spring-boot-studio](https://marketplace.visualstudio.com/items?itemName=maratib.spring-boot-studio) | Spring Boot Studio | 0.0.1 | Design Spring Boot applications as a project model and generate clean, runnable… |
+| 2026-10-14 22:45:45 | [AlexanderErdelyi.bc-alm](https://marketplace.visualstudio.com/items?itemName=AlexanderErdelyi.bc-alm) | BC ALM — Business Central Copilot Templ… | 0.4.4 | Create Business Central projects from the BC ALM template, keep agents/skills/p… |
+| 2026-10-14 22:50:34 | [codemago.codemago](https://marketplace.visualstudio.com/items?itemName=codemago.codemago) | CodeMago — AI Coding Agent | 0.4.0 | AI coding agent inside VS Code: plans, edits, runs commands and tests, and show… |
 
 ## Data source
 

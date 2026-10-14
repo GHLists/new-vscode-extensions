@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T22:14:54.837Z,Edgemodders.reddeck,Edgemodders,REDdeck,0.26.0,"A simple mod manager for Cyberpunk 2077: one list, add, on/off, deploy, remove."
+2026-10-14T22:21:56.03Z,shytikov.norra,shytikov,Norra,1.0.0,"A dark, almost sinister Visual Studio Code theme inspired by November in Scandinavia, with deep blue-gray backgrounds and a restrained palette of soft colors."
+2026-10-14T22:23:16.297Z,renormalizationtech.contextbridge-chat,renormalizationtech,ContextBridge Chat,0.3.1,"Copilot-style chat for Claude Code, Codex and GitHub Copilot CLI: attach context, ask questions and review changes."
+2026-10-14T22:24:13.72Z,AlexanderLazarin.notebook-bridge,AlexanderLazarin,Notebook Bridge,0.4.4,Give panel agents access to the live notebooks in their own VS Code window.
+2026-10-14T22:27:22.813Z,Chillaki.chillaki,Chillaki,Chillaki,0.1.0,"Pauses strongly worded messages to Claude Code, Codex and Cursor's chat before they're sent, and offers a suggested version that keeps every detail."
+2026-10-14T22:41:10.247Z,maratib.spring-boot-studio,maratib,Spring Boot Studio,0.0.1,"Design Spring Boot applications as a project model and generate clean, runnable code into your workspace."
+2026-10-14T22:45:45.553Z,AlexanderErdelyi.bc-alm,AlexanderErdelyi,BC ALM — Business Central Copilot Template Manager,0.4.4,"Create Business Central projects from the BC ALM template, keep agents/skills/prompts/instructions up to date without losing your own changes, enable or disable components, and publish your customizations to your own template or upstream."
+2026-10-14T22:50:34.993Z,codemago.codemago,codemago,CodeMago — AI Coding Agent,0.4.0,"AI coding agent inside VS Code: plans, edits, runs commands and tests, and shows every change for you to approve. Sign in with your CodeMago plan or bring your own key (Anthropic, OpenAI, Gemini, DeepSeek, OpenRouter, Ollama…)."
