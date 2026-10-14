@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T08:27:54.977Z,MBKDevStudio.nightlite,MBKDevStudio,"Nightlite — SQLite Viewer for Databases, MBTiles & GeoPackage",0.1.0,"View SQLite databases, MBTiles and GeoPackage files (.sqlite, .db, .mbtiles, .gpkg) in dark mode, even when they are tens of gigabytes. Fast, private and read-only."
+2026-10-14T08:32:47.83Z,ProductMapAI.productmap-io,ProductMapAI,Product Map for VS Code,1.0.0,"Launch Product Map in your editor, run product management AI agents, and manage your product context changes."
+2026-10-14T08:34:22.177Z,nexus-engineering-systems.clickup-desk,nexus-engineering-systems,ClickUp Desk,1.0.1,Lee tus proyectos y tareas de ClickUp desde un panel lateral de VSCode.
+2026-10-14T08:38:10.08Z,GuyCarmeli.hyperjest,GuyCarmeli,HyperJest,0.2.0,"Multi-core Jest test runner for VS Code with real-time gutter coverage, inline errors and live values."
+2026-10-14T08:38:14.3Z,OskaFentem.marginalia-comments,OskaFentem,Marginalia: Overleaf-style comments for LaTeX,0.1.0,"Comment threads in the margin of your .tex files, stored in the repo so co-authors see them. Works with Markdown, code or any text file too."
+2026-10-14T08:48:23.233Z,brian-chang.usb-device-tree,brian-chang,USB Device Tree,0.11.1,"Browse Windows USB controllers, hubs, ports, and connected devices in VS Code."
+2026-10-14T08:49:06.557Z,KaneTu.inline-autocomplete,KaneTu,Inline Autocomplete,0.0.3,AI inline code completions
+2026-10-14T08:51:18.247Z,ChenKang.bo-oneapi,ChenKang,BO OneAPI,0.1.12,扫描、匹配、生成并批量更新 BO 页面 API service
+2026-10-14T09:07:49.58Z,sosyphe.vscode-wdl-vis,sosyphe,WDL Vis,0.1.0,"WDL syntax highlighting, outline, folding and live DAG visualization for VS Code, powered by the wdl-viewer parser."
+2026-10-14T09:12:25.717Z,Codexmy.kron,Codexmy,Kron,0.3.3,"Kron language support: highlighting, build and run, errors in the editor, completion, go to definition, hover help and outline."
+2026-10-14T09:13:12.457Z,marearts.marearts-ide-looks,marearts,MareArts IDE Looks,0.1.2,"Make VS Code feel like the IDE you know: Visual Studio, JetBrains, Xcode, Eclipse and 130 more layouts and keymaps. Official settings only, one click to undo."
