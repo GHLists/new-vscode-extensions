@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T00:23:20.653Z,AGUSTINGABRIELMARTINEZ.shelly-language-oficial,AGUSTINGABRIELMARTINEZ,Shelly Language Oficial,0.0.6,VS Code language support for Shelly .shelly scripts.
+2026-10-14T00:24:19.617Z,dcadolph.slop-chop,dcadolph,slop-chop,0.45.1,Flag and chop AI writing tells as you write. Runs the local slop-chop binary; text never leaves your machine.
+2026-10-14T00:25:33.573Z,mdzie.minimal-intelligent-kuota-extension,mdzie,Minimal Intelligent Kuota Extension,2.2.1,M.I.K.E. — Zero-telemetry AI quota tracker for your status bar
+2026-10-14T00:26:32.357Z,mdzie.mike-koding-extension,mdzie,M.I.K.E. - Machine-Integrated Koding Extension,1.6.0,"Production-ready autonomous AI coding assistant for VS Code powered by OpenAI-compatible LLM endpoints, local engines (Ollama, vLLM), and Poolside"
+2026-10-14T00:43:56.293Z,rhwarthur.latex-dollar-completion,rhwarthur,LaTeX Dollar Completion,0.2.1,"Complete freshly typed LaTeX dollar math, with a Tab stop after the closing delimiter."
+2026-10-14T00:53:28.357Z,pipcode.pipcode-vscode,pipcode,PipCode,1.0.0,"AI-guided coding assistant: frames your AI, secures and optimizes your code."
+2026-10-14T00:55:09.157Z,lynicis.bdd-widget-test-helper,lynicis,BDD Widget Test Helper,0.1.0,"Go to definition, quick-fix scaffolding and diagnostics for Flutter bdd_widget_test .feature files. Works with VS Code and VSCodium."
+2026-10-14T01:00:00.11Z,StatusbarTaskGroups.statusbar-task-groups,StatusbarTaskGroups,Statusbar Task Groups,0.1.1,Run VS Code tasks from the status bar with automatic prefix grouping and task menus.
+2026-10-14T01:00:46.43Z,LunaRoute.lunaroute,LunaRoute,LunaRoute,0.1.0,LunaRoute models in native VS Code Chat and Agent mode
