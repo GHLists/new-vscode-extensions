@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T17:21:09.58Z,TalhaKhalil.code-to-console,TalhaKhalil,Code to Console,0.3.0,"Copy file and diff context to your terminal agent, and open the terminal beside your code."
+2026-10-14T17:23:24.557Z,willianjuliate.monokai-remastered,willianjuliate,Monokai Remastered,0.0.8,"A refined Monokai-inspired theme with deep contrast, vibrant accents, and a clean light variant for focused coding."
+2026-10-14T17:27:55.64Z,Zelvory.offline-coder-payload-s,Zelvory,OfflineCoder Payload (S),0.1.1,Payload extension (chunk S) for OfflineCoder.
+2026-10-14T17:40:17.963Z,Zelvory.offline-coder-webforms,Zelvory,OfflineCoder WebForms Toolkit,0.1.1,"Scaffold WebForms pages/controls, add validation, fix postbacks, and understand the page lifecycle."
+2026-10-14T17:47:59.817Z,mcaupybugs.mdit,mcaupybugs,MDit — Editable Markdown Preview,0.2.1,"Open Markdown files as a rendered page you can edit directly, instead of source + preview."
+2026-10-14T18:04:12.39Z,Enola.enola-vscode,Enola,enola,0.1.0,"See what enola did in each Claude Code, OpenCode, Codex and pi session: every tool call, CLI run and hook, with its output."
+2026-10-14T18:15:09.687Z,mustafa-naeem.vscode-htpage,mustafa-naeem,htpage,0.1.0,"Language support, syntax highlighting, and LSP integration for htpage"
