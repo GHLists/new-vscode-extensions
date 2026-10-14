@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T21:28:32.437Z,alessandrolobo.claude-usage-statusbar-metric,alessandrolobo,"Claude Usage: Limits, Context & Cost",0.9.2,"Barra de status para VS Code e Antigravity com o uso do Claude Code: tempo, contexto, limites 5h/7d, custo estimado e turno, mais um painel lateral."
+2026-10-14T21:28:44.213Z,echo404.loom-tavern,echo404,Loom Tavern,0.1.15,"Weave your branches. A local-first Git & GitHub dashboard inside VS Code: stage, commit, branch and push from one screen, and map any repo as a tree or commit graph."
+2026-10-14T21:33:07.207Z,yodev.yodev-workplace,yodev,yoDEV Workplace,0.1.7,"Browse, search, and preview documents from your yoDEV Workplace directly in VS Code"
+2026-10-14T21:37:14.167Z,DebojeetDas.pretty-lua-errors,DebojeetDas,Pretty Lua Errors,0.0.1,"Beautiful, beginner-friendly error messages for Lua developers."
+2026-10-14T21:37:23.833Z,yves0003.f4data-parq,yves0003,f4data_parq,0.0.27,"A DuckDB client for VS Code — query CSV, Parquet, JSON, and Excel files directly"
+2026-10-14T21:40:56.53Z,AvinashAlla.drip,AvinashAlla,DRIP,0.0.1,Prototype DRIP note ingestion UI
+2026-10-14T21:43:57.883Z,gengue.nodejs-path-explorer,gengue,Hono Route Explorer,0.1.1,"Browse Hono routes in a sidebar, grouped by prefix, and jump to their definitions. Also reads Express, Fastify, and NestJS."
+2026-10-14T21:44:22.7Z,tallisazevedo.tdah-focus-theme,tallisazevedo,TDAH Focus Theme,0.0.1,"A dark VS Code color theme built around semantic highlighting, designed to reduce cognitive load for neurodivergent (ADHD) developers through high-contrast, color-blind-safe, visually distinct syntax colors."
+2026-10-14T22:00:42.857Z,techselva.ai-cost-coach,techselva,AI Cost Coach,0.2.4,"See where your AI spend goes, from a month down to a single tool call, for Claude Code, GitHub Copilot CLI and VS Code Copilot Chat."
+2026-10-14T22:08:05.573Z,iokaio.airk,iokaio,AIRK — Artifact Indexing and Retrieval Kernel (beta),0.1.0,"Pre-release beta: local collection indexing and specialized MCP evidence for coding agents, with a bundled native helper."
