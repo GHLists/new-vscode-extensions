@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 04:21 UTC
+## Latest list — 2026-10-14 05:19 UTC
 
-New extensions published between 2026-10-14 02:21 UTC and 2026-10-14 04:21 UTC.
+New extensions published between 2026-10-14 03:19 UTC and 2026-10-14 05:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T04-21-06-71964Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T05-19-58-191452Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 03:39:42 | [SadeepWeerasinghe.git-amulet](https://marketplace.visualstudio.com/items?itemName=SadeepWeerasinghe.git-amulet) | Git Amulet | 0.4.5 | JetBrains-style Git for VS Code. An opinionated spin-off of GitCharm by RioNoir… |
-| 2026-10-14 03:41:29 | [KaiBerggold.yaml-scheme-validator](https://marketplace.visualstudio.com/items?itemName=KaiBerggold.yaml-scheme-validator) | YAML Scheme Validator | 0.5.1 | Validates YAML config files against JSON Schema (draft-07) scheme files written… |
-| 2026-10-14 03:44:55 | [kuomartin.moonclicker-script-workbench](https://marketplace.visualstudio.com/items?itemName=kuomartin.moonclicker-script-workbench) | MoonClicker Script Workbench | 0.3.0 | Connect VS Code to a MoonClicker device running Script Workbench. |
-| 2026-10-14 03:49:13 | [dragoscv.axiom-axm](https://marketplace.visualstudio.com/items?itemName=dragoscv.axiom-axm) | AXIOM .axm — plans for the agent write… | 2.5.0 | Language support for AXIOM .axm plans (the transactional write gate for coding… |
+| 2026-10-14 04:32:40 | [I4cTime.quantum-fluidity](https://marketplace.visualstudio.com/items?itemName=I4cTime.quantum-fluidity) | Quantum Fluidity Theme | 2.1.0 | A crisp, high-contrast theme family with luminous accents: 2 dark and 2 light v… |
+| 2026-10-14 04:58:36 | [HarshYadav152.152theme](https://marketplace.visualstudio.com/items?itemName=HarshYadav152.152theme) | 152theme | 0.1.0 | Void Dark (Gojo's Domain Expansion inspired) and Shrine Light (Sukuna's Domain… |
+| 2026-10-14 05:01:42 | [sakeerin.vscode-nova](https://marketplace.visualstudio.com/items?itemName=sakeerin.vscode-nova) | Nova Language Tools | 0.3.2 | The Nova language: colouring, and diagnostics, completion, formatting, hover, g… |
 
 ## Data source
 

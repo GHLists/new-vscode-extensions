@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T04:32:40.3Z,I4cTime.quantum-fluidity,I4cTime,Quantum Fluidity Theme,2.1.0,"A crisp, high-contrast theme family with luminous accents: 2 dark and 2 light variants for VS Code, Cursor and Kiro, tuned for AI-first editing."
+2026-10-14T04:58:36.643Z,HarshYadav152.152theme,HarshYadav152,152theme,0.1.0,"Void Dark (Gojo's Domain Expansion inspired) and Shrine Light (Sukuna's Domain Expansion inspired). High-contrast, WCAG-checked VS Code themes."
+2026-10-14T05:01:42.227Z,sakeerin.vscode-nova,sakeerin,Nova Language Tools,0.3.2,"The Nova language: colouring, and diagnostics, completion, formatting, hover, go to definition, find references, rename, quick fixes, organize imports and semantic highlighting from nova lsp."
