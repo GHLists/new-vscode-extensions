@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T12:21:18.627Z,NekoMatsu1.ne-gcat-companion,NekoMatsu1,NEg-Cat,0.5.0,A playful black cat and your own voice for code errors.
+2026-10-14T12:31:55.96Z,RizwanAnsari.csv-studio-pro,RizwanAnsari,CSV Studio Pro,0.1.3,"Swiss army knife for CSV: typed grid view & editing, filters, multi-sort, SQL queries (SQLite), column transforms incl. decryption, profiling, lint/repair, diff, split/merge and export."
+2026-10-14T12:52:36.2Z,SerpX.serpx-seo-inspector,SerpX,SerpX SEO Inspector,1.0.1,"Fast, private source-level SEO checks for HTML and template files. Inspect titles, descriptions, canonicals, headings, images and social metadata."
+2026-10-14T13:00:43.96Z,KTernAI.ktern-workflow-studio,KTernAI,KTern Workflow Studio,1.0.0,Visual Workflow Editor for KTern.AI CodeGenie Platform
+2026-10-14T13:02:00.837Z,skillforge.skillforge,skillforge,SkillForge,0.1.1,"Cross-IDE developer skill discovery engine: map natural language ideas to vetted libraries, frameworks, and architecture patterns"
+2026-10-14T13:02:55.99Z,ali50m.mfmt,ali50m,mfmt,1.8.1,Personal markup formatter for VS Code.
+2026-10-14T13:07:53.27Z,Jatins.react-native-live-console,Jatins,React Native Live Console,0.0.1,"Stream React Native logs (simulator, emulator and real device via Metro) into a VS Code Output channel."
+2026-10-14T13:08:30.303Z,AdaCore.lkql,AdaCore,Lkql,0.0.1,Extension for the Lkql language
