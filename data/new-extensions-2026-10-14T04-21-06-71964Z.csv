@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T03:39:42.177Z,SadeepWeerasinghe.git-amulet,SadeepWeerasinghe,Git Amulet,0.4.5,"JetBrains-style Git for VS Code. An opinionated spin-off of GitCharm by RioNoir, tailored to my workflow. Most users want the original: RioNoir.gitcharm."
+2026-10-14T03:41:29.54Z,KaiBerggold.yaml-scheme-validator,KaiBerggold,YAML Scheme Validator,0.5.1,"Validates YAML config files against JSON Schema (draft-07) scheme files written in YAML (sibling *.schema.yml or declared in the first line), with recursive 'extends' includes, diagnostics, completion and hover help. Compatible with the Red Hat YAML extension."
+2026-10-14T03:44:55.543Z,kuomartin.moonclicker-script-workbench,kuomartin,MoonClicker Script Workbench,0.3.0,Connect VS Code to a MoonClicker device running Script Workbench.
+2026-10-14T03:49:13.987Z,dragoscv.axiom-axm,dragoscv,AXIOM .axm — plans for the agent write gate,2.5.0,"Language support for AXIOM .axm plans (the transactional write gate for coding agents): diagnostics, completion, hover, outline, formatting and semantic highlighting."
