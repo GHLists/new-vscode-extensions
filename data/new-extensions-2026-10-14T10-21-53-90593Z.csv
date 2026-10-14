@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T09:19:06.39Z,Petalzu.genai-login,Petalzu,GENAI Login,0.0.16,"UMPASS authentication and a local OpenAI-compatible bridge for University of Macau GENAI, with Copilot model configuration."
+2026-10-14T09:25:48.917Z,it-perspectives.openenv,it-perspectives,Open ENV,0.2.0,"Validation, completion and live preview for OpenENV YAML and JSON environment contracts."
+2026-10-14T09:27:01.41Z,Sascha-OliverProlic.moggi,Sascha-OliverProlic,Moggi,0.1.0,All-in-One Moggi support
+2026-10-14T09:30:48.233Z,orb-poc-labs.simple-status-clock,orb-poc-labs,Simple Status Clock,1.0.1,"Benign Orb POV lab extension: shows a status-bar clock and a hello command. No data collection, no network calls."
+2026-10-14T09:54:26.783Z,Mrzat.vscode-database-client-unlimited,Mrzat,SHsql,1.0.0,"All-in-one database & service client for VS Code: MySQL, PostgreSQL, SQL Server, Oracle, SQLite, DuckDB, ClickHouse, Cassandra, Trino, Redis, MongoDB, ElasticSearch, Kafka, RabbitMQ, SSH/SFTP, Docker, FTP, S3, WebDAV, etcd, ZooKeeper, Loki, Neo4j. No connection limits, every feature free."
+2026-10-14T10:02:16.323Z,WebieAPP.alivetabs,WebieAPP,Alive TABs,0.2.0,Color your editor tabs and mark files with colored flags.
+2026-10-14T10:08:15.78Z,quota-nexus.quota-nexus,quota-nexus,Quota Nexus - AI Usage & Context Monitor,1.2.0,"Unofficial quota, reset-time and context-window monitor for Antigravity, Claude Code and Codex. Alerts, forecasts and history. Read-only, local-first, stores no sign-in tokens."
+2026-10-14T10:08:29.05Z,amitnarw.opencode-launcher,amitnarw,OpenCode Launcher,1.0.0,"Launch OpenCode (v2) in a VS Code split terminal. Top-right button, keybindings, and @file context insert."
