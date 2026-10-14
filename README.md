@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-14 02:21 UTC
+## Latest list — 2026-10-14 03:20 UTC
 
-New extensions published between 2026-10-14 00:21 UTC and 2026-10-14 02:21 UTC.
+New extensions published between 2026-10-14 01:20 UTC and 2026-10-14 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-14T02-21-42-503943Z.csv)
+[Full CSV](data/new-extensions-2026-10-14T03-20-34-945309Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 01:35:52 | [renyi-lang.renyi](https://marketplace.visualstudio.com/items?itemName=renyi-lang.renyi) | Renyi | 0.2.0 | Renyi, the scripting language of AI agents: syntax highlighting and the languag… |
-| 2026-10-14 01:40:06 | [youngunghan.yuhan-codex-session-tabs](https://marketplace.visualstudio.com/items?itemName=youngunghan.yuhan-codex-session-tabs) | Codex Session Tabs | 0.2.4 | Open the official Codex chat in multiple independent editor tabs. |
-| 2026-10-14 01:51:12 | [nibble.nibble](https://marketplace.visualstudio.com/items?itemName=nibble.nibble) | Nibble 像素小兽 (Pixel Pet) | 0.5.2 | A pixel puppy living in your status bar and bottom panel: attacks once per prom… |
-| 2026-10-14 01:54:09 | [MichaKaufman.claude-code-chat-colors](https://marketplace.visualstudio.com/items?itemName=MichaKaufman.claude-code-chat-colors) | Claude Code Chat Colors | 0.18.2 | Make Claude Code conversations easier to scan: blue prompts, green main answers… |
+| 2026-10-14 02:29:57 | [runm.hexplusplus](https://marketplace.visualstudio.com/items?itemName=runm.hexplusplus) | Hex++ | 1.0.0 | Hex viewer / editor / comparer with firmware formats (Intel HEX, S-Record, TI-T… |
+| 2026-10-14 03:14:57 | [BenNarvaez.ansible-log-colors](https://marketplace.visualstudio.com/items?itemName=BenNarvaez.ansible-log-colors) | Ansible Log Colors | 0.1.0 | Colors saved ansible-playbook and AWX job output the way the terminal shows it:… |
 
 ## Data source
 
