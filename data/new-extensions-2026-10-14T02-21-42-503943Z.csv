@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T01:35:52.23Z,renyi-lang.renyi,renyi-lang,Renyi,0.2.0,"Renyi, the scripting language of AI agents: syntax highlighting and the language server (diagnostics, hover, go to definition, references, rename, the outline). The agent writes it, you review it at a glance, and the program can only do what it declares."
+2026-10-14T01:40:06.407Z,youngunghan.yuhan-codex-session-tabs,youngunghan,Codex Session Tabs,0.2.4,Open the official Codex chat in multiple independent editor tabs.
+2026-10-14T01:51:12.643Z,nibble.nibble,nibble,Nibble 像素小兽 (Pixel Pet),0.5.2,"A pixel puppy living in your status bar and bottom panel: attacks once per prompt or file save, levels up, collects 80 weapons (each grants attack power) and battles 40 bug-monsters, remembers progress. 像素小狗陪伴：提问/保存即攻击、升级、击败掉武器（提供战力加成）、40 只「编程 Bug」怪物图鉴、跨会话存档。"
+2026-10-14T01:54:09.85Z,MichaKaufman.claude-code-chat-colors,MichaKaufman,Claude Code Chat Colors,0.18.2,"Make Claude Code conversations easier to scan: blue prompts, green main answers, and clear separation from Thinking, Bash, and tool activity."
