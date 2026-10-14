@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T19:18:29.783Z,fsx.overleaf-comments,fsx,Overleaf Comments,0.1.0,"Read, reply to and resolve Overleaf review comments inside VS Code, for projects you sync with Overleaf's git bridge. Not affiliated with Overleaf."
+2026-10-14T19:28:14.307Z,20xic.treesnake,20xic,TreeSnake,0.1.0,"Select files and folders, export them as LLM-friendly text or XML to the clipboard or a file."
+2026-10-14T19:30:56.797Z,LincZero.vscode-any-block,LincZero,AnyBlock Markdown Preview,0.1.0,Add AnyBlock rule rendering to the built-in Markdown preview for .md files.
+2026-10-14T19:37:19.69Z,MBKDevStudio.nightmesh,MBKDevStudio,Nightmesh — 3D Model Viewer for glTF & GLB,0.1.0,"View and inspect glTF and GLB 3D models in VS Code, in your dark theme. Fast, offline and read-only."
+2026-10-14T19:38:31.657Z,vfmenegate.stained-glass-ui,vfmenegate,Stained Glass UI,0.1.0,"Frosted glass (acrylic) look for VS Code on Windows 11: rounded floating cards, no title bar, clean tabs. Built on Vibrancy Continued and Bearded Theme Stained Blue."
+2026-10-14T19:42:05.997Z,oleg-konanykhin.yandex-yacrm-assistant-bpmsoft,oleg-konanykhin,Yandex YaCRM Assistant for BPMSoft Development,2.0.0,"Snippets and item templates that speed up server-side C# development on the BPMSoft low-code platform (EntitySchemaQuery, Insert/Update/Delete, processes, system settings, permissions, services, event listeners)."
+2026-10-14T19:56:46.847Z,veeva-systems.vault-toolbox-vscode,veeva-systems,Vault Toolbox,26.2.0,Integrates Veeva Vault development and administration workflows directly into Visual Studio Code.
+2026-10-14T20:02:19.05Z,Maestrun.maestrun-vscode,Maestrun,Maestrun,1.0.0,"Manage Maestrun workflows, planned tasks, execution, and agent conversations directly in VS Code."
+2026-10-14T20:14:07.513Z,silykat.silykat,silykat,silykat,0.11.0,"Comment your code like on a pull request, and let your AI coding agent (Claude Code) answer in the threads. Then look back with retros to improve its setup. 100% local."
+2026-10-14T20:14:32.983Z,JACR.provider-switcher,JACR,Provider Switcher,0.3.0,"Switch the Claude Code chat panel and the Codex extension between AI provider and model presets, with DeepSeek included."
+2026-10-14T20:14:38.167Z,JulianSeckinger.robotik-extension,JulianSeckinger,Robotik in VS Code,0.1.0,LEGO SPIKE per Knopfdruck flashen & starten (Pybricks via Bluetooth) – für die Robotik-AG.
