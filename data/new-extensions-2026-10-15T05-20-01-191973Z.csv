@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T04:15:44.083Z,RashikTuladhar.sql-buddy,RashikTuladhar,SQL Buddy,0.7.1,"Schema-aware completion, snippets, formatting, code analysis, refactoring and query execution for SQL Server, with connections and query execution for MySQL and PostgreSQL."
+2026-10-15T04:34:35.407Z,narumi.narumi-pi,narumi,Pi,0.0.2,Use Pi in VS Code to understand code and apply focused modifications.
+2026-10-15T04:36:00.037Z,tdb-project.tdb-vscode,tdb-project,The Data-Bridge (TDB),0.1.0,"Connect VS Code agent mode to a TDB MCP server: governed, audited, read-only SQL over your data."
+2026-10-15T04:39:58.227Z,gergelygrubits.cosmo-my-work,gergelygrubits,COSMO Work Radar,0.3.4,"Your work items and pull requests across all Azure DevOps organizations, your GitHub pull requests, and everything open in the projects you watch."
+2026-10-15T04:51:04.363Z,RicardoFreire.cobol-copybook-data-editor,RicardoFreire,COBOL Copybook Data Editor,0.2.0,"Edita campos y añade o elimina registros COBOL con un copybook, letra grande y soporte COMP/COMP-3."
+2026-10-15T04:57:13.687Z,roychemo.claude-multi-account,roychemo,Claude Multi-Account,0.4.0,"Run each project on its own Claude account. See the account, tokens, cost and limits in the status bar, and switch with one click."
+2026-10-15T05:15:32.517Z,ShivanshKothari.code-behind-switcher,ShivanshKothari,Code-Behind Switcher,1.1.0,"Switch between markup and code-behind files (.aspx/.aspx.cs, .xaml/.xaml.cs, .razor/.razor.cs, Angular, C/C++ headers and more) with F7 / Shift+F7. Forked from ncthanh088/view-code-behind"
