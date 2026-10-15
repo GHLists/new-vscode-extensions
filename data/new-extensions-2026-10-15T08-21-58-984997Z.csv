@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T07:16:34.9Z,leejaehaeng.vscodetube,leejaehaeng,VScodetube,0.0.2,Explorer 사이드바에서 YouTube를 검색하고 보면서 코딩
+2026-10-15T07:20:34.96Z,PRODCopycatDVT.vsc-panorama-extM281,PRODCopycatDVT,CS2 Panorama (VXML / VCSS)M281,1.0.0,Language support for CS2 Panorama layouts and styles
+2026-10-15T07:24:29.12Z,PRODM281DVT.doki-wallpaper-carouselM281DVT,PRODM281DVT,Wallpaper Carousel for Doki ThemeM281DVT,1.2.0,"Unofficial companion for the Doki Theme: flip your wallpaper through a folder of GIFs and images (PNG, JPG, WebP, AVIF, ...), choose where it shows (editors, side bars, panel, terminal), darken it live so code stays readable, color VS Code after it, make big GIFs lighter and turn .mp4 videos into GI"
+2026-10-15T07:24:53.923Z,PRODM281DVT.platformio-PRODM281DVT,PRODM281DVT,PRODM281 TESTone On Platform,3.3.8,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)"
+2026-10-15T07:25:36.283Z,jalexiscv.sftp-forge,jalexiscv,SFTP Forge,1.30.2,SFTP/FTP sync
+2026-10-15T07:30:25.877Z,securesense.securesense,securesense,SecureSense,0.1.3,"Find the security vulnerabilities in your Python code that are actually real: Semgrep + CodeQL, AST evidence and AI verdicts, with a review dashboard and team sync."
+2026-10-15T07:56:31.29Z,YSTools.ystools-claude-codex-usage,YSTools,AI Usage Monitor by YSTools,0.1.0,"Claude usage & Codex usage monitor in your status bar. Track Claude Code and OpenAI Codex CLI rate limits: 5-hour and weekly quotas, reset times, and alerts. Works in VS Code, Cursor, Windsurf, and VSCodium."
+2026-10-15T07:56:37.803Z,LimeLisest.limelisest-napcat-qq,LimeLisest,NapCat QQ · Native Chat,0.2.8,使用原生编辑器聊天的 NapCat / OneBot v11 QQ 客户端。
+2026-10-15T07:56:42.223Z,Psychobarge.deepseek-commit,Psychobarge,DeepSeek Commit,0.0.2,Generate Git commit messages from your staged or unstaged changes with DeepSeek.
+2026-10-15T07:57:22.683Z,LaizhuangJi0601.mdre-vscode,LaizhuangJi0601,MDRE,0.2.1,Markdown 源码与富文本分屏双向编辑，保留 MDRE 工具栏及右键菜单。
+2026-10-15T08:00:32.423Z,rufreakde.visual-cap-inspector,rufreakde,Visual CAP Inspector,0.1.0,"See your SAP CAP CDS model as an interactive graph, generate MIN/MID/MAX example payloads with cURL, inspect the database tables, and get best-practice warnings."
+2026-10-15T08:04:50.817Z,syedharis14.dependency-drift,syedharis14,Dependency Drift,0.1.0,"Detects npm, yarn, pnpm, bun, Nx, Turborepo, Lerna and Rush workspaces. Browse packages, run scripts, and view the dependency graph."
+2026-10-15T08:12:40.23Z,SalmanAfzal.aggregor-app,SalmanAfzal,Aggregor App,0.0.1,Combines multiple coding agents.
+2026-10-15T08:13:00.45Z,RadostIT.triples,RadostIT,Triples,1.0.1,"Visualize RDF and OWL ontologies as an interactive graph and hierarchy, and see semantic diffs between versions."
+2026-10-15T08:13:49.63Z,ugurdeser.theme-gallery,ugurdeser,Theme Gallery,0.0.1,Browse all installed color themes as visual previews and apply one with a click.
