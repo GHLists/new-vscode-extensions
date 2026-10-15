@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T20:32:14.55Z,kodnexus.my-ai-assistant,kodnexus,Kodex - AI Coding Assistant,0.0.2,Kodex: Intelligent AI coding assistant with diff approval and smart file editing.
+2026-10-15T20:34:28.787Z,Unlimitless.unl,Unlimitless,Unl,0.1.0,"Unl, your why agent. See the decisions Unl hands your AI on every turn, live, beside your code."
+2026-10-15T20:37:53.293Z,Lionheart2007.virtual-paths,Lionheart2007,Virtual Paths,1.0.0,Organize real project files into a colorful virtual explorer without moving them.
+2026-10-15T20:48:41.323Z,CarlosEFranco.nestor-forge-agent-orchestra,CarlosEFranco,Agent Orchestra (Nestor Forge),0.5.5,"Explore agentes e skills, mapeie o projeto e gere contexto para documentação."
+2026-10-15T20:50:00.97Z,samarin-aa-aka-rtm00.vscode-kuberneties-openlens,samarin-aa-aka-rtm00,Kubernetes Explorer & OpenLens Tools,0.1.0,"OpenLens-style Kubernetes IDE in VS Code: cluster overview, workloads, pods with live CPU/memory metrics, logs, shells, secrets, port forwarding, Helm releases, YAML editing and safe kubeconfig import."
+2026-10-15T21:00:25.793Z,SpeakingPromptly.audio-for-codex,SpeakingPromptly,Audio for Codex,1.0.0,"Hear OpenAI Codex's replies read aloud as they arrive, with word-by-word highlighting, in your computer's voices or natural ElevenLabs voices."

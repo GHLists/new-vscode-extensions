@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 20:21 UTC
+## Latest list — 2026-10-15 21:20 UTC
 
-New extensions published between 2026-10-15 18:21 UTC and 2026-10-15 20:21 UTC.
+New extensions published between 2026-10-15 19:20 UTC and 2026-10-15 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T20-21-36-199938Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T21-20-49-829967Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 19:18:15 | [rogday.handback](https://marketplace.visualstudio.com/items?itemName=rogday.handback) | Handback | 0.2.0 | GitHub-style code review for Claude Code and Copilot Chat: comment on lines, fi… |
-| 2026-10-15 19:22:29 | [KT-vscode.codemist](https://marketplace.visualstudio.com/items?itemName=KT-vscode.codemist) | CodeMist | 0.0.1 | Visual Code Comprehension and What-If Edge-Case Tracing with interactive UML/Fl… |
-| 2026-10-15 19:29:02 | [shalvirajpura.scrolltheblog](https://marketplace.visualstudio.com/items?itemName=shalvirajpura.scrolltheblog) | ScrollTheBlog | 0.1.0 | Read tech blogs from Hacker News, Medium, dev.to and Lobsters inside VS Code. |
-| 2026-10-15 19:38:22 | [fernandorosseto.openrouter-web](https://marketplace.visualstudio.com/items?itemName=fernandorosseto.openrouter-web) | OpenRouter Web Agent | 0.1.0 | Chat e agente de código com qualquer modelo do OpenRouter — roda no vscode.dev… |
-| 2026-10-15 19:53:10 | [nael-awadallah.folder-palette](https://marketplace.visualstudio.com/items?itemName=nael-awadallah.folder-palette) | FolderPalette — Folder Icon Customizer | 0.1.0 | Capability-aware folder icon customization for Material Icon Theme and vscode-i… |
-| 2026-10-15 19:54:29 | [davidw475.devops-deck](https://marketplace.visualstudio.com/items?itemName=davidw475.devops-deck) | DevOps Deck for Azure DevOps | 0.1.0 | Review pull requests, manage work items and watch pipelines (with live logs) fr… |
-| 2026-10-15 19:54:34 | [amanazkar.aurex-sftp](https://marketplace.visualstudio.com/items?itemName=amanazkar.aurex-sftp) | Aurex SFTP | 0.4.0 | Reliable SFTP / FTP / FTPS deploys: upload on save with conflict detection, a r… |
-| 2026-10-15 19:56:51 | [repomine.repomine-blueprint](https://marketplace.visualstudio.com/items?itemName=repomine.repomine-blueprint) | RepoMine Blueprint | 0.0.1 | API flows for Flask, FastAPI, and Django REST Framework. See an endpoint's requ… |
-| 2026-10-15 19:59:50 | [mowogroup.wolang](https://marketplace.visualstudio.com/items?itemName=mowogroup.wolang) | Wolang | 0.1.0 | Wolang language support: highlighting, diagnostics, hover, go to definition, sy… |
-| 2026-10-15 20:01:59 | [CelestialWorks.gizmo](https://marketplace.visualstudio.com/items?itemName=CelestialWorks.gizmo) | Gizmo by Celestial Works | 1.0.10 | Gizmo checks what you built with AI, sums it up in plain words, and helps you s… |
+| 2026-10-15 20:32:14 | [kodnexus.my-ai-assistant](https://marketplace.visualstudio.com/items?itemName=kodnexus.my-ai-assistant) | Kodex - AI Coding Assistant | 0.0.2 | Kodex: Intelligent AI coding assistant with diff approval and smart file editin… |
+| 2026-10-15 20:34:28 | [Unlimitless.unl](https://marketplace.visualstudio.com/items?itemName=Unlimitless.unl) | Unl | 0.1.0 | Unl, your why agent. See the decisions Unl hands your AI on every turn, live, b… |
+| 2026-10-15 20:37:53 | [Lionheart2007.virtual-paths](https://marketplace.visualstudio.com/items?itemName=Lionheart2007.virtual-paths) | Virtual Paths | 1.0.0 | Organize real project files into a colorful virtual explorer without moving the… |
+| 2026-10-15 20:48:41 | [CarlosEFranco.nestor-forge-agent-orchestra](https://marketplace.visualstudio.com/items?itemName=CarlosEFranco.nestor-forge-agent-orchestra) | Agent Orchestra (Nestor Forge) | 0.5.5 | Explore agentes e skills, mapeie o projeto e gere contexto para documentação. |
+| 2026-10-15 20:50:00 | [samarin-aa-aka-rtm00.vscode-kuberneties-openlens](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.vscode-kuberneties-openlens) | Kubernetes Explorer & OpenLens Tools | 0.1.0 | OpenLens-style Kubernetes IDE in VS Code: cluster overview, workloads, pods wit… |
+| 2026-10-15 21:00:25 | [SpeakingPromptly.audio-for-codex](https://marketplace.visualstudio.com/items?itemName=SpeakingPromptly.audio-for-codex) | Audio for Codex | 1.0.0 | Hear OpenAI Codex's replies read aloud as they arrive, with word-by-word highli… |
 
 ## Data source
 
