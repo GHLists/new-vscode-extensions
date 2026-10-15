@@ -12,28 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 11:21 UTC
+## Latest list — 2026-10-15 12:20 UTC
 
-New extensions published between 2026-10-15 09:21 UTC and 2026-10-15 11:21 UTC.
+New extensions published between 2026-10-15 10:20 UTC and 2026-10-15 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T11-21-12-759575Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T12-20-42-974331Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 10:17:14 | [terry-zhang.vscode-node-runtime-types](https://marketplace.visualstudio.com/items?itemName=terry-zhang.vscode-node-runtime-types) | Node Runtime Types | 0.1.0 | Use Node.js 24.12+ type definitions that match the runtime to help VSCode with… |
-| 2026-10-15 10:31:02 | [AHAYDENANAND.devpreview](https://marketplace.visualstudio.com/items?itemName=AHAYDENANAND.devpreview) | DevPreview | 0.0.1 | Instantly preview React components inside VS Code. |
-| 2026-10-15 10:31:57 | [nas-language.nas-lang](https://marketplace.visualstudio.com/items?itemName=nas-language.nas-lang) | NAS Language - YN Hex | 1.5.2 | NAS/YARN with dedicated YN hex icon |
-| 2026-10-15 10:37:18 | [james-saloman.ignition-udt-tree-view](https://marketplace.visualstudio.com/items?itemName=james-saloman.ignition-udt-tree-view) | Ignition UDT Tree View | 1.1.0 | Browse Ignition UDT / tag JSON exports as a hierarchical tag tree, like the Des… |
-| 2026-10-15 10:39:04 | [Edgemodders.rednode-hud-theme](https://marketplace.visualstudio.com/items?itemName=Edgemodders.rednode-hud-theme) | REDnode HUD | 0.3.1 | Dark theme in the REDnode house style: near-black HUD panels with yellow and cy… |
-| 2026-10-15 10:40:19 | [denpaz.pcap-viewer](https://marketplace.visualstudio.com/items?itemName=denpaz.pcap-viewer) | PCAP Lens | 0.4.1 | Wireshark-like packet capture viewer for VS Code, powered by tshark. |
-| 2026-10-15 10:52:03 | [Nguimaraes.dmpsv](https://marketplace.visualstudio.com/items?itemName=Nguimaraes.dmpsv) | SystemVerilog IDE | 0.1.0 | JetBrains-grade IDE experience for SystemVerilog and Verilog: signal completion… |
-| 2026-10-15 10:55:21 | [yevin.independent-sidebar-terminal](https://marketplace.visualstudio.com/items?itemName=yevin.independent-sidebar-terminal) | Termlet | 0.2.1 | A compact, independent shell terminal with native controls in the Secondary Sid… |
-| 2026-10-15 10:56:17 | [codetogetherinc.aitrax-cloud-vscode](https://marketplace.visualstudio.com/items?itemName=codetogetherinc.aitrax-cloud-vscode) | CodeTogether AITrax Cloud | 1.2.8462 | CodeTogether connects AI costs, developer activity, and code quality to what ac… |
-| 2026-10-15 10:57:17 | [maratib.rest-studio](https://marketplace.visualstudio.com/items?itemName=maratib.rest-studio) | REST Studio | 0.0.2 | A local-first REST API client for VS Code. |
-| 2026-10-15 11:01:03 | [mhquan.claude-session-deck](https://marketplace.visualstudio.com/items?itemName=mhquan.claude-session-deck) | Claude Session & Issue Tracker | 0.2.5 | Track and manage Claude Code sessions, issues, token metrics, and git worktrees… |
-| 2026-10-15 11:01:53 | [ptanmay143.techstack-multi-command](https://marketplace.visualstudio.com/items?itemName=ptanmay143.techstack-multi-command) | TechStack Multi Command Executor | 1.1.0 | Run configured VS Code command workflows on files, folders, workspaces, and glo… |
-| 2026-10-15 11:06:33 | [mdview.mdview](https://marketplace.visualstudio.com/items?itemName=mdview.mdview) | mdview | 0.1.0 | mdview 桌面版官方插件：在 VS Code 中编辑 Markdown，mdview 窗口实时无感预览，光标/选区双向同步 |
-| 2026-10-15 11:06:56 | [kaedinger.vscode-claude-token-usage-bar-ext](https://marketplace.visualstudio.com/items?itemName=kaedinger.vscode-claude-token-usage-bar-ext) | Claude Token Usage Bar Ext | 0.8.1 | Claude Code context-window fill, prompt cache state, a compact nudge and 5-hour… |
+| 2026-10-15 11:20:17 | [Metropolia.metropolia-ict](https://marketplace.visualstudio.com/items?itemName=Metropolia.metropolia-ict) | Metropolia ICT | 0.1.0 | Metropolia ICT course assignments in VS Code: choose a course, work through its… |
+| 2026-10-15 11:26:33 | [Nguimaraes.svision](https://marketplace.visualstudio.com/items?itemName=Nguimaraes.svision) | SVision | 0.2.0 | JetBrains-grade IDE experience for SystemVerilog and Verilog: signal completion… |
+| 2026-10-15 11:29:31 | [ShabanaDev.rxjs-leak-finder](https://marketplace.visualstudio.com/items?itemName=ShabanaDev.rxjs-leak-finder) | RXJS Leak Finder | 0.0.1 | A VS Code extension that detects potentially unsafe RxJS subscriptions in Angul… |
+| 2026-10-15 11:43:09 | [KodingKO.hanul-hwpx](https://marketplace.visualstudio.com/items?itemName=KodingKO.hanul-hwpx) | Hanul · 한울 HWP/HWPX | 0.1.0 | 한컴 설치 없이 사용하는 로컬 HWP/HWPX 편집기 · 초기 시제품 |
+| 2026-10-15 11:43:36 | [rky25.rky-ai-testgen](https://marketplace.visualstudio.com/items?itemName=rky25.rky-ai-testgen) | AI Test Case Generator | 0.6.1 | Enterprise-grade AI test case generator for Python and Salesforce Apex with cro… |
+| 2026-10-15 11:48:02 | [ImportStar.argus-control-center](https://marketplace.visualstudio.com/items?itemName=ImportStar.argus-control-center) | Argus Control Center | 0.1.0 | Mission control for Claude Code: a live board of your sessions, notifications w… |
+| 2026-10-15 11:48:16 | [alwaysspraveen.drafts-panel](https://marketplace.visualstudio.com/items?itemName=alwaysspraveen.drafts-panel) | Drafts Panel for Claude Code | 0.6.0 | A side panel of the messages Claude Code drafts for you (Teams, Google Chat, Sl… |
+| 2026-10-15 11:52:46 | [adrilasar.static-html-preview](https://marketplace.visualstudio.com/items?itemName=adrilasar.static-html-preview) | Static HTML Preview | 0.2.0 | Edit HTML on the left with a live, offline preview on the right. Works locally… |
+| 2026-10-15 11:54:14 | [codewithzakir.cutad-ai](https://marketplace.visualstudio.com/items?itemName=codewithzakir.cutad-ai) | Cutad.AI | 0.1.0 | AI coding, debugging & planning assistant powered by the CutadAI model gateway.… |
+| 2026-10-15 11:56:15 | [hopleus.ticket-id-commit-message](https://marketplace.visualstudio.com/items?itemName=hopleus.ticket-id-commit-message) | Ticket ID Commit Message | 0.1.1 | Adds the ticket ID from your branch name (Jira, YouTrack, Linear…) to your comm… |
+| 2026-10-15 11:59:13 | [TahuBeresTeknologi.simple-git-diff](https://marketplace.visualstudio.com/items?itemName=TahuBeresTeknologi.simple-git-diff) | Simple Git Diff | 0.1.0 | Review Git changes without switching branches. Compare branches, tags, commits,… |
+| 2026-10-15 11:59:42 | [robbanhoglund.jvmscope](https://marketplace.visualstudio.com/items?itemName=robbanhoglund.jvmscope) | JvmScope — Java Thread Dumps & TLS Logs | 0.3.2 | Analyze Java thread dumps and Java TLS/SSL (JSSE) logs locally in VS Code. Insp… |
+| 2026-10-15 12:14:17 | [hopleus.vscode-columbus](https://marketplace.visualstudio.com/items?itemName=hopleus.vscode-columbus) | Columbus | 0.1.0 | A database client in the spirit of DataGrip: PostgreSQL, MySQL, MariaDB, SQLite… |
 
 ## Data source
 
