@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T12:17:58.543Z,tsubasato.shonan-vibes,tsubasato,Shonan Vibes,0.2.0,"A quiet theme that follows the light of the Shonan coast through the day: moonlit night, violet dawn, blue-sky noon, golden sunset. One theme, one coastline, one day."
+2026-10-15T12:29:21.813Z,Zevora.zevora,Zevora,Zevora,0.0.1,A modern dark theme for developers.
+2026-10-15T12:32:31.09Z,HannHank.ned-ls,HannHank,OMNeT++ NED & INI Language Server,0.1.0,ned rust language server
+2026-10-15T12:41:39.83Z,AravindMerugu.vscode-anymodel,AravindMerugu,AnyModel — Custom LLMs in Copilot Chat,1.0.0,"Run Ollama, Claude, DeepSeek, OpenRouter, and any OpenAI-compatible endpoint natively inside GitHub Copilot Chat — with smart fallback routes, health checks, and a model manager."
+2026-10-15T12:44:26.487Z,ashwiii25.mallurun,ashwiii25,mallurun,0.3.0,Quirky animated GIF reactions whenever you execute code in VS Code.
+2026-10-15T12:46:28.243Z,brycewang-stanford.md2,brycewang-stanford,"md2 — Markdown to WeChat, Zhihu, Xiaohongshu & Threads",0.2.4,"Live-preview and export Markdown for 公众号 (WeChat), 知乎 (Zhihu), 小红书 (Xiaohongshu) image cards, X / Threads / Bluesky / LinkedIn threads, long images and covers — 16 modern themes, math, Mermaid, AI copywriting."
+2026-10-15T12:50:59.437Z,MayankPadmani.big-o-buddy-analyzer,MayankPadmani,BigO Buddy - Complexity Analyzer,1.0.0,Analyze time and space complexity of your code
+2026-10-15T12:58:27.64Z,valancex.valance,valancex,VALANCE,0.1.0,"Language support for VALANCE projects: MPRX templates (highlighting, diagnostics, hover, completion, go to definition, formatting), project checks, and the connections between a template and the code that feeds it."
