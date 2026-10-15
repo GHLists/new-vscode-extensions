@@ -12,20 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 17:20 UTC
+## Latest list — 2026-10-15 18:21 UTC
 
-New extensions published between 2026-10-15 15:20 UTC and 2026-10-15 17:20 UTC.
+New extensions published between 2026-10-15 16:21 UTC and 2026-10-15 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T17-20-47-45297Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T18-21-50-347359Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 16:28:25 | [shehab-dev2000.html-scope-inspector](https://marketplace.visualstudio.com/items?itemName=shehab-dev2000.html-scope-inspector) | HTML Scope Inspector | 0.1.1 | A professional tool to visualize and inspect HTML class scopes easily. |
-| 2026-10-15 16:31:59 | [webboost.styleseek](https://marketplace.visualstudio.com/items?itemName=webboost.styleseek) | StyleSeek | 0.2.1 | Smart CSS/SCSS selector search. Finds nested BEM selectors that do not exist li… |
-| 2026-10-15 16:35:24 | [erancihan.vscode-git-graph](https://marketplace.visualstudio.com/items?itemName=erancihan.vscode-git-graph) | Git Graph Community | 2.0.2 | View a Git Graph of your repository, and perform Git actions from the graph. Co… |
-| 2026-10-15 16:39:41 | [AzAdvertizer.azadvertizer](https://marketplace.visualstudio.com/items?itemName=AzAdvertizer.azadvertizer) | AzAdvertizer | 0.1.0 | Azure Policy, RBAC role, Entra ID role and API permission, resource type and op… |
-| 2026-10-15 16:54:32 | [YogeshRajak.codeopen](https://marketplace.visualstudio.com/items?itemName=YogeshRajak.codeopen) | CodeOpen | 1.1.0 | Own chat panel for the OpenCode CLI — verified free models only. |
-| 2026-10-15 17:14:47 | [conf-ernce.conf](https://marketplace.visualstudio.com/items?itemName=conf-ernce.conf) | conf | 1.0.0 | Полные офлайн-проекты четырёх модулей, запуск и параметры Автотеста. |
+| 2026-10-15 17:20:45 | [RiccardoFilippozzi.gitardo](https://marketplace.visualstudio.com/items?itemName=RiccardoFilippozzi.gitardo) | Gitardo | 0.2.0 | Commit graph, history and everyday Git operations in a single panel. |
+| 2026-10-15 17:22:27 | [anindosarker.cc-history](https://marketplace.visualstudio.com/items?itemName=anindosarker.cc-history) | CC History | 0.4.3 | Claude Code session history: browse, search, diff and export every session. No… |
+| 2026-10-15 17:33:35 | [StevenYang0316-5274.notebook-git-gutter](https://marketplace.visualstudio.com/items?itemName=StevenYang0316-5274.notebook-git-gutter) | Jupyter Notebook Git Marks | 0.1.1 | Live Git change markers in VS Code's native Jupyter Notebook cells. |
+| 2026-10-15 17:37:28 | [tom-ricci.neutron-atom-one-dark-theme](https://marketplace.visualstudio.com/items?itemName=tom-ricci.neutron-atom-one-dark-theme) | Neutron - Atom One Dark Theme | 1.0.0 | A new take on Atom One Dark. |
+| 2026-10-15 17:43:00 | [luckylodhi31.replicas-delegate](https://marketplace.visualstudio.com/items?itemName=luckylodhi31.replicas-delegate) | Replicas Delegate | 0.1.0 | Delegate engineering tasks to Replicas cloud agents (Claude Code, Codex, Cursor… |
+| 2026-10-15 17:46:23 | [RubenBlancoManzano.copilot-pace](https://marketplace.visualstudio.com/items?itemName=RubenBlancoManzano.copilot-pace) | Copilot Pace | 1.0.0 | Track GitHub Copilot credits, daily allowance and projected usage in your VS Co… |
+| 2026-10-15 17:52:40 | [diffline.diffline](https://marketplace.visualstudio.com/items?itemName=diffline.diffline) | Diffline | 0.4.1 | Review GitHub pull requests in VS Code or Cursor with Claude Code, Codex or Pi… |
+| 2026-10-15 17:54:08 | [simply-wyvern.lysark](https://marketplace.visualstudio.com/items?itemName=simply-wyvern.lysark) | Lysark | 0.1.0 | Preview Lysark lecture slides beside the text and save 3D camera views into the… |
+| 2026-10-15 17:54:35 | [afshan-qasim.codesentry-by-afshanq](https://marketplace.visualstudio.com/items?itemName=afshan-qasim.codesentry-by-afshanq) | CodeSentry by Afshan | 1.0.0 | AI-powered JavaScript vulnerability scanner __By Afshan Qasim |
+| 2026-10-15 18:01:46 | [ajkaarthick.codeowners-guard](https://marketplace.visualstudio.com/items?itemName=ajkaarthick.codeowners-guard) | CODEOWNERS Guard | 1.0.0 | Production-quality CODEOWNERS validation with filesystem-aware path casing chec… |
 
 ## Data source
 
