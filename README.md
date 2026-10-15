@@ -12,29 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 08:21 UTC
+## Latest list — 2026-10-15 09:19 UTC
 
-New extensions published between 2026-10-15 06:21 UTC and 2026-10-15 08:21 UTC.
+New extensions published between 2026-10-15 07:19 UTC and 2026-10-15 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T08-21-58-984997Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T09-19-26-02346Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 07:16:34 | [leejaehaeng.vscodetube](https://marketplace.visualstudio.com/items?itemName=leejaehaeng.vscodetube) | VScodetube | 0.0.2 | Explorer 사이드바에서 YouTube를 검색하고 보면서 코딩 |
-| 2026-10-15 07:20:34 | [PRODCopycatDVT.vsc-panorama-extM281](https://marketplace.visualstudio.com/items?itemName=PRODCopycatDVT.vsc-panorama-extM281) | CS2 Panorama (VXML / VCSS)M281 | 1.0.0 | Language support for CS2 Panorama layouts and styles |
-| 2026-10-15 07:24:29 | [PRODM281DVT.doki-wallpaper-carouselM281DVT](https://marketplace.visualstudio.com/items?itemName=PRODM281DVT.doki-wallpaper-carouselM281DVT) | Wallpaper Carousel for Doki ThemeM281DVT | 1.2.0 | Unofficial companion for the Doki Theme: flip your wallpaper through a folder o… |
-| 2026-10-15 07:24:53 | [PRODM281DVT.platformio-PRODM281DVT](https://marketplace.visualstudio.com/items?itemName=PRODM281DVT.platformio-PRODM281DVT) | PRODM281 TESTone On Platform | 3.3.8 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
-| 2026-10-15 07:25:36 | [jalexiscv.sftp-forge](https://marketplace.visualstudio.com/items?itemName=jalexiscv.sftp-forge) | SFTP Forge | 1.30.2 | SFTP/FTP sync |
-| 2026-10-15 07:30:25 | [securesense.securesense](https://marketplace.visualstudio.com/items?itemName=securesense.securesense) | SecureSense | 0.1.3 | Find the security vulnerabilities in your Python code that are actually real: S… |
-| 2026-10-15 07:56:31 | [YSTools.ystools-claude-codex-usage](https://marketplace.visualstudio.com/items?itemName=YSTools.ystools-claude-codex-usage) | AI Usage Monitor by YSTools | 0.1.0 | Claude usage & Codex usage monitor in your status bar. Track Claude Code and Op… |
-| 2026-10-15 07:56:37 | [LimeLisest.limelisest-napcat-qq](https://marketplace.visualstudio.com/items?itemName=LimeLisest.limelisest-napcat-qq) | NapCat QQ · Native Chat | 0.2.8 | 使用原生编辑器聊天的 NapCat / OneBot v11 QQ 客户端。 |
-| 2026-10-15 07:56:42 | [Psychobarge.deepseek-commit](https://marketplace.visualstudio.com/items?itemName=Psychobarge.deepseek-commit) | DeepSeek Commit | 0.0.2 | Generate Git commit messages from your staged or unstaged changes with DeepSeek. |
-| 2026-10-15 07:57:22 | [LaizhuangJi0601.mdre-vscode](https://marketplace.visualstudio.com/items?itemName=LaizhuangJi0601.mdre-vscode) | MDRE | 0.2.1 | Markdown 源码与富文本分屏双向编辑，保留 MDRE 工具栏及右键菜单。 |
-| 2026-10-15 08:00:32 | [rufreakde.visual-cap-inspector](https://marketplace.visualstudio.com/items?itemName=rufreakde.visual-cap-inspector) | Visual CAP Inspector | 0.1.0 | See your SAP CAP CDS model as an interactive graph, generate MIN/MID/MAX exampl… |
-| 2026-10-15 08:04:50 | [syedharis14.dependency-drift](https://marketplace.visualstudio.com/items?itemName=syedharis14.dependency-drift) | Dependency Drift | 0.1.0 | Detects npm, yarn, pnpm, bun, Nx, Turborepo, Lerna and Rush workspaces. Browse… |
-| 2026-10-15 08:12:40 | [SalmanAfzal.aggregor-app](https://marketplace.visualstudio.com/items?itemName=SalmanAfzal.aggregor-app) | Aggregor App | 0.0.1 | Combines multiple coding agents. |
-| 2026-10-15 08:13:00 | [RadostIT.triples](https://marketplace.visualstudio.com/items?itemName=RadostIT.triples) | Triples | 1.0.1 | Visualize RDF and OWL ontologies as an interactive graph and hierarchy, and see… |
-| 2026-10-15 08:13:49 | [ugurdeser.theme-gallery](https://marketplace.visualstudio.com/items?itemName=ugurdeser.theme-gallery) | Theme Gallery | 0.0.1 | Browse all installed color themes as visual previews and apply one with a click. |
+| 2026-10-15 08:23:51 | [amber8800.dev-snapshot](https://marketplace.visualstudio.com/items?itemName=amber8800.dev-snapshot) | AmberTrail | 0.2.5 | Private local development snapshots with reviewed restore and Git commits. |
+| 2026-10-15 08:25:17 | [HJL123.codememory-knowledge-graph](https://marketplace.visualstudio.com/items?itemName=HJL123.codememory-knowledge-graph) | CodeMemory · 代码知识库 | 0.3.1 | 把函数用法变成 Markdown 知识卡片：双向链接、Python 关联提示和左下角知识图谱。 |
+| 2026-10-15 08:36:26 | [JimDeane.vscode-url-launcher](https://marketplace.visualstudio.com/items?itemName=JimDeane.vscode-url-launcher) | URL Launcher | 0.2.1 | Open .url shortcuts from the Explorer in VS Code's integrated browser or your d… |
+| 2026-10-15 08:37:43 | [LawrenceShin.md-live-viewer](https://marketplace.visualstudio.com/items?itemName=LawrenceShin.md-live-viewer) | Markdown Live Viewer | 1.0.0 | Live Markdown preview that updates as you type, with light/dark themes, a sideb… |
+| 2026-10-15 08:39:35 | [jalexiscv.vscode-language-pack-es-co](https://marketplace.visualstudio.com/items?itemName=jalexiscv.vscode-language-pack-es-co) | Spanish (Colombia) Language Pack for Vi… | 1.131.0 | Paquete de idioma español de Colombia (es-CO) para Visual Studio Code |
+| 2026-10-15 08:52:39 | [hostxxii.one-dark-pro-cream-navy](https://marketplace.visualstudio.com/items?itemName=hostxxii.one-dark-pro-cream-navy) | One Dark Pro Cream & Navy | 0.3.3 | One Dark Pro inspired syntax with a soft cream light theme and a deep navy dark… |
+| 2026-10-15 09:04:52 | [neko233-com.jenkinsfile-free](https://marketplace.visualstudio.com/items?itemName=neko233-com.jenkinsfile-free) | Jenkinsfile Free | 1.0.0 | Free Jenkinsfile syntax highlighting, completion, outline and idempotent format… |
+| 2026-10-15 09:14:28 | [RizwanAnsari.rest-client-studio](https://marketplace.visualstudio.com/items?itemName=RizwanAnsari.rest-client-studio) | Rest Studio for VS Code | 0.1.1 | A visual editor for REST Client .http / .rest files: edit, run, environments, a… |
 
 ## Data source
 

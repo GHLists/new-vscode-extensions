@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T08:23:51.227Z,amber8800.dev-snapshot,amber8800,AmberTrail,0.2.5,Private local development snapshots with reviewed restore and Git commits.
+2026-10-15T08:25:17.28Z,HJL123.codememory-knowledge-graph,HJL123,CodeMemory · 代码知识库,0.3.1,把函数用法变成 Markdown 知识卡片：双向链接、Python 关联提示和左下角知识图谱。
+2026-10-15T08:36:26.96Z,JimDeane.vscode-url-launcher,JimDeane,URL Launcher,0.2.1,Open .url shortcuts from the Explorer in VS Code's integrated browser or your default browser.
+2026-10-15T08:37:43.073Z,LawrenceShin.md-live-viewer,LawrenceShin,Markdown Live Viewer,1.0.0,"Live Markdown preview that updates as you type, with light/dark themes, a sidebar dashboard, Mermaid diagrams, KaTeX math and a beginner-friendly guide."
+2026-10-15T08:39:35.07Z,jalexiscv.vscode-language-pack-es-co,jalexiscv,Spanish (Colombia) Language Pack for Visual Studio Code,1.131.0,Paquete de idioma español de Colombia (es-CO) para Visual Studio Code
+2026-10-15T08:52:39.13Z,hostxxii.one-dark-pro-cream-navy,hostxxii,One Dark Pro Cream & Navy,0.3.3,One Dark Pro inspired syntax with a soft cream light theme and a deep navy dark theme. An unofficial community theme.
+2026-10-15T09:04:52.387Z,neko233-com.jenkinsfile-free,neko233-com,Jenkinsfile Free,1.0.0,"Free Jenkinsfile syntax highlighting, completion, outline and idempotent formatting."
+2026-10-15T09:14:28.467Z,RizwanAnsari.rest-client-studio,RizwanAnsari,Rest Studio for VS Code,0.1.1,"A visual editor for REST Client .http / .rest files: edit, run, environments, auth, cookies, history and code generation."
