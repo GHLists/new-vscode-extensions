@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T03:23:57.733Z,brianzdev.postgres-hints,brianzdev,Postgres Hints,0.0.2,Plain-English hints for common Postgres SQL errors. 100% local.
+2026-10-15T03:26:27.157Z,husainabdurrohim.vscode-lyrics,husainabdurrohim,LyricFlow: Lyrics for VS Code,0.1.0,"Lyrics in the VS Code sidebar, with automatic Linux media detection and manual search across desktop platforms."
+2026-10-15T03:26:38.71Z,siziksu.git-config-info,siziksu,Git Config Info,1.0.0,Displays Git information for the current project in the sidebar
+2026-10-15T03:50:03.743Z,torisukirame.moyu-novel,torisukirame,摸鱼小说,0.1.0,在编辑器侧边栏搜索网页小说，或粘贴网址只识别该网站，抽取正文阅读，可加入书架。
+2026-10-15T03:50:40.257Z,cesiumlang.zfls,cesiumlang,zfls: Fortran Language Server,0.1.7,"Fortran language support powered by zfls, a fast native reimplementation of fortls"
+2026-10-15T03:51:39.497Z,ReadyStack.rustfs-migration-map,ReadyStack,RustFS Migration Map: MinIO to RustFS,1.0.0,"MinIO's repo is archived and AGPL, source-only. Maps every minio image, MINIO_* variable, Helm chart and health path in compose, Dockerfile, values.yaml, Chart.yaml and .tf to the exact RustFS line."
+2026-10-15T03:52:05.343Z,ReadyStack.sql-server-express-downgrade-check,ReadyStack,SQL Server Express Downgrade Check,1.0.0,"Moving off SQL Server Standard or Developer to free Express? Lists every T-SQL, ini and compose line Express cannot run (Agent jobs, Database Mail, backup compression, 10 GB cap) with the Express fix."
+2026-10-15T03:52:06.277Z,nexotecklabs.nexoteck-ai,nexotecklabs,Nexoteck AI,0.1.0,"Asistente de programación con IA: chat, agente que edita y valida tu código, y autocompletado. Gratis con Ollama o con saldo prepago en la nube, sin mensualidad."
+2026-10-15T03:52:38.737Z,ReadyStack.mysql-84-azure-extended-support-map,ReadyStack,mysql 8.4 Azure Extended Support Map,1.0.0,"Finds every Azure Database for MySQL server pinned to 5.7 or 8.0 in Terraform, Bicep, ARM and az CLI files, with the billing date and the exact mysql 8.4 replacement line."
+2026-10-15T04:02:37.25Z,bscl.bscl-ai-studio,bscl,BSCL AI Studio,1.1.1,"Agente para VS Code con contexto de carpetas, edición reversible, modelos locales, APIs y coordinación de agentes."
+2026-10-15T04:02:51.84Z,rboylesoftware.am-stellar,rboylesoftware,AM Stellar,0.1.18,"Name, watch and switch between parallel coding agents (Claude Code, Codex, Qwen Code) and review their work in your own checkout."
+2026-10-15T04:05:22.52Z,thkprado.jlens,thkprado,jlens — JSONata,0.15.0,"JSONata for VS Code: highlighting, and diagnostics, completion and hovers from the jlens language server"
+2026-10-15T04:12:31.763Z,VECTORBOT.vector-o,VECTORBOT,VECTOR BOT,0.0.1,Premium AI coding agent for VS Code
