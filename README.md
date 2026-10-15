@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 05:20 UTC
+## Latest list — 2026-10-15 06:19 UTC
 
-New extensions published between 2026-10-15 03:20 UTC and 2026-10-15 05:20 UTC.
+New extensions published between 2026-10-15 04:19 UTC and 2026-10-15 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T05-20-01-191973Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T06-19-59-690467Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 04:15:44 | [RashikTuladhar.sql-buddy](https://marketplace.visualstudio.com/items?itemName=RashikTuladhar.sql-buddy) | SQL Buddy | 0.7.1 | Schema-aware completion, snippets, formatting, code analysis, refactoring and q… |
-| 2026-10-15 04:34:35 | [narumi.narumi-pi](https://marketplace.visualstudio.com/items?itemName=narumi.narumi-pi) | Pi | 0.0.2 | Use Pi in VS Code to understand code and apply focused modifications. |
-| 2026-10-15 04:36:00 | [tdb-project.tdb-vscode](https://marketplace.visualstudio.com/items?itemName=tdb-project.tdb-vscode) | The Data-Bridge (TDB) | 0.1.0 | Connect VS Code agent mode to a TDB MCP server: governed, audited, read-only SQ… |
-| 2026-10-15 04:39:58 | [gergelygrubits.cosmo-my-work](https://marketplace.visualstudio.com/items?itemName=gergelygrubits.cosmo-my-work) | COSMO Work Radar | 0.3.4 | Your work items and pull requests across all Azure DevOps organizations, your G… |
-| 2026-10-15 04:51:04 | [RicardoFreire.cobol-copybook-data-editor](https://marketplace.visualstudio.com/items?itemName=RicardoFreire.cobol-copybook-data-editor) | COBOL Copybook Data Editor | 0.2.0 | Edita campos y añade o elimina registros COBOL con un copybook, letra grande y… |
-| 2026-10-15 04:57:13 | [roychemo.claude-multi-account](https://marketplace.visualstudio.com/items?itemName=roychemo.claude-multi-account) | Claude Multi-Account | 0.4.0 | Run each project on its own Claude account. See the account, tokens, cost and l… |
-| 2026-10-15 05:15:32 | [ShivanshKothari.code-behind-switcher](https://marketplace.visualstudio.com/items?itemName=ShivanshKothari.code-behind-switcher) | Code-Behind Switcher | 1.1.0 | Switch between markup and code-behind files (.aspx/.aspx.cs, .xaml/.xaml.cs, .r… |
+| 2026-10-15 05:14:04 | [tenixe.tenixe-ai](https://marketplace.visualstudio.com/items?itemName=tenixe.tenixe-ai) | Tenixe AI | 0.2.0 | Chat, a coding agent and image generation on your Tenixe plan, inside VS Code. |
+| 2026-10-15 05:16:27 | [tuxnest.tuxnest-vscode](https://marketplace.visualstudio.com/items?itemName=tuxnest.tuxnest-vscode) | TuxNest | 0.0.1 | TuxNest Chat & TuxNest SI Agent: Use local Ollama and SSH-tunneled Ollama model… |
+| 2026-10-15 05:28:40 | [turguthakki.lpilot](https://marketplace.visualstudio.com/items?itemName=turguthakki.lpilot) | LPilot - Local & Remote LLM Provider | 1.0.0 | Use local or remote LLM servers (OpenAI-compatible, llama.cpp, LM Studio, vLLM,… |
+| 2026-10-15 05:40:37 | [quantum-rings.openquantum-vscode](https://marketplace.visualstudio.com/items?itemName=quantum-rings.openquantum-vscode) | Open Quantum | 1.0.0 | OpenQASM 2 and OpenQASM 3 syntax highlighting, QASM error checking, and running… |
+| 2026-10-15 05:45:52 | [hamzadev.codecraft-pro](https://marketplace.visualstudio.com/items?itemName=hamzadev.codecraft-pro) | CodeCraft Pro - Formatter & Scope Navig… | 1.0.0 | Format code with your installed language tools, inspect bracket scopes, navigat… |
+| 2026-10-15 05:46:02 | [1da7b1e6-01f1-6f58-9ef3-d95516c5e875.type-paste](https://marketplace.visualstudio.com/items?itemName=1da7b1e6-01f1-6f58-9ef3-d95516c5e875.type-paste) | Type Paste | 0.0.4 | Pastes text by typing it piece by piece, so Ctrl+Z undoes one piece at a time. |
+| 2026-10-15 06:03:27 | [romio1225.sops-readonly-view](https://marketplace.visualstudio.com/items?itemName=romio1225.sops-readonly-view) | SOPS Read-only View | 0.1.1 | View SOPS-encrypted Secret YAML as plaintext. Read-only. Never writes decrypted… |
+| 2026-10-15 06:15:16 | [dai.select-line-without-newline](https://marketplace.visualstudio.com/items?itemName=dai.select-line-without-newline) | Select Line Without Newline | 0.0.1 | Exclude trailing newline character when selecting lines via mouse triple-click |
 
 ## Data source
 

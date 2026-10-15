@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T05:14:04.507Z,tenixe.tenixe-ai,tenixe,Tenixe AI,0.2.0,"Chat, a coding agent and image generation on your Tenixe plan, inside VS Code."
+2026-10-15T05:16:27.12Z,tuxnest.tuxnest-vscode,tuxnest,TuxNest,0.0.1,TuxNest Chat & TuxNest SI Agent: Use local Ollama and SSH-tunneled Ollama models for AI-assisted coding in VS Code.
+2026-10-15T05:28:40.3Z,turguthakki.lpilot,turguthakki,LPilot - Local & Remote LLM Provider,1.0.0,"Use local or remote LLM servers (OpenAI-compatible, llama.cpp, LM Studio, vLLM, Ollama...) as chat models in VS Code, with model auto-discovery."
+2026-10-15T05:40:37.223Z,quantum-rings.openquantum-vscode,quantum-rings,Open Quantum,1.0.0,"OpenQASM 2 and OpenQASM 3 syntax highlighting, QASM error checking, and running quantum circuits on Open Quantum."
+2026-10-15T05:45:52.997Z,hamzadev.codecraft-pro,hamzadev,CodeCraft Pro - Formatter & Scope Navigator,1.0.0,"Format code with your installed language tools, inspect bracket scopes, navigate definitions and format JSON safely."
+2026-10-15T05:46:02.11Z,1da7b1e6-01f1-6f58-9ef3-d95516c5e875.type-paste,1da7b1e6-01f1-6f58-9ef3-d95516c5e875,Type Paste,0.0.4,"Pastes text by typing it piece by piece, so Ctrl+Z undoes one piece at a time."
+2026-10-15T06:03:27.977Z,romio1225.sops-readonly-view,romio1225,SOPS Read-only View,0.1.1,View SOPS-encrypted Secret YAML as plaintext. Read-only. Never writes decrypted files.
+2026-10-15T06:15:16.857Z,dai.select-line-without-newline,dai,Select Line Without Newline,0.0.1,Exclude trailing newline character when selecting lines via mouse triple-click
