@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-14T23:22:26.127Z,nolindnaidoo.decisionlint,nolindnaidoo,DecisionLint,1.0.0,"Lint the questions you send to a decision model, TypeSafe's Jev, OpenAI's Decisions API (gpt-6-luna) or any platform that serves one: OpenRouter, Vercel AI Gateway, LiteLLM, LLM Gateway, Eden AI, Liquid AI, llama.cpp. No API key and no network calls. One command asks the model itself to check a file"
+2026-10-14T23:27:51.983Z,modern-vba.vba-tools,modern-vba,VBA Tools,0.1.6,Visual Studio Code tooling for VBA projects.
+2026-10-14T23:35:20.03Z,sergiolmendonca.katu,sergiolmendonca,Katu: linguagem em Tupi Antigo,1.0.2,"Destaque de sintaxe para Katu, linguagem didática com palavras-chave em Tupi Antigo (.katu)"
+2026-10-14T23:57:27.293Z,omed-ababakir.kiconnect-vscode,omed-ababakir,KI:connect,0.1.0,Inoffizieller KI:connect-Client für den VS-Code-Chat – mit gestreamten Antworten und Werkzeugaufrufen für geeignete Modelle.
+2026-10-15T00:07:02.363Z,ofilipoff.midnight-slate,ofilipoff,Midnight Slate,0.1.0,"A dark theme for Visual Studio Code with a charcoal interface, muted accents, and semantic syntax highlighting."
