@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T22:23:19.9Z,AstrixCode.astrix-vscode-extension,AstrixCode,Astrix AI — Local Deterministic Code Guard,1.0.0,Zero-server-cost local compiler verification & AI determinism loop for VS Code.
+2026-10-15T22:35:49.44Z,PELock.lua-virtualizer,PELock,Lua Virtualizer,1.0.0,"Virtualize, obfuscate & protect Lua scripts with code virtualization, finite-state machine (FSM) transforms, weave tape, self-integrity checks, and anti-debugging."
+2026-10-15T23:12:40.83Z,tynamix.vscode-herdr,tynamix,Herdr Workbench — Git Worktrees & CLI Agents,0.1.0,"Manage Git worktrees and persistent CLI agent sessions across projects, with native VS Code terminals, diffs and agent status."
