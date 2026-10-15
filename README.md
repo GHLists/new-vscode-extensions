@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 19:19 UTC
+## Latest list — 2026-10-15 20:21 UTC
 
-New extensions published between 2026-10-15 17:19 UTC and 2026-10-15 19:19 UTC.
+New extensions published between 2026-10-15 18:21 UTC and 2026-10-15 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T19-19-40-006024Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T20-21-36-199938Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 18:25:58 | [datix.datix-code](https://marketplace.visualstudio.com/items?itemName=datix.datix-code) | Datix AI Code | 1.0.0 | Trợ lý lập trình AI Datix AI trong VS Code. Hỗ trợ GPT-6 Astra, GPT-5.6 Sol/Lun… |
-| 2026-10-15 18:28:29 | [bwehlin.notebook-live-edit-mcp](https://marketplace.visualstudio.com/items?itemName=bwehlin.notebook-live-edit-mcp) | Notebook Live Edit MCP | 0.1.1 | MCP server that lets AI coding agents read, edit and run cells in the notebook… |
-| 2026-10-15 18:42:34 | [MaxTools.conference-php-templates](https://marketplace.visualstudio.com/items?itemName=MaxTools.conference-php-templates) | Conference PHP Templates | 1.0.0 | Офлайн-шаблоны четырёх модулей: Конференции.РФ на PHP/SQLite, макеты и API мага… |
-| 2026-10-15 18:48:52 | [Tresorbana.y2cli](https://marketplace.visualstudio.com/items?itemName=Tresorbana.y2cli) | y2cli — YouTube Downloader | 1.0.0 | Download YouTube videos/audio right from VS Code, powered by yt-dlp |
-| 2026-10-15 18:49:46 | [PonganeshP.hebby](https://marketplace.visualstudio.com/items?itemName=PonganeshP.hebby) | Hebby | 1.0.0 | A friendly animal buddy that reminds you to drink water, stretch and walk while… |
-| 2026-10-15 18:53:30 | [sunaram.hellocsv](https://marketplace.visualstudio.com/items?itemName=sunaram.hellocsv) | Hello CSV - Tabular Viewer & Editor | 0.2.0 | Interactive, theme-aware CSV & TSV tabular viewer and editor for Visual Studio… |
-| 2026-10-15 19:03:34 | [Edgemodders.redcode-cyberpunk](https://marketplace.visualstudio.com/items?itemName=Edgemodders.redcode-cyberpunk) | REDcode for Cyberpunk 2077 | 0.8.2 | REDcode for Visual Studio Code: a Cyberpunk 2077 modding workspace on WolvenKit… |
-| 2026-10-15 19:11:20 | [venkatasaianand-dev.venkatasaianand-dark-theme](https://marketplace.visualstudio.com/items?itemName=venkatasaianand-dev.venkatasaianand-dark-theme) | Venkatasaianand Dark Theme | 1.0.0 | A deep, low-glare dark theme with vivid, easy-to-read syntax colors. |
+| 2026-10-15 19:18:15 | [rogday.handback](https://marketplace.visualstudio.com/items?itemName=rogday.handback) | Handback | 0.2.0 | GitHub-style code review for Claude Code and Copilot Chat: comment on lines, fi… |
+| 2026-10-15 19:22:29 | [KT-vscode.codemist](https://marketplace.visualstudio.com/items?itemName=KT-vscode.codemist) | CodeMist | 0.0.1 | Visual Code Comprehension and What-If Edge-Case Tracing with interactive UML/Fl… |
+| 2026-10-15 19:29:02 | [shalvirajpura.scrolltheblog](https://marketplace.visualstudio.com/items?itemName=shalvirajpura.scrolltheblog) | ScrollTheBlog | 0.1.0 | Read tech blogs from Hacker News, Medium, dev.to and Lobsters inside VS Code. |
+| 2026-10-15 19:38:22 | [fernandorosseto.openrouter-web](https://marketplace.visualstudio.com/items?itemName=fernandorosseto.openrouter-web) | OpenRouter Web Agent | 0.1.0 | Chat e agente de código com qualquer modelo do OpenRouter — roda no vscode.dev… |
+| 2026-10-15 19:53:10 | [nael-awadallah.folder-palette](https://marketplace.visualstudio.com/items?itemName=nael-awadallah.folder-palette) | FolderPalette — Folder Icon Customizer | 0.1.0 | Capability-aware folder icon customization for Material Icon Theme and vscode-i… |
+| 2026-10-15 19:54:29 | [davidw475.devops-deck](https://marketplace.visualstudio.com/items?itemName=davidw475.devops-deck) | DevOps Deck for Azure DevOps | 0.1.0 | Review pull requests, manage work items and watch pipelines (with live logs) fr… |
+| 2026-10-15 19:54:34 | [amanazkar.aurex-sftp](https://marketplace.visualstudio.com/items?itemName=amanazkar.aurex-sftp) | Aurex SFTP | 0.4.0 | Reliable SFTP / FTP / FTPS deploys: upload on save with conflict detection, a r… |
+| 2026-10-15 19:56:51 | [repomine.repomine-blueprint](https://marketplace.visualstudio.com/items?itemName=repomine.repomine-blueprint) | RepoMine Blueprint | 0.0.1 | API flows for Flask, FastAPI, and Django REST Framework. See an endpoint's requ… |
+| 2026-10-15 19:59:50 | [mowogroup.wolang](https://marketplace.visualstudio.com/items?itemName=mowogroup.wolang) | Wolang | 0.1.0 | Wolang language support: highlighting, diagnostics, hover, go to definition, sy… |
+| 2026-10-15 20:01:59 | [CelestialWorks.gizmo](https://marketplace.visualstudio.com/items?itemName=CelestialWorks.gizmo) | Gizmo by Celestial Works | 1.0.10 | Gizmo checks what you built with AI, sums it up in plain words, and helps you s… |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T19:18:15.433Z,rogday.handback,rogday,Handback,0.2.0,"GitHub-style code review for Claude Code and Copilot Chat: comment on lines, finish the review, and it lands in the open chat."
+2026-10-15T19:22:29.087Z,KT-vscode.codemist,KT-vscode,CodeMist,0.0.1,Visual Code Comprehension and What-If Edge-Case Tracing with interactive UML/Flowcharts
+2026-10-15T19:29:02.74Z,shalvirajpura.scrolltheblog,shalvirajpura,ScrollTheBlog,0.1.0,"Read tech blogs from Hacker News, Medium, dev.to and Lobsters inside VS Code."
+2026-10-15T19:38:22.613Z,fernandorosseto.openrouter-web,fernandorosseto,OpenRouter Web Agent,0.1.0,Chat e agente de código com qualquer modelo do OpenRouter — roda no vscode.dev (web extension).
+2026-10-15T19:53:10.323Z,nael-awadallah.folder-palette,nael-awadallah,FolderPalette — Folder Icon Customizer,0.1.0,Capability-aware folder icon customization for Material Icon Theme and vscode-icons; compatibility gates apply.
+2026-10-15T19:54:29.44Z,davidw475.devops-deck,davidw475,DevOps Deck for Azure DevOps,0.1.0,"Review pull requests, manage work items and watch pipelines (with live logs) from inside VS Code."
+2026-10-15T19:54:34.027Z,amanazkar.aurex-sftp,amanazkar,Aurex SFTP,0.4.0,"Reliable SFTP / FTP / FTPS deploys: upload on save with conflict detection, a remote explorer with drag & drop, diff and previewed sync, and passwords kept in the OS keychain. Reads your existing .vscode/sftp.json."
+2026-10-15T19:56:51.127Z,repomine.repomine-blueprint,repomine,RepoMine Blueprint,0.0.1,"API flows for Flask, FastAPI, and Django REST Framework. See an endpoint's request data, access checks, reads and writes, responses, callers and related tests, with source links where available. Scans locally."
+2026-10-15T19:59:50.887Z,mowogroup.wolang,mowogroup,Wolang,0.1.0,"Wolang language support: highlighting, diagnostics, hover, go to definition, symbols, formatting and completion."
+2026-10-15T20:01:59.407Z,CelestialWorks.gizmo,CelestialWorks,Gizmo by Celestial Works,1.0.10,"Gizmo checks what you built with AI, sums it up in plain words, and helps you share it with your team."
