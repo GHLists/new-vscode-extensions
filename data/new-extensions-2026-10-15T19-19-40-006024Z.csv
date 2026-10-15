@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T18:25:58.417Z,datix.datix-code,datix,Datix AI Code,1.0.0,"Trợ lý lập trình AI Datix AI trong VS Code. Hỗ trợ GPT-6 Astra, GPT-5.6 Sol/Luna, Claude Opus 5, Datix 1.0 Pro, Gemini 3.8 Flash, Gemini 4 Argon: chọn model, mức độ suy luận, xem hạn mức và token tiêu hao ngay trong extension."
+2026-10-15T18:28:29.09Z,bwehlin.notebook-live-edit-mcp,bwehlin,Notebook Live Edit MCP,0.1.1,"MCP server that lets AI coding agents read, edit and run cells in the notebook open in VS Code, using its live kernel."
+2026-10-15T18:42:34.49Z,MaxTools.conference-php-templates,MaxTools,Conference PHP Templates,1.0.0,"Офлайн-шаблоны четырёх модулей: Конференции.РФ на PHP/SQLite, макеты и API магазина."
+2026-10-15T18:48:52.66Z,Tresorbana.y2cli,Tresorbana,y2cli — YouTube Downloader,1.0.0,"Download YouTube videos/audio right from VS Code, powered by yt-dlp"
+2026-10-15T18:49:46.023Z,PonganeshP.hebby,PonganeshP,Hebby,1.0.0,"A friendly animal buddy that reminds you to drink water, stretch and walk while you code."
+2026-10-15T18:53:30.68Z,sunaram.hellocsv,sunaram,Hello CSV - Tabular Viewer & Editor,0.2.0,"Interactive, theme-aware CSV & TSV tabular viewer and editor for Visual Studio Code."
+2026-10-15T19:03:34.09Z,Edgemodders.redcode-cyberpunk,Edgemodders,REDcode for Cyberpunk 2077,0.8.2,"REDcode for Visual Studio Code: a Cyberpunk 2077 modding workspace on WolvenKit's engine. Browse the game's archives, edit CR2W files, view textures, meshes and sounds, export, import, pack and install WolvenKit projects."
+2026-10-15T19:11:20.027Z,venkatasaianand-dev.venkatasaianand-dark-theme,venkatasaianand-dev,Venkatasaianand Dark Theme,1.0.0,"A deep, low-glare dark theme with vivid, easy-to-read syntax colors."
