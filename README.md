@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 00:21 UTC
+## Latest list — 2026-10-15 01:20 UTC
 
-New extensions published between 2026-10-14 22:21 UTC and 2026-10-15 00:21 UTC.
+New extensions published between 2026-10-14 23:20 UTC and 2026-10-15 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T00-21-12-618826Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T01-20-20-802803Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-14 23:22:26 | [nolindnaidoo.decisionlint](https://marketplace.visualstudio.com/items?itemName=nolindnaidoo.decisionlint) | DecisionLint | 1.0.0 | Lint the questions you send to a decision model, TypeSafe's Jev, OpenAI's Decis… |
-| 2026-10-14 23:27:51 | [modern-vba.vba-tools](https://marketplace.visualstudio.com/items?itemName=modern-vba.vba-tools) | VBA Tools | 0.1.6 | Visual Studio Code tooling for VBA projects. |
-| 2026-10-14 23:35:20 | [sergiolmendonca.katu](https://marketplace.visualstudio.com/items?itemName=sergiolmendonca.katu) | Katu: linguagem em Tupi Antigo | 1.0.2 | Destaque de sintaxe para Katu, linguagem didática com palavras-chave em Tupi An… |
-| 2026-10-14 23:57:27 | [omed-ababakir.kiconnect-vscode](https://marketplace.visualstudio.com/items?itemName=omed-ababakir.kiconnect-vscode) | KI:connect | 0.1.0 | Inoffizieller KI:connect-Client für den VS-Code-Chat – mit gestreamten Antworte… |
-| 2026-10-15 00:07:02 | [ofilipoff.midnight-slate](https://marketplace.visualstudio.com/items?itemName=ofilipoff.midnight-slate) | Midnight Slate | 0.1.0 | A dark theme for Visual Studio Code with a charcoal interface, muted accents, a… |
+| 2026-10-15 00:25:50 | [mayank-jain.blindspot-observer](https://marketplace.visualstudio.com/items?itemName=mayank-jain.blindspot-observer) | Blindspot: Know Your Code | 0.4.1 | Local line visibility tracking and study guides for agent-assisted code. |
+| 2026-10-15 00:27:06 | [canofold.canofold-vscode](https://marketplace.visualstudio.com/items?itemName=canofold.canofold-vscode) | Canofold Markdown Preview | 0.1.11 | Preview Markdown with Canofold in the current VS Code editor tab. |
+| 2026-10-15 00:40:02 | [longtd.git-pro](https://marketplace.visualstudio.com/items?itemName=longtd.git-pro) | Git Pro | 0.2.0 | Review and stage changes, write commits, explore History and recover rebases, m… |
 
 ## Data source
 
