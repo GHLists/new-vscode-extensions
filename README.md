@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 02:21 UTC
+## Latest list — 2026-10-15 03:19 UTC
 
-New extensions published between 2026-10-15 00:21 UTC and 2026-10-15 02:21 UTC.
+New extensions published between 2026-10-15 01:19 UTC and 2026-10-15 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T02-21-47-130284Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T03-19-54-109164Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 01:19:32 | [jieyuexing.jettortoise](https://marketplace.visualstudio.com/items?itemName=jieyuexing.jettortoise) | JetTortoise | 0.5.0 | An IntelliJ IDEA-style Git and CVS workspace for VS Code. |
-| 2026-10-15 01:32:53 | [JoelManisali.orbit-lyrics-box](https://marketplace.visualstudio.com/items?itemName=JoelManisali.orbit-lyrics-box) | Lyrics Box (Live Karaoke Subtitle) | 1.0.2 | Realtime Synced Lyrics & Subtitle Box widget for your music player (Chrome, Spo… |
-| 2026-10-15 01:51:29 | [MCCProgrammer.debug-sorting-algorithms-visualizer](https://marketplace.visualstudio.com/items?itemName=MCCProgrammer.debug-sorting-algorithms-visualizer) | Debug Sorting Algorithms Visualizer | 0.1.0 | Watch your own sorting code while you debug: every step animates the swaps, shi… |
-| 2026-10-15 02:00:58 | [studykit.git-diff-view](https://marketplace.visualstudio.com/items?itemName=studykit.git-diff-view) | Git Diff View | 0.1.0 | Review a branch against a base ref: a file tree of what changed, a commit timel… |
+| 2026-10-15 02:19:27 | [PedroGilMora.xzor](https://marketplace.visualstudio.com/items?itemName=PedroGilMora.xzor) | XZor | 0.1.9 | Language support for .xzor components (xzor: Blazor-style components for TypeSc… |
+| 2026-10-15 02:35:28 | [mahzad-market.mahzad-ai-developer](https://marketplace.visualstudio.com/items?itemName=mahzad-market.mahzad-ai-developer) | Mahzad AI Developer | 0.1.0 | Mahzad AI coding agent for VS Code — chat with the central AI, analyze your pro… |
+| 2026-10-15 02:37:51 | [paololupo.gaanim](https://marketplace.visualstudio.com/items?itemName=paololupo.gaanim) | Gaanim | 0.13.0 | Write Gaanim videos and slides: a live preview that follows your code, times in… |
+| 2026-10-15 03:05:23 | [eci99.http-client-ij-style](https://marketplace.visualstudio.com/items?itemName=eci99.http-client-ij-style) | HTTP-Client (IntelliJ style) | 0.1.0 | Run .http files with the syntax of the IntelliJ HTTP Client: environments, {{va… |
+| 2026-10-15 03:13:04 | [TranHoaiHung.agent-pool](https://marketplace.visualstudio.com/items?itemName=TranHoaiHung.agent-pool) | AgentPool — AI Account Switcher | 0.1.0 | Manage several Claude Code and Codex accounts: live quota on hover, one-click s… |
 
 ## Data source
 

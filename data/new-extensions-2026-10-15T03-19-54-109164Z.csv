@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T02:19:27.907Z,PedroGilMora.xzor,PedroGilMora,XZor,0.1.9,Language support for .xzor components (xzor: Blazor-style components for TypeScript)
+2026-10-15T02:35:28.363Z,mahzad-market.mahzad-ai-developer,mahzad-market,Mahzad AI Developer,0.1.0,"Mahzad AI coding agent for VS Code — chat with the central AI, analyze your project, edit code with diff & approval, and run commands only with your consent. Connects to the Mahzad central backend. No parallel user or credit system."
+2026-10-15T02:37:51.22Z,paololupo.gaanim,paololupo,Gaanim,0.13.0,"Write Gaanim videos and slides: a live preview that follows your code, times in the code, the narration script beside it, checks, exports and presenting."
+2026-10-15T03:05:23.817Z,eci99.http-client-ij-style,eci99,HTTP-Client (IntelliJ style),0.1.0,"Run .http files with the syntax of the IntelliJ HTTP Client: environments, {{variables}}, pre-request and response handler scripts, client.test/assert, cookies, GraphQL."
+2026-10-15T03:13:04.133Z,TranHoaiHung.agent-pool,TranHoaiHung,AgentPool — AI Account Switcher,0.1.0,"Manage several Claude Code and Codex accounts: live quota on hover, one-click switching, priority order and automatic switching before an account runs out."
