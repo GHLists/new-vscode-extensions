@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T09:18:35.72Z,specdevship.specdevship-vscode,specdevship,SpecDevShip,0.1.0,See where every SpecDevShip spec stands and drive the workflow from the editor.
+2026-10-15T09:19:43.94Z,LawrenceShin.cpp-run-command-gen,LawrenceShin,C++ Run Command Generator,2.1.0,"Build clang++ / g++ / MSVC compile-and-run commands from a sidebar panel: pick the standard, optimization, warnings and sanitizers, preview the command, run it in one click."
+2026-10-15T09:19:53.69Z,r0mba.cerilog,r0mba,Cerilog,0.1.1,"Syntax highlighting, error checking and one-click compile for Cerilog (.cel) hardware descriptions."
+2026-10-15T09:28:49.197Z,onivoid.oni-dusk-themes,onivoid,Oni Dusk Themes,0.4.2,Soft pastel dusk themes with neon accents — inspired by Bearded Black & Gems
+2026-10-15T09:37:37.507Z,mdview.mdview-live,mdview,mdview Live Preview,0.1.1,在 mdview 中实时预览 Markdown：边输入边无感刷新，光标/选区双向同步
+2026-10-15T09:41:21.183Z,Kogler7.open-cml-extension,Kogler7,OpenCML-Ext,1.6.2,OpenCML Extension for VSCode — GraphIR visualization and Camel debugging
+2026-10-15T09:48:36.183Z,godxxy.vscode-remote-prune,godxxy,Remote Prune,0.1.0,"Conservative cleanup of unused Linux Remote-SSH VS Code Stable server installations, with process protection and opt-in daily cleanup."
+2026-10-15T09:55:31.717Z,Kalpu71.live-edits-for-claude-code,Kalpu71,Live Edits for Claude Code,0.1.1,"Watch Claude Code type its edits into your editor letter by letter: the old lines light up, get backspaced away, the new code is typed in, then you're back in the chat."
+2026-10-15T10:00:00.313Z,GaetanSemet.markdown-okf-schema-studio,GaetanSemet,Markdown OKF-Schema Studio,0.1.1,Schema-aware Markdown editor and live preview for OKF bundles.
+2026-10-15T10:02:51.953Z,ddoxers.doxops,ddoxers,DoxOps: Dependency Exit Capsules,0.2.0,"Find at-risk Python dependencies, plan their exit with Gemma 4, and apply only the fixes DoxOps verified by running your tests."
+2026-10-15T10:16:32.193Z,xsmbradpitt.interlinked-theme,xsmbradpitt,Interlinked — Blade Runner 2049 inspired,1.0.0,"A dark teal terminal-glow theme inspired by Blade Runner 2049, adapted from the Zed theme by Takk8IS."
