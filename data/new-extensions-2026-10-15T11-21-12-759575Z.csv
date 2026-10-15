@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T10:17:14.983Z,terry-zhang.vscode-node-runtime-types,terry-zhang,Node Runtime Types,0.1.0,Use Node.js 24.12+ type definitions that match the runtime to help VSCode with type checking and autocompletion for TypeScript files directly.
+2026-10-15T10:31:02.02Z,AHAYDENANAND.devpreview,AHAYDENANAND,DevPreview,0.0.1,Instantly preview React components inside VS Code.
+2026-10-15T10:31:57.533Z,nas-language.nas-lang,nas-language,NAS Language - YN Hex,1.5.2,NAS/YARN with dedicated YN hex icon
+2026-10-15T10:37:18.117Z,james-saloman.ignition-udt-tree-view,james-saloman,Ignition UDT Tree View,1.1.0,"Browse Ignition UDT / tag JSON exports as a hierarchical tag tree, like the Designer's Tag Browser."
+2026-10-15T10:39:04.917Z,Edgemodders.rednode-hud-theme,Edgemodders,REDnode HUD,0.3.1,Dark theme in the REDnode house style: near-black HUD panels with yellow and cyan accents.
+2026-10-15T10:40:19.48Z,denpaz.pcap-viewer,denpaz,PCAP Lens,0.4.1,"Wireshark-like packet capture viewer for VS Code, powered by tshark."
+2026-10-15T10:52:03.61Z,Nguimaraes.dmpsv,Nguimaraes,SystemVerilog IDE,0.1.0,"JetBrains-grade IDE experience for SystemVerilog and Verilog: signal completion with types and widths, hover, go-to-definition, diagnostics."
+2026-10-15T10:55:21.553Z,yevin.independent-sidebar-terminal,yevin,Termlet,0.2.1,"A compact, independent shell terminal with native controls in the Secondary Side Bar."
+2026-10-15T10:56:17.463Z,codetogetherinc.aitrax-cloud-vscode,codetogetherinc,CodeTogether AITrax Cloud,1.2.8462,"CodeTogether connects AI costs, developer activity, and code quality to what actually ships, giving engineering teams the visibility to understand what's working, what's wasting resources, and where to improve."
+2026-10-15T10:57:17.213Z,maratib.rest-studio,maratib,REST Studio,0.0.2,A local-first REST API client for VS Code.
+2026-10-15T11:01:03.707Z,mhquan.claude-session-deck,mhquan,Claude Session & Issue Tracker,0.2.5,"Track and manage Claude Code sessions, issues, token metrics, and git worktrees directly in VS Code / Theo dõi và quản lý phiên làm việc Claude trực tiếp trên VS Code"
+2026-10-15T11:01:53.467Z,ptanmay143.techstack-multi-command,ptanmay143,TechStack Multi Command Executor,1.1.0,"Run configured VS Code command workflows on files, folders, workspaces, and globs."
+2026-10-15T11:06:33.907Z,mdview.mdview,mdview,mdview,0.1.0,mdview 桌面版官方插件：在 VS Code 中编辑 Markdown，mdview 窗口实时无感预览，光标/选区双向同步
+2026-10-15T11:06:56.737Z,kaedinger.vscode-claude-token-usage-bar-ext,kaedinger,Claude Token Usage Bar Ext,0.8.1,"Claude Code context-window fill, prompt cache state, a compact nudge and 5-hour / 7-day plan usage in one status bar item."

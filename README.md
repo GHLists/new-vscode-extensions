@@ -12,25 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 10:20 UTC
+## Latest list — 2026-10-15 11:21 UTC
 
-New extensions published between 2026-10-15 08:20 UTC and 2026-10-15 10:20 UTC.
+New extensions published between 2026-10-15 09:21 UTC and 2026-10-15 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T10-20-00-38268Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T11-21-12-759575Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 09:18:35 | [specdevship.specdevship-vscode](https://marketplace.visualstudio.com/items?itemName=specdevship.specdevship-vscode) | SpecDevShip | 0.1.0 | See where every SpecDevShip spec stands and drive the workflow from the editor. |
-| 2026-10-15 09:19:43 | [LawrenceShin.cpp-run-command-gen](https://marketplace.visualstudio.com/items?itemName=LawrenceShin.cpp-run-command-gen) | C++ Run Command Generator | 2.1.0 | Build clang++ / g++ / MSVC compile-and-run commands from a sidebar panel: pick… |
-| 2026-10-15 09:19:53 | [r0mba.cerilog](https://marketplace.visualstudio.com/items?itemName=r0mba.cerilog) | Cerilog | 0.1.1 | Syntax highlighting, error checking and one-click compile for Cerilog (.cel) ha… |
-| 2026-10-15 09:28:49 | [onivoid.oni-dusk-themes](https://marketplace.visualstudio.com/items?itemName=onivoid.oni-dusk-themes) | Oni Dusk Themes | 0.4.2 | Soft pastel dusk themes with neon accents — inspired by Bearded Black & Gems |
-| 2026-10-15 09:37:37 | [mdview.mdview-live](https://marketplace.visualstudio.com/items?itemName=mdview.mdview-live) | mdview Live Preview | 0.1.1 | 在 mdview 中实时预览 Markdown：边输入边无感刷新，光标/选区双向同步 |
-| 2026-10-15 09:41:21 | [Kogler7.open-cml-extension](https://marketplace.visualstudio.com/items?itemName=Kogler7.open-cml-extension) | OpenCML-Ext | 1.6.2 | OpenCML Extension for VSCode — GraphIR visualization and Camel debugging |
-| 2026-10-15 09:48:36 | [godxxy.vscode-remote-prune](https://marketplace.visualstudio.com/items?itemName=godxxy.vscode-remote-prune) | Remote Prune | 0.1.0 | Conservative cleanup of unused Linux Remote-SSH VS Code Stable server installat… |
-| 2026-10-15 09:55:31 | [Kalpu71.live-edits-for-claude-code](https://marketplace.visualstudio.com/items?itemName=Kalpu71.live-edits-for-claude-code) | Live Edits for Claude Code | 0.1.1 | Watch Claude Code type its edits into your editor letter by letter: the old lin… |
-| 2026-10-15 10:00:00 | [GaetanSemet.markdown-okf-schema-studio](https://marketplace.visualstudio.com/items?itemName=GaetanSemet.markdown-okf-schema-studio) | Markdown OKF-Schema Studio | 0.1.1 | Schema-aware Markdown editor and live preview for OKF bundles. |
-| 2026-10-15 10:02:51 | [ddoxers.doxops](https://marketplace.visualstudio.com/items?itemName=ddoxers.doxops) | DoxOps: Dependency Exit Capsules | 0.2.0 | Find at-risk Python dependencies, plan their exit with Gemma 4, and apply only… |
-| 2026-10-15 10:16:32 | [xsmbradpitt.interlinked-theme](https://marketplace.visualstudio.com/items?itemName=xsmbradpitt.interlinked-theme) | Interlinked — Blade Runner 2049 inspired | 1.0.0 | A dark teal terminal-glow theme inspired by Blade Runner 2049, adapted from the… |
+| 2026-10-15 10:17:14 | [terry-zhang.vscode-node-runtime-types](https://marketplace.visualstudio.com/items?itemName=terry-zhang.vscode-node-runtime-types) | Node Runtime Types | 0.1.0 | Use Node.js 24.12+ type definitions that match the runtime to help VSCode with… |
+| 2026-10-15 10:31:02 | [AHAYDENANAND.devpreview](https://marketplace.visualstudio.com/items?itemName=AHAYDENANAND.devpreview) | DevPreview | 0.0.1 | Instantly preview React components inside VS Code. |
+| 2026-10-15 10:31:57 | [nas-language.nas-lang](https://marketplace.visualstudio.com/items?itemName=nas-language.nas-lang) | NAS Language - YN Hex | 1.5.2 | NAS/YARN with dedicated YN hex icon |
+| 2026-10-15 10:37:18 | [james-saloman.ignition-udt-tree-view](https://marketplace.visualstudio.com/items?itemName=james-saloman.ignition-udt-tree-view) | Ignition UDT Tree View | 1.1.0 | Browse Ignition UDT / tag JSON exports as a hierarchical tag tree, like the Des… |
+| 2026-10-15 10:39:04 | [Edgemodders.rednode-hud-theme](https://marketplace.visualstudio.com/items?itemName=Edgemodders.rednode-hud-theme) | REDnode HUD | 0.3.1 | Dark theme in the REDnode house style: near-black HUD panels with yellow and cy… |
+| 2026-10-15 10:40:19 | [denpaz.pcap-viewer](https://marketplace.visualstudio.com/items?itemName=denpaz.pcap-viewer) | PCAP Lens | 0.4.1 | Wireshark-like packet capture viewer for VS Code, powered by tshark. |
+| 2026-10-15 10:52:03 | [Nguimaraes.dmpsv](https://marketplace.visualstudio.com/items?itemName=Nguimaraes.dmpsv) | SystemVerilog IDE | 0.1.0 | JetBrains-grade IDE experience for SystemVerilog and Verilog: signal completion… |
+| 2026-10-15 10:55:21 | [yevin.independent-sidebar-terminal](https://marketplace.visualstudio.com/items?itemName=yevin.independent-sidebar-terminal) | Termlet | 0.2.1 | A compact, independent shell terminal with native controls in the Secondary Sid… |
+| 2026-10-15 10:56:17 | [codetogetherinc.aitrax-cloud-vscode](https://marketplace.visualstudio.com/items?itemName=codetogetherinc.aitrax-cloud-vscode) | CodeTogether AITrax Cloud | 1.2.8462 | CodeTogether connects AI costs, developer activity, and code quality to what ac… |
+| 2026-10-15 10:57:17 | [maratib.rest-studio](https://marketplace.visualstudio.com/items?itemName=maratib.rest-studio) | REST Studio | 0.0.2 | A local-first REST API client for VS Code. |
+| 2026-10-15 11:01:03 | [mhquan.claude-session-deck](https://marketplace.visualstudio.com/items?itemName=mhquan.claude-session-deck) | Claude Session & Issue Tracker | 0.2.5 | Track and manage Claude Code sessions, issues, token metrics, and git worktrees… |
+| 2026-10-15 11:01:53 | [ptanmay143.techstack-multi-command](https://marketplace.visualstudio.com/items?itemName=ptanmay143.techstack-multi-command) | TechStack Multi Command Executor | 1.1.0 | Run configured VS Code command workflows on files, folders, workspaces, and glo… |
+| 2026-10-15 11:06:33 | [mdview.mdview](https://marketplace.visualstudio.com/items?itemName=mdview.mdview) | mdview | 0.1.0 | mdview 桌面版官方插件：在 VS Code 中编辑 Markdown，mdview 窗口实时无感预览，光标/选区双向同步 |
+| 2026-10-15 11:06:56 | [kaedinger.vscode-claude-token-usage-bar-ext](https://marketplace.visualstudio.com/items?itemName=kaedinger.vscode-claude-token-usage-bar-ext) | Claude Token Usage Bar Ext | 0.8.1 | Claude Code context-window fill, prompt cache state, a compact nudge and 5-hour… |
 
 ## Data source
 
