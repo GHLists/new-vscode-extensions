@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 01:20 UTC
+## Latest list — 2026-10-15 02:21 UTC
 
-New extensions published between 2026-10-14 23:20 UTC and 2026-10-15 01:20 UTC.
+New extensions published between 2026-10-15 00:21 UTC and 2026-10-15 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T01-20-20-802803Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T02-21-47-130284Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 00:25:50 | [mayank-jain.blindspot-observer](https://marketplace.visualstudio.com/items?itemName=mayank-jain.blindspot-observer) | Blindspot: Know Your Code | 0.4.1 | Local line visibility tracking and study guides for agent-assisted code. |
-| 2026-10-15 00:27:06 | [canofold.canofold-vscode](https://marketplace.visualstudio.com/items?itemName=canofold.canofold-vscode) | Canofold Markdown Preview | 0.1.11 | Preview Markdown with Canofold in the current VS Code editor tab. |
-| 2026-10-15 00:40:02 | [longtd.git-pro](https://marketplace.visualstudio.com/items?itemName=longtd.git-pro) | Git Pro | 0.2.0 | Review and stage changes, write commits, explore History and recover rebases, m… |
+| 2026-10-15 01:19:32 | [jieyuexing.jettortoise](https://marketplace.visualstudio.com/items?itemName=jieyuexing.jettortoise) | JetTortoise | 0.5.0 | An IntelliJ IDEA-style Git and CVS workspace for VS Code. |
+| 2026-10-15 01:32:53 | [JoelManisali.orbit-lyrics-box](https://marketplace.visualstudio.com/items?itemName=JoelManisali.orbit-lyrics-box) | Lyrics Box (Live Karaoke Subtitle) | 1.0.2 | Realtime Synced Lyrics & Subtitle Box widget for your music player (Chrome, Spo… |
+| 2026-10-15 01:51:29 | [MCCProgrammer.debug-sorting-algorithms-visualizer](https://marketplace.visualstudio.com/items?itemName=MCCProgrammer.debug-sorting-algorithms-visualizer) | Debug Sorting Algorithms Visualizer | 0.1.0 | Watch your own sorting code while you debug: every step animates the swaps, shi… |
+| 2026-10-15 02:00:58 | [studykit.git-diff-view](https://marketplace.visualstudio.com/items?itemName=studykit.git-diff-view) | Git Diff View | 0.1.0 | Review a branch against a base ref: a file tree of what changed, a commit timel… |
 
 ## Data source
 

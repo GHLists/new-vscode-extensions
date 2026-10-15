@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T01:19:32.52Z,jieyuexing.jettortoise,jieyuexing,JetTortoise,0.5.0,An IntelliJ IDEA-style Git and CVS workspace for VS Code.
+2026-10-15T01:32:53.35Z,JoelManisali.orbit-lyrics-box,JoelManisali,Lyrics Box (Live Karaoke Subtitle),1.0.2,"Realtime Synced Lyrics & Subtitle Box widget for your music player (Chrome, Spotify, etc.) directly in Antigravity IDE"
+2026-10-15T01:51:29.38Z,MCCProgrammer.debug-sorting-algorithms-visualizer,MCCProgrammer,Debug Sorting Algorithms Visualizer,0.1.0,"Watch your own sorting code while you debug: every step animates the swaps, shifts and merges your Python or Java code makes on an array or a linked list. Plus a playground with bubble, selection, insertion, merge, quick and heap sort."
+2026-10-15T02:00:58.427Z,studykit.git-diff-view,studykit,Git Diff View,0.1.0,"Review a branch against a base ref: a file tree of what changed, a commit timeline, and side-by-side diffs labelled with the commit on each side."
