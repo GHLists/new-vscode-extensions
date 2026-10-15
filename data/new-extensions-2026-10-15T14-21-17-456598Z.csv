@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T13:28:44.28Z,Amiya.bingo-vscode,Amiya,Bingo VsCode,1.0.0,Play multiplayer Bingo inside the Explorer sidebar while coding.
+2026-10-15T13:36:29.637Z,portalsbase.pi-serial-bridge,portalsbase,Pi Serial Bridge,0.1.0,"Serial terminal to a Raspberry Pi (or any serial device) inside VS Code, plus an MCP server so Claude Code can run commands and move files over the same connection."
+2026-10-15T13:38:58.157Z,vscode-restclient.restclient,vscode-restclient,REST Client CE,1.2.0,"REST Client, maintained: send HTTP requests from a .http file and read the response in the editor. No account, no cloud, no paywall, no telemetry. Same format and settings as always, plus tests, assertions, a terminal runner, the JetBrains format, streaming and tools for agents."
+2026-10-15T13:44:54.903Z,tkworks.instrumentlink,tkworks,InstrumentLink,0.0.4,MDO34・DHO804の画面をUSB VISAでPNG保存するPython 3.9.4対応の試用版。MDO34模擬モードでCSV・一括取得を検証できます。Windowsの導入手順はコマンドプロンプト（cmd.exe）向けです。
+2026-10-15T13:52:12.123Z,masahirocom.llm-security-scan,masahirocom,LLMScan - AI Security Scanner,1.0.0,Python / TypeScript / JavaScript / PHP のインジェクションと、LLM の応答を危険な処理に渡すコード（OWASP LLM05）を検出します
+2026-10-15T13:52:24.89Z,simvia.csauto,simvia,csauto,1.0.0,Automate and monitor CFD simulation campaigns from VS Code (code_saturne and other solver adapters)
+2026-10-15T14:03:44.177Z,hazyio.rust-buddy,hazyio,Rust Buddy,0.0.1,"Rust productivity toolkit for VS Code — manage crates, scaffold files and modules, and more."
+2026-10-15T14:08:06.087Z,neko233-com.bytemsg233,neko233-com,ByteMsg233,1.1.0,"ByteMsg233 highlighting, completion, formatting, validation and multi-language code generation."
+2026-10-15T14:13:58.28Z,aimdev.git-map,aimdev,Git Map,2.0.0,"View a Git Graph of your repository, and perform Git actions from the graph."

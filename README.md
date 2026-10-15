@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 13:19 UTC
+## Latest list — 2026-10-15 14:21 UTC
 
-New extensions published between 2026-10-15 11:19 UTC and 2026-10-15 13:19 UTC.
+New extensions published between 2026-10-15 12:21 UTC and 2026-10-15 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T13-19-53-491159Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T14-21-17-456598Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 12:17:58 | [tsubasato.shonan-vibes](https://marketplace.visualstudio.com/items?itemName=tsubasato.shonan-vibes) | Shonan Vibes | 0.2.0 | A quiet theme that follows the light of the Shonan coast through the day: moonl… |
-| 2026-10-15 12:29:21 | [Zevora.zevora](https://marketplace.visualstudio.com/items?itemName=Zevora.zevora) | Zevora | 0.0.1 | A modern dark theme for developers. |
-| 2026-10-15 12:32:31 | [HannHank.ned-ls](https://marketplace.visualstudio.com/items?itemName=HannHank.ned-ls) | OMNeT++ NED & INI Language Server | 0.1.0 | ned rust language server |
-| 2026-10-15 12:41:39 | [AravindMerugu.vscode-anymodel](https://marketplace.visualstudio.com/items?itemName=AravindMerugu.vscode-anymodel) | AnyModel — Custom LLMs in Copilot Chat | 1.0.0 | Run Ollama, Claude, DeepSeek, OpenRouter, and any OpenAI-compatible endpoint na… |
-| 2026-10-15 12:44:26 | [ashwiii25.mallurun](https://marketplace.visualstudio.com/items?itemName=ashwiii25.mallurun) | mallurun | 0.3.0 | Quirky animated GIF reactions whenever you execute code in VS Code. |
-| 2026-10-15 12:46:28 | [brycewang-stanford.md2](https://marketplace.visualstudio.com/items?itemName=brycewang-stanford.md2) | md2 — Markdown to WeChat, Zhihu, Xiaoho… | 0.2.4 | Live-preview and export Markdown for 公众号 (WeChat), 知乎 (Zhihu), 小红书 (Xiaohongshu… |
-| 2026-10-15 12:50:59 | [MayankPadmani.big-o-buddy-analyzer](https://marketplace.visualstudio.com/items?itemName=MayankPadmani.big-o-buddy-analyzer) | BigO Buddy - Complexity Analyzer | 1.0.0 | Analyze time and space complexity of your code |
-| 2026-10-15 12:58:27 | [valancex.valance](https://marketplace.visualstudio.com/items?itemName=valancex.valance) | VALANCE | 0.1.0 | Language support for VALANCE projects: MPRX templates (highlighting, diagnostic… |
+| 2026-10-15 13:28:44 | [Amiya.bingo-vscode](https://marketplace.visualstudio.com/items?itemName=Amiya.bingo-vscode) | Bingo VsCode | 1.0.0 | Play multiplayer Bingo inside the Explorer sidebar while coding. |
+| 2026-10-15 13:36:29 | [portalsbase.pi-serial-bridge](https://marketplace.visualstudio.com/items?itemName=portalsbase.pi-serial-bridge) | Pi Serial Bridge | 0.1.0 | Serial terminal to a Raspberry Pi (or any serial device) inside VS Code, plus a… |
+| 2026-10-15 13:38:58 | [vscode-restclient.restclient](https://marketplace.visualstudio.com/items?itemName=vscode-restclient.restclient) | REST Client CE | 1.2.0 | REST Client, maintained: send HTTP requests from a .http file and read the resp… |
+| 2026-10-15 13:44:54 | [tkworks.instrumentlink](https://marketplace.visualstudio.com/items?itemName=tkworks.instrumentlink) | InstrumentLink | 0.0.4 | MDO34・DHO804の画面をUSB VISAでPNG保存するPython 3.9.4対応の試用版。MDO34模擬モードでCSV・一括取得を検証できます。W… |
+| 2026-10-15 13:52:12 | [masahirocom.llm-security-scan](https://marketplace.visualstudio.com/items?itemName=masahirocom.llm-security-scan) | LLMScan - AI Security Scanner | 1.0.0 | Python / TypeScript / JavaScript / PHP のインジェクションと、LLM の応答を危険な処理に渡すコード（OWASP LLM… |
+| 2026-10-15 13:52:24 | [simvia.csauto](https://marketplace.visualstudio.com/items?itemName=simvia.csauto) | csauto | 1.0.0 | Automate and monitor CFD simulation campaigns from VS Code (code_saturne and ot… |
+| 2026-10-15 14:03:44 | [hazyio.rust-buddy](https://marketplace.visualstudio.com/items?itemName=hazyio.rust-buddy) | Rust Buddy | 0.0.1 | Rust productivity toolkit for VS Code — manage crates, scaffold files and modul… |
+| 2026-10-15 14:08:06 | [neko233-com.bytemsg233](https://marketplace.visualstudio.com/items?itemName=neko233-com.bytemsg233) | ByteMsg233 | 1.1.0 | ByteMsg233 highlighting, completion, formatting, validation and multi-language… |
+| 2026-10-15 14:13:58 | [aimdev.git-map](https://marketplace.visualstudio.com/items?itemName=aimdev.git-map) | Git Map | 2.0.0 | View a Git Graph of your repository, and perform Git actions from the graph. |
 
 ## Data source
 
