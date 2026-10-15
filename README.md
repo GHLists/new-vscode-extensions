@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 14:21 UTC
+## Latest list — 2026-10-15 15:21 UTC
 
-New extensions published between 2026-10-15 12:21 UTC and 2026-10-15 14:21 UTC.
+New extensions published between 2026-10-15 13:21 UTC and 2026-10-15 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T14-21-17-456598Z.csv)
+[Full CSV](data/new-extensions-2026-10-15T15-21-44-369285Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 13:28:44 | [Amiya.bingo-vscode](https://marketplace.visualstudio.com/items?itemName=Amiya.bingo-vscode) | Bingo VsCode | 1.0.0 | Play multiplayer Bingo inside the Explorer sidebar while coding. |
-| 2026-10-15 13:36:29 | [portalsbase.pi-serial-bridge](https://marketplace.visualstudio.com/items?itemName=portalsbase.pi-serial-bridge) | Pi Serial Bridge | 0.1.0 | Serial terminal to a Raspberry Pi (or any serial device) inside VS Code, plus a… |
-| 2026-10-15 13:38:58 | [vscode-restclient.restclient](https://marketplace.visualstudio.com/items?itemName=vscode-restclient.restclient) | REST Client CE | 1.2.0 | REST Client, maintained: send HTTP requests from a .http file and read the resp… |
-| 2026-10-15 13:44:54 | [tkworks.instrumentlink](https://marketplace.visualstudio.com/items?itemName=tkworks.instrumentlink) | InstrumentLink | 0.0.4 | MDO34・DHO804の画面をUSB VISAでPNG保存するPython 3.9.4対応の試用版。MDO34模擬モードでCSV・一括取得を検証できます。W… |
-| 2026-10-15 13:52:12 | [masahirocom.llm-security-scan](https://marketplace.visualstudio.com/items?itemName=masahirocom.llm-security-scan) | LLMScan - AI Security Scanner | 1.0.0 | Python / TypeScript / JavaScript / PHP のインジェクションと、LLM の応答を危険な処理に渡すコード（OWASP LLM… |
-| 2026-10-15 13:52:24 | [simvia.csauto](https://marketplace.visualstudio.com/items?itemName=simvia.csauto) | csauto | 1.0.0 | Automate and monitor CFD simulation campaigns from VS Code (code_saturne and ot… |
-| 2026-10-15 14:03:44 | [hazyio.rust-buddy](https://marketplace.visualstudio.com/items?itemName=hazyio.rust-buddy) | Rust Buddy | 0.0.1 | Rust productivity toolkit for VS Code — manage crates, scaffold files and modul… |
-| 2026-10-15 14:08:06 | [neko233-com.bytemsg233](https://marketplace.visualstudio.com/items?itemName=neko233-com.bytemsg233) | ByteMsg233 | 1.1.0 | ByteMsg233 highlighting, completion, formatting, validation and multi-language… |
-| 2026-10-15 14:13:58 | [aimdev.git-map](https://marketplace.visualstudio.com/items?itemName=aimdev.git-map) | Git Map | 2.0.0 | View a Git Graph of your repository, and perform Git actions from the graph. |
+| 2026-10-15 14:17:44 | [varyk.varyk](https://marketplace.visualstudio.com/items?itemName=varyk.varyk) | Varyk | 0.1.0 | Highlighting for Varyk, and diagnostics and quick fixes from varyk lsp. |
+| 2026-10-15 14:25:04 | [streetsidesoftware.code-spell-checker-azerbaijani](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker-azerbaijani) | Azerbaijani - Code Spell Checker | 1.0.0 | Azerbaijani dictionary extension for VS Code. |
+| 2026-10-15 14:25:10 | [4ndr3s-00.shinra-tensei-theme](https://marketplace.visualstudio.com/items?itemName=4ndr3s-00.shinra-tensei-theme) | Shinra Tensei | 1.0.0 | An elegant, dark obsidian and Rinnegan purple VS Code theme inspired by Pain (N… |
+| 2026-10-15 14:47:44 | [ijun17.vibe-spec](https://marketplace.visualstudio.com/items?itemName=ijun17.vibe-spec) | vibe-spec — 게임 기획 테이블 | 0.4.0 | Git 파일을 원본으로 사용하는 게임 기획 테이블 편집기 |
+| 2026-10-15 15:10:10 | [whoosh-embedded.we-project-runner-ui](https://marketplace.visualstudio.com/items?itemName=whoosh-embedded.we-project-runner-ui) | Whoosh Embedded Project Runner UI | 0.2.0 | Pick a build configuration from a sidebar and run build, clean and custom comma… |
+| 2026-10-15 15:12:20 | [mhmtakfseckin.embedded-studio](https://marketplace.visualstudio.com/items?itemName=mhmtakfseckin.embedded-studio) | Embedded Studio | 0.2.0 | STM32 için görsel gömülü sistem tasarımı: komponent seçimi, otomatik pin/saat a… |
 
 ## Data source
 

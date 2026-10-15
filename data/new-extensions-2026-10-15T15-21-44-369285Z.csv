@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T14:17:44.293Z,varyk.varyk,varyk,Varyk,0.1.0,"Highlighting for Varyk, and diagnostics and quick fixes from varyk lsp."
+2026-10-15T14:25:04.307Z,streetsidesoftware.code-spell-checker-azerbaijani,streetsidesoftware,Azerbaijani - Code Spell Checker,1.0.0,Azerbaijani dictionary extension for VS Code.
+2026-10-15T14:25:10.447Z,4ndr3s-00.shinra-tensei-theme,4ndr3s-00,Shinra Tensei,1.0.0,"An elegant, dark obsidian and Rinnegan purple VS Code theme inspired by Pain (Naruto Shippuden)."
+2026-10-15T14:47:44.483Z,ijun17.vibe-spec,ijun17,vibe-spec — 게임 기획 테이블,0.4.0,Git 파일을 원본으로 사용하는 게임 기획 테이블 편집기
+2026-10-15T15:10:10.753Z,whoosh-embedded.we-project-runner-ui,whoosh-embedded,Whoosh Embedded Project Runner UI,0.2.0,"Pick a build configuration from a sidebar and run build, clean and custom commands with one click"
+2026-10-15T15:12:20.627Z,mhmtakfseckin.embedded-studio,mhmtakfseckin,Embedded Studio,0.2.0,"STM32 için görsel gömülü sistem tasarımı: komponent seçimi, otomatik pin/saat ataması, HAL veya bare-metal + FreeRTOS kod üretimi, canlı monitör ve debug."
