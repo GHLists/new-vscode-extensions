@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T13:23:05.907Z,umlt.umlt,umlt,UMLT: UML as text,0.14.1,"UML 2.5.1 models as text, with graphical diagrams you can edit, for people and coding agents."
+2026-10-16T13:30:29.433Z,FredrikVinkvist.the-downside-up,FredrikVinkvist,Downside Up,0.29.4,"The Downside Up: understand unfamiliar code in plain language. Explain functions beside the source, map the project's architecture and main flows, and review changed functions, with grounded, cached AI explanations."
+2026-10-16T13:37:47.917Z,lagudafuadtosin.undo-branches,lagudafuadtosin,Undo Branches,0.1.1,"An undo tree for VS Code. Undo, type something new, and the old version is still there: every state of the file is kept as a branch you can click back to or compare."
+2026-10-16T13:55:11.55Z,secretqsan.slurm-syntax-support,secretqsan,SLURM Syntax Support,0.0.1,"Syntax highlighting, completion and diagnostics for #SBATCH directives"
+2026-10-16T14:03:35.477Z,codeflow-ai.wildexor-codeflow,codeflow-ai,Wildexor CodeFlow,0.1.0,"Automatically scan a project and visualize entry points, imports, functions, frontend API calls, backend routes, and database-related code."
+2026-10-16T14:04:57.063Z,kintosoft.sql-jira,kintosoft,SQL MCP for Jira,1.0.0,"Your Jira Cloud site as a SQL database for your AI: one SQL tool for all of Jira, in Claude Code, Codex and Copilot."
