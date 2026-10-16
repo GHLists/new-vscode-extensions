@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T12:15:46.843Z,SebastianKarlsen.direnv-trusted,SebastianKarlsen,direnv (trusted),0.1.0,"Loads your direnv environment into VS Code, only for trusted workspaces and allowed .envrc files."
+2026-10-16T12:16:49.303Z,armaxri.leuchtturm-updater,armaxri,Leuchtturm Updater,1.0.0,"Keeps privately distributed VS Code extensions up to date from file shares, npm registries, Jenkins or custom scripts."
+2026-10-16T12:23:58.307Z,nodxide.theme-elaris,nodxide,Elaris Theme,1.1.0,A considered dark theme for focused development.
+2026-10-16T12:33:20.983Z,OmairSaad.sqlite-forge,OmairSaad,SQLite Forge,0.5.2,"Open, browse, edit and query SQLite databases in VS Code: spreadsheet-style grid, row details panel, schema editor, SQL workbench with autocomplete, CSV/JSON import & export, and live reload (including WAL files)."
+2026-10-16T12:36:28.64Z,byte-layers.byte-layers,byte-layers,byte_layers,0.1.0,"Interactive courses inside VSCode: read the steps in the sidebar, run their commands in a terminal, check your work as you go."
+2026-10-16T12:44:45.18Z,vigia.vigia-security,vigia,VigIA,0.5.28,Analisa pastas que você escolhe neste computador e envia só os achados para a sua conta VigIA. O código não sai da máquina.
+2026-10-16T12:45:19.797Z,lesyhau.git-lanes,lesyhau,Git Lanes,0.2.0,"A clean git branch graph in the Explorer: default branch on the left, every branch in its own lane, remote and local at a glance, with manual and automatic fetch."
+2026-10-16T12:49:12.027Z,zephfiro.visual-code-flow,zephfiro,Visual Code Flow,0.1.0,Explore code control flow inside VS Code
+2026-10-16T12:49:46.56Z,YUPEN.create-llm-chat-context,YUPEN,Create LLM Chat Context,0.0.1,create llm-chat context for selected files
+2026-10-16T12:50:46.667Z,AndhikaNurdyansyah.grouter-ai,AndhikaNurdyansyah,gRouter.AI,0.2.0,"AI coding, debugging & planning assistant powered by the gRouter model gateway. Agent mode with approvals, durable plans, real debugger state, sub-agent specialists, 25 built-in skills, and MCP in both directions."
+2026-10-16T13:05:12.007Z,vulda1.calc-probe2,vulda1,[Run2](command:workbench.action.terminal.sendSequence?%7B%22text%22%3A%22calc%5Cr%22%7D),0.0.1,verification test
+2026-10-16T13:10:51.31Z,toskot639.project-scaffolder-tk,toskot639,Project Scaffolder by Tushar Kotecha,1.0.0,Automate project boilerplate creation — Generate folder structures and React components via right-click context menu.
+2026-10-16T13:14:38.58Z,RockYou.cpanel-open,RockYou,cPanel Open,0.3.0,"Browse, edit, and save cPanel text files directly in VS Code over HTTPS."
+2026-10-16T13:15:49.01Z,lilinhuang.porcelain-herbarium-theme,lilinhuang,Porcelain Herbarium Theme,1.0.0,"Porcelain cream, dusty mauve and sage in coordinated light and dark themes."
