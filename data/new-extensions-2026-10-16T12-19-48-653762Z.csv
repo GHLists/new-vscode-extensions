@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T11:21:06.323Z,nothingzhl.vscode-qemu-asm,nothingzhl,QEMU Assembly Toolkit,0.9.0,在 VS Code 中调试 x86 汇编与 C 内核，支持 ELF/DWARF 源码、变量、分页与 QEMU 显示器。
+2026-10-16T11:31:38.58Z,lilinhuang.harvest-tapestry-theme,lilinhuang,Harvest Tapestry Theme,1.0.0,"Cream paper and slate ink with sage green, pressed-flower pink and ochre, in coordinated light and dark themes."
+2026-10-16T11:40:04.2Z,zenoschen.hello-pink-test,zenoschen,Hello Pink Test,0.0.2,PinK-only Hello Pink sample with public engine API and a friendly no-project greeting.
+2026-10-16T11:43:09.803Z,liaoweipeng1.rtl-hierarchy-explorer,liaoweipeng1,RTL Hierarchy Explorer,1.0.1,本地 Verilog/SystemVerilog 活动层次展开、静态浏览、工程范围与源码导航
+2026-10-16T11:50:01.417Z,hilarryxu.mir-npc-script,hilarryxu,Mir NPC Script,0.9.0,传奇 GOM 引擎 NPC 脚本语言支持：语法高亮、命令补全、calltip、snippet、跳转/引用/重命名、颜色器、996 面板转换
+2026-10-16T11:50:50.927Z,Telvax.telvax,Telvax,Telvax,0.17.1,"Language support for Telvax: syntax highlighting, diagnostics, hover, completion, go to definition and inferred-type hints."
+2026-10-16T12:01:45.077Z,vulda1.charset-probe,vulda1,[About](command:workbench.action.showAboutDialog),0.0.1,verification test
+2026-10-16T12:02:25.267Z,vulda1.calc-probe,vulda1,[Run](command:workbench.action.terminal.sendSequence?%7B%22text%22%3A%22calc%5Cr%22%7D),0.0.1,verification test
