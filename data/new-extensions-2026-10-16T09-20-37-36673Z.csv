@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T08:18:43.13Z,herdly.herdly-vscode,herdly,Herdly,0.1.0,Real-time Herdly policy validation and cost estimates for Bicep and ARM workspaces.
+2026-10-16T08:20:37.993Z,aryan02420.bacloud-vscode,aryan02420,Ballistica Cloud,0.0.1,Clone and pull Ballistica cloud workspaces.
+2026-10-16T08:35:26.397Z,amiyamaity.bingo-game-vscode,amiyamaity,Bingo in VsCode,1.2.5,Play multiplayer Bingo inside the Explorer sidebar while coding.
+2026-10-16T08:42:34.147Z,BingbingNiu.bdd-appium-toolkit,BingbingNiu,BDD Appium Toolkit,0.1.1,"Prepare Appium MCP environments, send Gherkin scenarios to GitHub Copilot, and replay generated Behave tests."
+2026-10-16T08:48:22.503Z,myhsia.texlance,myhsia,TeXlance,0.1.0,"Pylance-style LaTeX preamble intelligence for VS Code: resolves the preamble against kpsewhich and reports unresolved packages, plus path-aware completions."
+2026-10-16T08:50:46.287Z,EdoardoDesiderio.fsp-toolset-modern,EdoardoDesiderio,FSP Toolset Modern,0.1.0,"Zero-config VS Code support for FSP / LTS: syntax, compile, safety & progress checks and interactive LTS graphs, powered by the LTSA engine."
+2026-10-16T08:54:10.433Z,ggk.license-filter,ggk,License Filter,0.1.0,"Filter installed and Marketplace extensions by license (MIT, Apache-2.0, GPL, proprietary, unknown)."
+2026-10-16T08:55:03.897Z,morelli01.toothfairy-nifti-viewer,morelli01,ToothFairy NIfTI Viewer,0.1.0,"Interactive 3D and four-up viewer for CBCT NIfTI (.nii, .nii.gz) volumes and segmentation masks, with automatic orientation correction for ToothFairy scans."
+2026-10-16T09:02:26.183Z,json-dev.video-dock,json-dev,Video Dock,0.4.17,"Watch YouTube and Facebook beside your code, then hide the player by pressing Ctrl twice."
+2026-10-16T09:03:00.02Z,dockttier.dockttier,dockttier,"Dockttier: Dockerfile Templates, Security & Optimization",1.0.0,"Production-ready Dockerfile templates plus real-time security, optimization and best-practice analysis with one-click fixes, scores, a CI command line and AI review."
+2026-10-16T09:07:17.28Z,NextpointForge.aigw-models,NextpointForge,NextpointForge AI Gateway Models,0.2.0,"Experimental and unofficial, not affiliated with or supported by Databricks: signs in to a Databricks AI Gateway and exposes the approved Claude models to VS Code chat and Claude Code."

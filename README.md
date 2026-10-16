@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 08:21 UTC
+## Latest list — 2026-10-16 09:20 UTC
 
-New extensions published between 2026-10-16 06:21 UTC and 2026-10-16 08:21 UTC.
+New extensions published between 2026-10-16 07:20 UTC and 2026-10-16 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T08-21-42-335389Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T09-20-37-36673Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 07:11:57 | [IkkoAyagawa.ogenkou](https://marketplace.visualstudio.com/items?itemName=IkkoAyagawa.ogenkou) | Ogenkou | 0.9.1 | 日本語小説の組版プレビューとPDF出力 |
-| 2026-10-16 07:28:20 | [vari-sh.cremisi-theme](https://marketplace.visualstudio.com/items?itemName=vari-sh.cremisi-theme) | Cremisi | 0.2.0 | A gothic, arcane colour scheme in two variants, Obsidian and Ivory. Every colou… |
-| 2026-10-16 07:45:38 | [GCIDAmericasandAsia.AgentA11y-aiV2](https://marketplace.visualstudio.com/items?itemName=GCIDAmericasandAsia.AgentA11y-aiV2) | AgentA11y.ai v2 | 0.0.1 | AgentA11y.ai v2 accessibility (WCAG/A11y) testing agents, helpers, and MCP conf… |
-| 2026-10-16 07:59:35 | [vicanent.gcmp-fim-nes](https://marketplace.visualstudio.com/items?itemName=vicanent.gcmp-fim-nes) | AI Chat Models - FIM/NES Completion | 0.29.0 | Inline code completion (FIM) and next edit suggestions (NES) for GCMP. Requires… |
-| 2026-10-16 08:02:32 | [yacper.claude-code-image-mermaid](https://marketplace.visualstudio.com/items?itemName=yacper.claude-code-image-mermaid) | Image & Mermaid for Claude Code | 0.0.1 | Show local Markdown images and render Mermaid diagrams in the Claude Code chat… |
-| 2026-10-16 08:03:23 | [Dootmaan.qwen-for-github-copilot-chat](https://marketplace.visualstudio.com/items?itemName=Dootmaan.qwen-for-github-copilot-chat) | Qwen Models for GitHub Copilot Chat | 0.1.5 | Bring Qwen Token Plan and DashScope models into GitHub Copilot Chat with biling… |
-| 2026-10-16 08:06:22 | [devlk.simple-github-workflow-runner](https://marketplace.visualstudio.com/items?itemName=devlk.simple-github-workflow-runner) | Simple GitHub Workflow Runner | 0.1.1 | Run GitHub Actions workflows (workflow_dispatch) of the current repository from… |
+| 2026-10-16 08:18:43 | [herdly.herdly-vscode](https://marketplace.visualstudio.com/items?itemName=herdly.herdly-vscode) | Herdly | 0.1.0 | Real-time Herdly policy validation and cost estimates for Bicep and ARM workspa… |
+| 2026-10-16 08:20:37 | [aryan02420.bacloud-vscode](https://marketplace.visualstudio.com/items?itemName=aryan02420.bacloud-vscode) | Ballistica Cloud | 0.0.1 | Clone and pull Ballistica cloud workspaces. |
+| 2026-10-16 08:35:26 | [amiyamaity.bingo-game-vscode](https://marketplace.visualstudio.com/items?itemName=amiyamaity.bingo-game-vscode) | Bingo in VsCode | 1.2.5 | Play multiplayer Bingo inside the Explorer sidebar while coding. |
+| 2026-10-16 08:42:34 | [BingbingNiu.bdd-appium-toolkit](https://marketplace.visualstudio.com/items?itemName=BingbingNiu.bdd-appium-toolkit) | BDD Appium Toolkit | 0.1.1 | Prepare Appium MCP environments, send Gherkin scenarios to GitHub Copilot, and… |
+| 2026-10-16 08:48:22 | [myhsia.texlance](https://marketplace.visualstudio.com/items?itemName=myhsia.texlance) | TeXlance | 0.1.0 | Pylance-style LaTeX preamble intelligence for VS Code: resolves the preamble ag… |
+| 2026-10-16 08:50:46 | [EdoardoDesiderio.fsp-toolset-modern](https://marketplace.visualstudio.com/items?itemName=EdoardoDesiderio.fsp-toolset-modern) | FSP Toolset Modern | 0.1.0 | Zero-config VS Code support for FSP / LTS: syntax, compile, safety & progress c… |
+| 2026-10-16 08:54:10 | [ggk.license-filter](https://marketplace.visualstudio.com/items?itemName=ggk.license-filter) | License Filter | 0.1.0 | Filter installed and Marketplace extensions by license (MIT, Apache-2.0, GPL, p… |
+| 2026-10-16 08:55:03 | [morelli01.toothfairy-nifti-viewer](https://marketplace.visualstudio.com/items?itemName=morelli01.toothfairy-nifti-viewer) | ToothFairy NIfTI Viewer | 0.1.0 | Interactive 3D and four-up viewer for CBCT NIfTI (.nii, .nii.gz) volumes and se… |
+| 2026-10-16 09:02:26 | [json-dev.video-dock](https://marketplace.visualstudio.com/items?itemName=json-dev.video-dock) | Video Dock | 0.4.17 | Watch YouTube and Facebook beside your code, then hide the player by pressing C… |
+| 2026-10-16 09:03:00 | [dockttier.dockttier](https://marketplace.visualstudio.com/items?itemName=dockttier.dockttier) | Dockttier: Dockerfile Templates, Securi… | 1.0.0 | Production-ready Dockerfile templates plus real-time security, optimization and… |
+| 2026-10-16 09:07:17 | [NextpointForge.aigw-models](https://marketplace.visualstudio.com/items?itemName=NextpointForge.aigw-models) | NextpointForge AI Gateway Models | 0.2.0 | Experimental and unofficial, not affiliated with or supported by Databricks: si… |
 
 ## Data source
 
