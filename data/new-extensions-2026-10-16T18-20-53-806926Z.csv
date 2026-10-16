@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T17:28:19.487Z,plex-agent.plex-agent-vscode,plex-agent,Plex Agent,0.1.1,Run Plex Agent as a self-contained local workspace coding assistant. Bundles the agent server and UI — no separate build required.
+2026-10-16T17:40:25.18Z,dev-chee.teal-vscode,dev-chee,Teal Language for VS Code,0.1.2,Teal 语言支持：本地语言服务器、运行和源码调试。
+2026-10-16T17:42:51.453Z,kimchi.coordinate,kimchi,BeautifulMux Coordinate,0.0.1,Use /coordinate with your agents.
+2026-10-16T17:58:29.68Z,homka122.diffback,homka122,diffback — review your coding agent's diff,0.1.0,"Review what your AI coding agent changed like a pull request: one scrollable diff, comments on any selection, publish straight back to the agent."
