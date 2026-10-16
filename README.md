@@ -12,25 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 04:21 UTC
+## Latest list — 2026-10-16 05:20 UTC
 
-New extensions published between 2026-10-16 02:21 UTC and 2026-10-16 04:21 UTC.
+New extensions published between 2026-10-16 03:20 UTC and 2026-10-16 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T04-21-48-674226Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T05-20-09-196762Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 02:38:06 | [az-tools.az-keil-configuration-wizard](https://marketplace.visualstudio.com/items?itemName=az-tools.az-keil-configuration-wizard) | azKeilConfigurationWizard | 0.6.1 | ?? Keil Configuration Wizard ???? C ???? |
-| 2026-10-16 03:22:04 | [jaytankdev.pathmend](https://marketplace.visualstudio.com/items?itemName=jaytankdev.pathmend) | PathMend | 0.1.0 | Find broken file paths in config files after you move or rename something: pack… |
-| 2026-10-16 03:34:11 | [notsoanonimus.night-glow-theme](https://marketplace.visualstudio.com/items?itemName=notsoanonimus.night-glow-theme) | Night Glow Theme | 1.0.0 | A nostalgic, retro terminal theme with warm amber glows yet plenty of contrast. |
-| 2026-10-16 03:50:47 | [martinvarela206.antidraw](https://marketplace.visualstudio.com/items?itemName=martinvarela206.antidraw) | AntiDraw - SVG Vector Editor | 0.85.87 | Integrated vector graphics editor for SVG files inspired by CorelDraw and Figma. |
-| 2026-10-16 03:51:54 | [ReadyStack.html-tag-inserter-accessible-aria](https://marketplace.visualstudio.com/items?itemName=ReadyStack.html-tag-inserter-accessible-aria) | HTML Tag Inserter: Accessible ARIA + WC… | 0.1.5 | 36 accessible HTML tag patterns and 20 WCAG 2.2 checks that run offline on the… |
-| 2026-10-16 03:52:09 | [ReadyStack.immowertv-gutachten-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.immowertv-gutachten-lint) | Gutachten-Lint: ImmoWertV 2021 und BewG | 1.0.6 | Prüft Verkehrswertgutachten-Entwürfe (Markdown) auf veraltete Normen und Modell… |
-| 2026-10-16 03:55:19 | [brian-chang.codex-completion-notifier](https://marketplace.visualstudio.com/items?itemName=brian-chang.codex-completion-notifier) | Local Agent Completion Notifier | 0.3.0 | Show a VS Code notification when a supported local AI agent turn ends. |
-| 2026-10-16 04:06:08 | [Jensen-tools.jensen-codeflow](https://marketplace.visualstudio.com/items?itemName=Jensen-tools.jensen-codeflow) | CodeFlow by Jensen | 0.0.1 | Organize code locations into navigable feature flows. |
-| 2026-10-16 04:06:09 | [alessandrovoliveira.fileblocks](https://marketplace.visualstudio.com/items?itemName=alessandrovoliveira.fileblocks) | Fileblocks | 0.1.0 | See and edit JSON, YAML, TOML, XML and HTML as an editable node graph, with JSO… |
-| 2026-10-16 04:09:47 | [MakdumIbrohim.anycommit](https://marketplace.visualstudio.com/items?itemName=MakdumIbrohim.anycommit) | AnyCommit: AI Commit Message | 0.1.0 | Generate clean git commit messages from staged diff using OpenAI-compatible API… |
-| 2026-10-16 04:17:13 | [nikowetz.quiet-lavender](https://marketplace.visualstudio.com/items?itemName=nikowetz.quiet-lavender) | Quiet Lavender | 1.0.0 | A light theme with deep purple chrome, soft lavender accents, and colorful synt… |
+| 2026-10-16 04:30:46 | [musaid.frameless](https://marketplace.visualstudio.com/items?itemName=musaid.frameless) | Frameless | 0.2.1 | Hide the title bar on macOS and put the traffic lights next to your tabs. |
+| 2026-10-16 04:35:04 | [yevin.termdock](https://marketplace.visualstudio.com/items?itemName=yevin.termdock) | Termdock | 0.3.0 | A compact, independent shell terminal with native controls in the Secondary Sid… |
+| 2026-10-16 05:06:20 | [KrishnamohanYagneswaran.ky-formatter](https://marketplace.visualstudio.com/items?itemName=KrishnamohanYagneswaran.ky-formatter) | KY Formatter | 0.0.2 | KY formatter extension |
+| 2026-10-16 05:14:16 | [harmeling.kurt-lang](https://marketplace.visualstudio.com/items?itemName=harmeling.kurt-lang) | Kurt Proof Language | 0.9.0 | The Kurt proof language: each line of a proof checked as you type, with its rea… |
 
 ## Data source
 
