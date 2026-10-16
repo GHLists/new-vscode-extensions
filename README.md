@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-15 23:21 UTC
+## Latest list — 2026-10-16 00:19 UTC
 
-New extensions published between 2026-10-15 21:21 UTC and 2026-10-15 23:21 UTC.
+New extensions published between 2026-10-15 22:19 UTC and 2026-10-16 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-15T23-21-03-8395Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T00-19-41-856528Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 22:23:19 | [AstrixCode.astrix-vscode-extension](https://marketplace.visualstudio.com/items?itemName=AstrixCode.astrix-vscode-extension) | Astrix AI — Local Deterministic Code Gu… | 1.0.0 | Zero-server-cost local compiler verification & AI determinism loop for VS Code. |
-| 2026-10-15 22:35:49 | [PELock.lua-virtualizer](https://marketplace.visualstudio.com/items?itemName=PELock.lua-virtualizer) | Lua Virtualizer | 1.0.0 | Virtualize, obfuscate & protect Lua scripts with code virtualization, finite-st… |
-| 2026-10-15 23:12:40 | [tynamix.vscode-herdr](https://marketplace.visualstudio.com/items?itemName=tynamix.vscode-herdr) | Herdr Workbench — Git Worktrees & CLI A… | 0.1.0 | Manage Git worktrees and persistent CLI agent sessions across projects, with na… |
+| 2026-10-15 23:37:11 | [intel-corporation.rohd-schematic-viewer](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-schematic-viewer) | ROHD Schematic Viewer | 0.2.3 | Visualize Yosys JSON netlist files as interactive schematics |
+| 2026-10-16 00:00:07 | [ericsonjoseph.difftool-review](https://marketplace.visualstudio.com/items?itemName=ericsonjoseph.difftool-review) | Difftool Review | 0.1.0 | Review changes made by an AI assistant: minimal Changes/Staged panel, the built… |
+| 2026-10-16 00:02:50 | [DiogoLogrado.ollama-cloud-meter](https://marketplace.visualstudio.com/items?itemName=DiogoLogrado.ollama-cloud-meter) | Ollama Cloud Meter | 0.2.0 | Unofficial status bar meter for Ollama Cloud session and weekly usage limits. O… |
+| 2026-10-16 00:03:58 | [WellingtonLuizTezotto.magic-json](https://marketplace.visualstudio.com/items?itemName=WellingtonLuizTezotto.magic-json) | Magic JSON | 0.1.0 | Explore arquivos JSON como grafos interativos ao lado do editor. |
+| 2026-10-16 00:15:36 | [tyba-co.apidoc-vscode](https://marketplace.visualstudio.com/items?itemName=tyba-co.apidoc-vscode) | apiDoc (Tyba) | 0.2.1 | Completion, syntax highlighting and snippets for apidoc comments (@api, @apiPar… |
 
 ## Data source
 

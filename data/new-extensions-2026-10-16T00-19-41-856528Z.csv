@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-15T23:37:11.67Z,intel-corporation.rohd-schematic-viewer,intel-corporation,ROHD Schematic Viewer,0.2.3,Visualize Yosys JSON netlist files as interactive schematics
+2026-10-16T00:00:07.613Z,ericsonjoseph.difftool-review,ericsonjoseph,Difftool Review,0.1.0,"Review changes made by an AI assistant: minimal Changes/Staged panel, the built-in diff editor, looping file navigation and review comments copied as AI feedback."
+2026-10-16T00:02:50.573Z,DiogoLogrado.ollama-cloud-meter,DiogoLogrado,Ollama Cloud Meter,0.2.0,"Unofficial status bar meter for Ollama Cloud session and weekly usage limits. One request, no telemetry, readable source."
+2026-10-16T00:03:58.92Z,WellingtonLuizTezotto.magic-json,WellingtonLuizTezotto,Magic JSON,0.1.0,Explore arquivos JSON como grafos interativos ao lado do editor.
+2026-10-16T00:15:36.463Z,tyba-co.apidoc-vscode,tyba-co,apiDoc (Tyba),0.2.1,"Completion, syntax highlighting and snippets for apidoc comments (@api, @apiParam, ...), and a JSON schema for apidoc.json"
