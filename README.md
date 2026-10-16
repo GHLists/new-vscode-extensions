@@ -12,28 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 10:20 UTC
+## Latest list — 2026-10-16 11:21 UTC
 
-New extensions published between 2026-10-16 08:20 UTC and 2026-10-16 10:20 UTC.
+New extensions published between 2026-10-16 09:21 UTC and 2026-10-16 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T10-20-25-319119Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T11-21-20-9296Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 09:17:25 | [HeavenSky.vscode-jotl](https://marketplace.visualstudio.com/items?itemName=HeavenSky.vscode-jotl) | Jotl | 0.0.1 | Write JSON Schema in Jotl with checks as you type, and see the compiled schema,… |
-| 2026-10-16 09:18:39 | [Linloir.limr-vscode](https://marketplace.visualstudio.com/items?itemName=Linloir.limr-vscode) | LiMR — Markdown Reader | 1.0.1 | Read and annotate Markdown beside your editor with LiMR. Inline notes, highligh… |
-| 2026-10-16 09:19:15 | [DarioDjuric.tsserver-autostart](https://marketplace.visualstudio.com/items?itemName=DarioDjuric.tsserver-autostart) | TS Server Autostart | 0.0.1 | Starts the TypeScript server when a TypeScript workspace opens, so workspace sy… |
-| 2026-10-16 09:30:51 | [benjit87.onlyhuman-vscode](https://marketplace.visualstudio.com/items?itemName=benjit87.onlyhuman-vscode) | onlyhuman | 0.1.0 | Highlighting, linting and go-to-definition for onlyhuman *.human and *.bot spec… |
-| 2026-10-16 09:32:43 | [cagndz.silex](https://marketplace.visualstudio.com/items?itemName=cagndz.silex) | Silex Theme | 0.1.0 | A quiet dark theme. Color where it counts, gray everywhere else. |
-| 2026-10-16 09:46:07 | [PeterYang.csvtoolkit](https://marketplace.visualstudio.com/items?itemName=PeterYang.csvtoolkit) | CSV Toolkit | 1.0.0 | Rainbow columns, an Excel-like table editor, column statistics and data cleanin… |
-| 2026-10-16 09:47:15 | [hacknseek.notespace-workspace](https://marketplace.visualstudio.com/items?itemName=hacknseek.notespace-workspace) | NoteSpace - Notes, Tasks and API | 1.0.0 | A local-first workspace for VS Code: wiki and docs with a visual Markdown edito… |
-| 2026-10-16 09:49:47 | [andrediogo92.nu-busted-test-explorer](https://marketplace.visualstudio.com/items?itemName=andrediogo92.nu-busted-test-explorer) | Nu Busted Test Explorer | 0.2.6 | Discover and run your lua busted tests from vscode |
-| 2026-10-16 09:51:31 | [sguisse.sgu-explorer-filter](https://marketplace.visualstudio.com/items?itemName=sguisse.sgu-explorer-filter) | Explorer Filter addon | 0.1.0 | Selectable Explorer filter combo with cumulative include/exclude regex rules |
-| 2026-10-16 09:51:38 | [chuucommie.copilot-pixel](https://marketplace.visualstudio.com/items?itemName=chuucommie.copilot-pixel) | CopilotPixel - Pixel Office for Copilot | 1.4.2 | A virtual pixel art office where your GitHub Copilot and AI coding agents come… |
-| 2026-10-16 10:02:08 | [Nagi.nagi](https://marketplace.visualstudio.com/items?itemName=Nagi.nagi) | Nagi.md — WYSIWYG Markdown Editor | 1.0.0 | A simple, refined WYSIWYG Markdown editor for VS Code. Edit Markdown as it appe… |
-| 2026-10-16 10:02:39 | [zhoudd3.gitlab-auto-merge-request](https://marketplace.visualstudio.com/items?itemName=zhoudd3.gitlab-auto-merge-request) | GitLab Merge Request Tool | 0.1.1 | Automatically generates GitLab Merge Request title, description, and assigns re… |
-| 2026-10-16 10:02:44 | [Antadis.one-format](https://marketplace.visualstudio.com/items?itemName=Antadis.one-format) | One Format | 0.0.1 | Un seul formateur, des règles en dur : HTML, CSS, SCSS, Less, JavaScript, JSON,… |
-| 2026-10-16 10:11:11 | [ET08042.codex-turn-navigator](https://marketplace.visualstudio.com/items?itemName=ET08042.codex-turn-navigator) | Codex Turn Navigator | 0.2.0 | 在官方 Codex 原始聊天中显示可搜索、拖动的回合树和回答预览，支持历史跳转、自动收起和恢复选中位置。 |
+| 2026-10-16 10:20:46 | [portalsbase.leakless](https://marketplace.visualstudio.com/items?itemName=portalsbase.leakless) | Leakless | 0.1.0 | Prevent secrets in .env files from leaking during screen sharing, streaming, or… |
+| 2026-10-16 10:21:05 | [detorotodorov-alexander.jutge-vscode-web](https://marketplace.visualstudio.com/items?itemName=detorotodorov-alexander.jutge-vscode-web) | Jutge (Unofficial) for VS Code Web | 0.1.11 | Unofficial fork of the Jutge.org VS Code extension that also works in vscode.de… |
+| 2026-10-16 10:33:43 | [errorsenseai.errorsense-ai](https://marketplace.visualstudio.com/items?itemName=errorsenseai.errorsense-ai) | ErrorSense AI | 0.0.1 | Explain coding errors with suggested fixes |
+| 2026-10-16 10:51:34 | [felipelourenco.varscout](https://marketplace.visualstudio.com/items?itemName=felipelourenco.varscout) | VarScout | 0.1.0 | Autocomplete CSS custom properties from your project's CSS token files, making… |
+| 2026-10-16 11:02:16 | [nilay-mani.isc-workbench](https://marketplace.visualstudio.com/items?itemName=nilay-mani.isc-workbench) | ISC Workbench | 0.9.3 | Explore the SailPoint Identity Security Cloud API, edit tenant configuration as… |
+| 2026-10-16 11:03:01 | [developerhub.developerhub-preview](https://marketplace.visualstudio.com/items?itemName=developerhub.developerhub-preview) | DeveloperHub Preview | 0.1.0 | Live preview of DeveloperHub Markdoc pages in a Git Sync docs repository, rende… |
+| 2026-10-16 11:06:02 | [lilinhuang.aqua-veil-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.aqua-veil-theme) | Aqua Veil Theme | 1.0.0 | Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated ligh… |
+| 2026-10-16 11:06:57 | [KAYTAY10ok.nexul-language](https://marketplace.visualstudio.com/items?itemName=KAYTAY10ok.nexul-language) | NEXUL Language Support | 0.1.0 | Coloration, diagnostics, formatage automatique et outils de développement pour… |
 
 ## Data source
 

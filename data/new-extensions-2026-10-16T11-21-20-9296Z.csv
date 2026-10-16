@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T10:20:46.883Z,portalsbase.leakless,portalsbase,Leakless,0.1.0,"Prevent secrets in .env files from leaking during screen sharing, streaming, or accidental git commits."
+2026-10-16T10:21:05.393Z,detorotodorov-alexander.jutge-vscode-web,detorotodorov-alexander,Jutge (Unofficial) for VS Code Web,0.1.11,Unofficial fork of the Jutge.org VS Code extension that also works in vscode.dev and github.dev. Not affiliated with or endorsed by Jutge.org or UPC.
+2026-10-16T10:33:43.383Z,errorsenseai.errorsense-ai,errorsenseai,ErrorSense AI,0.0.1,Explain coding errors with suggested fixes
+2026-10-16T10:51:34.137Z,felipelourenco.varscout,felipelourenco,VarScout,0.1.0,"Autocomplete CSS custom properties from your project's CSS token files, making design tokens easier to discover and use across your codebase."
+2026-10-16T11:02:16.37Z,nilay-mani.isc-workbench,nilay-mani,ISC Workbench,0.9.3,"Explore the SailPoint Identity Security Cloud API, edit tenant configuration as JSON, and promote changes between environments, all from VS Code."
+2026-10-16T11:03:01.6Z,developerhub.developerhub-preview,developerhub,DeveloperHub Preview,0.1.0,"Live preview of DeveloperHub Markdoc pages in a Git Sync docs repository, rendered the way your docs show them."
+2026-10-16T11:06:02.467Z,lilinhuang.aqua-veil-theme,lilinhuang,Aqua Veil Theme,1.0.0,"Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated light and dark themes."
+2026-10-16T11:06:57.073Z,KAYTAY10ok.nexul-language,KAYTAY10ok,NEXUL Language Support,0.1.0,"Coloration, diagnostics, formatage automatique et outils de développement pour le langage NEXUL."
