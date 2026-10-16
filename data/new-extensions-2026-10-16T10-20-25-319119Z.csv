@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T09:17:25.27Z,HeavenSky.vscode-jotl,HeavenSky,Jotl,0.0.1,"Write JSON Schema in Jotl with checks as you type, and see the compiled schema, TypeScript declarations and form update live."
+2026-10-16T09:18:39.97Z,Linloir.limr-vscode,Linloir,LiMR — Markdown Reader,1.0.1,"Read and annotate Markdown beside your editor with LiMR. Inline notes, highlights, AI context, and VS Code themes."
+2026-10-16T09:19:15.583Z,DarioDjuric.tsserver-autostart,DarioDjuric,TS Server Autostart,0.0.1,"Starts the TypeScript server when a TypeScript workspace opens, so workspace symbol search works before you open a file."
+2026-10-16T09:30:51.037Z,benjit87.onlyhuman-vscode,benjit87,onlyhuman,0.1.0,"Highlighting, linting and go-to-definition for onlyhuman *.human and *.bot spec files"
+2026-10-16T09:32:43.557Z,cagndz.silex,cagndz,Silex Theme,0.1.0,"A quiet dark theme. Color where it counts, gray everywhere else."
+2026-10-16T09:46:07.013Z,PeterYang.csvtoolkit,PeterYang,CSV Toolkit,1.0.0,"Rainbow columns, an Excel-like table editor, column statistics and data cleaning for CSV/TSV files."
+2026-10-16T09:47:15.43Z,hacknseek.notespace-workspace,hacknseek,"NoteSpace - Notes, Tasks and API",1.0.0,"A local-first workspace for VS Code: wiki and docs with a visual Markdown editor, tasks, Kanban boards, calendar, notebooks, dashboards and an API client — all in your files."
+2026-10-16T09:49:47.133Z,andrediogo92.nu-busted-test-explorer,andrediogo92,Nu Busted Test Explorer,0.2.6,Discover and run your lua busted tests from vscode
+2026-10-16T09:51:31.017Z,sguisse.sgu-explorer-filter,sguisse,Explorer Filter addon,0.1.0,Selectable Explorer filter combo with cumulative include/exclude regex rules
+2026-10-16T09:51:38.707Z,chuucommie.copilot-pixel,chuucommie,CopilotPixel - Pixel Office for Copilot,1.4.2,A virtual pixel art office where your GitHub Copilot and AI coding agents come to life.
+2026-10-16T10:02:08.33Z,Nagi.nagi,Nagi,Nagi.md — WYSIWYG Markdown Editor,1.0.0,"A simple, refined WYSIWYG Markdown editor for VS Code. Edit Markdown as it appears, fix tables, and review changes in the same view."
+2026-10-16T10:02:39.197Z,zhoudd3.gitlab-auto-merge-request,zhoudd3,GitLab Merge Request Tool,0.1.1,"Automatically generates GitLab Merge Request title, description, and assigns reviewers based on branch rules."
+2026-10-16T10:02:44.023Z,Antadis.one-format,Antadis,One Format,0.0.1,"Un seul formateur, des règles en dur : HTML, CSS, SCSS, Less, JavaScript, JSON, Smarty, Twig, Liquid, YAML."
+2026-10-16T10:11:11.207Z,ET08042.codex-turn-navigator,ET08042,Codex Turn Navigator,0.2.0,在官方 Codex 原始聊天中显示可搜索、拖动的回合树和回答预览，支持历史跳转、自动收起和恢复选中位置。
