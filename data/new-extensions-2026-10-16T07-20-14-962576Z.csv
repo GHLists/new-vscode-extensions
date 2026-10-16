@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T06:16:44.523Z,Techital.better-csharp-references,Techital,Better C# References,1.0.0,"Find All References for C# as a collapsible folder tree, grouped into Definition / Write / Read."
+2026-10-16T06:49:52.4Z,MTpupil.readfish,MTpupil,ReadFish,1.0.0,在 VS Code 侧边栏管理书架、阅读 TXT/EPUB，并与 ReadFish 桌面版共享书籍和进度。
+2026-10-16T06:54:27.207Z,afreed.devsync-pro,afreed,DevSync-Pro,0.0.3,DevSync: Preserve Your Cognitive Flow & Context Across Context Switches.
+2026-10-16T07:14:55.757Z,LouisMudrack.lurk,LouisMudrack,Lurk – Twitch streams in your sidebar,0.1.0,"Twitch player and chat for the VS Code sidebar, with emotes, videos and the channels you follow."

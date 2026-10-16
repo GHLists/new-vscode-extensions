@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 06:20 UTC
+## Latest list — 2026-10-16 07:20 UTC
 
-New extensions published between 2026-10-16 04:20 UTC and 2026-10-16 06:20 UTC.
+New extensions published between 2026-10-16 05:20 UTC and 2026-10-16 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T06-20-56-691699Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T07-20-14-962576Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 05:09:55 | [yatlineyat.ytl-proxy](https://marketplace.visualstudio.com/items?itemName=yatlineyat.ytl-proxy) | YTL Proxy | 0.1.1 | 导入自己的 Clash / Mihomo 节点，在 VS Code 连接、切换与恢复本地代理。Linux x64 预览版。 |
-| 2026-10-16 05:29:04 | [Stantec.ai-exchange](https://marketplace.visualstudio.com/items?itemName=Stantec.ai-exchange) | AI Exchange | 0.2.1 | Browse, discover, and install governed catalog artifacts directly from VS Code |
-| 2026-10-16 05:42:45 | [clorf6.tidy-data-viewer](https://marketplace.visualstudio.com/items?itemName=clorf6.tidy-data-viewer) | Tidy Data Viewer | 0.1.0 | Readable, editable views for CSV/TSV, JSON, JSONL, YAML, TOML, INI, .env, XML,… |
-| 2026-10-16 05:50:37 | [ManeetGupta.Aimahasolution](https://marketplace.visualstudio.com/items?itemName=ManeetGupta.Aimahasolution) | aimahasolution | 1.0.0 | A simple markdown extension |
-| 2026-10-16 05:51:59 | [accessibully.accessibu11y-vscode](https://marketplace.visualstudio.com/items?itemName=accessibully.accessibu11y-vscode) | Accessibu11y | 0.1.0 | Quick accessibility checks inspired by the Accessibu11y Chrome extension. |
-| 2026-10-16 05:53:00 | [hamzadev.api-flow-navigator](https://marketplace.visualstudio.com/items?itemName=hamzadev.api-flow-navigator) | API Flow Navigator — Universal Code & A… | 0.1.0 | Local, language-extensible static API discovery, navigation and flow inspection. |
-| 2026-10-16 06:01:07 | [harshilZore.falconlang](https://marketplace.visualstudio.com/items?itemName=harshilZore.falconlang) | falconlang | 1.0.0 | Official Falcon Language support: syntax highlighting, tab icons, real-time dia… |
+| 2026-10-16 06:16:44 | [Techital.better-csharp-references](https://marketplace.visualstudio.com/items?itemName=Techital.better-csharp-references) | Better C# References | 1.0.0 | Find All References for C# as a collapsible folder tree, grouped into Definitio… |
+| 2026-10-16 06:49:52 | [MTpupil.readfish](https://marketplace.visualstudio.com/items?itemName=MTpupil.readfish) | ReadFish | 1.0.0 | 在 VS Code 侧边栏管理书架、阅读 TXT/EPUB，并与 ReadFish 桌面版共享书籍和进度。 |
+| 2026-10-16 06:54:27 | [afreed.devsync-pro](https://marketplace.visualstudio.com/items?itemName=afreed.devsync-pro) | DevSync-Pro | 0.0.3 | DevSync: Preserve Your Cognitive Flow & Context Across Context Switches. |
+| 2026-10-16 07:14:55 | [LouisMudrack.lurk](https://marketplace.visualstudio.com/items?itemName=LouisMudrack.lurk) | Lurk – Twitch streams in your sidebar | 0.1.0 | Twitch player and chat for the VS Code sidebar, with emotes, videos and the cha… |
 
 ## Data source
 
