@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 18:20 UTC
+## Latest list — 2026-10-16 19:20 UTC
 
-New extensions published between 2026-10-16 16:20 UTC and 2026-10-16 18:20 UTC.
+New extensions published between 2026-10-16 17:20 UTC and 2026-10-16 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T18-20-53-806926Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T19-20-35-577906Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 17:28:19 | [plex-agent.plex-agent-vscode](https://marketplace.visualstudio.com/items?itemName=plex-agent.plex-agent-vscode) | Plex Agent | 0.1.1 | Run Plex Agent as a self-contained local workspace coding assistant. Bundles th… |
-| 2026-10-16 17:40:25 | [dev-chee.teal-vscode](https://marketplace.visualstudio.com/items?itemName=dev-chee.teal-vscode) | Teal Language for VS Code | 0.1.2 | Teal 语言支持：本地语言服务器、运行和源码调试。 |
-| 2026-10-16 17:42:51 | [kimchi.coordinate](https://marketplace.visualstudio.com/items?itemName=kimchi.coordinate) | BeautifulMux Coordinate | 0.0.1 | Use /coordinate with your agents. |
-| 2026-10-16 17:58:29 | [homka122.diffback](https://marketplace.visualstudio.com/items?itemName=homka122.diffback) | diffback — review your coding agent's d… | 0.1.0 | Review what your AI coding agent changed like a pull request: one scrollable di… |
+| 2026-10-16 18:26:34 | [pyxpo.pyxpo](https://marketplace.visualstudio.com/items?itemName=pyxpo.pyxpo) | pyxpo | 0.1.0 | pyxpo support: style and prop completion, color swatches, style checks, [tool.p… |
+| 2026-10-16 18:33:35 | [aiflowchart.aiflowchart-codebase-map](https://marketplace.visualstudio.com/items?itemName=aiflowchart.aiflowchart-codebase-map) | AI Flowchart: Codebase Map | 0.10.1 | See how your code works: architecture map, features, flow traces, data flow, de… |
+| 2026-10-16 18:35:15 | [Pinta365.offgrid](https://marketplace.visualstudio.com/items?itemName=Pinta365.offgrid) | offgrid: local AI | 0.0.1 | Code completion and chat with local models. No account, no cloud: offgrid runs… |
+| 2026-10-16 18:40:17 | [AlmostPerfect.almost-perfect-kafka](https://marketplace.visualstudio.com/items?itemName=AlmostPerfect.almost-perfect-kafka) | Almost Perfect Kafka | 0.9.2 | VS Code Kafka explorer with mTLS, Schema Registry, and payload decryption suppo… |
+| 2026-10-16 18:51:02 | [lucasnicolau30.brasileirao-theme](https://marketplace.visualstudio.com/items?itemName=lucasnicolau30.brasileirao-theme) | Brasileirão Theme | 1.0.0 | Um tema escuro e um tema de ícones para cada um dos 12 grandes do Brasileirão:… |
 
 ## Data source
 

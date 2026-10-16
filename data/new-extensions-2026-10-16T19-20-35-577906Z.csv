@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T18:26:34.897Z,pyxpo.pyxpo,pyxpo,pyxpo,0.1.0,"pyxpo support: style and prop completion, color swatches, style checks, [tool.pyxpo] config help, run commands."
+2026-10-16T18:33:35.223Z,aiflowchart.aiflowchart-codebase-map,aiflowchart,AI Flowchart: Codebase Map,0.10.1,"See how your code works: architecture map, features, flow traces, data flow, dependencies, code size and timeline diagrams for JavaScript, TypeScript and Python. Click any box to open the code. Present as slides."
+2026-10-16T18:35:15.427Z,Pinta365.offgrid,Pinta365,offgrid: local AI,0.0.1,"Code completion and chat with local models. No account, no cloud: offgrid runs the models on your GPU or CPU."
+2026-10-16T18:40:17.563Z,AlmostPerfect.almost-perfect-kafka,AlmostPerfect,Almost Perfect Kafka,0.9.2,"VS Code Kafka explorer with mTLS, Schema Registry, and payload decryption support"
+2026-10-16T18:51:02.41Z,lucasnicolau30.brasileirao-theme,lucasnicolau30,Brasileirão Theme,1.0.0,"Um tema escuro e um tema de ícones para cada um dos 12 grandes do Brasileirão: as cores do time nas linhas, na barra de status e nos colchetes."
