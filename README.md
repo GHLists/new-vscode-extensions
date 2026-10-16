@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 19:20 UTC
+## Latest list — 2026-10-16 20:21 UTC
 
-New extensions published between 2026-10-16 17:20 UTC and 2026-10-16 19:20 UTC.
+New extensions published between 2026-10-16 18:21 UTC and 2026-10-16 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T19-20-35-577906Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T20-21-32-389321Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 18:26:34 | [pyxpo.pyxpo](https://marketplace.visualstudio.com/items?itemName=pyxpo.pyxpo) | pyxpo | 0.1.0 | pyxpo support: style and prop completion, color swatches, style checks, [tool.p… |
-| 2026-10-16 18:33:35 | [aiflowchart.aiflowchart-codebase-map](https://marketplace.visualstudio.com/items?itemName=aiflowchart.aiflowchart-codebase-map) | AI Flowchart: Codebase Map | 0.10.1 | See how your code works: architecture map, features, flow traces, data flow, de… |
-| 2026-10-16 18:35:15 | [Pinta365.offgrid](https://marketplace.visualstudio.com/items?itemName=Pinta365.offgrid) | offgrid: local AI | 0.0.1 | Code completion and chat with local models. No account, no cloud: offgrid runs… |
-| 2026-10-16 18:40:17 | [AlmostPerfect.almost-perfect-kafka](https://marketplace.visualstudio.com/items?itemName=AlmostPerfect.almost-perfect-kafka) | Almost Perfect Kafka | 0.9.2 | VS Code Kafka explorer with mTLS, Schema Registry, and payload decryption suppo… |
-| 2026-10-16 18:51:02 | [lucasnicolau30.brasileirao-theme](https://marketplace.visualstudio.com/items?itemName=lucasnicolau30.brasileirao-theme) | Brasileirão Theme | 1.0.0 | Um tema escuro e um tema de ícones para cada um dos 12 grandes do Brasileirão:… |
+| 2026-10-16 19:20:28 | [erenthedeveloper0.cindervale-theme](https://marketplace.visualstudio.com/items?itemName=erenthedeveloper0.cindervale-theme) | Cindervale — Warm VS Code Theme | 1.0.0 | A warm, premium VS Code theme with refined light and dark modes, colorful synta… |
+| 2026-10-16 19:20:37 | [ember-dev.embertime](https://marketplace.visualstudio.com/items?itemName=ember-dev.embertime) | Ember: Coding Time Tracker | 0.1.0 | Track coding time in VS Code, Cursor and Windsurf. A yearly heatmap, languages,… |
+| 2026-10-16 19:26:45 | [TheOnly.the-only](https://marketplace.visualstudio.com/items?itemName=TheOnly.the-only) | The Only | 0.1.0 | A sophisticated dark theme with a modern and unique touch |
+| 2026-10-16 19:34:04 | [farapholch.dbr-harmony-theme](https://marketplace.visualstudio.com/items?itemName=farapholch.dbr-harmony-theme) | DBR Harmony | 1.0.1 | A calm blue-grey dark theme with mint syntax, warm yellow accents and a coordin… |
+| 2026-10-16 19:54:53 | [stopyz.ovh-agent](https://marketplace.visualstudio.com/items?itemName=stopyz.ovh-agent) | TRINITY Agent | 1.13.3 | Open-source coding agent for OVHcloud AI Endpoints. Requires the self-hosted TR… |
+| 2026-10-16 20:03:22 | [delta-solutions.git-sftp-upload](https://marketplace.visualstudio.com/items?itemName=delta-solutions.git-sftp-upload) | Git SFTP Upload | 0.1.0 | Upload changed git files via SFTP with a right-click in the Source Control view… |
+| 2026-10-16 20:10:22 | [SolaAIR.sola-vscode](https://marketplace.visualstudio.com/items?itemName=SolaAIR.sola-vscode) | Sola AIR | 0.1.0 | Language support and file icons for Sola AIR (.sola) components |
 
 ## Data source
 

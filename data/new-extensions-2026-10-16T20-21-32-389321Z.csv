@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T19:20:28.007Z,erenthedeveloper0.cindervale-theme,erenthedeveloper0,Cindervale — Warm VS Code Theme,1.0.0,"A warm, premium VS Code theme with refined light and dark modes, colorful syntax highlighting, and low-fatigue contrast."
+2026-10-16T19:20:37.53Z,ember-dev.embertime,ember-dev,Ember: Coding Time Tracker,0.1.0,"Track coding time in VS Code, Cursor and Windsurf. A yearly heatmap, languages, projects and a leaderboard. Never sends code or file paths."
+2026-10-16T19:26:45.293Z,TheOnly.the-only,TheOnly,The Only,0.1.0,A sophisticated dark theme with a modern and unique touch
+2026-10-16T19:34:04.273Z,farapholch.dbr-harmony-theme,farapholch,DBR Harmony,1.0.1,"A calm blue-grey dark theme with mint syntax, warm yellow accents and a coordinated terminal palette."
+2026-10-16T19:54:53.507Z,stopyz.ovh-agent,stopyz,TRINITY Agent,1.13.3,Open-source coding agent for OVHcloud AI Endpoints. Requires the self-hosted TRINITY backend.
+2026-10-16T20:03:22.48Z,delta-solutions.git-sftp-upload,delta-solutions,Git SFTP Upload,0.1.0,Upload changed git files via SFTP with a right-click in the Source Control view. Uses your existing .vscode/sftp.json.
+2026-10-16T20:10:22.663Z,SolaAIR.sola-vscode,SolaAIR,Sola AIR,0.1.0,Language support and file icons for Sola AIR (.sola) components
