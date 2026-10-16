@@ -12,25 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 03:21 UTC
+## Latest list — 2026-10-16 04:21 UTC
 
-New extensions published between 2026-10-16 01:21 UTC and 2026-10-16 03:21 UTC.
+New extensions published between 2026-10-16 02:21 UTC and 2026-10-16 04:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T03-21-07-370233Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T04-21-48-674226Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 02:31:10 | [kafeina.lyrielle](https://marketplace.visualstudio.com/items?itemName=kafeina.lyrielle) | Lyrielle | 1.0.0 | Now playing, playback controls and synced lyrics for VS Code. |
-| 2026-10-16 02:39:25 | [Zelvory.offline-coder-tests](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-tests) | OfflineCoder Test Generator | 0.1.1 | Generate MSTest / NUnit tests for the selected C# code. |
-| 2026-10-16 02:39:27 | [Zelvory.offline-coder-review](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-review) | OfflineCoder Code Review | 0.1.1 | Review selected C# / WebForms code for correctness, security and WebForms pitfa… |
-| 2026-10-16 02:39:30 | [Zelvory.offline-coder-sql](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-sql) | OfflineCoder Data Access | 0.1.1 | Data-access help: parameterize SQL, fix ADO.NET / EF6 patterns, explain queries. |
-| 2026-10-16 02:39:34 | [Zelvory.offline-coder-docs](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-docs) | OfflineCoder Docs | 0.1.1 | Generate XML documentation comments for selected C# members. |
-| 2026-10-16 02:39:36 | [Zelvory.offline-coder-migrate](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-migrate) | OfflineCoder Modernize | 0.1.1 | Suggest incremental, low-risk modernization for legacy WebForms / C# code. |
-| 2026-10-16 02:39:38 | [Zelvory.offline-coder-inline](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-inline) | OfflineCoder Inline Completion | 0.1.1 | Local fill-in-the-middle inline code completions (disabled by default; enable v… |
-| 2026-10-16 02:39:40 | [Zelvory.offline-coder-commit](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-commit) | OfflineCoder Commit Messages | 0.1.1 | Generate a Conventional Commits message from your staged git changes. |
-| 2026-10-16 02:42:25 | [Azusa.listen-and-write-english](https://marketplace.visualstudio.com/items?itemName=Azusa.listen-and-write-english) | Listen & Write 听写英语 | 0.0.1 | Listen & Write 听写英语 —— 逐句听写 + 词级 diff 诊断，针对性提升英语听写能力。 |
-| 2026-10-16 03:03:09 | [PeterYang.gitdash](https://marketplace.visualstudio.com/items?itemName=PeterYang.gitdash) | Git Dash | 1.0.0 | Git 儀表板：狀態總覽、變更提交、分支管理與關係圖、提交統計、檔案／行歷史、行內 blame、AI 提交訊息與差異匯出。 |
-| 2026-10-16 03:14:53 | [BecoderCompanion.becoder-companion](https://marketplace.visualstudio.com/items?itemName=BecoderCompanion.becoder-companion) | Becoder Companion | 2.6.0 | Becoder 刷题助手：题面与样例一键抓取、本地评测（CPH 风格）、一键提交与评测跟踪。适配 becoder.com.cn 与内网 222.180.160… |
+| 2026-10-16 02:38:06 | [az-tools.az-keil-configuration-wizard](https://marketplace.visualstudio.com/items?itemName=az-tools.az-keil-configuration-wizard) | azKeilConfigurationWizard | 0.6.1 | ?? Keil Configuration Wizard ???? C ???? |
+| 2026-10-16 03:22:04 | [jaytankdev.pathmend](https://marketplace.visualstudio.com/items?itemName=jaytankdev.pathmend) | PathMend | 0.1.0 | Find broken file paths in config files after you move or rename something: pack… |
+| 2026-10-16 03:34:11 | [notsoanonimus.night-glow-theme](https://marketplace.visualstudio.com/items?itemName=notsoanonimus.night-glow-theme) | Night Glow Theme | 1.0.0 | A nostalgic, retro terminal theme with warm amber glows yet plenty of contrast. |
+| 2026-10-16 03:50:47 | [martinvarela206.antidraw](https://marketplace.visualstudio.com/items?itemName=martinvarela206.antidraw) | AntiDraw - SVG Vector Editor | 0.85.87 | Integrated vector graphics editor for SVG files inspired by CorelDraw and Figma. |
+| 2026-10-16 03:51:54 | [ReadyStack.html-tag-inserter-accessible-aria](https://marketplace.visualstudio.com/items?itemName=ReadyStack.html-tag-inserter-accessible-aria) | HTML Tag Inserter: Accessible ARIA + WC… | 0.1.5 | 36 accessible HTML tag patterns and 20 WCAG 2.2 checks that run offline on the… |
+| 2026-10-16 03:52:09 | [ReadyStack.immowertv-gutachten-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.immowertv-gutachten-lint) | Gutachten-Lint: ImmoWertV 2021 und BewG | 1.0.6 | Prüft Verkehrswertgutachten-Entwürfe (Markdown) auf veraltete Normen und Modell… |
+| 2026-10-16 03:55:19 | [brian-chang.codex-completion-notifier](https://marketplace.visualstudio.com/items?itemName=brian-chang.codex-completion-notifier) | Local Agent Completion Notifier | 0.3.0 | Show a VS Code notification when a supported local AI agent turn ends. |
+| 2026-10-16 04:06:08 | [Jensen-tools.jensen-codeflow](https://marketplace.visualstudio.com/items?itemName=Jensen-tools.jensen-codeflow) | CodeFlow by Jensen | 0.0.1 | Organize code locations into navigable feature flows. |
+| 2026-10-16 04:06:09 | [alessandrovoliveira.fileblocks](https://marketplace.visualstudio.com/items?itemName=alessandrovoliveira.fileblocks) | Fileblocks | 0.1.0 | See and edit JSON, YAML, TOML, XML and HTML as an editable node graph, with JSO… |
+| 2026-10-16 04:09:47 | [MakdumIbrohim.anycommit](https://marketplace.visualstudio.com/items?itemName=MakdumIbrohim.anycommit) | AnyCommit: AI Commit Message | 0.1.0 | Generate clean git commit messages from staged diff using OpenAI-compatible API… |
+| 2026-10-16 04:17:13 | [nikowetz.quiet-lavender](https://marketplace.visualstudio.com/items?itemName=nikowetz.quiet-lavender) | Quiet Lavender | 1.0.0 | A light theme with deep purple chrome, soft lavender accents, and colorful synt… |
 
 ## Data source
 

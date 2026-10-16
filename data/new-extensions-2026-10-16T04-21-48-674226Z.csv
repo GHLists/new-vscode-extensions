@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T02:38:06.413Z,az-tools.az-keil-configuration-wizard,az-tools,azKeilConfigurationWizard,0.6.1,?? Keil Configuration Wizard ???? C ????
+2026-10-16T03:22:04.787Z,jaytankdev.pathmend,jaytankdev,PathMend,0.1.0,"Find broken file paths in config files after you move or rename something: package.json main/bin/exports/files, tsconfig extends/include/references/paths/typeRoots, Dockerfile COPY/ADD, docker-compose build context, GitHub Actions working-directory/uses/run scripts, GitLab CI include, CODEOWNERS and"
+2026-10-16T03:34:11.213Z,notsoanonimus.night-glow-theme,notsoanonimus,Night Glow Theme,1.0.0,"A nostalgic, retro terminal theme with warm amber glows yet plenty of contrast."
+2026-10-16T03:50:47.947Z,martinvarela206.antidraw,martinvarela206,AntiDraw - SVG Vector Editor,0.85.87,Integrated vector graphics editor for SVG files inspired by CorelDraw and Figma.
+2026-10-16T03:51:54.19Z,ReadyStack.html-tag-inserter-accessible-aria,ReadyStack,HTML Tag Inserter: Accessible ARIA + WCAG 2.2,0.1.5,"36 accessible HTML tag patterns and 20 WCAG 2.2 checks that run offline on the file you have open. An accessibility reviewer never reads your CSS — they tab through your landmarks, your labels and you"
+2026-10-16T03:52:09.933Z,ReadyStack.immowertv-gutachten-lint,ReadyStack,Gutachten-Lint: ImmoWertV 2021 und BewG,1.0.6,"Prüft Verkehrswertgutachten-Entwürfe (Markdown) auf veraltete Normen und Modellwerte: ImmoWertV 2010, SW-RL, NHK 2000, GND 70 statt 80 Jahre, RND unter 30 %, alter Liegenschaftszins."
+2026-10-16T03:55:19.75Z,brian-chang.codex-completion-notifier,brian-chang,Local Agent Completion Notifier,0.3.0,Show a VS Code notification when a supported local AI agent turn ends.
+2026-10-16T04:06:08.4Z,Jensen-tools.jensen-codeflow,Jensen-tools,CodeFlow by Jensen,0.0.1,Organize code locations into navigable feature flows.
+2026-10-16T04:06:09.773Z,alessandrovoliveira.fileblocks,alessandrovoliveira,Fileblocks,0.1.0,"See and edit JSON, YAML, TOML, XML and HTML as an editable node graph, with JSON Schema, XSD and DTD validation."
+2026-10-16T04:09:47.607Z,MakdumIbrohim.anycommit,MakdumIbrohim,AnyCommit: AI Commit Message,0.1.0,"Generate clean git commit messages from staged diff using OpenAI-compatible APIs, including local gateways like 9router and OmniRoute."
+2026-10-16T04:17:13.317Z,nikowetz.quiet-lavender,nikowetz,Quiet Lavender,1.0.0,"A light theme with deep purple chrome, soft lavender accents, and colorful syntax highlighting. Based on Quiet Light."
