@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T22:19:52.64Z,CarloLomello.sfdc-atlas,CarloLomello,SFDC Atlas,0.0.1,"Atlas for your Salesforce org: virtual folders, tags and interactive UML diagrams for Apex, LWC and triggers."
+2026-10-16T22:26:55.533Z,kimchi.coordinate-agent,kimchi,BeautifulMux Coordinate Agent,0.0.4,Use /coordinate with your agents.
+2026-10-16T22:36:13.14Z,smiletime.pandatask,smiletime,PandaTask,0.0.1,PandaTask placeholder extension by smiletime.
+2026-10-16T22:46:39.253Z,itshakemd.github-readme,itshakemd,GitHub README,0.2.2,View and edit GitHub README files directly inside VS Code.
+2026-10-16T22:47:26.81Z,JohnLimnas.trixtrox,JohnLimnas,trixtrox,0.0.1,trixtrox extension placeholder by JohnLimnas.
+2026-10-16T22:59:36.913Z,alexlora87.claude-usage-vscode,alexlora87,Claude Usage for VS Code,0.1.0,Unofficial. Shows your Claude Code usage (5-hour session and 7-day window) in the status bar. Not affiliated with Anthropic.
+2026-10-16T23:01:07.45Z,AleFire99.cpn-ide-vscode,AleFire99,CPN IDE,0.3.0,"Coloured Petri Nets editor and simulator (CPN IDE) inside VS Code, with nothing to install."
+2026-10-16T23:06:40.833Z,pit000.global-linters,pit000,Global Linters Regex,0.5.0,Regex linter rules for any language.
