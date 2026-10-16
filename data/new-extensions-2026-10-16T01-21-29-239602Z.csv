@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T00:29:37.397Z,lucassouza76.verdula-theme,lucassouza76,Verdula,0.0.3,"Tema escuro verde-floresta, com tons de esmeralda, jade e lima."
+2026-10-16T00:32:06.18Z,devmock.devmock-vscode,devmock,DevMock,1.0.0,API Contract & Mocking for Front-end — build without waiting for the backend.
+2026-10-16T00:35:20.513Z,hxyou.commit-assist,hxyou,Commit Assist,1.0.0,Use an OpenAI-compatible API to review staged Git changes and fill in the commit message.
+2026-10-16T00:39:32.637Z,AnarchoSystems.zucchini-rules,AnarchoSystems,Zucchini Rules,0.1.0,"Explore fixture rules, their witnessing scenarios, and coverage gaps."
+2026-10-16T00:43:39.873Z,Edgemodders.edgekit,Edgemodders,EDGEkit,0.1.0,"EDGEkit for Visual Studio Code: the EDGE tools for Cyberpunk 2077 modding in one install. REDcode, REDdeck, the REDnode HUD theme and more."
+2026-10-16T01:09:10.997Z,ali50m.xfmt,ali50m,xfmt,2.0.0,"Independently maintained XAML and AXAML formatter by ali50m, derived from vscode-xamlstyler."

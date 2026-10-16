@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 00:19 UTC
+## Latest list — 2026-10-16 01:21 UTC
 
-New extensions published between 2026-10-15 22:19 UTC and 2026-10-16 00:19 UTC.
+New extensions published between 2026-10-15 23:21 UTC and 2026-10-16 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T00-19-41-856528Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T01-21-29-239602Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-15 23:37:11 | [intel-corporation.rohd-schematic-viewer](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-schematic-viewer) | ROHD Schematic Viewer | 0.2.3 | Visualize Yosys JSON netlist files as interactive schematics |
-| 2026-10-16 00:00:07 | [ericsonjoseph.difftool-review](https://marketplace.visualstudio.com/items?itemName=ericsonjoseph.difftool-review) | Difftool Review | 0.1.0 | Review changes made by an AI assistant: minimal Changes/Staged panel, the built… |
-| 2026-10-16 00:02:50 | [DiogoLogrado.ollama-cloud-meter](https://marketplace.visualstudio.com/items?itemName=DiogoLogrado.ollama-cloud-meter) | Ollama Cloud Meter | 0.2.0 | Unofficial status bar meter for Ollama Cloud session and weekly usage limits. O… |
-| 2026-10-16 00:03:58 | [WellingtonLuizTezotto.magic-json](https://marketplace.visualstudio.com/items?itemName=WellingtonLuizTezotto.magic-json) | Magic JSON | 0.1.0 | Explore arquivos JSON como grafos interativos ao lado do editor. |
-| 2026-10-16 00:15:36 | [tyba-co.apidoc-vscode](https://marketplace.visualstudio.com/items?itemName=tyba-co.apidoc-vscode) | apiDoc (Tyba) | 0.2.1 | Completion, syntax highlighting and snippets for apidoc comments (@api, @apiPar… |
+| 2026-10-16 00:29:37 | [lucassouza76.verdula-theme](https://marketplace.visualstudio.com/items?itemName=lucassouza76.verdula-theme) | Verdula | 0.0.3 | Tema escuro verde-floresta, com tons de esmeralda, jade e lima. |
+| 2026-10-16 00:32:06 | [devmock.devmock-vscode](https://marketplace.visualstudio.com/items?itemName=devmock.devmock-vscode) | DevMock | 1.0.0 | API Contract & Mocking for Front-end — build without waiting for the backend. |
+| 2026-10-16 00:35:20 | [hxyou.commit-assist](https://marketplace.visualstudio.com/items?itemName=hxyou.commit-assist) | Commit Assist | 1.0.0 | Use an OpenAI-compatible API to review staged Git changes and fill in the commi… |
+| 2026-10-16 00:39:32 | [AnarchoSystems.zucchini-rules](https://marketplace.visualstudio.com/items?itemName=AnarchoSystems.zucchini-rules) | Zucchini Rules | 0.1.0 | Explore fixture rules, their witnessing scenarios, and coverage gaps. |
+| 2026-10-16 00:43:39 | [Edgemodders.edgekit](https://marketplace.visualstudio.com/items?itemName=Edgemodders.edgekit) | EDGEkit | 0.1.0 | EDGEkit for Visual Studio Code: the EDGE tools for Cyberpunk 2077 modding in on… |
+| 2026-10-16 01:09:10 | [ali50m.xfmt](https://marketplace.visualstudio.com/items?itemName=ali50m.xfmt) | xfmt | 2.0.0 | Independently maintained XAML and AXAML formatter by ali50m, derived from vscod… |
 
 ## Data source
 
