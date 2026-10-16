@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 01:21 UTC
+## Latest list — 2026-10-16 02:21 UTC
 
-New extensions published between 2026-10-15 23:21 UTC and 2026-10-16 01:21 UTC.
+New extensions published between 2026-10-16 00:21 UTC and 2026-10-16 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T01-21-29-239602Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T02-21-45-663555Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 00:29:37 | [lucassouza76.verdula-theme](https://marketplace.visualstudio.com/items?itemName=lucassouza76.verdula-theme) | Verdula | 0.0.3 | Tema escuro verde-floresta, com tons de esmeralda, jade e lima. |
-| 2026-10-16 00:32:06 | [devmock.devmock-vscode](https://marketplace.visualstudio.com/items?itemName=devmock.devmock-vscode) | DevMock | 1.0.0 | API Contract & Mocking for Front-end — build without waiting for the backend. |
-| 2026-10-16 00:35:20 | [hxyou.commit-assist](https://marketplace.visualstudio.com/items?itemName=hxyou.commit-assist) | Commit Assist | 1.0.0 | Use an OpenAI-compatible API to review staged Git changes and fill in the commi… |
-| 2026-10-16 00:39:32 | [AnarchoSystems.zucchini-rules](https://marketplace.visualstudio.com/items?itemName=AnarchoSystems.zucchini-rules) | Zucchini Rules | 0.1.0 | Explore fixture rules, their witnessing scenarios, and coverage gaps. |
-| 2026-10-16 00:43:39 | [Edgemodders.edgekit](https://marketplace.visualstudio.com/items?itemName=Edgemodders.edgekit) | EDGEkit | 0.1.0 | EDGEkit for Visual Studio Code: the EDGE tools for Cyberpunk 2077 modding in on… |
-| 2026-10-16 01:09:10 | [ali50m.xfmt](https://marketplace.visualstudio.com/items?itemName=ali50m.xfmt) | xfmt | 2.0.0 | Independently maintained XAML and AXAML formatter by ali50m, derived from vscod… |
+| 2026-10-16 01:30:51 | [renatodouek.ai-limits-meter](https://marketplace.visualstudio.com/items?itemName=renatodouek.ai-limits-meter) | AI Limits Meter — Claude Code & Codex | 1.2.0 | See your Claude Code and Codex 5-hour and weekly limits, plus cost (R$/US$) and… |
+| 2026-10-16 01:37:54 | [ericsonjoseph.vyperling-test-explorer](https://marketplace.visualstudio.com/items?itemName=ericsonjoseph.vyperling-test-explorer) | Vyperling Test Explorer | 0.1.0 | Inline pass/fail annotations and native debugging for vyperling embedded-C unit… |
+| 2026-10-16 01:46:23 | [kjnjkn.gpt-code-antigravity](https://marketplace.visualstudio.com/items?itemName=kjnjkn.gpt-code-antigravity) | GPT-Code Agent | 0.8.0 | Antigravity-Grade Autonomous AI Coding Agent for Antigravity IDE with Full Plan… |
+| 2026-10-16 01:59:31 | [kimchi.beautifulmux-coordination](https://marketplace.visualstudio.com/items?itemName=kimchi.beautifulmux-coordination) | BeautifulMux Coordination | 1.3.0 | Use /coordinate in Claude or $coordinate in Codex to sign in and connect this c… |
+| 2026-10-16 02:06:24 | [Azusa.listen-and-write](https://marketplace.visualstudio.com/items?itemName=Azusa.listen-and-write) | Listen & Write · 听写英语 | 0.0.1 | Listen & Write · 听写英语 —— 逐句听写 + 词级 diff 诊断，针对性提升英语听写能力。 |
 
 ## Data source
 
