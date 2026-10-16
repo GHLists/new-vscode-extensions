@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 07:20 UTC
+## Latest list — 2026-10-16 08:21 UTC
 
-New extensions published between 2026-10-16 05:20 UTC and 2026-10-16 07:20 UTC.
+New extensions published between 2026-10-16 06:21 UTC and 2026-10-16 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T07-20-14-962576Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T08-21-42-335389Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 06:16:44 | [Techital.better-csharp-references](https://marketplace.visualstudio.com/items?itemName=Techital.better-csharp-references) | Better C# References | 1.0.0 | Find All References for C# as a collapsible folder tree, grouped into Definitio… |
-| 2026-10-16 06:49:52 | [MTpupil.readfish](https://marketplace.visualstudio.com/items?itemName=MTpupil.readfish) | ReadFish | 1.0.0 | 在 VS Code 侧边栏管理书架、阅读 TXT/EPUB，并与 ReadFish 桌面版共享书籍和进度。 |
-| 2026-10-16 06:54:27 | [afreed.devsync-pro](https://marketplace.visualstudio.com/items?itemName=afreed.devsync-pro) | DevSync-Pro | 0.0.3 | DevSync: Preserve Your Cognitive Flow & Context Across Context Switches. |
-| 2026-10-16 07:14:55 | [LouisMudrack.lurk](https://marketplace.visualstudio.com/items?itemName=LouisMudrack.lurk) | Lurk – Twitch streams in your sidebar | 0.1.0 | Twitch player and chat for the VS Code sidebar, with emotes, videos and the cha… |
+| 2026-10-16 07:11:57 | [IkkoAyagawa.ogenkou](https://marketplace.visualstudio.com/items?itemName=IkkoAyagawa.ogenkou) | Ogenkou | 0.9.1 | 日本語小説の組版プレビューとPDF出力 |
+| 2026-10-16 07:28:20 | [vari-sh.cremisi-theme](https://marketplace.visualstudio.com/items?itemName=vari-sh.cremisi-theme) | Cremisi | 0.2.0 | A gothic, arcane colour scheme in two variants, Obsidian and Ivory. Every colou… |
+| 2026-10-16 07:45:38 | [GCIDAmericasandAsia.AgentA11y-aiV2](https://marketplace.visualstudio.com/items?itemName=GCIDAmericasandAsia.AgentA11y-aiV2) | AgentA11y.ai v2 | 0.0.1 | AgentA11y.ai v2 accessibility (WCAG/A11y) testing agents, helpers, and MCP conf… |
+| 2026-10-16 07:59:35 | [vicanent.gcmp-fim-nes](https://marketplace.visualstudio.com/items?itemName=vicanent.gcmp-fim-nes) | AI Chat Models - FIM/NES Completion | 0.29.0 | Inline code completion (FIM) and next edit suggestions (NES) for GCMP. Requires… |
+| 2026-10-16 08:02:32 | [yacper.claude-code-image-mermaid](https://marketplace.visualstudio.com/items?itemName=yacper.claude-code-image-mermaid) | Image & Mermaid for Claude Code | 0.0.1 | Show local Markdown images and render Mermaid diagrams in the Claude Code chat… |
+| 2026-10-16 08:03:23 | [Dootmaan.qwen-for-github-copilot-chat](https://marketplace.visualstudio.com/items?itemName=Dootmaan.qwen-for-github-copilot-chat) | Qwen Models for GitHub Copilot Chat | 0.1.5 | Bring Qwen Token Plan and DashScope models into GitHub Copilot Chat with biling… |
+| 2026-10-16 08:06:22 | [devlk.simple-github-workflow-runner](https://marketplace.visualstudio.com/items?itemName=devlk.simple-github-workflow-runner) | Simple GitHub Workflow Runner | 0.1.1 | Run GitHub Actions workflows (workflow_dispatch) of the current repository from… |
 
 ## Data source
 

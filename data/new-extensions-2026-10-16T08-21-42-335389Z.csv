@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T07:11:57.727Z,IkkoAyagawa.ogenkou,IkkoAyagawa,Ogenkou,0.9.1,日本語小説の組版プレビューとPDF出力
+2026-10-16T07:28:20.423Z,vari-sh.cremisi-theme,vari-sh,Cremisi,0.2.0,"A gothic, arcane colour scheme in two variants, Obsidian and Ivory. Every colour is born from an object: blood, bone, stone, amber, verdigris."
+2026-10-16T07:45:38.617Z,GCIDAmericasandAsia.AgentA11y-aiV2,GCIDAmericasandAsia,AgentA11y.ai v2,0.0.1,"AgentA11y.ai v2 accessibility (WCAG/A11y) testing agents, helpers, and MCP configuration for GitHub Copilot Chat."
+2026-10-16T07:59:35.383Z,vicanent.gcmp-fim-nes,vicanent,AI Chat Models - FIM/NES Completion,0.29.0,Inline code completion (FIM) and next edit suggestions (NES) for GCMP. Requires the main GCMP extension.
+2026-10-16T08:02:32.49Z,yacper.claude-code-image-mermaid,yacper,Image & Mermaid for Claude Code,0.0.1,"Show local Markdown images and render Mermaid diagrams in the Claude Code chat panel, and re-apply automatically after Claude Code updates."
+2026-10-16T08:03:23.32Z,Dootmaan.qwen-for-github-copilot-chat,Dootmaan,Qwen Models for GitHub Copilot Chat,0.1.5,Bring Qwen Token Plan and DashScope models into GitHub Copilot Chat with bilingual UX and quota visibility.
+2026-10-16T08:06:22.42Z,devlk.simple-github-workflow-runner,devlk,Simple GitHub Workflow Runner,0.1.1,Run GitHub Actions workflows (workflow_dispatch) of the current repository from a VS Code panel.
