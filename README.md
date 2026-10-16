@@ -12,19 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 02:21 UTC
+## Latest list — 2026-10-16 03:21 UTC
 
-New extensions published between 2026-10-16 00:21 UTC and 2026-10-16 02:21 UTC.
+New extensions published between 2026-10-16 01:21 UTC and 2026-10-16 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T02-21-45-663555Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T03-21-07-370233Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 01:30:51 | [renatodouek.ai-limits-meter](https://marketplace.visualstudio.com/items?itemName=renatodouek.ai-limits-meter) | AI Limits Meter — Claude Code & Codex | 1.2.0 | See your Claude Code and Codex 5-hour and weekly limits, plus cost (R$/US$) and… |
-| 2026-10-16 01:37:54 | [ericsonjoseph.vyperling-test-explorer](https://marketplace.visualstudio.com/items?itemName=ericsonjoseph.vyperling-test-explorer) | Vyperling Test Explorer | 0.1.0 | Inline pass/fail annotations and native debugging for vyperling embedded-C unit… |
-| 2026-10-16 01:46:23 | [kjnjkn.gpt-code-antigravity](https://marketplace.visualstudio.com/items?itemName=kjnjkn.gpt-code-antigravity) | GPT-Code Agent | 0.8.0 | Antigravity-Grade Autonomous AI Coding Agent for Antigravity IDE with Full Plan… |
-| 2026-10-16 01:59:31 | [kimchi.beautifulmux-coordination](https://marketplace.visualstudio.com/items?itemName=kimchi.beautifulmux-coordination) | BeautifulMux Coordination | 1.3.0 | Use /coordinate in Claude or $coordinate in Codex to sign in and connect this c… |
-| 2026-10-16 02:06:24 | [Azusa.listen-and-write](https://marketplace.visualstudio.com/items?itemName=Azusa.listen-and-write) | Listen & Write · 听写英语 | 0.0.1 | Listen & Write · 听写英语 —— 逐句听写 + 词级 diff 诊断，针对性提升英语听写能力。 |
+| 2026-10-16 02:31:10 | [kafeina.lyrielle](https://marketplace.visualstudio.com/items?itemName=kafeina.lyrielle) | Lyrielle | 1.0.0 | Now playing, playback controls and synced lyrics for VS Code. |
+| 2026-10-16 02:39:25 | [Zelvory.offline-coder-tests](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-tests) | OfflineCoder Test Generator | 0.1.1 | Generate MSTest / NUnit tests for the selected C# code. |
+| 2026-10-16 02:39:27 | [Zelvory.offline-coder-review](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-review) | OfflineCoder Code Review | 0.1.1 | Review selected C# / WebForms code for correctness, security and WebForms pitfa… |
+| 2026-10-16 02:39:30 | [Zelvory.offline-coder-sql](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-sql) | OfflineCoder Data Access | 0.1.1 | Data-access help: parameterize SQL, fix ADO.NET / EF6 patterns, explain queries. |
+| 2026-10-16 02:39:34 | [Zelvory.offline-coder-docs](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-docs) | OfflineCoder Docs | 0.1.1 | Generate XML documentation comments for selected C# members. |
+| 2026-10-16 02:39:36 | [Zelvory.offline-coder-migrate](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-migrate) | OfflineCoder Modernize | 0.1.1 | Suggest incremental, low-risk modernization for legacy WebForms / C# code. |
+| 2026-10-16 02:39:38 | [Zelvory.offline-coder-inline](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-inline) | OfflineCoder Inline Completion | 0.1.1 | Local fill-in-the-middle inline code completions (disabled by default; enable v… |
+| 2026-10-16 02:39:40 | [Zelvory.offline-coder-commit](https://marketplace.visualstudio.com/items?itemName=Zelvory.offline-coder-commit) | OfflineCoder Commit Messages | 0.1.1 | Generate a Conventional Commits message from your staged git changes. |
+| 2026-10-16 02:42:25 | [Azusa.listen-and-write-english](https://marketplace.visualstudio.com/items?itemName=Azusa.listen-and-write-english) | Listen & Write 听写英语 | 0.0.1 | Listen & Write 听写英语 —— 逐句听写 + 词级 diff 诊断，针对性提升英语听写能力。 |
+| 2026-10-16 03:03:09 | [PeterYang.gitdash](https://marketplace.visualstudio.com/items?itemName=PeterYang.gitdash) | Git Dash | 1.0.0 | Git 儀表板：狀態總覽、變更提交、分支管理與關係圖、提交統計、檔案／行歷史、行內 blame、AI 提交訊息與差異匯出。 |
+| 2026-10-16 03:14:53 | [BecoderCompanion.becoder-companion](https://marketplace.visualstudio.com/items?itemName=BecoderCompanion.becoder-companion) | Becoder Companion | 2.6.0 | Becoder 刷题助手：题面与样例一键抓取、本地评测（CPH 风格）、一键提交与评测跟踪。适配 becoder.com.cn 与内网 222.180.160… |
 
 ## Data source
 

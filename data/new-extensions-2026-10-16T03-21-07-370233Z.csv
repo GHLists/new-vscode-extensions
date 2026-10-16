@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T02:31:10.957Z,kafeina.lyrielle,kafeina,Lyrielle,1.0.0,"Now playing, playback controls and synced lyrics for VS Code."
+2026-10-16T02:39:25.977Z,Zelvory.offline-coder-tests,Zelvory,OfflineCoder Test Generator,0.1.1,Generate MSTest / NUnit tests for the selected C# code.
+2026-10-16T02:39:27.933Z,Zelvory.offline-coder-review,Zelvory,OfflineCoder Code Review,0.1.1,"Review selected C# / WebForms code for correctness, security and WebForms pitfalls."
+2026-10-16T02:39:30.14Z,Zelvory.offline-coder-sql,Zelvory,OfflineCoder Data Access,0.1.1,"Data-access help: parameterize SQL, fix ADO.NET / EF6 patterns, explain queries."
+2026-10-16T02:39:34.003Z,Zelvory.offline-coder-docs,Zelvory,OfflineCoder Docs,0.1.1,Generate XML documentation comments for selected C# members.
+2026-10-16T02:39:36.483Z,Zelvory.offline-coder-migrate,Zelvory,OfflineCoder Modernize,0.1.1,"Suggest incremental, low-risk modernization for legacy WebForms / C# code."
+2026-10-16T02:39:38.493Z,Zelvory.offline-coder-inline,Zelvory,OfflineCoder Inline Completion,0.1.1,Local fill-in-the-middle inline code completions (disabled by default; enable via settings).
+2026-10-16T02:39:40.383Z,Zelvory.offline-coder-commit,Zelvory,OfflineCoder Commit Messages,0.1.1,Generate a Conventional Commits message from your staged git changes.
+2026-10-16T02:42:25.73Z,Azusa.listen-and-write-english,Azusa,Listen & Write 听写英语,0.0.1,Listen & Write 听写英语 —— 逐句听写 + 词级 diff 诊断，针对性提升英语听写能力。
+2026-10-16T03:03:09.833Z,PeterYang.gitdash,PeterYang,Git Dash,1.0.0,Git 儀表板：狀態總覽、變更提交、分支管理與關係圖、提交統計、檔案／行歷史、行內 blame、AI 提交訊息與差異匯出。
+2026-10-16T03:14:53.737Z,BecoderCompanion.becoder-companion,BecoderCompanion,Becoder Companion,2.6.0,Becoder 刷题助手：题面与样例一键抓取、本地评测（CPH 风格）、一键提交与评测跟踪。适配 becoder.com.cn 与内网 222.180.160.110:61235。
