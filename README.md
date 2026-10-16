@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 20:21 UTC
+## Latest list — 2026-10-16 21:20 UTC
 
-New extensions published between 2026-10-16 18:21 UTC and 2026-10-16 20:21 UTC.
+New extensions published between 2026-10-16 19:20 UTC and 2026-10-16 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T20-21-32-389321Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T21-20-52-469702Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 19:20:28 | [erenthedeveloper0.cindervale-theme](https://marketplace.visualstudio.com/items?itemName=erenthedeveloper0.cindervale-theme) | Cindervale — Warm VS Code Theme | 1.0.0 | A warm, premium VS Code theme with refined light and dark modes, colorful synta… |
-| 2026-10-16 19:20:37 | [ember-dev.embertime](https://marketplace.visualstudio.com/items?itemName=ember-dev.embertime) | Ember: Coding Time Tracker | 0.1.0 | Track coding time in VS Code, Cursor and Windsurf. A yearly heatmap, languages,… |
-| 2026-10-16 19:26:45 | [TheOnly.the-only](https://marketplace.visualstudio.com/items?itemName=TheOnly.the-only) | The Only | 0.1.0 | A sophisticated dark theme with a modern and unique touch |
-| 2026-10-16 19:34:04 | [farapholch.dbr-harmony-theme](https://marketplace.visualstudio.com/items?itemName=farapholch.dbr-harmony-theme) | DBR Harmony | 1.0.1 | A calm blue-grey dark theme with mint syntax, warm yellow accents and a coordin… |
-| 2026-10-16 19:54:53 | [stopyz.ovh-agent](https://marketplace.visualstudio.com/items?itemName=stopyz.ovh-agent) | TRINITY Agent | 1.13.3 | Open-source coding agent for OVHcloud AI Endpoints. Requires the self-hosted TR… |
-| 2026-10-16 20:03:22 | [delta-solutions.git-sftp-upload](https://marketplace.visualstudio.com/items?itemName=delta-solutions.git-sftp-upload) | Git SFTP Upload | 0.1.0 | Upload changed git files via SFTP with a right-click in the Source Control view… |
-| 2026-10-16 20:10:22 | [SolaAIR.sola-vscode](https://marketplace.visualstudio.com/items?itemName=SolaAIR.sola-vscode) | Sola AIR | 0.1.0 | Language support and file icons for Sola AIR (.sola) components |
+| 2026-10-16 20:22:07 | [Koda-Code.koda-tool](https://marketplace.visualstudio.com/items?itemName=Koda-Code.koda-tool) | Koda-Tool | 1.0.0 | Run the KODA coding agent in native VS Code Chat with Build and Plan modes. |
+| 2026-10-16 20:35:35 | [pit000.glasca](https://marketplace.visualstudio.com/items?itemName=pit000.glasca) | Glasca Theme | 1.0.0 | Athabasca theme with slight changes |
+| 2026-10-16 20:39:01 | [ErwanMOLLAT.easy-language](https://marketplace.visualstudio.com/items?itemName=ErwanMOLLAT.easy-language) | EASY Language | 0.0.2 | le language le plus proche d'une 4eme de couverture |
+| 2026-10-16 20:51:00 | [guptasantosh327.mmk-vscode](https://marketplace.visualstudio.com/items?itemName=guptasantosh327.mmk-vscode) | mmk for VS Code | 0.1.0 | Run, roll back and review mongo-migrate-kit MongoDB migrations from the editor |
+| 2026-10-16 20:56:51 | [arturocarballo.dnet-espanol](https://marketplace.visualstudio.com/items?itemName=arturocarballo.dnet-espanol) | DNET 2.0.0 — Lenguaje en español | 0.1.4 | Reconocimiento, colores y plantillas para escribir programas DNET 2.0.0 en espa… |
+| 2026-10-16 21:01:36 | [Xzhi.undo-last-commit](https://marketplace.visualstudio.com/items?itemName=Xzhi.undo-last-commit) | 撤销上次提交 | 0.0.3 | 在源代码管理视图添加「撤销上次提交」按钮，点击后执行 git reset --soft HEAD~1，改动保留在暂存区。 |
+| 2026-10-16 21:09:08 | [CarloLomello.sfdc-virtual-folders](https://marketplace.visualstudio.com/items?itemName=CarloLomello.sfdc-virtual-folders) | SFDC Virtual Folders | 0.0.1 | Virtual folders and tag-based views for Salesforce Apex classes and LWC compone… |
 
 ## Data source
 

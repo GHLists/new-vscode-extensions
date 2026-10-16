@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T20:22:07.373Z,Koda-Code.koda-tool,Koda-Code,Koda-Tool,1.0.0,Run the KODA coding agent in native VS Code Chat with Build and Plan modes.
+2026-10-16T20:35:35.44Z,pit000.glasca,pit000,Glasca Theme,1.0.0,Athabasca theme with slight changes
+2026-10-16T20:39:01.41Z,ErwanMOLLAT.easy-language,ErwanMOLLAT,EASY Language,0.0.2,le language le plus proche d'une 4eme de couverture
+2026-10-16T20:51:00.933Z,guptasantosh327.mmk-vscode,guptasantosh327,mmk for VS Code,0.1.0,"Run, roll back and review mongo-migrate-kit MongoDB migrations from the editor"
+2026-10-16T20:56:51.193Z,arturocarballo.dnet-espanol,arturocarballo,DNET 2.0.0 — Lenguaje en español,0.1.4,"Reconocimiento, colores y plantillas para escribir programas DNET 2.0.0 en español."
+2026-10-16T21:01:36.39Z,Xzhi.undo-last-commit,Xzhi,撤销上次提交,0.0.3,在源代码管理视图添加「撤销上次提交」按钮，点击后执行 git reset --soft HEAD~1，改动保留在暂存区。
+2026-10-16T21:09:08.41Z,CarloLomello.sfdc-virtual-folders,CarloLomello,SFDC Virtual Folders,0.0.1,"Virtual folders and tag-based views for Salesforce Apex classes and LWC components, based on @path and @tag annotations."
