@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T16:18:47.83Z,cirad-tetis.ocelet,cirad-tetis,Ocelet,0.71.0,"Ocelet spatial modelling language (.oclt): highlighting, language server and model runs"
+2026-10-16T16:26:36.383Z,AyushRaj.voice-agent-ayush-exp,AyushRaj,voice-agent-ayush-exp,0.0.1,
+2026-10-16T16:28:13.433Z,Dylbill.papyrus-language-by-dylbill,Dylbill,Papyrus Language,0.0.2,"Fast lightweight language support for papyrus (`.psc`) scripting, written in plain TypeScript with no language server. IntelliSense, compiling and customizable syntax highlighting."
+2026-10-16T16:31:47.573Z,GuillaumePrvost.obsidian-vault-mcp,GuillaumePrvost,Obsidian Vault MCP,0.5.0,"Bring Obsidian notes, links, backlinks and safe note updates to coding agents through MCP."
+2026-10-16T16:32:29.257Z,anerlang.aner-language,anerlang,Aner,0.1.44,"Aner language support: syntax highlighting, signature help, native notebooks, and a read-only variable and training Inspector."
+2026-10-16T16:41:02.233Z,SagasysTechnologyGroup.rulescraft,SagasysTechnologyGroup,RulesCraft,0.1.0,Early-alpha proof of concept for editing and validating Oracle Policy Modeling DOCX/XLSX rules inside VS Code.
+2026-10-16T16:41:29.063Z,lippekstro.lippekstro-php-auto-accessors,lippekstro,Lippekstro's PHP Auto Accessors,1.0.0,Gera getters e setters automaticamente em classes PHP.
+2026-10-16T16:42:37.98Z,onegayi.vsidian-codex-bridge,onegayi,Vsidian Codex Bridge,0.1.0,Vsidian 附加组件：桥接 Codex 生态——粘贴还原（Codex 聊天链接 span 还原为 Markdown 链接）与 Mermaid Codex 主题（亮暗色板、ELK 布局，以渲染提供者身份提供）。
+2026-10-16T17:01:23.067Z,buddham-hq.nginx-conf-doctor,buddham-hq,Hun Nginx 설정 닥터,0.0.2,"훈(Hun) 프로젝트 - nginx 설정의 컨텍스트를 읽는 구문 강조, 진단, 자동완성, hover 문서 | Context-aware diagnostics, IntelliSense and hover docs for nginx configuration files."
+2026-10-16T17:01:44.47Z,jules.jules-telescope-picker,jules,Telescope Pick,0.11.4,Fuzzy file picking and fast text search with live previews in the current code editor.
+2026-10-16T17:03:21.523Z,Amin-Tz.codecity,Amin-Tz,CodeCity 3D Viewer,0.4.0,"Explore any codebase as an interactive 3D code city inside VS Code. Classes and modules become buildings, folders become districts, and imports become streets — for JavaScript, TypeScript, Python, Java, C/C++, C#, Go, Rust, Qt and more."
+2026-10-16T17:06:46.823Z,shun-fujioka.bash-explainer,shun-fujioka,Bash Explainer,0.1.0,"Explain bash scripts line by line, like regex101 for shell scripts."
+2026-10-16T17:07:57.383Z,DiscoveryExperiments.stem-renderer-experimental,DiscoveryExperiments,STEM Data Renderer (Experimental),0.0.20,Inline and preview viewers for science and engineering data.
