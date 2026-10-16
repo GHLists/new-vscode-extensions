@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 14:21 UTC
+## Latest list — 2026-10-16 15:22 UTC
 
-New extensions published between 2026-10-16 12:21 UTC and 2026-10-16 14:21 UTC.
+New extensions published between 2026-10-16 13:22 UTC and 2026-10-16 15:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T14-21-07-700485Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T15-22-30-148651Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 13:23:05 | [umlt.umlt](https://marketplace.visualstudio.com/items?itemName=umlt.umlt) | UMLT: UML as text | 0.14.1 | UML 2.5.1 models as text, with graphical diagrams you can edit, for people and… |
-| 2026-10-16 13:30:29 | [FredrikVinkvist.the-downside-up](https://marketplace.visualstudio.com/items?itemName=FredrikVinkvist.the-downside-up) | Downside Up | 0.29.4 | The Downside Up: understand unfamiliar code in plain language. Explain function… |
-| 2026-10-16 13:37:47 | [lagudafuadtosin.undo-branches](https://marketplace.visualstudio.com/items?itemName=lagudafuadtosin.undo-branches) | Undo Branches | 0.1.1 | An undo tree for VS Code. Undo, type something new, and the old version is stil… |
-| 2026-10-16 13:55:11 | [secretqsan.slurm-syntax-support](https://marketplace.visualstudio.com/items?itemName=secretqsan.slurm-syntax-support) | SLURM Syntax Support | 0.0.1 | Syntax highlighting, completion and diagnostics for #SBATCH directives |
-| 2026-10-16 14:03:35 | [codeflow-ai.wildexor-codeflow](https://marketplace.visualstudio.com/items?itemName=codeflow-ai.wildexor-codeflow) | Wildexor CodeFlow | 0.1.0 | Automatically scan a project and visualize entry points, imports, functions, fr… |
-| 2026-10-16 14:04:57 | [kintosoft.sql-jira](https://marketplace.visualstudio.com/items?itemName=kintosoft.sql-jira) | SQL MCP for Jira | 1.0.0 | Your Jira Cloud site as a SQL database for your AI: one SQL tool for all of Jir… |
+| 2026-10-16 14:06:29 | [EvenSo.canvas-design](https://marketplace.visualstudio.com/items?itemName=EvenSo.canvas-design) | Canvas Design | 0.1.1 | Edit JSON Canvas design files in VS Code, alongside your code and AI agent. |
+| 2026-10-16 14:12:31 | [yahatool.agent-instructions-translator](https://marketplace.visualstudio.com/items?itemName=yahatool.agent-instructions-translator) | Agent Instructions Translator | 0.1.1 | Keep English AI instruction files synchronized with a native-language companion. |
+| 2026-10-16 14:20:27 | [kairbros-dev.bomberman-procedural](https://marketplace.visualstudio.com/items?itemName=kairbros-dev.bomberman-procedural) | Arcade (Bomberman y Karts) | 0.1.0 | Hub de juegos multijugador dentro de VS Code: Bomberman y Karts en modo 7 |
+| 2026-10-16 14:36:00 | [harjyotsital.reqora](https://marketplace.visualstudio.com/items?itemName=harjyotsital.reqora) | Reqora | 0.1.2 | Bruno/Postman-compatible API testing in VS Code — REST, GraphQL, SOAP, OData, W… |
+| 2026-10-16 14:51:52 | [adsystem-pro.thub-vscode](https://marketplace.visualstudio.com/items?itemName=adsystem-pro.thub-vscode) | thub — remote boards | 0.1.0 | Reserve a board in your TestHub lab, flash and debug it over SWD, use its seria… |
+| 2026-10-16 15:09:15 | [compliance-platform.compliance-pipelines](https://marketplace.visualstudio.com/items?itemName=compliance-platform.compliance-pipelines) | ICP IaC Compliance Platform | 2.1.2 | Audit local de dépôts (IaC, conteneurs, Python, JavaScript, TypeScript, Markdow… |
+| 2026-10-16 15:14:47 | [Anvil-Dev.anvil-vscode](https://marketplace.visualstudio.com/items?itemName=Anvil-Dev.anvil-vscode) | Anvil | 0.38.3 | Anvil agent in VS Code: streaming chat, tool cards, per-call approvals. |
+| 2026-10-16 15:15:47 | [msmsrep.inline-query-editor](https://marketplace.visualstudio.com/items?itemName=msmsrep.inline-query-editor) | Inline Query Editor for Excel | 1.1.0 | 実行中の Excel の Power Query（M 式）とデータモデルのメジャー（DAX 式）を VS Code で編集する |
 
 ## Data source
 

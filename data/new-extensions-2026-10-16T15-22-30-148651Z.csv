@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T14:06:29.963Z,EvenSo.canvas-design,EvenSo,Canvas Design,0.1.1,"Edit JSON Canvas design files in VS Code, alongside your code and AI agent."
+2026-10-16T14:12:31.513Z,yahatool.agent-instructions-translator,yahatool,Agent Instructions Translator,0.1.1,Keep English AI instruction files synchronized with a native-language companion.
+2026-10-16T14:20:27.307Z,kairbros-dev.bomberman-procedural,kairbros-dev,Arcade (Bomberman y Karts),0.1.0,Hub de juegos multijugador dentro de VS Code: Bomberman y Karts en modo 7
+2026-10-16T14:36:00.3Z,harjyotsital.reqora,harjyotsital,Reqora,0.1.2,"Bruno/Postman-compatible API testing in VS Code — REST, GraphQL, SOAP, OData, WebSocket with all auth types, environments, scripts & history."
+2026-10-16T14:51:52.787Z,adsystem-pro.thub-vscode,adsystem-pro,thub — remote boards,0.1.0,"Reserve a board in your TestHub lab, flash and debug it over SWD, use its serial ports and watch its camera — without leaving the editor."
+2026-10-16T15:09:15.877Z,compliance-platform.compliance-pipelines,compliance-platform,ICP IaC Compliance Platform,2.1.2,"Audit local de dépôts (IaC, conteneurs, Python, JavaScript, TypeScript, Markdown) par un démon Go, sans service cloud."
+2026-10-16T15:14:47.843Z,Anvil-Dev.anvil-vscode,Anvil-Dev,Anvil,0.38.3,"Anvil agent in VS Code: streaming chat, tool cards, per-call approvals."
+2026-10-16T15:15:47.583Z,msmsrep.inline-query-editor,msmsrep,Inline Query Editor for Excel,1.1.0,実行中の Excel の Power Query（M 式）とデータモデルのメジャー（DAX 式）を VS Code で編集する
