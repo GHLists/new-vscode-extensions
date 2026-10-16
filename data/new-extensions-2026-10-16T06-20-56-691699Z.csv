@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T05:09:55.93Z,yatlineyat.ytl-proxy,yatlineyat,YTL Proxy,0.1.1,导入自己的 Clash / Mihomo 节点，在 VS Code 连接、切换与恢复本地代理。Linux x64 预览版。
+2026-10-16T05:29:04.367Z,Stantec.ai-exchange,Stantec,AI Exchange,0.2.1,"Browse, discover, and install governed catalog artifacts directly from VS Code"
+2026-10-16T05:42:45.483Z,clorf6.tidy-data-viewer,clorf6,Tidy Data Viewer,0.1.0,"Readable, editable views for CSV/TSV, JSON, JSONL, YAML, TOML, INI, .env, XML, logs and Parquet, plus a nicer Markdown preview. Lightweight; handles large files."
+2026-10-16T05:50:37.363Z,ManeetGupta.Aimahasolution,ManeetGupta,aimahasolution,1.0.0,A simple markdown extension
+2026-10-16T05:51:59.807Z,accessibully.accessibu11y-vscode,accessibully,Accessibu11y,0.1.0,Quick accessibility checks inspired by the Accessibu11y Chrome extension.
+2026-10-16T05:53:00.13Z,hamzadev.api-flow-navigator,hamzadev,API Flow Navigator — Universal Code & API Tracer,0.1.0,"Local, language-extensible static API discovery, navigation and flow inspection."
+2026-10-16T06:01:07.203Z,harshilZore.falconlang,harshilZore,falconlang,1.0.0,"Official Falcon Language support: syntax highlighting, tab icons, real-time diagnostics, snippets, and integrated runner."

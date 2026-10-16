@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 05:20 UTC
+## Latest list — 2026-10-16 06:20 UTC
 
-New extensions published between 2026-10-16 03:20 UTC and 2026-10-16 05:20 UTC.
+New extensions published between 2026-10-16 04:20 UTC and 2026-10-16 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T05-20-09-196762Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T06-20-56-691699Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 04:30:46 | [musaid.frameless](https://marketplace.visualstudio.com/items?itemName=musaid.frameless) | Frameless | 0.2.1 | Hide the title bar on macOS and put the traffic lights next to your tabs. |
-| 2026-10-16 04:35:04 | [yevin.termdock](https://marketplace.visualstudio.com/items?itemName=yevin.termdock) | Termdock | 0.3.0 | A compact, independent shell terminal with native controls in the Secondary Sid… |
-| 2026-10-16 05:06:20 | [KrishnamohanYagneswaran.ky-formatter](https://marketplace.visualstudio.com/items?itemName=KrishnamohanYagneswaran.ky-formatter) | KY Formatter | 0.0.2 | KY formatter extension |
-| 2026-10-16 05:14:16 | [harmeling.kurt-lang](https://marketplace.visualstudio.com/items?itemName=harmeling.kurt-lang) | Kurt Proof Language | 0.9.0 | The Kurt proof language: each line of a proof checked as you type, with its rea… |
+| 2026-10-16 05:09:55 | [yatlineyat.ytl-proxy](https://marketplace.visualstudio.com/items?itemName=yatlineyat.ytl-proxy) | YTL Proxy | 0.1.1 | 导入自己的 Clash / Mihomo 节点，在 VS Code 连接、切换与恢复本地代理。Linux x64 预览版。 |
+| 2026-10-16 05:29:04 | [Stantec.ai-exchange](https://marketplace.visualstudio.com/items?itemName=Stantec.ai-exchange) | AI Exchange | 0.2.1 | Browse, discover, and install governed catalog artifacts directly from VS Code |
+| 2026-10-16 05:42:45 | [clorf6.tidy-data-viewer](https://marketplace.visualstudio.com/items?itemName=clorf6.tidy-data-viewer) | Tidy Data Viewer | 0.1.0 | Readable, editable views for CSV/TSV, JSON, JSONL, YAML, TOML, INI, .env, XML,… |
+| 2026-10-16 05:50:37 | [ManeetGupta.Aimahasolution](https://marketplace.visualstudio.com/items?itemName=ManeetGupta.Aimahasolution) | aimahasolution | 1.0.0 | A simple markdown extension |
+| 2026-10-16 05:51:59 | [accessibully.accessibu11y-vscode](https://marketplace.visualstudio.com/items?itemName=accessibully.accessibu11y-vscode) | Accessibu11y | 0.1.0 | Quick accessibility checks inspired by the Accessibu11y Chrome extension. |
+| 2026-10-16 05:53:00 | [hamzadev.api-flow-navigator](https://marketplace.visualstudio.com/items?itemName=hamzadev.api-flow-navigator) | API Flow Navigator — Universal Code & A… | 0.1.0 | Local, language-extensible static API discovery, navigation and flow inspection. |
+| 2026-10-16 06:01:07 | [harshilZore.falconlang](https://marketplace.visualstudio.com/items?itemName=harshilZore.falconlang) | falconlang | 1.0.0 | Official Falcon Language support: syntax highlighting, tab icons, real-time dia… |
 
 ## Data source
 
