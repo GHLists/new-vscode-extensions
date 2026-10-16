@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T21:27:12.313Z,kw13-code-aops.code-ops-ai-vscode,kw13-code-aops,KW13 - CodeOps AI,1.7.2,"Extensão oficial do CodeOps AI: governança de agentes, tarefas prioritárias, status bar e acompanhamento operacional no VS Code e Cursor."
+2026-10-16T21:38:01.393Z,kewldan.itmo-cpp-labkit,kewldan,ITMO C++ Lab Kit,0.4.7,"C++ lab environment: clang-format (Google), clang-tidy, function complexity, GoogleTest, Makefile, git hooks and time tracking"
+2026-10-16T21:40:43.637Z,Rabinff.arn-smart-ai-coder,Rabinff,ARN Smart AI Coder with Auto-Resume,1.0.0,
+2026-10-16T22:00:28.51Z,SetfordExtensions.opencode-vscode-extention,SetfordExtensions,OpenCode Chitchat,0.0.1,"An independent, privacy-first OpenCode chat sidebar for Visual Studio Code."

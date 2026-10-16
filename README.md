@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-16 21:20 UTC
+## Latest list — 2026-10-16 22:20 UTC
 
-New extensions published between 2026-10-16 19:20 UTC and 2026-10-16 21:20 UTC.
+New extensions published between 2026-10-16 20:20 UTC and 2026-10-16 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-16T21-20-52-469702Z.csv)
+[Full CSV](data/new-extensions-2026-10-16T22-20-52-079037Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-16 20:22:07 | [Koda-Code.koda-tool](https://marketplace.visualstudio.com/items?itemName=Koda-Code.koda-tool) | Koda-Tool | 1.0.0 | Run the KODA coding agent in native VS Code Chat with Build and Plan modes. |
-| 2026-10-16 20:35:35 | [pit000.glasca](https://marketplace.visualstudio.com/items?itemName=pit000.glasca) | Glasca Theme | 1.0.0 | Athabasca theme with slight changes |
-| 2026-10-16 20:39:01 | [ErwanMOLLAT.easy-language](https://marketplace.visualstudio.com/items?itemName=ErwanMOLLAT.easy-language) | EASY Language | 0.0.2 | le language le plus proche d'une 4eme de couverture |
-| 2026-10-16 20:51:00 | [guptasantosh327.mmk-vscode](https://marketplace.visualstudio.com/items?itemName=guptasantosh327.mmk-vscode) | mmk for VS Code | 0.1.0 | Run, roll back and review mongo-migrate-kit MongoDB migrations from the editor |
-| 2026-10-16 20:56:51 | [arturocarballo.dnet-espanol](https://marketplace.visualstudio.com/items?itemName=arturocarballo.dnet-espanol) | DNET 2.0.0 — Lenguaje en español | 0.1.4 | Reconocimiento, colores y plantillas para escribir programas DNET 2.0.0 en espa… |
-| 2026-10-16 21:01:36 | [Xzhi.undo-last-commit](https://marketplace.visualstudio.com/items?itemName=Xzhi.undo-last-commit) | 撤销上次提交 | 0.0.3 | 在源代码管理视图添加「撤销上次提交」按钮，点击后执行 git reset --soft HEAD~1，改动保留在暂存区。 |
-| 2026-10-16 21:09:08 | [CarloLomello.sfdc-virtual-folders](https://marketplace.visualstudio.com/items?itemName=CarloLomello.sfdc-virtual-folders) | SFDC Virtual Folders | 0.0.1 | Virtual folders and tag-based views for Salesforce Apex classes and LWC compone… |
+| 2026-10-16 21:27:12 | [kw13-code-aops.code-ops-ai-vscode](https://marketplace.visualstudio.com/items?itemName=kw13-code-aops.code-ops-ai-vscode) | KW13 - CodeOps AI | 1.7.2 | Extensão oficial do CodeOps AI: governança de agentes, tarefas prioritárias, st… |
+| 2026-10-16 21:38:01 | [kewldan.itmo-cpp-labkit](https://marketplace.visualstudio.com/items?itemName=kewldan.itmo-cpp-labkit) | ITMO C++ Lab Kit | 0.4.7 | C++ lab environment: clang-format (Google), clang-tidy, function complexity, Go… |
+| 2026-10-16 21:40:43 | [Rabinff.arn-smart-ai-coder](https://marketplace.visualstudio.com/items?itemName=Rabinff.arn-smart-ai-coder) | ARN Smart AI Coder with Auto-Resume | 1.0.0 |  |
+| 2026-10-16 22:00:28 | [SetfordExtensions.opencode-vscode-extention](https://marketplace.visualstudio.com/items?itemName=SetfordExtensions.opencode-vscode-extention) | OpenCode Chitchat | 0.0.1 | An independent, privacy-first OpenCode chat sidebar for Visual Studio Code. |
 
 ## Data source
 
