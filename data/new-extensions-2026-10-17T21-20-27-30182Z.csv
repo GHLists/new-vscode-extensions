@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T20:29:33.1Z,vishalpatil.docdeck,vishalpatil,"DocDeck – PDF, Excel, Word, Markdown & Mermaid Viewer",0.1.0,"Open and edit PDF, Excel/CSV, Word (.docx), Markdown and Mermaid files right inside VS Code, Cursor and Antigravity."
+2026-10-17T20:34:22.533Z,raven6941.eponym-sheds,raven6941,Eponym Sheds,0.1.18,Renders Eponym shed proof states (Epigram-style 2D boxes) from the eponym LSP server.
+2026-10-17T20:34:33.687Z,Swerky.khyoot-work-tracker,Swerky,Khyoot Work Tracker,0.6.0,Track project work in VS Code and share sessions with Khyoot.
+2026-10-17T20:36:07.917Z,KODIKAS-NL.cockpit-claude-code-daemon,KODIKAS-NL,Cockpit for Claude Code,1.0.307,"Claude Code conversations that outlive your window: start a task on one device, continue on another, even from your phone. A GUI on top of the Claude Code CLI, with live context, cache and cost figures."
+2026-10-17T20:37:11.403Z,hydrogen.oxygen-particle-editor,hydrogen,Oxygen Particle Editor,0.1.0,"Bedrock particle IDE: an editor that shows what the game actually renders, plus Molang language features for particle files"
+2026-10-17T20:39:20.173Z,fixtrace.fixtrace-ai,fixtrace,FixTrace AI - Error & Terminal Log Resolver,1.0.2,"Intercept, diagnose, and solve errors directly where they happen: in VS Code terminal logs, editor diagnostics, and stack traces with instant 1-click fixes."
+2026-10-17T20:44:37.39Z,gouthampodili.devpause,gouthampodili,DevPause - Water Reminde,0.0.2,"Configurable water reminders with intervals, daily schedules, and snooze."
+2026-10-17T20:55:49.83Z,andreyKats.vibe-visual-editor,andreyKats,Vibe Visual Editor,0.1.0,"Preview a running Vite app in VS Code, edit its text in place, and share selected elements with Claude Code and Codex."
+2026-10-17T20:57:10.523Z,miyamar.miyamar-theme,miyamar,Miyamar Theme,1.5.0,"A minimal well-focused theme crafted for deep work, clear code, and effortless flow—designed to make long coding sessions feel productive and more enjoyable."
+2026-10-17T21:05:48.647Z,mantasu.pdf-editor,mantasu,PDF Viewer & Editor,1.1.0,"Read, highlight, comment on and draw over PDFs in VS Code, Acrobat-compatible"
+2026-10-17T21:07:35.393Z,bkaluza.claude-session-panel,bkaluza,Session Panel for Claude Code,0.10.1,"A panel for your Claude Code terminal sessions: see what's running, open several at once in named, coloured terminals, and reopen them after a restart."
