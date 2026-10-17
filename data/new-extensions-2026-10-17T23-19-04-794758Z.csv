@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T22:29:52.407Z,eci99.vscode-shortcut-tutor,eci99,Shortcut Tutor,0.1.0,Shows the keyboard shortcuts most worth learning right now and gives tips when something would be faster with a shortcut.
+2026-10-17T22:30:30.717Z,tvijo.tvijo-dshrem,tvijo,Tvijo DSHREM,0.1.1,Ask about your code with source evidence and a hard per-task spending cap. Sign in with your Tvijo account; no API keys in the editor.
+2026-10-17T22:31:23.67Z,MyriadArtificia.canopy-git,MyriadArtificia,CANOPY,1.0.0,"Organize many Git repositories into your own folders, see what needs attention, run any Git operation, follow GitLab and GitHub pipelines, merge requests and pull requests, and share clone/switch profiles."
+2026-10-17T22:36:15.603Z,Wald764.rdlc-code,Wald764,RDLC Code,0.1.0,Offline source-preserving RDLC report designer.
+2026-10-17T22:53:45.31Z,sanary.sbi-vscode,sanary,Sanary Build Interface,0.0.1,"Run Claude Code or Codex against your workspace from VS Code, with optional evaluation feedback from Sanary's SBB. macOS 13+, Apple Silicon only. Unofficial: not affiliated with Anthropic or OpenAI."
+2026-10-17T23:00:26.11Z,BernardoDias.not-a-proxy,BernardoDias,Not a Proxy — Understand AI-Generated Code,0.1.0,"Don't be a human proxy for your AI. Flag the code you don't understand right where it is, keep your questions in a structured JSON file, and have Claude explain them."
+2026-10-17T23:01:45.253Z,SureForgeTech.filemaker-data-api-tools,SureForgeTech,FileMaker Data API Tools,1.2.0,"Query, edit, and explore FileMaker data without leaving VS Code. Full CRUD for fmrest, visual query builder, schema diffing, batch import/export, and TypeScript type generation for Claris FileMaker Server and FileMaker Cloud."
