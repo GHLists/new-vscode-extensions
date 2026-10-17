@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T03:51:47.92Z,ReadyStack.jest-snippets-8-stacks,ReadyStack,Jest Snippets + 7 More Stacks (40 Snippets),0.1.5,"One fit( merged into main turns a green suite into a single passing test. 20 checks find it in the file you have open, before the reviewer does."
+2026-10-17T03:51:59.827Z,ReadyStack.js-licence-key-gate,ReadyStack,JS Licence Key Gate: GPL & Eval Keys,1.0.2,"Flags GPL and evaluation licence keys and missing commercial keys for Handsontable, TinyMCE, CKEditor 5, FullCalendar, AG Grid, MUI X and Syncfusion in closed-source JS/TS code."
+2026-10-17T03:54:56.247Z,GopherViz.gopherviz,GopherViz,GopherViz,1.0.0,"See how your code runs as a pixel-art game, live while you type. Loops, if/switch, functions, recursion, classes, sorting, searching, stacks, queues, goroutines and the JS event loop in Go, JavaScript, TypeScript, Python, PHP, C++, C and Java. Your code is simulated, never executed."
+2026-10-17T03:57:48.373Z,ManuelOsorio.flint-ui-lsp,ManuelOsorio,Flint UI Language Support,0.1.0,Language support for FlintEngine declarative UI files.
+2026-10-17T04:00:54.567Z,sulthan1869.ghostline,sulthan1869,Ghostline,0.1.0,Copilot-style inline completions powered by your local Claude Code CLI.

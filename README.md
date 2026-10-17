@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 03:19 UTC
+## Latest list — 2026-10-17 04:19 UTC
 
-New extensions published between 2026-10-17 01:19 UTC and 2026-10-17 03:19 UTC.
+New extensions published between 2026-10-17 02:19 UTC and 2026-10-17 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T03-19-46-771226Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T04-19-05-998577Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 02:25:30 | [andersonbruceb.gingerly-tree](https://marketplace.visualstudio.com/items?itemName=andersonbruceb.gingerly-tree) | Gingerly Tree | 0.0.1 | Syntax highlighting for assign-gingerly tree`…` tagged templates, in JS/TS file… |
-| 2026-10-17 02:56:12 | [utialy.patchport](https://marketplace.visualstudio.com/items?itemName=utialy.patchport) | PatchPort - AI Terminal Bridge | 0.3.0 | Control real AI terminals and connect Claude Code and Codex inside your VS Code… |
-| 2026-10-17 03:14:31 | [dallasgere.vine-theme](https://marketplace.visualstudio.com/items?itemName=dallasgere.vine-theme) | Vine Theme Pack | 1.0.0 | A collection of dark VS Code themes inspired by favorite editor palettes, with… |
+| 2026-10-17 03:51:47 | [ReadyStack.jest-snippets-8-stacks](https://marketplace.visualstudio.com/items?itemName=ReadyStack.jest-snippets-8-stacks) | Jest Snippets + 7 More Stacks (40 Snipp… | 0.1.5 | One fit( merged into main turns a green suite into a single passing test. 20 ch… |
+| 2026-10-17 03:51:59 | [ReadyStack.js-licence-key-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.js-licence-key-gate) | JS Licence Key Gate: GPL & Eval Keys | 1.0.2 | Flags GPL and evaluation licence keys and missing commercial keys for Handsonta… |
+| 2026-10-17 03:54:56 | [GopherViz.gopherviz](https://marketplace.visualstudio.com/items?itemName=GopherViz.gopherviz) | GopherViz | 1.0.0 | See how your code runs as a pixel-art game, live while you type. Loops, if/swit… |
+| 2026-10-17 03:57:48 | [ManuelOsorio.flint-ui-lsp](https://marketplace.visualstudio.com/items?itemName=ManuelOsorio.flint-ui-lsp) | Flint UI Language Support | 0.1.0 | Language support for FlintEngine declarative UI files. |
+| 2026-10-17 04:00:54 | [sulthan1869.ghostline](https://marketplace.visualstudio.com/items?itemName=sulthan1869.ghostline) | Ghostline | 0.1.0 | Copilot-style inline completions powered by your local Claude Code CLI. |
 
 ## Data source
 
