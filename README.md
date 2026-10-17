@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 16:19 UTC
+## Latest list — 2026-10-17 17:18 UTC
 
-New extensions published between 2026-10-17 14:19 UTC and 2026-10-17 16:19 UTC.
+New extensions published between 2026-10-17 15:18 UTC and 2026-10-17 17:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T16-19-56-272454Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T17-18-57-337781Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 15:22:52 | [furina707.vscode-lens](https://marketplace.visualstudio.com/items?itemName=furina707.vscode-lens) | Lens - Universal File Inspector | 1.2.3 | Universal file inspector, editor, and viewer for VS Code with zero native depen… |
-| 2026-10-17 15:32:20 | [paneherd.paneherd](https://marketplace.visualstudio.com/items?itemName=paneherd.paneherd) | Paneherd: Multi-Agent Console for Claud… | 0.3.0 | Run multiple Claude Code agents side by side in split panes: answer every permi… |
-| 2026-10-17 15:41:38 | [gurdish-singh.pulse-time-tracker](https://marketplace.visualstudio.com/items?itemName=gurdish-singh.pulse-time-tracker) | Pulse — Time Tracker | 1.0.0 | Automatic, detailed coding time tracking with idle detection and a beautiful da… |
-| 2026-10-17 15:45:42 | [MuellerConstantin.qlinter-vscode-ext](https://marketplace.visualstudio.com/items?itemName=MuellerConstantin.qlinter-vscode-ext) | qlinter | 0.1.0 | VS Code extension that lints and formats Qlik load scripts, powered by @qlinter… |
-| 2026-10-17 15:49:15 | [peter-stuhlmann.token-tracker-for-claude-code](https://marketplace.visualstudio.com/items?itemName=peter-stuhlmann.token-tracker-for-claude-code) | Token Tracker for Claude Code | 0.1.0 | Start/Pause/Stopp-Tracking der Claude-Code-Tokens pro Projekt, Aufgabe oder Sit… |
-| 2026-10-17 15:51:39 | [ReadyStack.kakutei-shinkoku-tenpu-lint-jp](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kakutei-shinkoku-tenpu-lint-jp) | 確定申告 添付書類チェッカー（準備メモ・控除証明書） | 1.0.4 | 確定申告の準備メモ（.md/.txt）を所得税法120条・施行令262条と国税庁の添付ルールで検査。控除証明書の不足、医療費控除の明細書、不要な源泉徴収票、郵… |
-| 2026-10-17 15:52:00 | [ReadyStack.kassenbeleg-tse-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kassenbeleg-tse-lint) | Kassenbeleg-Lint — KassenSichV TSE-Pfli… | 1.0.10 | Prüft Kassenbeleg-Vorlagen (HTML, Handlebars, JSON) auf die Pflichtangaben nach… |
-| 2026-10-17 15:53:00 | [ReadyStack.kotei-shisan-daicho-csv-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kotei-shisan-daicho-csv-lint) | 固定資産台帳 CSV Lint — 少額減価償却資産 40万円・300万円枠 | 1.0.4 | 固定資産台帳CSVを少額減価償却資産の特例(措法28条の2・67条の5)で検査。取得日2026-04-01で上限30万→40万円、年300万円枠、一括償却20… |
-| 2026-10-17 16:01:23 | [akademi.akademi](https://marketplace.visualstudio.com/items?itemName=akademi.akademi) | Akademi | 0.4.2 | Akademi canlı yazılım derslerini VS Code içinde izle: animasyonlu anlatım gerçe… |
-| 2026-10-17 16:11:28 | [OmairSaad.api-shadow](https://marketplace.visualstudio.com/items?itemName=OmairSaad.api-shadow) | API Shadow | 0.1.0 | Automatically discover and explore API endpoints in Express, NestJS and Spring… |
-| 2026-10-17 16:12:53 | [krishsharma.repo-pilot](https://marketplace.visualstudio.com/items?itemName=krishsharma.repo-pilot) | repo-pilot | 0.0.1 | Create GitHub repositories and push code from VS Code |
+| 2026-10-17 16:24:36 | [MerlinDuChaos.godot-color-visualizer](https://marketplace.visualstudio.com/items?itemName=MerlinDuChaos.godot-color-visualizer) | Godot Color Visualizer | 0.1.0 | Visualize and edit Godot colors (C#, GDScript, GDShader, TSCN, TRES, BBCode) wh… |
+| 2026-10-17 16:29:14 | [humphrey0925.norn-c](https://marketplace.visualstudio.com/items?itemName=humphrey0925.norn-c) | Norn — Code Navigation & Symbol Index | 0.23.2 | Norn: Source-Insight-style symbol search, context and relation views for C, fro… |
+| 2026-10-17 16:30:54 | [Vamseek.svs-themes](https://marketplace.visualstudio.com/items?itemName=Vamseek.svs-themes) | SVSThemes - Ultra Modern Aesthetic Them… | 1.0.0 | 20 handcrafted ultra-modern, eye-catching VS Code themes (dark + light) enginee… |
+| 2026-10-17 16:43:31 | [aaron43210.distributed-ai-compute](https://marketplace.visualstudio.com/items?itemName=aaron43210.distributed-ai-compute) | Distributed AI Compute | 1.0.0 | Run code and train models on your own machines over SSH, entirely from VS Code:… |
+| 2026-10-17 16:48:17 | [Reset0.patchwork-commit-composer](https://marketplace.visualstudio.com/items?itemName=Reset0.patchwork-commit-composer) | Patchwork — AI Commit Composer | 0.0.1 | Split one large change into small, meaningful commits. Patchwork groups changed… |
+| 2026-10-17 16:51:16 | [CurtisWensley.eto-forms-designer](https://marketplace.visualstudio.com/items?itemName=CurtisWensley.eto-forms-designer) | Eto.Forms Designer | 2.13.0 | Autocompletion, hover documentation and a live preview for Eto.Forms .xeto and… |
+| 2026-10-17 16:57:35 | [Wald764.rdlc-code-auth-test](https://marketplace.visualstudio.com/items?itemName=Wald764.rdlc-code-auth-test) | RDLC Code Authentication Test | 0.0.1 | Inert theme used only to verify RDLC Code registry authentication and prebuilt… |
+| 2026-10-17 17:14:29 | [dependenywatch.dependency-watch](https://marketplace.visualstudio.com/items?itemName=dependenywatch.dependency-watch) | Dependency Watch | 0.1.0 | Monitor dependencies |
 
 ## Data source
 

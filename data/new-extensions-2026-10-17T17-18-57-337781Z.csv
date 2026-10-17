@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T16:24:36.463Z,MerlinDuChaos.godot-color-visualizer,MerlinDuChaos,Godot Color Visualizer,0.1.0,"Visualize and edit Godot colors (C#, GDScript, GDShader, TSCN, TRES, BBCode) while preserving their original format."
+2026-10-17T16:29:14.777Z,humphrey0925.norn-c,humphrey0925,Norn — Code Navigation & Symbol Index,0.23.2,"Norn: Source-Insight-style symbol search, context and relation views for C, from an index that follows macros and function pointers."
+2026-10-17T16:30:54.06Z,Vamseek.svs-themes,Vamseek,SVSThemes - Ultra Modern Aesthetic Themes,1.0.0,"20 handcrafted ultra-modern, eye-catching VS Code themes (dark + light) engineered for peak ergonomics, vibrant syntax, and stunning visual appeal, plus a sidebar customizer for fonts, colors, and styles."
+2026-10-17T16:43:31.167Z,aaron43210.distributed-ai-compute,aaron43210,Distributed AI Compute,1.0.0,"Run code and train models on your own machines over SSH, entirely from VS Code: one-click local setup, add and manage workers, run any language in parallel with live output, and train built-in, custom or Spark models."
+2026-10-17T16:48:17.89Z,Reset0.patchwork-commit-composer,Reset0,Patchwork — AI Commit Composer,0.0.1,"Split one large change into small, meaningful commits. Patchwork groups changed hunks with an LLM, writes commit messages, and lets you review every commit before it touches git."
+2026-10-17T16:51:16.257Z,CurtisWensley.eto-forms-designer,CurtisWensley,Eto.Forms Designer,2.13.0,"Autocompletion, hover documentation and a live preview for Eto.Forms .xeto and .jeto designer files."
+2026-10-17T16:57:35.633Z,Wald764.rdlc-code-auth-test,Wald764,RDLC Code Authentication Test,0.0.1,Inert theme used only to verify RDLC Code registry authentication and prebuilt VSIX handoff.
+2026-10-17T17:14:29.813Z,dependenywatch.dependency-watch,dependenywatch,Dependency Watch,0.1.0,Monitor dependencies
