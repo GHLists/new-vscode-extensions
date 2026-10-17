@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 17:18 UTC
+## Latest list — 2026-10-17 18:18 UTC
 
-New extensions published between 2026-10-17 15:18 UTC and 2026-10-17 17:18 UTC.
+New extensions published between 2026-10-17 16:18 UTC and 2026-10-17 18:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T17-18-57-337781Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T18-18-45-109277Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 16:24:36 | [MerlinDuChaos.godot-color-visualizer](https://marketplace.visualstudio.com/items?itemName=MerlinDuChaos.godot-color-visualizer) | Godot Color Visualizer | 0.1.0 | Visualize and edit Godot colors (C#, GDScript, GDShader, TSCN, TRES, BBCode) wh… |
-| 2026-10-17 16:29:14 | [humphrey0925.norn-c](https://marketplace.visualstudio.com/items?itemName=humphrey0925.norn-c) | Norn — Code Navigation & Symbol Index | 0.23.2 | Norn: Source-Insight-style symbol search, context and relation views for C, fro… |
-| 2026-10-17 16:30:54 | [Vamseek.svs-themes](https://marketplace.visualstudio.com/items?itemName=Vamseek.svs-themes) | SVSThemes - Ultra Modern Aesthetic Them… | 1.0.0 | 20 handcrafted ultra-modern, eye-catching VS Code themes (dark + light) enginee… |
-| 2026-10-17 16:43:31 | [aaron43210.distributed-ai-compute](https://marketplace.visualstudio.com/items?itemName=aaron43210.distributed-ai-compute) | Distributed AI Compute | 1.0.0 | Run code and train models on your own machines over SSH, entirely from VS Code:… |
-| 2026-10-17 16:48:17 | [Reset0.patchwork-commit-composer](https://marketplace.visualstudio.com/items?itemName=Reset0.patchwork-commit-composer) | Patchwork — AI Commit Composer | 0.0.1 | Split one large change into small, meaningful commits. Patchwork groups changed… |
-| 2026-10-17 16:51:16 | [CurtisWensley.eto-forms-designer](https://marketplace.visualstudio.com/items?itemName=CurtisWensley.eto-forms-designer) | Eto.Forms Designer | 2.13.0 | Autocompletion, hover documentation and a live preview for Eto.Forms .xeto and… |
-| 2026-10-17 16:57:35 | [Wald764.rdlc-code-auth-test](https://marketplace.visualstudio.com/items?itemName=Wald764.rdlc-code-auth-test) | RDLC Code Authentication Test | 0.0.1 | Inert theme used only to verify RDLC Code registry authentication and prebuilt… |
-| 2026-10-17 17:14:29 | [dependenywatch.dependency-watch](https://marketplace.visualstudio.com/items?itemName=dependenywatch.dependency-watch) | Dependency Watch | 0.1.0 | Monitor dependencies |
+| 2026-10-17 17:16:54 | [Edgemodders.edgedeck](https://marketplace.visualstudio.com/items?itemName=Edgemodders.edgedeck) | EDGEdeck | 0.27.3 | A simple mod manager for Cyberpunk 2077: one list, add, on/off, deploy, remove. |
+| 2026-10-17 17:17:59 | [Rvm-lua.agora](https://marketplace.visualstudio.com/items?itemName=Rvm-lua.agora) | Agora — chat multi-IA | 0.1.0 | Toutes les IA gratuites dans ton éditeur : chat, explication et correction de c… |
+| 2026-10-17 17:29:53 | [SergenEren.exrview](https://marketplace.visualstudio.com/items?itemName=SergenEren.exrview) | EXRView | 0.2.1 | OpenEXR viewer: multi-part, multi-layer, deep, Cryptomatte, every compression c… |
+| 2026-10-17 17:43:06 | [elliotluque.living-code](https://marketplace.visualstudio.com/items?itemName=elliotluque.living-code) | Living Code | 0.1.1 | Teal structure, amber data, on dark slate. Night, Frost, Paper and Signal color… |
+| 2026-10-17 18:05:03 | [houssam-ouatmani.lombok-sense](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.lombok-sense) | Lombok Sense | 0.1.1 | Comprehensive, first-class language support for Lombok configuration (lombok.co… |
+| 2026-10-17 18:06:30 | [sups23.markdown-snapsave](https://marketplace.visualstudio.com/items?itemName=sups23.markdown-snapsave) | Markdown SnapSave | 0.0.1 | Save clipboard images with custom filenames and workspace-relative Markdown lin… |
 
 ## Data source
 
