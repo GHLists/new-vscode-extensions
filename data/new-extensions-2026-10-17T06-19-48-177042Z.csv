@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T05:21:28.59Z,smoke-19.pq-explorer,smoke-19,PQ Explorer,0.1.11,Read-only DuckDB Parquet Explorer for VS Code.
+2026-10-17T05:27:23.337Z,FlintEngine.flint-ui-language-server,FlintEngine,Flint UI Language Server,0.1.0,"Language support for FlintEngine's declarative UI markup, including syntax highlighting, context-aware completions, and diagnostics."
+2026-10-17T05:30:25.18Z,RajanPoudel.AutoDocX,RajanPoudel,AutoDocX,0.0.1,"Adds doc comments, flags undocumented functions, and generates documentation for JavaScript, TypeScript, Dart and Python."
+2026-10-17T05:33:36.177Z,catnipnap.co-slide-ppt,catnipnap,Co-Slide PPT,0.2.6,Next-generation presentation slide editor with AI agent pairing & native PPTX export
+2026-10-17T05:56:48.807Z,tranphucbol.jetbrain-search-everywhere,tranphucbol,Jetbrain Search Everywhere,0.0.1,"Fast and customizable files, symbols search engine. An alternative for 'Go to symbol in workspace' built-in feature."
+2026-10-17T06:05:09.697Z,progen-labs.spectra-performance,progen-labs,Spectra — frontend performance,0.1.0,"See the file, function and component that make your frontend slow, at the exact line in your editor, and verify every fix against a baseline. Free and open source."
+2026-10-17T06:06:21.303Z,dpyly.amlint,dpyly,amlint: Alertmanager config linter,0.1.0,"Finds misrouted, unreachable and over-inhibited alerts in Prometheus Alertmanager configs as you type, and shows on hover where each route sends alerts."
