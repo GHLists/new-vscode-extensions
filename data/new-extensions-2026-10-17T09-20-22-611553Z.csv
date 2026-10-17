@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T08:28:48.873Z,kkinra09.dragger,kkinra09,dragger,0.1.0,Send files from the VS Code Explorer to an always-on-top native explorer for direct dragging into any desktop application.
+2026-10-17T08:38:18.363Z,StickyFlowLab.vscode-sfl,StickyFlowLab,StickyFlow SFL,0.1.0,"Language support for SFL 1.4 (.sfl) — syntax highlighting, diagnostics, completion, hover, go-to-definition, rename, find references, outline, and format document."
+2026-10-17T08:49:59.087Z,AnasHAFID.vs-pcp,AnasHAFID,VS PCP,0.8.2,"Fichiers de données PCP : coloration, aide documentaire et visualisation de la structure."
+2026-10-17T08:53:02.8Z,StickyFlowLab.vscode-sfl-preview,StickyFlowLab,StickyFlow SFL Preview,0.1.0,Live preview for SFL (.sfl) diagrams — renders the sticky-flow board in a webview using stickyflow.js.
+2026-10-17T08:57:22.477Z,yotsuda.lilysharp-omr,yotsuda,Lily# Scan Import (Beta),0.3.0,"Reads a page image or PDF of printed music into editable Lily# (.lys) text, with the uncertain places marked. Free while in beta. Adds to the Lily# extension; runs locally on Windows."
+2026-10-17T09:09:29.063Z,bennyhuo.antigravity-helper,bennyhuo,Antigravity Helper,0.1.2,"Enhance Google Antigravity in VS Code: right-click files/folders to chat, right-click editor selections to chat, and drag-and-drop files directly into the chat window."
