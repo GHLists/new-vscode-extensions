@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T11:10:47.38Z,thanhdang.explorer-for-twincat,thanhdang,Explorer for TwinCAT,0.11.0,"XAE-like TwinCAT PLC project tree, an XAE-like declaration/implementation split editor and Structured Text language features"
+2026-10-17T11:17:36.893Z,buggers.buggers-vscode,buggers,Buggers,1.1.0,"Automated Pull Request Code Review, OWASP SAST Flaw Detection & Bug Triage"
+2026-10-17T11:17:46.63Z,Pwaappscom.localcoder,Pwaappscom,LocalCoder,0.14.4,Private GGUF coding agent powered by llama.cpp — created by pwaapps.com
+2026-10-17T11:23:29.117Z,Vivian.xf-omnimarkdown,Vivian,XF OmniMarkdown,1.0.1,"All-in-one Markdown productivity suite: Interactive Mermaid diagrams (high contrast, themes, trace highlight, search, minimap), Obsidian/GitHub Callouts, KaTeX math, Table alignment, and Pangu spacing."
+2026-10-17T11:31:13.5Z,0xshubhs.paramlight,0xshubhs,Paramlight,0.1.0,"Semantic inline highlighting of function arguments, fields, constants, globals and shadowed names, plus a built-in formatter, for JavaScript, TypeScript, Python, Rust, Go, C, C++, Java, C#, PHP and Ruby."
+2026-10-17T11:39:48.73Z,tokenguard-labs.tokenguard-localpilot,tokenguard-labs,TokenGuard — LocalPilot,0.1.1,"Local-first AI coding assistant: answers simple questions with a local Ollama model and sends hard ones to a cloud LLM with only the relevant, secret-redacted code."
+2026-10-17T12:05:24.317Z,LukasMaag.graphviz-interactive,LukasMaag,Interactive Graphviz,0.1.5,"Interactive Graphviz preview for DOT files, rendered with WebAssembly. No system Graphviz install required."
+2026-10-17T12:09:07.727Z,Omer-Cayir.gitatlas-rev,Omer-Cayir,GitAtlas-Rev,0.2.0,A map that lets you read a repo at a glance: files are sized by line count and colored by how often they change.
+2026-10-17T12:09:33.93Z,ferrisching.dsh-editor-link,ferrisching,DSH Editor Link,0.1.0,"The link between DeepSeek Harness and VS Code: answer approvals and questions in the editor, share your editor context with the agent, and jump between both."
