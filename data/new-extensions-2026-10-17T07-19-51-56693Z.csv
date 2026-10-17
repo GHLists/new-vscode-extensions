@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T06:31:36.31Z,SomDuttTripathi.token-counter-by-som,SomDuttTripathi,Token Counter by Som,0.0.3,Som's professional utility tool to calculate precise input word tokens for large language models.
+2026-10-17T06:35:06.1Z,bootcheck.bootcheck,bootcheck,BootCheck,0.0.1,Diagnose common project startup problems locally in VS Code.
+2026-10-17T06:42:22.5Z,RajanPoudel.Docster,RajanPoudel,Docster,0.0.1,"Adds doc comments, flags undocumented functions, and generates documentation for JavaScript, TypeScript, Dart and Python."
+2026-10-17T06:43:12.627Z,praveenojha.editormate,praveenojha,EditorMate,1.0.0,Companion and status monitor for coding workflows.
+2026-10-17T07:01:33.473Z,raffi-dev.raffi-live-collab,raffi-dev,Live Coding Together,0.1.0,"Real-time collaborative pair programming inside VS Code: Yjs CRDT text sync, remote cursors and built-in live chat."
+2026-10-17T07:02:26.753Z,telgatech.telga-goplusplus-vscode,telgatech,Go++ Programming Language,0.1.0,Syntax highlighting and editor support for Go++ files.
+2026-10-17T07:08:04.833Z,ankurkothari.autocode-task-chat,ankurkothari,AutoCode Task Chat,0.0.1,"Drive AutoCode task runs from VS Code: start a run, follow its progress, and take the action the status view names."
+2026-10-17T07:08:11.303Z,annizon.bingo-verified-code-answers,annizon,Bingo — Verified Code Answers,0.1.0,"AI code answers that are tested before you get them. Bingo generates Python code, runs it against tests in a sandbox, auto-fixes it up to 3 times, and only delivers code that passes — always with the test report."
