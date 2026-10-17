@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 09:20 UTC
+## Latest list — 2026-10-17 10:20 UTC
 
-New extensions published between 2026-10-17 07:20 UTC and 2026-10-17 09:20 UTC.
+New extensions published between 2026-10-17 08:20 UTC and 2026-10-17 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T09-20-22-611553Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T10-20-02-396632Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 08:28:48 | [kkinra09.dragger](https://marketplace.visualstudio.com/items?itemName=kkinra09.dragger) | dragger | 0.1.0 | Send files from the VS Code Explorer to an always-on-top native explorer for di… |
-| 2026-10-17 08:38:18 | [StickyFlowLab.vscode-sfl](https://marketplace.visualstudio.com/items?itemName=StickyFlowLab.vscode-sfl) | StickyFlow SFL | 0.1.0 | Language support for SFL 1.4 (.sfl) — syntax highlighting, diagnostics, complet… |
-| 2026-10-17 08:49:59 | [AnasHAFID.vs-pcp](https://marketplace.visualstudio.com/items?itemName=AnasHAFID.vs-pcp) | VS PCP | 0.8.2 | Fichiers de données PCP : coloration, aide documentaire et visualisation de la… |
-| 2026-10-17 08:53:02 | [StickyFlowLab.vscode-sfl-preview](https://marketplace.visualstudio.com/items?itemName=StickyFlowLab.vscode-sfl-preview) | StickyFlow SFL Preview | 0.1.0 | Live preview for SFL (.sfl) diagrams — renders the sticky-flow board in a webvi… |
-| 2026-10-17 08:57:22 | [yotsuda.lilysharp-omr](https://marketplace.visualstudio.com/items?itemName=yotsuda.lilysharp-omr) | Lily# Scan Import (Beta) | 0.3.0 | Reads a page image or PDF of printed music into editable Lily# (.lys) text, wit… |
-| 2026-10-17 09:09:29 | [bennyhuo.antigravity-helper](https://marketplace.visualstudio.com/items?itemName=bennyhuo.antigravity-helper) | Antigravity Helper | 0.1.2 | Enhance Google Antigravity in VS Code: right-click files/folders to chat, right… |
+| 2026-10-17 09:27:28 | [wiertmir.paper-frost-theme](https://marketplace.visualstudio.com/items?itemName=wiertmir.paper-frost-theme) | Paper Frost | 0.1.7 | Warm paper-white background with ink-dark text and crisp teal, blue and violet… |
+| 2026-10-17 09:27:59 | [wiertmir.themed-markdown-notebook-render](https://marketplace.visualstudio.com/items?itemName=wiertmir.themed-markdown-notebook-render) | Themed Markdown Notebook Render | 0.1.9 | Markdown cells in notebooks rendered in your theme's editor colours: headings,… |
+| 2026-10-17 09:37:08 | [dadahsueh.clean-gitignore-generator](https://marketplace.visualstudio.com/items?itemName=dadahsueh.clean-gitignore-generator) | Clean GitIgnore Generator | 1.0.0 | Generate and manage .gitignore files from GitHub with section toggling and cust… |
+| 2026-10-17 09:37:11 | [wiertmir.midnight-slate-theme](https://marketplace.visualstudio.com/items?itemName=wiertmir.midnight-slate-theme) | Midnight Slate Theme | 0.1.17 | Deep navy background with cool slate text and bright teal, sky and amber accent… |
+| 2026-10-17 09:37:55 | [Himabindu.bim-to-pbip-streamlit](https://marketplace.visualstudio.com/items?itemName=Himabindu.bim-to-pbip-streamlit) | BIM to PBIP Converter (Streamlit) | 0.1.0 | Convert model.bim files to Power BI Project (PBIP) folders |
+| 2026-10-17 09:41:23 | [AnmolJainp.personal-vault](https://marketplace.visualstudio.com/items?itemName=AnmolJainp.personal-vault) | Personal Encrypted Remote Vault | 0.1.0 | Secure remote encrypted file vault for Visual Studio Code |
+| 2026-10-17 10:00:11 | [davidkarlsson.potatismos-theme](https://marketplace.visualstudio.com/items?itemName=davidkarlsson.potatismos-theme) | Potatismos | 0.0.1 | A dark VS Code theme inspired by JetBrains Rider's Island Darcula palette. |
+| 2026-10-17 10:05:00 | [errorcompass.error-compass](https://marketplace.visualstudio.com/items?itemName=errorcompass.error-compass) | Error Compass | 0.1.0 | Explain errors and stack traces in plain English, locally, with no API key or n… |
 
 ## Data source
 

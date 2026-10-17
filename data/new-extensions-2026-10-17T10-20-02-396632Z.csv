@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T09:27:28.15Z,wiertmir.paper-frost-theme,wiertmir,Paper Frost,0.1.7,"Warm paper-white background with ink-dark text and crisp teal, blue and violet accents."
+2026-10-17T09:27:59.387Z,wiertmir.themed-markdown-notebook-render,wiertmir,Themed Markdown Notebook Render,0.1.9,"Markdown cells in notebooks rendered in your theme's editor colours: headings, bold, links and code look as they do while editing."
+2026-10-17T09:37:08.71Z,dadahsueh.clean-gitignore-generator,dadahsueh,Clean GitIgnore Generator,1.0.0,Generate and manage .gitignore files from GitHub with section toggling and custom rules preservation.
+2026-10-17T09:37:11.737Z,wiertmir.midnight-slate-theme,wiertmir,Midnight Slate Theme,0.1.17,"Deep navy background with cool slate text and bright teal, sky and amber accents."
+2026-10-17T09:37:55.707Z,Himabindu.bim-to-pbip-streamlit,Himabindu,BIM to PBIP Converter (Streamlit),0.1.0,Convert model.bim files to Power BI Project (PBIP) folders
+2026-10-17T09:41:23.59Z,AnmolJainp.personal-vault,AnmolJainp,Personal Encrypted Remote Vault,0.1.0,Secure remote encrypted file vault for Visual Studio Code
+2026-10-17T10:00:11.837Z,davidkarlsson.potatismos-theme,davidkarlsson,Potatismos,0.0.1,A dark VS Code theme inspired by JetBrains Rider's Island Darcula palette.
+2026-10-17T10:05:00.617Z,errorcompass.error-compass,errorcompass,Error Compass,0.1.0,"Explain errors and stack traces in plain English, locally, with no API key or network access."
