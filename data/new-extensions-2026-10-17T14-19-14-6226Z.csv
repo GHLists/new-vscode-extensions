@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T13:15:50.79Z,ReoX86.onnx-graph-preview,ReoX86,ONNX Graph Preview,0.1.2,Draws ONNX models written as text as Netron-style graphs in VS Code's built-in Markdown preview
+2026-10-17T13:25:29.247Z,robbanhoglund.devspace-analyzer,robbanhoglund,DevSpace Analyzer,1.0.0,Read-only developer storage analysis with interactive maps and practical cleanup guidance.
+2026-10-17T13:27:03.703Z,mehdigolpayegani.easycrypt-companion,mehdigolpayegani,EasyCrypt Companion,0.1.0,"Interactive proof development for EasyCrypt in VS Code, with Proof General keybindings for Emacs users."
+2026-10-17T13:30:34.153Z,WarishLabs.devmind-vscode,WarishLabs,DevMind Companion,0.1.0,"Continuous Project Brain Companion for VS Code: local scanner, architectural map, and privacy-first sync."
+2026-10-17T13:32:06.52Z,andersonbruceb.gingerly-tree-analyzer,andersonbruceb,Gingerly Tree Analyzer,0.0.1,"Diagnostics and hovers for assign-gingerly tree`…` tagged templates: the tag's errors as you type, the tree notation each template produces, and type checks in TypeScript/JavaScript."
+2026-10-17T13:33:23.37Z,weinc.weinc,weinc,WeInc,1.0.0,"Connect the WeInc MCP server to VS Code chat, and open your WeInc dashboard."
+2026-10-17T13:46:08.313Z,htrojan.analyzer-for-sas,htrojan,Analyzer for SAS,0.7.0,"Cross-file macro understanding for SAS: go-to-definition, find-references, hover and static diagnostics, from a parser. Runs beside the official SAS extension, which it needs for the language id."
+2026-10-17T13:54:18.447Z,fms-plugin.code-for-nriseai,fms-plugin,Code-for-NriseAI,0.1.0,Internal AI coding assistant. Sign in with your organization account to use it in VS Code.
+2026-10-17T13:56:56.423Z,blueskeys.prism-themes,blueskeys,Prism Color Themes,1.0.4,A VS Code theme collection. First drop: 12 themes (6 families x light/dark) ported from the T3 Code app — T3 Chat / Grove / Ocean / Ember / Iris + the bundled Material pair. Includes a status-bar quick switcher.
+2026-10-17T14:09:19.457Z,asgr-dk.elm-vscode,asgr-dk,Elm VSCode,0.1.0,A basic language extension for the Elm programming language
+2026-10-17T14:09:24.65Z,pesuto.graphtale,pesuto,Graphtale - Agent Skill Flow,0.1.1,Read-only Flow and Catalog views for reviewing an Agent Skill from its existing files.
+2026-10-17T14:12:25.653Z,nubisco.nubisco,nubisco,Nubisco,1.0.0,"Small everyday developer tools for VS Code, starting with a Cloudflare Access tunnel switcher"

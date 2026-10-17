@@ -12,24 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 13:18 UTC
+## Latest list — 2026-10-17 14:19 UTC
 
-New extensions published between 2026-10-17 11:18 UTC and 2026-10-17 13:18 UTC.
+New extensions published between 2026-10-17 12:19 UTC and 2026-10-17 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T13-18-45-311278Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T14-19-14-6226Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 12:35:10 | [appmonster007.vscode-yamd-ext](https://marketplace.visualstudio.com/items?itemName=appmonster007.vscode-yamd-ext) | YAMD Studio | 0.1.1 | Language support for YAMD: syntax highlighting, live preview, diagnostics and e… |
-| 2026-10-17 12:46:08 | [kuchingneko.assembly-explorer](https://marketplace.visualstudio.com/items?itemName=kuchingneko.assembly-explorer) | Assembly Explorer | 0.9.0 | Compile C/C++ to assembly with Compiler Explorer and inspect it side by side wi… |
-| 2026-10-17 12:46:22 | [vmise.aipi](https://marketplace.visualstudio.com/items?itemName=vmise.aipi) | AIPI - API Intelligence | 0.3.0 | Local API intelligence, bounded agent context and verification inside VS Code a… |
-| 2026-10-17 12:48:55 | [Harizz076.sarvam-codewalk](https://marketplace.visualstudio.com/items?itemName=Harizz076.sarvam-codewalk) | Sarvam Codewalk | 0.1.0 | A calm multilingual learning companion for small, approved coding changes. |
-| 2026-10-17 12:51:59 | [RJVR.assetforge](https://marketplace.visualstudio.com/items?itemName=RJVR.assetforge) | AssetForge | 0.0.1 | Convert, optimize, and batch-process images locally inside VS Code. |
-| 2026-10-17 12:52:13 | [aaron43210.distributed-compute](https://marketplace.visualstudio.com/items?itemName=aaron43210.distributed-compute) | Distributed Compute | 1.0.0 | Run code and train models on your own machines over SSH, entirely from VS Code:… |
-| 2026-10-17 12:56:53 | [felipelourenco.stylelift](https://marketplace.visualstudio.com/items?itemName=felipelourenco.stylelift) | StyleLift | 1.0.1 | Extract inline styles from React Native components into StyleSheet.create with… |
-| 2026-10-17 13:00:51 | [staleproof.staleproof](https://marketplace.visualstudio.com/items?itemName=staleproof.staleproof) | Staleproof | 0.6.0 | Stale docs references as you type: paths, links, commands, CLI flags, env vars,… |
-| 2026-10-17 13:05:16 | [infloop.xmindmap](https://marketplace.visualstudio.com/items?itemName=infloop.xmindmap) | XMindmap | 0.1.0 | 在 VS Code 中编辑思维导图，支持大纲、主题、连线样式和导入导出。 |
-| 2026-10-17 13:05:38 | [M-H-H.archi3d](https://marketplace.visualstudio.com/items?itemName=M-H-H.archi3d) | Archi3D | 0.1.0 | Live 3D preview of software architecture models (.arch3d, Mermaid architecture-… |
+| 2026-10-17 13:15:50 | [ReoX86.onnx-graph-preview](https://marketplace.visualstudio.com/items?itemName=ReoX86.onnx-graph-preview) | ONNX Graph Preview | 0.1.2 | Draws ONNX models written as text as Netron-style graphs in VS Code's built-in… |
+| 2026-10-17 13:25:29 | [robbanhoglund.devspace-analyzer](https://marketplace.visualstudio.com/items?itemName=robbanhoglund.devspace-analyzer) | DevSpace Analyzer | 1.0.0 | Read-only developer storage analysis with interactive maps and practical cleanu… |
+| 2026-10-17 13:27:03 | [mehdigolpayegani.easycrypt-companion](https://marketplace.visualstudio.com/items?itemName=mehdigolpayegani.easycrypt-companion) | EasyCrypt Companion | 0.1.0 | Interactive proof development for EasyCrypt in VS Code, with Proof General keyb… |
+| 2026-10-17 13:30:34 | [WarishLabs.devmind-vscode](https://marketplace.visualstudio.com/items?itemName=WarishLabs.devmind-vscode) | DevMind Companion | 0.1.0 | Continuous Project Brain Companion for VS Code: local scanner, architectural ma… |
+| 2026-10-17 13:32:06 | [andersonbruceb.gingerly-tree-analyzer](https://marketplace.visualstudio.com/items?itemName=andersonbruceb.gingerly-tree-analyzer) | Gingerly Tree Analyzer | 0.0.1 | Diagnostics and hovers for assign-gingerly tree`…` tagged templates: the tag's… |
+| 2026-10-17 13:33:23 | [weinc.weinc](https://marketplace.visualstudio.com/items?itemName=weinc.weinc) | WeInc | 1.0.0 | Connect the WeInc MCP server to VS Code chat, and open your WeInc dashboard. |
+| 2026-10-17 13:46:08 | [htrojan.analyzer-for-sas](https://marketplace.visualstudio.com/items?itemName=htrojan.analyzer-for-sas) | Analyzer for SAS | 0.7.0 | Cross-file macro understanding for SAS: go-to-definition, find-references, hove… |
+| 2026-10-17 13:54:18 | [fms-plugin.code-for-nriseai](https://marketplace.visualstudio.com/items?itemName=fms-plugin.code-for-nriseai) | Code-for-NriseAI | 0.1.0 | Internal AI coding assistant. Sign in with your organization account to use it… |
+| 2026-10-17 13:56:56 | [blueskeys.prism-themes](https://marketplace.visualstudio.com/items?itemName=blueskeys.prism-themes) | Prism Color Themes | 1.0.4 | A VS Code theme collection. First drop: 12 themes (6 families x light/dark) por… |
+| 2026-10-17 14:09:19 | [asgr-dk.elm-vscode](https://marketplace.visualstudio.com/items?itemName=asgr-dk.elm-vscode) | Elm VSCode | 0.1.0 | A basic language extension for the Elm programming language |
+| 2026-10-17 14:09:24 | [pesuto.graphtale](https://marketplace.visualstudio.com/items?itemName=pesuto.graphtale) | Graphtale - Agent Skill Flow | 0.1.1 | Read-only Flow and Catalog views for reviewing an Agent Skill from its existing… |
+| 2026-10-17 14:12:25 | [nubisco.nubisco](https://marketplace.visualstudio.com/items?itemName=nubisco.nubisco) | Nubisco | 1.0.0 | Small everyday developer tools for VS Code, starting with a Cloudflare Access t… |
 
 ## Data source
 
