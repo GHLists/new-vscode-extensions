@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T14:25:26.47Z,sanket-manohar.dartboard,sanket-manohar,Dartboard: Flutter Test Coverage,1.0.0,"Flutter and Dart testing in one panel: line and branch coverage, which widgets and screens your tests render, Bloc/Cubit/Riverpod/Provider state coverage, readable test failures, screen size and accessibility checks, and a PDF audit report."
+2026-10-17T14:27:19.32Z,hunter8272.noobscript,hunter8272,NoobScript,0.1.0,"Syntax highlighting, file icon and one-click run for NoobScript (.noob)"
+2026-10-17T14:30:58.543Z,tsquare-js.tsquare-vscode,tsquare-js,tsquare,0.1.0,"Write tsquare UI wireframes with a live preview, problems as you type, highlighting and autocomplete."
+2026-10-17T15:02:43.573Z,nimblescape.nimblescape-mindbug,nimblescape,nimblescape Mindbug,0.1.0,"Shows the stack (one scope for each function call) and the heap of a paused TypeScript program as a diagram, to help students learn how memory works. Starts the program with Deno or Node.js in the JavaScript debugger of VS Code, and at each pause runs a small helper in the program that reads its obj"
+2026-10-17T15:04:09.887Z,nimblescape.nimblescape-plantuml,nimblescape,nimblescape PlantUML,0.1.0,Shows PlantUML diagrams in Markdown and PlantUML files. The bundled engine needs no other installation and no server.
+2026-10-17T15:16:24.813Z,lagranje.claude-limits-status,lagranje,Claude Usage Status,0.1.17,Unofficial: Claude plan usage (5-hour and weekly) in the VS Code status bar
