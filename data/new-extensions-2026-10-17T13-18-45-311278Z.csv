@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T12:35:10.203Z,appmonster007.vscode-yamd-ext,appmonster007,YAMD Studio,0.1.1,"Language support for YAMD: syntax highlighting, live preview, diagnostics and editing shortcuts."
+2026-10-17T12:46:08.33Z,kuchingneko.assembly-explorer,kuchingneko,Assembly Explorer,0.9.0,Compile C/C++ to assembly with Compiler Explorer and inspect it side by side with your source.
+2026-10-17T12:46:22.347Z,vmise.aipi,vmise,AIPI - API Intelligence,0.3.0,"Local API intelligence, bounded agent context and verification inside VS Code and Cursor."
+2026-10-17T12:48:55.803Z,Harizz076.sarvam-codewalk,Harizz076,Sarvam Codewalk,0.1.0,"A calm multilingual learning companion for small, approved coding changes."
+2026-10-17T12:51:59.94Z,RJVR.assetforge,RJVR,AssetForge,0.0.1,"Convert, optimize, and batch-process images locally inside VS Code."
+2026-10-17T12:52:13.287Z,aaron43210.distributed-compute,aaron43210,Distributed Compute,1.0.0,"Run code and train models on your own machines over SSH, entirely from VS Code: one-click local setup, add and manage workers, run any language in parallel with live output, and train built-in, custom or Spark models."
+2026-10-17T12:56:53.223Z,felipelourenco.stylelift,felipelourenco,StyleLift,1.0.1,"Extract inline styles from React Native components into StyleSheet.create with one action: smart naming, dynamic-value split, extract all, reuse and merge."
+2026-10-17T13:00:51.603Z,staleproof.staleproof,staleproof,Staleproof,0.6.0,"Stale docs references as you type: paths, links, commands, CLI flags, env vars, symbols and docstrings that your docs and AI agent files (AGENTS.md, CLAUDE.md, Cursor rules) get wrong, with verified fixes."
+2026-10-17T13:05:16.523Z,infloop.xmindmap,infloop,XMindmap,0.1.0,在 VS Code 中编辑思维导图，支持大纲、主题、连线样式和导入导出。
+2026-10-17T13:05:38.697Z,M-H-H.archi3d,M-H-H,Archi3D,0.1.0,"Live 3D preview of software architecture models (.arch3d, Mermaid architecture-beta): components, ports and links stacked by nesting level."

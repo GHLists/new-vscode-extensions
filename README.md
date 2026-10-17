@@ -12,23 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 12:20 UTC
+## Latest list — 2026-10-17 13:18 UTC
 
-New extensions published between 2026-10-17 10:20 UTC and 2026-10-17 12:20 UTC.
+New extensions published between 2026-10-17 11:18 UTC and 2026-10-17 13:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T12-20-26-680092Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T13-18-45-311278Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 11:10:47 | [thanhdang.explorer-for-twincat](https://marketplace.visualstudio.com/items?itemName=thanhdang.explorer-for-twincat) | Explorer for TwinCAT | 0.11.0 | XAE-like TwinCAT PLC project tree, an XAE-like declaration/implementation split… |
-| 2026-10-17 11:17:36 | [buggers.buggers-vscode](https://marketplace.visualstudio.com/items?itemName=buggers.buggers-vscode) | Buggers | 1.1.0 | Automated Pull Request Code Review, OWASP SAST Flaw Detection & Bug Triage |
-| 2026-10-17 11:17:46 | [Pwaappscom.localcoder](https://marketplace.visualstudio.com/items?itemName=Pwaappscom.localcoder) | LocalCoder | 0.14.4 | Private GGUF coding agent powered by llama.cpp — created by pwaapps.com |
-| 2026-10-17 11:23:29 | [Vivian.xf-omnimarkdown](https://marketplace.visualstudio.com/items?itemName=Vivian.xf-omnimarkdown) | XF OmniMarkdown | 1.0.1 | All-in-one Markdown productivity suite: Interactive Mermaid diagrams (high cont… |
-| 2026-10-17 11:31:13 | [0xshubhs.paramlight](https://marketplace.visualstudio.com/items?itemName=0xshubhs.paramlight) | Paramlight | 0.1.0 | Semantic inline highlighting of function arguments, fields, constants, globals… |
-| 2026-10-17 11:39:48 | [tokenguard-labs.tokenguard-localpilot](https://marketplace.visualstudio.com/items?itemName=tokenguard-labs.tokenguard-localpilot) | TokenGuard — LocalPilot | 0.1.1 | Local-first AI coding assistant: answers simple questions with a local Ollama m… |
-| 2026-10-17 12:05:24 | [LukasMaag.graphviz-interactive](https://marketplace.visualstudio.com/items?itemName=LukasMaag.graphviz-interactive) | Interactive Graphviz | 0.1.5 | Interactive Graphviz preview for DOT files, rendered with WebAssembly. No syste… |
-| 2026-10-17 12:09:07 | [Omer-Cayir.gitatlas-rev](https://marketplace.visualstudio.com/items?itemName=Omer-Cayir.gitatlas-rev) | GitAtlas-Rev | 0.2.0 | A map that lets you read a repo at a glance: files are sized by line count and… |
-| 2026-10-17 12:09:33 | [ferrisching.dsh-editor-link](https://marketplace.visualstudio.com/items?itemName=ferrisching.dsh-editor-link) | DSH Editor Link | 0.1.0 | The link between DeepSeek Harness and VS Code: answer approvals and questions i… |
+| 2026-10-17 12:35:10 | [appmonster007.vscode-yamd-ext](https://marketplace.visualstudio.com/items?itemName=appmonster007.vscode-yamd-ext) | YAMD Studio | 0.1.1 | Language support for YAMD: syntax highlighting, live preview, diagnostics and e… |
+| 2026-10-17 12:46:08 | [kuchingneko.assembly-explorer](https://marketplace.visualstudio.com/items?itemName=kuchingneko.assembly-explorer) | Assembly Explorer | 0.9.0 | Compile C/C++ to assembly with Compiler Explorer and inspect it side by side wi… |
+| 2026-10-17 12:46:22 | [vmise.aipi](https://marketplace.visualstudio.com/items?itemName=vmise.aipi) | AIPI - API Intelligence | 0.3.0 | Local API intelligence, bounded agent context and verification inside VS Code a… |
+| 2026-10-17 12:48:55 | [Harizz076.sarvam-codewalk](https://marketplace.visualstudio.com/items?itemName=Harizz076.sarvam-codewalk) | Sarvam Codewalk | 0.1.0 | A calm multilingual learning companion for small, approved coding changes. |
+| 2026-10-17 12:51:59 | [RJVR.assetforge](https://marketplace.visualstudio.com/items?itemName=RJVR.assetforge) | AssetForge | 0.0.1 | Convert, optimize, and batch-process images locally inside VS Code. |
+| 2026-10-17 12:52:13 | [aaron43210.distributed-compute](https://marketplace.visualstudio.com/items?itemName=aaron43210.distributed-compute) | Distributed Compute | 1.0.0 | Run code and train models on your own machines over SSH, entirely from VS Code:… |
+| 2026-10-17 12:56:53 | [felipelourenco.stylelift](https://marketplace.visualstudio.com/items?itemName=felipelourenco.stylelift) | StyleLift | 1.0.1 | Extract inline styles from React Native components into StyleSheet.create with… |
+| 2026-10-17 13:00:51 | [staleproof.staleproof](https://marketplace.visualstudio.com/items?itemName=staleproof.staleproof) | Staleproof | 0.6.0 | Stale docs references as you type: paths, links, commands, CLI flags, env vars,… |
+| 2026-10-17 13:05:16 | [infloop.xmindmap](https://marketplace.visualstudio.com/items?itemName=infloop.xmindmap) | XMindmap | 0.1.0 | 在 VS Code 中编辑思维导图，支持大纲、主题、连线样式和导入导出。 |
+| 2026-10-17 13:05:38 | [M-H-H.archi3d](https://marketplace.visualstudio.com/items?itemName=M-H-H.archi3d) | Archi3D | 0.1.0 | Live 3D preview of software architecture models (.arch3d, Mermaid architecture-… |
 
 ## Data source
 
