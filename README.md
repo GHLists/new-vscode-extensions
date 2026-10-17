@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 04:19 UTC
+## Latest list — 2026-10-17 05:19 UTC
 
-New extensions published between 2026-10-17 02:19 UTC and 2026-10-17 04:19 UTC.
+New extensions published between 2026-10-17 03:19 UTC and 2026-10-17 05:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T04-19-05-998577Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T05-19-46-97791Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 03:51:47 | [ReadyStack.jest-snippets-8-stacks](https://marketplace.visualstudio.com/items?itemName=ReadyStack.jest-snippets-8-stacks) | Jest Snippets + 7 More Stacks (40 Snipp… | 0.1.5 | One fit( merged into main turns a green suite into a single passing test. 20 ch… |
-| 2026-10-17 03:51:59 | [ReadyStack.js-licence-key-gate](https://marketplace.visualstudio.com/items?itemName=ReadyStack.js-licence-key-gate) | JS Licence Key Gate: GPL & Eval Keys | 1.0.2 | Flags GPL and evaluation licence keys and missing commercial keys for Handsonta… |
-| 2026-10-17 03:54:56 | [GopherViz.gopherviz](https://marketplace.visualstudio.com/items?itemName=GopherViz.gopherviz) | GopherViz | 1.0.0 | See how your code runs as a pixel-art game, live while you type. Loops, if/swit… |
-| 2026-10-17 03:57:48 | [ManuelOsorio.flint-ui-lsp](https://marketplace.visualstudio.com/items?itemName=ManuelOsorio.flint-ui-lsp) | Flint UI Language Support | 0.1.0 | Language support for FlintEngine declarative UI files. |
-| 2026-10-17 04:00:54 | [sulthan1869.ghostline](https://marketplace.visualstudio.com/items?itemName=sulthan1869.ghostline) | Ghostline | 0.1.0 | Copilot-style inline completions powered by your local Claude Code CLI. |
+| 2026-10-17 04:16:30 | [OrangeJuicer01.vscode-dungeon-crawler](https://marketplace.visualstudio.com/items?itemName=OrangeJuicer01.vscode-dungeon-crawler) | vscode dungeon crawler | 0.1.1 | A pixel-art dungeon crawler in the bottom panel where each active Claude Code a… |
+| 2026-10-17 04:27:55 | [parsley.parsley](https://marketplace.visualstudio.com/items?itemName=parsley.parsley) | parsley | 0.0.1 | parsley extension placeholder by parsley. |
+| 2026-10-17 04:57:02 | [zoft123.metal-gear-gcl](https://marketplace.visualstudio.com/items?itemName=zoft123.metal-gear-gcl) | GCL — Metal Gear GCX scripts | 0.1.0 | Decompile, edit and compile GCX scripts (scenerio.gcx) of MGS4, Metal Gear Onli… |
 
 ## Data source
 
