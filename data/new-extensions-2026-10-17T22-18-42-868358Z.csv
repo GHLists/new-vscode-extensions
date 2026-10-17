@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T21:18:48.93Z,rajpaynaik.logsite,rajpaynaik,logsite,0.1.0,"See how often each log line fires in production, what it costs, and catch bad logging, right next to the log call. Python, Java and Go."
+2026-10-17T21:34:37.673Z,adamdebest.adamai-code-pro,adamdebest,AdamAI Code Pro,1.0.2,"Code Pro in VS Code: chat about your code, and explain, fix, test or review it with AdamAI."
+2026-10-17T21:38:16.46Z,brickadia-community.brickadia-wirescript,brickadia-community,Brickadia Wirescript,0.1.0,"Language support for Wirescript, a language that compiles to Brickadia's logic gates: errors as you type, completion, hover, formatting and one-key compile to a .brz"
+2026-10-17T21:55:50.647Z,MariaRajabzadeh.weightscope,MariaRajabzadeh,"WeightScope — Safetensors, GGUF & Checkpoint Inspector",0.5.0,"Inspect model layers, tensor health, precision and checkpoint drift locally, on demand."
+2026-10-17T21:58:32.65Z,remesm.lsp4nrx,remesm,NetRexx,1.0.4,Language Server Protocol and Debug Adapter Protocol support for NetRexx
+2026-10-17T22:13:32.893Z,MercuryWave.dorsal,MercuryWave,Dorsal,0.1.0,No-frills inline AI coding assistant VS code plugin
