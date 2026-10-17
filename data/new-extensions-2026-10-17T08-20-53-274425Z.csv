@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T07:21:52.98Z,COM1919.gclua,COM1919,GC Lua,1.0.12,GC 连点器脚本语言（GC Lua）支持：语法高亮、智能补全、悬停文档、参数提示、错误/警告识别、语法纠正与括号自动补全。
+2026-10-17T07:30:43.643Z,NavneetYadav.project-loader,NavneetYadav,Project Loader,1.1.0,Save multiple project folders and open them in a new or the current VS Code window from a sidebar list.
+2026-10-17T07:52:53.457Z,OmerCayir43.gitatlas-revrev,OmerCayir43,GitAtlas-RevRev,0.1.0,"Repoyu tek bakışta okutan harita: dosyalar satır sayısına göre boyutlanır, değişim sıklığına göre renklenir."
+2026-10-17T07:53:09.807Z,donaldtrump-coder.image-information,donaldtrump-coder,Image Information,0.0.1,"Displays image information (dimensions, size, format, metadata)."
+2026-10-17T07:56:56.837Z,lamoonagi.memflow,lamoonagi,MemFlow — AI Context & Token Analyzer,0.1.0,AI Context & Token Analyzer by LamoonAGI — analyze context waste and token costs before you pay for them
+2026-10-17T08:03:59.197Z,Himabindu.bim-to-pbip,Himabindu,BIM to PBIP Converter,0.1.0,Convert model.bim files to Power BI Project (PBIP) folders
+2026-10-17T08:13:21.187Z,Qwern9876r.rooklang,Qwern9876r,Rook Language,0.1.0,"Rook support: highlighting, errors as you type and completion"
+2026-10-17T08:17:44.527Z,asiball.vscode-wslpath,asiball,WSL Path Copier,0.0.1,Copy WSL files and folders as Windows paths.
