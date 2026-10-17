@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-17 18:18 UTC
+## Latest list — 2026-10-17 19:19 UTC
 
-New extensions published between 2026-10-17 16:18 UTC and 2026-10-17 18:18 UTC.
+New extensions published between 2026-10-17 17:19 UTC and 2026-10-17 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-17T18-18-45-109277Z.csv)
+[Full CSV](data/new-extensions-2026-10-17T19-19-28-137631Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 17:16:54 | [Edgemodders.edgedeck](https://marketplace.visualstudio.com/items?itemName=Edgemodders.edgedeck) | EDGEdeck | 0.27.3 | A simple mod manager for Cyberpunk 2077: one list, add, on/off, deploy, remove. |
-| 2026-10-17 17:17:59 | [Rvm-lua.agora](https://marketplace.visualstudio.com/items?itemName=Rvm-lua.agora) | Agora — chat multi-IA | 0.1.0 | Toutes les IA gratuites dans ton éditeur : chat, explication et correction de c… |
-| 2026-10-17 17:29:53 | [SergenEren.exrview](https://marketplace.visualstudio.com/items?itemName=SergenEren.exrview) | EXRView | 0.2.1 | OpenEXR viewer: multi-part, multi-layer, deep, Cryptomatte, every compression c… |
-| 2026-10-17 17:43:06 | [elliotluque.living-code](https://marketplace.visualstudio.com/items?itemName=elliotluque.living-code) | Living Code | 0.1.1 | Teal structure, amber data, on dark slate. Night, Frost, Paper and Signal color… |
-| 2026-10-17 18:05:03 | [houssam-ouatmani.lombok-sense](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.lombok-sense) | Lombok Sense | 0.1.1 | Comprehensive, first-class language support for Lombok configuration (lombok.co… |
-| 2026-10-17 18:06:30 | [sups23.markdown-snapsave](https://marketplace.visualstudio.com/items?itemName=sups23.markdown-snapsave) | Markdown SnapSave | 0.0.1 | Save clipboard images with custom filenames and workspace-relative Markdown lin… |
+| 2026-10-17 18:17:00 | [bodycommit.bodycommit](https://marketplace.visualstudio.com/items?itemName=bodycommit.bodycommit) | BodyCommit | 0.3.2 | Designed movement sequences for the workday, with a Quiet office mode. No score… |
+| 2026-10-17 18:26:49 | [da3dsoul.providex](https://marketplace.visualstudio.com/items?itemName=da3dsoul.providex) | Sage ProvideX | 0.1.0 | Language support for Sage ProvideX (Sage 100 / MAS 90): syntax highlighting, la… |
+| 2026-10-17 18:27:56 | [shipneck.shipcheck](https://marketplace.visualstudio.com/items?itemName=shipneck.shipcheck) | ShipCheck | 0.1.0 | Check project readiness before you ship software. |
+| 2026-10-17 18:30:57 | [saltyorg.saltbox-lint](https://marketplace.visualstudio.com/items?itemName=saltyorg.saltbox-lint) | Saltbox Lint | 0.2.0 | Saltbox and Sandbox YAML diagnostics, verified fixes and formatting. |
+| 2026-10-17 18:52:39 | [aatishdev.codenudge](https://marketplace.visualstudio.com/items?itemName=aatishdev.codenudge) | CodeNudge | 0.0.21 | Learn to debug with progressive AI hints, reviewed fixes, and step-by-step proj… |
+| 2026-10-17 18:54:32 | [CleanscapeSoftware.sarif-triage](https://marketplace.visualstudio.com/items?itemName=CleanscapeSoftware.sarif-triage) | SARIF Triage Viewer | 3.5.0 | Governed SARIF triage for Fortran Secure and Fortran-lint: durable suppressions… |
+| 2026-10-17 19:08:22 | [best-dev.turbo-log-flash](https://marketplace.visualstudio.com/items?itemName=best-dev.turbo-log-flash) | Turbo Log Flash | 3.29.0 | Insert debug logs in one keystroke. AST-powered logging for JavaScript, TypeScr… |
+| 2026-10-17 19:12:52 | [vasvasnr.bm-codex-usage-monitor](https://marketplace.visualstudio.com/items?itemName=vasvasnr.bm-codex-usage-monitor) | bm.Codex Usage Monitor | 0.0.7 | A compact Codex usage indicator for the VS Code status bar. |
 
 ## Data source
 
