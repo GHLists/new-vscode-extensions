@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-16T23:49:42.25Z,Elringus.wgsl-linter,Elringus,WGSL Linter,0.0.1,"WGSL language support: semantic highlighting, diagnostics, completion, hover, navigation, rename and formatting."
+2026-10-16T23:55:45.347Z,ChristianMichelson.starwars-language,ChristianMichelson,Linguagem Star Wars,0.2.0,"Destaque de sintaxe, explicações ao passar o mouse e autocompletar para a linguagem Star Wars (.starwars)."
+2026-10-17T00:00:43.207Z,vishsiri.ssh-search-recent,vishsiri,SSH Search & Recent,0.1.0,Search Remote Explorer SSH hosts and recently opened remote folders.
+2026-10-17T00:01:45.973Z,beehexa-corp.workflow-designer-vscode,beehexa-corp,Beehexa Workflow Designer,2608.20.17,Dedicated workspace extension for Beehexa Workflow Designer.
+2026-10-17T00:08:16.18Z,Yantrakar.llmpro,Yantrakar,llmpro,0.0.1,"Keep your AI tools' skills, memory and history in one place, and keep secrets and the wrong git identity out of them. Not released yet."
+2026-10-17T00:09:53.827Z,Avello.avello,Avello,Avello — modelos de IA no chat do VS Code,1.0.0,"Os modelos do seu plano Avello no menu de modelos do chat do VS Code. Troque de modelo no meio da conversa, inclusive no modo agente."
+2026-10-17T00:14:28.017Z,thinkyhead.ataricode800,thinkyhead,AtariCode800,0.1.0,"Atari 400/800 programming: Atari BASIC and 6502 assembly with syntax coloring, themes, and one-click build and run in the atari800 emulator."
