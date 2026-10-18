@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T11:21:01.597Z,adel-saer-aljaed.adels-grimoire,adel-saer-aljaed,Adel's Grimoire,1.0.1,"Hover documentation for every SystemVerilog keyword and the UVM library, plus Jasper CDC/RDC and Superlint violations as squiggles"
+2026-10-18T11:22:45.093Z,blinpete.theme-bangkok,blinpete,Bangkok Theme,0.1.0,Bangkok theme for VS Code
+2026-10-18T11:31:00.127Z,tranphucbol.jetbrain-gitlab,tranphucbol,Jetbrain GitLab,0.0.2,"A fork of GitLab Workflow for older GitLab instances (13.12), with a side-by-side merge request diff."
+2026-10-18T11:50:47.037Z,ACoreX.tools-vscode-chat-rtl,ACoreX,Chat RTL,1.0.0,"Right-to-left Persian, Arabic, and Hebrew in VS Code Chat and Cursor chat and agent messages, including sentences mixed with English."
+2026-10-18T11:52:13.16Z,unkpn.visual-rebase,unkpn,Visual Rebase,0.0.5,Simplify interactive git rebase with an easy-to-use visual editor
+2026-10-18T12:16:13.8Z,quick-runner.quick-runner,quick-runner,Quick Runner,0.12.2,"Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,"

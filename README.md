@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 11:19 UTC
+## Latest list — 2026-10-18 12:19 UTC
 
-New extensions published between 2026-10-18 09:19 UTC and 2026-10-18 11:19 UTC.
+New extensions published between 2026-10-18 10:19 UTC and 2026-10-18 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T11-19-49-25038Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T12-19-52-372287Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 10:19:40 | [heybiplab.bouncer](https://marketplace.visualstudio.com/items?itemName=heybiplab.bouncer) | Bouncer | 0.1.0 | Review Claude Code's file changes after it finishes. Keep or undo each file, wi… |
-| 2026-10-18 10:21:20 | [sanket-manohar.kosmora](https://marketplace.visualstudio.com/items?itemName=sanket-manohar.kosmora) | Kosmora: MongoDB Schema Designer | 1.0.0 | Design MongoDB schemas on a visual canvas and export them to JSON Schema, Mongo… |
-| 2026-10-18 10:24:28 | [TaouMou.feles-theme](https://marketplace.visualstudio.com/items?itemName=TaouMou.feles-theme) | Feles Theme | 2.2.0 | Soft, JetBrains-inspired dark and light themes in seven cat coats: Cinnamon, Ru… |
-| 2026-10-18 10:25:46 | [cgalvisleon.dbclient](https://marketplace.visualstudio.com/items?itemName=cgalvisleon.dbclient) | DB Client: SQL, Redis & NATS | 0.13.1 | Database client for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, Redis and NA… |
-| 2026-10-18 10:37:33 | [SamirMistry.cmake-preset-configurator](https://marketplace.visualstudio.com/items?itemName=SamirMistry.cmake-preset-configurator) | CMake Preset & Build Configurator | 1.0.1 | Smart CMake project scanner, GUI configurator, and build panel with preset sele… |
-| 2026-10-18 10:52:25 | [noorashuvo.skill-hub](https://marketplace.visualstudio.com/items?itemName=noorashuvo.skill-hub) | Skill Hub | 0.3.0 | Collect AI agent skills from anywhere (GitHub, any git repo, URLs, local folder… |
+| 2026-10-18 11:21:01 | [adel-saer-aljaed.adels-grimoire](https://marketplace.visualstudio.com/items?itemName=adel-saer-aljaed.adels-grimoire) | Adel's Grimoire | 1.0.1 | Hover documentation for every SystemVerilog keyword and the UVM library, plus J… |
+| 2026-10-18 11:22:45 | [blinpete.theme-bangkok](https://marketplace.visualstudio.com/items?itemName=blinpete.theme-bangkok) | Bangkok Theme | 0.1.0 | Bangkok theme for VS Code |
+| 2026-10-18 11:31:00 | [tranphucbol.jetbrain-gitlab](https://marketplace.visualstudio.com/items?itemName=tranphucbol.jetbrain-gitlab) | Jetbrain GitLab | 0.0.2 | A fork of GitLab Workflow for older GitLab instances (13.12), with a side-by-si… |
+| 2026-10-18 11:50:47 | [ACoreX.tools-vscode-chat-rtl](https://marketplace.visualstudio.com/items?itemName=ACoreX.tools-vscode-chat-rtl) | Chat RTL | 1.0.0 | Right-to-left Persian, Arabic, and Hebrew in VS Code Chat and Cursor chat and a… |
+| 2026-10-18 11:52:13 | [unkpn.visual-rebase](https://marketplace.visualstudio.com/items?itemName=unkpn.visual-rebase) | Visual Rebase | 0.0.5 | Simplify interactive git rebase with an easy-to-use visual editor |
+| 2026-10-18 12:16:13 | [quick-runner.quick-runner](https://marketplace.visualstudio.com/items?itemName=quick-runner.quick-runner) | Quick Runner | 0.12.2 | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD… |
 
 ## Data source
 
