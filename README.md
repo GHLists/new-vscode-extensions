@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 05:18 UTC
+## Latest list — 2026-10-18 06:20 UTC
 
-New extensions published between 2026-10-18 03:18 UTC and 2026-10-18 05:18 UTC.
+New extensions published between 2026-10-18 04:20 UTC and 2026-10-18 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T05-18-44-426993Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T06-20-42-983411Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 04:34:16 | [ragulsundaram.agent-logbook](https://marketplace.visualstudio.com/items?itemName=ragulsundaram.agent-logbook) | Agent Logbook | 1.3.0 | Browse, search, resume and measure your Claude Code and Codex sessions - with s… |
-| 2026-10-18 04:40:19 | [rgx-studio.shaderlab-kit](https://marketplace.visualstudio.com/items?itemName=rgx-studio.shaderlab-kit) | ShaderLab Kit | 0.1.0 | Unity HLSL/URP shader tooling for VS Code: completion, hover docs, diagnostics,… |
-| 2026-10-18 05:00:47 | [kouhei-elimi.codex-attention](https://marketplace.visualstudio.com/items?itemName=kouhei-elimi.codex-attention) | Codex Attention — Kohei Elimi Lab | 0.1.3 | Flash matching VS Code windows and focus the requesting window when Codex needs… |
-| 2026-10-18 05:07:45 | [farapholch.lagoon-ember-theme](https://marketplace.visualstudio.com/items?itemName=farapholch.lagoon-ember-theme) | Lagoon Ember | 1.0.1 | A calm deep-petrol theme with turquoise strings, soft blue types, peach functio… |
-| 2026-10-18 05:10:37 | [sanket-manohar.bryony](https://marketplace.visualstudio.com/items?itemName=sanket-manohar.bryony) | Bryony: Flutter State Flow (Riverpod, B… | 1.0.0 | See how your Flutter app's state flows. A live, interactive graph of Riverpod p… |
+| 2026-10-18 05:48:58 | [OctoApps.octopower](https://marketplace.visualstudio.com/items?itemName=OctoApps.octopower) | OctoPower | 1.0.1 | OctoPower MCP VS Code extension - 4,000+ capabilities without Claude/Codex depe… |
+| 2026-10-18 05:49:06 | [SourceCrafter.xzor-language](https://marketplace.visualstudio.com/items?itemName=SourceCrafter.xzor-language) | XZor by SourceCrafter | 0.1.13 | Language support for .xzor components (xzor: Blazor-style components for TypeSc… |
+| 2026-10-18 05:57:05 | [ricardomoratomateos.stack-agents](https://marketplace.visualstudio.com/items?itemName=ricardomoratomateos.stack-agents) | Stack — Parallel AI Agents | 0.1.0 | Run parallel AI coding agents (Claude Code, Codex CLI, opencode) across git wor… |
+| 2026-10-18 06:18:00 | [tingxi8087.git-ai-commit-plus](https://marketplace.visualstudio.com/items?itemName=tingxi8087.git-ai-commit-plus) | Git AI Commit Plus | 0.3.2 | 在源代码管理中一键生成中文或英文提交说明，支持 DeepSeek。 |
 
 ## Data source
 

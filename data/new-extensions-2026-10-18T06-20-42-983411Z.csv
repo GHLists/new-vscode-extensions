@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T05:48:58.33Z,OctoApps.octopower,OctoApps,OctoPower,1.0.1,"OctoPower MCP VS Code extension - 4,000+ capabilities without Claude/Codex dependencies"
+2026-10-18T05:49:06.643Z,SourceCrafter.xzor-language,SourceCrafter,XZor by SourceCrafter,0.1.13,Language support for .xzor components (xzor: Blazor-style components for TypeScript)
+2026-10-18T05:57:05.853Z,ricardomoratomateos.stack-agents,ricardomoratomateos,Stack — Parallel AI Agents,0.1.0,"Run parallel AI coding agents (Claude Code, Codex CLI, opencode) across git worktrees, each in its own tmux session, from one sidebar."
+2026-10-18T06:18:00.743Z,tingxi8087.git-ai-commit-plus,tingxi8087,Git AI Commit Plus,0.3.2,在源代码管理中一键生成中文或英文提交说明，支持 DeepSeek。
