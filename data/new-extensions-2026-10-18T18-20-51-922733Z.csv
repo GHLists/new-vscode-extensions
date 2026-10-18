@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T17:19:54.773Z,gox-lang.gox-tools,gox-lang,GOX Tools,0.1.3,Official editor tools for the GOX language.
+2026-10-18T17:20:46.453Z,Habeebu-Rahman-CA.minilang-vscode,Habeebu-Rahman-CA,Mini Programming Language,1.0.0,"Syntax highlighting, file icons, code snippets, and live error diagnostics for the Mini (.mini) natural-English programming language."
+2026-10-18T17:22:18.687Z,gox-lang.gox-language-tools,gox-lang,GOX Language Tools,0.1.3,Official editor tools for the GOX language.
+2026-10-18T17:23:32.23Z,razgraf.css-modules-devtools,razgraf,CSS Modules DevTools,0.0.1,"Completion, go-to-definition, hover, diagnostics and color swatches for CSS Modules and CSS variables."
+2026-10-18T17:25:50.36Z,gaionix.gaionix-coder,gaionix,Gaionix Coder,1.0.0,"A local-first coding agent for VS Code with streaming chat, persistent sessions, workspace tools, and reviewed edits."
+2026-10-18T17:33:48.48Z,diondokter.device-driver,diondokter,device-driver,1.0.0,Official vscode extension for device-driver
+2026-10-18T17:34:30.583Z,smojon.md-runbook,smojon,Markdown Runbook,0.1.0,"Run shell blocks in Markdown runbooks as a notebook and keep their output in the same .md file: PowerShell, cmd and bash on Windows, macOS and Linux, with secret redaction, approvals for AI-proposed commands and safe sharing with AI."
+2026-10-18T17:37:17.097Z,hibouhq.hibou,hibouhq,hibou,0.1.0,"hibou security findings in your editor: diagnostics on the lines they were found, native suppressions, triage and gate status."
+2026-10-18T17:38:14.403Z,fatougaye.attaya-night,fatougaye,Attaya Night,0.2.0,"A dark, playful theme and a little attaya teapot that brews while you code, builds foam while you focus, reheats while you take a break, watches your training runs and pours when things go well."
+2026-10-18T17:46:38.393Z,christian-jaimes.diamond-documentation,christian-jaimes,Diamond Documentation,0.4.3,"Write and navigate project documentation in VS Code: an editable formatted editor, links to any file, backlinks and an interactive graph of your docs and code."
+2026-10-18T17:49:06.293Z,PageOptimizerAI.page-optimizer-ai,PageOptimizerAI,Page Optimizer AI,0.0.1,"AI-powered VS Code extension to analyze web pages, detect performance issues, and suggest optimizations."
+2026-10-18T17:57:04.667Z,PageOptimizerAI.webboost-ai,PageOptimizerAI,WebBoost AI,0.0.1,"AI-powered VS Code extension to analyze web pages, detect performance issues, and suggest optimizations."

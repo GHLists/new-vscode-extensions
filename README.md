@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 17:20 UTC
+## Latest list — 2026-10-18 18:20 UTC
 
-New extensions published between 2026-10-18 15:20 UTC and 2026-10-18 17:20 UTC.
+New extensions published between 2026-10-18 16:20 UTC and 2026-10-18 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T17-20-47-376835Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T18-20-51-922733Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 16:16:04 | [fefeding.jdoc-viewer](https://marketplace.visualstudio.com/items?itemName=fefeding.jdoc-viewer) | jdoc Document Viewer | 0.1.1 | 在 VS Code 中查看并编辑 PPTX / DOCX / XLSX / PDF 文档（由 @fefeding/jdoc 驱动） |
-| 2026-10-18 16:21:13 | [ToadishFrog67.markdown-preview-colours](https://marketplace.visualstudio.com/items?itemName=ToadishFrog67.markdown-preview-colours) | Markdown Preview Palettes (Toadish) | 0.1.0 | Colour presets for the built-in Markdown preview: headings, bold text, inline c… |
-| 2026-10-18 16:31:36 | [dark-dmake.plantuml-next](https://marketplace.visualstudio.com/items?itemName=dark-dmake.plantuml-next) | PlantUML Next | 2.19.3 | Rich PlantUML support for Visual Studio Code. A fork of jebbs' PlantUML extensi… |
-| 2026-10-18 16:31:51 | [treeviet.treeviet](https://marketplace.visualstudio.com/items?itemName=treeviet.treeviet) | TreeViet for Git | 0.1.1 | Git graph, branches, diff, merge/rebase and profiles in one fast panel — the Tr… |
-| 2026-10-18 16:40:37 | [quickrunner.quickrunner](https://marketplace.visualstudio.com/items?itemName=quickrunner.quickrunner) | Quick Code Runner | 0.12.3 | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD… |
-| 2026-10-18 16:43:05 | [azarrapps.azarr-console](https://marketplace.visualstudio.com/items?itemName=azarrapps.azarr-console) | Azarr Console | 0.1.1 | Pull and push a project's README, ChangeLog and source code to the Azarr Consol… |
-| 2026-10-18 16:56:04 | [xaxys.exdiff](https://marketplace.visualstudio.com/items?itemName=xaxys.exdiff) | ExDiff | 0.2.3 | Review Git revisions in VS Code with real on-disk snapshots, so hover, Go to De… |
-| 2026-10-18 16:57:22 | [BlaiseRodrigues.litcode](https://marketplace.visualstudio.com/items?itemName=BlaiseRodrigues.litcode) | LitCode | 1.0.0 | Practice LeetCode offline and online: Daily challenges, Striver & NeetCode stud… |
-| 2026-10-18 17:08:10 | [MdShahAmanPatwary.commitsense-ai](https://marketplace.visualstudio.com/items?itemName=MdShahAmanPatwary.commitsense-ai) | CommitSense AI - Conventional Commits w… | 0.1.0 | Generate clean, meaningful Conventional Commit messages using Groq or Gemini AI… |
+| 2026-10-18 17:19:54 | [gox-lang.gox-tools](https://marketplace.visualstudio.com/items?itemName=gox-lang.gox-tools) | GOX Tools | 0.1.3 | Official editor tools for the GOX language. |
+| 2026-10-18 17:20:46 | [Habeebu-Rahman-CA.minilang-vscode](https://marketplace.visualstudio.com/items?itemName=Habeebu-Rahman-CA.minilang-vscode) | Mini Programming Language | 1.0.0 | Syntax highlighting, file icons, code snippets, and live error diagnostics for… |
+| 2026-10-18 17:22:18 | [gox-lang.gox-language-tools](https://marketplace.visualstudio.com/items?itemName=gox-lang.gox-language-tools) | GOX Language Tools | 0.1.3 | Official editor tools for the GOX language. |
+| 2026-10-18 17:23:32 | [razgraf.css-modules-devtools](https://marketplace.visualstudio.com/items?itemName=razgraf.css-modules-devtools) | CSS Modules DevTools | 0.0.1 | Completion, go-to-definition, hover, diagnostics and color swatches for CSS Mod… |
+| 2026-10-18 17:25:50 | [gaionix.gaionix-coder](https://marketplace.visualstudio.com/items?itemName=gaionix.gaionix-coder) | Gaionix Coder | 1.0.0 | A local-first coding agent for VS Code with streaming chat, persistent sessions… |
+| 2026-10-18 17:33:48 | [diondokter.device-driver](https://marketplace.visualstudio.com/items?itemName=diondokter.device-driver) | device-driver | 1.0.0 | Official vscode extension for device-driver |
+| 2026-10-18 17:34:30 | [smojon.md-runbook](https://marketplace.visualstudio.com/items?itemName=smojon.md-runbook) | Markdown Runbook | 0.1.0 | Run shell blocks in Markdown runbooks as a notebook and keep their output in th… |
+| 2026-10-18 17:37:17 | [hibouhq.hibou](https://marketplace.visualstudio.com/items?itemName=hibouhq.hibou) | hibou | 0.1.0 | hibou security findings in your editor: diagnostics on the lines they were foun… |
+| 2026-10-18 17:38:14 | [fatougaye.attaya-night](https://marketplace.visualstudio.com/items?itemName=fatougaye.attaya-night) | Attaya Night | 0.2.0 | A dark, playful theme and a little attaya teapot that brews while you code, bui… |
+| 2026-10-18 17:46:38 | [christian-jaimes.diamond-documentation](https://marketplace.visualstudio.com/items?itemName=christian-jaimes.diamond-documentation) | Diamond Documentation | 0.4.3 | Write and navigate project documentation in VS Code: an editable formatted edit… |
+| 2026-10-18 17:49:06 | [PageOptimizerAI.page-optimizer-ai](https://marketplace.visualstudio.com/items?itemName=PageOptimizerAI.page-optimizer-ai) | Page Optimizer AI | 0.0.1 | AI-powered VS Code extension to analyze web pages, detect performance issues, a… |
+| 2026-10-18 17:57:04 | [PageOptimizerAI.webboost-ai](https://marketplace.visualstudio.com/items?itemName=PageOptimizerAI.webboost-ai) | WebBoost AI | 0.0.1 | AI-powered VS Code extension to analyze web pages, detect performance issues, a… |
 
 ## Data source
 
