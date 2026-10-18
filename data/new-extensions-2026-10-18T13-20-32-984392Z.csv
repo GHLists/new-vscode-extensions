@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T12:18:14.107Z,agenttelemetry-team.agenttelemetry,agenttelemetry-team,AgentTelemetry,2.0.1,"Tokens, estimated API cost and subagent sessions for Claude Code, Codex, Copilot and more. Local by default."
+2026-10-18T12:23:42.327Z,Devly.devly,Devly,Devly,0.1.0,A home for curious developers. Learn something new. Build it. Run it. Understand it — with Shade.
+2026-10-18T12:34:18.547Z,VincentKimuri.zuntenium-api-explorer,VincentKimuri,Zuntenium API Explorer,0.1.0,"Explore, test, and monitor the QuFlow Cloud FastAPI gateway — spec-driven request running, code generation, drift detection"
+2026-10-18T12:34:43.067Z,VincentKimuri.zuntenium-predict,VincentKimuri,Zuntenium Code Prediction,0.1.0,"API-aware code completion, signature help, hover, and diagnostics for the Zuntenium QuFlow SDK"
+2026-10-18T12:34:58.09Z,VincentKimuri.zuntenium-workspace,VincentKimuri,Zuntenium Workspace,0.1.0,"QuFlow visual workspace in VS Code — circuit builder, Bloch sphere, simulation, and cloud job telemetry"
+2026-10-18T13:08:26.207Z,SharonJohnson.snappyturtle,SharonJohnson,Snappy Turtle,0.1.0,genome sequence visualizer

@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 12:19 UTC
+## Latest list — 2026-10-18 13:20 UTC
 
-New extensions published between 2026-10-18 10:19 UTC and 2026-10-18 12:19 UTC.
+New extensions published between 2026-10-18 11:20 UTC and 2026-10-18 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T12-19-52-372287Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T13-20-32-984392Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 11:21:01 | [adel-saer-aljaed.adels-grimoire](https://marketplace.visualstudio.com/items?itemName=adel-saer-aljaed.adels-grimoire) | Adel's Grimoire | 1.0.1 | Hover documentation for every SystemVerilog keyword and the UVM library, plus J… |
-| 2026-10-18 11:22:45 | [blinpete.theme-bangkok](https://marketplace.visualstudio.com/items?itemName=blinpete.theme-bangkok) | Bangkok Theme | 0.1.0 | Bangkok theme for VS Code |
-| 2026-10-18 11:31:00 | [tranphucbol.jetbrain-gitlab](https://marketplace.visualstudio.com/items?itemName=tranphucbol.jetbrain-gitlab) | Jetbrain GitLab | 0.0.2 | A fork of GitLab Workflow for older GitLab instances (13.12), with a side-by-si… |
-| 2026-10-18 11:50:47 | [ACoreX.tools-vscode-chat-rtl](https://marketplace.visualstudio.com/items?itemName=ACoreX.tools-vscode-chat-rtl) | Chat RTL | 1.0.0 | Right-to-left Persian, Arabic, and Hebrew in VS Code Chat and Cursor chat and a… |
-| 2026-10-18 11:52:13 | [unkpn.visual-rebase](https://marketplace.visualstudio.com/items?itemName=unkpn.visual-rebase) | Visual Rebase | 0.0.5 | Simplify interactive git rebase with an easy-to-use visual editor |
-| 2026-10-18 12:16:13 | [quick-runner.quick-runner](https://marketplace.visualstudio.com/items?itemName=quick-runner.quick-runner) | Quick Runner | 0.12.2 | Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD… |
+| 2026-10-18 12:18:14 | [agenttelemetry-team.agenttelemetry](https://marketplace.visualstudio.com/items?itemName=agenttelemetry-team.agenttelemetry) | AgentTelemetry | 2.0.1 | Tokens, estimated API cost and subagent sessions for Claude Code, Codex, Copilo… |
+| 2026-10-18 12:23:42 | [Devly.devly](https://marketplace.visualstudio.com/items?itemName=Devly.devly) | Devly | 0.1.0 | A home for curious developers. Learn something new. Build it. Run it. Understan… |
+| 2026-10-18 12:34:18 | [VincentKimuri.zuntenium-api-explorer](https://marketplace.visualstudio.com/items?itemName=VincentKimuri.zuntenium-api-explorer) | Zuntenium API Explorer | 0.1.0 | Explore, test, and monitor the QuFlow Cloud FastAPI gateway — spec-driven reque… |
+| 2026-10-18 12:34:43 | [VincentKimuri.zuntenium-predict](https://marketplace.visualstudio.com/items?itemName=VincentKimuri.zuntenium-predict) | Zuntenium Code Prediction | 0.1.0 | API-aware code completion, signature help, hover, and diagnostics for the Zunte… |
+| 2026-10-18 12:34:58 | [VincentKimuri.zuntenium-workspace](https://marketplace.visualstudio.com/items?itemName=VincentKimuri.zuntenium-workspace) | Zuntenium Workspace | 0.1.0 | QuFlow visual workspace in VS Code — circuit builder, Bloch sphere, simulation,… |
+| 2026-10-18 13:08:26 | [SharonJohnson.snappyturtle](https://marketplace.visualstudio.com/items?itemName=SharonJohnson.snappyturtle) | Snappy Turtle | 0.1.0 | genome sequence visualizer |
 
 ## Data source
 
