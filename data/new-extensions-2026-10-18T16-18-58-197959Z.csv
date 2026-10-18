@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T15:25:14.107Z,taka-labs.python-init-formatter,taka-labs,Python __init__.py __all__ Formatter,1.0.1,Formats __all__ in __init__.py based on imports.
+2026-10-18T15:36:50.903Z,lilinhuang.pumpkin-hearth-theme,lilinhuang,Pumpkin Hearth Theme,1.0.0,"Warm pumpkin, coffee, cream and wood tones in coordinated light and dark themes."
+2026-10-18T15:48:56.673Z,ziming.inleaf-reader,ziming,Inleaf Reader,0.1.3,"Stay in flow while reading PDFs in VS Code, with portable AI-ready notes and your choice of AI tools."
+2026-10-18T15:52:07.913Z,ReadyStack.koyo-hoken-ryoritsu-lint-r8,ReadyStack,給与計算 雇用保険料率チェッカー 令和8年度,1.0.5,"給与計算の設定・ソース(YAML/JSON/CSV/TS/JS/Python)に残った令和7年度以前の雇用保険料率(14.5/1,000・労働者5.5/1,000等)を令和8年度率と照合。履歴テーブルは日付で除外。"
+2026-10-18T15:52:22.407Z,ReadyStack.kuendigungsbutton-widerrufsbutton-lint,ReadyStack,Kündigungsbutton & Widerrufsbutton Check (BGB),1.0.8,"Prüft Shop- und Abo-Templates (HTML, Vue, JSX, Twig, Liquid) auf die drei Pflicht-Schaltflächen im BGB: zahlungspflichtig bestellen (§ 312j), Verträge hier kündigen (§ 312k), Vertrag widerrufen (§ 356"
+2026-10-18T15:52:29.803Z,ReadyStack.linker-map-format-audit,ReadyStack,GNU Linker Map + 7 Formats — Audit & Snippets,0.1.5,"Your editor shows all eight of these as grey text, so nothing warns you. 30 checks and 25 snippets run on the file you have open, offline — the open `if true` rule, the corrupt HEX record, the float p"
+2026-10-18T15:52:50.46Z,ReadyStack.lit-binding-xss-audit,ReadyStack,Lit Template Binding Audit,1.0.11,"Finds the Lit / lit-html template bindings that auto-escaping does not cover - unsafeHTML, javascript: href, .innerHTML, srcdoc, unsafeStatic - and names the safe form."
+2026-10-18T15:57:18.97Z,L1r0gn.markdowns-in-graph,L1r0gn,Markdowns In Graph,1.2.0,在 VS Code 中复刻 Obsidian 的关系图谱：双链解析、力导向布局、缩放/平移/拖拽、点击跳转、实时更新、筛选搜索与节点聚焦。
+2026-10-18T15:57:23.697Z,FCarvalhoVII.vesper-theme,FCarvalhoVII,Vesper Theme,1.0.0,"A family of maintainable, semantics-first dark color themes for Visual Studio Code."
+2026-10-18T16:00:31.987Z,lilinhuang.purple-groove-theme,lilinhuang,Purple Groove Theme,1.0.0,"Soft purple violet, dusty groove and peach in coordinated light and dark themes."
+2026-10-18T16:03:59.43Z,neuralseek.neuralseek-mcp,neuralseek,NeuralSeek MCP,0.1.0,Connect a NeuralSeek MCP server using your endpoint URL and API key.

@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 15:21 UTC
+## Latest list — 2026-10-18 16:18 UTC
 
-New extensions published between 2026-10-18 13:21 UTC and 2026-10-18 15:21 UTC.
+New extensions published between 2026-10-18 14:18 UTC and 2026-10-18 16:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T15-21-03-3466Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T16-18-58-197959Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 14:19:27 | [pesanle.pesanle-template](https://marketplace.visualstudio.com/items?itemName=pesanle.pesanle-template) | Pesanle Template | 0.1.0 | Highlighting, IntelliSense and the real compile diagnostics for Pesanle theme t… |
-| 2026-10-18 14:24:11 | [arugula.arugula-editor](https://marketplace.visualstudio.com/items?itemName=arugula.arugula-editor) | Arugula | 0.2.0 | Your editor in the Arugula swarm: who's in which file, follow its cursor from a… |
-| 2026-10-18 14:51:01 | [local-rundix-tools.rundix](https://marketplace.visualstudio.com/items?itemName=local-rundix-tools.rundix) | Rundix | 0.1.1 | Independent VS Code interface for the official Codex CLI: chats, images and fol… |
-| 2026-10-18 15:01:08 | [TKDeveloperOSS.incline](https://marketplace.visualstudio.com/items?itemName=TKDeveloperOSS.incline) | INCLINE | 4.1.25 | INCLINE — an unofficial fork of Cline (Apache-2.0) with request throttling, RPM… |
-| 2026-10-18 15:01:46 | [lilinhuang.oceanic-scale-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.oceanic-scale-theme) | Oceanic Scale Theme | 1.0.0 | Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated ligh… |
-| 2026-10-18 15:05:05 | [dimkosyan.opencode-gui-for-vscode](https://marketplace.visualstudio.com/items?itemName=dimkosyan.opencode-gui-for-vscode) | Opencode GUI for VSCode | 0.0.1 | A graphical (Cursor-like) interface for OpenCode inside VS Code. |
-| 2026-10-18 15:08:30 | [bdarwin.xml-grid-view-plus](https://marketplace.visualstudio.com/items?itemName=bdarwin.xml-grid-view-plus) | XML Grid View Plus | 0.2.2 | View and edit XML as a tree, grid or flat sheet, with search, XPath and a JSON-… |
-| 2026-10-18 15:16:11 | [aitrainingjobs.aitraining-jobs](https://marketplace.visualstudio.com/items?itemName=aitrainingjobs.aitraining-jobs) | AI Training Jobs | 1.0.0 | Paid AI training work for software engineers: open coding, agentic and RLHF rol… |
+| 2026-10-18 15:25:14 | [taka-labs.python-init-formatter](https://marketplace.visualstudio.com/items?itemName=taka-labs.python-init-formatter) | Python __init__.py __all__ Formatter | 1.0.1 | Formats __all__ in __init__.py based on imports. |
+| 2026-10-18 15:36:50 | [lilinhuang.pumpkin-hearth-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.pumpkin-hearth-theme) | Pumpkin Hearth Theme | 1.0.0 | Warm pumpkin, coffee, cream and wood tones in coordinated light and dark themes. |
+| 2026-10-18 15:48:56 | [ziming.inleaf-reader](https://marketplace.visualstudio.com/items?itemName=ziming.inleaf-reader) | Inleaf Reader | 0.1.3 | Stay in flow while reading PDFs in VS Code, with portable AI-ready notes and yo… |
+| 2026-10-18 15:52:07 | [ReadyStack.koyo-hoken-ryoritsu-lint-r8](https://marketplace.visualstudio.com/items?itemName=ReadyStack.koyo-hoken-ryoritsu-lint-r8) | 給与計算 雇用保険料率チェッカー 令和8年度 | 1.0.5 | 給与計算の設定・ソース(YAML/JSON/CSV/TS/JS/Python)に残った令和7年度以前の雇用保険料率(14.5/1,000・労働者5.5/1,0… |
+| 2026-10-18 15:52:22 | [ReadyStack.kuendigungsbutton-widerrufsbutton-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.kuendigungsbutton-widerrufsbutton-lint) | Kündigungsbutton & Widerrufsbutton Chec… | 1.0.8 | Prüft Shop- und Abo-Templates (HTML, Vue, JSX, Twig, Liquid) auf die drei Pflic… |
+| 2026-10-18 15:52:29 | [ReadyStack.linker-map-format-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.linker-map-format-audit) | GNU Linker Map + 7 Formats — Audit & Sn… | 0.1.5 | Your editor shows all eight of these as grey text, so nothing warns you. 30 che… |
+| 2026-10-18 15:52:50 | [ReadyStack.lit-binding-xss-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.lit-binding-xss-audit) | Lit Template Binding Audit | 1.0.11 | Finds the Lit / lit-html template bindings that auto-escaping does not cover -… |
+| 2026-10-18 15:57:18 | [L1r0gn.markdowns-in-graph](https://marketplace.visualstudio.com/items?itemName=L1r0gn.markdowns-in-graph) | Markdowns In Graph | 1.2.0 | 在 VS Code 中复刻 Obsidian 的关系图谱：双链解析、力导向布局、缩放/平移/拖拽、点击跳转、实时更新、筛选搜索与节点聚焦。 |
+| 2026-10-18 15:57:23 | [FCarvalhoVII.vesper-theme](https://marketplace.visualstudio.com/items?itemName=FCarvalhoVII.vesper-theme) | Vesper Theme | 1.0.0 | A family of maintainable, semantics-first dark color themes for Visual Studio C… |
+| 2026-10-18 16:00:31 | [lilinhuang.purple-groove-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.purple-groove-theme) | Purple Groove Theme | 1.0.0 | Soft purple violet, dusty groove and peach in coordinated light and dark themes. |
+| 2026-10-18 16:03:59 | [neuralseek.neuralseek-mcp](https://marketplace.visualstudio.com/items?itemName=neuralseek.neuralseek-mcp) | NeuralSeek MCP | 0.1.0 | Connect a NeuralSeek MCP server using your endpoint URL and API key. |
 
 ## Data source
 
