@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-17T23:47:39.707Z,VoxMatrixStudios.radix-matix,VoxMatrixStudios,Radix Matix,1.0.0,Soporte de sintaxis oficial para el lenguaje Radix Matix (.rm)
+2026-10-18T00:05:20.913Z,chatforge.chatforge-vscode,chatforge,ChatForge,0.1.0,"On-machine agent: receives signed tasks from Teams via the relay, executes them in your workspace, pauses on screen lock, and opens GitHub PRs."
+2026-10-18T00:06:22.493Z,danibcastro.enigma-vscode,danibcastro,Enigma VSCode,1.0.0,"Deobfuscate Java bytecode with the Enigma engine: decompile jars, rename classes, methods, fields and parameters, and manage mappings."
+2026-10-18T00:07:21.997Z,TaouMou.feles,TaouMou,Feles,2.0.0,"Soft, JetBrains-inspired dark and light themes in four cat coats: Cinnamon, Russian Blue, Siamese and Marmalade."
+2026-10-18T00:10:02.327Z,sfw222.recall-jump,sfw222,Recall Jump — Copilot Chat History,1.0.0,"Collect & manage VS Code / GitHub Copilot Chat history — local index, fuzzy recall, one-click jump back to the original session (needs the recall CLI)"
