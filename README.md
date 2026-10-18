@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 02:19 UTC
+## Latest list — 2026-10-18 03:19 UTC
 
-New extensions published between 2026-10-18 00:19 UTC and 2026-10-18 02:19 UTC.
+New extensions published between 2026-10-18 01:19 UTC and 2026-10-18 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T02-19-26-93494Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T03-19-10-67053Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 01:32:48 | [guizin-sccp.astralex-code](https://marketplace.visualstudio.com/items?itemName=guizin-sccp.astralex-code) | Astralex Code | 1.0.0 | Assistente de programação com provedores de IA selecionáveis e modelos locais. |
-| 2026-10-18 02:03:30 | [MelvisVaz.aspnet-api-to-postman](https://marketplace.visualstudio.com/items?itemName=MelvisVaz.aspnet-api-to-postman) | ASP.NET API to Postman Collection | 0.1.0 | Generate a Postman collection from ASP.NET API projects. |
-| 2026-10-18 02:03:57 | [Sterlyd.infinite-engine](https://marketplace.visualstudio.com/items?itemName=Sterlyd.infinite-engine) | Infinite Engine | 0.0.1 | Infinite Engine — a powerful, extensible 3D game engine and visual scripting en… |
-| 2026-10-18 02:04:24 | [wiertmir.tokyo-clear-night](https://marketplace.visualstudio.com/items?itemName=wiertmir.tokyo-clear-night) | Tokyo Clear Night | 0.1.0 | Tokyo Night with brighter UI chrome and teal accents. Based on Tokyo Night by E… |
-| 2026-10-18 02:12:02 | [exmikupro.mio-language-support](https://marketplace.visualstudio.com/items?itemName=exmikupro.mio-language-support) | Mio — Programming Language Tools | 0.2.0 | Mio programming language support: syntax highlighting, snippets, compiler diagn… |
+| 2026-10-18 02:23:42 | [RahulSokkalingam.jarvis-antigravity-extension](https://marketplace.visualstudio.com/items?itemName=RahulSokkalingam.jarvis-antigravity-extension) | Jarvis Voice Assistant & Cyber HUD | 1.0.2 | Autonomous Sci-Fi Voice Assistant, n8n Workflow Automation, and Cybernetic HUD… |
+| 2026-10-18 02:46:28 | [matteopolak.jacket](https://marketplace.visualstudio.com/items?itemName=matteopolak.jacket) | Jacket | 0.18.0 | Jai toolchain: language server, linter, formatter and syntax highlighting for t… |
+| 2026-10-18 02:55:56 | [David2007.noteglow](https://marketplace.visualstudio.com/items?itemName=David2007.noteglow) | NoteGlow | 0.1.0 | 彩色 Markdown · 多选区引用 · 本机 Codex 对话 |
+| 2026-10-18 03:00:43 | [d-ustindwayne.dessa](https://marketplace.visualstudio.com/items?itemName=d-ustindwayne.dessa) | Dessa | 0.0.6 | Dessa language support: highlighting, errors as you type, completion, hover, go… |
+| 2026-10-18 03:04:55 | [mebaysan.modelbeacon](https://marketplace.visualstudio.com/items?itemName=mebaysan.modelbeacon) | ModelBeacon | 0.4.4 | Compare Copilot and custom models with benchmark charts, sourced task guidance,… |
 
 ## Data source
 
