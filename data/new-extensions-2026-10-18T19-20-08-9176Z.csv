@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T18:17:03.98Z,munirmardinli.vscode-spell-grammar-checker,munirmardinli,Spell & Grammar Checker,1.0.0,VS Code extension for spelling and grammar checking powered by LanguageTool
+2026-10-18T18:26:36.957Z,gauravgupta0612.salesforce-devpilot-pack,gauravgupta0612,Salesforce DevPilot Pack,1.0.0,"Salesforce developer pack with Change Impact Analysis, one-click health and release checks, Apex log analysis, test intelligence and GitLab/Jenkins reports — all analysis runs locally."
+2026-10-18T18:29:13.64Z,AgenticsBS.pc-tidy-up,AgenticsBS,PC TidyUp,1.2.6,"Review disk usage and safely clean, compress or archive files using your shared standalone PC TidyUp app."
+2026-10-18T18:34:42.503Z,provaznik.dims,provaznik,dims,0.1.3,See array shapes instantly in the debug variables view
+2026-10-18T18:42:58.02Z,yasinkocyigit.csv-analyzer-yasinkocyigit,yasinkocyigit,CSV Data Analyzer,0.1.0,"Analyze CSV files in VS Code with missing-value detection, automatic type inference, and column-level statistics."
+2026-10-18T18:49:07.457Z,thiagobotelhonet.status-flair,thiagobotelhonet,Status Flair,0.4.0,"Personalize your status bar, and keep every Claude Code session, worktree and pull request one click away."
+2026-10-18T18:55:14.48Z,githuv.githuv,githuv,GithuV,0.0.1,AI-powered GitHub repository chat and developer productivity tools
+2026-10-18T19:08:44.073Z,roedyrustam.vibes-plug-companion,roedyrustam,VibesPlug Pro: 155-Skill AI Swarm Companion,4.3.0,"Turn VSCode and Cursor into an autonomous 155-agent AI software studio. Zero AI Slop, Sovereign Anti-Slop Directive, Studio Cockpit, and MCP v1.x integration."
+2026-10-18T19:10:37.877Z,murataltun.voice-session-sentinel,murataltun,Voice Session Sentinel,0.7.2,"Spoken notifications, unanswered-question reminders, usage forecast and smart chat naming for Claude Code."
