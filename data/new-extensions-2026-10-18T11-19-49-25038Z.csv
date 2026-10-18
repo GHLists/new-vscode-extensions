@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T10:19:40.587Z,heybiplab.bouncer,heybiplab,Bouncer,0.1.0,"Review Claude Code's file changes after it finishes. Keep or undo each file, with a clear diff."
+2026-10-18T10:21:20.17Z,sanket-manohar.kosmora,sanket-manohar,Kosmora: MongoDB Schema Designer,1.0.0,"Design MongoDB schemas on a visual canvas and export them to JSON Schema, MongoDB validators, Mongoose, TypeScript, Prisma, Pydantic, Markdown, Mermaid, DBML, SVG and PNG. Works completely offline, with no database connection."
+2026-10-18T10:24:28.187Z,TaouMou.feles-theme,TaouMou,Feles Theme,2.2.0,"Soft, JetBrains-inspired dark and light themes in seven cat coats: Cinnamon, Russian Blue, Siamese, Marmalade, Lilac, Chartreux and Tuxedo."
+2026-10-18T10:25:46.073Z,cgalvisleon.dbclient,cgalvisleon,"DB Client: SQL, Redis & NATS",0.13.1,"Database client for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, Redis and NATS."
+2026-10-18T10:37:33.57Z,SamirMistry.cmake-preset-configurator,SamirMistry,CMake Preset & Build Configurator,1.0.1,"Smart CMake project scanner, GUI configurator, and build panel with preset selection dropdowns"
+2026-10-18T10:52:25.013Z,noorashuvo.skill-hub,noorashuvo,Skill Hub,0.3.0,"Collect AI agent skills from anywhere (GitHub, any git repo, URLs, local folders) and apply them to any repository for Claude Code, GitHub Copilot, Cursor or AGENTS.md."

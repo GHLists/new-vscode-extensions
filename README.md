@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 10:20 UTC
+## Latest list — 2026-10-18 11:19 UTC
 
-New extensions published between 2026-10-18 08:20 UTC and 2026-10-18 10:20 UTC.
+New extensions published between 2026-10-18 09:19 UTC and 2026-10-18 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T10-20-09-736825Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T11-19-49-25038Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 09:22:24 | [demartis.vscode-zai-usage-plus](https://marketplace.visualstudio.com/items?itemName=demartis.vscode-zai-usage-plus) | VSCode z.ai Usage Plus | 0.5.0 | Display z.ai token usage in the status bar |
-| 2026-10-18 09:23:42 | [newdlops.extension-loadout](https://marketplace.visualstudio.com/items?itemName=newdlops.extension-loadout) | Extension Loadout | 0.2.0 | Equip each workspace with only the extensions it needs: turn extensions on or o… |
-| 2026-10-18 09:23:49 | [nimblescape.nimblescape-commentlinks](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-commentlinks) | nimblescape Comment Links | 0.1.0 | Clickable Markdown links in code comments that open at the named heading. |
-| 2026-10-18 09:24:14 | [pth-viewer.codex-branch-map](https://marketplace.visualstudio.com/items?itemName=pth-viewer.codex-branch-map) | Codex Branch Map | 0.8.0 | Explore Codex conversation branches as a Git-style graph and jump to any turn. |
-| 2026-10-18 09:26:10 | [qcqx.lattice-context](https://marketplace.visualstudio.com/items?itemName=qcqx.lattice-context) | Lattice — Cross-project AI Context | 0.1.1 | Tasks, specs, search and a knowledge graph for your AI coding workflow — brings… |
-| 2026-10-18 09:32:51 | [vannseavlong.gitask-vscode](https://marketplace.visualstudio.com/items?itemName=vannseavlong.gitask-vscode) | GITASK | 0.3.1 | Git-backed Kanban for a Tasks/ folder. Drag a card, the file moves and the chan… |
-| 2026-10-18 09:40:06 | [HW.mcu-build-flash-tools](https://marketplace.visualstudio.com/items?itemName=HW.mcu-build-flash-tools) | MCU Build Flash Tools | 0.4.0 | Keil 增量/全量编译、串口 IAP 烧录及编译烧录，实时日志与源码诊断。 |
-| 2026-10-18 09:40:54 | [xbghc.quicklist](https://marketplace.visualstudio.com/items?itemName=xbghc.quicklist) | Quicklist | 0.1.0 | A minimal workspace file and folder shortcut list in Explorer. |
-| 2026-10-18 10:00:55 | [Vamseek.vishnubot](https://marketplace.visualstudio.com/items?itemName=Vamseek.vishnubot) | VishnuBot | 1.4.0 | Your own AI model (Ollama, any OpenAI-compatible API, Anthropic or Gemini) insi… |
-| 2026-10-18 10:10:23 | [lusansapkota.droidbridge](https://marketplace.visualstudio.com/items?itemName=lusansapkota.droidbridge) | DroidBridge | 1.0.0 | Live, touchable Android phone and tablet mirror inside VS Code, plus an MCP ser… |
+| 2026-10-18 10:19:40 | [heybiplab.bouncer](https://marketplace.visualstudio.com/items?itemName=heybiplab.bouncer) | Bouncer | 0.1.0 | Review Claude Code's file changes after it finishes. Keep or undo each file, wi… |
+| 2026-10-18 10:21:20 | [sanket-manohar.kosmora](https://marketplace.visualstudio.com/items?itemName=sanket-manohar.kosmora) | Kosmora: MongoDB Schema Designer | 1.0.0 | Design MongoDB schemas on a visual canvas and export them to JSON Schema, Mongo… |
+| 2026-10-18 10:24:28 | [TaouMou.feles-theme](https://marketplace.visualstudio.com/items?itemName=TaouMou.feles-theme) | Feles Theme | 2.2.0 | Soft, JetBrains-inspired dark and light themes in seven cat coats: Cinnamon, Ru… |
+| 2026-10-18 10:25:46 | [cgalvisleon.dbclient](https://marketplace.visualstudio.com/items?itemName=cgalvisleon.dbclient) | DB Client: SQL, Redis & NATS | 0.13.1 | Database client for PostgreSQL, MySQL, SQL Server, Oracle, SQLite, Redis and NA… |
+| 2026-10-18 10:37:33 | [SamirMistry.cmake-preset-configurator](https://marketplace.visualstudio.com/items?itemName=SamirMistry.cmake-preset-configurator) | CMake Preset & Build Configurator | 1.0.1 | Smart CMake project scanner, GUI configurator, and build panel with preset sele… |
+| 2026-10-18 10:52:25 | [noorashuvo.skill-hub](https://marketplace.visualstudio.com/items?itemName=noorashuvo.skill-hub) | Skill Hub | 0.3.0 | Collect AI agent skills from anywhere (GitHub, any git repo, URLs, local folder… |
 
 ## Data source
 
