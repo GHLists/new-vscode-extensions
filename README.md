@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 01:19 UTC
+## Latest list — 2026-10-18 02:19 UTC
 
-New extensions published between 2026-10-17 23:19 UTC and 2026-10-18 01:19 UTC.
+New extensions published between 2026-10-18 00:19 UTC and 2026-10-18 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T01-19-52-123629Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T02-19-26-93494Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 00:26:35 | [sagittarius-9.note-lang](https://marketplace.visualstudio.com/items?itemName=sagittarius-9.note-lang) | Note Lang | 1.0.0 | Coloration, liens entre titres, complétion, plan du fichier et snippets pour la… |
-| 2026-10-18 00:39:04 | [MutigerAffe.blocky-renderer](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.blocky-renderer) | Blocky Renderer | 1.5.0 | 3D preview for Hytale models (.blockymodel) and their animations (.blockyanim),… |
-| 2026-10-18 00:39:13 | [MutigerAffe.hytale-prefab-viewer](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.hytale-prefab-viewer) | Prefab Renderer | 1.0.0 | Renders Hytale prefabs (*.prefab.json) as an interactive 3D view. |
-| 2026-10-18 00:39:41 | [MutigerAffe.studio-zip](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.studio-zip) | Studio ZIP | 4.0.0 | Browse and edit archives directly inside VS Code. |
-| 2026-10-18 00:40:12 | [MutigerAffe.vsc-whiteboard](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.vsc-whiteboard) | Lightweight Whiteboard | 1.1.0 | A whiteboard inside VS Code: draw with custom colors, shapes and a fill bucket,… |
-| 2026-10-18 00:49:01 | [MutigerAffe.task-deck](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.task-deck) | Task Deck | 4.0.0 | Shows all available VSCode tasks, grouped by source, as a collapsible list in t… |
-| 2026-10-18 00:49:12 | [MutigerAffe.stat-lens](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.stat-lens) | Stat Lens | 4.0.0 | Shows statistics for the open workspace: lines of code, languages, Git history,… |
-| 2026-10-18 00:58:53 | [hamperpick.agent-chime](https://marketplace.visualstudio.com/items?itemName=hamperpick.agent-chime) | Agent Chime | 0.1.0 | Plays a sound when Claude Code or Codex finishes in your terminal, and a differ… |
-| 2026-10-18 00:59:57 | [thelight1122.aegis-totem-vscode](https://marketplace.visualstudio.com/items?itemName=thelight1122.aegis-totem-vscode) | AEGIS Totem | 0.1.1 | Create and use repo-native Totems for multi-agent reference and communications. |
+| 2026-10-18 01:32:48 | [guizin-sccp.astralex-code](https://marketplace.visualstudio.com/items?itemName=guizin-sccp.astralex-code) | Astralex Code | 1.0.0 | Assistente de programação com provedores de IA selecionáveis e modelos locais. |
+| 2026-10-18 02:03:30 | [MelvisVaz.aspnet-api-to-postman](https://marketplace.visualstudio.com/items?itemName=MelvisVaz.aspnet-api-to-postman) | ASP.NET API to Postman Collection | 0.1.0 | Generate a Postman collection from ASP.NET API projects. |
+| 2026-10-18 02:03:57 | [Sterlyd.infinite-engine](https://marketplace.visualstudio.com/items?itemName=Sterlyd.infinite-engine) | Infinite Engine | 0.0.1 | Infinite Engine — a powerful, extensible 3D game engine and visual scripting en… |
+| 2026-10-18 02:04:24 | [wiertmir.tokyo-clear-night](https://marketplace.visualstudio.com/items?itemName=wiertmir.tokyo-clear-night) | Tokyo Clear Night | 0.1.0 | Tokyo Night with brighter UI chrome and teal accents. Based on Tokyo Night by E… |
+| 2026-10-18 02:12:02 | [exmikupro.mio-language-support](https://marketplace.visualstudio.com/items?itemName=exmikupro.mio-language-support) | Mio — Programming Language Tools | 0.2.0 | Mio programming language support: syntax highlighting, snippets, compiler diagn… |
 
 ## Data source
 
