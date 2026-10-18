@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T14:19:27.823Z,pesanle.pesanle-template,pesanle,Pesanle Template,0.1.0,"Highlighting, IntelliSense and the real compile diagnostics for Pesanle theme templates (.tpl)."
+2026-10-18T14:24:11.517Z,arugula.arugula-editor,arugula,Arugula,0.2.0,"Your editor in the Arugula swarm: who's in which file, follow its cursor from a phone, debugger stops and Claude Code's diffs on the rail. And Arugula's colours."
+2026-10-18T14:51:01.2Z,local-rundix-tools.rundix,local-rundix-tools,Rundix,0.1.1,"Independent VS Code interface for the official Codex CLI: chats, images and follow-ups using your local CLI sign-in. Not an official OpenAI extension."
+2026-10-18T15:01:08.23Z,TKDeveloperOSS.incline,TKDeveloperOSS,INCLINE,4.1.25,"INCLINE — an unofficial fork of Cline (Apache-2.0) with request throttling, RPM/TPM display and a task tracker. Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way."
+2026-10-18T15:01:46.927Z,lilinhuang.oceanic-scale-theme,lilinhuang,Oceanic Scale Theme,1.0.0,"Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated light and dark themes."
+2026-10-18T15:05:05.407Z,dimkosyan.opencode-gui-for-vscode,dimkosyan,Opencode GUI for VSCode,0.0.1,A graphical (Cursor-like) interface for OpenCode inside VS Code.
+2026-10-18T15:08:30.567Z,bdarwin.xml-grid-view-plus,bdarwin,XML Grid View Plus,0.2.2,"View and edit XML as a tree, grid or flat sheet, with search, XPath and a JSON-aware value inspector."
+2026-10-18T15:16:11.313Z,aitrainingjobs.aitraining-jobs,aitrainingjobs,AI Training Jobs,1.0.0,"Paid AI training work for software engineers: open coding, agentic and RLHF roles from Mercor, micro1, Outlier and more, with their pay, in your sidebar."

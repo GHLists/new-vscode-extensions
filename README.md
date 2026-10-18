@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 14:20 UTC
+## Latest list — 2026-10-18 15:21 UTC
 
-New extensions published between 2026-10-18 12:20 UTC and 2026-10-18 14:20 UTC.
+New extensions published between 2026-10-18 13:21 UTC and 2026-10-18 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T14-20-39-553628Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T15-21-03-3466Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 13:18:14 | [DaryoushAlipourtirotir.tirotirlang](https://marketplace.visualstudio.com/items?itemName=DaryoushAlipourtirotir.tirotirlang) | TirotirLang فارسی | 2.0.6 | پشتیبانی از زبان برنامه‌نویسی فارسی تیروتیر در VS Code |
-| 2026-10-18 13:21:05 | [avirynkov.asset-import-navigator](https://marketplace.visualstudio.com/items?itemName=avirynkov.asset-import-navigator) | Asset Import Navigator | 0.0.2 | Navigate imported SVG, CSS, SCSS, CSS Modules, and other assets to their real s… |
-| 2026-10-18 13:31:43 | [shivakumarkannan.rippledit](https://marketplace.visualstudio.com/items?itemName=shivakumarkannan.rippledit) | Rippledit | 0.4.0 | Real-time component blast radius and dependency scanner for React & Tailwind |
-| 2026-10-18 13:32:26 | [comment-scraper.comment-scraper-mcp](https://marketplace.visualstudio.com/items?itemName=comment-scraper.comment-scraper-mcp) | Comment Scraper MCP | 0.1.0 | Ask VS Code chat about the Reddit and Hacker News threads you exported with Com… |
-| 2026-10-18 13:39:33 | [gene891212.hugo-desk](https://marketplace.visualstudio.com/items?itemName=gene891212.hugo-desk) | Hugo Desk | 0.1.0 | Write, organize, and preview Hugo content in your editor. |
-| 2026-10-18 13:48:41 | [bsesic.vscode-font-preview](https://marketplace.visualstudio.com/items?itemName=bsesic.vscode-font-preview) | VSCodeFontPreview | 0.4.0 | Browse, test and compare fonts and icon fonts: Google Fonts, Font Awesome and m… |
-| 2026-10-18 14:02:20 | [ponasAdomas.pocket-notes](https://marketplace.visualstudio.com/items?itemName=ponasAdomas.pocket-notes) | Pocket Notes | 0.1.0 | A quiet sidebar notebook with autosave and VS Code Settings Sync. |
-| 2026-10-18 14:02:45 | [Yqloss.smart-space](https://marketplace.visualstudio.com/items?itemName=Yqloss.smart-space) | Smart Space | 1.1.3 | Whitespace-aware space key |
-| 2026-10-18 14:06:40 | [prsurve.manifestlens-vscode](https://marketplace.visualstudio.com/items?itemName=prsurve.manifestlens-vscode) | ManifestLens | 0.1.0 | Explains Kubernetes YAML in plain English and flags risky settings. Works offli… |
+| 2026-10-18 14:19:27 | [pesanle.pesanle-template](https://marketplace.visualstudio.com/items?itemName=pesanle.pesanle-template) | Pesanle Template | 0.1.0 | Highlighting, IntelliSense and the real compile diagnostics for Pesanle theme t… |
+| 2026-10-18 14:24:11 | [arugula.arugula-editor](https://marketplace.visualstudio.com/items?itemName=arugula.arugula-editor) | Arugula | 0.2.0 | Your editor in the Arugula swarm: who's in which file, follow its cursor from a… |
+| 2026-10-18 14:51:01 | [local-rundix-tools.rundix](https://marketplace.visualstudio.com/items?itemName=local-rundix-tools.rundix) | Rundix | 0.1.1 | Independent VS Code interface for the official Codex CLI: chats, images and fol… |
+| 2026-10-18 15:01:08 | [TKDeveloperOSS.incline](https://marketplace.visualstudio.com/items?itemName=TKDeveloperOSS.incline) | INCLINE | 4.1.25 | INCLINE — an unofficial fork of Cline (Apache-2.0) with request throttling, RPM… |
+| 2026-10-18 15:01:46 | [lilinhuang.oceanic-scale-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.oceanic-scale-theme) | Oceanic Scale Theme | 1.0.0 | Washed sea-glass aqua, sage leaves and pressed-flower mauve in coordinated ligh… |
+| 2026-10-18 15:05:05 | [dimkosyan.opencode-gui-for-vscode](https://marketplace.visualstudio.com/items?itemName=dimkosyan.opencode-gui-for-vscode) | Opencode GUI for VSCode | 0.0.1 | A graphical (Cursor-like) interface for OpenCode inside VS Code. |
+| 2026-10-18 15:08:30 | [bdarwin.xml-grid-view-plus](https://marketplace.visualstudio.com/items?itemName=bdarwin.xml-grid-view-plus) | XML Grid View Plus | 0.2.2 | View and edit XML as a tree, grid or flat sheet, with search, XPath and a JSON-… |
+| 2026-10-18 15:16:11 | [aitrainingjobs.aitraining-jobs](https://marketplace.visualstudio.com/items?itemName=aitrainingjobs.aitraining-jobs) | AI Training Jobs | 1.0.0 | Paid AI training work for software engineers: open coding, agentic and RLHF rol… |
 
 ## Data source
 
