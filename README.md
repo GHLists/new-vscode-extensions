@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 00:19 UTC
+## Latest list — 2026-10-18 01:19 UTC
 
-New extensions published between 2026-10-17 22:19 UTC and 2026-10-18 00:19 UTC.
+New extensions published between 2026-10-17 23:19 UTC and 2026-10-18 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T00-19-35-608594Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T01-19-52-123629Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-17 23:47:39 | [VoxMatrixStudios.radix-matix](https://marketplace.visualstudio.com/items?itemName=VoxMatrixStudios.radix-matix) | Radix Matix | 1.0.0 | Soporte de sintaxis oficial para el lenguaje Radix Matix (.rm) |
-| 2026-10-18 00:05:20 | [chatforge.chatforge-vscode](https://marketplace.visualstudio.com/items?itemName=chatforge.chatforge-vscode) | ChatForge | 0.1.0 | On-machine agent: receives signed tasks from Teams via the relay, executes them… |
-| 2026-10-18 00:06:22 | [danibcastro.enigma-vscode](https://marketplace.visualstudio.com/items?itemName=danibcastro.enigma-vscode) | Enigma VSCode | 1.0.0 | Deobfuscate Java bytecode with the Enigma engine: decompile jars, rename classe… |
-| 2026-10-18 00:07:21 | [TaouMou.feles](https://marketplace.visualstudio.com/items?itemName=TaouMou.feles) | Feles | 2.0.0 | Soft, JetBrains-inspired dark and light themes in four cat coats: Cinnamon, Rus… |
-| 2026-10-18 00:10:02 | [sfw222.recall-jump](https://marketplace.visualstudio.com/items?itemName=sfw222.recall-jump) | Recall Jump — Copilot Chat History | 1.0.0 | Collect & manage VS Code / GitHub Copilot Chat history — local index, fuzzy rec… |
+| 2026-10-18 00:26:35 | [sagittarius-9.note-lang](https://marketplace.visualstudio.com/items?itemName=sagittarius-9.note-lang) | Note Lang | 1.0.0 | Coloration, liens entre titres, complétion, plan du fichier et snippets pour la… |
+| 2026-10-18 00:39:04 | [MutigerAffe.blocky-renderer](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.blocky-renderer) | Blocky Renderer | 1.5.0 | 3D preview for Hytale models (.blockymodel) and their animations (.blockyanim),… |
+| 2026-10-18 00:39:13 | [MutigerAffe.hytale-prefab-viewer](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.hytale-prefab-viewer) | Prefab Renderer | 1.0.0 | Renders Hytale prefabs (*.prefab.json) as an interactive 3D view. |
+| 2026-10-18 00:39:41 | [MutigerAffe.studio-zip](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.studio-zip) | Studio ZIP | 4.0.0 | Browse and edit archives directly inside VS Code. |
+| 2026-10-18 00:40:12 | [MutigerAffe.vsc-whiteboard](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.vsc-whiteboard) | Lightweight Whiteboard | 1.1.0 | A whiteboard inside VS Code: draw with custom colors, shapes and a fill bucket,… |
+| 2026-10-18 00:49:01 | [MutigerAffe.task-deck](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.task-deck) | Task Deck | 4.0.0 | Shows all available VSCode tasks, grouped by source, as a collapsible list in t… |
+| 2026-10-18 00:49:12 | [MutigerAffe.stat-lens](https://marketplace.visualstudio.com/items?itemName=MutigerAffe.stat-lens) | Stat Lens | 4.0.0 | Shows statistics for the open workspace: lines of code, languages, Git history,… |
+| 2026-10-18 00:58:53 | [hamperpick.agent-chime](https://marketplace.visualstudio.com/items?itemName=hamperpick.agent-chime) | Agent Chime | 0.1.0 | Plays a sound when Claude Code or Codex finishes in your terminal, and a differ… |
+| 2026-10-18 00:59:57 | [thelight1122.aegis-totem-vscode](https://marketplace.visualstudio.com/items?itemName=thelight1122.aegis-totem-vscode) | AEGIS Totem | 0.1.1 | Create and use repo-native Totems for multi-agent reference and communications. |
 
 ## Data source
 

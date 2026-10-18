@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T00:26:35.133Z,sagittarius-9.note-lang,sagittarius-9,Note Lang,1.0.0,"Coloration, liens entre titres, complétion, plan du fichier et snippets pour la notation Note (.note, .cours)"
+2026-10-18T00:39:04.917Z,MutigerAffe.blocky-renderer,MutigerAffe,Blocky Renderer,1.5.0,"3D preview for Hytale models (.blockymodel) and their animations (.blockyanim), next to the text editor like the Markdown preview or on its own in a separate tab, plus a Blocky Renderer tab with a model browser and node tree."
+2026-10-18T00:39:13.047Z,MutigerAffe.hytale-prefab-viewer,MutigerAffe,Prefab Renderer,1.0.0,Renders Hytale prefabs (*.prefab.json) as an interactive 3D view.
+2026-10-18T00:39:41.143Z,MutigerAffe.studio-zip,MutigerAffe,Studio ZIP,4.0.0,Browse and edit archives directly inside VS Code.
+2026-10-18T00:40:12.063Z,MutigerAffe.vsc-whiteboard,MutigerAffe,Lightweight Whiteboard,1.1.0,"A whiteboard inside VS Code: draw with custom colors, shapes and a fill bucket, and drop images onto the board."
+2026-10-18T00:49:01.99Z,MutigerAffe.task-deck,MutigerAffe,Task Deck,4.0.0,"Shows all available VSCode tasks, grouped by source, as a collapsible list in the sidebar."
+2026-10-18T00:49:12.7Z,MutigerAffe.stat-lens,MutigerAffe,Stat Lens,4.0.0,"Shows statistics for the open workspace: lines of code, languages, Git history, size, dependencies."
+2026-10-18T00:58:53.953Z,hamperpick.agent-chime,hamperpick,Agent Chime,0.1.0,"Plays a sound when Claude Code or Codex finishes in your terminal, and a different one when it needs your approval."
+2026-10-18T00:59:57.61Z,thelight1122.aegis-totem-vscode,thelight1122,AEGIS Totem,0.1.1,Create and use repo-native Totems for multi-agent reference and communications.
