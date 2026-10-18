@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T09:22:24.55Z,demartis.vscode-zai-usage-plus,demartis,VSCode z.ai Usage Plus,0.5.0,Display z.ai token usage in the status bar
+2026-10-18T09:23:42.493Z,newdlops.extension-loadout,newdlops,Extension Loadout,0.2.0,"Equip each workspace with only the extensions it needs: turn extensions on or off per folder from one panel, saved in .vscode/extension-loadout.json."
+2026-10-18T09:23:49.497Z,nimblescape.nimblescape-commentlinks,nimblescape,nimblescape Comment Links,0.1.0,Clickable Markdown links in code comments that open at the named heading.
+2026-10-18T09:24:14.72Z,pth-viewer.codex-branch-map,pth-viewer,Codex Branch Map,0.8.0,Explore Codex conversation branches as a Git-style graph and jump to any turn.
+2026-10-18T09:26:10.17Z,qcqx.lattice-context,qcqx,Lattice — Cross-project AI Context,0.1.1,"Tasks, specs, search and a knowledge graph for your AI coding workflow — brings Lattice's cross-project context into the editor."
+2026-10-18T09:32:51.303Z,vannseavlong.gitask-vscode,vannseavlong,GITASK,0.3.1,"Git-backed Kanban for a Tasks/ folder. Drag a card, the file moves and the change is committed."
+2026-10-18T09:40:06.577Z,HW.mcu-build-flash-tools,HW,MCU Build Flash Tools,0.4.0,Keil 增量/全量编译、串口 IAP 烧录及编译烧录，实时日志与源码诊断。
+2026-10-18T09:40:54.477Z,xbghc.quicklist,xbghc,Quicklist,0.1.0,A minimal workspace file and folder shortcut list in Explorer.
+2026-10-18T10:00:55.62Z,Vamseek.vishnubot,Vamseek,VishnuBot,1.4.0,"Your own AI model (Ollama, any OpenAI-compatible API, Anthropic or Gemini) inside VS Code: chat with saved history, plan mode, reviewed multi-file edits with undo, MCP tools, git commit messages and reviews, inline completions, workspace search by meaning, terminal commands, web search and Word/PDF"
+2026-10-18T10:10:23.407Z,lusansapkota.droidbridge,lusansapkota,DroidBridge,1.0.0,"Live, touchable Android phone and tablet mirror inside VS Code, plus an MCP server that lets AI agents see and control your device."
