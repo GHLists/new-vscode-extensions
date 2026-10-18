@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 08:20 UTC
+## Latest list — 2026-10-18 09:21 UTC
 
-New extensions published between 2026-10-18 06:20 UTC and 2026-10-18 08:20 UTC.
+New extensions published between 2026-10-18 07:21 UTC and 2026-10-18 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T08-20-14-600176Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T09-21-04-667625Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 07:14:27 | [Eileenclara.py-call-map](https://marketplace.visualstudio.com/items?itemName=Eileenclara.py-call-map) | PyCallMap | 0.2.4 | Visualize Python function calls as an interactive left-to-right call graph. |
-| 2026-10-18 07:18:21 | [rolandtoth.envy-visual-env-editor](https://marketplace.visualstudio.com/items?itemName=rolandtoth.envy-visual-env-editor) | Envy — Visual .env Editor | 0.0.1 | Visual editor for .env files with typed values (JSON, lists, numbers, booleans)… |
-| 2026-10-18 07:25:14 | [OctoApps.vscode-octopower](https://marketplace.visualstudio.com/items?itemName=OctoApps.vscode-octopower) | OctoPower by OctoApps | 1.5.0 | OctoPower IDE integration for VSCode - Resource-aware code generation, real-tim… |
-| 2026-10-18 07:32:22 | [OrangeAccentStudio.OrangeAccentStudio](https://marketplace.visualstudio.com/items?itemName=OrangeAccentStudio.OrangeAccentStudio) | Orange Accent Theme | 0.1.0 | A color theme built the way Braun built instruments: calm grey plastic, black c… |
-| 2026-10-18 07:41:04 | [gougou-assistant.gougou-assistant](https://marketplace.visualstudio.com/items?itemName=gougou-assistant.gougou-assistant) | 勾勾助手 | 0.1.2 | 手机自动化项目与USB设备管理（预览版） |
-| 2026-10-18 08:02:58 | [AvijitKumarTewary.codevulfixer](https://marketplace.visualstudio.com/items?itemName=AvijitKumarTewary.codevulfixer) | CodeVulFixer | 1.0.0 | Production-grade vulnerability remediation, sprint orchestration, and verificat… |
+| 2026-10-18 08:18:09 | [windlively.gitloom](https://marketplace.visualstudio.com/items?itemName=windlively.gitloom) | GitLoom | 0.5.4 | VS Code 原生风格的紧凑 Git 底部面板，IDEA 式更改列表、Diff 与提交工作流。A compact Git workbench for VS… |
+| 2026-10-18 08:48:54 | [level6.xyxu-html-editor](https://marketplace.visualstudio.com/items?itemName=level6.xyxu-html-editor) | xyxu-html-editor | 0.1.0 | Visual editor for HTML files: select elements, adjust styles, edit tables, save… |
+| 2026-10-18 08:52:31 | [n2ns.wsl-remote](https://marketplace.visualstudio.com/items?itemName=n2ns.wsl-remote) | WSL Remote | 0.0.1 | Open any folder in the Windows Subsystem for Linux (WSL) from VSCodium and othe… |
+| 2026-10-18 08:55:44 | [AbhishekShukla.devlens-codebase-visualization](https://marketplace.visualstudio.com/items?itemName=AbhishekShukla.devlens-codebase-visualization) | DevLens: Visualize And Understand your… | 0.0.1 | Understand your codebase through architecture and code relationships. |
+| 2026-10-18 08:59:33 | [genocode.genocode](https://marketplace.visualstudio.com/items?itemName=genocode.genocode) | GenoCode | 0.1.0 | GenoCode creatures in VS Code: highlighting, errors as you type, help on hover,… |
 
 ## Data source
 

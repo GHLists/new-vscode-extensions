@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T08:18:09.367Z,windlively.gitloom,windlively,GitLoom,0.5.4,VS Code 原生风格的紧凑 Git 底部面板，IDEA 式更改列表、Diff 与提交工作流。A compact Git workbench for VS Code.
+2026-10-18T08:48:54.973Z,level6.xyxu-html-editor,level6,xyxu-html-editor,0.1.0,"Visual editor for HTML files: select elements, adjust styles, edit tables, save only on Ctrl+S."
+2026-10-18T08:52:31.78Z,n2ns.wsl-remote,n2ns,WSL Remote,0.0.1,Open any folder in the Windows Subsystem for Linux (WSL) from VSCodium and other VS Code builds without a bundled WSL extension. Provides a server-env-setup hook.
+2026-10-18T08:55:44.75Z,AbhishekShukla.devlens-codebase-visualization,AbhishekShukla,DevLens: Visualize And Understand your Project Architecture,0.0.1,Understand your codebase through architecture and code relationships.
+2026-10-18T08:59:33.433Z,genocode.genocode,genocode,GenoCode,0.1.0,"GenoCode creatures in VS Code: highlighting, errors as you type, help on hover, completion, outline and formatting for .genie files."
