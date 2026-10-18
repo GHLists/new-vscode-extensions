@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 03:19 UTC
+## Latest list — 2026-10-18 04:19 UTC
 
-New extensions published between 2026-10-18 01:19 UTC and 2026-10-18 03:19 UTC.
+New extensions published between 2026-10-18 02:19 UTC and 2026-10-18 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T03-19-10-67053Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T04-19-06-265428Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 02:23:42 | [RahulSokkalingam.jarvis-antigravity-extension](https://marketplace.visualstudio.com/items?itemName=RahulSokkalingam.jarvis-antigravity-extension) | Jarvis Voice Assistant & Cyber HUD | 1.0.2 | Autonomous Sci-Fi Voice Assistant, n8n Workflow Automation, and Cybernetic HUD… |
-| 2026-10-18 02:46:28 | [matteopolak.jacket](https://marketplace.visualstudio.com/items?itemName=matteopolak.jacket) | Jacket | 0.18.0 | Jai toolchain: language server, linter, formatter and syntax highlighting for t… |
-| 2026-10-18 02:55:56 | [David2007.noteglow](https://marketplace.visualstudio.com/items?itemName=David2007.noteglow) | NoteGlow | 0.1.0 | 彩色 Markdown · 多选区引用 · 本机 Codex 对话 |
-| 2026-10-18 03:00:43 | [d-ustindwayne.dessa](https://marketplace.visualstudio.com/items?itemName=d-ustindwayne.dessa) | Dessa | 0.0.6 | Dessa language support: highlighting, errors as you type, completion, hover, go… |
-| 2026-10-18 03:04:55 | [mebaysan.modelbeacon](https://marketplace.visualstudio.com/items?itemName=mebaysan.modelbeacon) | ModelBeacon | 0.4.4 | Compare Copilot and custom models with benchmark charts, sourced task guidance,… |
+| 2026-10-18 03:23:18 | [MelvisVaz.postman-collection-generator-for-aspnet-api](https://marketplace.visualstudio.com/items?itemName=MelvisVaz.postman-collection-generator-for-aspnet-api) | Postman Collection Generator for ASP.NE… | 0.4.0 | Generate Postman collections from C# ASP.NET Core Web API controllers |
+| 2026-10-18 03:28:59 | [vinayski.acrobat-pdf-opener](https://marketplace.visualstudio.com/items?itemName=vinayski.acrobat-pdf-opener) | macOS PDF Opener | 0.2.0 | Open local PDFs in built-in macOS Preview or Adobe Acrobat, without a PDF rende… |
+| 2026-10-18 03:41:20 | [Testpilot.testforge-automated-runner](https://marketplace.visualstudio.com/items?itemName=Testpilot.testforge-automated-runner) | TestForge — Automated Test Runner | 0.1.0 | Discover, run, and understand your project tests directly in VS Code. |
+| 2026-10-18 03:54:06 | [hesperia.hesperia-vscode](https://marketplace.visualstudio.com/items?itemName=hesperia.hesperia-vscode) | Hesperia | 0.1.0 | Authored TSX diagnostics and navigation for Hesperia projects. |
+| 2026-10-18 04:00:33 | [kairbros-dev.kairbros-arcade](https://marketplace.visualstudio.com/items?itemName=kairbros-dev.kairbros-arcade) | Kairbros Arcade | 0.1.3 | Hub de juegos multijugador dentro de VS Code: laberinto de bombas, karts, sumo… |
 
 ## Data source
 
