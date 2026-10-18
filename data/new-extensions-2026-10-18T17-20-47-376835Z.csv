@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T16:16:04.78Z,fefeding.jdoc-viewer,fefeding,jdoc Document Viewer,0.1.1,在 VS Code 中查看并编辑 PPTX / DOCX / XLSX / PDF 文档（由 @fefeding/jdoc 驱动）
+2026-10-18T16:21:13.35Z,ToadishFrog67.markdown-preview-colours,ToadishFrog67,Markdown Preview Palettes (Toadish),0.1.0,"Colour presets for the built-in Markdown preview: headings, bold text, inline code, quotes and links. Preview only; Markdown files are never changed."
+2026-10-18T16:31:36.3Z,dark-dmake.plantuml-next,dark-dmake,PlantUML Next,2.19.3,Rich PlantUML support for Visual Studio Code. A fork of jebbs' PlantUML extension with a faster preview and source navigation.
+2026-10-18T16:31:51.857Z,treeviet.treeviet,treeviet,TreeViet for Git,0.1.1,"Git graph, branches, diff, merge/rebase and profiles in one fast panel — the TreeViet experience inside VS Code."
+2026-10-18T16:40:37.553Z,quickrunner.quickrunner,quickrunner,Quick Code Runner,0.12.3,"Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim,"
+2026-10-18T16:43:05.923Z,azarrapps.azarr-console,azarrapps,Azarr Console,0.1.1,"Pull and push a project's README, ChangeLog and source code to the Azarr Console from VS Code. A thin wrapper around the azarr CLI."
+2026-10-18T16:56:04.77Z,xaxys.exdiff,xaxys,ExDiff,0.2.3,"Review Git revisions in VS Code with real on-disk snapshots, so hover, Go to Definition, Find References and diagnostics keep working on both sides of the diff."
+2026-10-18T16:57:22.827Z,BlaiseRodrigues.litcode,BlaiseRodrigues,LitCode,1.0.0,"Practice LeetCode offline and online: Daily challenges, Striver & NeetCode study plans, local test runner, and Socratic hints."
+2026-10-18T17:08:10.183Z,MdShahAmanPatwary.commitsense-ai,MdShahAmanPatwary,CommitSense AI - Conventional Commits with Reasons,0.1.0,"Generate clean, meaningful Conventional Commit messages using Groq or Gemini AI directly inside VS Code."
