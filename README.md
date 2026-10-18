@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 21:21 UTC
+## Latest list — 2026-10-18 22:20 UTC
 
-New extensions published between 2026-10-18 19:21 UTC and 2026-10-18 21:21 UTC.
+New extensions published between 2026-10-18 20:20 UTC and 2026-10-18 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T21-21-10-677922Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T22-20-48-156049Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 20:17:21 | [acedatacloud.mcp-happyhorse](https://marketplace.visualstudio.com/items?itemName=acedatacloud.mcp-happyhorse) | HappyHorse by Ace Data Cloud | 2026.1018.0 | HappyHorse video generation by Ace Data Cloud — text, image, references, editin… |
-| 2026-10-18 20:22:04 | [acedatacloud.mcp-gpt-image](https://marketplace.visualstudio.com/items?itemName=acedatacloud.mcp-gpt-image) | GPT Image by Ace Data Cloud | 2026.1018.0 | GPT Image generation and editing by Ace Data Cloud — GPT Image 2, image tasks a… |
-| 2026-10-18 20:55:05 | [nimrod-teich.lookout](https://marketplace.visualstudio.com/items?itemName=nimrod-teich.lookout) | Lookout | 0.1.0 | See every AI coding agent session at a glance: what is working, what needs you,… |
-| 2026-10-18 20:56:37 | [odv-hu.tex-authorship](https://marketplace.visualstudio.com/items?itemName=odv-hu.tex-authorship) | TeX Authorship | 0.1.8 | iA Writer-like authorship tracking for LaTeX: mark pasted text as AI, reference… |
-| 2026-10-18 21:05:42 | [AJxSystems.AJxVSCA-Tasks](https://marketplace.visualstudio.com/items?itemName=AJxSystems.AJxVSCA-Tasks) | AJxVSCA Tasks | 0.0.1 | Sidebar view listing and running tasks from .vscode/tasks.json |
-| 2026-10-18 21:10:21 | [Coordigent.coordigent](https://marketplace.visualstudio.com/items?itemName=Coordigent.coordigent) | Coordigent | 0.1.0 | See your coding agents in VS Code: Needs you, your agents, your team and files… |
-| 2026-10-18 21:11:14 | [RuthK.iceberg-explorer](https://marketplace.visualstudio.com/items?itemName=RuthK.iceberg-explorer) | Iceberg Explorer | 0.0.1 | Browse Apache Iceberg warehouses in Google Cloud Storage, S3-compatible storage… |
-| 2026-10-18 21:14:13 | [ParsaBordbar2003.ferrifuzz](https://marketplace.visualstudio.com/items?itemName=ParsaBordbar2003.ferrifuzz) | Ferrifuzz | 0.2.1 | Syntax highlighting, completion and checks for ferrifuzz fuzzy-rule strings in… |
+| 2026-10-18 21:27:52 | [TonyCJ7.whatdoesthisdo](https://marketplace.visualstudio.com/items?itemName=TonyCJ7.whatdoesthisdo) | WhatDoesThisDo | 0.1.1 | WhatDoesThisDo shows the documentation for your own functions and constants whe… |
+| 2026-10-18 21:34:06 | [elambert.sql-prism](https://marketplace.visualstudio.com/items?itemName=elambert.sql-prism) | SQL Prism | 1.0.0 | Visual readability for SQL & dbt: distinct base colors for CTEs, derived shades… |
+| 2026-10-18 21:34:22 | [gfleming1992.cadcove-toolbox](https://marketplace.visualstudio.com/items?itemName=gfleming1992.cadcove-toolbox) | CadCove FRC | 0.2.28 | Local, agent-driven CAD and FRC simulation workspace tools. |
+| 2026-10-18 21:47:11 | [indudhara59.architecture-visualiser](https://marketplace.visualstudio.com/items?itemName=indudhara59.architecture-visualiser) | Architecture-Visualiser | 0.2.1 | Interactive architecture diagrams for your codebase: system, component and modu… |
+| 2026-10-18 21:51:10 | [arclang.arclang](https://marketplace.visualstudio.com/items?itemName=arclang.arclang) | ArcLang | 4.2.0 | Arcadia MBSE as code: diagnostics with rules, outline, completion from the meta… |
+| 2026-10-18 21:52:47 | [joe-el-khoury.swarm-lab-ai](https://marketplace.visualstudio.com/items?itemName=joe-el-khoury.swarm-lab-ai) | Swarm Lab — AI Agents | 0.36.5 | A team of AI agents in VS Code that you stay in charge of: chat with your code,… |
+| 2026-10-18 22:09:35 | [hugging-bay.hugging-bay](https://marketplace.visualstudio.com/items?itemName=hugging-bay.hugging-bay) | Hugging Bay | 0.2.0 | Browse models, estimate RAM fit, check downloads and use local tools. |
+| 2026-10-18 22:11:26 | [NorthPeakStudio.funk](https://marketplace.visualstudio.com/items?itemName=NorthPeakStudio.funk) | Funk | 1.1.0 | A fun VS Code extension that reacts when your code fails. |
 
 ## Data source
 

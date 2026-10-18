@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T21:27:52.31Z,TonyCJ7.whatdoesthisdo,TonyCJ7,WhatDoesThisDo,0.1.1,"WhatDoesThisDo shows the documentation for your own functions and constants when you hover them, read from markdown reference pages in the workspace. Works in every language."
+2026-10-18T21:34:06.36Z,elambert.sql-prism,elambert,SQL Prism,1.0.0,"Visual readability for SQL & dbt: distinct base colors for CTEs, derived shades for inner tables/aliases, CTE scope lines, and semantic data type highlighting."
+2026-10-18T21:34:22.037Z,gfleming1992.cadcove-toolbox,gfleming1992,CadCove FRC,0.2.28,"Local, agent-driven CAD and FRC simulation workspace tools."
+2026-10-18T21:47:11.503Z,indudhara59.architecture-visualiser,indudhara59,Architecture-Visualiser,0.2.1,"Interactive architecture diagrams for your codebase: system, component and module views, import cycles, health score, architecture rules and drift tracking."
+2026-10-18T21:51:10.45Z,arclang.arclang,arclang,ArcLang,4.2.0,"Arcadia MBSE as code: diagnostics with rules, outline, completion from the metamodel, hover, go to definition, rename, formatting, the viewpoint diagrams beside the source, the production gate, Arcadia transitions, the @arclang chat participant and compiler tools for agent mode, the ArcLang MCP serv"
+2026-10-18T21:52:47.323Z,joe-el-khoury.swarm-lab-ai,joe-el-khoury,Swarm Lab — AI Agents,0.36.5,"A team of AI agents in VS Code that you stay in charge of: chat with your code, run one agent, a tree, a swarm or your own workflow, approve every diff and command. Claude, GPT, OpenRouter, Ollama, Copilot models."
+2026-10-18T22:09:35.267Z,hugging-bay.hugging-bay,hugging-bay,Hugging Bay,0.2.0,"Browse models, estimate RAM fit, check downloads and use local tools."
+2026-10-18T22:11:26.81Z,NorthPeakStudio.funk,NorthPeakStudio,Funk,1.1.0,A fun VS Code extension that reacts when your code fails.
