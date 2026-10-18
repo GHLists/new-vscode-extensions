@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 19:20 UTC
+## Latest list — 2026-10-18 20:19 UTC
 
-New extensions published between 2026-10-18 17:20 UTC and 2026-10-18 19:20 UTC.
+New extensions published between 2026-10-18 18:19 UTC and 2026-10-18 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T19-20-08-9176Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T20-19-55-429014Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 18:17:03 | [munirmardinli.vscode-spell-grammar-checker](https://marketplace.visualstudio.com/items?itemName=munirmardinli.vscode-spell-grammar-checker) | Spell & Grammar Checker | 1.0.0 | VS Code extension for spelling and grammar checking powered by LanguageTool |
-| 2026-10-18 18:26:36 | [gauravgupta0612.salesforce-devpilot-pack](https://marketplace.visualstudio.com/items?itemName=gauravgupta0612.salesforce-devpilot-pack) | Salesforce DevPilot Pack | 1.0.0 | Salesforce developer pack with Change Impact Analysis, one-click health and rel… |
-| 2026-10-18 18:29:13 | [AgenticsBS.pc-tidy-up](https://marketplace.visualstudio.com/items?itemName=AgenticsBS.pc-tidy-up) | PC TidyUp | 1.2.6 | Review disk usage and safely clean, compress or archive files using your shared… |
-| 2026-10-18 18:34:42 | [provaznik.dims](https://marketplace.visualstudio.com/items?itemName=provaznik.dims) | dims | 0.1.3 | See array shapes instantly in the debug variables view |
-| 2026-10-18 18:42:58 | [yasinkocyigit.csv-analyzer-yasinkocyigit](https://marketplace.visualstudio.com/items?itemName=yasinkocyigit.csv-analyzer-yasinkocyigit) | CSV Data Analyzer | 0.1.0 | Analyze CSV files in VS Code with missing-value detection, automatic type infer… |
-| 2026-10-18 18:49:07 | [thiagobotelhonet.status-flair](https://marketplace.visualstudio.com/items?itemName=thiagobotelhonet.status-flair) | Status Flair | 0.4.0 | Personalize your status bar, and keep every Claude Code session, worktree and p… |
-| 2026-10-18 18:55:14 | [githuv.githuv](https://marketplace.visualstudio.com/items?itemName=githuv.githuv) | GithuV | 0.0.1 | AI-powered GitHub repository chat and developer productivity tools |
-| 2026-10-18 19:08:44 | [roedyrustam.vibes-plug-companion](https://marketplace.visualstudio.com/items?itemName=roedyrustam.vibes-plug-companion) | VibesPlug Pro: 155-Skill AI Swarm Compa… | 4.3.0 | Turn VSCode and Cursor into an autonomous 155-agent AI software studio. Zero AI… |
-| 2026-10-18 19:10:37 | [murataltun.voice-session-sentinel](https://marketplace.visualstudio.com/items?itemName=murataltun.voice-session-sentinel) | Voice Session Sentinel | 0.7.2 | Spoken notifications, unanswered-question reminders, usage forecast and smart c… |
+| 2026-10-18 19:21:45 | [muxdock.muxdock](https://marketplace.visualstudio.com/items?itemName=muxdock.muxdock) | MuxDock | 0.0.1 | Manage persistent tmux, zmx, screen, Zellij, shpool, abduco and a4 sessions in… |
+| 2026-10-18 19:25:02 | [nadeemzack09.real-device](https://marketplace.visualstudio.com/items?itemName=nadeemzack09.real-device) | Real Android Device — Wireless ADB & Sc… | 0.1.0 | Connect VS Code to your real Android phone over Wi-Fi (QR code, pairing code, o… |
+| 2026-10-18 19:40:49 | [jonasalessi.cdd-lint-vscode](https://marketplace.visualstudio.com/items?itemName=jonasalessi.cdd-lint-vscode) | CDD Lint | 0.1.0 | Shows the ICP scores of cdd-lint as CodeLens and reports ICP violations as diag… |
+| 2026-10-18 19:54:52 | [pylac.dsh-vsc-light](https://marketplace.visualstudio.com/items?itemName=pylac.dsh-vsc-light) | dsh-vsc-light | 1.0.0 | Embed the DeepSeek Harness web UI in a VS Code editor panel. |
+| 2026-10-18 20:13:36 | [kingoftac.vscode-pixel-icons](https://marketplace.visualstudio.com/items?itemName=kingoftac.vscode-pixel-icons) | Monochrome Pixel Icons | 1.0.0 | Vscode file and system icons theme using PixelArtIcons |
+| 2026-10-18 20:16:12 | [silk-lang.silk](https://marketplace.visualstudio.com/items?itemName=silk-lang.silk) | Silk | 0.0.1 | Silk language support for Visual Studio Code. |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T19:21:45.607Z,muxdock.muxdock,muxdock,MuxDock,0.0.1,"Manage persistent tmux, zmx, screen, Zellij, shpool, abduco and a4 sessions in one terminal dock."
+2026-10-18T19:25:02.713Z,nadeemzack09.real-device,nadeemzack09,Real Android Device — Wireless ADB & Screen Mirror,0.1.0,"Connect VS Code to your real Android phone over Wi-Fi (QR code, pairing code, or IP:port) and mirror its live screen with tap, swipe, and keyboard control. No emulator needed."
+2026-10-18T19:40:49.67Z,jonasalessi.cdd-lint-vscode,jonasalessi,CDD Lint,0.1.0,Shows the ICP scores of cdd-lint as CodeLens and reports ICP violations as diagnostics.
+2026-10-18T19:54:52.793Z,pylac.dsh-vsc-light,pylac,dsh-vsc-light,1.0.0,Embed the DeepSeek Harness web UI in a VS Code editor panel.
+2026-10-18T20:13:36.357Z,kingoftac.vscode-pixel-icons,kingoftac,Monochrome Pixel Icons,1.0.0,Vscode file and system icons theme using PixelArtIcons
+2026-10-18T20:16:12.677Z,silk-lang.silk,silk-lang,Silk,0.0.1,Silk language support for Visual Studio Code.
