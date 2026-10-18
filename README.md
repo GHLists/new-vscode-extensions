@@ -12,22 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 22:20 UTC
+## Latest list — 2026-10-18 23:21 UTC
 
-New extensions published between 2026-10-18 20:20 UTC and 2026-10-18 22:20 UTC.
+New extensions published between 2026-10-18 21:21 UTC and 2026-10-18 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T22-20-48-156049Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T23-21-00-806261Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 21:27:52 | [TonyCJ7.whatdoesthisdo](https://marketplace.visualstudio.com/items?itemName=TonyCJ7.whatdoesthisdo) | WhatDoesThisDo | 0.1.1 | WhatDoesThisDo shows the documentation for your own functions and constants whe… |
-| 2026-10-18 21:34:06 | [elambert.sql-prism](https://marketplace.visualstudio.com/items?itemName=elambert.sql-prism) | SQL Prism | 1.0.0 | Visual readability for SQL & dbt: distinct base colors for CTEs, derived shades… |
-| 2026-10-18 21:34:22 | [gfleming1992.cadcove-toolbox](https://marketplace.visualstudio.com/items?itemName=gfleming1992.cadcove-toolbox) | CadCove FRC | 0.2.28 | Local, agent-driven CAD and FRC simulation workspace tools. |
-| 2026-10-18 21:47:11 | [indudhara59.architecture-visualiser](https://marketplace.visualstudio.com/items?itemName=indudhara59.architecture-visualiser) | Architecture-Visualiser | 0.2.1 | Interactive architecture diagrams for your codebase: system, component and modu… |
-| 2026-10-18 21:51:10 | [arclang.arclang](https://marketplace.visualstudio.com/items?itemName=arclang.arclang) | ArcLang | 4.2.0 | Arcadia MBSE as code: diagnostics with rules, outline, completion from the meta… |
-| 2026-10-18 21:52:47 | [joe-el-khoury.swarm-lab-ai](https://marketplace.visualstudio.com/items?itemName=joe-el-khoury.swarm-lab-ai) | Swarm Lab — AI Agents | 0.36.5 | A team of AI agents in VS Code that you stay in charge of: chat with your code,… |
-| 2026-10-18 22:09:35 | [hugging-bay.hugging-bay](https://marketplace.visualstudio.com/items?itemName=hugging-bay.hugging-bay) | Hugging Bay | 0.2.0 | Browse models, estimate RAM fit, check downloads and use local tools. |
-| 2026-10-18 22:11:26 | [NorthPeakStudio.funk](https://marketplace.visualstudio.com/items?itemName=NorthPeakStudio.funk) | Funk | 1.1.0 | A fun VS Code extension that reacts when your code fails. |
+| 2026-10-18 22:55:40 | [Stream-ArchTech.ai-devtask-planner](https://marketplace.visualstudio.com/items?itemName=Stream-ArchTech.ai-devtask-planner) | AI DevTask Planner (VS Code & Cursor) | 1.0.0 | Desglose automatico de PRDs y requerimientos en Sprint Plans y GitHub Issues co… |
+| 2026-10-18 23:05:52 | [sirrelay.sirrelay](https://marketplace.visualstudio.com/items?itemName=sirrelay.sirrelay) | Sir Relay | 0.0.1 | Your SRelay column in the sidebar. |
 
 ## Data source
 
