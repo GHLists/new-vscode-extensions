@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-18T20:17:21.007Z,acedatacloud.mcp-happyhorse,acedatacloud,HappyHorse by Ace Data Cloud,2026.1018.0,"HappyHorse video generation by Ace Data Cloud — text, image, references, editing and task results in VS Code Chat."
+2026-10-18T20:22:04.297Z,acedatacloud.mcp-gpt-image,acedatacloud,GPT Image by Ace Data Cloud,2026.1018.0,"GPT Image generation and editing by Ace Data Cloud — GPT Image 2, image tasks and results in VS Code Chat."
+2026-10-18T20:55:05.14Z,nimrod-teich.lookout,nimrod-teich,Lookout,0.1.0,"See every AI coding agent session at a glance: what is working, what needs you, and where. Works with Claude Code, Codex and Copilot CLI."
+2026-10-18T20:56:37.583Z,odv-hu.tex-authorship,odv-hu,TeX Authorship,0.1.8,"iA Writer-like authorship tracking for LaTeX: mark pasted text as AI, reference or co-author with comment markers, see it tinted in the editor and coloured in a LuaLaTeX draft PDF."
+2026-10-18T21:05:42.277Z,AJxSystems.AJxVSCA-Tasks,AJxSystems,AJxVSCA Tasks,0.0.1,Sidebar view listing and running tasks from .vscode/tasks.json
+2026-10-18T21:10:21.997Z,Coordigent.coordigent,Coordigent,Coordigent,0.1.0,"See your coding agents in VS Code: Needs you, your agents, your team and files in use in the sidebar, and held files marked in the editor."
+2026-10-18T21:11:14.357Z,RuthK.iceberg-explorer,RuthK,Iceberg Explorer,0.0.1,"Browse Apache Iceberg warehouses in Google Cloud Storage, S3-compatible storage, or local file system from VS Code."
+2026-10-18T21:14:13.243Z,ParsaBordbar2003.ferrifuzz,ParsaBordbar2003,Ferrifuzz,0.2.1,"Syntax highlighting, completion and checks for ferrifuzz fuzzy-rule strings in Python, snippets for the ferrifuzz Python API, and a check that the selected interpreter can provide ferrifuzz completions."
