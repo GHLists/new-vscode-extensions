@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 06:20 UTC
+## Latest list — 2026-10-18 07:19 UTC
 
-New extensions published between 2026-10-18 04:20 UTC and 2026-10-18 06:20 UTC.
+New extensions published between 2026-10-18 05:19 UTC and 2026-10-18 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T06-20-42-983411Z.csv)
+[Full CSV](data/new-extensions-2026-10-18T07-19-42-073856Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 05:48:58 | [OctoApps.octopower](https://marketplace.visualstudio.com/items?itemName=OctoApps.octopower) | OctoPower | 1.0.1 | OctoPower MCP VS Code extension - 4,000+ capabilities without Claude/Codex depe… |
-| 2026-10-18 05:49:06 | [SourceCrafter.xzor-language](https://marketplace.visualstudio.com/items?itemName=SourceCrafter.xzor-language) | XZor by SourceCrafter | 0.1.13 | Language support for .xzor components (xzor: Blazor-style components for TypeSc… |
-| 2026-10-18 05:57:05 | [ricardomoratomateos.stack-agents](https://marketplace.visualstudio.com/items?itemName=ricardomoratomateos.stack-agents) | Stack — Parallel AI Agents | 0.1.0 | Run parallel AI coding agents (Claude Code, Codex CLI, opencode) across git wor… |
-| 2026-10-18 06:18:00 | [tingxi8087.git-ai-commit-plus](https://marketplace.visualstudio.com/items?itemName=tingxi8087.git-ai-commit-plus) | Git AI Commit Plus | 0.3.2 | 在源代码管理中一键生成中文或英文提交说明，支持 DeepSeek。 |
+| 2026-10-18 06:31:26 | [AnandSundaramoorthySa.db-explainer](https://marketplace.visualstudio.com/items?itemName=AnandSundaramoorthySa.db-explainer) | DB Explainer | 1.0.1 | Understand any database by chatting with it. Connect read-only or paste SQL, th… |
+| 2026-10-18 06:45:50 | [holyarsenic.themo](https://marketplace.visualstudio.com/items?itemName=holyarsenic.themo) | Themo | 0.0.1 | A collection of carefully crafted dark themes for VS Code. |
 
 ## Data source
 
