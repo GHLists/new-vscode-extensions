@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T17:17:47.43Z,Utilvo.utilvo-security-tools,Utilvo,Utilvo Security & PDF Developer Tools,1.0.1,"Scan code for phishing/homograph URLs, ClickFix payloads, and inspect/merge PDF binary streams directly in VS Code."
+2026-10-19T17:18:51.937Z,tflaspoehler.intentional-explorer-reveal,tflaspoehler,Intentional Explorer Reveal,1.0.2,"Scroll the Explorer when you open a file, and skip that scroll when closing editors"
+2026-10-19T17:28:03.473Z,grikomsn.wayfindr-theme,grikomsn,Wayfindr Theme,0.3.1,"Ten Wayfindr color themes: warm yellow, neutral gray, Soft and Contrast variants, plus the original Night and Day."
+2026-10-19T17:30:55.52Z,pdanpdan.mermaid-pele-preview,pdanpdan,Mermaid Pele Preview,0.1.0,Render Mermaid diagrams with Pele: preview .mmd files and mermaid code blocks in Markdown.
+2026-10-19T17:32:29.843Z,LaboratoriumKodu.msaccesssourcetotxt,LaboratoriumKodu,MS Access Source Exporter,0.0.1,Export Microsoft Access source files from VS Code.
+2026-10-19T17:37:08.117Z,MuhammadSaadAmin.quantum-material-icon-theme,MuhammadSaadAmin,Quantum Material Icon Theme,1.0.0,"Material Design icons for Visual Studio Code, with icons for Quantum Logics file types"
+2026-10-19T17:48:08.007Z,albxrtx.css-property-organizer,albxrtx,CSS Property Organizer,0.0.1,"Automatically organizes the properties in your CSS files into groups based on their purpose, making your rules cleaner, more organized, and easier to read."
+2026-10-19T17:52:13.17Z,weare2plus3.cyberpi-uploader,weare2plus3,CyberPi Uploader,0.2.1,"Upload Python programs to a Makeblock CyberPi / mBot2 over USB from VS Code on macOS, without mBlock. Includes a serial monitor for print() output."
+2026-10-19T18:08:17.553Z,emtech.visualdb-3d,emtech,VisualDB 3D,1.0.0,Navigate your PostgreSQL schema as an interactive 3D universe.
+2026-10-19T18:17:38.657Z,ppreeper.ruxx-xml,ppreeper,ruxx — XML linter & formatter,0.1.1,"Odoo-aware XML linting, formatting and quick fixes, powered by the ruxx language server."
