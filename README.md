@@ -12,28 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 08:20 UTC
+## Latest list — 2026-10-19 09:21 UTC
 
-New extensions published between 2026-10-19 06:20 UTC and 2026-10-19 08:20 UTC.
+New extensions published between 2026-10-19 07:21 UTC and 2026-10-19 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T08-20-48-282532Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T09-21-29-519897Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 07:10:17 | [temha.temha-cli-panel](https://marketplace.visualstudio.com/items?itemName=temha.temha-cli-panel) | Temha CLI Panel | 0.3.30 | VS Code 사이드바에서 Temha 프로젝트를 로그인, Pull, Push할 수 있는 확장 프로그램 |
-| 2026-10-19 07:20:27 | [fengjl.msteditor](https://marketplace.visualstudio.com/items?itemName=fengjl.msteditor) | MST Editor | 0.1.1 | MST 工程文件编辑器（McgsWeb 组态工程 mst 格式：高亮/跳转/补全/大纲/语法检查） |
-| 2026-10-19 07:24:45 | [hexk.dvicode](https://marketplace.visualstudio.com/items?itemName=hexk.dvicode) | DVICode - DV Intelligence | 0.1.0 | SystemVerilog/UVM IDE features (navigation, problems, design and UVM hierarchie… |
-| 2026-10-19 07:37:16 | [ferrisching.dsh-link](https://marketplace.visualstudio.com/items?itemName=ferrisching.dsh-link) | DSH Link (dsh-editor-link) | 0.1.1 | VS Code half of the DSH plugin 'dsh-editor-link': answer approvals and question… |
-| 2026-10-19 07:40:23 | [MrPerfectH.semantic-model-cleaner](https://marketplace.visualstudio.com/items?itemName=MrPerfectH.semantic-model-cleaner) | Semantic Model Cleaner (Preview) | 0.1.4 | Run Semantic Model Cleaner's local Power BI Project UI inside VS Code. |
-| 2026-10-19 07:43:11 | [hasan-dev.malware-remover](https://marketplace.visualstudio.com/items?itemName=hasan-dev.malware-remover) | Malware Remover | 1.0.0 | Auto-detects PostCSS whitespace malware, malicious droppers, and rogue backgrou… |
-| 2026-10-19 07:45:02 | [GigaDeviceSemiconductor.gd32-DevSuite-vscode](https://marketplace.visualstudio.com/items?itemName=GigaDeviceSemiconductor.gd32-DevSuite-vscode) | GD32 DevSuite for VSCode | 0.7.0 | GD32 DevSuite for VSCode — project management, build, flash, debug |
-| 2026-10-19 07:46:15 | [GigaDeviceSemiconductor.gd32-nexus](https://marketplace.visualstudio.com/items?itemName=GigaDeviceSemiconductor.gd32-nexus) | GD32 Nexus | 0.1.0 | GD32 Nexus graphical peripheral configuration tool, used by GD32 DevSuite for V… |
-| 2026-10-19 07:55:53 | [brownsmith-dynamics.jsx-copy-editor](https://marketplace.visualstudio.com/items?itemName=brownsmith-dynamics.jsx-copy-editor) | JSX Copy Editor | 1.0.1 | Edit static JSX/TSX copy by file and source line. By Brownsmith Dynamics — http… |
-| 2026-10-19 07:57:32 | [veyralux.zamak](https://marketplace.visualstudio.com/items?itemName=veyralux.zamak) | Zamak | 0.1.0 | Zamak language support: syntax highlighting, diagnostics as you type, completio… |
-| 2026-10-19 08:01:00 | [yuairtl.airtl](https://marketplace.visualstudio.com/items?itemName=yuairtl.airtl) | Airtl | 1.0.0 | Vivado project hierarchy, instantiations and port connectivity drawn as graphs,… |
-| 2026-10-19 08:07:25 | [HexCJo.sidebar-terminal](https://marketplace.visualstudio.com/items?itemName=HexCJo.sidebar-terminal) | sidebar-terminal | 0.0.1 | for sidebar teminal |
-| 2026-10-19 08:08:18 | [zoceanfly.protoview](https://marketplace.visualstudio.com/items?itemName=zoceanfly.protoview) | ProtoView | 0.1.0 | 浏览 Protobuf / 调试 gRPC：侧边栏导航、Client 发请求、Auth、压测与链路调试 |
-| 2026-10-19 08:14:46 | [MJLHThomassen.syntax-tutor](https://marketplace.visualstudio.com/items?itemName=MJLHThomassen.syntax-tutor) | Syntax Tutor | 0.1.0 | Learn a programming language while you read code: hover explanations for keywor… |
+| 2026-10-19 08:18:20 | [Jatins.rn-live-logs-network](https://marketplace.visualstudio.com/items?itemName=Jatins.rn-live-logs-network) | RN Live Console: Logs & Network | 0.0.4 | Stream React Native logs (simulator, emulator and real device via Metro) into a… |
+| 2026-10-19 08:23:30 | [Vali-98.valdroid-emulator](https://marketplace.visualstudio.com/items?itemName=Vali-98.valdroid-emulator) | Valdroid Emulator | 0.1.3 | Android emulator and logcat inside VS Code. |
+| 2026-10-19 08:28:16 | [SuryanshBVerma.agent-tour](https://marketplace.visualstudio.com/items?itemName=SuryanshBVerma.agent-tour) | Agent Tour - Review AI Changes | 0.2.1 | Guided, spotlighted code tours of agent-written changes, played in the real edi… |
+| 2026-10-19 08:31:12 | [JoniRafael.cooldown-lens](https://marketplace.visualstudio.com/items?itemName=JoniRafael.cooldown-lens) | Cooldown Lens – npm Package Age & Minim… | 0.1.0 | See how old every npm dependency version is, right inside package.json. Flags v… |
+| 2026-10-19 08:37:05 | [luminaai.nexamind-vscode](https://marketplace.visualstudio.com/items?itemName=luminaai.nexamind-vscode) | Lumina AI — Code Assistant | 0.1.0 | Lumina AI Chat Assistant for VS Code |
+| 2026-10-19 08:39:15 | [HexCJo.side-shell](https://marketplace.visualstudio.com/items?itemName=HexCJo.side-shell) | Side Shell | 0.0.2 | A compact interactive terminal inside the VS Code Explorer sidebar |
+| 2026-10-19 09:15:16 | [nh-kng.audio-waveform-preview](https://marketplace.visualstudio.com/items?itemName=nh-kng.audio-waveform-preview) | Audio Waveform Preview | 2.7.0 | Play and preview audio files in VS Code, including WAV, MP3, OGG, AAC, FLAC, M4… |
+| 2026-10-19 09:16:49 | [aura-lab-siue.r-companion](https://marketplace.visualstudio.com/items?itemName=aura-lab-siue.r-companion) | AURA Lab R Companion | 0.1.3 | Gets students to a working R setup in VS Code: finds R, checks the packages eac… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T08:18:20.383Z,Jatins.rn-live-logs-network,Jatins,RN Live Console: Logs & Network,0.0.4,"Stream React Native logs (simulator, emulator and real device via Metro) into a VS Code Output channel."
+2026-10-19T08:23:30.403Z,Vali-98.valdroid-emulator,Vali-98,Valdroid Emulator,0.1.3,Android emulator and logcat inside VS Code.
+2026-10-19T08:28:16.577Z,SuryanshBVerma.agent-tour,SuryanshBVerma,Agent Tour - Review AI Changes,0.2.1,"Guided, spotlighted code tours of agent-written changes, played in the real editor."
+2026-10-19T08:31:12.087Z,JoniRafael.cooldown-lens,JoniRafael,Cooldown Lens – npm Package Age & Minimum Release Age,0.1.0,"See how old every npm dependency version is, right inside package.json. Flags versions still inside your supply-chain cooldown (npm min-release-age, pnpm minimumReleaseAge, Yarn npmMinimalAgeGate, Bun minimumReleaseAge) and suggests the newest safe version."
+2026-10-19T08:37:05.493Z,luminaai.nexamind-vscode,luminaai,Lumina AI — Code Assistant,0.1.0,Lumina AI Chat Assistant for VS Code
+2026-10-19T08:39:15.96Z,HexCJo.side-shell,HexCJo,Side Shell,0.0.2,A compact interactive terminal inside the VS Code Explorer sidebar
+2026-10-19T09:15:16.103Z,nh-kng.audio-waveform-preview,nh-kng,Audio Waveform Preview,2.7.0,"Play and preview audio files in VS Code, including WAV, MP3, OGG, AAC, FLAC, M4A, and more."
+2026-10-19T09:16:49.367Z,aura-lab-siue.r-companion,aura-lab-siue,AURA Lab R Companion,0.1.3,"Gets students to a working R setup in VS Code: finds R, checks the packages each course needs, installs what is missing, and explains the errors students meet most often."
