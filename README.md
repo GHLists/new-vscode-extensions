@@ -12,26 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 10:20 UTC
+## Latest list — 2026-10-19 11:19 UTC
 
-New extensions published between 2026-10-19 08:20 UTC and 2026-10-19 10:20 UTC.
+New extensions published between 2026-10-19 09:19 UTC and 2026-10-19 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T10-20-14-29937Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T11-19-16-955977Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 09:19:37 | [RocketSoftware.unit-testing-framework-extension](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.unit-testing-framework-extension) | Rocket COBOL Unit Testing | 2.0.4 | Rocket COBOL Unit Testing Extension with AI-assisted test generation |
-| 2026-10-19 09:25:05 | [Gimle.glitnir](https://marketplace.visualstudio.com/items?itemName=Gimle.glitnir) | Glitnir — Lean Notebooks | 0.1.2 | Read, explore and check Lean notebooks beside their source. |
-| 2026-10-19 09:28:25 | [paolaguarasci.sdlls](https://marketplace.visualstudio.com/items?itemName=paolaguarasci.sdlls) | sdlls — Structured Declarative Language | 0.2.0 | Language support for SDL, a structured declarative modelling language on top of… |
-| 2026-10-19 09:29:51 | [NithinMohan.explain-code-inline](https://marketplace.visualstudio.com/items?itemName=NithinMohan.explain-code-inline) | Explain Code Inline | 0.1.0 | Grey one-line LLM explanations above the code you select or put the cursor on (… |
-| 2026-10-19 09:37:31 | [boyayan.zotero-cite-texmd](https://marketplace.visualstudio.com/items?itemName=boyayan.zotero-cite-texmd) | Zotero Cite for TeXMD | 0.0.1 | 基于 Zotero Better BibTeX 的引用管理扩展：LaTeX/Markdown/BibTeX 文档中引用并更新文献、导出 BibTeX、更新 B… |
-| 2026-10-19 09:38:53 | [BulkPublish.bulkpublish](https://marketplace.visualstudio.com/items?itemName=BulkPublish.bulkpublish) | BulkPublish | 0.1.1 | Write, schedule and publish social media posts from your editor, and use BulkPu… |
-| 2026-10-19 09:40:31 | [vhme.flashback-diff](https://marketplace.visualstudio.com/items?itemName=vhme.flashback-diff) | Flashback Diff | 1.0.0 | See any file as it was when your branch was born. Right-click → diff against th… |
-| 2026-10-19 09:44:33 | [Hostmargin.launchpad-hostmargin](https://marketplace.visualstudio.com/items?itemName=Hostmargin.launchpad-hostmargin) | LaunchPad by Hostmargin | 1.0.0 | Deploy static sites to LaunchPad straight from your editor — with Agent Hoot as… |
-| 2026-10-19 09:48:33 | [subsneaker.gitgudgui](https://marketplace.visualstudio.com/items?itemName=subsneaker.gitgudgui) | GitGudGUI | 0.2.0 | A git commit graph with a branch panel, search, file history, and git actions t… |
-| 2026-10-19 09:56:11 | [archechef.stet-vscode](https://marketplace.visualstudio.com/items?itemName=archechef.stet-vscode) | Stet | 0.4.1 | Review AI-proposed changes to LaTeX projects: accept, reject, edit or comment o… |
-| 2026-10-19 10:08:30 | [codehubcloud.hornet-cpp](https://marketplace.visualstudio.com/items?itemName=codehubcloud.hornet-cpp) | Hornet C/C++ | 0.0.2 | C/C++ language support with four parsing modes, project indexing and interactiv… |
-| 2026-10-19 10:10:44 | [nexamind.nexamind-ai-code-assistant](https://marketplace.visualstudio.com/items?itemName=nexamind.nexamind-ai-code-assistant) | NexaMind AI | 0.2.0 | NexaMind AI Coding Assistant for VS Code - Read-only workspace integration, cod… |
+| 2026-10-19 10:17:45 | [fabtrie.aurix-debugger](https://marketplace.visualstudio.com/items?itemName=fabtrie.aurix-debugger) | AURIX™ Debugger | 0.1.0 | AURIX™ debugger for VS Code |
+| 2026-10-19 10:32:35 | [SanskarCodes.lineloom](https://marketplace.visualstudio.com/items?itemName=SanskarCodes.lineloom) | LineLoom | 1.0.0 | Privacy-first, open-source AI code autocomplete for VS Code, powered by local m… |
+| 2026-10-19 10:38:12 | [t04dJ14n9.lumiere](https://marketplace.visualstudio.com/items?itemName=t04dJ14n9.lumiere) | Lumière: Markdown Editor and PDF Reader | 0.1.0 | Obsidian-style Live Preview for Markdown and a PDF reader, in VS Code and Curso… |
+| 2026-10-19 10:47:58 | [constyn.project-badge](https://marketplace.visualstudio.com/items?itemName=constyn.project-badge) | Project Badge | 0.31.0 | Colored, icon-tagged project badge in the status bar, plus a Projects sidebar t… |
+| 2026-10-19 11:04:18 | [vegha.vegha](https://marketplace.visualstudio.com/items?itemName=vegha.vegha) | Vegha — API Client | 0.1.0 | Local-first API client for VS Code: Bruno-style .bru collections, environments,… |
+| 2026-10-19 11:09:07 | [digivibetech.safelite-sqlite-viewer](https://marketplace.visualstudio.com/items?itemName=digivibetech.safelite-sqlite-viewer) | SafeLite: SQLite Viewer | 0.1.1 | Browse SQLite databases in VS Code, read-only by default. Tables, views, schema… |
 
 ## Data source
 

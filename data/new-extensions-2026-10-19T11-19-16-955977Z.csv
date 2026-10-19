@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T10:17:45.39Z,fabtrie.aurix-debugger,fabtrie,AURIX™ Debugger,0.1.0,AURIX™ debugger for VS Code
+2026-10-19T10:32:35.137Z,SanskarCodes.lineloom,SanskarCodes,LineLoom,1.0.0,"Privacy-first, open-source AI code autocomplete for VS Code, powered by local models."
+2026-10-19T10:38:12.16Z,t04dJ14n9.lumiere,t04dJ14n9,Lumière: Markdown Editor and PDF Reader,0.1.0,"Obsidian-style Live Preview for Markdown and a PDF reader, in VS Code and Cursor, with links your AI agent can follow."
+2026-10-19T10:47:58.2Z,constyn.project-badge,constyn,Project Badge,0.31.0,"Colored, icon-tagged project badge in the status bar, plus a Projects sidebar that lists your recent folders ordered like the desktops on your Mac, and your open GitHub pull requests with their checks, reviews and conflicts. Nothing is written to your settings unless you opt in."
+2026-10-19T11:04:18.86Z,vegha.vegha,vegha,Vegha — API Client,0.1.0,"Local-first API client for VS Code: Bruno-style .bru collections, environments, every auth type, scripts, scriptless tests and request chaining — powered by the Vegha desktop engine."
+2026-10-19T11:09:07.28Z,digivibetech.safelite-sqlite-viewer,digivibetech,SafeLite: SQLite Viewer,0.1.1,"Browse SQLite databases in VS Code, read-only by default. Tables, views, schema (columns, indexes, foreign keys), fast paged grid for millions of rows, SELECT queries, CSV export, sort, filter, search. Optional write mode with a backup before every write. No telemetry, no network."
