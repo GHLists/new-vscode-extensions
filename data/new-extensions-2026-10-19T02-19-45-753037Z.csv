@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T01:45:44.937Z,Ergonotes.ergonotes-vscode,Ergonotes,Ergonotes,1.0.2,"Read and edit an Ergonotes vault in VS Code: syntax for tasks, events and habits, a preview, snippets, links, and habit check-ins."
+2026-10-19T02:00:10.453Z,vpatel071997.git-manager,vpatel071997,Synivo Git Manager,1.2.1,"Unified Git repository manager for VS Code. Inspect Pull Requests, CI/CD pipelines, Packages, Releases, Issues, and Wiki directly inside the editor."
+2026-10-19T02:05:12.41Z,fftcysstkm.call-hierarchy-copy,fftcysstkm,Call Hierarchy Copy,0.2.0,呼び出し階層を自動展開してテキストへコピー。Javaのテストコード除外に対応。
+2026-10-19T02:08:01.777Z,Ryan-Appleton.afm-library-support,Ryan-Appleton,AFM Library Support,1.0.0,Syntax highlighting and editor configuration for Honeywell AFM library files (*.fxl)

@@ -12,15 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 01:20 UTC
+## Latest list — 2026-10-19 02:19 UTC
 
-New extensions published between 2026-10-18 23:20 UTC and 2026-10-19 01:20 UTC.
+New extensions published between 2026-10-19 00:19 UTC and 2026-10-19 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T01-20-33-587507Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T02-19-45-753037Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 00:20:14 | [Z3nder.herdr-navigator](https://marketplace.visualstudio.com/items?itemName=Z3nder.herdr-navigator) | Herdr Navigator | 0.1.0 | Switches the VS Code workspace folder to the working directory of the focused h… |
+| 2026-10-19 01:45:44 | [Ergonotes.ergonotes-vscode](https://marketplace.visualstudio.com/items?itemName=Ergonotes.ergonotes-vscode) | Ergonotes | 1.0.2 | Read and edit an Ergonotes vault in VS Code: syntax for tasks, events and habit… |
+| 2026-10-19 02:00:10 | [vpatel071997.git-manager](https://marketplace.visualstudio.com/items?itemName=vpatel071997.git-manager) | Synivo Git Manager | 1.2.1 | Unified Git repository manager for VS Code. Inspect Pull Requests, CI/CD pipeli… |
+| 2026-10-19 02:05:12 | [fftcysstkm.call-hierarchy-copy](https://marketplace.visualstudio.com/items?itemName=fftcysstkm.call-hierarchy-copy) | Call Hierarchy Copy | 0.2.0 | 呼び出し階層を自動展開してテキストへコピー。Javaのテストコード除外に対応。 |
+| 2026-10-19 02:08:01 | [Ryan-Appleton.afm-library-support](https://marketplace.visualstudio.com/items?itemName=Ryan-Appleton.afm-library-support) | AFM Library Support | 1.0.0 | Syntax highlighting and editor configuration for Honeywell AFM library files (*… |
 
 ## Data source
 
