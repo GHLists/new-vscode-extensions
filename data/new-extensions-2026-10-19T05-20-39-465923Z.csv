@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T04:26:27.23Z,Clotran.clotran,Clotran,clotran,0.1.0,"clotran -- Clojure hosted on Fortran, installed with the extension: the language server, a REPL, evaluate at the cursor, load and compile, and a debugger that stops in Fortran."
+2026-10-19T04:30:22.83Z,cuihairu.kode-kbengine,cuihairu,Kode - KBEngine Development Environment,0.1.0,"Complete language support for KBEngine game server framework with syntax highlighting, IntelliSense, and more"
+2026-10-19T04:34:13.35Z,kxbuild.kxbuild,kxbuild,KXBuild — iOS Development for VS Code,0.1.0,"Build, run and debug iOS apps on a real iPhone from VS Code on Windows, Linux and macOS. Swift, Objective-C, React Native, Godot, Flutter, uni-app."
+2026-10-19T04:35:54.733Z,KristinZhang.wordcraft-vscode,KristinZhang,WordCraft Viewer,0.1.0,"View Microsoft Word documents (.docx/.doc) inside VS Code — fast, faithful rendering with the WordCraft Rust-to-WASM engine. Read-only."
+2026-10-19T05:00:19.737Z,vulda1.poc-x01-consent-b,vulda1,[X01] Consent Bypass PoC B,0.0.1,Research PoC (codeless v1). Uninstall after testing.
+2026-10-19T05:15:53.133Z,novian.guide-coding,novian,Guide Coding,0.4.0,"No more vibe coding. Enter Guide Coding: you write the code, AI guides you step by step."
