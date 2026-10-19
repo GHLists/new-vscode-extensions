@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T16:26:55.057Z,EpicDataNV.offline-dbt-lineage,EpicDataNV,Offline dbt Lineage,0.1.0,"See the full lineage of your dbt project as a clean, interactive graph. Works 100% offline: no dbt run, no warehouse, no Python, no API key."
+2026-10-19T16:29:46.577Z,grikomsn.inco-copilot-chat,grikomsn,Inco for GitHub Copilot Chat,1.0.1,Use Inco AI models in GitHub Copilot Chat with your API key.
+2026-10-19T16:52:14.85Z,gianzapata.promptfold,gianzapata,Promptfold,1.0.0,"Pack files, Git diffs and project structure into token-aware prompts for LLMs."
+2026-10-19T16:53:46.143Z,drop-source.war3-map-tools,drop-source,魔兽地图工具,0.0.1,预览模型、贴图、声音和 MPQ 资源，整理模型贴图，并诊断缺失资源。
+2026-10-19T16:54:51.753Z,hamperpick.reread,hamperpick,ReRead: prompt cache countdown and token usage for Claude Code,0.1.0,"See when your Claude Code prompt cache goes cold, and how much of your coding agent's usage was re-reading context (Claude Code, Codex, Antigravity). Local only; sends nothing."
+2026-10-19T17:05:51.9Z,neo-ashish-tools.neo-matrix-by-neo,neo-ashish-tools,Green Code: Matrix Theme — AK,0.0.2,"A neon-green, Matrix-inspired dark theme with green-on-black coding aesthetics."
+2026-10-19T17:17:32.667Z,CrabCode.crabcode-computer-use,CrabCode,CrabCode Computer Use,0.1.6,Local Computer Use companion for CrabCode in local and remote workspaces

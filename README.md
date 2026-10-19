@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 16:21 UTC
+## Latest list — 2026-10-19 17:20 UTC
 
-New extensions published between 2026-10-19 14:21 UTC and 2026-10-19 16:21 UTC.
+New extensions published between 2026-10-19 15:20 UTC and 2026-10-19 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T16-21-17-678152Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T17-20-57-462429Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 15:17:52 | [deepglance.djs-vscode](https://marketplace.visualstudio.com/items?itemName=deepglance.djs-vscode) | djs-vscode | 0.1.0 | D diagnostics, hovers, completion and highlighting from the D frontend itself:… |
-| 2026-10-19 15:51:36 | [VaelinZheng.kconfig-menuconfig](https://marketplace.visualstudio.com/items?itemName=VaelinZheng.kconfig-menuconfig) | Kconfig Menuconfig by VaelinZheng | 0.1.1 | Kconfig graphical configuration for VS Code, powered by Kconfiglib. Edit .confi… |
-| 2026-10-19 15:51:43 | [ReadyStack.microprofile-nine-stack-toolkit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.microprofile-nine-stack-toolkit) | MicroProfile Tools & 9-Stack Snippets | 0.1.6 | A wrong key in microprofile-config.properties does not break the build. It brea… |
-| 2026-10-19 15:52:01 | [ReadyStack.model-sunset-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.model-sunset-lint) | Model Sunset Lint - retired AI model ID… | 0.1.6 | Finds every model ID and API parameter in your code that a vendor has already s… |
-| 2026-10-19 15:52:03 | [ReadyStack.modern-stack-snippets-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.modern-stack-snippets-audit) | Snippets for 8 Stacks + Deprecated-Code… | 0.1.5 | The snippet pack you installed was written for the old major version. It still… |
-| 2026-10-19 15:52:29 | [ReadyStack.mssql-config-secret-auditor](https://marketplace.visualstudio.com/items?itemName=ReadyStack.mssql-config-secret-auditor) | SQLTools MSSQL Config & Secret Auditor | 0.1.5 | 17 rules · 24 config blocks · 8 stacks — it names the SQL Server password sitti… |
-| 2026-10-19 15:58:51 | [dark-dmake.click-n-open-path](https://marketplace.visualstudio.com/items?itemName=dark-dmake.click-n-open-path) | Click'n'Open Path | 0.5.0 | Ctrl/Cmd+Click a file path in your code, comments or configs to open the file. |
-| 2026-10-19 16:03:49 | [Danni96.sql-erd-visualizer](https://marketplace.visualstudio.com/items?itemName=Danni96.sql-erd-visualizer) | SQL ERD Visual Editor (Postgres, MySQL,… | 0.1.0 | Visualiza, edita tablas, columnas y conecta relaciones (Foreign Keys) en archiv… |
+| 2026-10-19 16:26:55 | [EpicDataNV.offline-dbt-lineage](https://marketplace.visualstudio.com/items?itemName=EpicDataNV.offline-dbt-lineage) | Offline dbt Lineage | 0.1.0 | See the full lineage of your dbt project as a clean, interactive graph. Works 1… |
+| 2026-10-19 16:29:46 | [grikomsn.inco-copilot-chat](https://marketplace.visualstudio.com/items?itemName=grikomsn.inco-copilot-chat) | Inco for GitHub Copilot Chat | 1.0.1 | Use Inco AI models in GitHub Copilot Chat with your API key. |
+| 2026-10-19 16:52:14 | [gianzapata.promptfold](https://marketplace.visualstudio.com/items?itemName=gianzapata.promptfold) | Promptfold | 1.0.0 | Pack files, Git diffs and project structure into token-aware prompts for LLMs. |
+| 2026-10-19 16:53:46 | [drop-source.war3-map-tools](https://marketplace.visualstudio.com/items?itemName=drop-source.war3-map-tools) | 魔兽地图工具 | 0.0.1 | 预览模型、贴图、声音和 MPQ 资源，整理模型贴图，并诊断缺失资源。 |
+| 2026-10-19 16:54:51 | [hamperpick.reread](https://marketplace.visualstudio.com/items?itemName=hamperpick.reread) | ReRead: prompt cache countdown and toke… | 0.1.0 | See when your Claude Code prompt cache goes cold, and how much of your coding a… |
+| 2026-10-19 17:05:51 | [neo-ashish-tools.neo-matrix-by-neo](https://marketplace.visualstudio.com/items?itemName=neo-ashish-tools.neo-matrix-by-neo) | Green Code: Matrix Theme — AK | 0.0.2 | A neon-green, Matrix-inspired dark theme with green-on-black coding aesthetics. |
+| 2026-10-19 17:17:32 | [CrabCode.crabcode-computer-use](https://marketplace.visualstudio.com/items?itemName=CrabCode.crabcode-computer-use) | CrabCode Computer Use | 0.1.6 | Local Computer Use companion for CrabCode in local and remote workspaces |
 
 ## Data source
 
