@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T19:22:37.973Z,zettcode.zettcode,zettcode,ZettCode,0.1.0,"The ZettCode coding agent in VS Code: streamed turns, chained tool calls, file jumps, approvals, sessions, models and effort."
+2026-10-19T19:24:40.3Z,MDMS.refract,MDMS,Refract — AI Context & Prompt Trajectory Engine,1.0.0,"Trajectory-aware AI prompt refiner & failure-spiral rescuer for VS Code Chat & Copilot. Grounds vague prompts in active files, compiler diagnostics, and terminal errors in <5ms (100% local, zero extra token cost)."
+2026-10-19T19:25:32.017Z,mtb.entity,mtb,Entity for Claude Code,1.0.7,"A low-poly head with an open skull that watches Claude Code work: it thinks, searches, frowns at failing tests, smiles at a commit and sends sub-agents flying out of its skull."
+2026-10-19T19:37:44.503Z,TheDoubleH.navgit,TheDoubleH,NAVGit,1.0.0,"Git workflow for Dynamics NAV 2016-2018 / Business Central 14 (C/AL) containers: build containers, import and export objects, start the client and C/SIDE."
+2026-10-19T19:42:47.157Z,codesheen.ultra-smooth-ui,codesheen,Ultra Smooth UI,1.2.1,"Smooth caret motion with a soft blur trail, cleaner tabs and rounded, blurred menus for VS Code."
+2026-10-19T19:50:56.483Z,dimanrus.exploring-collections,dimanrus,Exploring Collections,1.0.0,"Inspect, filter, sort, chart and export collections while debugging. A database-grade collection and DataTable viewer for C#, F#, JavaScript and TypeScript."

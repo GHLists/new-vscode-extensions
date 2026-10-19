@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 19:21 UTC
+## Latest list — 2026-10-19 20:21 UTC
 
-New extensions published between 2026-10-19 17:21 UTC and 2026-10-19 19:21 UTC.
+New extensions published between 2026-10-19 18:21 UTC and 2026-10-19 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T19-21-26-264146Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T20-21-06-48068Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 18:20:31 | [AiLuxis.draw-ai](https://marketplace.visualstudio.com/items?itemName=AiLuxis.draw-ai) | Draw.AI | 0.2.0 | Chat with AI to edit draw.io diagrams live in VS Code, in its own panel, as a C… |
-| 2026-10-19 18:29:12 | [AnderCMD.lupa-a11y](https://marketplace.visualstudio.com/items?itemName=AnderCMD.lupa-a11y) | Lupa A11y | 1.0.1 | Linter de accesibilidad para React (JSX/TSX) con explicaciones en español |
-| 2026-10-19 18:35:15 | [botkh.botkh](https://marketplace.visualstudio.com/items?itemName=botkh.botkh) | Botkh | 0.1.0 | AI coding assistant for VS Code with OpenAI-compatible, Anthropic, and Gemini p… |
-| 2026-10-19 18:43:23 | [zeppelin.close-search-tabs](https://marketplace.visualstudio.com/items?itemName=zeppelin.close-search-tabs) | Close Search Tabs | 0.0.1 | Closes all editor search tabs |
-| 2026-10-19 18:45:06 | [mhd.portaterm](https://marketplace.visualstudio.com/items?itemName=mhd.portaterm) | Portaterm | 0.20.0 | Run a real terminal anywhere in VS Code or Cursor — Primary Sidebar, Secondary… |
-| 2026-10-19 18:48:35 | [ppreeper.rusq-sql](https://marketplace.visualstudio.com/items?itemName=ppreeper.rusq-sql) | rusq — SQL linter & formatter | 0.1.2 | Fast SQL linting, formatting and quick fixes, powered by the rusq language serv… |
-| 2026-10-19 18:50:21 | [agent-brain.agent-brain](https://marketplace.visualstudio.com/items?itemName=agent-brain.agent-brain) | Agent Brain | 0.1.1 | Watch Claude Code, Codex and GitHub Copilot move through your repo as a living… |
-| 2026-10-19 18:55:29 | [GabrielCordeiro.kit-dev-brasil](https://marketplace.visualstudio.com/items?itemName=GabrielCordeiro.kit-dev-brasil) | Kit Dev Brasil: CPF, CNPJ, PIX, Boleto… | 0.2.0 | O 4Devs dentro do VS Code: gere pessoas e empresas fictícias coerentes, gere e… |
-| 2026-10-19 19:16:13 | [TylerCoffman.codetour-plus](https://marketplace.visualstudio.com/items?itemName=TylerCoffman.codetour-plus) | CodeTour+ | 0.0.60 | Record and play back guided tours of your codebase in VS Code. A maintained for… |
+| 2026-10-19 19:22:37 | [zettcode.zettcode](https://marketplace.visualstudio.com/items?itemName=zettcode.zettcode) | ZettCode | 0.1.0 | The ZettCode coding agent in VS Code: streamed turns, chained tool calls, file… |
+| 2026-10-19 19:24:40 | [MDMS.refract](https://marketplace.visualstudio.com/items?itemName=MDMS.refract) | Refract — AI Context & Prompt Trajector… | 1.0.0 | Trajectory-aware AI prompt refiner & failure-spiral rescuer for VS Code Chat &… |
+| 2026-10-19 19:25:32 | [mtb.entity](https://marketplace.visualstudio.com/items?itemName=mtb.entity) | Entity for Claude Code | 1.0.7 | A low-poly head with an open skull that watches Claude Code work: it thinks, se… |
+| 2026-10-19 19:37:44 | [TheDoubleH.navgit](https://marketplace.visualstudio.com/items?itemName=TheDoubleH.navgit) | NAVGit | 1.0.0 | Git workflow for Dynamics NAV 2016-2018 / Business Central 14 (C/AL) containers… |
+| 2026-10-19 19:42:47 | [codesheen.ultra-smooth-ui](https://marketplace.visualstudio.com/items?itemName=codesheen.ultra-smooth-ui) | Ultra Smooth UI | 1.2.1 | Smooth caret motion with a soft blur trail, cleaner tabs and rounded, blurred m… |
+| 2026-10-19 19:50:56 | [dimanrus.exploring-collections](https://marketplace.visualstudio.com/items?itemName=dimanrus.exploring-collections) | Exploring Collections | 1.0.0 | Inspect, filter, sort, chart and export collections while debugging. A database… |
 
 ## Data source
 
