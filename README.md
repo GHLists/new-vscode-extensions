@@ -12,24 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 07:19 UTC
+## Latest list — 2026-10-19 08:20 UTC
 
-New extensions published between 2026-10-19 05:19 UTC and 2026-10-19 07:19 UTC.
+New extensions published between 2026-10-19 06:20 UTC and 2026-10-19 08:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T07-19-36-480877Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T08-20-48-282532Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 06:21:50 | [wittwitt.git-extra-plus](https://marketplace.visualstudio.com/items?itemName=wittwitt.git-extra-plus) | Git Extra Plus | 0.0.1 | Enhance Git extensions such as Git Graph with additional features. |
-| 2026-10-19 06:30:24 | [FallenMax.vimium-markdown-preview](https://marketplace.visualstudio.com/items?itemName=FallenMax.vimium-markdown-preview) | Vimium Markdown Preview | 0.1.0 | Vimium-style keyboard navigation for the built-in Markdown preview. |
-| 2026-10-19 06:30:42 | [baryo-dev.lean-brain](https://marketplace.visualstudio.com/items?itemName=baryo-dev.lean-brain) | Lean Brain | 0.5.1 | A read-mostly dashboard over the lean-agent brain database. |
-| 2026-10-19 06:34:13 | [xq840622.leetcode-mistake-tracker](https://marketplace.visualstudio.com/items?itemName=xq840622.leetcode-mistake-tracker) | LeetCode 错题本 (Mistake Tracker) | 0.20.0 | 独立一站式刷题插件：打开题目、提交、断点调试、执行回放、错题自动记录、AI 归因、错题 markdown 笔记、题单管理 |
-| 2026-10-19 06:48:14 | [Ptrade.PTradeVscode](https://marketplace.visualstudio.com/items?itemName=Ptrade.PTradeVscode) | PTrade量化策略开发VS插件 | 1.0.0 | PTrade量化策略开发VS插件 - 提供回测、实盘交易、日志监控等功能 |
-| 2026-10-19 06:48:54 | [nguyen22-es.local-multi-agent-ide](https://marketplace.visualstudio.com/items?itemName=nguyen22-es.local-multi-agent-ide) | Local Multi-Agent IDE | 0.1.19 | Run local coding CLIs through a reviewed multi-agent workflow. |
-| 2026-10-19 06:55:00 | [mihaimyh.go-module-manager](https://marketplace.visualstudio.com/items?itemName=mihaimyh.go-module-manager) | GMM — Go Module Manager | 0.1.2 | See and move the Go dependencies of a workspace without touching code you did n… |
-| 2026-10-19 07:00:22 | [lawrence-godfrey.kyoo](https://marketplace.visualstudio.com/items?itemName=lawrence-godfrey.kyoo) | kyoo | 0.1.2 | Job queue for your machine and your agent: see what is running, what is waiting… |
-| 2026-10-19 07:00:53 | [Himabindu.bim-pbip-streamlit](https://marketplace.visualstudio.com/items?itemName=Himabindu.bim-pbip-streamlit) | PBIP | 0.1.1 | Convert model.bim files to Power BI Project (PBIP) folders |
-| 2026-10-19 07:01:00 | [PeterYang.xmldatatoolkit](https://marketplace.visualstudio.com/items?itemName=PeterYang.xmldatatoolkit) | XML Data Toolkit | 1.0.0 | Tree and table views, XPath, CSV/JSON export, formatting and Big5 handling for… |
+| 2026-10-19 07:10:17 | [temha.temha-cli-panel](https://marketplace.visualstudio.com/items?itemName=temha.temha-cli-panel) | Temha CLI Panel | 0.3.30 | VS Code 사이드바에서 Temha 프로젝트를 로그인, Pull, Push할 수 있는 확장 프로그램 |
+| 2026-10-19 07:20:27 | [fengjl.msteditor](https://marketplace.visualstudio.com/items?itemName=fengjl.msteditor) | MST Editor | 0.1.1 | MST 工程文件编辑器（McgsWeb 组态工程 mst 格式：高亮/跳转/补全/大纲/语法检查） |
+| 2026-10-19 07:24:45 | [hexk.dvicode](https://marketplace.visualstudio.com/items?itemName=hexk.dvicode) | DVICode - DV Intelligence | 0.1.0 | SystemVerilog/UVM IDE features (navigation, problems, design and UVM hierarchie… |
+| 2026-10-19 07:37:16 | [ferrisching.dsh-link](https://marketplace.visualstudio.com/items?itemName=ferrisching.dsh-link) | DSH Link (dsh-editor-link) | 0.1.1 | VS Code half of the DSH plugin 'dsh-editor-link': answer approvals and question… |
+| 2026-10-19 07:40:23 | [MrPerfectH.semantic-model-cleaner](https://marketplace.visualstudio.com/items?itemName=MrPerfectH.semantic-model-cleaner) | Semantic Model Cleaner (Preview) | 0.1.4 | Run Semantic Model Cleaner's local Power BI Project UI inside VS Code. |
+| 2026-10-19 07:43:11 | [hasan-dev.malware-remover](https://marketplace.visualstudio.com/items?itemName=hasan-dev.malware-remover) | Malware Remover | 1.0.0 | Auto-detects PostCSS whitespace malware, malicious droppers, and rogue backgrou… |
+| 2026-10-19 07:45:02 | [GigaDeviceSemiconductor.gd32-DevSuite-vscode](https://marketplace.visualstudio.com/items?itemName=GigaDeviceSemiconductor.gd32-DevSuite-vscode) | GD32 DevSuite for VSCode | 0.7.0 | GD32 DevSuite for VSCode — project management, build, flash, debug |
+| 2026-10-19 07:46:15 | [GigaDeviceSemiconductor.gd32-nexus](https://marketplace.visualstudio.com/items?itemName=GigaDeviceSemiconductor.gd32-nexus) | GD32 Nexus | 0.1.0 | GD32 Nexus graphical peripheral configuration tool, used by GD32 DevSuite for V… |
+| 2026-10-19 07:55:53 | [brownsmith-dynamics.jsx-copy-editor](https://marketplace.visualstudio.com/items?itemName=brownsmith-dynamics.jsx-copy-editor) | JSX Copy Editor | 1.0.1 | Edit static JSX/TSX copy by file and source line. By Brownsmith Dynamics — http… |
+| 2026-10-19 07:57:32 | [veyralux.zamak](https://marketplace.visualstudio.com/items?itemName=veyralux.zamak) | Zamak | 0.1.0 | Zamak language support: syntax highlighting, diagnostics as you type, completio… |
+| 2026-10-19 08:01:00 | [yuairtl.airtl](https://marketplace.visualstudio.com/items?itemName=yuairtl.airtl) | Airtl | 1.0.0 | Vivado project hierarchy, instantiations and port connectivity drawn as graphs,… |
+| 2026-10-19 08:07:25 | [HexCJo.sidebar-terminal](https://marketplace.visualstudio.com/items?itemName=HexCJo.sidebar-terminal) | sidebar-terminal | 0.0.1 | for sidebar teminal |
+| 2026-10-19 08:08:18 | [zoceanfly.protoview](https://marketplace.visualstudio.com/items?itemName=zoceanfly.protoview) | ProtoView | 0.1.0 | 浏览 Protobuf / 调试 gRPC：侧边栏导航、Client 发请求、Auth、压测与链路调试 |
+| 2026-10-19 08:14:46 | [MJLHThomassen.syntax-tutor](https://marketplace.visualstudio.com/items?itemName=MJLHThomassen.syntax-tutor) | Syntax Tutor | 0.1.0 | Learn a programming language while you read code: hover explanations for keywor… |
 
 ## Data source
 

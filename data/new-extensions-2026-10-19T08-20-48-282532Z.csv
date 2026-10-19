@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T07:10:17.987Z,temha.temha-cli-panel,temha,Temha CLI Panel,0.3.30,"VS Code 사이드바에서 Temha 프로젝트를 로그인, Pull, Push할 수 있는 확장 프로그램"
+2026-10-19T07:20:27.6Z,fengjl.msteditor,fengjl,MST Editor,0.1.1,MST 工程文件编辑器（McgsWeb 组态工程 mst 格式：高亮/跳转/补全/大纲/语法检查）
+2026-10-19T07:24:45.39Z,hexk.dvicode,hexk,DVICode - DV Intelligence,0.1.0,"SystemVerilog/UVM IDE features (navigation, problems, design and UVM hierarchies, call hierarchy, quick fixes, macros) backed by a fast Rust language server that can run locally, in WSL2 or on a remote Linux host."
+2026-10-19T07:37:16.25Z,ferrisching.dsh-link,ferrisching,DSH Link (dsh-editor-link),0.1.1,"VS Code half of the DSH plugin 'dsh-editor-link': answer approvals and questions in the editor, share editor context with the agent, and keep the live transcript in a sidebar. Requires the dsh-editor-link plugin."
+2026-10-19T07:40:23.75Z,MrPerfectH.semantic-model-cleaner,MrPerfectH,Semantic Model Cleaner (Preview),0.1.4,Run Semantic Model Cleaner's local Power BI Project UI inside VS Code.
+2026-10-19T07:43:11.18Z,hasan-dev.malware-remover,hasan-dev,Malware Remover,1.0.0,"Auto-detects PostCSS whitespace malware, malicious droppers, and rogue background processes across Antigravity, VS Code, and Cursor."
+2026-10-19T07:45:02.507Z,GigaDeviceSemiconductor.gd32-DevSuite-vscode,GigaDeviceSemiconductor,GD32 DevSuite for VSCode,0.7.0,"GD32 DevSuite for VSCode — project management, build, flash, debug"
+2026-10-19T07:46:15.043Z,GigaDeviceSemiconductor.gd32-nexus,GigaDeviceSemiconductor,GD32 Nexus,0.1.0,"GD32 Nexus graphical peripheral configuration tool, used by GD32 DevSuite for VSCode for GD Project creation and .gdc files"
+2026-10-19T07:55:53.163Z,brownsmith-dynamics.jsx-copy-editor,brownsmith-dynamics,JSX Copy Editor,1.0.1,Edit static JSX/TSX copy by file and source line. By Brownsmith Dynamics — https://brownsmithdynamics.com
+2026-10-19T07:57:32.477Z,veyralux.zamak,veyralux,Zamak,0.1.0,"Zamak language support: syntax highlighting, diagnostics as you type, completion, hover, go to definition, and formatting."
+2026-10-19T08:01:00.917Z,yuairtl.airtl,yuairtl,Airtl,1.0.0,"Vivado project hierarchy, instantiations and port connectivity drawn as graphs, plus AI-assisted RTL review and simulation debugging."
+2026-10-19T08:07:25Z,HexCJo.sidebar-terminal,HexCJo,sidebar-terminal,0.0.1,for sidebar teminal
+2026-10-19T08:08:18.243Z,zoceanfly.protoview,zoceanfly,ProtoView,0.1.0,浏览 Protobuf / 调试 gRPC：侧边栏导航、Client 发请求、Auth、压测与链路调试
+2026-10-19T08:14:46.17Z,MJLHThomassen.syntax-tutor,MJLHThomassen,Syntax Tutor,0.1.0,"Learn a programming language while you read code: hover explanations for keywords, operators and built-ins, plus marker-style highlighting of the scope a keyword belongs to. Go, Rust, C, C++, C#, JavaScript and TypeScript."
