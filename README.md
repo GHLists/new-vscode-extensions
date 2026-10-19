@@ -12,16 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-18 23:21 UTC
+## Latest list — 2026-10-19 00:19 UTC
 
-New extensions published between 2026-10-18 21:21 UTC and 2026-10-18 23:21 UTC.
+New extensions published between 2026-10-18 22:19 UTC and 2026-10-19 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-18T23-21-00-806261Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T00-19-58-258721Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-18 22:55:40 | [Stream-ArchTech.ai-devtask-planner](https://marketplace.visualstudio.com/items?itemName=Stream-ArchTech.ai-devtask-planner) | AI DevTask Planner (VS Code & Cursor) | 1.0.0 | Desglose automatico de PRDs y requerimientos en Sprint Plans y GitHub Issues co… |
-| 2026-10-18 23:05:52 | [sirrelay.sirrelay](https://marketplace.visualstudio.com/items?itemName=sirrelay.sirrelay) | Sir Relay | 0.0.1 | Your SRelay column in the sidebar. |
+| 2026-10-18 23:17:02 | [SMBBase.4bedev](https://marketplace.visualstudio.com/items?itemName=SMBBase.4bedev) | 4BEDev | 1.0.0 | Draw the ERD and write the table spec from your Laravel source. No app boot, no… |
+| 2026-10-18 23:21:37 | [HassanBukhari.native-lyx](https://marketplace.visualstudio.com/items?itemName=HassanBukhari.native-lyx) | Native LyX | 0.1.1 | Edit local LyX documents in the real native application inside VS Code (Linux x… |
+| 2026-10-18 23:37:11 | [Zangetsu.muken-language-theme](https://marketplace.visualstudio.com/items?itemName=Zangetsu.muken-language-theme) | Muken Language Theme | 1.0.0 | Official Muken Language color theme for Visual Studio Code |
+| 2026-10-18 23:39:42 | [roychemo.billable](https://marketplace.visualstudio.com/items?itemName=roychemo.billable) | Billable: Claude Code accounts and cost… | 0.6.0 | Formerly Claude Multi-Account. Run each project on its own Claude account. See… |
+| 2026-10-18 23:40:11 | [Zangetsu.muken-language-support](https://marketplace.visualstudio.com/items?itemName=Zangetsu.muken-language-support) | Muken Programming Language Support | 1.0.0 | A Official Extension for Muken Language support. |
+| 2026-10-18 23:40:37 | [asethi77.borrowed-light](https://marketplace.visualstudio.com/items?itemName=asethi77.borrowed-light) | Borrowed Light | 0.0.13 | Generate harmonious, readable VS Code themes from your desktop wallpaper |
+| 2026-10-19 00:02:22 | [Dwilon.dwilon-gpt](https://marketplace.visualstudio.com/items?itemName=Dwilon.dwilon-gpt) | Dwilon GPT | 0.1.0 | Conector local para entrar no Dwilon GPT e trabalhar no seu projeto. |
 
 ## Data source
 
