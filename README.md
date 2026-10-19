@@ -12,20 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 20:21 UTC
+## Latest list — 2026-10-19 21:21 UTC
 
-New extensions published between 2026-10-19 18:21 UTC and 2026-10-19 20:21 UTC.
+New extensions published between 2026-10-19 19:21 UTC and 2026-10-19 21:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T20-21-06-48068Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T21-21-11-011808Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 19:22:37 | [zettcode.zettcode](https://marketplace.visualstudio.com/items?itemName=zettcode.zettcode) | ZettCode | 0.1.0 | The ZettCode coding agent in VS Code: streamed turns, chained tool calls, file… |
-| 2026-10-19 19:24:40 | [MDMS.refract](https://marketplace.visualstudio.com/items?itemName=MDMS.refract) | Refract — AI Context & Prompt Trajector… | 1.0.0 | Trajectory-aware AI prompt refiner & failure-spiral rescuer for VS Code Chat &… |
-| 2026-10-19 19:25:32 | [mtb.entity](https://marketplace.visualstudio.com/items?itemName=mtb.entity) | Entity for Claude Code | 1.0.7 | A low-poly head with an open skull that watches Claude Code work: it thinks, se… |
-| 2026-10-19 19:37:44 | [TheDoubleH.navgit](https://marketplace.visualstudio.com/items?itemName=TheDoubleH.navgit) | NAVGit | 1.0.0 | Git workflow for Dynamics NAV 2016-2018 / Business Central 14 (C/AL) containers… |
-| 2026-10-19 19:42:47 | [codesheen.ultra-smooth-ui](https://marketplace.visualstudio.com/items?itemName=codesheen.ultra-smooth-ui) | Ultra Smooth UI | 1.2.1 | Smooth caret motion with a soft blur trail, cleaner tabs and rounded, blurred m… |
-| 2026-10-19 19:50:56 | [dimanrus.exploring-collections](https://marketplace.visualstudio.com/items?itemName=dimanrus.exploring-collections) | Exploring Collections | 1.0.0 | Inspect, filter, sort, chart and export collections while debugging. A database… |
+| 2026-10-19 20:21:12 | [bsjaramillo.openchat-opencode](https://marketplace.visualstudio.com/items?itemName=bsjaramillo.openchat-opencode) | OpenChat for OpenCode | 0.0.1 | OpenCode GUI for VSCode |
+| 2026-10-19 20:25:38 | [jinx.bg3-osiris-vscode](https://marketplace.visualstudio.com/items?itemName=jinx.bg3-osiris-vscode) | Baldur's Gate 3 Osiris | 0.4.0 | BG3 Osiris editing, OsiCheck validation and standalone story compilation, with… |
+| 2026-10-19 20:26:37 | [PiwiTests.piwi](https://marketplace.visualstudio.com/items?itemName=PiwiTests.piwi) | Piwi | 0.56.0 | Your Playwright suite's history in the editor: CI failures at their lines, heal… |
+| 2026-10-19 20:34:33 | [KESICODE.ai-quota](https://marketplace.visualstudio.com/items?itemName=KESICODE.ai-quota) | AI-Quota | 2.0.1 | Universal AI Account & Quota Manager — monitor quotas, manage accounts, and swi… |
+| 2026-10-19 20:38:31 | [AbdallahSaeed.markscope-reader](https://marketplace.visualstudio.com/items?itemName=AbdallahSaeed.markscope-reader) | Markscope Reader: Markdown Preview, Dia… | 1.1.0 | Fast, secure Markdown preview with Mermaid, Graphviz, KaTeX, an outline, a docu… |
+| 2026-10-19 20:42:15 | [repolensdox.repolensdox](https://marketplace.visualstudio.com/items?itemName=repolensdox.repolensdox) | RepoLens for VS Code | 0.2.0 | Architecture documentation intelligence — scan your repo, visualize dependencie… |
+| 2026-10-19 20:52:40 | [lfit-smoke.lfit-smoke-test](https://marketplace.visualstudio.com/items?itemName=lfit-smoke.lfit-smoke-test) | LFIT Smoke Test | 0.0.2 | Internal smoke test for the LF VS Code publishing pipeline. Does nothing useful… |
+| 2026-10-19 20:55:59 | [AlmostPerfect.almost-perfect-ai-context](https://marketplace.visualstudio.com/items?itemName=AlmostPerfect.almost-perfect-ai-context) | Almost Perfect AI Context | 0.2.1 | Exports the selected code plus the code it calls, the code that calls it, and t… |
+| 2026-10-19 20:58:05 | [alien6-studio.apizr](https://marketplace.visualstudio.com/items?itemName=alien6-studio.apizr) | Apizr | 0.4.6 | Inspect Python and notebook evidence and browse local experiment Runs through y… |
+| 2026-10-19 21:16:27 | [kslabs.claude-code-session-sync](https://marketplace.visualstudio.com/items?itemName=kslabs.claude-code-session-sync) | Claude Code Sync | 0.2.3 | Backup, restore e sincronização bi-direcional das sessões do Claude Code (~/.cl… |
 
 ## Data source
 

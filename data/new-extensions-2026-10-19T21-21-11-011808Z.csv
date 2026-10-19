@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T20:21:12.92Z,bsjaramillo.openchat-opencode,bsjaramillo,OpenChat for OpenCode,0.0.1,OpenCode GUI for VSCode
+2026-10-19T20:25:38.737Z,jinx.bg3-osiris-vscode,jinx,Baldur's Gate 3 Osiris,0.4.0,"BG3 Osiris editing, OsiCheck validation and standalone story compilation, with an optional native Toolkit backend."
+2026-10-19T20:26:37.29Z,PiwiTests.piwi,PiwiTests,Piwi,0.56.0,"Your Playwright suite's history in the editor: CI failures at their lines, healing in place, the tests behind each locator and file, and the locators a change breaks"
+2026-10-19T20:34:33Z,KESICODE.ai-quota,KESICODE,AI-Quota,2.0.1,"Universal AI Account & Quota Manager — monitor quotas, manage accounts, and switch between AI providers directly from your IDE."
+2026-10-19T20:38:31.66Z,AbdallahSaeed.markscope-reader,AbdallahSaeed,"Markscope Reader: Markdown Preview, Diagrams & Doctor",1.1.0,"Fast, secure Markdown preview with Mermaid, Graphviz, KaTeX, an outline, a documentation doctor in the Problems panel, and optional bring-your-own-key AI."
+2026-10-19T20:42:15.233Z,repolensdox.repolensdox,repolensdox,RepoLens for VS Code,0.2.0,"Architecture documentation intelligence — scan your repo, visualize dependencies, and preview generated docs right inside VS Code."
+2026-10-19T20:52:40.93Z,lfit-smoke.lfit-smoke-test,lfit-smoke,LFIT Smoke Test,0.0.2,Internal smoke test for the LF VS Code publishing pipeline. Does nothing useful; do not install.
+2026-10-19T20:55:59.977Z,AlmostPerfect.almost-perfect-ai-context,AlmostPerfect,Almost Perfect AI Context,0.2.1,"Exports the selected code plus the code it calls, the code that calls it, and the config it reads, as one Markdown file for any AI chat."
+2026-10-19T20:58:05.64Z,alien6-studio.apizr,alien6-studio,Apizr,0.4.6,Inspect Python and notebook evidence and browse local experiment Runs through your installed Apizr engine.
+2026-10-19T21:16:27.67Z,kslabs.claude-code-session-sync,kslabs,Claude Code Sync,0.2.3,"Backup, restore e sincronização bi-direcional das sessões do Claude Code (~/.claude/projects) via repositório GitHub privado, com merge sem perdas."
