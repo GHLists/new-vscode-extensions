@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T12:17:41.243Z,fhir-explorer.fhir-explorer,fhir-explorer,FHIR Explorer – Authoring & Validation,0.1.1,"Author FHIR profiles, value sets and examples directly in your workspace."
+2026-10-19T12:27:16.75Z,tokentrace.tokentrace-vscode,tokentrace,TokenTrace,0.1.0,Thin pairing and status companion for the independent TokenTrace collector.
+2026-10-19T12:35:21.397Z,ThaiDat.lessblue-theme-vscode,ThaiDat,LessBlue,0.1.0,"A warm, low-chroma dark theme for long coding sessions."
+2026-10-19T12:40:38.81Z,aksisonline.gitswitch-dev,aksisonline,gitswitch.dev,0.1.0,"Status bar widget for switching, pinning, and guarding git identities managed by gitswitch"
+2026-10-19T12:43:04.447Z,indudhara59.smell-detection,indudhara59,Smell Detection,0.2.0,"Detect implementation, design and architecture smells in Java projects with Designite or Arcan (both bundled), shown in a sidebar and the Problems panel."
+2026-10-19T12:43:47.33Z,digivibetech.large-csv-viewer,digivibetech,Large CSV Viewer: open 1 GB+ CSV/TSV fast,0.2.0,"Open multi-gigabyte CSV and TSV files in a fast read-only grid. First rows in a fraction of a second, background index, filter, sort, search, jump to row and column stats. No telemetry."
+2026-10-19T12:44:48.36Z,geb-algebra.hakba,geb-algebra,HAKBa,0.1.0,Space-based human-approved knowledge management with repository-relative wiki links.
+2026-10-19T12:49:14.55Z,fujiitk.imemop,fujiitk,iMemo+ - Complex Number Calculator,0.1.30,"Evaluate expressions in Markdown imemo blocks and .imemo files, with results and variables in a side panel."
+2026-10-19T12:50:13.423Z,Abdul-HaseebAhmad.nhl-asm,Abdul-HaseebAhmad,NHL disassembly assembly (68000 / 65816),1.3.1,Syntax highlighting and ctrl+click on include/incbin paths for the NHL Genesis (SNASM68K) and SNES (asar) disassembly repos. Numbers are plain numbers: nothing here is a colour.
+2026-10-19T12:56:09.907Z,torut.turntax,torut,turntax,0.1.0,"Per-turn token cost of AI coding-agent instruction files (AGENTS.md, CLAUDE.md, Cursor rules, Copilot instructions, skills) in the status bar, with findings and safe fixes."
+2026-10-19T13:00:53.66Z,anateii.gow-ragnarok,anateii,God of War Ragnarok Theme,0.1.8,"Theme, icon pack and Mimir virtual pet inspired by the game God of War - Ragnarok"
+2026-10-19T13:07:05.273Z,RyanPayneUX.riffle-variants,RyanPayneUX,Riffle Variants,0.1.0,"Riffle: Options that live in your layout, not beside it. Riff on an idea in your editor. Flip between takes in the browser. Keep the best one."
+2026-10-19T13:11:02.343Z,naga4u.schemafleet,naga4u,SchemaFleet,1.2.2,"Compare, diagram and sync database schemas across hundreds of MySQL, MariaDB and PostgreSQL databases. Review, approve and apply changes safely, without leaving VS Code."
+2026-10-19T13:13:40.823Z,wanguo.source-insight-inspired,wanguo,Source Insight Inspired,1.0.0,让 VS Code 拥有近似 Source Insight 的代码阅读体验：文件符号列表、Context 定义预览、Relation 调用关系、引用与全文检索、同名符号高亮，方便看代码、理调用、查问题。
+2026-10-19T13:14:45.387Z,Himabindu.dax-converter-plugin,Himabindu,DAX Converter,0.1.0,Convert expressions and natural language into Power BI DAX measures
