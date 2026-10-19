@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T06:21:50.127Z,wittwitt.git-extra-plus,wittwitt,Git Extra Plus,0.0.1,Enhance Git extensions such as Git Graph with additional features.
+2026-10-19T06:30:24.613Z,FallenMax.vimium-markdown-preview,FallenMax,Vimium Markdown Preview,0.1.0,Vimium-style keyboard navigation for the built-in Markdown preview.
+2026-10-19T06:30:42.653Z,baryo-dev.lean-brain,baryo-dev,Lean Brain,0.5.1,A read-mostly dashboard over the lean-agent brain database.
+2026-10-19T06:34:13.19Z,xq840622.leetcode-mistake-tracker,xq840622,LeetCode 错题本 (Mistake Tracker),0.20.0,独立一站式刷题插件：打开题目、提交、断点调试、执行回放、错题自动记录、AI 归因、错题 markdown 笔记、题单管理
+2026-10-19T06:48:14.327Z,Ptrade.PTradeVscode,Ptrade,PTrade量化策略开发VS插件,1.0.0,PTrade量化策略开发VS插件 - 提供回测、实盘交易、日志监控等功能
+2026-10-19T06:48:54.223Z,nguyen22-es.local-multi-agent-ide,nguyen22-es,Local Multi-Agent IDE,0.1.19,Run local coding CLIs through a reviewed multi-agent workflow.
+2026-10-19T06:55:00.78Z,mihaimyh.go-module-manager,mihaimyh,GMM — Go Module Manager,0.1.2,See and move the Go dependencies of a workspace without touching code you did not ask for.
+2026-10-19T07:00:22.177Z,lawrence-godfrey.kyoo,lawrence-godfrey,kyoo,0.1.2,"Job queue for your machine and your agent: see what is running, what is waiting and why, read logs, cancel."
+2026-10-19T07:00:53.39Z,Himabindu.bim-pbip-streamlit,Himabindu,PBIP,0.1.1,Convert model.bim files to Power BI Project (PBIP) folders
+2026-10-19T07:01:00.38Z,PeterYang.xmldatatoolkit,PeterYang,XML Data Toolkit,1.0.0,"Tree and table views, XPath, CSV/JSON export, formatting and Big5 handling for XML files."

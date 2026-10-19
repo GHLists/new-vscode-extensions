@@ -12,18 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 06:20 UTC
+## Latest list — 2026-10-19 07:19 UTC
 
-New extensions published between 2026-10-19 04:20 UTC and 2026-10-19 06:20 UTC.
+New extensions published between 2026-10-19 05:19 UTC and 2026-10-19 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T06-20-29-408945Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T07-19-36-480877Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 05:17:35 | [DynamoSoftware.zero-gravity-dynamo](https://marketplace.visualstudio.com/items?itemName=DynamoSoftware.zero-gravity-dynamo) | ZERO-GRAVITY | 2.3.0 | Break free from proprietary IDEs and pool multiple Google AI accounts into a un… |
-| 2026-10-19 05:33:03 | [FreshWind.foam-vscode-unofficial](https://marketplace.visualstudio.com/items?itemName=FreshWind.foam-vscode-unofficial) | Foam Unofficial | 0.46.1 | VS Code + Markdown + Wikilinks for your note taking and knowledge base |
-| 2026-10-19 05:36:37 | [colorjs.color-spaces](https://marketplace.visualstudio.com/items?itemName=colorjs.color-spaces) | Color Spaces | 0.1.1 | Edit the colors in your code in OKLCH, Display P3 or any of 205 color spaces. |
-| 2026-10-19 06:11:21 | [niean.processon-markdown-mindmap](https://marketplace.visualstudio.com/items?itemName=niean.processon-markdown-mindmap) | Markdown Mindmap · 黑白脑图 | 0.1.12 | ProcessOn 风格的双向 Markdown 脑图预览：折叠、平移、缩放、实时更新。 |
+| 2026-10-19 06:21:50 | [wittwitt.git-extra-plus](https://marketplace.visualstudio.com/items?itemName=wittwitt.git-extra-plus) | Git Extra Plus | 0.0.1 | Enhance Git extensions such as Git Graph with additional features. |
+| 2026-10-19 06:30:24 | [FallenMax.vimium-markdown-preview](https://marketplace.visualstudio.com/items?itemName=FallenMax.vimium-markdown-preview) | Vimium Markdown Preview | 0.1.0 | Vimium-style keyboard navigation for the built-in Markdown preview. |
+| 2026-10-19 06:30:42 | [baryo-dev.lean-brain](https://marketplace.visualstudio.com/items?itemName=baryo-dev.lean-brain) | Lean Brain | 0.5.1 | A read-mostly dashboard over the lean-agent brain database. |
+| 2026-10-19 06:34:13 | [xq840622.leetcode-mistake-tracker](https://marketplace.visualstudio.com/items?itemName=xq840622.leetcode-mistake-tracker) | LeetCode 错题本 (Mistake Tracker) | 0.20.0 | 独立一站式刷题插件：打开题目、提交、断点调试、执行回放、错题自动记录、AI 归因、错题 markdown 笔记、题单管理 |
+| 2026-10-19 06:48:14 | [Ptrade.PTradeVscode](https://marketplace.visualstudio.com/items?itemName=Ptrade.PTradeVscode) | PTrade量化策略开发VS插件 | 1.0.0 | PTrade量化策略开发VS插件 - 提供回测、实盘交易、日志监控等功能 |
+| 2026-10-19 06:48:54 | [nguyen22-es.local-multi-agent-ide](https://marketplace.visualstudio.com/items?itemName=nguyen22-es.local-multi-agent-ide) | Local Multi-Agent IDE | 0.1.19 | Run local coding CLIs through a reviewed multi-agent workflow. |
+| 2026-10-19 06:55:00 | [mihaimyh.go-module-manager](https://marketplace.visualstudio.com/items?itemName=mihaimyh.go-module-manager) | GMM — Go Module Manager | 0.1.2 | See and move the Go dependencies of a workspace without touching code you did n… |
+| 2026-10-19 07:00:22 | [lawrence-godfrey.kyoo](https://marketplace.visualstudio.com/items?itemName=lawrence-godfrey.kyoo) | kyoo | 0.1.2 | Job queue for your machine and your agent: see what is running, what is waiting… |
+| 2026-10-19 07:00:53 | [Himabindu.bim-pbip-streamlit](https://marketplace.visualstudio.com/items?itemName=Himabindu.bim-pbip-streamlit) | PBIP | 0.1.1 | Convert model.bim files to Power BI Project (PBIP) folders |
+| 2026-10-19 07:01:00 | [PeterYang.xmldatatoolkit](https://marketplace.visualstudio.com/items?itemName=PeterYang.xmldatatoolkit) | XML Data Toolkit | 1.0.0 | Tree and table views, XPath, CSV/JSON export, formatting and Big5 handling for… |
 
 ## Data source
 
