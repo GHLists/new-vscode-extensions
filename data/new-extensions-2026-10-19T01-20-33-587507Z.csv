@@ -1,0 +1,2 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T00:20:14.503Z,Z3nder.herdr-navigator,Z3nder,Herdr Navigator,0.1.0,Switches the VS Code workspace folder to the working directory of the focused herdr pane.
