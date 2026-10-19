@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 22:19 UTC
+## Latest list — 2026-10-19 23:20 UTC
 
-New extensions published between 2026-10-19 20:19 UTC and 2026-10-19 22:19 UTC.
+New extensions published between 2026-10-19 21:20 UTC and 2026-10-19 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T22-19-41-470264Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T23-20-17-313057Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 21:30:06 | [heritage-themes.heritage-themes](https://marketplace.visualstudio.com/items?itemName=heritage-themes.heritage-themes) | Heritage Themes | 1.0.1 | Colour themes drawn from the colour traditions of different cultures. |
-| 2026-10-19 21:32:10 | [fornwall.diagram-chat](https://marketplace.visualstudio.com/items?itemName=fornwall.diagram-chat) | @diagram | 0.0.1 | Interactive Mermaid diagrams and Apache ECharts charts beside VS Code chat: ask… |
-| 2026-10-19 21:38:33 | [swayamprabhu2005.envkeeper](https://marketplace.visualstudio.com/items?itemName=swayamprabhu2005.envkeeper) | EnvKeeper: Local Secret Vault | 0.1.0 | Never lose your API keys again. Automatically back up, encrypt (AES-256-GCM Env… |
-| 2026-10-19 21:47:27 | [threetides.commit-with-claude](https://marketplace.visualstudio.com/items?itemName=threetides.commit-with-claude) | Commit with Claude | 1.0.0 | Consistent, style-locked commit messages from the Claude Code you are already s… |
-| 2026-10-19 21:50:13 | [programavimas.programavimas-vscode](https://marketplace.visualstudio.com/items?itemName=programavimas.programavimas-vscode) | Programavimas | 0.1.0 | Solve your Programavimas problems in VS Code: read the statement, run the sampl… |
+| 2026-10-19 22:23:39 | [plainwork.loose-ends](https://marketplace.visualstudio.com/items?itemName=plainwork.loose-ends) | Loose Ends: TODO tree without ripgrep | 0.1.0 | Every TODO, FIXME and HACK comment in your workspace in one list, with highligh… |
+| 2026-10-19 22:29:48 | [hylo-lang.abi-explorer](https://marketplace.visualstudio.com/items?itemName=hylo-lang.abi-explorer) | ABI Explorer | 0.1.0 | Sizes, offsets and padding of C and C++ structs in hovers and a layout view, fr… |
+| 2026-10-19 22:35:34 | [vijaypjavvadi.attestqa-vscode](https://marketplace.visualstudio.com/items?itemName=vijaypjavvadi.attestqa-vscode) | attestqa | 1.0.1 | Governed agentic testing in VS Code: write Playwright tests from Jira or Azure… |
+| 2026-10-19 22:56:47 | [ciamac-davoudi.nebula-drift-dawn](https://marketplace.visualstudio.com/items?itemName=ciamac-davoudi.nebula-drift-dawn) | Nebula Drift Dawn | 0.0.2 | A clean white and magenta light color theme with a space-themed file icon set:… |
 
 ## Data source
 

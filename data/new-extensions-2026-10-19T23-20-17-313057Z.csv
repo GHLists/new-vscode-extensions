@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T22:23:39.127Z,plainwork.loose-ends,plainwork,Loose Ends: TODO tree without ripgrep,0.1.0,"Every TODO, FIXME and HACK comment in your workspace in one list, with highlights. Uses VS Code's own file APIs instead of a ripgrep binary, so updates don't break it. Reads your Todo Tree tags. No telemetry."
+2026-10-19T22:29:48.493Z,hylo-lang.abi-explorer,hylo-lang,ABI Explorer,0.1.0,"Sizes, offsets and padding of C and C++ structs in hovers and a layout view, from your project's own compile flags."
+2026-10-19T22:35:34.943Z,vijaypjavvadi.attestqa-vscode,vijaypjavvadi,attestqa,1.0.1,"Governed agentic testing in VS Code: write Playwright tests from Jira or Azure DevOps stories, approve the test design in the editor, and read coverage and the run ledger. A client of the attestqa CLI."
+2026-10-19T22:56:47.627Z,ciamac-davoudi.nebula-drift-dawn,ciamac-davoudi,Nebula Drift Dawn,0.0.2,"A clean white and magenta light color theme with a space-themed file icon set: comets, aliens, planets and rockets."
