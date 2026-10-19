@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 02:19 UTC
+## Latest list — 2026-10-19 03:19 UTC
 
-New extensions published between 2026-10-19 00:19 UTC and 2026-10-19 02:19 UTC.
+New extensions published between 2026-10-19 01:19 UTC and 2026-10-19 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T02-19-45-753037Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T03-19-14-673293Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 01:45:44 | [Ergonotes.ergonotes-vscode](https://marketplace.visualstudio.com/items?itemName=Ergonotes.ergonotes-vscode) | Ergonotes | 1.0.2 | Read and edit an Ergonotes vault in VS Code: syntax for tasks, events and habit… |
-| 2026-10-19 02:00:10 | [vpatel071997.git-manager](https://marketplace.visualstudio.com/items?itemName=vpatel071997.git-manager) | Synivo Git Manager | 1.2.1 | Unified Git repository manager for VS Code. Inspect Pull Requests, CI/CD pipeli… |
-| 2026-10-19 02:05:12 | [fftcysstkm.call-hierarchy-copy](https://marketplace.visualstudio.com/items?itemName=fftcysstkm.call-hierarchy-copy) | Call Hierarchy Copy | 0.2.0 | 呼び出し階層を自動展開してテキストへコピー。Javaのテストコード除外に対応。 |
-| 2026-10-19 02:08:01 | [Ryan-Appleton.afm-library-support](https://marketplace.visualstudio.com/items?itemName=Ryan-Appleton.afm-library-support) | AFM Library Support | 1.0.0 | Syntax highlighting and editor configuration for Honeywell AFM library files (*… |
+| 2026-10-19 02:13:24 | [fernandocalisto.jasper-reports-tools](https://marketplace.visualstudio.com/items?itemName=fernandocalisto.jasper-reports-tools) | JasperReports Developer Tools | 0.1.0 | Extensão profissional e leve para criação, manutenção, compilação, teste e depl… |
+| 2026-10-19 02:19:36 | [skycode.skycode-ai](https://marketplace.visualstudio.com/items?itemName=skycode.skycode-ai) | Skycode AI | 0.6.0 | AI-агент для VS Code под ваши модели: корпоративный OpenAI-совместимый шлюз, Qw… |
+| 2026-10-19 02:20:32 | [AngryDev.angry-dev](https://marketplace.visualstudio.com/items?itemName=AngryDev.angry-dev) | Angry Dev | 0.1.0 | Rage-jump through towers of bugs. A tiny arcade break right inside VS Code. |
+| 2026-10-19 02:45:15 | [DerKyberTakt.tn5250-terminal](https://marketplace.visualstudio.com/items?itemName=DerKyberTakt.tn5250-terminal) | TN5250 Terminal for IBM i | 0.1.0 | 5250 terminal emulator for IBM i (AS/400) that opens as a VS Code editor tab. P… |
+| 2026-10-19 02:51:44 | [s-mpai.nse-language-support](https://marketplace.visualstudio.com/items?itemName=s-mpai.nse-language-support) | Nmap NSE Script Support | 0.0.2 | Syntax highlighting, snippets, and diagnostics for Nmap NSE scripts |
+| 2026-10-19 03:15:57 | [jaytankdev.readywait](https://marketplace.visualstudio.com/items?itemName=jaytankdev.readywait) | ReadyWait: Docker Compose depends_on &… | 0.1.0 | Catch Docker Compose depends_on that only waits for a container to start, servi… |
 
 ## Data source
 

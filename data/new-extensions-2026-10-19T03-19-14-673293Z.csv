@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T02:13:24.577Z,fernandocalisto.jasper-reports-tools,fernandocalisto,JasperReports Developer Tools,0.1.0,"Extensão profissional e leve para criação, manutenção, compilação, teste e deploy de relatórios JasperReports (.jrxml e .jasper)."
+2026-10-19T02:19:36.667Z,skycode.skycode-ai,skycode,Skycode AI,0.6.0,"AI-агент для VS Code под ваши модели: корпоративный OpenAI-совместимый шлюз, Qwen, GigaChat, YandexGPT, локальные модели. Без аккаунтов и подписок."
+2026-10-19T02:20:32.757Z,AngryDev.angry-dev,AngryDev,Angry Dev,0.1.0,Rage-jump through towers of bugs. A tiny arcade break right inside VS Code.
+2026-10-19T02:45:15.04Z,DerKyberTakt.tn5250-terminal,DerKyberTakt,TN5250 Terminal for IBM i,0.1.0,"5250 terminal emulator for IBM i (AS/400) that opens as a VS Code editor tab. Pure TypeScript TN5250 client, nothing else to install."
+2026-10-19T02:51:44.723Z,s-mpai.nse-language-support,s-mpai,Nmap NSE Script Support,0.0.2,"Syntax highlighting, snippets, and diagnostics for Nmap NSE scripts"
+2026-10-19T03:15:57.2Z,jaytankdev.readywait,jaytankdev,ReadyWait: Docker Compose depends_on & Healthcheck Checker,0.1.0,"Catch Docker Compose depends_on that only waits for a container to start, service_healthy on services with no healthcheck, and weak healthchecks - with one-click fixes that add pg_isready, mysqladmin ping, redis-cli ping and more."
