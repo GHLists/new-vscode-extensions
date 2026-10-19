@@ -12,24 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 21:21 UTC
+## Latest list — 2026-10-19 22:19 UTC
 
-New extensions published between 2026-10-19 19:21 UTC and 2026-10-19 21:21 UTC.
+New extensions published between 2026-10-19 20:19 UTC and 2026-10-19 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T21-21-11-011808Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T22-19-41-470264Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 20:21:12 | [bsjaramillo.openchat-opencode](https://marketplace.visualstudio.com/items?itemName=bsjaramillo.openchat-opencode) | OpenChat for OpenCode | 0.0.1 | OpenCode GUI for VSCode |
-| 2026-10-19 20:25:38 | [jinx.bg3-osiris-vscode](https://marketplace.visualstudio.com/items?itemName=jinx.bg3-osiris-vscode) | Baldur's Gate 3 Osiris | 0.4.0 | BG3 Osiris editing, OsiCheck validation and standalone story compilation, with… |
-| 2026-10-19 20:26:37 | [PiwiTests.piwi](https://marketplace.visualstudio.com/items?itemName=PiwiTests.piwi) | Piwi | 0.56.0 | Your Playwright suite's history in the editor: CI failures at their lines, heal… |
-| 2026-10-19 20:34:33 | [KESICODE.ai-quota](https://marketplace.visualstudio.com/items?itemName=KESICODE.ai-quota) | AI-Quota | 2.0.1 | Universal AI Account & Quota Manager — monitor quotas, manage accounts, and swi… |
-| 2026-10-19 20:38:31 | [AbdallahSaeed.markscope-reader](https://marketplace.visualstudio.com/items?itemName=AbdallahSaeed.markscope-reader) | Markscope Reader: Markdown Preview, Dia… | 1.1.0 | Fast, secure Markdown preview with Mermaid, Graphviz, KaTeX, an outline, a docu… |
-| 2026-10-19 20:42:15 | [repolensdox.repolensdox](https://marketplace.visualstudio.com/items?itemName=repolensdox.repolensdox) | RepoLens for VS Code | 0.2.0 | Architecture documentation intelligence — scan your repo, visualize dependencie… |
-| 2026-10-19 20:52:40 | [lfit-smoke.lfit-smoke-test](https://marketplace.visualstudio.com/items?itemName=lfit-smoke.lfit-smoke-test) | LFIT Smoke Test | 0.0.2 | Internal smoke test for the LF VS Code publishing pipeline. Does nothing useful… |
-| 2026-10-19 20:55:59 | [AlmostPerfect.almost-perfect-ai-context](https://marketplace.visualstudio.com/items?itemName=AlmostPerfect.almost-perfect-ai-context) | Almost Perfect AI Context | 0.2.1 | Exports the selected code plus the code it calls, the code that calls it, and t… |
-| 2026-10-19 20:58:05 | [alien6-studio.apizr](https://marketplace.visualstudio.com/items?itemName=alien6-studio.apizr) | Apizr | 0.4.6 | Inspect Python and notebook evidence and browse local experiment Runs through y… |
-| 2026-10-19 21:16:27 | [kslabs.claude-code-session-sync](https://marketplace.visualstudio.com/items?itemName=kslabs.claude-code-session-sync) | Claude Code Sync | 0.2.3 | Backup, restore e sincronização bi-direcional das sessões do Claude Code (~/.cl… |
+| 2026-10-19 21:30:06 | [heritage-themes.heritage-themes](https://marketplace.visualstudio.com/items?itemName=heritage-themes.heritage-themes) | Heritage Themes | 1.0.1 | Colour themes drawn from the colour traditions of different cultures. |
+| 2026-10-19 21:32:10 | [fornwall.diagram-chat](https://marketplace.visualstudio.com/items?itemName=fornwall.diagram-chat) | @diagram | 0.0.1 | Interactive Mermaid diagrams and Apache ECharts charts beside VS Code chat: ask… |
+| 2026-10-19 21:38:33 | [swayamprabhu2005.envkeeper](https://marketplace.visualstudio.com/items?itemName=swayamprabhu2005.envkeeper) | EnvKeeper: Local Secret Vault | 0.1.0 | Never lose your API keys again. Automatically back up, encrypt (AES-256-GCM Env… |
+| 2026-10-19 21:47:27 | [threetides.commit-with-claude](https://marketplace.visualstudio.com/items?itemName=threetides.commit-with-claude) | Commit with Claude | 1.0.0 | Consistent, style-locked commit messages from the Claude Code you are already s… |
+| 2026-10-19 21:50:13 | [programavimas.programavimas-vscode](https://marketplace.visualstudio.com/items?itemName=programavimas.programavimas-vscode) | Programavimas | 0.1.0 | Solve your Programavimas problems in VS Code: read the statement, run the sampl… |
 
 ## Data source
 

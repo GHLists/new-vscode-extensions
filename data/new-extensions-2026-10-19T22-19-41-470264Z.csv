@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T21:30:06.837Z,heritage-themes.heritage-themes,heritage-themes,Heritage Themes,1.0.1,Colour themes drawn from the colour traditions of different cultures.
+2026-10-19T21:32:10.503Z,fornwall.diagram-chat,fornwall,@diagram,0.0.1,"Interactive Mermaid diagrams and Apache ECharts charts beside VS Code chat: ask @diagram to draw, chart CSV, JSON or command output, and edit diagrams in Markdown."
+2026-10-19T21:38:33.51Z,swayamprabhu2005.envkeeper,swayamprabhu2005,EnvKeeper: Local Secret Vault,0.1.0,"Never lose your API keys again. Automatically back up, encrypt (AES-256-GCM Envelope Encryption), and restore .env files linked to your Git repositories."
+2026-10-19T21:47:27.077Z,threetides.commit-with-claude,threetides,Commit with Claude,1.0.0,"Consistent, style-locked commit messages from the Claude Code you are already signed in to."
+2026-10-19T21:50:13.073Z,programavimas.programavimas-vscode,programavimas,Programavimas,0.1.0,"Solve your Programavimas problems in VS Code: read the statement, run the samples and submit to the judge."
