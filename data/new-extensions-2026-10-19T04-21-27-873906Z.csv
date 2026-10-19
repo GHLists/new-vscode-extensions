@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T03:15:56.67Z,Aurene-DeveloperExtension.aurene,Aurene-DeveloperExtension,Aurene,1.1.0,"Automatic coding time tracking for VS Code, with exact AI change tracking. Self-hosted, WakaTime-style."
+2026-10-19T03:36:15.577Z,fpga-go.fpga-workbench,fpga-go,FPGA Workbench · 工程导航,0.1.2,任意目录打开文件夹，选中.xpr，剩下的交给我吧。
+2026-10-19T03:52:07.8Z,ReadyStack.lockfile-due-diligence-lint,ReadyStack,Lockfile Due Diligence,1.0.4,"Flags install scripts, missing or sha1 integrity, http, git and off-registry tarballs in package-lock.json: the third-party component check behind EU CRA Art. 13(5). 8 rules, line numbers."
+2026-10-19T04:11:28.263Z,SEOJINKYU.openindefaultbrowserforreal,SEOJINKYU,Open in Default Browser (For Real),0.0.1,"Open the current file in your macOS default browser, whatever the file type."

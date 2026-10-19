@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 03:19 UTC
+## Latest list — 2026-10-19 04:21 UTC
 
-New extensions published between 2026-10-19 01:19 UTC and 2026-10-19 03:19 UTC.
+New extensions published between 2026-10-19 02:21 UTC and 2026-10-19 04:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T03-19-14-673293Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T04-21-27-873906Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 02:13:24 | [fernandocalisto.jasper-reports-tools](https://marketplace.visualstudio.com/items?itemName=fernandocalisto.jasper-reports-tools) | JasperReports Developer Tools | 0.1.0 | Extensão profissional e leve para criação, manutenção, compilação, teste e depl… |
-| 2026-10-19 02:19:36 | [skycode.skycode-ai](https://marketplace.visualstudio.com/items?itemName=skycode.skycode-ai) | Skycode AI | 0.6.0 | AI-агент для VS Code под ваши модели: корпоративный OpenAI-совместимый шлюз, Qw… |
-| 2026-10-19 02:20:32 | [AngryDev.angry-dev](https://marketplace.visualstudio.com/items?itemName=AngryDev.angry-dev) | Angry Dev | 0.1.0 | Rage-jump through towers of bugs. A tiny arcade break right inside VS Code. |
-| 2026-10-19 02:45:15 | [DerKyberTakt.tn5250-terminal](https://marketplace.visualstudio.com/items?itemName=DerKyberTakt.tn5250-terminal) | TN5250 Terminal for IBM i | 0.1.0 | 5250 terminal emulator for IBM i (AS/400) that opens as a VS Code editor tab. P… |
-| 2026-10-19 02:51:44 | [s-mpai.nse-language-support](https://marketplace.visualstudio.com/items?itemName=s-mpai.nse-language-support) | Nmap NSE Script Support | 0.0.2 | Syntax highlighting, snippets, and diagnostics for Nmap NSE scripts |
-| 2026-10-19 03:15:57 | [jaytankdev.readywait](https://marketplace.visualstudio.com/items?itemName=jaytankdev.readywait) | ReadyWait: Docker Compose depends_on &… | 0.1.0 | Catch Docker Compose depends_on that only waits for a container to start, servi… |
+| 2026-10-19 03:15:56 | [Aurene-DeveloperExtension.aurene](https://marketplace.visualstudio.com/items?itemName=Aurene-DeveloperExtension.aurene) | Aurene | 1.1.0 | Automatic coding time tracking for VS Code, with exact AI change tracking. Self… |
+| 2026-10-19 03:36:15 | [fpga-go.fpga-workbench](https://marketplace.visualstudio.com/items?itemName=fpga-go.fpga-workbench) | FPGA Workbench · 工程导航 | 0.1.2 | 任意目录打开文件夹，选中.xpr，剩下的交给我吧。 |
+| 2026-10-19 03:52:07 | [ReadyStack.lockfile-due-diligence-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.lockfile-due-diligence-lint) | Lockfile Due Diligence | 1.0.4 | Flags install scripts, missing or sha1 integrity, http, git and off-registry ta… |
+| 2026-10-19 04:11:28 | [SEOJINKYU.openindefaultbrowserforreal](https://marketplace.visualstudio.com/items?itemName=SEOJINKYU.openindefaultbrowserforreal) | Open in Default Browser (For Real) | 0.0.1 | Open the current file in your macOS default browser, whatever the file type. |
 
 ## Data source
 
