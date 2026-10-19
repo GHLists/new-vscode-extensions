@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T18:20:31.607Z,AiLuxis.draw-ai,AiLuxis,Draw.AI,0.2.0,"Chat with AI to edit draw.io diagrams live in VS Code, in its own panel, as a Copilot chat agent, or from Claude Code and Codex: lasso and mark up shapes, review changes before keeping them, turn sketches and code into diagrams, enforce team design templates, export to and import from Visio. Unoffic"
+2026-10-19T18:29:12.717Z,AnderCMD.lupa-a11y,AnderCMD,Lupa A11y,1.0.1,Linter de accesibilidad para React (JSX/TSX) con explicaciones en español
+2026-10-19T18:35:15.43Z,botkh.botkh,botkh,Botkh,0.1.0,"AI coding assistant for VS Code with OpenAI-compatible, Anthropic, and Gemini providers."
+2026-10-19T18:43:23.65Z,zeppelin.close-search-tabs,zeppelin,Close Search Tabs,0.0.1,Closes all editor search tabs
+2026-10-19T18:45:06.74Z,mhd.portaterm,mhd,Portaterm,0.20.0,"Run a real terminal anywhere in VS Code or Cursor — Primary Sidebar, Secondary Sidebar, bottom Panel, or as an editor tab. With tabs, split panes, theming, and WebGL rendering."
+2026-10-19T18:48:35.523Z,ppreeper.rusq-sql,ppreeper,rusq — SQL linter & formatter,0.1.2,"Fast SQL linting, formatting and quick fixes, powered by the rusq language server."
+2026-10-19T18:50:21.093Z,agent-brain.agent-brain,agent-brain,Agent Brain,0.1.1,"Watch Claude Code, Codex and GitHub Copilot move through your repo as a living 3D graph."
+2026-10-19T18:55:29.427Z,GabrielCordeiro.kit-dev-brasil,GabrielCordeiro,"Kit Dev Brasil: CPF, CNPJ, PIX, Boleto e mais",0.2.0,"O 4Devs dentro do VS Code: gere pessoas e empresas fictícias coerentes, gere e valide CPF, CNPJ, CEP, CNH, RG, PIS, título, placa, cartão e outros, entenda boletos e PIX e gere PIX de teste com QR code. Tudo local."
+2026-10-19T19:16:13.723Z,TylerCoffman.codetour-plus,TylerCoffman,CodeTour+,0.0.60,Record and play back guided tours of your codebase in VS Code. A maintained fork of Microsoft's CodeTour that reads and writes the same .tour files. Also ships the codetour CLI.
