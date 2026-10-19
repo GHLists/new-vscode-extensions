@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 14:19 UTC
+## Latest list — 2026-10-19 15:20 UTC
 
-New extensions published between 2026-10-19 12:19 UTC and 2026-10-19 14:19 UTC.
+New extensions published between 2026-10-19 13:20 UTC and 2026-10-19 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T14-19-14-050494Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T15-20-07-996029Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 13:29:34 | [Himabindu.dax-converter-pro](https://marketplace.visualstudio.com/items?itemName=Himabindu.dax-converter-pro) | DAX Converter Pro | 0.1.1 | Convert expressions and natural language into Power BI DAX measures |
-| 2026-10-19 13:35:31 | [wanguo.wanguo-sourceinsight-reader](https://marketplace.visualstudio.com/items?itemName=wanguo.wanguo-sourceinsight-reader) | SourceInsight-Reader | 1.0.1 | 让 VS Code 拥有近似 Source Insight 的代码阅读体验：文件符号列表、Context 定义预览、Relation 调用关系、引用与全文检索… |
-| 2026-10-19 13:55:17 | [vouch-assessments.vouch-candidate](https://marketplace.visualstudio.com/items?itemName=vouch-assessments.vouch-candidate) | Vouch POW | 0.5.0 | Run, Submit and Time left buttons for your Vouch task. |
-| 2026-10-19 14:04:20 | [xpree.status-ai-for-claude](https://marketplace.visualstudio.com/items?itemName=xpree.status-ai-for-claude) | Status AI for Claude | 0.4.1 | Unofficial. Plan usage (5-hour and weekly limits), the background commands Clau… |
-| 2026-10-19 14:05:21 | [botjs.botjs](https://marketplace.visualstudio.com/items?itemName=botjs.botjs) | Bot.js | 0.0.1 | Debugger and device automation tools for Bot.js |
+| 2026-10-19 14:11:24 | [yeceen.ceenjs6](https://marketplace.visualstudio.com/items?itemName=yeceen.ceenjs6) | CeenJs6 | 1.0.14001 | 使用 VSCode 开发 CeenJs6 安卓自动化脚本和项目 |
+| 2026-10-19 14:30:48 | [developeraman.vecto-coder](https://marketplace.visualstudio.com/items?itemName=developeraman.vecto-coder) | Vecto Coder | 1.0.0 | Vecto Coder is a provider-neutral coding agent for VS Code. (stable release cha… |
+| 2026-10-19 15:04:43 | [camindo.camindo-cms-templates](https://marketplace.visualstudio.com/items?itemName=camindo.camindo-cms-templates) | camindo CMS Templates | 0.1.0 | Colors, completion and hover for (CMS:…) commands in camindo CMS templates (*.c… |
+| 2026-10-19 15:10:11 | [menuconfig.menuconfig](https://marketplace.visualstudio.com/items?itemName=menuconfig.menuconfig) | Menuconfig | 0.1.0 | Kconfig graphical configuration for VS Code, powered by Kconfiglib. Edit .confi… |
+| 2026-10-19 15:10:14 | [SamLu.doclift](https://marketplace.visualstudio.com/items?itemName=SamLu.doclift) | DocLift - Convert Documents to Markdown | 0.1.0 | Convert DOCX, PDF, PPTX, XLSX, HTML and more to Markdown with Microsoft MarkItD… |
+| 2026-10-19 15:12:12 | [ilypopv.openxlviewer](https://marketplace.visualstudio.com/items?itemName=ilypopv.openxlviewer) | OpenXL Viewer | 2.0.0 | View and edit CSV, TSV and XLSX files in VS Code. |
+| 2026-10-19 15:14:19 | [harjyotsital.space-sleuth](https://marketplace.visualstudio.com/items?itemName=harjyotsital.space-sleuth) | SpaceSleuth — Workspace Folder Size | 1.1.0 | Find out what fills up your workspace. Visualises the size of every folder in a… |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T14:11:24.383Z,yeceen.ceenjs6,yeceen,CeenJs6,1.0.14001,使用 VSCode 开发 CeenJs6 安卓自动化脚本和项目
+2026-10-19T14:30:48.437Z,developeraman.vecto-coder,developeraman,Vecto Coder,1.0.0,Vecto Coder is a provider-neutral coding agent for VS Code. (stable release channel)
+2026-10-19T15:04:43.587Z,camindo.camindo-cms-templates,camindo,camindo CMS Templates,0.1.0,"Colors, completion and hover for (CMS:…) commands in camindo CMS templates (*.cms.php)"
+2026-10-19T15:10:11.723Z,menuconfig.menuconfig,menuconfig,Menuconfig,0.1.0,"Kconfig graphical configuration for VS Code, powered by Kconfiglib. Edit .config and generate the C header (autoconf.h)."
+2026-10-19T15:10:14.153Z,SamLu.doclift,SamLu,DocLift - Convert Documents to Markdown,0.1.0,"Convert DOCX, PDF, PPTX, XLSX, HTML and more to Markdown with Microsoft MarkItDown."
+2026-10-19T15:12:12.89Z,ilypopv.openxlviewer,ilypopv,OpenXL Viewer,2.0.0,"View and edit CSV, TSV and XLSX files in VS Code."
+2026-10-19T15:14:19.867Z,harjyotsital.space-sleuth,harjyotsital,SpaceSleuth — Workspace Folder Size,1.1.0,Find out what fills up your workspace. Visualises the size of every folder in a treemap and lets you delete folders to free up space. Built for the Business Application Studio 10 GB workspace limit.
