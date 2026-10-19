@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T05:17:35.283Z,DynamoSoftware.zero-gravity-dynamo,DynamoSoftware,ZERO-GRAVITY,2.3.0,"Break free from proprietary IDEs and pool multiple Google AI accounts into a unified, zero-downtime Gemini reservoir directly inside VS Code and Cursor. Experience seamless rate-limit failover, live HUD tachometers, zero-cost prompt caching, and a built-in local OpenAI-compatible proxy."
+2026-10-19T05:33:03.517Z,FreshWind.foam-vscode-unofficial,FreshWind,Foam Unofficial,0.46.1,VS Code + Markdown + Wikilinks for your note taking and knowledge base
+2026-10-19T05:36:37.623Z,colorjs.color-spaces,colorjs,Color Spaces,0.1.1,"Edit the colors in your code in OKLCH, Display P3 or any of 205 color spaces."
+2026-10-19T06:11:21.047Z,niean.processon-markdown-mindmap,niean,Markdown Mindmap · 黑白脑图,0.1.12,ProcessOn 风格的双向 Markdown 脑图预览：折叠、平移、缩放、实时更新。
