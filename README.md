@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 15:20 UTC
+## Latest list — 2026-10-19 16:21 UTC
 
-New extensions published between 2026-10-19 13:20 UTC and 2026-10-19 15:20 UTC.
+New extensions published between 2026-10-19 14:21 UTC and 2026-10-19 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T15-20-07-996029Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T16-21-17-678152Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 14:11:24 | [yeceen.ceenjs6](https://marketplace.visualstudio.com/items?itemName=yeceen.ceenjs6) | CeenJs6 | 1.0.14001 | 使用 VSCode 开发 CeenJs6 安卓自动化脚本和项目 |
-| 2026-10-19 14:30:48 | [developeraman.vecto-coder](https://marketplace.visualstudio.com/items?itemName=developeraman.vecto-coder) | Vecto Coder | 1.0.0 | Vecto Coder is a provider-neutral coding agent for VS Code. (stable release cha… |
-| 2026-10-19 15:04:43 | [camindo.camindo-cms-templates](https://marketplace.visualstudio.com/items?itemName=camindo.camindo-cms-templates) | camindo CMS Templates | 0.1.0 | Colors, completion and hover for (CMS:…) commands in camindo CMS templates (*.c… |
-| 2026-10-19 15:10:11 | [menuconfig.menuconfig](https://marketplace.visualstudio.com/items?itemName=menuconfig.menuconfig) | Menuconfig | 0.1.0 | Kconfig graphical configuration for VS Code, powered by Kconfiglib. Edit .confi… |
-| 2026-10-19 15:10:14 | [SamLu.doclift](https://marketplace.visualstudio.com/items?itemName=SamLu.doclift) | DocLift - Convert Documents to Markdown | 0.1.0 | Convert DOCX, PDF, PPTX, XLSX, HTML and more to Markdown with Microsoft MarkItD… |
-| 2026-10-19 15:12:12 | [ilypopv.openxlviewer](https://marketplace.visualstudio.com/items?itemName=ilypopv.openxlviewer) | OpenXL Viewer | 2.0.0 | View and edit CSV, TSV and XLSX files in VS Code. |
-| 2026-10-19 15:14:19 | [harjyotsital.space-sleuth](https://marketplace.visualstudio.com/items?itemName=harjyotsital.space-sleuth) | SpaceSleuth — Workspace Folder Size | 1.1.0 | Find out what fills up your workspace. Visualises the size of every folder in a… |
+| 2026-10-19 15:17:52 | [deepglance.djs-vscode](https://marketplace.visualstudio.com/items?itemName=deepglance.djs-vscode) | djs-vscode | 0.1.0 | D diagnostics, hovers, completion and highlighting from the D frontend itself:… |
+| 2026-10-19 15:51:36 | [VaelinZheng.kconfig-menuconfig](https://marketplace.visualstudio.com/items?itemName=VaelinZheng.kconfig-menuconfig) | Kconfig Menuconfig by VaelinZheng | 0.1.1 | Kconfig graphical configuration for VS Code, powered by Kconfiglib. Edit .confi… |
+| 2026-10-19 15:51:43 | [ReadyStack.microprofile-nine-stack-toolkit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.microprofile-nine-stack-toolkit) | MicroProfile Tools & 9-Stack Snippets | 0.1.6 | A wrong key in microprofile-config.properties does not break the build. It brea… |
+| 2026-10-19 15:52:01 | [ReadyStack.model-sunset-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.model-sunset-lint) | Model Sunset Lint - retired AI model ID… | 0.1.6 | Finds every model ID and API parameter in your code that a vendor has already s… |
+| 2026-10-19 15:52:03 | [ReadyStack.modern-stack-snippets-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.modern-stack-snippets-audit) | Snippets for 8 Stacks + Deprecated-Code… | 0.1.5 | The snippet pack you installed was written for the old major version. It still… |
+| 2026-10-19 15:52:29 | [ReadyStack.mssql-config-secret-auditor](https://marketplace.visualstudio.com/items?itemName=ReadyStack.mssql-config-secret-auditor) | SQLTools MSSQL Config & Secret Auditor | 0.1.5 | 17 rules · 24 config blocks · 8 stacks — it names the SQL Server password sitti… |
+| 2026-10-19 15:58:51 | [dark-dmake.click-n-open-path](https://marketplace.visualstudio.com/items?itemName=dark-dmake.click-n-open-path) | Click'n'Open Path | 0.5.0 | Ctrl/Cmd+Click a file path in your code, comments or configs to open the file. |
+| 2026-10-19 16:03:49 | [Danni96.sql-erd-visualizer](https://marketplace.visualstudio.com/items?itemName=Danni96.sql-erd-visualizer) | SQL ERD Visual Editor (Postgres, MySQL,… | 0.1.0 | Visualiza, edita tablas, columnas y conecta relaciones (Foreign Keys) en archiv… |
 
 ## Data source
 
