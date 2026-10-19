@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T09:19:37.487Z,RocketSoftware.unit-testing-framework-extension,RocketSoftware,Rocket COBOL Unit Testing,2.0.4,Rocket COBOL Unit Testing Extension with AI-assisted test generation
+2026-10-19T09:25:05.43Z,Gimle.glitnir,Gimle,Glitnir — Lean Notebooks,0.1.2,"Read, explore and check Lean notebooks beside their source."
+2026-10-19T09:28:25.84Z,paolaguarasci.sdlls,paolaguarasci,sdlls — Structured Declarative Language,0.2.0,"Language support for SDL, a structured declarative modelling language on top of Answer Set Programming."
+2026-10-19T09:29:51.91Z,NithinMohan.explain-code-inline,NithinMohan,Explain Code Inline,0.1.0,"Grey one-line LLM explanations above the code you select or put the cursor on (Claude, or any OpenAI-compatible local server)."
+2026-10-19T09:37:31.593Z,boyayan.zotero-cite-texmd,boyayan,Zotero Cite for TeXMD,0.0.1,基于 Zotero Better BibTeX 的引用管理扩展：LaTeX/Markdown/BibTeX 文档中引用并更新文献、导出 BibTeX、更新 BibTeX 条目。Markdown 渲染国标（GB/T 7714）脚注，不操作 .bib 文件。
+2026-10-19T09:38:53.467Z,BulkPublish.bulkpublish,BulkPublish,BulkPublish,0.1.1,"Write, schedule and publish social media posts from your editor, and use BulkPublish from Copilot chat."
+2026-10-19T09:40:31.157Z,vhme.flashback-diff,vhme,Flashback Diff,1.0.0,See any file as it was when your branch was born. Right-click → diff against the branch origin.
+2026-10-19T09:44:33.04Z,Hostmargin.launchpad-hostmargin,Hostmargin,LaunchPad by Hostmargin,1.0.0,Deploy static sites to LaunchPad straight from your editor — with Agent Hoot as your guide.
+2026-10-19T09:48:33.713Z,subsneaker.gitgudgui,subsneaker,GitGudGUI,0.2.0,"A git commit graph with a branch panel, search, file history, and git actions that show their command before they run."
+2026-10-19T09:56:11.697Z,archechef.stet-vscode,archechef,Stet,0.4.1,"Review AI-proposed changes to LaTeX projects: accept, reject, edit or comment on each change."
+2026-10-19T10:08:30.917Z,codehubcloud.hornet-cpp,codehubcloud,Hornet C/C++,0.0.2,"C/C++ language support with four parsing modes, project indexing and interactive call graphs."
+2026-10-19T10:10:44.94Z,nexamind.nexamind-ai-code-assistant,nexamind,NexaMind AI,0.2.0,"NexaMind AI Coding Assistant for VS Code - Read-only workspace integration, code analysis, structured edit proposals, and agent streaming"

@@ -12,22 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 09:21 UTC
+## Latest list — 2026-10-19 10:20 UTC
 
-New extensions published between 2026-10-19 07:21 UTC and 2026-10-19 09:21 UTC.
+New extensions published between 2026-10-19 08:20 UTC and 2026-10-19 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T09-21-29-519897Z.csv)
+[Full CSV](data/new-extensions-2026-10-19T10-20-14-29937Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 08:18:20 | [Jatins.rn-live-logs-network](https://marketplace.visualstudio.com/items?itemName=Jatins.rn-live-logs-network) | RN Live Console: Logs & Network | 0.0.4 | Stream React Native logs (simulator, emulator and real device via Metro) into a… |
-| 2026-10-19 08:23:30 | [Vali-98.valdroid-emulator](https://marketplace.visualstudio.com/items?itemName=Vali-98.valdroid-emulator) | Valdroid Emulator | 0.1.3 | Android emulator and logcat inside VS Code. |
-| 2026-10-19 08:28:16 | [SuryanshBVerma.agent-tour](https://marketplace.visualstudio.com/items?itemName=SuryanshBVerma.agent-tour) | Agent Tour - Review AI Changes | 0.2.1 | Guided, spotlighted code tours of agent-written changes, played in the real edi… |
-| 2026-10-19 08:31:12 | [JoniRafael.cooldown-lens](https://marketplace.visualstudio.com/items?itemName=JoniRafael.cooldown-lens) | Cooldown Lens – npm Package Age & Minim… | 0.1.0 | See how old every npm dependency version is, right inside package.json. Flags v… |
-| 2026-10-19 08:37:05 | [luminaai.nexamind-vscode](https://marketplace.visualstudio.com/items?itemName=luminaai.nexamind-vscode) | Lumina AI — Code Assistant | 0.1.0 | Lumina AI Chat Assistant for VS Code |
-| 2026-10-19 08:39:15 | [HexCJo.side-shell](https://marketplace.visualstudio.com/items?itemName=HexCJo.side-shell) | Side Shell | 0.0.2 | A compact interactive terminal inside the VS Code Explorer sidebar |
-| 2026-10-19 09:15:16 | [nh-kng.audio-waveform-preview](https://marketplace.visualstudio.com/items?itemName=nh-kng.audio-waveform-preview) | Audio Waveform Preview | 2.7.0 | Play and preview audio files in VS Code, including WAV, MP3, OGG, AAC, FLAC, M4… |
-| 2026-10-19 09:16:49 | [aura-lab-siue.r-companion](https://marketplace.visualstudio.com/items?itemName=aura-lab-siue.r-companion) | AURA Lab R Companion | 0.1.3 | Gets students to a working R setup in VS Code: finds R, checks the packages eac… |
+| 2026-10-19 09:19:37 | [RocketSoftware.unit-testing-framework-extension](https://marketplace.visualstudio.com/items?itemName=RocketSoftware.unit-testing-framework-extension) | Rocket COBOL Unit Testing | 2.0.4 | Rocket COBOL Unit Testing Extension with AI-assisted test generation |
+| 2026-10-19 09:25:05 | [Gimle.glitnir](https://marketplace.visualstudio.com/items?itemName=Gimle.glitnir) | Glitnir — Lean Notebooks | 0.1.2 | Read, explore and check Lean notebooks beside their source. |
+| 2026-10-19 09:28:25 | [paolaguarasci.sdlls](https://marketplace.visualstudio.com/items?itemName=paolaguarasci.sdlls) | sdlls — Structured Declarative Language | 0.2.0 | Language support for SDL, a structured declarative modelling language on top of… |
+| 2026-10-19 09:29:51 | [NithinMohan.explain-code-inline](https://marketplace.visualstudio.com/items?itemName=NithinMohan.explain-code-inline) | Explain Code Inline | 0.1.0 | Grey one-line LLM explanations above the code you select or put the cursor on (… |
+| 2026-10-19 09:37:31 | [boyayan.zotero-cite-texmd](https://marketplace.visualstudio.com/items?itemName=boyayan.zotero-cite-texmd) | Zotero Cite for TeXMD | 0.0.1 | 基于 Zotero Better BibTeX 的引用管理扩展：LaTeX/Markdown/BibTeX 文档中引用并更新文献、导出 BibTeX、更新 B… |
+| 2026-10-19 09:38:53 | [BulkPublish.bulkpublish](https://marketplace.visualstudio.com/items?itemName=BulkPublish.bulkpublish) | BulkPublish | 0.1.1 | Write, schedule and publish social media posts from your editor, and use BulkPu… |
+| 2026-10-19 09:40:31 | [vhme.flashback-diff](https://marketplace.visualstudio.com/items?itemName=vhme.flashback-diff) | Flashback Diff | 1.0.0 | See any file as it was when your branch was born. Right-click → diff against th… |
+| 2026-10-19 09:44:33 | [Hostmargin.launchpad-hostmargin](https://marketplace.visualstudio.com/items?itemName=Hostmargin.launchpad-hostmargin) | LaunchPad by Hostmargin | 1.0.0 | Deploy static sites to LaunchPad straight from your editor — with Agent Hoot as… |
+| 2026-10-19 09:48:33 | [subsneaker.gitgudgui](https://marketplace.visualstudio.com/items?itemName=subsneaker.gitgudgui) | GitGudGUI | 0.2.0 | A git commit graph with a branch panel, search, file history, and git actions t… |
+| 2026-10-19 09:56:11 | [archechef.stet-vscode](https://marketplace.visualstudio.com/items?itemName=archechef.stet-vscode) | Stet | 0.4.1 | Review AI-proposed changes to LaTeX projects: accept, reject, edit or comment o… |
+| 2026-10-19 10:08:30 | [codehubcloud.hornet-cpp](https://marketplace.visualstudio.com/items?itemName=codehubcloud.hornet-cpp) | Hornet C/C++ | 0.0.2 | C/C++ language support with four parsing modes, project indexing and interactiv… |
+| 2026-10-19 10:10:44 | [nexamind.nexamind-ai-code-assistant](https://marketplace.visualstudio.com/items?itemName=nexamind.nexamind-ai-code-assistant) | NexaMind AI | 0.2.0 | NexaMind AI Coding Assistant for VS Code - Read-only workspace integration, cod… |
 
 ## Data source
 
