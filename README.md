@@ -12,31 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 21:21 UTC
+## Latest list — 2026-10-20 22:21 UTC
 
-New extensions published between 2026-10-20 19:21 UTC and 2026-10-20 21:21 UTC.
+New extensions published between 2026-10-20 20:21 UTC and 2026-10-20 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T21-21-16-779269Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T22-21-13-838022Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 20:21:57 | [clumsyboss.account-switcher-claude-code](https://marketplace.visualstudio.com/items?itemName=clumsyboss.account-switcher-claude-code) | Switcher for Claude Code | 1.2.0 | Switch between Claude accounts in VS Code, see every account's limits, and pin… |
-| 2026-10-20 20:22:07 | [Xbmkoo.cpp-clangd-complete-fixer](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.cpp-clangd-complete-fixer) | C++ clangd 补全修复 | 0.0.1 | 修复使用 clangd 插件时遇到的一些补全问题 |
-| 2026-10-20 20:30:01 | [vk-en.lustre-review-helper](https://marketplace.visualstudio.com/items?itemName=vk-en.lustre-review-helper) | Lustre Review Helper | 0.1.0 | Review Lustre commits with Codex, Claude Code, or Augment, with live usage stat… |
-| 2026-10-20 20:33:07 | [SolaireFR.clean-git-branch](https://marketplace.visualstudio.com/items?itemName=SolaireFR.clean-git-branch) | Clean Git Branch | 1.4.2 | Visually manage and clean up local Git branches that are no longer needed |
-| 2026-10-20 20:40:11 | [rafaelwms.markdownup-vscode](https://marketplace.visualstudio.com/items?itemName=rafaelwms.markdownup-vscode) | MarkdownUp | 0.1.1 | Convert between Markdown and Jira Wiki Markup from the right-click menu. |
-| 2026-10-20 20:40:58 | [Andratech.orchester](https://marketplace.visualstudio.com/items?itemName=Andratech.orchester) | Orchester | 0.0.1 | Orquestra múltiplos agentes de IA (CLIs) por um canvas visual |
-| 2026-10-20 20:57:40 | [CybesisStudios.cybesis-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.cybesis-theme) | Cybesis Theme | 0.5.0 | Cybesis official color theme — dark & light. Sky #38bdf8 and brand cyan #00bdd6… |
-| 2026-10-20 20:58:01 | [feature-sliced.steiger-vscode](https://marketplace.visualstudio.com/items?itemName=feature-sliced.steiger-vscode) | steiger | 0.2.0 | steiger language server |
-| 2026-10-20 21:02:38 | [CybesisStudios.digitalrain-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.digitalrain-theme) | Digital Rain Theme | 0.5.0 | Digital Rain official color theme — dark & light. Rain green #00FF41 on a deep… |
-| 2026-10-20 21:02:53 | [CybesisStudios.gaze-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.gaze-theme) | Gaze Theme | 0.5.0 | Gaze official color theme — dark & light. Warm amber #d4a27a on a soft walnut d… |
-| 2026-10-20 21:03:05 | [CybesisStudios.getbossed-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.getbossed-theme) | Getbossed Theme | 0.5.0 | GET BOSSED official color theme — dark & light. Boss Red #d93816 / #be2f10 on w… |
-| 2026-10-20 21:03:17 | [CybesisStudios.grabnite-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.grabnite-theme) | Grabnite Theme | 0.5.0 | Grabnite official color theme — dark & light. Treasure gold #f59e0b and amber #… |
-| 2026-10-20 21:03:29 | [CybesisStudios.hobius-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.hobius-theme) | Hobius Theme | 0.5.0 | Hobius official color theme — dark & light. Brand blue #0066cc, header blue #3b… |
-| 2026-10-20 21:03:42 | [CybesisStudios.mousefy-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.mousefy-theme) | Mousefy Theme | 0.5.0 | Mousefy official color theme — dark & light. Mocha Warm: caramel #d4a574 on esp… |
-| 2026-10-20 21:07:38 | [meness.slashi](https://marketplace.visualstudio.com/items?itemName=meness.slashi) | Slashi — Slash Commands for Everything | 0.1.0 | One beautiful, keyboard-first popup to do 99% of your VS Code work with a slash… |
-| 2026-10-20 21:11:21 | [rtorralba.sinclair-basic](https://marketplace.visualstudio.com/items?itemName=rtorralba.sinclair-basic) | Sinclair BASIC | 1.0.0 | Sinclair BASIC language support for Visual Studio Code. Includes syntax highlig… |
-| 2026-10-20 21:12:25 | [ai-gatewey.ai-gatewey](https://marketplace.visualstudio.com/items?itemName=ai-gatewey.ai-gatewey) | AI Gateway (ai-gatewey.ru) | 0.1.0 | Модели AI Gateway во встроенном чате и agent mode VS Code. Оплата в рублях, без… |
+| 2026-10-20 21:15:53 | [touba.touba-tools](https://marketplace.visualstudio.com/items?itemName=touba.touba-tools) | Touba Language Toolkit | 1.0.1 | Build Touba programs with compiler diagnostics, code completion, source navigat… |
+| 2026-10-20 21:18:10 | [VDB.tip-language-spa](https://marketplace.visualstudio.com/items?itemName=VDB.tip-language-spa) | TIP Language (SPA) | 0.1.0 | Syntax highlighting for TIP programs and a Run/Debug CodeLens that launches the… |
+| 2026-10-20 21:24:59 | [Ndevu12.stayawakebot](https://marketplace.visualstudio.com/items?itemName=Ndevu12.stayawakebot) | StayAwakeBot (saw) | 0.1.1 | Supply-chain worm hunting in your editor: the saw verdict for every folder you… |
+| 2026-10-20 21:27:04 | [RiccardoFilippozzi.search-here](https://marketplace.visualstudio.com/items?itemName=RiccardoFilippozzi.search-here) | Search Here | 0.1.0 | Fast search for text, files, folders and symbols powered by ripgrep, with code… |
+| 2026-10-20 21:58:28 | [SIMAI.sf-vscode](https://marketplace.visualstudio.com/items?itemName=SIMAI.sf-vscode) | SIMAI Framework for VS Code | 0.3.1 | Autocomplete and hovers for SIMAI Framework: sf- component tags and attributes,… |
+| 2026-10-20 21:58:53 | [deltabox.toolchain-vscode](https://marketplace.visualstudio.com/items?itemName=deltabox.toolchain-vscode) | deltabox toolchain | 1.7.0 | Sync/generate @deltabox/toolchain managed files, run tooling across projects an… |
+| 2026-10-20 22:04:04 | [crossvaultGmbH.a4sx](https://marketplace.visualstudio.com/items?itemName=crossvaultGmbH.a4sx) | a4sx | 0.1.0 | Use a4sx from VS Code: adds the a4sx MCP server for agent mode and saves your l… |
 
 ## Data source
 

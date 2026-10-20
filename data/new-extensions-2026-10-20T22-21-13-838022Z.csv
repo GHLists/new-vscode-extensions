@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T21:15:53.05Z,touba.touba-tools,touba,Touba Language Toolkit,1.0.1,"Build Touba programs with compiler diagnostics, code completion, source navigation and execution traces in Visual Studio Code."
+2026-10-20T21:18:10.457Z,VDB.tip-language-spa,VDB,TIP Language (SPA),0.1.0,Syntax highlighting for TIP programs and a Run/Debug CodeLens that launches the TIP analyzer through Metals.
+2026-10-20T21:24:59.55Z,Ndevu12.stayawakebot,Ndevu12,StayAwakeBot (saw),0.1.1,"Supply-chain worm hunting in your editor: the saw verdict for every folder you open, before you trust it."
+2026-10-20T21:27:04.173Z,RiccardoFilippozzi.search-here,RiccardoFilippozzi,Search Here,0.1.0,"Fast search for text, files, folders and symbols powered by ripgrep, with code preview, saved scopes and include/exclude filters."
+2026-10-20T21:58:28.137Z,SIMAI.sf-vscode,SIMAI,SIMAI Framework for VS Code,0.3.1,"Autocomplete and hovers for SIMAI Framework: sf- component tags and attributes, utility classes and --sf- design tokens with colour swatches and adaptive values."
+2026-10-20T21:58:53.627Z,deltabox.toolchain-vscode,deltabox,deltabox toolchain,1.7.0,"Sync/generate @deltabox/toolchain managed files, run tooling across projects and scaffold new ones."
+2026-10-20T22:04:04.603Z,crossvaultGmbH.a4sx,crossvaultGmbH,a4sx,0.1.0,Use a4sx from VS Code: adds the a4sx MCP server for agent mode and saves your latest Claude Code session to your a4sx library.
