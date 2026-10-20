@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 12:21 UTC
+## Latest list — 2026-10-20 13:22 UTC
 
-New extensions published between 2026-10-20 10:21 UTC and 2026-10-20 12:21 UTC.
+New extensions published between 2026-10-20 11:22 UTC and 2026-10-20 13:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T12-21-58-258677Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T13-22-18-901868Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 11:10:34 | [QASignOff.qasignoff-vscode-extension](https://marketplace.visualstudio.com/items?itemName=QASignOff.qasignoff-vscode-extension) | Signoff Studio — API Client & Database… | 0.2.68 | Local-first REST, GraphQL, WebSocket, SSE, gRPC & MQTT API client, OpenAPI mock… |
-| 2026-10-20 11:35:14 | [naveenkumar08.testrail-hover](https://marketplace.visualstudio.com/items?itemName=naveenkumar08.testrail-hover) | TestRail Hover | 0.0.1 | View TestRail case details by hovering over case IDs in VS Code. |
-| 2026-10-20 11:46:32 | [AmadeusITGroup.ai-dlc-studio](https://marketplace.visualstudio.com/items?itemName=AmadeusITGroup.ai-dlc-studio) | AI-DLC Studio | 0.7.0 | Accelerate AI-Driven Development Life Cycle workflows in Kiro/VS Code — guided… |
-| 2026-10-20 11:48:25 | [DavidFischer.cpp-schulung](https://marketplace.visualstudio.com/items?itemName=DavidFischer.cpp-schulung) | C++ Schulung: Bauen & Starten | 1.2.1 | Kompiliert C++- und C-Programme mit einem Klick: ganzes Projekt oder nur die ge… |
-| 2026-10-20 11:54:24 | [Membrella.membrella-deadlock-vscode](https://marketplace.visualstudio.com/items?itemName=Membrella.membrella-deadlock-vscode) | Membrella Lua API for Deadlock | 1.0.0 | Support for the Deadlock Lua API used by Membrella |
-| 2026-10-20 11:56:13 | [Membrella.membrella-dota-vscode](https://marketplace.visualstudio.com/items?itemName=Membrella.membrella-dota-vscode) | Membrella Lua API | 1.0.0 | Support for the Dota 2 Lua API used by Membrella |
-| 2026-10-20 11:59:39 | [dauhuniec.dauhuniec](https://marketplace.visualstudio.com/items?itemName=dauhuniec.dauhuniec) | Dauhuniec | 0.1.0 | Dauhuniec: build, flash and debug STM32 CubeMX projects in VS Code with the lon… |
-| 2026-10-20 12:14:44 | [unfalltable.closeai-workbench](https://marketplace.visualstudio.com/items?itemName=unfalltable.closeai-workbench) | CloseAI 助手 | 0.2.0 | 在 VS Code 侧栏使用 CloseAI 聊天，共用项目、任务和模型账号；登录购买在浏览器完成。 |
-| 2026-10-20 12:17:17 | [luceemy.cfml-assist](https://marketplace.visualstudio.com/items?itemName=luceemy.cfml-assist) | CFML Assist — Lucee Malaysia | 0.6.0 | Penyiapan, hover, diagnostik, signature help dan format untuk CFML/Lucee, dijan… |
+| 2026-10-20 12:26:12 | [DSPiz.autovsg](https://marketplace.visualstudio.com/items?itemName=DSPiz.autovsg) | AutoVSG | 0.0.4 | Live VHDL style checking in VS Code, powered by VSG. |
+| 2026-10-20 12:35:22 | [QuantLabs.claude-multi-session](https://marketplace.visualstudio.com/items?itemName=QuantLabs.claude-multi-session) | Claude Multi Session — usage, limits &… | 0.1.0 | Unofficial. See how much Claude quota you have left on the 5-hour and weekly wi… |
+| 2026-10-20 12:41:58 | [cri5ti.copilot-tracker-ent](https://marketplace.visualstudio.com/items?itemName=cri5ti.copilot-tracker-ent) | Copilot Tracker (Enterprise) | 0.2.1 | Status bar tracker for GitHub Copilot AI credits on enterprise-managed accounts… |
+| 2026-10-20 12:48:32 | [wattanun42.claude-switch-accounts](https://marketplace.visualstudio.com/items?itemName=wattanun42.claude-switch-accounts) | Claude Switch (unofficial) | 0.8.0 | Switch which Claude account the Claude Code extension and CLI use. Not affiliat… |
+| 2026-10-20 12:49:58 | [ErnestoLeonidas.codeflow-map](https://marketplace.visualstudio.com/items?itemName=ErnestoLeonidas.codeflow-map) | CodeFlow - Mapa de funciones | 0.3.6 | Visualiza funciones, métodos y clases PHP/JavaScript y navega a sus archivos. |
+| 2026-10-20 12:51:17 | [jaewon-lee.jaewon-k8s-dashboard](https://marketplace.visualstudio.com/items?itemName=jaewon-lee.jaewon-k8s-dashboard) | Jaewon K8s Dashboard | 0.1.1 | Kubernetes cluster explorer, merged live logs, Helm, metrics and persistent por… |
+| 2026-10-20 12:52:30 | [MathisBEAL.cargo-deps](https://marketplace.visualstudio.com/items?itemName=MathisBEAL.cargo-deps) | Cargo-Deps | 0.1.0 | Manage your cargo dependencies |
+| 2026-10-20 13:01:22 | [ikarmic.ikarmic-forge](https://marketplace.visualstudio.com/items?itemName=ikarmic.ikarmic-forge) | IKarmic AI Forge | 4.4.0 | Open-source AI coding agent. Multi-provider (OpenAI, Anthropic, Google, OpenRou… |
+| 2026-10-20 13:15:59 | [LeoSousa155.gdscript-godot-tools](https://marketplace.visualstudio.com/items?itemName=LeoSousa155.gdscript-godot-tools) | GDScript Godot Tools | 0.3.2 |  |
 
 ## Data source
 

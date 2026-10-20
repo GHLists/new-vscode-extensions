@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T12:26:12.44Z,DSPiz.autovsg,DSPiz,AutoVSG,0.0.4,"Live VHDL style checking in VS Code, powered by VSG."
+2026-10-20T12:35:22.487Z,QuantLabs.claude-multi-session,QuantLabs,"Claude Multi Session — usage, limits & account switching",0.1.0,"Unofficial. See how much Claude quota you have left on the 5-hour and weekly windows and when each resets — and, with more than one Claude account, switch between them from the status bar."
+2026-10-20T12:41:58.05Z,cri5ti.copilot-tracker-ent,cri5ti,Copilot Tracker (Enterprise),0.2.1,"Status bar tracker for GitHub Copilot AI credits on enterprise-managed accounts, paced against the month's workdays."
+2026-10-20T12:48:32.373Z,wattanun42.claude-switch-accounts,wattanun42,Claude Switch (unofficial),0.8.0,Switch which Claude account the Claude Code extension and CLI use. Not affiliated with Anthropic.
+2026-10-20T12:49:58.127Z,ErnestoLeonidas.codeflow-map,ErnestoLeonidas,CodeFlow - Mapa de funciones,0.3.6,"Visualiza funciones, métodos y clases PHP/JavaScript y navega a sus archivos."
+2026-10-20T12:51:17.973Z,jaewon-lee.jaewon-k8s-dashboard,jaewon-lee,Jaewon K8s Dashboard,0.1.1,"Kubernetes cluster explorer, merged live logs, Helm, metrics and persistent port forwards inside VS Code."
+2026-10-20T12:52:30.36Z,MathisBEAL.cargo-deps,MathisBEAL,Cargo-Deps,0.1.0,Manage your cargo dependencies
+2026-10-20T13:01:22.417Z,ikarmic.ikarmic-forge,ikarmic,IKarmic AI Forge,4.4.0,"Open-source AI coding agent. Multi-provider (OpenAI, Anthropic, Google, OpenRouter, Ollama), MCP-native, with skills system + lifecycle hooks + plan mode + context compaction + voice input. Inline completions + chat panel."
+2026-10-20T13:15:59.133Z,LeoSousa155.gdscript-godot-tools,LeoSousa155,GDScript Godot Tools,0.3.2,
