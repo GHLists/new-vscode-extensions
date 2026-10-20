@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T18:17:38.557Z,BDarshan1052.sonarqube-rest-api-mcp,BDarshan1052,SonarQube REST API MCP,0.1.2,Connect VS Code directly to SonarQube REST API using an integrated stdio MCP server.
+2026-10-20T18:20:43.497Z,aionlanguage.aion-support,aionlanguage,Aion Support,0.2.0,"Language support for Aion: syntax highlighting, snippets, diagnostics and commands."
+2026-10-20T18:30:28.807Z,DarshanMoradiya.devdj,DarshanMoradiya,DevDJ for Spotify,1.0.1,"Spotify player for VS Code: play, search, browse your library and queue, and listen together with friends on the same Wi-Fi."
+2026-10-20T18:33:12.627Z,contextengine-dev.context-extension,contextengine-dev,Context Engine — Developer Memory,0.3.0,"Never lose your work context when switching tasks, branches, or taking breaks. Instant resume points, symbol-level focus, AI context packets, breadcrumb notes, branch memory, and daily work summaries — 100% local."
+2026-10-20T18:36:28.24Z,creativ3lab.bohemia-tools,creativ3lab,Bohemia Tools,0.1.0,"Complete modding workbench for DayZ, Arma 3, and Arma Reforger — P3D, PBO, ANM, Config, PAA, WRP, and 13 more format tools with 3D preview, project management, and Enforce Script linting."
+2026-10-20T18:44:54.08Z,roshanmali1205.repoweave,roshanmali1205,RepoWeave — Agent Harness Studio,0.1.5,"Generate a repository-aware agent harness for Copilot, Claude, and Codex. A guided studio analyzes the repo, previews every file, and writes only after you confirm."
+2026-10-20T18:47:55.88Z,Savelya.sea-lang,Savelya,Sea - Azərbaycan Proqramlaşdırma Dili,1.0.1,Sea proqramlaşdırma dili və ESP32 Dron Uçuş Nəzarətçisi üçün rəsmi sintaksis və ikon dəstəyi
+2026-10-20T18:52:24.517Z,pasta0126.kanban-json,pasta0126,Kanban JSON,0.0.1,"Editor de tableros Kanban para ficheros kanban.json, con vista de texto."
+2026-10-20T18:57:10.917Z,riccardorispoli.markdown-mistress,riccardorispoli,Markdown Mistress,0.1.0,"Google-Docs-style comments on a markdown preview, readable and resolvable by Kiro through a bundled MCP server."
+2026-10-20T19:06:32.5Z,Spy48.leetcode-runner,Spy48,LeetCode Runner (Java),0.1.0,"Pick LeetCode problems, test and submit your Java solution without leaving VS Code. Failed submission cases are saved and re-run on every test."
