@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T19:19:46.36Z,DevLaunch.devlaunch,DevLaunch,DevLaunch,0.0.1,"Generate React, Node.js, and Express projects from templates directly in VS Code."
+2026-10-20T19:23:22.1Z,MoorCode.moringcode,MoorCode,MoringCode,3.0.8,多模型 AI 开发工作台：对话、代码任务、工具审批、联网搜索、会话管理与手机连接
+2026-10-20T19:23:25.863Z,jgkd.ansible-module-assist,jgkd,Ansible Module Assist,0.3.2,"Dot-triggered IntelliSense for Ansible playbooks: ansible.builtin, ansible.posix and every installed Galaxy collection (pfsensible.core, community.general, ...), with module options, choices and docs on hover."
+2026-10-20T19:41:10.047Z,arup-digital-products.oasys-lsdyna-api,arup-digital-products,Oasys LS-DYNA API,23.1.10,Intellisense for the Oasys LS-DYNA Environment JavaScript API in VS Code
+2026-10-20T19:45:02.853Z,Acalaes.agenda-bar,Acalaes,Agenda Bar,0.5.0,"Veja no rodapé a tarefa atual, o tempo que falta e o tempo livre do dia, com o seu Google Agenda. Compara estimado × real."
+2026-10-20T19:45:47.473Z,jubr.variant-worktrees,jubr,Variant Worktrees,0.0.1,Variant Worktrees VS Code extension
+2026-10-20T19:46:24.083Z,synkronyx.synkronyx-image,synkronyx,Synkronyx Image,1.0.1,"Local image editing for crop, resize, transform, conversion, and compression in VS Code"
+2026-10-20T20:06:56.337Z,CodeAIAssistant.CodeAIAssistant,CodeAIAssistant,CodeAIAssistant,1.1.0,"AI-powered coding assistant for Visual Studio Code. Provides natural language code understanding, refactoring suggestions, and contextual documentation lookup."

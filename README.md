@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 19:20 UTC
+## Latest list — 2026-10-20 20:20 UTC
 
-New extensions published between 2026-10-20 17:20 UTC and 2026-10-20 19:20 UTC.
+New extensions published between 2026-10-20 18:20 UTC and 2026-10-20 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T19-20-50-056576Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T20-20-04-109581Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 18:17:38 | [BDarshan1052.sonarqube-rest-api-mcp](https://marketplace.visualstudio.com/items?itemName=BDarshan1052.sonarqube-rest-api-mcp) | SonarQube REST API MCP | 0.1.2 | Connect VS Code directly to SonarQube REST API using an integrated stdio MCP se… |
-| 2026-10-20 18:20:43 | [aionlanguage.aion-support](https://marketplace.visualstudio.com/items?itemName=aionlanguage.aion-support) | Aion Support | 0.2.0 | Language support for Aion: syntax highlighting, snippets, diagnostics and comma… |
-| 2026-10-20 18:30:28 | [DarshanMoradiya.devdj](https://marketplace.visualstudio.com/items?itemName=DarshanMoradiya.devdj) | DevDJ for Spotify | 1.0.1 | Spotify player for VS Code: play, search, browse your library and queue, and li… |
-| 2026-10-20 18:33:12 | [contextengine-dev.context-extension](https://marketplace.visualstudio.com/items?itemName=contextengine-dev.context-extension) | Context Engine — Developer Memory | 0.3.0 | Never lose your work context when switching tasks, branches, or taking breaks.… |
-| 2026-10-20 18:36:28 | [creativ3lab.bohemia-tools](https://marketplace.visualstudio.com/items?itemName=creativ3lab.bohemia-tools) | Bohemia Tools | 0.1.0 | Complete modding workbench for DayZ, Arma 3, and Arma Reforger — P3D, PBO, ANM,… |
-| 2026-10-20 18:44:54 | [roshanmali1205.repoweave](https://marketplace.visualstudio.com/items?itemName=roshanmali1205.repoweave) | RepoWeave — Agent Harness Studio | 0.1.5 | Generate a repository-aware agent harness for Copilot, Claude, and Codex. A gui… |
-| 2026-10-20 18:47:55 | [Savelya.sea-lang](https://marketplace.visualstudio.com/items?itemName=Savelya.sea-lang) | Sea - Azərbaycan Proqramlaşdırma Dili | 1.0.1 | Sea proqramlaşdırma dili və ESP32 Dron Uçuş Nəzarətçisi üçün rəsmi sintaksis və… |
-| 2026-10-20 18:52:24 | [pasta0126.kanban-json](https://marketplace.visualstudio.com/items?itemName=pasta0126.kanban-json) | Kanban JSON | 0.0.1 | Editor de tableros Kanban para ficheros kanban.json, con vista de texto. |
-| 2026-10-20 18:57:10 | [riccardorispoli.markdown-mistress](https://marketplace.visualstudio.com/items?itemName=riccardorispoli.markdown-mistress) | Markdown Mistress | 0.1.0 | Google-Docs-style comments on a markdown preview, readable and resolvable by Ki… |
-| 2026-10-20 19:06:32 | [Spy48.leetcode-runner](https://marketplace.visualstudio.com/items?itemName=Spy48.leetcode-runner) | LeetCode Runner (Java) | 0.1.0 | Pick LeetCode problems, test and submit your Java solution without leaving VS C… |
+| 2026-10-20 19:19:46 | [DevLaunch.devlaunch](https://marketplace.visualstudio.com/items?itemName=DevLaunch.devlaunch) | DevLaunch | 0.0.1 | Generate React, Node.js, and Express projects from templates directly in VS Cod… |
+| 2026-10-20 19:23:22 | [MoorCode.moringcode](https://marketplace.visualstudio.com/items?itemName=MoorCode.moringcode) | MoringCode | 3.0.8 | 多模型 AI 开发工作台：对话、代码任务、工具审批、联网搜索、会话管理与手机连接 |
+| 2026-10-20 19:23:25 | [jgkd.ansible-module-assist](https://marketplace.visualstudio.com/items?itemName=jgkd.ansible-module-assist) | Ansible Module Assist | 0.3.2 | Dot-triggered IntelliSense for Ansible playbooks: ansible.builtin, ansible.posi… |
+| 2026-10-20 19:41:10 | [arup-digital-products.oasys-lsdyna-api](https://marketplace.visualstudio.com/items?itemName=arup-digital-products.oasys-lsdyna-api) | Oasys LS-DYNA API | 23.1.10 | Intellisense for the Oasys LS-DYNA Environment JavaScript API in VS Code |
+| 2026-10-20 19:45:02 | [Acalaes.agenda-bar](https://marketplace.visualstudio.com/items?itemName=Acalaes.agenda-bar) | Agenda Bar | 0.5.0 | Veja no rodapé a tarefa atual, o tempo que falta e o tempo livre do dia, com o… |
+| 2026-10-20 19:45:47 | [jubr.variant-worktrees](https://marketplace.visualstudio.com/items?itemName=jubr.variant-worktrees) | Variant Worktrees | 0.0.1 | Variant Worktrees VS Code extension |
+| 2026-10-20 19:46:24 | [synkronyx.synkronyx-image](https://marketplace.visualstudio.com/items?itemName=synkronyx.synkronyx-image) | Synkronyx Image | 1.0.1 | Local image editing for crop, resize, transform, conversion, and compression in… |
+| 2026-10-20 20:06:56 | [CodeAIAssistant.CodeAIAssistant](https://marketplace.visualstudio.com/items?itemName=CodeAIAssistant.CodeAIAssistant) | CodeAIAssistant | 1.1.0 | AI-powered coding assistant for Visual Studio Code. Provides natural language c… |
 
 ## Data source
 
