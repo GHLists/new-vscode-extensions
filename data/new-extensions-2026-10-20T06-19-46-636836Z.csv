@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T05:30:39.86Z,Ahmed-G-Gad.apothem-vscode,Ahmed-G-Gad,Apothem for VS Code,1.2.2,"Install and manage the Apothem shared profile for GitHub Copilot and the VS Code family from your workspace — one profile, materialized into the editor's native configuration surface."
+2026-10-20T05:35:51.417Z,tipandtale.mangriachi-bts-pet,tipandtale,Mangriachi BTS Halloween Pet,0.0.2,"A BTS-themed Halloween coding pet: a mariachi sugar skull who waddles, naps, panics over errors and celebrates your saves."
+2026-10-20T05:35:56.107Z,narcisolobo.bootswatch,narcisolobo,Bootswatch for VS Code,1.0.0,"Every Bootswatch theme, ported to VS Code"
+2026-10-20T05:37:21.587Z,flightcoders.veyra-api-client,flightcoders,Veyra API Client,1.0.0,"A fast, free API client in VS Code: send REST and GraphQL requests, organize collections, switch environments and share everything through git. Import cURL and Postman. No account, no limits."
+2026-10-20T05:48:17.46Z,danielkhojaste.todone-vscode,danielkhojaste,ToDone for VS Code,0.2.1,Unofficial VS Code port of the ToDone plain-text to-do list syntax for Sublime Text.
+2026-10-20T06:09:50.48Z,luispa.harness-launcher,luispa,Harness Launcher,0.1.0,"Start or resume an AI coding CLI in a terminal, in exactly the folder you want, with first-class multi-root support."

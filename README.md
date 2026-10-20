@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 05:19 UTC
+## Latest list — 2026-10-20 06:19 UTC
 
-New extensions published between 2026-10-20 03:19 UTC and 2026-10-20 05:19 UTC.
+New extensions published between 2026-10-20 04:19 UTC and 2026-10-20 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T05-19-56-426361Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T06-19-46-636836Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 04:21:45 | [santamayengbam.dotnet-toolkit](https://marketplace.visualstudio.com/items?itemName=santamayengbam.dotnet-toolkit) | .NET Developer Toolkit | 0.0.1 | ASP.NET Core MVC and API scaffolding, build controls, and API testing |
-| 2026-10-20 04:28:13 | [juapperez.organize-classnames](https://marketplace.visualstudio.com/items?itemName=juapperez.organize-classnames) | Organize ClassNames | 0.1.0 | Sorts the class names in class="…" and className="…" attributes alphabetically… |
-| 2026-10-20 05:10:22 | [quickes.77vscode](https://marketplace.visualstudio.com/items?itemName=quickes.77vscode) | 1С:Предприятие 7.7 (77MCP) | 0.3.0 | Структура конфигурации 1С 7.7, модули, процедуры, формы и внешние обработки чер… |
-| 2026-10-20 05:11:55 | [flightcoders.veyra-npm-intellisense](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-npm-intellisense) | Veyra npm IntelliSense | 1.0.0 | Autocomplete npm packages, subpaths and Node built-ins in import and require, w… |
-| 2026-10-20 05:12:02 | [heyliam.gitmetro](https://marketplace.visualstudio.com/items?itemName=heyliam.gitmetro) | GitMetro — Git Log, Commit Graph & Merg… | 0.2.0 | See your repository as a metro map: commit graph, branch tree, merge diffs per… |
-| 2026-10-20 05:12:08 | [MichaelPinus.viewgrain-vscode](https://marketplace.visualstudio.com/items?itemName=MichaelPinus.viewgrain-vscode) | ViewGrain | 0.0.1 | Review code by its intent, at any zoom level. |
-| 2026-10-20 05:12:21 | [heyliam.json-semantic-diff](https://marketplace.visualstudio.com/items?itemName=heyliam.json-semantic-diff) | JSON Semantic Diff | 0.1.0 | Compare two JSON documents by meaning, not by text: key order, formatting and n… |
+| 2026-10-20 05:30:39 | [Ahmed-G-Gad.apothem-vscode](https://marketplace.visualstudio.com/items?itemName=Ahmed-G-Gad.apothem-vscode) | Apothem for VS Code | 1.2.2 | Install and manage the Apothem shared profile for GitHub Copilot and the VS Cod… |
+| 2026-10-20 05:35:51 | [tipandtale.mangriachi-bts-pet](https://marketplace.visualstudio.com/items?itemName=tipandtale.mangriachi-bts-pet) | Mangriachi BTS Halloween Pet | 0.0.2 | A BTS-themed Halloween coding pet: a mariachi sugar skull who waddles, naps, pa… |
+| 2026-10-20 05:35:56 | [narcisolobo.bootswatch](https://marketplace.visualstudio.com/items?itemName=narcisolobo.bootswatch) | Bootswatch for VS Code | 1.0.0 | Every Bootswatch theme, ported to VS Code |
+| 2026-10-20 05:37:21 | [flightcoders.veyra-api-client](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-api-client) | Veyra API Client | 1.0.0 | A fast, free API client in VS Code: send REST and GraphQL requests, organize co… |
+| 2026-10-20 05:48:17 | [danielkhojaste.todone-vscode](https://marketplace.visualstudio.com/items?itemName=danielkhojaste.todone-vscode) | ToDone for VS Code | 0.2.1 | Unofficial VS Code port of the ToDone plain-text to-do list syntax for Sublime… |
+| 2026-10-20 06:09:50 | [luispa.harness-launcher](https://marketplace.visualstudio.com/items?itemName=luispa.harness-launcher) | Harness Launcher | 0.1.0 | Start or resume an AI coding CLI in a terminal, in exactly the folder you want,… |
 
 ## Data source
 
