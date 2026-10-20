@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T10:21:13.643Z,zwgshr.python-log-focus,zwgshr,Python Log Focus,0.1.0,"Dim, mask and fold Python logger calls (logger.info, logging, loguru, etc.) to keep focus on core business logic."
+2026-10-20T10:29:55.887Z,alexsobolenko.advanced-markdown-editor,alexsobolenko,Advanced markdown editor,1.0.0,Modern markdown editor
+2026-10-20T10:33:52.643Z,applivity.plato,applivity,Plato by Applivity,0.26.1,"An AI coding agent for VS Code that shows its work, lets you steer mid-run, and stops at a safe point."
+2026-10-20T10:51:14.683Z,waterplane-dev.waterplane,waterplane-dev,waterplane: Cost & Context for Claude Code,0.3.0,"What each prompt cost, the context window over time, the token split and what your CLAUDE.md costs on every turn — read from Claude Code's own logs on this machine. No telemetry, no network."
+2026-10-20T11:07:56.063Z,hymanimy.isabelle-revamp,hymanimy,Isabelle Revamp,0.2.0,Isabelle/HOL in stock VS Code using the installed Isabelle language server.
