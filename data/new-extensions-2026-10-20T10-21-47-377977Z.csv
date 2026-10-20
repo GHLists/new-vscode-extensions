@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T09:11:56.233Z,leejaehot.rst-visual-editor,leejaehot,RST Visual Editor,0.2.0,Edit rendered reStructuredText directly while preserving the original RST file.
+2026-10-20T09:25:50.82Z,grenitho.orion-ai,grenitho,Orion — AI Software Engineer,0.0.7,"Autonomous AI software engineer: plans with todo lists, edits code, runs tests and terminal commands with your approval, verifies its own work, and reports honestly — in your language."
+2026-10-20T09:25:55.85Z,madderscientist.remote-proxy,madderscientist,Remote Proxy,0.1.0,"A local HTTP proxy shared by connected SSH and Dev Container windows, with no permanent service."
+2026-10-20T09:32:46.5Z,miniprogramlab.miniapp,miniprogramlab,miniapp,0.0.2,小程序语言工具，支持 WXML 与 WXS 语义、自定义事件契约、跨文件重命名，以及脚本和样式源码导航。
+2026-10-20T09:42:34.097Z,SANTHOSHJAMESC.gitlimiter,SANTHOSHJAMESC,Git Limiter,0.1.0,"Nudges you (with sound and bad jokes) to open a PR while it's still small enough to review. Limits files and lines per file, with a status bar meter."
+2026-10-20T09:43:00.237Z,SANTHOSHJAMESC.pr-reminder-alert,SANTHOSHJAMESC,PR Reminder & Alert,0.2.0,"Tracks your GitHub pull requests, sends reviewers private Google Chat reminders, and shows hard-to-miss alerts for PR activity."
+2026-10-20T09:44:45.277Z,junjunshim.axis-share,junjunshim,Axis Share,0.0.1,Axis Flow 워크스페이스의 원격 저장소를 VSCode 에서 실시간으로 함께 편집한다.
+2026-10-20T09:45:29.867Z,mark7625.runescape-plugin-kit,mark7625,RuneScape Plugin Kit,0.1.0,Scaffold sandboxed Lua RuneScape plugins.
+2026-10-20T09:47:39.417Z,ExpressionInc.htmlinclude,ExpressionInc,HTML Include,2.0.0,Expands includes written as HTML comments to assemble HTML from fragments. Works both as a VS Code extension and from the command line.
+2026-10-20T09:47:49.9Z,ExpressionInc.japanese-word-navigation,ExpressionInc,Japanese Word Navigation,1.0.0,"Moves the cursor, selects and deletes by word, splitting words where the Japanese character type changes (hiragana, katakana, kanji, alphanumerics, etc.)."
+2026-10-20T09:48:03.083Z,ExpressionInc.markdown-table-tsv,ExpressionInc,Markdown Table TSV,2.0.0,"Paste TSV (e.g. copied from Excel) as a Markdown table, and copy a Markdown table as TSV."
+2026-10-20T09:48:14.32Z,ExpressionInc.standard-pageup-pagedown,ExpressionInc,Standard PageUp / PageDown,1.0.0,PageUp/PageDown scroll by one page while keeping the cursor at the same position on the screen.
+2026-10-20T10:04:58.253Z,paceex-wangqi.pacecode,paceex-wangqi,PaceCode,0.1.2,"Independent AI coding assistant for VS Code: chat, edit code, review changes and resume local conversations."
+2026-10-20T10:07:44.287Z,kwarwang.github-darcula-optimized,kwarwang,GitHub Darcula Optimized,1.0.0,GitHub Dark Dimmed workbench with JetBrains Darcula syntax colors.
+2026-10-20T10:08:33.727Z,lucashuls.svg-white-preview,lucashuls,SVG White Preview,0.1.1,"Opens .svg files on a white background by default, with a toggle for dark or checkerboard."
+2026-10-20T10:16:23.027Z,ElyesHkiri.claude-session-bridge-vscode,ElyesHkiri,Claude Session Bridge,0.3.2,One-click guided handoff and verified backup for Claude Code VS Code sessions across accounts.
