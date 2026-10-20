@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T14:19:40.93Z,hi-mamba.hi-mamba-ai-commit-writer,hi-mamba,AI git Commit Writer,0.0.4,Generate Conventional Commits messages from staged diffs via OpenAI-compatible API
+2026-10-20T14:59:34.483Z,testpublisher610.testdelete,testpublisher610,testdelete Notebook,1.0.2,可视化回归工作簿，支持 RTF 导出。
+2026-10-20T15:02:33.287Z,macuna.multi-claude-accounts,macuna,multiclaude: Claude accounts per folder,0.1.0,Use several Claude Code accounts in VS Code and pick one per folder
+2026-10-20T15:04:17.6Z,nguyentruong354.live-serve-rs,nguyentruong354,live-serve-rs: Go Live without Node,0.4.3,Live reload for static sites from a small native server. Click Go Live; saving CSS swaps it in place.
+2026-10-20T15:05:24.453Z,portcheck-vscode.portcheck-vscode,portcheck-vscode,Portcheck - Port in Use Fixer,0.5.0,"See what's using your ports — process, who started it, container or WSL distro — and free them safely."
+2026-10-20T15:09:13.847Z,pablorocg.pbs-plus,pablorocg,pbs-plus,0.16.0,
