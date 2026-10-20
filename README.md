@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 22:21 UTC
+## Latest list — 2026-10-20 23:20 UTC
 
-New extensions published between 2026-10-20 20:21 UTC and 2026-10-20 22:21 UTC.
+New extensions published between 2026-10-20 21:20 UTC and 2026-10-20 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T22-21-13-838022Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T23-20-00-287574Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 21:15:53 | [touba.touba-tools](https://marketplace.visualstudio.com/items?itemName=touba.touba-tools) | Touba Language Toolkit | 1.0.1 | Build Touba programs with compiler diagnostics, code completion, source navigat… |
-| 2026-10-20 21:18:10 | [VDB.tip-language-spa](https://marketplace.visualstudio.com/items?itemName=VDB.tip-language-spa) | TIP Language (SPA) | 0.1.0 | Syntax highlighting for TIP programs and a Run/Debug CodeLens that launches the… |
-| 2026-10-20 21:24:59 | [Ndevu12.stayawakebot](https://marketplace.visualstudio.com/items?itemName=Ndevu12.stayawakebot) | StayAwakeBot (saw) | 0.1.1 | Supply-chain worm hunting in your editor: the saw verdict for every folder you… |
-| 2026-10-20 21:27:04 | [RiccardoFilippozzi.search-here](https://marketplace.visualstudio.com/items?itemName=RiccardoFilippozzi.search-here) | Search Here | 0.1.0 | Fast search for text, files, folders and symbols powered by ripgrep, with code… |
-| 2026-10-20 21:58:28 | [SIMAI.sf-vscode](https://marketplace.visualstudio.com/items?itemName=SIMAI.sf-vscode) | SIMAI Framework for VS Code | 0.3.1 | Autocomplete and hovers for SIMAI Framework: sf- component tags and attributes,… |
-| 2026-10-20 21:58:53 | [deltabox.toolchain-vscode](https://marketplace.visualstudio.com/items?itemName=deltabox.toolchain-vscode) | deltabox toolchain | 1.7.0 | Sync/generate @deltabox/toolchain managed files, run tooling across projects an… |
-| 2026-10-20 22:04:04 | [crossvaultGmbH.a4sx](https://marketplace.visualstudio.com/items?itemName=crossvaultGmbH.a4sx) | a4sx | 0.1.0 | Use a4sx from VS Code: adds the a4sx MCP server for agent mode and saves your l… |
+| 2026-10-20 22:21:56 | [KaydenIreland.gnu-asm](https://marketplace.visualstudio.com/items?itemName=KaydenIreland.gnu-asm) | GNU Assembly (GAS) | 0.0.1 | A small extension based around GNU Asssembly. |
+| 2026-10-20 22:33:52 | [TeXyoN.texyon](https://marketplace.visualstudio.com/items?itemName=TeXyoN.texyon) | TeXyon Live Preview | 0.1.0 | Live LaTeX preview that updates as you type, backed by a resident TeXyon engine. |
+| 2026-10-20 22:59:16 | [wojfil.iskierka-language](https://marketplace.visualstudio.com/items?itemName=wojfil.iskierka-language) | Iskierka Language | 1.0.0 | Syntax highlighting for Iskierka |
+| 2026-10-20 23:00:37 | [carejobs.carejobs-healthcare-jobs](https://marketplace.visualstudio.com/items?itemName=carejobs.carejobs-healthcare-jobs) | CareJobs.Now: Healthcare Jobs for Copil… | 1.0.0 | Gives GitHub Copilot agent mode tools to search open US healthcare jobs and the… |
 
 ## Data source
 

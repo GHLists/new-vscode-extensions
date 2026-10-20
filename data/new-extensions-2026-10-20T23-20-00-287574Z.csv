@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T22:21:56.957Z,KaydenIreland.gnu-asm,KaydenIreland,GNU Assembly (GAS),0.0.1,A small extension based around GNU Asssembly.
+2026-10-20T22:33:52.84Z,TeXyoN.texyon,TeXyoN,TeXyon Live Preview,0.1.0,"Live LaTeX preview that updates as you type, backed by a resident TeXyon engine."
+2026-10-20T22:59:16.007Z,wojfil.iskierka-language,wojfil,Iskierka Language,1.0.0,Syntax highlighting for Iskierka
+2026-10-20T23:00:37.253Z,carejobs.carejobs-healthcare-jobs,carejobs,CareJobs.Now: Healthcare Jobs for Copilot,1.0.0,"Gives GitHub Copilot agent mode tools to search open US healthcare jobs and the pay employers post (nurses, CNAs, techs, therapists), from CareJobs.Now's free MCP server."
