@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T08:38:12.913Z,KrishnaGupta.copierbykrishna,KrishnaGupta,CopierByKrishna,1.0.0,Quickly copy selected or entire project files into one clipboard output — ideal for AI use or sharing snippets easily.
+2026-10-20T08:51:28.397Z,tangyuanx.compact-call-graph,tangyuanx,Compact Call Graph · 函数调用关系,0.1.2,可点击、按节点展开的轻量函数调用图，支持 C/C++ 等语言服务。
+2026-10-20T08:51:28.637Z,loamstack.csv-editor-by-loamstack,loamstack,CSV Editor by Loamstack,0.1.0,"Edit CSV and TSV files in a local spreadsheet grid, with VS Code save and undo."
+2026-10-20T08:52:34.75Z,ping-597.idea-git-panel,ping-597,Git Workbench,0.1.1,"Git workbench with commit graph, editor blame, CodeLens, visual history, reviews, rebase and worktrees."
+2026-10-20T08:53:19.987Z,Anmol.salesforce-assist-buddy,Anmol,Salesforce Assist Buddy,1.0.0,View and manage Salesforce developer logs with auto-refresh and filtering capabilities
+2026-10-20T08:54:01.36Z,Mc-dev-80.variable-manager,Mc-dev-80,Variable Manager,1.0.0,Organize variables into groups and display them in the sidebar.
+2026-10-20T08:56:49.76Z,Viedin.llmd,Viedin,LLMD,0.0.5,"Markdown flow specs with @file references, for planning work with an LLM"
+2026-10-20T08:59:49.357Z,tsedal.tsedal-ai,tsedal,Tsedal AI,0.8.0,"Tsedal AI: a coding agent for VS Code. Reads, creates and edits files with your review, plus chat, inline edit and autocomplete."
+2026-10-20T09:05:09.307Z,c-struct-member-expander.c-struct-member-expander,c-struct-member-expander,C/C++ Struct Member Expander,1.0.1,一键展开 C/C++ 结构体成员赋值，右侧留空，按 Tab 逐项填写。支持 . 和 ->，使用现有语言服务。
+2026-10-20T09:11:18.98Z,Innocito.regent,Innocito,Regent,0.1.0,"AI coding agent for VS Code: plans, edits files and runs commands in your project with your own API key"
