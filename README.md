@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 13:22 UTC
+## Latest list — 2026-10-20 14:22 UTC
 
-New extensions published between 2026-10-20 11:22 UTC and 2026-10-20 13:22 UTC.
+New extensions published between 2026-10-20 12:22 UTC and 2026-10-20 14:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T13-22-18-901868Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T14-22-29-525892Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 12:26:12 | [DSPiz.autovsg](https://marketplace.visualstudio.com/items?itemName=DSPiz.autovsg) | AutoVSG | 0.0.4 | Live VHDL style checking in VS Code, powered by VSG. |
-| 2026-10-20 12:35:22 | [QuantLabs.claude-multi-session](https://marketplace.visualstudio.com/items?itemName=QuantLabs.claude-multi-session) | Claude Multi Session — usage, limits &… | 0.1.0 | Unofficial. See how much Claude quota you have left on the 5-hour and weekly wi… |
-| 2026-10-20 12:41:58 | [cri5ti.copilot-tracker-ent](https://marketplace.visualstudio.com/items?itemName=cri5ti.copilot-tracker-ent) | Copilot Tracker (Enterprise) | 0.2.1 | Status bar tracker for GitHub Copilot AI credits on enterprise-managed accounts… |
-| 2026-10-20 12:48:32 | [wattanun42.claude-switch-accounts](https://marketplace.visualstudio.com/items?itemName=wattanun42.claude-switch-accounts) | Claude Switch (unofficial) | 0.8.0 | Switch which Claude account the Claude Code extension and CLI use. Not affiliat… |
-| 2026-10-20 12:49:58 | [ErnestoLeonidas.codeflow-map](https://marketplace.visualstudio.com/items?itemName=ErnestoLeonidas.codeflow-map) | CodeFlow - Mapa de funciones | 0.3.6 | Visualiza funciones, métodos y clases PHP/JavaScript y navega a sus archivos. |
-| 2026-10-20 12:51:17 | [jaewon-lee.jaewon-k8s-dashboard](https://marketplace.visualstudio.com/items?itemName=jaewon-lee.jaewon-k8s-dashboard) | Jaewon K8s Dashboard | 0.1.1 | Kubernetes cluster explorer, merged live logs, Helm, metrics and persistent por… |
-| 2026-10-20 12:52:30 | [MathisBEAL.cargo-deps](https://marketplace.visualstudio.com/items?itemName=MathisBEAL.cargo-deps) | Cargo-Deps | 0.1.0 | Manage your cargo dependencies |
-| 2026-10-20 13:01:22 | [ikarmic.ikarmic-forge](https://marketplace.visualstudio.com/items?itemName=ikarmic.ikarmic-forge) | IKarmic AI Forge | 4.4.0 | Open-source AI coding agent. Multi-provider (OpenAI, Anthropic, Google, OpenRou… |
-| 2026-10-20 13:15:59 | [LeoSousa155.gdscript-godot-tools](https://marketplace.visualstudio.com/items?itemName=LeoSousa155.gdscript-godot-tools) | GDScript Godot Tools | 0.3.2 |  |
+| 2026-10-20 13:25:26 | [hi-mamba.api-request-copier](https://marketplace.visualstudio.com/items?itemName=hi-mamba.api-request-copier) | API Request Copier | 2.0.4 | Copy Spring MVC and JSON-RPC Java methods or classes as cURL, HTTP, Postman, fe… |
+| 2026-10-20 13:38:56 | [AndersonTakle.editor-weather](https://marketplace.visualstudio.com/items?itemName=AndersonTakle.editor-weather) | Editor Weather | 1.2.0 | Snow, autumn leaves or rain falls over your editor and piles up at the bottom.… |
+| 2026-10-20 13:47:52 | [vedasjad.emulator-panel](https://marketplace.visualstudio.com/items?itemName=vedasjad.emulator-panel) | Emulator Panel | 0.1.0 | Run Android emulators and mirror Android phones inside VS Code, keeping the emu… |
+| 2026-10-20 13:48:45 | [DevPedroDias.gray-dp](https://marketplace.visualstudio.com/items?itemName=DevPedroDias.gray-dp) | Gray DP | 0.1.1 | A noir grayscale theme: no hue, real contrast between keywords, functions and v… |
+| 2026-10-20 13:54:28 | [jay-boo.gitland](https://marketplace.visualstudio.com/items?itemName=jay-boo.gitland) | Gitland | 0.0.2 | Free git superpowers: beautiful commit graph, inline blame, tickets → branches… |
+| 2026-10-20 13:55:35 | [MRE.NetRexx](https://marketplace.visualstudio.com/items?itemName=MRE.NetRexx) | NetRexx Language | 1.0.4 | Language Server Protocol and Debug Adapter Protocol support for NetRexx |
+| 2026-10-20 13:56:04 | [APISkyLLC.apisky](https://marketplace.visualstudio.com/items?itemName=APISkyLLC.apisky) | ApiSky | 0.1.3 | Multi-bot pair programming client for VS Code. |
+| 2026-10-20 13:58:08 | [XunZhao.regfish](https://marketplace.visualstudio.com/items?itemName=XunZhao.regfish) | RegFish Notebook | 1.0.0 | 可视化回归工作簿，支持 RTF 导出。 |
+| 2026-10-20 13:59:19 | [kellian-cottart.kellian-theme](https://marketplace.visualstudio.com/items?itemName=kellian-cottart.kellian-theme) | Café Crème & Aubergine Theme | 0.2.1 | A cream-and-coffee light theme and a deep aubergine dark theme, with optional p… |
 
 ## Data source
 
