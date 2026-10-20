@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T15:23:50.477Z,ciamac-davoudi.nebula-drift-moss,ciamac-davoudi,Nebula Drift Moss,0.0.2,"A dark grey and green color theme with a space-themed file icon set: comets, aliens, planets and rockets."
+2026-10-20T15:23:53.687Z,ciamac-davoudi.nebula-drift-moss-light,ciamac-davoudi,Nebula Drift Moss Light,0.0.2,"A light white and green color theme with a space-themed file icon set: comets, aliens, planets and rockets."
+2026-10-20T15:23:56.243Z,ciamac-davoudi.nebula-drift-gold,ciamac-davoudi,Nebula Drift Gold,0.0.2,"A dark grey and gold color theme with a space-themed file icon set: comets, aliens, planets and rockets."
+2026-10-20T15:23:59.507Z,ciamac-davoudi.nebula-drift-gold-light,ciamac-davoudi,Nebula Drift Gold Light,0.0.2,"A light white and gold color theme with a space-themed file icon set: comets, aliens, planets and rockets."
+2026-10-20T15:24:26.48Z,workglance.workglance,workglance,Workglance,0.8.1,"What every AI coding tab did, across every repo: a task board your agents keep, and who needs you right now."
+2026-10-20T15:33:57.087Z,Afiq.cron-describe,Afiq,Cron Describe,0.0.1,Hover over a cron expression to see what it means in plain English.
+2026-10-20T15:37:08.517Z,flightcoders.veyra-mcp-studio,flightcoders,Veyra MCP Studio,1.0.0,"Manage, test and inspect MCP servers for Claude, Cursor, VS Code and Windsurf in one place. Add servers from a catalog, copy them between apps, and see exactly why a server fails."
+2026-10-20T15:38:37.35Z,onegayi.vsidian-easy-typing,onegayi,Vsidian Easy Typing,0.1.0,"Input experience add-on for Vsidian: smart CJK/Latin spacing, punctuation and pair conversion, editable enhancements, and a customizable text transform rule engine. Ported from easy-typing-obsidian."
+2026-10-20T15:46:39.623Z,pandas-coding.bamboo-git,pandas-coding,Bamboo Git,0.1.3,High-performance git workbench with virtual-scrolled commit graph and undo engine
+2026-10-20T15:51:58.467Z,ReadyStack.nencho-fuyo-csv-lint-r8,ReadyStack,年末調整 扶養控除 チェック（令和8年分・62万円）,1.0.6,年末調整の扶養親族CSVを令和8年分の新要件で検査。所得62万円・給与所得控除74万円・特定親族特別控除・配偶者特別控除・国外居住親族の必要書類。控除漏れと過大控除を行ごとに表示。
+2026-10-20T15:52:20.367Z,ReadyStack.nis2-risk-register-lint,ReadyStack,Risk Register Lint — NIS2 Art. 21(2),1.0.3,"Lints Markdown risk registers: all ten NIS2 Article 21(2) measures (a)-(j) covered, and every risk row has an owner, a 1-5 score, a treatment and a review inside 12 months."
+2026-10-20T15:52:29.153Z,ReadyStack.notebook-share-gate,ReadyStack,Notebook Share Gate,1.0.8,"Audits saved .ipynb cell outputs for live credentials, customer personal data and internal hostnames before you share, commit or attach the notebook."
+2026-10-20T15:58:41.617Z,xaendar.language-service,xaendar,Xaendar Language Service,1.0.1,"Language support for Xaendar templates: syntax highlighting, completion, diagnostics and formatting."
+2026-10-20T16:01:50.51Z,JHeilingbrunner.vscode-tiaportal-language-support,JHeilingbrunner,TIA Portal Language Support,0.0.1,Syntax highlighting for Siemens TIA Portal
+2026-10-20T16:12:22.81Z,hmarst.one-theme-zed,hmarst,One Theme Zed,0.1.1,"One Dark and One Light color themes for VS Code, ported from the default themes of the Zed editor."
+2026-10-20T16:14:00.78Z,CheapandLa-ZInc.commander-flash,CheapandLa-ZInc,Commander Flash (unofficial),0.3.1,"Flash, erase and open a serial console on Silicon Labs boards from VS Code, using Simplicity Commander. No Simplicity Studio project needed."
