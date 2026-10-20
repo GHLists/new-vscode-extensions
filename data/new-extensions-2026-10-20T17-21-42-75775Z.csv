@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T16:08:47.073Z,fnomer12.code-shredder,fnomer12,Code Shredder,0.0.2,"Obfuscate built JS so it's hard to reverse engineer, right from VS Code."
+2026-10-20T16:17:01.127Z,alphavarez.telemac-mascaret,alphavarez,TELEMAC-MASCARET Language Support,1.0.2,"Hover documentation, keyword completion and syntax highlighting for TELEMAC-MASCARET steering (.cas) and dictionary (.dico) files, with the complete v8p4 keyword reference bundled: 11 modules, 2,049 keywords."
+2026-10-20T16:18:50.193Z,ness001.agent-gateway,ness001,Agent Gateway,0.1.0,"Use your GitHub Copilot models in any agent through one local gateway, share them across machines, and enable web search, compatible with all tool calls. Works with Claude Code, Codex, Gemini CLI, Antigravity CLI, Kilo Code, Cline, DeepSeek Harness, Pi, Oh My Pi, Hermes and OpenClaw."
+2026-10-20T16:20:39.167Z,yanxijian.vscode-leetcode-community,yanxijian,LeetCode Community,0.19.0,Solve LeetCode problems in VS Code
+2026-10-20T16:25:18.36Z,ZyntryCode.zyntry-code,ZyntryCode,Zyntry Code,0.2.0,"Create, approve, run, and stream AI-planned engineering tasks; ingest your repo; and serve as the local execution runner."
+2026-10-20T16:28:44.143Z,azizcodes.kenning,azizcodes,Kenning — Understand the code your AI writes,0.3.0,"While Claude Code, Codex, Cursor or any coding agent works, Kenning turns its changes into quick review cards: what changed, risky edits flagged, one quick question — and a one-click flag the agent fixes before it finishes."
+2026-10-20T16:33:48.713Z,easy-tilelang.tilelang-devkit-vscode,easy-tilelang,TileLang DevKit,0.1.0,"TileLang development tools for VS Code: explore compilation traces, lowering passes, IR differences, generated code and cache reuse, online or offline."
+2026-10-20T16:34:34.81Z,NGY.tailwind-apply-grouper,NGY,Tailwind Apply Grouper,0.8.3,Organize Tailwind CSS @apply utilities into readable categories.
+2026-10-20T16:35:42.153Z,rmsc.codex-companion,rmsc,codex-companion,0.7.1,"A companion for Codex: conversation tabs, renaming, archiving, and account usage."
+2026-10-20T16:47:47.473Z,DasCondor.ado-work-map,DasCondor,ADO Work Map,1.0.0,"Self-contained Azure DevOps work map: delivery map, sprints, changes, maps and a spider web of your work and repos, in one offline HTML report."
+2026-10-20T16:50:29.423Z,pelagolang.pelago,pelagolang,Pelago,0.1.1,"Syntax highlighting, snippets and language-server support (errors as you type) for the Pelago language (.pel)"
+2026-10-20T16:55:55.31Z,MangeshBandre.manban,MangeshBandre,Manban Code Library,1.0.0,"A personal library of reusable Python scripts, CSV files, text files, Markdown notes, and more."
+2026-10-20T16:58:56.697Z,arqawa.pcli,arqawa,ARQAWA PCLI,0.0.1,
+2026-10-20T17:06:49.757Z,TheTechPirate.crowdstrike-cql,TheTechPirate,CrowdStrike CQL (Unofficial),0.1.0,"Unofficial, community-built CrowdStrike Query Language (CQL / LogScale / NG-SIEM) support: function completion, signature help and hover, semantic highlighting, outline, folding, snippets, and queries embedded in Markdown and YAML."
