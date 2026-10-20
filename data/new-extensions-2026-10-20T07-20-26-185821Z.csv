@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T06:22:00.42Z,BingbingNiu.appium-sandbox-demo,BingbingNiu,Appium Sandbox Demo,0.0.1,"Lightweight Marketplace upload test with an orange welcome page. No MCP, Python dependencies, or device automation."
+2026-10-20T06:33:53.277Z,CTS.cts-git-graph,CTS,Git Graph - CTS,0.2.0,"View Git graph, branches, tags, and commits in VS Code"
+2026-10-20T06:51:41.797Z,akckreact.reactt,akckreact,reactt,0.0.2,"Snippets for React components, Redux, JSON, and CSS with ct prefix"
+2026-10-20T06:53:36.773Z,spharshid.translation-key-sync,spharshid,Translation Key Sync,0.0.1,Auto-syncs changed i18n keys from the FE repo to the translation repo on commit
+2026-10-20T07:07:06.087Z,Lip9527.requirement-workspaces,Lip9527,worktree manage,1.0.2,Group worktrees by requirement and review changes with VS Code Source Control.
+2026-10-20T07:16:51.773Z,huanmingzhuo.workers-resources-toolkit,huanmingzhuo,Workers & Resources Mod Toolkit,0.1.0,Modding toolkit for Workers & Resources: Soviet Republic.
