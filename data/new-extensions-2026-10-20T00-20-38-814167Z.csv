@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T22:56:40.153Z,ciamac-davoudi.nebula-drift-dusk,ciamac-davoudi,Nebula Drift Dusk,0.0.2,"A dark deep-navy and magenta color theme with a space-themed file icon set: comets, aliens, planets and rockets."
+2026-10-19T23:43:23.143Z,AlexanderGolys.macaulay2-language-server,AlexanderGolys,Macaulay2 LSP,1.0.7,Macaulay2 language support powered by m2-ls
+2026-10-19T23:59:48.997Z,edward-assaf.irisscript-language-support,edward-assaf,IrisScript Runner and Syntax Checker,0.0.1,"Language support, syntax highlighting, diagnostics, and runner for IrisScript"
+2026-10-20T00:06:57.29Z,artem-isamiddinov.php-get-set-generator,artem-isamiddinov,PHP Getters & Setters Generator,1.0.0,"Smart and automated PHP getters and setters generator with full support for PHP 8.x properties, statics, and readonly classes."

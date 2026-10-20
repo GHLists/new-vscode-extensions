@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-19 23:20 UTC
+## Latest list — 2026-10-20 00:20 UTC
 
-New extensions published between 2026-10-19 21:20 UTC and 2026-10-19 23:20 UTC.
+New extensions published between 2026-10-19 22:20 UTC and 2026-10-20 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-19T23-20-17-313057Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T00-20-38-814167Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 22:23:39 | [plainwork.loose-ends](https://marketplace.visualstudio.com/items?itemName=plainwork.loose-ends) | Loose Ends: TODO tree without ripgrep | 0.1.0 | Every TODO, FIXME and HACK comment in your workspace in one list, with highligh… |
-| 2026-10-19 22:29:48 | [hylo-lang.abi-explorer](https://marketplace.visualstudio.com/items?itemName=hylo-lang.abi-explorer) | ABI Explorer | 0.1.0 | Sizes, offsets and padding of C and C++ structs in hovers and a layout view, fr… |
-| 2026-10-19 22:35:34 | [vijaypjavvadi.attestqa-vscode](https://marketplace.visualstudio.com/items?itemName=vijaypjavvadi.attestqa-vscode) | attestqa | 1.0.1 | Governed agentic testing in VS Code: write Playwright tests from Jira or Azure… |
-| 2026-10-19 22:56:47 | [ciamac-davoudi.nebula-drift-dawn](https://marketplace.visualstudio.com/items?itemName=ciamac-davoudi.nebula-drift-dawn) | Nebula Drift Dawn | 0.0.2 | A clean white and magenta light color theme with a space-themed file icon set:… |
+| 2026-10-19 22:56:40 | [ciamac-davoudi.nebula-drift-dusk](https://marketplace.visualstudio.com/items?itemName=ciamac-davoudi.nebula-drift-dusk) | Nebula Drift Dusk | 0.0.2 | A dark deep-navy and magenta color theme with a space-themed file icon set: com… |
+| 2026-10-19 23:43:23 | [AlexanderGolys.macaulay2-language-server](https://marketplace.visualstudio.com/items?itemName=AlexanderGolys.macaulay2-language-server) | Macaulay2 LSP | 1.0.7 | Macaulay2 language support powered by m2-ls |
+| 2026-10-19 23:59:48 | [edward-assaf.irisscript-language-support](https://marketplace.visualstudio.com/items?itemName=edward-assaf.irisscript-language-support) | IrisScript Runner and Syntax Checker | 0.0.1 | Language support, syntax highlighting, diagnostics, and runner for IrisScript |
+| 2026-10-20 00:06:57 | [artem-isamiddinov.php-get-set-generator](https://marketplace.visualstudio.com/items?itemName=artem-isamiddinov.php-get-set-generator) | PHP Getters & Setters Generator | 1.0.0 | Smart and automated PHP getters and setters generator with full support for PHP… |
 
 ## Data source
 
