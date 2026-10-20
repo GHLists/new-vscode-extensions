@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 01:20 UTC
+## Latest list — 2026-10-20 02:19 UTC
 
-New extensions published between 2026-10-19 23:20 UTC and 2026-10-20 01:20 UTC.
+New extensions published between 2026-10-20 00:19 UTC and 2026-10-20 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T01-20-53-620764Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T02-19-37-895548Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 23:38:23 | [live-by-unix.autosemicolon](https://marketplace.visualstudio.com/items?itemName=live-by-unix.autosemicolon) | Auto | 1.0.0 | Smart, automatic semicolon insertion for C-style programming languages |
-| 2026-10-20 00:18:45 | [empiriolabs.empiriolabs-vscode-chat](https://marketplace.visualstudio.com/items?itemName=empiriolabs.empiriolabs-vscode-chat) | EmpirioLabs AI for Copilot Chat | 0.1.0 | Use EmpirioLabs AI models in GitHub Copilot Chat, with streaming, tool calling… |
-| 2026-10-20 00:19:06 | [Ringo3Apples.gmsh-preview](https://marketplace.visualstudio.com/items?itemName=Ringo3Apples.gmsh-preview) | Gmsh (Language Support & 3D Preview) | 0.2.0 | Comprehensive Gmsh language support (IntelliSense autocompletion, snippets, hov… |
-| 2026-10-20 00:22:18 | [Khadimlo.touba-vscode](https://marketplace.visualstudio.com/items?itemName=Khadimlo.touba-vscode) | Touba Developer Tools | 1.0.0 | Touba language support: compiler diagnostics, completion, navigation and execut… |
-| 2026-10-20 00:24:14 | [phuong-tran.xls-preview](https://marketplace.visualstudio.com/items?itemName=phuong-tran.xls-preview) | XLS Preview | 0.0.1 | Preview .xls and .xlsx files directly in VS Code |
-| 2026-10-20 00:45:01 | [MateusCamargo.npm-dev-button](https://marketplace.visualstudio.com/items?itemName=MateusCamargo.npm-dev-button) | NPM Dev Button for Status Bar | 0.5.1 | Status bar button that runs 'npm run dev' in a custom terminal and opens the se… |
+| 2026-10-20 01:25:46 | [trav1snguyen.graphyfy](https://marketplace.visualstudio.com/items?itemName=trav1snguyen.graphyfy) | Graphyfy | 0.1.0 | See how a TypeScript or JavaScript codebase fits together: an interactive graph… |
+| 2026-10-20 01:27:34 | [spencerjcoward.paste-buffer](https://marketplace.visualstudio.com/items?itemName=spencerjcoward.paste-buffer) | Paste Buffer | 0.1.0 | Clipboard history manager with QuickPick cycling |
+| 2026-10-20 01:28:01 | [tora-ai.tora-code](https://marketplace.visualstudio.com/items?itemName=tora-ai.tora-code) | Tora Code | 1.0.0 | Autonomous AI dev team & coding assistant powered by Tora AI. |
+| 2026-10-20 01:47:28 | [keil-file-importer.keil-file-importer](https://marketplace.visualstudio.com/items?itemName=keil-file-importer.keil-file-importer) | Keil File Importer | 1.0.2 | 向 Keil uVision uvprojx 指定分组导入 C/H 文件，兼容 Keil Assistant Community Fork。 |
+| 2026-10-20 02:14:28 | [aimdev.GitEye](https://marketplace.visualstudio.com/items?itemName=aimdev.GitEye) | GitEye | 2.2.0 | View a graph of your repository's Git history, and perform Git actions from the… |
 
 ## Data source
 
