@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 02:19 UTC
+## Latest list — 2026-10-20 03:20 UTC
 
-New extensions published between 2026-10-20 00:19 UTC and 2026-10-20 02:19 UTC.
+New extensions published between 2026-10-20 01:20 UTC and 2026-10-20 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T02-19-37-895548Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T03-20-57-970059Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 01:25:46 | [trav1snguyen.graphyfy](https://marketplace.visualstudio.com/items?itemName=trav1snguyen.graphyfy) | Graphyfy | 0.1.0 | See how a TypeScript or JavaScript codebase fits together: an interactive graph… |
-| 2026-10-20 01:27:34 | [spencerjcoward.paste-buffer](https://marketplace.visualstudio.com/items?itemName=spencerjcoward.paste-buffer) | Paste Buffer | 0.1.0 | Clipboard history manager with QuickPick cycling |
-| 2026-10-20 01:28:01 | [tora-ai.tora-code](https://marketplace.visualstudio.com/items?itemName=tora-ai.tora-code) | Tora Code | 1.0.0 | Autonomous AI dev team & coding assistant powered by Tora AI. |
-| 2026-10-20 01:47:28 | [keil-file-importer.keil-file-importer](https://marketplace.visualstudio.com/items?itemName=keil-file-importer.keil-file-importer) | Keil File Importer | 1.0.2 | 向 Keil uVision uvprojx 指定分组导入 C/H 文件，兼容 Keil Assistant Community Fork。 |
-| 2026-10-20 02:14:28 | [aimdev.GitEye](https://marketplace.visualstudio.com/items?itemName=aimdev.GitEye) | GitEye | 2.2.0 | View a graph of your repository's Git history, and perform Git actions from the… |
+| 2026-10-20 02:19:12 | [aimdev.GitPlot](https://marketplace.visualstudio.com/items?itemName=aimdev.GitPlot) | GitPlot | 2.2.0 | View a graph of your repository's Git history, and perform Git actions from the… |
+| 2026-10-20 02:27:04 | [lxl66566.vim2-lxl66566](https://marketplace.visualstudio.com/items?itemName=lxl66566.vim2-lxl66566) | Vim-CN-lxl66566 | 2.0.0 | VSCodeVim fork with bug fixes and Chinese optimization |
+| 2026-10-20 02:32:45 | [aimdev.gitap](https://marketplace.visualstudio.com/items?itemName=aimdev.gitap) | Gitap | 2.2.0 | View a graph of your repository's Git history, and perform Git actions from the… |
+| 2026-10-20 03:06:51 | [Anmol.salesforce-helping-hands](https://marketplace.visualstudio.com/items?itemName=Anmol.salesforce-helping-hands) | Salesforce Helping Hands | 1.2.0 | View and manage Salesforce developer logs with auto-refresh and filtering capab… |
 
 ## Data source
 
