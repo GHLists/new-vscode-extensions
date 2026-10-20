@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T17:19:40.5Z,serafingerald.slideit-vscode,serafingerald,slideit,0.2.1,"Syntax highlighting, diagnostics, completion and a live preview for .slide presentations"
+2026-10-20T17:29:22.01Z,JooPedroAlvesSantos.brava-lang,JooPedroAlvesSantos,Linguagem Brava,1.5.0,Suporte completo de realce de sintaxe estilo Python e ícones funcionais para .bv
+2026-10-20T17:31:05.273Z,ivanrojasdev.php-laravel-blade-livewire-formatter,ivanrojasdev,PHP Laravel Blade Livewire Formatter,1.0.1,"All-in-one PHP and Blade formatter featuring PSR-12 compliance, Tailwind integration, and smart Livewire 4 autocompletion."
+2026-10-20T17:31:15.74Z,murtazabaig.artify,murtazabaig,Artify,0.11.3,"Color themes and live abstract artwork for VS Code, plus Artify Play: endless shard art, puzzles, paint and a shape studio, all saveable, to play with while you wait."
+2026-10-20T17:37:59.877Z,ogroprojukti.baton,ogroprojukti,Baton,0.0.1,Route coding tasks from your VS Code sidebar.
+2026-10-20T17:39:09.783Z,rxsystms.spud,rxsystms,spud,0.0.13,Custom YAML validation for business-process-as-code and user-journey-as-code files
+2026-10-20T17:52:59.363Z,gyanupadhyay.releaselens-ai,gyanupadhyay,ReleaseLens AI,0.2.0,Record verified Android and web release demos from reviewed scenarios.
+2026-10-20T17:57:49.533Z,edziegle.dear-reviewer,edziegle,Dear Reviewer,0.7.0,"A workbench for reviewing Changes, with real code navigation on both sides of the diff."
+2026-10-20T18:12:21.483Z,mgrabina.address-explorer,mgrabina,Address Explorer,0.0.3,Hover an EVM address to see what's at it on every chain.
