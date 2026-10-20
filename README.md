@@ -12,22 +12,31 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 20:20 UTC
+## Latest list — 2026-10-20 21:21 UTC
 
-New extensions published between 2026-10-20 18:20 UTC and 2026-10-20 20:20 UTC.
+New extensions published between 2026-10-20 19:21 UTC and 2026-10-20 21:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T20-20-04-109581Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T21-21-16-779269Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 19:19:46 | [DevLaunch.devlaunch](https://marketplace.visualstudio.com/items?itemName=DevLaunch.devlaunch) | DevLaunch | 0.0.1 | Generate React, Node.js, and Express projects from templates directly in VS Cod… |
-| 2026-10-20 19:23:22 | [MoorCode.moringcode](https://marketplace.visualstudio.com/items?itemName=MoorCode.moringcode) | MoringCode | 3.0.8 | 多模型 AI 开发工作台：对话、代码任务、工具审批、联网搜索、会话管理与手机连接 |
-| 2026-10-20 19:23:25 | [jgkd.ansible-module-assist](https://marketplace.visualstudio.com/items?itemName=jgkd.ansible-module-assist) | Ansible Module Assist | 0.3.2 | Dot-triggered IntelliSense for Ansible playbooks: ansible.builtin, ansible.posi… |
-| 2026-10-20 19:41:10 | [arup-digital-products.oasys-lsdyna-api](https://marketplace.visualstudio.com/items?itemName=arup-digital-products.oasys-lsdyna-api) | Oasys LS-DYNA API | 23.1.10 | Intellisense for the Oasys LS-DYNA Environment JavaScript API in VS Code |
-| 2026-10-20 19:45:02 | [Acalaes.agenda-bar](https://marketplace.visualstudio.com/items?itemName=Acalaes.agenda-bar) | Agenda Bar | 0.5.0 | Veja no rodapé a tarefa atual, o tempo que falta e o tempo livre do dia, com o… |
-| 2026-10-20 19:45:47 | [jubr.variant-worktrees](https://marketplace.visualstudio.com/items?itemName=jubr.variant-worktrees) | Variant Worktrees | 0.0.1 | Variant Worktrees VS Code extension |
-| 2026-10-20 19:46:24 | [synkronyx.synkronyx-image](https://marketplace.visualstudio.com/items?itemName=synkronyx.synkronyx-image) | Synkronyx Image | 1.0.1 | Local image editing for crop, resize, transform, conversion, and compression in… |
-| 2026-10-20 20:06:56 | [CodeAIAssistant.CodeAIAssistant](https://marketplace.visualstudio.com/items?itemName=CodeAIAssistant.CodeAIAssistant) | CodeAIAssistant | 1.1.0 | AI-powered coding assistant for Visual Studio Code. Provides natural language c… |
+| 2026-10-20 20:21:57 | [clumsyboss.account-switcher-claude-code](https://marketplace.visualstudio.com/items?itemName=clumsyboss.account-switcher-claude-code) | Switcher for Claude Code | 1.2.0 | Switch between Claude accounts in VS Code, see every account's limits, and pin… |
+| 2026-10-20 20:22:07 | [Xbmkoo.cpp-clangd-complete-fixer](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.cpp-clangd-complete-fixer) | C++ clangd 补全修复 | 0.0.1 | 修复使用 clangd 插件时遇到的一些补全问题 |
+| 2026-10-20 20:30:01 | [vk-en.lustre-review-helper](https://marketplace.visualstudio.com/items?itemName=vk-en.lustre-review-helper) | Lustre Review Helper | 0.1.0 | Review Lustre commits with Codex, Claude Code, or Augment, with live usage stat… |
+| 2026-10-20 20:33:07 | [SolaireFR.clean-git-branch](https://marketplace.visualstudio.com/items?itemName=SolaireFR.clean-git-branch) | Clean Git Branch | 1.4.2 | Visually manage and clean up local Git branches that are no longer needed |
+| 2026-10-20 20:40:11 | [rafaelwms.markdownup-vscode](https://marketplace.visualstudio.com/items?itemName=rafaelwms.markdownup-vscode) | MarkdownUp | 0.1.1 | Convert between Markdown and Jira Wiki Markup from the right-click menu. |
+| 2026-10-20 20:40:58 | [Andratech.orchester](https://marketplace.visualstudio.com/items?itemName=Andratech.orchester) | Orchester | 0.0.1 | Orquestra múltiplos agentes de IA (CLIs) por um canvas visual |
+| 2026-10-20 20:57:40 | [CybesisStudios.cybesis-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.cybesis-theme) | Cybesis Theme | 0.5.0 | Cybesis official color theme — dark & light. Sky #38bdf8 and brand cyan #00bdd6… |
+| 2026-10-20 20:58:01 | [feature-sliced.steiger-vscode](https://marketplace.visualstudio.com/items?itemName=feature-sliced.steiger-vscode) | steiger | 0.2.0 | steiger language server |
+| 2026-10-20 21:02:38 | [CybesisStudios.digitalrain-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.digitalrain-theme) | Digital Rain Theme | 0.5.0 | Digital Rain official color theme — dark & light. Rain green #00FF41 on a deep… |
+| 2026-10-20 21:02:53 | [CybesisStudios.gaze-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.gaze-theme) | Gaze Theme | 0.5.0 | Gaze official color theme — dark & light. Warm amber #d4a27a on a soft walnut d… |
+| 2026-10-20 21:03:05 | [CybesisStudios.getbossed-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.getbossed-theme) | Getbossed Theme | 0.5.0 | GET BOSSED official color theme — dark & light. Boss Red #d93816 / #be2f10 on w… |
+| 2026-10-20 21:03:17 | [CybesisStudios.grabnite-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.grabnite-theme) | Grabnite Theme | 0.5.0 | Grabnite official color theme — dark & light. Treasure gold #f59e0b and amber #… |
+| 2026-10-20 21:03:29 | [CybesisStudios.hobius-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.hobius-theme) | Hobius Theme | 0.5.0 | Hobius official color theme — dark & light. Brand blue #0066cc, header blue #3b… |
+| 2026-10-20 21:03:42 | [CybesisStudios.mousefy-theme](https://marketplace.visualstudio.com/items?itemName=CybesisStudios.mousefy-theme) | Mousefy Theme | 0.5.0 | Mousefy official color theme — dark & light. Mocha Warm: caramel #d4a574 on esp… |
+| 2026-10-20 21:07:38 | [meness.slashi](https://marketplace.visualstudio.com/items?itemName=meness.slashi) | Slashi — Slash Commands for Everything | 0.1.0 | One beautiful, keyboard-first popup to do 99% of your VS Code work with a slash… |
+| 2026-10-20 21:11:21 | [rtorralba.sinclair-basic](https://marketplace.visualstudio.com/items?itemName=rtorralba.sinclair-basic) | Sinclair BASIC | 1.0.0 | Sinclair BASIC language support for Visual Studio Code. Includes syntax highlig… |
+| 2026-10-20 21:12:25 | [ai-gatewey.ai-gatewey](https://marketplace.visualstudio.com/items?itemName=ai-gatewey.ai-gatewey) | AI Gateway (ai-gatewey.ru) | 0.1.0 | Модели AI Gateway во встроенном чате и agent mode VS Code. Оплата в рублях, без… |
 
 ## Data source
 

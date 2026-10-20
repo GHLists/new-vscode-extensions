@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T20:21:57.157Z,clumsyboss.account-switcher-claude-code,clumsyboss,Switcher for Claude Code,1.2.0,"Switch between Claude accounts in VS Code, see every account's limits, and pin folders to their own account."
+2026-10-20T20:22:07.073Z,Xbmkoo.cpp-clangd-complete-fixer,Xbmkoo,C++ clangd 补全修复,0.0.1,修复使用 clangd 插件时遇到的一些补全问题
+2026-10-20T20:30:01.827Z,vk-en.lustre-review-helper,vk-en,Lustre Review Helper,0.1.0,"Review Lustre commits with Codex, Claude Code, or Augment, with live usage statistics and MCP self-review."
+2026-10-20T20:33:07.73Z,SolaireFR.clean-git-branch,SolaireFR,Clean Git Branch,1.4.2,Visually manage and clean up local Git branches that are no longer needed
+2026-10-20T20:40:11.717Z,rafaelwms.markdownup-vscode,rafaelwms,MarkdownUp,0.1.1,Convert between Markdown and Jira Wiki Markup from the right-click menu.
+2026-10-20T20:40:58.527Z,Andratech.orchester,Andratech,Orchester,0.0.1,Orquestra múltiplos agentes de IA (CLIs) por um canvas visual
+2026-10-20T20:57:40.69Z,CybesisStudios.cybesis-theme,CybesisStudios,Cybesis Theme,0.5.0,"Cybesis official color theme — dark & light. Sky #38bdf8 and brand cyan #00bdd6 on deep navy #08131a, from cybesis.com."
+2026-10-20T20:58:01.277Z,feature-sliced.steiger-vscode,feature-sliced,steiger,0.2.0,steiger language server
+2026-10-20T21:02:38.517Z,CybesisStudios.digitalrain-theme,CybesisStudios,Digital Rain Theme,0.5.0,"Digital Rain official color theme — dark & light. Rain green #00FF41 on a deep terminal green, from the Digital Rain screensaver."
+2026-10-20T21:02:53.757Z,CybesisStudios.gaze-theme,CybesisStudios,Gaze Theme,0.5.0,"Gaze official color theme — dark & light. Warm amber #d4a27a on a soft walnut dark, and the parchment reading page with brown #6f5139, from gaze.ink."
+2026-10-20T21:03:05.74Z,CybesisStudios.getbossed-theme,CybesisStudios,Getbossed Theme,0.5.0,"GET BOSSED official color theme — dark & light. Boss Red #d93816 / #be2f10 on warm ink and ivory #f5f2ea — no blue, no gradients."
+2026-10-20T21:03:17.723Z,CybesisStudios.grabnite-theme,CybesisStudios,Grabnite Theme,0.5.0,"Grabnite official color theme — dark & light. Treasure gold #f59e0b and amber #d97706 on warm black #171411, from grabnite.com."
+2026-10-20T21:03:29.79Z,CybesisStudios.hobius-theme,CybesisStudios,Hobius Theme,0.5.0,"Hobius official color theme — dark & light. Brand blue #0066cc, header blue #3b5998 and teal #45ADA8."
+2026-10-20T21:03:42.02Z,CybesisStudios.mousefy-theme,CybesisStudios,Mousefy Theme,0.5.0,"Mousefy official color theme — dark & light. Mocha Warm: caramel #d4a574 on espresso #15110d, mocha #7c4a2c on cream."
+2026-10-20T21:07:38.517Z,meness.slashi,meness,Slashi — Slash Commands for Everything,0.1.0,"One beautiful, keyboard-first popup to do 99% of your VS Code work with a slash: files, settings, extensions, git, terminal, AI and your own commands."
+2026-10-20T21:11:21.367Z,rtorralba.sinclair-basic,rtorralba,Sinclair BASIC,1.0.0,"Sinclair BASIC language support for Visual Studio Code. Includes syntax highlighting, renumbering, optional modern syntax (jbas), TAP builder and emulator integration."
+2026-10-20T21:12:25.38Z,ai-gatewey.ai-gatewey,ai-gatewey,AI Gateway (ai-gatewey.ru),0.1.0,"Модели AI Gateway во встроенном чате и agent mode VS Code. Оплата в рублях, без VPN."
