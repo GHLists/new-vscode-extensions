@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T03:21:55.357Z,glyphcove.zenhan,glyphcove,GlyphCove Zenkaku/Hankaku (全角・半角変換),0.1.0,"Convert the selected text between full-width and half-width: alphanumerics, symbols and katakana. 選択した文字列の全角・半角を変換します。"
+2026-10-20T03:22:15.663Z,FreshWind.foam-unofficial,FreshWind,Foam Unofficial Features,0.46.2,Add some useful features to the original Foam extension. Callouts / Embedding audio and video with wikilink. Media format compatibility with VSCode.
+2026-10-20T03:25:10.143Z,zof-ai.zof-verification,zof-ai,Zof Local Verification,0.1.2,"Local static verification, impact analysis and portable evidence."
+2026-10-20T03:26:12.753Z,jcoc611.icoviewer,jcoc611,ICO Viewer,0.1.0,Inspect ICO icons and CUR cursors. Preview every size and export PNGs.
+2026-10-20T03:28:08.11Z,guitar-dev-io.adb-connect-vscode,guitar-dev-io,ADB Connect — Wireless Android Debugging,0.2.3,"Wireless Android debugging over Wi-Fi — no USB cable. One-click ADB pairing and connect: real QR pairing, six-digit code pairing, mDNS discovery, device manager and smart auto-reconnect."
+2026-10-20T03:48:13.773Z,MilkteaTW1.bug-zoo-vscode,MilkteaTW1,Bug Zoo,0.1.0,Your failing terminal commands become little monsters that roam around VS Code. Fix the bug to catch them.
+2026-10-20T03:52:33.93Z,ReadyStack.mysql84-upgrade-blocker-lint,ReadyStack,MySQL 8.4 Upgrade Lint (RDS MySQL 8.0),1.0.3,"Flags SQL, my.cnf and parameter-group lines that MySQL 8.4 removed (SHOW SLAVE STATUS, CHANGE MASTER TO, default_authentication_plugin) so an RDS MySQL 8.0 upgrade does not break."
+2026-10-20T03:54:04.3Z,rehearsal-db.rehearsal-db,rehearsal-db,Rehearsal DB,0.1.19,See whether database changes are ready for a safe local rehearsal without memorizing CLI commands.
+2026-10-20T04:01:06.02Z,nak-developer.nak-theme-pack,nak-developer,Nak Theme Pack,3.0.0,"Three vivid prismatic VS Code themes with colorful syntax, rainbow brackets, and electric UI accents."
