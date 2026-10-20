@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-20 00:20 UTC
+## Latest list — 2026-10-20 01:20 UTC
 
-New extensions published between 2026-10-19 22:20 UTC and 2026-10-20 00:20 UTC.
+New extensions published between 2026-10-19 23:20 UTC and 2026-10-20 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-20T00-20-38-814167Z.csv)
+[Full CSV](data/new-extensions-2026-10-20T01-20-53-620764Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-19 22:56:40 | [ciamac-davoudi.nebula-drift-dusk](https://marketplace.visualstudio.com/items?itemName=ciamac-davoudi.nebula-drift-dusk) | Nebula Drift Dusk | 0.0.2 | A dark deep-navy and magenta color theme with a space-themed file icon set: com… |
-| 2026-10-19 23:43:23 | [AlexanderGolys.macaulay2-language-server](https://marketplace.visualstudio.com/items?itemName=AlexanderGolys.macaulay2-language-server) | Macaulay2 LSP | 1.0.7 | Macaulay2 language support powered by m2-ls |
-| 2026-10-19 23:59:48 | [edward-assaf.irisscript-language-support](https://marketplace.visualstudio.com/items?itemName=edward-assaf.irisscript-language-support) | IrisScript Runner and Syntax Checker | 0.0.1 | Language support, syntax highlighting, diagnostics, and runner for IrisScript |
-| 2026-10-20 00:06:57 | [artem-isamiddinov.php-get-set-generator](https://marketplace.visualstudio.com/items?itemName=artem-isamiddinov.php-get-set-generator) | PHP Getters & Setters Generator | 1.0.0 | Smart and automated PHP getters and setters generator with full support for PHP… |
+| 2026-10-19 23:38:23 | [live-by-unix.autosemicolon](https://marketplace.visualstudio.com/items?itemName=live-by-unix.autosemicolon) | Auto | 1.0.0 | Smart, automatic semicolon insertion for C-style programming languages |
+| 2026-10-20 00:18:45 | [empiriolabs.empiriolabs-vscode-chat](https://marketplace.visualstudio.com/items?itemName=empiriolabs.empiriolabs-vscode-chat) | EmpirioLabs AI for Copilot Chat | 0.1.0 | Use EmpirioLabs AI models in GitHub Copilot Chat, with streaming, tool calling… |
+| 2026-10-20 00:19:06 | [Ringo3Apples.gmsh-preview](https://marketplace.visualstudio.com/items?itemName=Ringo3Apples.gmsh-preview) | Gmsh (Language Support & 3D Preview) | 0.2.0 | Comprehensive Gmsh language support (IntelliSense autocompletion, snippets, hov… |
+| 2026-10-20 00:22:18 | [Khadimlo.touba-vscode](https://marketplace.visualstudio.com/items?itemName=Khadimlo.touba-vscode) | Touba Developer Tools | 1.0.0 | Touba language support: compiler diagnostics, completion, navigation and execut… |
+| 2026-10-20 00:24:14 | [phuong-tran.xls-preview](https://marketplace.visualstudio.com/items?itemName=phuong-tran.xls-preview) | XLS Preview | 0.0.1 | Preview .xls and .xlsx files directly in VS Code |
+| 2026-10-20 00:45:01 | [MateusCamargo.npm-dev-button](https://marketplace.visualstudio.com/items?itemName=MateusCamargo.npm-dev-button) | NPM Dev Button for Status Bar | 0.5.1 | Status bar button that runs 'npm run dev' in a custom terminal and opens the se… |
 
 ## Data source
 

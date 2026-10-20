@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-19T23:38:23.827Z,live-by-unix.autosemicolon,live-by-unix,Auto,1.0.0,"Smart, automatic semicolon insertion for C-style programming languages"
+2026-10-20T00:18:45.257Z,empiriolabs.empiriolabs-vscode-chat,empiriolabs,EmpirioLabs AI for Copilot Chat,0.1.0,"Use EmpirioLabs AI models in GitHub Copilot Chat, with streaming, tool calling for agent mode and image input."
+2026-10-20T00:19:06.937Z,Ringo3Apples.gmsh-preview,Ringo3Apples,Gmsh (Language Support & 3D Preview),0.2.0,"Comprehensive Gmsh language support (IntelliSense autocompletion, snippets, hover docs) with real-time interactive 3D mesh preview"
+2026-10-20T00:22:18.09Z,Khadimlo.touba-vscode,Khadimlo,Touba Developer Tools,1.0.0,"Touba language support: compiler diagnostics, completion, navigation and execution traces for governed agent programs."
+2026-10-20T00:24:14.397Z,phuong-tran.xls-preview,phuong-tran,XLS Preview,0.0.1,Preview .xls and .xlsx files directly in VS Code
+2026-10-20T00:45:01.03Z,MateusCamargo.npm-dev-button,MateusCamargo,NPM Dev Button for Status Bar,0.5.1,Status bar button that runs 'npm run dev' in a custom terminal and opens the server in your browser.
