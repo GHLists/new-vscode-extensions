@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-20T11:10:34.403Z,QASignOff.qasignoff-vscode-extension,QASignOff,Signoff Studio — API Client & Database Workbench,0.2.68,"Local-first REST, GraphQL, WebSocket, SSE, gRPC & MQTT API client, OpenAPI mocks, collection runner, and SQL database workbench (Postgres, MySQL, MSSQL, Oracle, SQLite) for VS Code."
+2026-10-20T11:35:14.05Z,naveenkumar08.testrail-hover,naveenkumar08,TestRail Hover,0.0.1,View TestRail case details by hovering over case IDs in VS Code.
+2026-10-20T11:46:32.83Z,AmadeusITGroup.ai-dlc-studio,AmadeusITGroup,AI-DLC Studio,0.7.0,"Accelerate AI-Driven Development Life Cycle workflows in Kiro/VS Code — guided setup, workflow orchestration, progress tracking, and standards enforcement."
+2026-10-20T11:48:25.447Z,DavidFischer.cpp-schulung,DavidFischer,C++ Schulung: Bauen & Starten,1.2.1,"Kompiliert C++- und C-Programme mit einem Klick: ganzes Projekt oder nur die geöffnete Datei. Eigenes Programmfenster, Debugger, Projektvorlagen."
+2026-10-20T11:54:24.707Z,Membrella.membrella-deadlock-vscode,Membrella,Membrella Lua API for Deadlock,1.0.0,Support for the Deadlock Lua API used by Membrella
+2026-10-20T11:56:13.503Z,Membrella.membrella-dota-vscode,Membrella,Membrella Lua API,1.0.0,Support for the Dota 2 Lua API used by Membrella
+2026-10-20T11:59:39.753Z,dauhuniec.dauhuniec,dauhuniec,Dauhuniec,0.1.0,"Dauhuniec: build, flash and debug STM32 CubeMX projects in VS Code with the lon CLI."
+2026-10-20T12:14:44.133Z,unfalltable.closeai-workbench,unfalltable,CloseAI 助手,0.2.0,在 VS Code 侧栏使用 CloseAI 聊天，共用项目、任务和模型账号；登录购买在浏览器完成。
+2026-10-20T12:17:17.9Z,luceemy.cfml-assist,luceemy,CFML Assist — Lucee Malaysia,0.6.0,"Penyiapan, hover, diagnostik, signature help dan format untuk CFML/Lucee, dijana daripada metadata enjin: 783 fungsi, 112 tag. Oleh komuniti lucee.my."
