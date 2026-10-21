@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T17:19:35.47Z,ramazanmuslu.ramazanmuslu-ollamachat,ramazanmuslu,Local Ollama Chat Agent,0.0.3,A chat panel for local LLM support with ollama
+2026-10-21T17:30:43.427Z,AyuSharma-dev.claude-team-sync,AyuSharma-dev,Claude Team Sync,0.1.1,Share Claude Code session handoffs across the team via a git-hosted CSV and feed them back into Claude's context.
+2026-10-21T17:30:53.713Z,Azzam.packageawy,Azzam,Packageawy: npm & pnpm Upgrade Assistant,0.9.0,"Audit, review, upgrade, and clean npm or pnpm dependencies safely inside VS Code."
+2026-10-21T17:39:51.557Z,backmatter.citet,backmatter,Citet,0.1.0,"Local LaTeX editing, texe builds, PDF viewing and optional Citet collaboration."
+2026-10-21T17:50:09.513Z,RishiShandilyaFrontTerrain.frontlang,RishiShandilyaFrontTerrain,FrontLang Language Support,0.1.1,"Official syntax highlighting, auto-indentation, snippets, and language support for FrontLang (.ft)"
+2026-10-21T18:03:57.4Z,Castov.mcp-inspector-castov,Castov,MCP Inspector & Debugger - Castov,0.1.0,"Interactive tester, schema validator, live JSON-RPC traffic logger & security scanner for Model Context Protocol (MCP) servers in VS Code & Cursor."
+2026-10-21T18:05:11.667Z,Castov.webhook-catcher-castov,Castov,Webhook Catcher - Castov,0.1.0,"Local webhook receiver & replay debugger for Stripe, GitHub, Shopify & APIs. Inspect headers, payloads, verify signatures, and replay to localhost directly from VS Code."
+2026-10-21T18:05:37.057Z,Castov.token-lens-castov,Castov,LLM Token & Cost Lens - Castov,0.1.0,"Real-time token counter & LLM cost estimator for Claude, GPT-4o, Gemini, and DeepSeek. Features CodeLens, hover inspector, context window tracker, and cost comparisons."
+2026-10-21T18:06:00.8Z,Castov.env-doctor-castov,Castov,Env Doctor - Castov,0.1.0,"Audit, compare, sync & fix .env vs .env.example vs code. Detect missing, dead, duplicate, and leaked environment variables."
+2026-10-21T18:06:27.057Z,Castov.prompt-tester-castov,Castov,Prompt Regression Tester - Castov,0.1.0,"Automated prompt regression testing & assertion framework for LLMs in VS Code. Run .prompt.yaml tests, assert outputs, compare model responses, and track prompt drift."
+2026-10-21T18:06:47.217Z,Castov.chaos-proxy-castov,Castov,Chaos Proxy - Castov,0.1.0,"Local HTTP proxy & fault injector for resilience testing: inject 429 rate limits, 500/502 errors, custom latency, and mock payloads directly from VS Code."
+2026-10-21T18:07:48.16Z,Castov.ai-blame-castov,Castov,AI Blame - Castov,0.1.0,"Visualize lines of code authored by AI agents (Cursor Composer, Claude Code, Copilot, Aider, Devin) vs human developers with inline annotations & workspace analytics."
+2026-10-21T18:16:07.723Z,petervdpas.clarity-designer,petervdpas,Clarity Designer,0.1.0,"Colors, snippets and a file icon for Clarity files (.clarity): the language of the Clarity designer."
