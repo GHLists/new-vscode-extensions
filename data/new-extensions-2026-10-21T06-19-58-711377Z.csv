@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T05:18:48.607Z,santafe.santafe,santafe,Santafé,1.0.7,"Sintaxe, conclusões, navegação local e diagnósticos para Santafé."
+2026-10-21T05:23:37.35Z,Opengates.ola-code,Opengates,Ola Code,0.1.0,Autonomous AI coding agent and multi-agent developer workspace powered by Opengates.
+2026-10-21T05:32:15.993Z,jenna-studio.black-prism,jenna-studio,Black Prism,0.1.2,"A high-contrast charcoal-gray theme with vivid pink, mint, amber, violet, cyan, and peach syntax."
+2026-10-21T05:45:13.867Z,diffwise.diffwise-ai,diffwise,DiffWise - AI Code Diff Reviewer,0.5.0,"Visual diff review panel for AI coding agents. Accept/reject changes at file, hunk, and line level. Auto-detect file saves, side-by-side view, search, risk scoring, undo/redo, apply to disk, and more."
+2026-10-21T06:07:40.823Z,lmtomorrow.lm-md,lmtomorrow,LM Markdown Copilot Preview,0.2.28,Selectable Markdown preview that syncs source ranges to native Copilot Chat.
+2026-10-21T06:08:39.277Z,xixici.lfai,xixici,LFAI — Learning From AI,0.1.0,从每日代码变更与 AI 交互中提炼核心考点、架构权衡与自测卡片，告别 AI 时代技能空心化。
+2026-10-21T06:09:31.66Z,jenna-studio.cute-cupcake,jenna-studio,Cute Cupcake,1.0.1,"A sweet pastel light theme with a buttercream editor, pink frosting title bar, periwinkle sidebar, and colorful syntax."
+2026-10-21T06:13:21.4Z,greenoceanplanet.bar-claude-meter-vscode,greenoceanplanet,Claude Usage Bar Meter,0.1.0,Claude 5-hour / weekly usage limits as bars in the VS Code status bar

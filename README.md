@@ -12,19 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 05:21 UTC
+## Latest list — 2026-10-21 06:19 UTC
 
-New extensions published between 2026-10-21 03:21 UTC and 2026-10-21 05:21 UTC.
+New extensions published between 2026-10-21 04:19 UTC and 2026-10-21 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T05-21-06-754422Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T06-19-58-711377Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 04:22:44 | [ksanjeev9211.vscode-maven-dependency-hierarchy](https://marketplace.visualstudio.com/items?itemName=ksanjeev9211.vscode-maven-dependency-hierarchy) | Maven Dependency Hierarchy | 0.0.1 | Eclipse m2e style Dependency Hierarchy and Conflict view for VS Code |
-| 2026-10-21 04:48:54 | [hqg.hqg-backtester](https://marketplace.visualstudio.com/items?itemName=hqg.hqg-backtester) | HQG Backtester | 0.1.1 | Run HQG backtests from VS Code and see the results beside your strategy. |
-| 2026-10-21 05:14:19 | [11087627181.dart-class-toolkit](https://marketplace.visualstudio.com/items?itemName=11087627181.dart-class-toolkit) | Dart Class Toolkit | 0.1.0 | Genera constructores, serialización JSON y accesores para clases Dart desde el… |
-| 2026-10-21 05:16:13 | [taein-yoon.ai-in-one](https://marketplace.visualstudio.com/items?itemName=taein-yoon.ai-in-one) | AI in One | 0.1.0 | 여러 AI 코딩 에이전트를 메신저처럼 한 곳에서. 구독은 그대로, 대화는 에이전트 사이를 넘나들며. |
-| 2026-10-21 05:18:04 | [jenna-studio.graphite-prism](https://marketplace.visualstudio.com/items?itemName=jenna-studio.graphite-prism) | Graphite Prism | 0.1.1 | A high-contrast charcoal-gray theme with vivid pink, mint, amber, violet, cyan,… |
+| 2026-10-21 05:18:48 | [santafe.santafe](https://marketplace.visualstudio.com/items?itemName=santafe.santafe) | Santafé | 1.0.7 | Sintaxe, conclusões, navegação local e diagnósticos para Santafé. |
+| 2026-10-21 05:23:37 | [Opengates.ola-code](https://marketplace.visualstudio.com/items?itemName=Opengates.ola-code) | Ola Code | 0.1.0 | Autonomous AI coding agent and multi-agent developer workspace powered by Openg… |
+| 2026-10-21 05:32:15 | [jenna-studio.black-prism](https://marketplace.visualstudio.com/items?itemName=jenna-studio.black-prism) | Black Prism | 0.1.2 | A high-contrast charcoal-gray theme with vivid pink, mint, amber, violet, cyan,… |
+| 2026-10-21 05:45:13 | [diffwise.diffwise-ai](https://marketplace.visualstudio.com/items?itemName=diffwise.diffwise-ai) | DiffWise - AI Code Diff Reviewer | 0.5.0 | Visual diff review panel for AI coding agents. Accept/reject changes at file, h… |
+| 2026-10-21 06:07:40 | [lmtomorrow.lm-md](https://marketplace.visualstudio.com/items?itemName=lmtomorrow.lm-md) | LM Markdown Copilot Preview | 0.2.28 | Selectable Markdown preview that syncs source ranges to native Copilot Chat. |
+| 2026-10-21 06:08:39 | [xixici.lfai](https://marketplace.visualstudio.com/items?itemName=xixici.lfai) | LFAI — Learning From AI | 0.1.0 | 从每日代码变更与 AI 交互中提炼核心考点、架构权衡与自测卡片，告别 AI 时代技能空心化。 |
+| 2026-10-21 06:09:31 | [jenna-studio.cute-cupcake](https://marketplace.visualstudio.com/items?itemName=jenna-studio.cute-cupcake) | Cute Cupcake | 1.0.1 | A sweet pastel light theme with a buttercream editor, pink frosting title bar,… |
+| 2026-10-21 06:13:21 | [greenoceanplanet.bar-claude-meter-vscode](https://marketplace.visualstudio.com/items?itemName=greenoceanplanet.bar-claude-meter-vscode) | Claude Usage Bar Meter | 0.1.0 | Claude 5-hour / weekly usage limits as bars in the VS Code status bar |
 
 ## Data source
 
