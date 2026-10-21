@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T13:26:35.217Z,JohanRong.zelkel,JohanRong,Zelkel,0.1.2,
+2026-10-21T13:28:42.177Z,Antmicro.renode,Antmicro,Renode,0.0.6,Use Renode from within VS Code
+2026-10-21T13:28:54.923Z,MoTeam.waka-selfhost,MoTeam,waka-selfhost,0.3.4,把编码活动上报到自建的 WakaTime 兼容服务端，不依赖 wakatime-cli
+2026-10-21T13:33:48.46Z,KonstantinSofeikov.mdiff,KonstantinSofeikov,Markdown Rendered Diff,0.4.1,"Shows the diff of a Markdown file as rendered output, next to the source diff."
+2026-10-21T13:35:13.733Z,embedded-sw.mapscope,embedded-sw,MapScope,1.0.0,"Embedded MAP file analyzer with treemap / bar / pie / table / TopN / CallGraph views and HTML report export. Supports GNU ld, IAR EWARM, Greenhills RH850, Keil, HighTec and TASKING map files. Self-contained TypeScript parser, no external runtime dependency."
+2026-10-21T13:41:58.207Z,petertzy.deeplocal-chat-adapter,petertzy,deeplocal-chat-adapter,0.1.0,Connect DeepLocal OpenAI-compatible models to VS Code.
+2026-10-21T13:44:22.247Z,guousui.typing-demon,guousui,sound-siki — タイピングのリズムに寄り添う環境音,0.1.0,エディタの打鍵リズムに合わせて電車や蝉などの環境音をリアルタイム合成します。音声ファイル 0 バイト。
+2026-10-21T13:50:51.957Z,GuillaumeCancalon.draw-me-database-pro,GuillaumeCancalon,"DrawMeDatabase Pro: Schema Diff, Database Drift and History",1.1.5,"Compare the database schema of your Laravel, Symfony, Prisma, Drizzle or SQL project with a git branch or a live database, replay its history, check it, and export it as SQL, DBML, PlantUML, TypeScript or HTML docs. Design tables and write their Laravel migrations, Doctrine entities and Eloquent mod"

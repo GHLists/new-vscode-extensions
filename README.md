@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 13:21 UTC
+## Latest list — 2026-10-21 14:19 UTC
 
-New extensions published between 2026-10-21 11:21 UTC and 2026-10-21 13:21 UTC.
+New extensions published between 2026-10-21 12:19 UTC and 2026-10-21 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T13-21-48-72251Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T14-19-41-834763Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 12:26:08 | [sgdev.vsx-glow](https://marketplace.visualstudio.com/items?itemName=sgdev.vsx-glow) | VSx Glow | 0.1.1 | A Neovim-inspired dark theme blending One Dark Pro and Dracula Official. Develo… |
-| 2026-10-21 12:33:57 | [benisalla.coflow](https://marketplace.visualstudio.com/items?itemName=benisalla.coflow) | Coflow: Code Map | 0.5.0 | See how your code runs: a zoomable map from the whole system down to every line… |
-| 2026-10-21 12:46:07 | [metafacture.metafacture-flux](https://marketplace.visualstudio.com/items?itemName=metafacture.metafacture-flux) | Metafacture Flux | 1.0.0 | Language Support for Metafacture Flux. For more information, visit https://meta… |
-| 2026-10-21 12:48:30 | [mca-software.delphi-debugger](https://marketplace.visualstudio.com/items?itemName=mca-software.delphi-debugger) | Delphi Debugger | 0.7.1 | Debug Delphi Win32/Win64 applications in VS Code, outside the RAD Studio IDE; a… |
-| 2026-10-21 12:49:34 | [Saix93.csharp-auto-parens](https://marketplace.visualstudio.com/items?itemName=Saix93.csharp-auto-parens) | C# Auto Parens | 0.1.0 | Adds '()' when a method is accepted from the completion list, except when it is… |
-| 2026-10-21 12:49:42 | [Saix93.csharp-auto-suggest](https://marketplace.visualstudio.com/items?itemName=Saix93.csharp-auto-suggest) | C# Auto Suggest | 0.1.0 | Rider-like completion: opens the suggestion list as soon as a new identifier st… |
-| 2026-10-21 12:49:48 | [Saix93.csharp-smart-semicolon](https://marketplace.visualstudio.com/items?itemName=Saix93.csharp-smart-semicolon) | C# Smart Semicolon | 0.1.0 | Rider-like smart semicolon: typing ';' inside parentheses moves it to the end o… |
-| 2026-10-21 12:51:17 | [YARLIS.markupme-vscode](https://marketplace.visualstudio.com/items?itemName=YARLIS.markupme-vscode) | MarkupMe | 0.1.0 | Standards-first Markdown for VS Code: a live preview with Blueprint, Graphviz a… |
-| 2026-10-21 12:59:25 | [huntrole.assessment-tool](https://marketplace.visualstudio.com/items?itemName=huntrole.assessment-tool) | Assessment Tool | 1.0.0 | A VS Code extension for timed technical assessments and workspace-based coding… |
-| 2026-10-21 13:00:08 | [vasikmansuri.saffron-atelier](https://marketplace.visualstudio.com/items?itemName=vasikmansuri.saffron-atelier) | Saffron Atelier | 1.3.0 | A warm cream & beige light theme with muted olive, soft blue and terracotta acc… |
-| 2026-10-21 13:09:33 | [AGI-S.agis-codex](https://marketplace.visualstudio.com/items?itemName=AGI-S.agis-codex) | AGI-S | 1.0.0 | AGI-S in your editor: ask, explain, and edit code in place. |
+| 2026-10-21 13:26:35 | [JohanRong.zelkel](https://marketplace.visualstudio.com/items?itemName=JohanRong.zelkel) | Zelkel | 0.1.2 |  |
+| 2026-10-21 13:28:42 | [Antmicro.renode](https://marketplace.visualstudio.com/items?itemName=Antmicro.renode) | Renode | 0.0.6 | Use Renode from within VS Code |
+| 2026-10-21 13:28:54 | [MoTeam.waka-selfhost](https://marketplace.visualstudio.com/items?itemName=MoTeam.waka-selfhost) | waka-selfhost | 0.3.4 | 把编码活动上报到自建的 WakaTime 兼容服务端，不依赖 wakatime-cli |
+| 2026-10-21 13:33:48 | [KonstantinSofeikov.mdiff](https://marketplace.visualstudio.com/items?itemName=KonstantinSofeikov.mdiff) | Markdown Rendered Diff | 0.4.1 | Shows the diff of a Markdown file as rendered output, next to the source diff. |
+| 2026-10-21 13:35:13 | [embedded-sw.mapscope](https://marketplace.visualstudio.com/items?itemName=embedded-sw.mapscope) | MapScope | 1.0.0 | Embedded MAP file analyzer with treemap / bar / pie / table / TopN / CallGraph… |
+| 2026-10-21 13:41:58 | [petertzy.deeplocal-chat-adapter](https://marketplace.visualstudio.com/items?itemName=petertzy.deeplocal-chat-adapter) | deeplocal-chat-adapter | 0.1.0 | Connect DeepLocal OpenAI-compatible models to VS Code. |
+| 2026-10-21 13:44:22 | [guousui.typing-demon](https://marketplace.visualstudio.com/items?itemName=guousui.typing-demon) | sound-siki — タイピングのリズムに寄り添う環境音 | 0.1.0 | エディタの打鍵リズムに合わせて電車や蝉などの環境音をリアルタイム合成します。音声ファイル 0 バイト。 |
+| 2026-10-21 13:50:51 | [GuillaumeCancalon.draw-me-database-pro](https://marketplace.visualstudio.com/items?itemName=GuillaumeCancalon.draw-me-database-pro) | DrawMeDatabase Pro: Schema Diff, Databa… | 1.1.5 | Compare the database schema of your Laravel, Symfony, Prisma, Drizzle or SQL pr… |
 
 ## Data source
 
