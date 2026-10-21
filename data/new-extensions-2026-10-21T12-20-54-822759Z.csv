@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T11:15:59.087Z,melvinbalajadia.project-drift,melvinbalajadia,Project Drift,1.0.1,"Find comments your code has outgrown. Flags code comments that have fallen out of sync with the code they describe, using git history."
+2026-10-21T11:50:31.333Z,Reqnroll.reqnroll-ide-support-vscode,Reqnroll,Reqnroll Extension for Visual Studio Code (Preview),2026.1.1494,"[Preview] Support for Reqnroll & Gherkin — syntax highlighting, navigation, completion, and more."
+2026-10-21T11:52:31.567Z,GauravWardhekar.smart-cucumber-behave,GauravWardhekar,Smart Cucumber-Behave,1.0.0,"Comprehensive Cucumber & Behave support for VS Code: Official Cucumber Language Server (multilingual step definitions, autocomplete, diagnostics, formatting) + Smart Behave Runner (Test Explorer, Live Run panel, CodeLens, Interactive Configuration)."
+2026-10-21T11:58:23.333Z,libredb.libredb-studio,libredb,LibreDB Studio,0.1.0,"Browse and query PostgreSQL, SQL Server, MySQL and MongoDB databases with LibreDB Studio."
+2026-10-21T12:04:13.71Z,paneherd.usage-meter,paneherd,Claude Code & Codex Usage Meter,0.1.0,"Your Claude Code and Codex usage limits (5-hour and weekly) in the status bar, with reset times and a warning before you run out. Reads local files only; no account, no telemetry."

@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 11:19 UTC
+## Latest list — 2026-10-21 12:20 UTC
 
-New extensions published between 2026-10-21 09:19 UTC and 2026-10-21 11:19 UTC.
+New extensions published between 2026-10-21 10:20 UTC and 2026-10-21 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T11-19-14-234863Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T12-20-54-822759Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 10:16:30 | [lilinhuang.coastal-cream-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.coastal-cream-theme) | Coastal Cream Theme | 1.0.0 | Creamy coastal palette: warm sand and sea blue in the light variant, a neutral… |
-| 2026-10-21 10:18:56 | [RainbowRobotics.muscat-pk-vscode](https://marketplace.visualstudio.com/items?itemName=RainbowRobotics.muscat-pk-vscode) | Muscat Plugin Kit | 0.10.2 | Run the muscat-pk CLI from VS Code, edit manifest.json, and connect the MCP ser… |
-| 2026-10-21 10:20:39 | [NeoMetric.google-acp-for-copilot](https://marketplace.visualstudio.com/items?itemName=NeoMetric.google-acp-for-copilot) | Google ACP for Copilot | 0.1.0 | Use Google Antigravity and Gemini models inside GitHub Copilot Chat by running… |
-| 2026-10-21 10:22:27 | [roedyrustam.anti-slop-sentinel](https://marketplace.visualstudio.com/items?itemName=roedyrustam.anti-slop-sentinel) | Anti-Slop Sentinel (AI Code Quality Gat… | 1.0.0 | Clean AI-generated slop, eliminate hallucinated imports, placeholder stubs, gen… |
-| 2026-10-21 10:23:40 | [beatahumeniuk.jira-to-md](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.jira-to-md) | Jira to Markdown | 1.1.0 | Download Jira issues and whole epics as Markdown files, edit them in VS Code, a… |
-| 2026-10-21 10:31:32 | [QZcode.qzcode](https://marketplace.visualstudio.com/items?itemName=QZcode.qzcode) | QZcode | 3.5.8 | 四角色接力把一句话目标做成改动：L 管全程 → A 写任务书 → B 带工具实现 → C 只读核验，不通过就退回 A 重写任务书，最多 3 轮。自带后端，装好… |
-| 2026-10-21 10:32:40 | [IBM.unified-adapter-studio](https://marketplace.visualstudio.com/items?itemName=IBM.unified-adapter-studio) | Unified Adapter Studio | 11.0.3 | Create, manage, and develop IBM Verify adapters directly inside VS Code with gu… |
-| 2026-10-21 10:59:21 | [lilinhuang.primrose-peach-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.primrose-peach-theme) | Primrose Peach Theme | 1.0.0 | A soft peach palette: white paper with primrose pink and mint in the light vari… |
+| 2026-10-21 11:15:59 | [melvinbalajadia.project-drift](https://marketplace.visualstudio.com/items?itemName=melvinbalajadia.project-drift) | Project Drift | 1.0.1 | Find comments your code has outgrown. Flags code comments that have fallen out… |
+| 2026-10-21 11:50:31 | [Reqnroll.reqnroll-ide-support-vscode](https://marketplace.visualstudio.com/items?itemName=Reqnroll.reqnroll-ide-support-vscode) | Reqnroll Extension for Visual Studio Co… | 2026.1.1494 | [Preview] Support for Reqnroll & Gherkin — syntax highlighting, navigation, com… |
+| 2026-10-21 11:52:31 | [GauravWardhekar.smart-cucumber-behave](https://marketplace.visualstudio.com/items?itemName=GauravWardhekar.smart-cucumber-behave) | Smart Cucumber-Behave | 1.0.0 | Comprehensive Cucumber & Behave support for VS Code: Official Cucumber Language… |
+| 2026-10-21 11:58:23 | [libredb.libredb-studio](https://marketplace.visualstudio.com/items?itemName=libredb.libredb-studio) | LibreDB Studio | 0.1.0 | Browse and query PostgreSQL, SQL Server, MySQL and MongoDB databases with Libre… |
+| 2026-10-21 12:04:13 | [paneherd.usage-meter](https://marketplace.visualstudio.com/items?itemName=paneherd.usage-meter) | Claude Code & Codex Usage Meter | 0.1.0 | Your Claude Code and Codex usage limits (5-hour and weekly) in the status bar,… |
 
 ## Data source
 
