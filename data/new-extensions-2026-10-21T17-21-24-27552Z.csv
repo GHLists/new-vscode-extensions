@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T16:16:03.093Z,croulfest.salesforce-orgs-sidebar,croulfest,Salesforce Orgs Sidebar,0.3.1,"Sidebar with every Salesforce org authorized in the sf CLI: one click logs you in (sf org open). Folders, drag-and-drop, custom names, hide orgs, Chrome incognito, open Setup."
+2026-10-21T16:22:05.897Z,nemo-ufes.tonto-vscode,nemo-ufes,tonto,0.9.2,tonto: a textual ontology modeling language
+2026-10-21T16:26:42.263Z,khalidou-sow-ba.sf-org-compare,khalidou-sow-ba,SF Org Compare,0.6.0,"Salesforce release projects: org comparison, decisions, change set, backup, post-deployment check, history"
+2026-10-21T16:36:46.407Z,picodev.picodev-lab,picodev,Picodev Lab,0.7.0,"Plugs Copilot agent mode into Picodev Lab: a simulated Arduino bench in your browser, driven through the lab's MCP server. Compiles your sketch on your machine with arduino-cli."
+2026-10-21T16:51:04.747Z,thiagoton.objdump-lens,thiagoton,ObjDump Lens - Syntax highlight/ASM folding,0.3.0,"Syntax highlighting, C/C++ vs asm separation, per-source-line asm folding and Compiler Explorer opcode tooltips for objdump -S / .lss listings."
+2026-10-21T16:55:12.173Z,skullx.requestx,skullx,RequestX - REST API Client,0.4.0,"A privacy-first, local-first REST API client for VS Code."
+2026-10-21T17:06:43.35Z,Matsuyanagi.word-start-end,Matsuyanagi,Word Start End,0.0.1,Move the cursor left or right to the point where the character type—such as between Japanese and alphanumeric characters—switches.
+2026-10-21T17:07:05.327Z,phoenixak.margin-ai,phoenixak,Margin: AI second pass for Harper,0.1.0,"Catches what Harper's rules can't: agreement across clauses, tense, wrong-but-real words, run-ons. Optional; works alongside Harper. Not affiliated with Harper or Automattic."
+2026-10-21T17:07:43.113Z,nemo-ufes.tonto-visualizer,nemo-ufes,tonto visualizer,0.1.65,"tonto visualizer: OntoUML diagrams of tonto models, drawn as you type and arranged by hand"
