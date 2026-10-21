@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T20:46:13.717Z,burnzy1148.agent-typewriter,burnzy1148,Agent Typewriter,0.1.0,"Watches files change on disk (from Claude Code or any agent) and replays each change as if a person were typing it, flipping between files in the order they changed."
+2026-10-21T21:03:02.947Z,yamada328.code-replayer,yamada328,Code Replayer,0.0.2,Git history visualizer for VS Code
+2026-10-21T21:15:32.227Z,aliqaryan.xrayview,aliqaryan,X-RayView,0.4.0,"Review GitHub pull requests in VS Code or Cursor. Agents run on your computer, and you post the review."
