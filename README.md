@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 10:21 UTC
+## Latest list — 2026-10-21 11:19 UTC
 
-New extensions published between 2026-10-21 08:21 UTC and 2026-10-21 10:21 UTC.
+New extensions published between 2026-10-21 09:19 UTC and 2026-10-21 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T10-21-10-980286Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T11-19-14-234863Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 09:18:44 | [heyliam.lockfile-diff](https://marketplace.visualstudio.com/items?itemName=heyliam.lockfile-diff) | Lockfile Diff | 0.1.0 | See what a lockfile change actually does: packages added, removed, upgraded and… |
-| 2026-10-21 09:19:00 | [makeafortune.auto-meta-generator](https://marketplace.visualstudio.com/items?itemName=makeafortune.auto-meta-generator) | auto-meta-generator | 0.0.2 | 自动为新建的文件和目录生成 .meta 文件，包含唯一标识和上级目录关联信息 |
-| 2026-10-21 09:21:37 | [bumkom.markdown-viewer-lite](https://marketplace.visualstudio.com/items?itemName=bumkom.markdown-viewer-lite) | Markdown Viewer Lite (Pele) | 0.1.2 | Fast, lightweight Markdown preview for VS Code with TOC, search, syntax highlig… |
-| 2026-10-21 09:25:01 | [nltec.nlts-pm](https://marketplace.visualstudio.com/items?itemName=nltec.nlts-pm) | NLTS PM | 1.8.1 | Your NLTS PM tasks, issues and reviews inside VS Code: start work, link commits… |
-| 2026-10-21 09:35:36 | [heyliam.openapi-breaking-changes](https://marketplace.visualstudio.com/items?itemName=heyliam.openapi-breaking-changes) | OpenAPI Breaking Changes | 0.1.0 | Diff two versions of an OpenAPI or Swagger spec and see what changed for API co… |
-| 2026-10-21 09:43:55 | [longtd.http-files-importer](https://marketplace.visualstudio.com/items?itemName=longtd.http-files-importer) | HTTP Files Importer | 0.1.0 | Import Thunder Client collections and environments into plain .http files for R… |
-| 2026-10-21 09:51:12 | [ilypopv.xl](https://marketplace.visualstudio.com/items?itemName=ilypopv.xl) | xl | 1.0.0 | View and edit CSV, TSV and XLSX files in VS Code. |
-| 2026-10-21 09:51:54 | [jubr.chat-renamer](https://marketplace.visualstudio.com/items?itemName=jubr.chat-renamer) | Chat Renamer | 0.0.1 | Rename Cursor chats from the first prompt: /chat-rename commands and activation… |
-| 2026-10-21 10:05:57 | [VroyCLe.flutter-network-inspector](https://marketplace.visualstudio.com/items?itemName=VroyCLe.flutter-network-inspector) | Flutter Network Inspector | 1.0.1 | Fast, lightweight in-editor HTTP/HTTPS network inspector for Flutter and Dart a… |
-| 2026-10-21 10:06:23 | [lilinhuang.verdant-meadow-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.verdant-meadow-theme) | Verdant Meadow Theme | 1.0.0 | Calm meadow green: pale sage light mode with olive ink, and a deep olive night… |
-| 2026-10-21 10:17:57 | [VroyCLe.flutter-qa-workbench](https://marketplace.visualstudio.com/items?itemName=VroyCLe.flutter-qa-workbench) | Flutter QA Workbench | 0.1.0 | Professional UI quality inspector, accessibility checker, and layout analyzer f… |
+| 2026-10-21 10:16:30 | [lilinhuang.coastal-cream-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.coastal-cream-theme) | Coastal Cream Theme | 1.0.0 | Creamy coastal palette: warm sand and sea blue in the light variant, a neutral… |
+| 2026-10-21 10:18:56 | [RainbowRobotics.muscat-pk-vscode](https://marketplace.visualstudio.com/items?itemName=RainbowRobotics.muscat-pk-vscode) | Muscat Plugin Kit | 0.10.2 | Run the muscat-pk CLI from VS Code, edit manifest.json, and connect the MCP ser… |
+| 2026-10-21 10:20:39 | [NeoMetric.google-acp-for-copilot](https://marketplace.visualstudio.com/items?itemName=NeoMetric.google-acp-for-copilot) | Google ACP for Copilot | 0.1.0 | Use Google Antigravity and Gemini models inside GitHub Copilot Chat by running… |
+| 2026-10-21 10:22:27 | [roedyrustam.anti-slop-sentinel](https://marketplace.visualstudio.com/items?itemName=roedyrustam.anti-slop-sentinel) | Anti-Slop Sentinel (AI Code Quality Gat… | 1.0.0 | Clean AI-generated slop, eliminate hallucinated imports, placeholder stubs, gen… |
+| 2026-10-21 10:23:40 | [beatahumeniuk.jira-to-md](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.jira-to-md) | Jira to Markdown | 1.1.0 | Download Jira issues and whole epics as Markdown files, edit them in VS Code, a… |
+| 2026-10-21 10:31:32 | [QZcode.qzcode](https://marketplace.visualstudio.com/items?itemName=QZcode.qzcode) | QZcode | 3.5.8 | 四角色接力把一句话目标做成改动：L 管全程 → A 写任务书 → B 带工具实现 → C 只读核验，不通过就退回 A 重写任务书，最多 3 轮。自带后端，装好… |
+| 2026-10-21 10:32:40 | [IBM.unified-adapter-studio](https://marketplace.visualstudio.com/items?itemName=IBM.unified-adapter-studio) | Unified Adapter Studio | 11.0.3 | Create, manage, and develop IBM Verify adapters directly inside VS Code with gu… |
+| 2026-10-21 10:59:21 | [lilinhuang.primrose-peach-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.primrose-peach-theme) | Primrose Peach Theme | 1.0.0 | A soft peach palette: white paper with primrose pink and mint in the light vari… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T10:16:30.567Z,lilinhuang.coastal-cream-theme,lilinhuang,Coastal Cream Theme,1.0.0,"Creamy coastal palette: warm sand and sea blue in the light variant, a neutral graphite coast at night in the dark one."
+2026-10-21T10:18:56.58Z,RainbowRobotics.muscat-pk-vscode,RainbowRobotics,Muscat Plugin Kit,0.10.2,"Run the muscat-pk CLI from VS Code, edit manifest.json, and connect the MCP server to your AI tools"
+2026-10-21T10:20:39.83Z,NeoMetric.google-acp-for-copilot,NeoMetric,Google ACP for Copilot,0.1.0,Use Google Antigravity and Gemini models inside GitHub Copilot Chat by running Google's Agent Client Protocol server locally.
+2026-10-21T10:22:27.707Z,roedyrustam.anti-slop-sentinel,roedyrustam,Anti-Slop Sentinel (AI Code Quality Gate & Auto-Healer),1.0.0,"Clean AI-generated slop, eliminate hallucinated imports, placeholder stubs, generic UI cliches, and enforce production-ready code before git commit."
+2026-10-21T10:23:40.683Z,beatahumeniuk.jira-to-md,beatahumeniuk,Jira to Markdown,1.1.0,"Download Jira issues and whole epics as Markdown files, edit them in VS Code, and push them back to Jira."
+2026-10-21T10:31:32.677Z,QZcode.qzcode,QZcode,QZcode,3.5.8,四角色接力把一句话目标做成改动：L 管全程 → A 写任务书 → B 带工具实现 → C 只读核验，不通过就退回 A 重写任务书，最多 3 轮。自带后端，装好即用。
+2026-10-21T10:32:40.107Z,IBM.unified-adapter-studio,IBM,Unified Adapter Studio,11.0.3,"Create, manage, and develop IBM Verify adapters directly inside VS Code with guided workflows and testing tools."
+2026-10-21T10:59:21.437Z,lilinhuang.primrose-peach-theme,lilinhuang,Primrose Peach Theme,1.0.0,"A soft peach palette: white paper with primrose pink and mint in the light variant, a deep moss night in the dark one."
