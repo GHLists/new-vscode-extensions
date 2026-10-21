@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T03:19:25.537Z,Edgemodders.edgemat,Edgemodders,EDGEmat,0.3.0,"The EDGE material editor for Cyberpunk 2077: find a garment's materials by its name, recolor its layers, make new materials from your words, and save them into your mod."
+2026-10-21T03:21:08.377Z,janction.janction-render,janction,JANCTION Render,0.1.0,Render Blender scenes and 3D models on cloud GPUs from GitHub Copilot and other MCP-aware chat in VS Code. Adds the JANCTION Render MCP server; no local GPU or Blender needed.
+2026-10-21T03:32:47.097Z,Edgemodders.edgewave,Edgemodders,EDGEwave,0.1.0,"The sound studio for Cyberpunk 2077 modding: edit, mix and re-voice the game's sounds and put them into your mod. Builds on REDcode."
+2026-10-21T03:33:13.497Z,antfu.x18n,antfu,x18n,0.0.6,"Manage and view i18n files of any project, for humans and agents"
+2026-10-21T03:45:14.837Z,GOOUPP.quick-folder,GOOUPP,quick-folder,0.1.0,Instant file and folder search with Explorer reveal. 快速搜索文件和目录并在资源管理器中定位。
+2026-10-21T03:52:22.723Z,ReadyStack.openapi-security-contract-lint,ReadyStack,OpenAPI Security Contract Lint,1.0.11,"Finds the lines in an OpenAPI file that publish an endpoint with no authentication, an API key in the query string, or an OAuth grant that RFC 9700 forbids."
+2026-10-21T03:52:45.377Z,ReadyStack.opentofu-migration-lint,ReadyStack,OpenTofu Migration Lint — Terraform,1.0.2,"OpenTofu migration check for Terraform files: flags HCP Terraform cloud/remote backends, app.terraform.io modules, tfe resources, BSL Terraform 1.6+ pins and CI steps, with the OpenTofu fix."
+2026-10-21T04:11:48.377Z,prince-terabits.bitsmith,prince-terabits,Bitsmith,1.29.0,"A coding agent in the secondary sidebar, powered by your local Claude Code CLI and its login."
+2026-10-21T04:12:49.063Z,OddEssentials.agent-guild,OddEssentials,Agent Guild,0.1.0,"Launch and watch your AI coding-assistant sessions from an editor tab, with the same sessions your browser shows."
+2026-10-21T04:16:33.793Z,alvinade98.alvinade98-laravel-blade-navigator,alvinade98,Alvinade98 Laravel Blade Navigator,0.1.0,"Ctrl+click Laravel Blade views, including concatenated controller properties and module namespaces."
