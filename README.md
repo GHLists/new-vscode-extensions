@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 08:21 UTC
+## Latest list — 2026-10-21 09:19 UTC
 
-New extensions published between 2026-10-21 06:21 UTC and 2026-10-21 08:21 UTC.
+New extensions published between 2026-10-21 07:19 UTC and 2026-10-21 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T08-21-27-140014Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T09-19-58-094435Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 07:15:04 | [p14jeffwest.madi-spell](https://marketplace.visualstudio.com/items?itemName=p14jeffwest.madi-spell) | madi 맞춤법 검사 | 0.4.1 | madi(마디) 한국어 형태소 분석기 기반 맞춤법·띄어쓰기 검사 (LSP). 지적마다 한글 맞춤법 조항과 설명을 보여 줍니다. |
-| 2026-10-21 07:18:19 | [Riklin.lockscreen-preview](https://marketplace.visualstudio.com/items?itemName=Riklin.lockscreen-preview) | 锁屏主题预览 Lockscreen Preview | 1.0.0 | 锁屏主题 manifest.xml 实时预览：编辑保存即刷新，支持触摸/按钮/解锁/重力交互 |
-| 2026-10-21 07:21:12 | [yoshihicode.office-content-search](https://marketplace.visualstudio.com/items?itemName=yoshihicode.office-content-search) | Office Content Search | 0.1.0 |  |
-| 2026-10-21 07:42:16 | [nexusbloom.nexusbloom-tools](https://marketplace.visualstudio.com/items?itemName=nexusbloom.nexusbloom-tools) | NexusBloom Tools | 1.0.1 | Create, edit, test, preview, publish, and manage NexusBloom tools — with Activi… |
-| 2026-10-21 07:44:19 | [easecation.mcpywrap-vscode](https://marketplace.visualstudio.com/items?itemName=easecation.mcpywrap-vscode) | mcpywrap — 游戏测试工作区 | 0.1.4 | 在 VS Code 中通过 mcpy CLI 管理 Minecraft 中国版测试会话、执行 Python 与热更模块。 |
-| 2026-10-21 08:02:45 | [NeoMetric.claude-acp-for-copilot](https://marketplace.visualstudio.com/items?itemName=NeoMetric.claude-acp-for-copilot) | Claude ACP for Copilot | 0.1.6 | Use Claude models from your own Claude plan inside GitHub Copilot Chat by runni… |
-| 2026-10-21 08:04:50 | [Reqnroll.reqnroll-ide-support](https://marketplace.visualstudio.com/items?itemName=Reqnroll.reqnroll-ide-support) | Reqnroll Extension for VS Code (Preview) | 2026.1.1481 | [Preview] Support for Reqnroll & Gherkin — syntax highlighting, navigation, com… |
-| 2026-10-21 08:07:27 | [dilanx.ultimate-svg-preview](https://marketplace.visualstudio.com/items?itemName=dilanx.ultimate-svg-preview) | Ultimate SVG Preview | 0.1.0 | Preview inline SVG markup in JSX and TSX files. |
-| 2026-10-21 08:15:45 | [SplitThePot.stp-configuration-explorer](https://marketplace.visualstudio.com/items?itemName=SplitThePot.stp-configuration-explorer) | STP Configuration Explorer | 0.1.0 | Explore app-configuration operator data (brands, platforms, operator groups) fr… |
+| 2026-10-21 08:24:04 | [michael-lantzen.issueview](https://marketplace.visualstudio.com/items?itemName=michael-lantzen.issueview) | IssueView | 0.2.2 | GitHub issues for the current project in the secondary sidebar. |
+| 2026-10-21 08:32:49 | [weimh.ai-copy](https://marketplace.visualstudio.com/items?itemName=weimh.ai-copy) | AI Copy | 1.0.0 | 快速复制 AI 可用的代码引用（@文件#行号） |
+| 2026-10-21 08:35:24 | [ping-597.gitdeck-workbench](https://marketplace.visualstudio.com/items?itemName=ping-597.gitdeck-workbench) | GitDeck — Git 可视化工作台 | 0.1.3 | Git workbench with commit graph, editor blame, CodeLens, visual history, review… |
+| 2026-10-21 08:40:00 | [benedikt.jdt-auto-complete](https://marketplace.visualstudio.com/items?itemName=benedikt.jdt-auto-complete) | jdt auto-complete | 0.0.1 | Auto-complete tool for the JDT schema language |
+| 2026-10-21 08:46:16 | [chumeng.codesnap-next-chumeng](https://marketplace.visualstudio.com/items?itemName=chumeng.codesnap-next-chumeng) | CodeSnap Next (chumeng) | 0.1.0 | Code screenshots with cached PNG rendering and native Windows / Wayland clipboa… |
+| 2026-10-21 08:47:13 | [mohi-devhub.maritimefs](https://marketplace.visualstudio.com/items?itemName=mohi-devhub.maritimefs) | MaritimeFS | 0.1.2 | Your Maritime agents, right inside VS Code. Browse and edit remote persistent v… |
+| 2026-10-21 08:56:10 | [otajon-murodov.picturecode](https://marketplace.visualstudio.com/items?itemName=otajon-murodov.picturecode) | PictureCode — Live UI Previews | 0.1.0 | See what your code looks like. PictureCode screenshots every page of your runni… |
+| 2026-10-21 08:56:27 | [marianoviola.lapis](https://marketplace.visualstudio.com/items?itemName=marianoviola.lapis) | Lapis — Markdown Workspaces | 0.1.0 | Lightweight knowledge navigation and structured views for plain Markdown worksp… |
+| 2026-10-21 08:56:52 | [zygoon.vs-i18n](https://marketplace.visualstudio.com/items?itemName=zygoon.vs-i18n) | i18n for Go | 0.1.0 | i18n for Go: console-free scan/merge/check and a translation editor for go-i18n… |
+| 2026-10-21 08:59:18 | [benedikt.jdt-extension](https://marketplace.visualstudio.com/items?itemName=benedikt.jdt-extension) | JDT Extension | 0.0.1 | Extension for JDT schema language |
+| 2026-10-21 09:07:09 | [wangzhy.wangzhy-translation](https://marketplace.visualstudio.com/items?itemName=wangzhy.wangzhy-translation) | wangzhy Translation | 0.1.7 | OpenAI 翻译：方法注释正文翻译与选中文本的译文悬浮框。 |
+| 2026-10-21 09:12:24 | [arturpelo.syntaxcoder](https://marketplace.visualstudio.com/items?itemName=arturpelo.syntaxcoder) | SyntaxCoder | 0.7.0 | Agentic coding assistant running on your own LM Studio model. Chat, files, fold… |
 
 ## Data source
 
