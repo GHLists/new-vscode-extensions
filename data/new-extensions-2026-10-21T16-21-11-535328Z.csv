@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T15:22:22.16Z,cucu0628.zap-client,cucu0628,Zap Client – REST API Client,1.0.0,"Lightweight, responsive REST API client for VS Code: collections, environments, history, no-code tests, scripting, code snippets, Postman / Thunder Client / cURL import."
+2026-10-21T15:25:57.027Z,solvedock.solvedock,solvedock,SolveDock,0.1.0,"Search, save, and reuse technical solutions inside VS Code."
+2026-10-21T15:31:35.7Z,UStudio.ustudio,UStudio,UStudio – C++ Workflow for Unreal Engine,1.0.0,"High-performance C++ & Blueprint workflow for Unreal Engine in VS Code: real-time .generated.h sync, fast indexed references, Blueprint CodeLens, Solution Explorer & Live Bridge."
+2026-10-21T15:46:40.44Z,gaels.agy-auto-accept,gaels,AGY Auto-Accept Bot,0.1.3,Automatically presses Enter and approves all Google Antigravity (agy) permission prompts in VS Code Integrated Terminal and Sidebar Chat.
+2026-10-21T15:51:05.787Z,nathfavour.kylrix-vscode,nathfavour,"Kylrix - AI Vault, Notes & Sovereign Assistant",1.0.0,"Zero-leak vault, sovereign local notes, 2FA authenticator, and AI context sidebar for VS Code"
+2026-10-21T15:55:33.9Z,AhmadYar.automation-workflow-guard,AhmadYar,Automation Workflow Guard,0.1.0,"Detect n8n workflow mistakes, unsafe OpenAPI definitions, and potential exposed secrets directly in VS Code."
+2026-10-21T16:06:29.193Z,ilypopv.dx,ilypopv,dx,1.0.0,"View PDF, DOCX and DOC files in VS Code; annotate PDFs and edit the text of DOCX documents."
+2026-10-21T16:10:08.323Z,JitendraVirkayade.water-reminder-lite,JitendraVirkayade,Water Reminder Lite,0.2.0,"A lightweight, offline hydration timer with an animated Explorer companion, notifications, pause, and snooze."
+2026-10-21T16:10:50.987Z,pagetovid.pagetovid-capture,pagetovid,PageToVid Studio,0.8.2,"One folder, one production seat: connect your site, let the recorder log in, have Claude Code write the flows worth recording and run your shows and formats through PageToVid's MCP - videos, recurring programmes, assets and the channel feed, from the editor."
+2026-10-21T16:14:11.003Z,VladZaharia.code-quest,VladZaharia,Code Quest Python et React,0.1.0,Mini-jeu d'apprentissage : résous des niveaux Python et React directement dans l'éditeur.
