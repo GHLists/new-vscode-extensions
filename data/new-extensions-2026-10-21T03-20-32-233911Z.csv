@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T02:51:34.597Z,AzUniverse.azcode,AzUniverse,AzCode · Lenguaje completo,2.0.0,"Programa en AzCode: intérprete incluido, clases, herencia, funciones, colecciones, colores, ejemplos e iconos."
+2026-10-21T02:58:13.03Z,getstint.stint,getstint,Stint,0.1.0,"Free coding time tracking: see where your hours go by project, language and branch, next to what your AI agents do. No paid tier."
+2026-10-21T02:59:50.447Z,anthonygaliamov.auto-sync,anthonygaliamov,"Auto Git: Auto Fetch, Pull and Push",0.1.0,"Periodically fetches, pulls and pushes your git repos."
+2026-10-21T03:04:37.67Z,vasily.jsoneditor-for-vscode,vasily,JSON Tree (jsoneditor),0.1.0,View the active JSON file as a collapsible tree with jsoneditor.
+2026-10-21T03:13:12.403Z,LocNguyenSioux.json-tabbed-table-editor,LocNguyenSioux,JSON Tabbed Table Editor,0.3.0,"View and edit JSON files shaped like { key: [ ... ], key2: [ ... ] } as tabbed, editable tables."
