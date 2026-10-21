@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T00:27:11.437Z,nycure.ai-coding-assessment-simulator,nycure,AI-Assisted Recruitment Coding Assessment Simulator,1.0.1,"Simulate corporate AI-assisted recruitment coding assessments with guarded AI scaffolding, finite state machine, token budgets, and dual-pillar performance rubrics."
+2026-10-21T00:37:48.21Z,SidaLiu.llmdbg,SidaLiu,llmdbg,0.0.119,Step through LLM layers and inspect human-readable internal representations.
+2026-10-21T00:40:43.18Z,lordsayur.wsb-vscode,lordsayur,Waktu Sembahyang Brunei,0.3.2,Waktu sembahyang Brunei di bar status editor.
+2026-10-21T00:48:54.87Z,SpaceBox.spacebox-pro,SpaceBox,SpaceBox Pro,1.1.1,"A professional charcoal theme with normal and soft syntax palettes, neutral gray UI colors, and file icons."
+2026-10-21T00:50:34.91Z,MiniMindsLab.minimindslab-url-host-selection,MiniMindsLab,Extract URL Host,0.1.2,Replace a selected absolute HTTP(S) URL with its lowercase hostname.
+2026-10-21T00:50:42.53Z,MiniMindsLab.minimindslab-unique-selected-lines,MiniMindsLab,Unique Selected Lines,0.1.1,Remove duplicate selected lines while preserving the first occurrence order.
+2026-10-21T00:50:58.707Z,MiniMindsLab.minimindslab-sort-lines-selection,MiniMindsLab,Sort Selected Lines,0.1.2,Sorts the selected non-empty lines lexicographically while preserving duplicates.
+2026-10-21T00:51:06.08Z,MiniMindsLab.minimindslab-slugify-selection,MiniMindsLab,Slugify Selection,0.1.2,Convert selected text into a lowercase kebab-case slug.
+2026-10-21T00:51:13.417Z,MiniMindsLab.minimindslab-semver-normalize-selection,MiniMindsLab,Normalize SemVer Selection,0.1.2,Normalize selected semantic version text by removing a leading v prefix.
+2026-10-21T00:51:20.437Z,MiniMindsLab.minimindslab-json-pretty-selection,MiniMindsLab,Pretty JSON Selection,0.1.2,Pretty-print a selected JSON value using two-space indentation.
+2026-10-21T00:51:27.823Z,MiniMindsLab.minimindslab-json-minify-selection,MiniMindsLab,Minify JSON Selection,0.1.2,Minify a selected JSON value into one compact line.
+2026-10-21T00:56:43.717Z,mahmutsibal.earth-lang,mahmutsibal,Earth Language - Turkish Programming,0.4.2,Türkçe ve İngilizce yazılabilen Earth programlama dili için VS Code desteği

@@ -12,20 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 00:20 UTC
+## Latest list — 2026-10-21 01:21 UTC
 
-New extensions published between 2026-10-20 22:20 UTC and 2026-10-21 00:20 UTC.
+New extensions published between 2026-10-20 23:21 UTC and 2026-10-21 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T00-20-39-853661Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T01-21-12-030959Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-20 23:42:23 | [histrova.histrova-app](https://marketplace.visualstudio.com/items?itemName=histrova.histrova-app) | Histrova - Git Graph, History & Undo | 0.9.3 | Edit your Git history without fear. A fast Git graph with one-click history edi… |
-| 2026-10-20 23:58:50 | [easygerber.easygerber](https://marketplace.visualstudio.com/items?itemName=easygerber.easygerber) | EasyGerber | 0.3.4 | AI PCB design, layout, and routing |
-| 2026-10-21 00:06:50 | [koala2026.codex-usage-board](https://marketplace.visualstudio.com/items?itemName=koala2026.codex-usage-board) | Codex 用量看板 | 0.1.3 | 在状态栏常驻显示 Codex 剩余用量与重置时间。 |
-| 2026-10-21 00:07:00 | [arronei.markdown-header-folding](https://marketplace.visualstudio.com/items?itemName=arronei.markdown-header-folding) | Markdown Header Folding | 0.1.0 | Fold and unfold sections of the Markdown preview at every heading level, like f… |
-| 2026-10-21 00:10:21 | [DevCentr.visual-app-editor](https://marketplace.visualstudio.com/items?itemName=DevCentr.visual-app-editor) | Visual App Editor | 0.1.0 | Visual editing of Flutter (.dart) and React / React Native (.tsx/.jsx) UI sourc… |
-| 2026-10-21 00:11:25 | [lider-mars.latex-mars](https://marketplace.visualstudio.com/items?itemName=lider-mars.latex-mars) | LaTeX Mars | 0.30.0 | Editor visual (WYSIWYM) de LaTeX: escribe sobre el documento como en Word, sin… |
+| 2026-10-21 00:27:11 | [nycure.ai-coding-assessment-simulator](https://marketplace.visualstudio.com/items?itemName=nycure.ai-coding-assessment-simulator) | AI-Assisted Recruitment Coding Assessme… | 1.0.1 | Simulate corporate AI-assisted recruitment coding assessments with guarded AI s… |
+| 2026-10-21 00:37:48 | [SidaLiu.llmdbg](https://marketplace.visualstudio.com/items?itemName=SidaLiu.llmdbg) | llmdbg | 0.0.119 | Step through LLM layers and inspect human-readable internal representations. |
+| 2026-10-21 00:40:43 | [lordsayur.wsb-vscode](https://marketplace.visualstudio.com/items?itemName=lordsayur.wsb-vscode) | Waktu Sembahyang Brunei | 0.3.2 | Waktu sembahyang Brunei di bar status editor. |
+| 2026-10-21 00:48:54 | [SpaceBox.spacebox-pro](https://marketplace.visualstudio.com/items?itemName=SpaceBox.spacebox-pro) | SpaceBox Pro | 1.1.1 | A professional charcoal theme with normal and soft syntax palettes, neutral gra… |
+| 2026-10-21 00:50:34 | [MiniMindsLab.minimindslab-url-host-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-url-host-selection) | Extract URL Host | 0.1.2 | Replace a selected absolute HTTP(S) URL with its lowercase hostname. |
+| 2026-10-21 00:50:42 | [MiniMindsLab.minimindslab-unique-selected-lines](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-unique-selected-lines) | Unique Selected Lines | 0.1.1 | Remove duplicate selected lines while preserving the first occurrence order. |
+| 2026-10-21 00:50:58 | [MiniMindsLab.minimindslab-sort-lines-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-sort-lines-selection) | Sort Selected Lines | 0.1.2 | Sorts the selected non-empty lines lexicographically while preserving duplicate… |
+| 2026-10-21 00:51:06 | [MiniMindsLab.minimindslab-slugify-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-slugify-selection) | Slugify Selection | 0.1.2 | Convert selected text into a lowercase kebab-case slug. |
+| 2026-10-21 00:51:13 | [MiniMindsLab.minimindslab-semver-normalize-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-semver-normalize-selection) | Normalize SemVer Selection | 0.1.2 | Normalize selected semantic version text by removing a leading v prefix. |
+| 2026-10-21 00:51:20 | [MiniMindsLab.minimindslab-json-pretty-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-json-pretty-selection) | Pretty JSON Selection | 0.1.2 | Pretty-print a selected JSON value using two-space indentation. |
+| 2026-10-21 00:51:27 | [MiniMindsLab.minimindslab-json-minify-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-json-minify-selection) | Minify JSON Selection | 0.1.2 | Minify a selected JSON value into one compact line. |
+| 2026-10-21 00:56:43 | [mahmutsibal.earth-lang](https://marketplace.visualstudio.com/items?itemName=mahmutsibal.earth-lang) | Earth Language - Turkish Programming | 0.4.2 | Türkçe ve İngilizce yazılabilen Earth programlama dili için VS Code desteği |
 
 ## Data source
 
