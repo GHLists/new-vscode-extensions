@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T09:18:44.333Z,heyliam.lockfile-diff,heyliam,Lockfile Diff,0.1.0,"See what a lockfile change actually does: packages added, removed, upgraded and downgraded, major/minor/patch, direct or transitive, declared ranges, and a lockfile's history. npm, Yarn, pnpm, Bun, pub, Poetry, uv, Cargo, Go, Composer and Bundler."
+2026-10-21T09:19:00.713Z,makeafortune.auto-meta-generator,makeafortune,auto-meta-generator,0.0.2,自动为新建的文件和目录生成 .meta 文件，包含唯一标识和上级目录关联信息
+2026-10-21T09:21:37.413Z,bumkom.markdown-viewer-lite,bumkom,Markdown Viewer Lite (Pele),0.1.2,"Fast, lightweight Markdown preview for VS Code with TOC, search, syntax highlighting, Pele-powered Mermaid diagrams, and HTML/PDF export."
+2026-10-21T09:25:01.6Z,nltec.nlts-pm,nltec,NLTS PM,1.8.1,"Your NLTS PM tasks, issues and reviews inside VS Code: start work, link commits and submit for review without leaving the editor."
+2026-10-21T09:35:36.787Z,heyliam.openapi-breaking-changes,heyliam,OpenAPI Breaking Changes,0.1.0,"Diff two versions of an OpenAPI or Swagger spec and see what changed for API consumers, with breaking changes flagged. Compare with any Git branch or tag, another file, or an open diff."
+2026-10-21T09:43:55.47Z,longtd.http-files-importer,longtd,HTTP Files Importer,0.1.0,"Import Thunder Client collections and environments into plain .http files for REST Client, httpYac and the JetBrains HTTP Client. Local only: no account, no network, no telemetry."
+2026-10-21T09:51:12.657Z,ilypopv.xl,ilypopv,xl,1.0.0,"View and edit CSV, TSV and XLSX files in VS Code."
+2026-10-21T09:51:54.677Z,jubr.chat-renamer,jubr,Chat Renamer,0.0.1,Rename Cursor chats from the first prompt: /chat-rename commands and activation patterns with numbered titles
+2026-10-21T10:05:57.47Z,VroyCLe.flutter-network-inspector,VroyCLe,Flutter Network Inspector,1.0.1,"Fast, lightweight in-editor HTTP/HTTPS network inspector for Flutter and Dart apps, supporting Dio, dart:io, and VM Service HTTP profiling."
+2026-10-21T10:06:23.207Z,lilinhuang.verdant-meadow-theme,lilinhuang,Verdant Meadow Theme,1.0.0,"Calm meadow green: pale sage light mode with olive ink, and a deep olive night with fresh leaf highlights."
+2026-10-21T10:17:57.997Z,VroyCLe.flutter-qa-workbench,VroyCLe,Flutter QA Workbench,0.1.0,"Professional UI quality inspector, accessibility checker, and layout analyzer for Flutter applications."

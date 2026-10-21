@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 09:19 UTC
+## Latest list — 2026-10-21 10:21 UTC
 
-New extensions published between 2026-10-21 07:19 UTC and 2026-10-21 09:19 UTC.
+New extensions published between 2026-10-21 08:21 UTC and 2026-10-21 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T09-19-58-094435Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T10-21-10-980286Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 08:24:04 | [michael-lantzen.issueview](https://marketplace.visualstudio.com/items?itemName=michael-lantzen.issueview) | IssueView | 0.2.2 | GitHub issues for the current project in the secondary sidebar. |
-| 2026-10-21 08:32:49 | [weimh.ai-copy](https://marketplace.visualstudio.com/items?itemName=weimh.ai-copy) | AI Copy | 1.0.0 | 快速复制 AI 可用的代码引用（@文件#行号） |
-| 2026-10-21 08:35:24 | [ping-597.gitdeck-workbench](https://marketplace.visualstudio.com/items?itemName=ping-597.gitdeck-workbench) | GitDeck — Git 可视化工作台 | 0.1.3 | Git workbench with commit graph, editor blame, CodeLens, visual history, review… |
-| 2026-10-21 08:40:00 | [benedikt.jdt-auto-complete](https://marketplace.visualstudio.com/items?itemName=benedikt.jdt-auto-complete) | jdt auto-complete | 0.0.1 | Auto-complete tool for the JDT schema language |
-| 2026-10-21 08:46:16 | [chumeng.codesnap-next-chumeng](https://marketplace.visualstudio.com/items?itemName=chumeng.codesnap-next-chumeng) | CodeSnap Next (chumeng) | 0.1.0 | Code screenshots with cached PNG rendering and native Windows / Wayland clipboa… |
-| 2026-10-21 08:47:13 | [mohi-devhub.maritimefs](https://marketplace.visualstudio.com/items?itemName=mohi-devhub.maritimefs) | MaritimeFS | 0.1.2 | Your Maritime agents, right inside VS Code. Browse and edit remote persistent v… |
-| 2026-10-21 08:56:10 | [otajon-murodov.picturecode](https://marketplace.visualstudio.com/items?itemName=otajon-murodov.picturecode) | PictureCode — Live UI Previews | 0.1.0 | See what your code looks like. PictureCode screenshots every page of your runni… |
-| 2026-10-21 08:56:27 | [marianoviola.lapis](https://marketplace.visualstudio.com/items?itemName=marianoviola.lapis) | Lapis — Markdown Workspaces | 0.1.0 | Lightweight knowledge navigation and structured views for plain Markdown worksp… |
-| 2026-10-21 08:56:52 | [zygoon.vs-i18n](https://marketplace.visualstudio.com/items?itemName=zygoon.vs-i18n) | i18n for Go | 0.1.0 | i18n for Go: console-free scan/merge/check and a translation editor for go-i18n… |
-| 2026-10-21 08:59:18 | [benedikt.jdt-extension](https://marketplace.visualstudio.com/items?itemName=benedikt.jdt-extension) | JDT Extension | 0.0.1 | Extension for JDT schema language |
-| 2026-10-21 09:07:09 | [wangzhy.wangzhy-translation](https://marketplace.visualstudio.com/items?itemName=wangzhy.wangzhy-translation) | wangzhy Translation | 0.1.7 | OpenAI 翻译：方法注释正文翻译与选中文本的译文悬浮框。 |
-| 2026-10-21 09:12:24 | [arturpelo.syntaxcoder](https://marketplace.visualstudio.com/items?itemName=arturpelo.syntaxcoder) | SyntaxCoder | 0.7.0 | Agentic coding assistant running on your own LM Studio model. Chat, files, fold… |
+| 2026-10-21 09:18:44 | [heyliam.lockfile-diff](https://marketplace.visualstudio.com/items?itemName=heyliam.lockfile-diff) | Lockfile Diff | 0.1.0 | See what a lockfile change actually does: packages added, removed, upgraded and… |
+| 2026-10-21 09:19:00 | [makeafortune.auto-meta-generator](https://marketplace.visualstudio.com/items?itemName=makeafortune.auto-meta-generator) | auto-meta-generator | 0.0.2 | 自动为新建的文件和目录生成 .meta 文件，包含唯一标识和上级目录关联信息 |
+| 2026-10-21 09:21:37 | [bumkom.markdown-viewer-lite](https://marketplace.visualstudio.com/items?itemName=bumkom.markdown-viewer-lite) | Markdown Viewer Lite (Pele) | 0.1.2 | Fast, lightweight Markdown preview for VS Code with TOC, search, syntax highlig… |
+| 2026-10-21 09:25:01 | [nltec.nlts-pm](https://marketplace.visualstudio.com/items?itemName=nltec.nlts-pm) | NLTS PM | 1.8.1 | Your NLTS PM tasks, issues and reviews inside VS Code: start work, link commits… |
+| 2026-10-21 09:35:36 | [heyliam.openapi-breaking-changes](https://marketplace.visualstudio.com/items?itemName=heyliam.openapi-breaking-changes) | OpenAPI Breaking Changes | 0.1.0 | Diff two versions of an OpenAPI or Swagger spec and see what changed for API co… |
+| 2026-10-21 09:43:55 | [longtd.http-files-importer](https://marketplace.visualstudio.com/items?itemName=longtd.http-files-importer) | HTTP Files Importer | 0.1.0 | Import Thunder Client collections and environments into plain .http files for R… |
+| 2026-10-21 09:51:12 | [ilypopv.xl](https://marketplace.visualstudio.com/items?itemName=ilypopv.xl) | xl | 1.0.0 | View and edit CSV, TSV and XLSX files in VS Code. |
+| 2026-10-21 09:51:54 | [jubr.chat-renamer](https://marketplace.visualstudio.com/items?itemName=jubr.chat-renamer) | Chat Renamer | 0.0.1 | Rename Cursor chats from the first prompt: /chat-rename commands and activation… |
+| 2026-10-21 10:05:57 | [VroyCLe.flutter-network-inspector](https://marketplace.visualstudio.com/items?itemName=VroyCLe.flutter-network-inspector) | Flutter Network Inspector | 1.0.1 | Fast, lightweight in-editor HTTP/HTTPS network inspector for Flutter and Dart a… |
+| 2026-10-21 10:06:23 | [lilinhuang.verdant-meadow-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.verdant-meadow-theme) | Verdant Meadow Theme | 1.0.0 | Calm meadow green: pale sage light mode with olive ink, and a deep olive night… |
+| 2026-10-21 10:17:57 | [VroyCLe.flutter-qa-workbench](https://marketplace.visualstudio.com/items?itemName=VroyCLe.flutter-qa-workbench) | Flutter QA Workbench | 0.1.0 | Professional UI quality inspector, accessibility checker, and layout analyzer f… |
 
 ## Data source
 
