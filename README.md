@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-21 21:19 UTC
+## Latest list — 2026-10-21 22:21 UTC
 
-New extensions published between 2026-10-21 19:19 UTC and 2026-10-21 21:19 UTC.
+New extensions published between 2026-10-21 20:21 UTC and 2026-10-21 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-21T21-19-38-386238Z.csv)
+[Full CSV](data/new-extensions-2026-10-21T22-21-22-08973Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-21 20:46:13 | [burnzy1148.agent-typewriter](https://marketplace.visualstudio.com/items?itemName=burnzy1148.agent-typewriter) | Agent Typewriter | 0.1.0 | Watches files change on disk (from Claude Code or any agent) and replays each c… |
-| 2026-10-21 21:03:02 | [yamada328.code-replayer](https://marketplace.visualstudio.com/items?itemName=yamada328.code-replayer) | Code Replayer | 0.0.2 | Git history visualizer for VS Code |
-| 2026-10-21 21:15:32 | [aliqaryan.xrayview](https://marketplace.visualstudio.com/items?itemName=aliqaryan.xrayview) | X-RayView | 0.4.0 | Review GitHub pull requests in VS Code or Cursor. Agents run on your computer,… |
+| 2026-10-21 21:26:51 | [BubbleZapGamesLLC.xretrocode](https://marketplace.visualstudio.com/items?itemName=BubbleZapGamesLLC.xretrocode) | XRetroCode | 0.1.1 | R65 language support and Mesen-GDB source-level debugging for retro console dev… |
+| 2026-10-21 21:34:08 | [pynesys.pyneide](https://marketplace.visualstudio.com/items?itemName=pynesys.pyneide) | PyneIDE | 0.9.1 | Pine Script and Pyne in VS Code: highlighting, completion and inline diagnostic… |
+| 2026-10-21 21:45:24 | [open-verilog.open-verilog](https://marketplace.visualstudio.com/items?itemName=open-verilog.open-verilog) | Open Verilog | 0.2.0 | Syntax highlighting for Open Verilog (.ov), the SystemVerilog superset with ela… |
+| 2026-10-21 21:45:45 | [Fieldrich.fieldrich-vscode-extension](https://marketplace.visualstudio.com/items?itemName=Fieldrich.fieldrich-vscode-extension) | fieldrich-vscode-extension | 1.2.0 | VS Code extension for the FieldRich AI and agent experts |
+| 2026-10-21 21:54:02 | [ddools.animated-svg-go](https://marketplace.visualstudio.com/items?itemName=ddools.animated-svg-go) | Animated SVG GO | 0.1.0 | Animate the parts of any SVG with sliders, then export animated SVG, CSS, JS, G… |
+| 2026-10-21 21:57:41 | [agentlink.agentlink](https://marketplace.visualstudio.com/items?itemName=agentlink.agentlink) | AgentLink: AI Coding Agent | 1.60.0 | A coding-agent harness for VS Code with reviewable diffs, visible execution, an… |
 
 ## Data source
 

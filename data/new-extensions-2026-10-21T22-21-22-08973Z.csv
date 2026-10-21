@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T21:26:51.203Z,BubbleZapGamesLLC.xretrocode,BubbleZapGamesLLC,XRetroCode,0.1.1,R65 language support and Mesen-GDB source-level debugging for retro console development
+2026-10-21T21:34:08.207Z,pynesys.pyneide,pynesys,PyneIDE,0.9.1,"Pine Script and Pyne in VS Code: highlighting, completion and inline diagnostics for .pine files, a step-through Pine debugger, one-click compile and run, and an interactive backtest chart. Pine Script is a trademark of TradingView; PyneIDE is not a TradingView product and is not affiliated with Tra"
+2026-10-21T21:45:24.97Z,open-verilog.open-verilog,open-verilog,Open Verilog,0.2.0,"Syntax highlighting for Open Verilog (.ov), the SystemVerilog superset with elaboration-time values, bundles and pipelines."
+2026-10-21T21:45:45.717Z,Fieldrich.fieldrich-vscode-extension,Fieldrich,fieldrich-vscode-extension,1.2.0,VS Code extension for the FieldRich AI and agent experts
+2026-10-21T21:54:02.207Z,ddools.animated-svg-go,ddools,Animated SVG GO,0.1.0,"Animate the parts of any SVG with sliders, then export animated SVG, CSS, JS, GIF or MP4. Nothing leaves your machine."
+2026-10-21T21:57:41.013Z,agentlink.agentlink,agentlink,AgentLink: AI Coding Agent,1.60.0,"A coding-agent harness for VS Code with reviewable diffs, visible execution, and browser supervision"
