@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T14:18:36.973Z,wheatlay.switchboard-for-claude-code,wheatlay,Switchboard for Claude Code,2.2.2,Switch Claude Code accounts per window or repository and see every account's plan limits in the status bar. Not affiliated with Anthropic.
+2026-10-21T14:18:54.79Z,marnis-tech.marnis-team-sync,marnis-tech,Marnis Team Sync,0.1.0,Keeps VS Code settings and extensions in sync across a team from one central configuration file.
+2026-10-21T14:20:37.55Z,sergionius.flutter-agent-refresh,sergionius,Flutter Agent Refresh,0.5.3,"Hot reload and restart Flutter apps from Pi, Codex, and Claude Code in VS Code."
+2026-10-21T14:41:16.533Z,stefan1575.context-gauge-for-claude-code,stefan1575,Context Gauge for Claude Code,0.1.0,"Always-on context gauge in Claude Code's prompt box: tokens in context, green/orange/red at your thresholds, and the /context breakdown on hover."
+2026-10-21T14:44:36.78Z,valerii-barabanov.dagor-project-manager,valerii-barabanov,Dagor Project Manager,0.2.0,Manage Dagor projects and open Dagor BLK files from VS Code.
+2026-10-21T14:46:47.993Z,quocn.quocn-ai-workspace,quocn,Quocn AI Workspace,0.3.0,"Manage daily prompt tasks in .prompts/ with status tracking, AI action launch, and agent write-back"
+2026-10-21T14:59:30.85Z,wsafight.gpui-rsx,wsafight,GPUI RSX,0.8.0,"Class completion, diagnostics, expansion hover and formatting for GPUI RSX macros."
+2026-10-21T15:02:17.293Z,bobrowsse-tech.ai-kit,bobrowsse-tech,AI Project Kit,0.1.0,"Install and refresh the AI Project Kit (rules, docs, guardrails, MCP setup) in the open workspace — same engine as the npm CLI."
+2026-10-21T15:11:43.847Z,aymenhammami.archipelago-theme,aymenhammami,Archipelago Dark,1.0.0,"A calm dark theme of floating islands, inspired by JetBrains' Islands UI and tuned for Python."
