@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T22:32:32.727Z,pvrobays.walk-me-through,pvrobays,Walk Me Through,0.1.0,"Play evidence-backed, code-anchored walkthroughs."
+2026-10-21T22:34:09.867Z,commenteme.shopify-snippets,commenteme,Shopify Snippets,0.1.2,"Snippets de Liquid y validación del {% schema %} para temas de Shopify, generados desde la documentación oficial."
+2026-10-21T23:02:44.413Z,BeboutItSolutions.cppo,BeboutItSolutions,CPPO — Claude Parallel Profile Orchestration,1.18.0,"Make Claude Code the lead of a multi-model team: delegate answers and sandboxed agent tasks to GLM, GPT (Codex) and Claude across the services you use, routed by roles with fallbacks and reviewed before they land — plus a Claude account per VS Code window, with one shared history."
+2026-10-21T23:10:33.907Z,spltek.harny,spltek,Harny - AI Coding Harness,0.5.3,"AI coding harness for VSCodium and VS Code — fast and packed with features, built on a SOLID core. Any OpenAI-compatible endpoint works out of the box."
+2026-10-21T23:10:48.47Z,nikita-andreiev.p3n-vscode,nikita-andreiev,p3n,0.1.0,"Select text and see if it reads as AI-written, or rewrite it in place. Free without an account."
+2026-10-21T23:13:14.113Z,drurls.drurls-sync,drurls,Dr Urls Sync,0.41.0,"Pull Dr Urls audits, captures, screenshots and AI feedback into your workspace as AI-ready markdown tasks."
