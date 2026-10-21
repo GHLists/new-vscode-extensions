@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T07:15:04.13Z,p14jeffwest.madi-spell,p14jeffwest,madi 맞춤법 검사,0.4.1,madi(마디) 한국어 형태소 분석기 기반 맞춤법·띄어쓰기 검사 (LSP). 지적마다 한글 맞춤법 조항과 설명을 보여 줍니다.
+2026-10-21T07:18:19.213Z,Riklin.lockscreen-preview,Riklin,锁屏主题预览 Lockscreen Preview,1.0.0,锁屏主题 manifest.xml 实时预览：编辑保存即刷新，支持触摸/按钮/解锁/重力交互
+2026-10-21T07:21:12.227Z,yoshihicode.office-content-search,yoshihicode,Office Content Search,0.1.0,
+2026-10-21T07:42:16.23Z,nexusbloom.nexusbloom-tools,nexusbloom,NexusBloom Tools,1.0.1,"Create, edit, test, preview, publish, and manage NexusBloom tools — with Activity Bar, Webview preview, diagnostics, and more"
+2026-10-21T07:44:19.133Z,easecation.mcpywrap-vscode,easecation,mcpywrap — 游戏测试工作区,0.1.4,在 VS Code 中通过 mcpy CLI 管理 Minecraft 中国版测试会话、执行 Python 与热更模块。
+2026-10-21T08:02:45.713Z,NeoMetric.claude-acp-for-copilot,NeoMetric,Claude ACP for Copilot,0.1.6,Use Claude models from your own Claude plan inside GitHub Copilot Chat by running Anthropic's Agent Client Protocol adapter locally.
+2026-10-21T08:04:50.267Z,Reqnroll.reqnroll-ide-support,Reqnroll,Reqnroll Extension for VS Code (Preview),2026.1.1481,"[Preview] Support for Reqnroll & Gherkin — syntax highlighting, navigation, completion, and more."
+2026-10-21T08:07:27.68Z,dilanx.ultimate-svg-preview,dilanx,Ultimate SVG Preview,0.1.0,Preview inline SVG markup in JSX and TSX files.
+2026-10-21T08:15:45.84Z,SplitThePot.stp-configuration-explorer,SplitThePot,STP Configuration Explorer,0.1.0,"Explore app-configuration operator data (brands, platforms, operator groups) from inside VS Code."
