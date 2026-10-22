@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 05:20 UTC
+## Latest list — 2026-10-22 06:19 UTC
 
-New extensions published between 2026-10-22 03:20 UTC and 2026-10-22 05:20 UTC.
+New extensions published between 2026-10-22 04:19 UTC and 2026-10-22 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T05-20-52-724364Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T06-19-51-94628Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 04:27:02 | [ashraful.claude-auto-resume](https://marketplace.visualstudio.com/items?itemName=ashraful.claude-auto-resume) | Claude Auto-Resume | 0.1.1 | Pick a duration per Claude Code chat; when it ends, "continue" is typed and sen… |
-| 2026-10-22 04:42:29 | [nir414.gpl-language-support](https://marketplace.visualstudio.com/items?itemName=nir414.gpl-language-support) | Brooks GPL | 0.13.2 | GPL (Guidance Programming Language) support for Visual Studio Code - IntelliSen… |
-| 2026-10-22 04:44:33 | [MarkPhamm.quickdbd](https://marketplace.visualstudio.com/items?itemName=MarkPhamm.quickdbd) | QuickDBD (qdbd) | 0.1.0 | QuickDBD schema files in VS Code: highlighting, live errors, outline, go to def… |
-| 2026-10-22 04:45:46 | [eliashridoy.spiderling](https://marketplace.visualstudio.com/items?itemName=eliashridoy.spiderling) | Spiderling | 0.2.0 | See what your AI coding agents actually did. A little spider crawls your code a… |
-| 2026-10-22 04:56:44 | [devchan64.styled-markdown-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.styled-markdown-editor) | Styled Markdown | 0.1.0 | Markdown previews, diagram rendering, styles, and slide exports for VS Code. |
-| 2026-10-22 05:13:02 | [uiwwsw.hangulscript-vscode](https://marketplace.visualstudio.com/items?itemName=uiwwsw.hangulscript-vscode) | 한글스크립트 | 0.2.0 | 한글스크립트 .hgs 문법 강조, 포맷, 타입 오류, 자동 완성, 타입 정보와 정의로 이동 |
+| 2026-10-22 05:33:56 | [DevManish007.tensorflow-keras-snippets](https://marketplace.visualstudio.com/items?itemName=DevManish007.tensorflow-keras-snippets) | TensorFlow & Keras Snippets | 0.1.0 | Practical Python snippets for TensorFlow, Keras, and deep learning workflows. |
+| 2026-10-22 05:39:32 | [wintestkit.wintestkit](https://marketplace.visualstudio.com/items?itemName=wintestkit.wintestkit) | WinTestKit | 0.1.1 | UI test automation for Windows WPF apps — highlight elements, run tests, inspec… |
+| 2026-10-22 05:45:07 | [ChengXin.slicc](https://marketplace.visualstudio.com/items?itemName=ChengXin.slicc) | SLICC / gem5 Ruby Language Support | 0.3.0 | Write gem5 Ruby cache coherence protocols like you write C++: SLICC completion,… |
+| 2026-10-22 05:51:55 | [prince-terabits.clawd](https://marketplace.visualstudio.com/items?itemName=prince-terabits.clawd) | Clawd — Agent Sidebar for Claude Code | 1.0.1 | A coding agent in the secondary sidebar, powered by your local Claude Code CLI… |
+| 2026-10-22 06:15:13 | [finecss.finecss-intellisense](https://marketplace.visualstudio.com/items?itemName=finecss.finecss-intellisense) | finecss - rpx utility classes for uni-a… | 0.1.2 | finecss 工具类补全与悬浮提示(uni-app rpx 原子化 CSS:p-8 = 8rpx) |
+| 2026-10-22 06:16:33 | [while.cliproam](https://marketplace.visualstudio.com/items?itemName=while.cliproam) | ClipRoam | 0.2.6 | 在 VS Code 中查看跨设备剪贴板历史、添加选中文本。 |
 
 ## Data source
 
