@@ -12,22 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 09:19 UTC
+## Latest list — 2026-10-22 10:21 UTC
 
-New extensions published between 2026-10-22 07:19 UTC and 2026-10-22 09:19 UTC.
+New extensions published between 2026-10-22 08:21 UTC and 2026-10-22 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T09-19-58-769346Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T10-21-09-83904Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 08:25:39 | [longtd.local-api-client](https://marketplace.visualstudio.com/items?itemName=longtd.local-api-client) | Local API Client | 0.2.0 | A free, local-first API client for VS Code. Requests are plain YAML files in yo… |
-| 2026-10-22 08:31:24 | [EngHamzaAboJarad.ai-handoff-mcp](https://marketplace.visualstudio.com/items?itemName=EngHamzaAboJarad.ai-handoff-mcp) | AI Handoff MCP | 0.1.0 | @handoff in the chat: see where the last AI agent stopped, rate a prompt before… |
-| 2026-10-22 08:32:45 | [thelaconicguy.ollama-pilot](https://marketplace.visualstudio.com/items?itemName=thelaconicguy.ollama-pilot) | Saarthi AI | 0.2.2 | Copilot-style inline completions and agent chat, running entirely on your machi… |
-| 2026-10-22 08:33:51 | [bhu.grok-build-vscode](https://marketplace.visualstudio.com/items?itemName=bhu.grok-build-vscode) | VS Code Client for Grok Build (Unoffici… | 0.4.0 | Unofficial community extension, not affiliated with or endorsed by xAI. Native… |
-| 2026-10-22 08:35:55 | [KonstantinSofeikov.nbreview](https://marketplace.visualstudio.com/items?itemName=KonstantinSofeikov.nbreview) | Notebook Review for GitHub Pull Request… | 0.5.0 | Review Jupyter notebooks (.ipynb) in GitHub pull requests inside VS Code: rende… |
-| 2026-10-22 08:38:40 | [omiiii21.layers](https://marketplace.visualstudio.com/items?itemName=omiiii21.layers) | Layers for Claude Code | 0.5.1 | Everything Claude Code doesn't show you: every Claude account and its limits wi… |
-| 2026-10-22 08:40:47 | [itsmmarc.tf2-sourcescheme-preview](https://marketplace.visualstudio.com/items?itemName=itsmmarc.tf2-sourcescheme-preview) | TF2 SourceScheme Preview | 0.5.5 | Live preview of a TF2 HUD's sourcescheme.res: server browser, options dialog an… |
-| 2026-10-22 09:01:35 | [Econometric.stata-kernel-jupyter](https://marketplace.visualstudio.com/items?itemName=Econometric.stata-kernel-jupyter) | Stata-Kernel-Jupyter | 1.0.7 | 在 VS Code 中用 .ipynb 直接运行 Stata —— 注册 Jupyter Stata 内核，支持 Quarto/Markdown/HTML 多… |
+| 2026-10-22 09:27:51 | [shixinxin.vscode-git-toolkit](https://marketplace.visualstudio.com/items?itemName=shixinxin.vscode-git-toolkit) | Git 工具箱 | 0.3.16 | 在 VS Code 中管理本地忽略、本地分支和线上分支。 |
+| 2026-10-22 09:29:55 | [ntnyq.gdfmt](https://marketplace.visualstudio.com/items?itemName=ntnyq.gdfmt) | gdfmt | 0.1.0 | Validated GDScript formatting powered by Rust |
+| 2026-10-22 09:32:59 | [hasitha-gallella.live-graph-coder](https://marketplace.visualstudio.com/items?itemName=hasitha-gallella.live-graph-coder) | Live Graph Coder (Beta V1) | 0.1.0 | A realtime live-graph of your codebase to work and search with the natural lang… |
+| 2026-10-22 09:34:18 | [ducnvx.insert-numbers-live](https://marketplace.visualstudio.com/items?itemName=ducnvx.insert-numbers-live) | Insert Numbers Live | 1.0.1 | Insert numbers, letters, dates, lists, random codes or expressions at multiple… |
+| 2026-10-22 09:40:46 | [inzamrzn918.stackvet-vscode](https://marketplace.visualstudio.com/items?itemName=inzamrzn918.stackvet-vscode) | StackVet | 0.2.0 | Universal project health and static diagnostics engine for VS Code |
+| 2026-10-22 09:51:28 | [change-spotlight.change-spotlight](https://marketplace.visualstudio.com/items?itemName=change-spotlight.change-spotlight) | Change Spotlight | 0.1.0 | Highlights the UI changes on your branch and tracks which ones you have actuall… |
+| 2026-10-22 09:53:38 | [heyliam.csv-semantic-diff](https://marketplace.visualstudio.com/items?itemName=heyliam.csv-semantic-diff) | CSV Semantic Diff | 0.1.0 | Compare two CSV or TSV files by meaning: rows are matched by key column, so sor… |
+| 2026-10-22 09:53:38 | [heyliam.graphql-breaking-changes](https://marketplace.visualstudio.com/items?itemName=heyliam.graphql-breaking-changes) | GraphQL Breaking Changes | 0.1.0 | Diff two versions of a GraphQL schema and see what changed for API clients, wit… |
+| 2026-10-22 09:54:02 | [heyliam.terraform-plan-viewer](https://marketplace.visualstudio.com/items?itemName=heyliam.terraform-plan-viewer) | Terraform Plan Viewer | 0.1.0 | Read a Terraform or OpenTofu plan in a minute: a summary, destructive changes f… |
+| 2026-10-22 09:54:09 | [heyliam.agent-profiles](https://marketplace.visualstudio.com/items?itemName=heyliam.agent-profiles) | Agent Profiles | 0.1.0 | Switch the provider, gateway, key and models that Claude Code and Codex CLI use… |
+| 2026-10-22 09:55:33 | [heyliam.local-workspace-settings](https://marketplace.visualstudio.com/items?itemName=heyliam.local-workspace-settings) | Local Workspace Settings | 0.1.0 | A git-ignored settings.local.json for VS Code: commit the team's workspace sett… |
+| 2026-10-22 10:08:21 | [HeltonLHD.wslc-console](https://marketplace.visualstudio.com/items?itemName=HeltonLHD.wslc-console) | WSLC Container Console | 0.4.7 | Visualize and operate WSL containers (wslc): containers, images, networks, volu… |
+| 2026-10-22 10:18:27 | [TingelTangelBob.csv-simple-editor](https://marketplace.visualstudio.com/items?itemName=TingelTangelBob.csv-simple-editor) | CSV Simple Editor | 1.2.1 | View and edit CSV and TSV files as a table in VS Code. Auto-detect delimiters,… |
 
 ## Data source
 
