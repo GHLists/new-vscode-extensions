@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 20:20 UTC
+## Latest list — 2026-10-22 21:19 UTC
 
-New extensions published between 2026-10-22 18:20 UTC and 2026-10-22 20:20 UTC.
+New extensions published between 2026-10-22 19:19 UTC and 2026-10-22 21:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T20-20-53-802515Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T21-19-46-598725Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 19:21:09 | [nileagi.nileagi-delta-code](https://marketplace.visualstudio.com/items?itemName=nileagi.nileagi-delta-code) | Delta Code by NileAGI | 0.3.0 | Offline-first AI coding assistant. Connect to Delta or any OpenAI-compatible ba… |
-| 2026-10-22 19:24:49 | [JefersonPontes.md-tool](https://marketplace.visualstudio.com/items?itemName=JefersonPontes.md-tool) | MD tool | 0.1.0 | Preview, edit and export Markdown to PDF and RTF. |
-| 2026-10-22 19:25:13 | [bagui.bagui-vscode](https://marketplace.visualstudio.com/items?itemName=bagui.bagui-vscode) | BagUi VS Code | 0.1.2 | Browse, preview, and install BagUI components directly in VS Code |
-| 2026-10-22 19:44:23 | [record-editor-pse.record-editor-ts-ext](https://marketplace.visualstudio.com/items?itemName=record-editor-pse.record-editor-ts-ext) | Record Editor TS | 0.1.1 | Herramientas de VS Code para inspeccionar y validar ficheros COBOL con copybook… |
-| 2026-10-22 19:57:35 | [Kith-coord.kith](https://marketplace.visualstudio.com/items?itemName=Kith-coord.kith) | Kith | 0.1.4 | Connect coding agents to Kith and inspect local worktree coordination in VS Cod… |
+| 2026-10-22 21:01:54 | [RedwoodEDA.tlverilog](https://marketplace.visualstudio.com/items?itemName=RedwoodEDA.tlverilog) | TL-Verilog | 0.0.2 | TL-Verilog support for VS Code |
+| 2026-10-22 21:07:16 | [PChin.lantern-theme](https://marketplace.visualstudio.com/items?itemName=PChin.lantern-theme) | Lantern Theme | 1.0.0 | Three very dark blue and violet themes for VS Code, lit with gold highlights: N… |
 
 ## Data source
 
