@@ -12,16 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 21:19 UTC
+## Latest list — 2026-10-22 22:20 UTC
 
-New extensions published between 2026-10-22 19:19 UTC and 2026-10-22 21:19 UTC.
+New extensions published between 2026-10-22 20:20 UTC and 2026-10-22 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T21-19-46-598725Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T22-20-03-43297Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 21:01:54 | [RedwoodEDA.tlverilog](https://marketplace.visualstudio.com/items?itemName=RedwoodEDA.tlverilog) | TL-Verilog | 0.0.2 | TL-Verilog support for VS Code |
-| 2026-10-22 21:07:16 | [PChin.lantern-theme](https://marketplace.visualstudio.com/items?itemName=PChin.lantern-theme) | Lantern Theme | 1.0.0 | Three very dark blue and violet themes for VS Code, lit with gold highlights: N… |
+| 2026-10-22 21:17:09 | [RedwoodEDA.makerchip](https://marketplace.visualstudio.com/items?itemName=RedwoodEDA.makerchip) | Makerchip | 0.0.1 | Design, simulate, and visualize TL-Verilog and Verilog circuits in the Makerchi… |
+| 2026-10-22 21:46:07 | [YorickFin.parallelagent-orchestrator](https://marketplace.visualstudio.com/items?itemName=YorickFin.parallelagent-orchestrator) | ParallelAgent Orchestrator | 1.1.3 | CDP 执行器 + HTTP 网关 + 文件信箱 watch —— 仲裁者的自动化之手 |
+| 2026-10-22 21:47:35 | [heyjeay.stream-code](https://marketplace.visualstudio.com/items?itemName=heyjeay.stream-code) | Stream Code Overlay | 1.6.1 | Show the code you're writing on stream: a clean, themed, syntax-highlighted ove… |
 
 ## Data source
 

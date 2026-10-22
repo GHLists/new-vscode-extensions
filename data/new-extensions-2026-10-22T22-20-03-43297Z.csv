@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T21:17:09.747Z,RedwoodEDA.makerchip,RedwoodEDA,Makerchip,0.0.1,"Design, simulate, and visualize TL-Verilog and Verilog circuits in the Makerchip IDE, together with AI agents (GitHub Copilot, Claude). Pre-release; for open-source development."
+2026-10-22T21:46:07.287Z,YorickFin.parallelagent-orchestrator,YorickFin,ParallelAgent Orchestrator,1.1.3,CDP 执行器 + HTTP 网关 + 文件信箱 watch —— 仲裁者的自动化之手
+2026-10-22T21:47:35.893Z,heyjeay.stream-code,heyjeay,Stream Code Overlay,1.6.1,"Show the code you're writing on stream: a clean, themed, syntax-highlighted overlay for OBS and other browser sources, instead of capturing the VS Code window."
