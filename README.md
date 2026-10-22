@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 11:21 UTC
+## Latest list — 2026-10-22 12:20 UTC
 
-New extensions published between 2026-10-22 09:21 UTC and 2026-10-22 11:21 UTC.
+New extensions published between 2026-10-22 10:20 UTC and 2026-10-22 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T11-21-07-003974Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T12-20-45-343568Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 10:29:24 | [ChaoyangLuo.excalidraw-math-preview](https://marketplace.visualstudio.com/items?itemName=ChaoyangLuo.excalidraw-math-preview) | Excalidraw Math Preview | 0.1.3 | Unofficial Excalidraw math preview for VS Code: edit LaTeX and AsciiMath formul… |
-| 2026-10-22 10:38:16 | [adsbhatial.obsidian-preview-native](https://marketplace.visualstudio.com/items?itemName=adsbhatial.obsidian-preview-native) | Obsidian Preview Native | 0.2.3 | Renders Obsidian image embeds, ==highlights== and > [!callouts] in the built-in… |
-| 2026-10-22 10:43:36 | [OmarElmasry.lectern](https://marketplace.visualstudio.com/items?itemName=OmarElmasry.lectern) | Lectern: Markdown Reader | 1.0.0 | A calm, distraction-free reading view for Markdown in VS Code: clean typography… |
-| 2026-10-22 10:48:35 | [akashsahay.vftp](https://marketplace.visualstudio.com/items?itemName=akashsahay.vftp) | Remote FTP | 0.1.1 | Browse and edit files on FTP, FTPS and SFTP servers from a sidebar, configured… |
-| 2026-10-22 10:52:33 | [kalybospro.frus](https://marketplace.visualstudio.com/items?itemName=kalybospro.frus) | frus | 0.1.0 | Run frus applications on any device from VS Code: a device picker, F5, the appl… |
+| 2026-10-22 11:15:19 | [pablofdez.pokemon-companion](https://marketplace.visualstudio.com/items?itemName=pablofdez.pokemon-companion) | Ctrl+Catch | 0.4.0 | Juego de fans: gana monedas al guardar tu código y captura Pokémon salvajes mie… |
+| 2026-10-22 11:42:50 | [RunChuan.research-day](https://marketplace.visualstudio.com/items?itemName=RunChuan.research-day) | researchday | 0.6.4 | 简单、本地文件驱动的研究生活工作台 |
+| 2026-10-22 11:46:14 | [CoreTrace.coretrace](https://marketplace.visualstudio.com/items?itemName=CoreTrace.coretrace) | CoreTrace | 0.3.4 | Integration for CoreTrace CLI |
+| 2026-10-22 11:50:17 | [samarin-aa-aka-rtm00.git-awesome](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.git-awesome) | Git Awesome — IDE-style Commit, Log & B… | 0.1.0 | Git the way JetBrains IDEs do it: a Commit tool window with checkboxes and chan… |
+| 2026-10-22 12:06:43 | [AshinBerish.sidetrack](https://marketplace.visualstudio.com/items?itemName=AshinBerish.sidetrack) | Sidetrack — Now Playing for Spotify | 0.1.0 | See what's playing on Spotify and control it from a section in the Explorer. |
+| 2026-10-22 12:12:27 | [amrhasanain.objrust](https://marketplace.visualstudio.com/items?itemName=amrhasanain.objrust) | ObjRust Language Support | 1.0.0 | Basic syntax highlighting for ObjRust files |
+| 2026-10-22 12:13:21 | [hizikc.hi-developer](https://marketplace.visualstudio.com/items?itemName=hizikc.hi-developer) | Hi_developer | 0.0.1 | Message with text 'Hi developer' |
 
 ## Data source
 
