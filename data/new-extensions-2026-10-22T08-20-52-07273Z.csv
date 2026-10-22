@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T07:25:45.013Z,IrwinShen.search-file-for-source-code,IrwinShen,Search File for Source Code,0.2.2,狀態列按鈕：開啟 Find In Files 對話框，用 grep 搜尋（自動偵測 Git for Windows，找不到時使用套件內建的 grep），結果輸出到終端機，Ctrl+點擊即可跳到該行。
+2026-10-22T07:27:36.97Z,goldtagworks.git403-vscode,goldtagworks,git403 for VS Code,1.0.1,"Free, fast Git client with a rich commit graph, inline blame, and file/line history"
+2026-10-22T07:31:17.883Z,pandarayc.editor-context-bridge,pandarayc,Editor Context — share what you're looking at,0.5.1,"Publishes the file, line range and selected text you are looking at in Cursor/VS Code, in process to sibling extensions and on disk to subscribed agents."
+2026-10-22T07:31:52.343Z,AshinBerish.fireside-theme,AshinBerish,Fireside Theme,3.1.0,"A cosy light theme for VS Code: white editor, warm ivory chrome and ember orange accents"
+2026-10-22T07:47:48.663Z,SolaireFR.clean-git,SolaireFR,Clean Git,2.0.0,Visually clean up local Git branches and stashes that are no longer needed
+2026-10-22T07:48:47.523Z,cequrebackends.vscode-cequre,cequrebackends,Cequre,1.0.7,Language support for .cequre files
+2026-10-22T08:09:59.803Z,jaredqu.booknotes,jaredqu,BookNotes,0.1.26,"Local PDF/EPUB reading, source-linked cards, mind map canvas and configurable book AI."
+2026-10-22T08:15:03.26Z,zyyv.vscode-asset-size,zyyv,Assets Size,0.3.0,"See asset sizes and folder counts in Explorer. Compress JPEG, PNG and WebP locally, with a visual comparison before saving."
