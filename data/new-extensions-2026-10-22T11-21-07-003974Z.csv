@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T10:29:24.03Z,ChaoyangLuo.excalidraw-math-preview,ChaoyangLuo,Excalidraw Math Preview,0.1.3,"Unofficial Excalidraw math preview for VS Code: edit LaTeX and AsciiMath formulas, diagrams, and reusable libraries locally."
+2026-10-22T10:38:16.987Z,adsbhatial.obsidian-preview-native,adsbhatial,Obsidian Preview Native,0.2.3,"Renders Obsidian image embeds, ==highlights== and > [!callouts] in the built-in Markdown preview."
+2026-10-22T10:43:36.07Z,OmarElmasry.lectern,OmarElmasry,Lectern: Markdown Reader,1.0.0,"A calm, distraction-free reading view for Markdown in VS Code: clean typography, five reading themes, outline, callouts, math, Mermaid diagrams, clickable task lists and wiki links."
+2026-10-22T10:48:35.02Z,akashsahay.vftp,akashsahay,Remote FTP,0.1.1,"Browse and edit files on FTP, FTPS and SFTP servers from a sidebar, configured per project with a .ftpconfig file."
+2026-10-22T10:52:33.273Z,kalybospro.frus,kalybospro,frus,0.1.0,"Run frus applications on any device from VS Code: a device picker, F5, the application's log in the Debug Console, and reload on save."

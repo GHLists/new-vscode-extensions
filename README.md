@@ -12,27 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 10:21 UTC
+## Latest list — 2026-10-22 11:21 UTC
 
-New extensions published between 2026-10-22 08:21 UTC and 2026-10-22 10:21 UTC.
+New extensions published between 2026-10-22 09:21 UTC and 2026-10-22 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T10-21-09-83904Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T11-21-07-003974Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 09:27:51 | [shixinxin.vscode-git-toolkit](https://marketplace.visualstudio.com/items?itemName=shixinxin.vscode-git-toolkit) | Git 工具箱 | 0.3.16 | 在 VS Code 中管理本地忽略、本地分支和线上分支。 |
-| 2026-10-22 09:29:55 | [ntnyq.gdfmt](https://marketplace.visualstudio.com/items?itemName=ntnyq.gdfmt) | gdfmt | 0.1.0 | Validated GDScript formatting powered by Rust |
-| 2026-10-22 09:32:59 | [hasitha-gallella.live-graph-coder](https://marketplace.visualstudio.com/items?itemName=hasitha-gallella.live-graph-coder) | Live Graph Coder (Beta V1) | 0.1.0 | A realtime live-graph of your codebase to work and search with the natural lang… |
-| 2026-10-22 09:34:18 | [ducnvx.insert-numbers-live](https://marketplace.visualstudio.com/items?itemName=ducnvx.insert-numbers-live) | Insert Numbers Live | 1.0.1 | Insert numbers, letters, dates, lists, random codes or expressions at multiple… |
-| 2026-10-22 09:40:46 | [inzamrzn918.stackvet-vscode](https://marketplace.visualstudio.com/items?itemName=inzamrzn918.stackvet-vscode) | StackVet | 0.2.0 | Universal project health and static diagnostics engine for VS Code |
-| 2026-10-22 09:51:28 | [change-spotlight.change-spotlight](https://marketplace.visualstudio.com/items?itemName=change-spotlight.change-spotlight) | Change Spotlight | 0.1.0 | Highlights the UI changes on your branch and tracks which ones you have actuall… |
-| 2026-10-22 09:53:38 | [heyliam.csv-semantic-diff](https://marketplace.visualstudio.com/items?itemName=heyliam.csv-semantic-diff) | CSV Semantic Diff | 0.1.0 | Compare two CSV or TSV files by meaning: rows are matched by key column, so sor… |
-| 2026-10-22 09:53:38 | [heyliam.graphql-breaking-changes](https://marketplace.visualstudio.com/items?itemName=heyliam.graphql-breaking-changes) | GraphQL Breaking Changes | 0.1.0 | Diff two versions of a GraphQL schema and see what changed for API clients, wit… |
-| 2026-10-22 09:54:02 | [heyliam.terraform-plan-viewer](https://marketplace.visualstudio.com/items?itemName=heyliam.terraform-plan-viewer) | Terraform Plan Viewer | 0.1.0 | Read a Terraform or OpenTofu plan in a minute: a summary, destructive changes f… |
-| 2026-10-22 09:54:09 | [heyliam.agent-profiles](https://marketplace.visualstudio.com/items?itemName=heyliam.agent-profiles) | Agent Profiles | 0.1.0 | Switch the provider, gateway, key and models that Claude Code and Codex CLI use… |
-| 2026-10-22 09:55:33 | [heyliam.local-workspace-settings](https://marketplace.visualstudio.com/items?itemName=heyliam.local-workspace-settings) | Local Workspace Settings | 0.1.0 | A git-ignored settings.local.json for VS Code: commit the team's workspace sett… |
-| 2026-10-22 10:08:21 | [HeltonLHD.wslc-console](https://marketplace.visualstudio.com/items?itemName=HeltonLHD.wslc-console) | WSLC Container Console | 0.4.7 | Visualize and operate WSL containers (wslc): containers, images, networks, volu… |
-| 2026-10-22 10:18:27 | [TingelTangelBob.csv-simple-editor](https://marketplace.visualstudio.com/items?itemName=TingelTangelBob.csv-simple-editor) | CSV Simple Editor | 1.2.1 | View and edit CSV and TSV files as a table in VS Code. Auto-detect delimiters,… |
+| 2026-10-22 10:29:24 | [ChaoyangLuo.excalidraw-math-preview](https://marketplace.visualstudio.com/items?itemName=ChaoyangLuo.excalidraw-math-preview) | Excalidraw Math Preview | 0.1.3 | Unofficial Excalidraw math preview for VS Code: edit LaTeX and AsciiMath formul… |
+| 2026-10-22 10:38:16 | [adsbhatial.obsidian-preview-native](https://marketplace.visualstudio.com/items?itemName=adsbhatial.obsidian-preview-native) | Obsidian Preview Native | 0.2.3 | Renders Obsidian image embeds, ==highlights== and > [!callouts] in the built-in… |
+| 2026-10-22 10:43:36 | [OmarElmasry.lectern](https://marketplace.visualstudio.com/items?itemName=OmarElmasry.lectern) | Lectern: Markdown Reader | 1.0.0 | A calm, distraction-free reading view for Markdown in VS Code: clean typography… |
+| 2026-10-22 10:48:35 | [akashsahay.vftp](https://marketplace.visualstudio.com/items?itemName=akashsahay.vftp) | Remote FTP | 0.1.1 | Browse and edit files on FTP, FTPS and SFTP servers from a sidebar, configured… |
+| 2026-10-22 10:52:33 | [kalybospro.frus](https://marketplace.visualstudio.com/items?itemName=kalybospro.frus) | frus | 0.1.0 | Run frus applications on any device from VS Code: a device picker, F5, the appl… |
 
 ## Data source
 
