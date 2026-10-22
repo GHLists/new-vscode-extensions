@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T00:16:14.563Z,Assimalign.tooling-msbuild-extensions,Assimalign,Assimalign MSBuild Extensions,0.1.0,"MSBuild IntelliSense for project, props, and targets files: the MSBuild schema, plus the custom properties, items, and tasks found by following each file's import chain."
+2026-10-22T00:19:57.367Z,tunacook.vscode-naninovel-distiller,tunacook,Naninovel Distiller,0.0.1,Naninovelシナリオの文字数統計を表示します
+2026-10-22T00:25:23.257Z,claudineyqr.manage-nuget-packages,claudineyqr,Manage NuGet Packages,1.0.0,Manager NuGet Packages extension for VS Code.
+2026-10-22T01:05:24.177Z,DenizhanDaklr.palaestra,DenizhanDaklr,"Palaestra: Exam, Engineering and Interview Practice",0.1.0,"Original practice questions for exams, olympiads, engineering and interviews in 12 languages, on the models already in your editor."
+2026-10-22T01:13:40.637Z,kadal.kadal-deck,kadal,Kadal Deck,0.1.0,"Kadal Deck in VS Code: a live preview that follows your cursor, a slide outline you can drag to reorder, frontmatter and component IntelliSense, the deck's checks as problems, formatting, and one-click dev, presenter and PDF export."
