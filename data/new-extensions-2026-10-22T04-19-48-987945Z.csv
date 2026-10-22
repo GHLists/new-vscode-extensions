@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T03:25:50.227Z,wga.wga-ai-gateway-setup,wga,WGA Developer Workspace Setup,0.1.11,Configure shared WGA developer environment settings and tools.
+2026-10-22T03:27:38.1Z,gadfly.gadfly-reviewer,gadfly,Gadfly Reviewer,0.1.1,"Read, review and listen to Markdown plans. Sends review feedback to the Claude Code session that wrote them."
+2026-10-22T03:28:39.753Z,Bennethon.benne-editor,Bennethon,BENNE Editor,0.1.0,Visual editor for the BENNE point-and-click adventure game engine.
+2026-10-22T03:56:19.167Z,clotr-app.clotr,clotr-app,Clotr,0.1.0,Find private details in your open files before an AI assistant can read them.
+2026-10-22T04:03:34.357Z,evancoonrod.set-ops,evancoonrod,Set Ops,0.1.1,"Compare editor tabs line by line: intersection, union, difference, symmetric difference, unique, and duplicates."
+2026-10-22T04:15:21.723Z,Muri-Muri-Socratico.tutor-socratico-c,Muri-Muri-Socratico,Muri-Muri Socratico,0.5.0,"Tutor de IA para Fundamentos de Programação em C: ajuda com perguntas e pistas, sem entregar a solução, e indica a videoaula certa para cada dúvida."
