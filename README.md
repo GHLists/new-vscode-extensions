@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 04:19 UTC
+## Latest list — 2026-10-22 05:20 UTC
 
-New extensions published between 2026-10-22 02:19 UTC and 2026-10-22 04:19 UTC.
+New extensions published between 2026-10-22 03:20 UTC and 2026-10-22 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T04-19-48-987945Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T05-20-52-724364Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 03:25:50 | [wga.wga-ai-gateway-setup](https://marketplace.visualstudio.com/items?itemName=wga.wga-ai-gateway-setup) | WGA Developer Workspace Setup | 0.1.11 | Configure shared WGA developer environment settings and tools. |
-| 2026-10-22 03:27:38 | [gadfly.gadfly-reviewer](https://marketplace.visualstudio.com/items?itemName=gadfly.gadfly-reviewer) | Gadfly Reviewer | 0.1.1 | Read, review and listen to Markdown plans. Sends review feedback to the Claude… |
-| 2026-10-22 03:28:39 | [Bennethon.benne-editor](https://marketplace.visualstudio.com/items?itemName=Bennethon.benne-editor) | BENNE Editor | 0.1.0 | Visual editor for the BENNE point-and-click adventure game engine. |
-| 2026-10-22 03:56:19 | [clotr-app.clotr](https://marketplace.visualstudio.com/items?itemName=clotr-app.clotr) | Clotr | 0.1.0 | Find private details in your open files before an AI assistant can read them. |
-| 2026-10-22 04:03:34 | [evancoonrod.set-ops](https://marketplace.visualstudio.com/items?itemName=evancoonrod.set-ops) | Set Ops | 0.1.1 | Compare editor tabs line by line: intersection, union, difference, symmetric di… |
-| 2026-10-22 04:15:21 | [Muri-Muri-Socratico.tutor-socratico-c](https://marketplace.visualstudio.com/items?itemName=Muri-Muri-Socratico.tutor-socratico-c) | Muri-Muri Socratico | 0.5.0 | Tutor de IA para Fundamentos de Programação em C: ajuda com perguntas e pistas,… |
+| 2026-10-22 04:27:02 | [ashraful.claude-auto-resume](https://marketplace.visualstudio.com/items?itemName=ashraful.claude-auto-resume) | Claude Auto-Resume | 0.1.1 | Pick a duration per Claude Code chat; when it ends, "continue" is typed and sen… |
+| 2026-10-22 04:42:29 | [nir414.gpl-language-support](https://marketplace.visualstudio.com/items?itemName=nir414.gpl-language-support) | Brooks GPL | 0.13.2 | GPL (Guidance Programming Language) support for Visual Studio Code - IntelliSen… |
+| 2026-10-22 04:44:33 | [MarkPhamm.quickdbd](https://marketplace.visualstudio.com/items?itemName=MarkPhamm.quickdbd) | QuickDBD (qdbd) | 0.1.0 | QuickDBD schema files in VS Code: highlighting, live errors, outline, go to def… |
+| 2026-10-22 04:45:46 | [eliashridoy.spiderling](https://marketplace.visualstudio.com/items?itemName=eliashridoy.spiderling) | Spiderling | 0.2.0 | See what your AI coding agents actually did. A little spider crawls your code a… |
+| 2026-10-22 04:56:44 | [devchan64.styled-markdown-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.styled-markdown-editor) | Styled Markdown | 0.1.0 | Markdown previews, diagram rendering, styles, and slide exports for VS Code. |
+| 2026-10-22 05:13:02 | [uiwwsw.hangulscript-vscode](https://marketplace.visualstudio.com/items?itemName=uiwwsw.hangulscript-vscode) | 한글스크립트 | 0.2.0 | 한글스크립트 .hgs 문법 강조, 포맷, 타입 오류, 자동 완성, 타입 정보와 정의로 이동 |
 
 ## Data source
 

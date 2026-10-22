@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T04:27:02.727Z,ashraful.claude-auto-resume,ashraful,Claude Auto-Resume,0.1.1,"Pick a duration per Claude Code chat; when it ends, ""continue"" is typed and sent in that chat, so work resumes after a usage limit resets."
+2026-10-22T04:42:29.65Z,nir414.gpl-language-support,nir414,Brooks GPL,0.13.2,"GPL (Guidance Programming Language) support for Visual Studio Code - IntelliSense, Go to Definition, Find References for Brooks Automation robot control language"
+2026-10-22T04:44:33.313Z,MarkPhamm.quickdbd,MarkPhamm,QuickDBD (qdbd),0.1.0,"QuickDBD schema files in VS Code: highlighting, live errors, outline, go to definition, and the interactive ER diagram beside your editor."
+2026-10-22T04:45:46.273Z,eliashridoy.spiderling,eliashridoy,Spiderling,0.2.0,"See what your AI coding agents actually did. A little spider crawls your code as Claude Code, Codex and Antigravity read, search and edit, and every session becomes a trace you can replay."
+2026-10-22T04:56:44.97Z,devchan64.styled-markdown-editor,devchan64,Styled Markdown,0.1.0,"Markdown previews, diagram rendering, styles, and slide exports for VS Code."
+2026-10-22T05:13:02.613Z,uiwwsw.hangulscript-vscode,uiwwsw,한글스크립트,0.2.0,"한글스크립트 .hgs 문법 강조, 포맷, 타입 오류, 자동 완성, 타입 정보와 정의로 이동"
