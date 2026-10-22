@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T01:40:48.8Z,dannytv0307.agent-trace,dannytv0307,Agent Trace,0.1.0,"See what Claude Code is doing, live, against your setup: CLAUDE.md, agents, slash commands, skills, MCP servers, hooks and plugins, lit up as they are used."
+2026-10-22T01:48:11.997Z,pqa-language.pqa-language-support,pqa-language,PQA — Programmable Query Automation,0.2.0,Hỗ trợ ngôn ngữ PQA và DSL PQA Web trực tiếp trong VS Code.
+2026-10-22T01:53:49.04Z,honeywood.honeywood-theme,honeywood,Honeywood: A Pastel Woodland Theme,1.0.0,"A calm, pastel light theme with cream pages, powder-blue chrome and hand-drawn woodland file icons — two syntax styles, Picture Book and Quiet Ink."
+2026-10-22T01:57:55.283Z,xnscu.lua-resty-template-lsp,xnscu,Lua Server Pages (lua-resty-template),1.0.0,Syntax highlighting and code beautifier for lua-resty-template (.lsp) in OpenResty and Lua
+2026-10-22T02:02:17.693Z,DaniloFG.gittools-vscode,DaniloFG,GitTools,0.5.0,"Git with a visual interface: drag and click to merge, rebase and cherry-pick whole branches, commits, files or even single lines."
+2026-10-22T02:14:18.577Z,lupee.elasticsearch-studio,lupee,ES Studio,1.0.1,Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query - EDQL）、命令窗口、数据查看与编辑、导入导出
+2026-10-22T02:16:40.883Z,code-digest.code-digest,code-digest,Code Digest,1.0.0,"Read long texts inside your editor as inline comments — no extra tabs, no separate viewer, no modified files."

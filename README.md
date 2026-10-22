@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 01:19 UTC
+## Latest list — 2026-10-22 02:19 UTC
 
-New extensions published between 2026-10-21 23:19 UTC and 2026-10-22 01:19 UTC.
+New extensions published between 2026-10-22 00:19 UTC and 2026-10-22 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T01-19-22-935765Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T02-19-41-643212Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 00:16:14 | [Assimalign.tooling-msbuild-extensions](https://marketplace.visualstudio.com/items?itemName=Assimalign.tooling-msbuild-extensions) | Assimalign MSBuild Extensions | 0.1.0 | MSBuild IntelliSense for project, props, and targets files: the MSBuild schema,… |
-| 2026-10-22 00:19:57 | [tunacook.vscode-naninovel-distiller](https://marketplace.visualstudio.com/items?itemName=tunacook.vscode-naninovel-distiller) | Naninovel Distiller | 0.0.1 | Naninovelシナリオの文字数統計を表示します |
-| 2026-10-22 00:25:23 | [claudineyqr.manage-nuget-packages](https://marketplace.visualstudio.com/items?itemName=claudineyqr.manage-nuget-packages) | Manage NuGet Packages | 1.0.0 | Manager NuGet Packages extension for VS Code. |
-| 2026-10-22 01:05:24 | [DenizhanDaklr.palaestra](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.palaestra) | Palaestra: Exam, Engineering and Interv… | 0.1.0 | Original practice questions for exams, olympiads, engineering and interviews in… |
-| 2026-10-22 01:13:40 | [kadal.kadal-deck](https://marketplace.visualstudio.com/items?itemName=kadal.kadal-deck) | Kadal Deck | 0.1.0 | Kadal Deck in VS Code: a live preview that follows your cursor, a slide outline… |
+| 2026-10-22 01:40:48 | [dannytv0307.agent-trace](https://marketplace.visualstudio.com/items?itemName=dannytv0307.agent-trace) | Agent Trace | 0.1.0 | See what Claude Code is doing, live, against your setup: CLAUDE.md, agents, sla… |
+| 2026-10-22 01:48:11 | [pqa-language.pqa-language-support](https://marketplace.visualstudio.com/items?itemName=pqa-language.pqa-language-support) | PQA — Programmable Query Automation | 0.2.0 | Hỗ trợ ngôn ngữ PQA và DSL PQA Web trực tiếp trong VS Code. |
+| 2026-10-22 01:53:49 | [honeywood.honeywood-theme](https://marketplace.visualstudio.com/items?itemName=honeywood.honeywood-theme) | Honeywood: A Pastel Woodland Theme | 1.0.0 | A calm, pastel light theme with cream pages, powder-blue chrome and hand-drawn… |
+| 2026-10-22 01:57:55 | [xnscu.lua-resty-template-lsp](https://marketplace.visualstudio.com/items?itemName=xnscu.lua-resty-template-lsp) | Lua Server Pages (lua-resty-template) | 1.0.0 | Syntax highlighting and code beautifier for lua-resty-template (.lsp) in OpenRe… |
+| 2026-10-22 02:02:17 | [DaniloFG.gittools-vscode](https://marketplace.visualstudio.com/items?itemName=DaniloFG.gittools-vscode) | GitTools | 0.5.0 | Git with a visual interface: drag and click to merge, rebase and cherry-pick wh… |
+| 2026-10-22 02:14:18 | [lupee.elasticsearch-studio](https://marketplace.visualstudio.com/items?itemName=lupee.elasticsearch-studio) | ES Studio | 1.0.1 | Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query… |
+| 2026-10-22 02:16:40 | [code-digest.code-digest](https://marketplace.visualstudio.com/items?itemName=code-digest.code-digest) | Code Digest | 1.0.0 | Read long texts inside your editor as inline comments — no extra tabs, no separ… |
 
 ## Data source
 
