@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T16:19:58.923Z,flightcoders.veyra-env,flightcoders,"Veyra Env: .env Files, dotenv & Secrets",1.0.0,"Never ship a missing or leaked env variable again. Warnings for env variables your code uses but .env doesn't set, autocomplete and hover for process.env, secrets hidden on screen, a .gitignore guard, .env.example kept in sync, and a side-by-side compare. Free."
+2026-10-22T16:27:02.65Z,nya-tools.nya-ae-jsx-runner,nya-tools,Nya AE.jsx Runner,0.8.2,从 VS Code 运行 After Effects JSX / JSXBIN，定位脚本错误、整理 AI 求助材料、收藏说明并手动备份。Windows x64 公开测试版。
+2026-10-22T16:27:50.617Z,Sintoo.italiaviva1,Sintoo,ItaliaViva1,1.0.0,"IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello si scarica da solo la prima volta."
+2026-10-22T16:32:46.767Z,Konata9.inkstone,Konata9,墨观 Inkstone · 中国传统色彩,0.3.2,"A traditional Chinese color theme built from the 526-color zhongguose palette. Six variants: 玄墨 Xuanmo, 玄墨 Dimmed, 宣纸 Xuanzhi, 宣纸 Dimmed, 沧海 Canghai, 青瓷 Qingci."
+2026-10-22T16:48:06.607Z,polecoder.math-inline,polecoder,Math Inline,0.2.0,Renders inline $...$ math in Markdown files directly inside the editor.
+2026-10-22T16:57:40.397Z,HeltNaAlma.lite-language,HeltNaAlma,LITE Language,0.0.5,Syntax highlighting for the LITE programming language
+2026-10-22T17:04:48.837Z,xtudiopdf.xtudiopdf,xtudiopdf,XtudioPdf,1.3.0,Visual PDF designer for .NET: create documents from the explorer and edit .pdfx files with the designer inside VS Code.
+2026-10-22T17:05:16.613Z,NexusbyFoursys.nexus-by-foursys,NexusbyFoursys,Nexus by Foursys,2.0.0,AI-powered coding assistant with agent orchestration
+2026-10-22T17:12:07.687Z,DavidMonteroCrespo.websphere-server-tools,DavidMonteroCrespo,WebSphere Server Tools,0.3.0,"Start, stop, debug and hot-publish to a local IBM WebSphere Application Server (traditional) or WebSphere Portal, with Maven builds per module. Unofficial, not affiliated with IBM."
+2026-10-22T17:12:43.57Z,MNazmi.xpp-vscode,MNazmi,F&O Studio for VS Code,0.5.0,"A full Dynamics 365 Finance & Operations development environment in VS Code: Application Explorer, designers, X++ code, build, deploy, debugging, and AI agent tools."

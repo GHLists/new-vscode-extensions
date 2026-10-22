@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 16:21 UTC
+## Latest list — 2026-10-22 17:20 UTC
 
-New extensions published between 2026-10-22 14:21 UTC and 2026-10-22 16:21 UTC.
+New extensions published between 2026-10-22 15:20 UTC and 2026-10-22 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T16-21-24-439903Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T17-20-03-218267Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 15:21:36 | [Bushee.logix-html-template](https://marketplace.visualstudio.com/items?itemName=Bushee.logix-html-template) | Logix HTML Template | 1.0.0 | Generates an advanced Logix HTML boilerplate with Tailwind setup |
-| 2026-10-22 15:30:01 | [web-cpp-tool.web-cpp-tool](https://marketplace.visualstudio.com/items?itemName=web-cpp-tool.web-cpp-tool) | WebC++ — C++ in the Browser (WASM) | 0.1.0 | 在 VS Code for the Web（vscode.dev / 自托管）里写、跑、调试 C++：WASM Clang 编译、真实终端交互运行、clang… |
-| 2026-10-22 15:32:06 | [CodeWrath.error-song-alert](https://marketplace.visualstudio.com/items?itemName=CodeWrath.error-song-alert) | A M Lay | 0.0.2 | Play your chosen sound when VS Code reports code errors. |
-| 2026-10-22 15:33:08 | [ADSoluesemTecnologia.esd-vscode](https://marketplace.visualstudio.com/items?itemName=ADSoluesemTecnologia.esd-vscode) | ESD Platform | 0.2.0 | ESD Platform integration for VS Code — governance, project cockpit, and quality… |
-| 2026-10-22 15:54:51 | [FATQ.miao-vscode-extension](https://marketplace.visualstudio.com/items?itemName=FATQ.miao-vscode-extension) | MIAO - AgentPal | 0.4.0 | Animated kaomoji avatars in the VS Code status bar for Claude Code, KiloCode, C… |
-| 2026-10-22 15:58:44 | [Glazastov.lunar-lang](https://marketplace.visualstudio.com/items?itemName=Glazastov.lunar-lang) | Lunar for VS Code | 0.1.0 | Syntax highlighting, diagnostics and commands for Lunar components (.lunar) — t… |
-| 2026-10-22 16:13:41 | [EKLABDEV.altman](https://marketplace.visualstudio.com/items?itemName=EKLABDEV.altman) | Altman - Offline Local Postman Alternat… | 0.1.0 | 100% offline, local HTTP/HTTPS client storing collections & environments in .al… |
-| 2026-10-22 16:14:09 | [RowanHuang.independent-codex-vscode](https://marketplace.visualstudio.com/items?itemName=RowanHuang.independent-codex-vscode) | Codex for VS Code | 0.9.0 | Independent Codex client with local CLI sign-in, native edit review, session ma… |
+| 2026-10-22 16:19:58 | [flightcoders.veyra-env](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-env) | Veyra Env: .env Files, dotenv & Secrets | 1.0.0 | Never ship a missing or leaked env variable again. Warnings for env variables y… |
+| 2026-10-22 16:27:02 | [nya-tools.nya-ae-jsx-runner](https://marketplace.visualstudio.com/items?itemName=nya-tools.nya-ae-jsx-runner) | Nya AE.jsx Runner | 0.8.2 | 从 VS Code 运行 After Effects JSX / JSXBIN，定位脚本错误、整理 AI 求助材料、收藏说明并手动备份。Windows x64… |
+| 2026-10-22 16:27:50 | [Sintoo.italiaviva1](https://marketplace.visualstudio.com/items?itemName=Sintoo.italiaviva1) | ItaliaViva1 | 1.0.0 | IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello… |
+| 2026-10-22 16:32:46 | [Konata9.inkstone](https://marketplace.visualstudio.com/items?itemName=Konata9.inkstone) | 墨观 Inkstone · 中国传统色彩 | 0.3.2 | A traditional Chinese color theme built from the 526-color zhongguose palette.… |
+| 2026-10-22 16:48:06 | [polecoder.math-inline](https://marketplace.visualstudio.com/items?itemName=polecoder.math-inline) | Math Inline | 0.2.0 | Renders inline $...$ math in Markdown files directly inside the editor. |
+| 2026-10-22 16:57:40 | [HeltNaAlma.lite-language](https://marketplace.visualstudio.com/items?itemName=HeltNaAlma.lite-language) | LITE Language | 0.0.5 | Syntax highlighting for the LITE programming language |
+| 2026-10-22 17:04:48 | [xtudiopdf.xtudiopdf](https://marketplace.visualstudio.com/items?itemName=xtudiopdf.xtudiopdf) | XtudioPdf | 1.3.0 | Visual PDF designer for .NET: create documents from the explorer and edit .pdfx… |
+| 2026-10-22 17:05:16 | [NexusbyFoursys.nexus-by-foursys](https://marketplace.visualstudio.com/items?itemName=NexusbyFoursys.nexus-by-foursys) | Nexus by Foursys | 2.0.0 | AI-powered coding assistant with agent orchestration |
+| 2026-10-22 17:12:07 | [DavidMonteroCrespo.websphere-server-tools](https://marketplace.visualstudio.com/items?itemName=DavidMonteroCrespo.websphere-server-tools) | WebSphere Server Tools | 0.3.0 | Start, stop, debug and hot-publish to a local IBM WebSphere Application Server… |
+| 2026-10-22 17:12:43 | [MNazmi.xpp-vscode](https://marketplace.visualstudio.com/items?itemName=MNazmi.xpp-vscode) | F&O Studio for VS Code | 0.5.0 | A full Dynamics 365 Finance & Operations development environment in VS Code: Ap… |
 
 ## Data source
 
