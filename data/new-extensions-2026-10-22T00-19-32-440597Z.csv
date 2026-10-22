@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-21T23:20:49.737Z,Simple-Mark.simple-mark,Simple-Mark,Simple-Mark,0.1.6,Edit Markdown with its formatting shown and none of its syntax hidden.
+2026-10-21T23:41:10.093Z,dark-fantasy-theme.dark-fantasy-theme,dark-fantasy-theme,Dark Fantasy Extension,1.0.1,"Dark fantasy color themes and pixel art product icons for VS Code: Vespergrim, Myrkwood and Noxthar."
+2026-10-21T23:44:58.387Z,zalliant.ethernize,zalliant,Zalliant Ethernize,0.1.0,Official VS Code language support for Ethernize Weave templates and Pulse components.
+2026-10-21T23:54:58.53Z,MeniHillel.bullseye-mark,MeniHillel,BullseyeMark,0.1.0,"🔖 Bookmark a file, a line or an exact character range from practically any right-click menu in VS Code, and get back to it in one click. Best inside BullseyeUber, which runs BullseyeMark with FleetView, BullseyeBacklog, DeepAgent, BullseyeSync and BullseyeNotify in one tab."
+2026-10-22T00:15:05.9Z,Assimalign.tooling-xml-editor,Assimalign,Assimalign XML Editor,0.1.0,"XML formatting, schema (XSD) driven IntelliSense, hover documentation, and validation for .xml and .xsd files."
