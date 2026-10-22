@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T13:34:14.043Z,SitefinitySteve.vscode-aspnet-mvc5-razor,SitefinitySteve,ASP.NET MVC 5 Razor (.NET Framework),0.3.1,"Visual Studio-style Razor highlighting for ASP.NET MVC 5 / System.Web.Razor (.NET Framework) .cshtml views, without the ASP.NET Core Razor language server."
+2026-10-22T13:35:05.173Z,snugmeadow.snug,snugmeadow,Snug: a cozy pet that frosts over your errors,1.0.0,"A small cream creature in your Explorer. It naps while you type, stretches awake on every save, and frosts over while your file has an error."
+2026-10-22T13:39:34.457Z,EduardoCamargoBougo.micropythonforesp32,EduardoCamargoBougo,MicroPythonForESP32,0.0.1,MicroPythonForESP32 assists in the use of MicroPython in ESP32-type microcontrollers within the VsCode interface.
+2026-10-22T13:43:11.75Z,DevManish007.tensorflow-keras-pro-snippets,DevManish007,TensorFlow Keras Pro Snippets,0.1.0,"A practical collection of 163 VS Code snippets for TensorFlow, Keras, deep learning, computer vision, model training, transfer learning, NLP, and time-series workflows."
+2026-10-22T13:50:32.66Z,macromeer.pdfjs-viewer,macromeer,PDF Viewer (PDF.js 6),2.0.1,"Maintained fork of vscode-pdf: up-to-date PDF.js, auto-reload that keeps your place (LaTeX, Typst), and a locked-down webview."
+2026-10-22T14:00:55.463Z,alex-roc.agentsdiagram,alex-roc,Agents Diagram,0.1.0,"Live diagram of your PydanticAI and smolagents agents, tools and toolsets, from static analysis."
+2026-10-22T14:04:12.567Z,brian-chang.nv-green-dark,brian-chang,NV Green Dark,0.1.0,A deep green and graphite VS Code theme with coordinated file and product icons.
+2026-10-22T14:11:07.373Z,MajaRoczek.touchdesigner-ide,MajaRoczek,TouchDesigner IDE,0.2.0,"Interactive development environment for TouchDesigner: live autocompletion, remote Python execution, OP tree explorer, and Textport bridge."
+2026-10-22T14:11:08.517Z,hiroomi.model-usage-display,hiroomi,Model Usage Display,1.2.1,"Status bar display of remaining AI model quota (Gemini / Claude / GPT) from Antigravity, with a per-model dashboard and reset-time notifications. Unofficial."
+2026-10-22T14:13:42.593Z,VoytekD.nightcity,VoytekD,Night City 2077,0.1.0,"A dark red, cyan and yellow color theme inspired by the Cyberpunk 2077 in-game journal. Unofficial fan theme."
