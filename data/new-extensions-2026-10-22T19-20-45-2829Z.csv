@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T18:15:49.473Z,misstheaim.composer-review,misstheaim,Composer Review for Claude Code,1.0.0,"Review the changes Claude Code makes, one hunk at a time, and send your feedback straight to Claude."
+2026-10-22T18:26:37.133Z,fishyhamstudios.fishyham-theme,fishyhamstudios,FishyHam Theme,1.0.0,"FishyHam Studios themes: Rose (warm brown) and Midnight (near-black), with rose accents and cream text."
+2026-10-22T18:30:43.333Z,Castov.mcp-security-castov,Castov,MCP Config Security Scanner - Castov,0.1.0,"Security audit & scanner for Model Context Protocol (MCP) configs, mcp.json, and claude_desktop_config.json. Detects exposed API keys, dangerous shell tools, and hidden prompt injection."
+2026-10-22T18:31:08.177Z,Castov.dependency-lens-castov,Castov,Dependency Risk Lens - Castov,0.1.0,"Supply chain security, typosquatting detector & license compliance auditor for package.json & requirements.txt directly in VS Code."
+2026-10-22T18:31:28.9Z,Castov.bidi-guard-castov,Castov,Bidi & Unicode Guard - Castov,0.1.0,"Detect invisible Unicode, Trojan Source attacks (CVE-2021-42574), homoglyphs, and render clean RTL Arabic comments in VS Code."
+2026-10-22T18:42:00.357Z,sabahirfan.multi-account-for-claude-code,sabahirfan,Multi Account for Claude Code,1.0.1,Switch between your Claude Code accounts from the status bar or the ccswitch command. Not affiliated with Anthropic.
+2026-10-22T18:57:21.18Z,Bushee.logix-code-runner,Bushee,Logix Code Runner,1.0.1,Runs custom .lx code files
+2026-10-22T19:04:36.177Z,jumpohashimoto.kakizaki-agent-controller,jumpohashimoto,Agent Controller,0.2.0,複数リポジトリの Claude Code / Codex セッションを 1 つの VS Code ウィンドウで俯瞰・整理・起動する司令塔
+2026-10-22T19:07:40.203Z,AtividadesJS.extensao-atividades-js,AtividadesJS,Atividades JS,0.2.3,Atividades JavaScript com autenticação Google e acompanhamento de sessão.

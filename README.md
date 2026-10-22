@@ -12,27 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 18:19 UTC
+## Latest list — 2026-10-22 19:20 UTC
 
-New extensions published between 2026-10-22 16:19 UTC and 2026-10-22 18:19 UTC.
+New extensions published between 2026-10-22 17:20 UTC and 2026-10-22 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T18-19-52-082371Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T19-20-45-2829Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 17:18:53 | [agapeengineering.agape-theme](https://marketplace.visualstudio.com/items?itemName=agapeengineering.agape-theme) | agape Theme | 0.1.0 | A warm Adobe light theme and neutral graphite dark theme, with cinnamon accents… |
-| 2026-10-22 17:23:00 | [ArthurPachachura.ken-markdown-editor](https://marketplace.visualstudio.com/items?itemName=ArthurPachachura.ken-markdown-editor) | Ken Markdown Editor | 0.3.2 | WYSIWYG Markdown editor: write rendered Markdown with slash commands, tables, M… |
-| 2026-10-22 17:28:43 | [aliqaryan.xrayviewer](https://marketplace.visualstudio.com/items?itemName=aliqaryan.xrayviewer) | X-RayViewer | 0.4.3 | Review GitHub pull requests in VS Code or Cursor. Agents run on your computer,… |
-| 2026-10-22 17:36:34 | [ajkaarthick.ci-command-guard](https://marketplace.visualstudio.com/items?itemName=ajkaarthick.ci-command-guard) | CI Command Guard | 1.0.0 | Catch broken GitHub Actions command and path references before CI runs. |
-| 2026-10-22 17:37:31 | [Viamericas.viam-sonarqube-coverage](https://marketplace.visualstudio.com/items?itemName=Viamericas.viam-sonarqube-coverage) | Viam SonarQube Coverage | 0.0.7 | Visualiza reportes de cobertura de pruebas en un WebView interactivo estilo Son… |
-| 2026-10-22 17:40:36 | [intel-corporation.rohd-wave-viewer](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-wave-viewer) | ROHD Wave Viewer | 0.1.1 | Interactive waveform viewer for VCD, FST, and GHW files — pan, zoom, search sig… |
-| 2026-10-22 17:41:14 | [digivibetech.valuepad](https://marketplace.visualstudio.com/items?itemName=digivibetech.valuepad) | Valuepad: live values for JS and TS scr… | 0.1.0 | See the value of every line as you type in JavaScript and TypeScript. Inline re… |
-| 2026-10-22 17:43:12 | [Castov.agent-replay-castov](https://marketplace.visualstudio.com/items?itemName=Castov.agent-replay-castov) | Agent Session Replay - Castov | 0.1.0 | Interactive chronological timeline, visual diff scrubber & 1-click rewind for A… |
-| 2026-10-22 17:43:38 | [Castov.log-story-castov](https://marketplace.visualstudio.com/items?itemName=Castov.log-story-castov) | Log Story - Castov | 0.1.0 | Developer log analyzer & root-cause story builder. Folds repetitive log spam, g… |
-| 2026-10-22 17:45:05 | [SoubhikBiswas-gitHub.oibuddy](https://marketplace.visualstudio.com/items?itemName=SoubhikBiswas-gitHub.oibuddy) | OiBuddy | 0.1.1 | Expressive companions and gentle reminders for healthier workdays. |
-| 2026-10-22 17:46:29 | [hifenlab.hifen-language](https://marketplace.visualstudio.com/items?itemName=hifenlab.hifen-language) | Hifen Language Support & Developer Tools | 0.3.3 | Autocomplete, maelezo ya Kiswahili, ukaguzi wa makosa, upangaji wa msimbo na ai… |
-| 2026-10-22 17:49:18 | [ShrutiSharma.groq-intelligent-code-reviewer](https://marketplace.visualstudio.com/items?itemName=ShrutiSharma.groq-intelligent-code-reviewer) | Groq Intelligent Code Reviewer | 0.0.1 | An AI-powered VS Code extension that detects system-level bugs using the Groq A… |
-| 2026-10-22 18:11:09 | [nmendoza.laravel-erd-viewer](https://marketplace.visualstudio.com/items?itemName=nmendoza.laravel-erd-viewer) | Laravel ERD Viewer | 0.0.1 | Interactive Entity-Relationship Diagram (ERD) viewer for Laravel migrations |
+| 2026-10-22 18:15:49 | [misstheaim.composer-review](https://marketplace.visualstudio.com/items?itemName=misstheaim.composer-review) | Composer Review for Claude Code | 1.0.0 | Review the changes Claude Code makes, one hunk at a time, and send your feedbac… |
+| 2026-10-22 18:26:37 | [fishyhamstudios.fishyham-theme](https://marketplace.visualstudio.com/items?itemName=fishyhamstudios.fishyham-theme) | FishyHam Theme | 1.0.0 | FishyHam Studios themes: Rose (warm brown) and Midnight (near-black), with rose… |
+| 2026-10-22 18:30:43 | [Castov.mcp-security-castov](https://marketplace.visualstudio.com/items?itemName=Castov.mcp-security-castov) | MCP Config Security Scanner - Castov | 0.1.0 | Security audit & scanner for Model Context Protocol (MCP) configs, mcp.json, an… |
+| 2026-10-22 18:31:08 | [Castov.dependency-lens-castov](https://marketplace.visualstudio.com/items?itemName=Castov.dependency-lens-castov) | Dependency Risk Lens - Castov | 0.1.0 | Supply chain security, typosquatting detector & license compliance auditor for… |
+| 2026-10-22 18:31:28 | [Castov.bidi-guard-castov](https://marketplace.visualstudio.com/items?itemName=Castov.bidi-guard-castov) | Bidi & Unicode Guard - Castov | 0.1.0 | Detect invisible Unicode, Trojan Source attacks (CVE-2021-42574), homoglyphs, a… |
+| 2026-10-22 18:42:00 | [sabahirfan.multi-account-for-claude-code](https://marketplace.visualstudio.com/items?itemName=sabahirfan.multi-account-for-claude-code) | Multi Account for Claude Code | 1.0.1 | Switch between your Claude Code accounts from the status bar or the ccswitch co… |
+| 2026-10-22 18:57:21 | [Bushee.logix-code-runner](https://marketplace.visualstudio.com/items?itemName=Bushee.logix-code-runner) | Logix Code Runner | 1.0.1 | Runs custom .lx code files |
+| 2026-10-22 19:04:36 | [jumpohashimoto.kakizaki-agent-controller](https://marketplace.visualstudio.com/items?itemName=jumpohashimoto.kakizaki-agent-controller) | Agent Controller | 0.2.0 | 複数リポジトリの Claude Code / Codex セッションを 1 つの VS Code ウィンドウで俯瞰・整理・起動する司令塔 |
+| 2026-10-22 19:07:40 | [AtividadesJS.extensao-atividades-js](https://marketplace.visualstudio.com/items?itemName=AtividadesJS.extensao-atividades-js) | Atividades JS | 0.2.3 | Atividades JavaScript com autenticação Google e acompanhamento de sessão. |
 
 ## Data source
 
