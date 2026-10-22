@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 02:19 UTC
+## Latest list — 2026-10-22 03:19 UTC
 
-New extensions published between 2026-10-22 00:19 UTC and 2026-10-22 02:19 UTC.
+New extensions published between 2026-10-22 01:19 UTC and 2026-10-22 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T02-19-41-643212Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T03-19-27-740296Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 01:40:48 | [dannytv0307.agent-trace](https://marketplace.visualstudio.com/items?itemName=dannytv0307.agent-trace) | Agent Trace | 0.1.0 | See what Claude Code is doing, live, against your setup: CLAUDE.md, agents, sla… |
-| 2026-10-22 01:48:11 | [pqa-language.pqa-language-support](https://marketplace.visualstudio.com/items?itemName=pqa-language.pqa-language-support) | PQA — Programmable Query Automation | 0.2.0 | Hỗ trợ ngôn ngữ PQA và DSL PQA Web trực tiếp trong VS Code. |
-| 2026-10-22 01:53:49 | [honeywood.honeywood-theme](https://marketplace.visualstudio.com/items?itemName=honeywood.honeywood-theme) | Honeywood: A Pastel Woodland Theme | 1.0.0 | A calm, pastel light theme with cream pages, powder-blue chrome and hand-drawn… |
-| 2026-10-22 01:57:55 | [xnscu.lua-resty-template-lsp](https://marketplace.visualstudio.com/items?itemName=xnscu.lua-resty-template-lsp) | Lua Server Pages (lua-resty-template) | 1.0.0 | Syntax highlighting and code beautifier for lua-resty-template (.lsp) in OpenRe… |
-| 2026-10-22 02:02:17 | [DaniloFG.gittools-vscode](https://marketplace.visualstudio.com/items?itemName=DaniloFG.gittools-vscode) | GitTools | 0.5.0 | Git with a visual interface: drag and click to merge, rebase and cherry-pick wh… |
-| 2026-10-22 02:14:18 | [lupee.elasticsearch-studio](https://marketplace.visualstudio.com/items?itemName=lupee.elasticsearch-studio) | ES Studio | 1.0.1 | Elasticsearch / OpenSearch 数据源浏览、EDQL 查询语言（复刻 JetBrains 插件 Elasticsearch Query… |
-| 2026-10-22 02:16:40 | [code-digest.code-digest](https://marketplace.visualstudio.com/items?itemName=code-digest.code-digest) | Code Digest | 1.0.0 | Read long texts inside your editor as inline comments — no extra tabs, no separ… |
+| 2026-10-22 02:19:07 | [jhoni-costa.snipsketch](https://marketplace.visualstudio.com/items?itemName=jhoni-costa.snipsketch) | SnipSketch | 0.1.2 | Capture beautiful code screenshots and annotate them with arrows, shapes, text,… |
+| 2026-10-22 02:25:02 | [flightcoders.veyra-docker](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-docker) | Veyra Container Studio for Docker | 1.0.0 | Docker in VS Code, made easy: manage containers, images, volumes and Docker Com… |
+| 2026-10-22 02:54:39 | [mohitkumar.cp-test-runner](https://marketplace.visualstudio.com/items?itemName=mohitkumar.cp-test-runner) | CP Test Runner | 0.1.0 | Run C++ solutions against sample tests with a live results panel |
+| 2026-10-22 02:54:50 | [Ibrahim-adel.ai-chat-spell-assistant](https://marketplace.visualstudio.com/items?itemName=Ibrahim-adel.ai-chat-spell-assistant) | AI Chat Spell Assistant | 0.4.7 | Smart spell-checker for AI coding assistant prompts. Select text or copy, revie… |
+| 2026-10-22 02:58:27 | [oleksiiko.cursor-browser-bar-button](https://marketplace.visualstudio.com/items?itemName=oleksiiko.cursor-browser-bar-button) | Browser Bar Button | 0.4.3 | Two editor title-bar buttons for Cursor's embedded browser: always-visible New… |
+| 2026-10-22 02:58:35 | [lb2786738061-rgb.codesync-vscode](https://marketplace.visualstudio.com/items?itemName=lb2786738061-rgb.codesync-vscode) | CodeSync - AI Git Assistant | 1.0.0 | Upload code to GitHub/Gitee/GitLab in one click from VS Code, with AI-generated… |
 
 ## Data source
 
