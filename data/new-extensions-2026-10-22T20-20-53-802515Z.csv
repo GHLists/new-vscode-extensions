@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T19:21:09.553Z,nileagi.nileagi-delta-code,nileagi,Delta Code by NileAGI,0.3.0,Offline-first AI coding assistant. Connect to Delta or any OpenAI-compatible base URL.
+2026-10-22T19:24:49.78Z,JefersonPontes.md-tool,JefersonPontes,MD tool,0.1.0,"Preview, edit and export Markdown to PDF and RTF."
+2026-10-22T19:25:13.037Z,bagui.bagui-vscode,bagui,BagUi VS Code,0.1.2,"Browse, preview, and install BagUI components directly in VS Code"
+2026-10-22T19:44:23.5Z,record-editor-pse.record-editor-ts-ext,record-editor-pse,Record Editor TS,0.1.1,Herramientas de VS Code para inspeccionar y validar ficheros COBOL con copybooks.
+2026-10-22T19:57:35.043Z,Kith-coord.kith,Kith-coord,Kith,0.1.4,Connect coding agents to Kith and inspect local worktree coordination in VS Code and Cursor.
