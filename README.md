@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 22:20 UTC
+## Latest list — 2026-10-22 23:18 UTC
 
-New extensions published between 2026-10-22 20:20 UTC and 2026-10-22 22:20 UTC.
+New extensions published between 2026-10-22 21:18 UTC and 2026-10-22 23:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T22-20-03-43297Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T23-18-56-843784Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 21:17:09 | [RedwoodEDA.makerchip](https://marketplace.visualstudio.com/items?itemName=RedwoodEDA.makerchip) | Makerchip | 0.0.1 | Design, simulate, and visualize TL-Verilog and Verilog circuits in the Makerchi… |
-| 2026-10-22 21:46:07 | [YorickFin.parallelagent-orchestrator](https://marketplace.visualstudio.com/items?itemName=YorickFin.parallelagent-orchestrator) | ParallelAgent Orchestrator | 1.1.3 | CDP 执行器 + HTTP 网关 + 文件信箱 watch —— 仲裁者的自动化之手 |
-| 2026-10-22 21:47:35 | [heyjeay.stream-code](https://marketplace.visualstudio.com/items?itemName=heyjeay.stream-code) | Stream Code Overlay | 1.6.1 | Show the code you're writing on stream: a clean, themed, syntax-highlighted ove… |
+| 2026-10-22 22:19:24 | [delagen-ai.delagen-agent-worktrees](https://marketplace.visualstudio.com/items?itemName=delagen-ai.delagen-agent-worktrees) | Delagen Agent Worktrees | 0.2.1 | Create, open, and remove git worktrees under .worktrees/ — with optional post-c… |
+| 2026-10-22 22:29:09 | [zecro.import-weight](https://marketplace.visualstudio.com/items?itemName=zecro.import-weight) | Import Weight: Package Sizes Inline | 1.0.0 | See the minified and gzipped size of every package you import, right next to th… |
+| 2026-10-22 22:33:07 | [trav1snguyen.overseer](https://marketplace.visualstudio.com/items?itemName=trav1snguyen.overseer) | Overseer | 0.2.0 | See how a TypeScript or JavaScript codebase fits together: an interactive graph… |
+| 2026-10-22 22:40:22 | [mrfome14.trycatch-helper](https://marketplace.visualstudio.com/items?itemName=mrfome14.trycatch-helper) | TryCatch Helper | 0.0.1 | Wrap selected code in try/catch |
+| 2026-10-22 22:47:28 | [JeffBaylor.cython-pyx](https://marketplace.visualstudio.com/items?itemName=JeffBaylor.cython-pyx) | Cython PYX | 0.1.0 | Syntax highlighting, outline, and snippets for Cython .pyx, .pxd, and .pxi files |
+| 2026-10-22 23:07:23 | [AnderCMD.rizomadb](https://marketplace.visualstudio.com/items?itemName=AnderCMD.rizomadb) | RizomaDB — Database Client | 1.0.0 | Free, open-source database client. No telemetry, no accounts, no locked feature… |
 
 ## Data source
 

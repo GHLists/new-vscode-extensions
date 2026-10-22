@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T22:19:24.717Z,delagen-ai.delagen-agent-worktrees,delagen-ai,Delagen Agent Worktrees,0.2.1,"Create, open, and remove git worktrees under .worktrees/ — with optional post-create setup from settings or .cursor/worktrees.json."
+2026-10-22T22:29:09.92Z,zecro.import-weight,zecro,Import Weight: Package Sizes Inline,1.0.0,"See the minified and gzipped size of every package you import, right next to the import. Cached, one build at a time, works with npm, pnpm, Yarn classic and monorepos. 100% offline."
+2026-10-22T22:33:07.74Z,trav1snguyen.overseer,trav1snguyen,Overseer,0.2.0,"See how a TypeScript or JavaScript codebase fits together: an interactive graph of folders, files, classes and functions, connected by imports, calls, JSX renders and inheritance. Step back through Git history to see what each commit changed."
+2026-10-22T22:40:22.837Z,mrfome14.trycatch-helper,mrfome14,TryCatch Helper,0.0.1,Wrap selected code in try/catch
+2026-10-22T22:47:28.027Z,JeffBaylor.cython-pyx,JeffBaylor,Cython PYX,0.1.0,"Syntax highlighting, outline, and snippets for Cython .pyx, .pxd, and .pxi files"
+2026-10-22T23:07:23.95Z,AnderCMD.rizomadb,AnderCMD,RizomaDB — Database Client,1.0.0,"Free, open-source database client. No telemetry, no accounts, no locked features."
