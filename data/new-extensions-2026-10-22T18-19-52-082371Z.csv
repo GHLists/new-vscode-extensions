@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T17:18:53.07Z,agapeengineering.agape-theme,agapeengineering,agape Theme,0.1.0,"A warm Adobe light theme and neutral graphite dark theme, with cinnamon accents and distinct syntax colors."
+2026-10-22T17:23:00.517Z,ArthurPachachura.ken-markdown-editor,ArthurPachachura,Ken Markdown Editor,0.3.2,"WYSIWYG Markdown editor: write rendered Markdown with slash commands, tables, Mermaid and draw.io diagrams, comments and frontmatter, themed by VS Code."
+2026-10-22T17:28:43.95Z,aliqaryan.xrayviewer,aliqaryan,X-RayViewer,0.4.3,"Review GitHub pull requests in VS Code or Cursor. Agents run on your computer, and you post the review."
+2026-10-22T17:36:34.467Z,ajkaarthick.ci-command-guard,ajkaarthick,CI Command Guard,1.0.0,Catch broken GitHub Actions command and path references before CI runs.
+2026-10-22T17:37:31.727Z,Viamericas.viam-sonarqube-coverage,Viamericas,Viam SonarQube Coverage,0.0.7,Visualiza reportes de cobertura de pruebas en un WebView interactivo estilo SonarQube
+2026-10-22T17:40:36.877Z,intel-corporation.rohd-wave-viewer,intel-corporation,ROHD Wave Viewer,0.1.1,"Interactive waveform viewer for VCD, FST, and GHW files — pan, zoom, search signals, place markers, and cross-probe to source in VS Code."
+2026-10-22T17:41:14.9Z,digivibetech.valuepad,digivibetech,Valuepad: live values for JS and TS scratch files,0.1.0,"See the value of every line as you type in JavaScript and TypeScript. Inline results, console output, errors and loop counts on the line that made them. //? to pick a value. Local and npm imports. No telemetry."
+2026-10-22T17:43:12.817Z,Castov.agent-replay-castov,Castov,Agent Session Replay - Castov,0.1.0,"Interactive chronological timeline, visual diff scrubber & 1-click rewind for AI agent file modifications (Cursor Composer, Claude Code, Copilot, Cline, Aider) in VS Code."
+2026-10-22T17:43:38.757Z,Castov.log-story-castov,Castov,Log Story - Castov,0.1.0,"Developer log analyzer & root-cause story builder. Folds repetitive log spam, groups by request-id, reconstructs multi-service timelines, and pinpoints true root causes."
+2026-10-22T17:45:05.21Z,SoubhikBiswas-gitHub.oibuddy,SoubhikBiswas-gitHub,OiBuddy,0.1.1,Expressive companions and gentle reminders for healthier workdays.
+2026-10-22T17:46:29.757Z,hifenlab.hifen-language,hifenlab,Hifen Language Support & Developer Tools,0.3.3,"Autocomplete, maelezo ya Kiswahili, ukaguzi wa makosa, upangaji wa msimbo na aikoni za faili za Hifen."
+2026-10-22T17:49:18.983Z,ShrutiSharma.groq-intelligent-code-reviewer,ShrutiSharma,Groq Intelligent Code Reviewer,0.0.1,An AI-powered VS Code extension that detects system-level bugs using the Groq API (openai/gpt-oss-120b).
+2026-10-22T18:11:09.657Z,nmendoza.laravel-erd-viewer,nmendoza,Laravel ERD Viewer,0.0.1,Interactive Entity-Relationship Diagram (ERD) viewer for Laravel migrations

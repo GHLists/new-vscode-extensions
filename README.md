@@ -12,24 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 17:20 UTC
+## Latest list — 2026-10-22 18:19 UTC
 
-New extensions published between 2026-10-22 15:20 UTC and 2026-10-22 17:20 UTC.
+New extensions published between 2026-10-22 16:19 UTC and 2026-10-22 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T17-20-03-218267Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T18-19-52-082371Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 16:19:58 | [flightcoders.veyra-env](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-env) | Veyra Env: .env Files, dotenv & Secrets | 1.0.0 | Never ship a missing or leaked env variable again. Warnings for env variables y… |
-| 2026-10-22 16:27:02 | [nya-tools.nya-ae-jsx-runner](https://marketplace.visualstudio.com/items?itemName=nya-tools.nya-ae-jsx-runner) | Nya AE.jsx Runner | 0.8.2 | 从 VS Code 运行 After Effects JSX / JSXBIN，定位脚本错误、整理 AI 求助材料、收藏说明并手动备份。Windows x64… |
-| 2026-10-22 16:27:50 | [Sintoo.italiaviva1](https://marketplace.visualstudio.com/items?itemName=Sintoo.italiaviva1) | ItaliaViva1 | 1.0.0 | IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello… |
-| 2026-10-22 16:32:46 | [Konata9.inkstone](https://marketplace.visualstudio.com/items?itemName=Konata9.inkstone) | 墨观 Inkstone · 中国传统色彩 | 0.3.2 | A traditional Chinese color theme built from the 526-color zhongguose palette.… |
-| 2026-10-22 16:48:06 | [polecoder.math-inline](https://marketplace.visualstudio.com/items?itemName=polecoder.math-inline) | Math Inline | 0.2.0 | Renders inline $...$ math in Markdown files directly inside the editor. |
-| 2026-10-22 16:57:40 | [HeltNaAlma.lite-language](https://marketplace.visualstudio.com/items?itemName=HeltNaAlma.lite-language) | LITE Language | 0.0.5 | Syntax highlighting for the LITE programming language |
-| 2026-10-22 17:04:48 | [xtudiopdf.xtudiopdf](https://marketplace.visualstudio.com/items?itemName=xtudiopdf.xtudiopdf) | XtudioPdf | 1.3.0 | Visual PDF designer for .NET: create documents from the explorer and edit .pdfx… |
-| 2026-10-22 17:05:16 | [NexusbyFoursys.nexus-by-foursys](https://marketplace.visualstudio.com/items?itemName=NexusbyFoursys.nexus-by-foursys) | Nexus by Foursys | 2.0.0 | AI-powered coding assistant with agent orchestration |
-| 2026-10-22 17:12:07 | [DavidMonteroCrespo.websphere-server-tools](https://marketplace.visualstudio.com/items?itemName=DavidMonteroCrespo.websphere-server-tools) | WebSphere Server Tools | 0.3.0 | Start, stop, debug and hot-publish to a local IBM WebSphere Application Server… |
-| 2026-10-22 17:12:43 | [MNazmi.xpp-vscode](https://marketplace.visualstudio.com/items?itemName=MNazmi.xpp-vscode) | F&O Studio for VS Code | 0.5.0 | A full Dynamics 365 Finance & Operations development environment in VS Code: Ap… |
+| 2026-10-22 17:18:53 | [agapeengineering.agape-theme](https://marketplace.visualstudio.com/items?itemName=agapeengineering.agape-theme) | agape Theme | 0.1.0 | A warm Adobe light theme and neutral graphite dark theme, with cinnamon accents… |
+| 2026-10-22 17:23:00 | [ArthurPachachura.ken-markdown-editor](https://marketplace.visualstudio.com/items?itemName=ArthurPachachura.ken-markdown-editor) | Ken Markdown Editor | 0.3.2 | WYSIWYG Markdown editor: write rendered Markdown with slash commands, tables, M… |
+| 2026-10-22 17:28:43 | [aliqaryan.xrayviewer](https://marketplace.visualstudio.com/items?itemName=aliqaryan.xrayviewer) | X-RayViewer | 0.4.3 | Review GitHub pull requests in VS Code or Cursor. Agents run on your computer,… |
+| 2026-10-22 17:36:34 | [ajkaarthick.ci-command-guard](https://marketplace.visualstudio.com/items?itemName=ajkaarthick.ci-command-guard) | CI Command Guard | 1.0.0 | Catch broken GitHub Actions command and path references before CI runs. |
+| 2026-10-22 17:37:31 | [Viamericas.viam-sonarqube-coverage](https://marketplace.visualstudio.com/items?itemName=Viamericas.viam-sonarqube-coverage) | Viam SonarQube Coverage | 0.0.7 | Visualiza reportes de cobertura de pruebas en un WebView interactivo estilo Son… |
+| 2026-10-22 17:40:36 | [intel-corporation.rohd-wave-viewer](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-wave-viewer) | ROHD Wave Viewer | 0.1.1 | Interactive waveform viewer for VCD, FST, and GHW files — pan, zoom, search sig… |
+| 2026-10-22 17:41:14 | [digivibetech.valuepad](https://marketplace.visualstudio.com/items?itemName=digivibetech.valuepad) | Valuepad: live values for JS and TS scr… | 0.1.0 | See the value of every line as you type in JavaScript and TypeScript. Inline re… |
+| 2026-10-22 17:43:12 | [Castov.agent-replay-castov](https://marketplace.visualstudio.com/items?itemName=Castov.agent-replay-castov) | Agent Session Replay - Castov | 0.1.0 | Interactive chronological timeline, visual diff scrubber & 1-click rewind for A… |
+| 2026-10-22 17:43:38 | [Castov.log-story-castov](https://marketplace.visualstudio.com/items?itemName=Castov.log-story-castov) | Log Story - Castov | 0.1.0 | Developer log analyzer & root-cause story builder. Folds repetitive log spam, g… |
+| 2026-10-22 17:45:05 | [SoubhikBiswas-gitHub.oibuddy](https://marketplace.visualstudio.com/items?itemName=SoubhikBiswas-gitHub.oibuddy) | OiBuddy | 0.1.1 | Expressive companions and gentle reminders for healthier workdays. |
+| 2026-10-22 17:46:29 | [hifenlab.hifen-language](https://marketplace.visualstudio.com/items?itemName=hifenlab.hifen-language) | Hifen Language Support & Developer Tools | 0.3.3 | Autocomplete, maelezo ya Kiswahili, ukaguzi wa makosa, upangaji wa msimbo na ai… |
+| 2026-10-22 17:49:18 | [ShrutiSharma.groq-intelligent-code-reviewer](https://marketplace.visualstudio.com/items?itemName=ShrutiSharma.groq-intelligent-code-reviewer) | Groq Intelligent Code Reviewer | 0.0.1 | An AI-powered VS Code extension that detects system-level bugs using the Groq A… |
+| 2026-10-22 18:11:09 | [nmendoza.laravel-erd-viewer](https://marketplace.visualstudio.com/items?itemName=nmendoza.laravel-erd-viewer) | Laravel ERD Viewer | 0.0.1 | Interactive Entity-Relationship Diagram (ERD) viewer for Laravel migrations |
 
 ## Data source
 
