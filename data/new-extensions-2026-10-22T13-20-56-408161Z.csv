@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T12:16:17.313Z,OmegaMsiska.limekit-vscode,OmegaMsiska,Limekit for VS Code,0.1.0,"Run Limekit desktop apps from VS Code with one click, with completion and docs for the whole Limekit Lua API."
+2026-10-22T12:21:52.02Z,NicolasMichel.timonier,NicolasMichel,Timonier,0.1.0,"Timonier helps developers supervise the code AI agents generate without reading every line: a live architecture map, a whiteboard to sketch the architecture the agents must follow, the measured performance of the software's components, and the agents' plan and todo. 13 languages."
+2026-10-22T12:27:33.487Z,interlock.interlock-vscode,interlock,Interlock,0.1.0,"Workspace status, a Recovery Inbox for changed files, recovery-plan previews, and verified filesystem recovery driven by the local Interlock V6 engine."
+2026-10-22T12:32:16.373Z,TheQtCompany.qt-csharp,TheQtCompany,Qt Bridge C#,1.17.1,Qt Bridge C# project support
+2026-10-22T12:34:38.62Z,heiznerd.antigravity-copilot-gateway,heiznerd,NT-Antigravity Gateway,1.0.1,"Connect Antigravity, Google Gemini, and Claude Subscriptions into GitHub Copilot on IDE with full Agent Mode, Tools, Thinking, and Inline Completions."
+2026-10-22T12:36:45.86Z,Bxat01.pfy-language,Bxat01,Pfy,1.0.1,"Syntax highlighting, snippets, and file icons for the Pfy data and scripting language."
+2026-10-22T12:45:33.48Z,VladZaharia.lanternfall,VladZaharia,Lanternfall,0.1.0,"Un jeu de plateformes 2D à l'éclairage dynamique, directement dans VS Code : le monde n'existe que là où ta lumière l'éclaire."
+2026-10-22T12:46:51.747Z,amrhasanain.objectiverust,amrhasanain,ObjectiveRust Language Support,1.1.0,Basic syntax highlighting for ObjRust files
+2026-10-22T12:47:08.003Z,OALH-WH.extensions-manager,OALH-WH,Extensions Manager - 本地插件管理器,0.2.0,本地插件管理器：通过可视化的勾选界面，按环境（本地/Remote-SSH）与工作区对已安装插件进行启动/禁用控制，并支持将指定插件加入“始终放行”。
+2026-10-22T12:54:35.687Z,viniz0r.antigravity-default-theme,viniz0r,Antigravity Default Theme & Icons,1.0.0,"Color theme, file icons and product (activity bar) icons inspired by the Antigravity IDE default look."
+2026-10-22T12:59:50.04Z,wst2002.which-ai-to-use,wst2002,Which AI to Use,0.2.0,"See what wastes your AI tokens, your AI setup score, which AI and model to use for a task, tips when Claude's limit is close, hand work to another AI when it runs out, and your AI week. Runs locally."
+2026-10-22T13:02:30.053Z,pp33q7rm2m4n6.my-react-snippets,pp33q7rm2m4n6,My React Snippets,0.0.2,Useful React snippets for JavaScript and TypeScript
+2026-10-22T13:05:37.19Z,qpru-woei.ps-snippets,qpru-woei,qpru PS Snippets (C++),1.0.1,알고리즘 문제 풀이용 C++ 코드 스니펫 모음 (ps- 접두어)
+2026-10-22T13:09:43.317Z,ceritli.panoptent,ceritli,Panoptent — Click & Edit with Claude Code,0.9.0,"Click any element in your running app, say what to change — Claude Code edits the source. Visual editing for VS Code and Chrome."
