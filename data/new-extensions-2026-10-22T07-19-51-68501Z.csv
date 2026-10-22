@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T06:25:38.813Z,MyriadArtificia.etl-explorer,MyriadArtificia,ETL Explorer,0.1.0,"Explore ETL items (*.etl npy-store folders): every signal, scalar and FFT column with an overview, coverage map, interactive multi-lane plots, spectrograms, statistics, correlation and raw file inspection."
+2026-10-22T06:34:24.833Z,slumberjer.ilmucode-vscode,slumberjer,ILMUcode Extension,0.2.0,"Use ILMU AI chat models in VS Code Chat, with secure API key storage, streamed replies, image input, and Agent tool calls."
+2026-10-22T06:34:43.753Z,MyriadArtificia.jsonl-viewer-myriadartificia,MyriadArtificia,JSON/JSONL Viewer,0.2.2,"View and edit JSON, JSONL and NDJSON files as a colorful table, tree, pretty-printed or raw text: inline editing, filtering, queries, column stats, schema validation, row diff and CSV export."
+2026-10-22T06:42:38.767Z,Aaronlu2026.uarttool,Aaronlu2026,uarttool — 串口助手,0.1.0,串口助手：UI + 配置文件 + CLI，面向人工调试与 AI 自动化
+2026-10-22T06:53:36.02Z,breezecomes.ansi-prism,breezecomes,ANSI Prism,1.0.1,"See your ANSI logs in color, scroll huge files smoothly, filter by level, and search or filter lines—right inside VS Code. Opens .txt and .log files."
+2026-10-22T07:15:01.903Z,buddham-hq.tabout-vim,buddham-hq,Hun 탭 파라미타,1.0.0,Vim 모드를 존중하는 TabOut: Insert 모드에서만 Tab으로 괄호·따옴표를 빠져나갑니다. | A Vim-aware TabOut for VS Code.
