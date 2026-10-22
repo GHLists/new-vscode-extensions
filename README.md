@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 14:20 UTC
+## Latest list — 2026-10-22 15:20 UTC
 
-New extensions published between 2026-10-22 12:20 UTC and 2026-10-22 14:20 UTC.
+New extensions published between 2026-10-22 13:20 UTC and 2026-10-22 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T14-20-53-789598Z.csv)
+[Full CSV](data/new-extensions-2026-10-22T15-20-50-270709Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 13:34:14 | [SitefinitySteve.vscode-aspnet-mvc5-razor](https://marketplace.visualstudio.com/items?itemName=SitefinitySteve.vscode-aspnet-mvc5-razor) | ASP.NET MVC 5 Razor (.NET Framework) | 0.3.1 | Visual Studio-style Razor highlighting for ASP.NET MVC 5 / System.Web.Razor (.N… |
-| 2026-10-22 13:35:05 | [snugmeadow.snug](https://marketplace.visualstudio.com/items?itemName=snugmeadow.snug) | Snug: a cozy pet that frosts over your… | 1.0.0 | A small cream creature in your Explorer. It naps while you type, stretches awak… |
-| 2026-10-22 13:39:34 | [EduardoCamargoBougo.micropythonforesp32](https://marketplace.visualstudio.com/items?itemName=EduardoCamargoBougo.micropythonforesp32) | MicroPythonForESP32 | 0.0.1 | MicroPythonForESP32 assists in the use of MicroPython in ESP32-type microcontro… |
-| 2026-10-22 13:43:11 | [DevManish007.tensorflow-keras-pro-snippets](https://marketplace.visualstudio.com/items?itemName=DevManish007.tensorflow-keras-pro-snippets) | TensorFlow Keras Pro Snippets | 0.1.0 | A practical collection of 163 VS Code snippets for TensorFlow, Keras, deep lear… |
-| 2026-10-22 13:50:32 | [macromeer.pdfjs-viewer](https://marketplace.visualstudio.com/items?itemName=macromeer.pdfjs-viewer) | PDF Viewer (PDF.js 6) | 2.0.1 | Maintained fork of vscode-pdf: up-to-date PDF.js, auto-reload that keeps your p… |
-| 2026-10-22 14:00:55 | [alex-roc.agentsdiagram](https://marketplace.visualstudio.com/items?itemName=alex-roc.agentsdiagram) | Agents Diagram | 0.1.0 | Live diagram of your PydanticAI and smolagents agents, tools and toolsets, from… |
-| 2026-10-22 14:04:12 | [brian-chang.nv-green-dark](https://marketplace.visualstudio.com/items?itemName=brian-chang.nv-green-dark) | NV Green Dark | 0.1.0 | A deep green and graphite VS Code theme with coordinated file and product icons. |
-| 2026-10-22 14:11:07 | [MajaRoczek.touchdesigner-ide](https://marketplace.visualstudio.com/items?itemName=MajaRoczek.touchdesigner-ide) | TouchDesigner IDE | 0.2.0 | Interactive development environment for TouchDesigner: live autocompletion, rem… |
-| 2026-10-22 14:11:08 | [hiroomi.model-usage-display](https://marketplace.visualstudio.com/items?itemName=hiroomi.model-usage-display) | Model Usage Display | 1.2.1 | Status bar display of remaining AI model quota (Gemini / Claude / GPT) from Ant… |
-| 2026-10-22 14:13:42 | [VoytekD.nightcity](https://marketplace.visualstudio.com/items?itemName=VoytekD.nightcity) | Night City 2077 | 0.1.0 | A dark red, cyan and yellow color theme inspired by the Cyberpunk 2077 in-game… |
+| 2026-10-22 14:21:59 | [RazikSF.lumina-themes](https://marketplace.visualstudio.com/items?itemName=RazikSF.lumina-themes) | Lumina Themes | 1.0.0 | Fourteen flavors, each in dark and light: six code colours drawn from one scene… |
+| 2026-10-22 14:37:08 | [VoidHub.voidhub-time-complexity-calculator](https://marketplace.visualstudio.com/items?itemName=VoidHub.voidhub-time-complexity-calculator) | Time Complexity Calculator by VoidHub | 1.0.0 | Offline C++ Time & Space Complexity Static Analyzer with first-principles proof… |
+| 2026-10-22 15:00:28 | [asel-athena.athena-ai-workspace](https://marketplace.visualstudio.com/items?itemName=asel-athena.athena-ai-workspace) | Asel Athena AI Workspace | 0.2.1 | Connect selected VS Code folders to your Athena server over Tailscale. |
+| 2026-10-22 15:08:45 | [KaanGoker.gemd-notes](https://marketplace.visualstudio.com/items?itemName=KaanGoker.gemd-notes) | Gemd | 0.0.1 | Markdown notes and boards with live preview. |
+| 2026-10-22 15:10:17 | [leekh.open-with-slidev](https://marketplace.visualstudio.com/items?itemName=leekh.open-with-slidev) | Open with Slidev | 0.2.0 | 마크다운 파일을 우클릭 → 'Open with Slidev' 로 바로 Slidev 슬라이드를 띄운다. 프로젝트에 Slidev 가 없어도 되고,… |
+| 2026-10-22 15:14:55 | [AroosMohamed.git-toprepo-vscode](https://marketplace.visualstudio.com/items?itemName=AroosMohamed.git-toprepo-vscode) | Git Toprepo | 0.1.4 | Source Control and diff support for git-toprepo emulated monorepos. |
 
 ## Data source
 

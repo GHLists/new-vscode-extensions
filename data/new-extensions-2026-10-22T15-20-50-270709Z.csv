@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T14:21:59.047Z,RazikSF.lumina-themes,RazikSF,Lumina Themes,1.0.0,"Fourteen flavors, each in dark and light: six code colours drawn from one scene, on tinted grounds. Quartz adds a high-contrast pair."
+2026-10-22T14:37:08.08Z,VoidHub.voidhub-time-complexity-calculator,VoidHub,Time Complexity Calculator by VoidHub,1.0.0,Offline C++ Time & Space Complexity Static Analyzer with first-principles proofs - By VoidHub
+2026-10-22T15:00:28.44Z,asel-athena.athena-ai-workspace,asel-athena,Asel Athena AI Workspace,0.2.1,Connect selected VS Code folders to your Athena server over Tailscale.
+2026-10-22T15:08:45.857Z,KaanGoker.gemd-notes,KaanGoker,Gemd,0.0.1,Markdown notes and boards with live preview.
+2026-10-22T15:10:17.86Z,leekh.open-with-slidev,leekh,Open with Slidev,0.2.0,"마크다운 파일을 우클릭 → 'Open with Slidev' 로 바로 Slidev 슬라이드를 띄운다. 프로젝트에 Slidev 가 없어도 되고, 공식 갤러리 테마 32종을 이름만으로 쓸 수 있다."
+2026-10-22T15:14:55.76Z,AroosMohamed.git-toprepo-vscode,AroosMohamed,Git Toprepo,0.1.4,Source Control and diff support for git-toprepo emulated monorepos.
