@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 21:20 UTC
+## Latest list — 2026-10-23 22:19 UTC
 
-New extensions published between 2026-10-23 19:20 UTC and 2026-10-23 21:20 UTC.
+New extensions published between 2026-10-23 20:19 UTC and 2026-10-23 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T21-20-20-118596Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T22-19-57-860542Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 20:19:25 | [babejsza.emoji-for-claude-code](https://marketplace.visualstudio.com/items?itemName=babejsza.emoji-for-claude-code) | Emoji for Claude Code | 0.1.2 | Slack-style :shortcode: emoji and autocomplete in the Claude Code chat. Unoffic… |
-| 2026-10-23 20:20:08 | [redb.redb-route-xml](https://marketplace.visualstudio.com/items?itemName=redb.redb-route-xml) | redb Route XML | 0.2.24 | Completion and validation for redb.Route XML routes, a route tree, bean referen… |
-| 2026-10-23 20:20:41 | [OuroborosProductions.openscad-js-preview](https://marketplace.visualstudio.com/items?itemName=OuroborosProductions.openscad-js-preview) | OpenSCAD.js Preview | 0.1.0 | SCAD syntax highlighting and interactive 3D previews with STL export, Customize… |
-| 2026-10-23 20:33:37 | [CedricDDesigns.getout](https://marketplace.visualstudio.com/items?itemName=CedricDDesigns.getout) | getout | 2.0.0 | Opens linked files in their default Windows application instead of a VS Code ta… |
-| 2026-10-23 20:49:53 | [ScriptKittens.kitty-code](https://marketplace.visualstudio.com/items?itemName=ScriptKittens.kitty-code) | Kitty Code | 1.0.18 | Kitty Code for VS Code — Script Kittens AI coding assistant |
-| 2026-10-23 21:07:43 | [shikharsaraf.refactorly-vscode](https://marketplace.visualstudio.com/items?itemName=shikharsaraf.refactorly-vscode) | Refactorly AI | 0.1.0 | Refactor, analyze, and learn project coding style with Refactorly AI |
-| 2026-10-23 21:14:31 | [unifinity.groundhog](https://marketplace.visualstudio.com/items?itemName=unifinity.groundhog) | Groundhog | 0.1.0 | Hosted HTTPS tunnels and request inspection beside your app. |
+| 2026-10-23 21:15:22 | [PatchWRK.patchwrk-scanner-local](https://marketplace.visualstudio.com/items?itemName=PatchWRK.patchwrk-scanner-local) | PatchWRK Scanner | 0.1.6 | Free, read-only Scanner for supported third-party API integrations and evidence… |
+| 2026-10-23 22:00:27 | [jaunblanco.ethtools](https://marketplace.visualstudio.com/items?itemName=jaunblanco.ethtools) | extneison | 0.0.2 | A minimal test extension |
+| 2026-10-23 22:02:01 | [contextzip.contextzip](https://marketplace.visualstudio.com/items?itemName=contextzip.contextzip) | contextzip | 0.1.0 | Package the right files of your project for Claude, ChatGPT or any AI chat, the… |
+| 2026-10-23 22:03:43 | [Cabdelillah.sqlab](https://marketplace.visualstudio.com/items?itemName=Cabdelillah.sqlab) | SQLab — Oracle SQL & PL/SQL | 1.0.0 | Run Oracle SQL and PL/SQL offline, with Oracle's error codes, plain-language hi… |
 
 ## Data source
 

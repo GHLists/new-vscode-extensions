@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T21:15:22.593Z,PatchWRK.patchwrk-scanner-local,PatchWRK,PatchWRK Scanner,0.1.6,"Free, read-only Scanner for supported third-party API integrations and evidence-backed compatibility findings."
+2026-10-23T22:00:27.74Z,jaunblanco.ethtools,jaunblanco,extneison,0.0.2,A minimal test extension
+2026-10-23T22:02:01.83Z,contextzip.contextzip,contextzip,contextzip,0.1.0,"Package the right files of your project for Claude, ChatGPT or any AI chat, then apply the AI's changes back without losing your edits."
+2026-10-23T22:03:43.75Z,Cabdelillah.sqlab,Cabdelillah,SQLab — Oracle SQL & PL/SQL,1.0.0,"Run Oracle SQL and PL/SQL offline, with Oracle's error codes, plain-language hints, live checks and autocomplete. No Oracle install needed."
