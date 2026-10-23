@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 13:22 UTC
+## Latest list — 2026-10-23 14:21 UTC
 
-New extensions published between 2026-10-23 11:22 UTC and 2026-10-23 13:22 UTC.
+New extensions published between 2026-10-23 12:21 UTC and 2026-10-23 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T13-22-17-493572Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T14-21-57-827354Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 12:22:32 | [ibrahima036.return-sorter](https://marketplace.visualstudio.com/items?itemName=ibrahima036.return-sorter) | Return Sorter | 0.2.0 | Trie automatiquement les propriétés de vos return { ... } JS/TS par nature puis… |
-| 2026-10-23 12:26:13 | [Sana.tagflow-ci](https://marketplace.visualstudio.com/items?itemName=Sana.tagflow-ci) | TagFlow CI | 1.0.0 | One-click Git tag deployment for CI/CD pipelines, directly from Visual Studio C… |
-| 2026-10-23 12:34:15 | [Hubert.fumbler-notebook](https://marketplace.visualstudio.com/items?itemName=Hubert.fumbler-notebook) | Fumbler Notebook | 0.0.1 | Open .fum.py files as notebooks with Python, FreeCAD, Markdown, Image, and SVG… |
-| 2026-10-23 12:40:59 | [ringo196.antigravity-quota-pools](https://marketplace.visualstudio.com/items?itemName=ringo196.antigravity-quota-pools) | Antigravity Quota Pools | 1.0.0 | Displays Google Antigravity and AI model quotas cleanly on the status bar group… |
-| 2026-10-23 12:41:11 | [epavanello.treeline](https://marketplace.visualstudio.com/items?itemName=epavanello.treeline) | Treeline — Git Graph | 0.1.0 | A fast, minimal Git Graph for VS Code and Cursor: commit graph, branches, stash… |
-| 2026-10-23 13:00:04 | [alitasdepollos.devhelp](https://marketplace.visualstudio.com/items?itemName=alitasdepollos.devhelp) | DevHelp | 1.0.0 | DevHelp: Milk & Love stickers and GMMTV mascots walk round your editor while yo… |
-| 2026-10-23 13:05:13 | [xbghc.warden](https://marketplace.visualstudio.com/items?itemName=xbghc.warden) | Warden Workspace Review | 0.18.2 | Plan parallel workspaces, review with native diffs, and run an isolated live pr… |
-| 2026-10-23 13:07:40 | [ungram.ungram-code](https://marketplace.visualstudio.com/items?itemName=ungram.ungram-code) | Ungram Code | 0.1.0 | Autonomous coding agent powered by Ungram: plans, edits files and runs commands… |
-| 2026-10-23 13:10:41 | [remons.markdown-editor-extension](https://marketplace.visualstudio.com/items?itemName=remons.markdown-editor-extension) | Remons Markdown Editor | 0.0.1 | 基于 React 组件 remons-markdown-editor 的 VSCode Markdown 可视化编辑器（Custom Editor） |
+| 2026-10-23 12:37:15 | [wayri.kicad-visual-review](https://marketplace.visualstudio.com/items?itemName=wayri.kicad-visual-review) | KiCad Visual Review | 0.12.51 | View KiCad schematics and PCBs, inspect nets and assembly fields, and resolve G… |
+| 2026-10-23 13:27:37 | [halilural.imprimatur](https://marketplace.visualstudio.com/items?itemName=halilural.imprimatur) | Imprimatur | 0.70.0 | See every doc edit your AI agent makes as tracked changes until you accept it. |
+| 2026-10-23 13:39:24 | [moshebarami.photometric-studio](https://marketplace.visualstudio.com/items?itemName=moshebarami.photometric-studio) | Photometric Studio – IES / LDT / EULUMD… | 1.0.1 | Full viewer, editor, converter and validator for luminaire photometric files: I… |
+| 2026-10-23 13:46:36 | [alitasdepollos.thaimascotdevhelp](https://marketplace.visualstudio.com/items?itemName=alitasdepollos.thaimascotdevhelp) | Thai Mascot Buddy | 1.0.8 | GMMTV mascots and other cute mascots (and animals) walk round your editor while… |
+| 2026-10-23 13:48:00 | [imhussain001.codearchitect-vscode](https://marketplace.visualstudio.com/items?itemName=imhussain001.codearchitect-vscode) | CodeArchitect: Blast Radius | 0.2.0 | See what a change to this file can break: dependents in the status bar, per-sym… |
+| 2026-10-23 13:54:05 | [fabioconcina.claumon](https://marketplace.visualstudio.com/items?itemName=fabioconcina.claumon) | claumon: Claude Code Usage & Limits | 0.4.3 | See where your Claude Code limits are headed before you hit them: live usage an… |
 
 ## Data source
 
