@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T10:18:44.55Z,b4er.caraml,b4er,CaraML,0.0.0,Language support for CaraML backed by the language server.
+2026-10-23T10:28:58.273Z,a-st.checkstyle,a-st,Checkstyle for VS Code,1.5.0,Provide real-time feedback about Checkstyle violations and quick fix actions
+2026-10-23T10:29:26.49Z,AravindMerugu.notes-explorer,AravindMerugu,Notes Explorer,1.0.0,"Your notes folder in the sidebar of every VS Code window: tasks, reminders, daily notes, templates, [[links]] and tags."
+2026-10-23T10:31:47.09Z,funara.aracommit,funara,ARACommit,0.1.0,"ARACommit generates commit messages from staged Git changes using AI providers. Created by Funara, part of the ARA AI Ecosystem."
+2026-10-23T11:09:13.937Z,arsam-dev.smart-rtl,arsam-dev,Smart RTL,0.1.0,"Automatically improve Persian and Arabic text direction inside source code, strings, tags and comments without changing files."
+2026-10-23T11:10:32.23Z,hassanaliandeliot.git-merge-workbench,hassanaliandeliot,Git Storm Merge,0.6.0,"Branches and stashes, merge conflict previews against master and staging with the reason for each conflict, cherry-picking with a preview and undo, and a three-pane merge editor, in one place."
