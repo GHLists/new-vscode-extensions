@@ -12,20 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 17:18 UTC
+## Latest list — 2026-10-23 18:21 UTC
 
-New extensions published between 2026-10-23 15:18 UTC and 2026-10-23 17:18 UTC.
+New extensions published between 2026-10-23 16:21 UTC and 2026-10-23 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T17-18-58-789783Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T18-21-08-403429Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 16:38:03 | [bergerbd.roar-net-api-generator](https://marketplace.visualstudio.com/items?itemName=bergerbd.roar-net-api-generator) | ROAR-NET API Generator | 0.1.0 | Generator for the ROAR-NET API |
-| 2026-10-23 16:40:39 | [tapeo.tapeo-vscode](https://marketplace.visualstudio.com/items?itemName=tapeo.tapeo-vscode) | Tapeo | 0.3.0 | Edit Tapeo hardware projects, run server workflows, see tool errors in the Prob… |
-| 2026-10-23 16:51:32 | [0no-co.vscode-graphqlsp](https://marketplace.visualstudio.com/items?itemName=0no-co.vscode-graphqlsp) | GraphQLSP | 0.1.0 | GraphQL syntax highlighting and schema-aware TypeScript support — diagnostics,… |
-| 2026-10-23 16:55:59 | [chaunguyen2310.smart-svg-animation](https://marketplace.visualstudio.com/items?itemName=chaunguyen2310.smart-svg-animation) | Smart SVG Animation | 0.2.0 | Create SVG animations with a visual timeline editor. Free basic editing with op… |
-| 2026-10-23 17:10:42 | [aniusch.driftglass](https://marketplace.visualstudio.com/items?itemName=aniusch.driftglass) | Driftglass - Diff viewer | 0.1.1 | See the cut between live and local. Helm, git, unified, and patch diffs — red d… |
-| 2026-10-23 17:12:54 | [sebastianrath.sor-vscode](https://marketplace.visualstudio.com/items?itemName=sebastianrath.sor-vscode) | Spec of Record | 0.1.14 | Shows which code comes from which clause of the spec, and whether they still ag… |
+| 2026-10-23 17:25:52 | [Websoft.omnicode-xquery-builder](https://marketplace.visualstudio.com/items?itemName=Websoft.omnicode-xquery-builder) | Websoft XQuery Builder for HCM | 26.10.23 | Visual XQuery expression builder for Websoft HCM. Uses server connections provi… |
+| 2026-10-23 17:26:19 | [shinobi.dotnet-studio](https://marketplace.visualstudio.com/items?itemName=shinobi.dotnet-studio) | Shinobi .NET Studio | 0.1.1 | The Visual Studio workflow in VS Code and VSCodium: Solution Explorer, NuGet, T… |
+| 2026-10-23 17:26:22 | [mx92.verbosely](https://marketplace.visualstudio.com/items?itemName=mx92.verbosely) | Verbosely: Live Agent Activity | 0.2.1 | Verbose mode for Claude Code and Codex. See what your agent says and does while… |
+| 2026-10-23 17:40:50 | [eren-tools.rustdesk-remote-access](https://marketplace.visualstudio.com/items?itemName=eren-tools.rustdesk-remote-access) | Remote Connect for RustDesk | 0.1.0 | Unofficial community extension, not affiliated with RustDesk. Securely initiate… |
+| 2026-10-23 17:44:52 | [typesql.typesql](https://marketplace.visualstudio.com/items?itemName=typesql.typesql) | TypeSQL | 0.0.1 | Completions for tables and columns inside TypeSQL's sql() strings, on top of Ty… |
+| 2026-10-23 17:48:55 | [BryanFagundes.claude-status-usage](https://marketplace.visualstudio.com/items?itemName=BryanFagundes.claude-status-usage) | Claude Usage Status (unofficial) | 0.1.0 | Shows your Claude plan usage (5-hour session and weekly limits) as progress bar… |
+| 2026-10-23 17:50:43 | [Pingu.local-code-ai](https://marketplace.visualstudio.com/items?itemName=Pingu.local-code-ai) | Local Code AI | 0.1.1 | Local Code AI VS Code client for a user-managed local bridge; model and runtime… |
+| 2026-10-23 17:53:05 | [Emeria.ai-usage-toggle](https://marketplace.visualstudio.com/items?itemName=Emeria.ai-usage-toggle) | AI Usage Toggle | 0.0.1 | Switch between account/subscription and API-key usage for Claude, Gemini, and O… |
+| 2026-10-23 18:12:07 | [MrNamra.colive](https://marketplace.visualstudio.com/items?itemName=MrNamra.colive) | CoLive - Real-time Collaboration | 1.0.0 | Real-time collaborative editing, cursors, comments, and follow mode |
 
 ## Data source
 

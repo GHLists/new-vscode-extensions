@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T17:25:52.3Z,Websoft.omnicode-xquery-builder,Websoft,Websoft XQuery Builder for HCM,26.10.23,Visual XQuery expression builder for Websoft HCM. Uses server connections provided by Websoft OmniCode for HCM.
+2026-10-23T17:26:19.133Z,shinobi.dotnet-studio,shinobi,Shinobi .NET Studio,0.1.1,"The Visual Studio workflow in VS Code and VSCodium: Solution Explorer, NuGet, Test Explorer, Error List, Run & Debug, Configuration Manager, Publish."
+2026-10-23T17:26:22.203Z,mx92.verbosely,mx92,Verbosely: Live Agent Activity,0.2.1,"Verbose mode for Claude Code and Codex. See what your agent says and does while it works, not just its final answer."
+2026-10-23T17:40:50.817Z,eren-tools.rustdesk-remote-access,eren-tools,Remote Connect for RustDesk,0.1.0,"Unofficial community extension, not affiliated with RustDesk. Securely initiate authorized remote desktop connections directly from Visual Studio Code."
+2026-10-23T17:44:52.74Z,typesql.typesql,typesql,TypeSQL,0.0.1,"Completions for tables and columns inside TypeSQL's sql() strings, on top of TypeScript 7."
+2026-10-23T17:48:55.937Z,BryanFagundes.claude-status-usage,BryanFagundes,Claude Usage Status (unofficial),0.1.0,Shows your Claude plan usage (5-hour session and weekly limits) as progress bars in the status bar
+2026-10-23T17:50:43.54Z,Pingu.local-code-ai,Pingu,Local Code AI,0.1.1,Local Code AI VS Code client for a user-managed local bridge; model and runtime are not included.
+2026-10-23T17:53:05.73Z,Emeria.ai-usage-toggle,Emeria,AI Usage Toggle,0.0.1,"Switch between account/subscription and API-key usage for Claude, Gemini, and OpenAI from the status bar."
+2026-10-23T18:12:07.05Z,MrNamra.colive,MrNamra,CoLive - Real-time Collaboration,1.0.0,"Real-time collaborative editing, cursors, comments, and follow mode"
