@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T15:14:45.863Z,vasvasnr.bm-ftp-commander,vasvasnr,bm.ftp — FTP Commander,0.1.2,Browse local and FTP/FTPS/SFTP directories in a Norton Commander-inspired VS Code panel.
+2026-10-23T15:16:52.393Z,DerickL.lawson-config-redactor,DerickL,Network Config Redactor — Lawson Cyber LLC,0.3.0,"Redact Cisco configs locally. Review passwords, keys, and address replacements before sharing. No uploads or telemetry."
+2026-10-23T15:25:01.783Z,MonoSmith.monosmith-vscode,MonoSmith,MonoSmith,0.1.0,"The projects and tasks of a MonoSmith workspace in VS Code: run a task, see what the changes affect."
+2026-10-23T15:41:46.043Z,juanbanco.web3-tools,juanbanco,solidity​​​​​​​​​,0.0.192,Ethereum Solidity Language for Visual Studio Code
+2026-10-23T15:42:41.33Z,capystudio.silwright-ndef-language-support,capystudio,Silwright NDEF Language Support,0.10.1,Syntax highlighting and editor support for Silwright node definition files.
+2026-10-23T16:08:42.433Z,Quectel.quectel-rtos,Quectel,Quectel RTOS,0.1.0,"One VS Code extension for three Quectel toolchains: UniKnect (STM32), UniRTOS and QuecPython. Build, flash, debug and browse the device file system from a single panel."
