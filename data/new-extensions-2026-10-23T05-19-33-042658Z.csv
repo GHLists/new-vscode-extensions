@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T04:15:00.953Z,walnuts1018.mcl-vscode,walnuts1018,MCL,0.1.0,MCL language support for Visual Studio Code
+2026-10-23T04:15:01.287Z,flightcoders.veyra-mongodb,flightcoders,Veyra Query Lens,1.0.0,"An index advisor for the MongoDB queries in your code. See documents read, time and index use above each query, add the suggested index in one click, find unused indexes, and compare Mongoose schemas with your data."
+2026-10-23T04:32:59.557Z,AlexFedotovskikh.v6vscode,AlexFedotovskikh,Vector-06c Development,0.3.0,"Vector-06c development environment ΓÇö project management, syntax highlighting, and emulator integration."
+2026-10-23T04:37:55.127Z,Acalaes.claude-config-sync,Acalaes,Claude Config Sync,0.2.0,"Sincroniza com um clique a configuração do Claude Code (regras, memórias, skills, agents) entre computadores pelo GitHub, e as conversas pelo Google Drive. Juntar, nunca substituir."
+2026-10-23T04:59:12.443Z,plume-works.vscode-expo-bridge-host,plume-works,Expo Bridge (Host),0.1.10,"Mac-side half of the Expo Bridge: builds, installs, launches, and screenshots an Expo iOS app for a devcontainer."
+2026-10-23T04:59:13.597Z,plume-works.vscode-expo-bridge-workspace,plume-works,Expo Bridge (Workspace),0.1.10,Container-side half of the Expo Bridge: installs the eas-host command and bridges it to the Mac host.
+2026-10-23T04:59:14.58Z,plume-works.vscode-expo-bridge,plume-works,Expo Bridge,0.1.10,"Build, install, launch, and screenshot an Expo iOS app on the Mac host from a devcontainer, with EAS cloud as the fallback."
+2026-10-23T05:11:40.57Z,dotnetpower.code-context-native,dotnetpower,Code Context by dotnetpower,0.13.1,"Fast local code search, source reads, and context for AI agents. Native VS Code tools backed by one shared, adaptive cache."
+2026-10-23T05:11:44.87Z,vinismoraes.awake-vscode,vinismoraes,Awake for Codex,0.3.9,"Keep your Mac awake during Codex turns, VS Code tasks, terminal commands, or a timer."
+2026-10-23T05:13:55.51Z,AndreeBermdez.molynx,AndreeBermdez,Molynx,0.7.0,"Revisa los cambios de Codex, Claude Code y agent-harness bloque por bloque: aceptar o rechazar cada cambio dentro del editor."
