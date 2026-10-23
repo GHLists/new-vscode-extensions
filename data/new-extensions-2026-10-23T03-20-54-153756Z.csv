@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T02:29:03.237Z,asfasfzxcxzcxv.ayuyuhhhhsdgsgd,asfasfzxcxzcxv,sdgsgdsdg,0.0.2,A minimal test extension
+2026-10-23T02:31:42.233Z,Necrotree.visual-script,Necrotree,Visual Script,1.0.0,Visual drag-and-drop programming for multiple languages using VS Code language services.
+2026-10-23T02:46:35.01Z,juanbanco.web3tools,juanbanco,solidity​​​​​​​​​​,0.0.2,Ethereum Solidity Language for Visual Studio Code
+2026-10-23T03:03:42.087Z,lealaxy.leafrelay-sync,lealaxy,LeafRelay Sync,0.2.5,"Reliably synchronize local LaTeX projects with Overleaf, with VS Code collaboration and preview support."
+2026-10-23T03:08:36.097Z,AvrahamPlotnitzky.plca,AvrahamPlotnitzky,plca — PLC static analysis,0.1.0,"Diagnostics, navigation and highlighting for IEC 61131-3 Structured Text (CODESYS, TwinCAT), Siemens SCL, Rockwell L5X/L5K and PLCopen XML, from the plca language server."
+2026-10-23T03:13:57.347Z,jacivaldocarvalho.jc-translate-peek,jacivaldocarvalho,JC Translate Peek,0.1.0,"Peek translations without modifying your text. Select, translate, and view in a side panel."

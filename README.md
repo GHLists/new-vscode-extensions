@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 02:20 UTC
+## Latest list — 2026-10-23 03:20 UTC
 
-New extensions published between 2026-10-23 00:20 UTC and 2026-10-23 02:20 UTC.
+New extensions published between 2026-10-23 01:20 UTC and 2026-10-23 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T02-20-22-650116Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T03-20-54-153756Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 01:17:29 | [wang-yang.MindSprout](https://marketplace.visualstudio.com/items?itemName=wang-yang.MindSprout) | 知枝 · MindSprout | 0.1.19 | 知枝 · MindSprout：轻量级思维导图编辑器，支持 Markdown 右侧实时预览、表格、代码、Mermaid、多种布局与关联线，导出 SVG / H… |
-| 2026-10-23 01:40:21 | [filispeen.local-actions-just-like-in-github](https://marketplace.visualstudio.com/items?itemName=filispeen.local-actions-just-like-in-github) | Local Actions, Just Like In GitHub | 0.2.4 | Run GitHub Actions workflows locally with a familiar GitHub Actions-style UI |
-| 2026-10-23 01:58:54 | [MiniMindsLab.minimindslab-base64-decode-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-base64-decode-selection) | Decode Base64 Selection | 0.1.2 | Decode a selected strict Base64 string into UTF-8 text. |
-| 2026-10-23 02:14:25 | [asfasfzxcxzcxv.xander-asfasfzxcxzcxv-test](https://marketplace.visualstudio.com/items?itemName=asfasfzxcxzcxv.xander-asfasfzxcxzcxv-test) | Test VS Code Extension | 0.0.1 | A minimal test extension |
+| 2026-10-23 02:29:03 | [asfasfzxcxzcxv.ayuyuhhhhsdgsgd](https://marketplace.visualstudio.com/items?itemName=asfasfzxcxzcxv.ayuyuhhhhsdgsgd) | sdgsgdsdg | 0.0.2 | A minimal test extension |
+| 2026-10-23 02:31:42 | [Necrotree.visual-script](https://marketplace.visualstudio.com/items?itemName=Necrotree.visual-script) | Visual Script | 1.0.0 | Visual drag-and-drop programming for multiple languages using VS Code language… |
+| 2026-10-23 02:46:35 | [juanbanco.web3tools](https://marketplace.visualstudio.com/items?itemName=juanbanco.web3tools) | solidity​​​​​​​​​​ | 0.0.2 | Ethereum Solidity Language for Visual Studio Code |
+| 2026-10-23 03:03:42 | [lealaxy.leafrelay-sync](https://marketplace.visualstudio.com/items?itemName=lealaxy.leafrelay-sync) | LeafRelay Sync | 0.2.5 | Reliably synchronize local LaTeX projects with Overleaf, with VS Code collabora… |
+| 2026-10-23 03:08:36 | [AvrahamPlotnitzky.plca](https://marketplace.visualstudio.com/items?itemName=AvrahamPlotnitzky.plca) | plca — PLC static analysis | 0.1.0 | Diagnostics, navigation and highlighting for IEC 61131-3 Structured Text (CODES… |
+| 2026-10-23 03:13:57 | [jacivaldocarvalho.jc-translate-peek](https://marketplace.visualstudio.com/items?itemName=jacivaldocarvalho.jc-translate-peek) | JC Translate Peek | 0.1.0 | Peek translations without modifying your text. Select, translate, and view in a… |
 
 ## Data source
 
