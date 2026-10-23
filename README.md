@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 00:19 UTC
+## Latest list — 2026-10-23 01:19 UTC
 
-New extensions published between 2026-10-22 22:19 UTC and 2026-10-23 00:19 UTC.
+New extensions published between 2026-10-22 23:19 UTC and 2026-10-23 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T00-19-04-287894Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T01-19-08-691819Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 23:20:50 | [kater.kater](https://marketplace.visualstudio.com/items?itemName=kater.kater) | Kater SQL | 0.2.260 | Write, run and chart Kater SQL in VS Code, Cursor and Windsurf, with the same e… |
-| 2026-10-22 23:24:28 | [zecro.sheet-glance](https://marketplace.visualstudio.com/items?itemName=zecro.sheet-glance) | Sheet Glance: Excel & CSV Viewer | 1.0.1 | Open .xlsx, .xls, .xlsm, .ods, .csv and .tsv files as a fast, read-only spreads… |
-| 2026-10-22 23:31:02 | [cbs-consulting.vkm](https://marketplace.visualstudio.com/items?itemName=cbs-consulting.vkm) | Virtual Key Mapper for Copilot Chat | 0.1.0 | Gateway models in Copilot Chat with your vkm sign-in and each workspace's label… |
-| 2026-10-22 23:31:14 | [cbs-consulting.vkm-local](https://marketplace.visualstudio.com/items?itemName=cbs-consulting.vkm-local) | Virtual Key Mapper: local sign-in | 0.1.0 | Relays your local vkm sign-in into dev containers and other remote windows; not… |
-| 2026-10-23 00:05:42 | [RobertRamos.trench-theme](https://marketplace.visualstudio.com/items?itemName=RobertRamos.trench-theme) | Trench | 0.1.0 | A deep slate-blue dark theme with teal, orange and pink accents |
-| 2026-10-23 00:08:49 | [p3ntium.copilot-chat-remote](https://marketplace.visualstudio.com/items?itemName=p3ntium.copilot-chat-remote) | Copilot Chat Remote (Telegram) | 0.1.0 | Continue your GitHub Copilot Chat conversations in any open VS Code window from… |
+| 2026-10-23 00:35:50 | [isaacsherman.protocross](https://marketplace.visualstudio.com/items?itemName=isaacsherman.protocross) | ProtoCross | 0.7.0 | Language support for ProtoCross: live diagnostics, completion, hover and naviga… |
+| 2026-10-23 00:37:54 | [TysonCung.cc-config-switcher](https://marketplace.visualstudio.com/items?itemName=TysonCung.cc-config-switcher) | Claude Config Switcher | 1.2.2 | Switch between Claude Code config directories (CLAUDE_CONFIG_DIR) from a status… |
+| 2026-10-23 00:38:32 | [nxdlang.NXD](https://marketplace.visualstudio.com/items?itemName=nxdlang.NXD) | nxd language | 0.2.7 | Official VS Code language support for the NXD programming language. |
+| 2026-10-23 00:52:16 | [Mopacraft.vscode-mopacraft](https://marketplace.visualstudio.com/items?itemName=Mopacraft.vscode-mopacraft) | MopaCraft Background | 1.0.1 | Backgrounds customizados com vídeo, GIF e imagem com transparência de interface… |
+| 2026-10-23 01:04:55 | [xanvil.csharp-script-for-application](https://marketplace.visualstudio.com/items?itemName=xanvil.csharp-script-for-application) | CSharp Script For Application | 0.0.1 | 应用C#脚本语言服务支持 |
 
 ## Data source
 

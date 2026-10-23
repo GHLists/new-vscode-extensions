@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T00:35:50.133Z,isaacsherman.protocross,isaacsherman,ProtoCross,0.7.0,"Language support for ProtoCross: live diagnostics, completion, hover and navigation, driven by the ProtoCross compiler."
+2026-10-23T00:37:54.343Z,TysonCung.cc-config-switcher,TysonCung,Claude Config Switcher,1.2.2,Switch between Claude Code config directories (CLAUDE_CONFIG_DIR) from a status bar item.
+2026-10-23T00:38:32.13Z,nxdlang.NXD,nxdlang,nxd language,0.2.7,Official VS Code language support for the NXD programming language.
+2026-10-23T00:52:16.193Z,Mopacraft.vscode-mopacraft,Mopacraft,MopaCraft Background,1.0.1,"Backgrounds customizados com vídeo, GIF e imagem com transparência de interface sem quebrar o VS Code."
+2026-10-23T01:04:55.27Z,xanvil.csharp-script-for-application,xanvil,CSharp Script For Application,0.0.1,应用C#脚本语言服务支持
