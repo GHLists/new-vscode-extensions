@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T11:17:04.887Z,harshdazz.routelens-api-client,harshdazz,RouteLens API Client,0.1.1,"The API client that reads your code: it finds your Next.js and Express routes, writes and runs the requests, and lets your AI agent fix what fails."
+2026-10-23T11:36:10.48Z,zhouzice.dummy-git,zhouzice,Dummy Git,0.1.0,不用记命令的 Git：JetBrains 式图形化操作，点两下就完事。
+2026-10-23T11:59:36.767Z,maxhoelper.pdf-markup,maxhoelper,PDF Markup,2.1.0,"Annotate PDFs right in VS Code: highlight, draw, add text and images, and save them into the file."
+2026-10-23T12:01:34.28Z,a-st.vscode-checkstyle-v2,a-st,Checkstyle Support for VS Code,2.0.0,Provide real-time feedback about Checkstyle violations and quick fix actions
+2026-10-23T12:04:38.143Z,XeXead.vektor,XeXead,Vektor — Ad-Funded AI,0.1.54,"Free AI coding chat paid for by ads. A large sponsor appears while each reply is generated, then folds into a small sponsored line under the finished reply."
+2026-10-23T12:10:25.447Z,viniciusclerod.kiro-relay,viniciusclerod,Kiro Relay: Kiro CLI Models for Chat,0.0.0,"Use the models from your Kiro subscription in VS Code Chat, authenticated through kiro-cli. Unofficial; not affiliated with AWS or Kiro."
+2026-10-23T12:12:22.877Z,CodingSon.dotnet-repo-generator,CodingSon,C# .NET Repository Pattern & BAL Generator,1.1.0,"Generate enterprise-grade Repository Pattern, BAL Helpers, Models with Data Annotations, and Controllers (MVC, Ajax, Kendo UI) for .NET and C# MVC projects."

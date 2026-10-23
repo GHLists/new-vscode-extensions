@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 11:19 UTC
+## Latest list — 2026-10-23 12:21 UTC
 
-New extensions published between 2026-10-23 09:19 UTC and 2026-10-23 11:19 UTC.
+New extensions published between 2026-10-23 10:21 UTC and 2026-10-23 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T11-19-16-066537Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T12-21-29-647073Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 10:18:44 | [b4er.caraml](https://marketplace.visualstudio.com/items?itemName=b4er.caraml) | CaraML | 0.0.0 | Language support for CaraML backed by the language server. |
-| 2026-10-23 10:28:58 | [a-st.checkstyle](https://marketplace.visualstudio.com/items?itemName=a-st.checkstyle) | Checkstyle for VS Code | 1.5.0 | Provide real-time feedback about Checkstyle violations and quick fix actions |
-| 2026-10-23 10:29:26 | [AravindMerugu.notes-explorer](https://marketplace.visualstudio.com/items?itemName=AravindMerugu.notes-explorer) | Notes Explorer | 1.0.0 | Your notes folder in the sidebar of every VS Code window: tasks, reminders, dai… |
-| 2026-10-23 10:31:47 | [funara.aracommit](https://marketplace.visualstudio.com/items?itemName=funara.aracommit) | ARACommit | 0.1.0 | ARACommit generates commit messages from staged Git changes using AI providers.… |
-| 2026-10-23 11:09:13 | [arsam-dev.smart-rtl](https://marketplace.visualstudio.com/items?itemName=arsam-dev.smart-rtl) | Smart RTL | 0.1.0 | Automatically improve Persian and Arabic text direction inside source code, str… |
-| 2026-10-23 11:10:32 | [hassanaliandeliot.git-merge-workbench](https://marketplace.visualstudio.com/items?itemName=hassanaliandeliot.git-merge-workbench) | Git Storm Merge | 0.6.0 | Branches and stashes, merge conflict previews against master and staging with t… |
+| 2026-10-23 11:17:04 | [harshdazz.routelens-api-client](https://marketplace.visualstudio.com/items?itemName=harshdazz.routelens-api-client) | RouteLens API Client | 0.1.1 | The API client that reads your code: it finds your Next.js and Express routes,… |
+| 2026-10-23 11:36:10 | [zhouzice.dummy-git](https://marketplace.visualstudio.com/items?itemName=zhouzice.dummy-git) | Dummy Git | 0.1.0 | 不用记命令的 Git：JetBrains 式图形化操作，点两下就完事。 |
+| 2026-10-23 11:59:36 | [maxhoelper.pdf-markup](https://marketplace.visualstudio.com/items?itemName=maxhoelper.pdf-markup) | PDF Markup | 2.1.0 | Annotate PDFs right in VS Code: highlight, draw, add text and images, and save… |
+| 2026-10-23 12:01:34 | [a-st.vscode-checkstyle-v2](https://marketplace.visualstudio.com/items?itemName=a-st.vscode-checkstyle-v2) | Checkstyle Support for VS Code | 2.0.0 | Provide real-time feedback about Checkstyle violations and quick fix actions |
+| 2026-10-23 12:04:38 | [XeXead.vektor](https://marketplace.visualstudio.com/items?itemName=XeXead.vektor) | Vektor — Ad-Funded AI | 0.1.54 | Free AI coding chat paid for by ads. A large sponsor appears while each reply i… |
+| 2026-10-23 12:10:25 | [viniciusclerod.kiro-relay](https://marketplace.visualstudio.com/items?itemName=viniciusclerod.kiro-relay) | Kiro Relay: Kiro CLI Models for Chat | 0.0.0 | Use the models from your Kiro subscription in VS Code Chat, authenticated throu… |
+| 2026-10-23 12:12:22 | [CodingSon.dotnet-repo-generator](https://marketplace.visualstudio.com/items?itemName=CodingSon.dotnet-repo-generator) | C# .NET Repository Pattern & BAL Genera… | 1.1.0 | Generate enterprise-grade Repository Pattern, BAL Helpers, Models with Data Ann… |
 
 ## Data source
 
