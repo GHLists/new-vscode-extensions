@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T07:18:48.01Z,liangliang-ai.youdao-translate,liangliang-ai,翻译[好用],0.4.1,选中即翻译，仿 WebStorm 翻译弹框风格的翻译面板，支持有道翻译、腾讯翻译君、百度翻译（悬停 / 翻译面板 / 右键 / 快捷键 / 替换）
+2026-10-23T07:25:41.887Z,PRODDVTM279Test.platformio-PPEM281DVTTestWeek2,PRODDVTM279Test,PPEM281 TESTone On Platform Test,3.3.8,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)"
+2026-10-23T07:28:33.647Z,MiroslavBursa.mbx-next-debugger,MiroslavBursa,MB Maniax Next Debugger,0.2.0,"ZX Spectrum Next emulator and debugger right inside VS Code: stepping through sjasmplus source, conditional breakpoints, breakpoints on interrupts and NEXTREG, memory, emulator screen."
+2026-10-23T07:31:08.953Z,PureAutumn.oi-hydro,PureAutumn,OI Hydro 题目导入,0.0.1,在 VS Code 内登录 HydroOJ（如 yl503.yali.edu.cn），一键把题面与样例导入到 Problems/ 目录
+2026-10-23T07:45:28.517Z,FreshWind.markdown-callouts,FreshWind,Markdown Callouts,0.0.2,Use callouts in markdown like github and obsidian .
+2026-10-23T07:54:59.127Z,kmmz1127.simple-latex-preview,kmmz1127,Simple LaTeX Preview,0.0.2,Lightweight LaTeX preview that also works in VS Code for the Web
+2026-10-23T07:55:38.333Z,lupee.erds-studio,lupee,ERD Studio – Visual ER Diagram Designer,26.10.3,"Design database ER diagrams visually in VS Code: crow's foot relationships, auto layout, SQL DDL import and export for MySQL, PostgreSQL, SQLite, SQL Server and Oracle. Diagrams are git-friendly JSON (.erd)."
+2026-10-23T08:11:51.753Z,Aleton.vscode-language-pack-be,Aleton,Беларуская мова (Belarusian Language Pack),0.2.0,Неафіцыйны беларускі пераклад інтэрфейсу Visual Studio Code. Unofficial Belarusian display language for VS Code.
+2026-10-23T08:17:25.277Z,runningoffcaffeine.termsnap-textwrap,runningoffcaffeine,TermSnap TextWrap,0.1.0,"Capture beautiful terminal screenshots with adjustable text wrapping, preserved terminal colors, and customizable themes."
+2026-10-23T08:18:02.243Z,EesaraMegasooriya.claude-account-switcher-EM,EesaraMegasooriya,Claude Account Switcher by EM,0.2.0,Save multiple Claude Code logins and switch between them from the side panel or status bar.
+2026-10-23T08:18:13.57Z,shapelayer.csv-preview-vscode,shapelayer,Lightweight CSV Preview,0.1.0,"Lightweight CSV table preview with editor sync, cell navigation, and resizable columns."
