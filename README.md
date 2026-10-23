@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-22 23:18 UTC
+## Latest list — 2026-10-23 00:19 UTC
 
-New extensions published between 2026-10-22 21:18 UTC and 2026-10-22 23:18 UTC.
+New extensions published between 2026-10-22 22:19 UTC and 2026-10-23 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-22T23-18-56-843784Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T00-19-04-287894Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-22 22:19:24 | [delagen-ai.delagen-agent-worktrees](https://marketplace.visualstudio.com/items?itemName=delagen-ai.delagen-agent-worktrees) | Delagen Agent Worktrees | 0.2.1 | Create, open, and remove git worktrees under .worktrees/ — with optional post-c… |
-| 2026-10-22 22:29:09 | [zecro.import-weight](https://marketplace.visualstudio.com/items?itemName=zecro.import-weight) | Import Weight: Package Sizes Inline | 1.0.0 | See the minified and gzipped size of every package you import, right next to th… |
-| 2026-10-22 22:33:07 | [trav1snguyen.overseer](https://marketplace.visualstudio.com/items?itemName=trav1snguyen.overseer) | Overseer | 0.2.0 | See how a TypeScript or JavaScript codebase fits together: an interactive graph… |
-| 2026-10-22 22:40:22 | [mrfome14.trycatch-helper](https://marketplace.visualstudio.com/items?itemName=mrfome14.trycatch-helper) | TryCatch Helper | 0.0.1 | Wrap selected code in try/catch |
-| 2026-10-22 22:47:28 | [JeffBaylor.cython-pyx](https://marketplace.visualstudio.com/items?itemName=JeffBaylor.cython-pyx) | Cython PYX | 0.1.0 | Syntax highlighting, outline, and snippets for Cython .pyx, .pxd, and .pxi files |
-| 2026-10-22 23:07:23 | [AnderCMD.rizomadb](https://marketplace.visualstudio.com/items?itemName=AnderCMD.rizomadb) | RizomaDB — Database Client | 1.0.0 | Free, open-source database client. No telemetry, no accounts, no locked feature… |
+| 2026-10-22 23:20:50 | [kater.kater](https://marketplace.visualstudio.com/items?itemName=kater.kater) | Kater SQL | 0.2.260 | Write, run and chart Kater SQL in VS Code, Cursor and Windsurf, with the same e… |
+| 2026-10-22 23:24:28 | [zecro.sheet-glance](https://marketplace.visualstudio.com/items?itemName=zecro.sheet-glance) | Sheet Glance: Excel & CSV Viewer | 1.0.1 | Open .xlsx, .xls, .xlsm, .ods, .csv and .tsv files as a fast, read-only spreads… |
+| 2026-10-22 23:31:02 | [cbs-consulting.vkm](https://marketplace.visualstudio.com/items?itemName=cbs-consulting.vkm) | Virtual Key Mapper for Copilot Chat | 0.1.0 | Gateway models in Copilot Chat with your vkm sign-in and each workspace's label… |
+| 2026-10-22 23:31:14 | [cbs-consulting.vkm-local](https://marketplace.visualstudio.com/items?itemName=cbs-consulting.vkm-local) | Virtual Key Mapper: local sign-in | 0.1.0 | Relays your local vkm sign-in into dev containers and other remote windows; not… |
+| 2026-10-23 00:05:42 | [RobertRamos.trench-theme](https://marketplace.visualstudio.com/items?itemName=RobertRamos.trench-theme) | Trench | 0.1.0 | A deep slate-blue dark theme with teal, orange and pink accents |
+| 2026-10-23 00:08:49 | [p3ntium.copilot-chat-remote](https://marketplace.visualstudio.com/items?itemName=p3ntium.copilot-chat-remote) | Copilot Chat Remote (Telegram) | 0.1.0 | Continue your GitHub Copilot Chat conversations in any open VS Code window from… |
 
 ## Data source
 

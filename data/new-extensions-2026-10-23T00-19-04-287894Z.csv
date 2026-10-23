@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-22T23:20:50.13Z,kater.kater,kater,Kater SQL,0.2.260,"Write, run and chart Kater SQL in VS Code, Cursor and Windsurf, with the same editor as the Kater portal."
+2026-10-22T23:24:28.113Z,zecro.sheet-glance,zecro,Sheet Glance: Excel & CSV Viewer,1.0.1,"Open .xlsx, .xls, .xlsm, .ods, .csv and .tsv files as a fast, read-only spreadsheet grid. Sheet tabs, sort, filter, huge files. Free, no nags, no telemetry, fully offline."
+2026-10-22T23:31:02.09Z,cbs-consulting.vkm,cbs-consulting,Virtual Key Mapper for Copilot Chat,0.1.0,Gateway models in Copilot Chat with your vkm sign-in and each workspace's labels.
+2026-10-22T23:31:14.513Z,cbs-consulting.vkm-local,cbs-consulting,Virtual Key Mapper: local sign-in,0.1.0,Relays your local vkm sign-in into dev containers and other remote windows; nothing is stored there.
+2026-10-23T00:05:42.823Z,RobertRamos.trench-theme,RobertRamos,Trench,0.1.0,"A deep slate-blue dark theme with teal, orange and pink accents"
+2026-10-23T00:08:49.123Z,p3ntium.copilot-chat-remote,p3ntium,Copilot Chat Remote (Telegram),0.1.0,"Continue your GitHub Copilot Chat conversations in any open VS Code window from your phone, through a private Telegram bot."
