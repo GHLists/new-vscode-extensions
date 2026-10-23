@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 06:18 UTC
+## Latest list — 2026-10-23 07:19 UTC
 
-New extensions published between 2026-10-23 04:18 UTC and 2026-10-23 06:18 UTC.
+New extensions published between 2026-10-23 05:19 UTC and 2026-10-23 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T06-18-47-86057Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T07-19-29-701284Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 05:15:01 | [nephilex.nephilex](https://marketplace.visualstudio.com/items?itemName=nephilex.nephilex) | Nephilex | 0.1.0 | Application security for code, dependencies, secrets, infrastructure as code, a… |
-| 2026-10-23 05:31:54 | [vuka-lang.vuka](https://marketplace.visualstudio.com/items?itemName=vuka-lang.vuka) | Vuka | 0.7.0 | Language support for Vuka 2.0: Go logic and .vuka.html shapes, live pages and i… |
-| 2026-10-23 05:40:32 | [Uttarana.preai-security](https://marketplace.visualstudio.com/items?itemName=Uttarana.preai-security) | PreAI - Secrets, PII & Dependency Vulne… | 2.6.0 | Local-first VS Code security scanner for malicious code, vulnerable dependencie… |
-| 2026-10-23 06:15:01 | [NiloyBhattacharjee.at-agent-tracker](https://marketplace.visualstudio.com/items?itemName=NiloyBhattacharjee.at-agent-tracker) | AT Agent Tracker | 0.1.0 | See every coding agent (Claude Code, Codex, Copilot) across all your projects:… |
+| 2026-10-23 06:17:14 | [rakibul1017.chemql](https://marketplace.visualstudio.com/items?itemName=rakibul1017.chemql) | ChemQL Language Support | 0.1.0 | Syntax highlighting, IntelliSense, snippets, and language configuration for Che… |
+| 2026-10-23 06:20:47 | [htest123.wj2350-tools](https://marketplace.visualstudio.com/items?itemName=htest123.wj2350-tools) | WJ2350 Tools | 0.1.21 | WJ2350 Windows device tools and serial monitor |
+| 2026-10-23 06:22:18 | [imranur-rahman.mttx](https://marketplace.visualstudio.com/items?itemName=imranur-rahman.mttx) | MTTX | 0.1.0 | MTTU and MTTR of each dependency in package.json, pyproject.toml, and Cargo.toml |
+| 2026-10-23 06:26:38 | [tab-router.tabroute](https://marketplace.visualstudio.com/items?itemName=tab-router.tabroute) | TabRoute | 1.0.0 | Your browser tabs follow your VS Code project. |
+| 2026-10-23 06:35:55 | [elvuel.manage-codex-sessions-vscode](https://marketplace.visualstudio.com/items?itemName=elvuel.manage-codex-sessions-vscode) | Manage Codex Sessions | 1.3.1 | Browse, preview, rename, export, trash, restore, and purge local Codex sessions… |
+| 2026-10-23 07:12:17 | [shyeyian.pcd-editor](https://marketplace.visualstudio.com/items?itemName=shyeyian.pcd-editor) | pcd-editor | 2.3.3 | pcd-editor |
 
 ## Data source
 
