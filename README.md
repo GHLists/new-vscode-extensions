@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 12:21 UTC
+## Latest list — 2026-10-23 13:22 UTC
 
-New extensions published between 2026-10-23 10:21 UTC and 2026-10-23 12:21 UTC.
+New extensions published between 2026-10-23 11:22 UTC and 2026-10-23 13:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T12-21-29-647073Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T13-22-17-493572Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 11:17:04 | [harshdazz.routelens-api-client](https://marketplace.visualstudio.com/items?itemName=harshdazz.routelens-api-client) | RouteLens API Client | 0.1.1 | The API client that reads your code: it finds your Next.js and Express routes,… |
-| 2026-10-23 11:36:10 | [zhouzice.dummy-git](https://marketplace.visualstudio.com/items?itemName=zhouzice.dummy-git) | Dummy Git | 0.1.0 | 不用记命令的 Git：JetBrains 式图形化操作，点两下就完事。 |
-| 2026-10-23 11:59:36 | [maxhoelper.pdf-markup](https://marketplace.visualstudio.com/items?itemName=maxhoelper.pdf-markup) | PDF Markup | 2.1.0 | Annotate PDFs right in VS Code: highlight, draw, add text and images, and save… |
-| 2026-10-23 12:01:34 | [a-st.vscode-checkstyle-v2](https://marketplace.visualstudio.com/items?itemName=a-st.vscode-checkstyle-v2) | Checkstyle Support for VS Code | 2.0.0 | Provide real-time feedback about Checkstyle violations and quick fix actions |
-| 2026-10-23 12:04:38 | [XeXead.vektor](https://marketplace.visualstudio.com/items?itemName=XeXead.vektor) | Vektor — Ad-Funded AI | 0.1.54 | Free AI coding chat paid for by ads. A large sponsor appears while each reply i… |
-| 2026-10-23 12:10:25 | [viniciusclerod.kiro-relay](https://marketplace.visualstudio.com/items?itemName=viniciusclerod.kiro-relay) | Kiro Relay: Kiro CLI Models for Chat | 0.0.0 | Use the models from your Kiro subscription in VS Code Chat, authenticated throu… |
-| 2026-10-23 12:12:22 | [CodingSon.dotnet-repo-generator](https://marketplace.visualstudio.com/items?itemName=CodingSon.dotnet-repo-generator) | C# .NET Repository Pattern & BAL Genera… | 1.1.0 | Generate enterprise-grade Repository Pattern, BAL Helpers, Models with Data Ann… |
+| 2026-10-23 12:22:32 | [ibrahima036.return-sorter](https://marketplace.visualstudio.com/items?itemName=ibrahima036.return-sorter) | Return Sorter | 0.2.0 | Trie automatiquement les propriétés de vos return { ... } JS/TS par nature puis… |
+| 2026-10-23 12:26:13 | [Sana.tagflow-ci](https://marketplace.visualstudio.com/items?itemName=Sana.tagflow-ci) | TagFlow CI | 1.0.0 | One-click Git tag deployment for CI/CD pipelines, directly from Visual Studio C… |
+| 2026-10-23 12:34:15 | [Hubert.fumbler-notebook](https://marketplace.visualstudio.com/items?itemName=Hubert.fumbler-notebook) | Fumbler Notebook | 0.0.1 | Open .fum.py files as notebooks with Python, FreeCAD, Markdown, Image, and SVG… |
+| 2026-10-23 12:40:59 | [ringo196.antigravity-quota-pools](https://marketplace.visualstudio.com/items?itemName=ringo196.antigravity-quota-pools) | Antigravity Quota Pools | 1.0.0 | Displays Google Antigravity and AI model quotas cleanly on the status bar group… |
+| 2026-10-23 12:41:11 | [epavanello.treeline](https://marketplace.visualstudio.com/items?itemName=epavanello.treeline) | Treeline — Git Graph | 0.1.0 | A fast, minimal Git Graph for VS Code and Cursor: commit graph, branches, stash… |
+| 2026-10-23 13:00:04 | [alitasdepollos.devhelp](https://marketplace.visualstudio.com/items?itemName=alitasdepollos.devhelp) | DevHelp | 1.0.0 | DevHelp: Milk & Love stickers and GMMTV mascots walk round your editor while yo… |
+| 2026-10-23 13:05:13 | [xbghc.warden](https://marketplace.visualstudio.com/items?itemName=xbghc.warden) | Warden Workspace Review | 0.18.2 | Plan parallel workspaces, review with native diffs, and run an isolated live pr… |
+| 2026-10-23 13:07:40 | [ungram.ungram-code](https://marketplace.visualstudio.com/items?itemName=ungram.ungram-code) | Ungram Code | 0.1.0 | Autonomous coding agent powered by Ungram: plans, edits files and runs commands… |
+| 2026-10-23 13:10:41 | [remons.markdown-editor-extension](https://marketplace.visualstudio.com/items?itemName=remons.markdown-editor-extension) | Remons Markdown Editor | 0.0.1 | 基于 React 组件 remons-markdown-editor 的 VSCode Markdown 可视化编辑器（Custom Editor） |
 
 ## Data source
 
