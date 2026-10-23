@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T18:20:18.533Z,aala.wovenui,aala,WovenUI,0.1.2,"Hover docs, completion, diagnostics and quick fixes for WovenUI, the human-readable SCSS utility framework."
+2026-10-23T18:23:21.36Z,bulkhead.bulkhead,bulkhead,Bulkhead — Database Client,0.2.0,"Open-source database client with production safety built in: read-only prod connections, secrets in SecretStorage, no account, no limits."
+2026-10-23T18:27:43.47Z,kbosirany.krplot,kbosirany,krplot: R Plots pane,0.4.0,"An RStudio/Positron-like Plots pane for R in VS Code, powered by httpgd: plot history, aspect ratio control, SVG/PNG export, separate window."
+2026-10-23T18:28:06.47Z,MetinYakar.axardb-vscode,MetinYakar,AxarDB,0.1.0,"Visual Studio Code extension for AxarDB - fast NoSQL database management, editable datagrid, JSON document view, query templates, system logs and multi-server support."
+2026-10-23T18:32:03.707Z,ZeroStudio.aximpool,ZeroStudio,Aximpool Language,1.4.1,Language support for Aximpool — a unique programming language for building Android mobile apps. Reactive Surface Model with vault/pulse/surface semantics.
+2026-10-23T18:44:18.8Z,STExtensions.simple-sort,STExtensions,Simple Sort,0.0.1,"Sort lines, or sort and remove duplicates. Works on unsaved/untitled text."
+2026-10-23T18:51:11.8Z,asagi-dyce.staccarta,asagi-dyce,Staccarta Preview,0.0.39,Staccarta文書の編集支援、HTML・PDFプレビューと出力を提供します。

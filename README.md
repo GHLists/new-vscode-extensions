@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 18:21 UTC
+## Latest list — 2026-10-23 19:19 UTC
 
-New extensions published between 2026-10-23 16:21 UTC and 2026-10-23 18:21 UTC.
+New extensions published between 2026-10-23 17:19 UTC and 2026-10-23 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T18-21-08-403429Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T19-19-57-752911Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 17:25:52 | [Websoft.omnicode-xquery-builder](https://marketplace.visualstudio.com/items?itemName=Websoft.omnicode-xquery-builder) | Websoft XQuery Builder for HCM | 26.10.23 | Visual XQuery expression builder for Websoft HCM. Uses server connections provi… |
-| 2026-10-23 17:26:19 | [shinobi.dotnet-studio](https://marketplace.visualstudio.com/items?itemName=shinobi.dotnet-studio) | Shinobi .NET Studio | 0.1.1 | The Visual Studio workflow in VS Code and VSCodium: Solution Explorer, NuGet, T… |
-| 2026-10-23 17:26:22 | [mx92.verbosely](https://marketplace.visualstudio.com/items?itemName=mx92.verbosely) | Verbosely: Live Agent Activity | 0.2.1 | Verbose mode for Claude Code and Codex. See what your agent says and does while… |
-| 2026-10-23 17:40:50 | [eren-tools.rustdesk-remote-access](https://marketplace.visualstudio.com/items?itemName=eren-tools.rustdesk-remote-access) | Remote Connect for RustDesk | 0.1.0 | Unofficial community extension, not affiliated with RustDesk. Securely initiate… |
-| 2026-10-23 17:44:52 | [typesql.typesql](https://marketplace.visualstudio.com/items?itemName=typesql.typesql) | TypeSQL | 0.0.1 | Completions for tables and columns inside TypeSQL's sql() strings, on top of Ty… |
-| 2026-10-23 17:48:55 | [BryanFagundes.claude-status-usage](https://marketplace.visualstudio.com/items?itemName=BryanFagundes.claude-status-usage) | Claude Usage Status (unofficial) | 0.1.0 | Shows your Claude plan usage (5-hour session and weekly limits) as progress bar… |
-| 2026-10-23 17:50:43 | [Pingu.local-code-ai](https://marketplace.visualstudio.com/items?itemName=Pingu.local-code-ai) | Local Code AI | 0.1.1 | Local Code AI VS Code client for a user-managed local bridge; model and runtime… |
-| 2026-10-23 17:53:05 | [Emeria.ai-usage-toggle](https://marketplace.visualstudio.com/items?itemName=Emeria.ai-usage-toggle) | AI Usage Toggle | 0.0.1 | Switch between account/subscription and API-key usage for Claude, Gemini, and O… |
-| 2026-10-23 18:12:07 | [MrNamra.colive](https://marketplace.visualstudio.com/items?itemName=MrNamra.colive) | CoLive - Real-time Collaboration | 1.0.0 | Real-time collaborative editing, cursors, comments, and follow mode |
+| 2026-10-23 18:20:18 | [aala.wovenui](https://marketplace.visualstudio.com/items?itemName=aala.wovenui) | WovenUI | 0.1.2 | Hover docs, completion, diagnostics and quick fixes for WovenUI, the human-read… |
+| 2026-10-23 18:23:21 | [bulkhead.bulkhead](https://marketplace.visualstudio.com/items?itemName=bulkhead.bulkhead) | Bulkhead — Database Client | 0.2.0 | Open-source database client with production safety built in: read-only prod con… |
+| 2026-10-23 18:27:43 | [kbosirany.krplot](https://marketplace.visualstudio.com/items?itemName=kbosirany.krplot) | krplot: R Plots pane | 0.4.0 | An RStudio/Positron-like Plots pane for R in VS Code, powered by httpgd: plot h… |
+| 2026-10-23 18:28:06 | [MetinYakar.axardb-vscode](https://marketplace.visualstudio.com/items?itemName=MetinYakar.axardb-vscode) | AxarDB | 0.1.0 | Visual Studio Code extension for AxarDB - fast NoSQL database management, edita… |
+| 2026-10-23 18:32:03 | [ZeroStudio.aximpool](https://marketplace.visualstudio.com/items?itemName=ZeroStudio.aximpool) | Aximpool Language | 1.4.1 | Language support for Aximpool — a unique programming language for building Andr… |
+| 2026-10-23 18:44:18 | [STExtensions.simple-sort](https://marketplace.visualstudio.com/items?itemName=STExtensions.simple-sort) | Simple Sort | 0.0.1 | Sort lines, or sort and remove duplicates. Works on unsaved/untitled text. |
+| 2026-10-23 18:51:11 | [asagi-dyce.staccarta](https://marketplace.visualstudio.com/items?itemName=asagi-dyce.staccarta) | Staccarta Preview | 0.0.39 | Staccarta文書の編集支援、HTML・PDFプレビューと出力を提供します。 |
 
 ## Data source
 
