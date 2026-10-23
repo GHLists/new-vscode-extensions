@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 16:20 UTC
+## Latest list — 2026-10-23 17:18 UTC
 
-New extensions published between 2026-10-23 14:20 UTC and 2026-10-23 16:20 UTC.
+New extensions published between 2026-10-23 15:18 UTC and 2026-10-23 17:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T16-20-55-714676Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T17-18-58-789783Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 15:14:45 | [vasvasnr.bm-ftp-commander](https://marketplace.visualstudio.com/items?itemName=vasvasnr.bm-ftp-commander) | bm.ftp — FTP Commander | 0.1.2 | Browse local and FTP/FTPS/SFTP directories in a Norton Commander-inspired VS Co… |
-| 2026-10-23 15:16:52 | [DerickL.lawson-config-redactor](https://marketplace.visualstudio.com/items?itemName=DerickL.lawson-config-redactor) | Network Config Redactor — Lawson Cyber… | 0.3.0 | Redact Cisco configs locally. Review passwords, keys, and address replacements… |
-| 2026-10-23 15:25:01 | [MonoSmith.monosmith-vscode](https://marketplace.visualstudio.com/items?itemName=MonoSmith.monosmith-vscode) | MonoSmith | 0.1.0 | The projects and tasks of a MonoSmith workspace in VS Code: run a task, see wha… |
-| 2026-10-23 15:41:46 | [juanbanco.web3-tools](https://marketplace.visualstudio.com/items?itemName=juanbanco.web3-tools) | solidity​​​​​​​​​ | 0.0.192 | Ethereum Solidity Language for Visual Studio Code |
-| 2026-10-23 15:42:41 | [capystudio.silwright-ndef-language-support](https://marketplace.visualstudio.com/items?itemName=capystudio.silwright-ndef-language-support) | Silwright NDEF Language Support | 0.10.1 | Syntax highlighting and editor support for Silwright node definition files. |
-| 2026-10-23 16:08:42 | [Quectel.quectel-rtos](https://marketplace.visualstudio.com/items?itemName=Quectel.quectel-rtos) | Quectel RTOS | 0.1.0 | One VS Code extension for three Quectel toolchains: UniKnect (STM32), UniRTOS a… |
+| 2026-10-23 16:38:03 | [bergerbd.roar-net-api-generator](https://marketplace.visualstudio.com/items?itemName=bergerbd.roar-net-api-generator) | ROAR-NET API Generator | 0.1.0 | Generator for the ROAR-NET API |
+| 2026-10-23 16:40:39 | [tapeo.tapeo-vscode](https://marketplace.visualstudio.com/items?itemName=tapeo.tapeo-vscode) | Tapeo | 0.3.0 | Edit Tapeo hardware projects, run server workflows, see tool errors in the Prob… |
+| 2026-10-23 16:51:32 | [0no-co.vscode-graphqlsp](https://marketplace.visualstudio.com/items?itemName=0no-co.vscode-graphqlsp) | GraphQLSP | 0.1.0 | GraphQL syntax highlighting and schema-aware TypeScript support — diagnostics,… |
+| 2026-10-23 16:55:59 | [chaunguyen2310.smart-svg-animation](https://marketplace.visualstudio.com/items?itemName=chaunguyen2310.smart-svg-animation) | Smart SVG Animation | 0.2.0 | Create SVG animations with a visual timeline editor. Free basic editing with op… |
+| 2026-10-23 17:10:42 | [aniusch.driftglass](https://marketplace.visualstudio.com/items?itemName=aniusch.driftglass) | Driftglass - Diff viewer | 0.1.1 | See the cut between live and local. Helm, git, unified, and patch diffs — red d… |
+| 2026-10-23 17:12:54 | [sebastianrath.sor-vscode](https://marketplace.visualstudio.com/items?itemName=sebastianrath.sor-vscode) | Spec of Record | 0.1.14 | Shows which code comes from which clause of the spec, and whether they still ag… |
 
 ## Data source
 

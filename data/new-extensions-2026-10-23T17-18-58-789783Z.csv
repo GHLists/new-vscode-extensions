@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T16:38:03.573Z,bergerbd.roar-net-api-generator,bergerbd,ROAR-NET API Generator,0.1.0,Generator for the ROAR-NET API
+2026-10-23T16:40:39.027Z,tapeo.tapeo-vscode,tapeo,Tapeo,0.3.0,"Edit Tapeo hardware projects, run server workflows, see tool errors in the Problems panel, and work with the AI Architect and Engineer from VS Code."
+2026-10-23T16:51:32.16Z,0no-co.vscode-graphqlsp,0no-co,GraphQLSP,0.1.0,"GraphQL syntax highlighting and schema-aware TypeScript support — diagnostics, auto-complete, hover information, and go-to-definition for GraphQL documents — powered by GraphQLSP."
+2026-10-23T16:55:59.117Z,chaunguyen2310.smart-svg-animation,chaunguyen2310,Smart SVG Animation,0.2.0,Create SVG animations with a visual timeline editor. Free basic editing with optional Polar Pro features.
+2026-10-23T17:10:42.527Z,aniusch.driftglass,aniusch,Driftglass - Diff viewer,0.1.1,"See the cut between live and local. Helm, git, unified, and patch diffs — red drops, green adds."
+2026-10-23T17:12:54.25Z,sebastianrath.sor-vscode,sebastianrath,Spec of Record,0.1.14,"Shows which code comes from which clause of the spec, and whether they still agree."
