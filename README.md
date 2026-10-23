@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 03:20 UTC
+## Latest list — 2026-10-23 04:18 UTC
 
-New extensions published between 2026-10-23 01:20 UTC and 2026-10-23 03:20 UTC.
+New extensions published between 2026-10-23 02:18 UTC and 2026-10-23 04:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T03-20-54-153756Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T04-18-55-409947Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 02:29:03 | [asfasfzxcxzcxv.ayuyuhhhhsdgsgd](https://marketplace.visualstudio.com/items?itemName=asfasfzxcxzcxv.ayuyuhhhhsdgsgd) | sdgsgdsdg | 0.0.2 | A minimal test extension |
-| 2026-10-23 02:31:42 | [Necrotree.visual-script](https://marketplace.visualstudio.com/items?itemName=Necrotree.visual-script) | Visual Script | 1.0.0 | Visual drag-and-drop programming for multiple languages using VS Code language… |
-| 2026-10-23 02:46:35 | [juanbanco.web3tools](https://marketplace.visualstudio.com/items?itemName=juanbanco.web3tools) | solidity​​​​​​​​​​ | 0.0.2 | Ethereum Solidity Language for Visual Studio Code |
-| 2026-10-23 03:03:42 | [lealaxy.leafrelay-sync](https://marketplace.visualstudio.com/items?itemName=lealaxy.leafrelay-sync) | LeafRelay Sync | 0.2.5 | Reliably synchronize local LaTeX projects with Overleaf, with VS Code collabora… |
-| 2026-10-23 03:08:36 | [AvrahamPlotnitzky.plca](https://marketplace.visualstudio.com/items?itemName=AvrahamPlotnitzky.plca) | plca — PLC static analysis | 0.1.0 | Diagnostics, navigation and highlighting for IEC 61131-3 Structured Text (CODES… |
-| 2026-10-23 03:13:57 | [jacivaldocarvalho.jc-translate-peek](https://marketplace.visualstudio.com/items?itemName=jacivaldocarvalho.jc-translate-peek) | JC Translate Peek | 0.1.0 | Peek translations without modifying your text. Select, translate, and view in a… |
+| 2026-10-23 03:31:45 | [edwardware06.synx](https://marketplace.visualstudio.com/items?itemName=edwardware06.synx) | Synx | 0.1.0 | Synx language support: syntax colors, snippets, compiler errors in the editor,… |
+| 2026-10-23 03:32:34 | [HexCJo.wordwise-undo](https://marketplace.visualstudio.com/items?itemName=HexCJo.wordwise-undo) | WordWise Undo | 0.0.1 | Undo pasted code one token at a time from the end. |
+| 2026-10-23 03:38:04 | [sinitek.sinitek-cli-tools](https://marketplace.visualstudio.com/items?itemName=sinitek.sinitek-cli-tools) | 携宁 CLI 助手 | 1.2.0 | 在 VS Code 中运行 Codex、Claude、OpenCode 和 Grok CLI 的扩展。 |
+| 2026-10-23 03:38:47 | [kaibyaku.omoteura](https://marketplace.visualstudio.com/items?itemName=kaibyaku.omoteura) | Omoteura | 0.1.1 | Code in front, context behind. Flip Ruby code to the Excalidraw drawing behind… |
+| 2026-10-23 04:13:43 | [papillaginie.android-lite-tools](https://marketplace.visualstudio.com/items?itemName=papillaginie.android-lite-tools) | Android Lite Tools | 0.6.3 | Lightweight Android development with Gradle, ADB and a real device as the rende… |
 
 ## Data source
 

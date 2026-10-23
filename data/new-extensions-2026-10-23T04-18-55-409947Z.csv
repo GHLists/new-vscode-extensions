@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T03:31:45.553Z,edwardware06.synx,edwardware06,Synx,0.1.0,"Synx language support: syntax colors, snippets, compiler errors in the editor, and Run and Build commands."
+2026-10-23T03:32:34.173Z,HexCJo.wordwise-undo,HexCJo,WordWise Undo,0.0.1,Undo pasted code one token at a time from the end.
+2026-10-23T03:38:04.63Z,sinitek.sinitek-cli-tools,sinitek,携宁 CLI 助手,1.2.0,在 VS Code 中运行 Codex、Claude、OpenCode 和 Grok CLI 的扩展。
+2026-10-23T03:38:47.21Z,kaibyaku.omoteura,kaibyaku,Omoteura,0.1.1,"Code in front, context behind. Flip Ruby code to the Excalidraw drawing behind it and see test results next to the lines it links to."
+2026-10-23T04:13:43.007Z,papillaginie.android-lite-tools,papillaginie,Android Lite Tools,0.6.3,"Lightweight Android development with Gradle, ADB and a real device as the renderer."
