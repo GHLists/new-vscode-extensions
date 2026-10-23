@@ -12,24 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 05:19 UTC
+## Latest list — 2026-10-23 06:18 UTC
 
-New extensions published between 2026-10-23 03:19 UTC and 2026-10-23 05:19 UTC.
+New extensions published between 2026-10-23 04:18 UTC and 2026-10-23 06:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T05-19-33-042658Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T06-18-47-86057Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 04:15:00 | [walnuts1018.mcl-vscode](https://marketplace.visualstudio.com/items?itemName=walnuts1018.mcl-vscode) | MCL | 0.1.0 | MCL language support for Visual Studio Code |
-| 2026-10-23 04:15:01 | [flightcoders.veyra-mongodb](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-mongodb) | Veyra Query Lens | 1.0.0 | An index advisor for the MongoDB queries in your code. See documents read, time… |
-| 2026-10-23 04:32:59 | [AlexFedotovskikh.v6vscode](https://marketplace.visualstudio.com/items?itemName=AlexFedotovskikh.v6vscode) | Vector-06c Development | 0.3.0 | Vector-06c development environment ΓÇö project management, syntax highlighting,… |
-| 2026-10-23 04:37:55 | [Acalaes.claude-config-sync](https://marketplace.visualstudio.com/items?itemName=Acalaes.claude-config-sync) | Claude Config Sync | 0.2.0 | Sincroniza com um clique a configuração do Claude Code (regras, memórias, skill… |
-| 2026-10-23 04:59:12 | [plume-works.vscode-expo-bridge-host](https://marketplace.visualstudio.com/items?itemName=plume-works.vscode-expo-bridge-host) | Expo Bridge (Host) | 0.1.10 | Mac-side half of the Expo Bridge: builds, installs, launches, and screenshots a… |
-| 2026-10-23 04:59:13 | [plume-works.vscode-expo-bridge-workspace](https://marketplace.visualstudio.com/items?itemName=plume-works.vscode-expo-bridge-workspace) | Expo Bridge (Workspace) | 0.1.10 | Container-side half of the Expo Bridge: installs the eas-host command and bridg… |
-| 2026-10-23 04:59:14 | [plume-works.vscode-expo-bridge](https://marketplace.visualstudio.com/items?itemName=plume-works.vscode-expo-bridge) | Expo Bridge | 0.1.10 | Build, install, launch, and screenshot an Expo iOS app on the Mac host from a d… |
-| 2026-10-23 05:11:40 | [dotnetpower.code-context-native](https://marketplace.visualstudio.com/items?itemName=dotnetpower.code-context-native) | Code Context by dotnetpower | 0.13.1 | Fast local code search, source reads, and context for AI agents. Native VS Code… |
-| 2026-10-23 05:11:44 | [vinismoraes.awake-vscode](https://marketplace.visualstudio.com/items?itemName=vinismoraes.awake-vscode) | Awake for Codex | 0.3.9 | Keep your Mac awake during Codex turns, VS Code tasks, terminal commands, or a… |
-| 2026-10-23 05:13:55 | [AndreeBermdez.molynx](https://marketplace.visualstudio.com/items?itemName=AndreeBermdez.molynx) | Molynx | 0.7.0 | Revisa los cambios de Codex, Claude Code y agent-harness bloque por bloque: ace… |
+| 2026-10-23 05:15:01 | [nephilex.nephilex](https://marketplace.visualstudio.com/items?itemName=nephilex.nephilex) | Nephilex | 0.1.0 | Application security for code, dependencies, secrets, infrastructure as code, a… |
+| 2026-10-23 05:31:54 | [vuka-lang.vuka](https://marketplace.visualstudio.com/items?itemName=vuka-lang.vuka) | Vuka | 0.7.0 | Language support for Vuka 2.0: Go logic and .vuka.html shapes, live pages and i… |
+| 2026-10-23 05:40:32 | [Uttarana.preai-security](https://marketplace.visualstudio.com/items?itemName=Uttarana.preai-security) | PreAI - Secrets, PII & Dependency Vulne… | 2.6.0 | Local-first VS Code security scanner for malicious code, vulnerable dependencie… |
+| 2026-10-23 06:15:01 | [NiloyBhattacharjee.at-agent-tracker](https://marketplace.visualstudio.com/items?itemName=NiloyBhattacharjee.at-agent-tracker) | AT Agent Tracker | 0.1.0 | See every coding agent (Claude Code, Codex, Copilot) across all your projects:… |
 
 ## Data source
 
