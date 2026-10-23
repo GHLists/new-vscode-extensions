@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 01:19 UTC
+## Latest list — 2026-10-23 02:20 UTC
 
-New extensions published between 2026-10-22 23:19 UTC and 2026-10-23 01:19 UTC.
+New extensions published between 2026-10-23 00:20 UTC and 2026-10-23 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T01-19-08-691819Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T02-20-22-650116Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 00:35:50 | [isaacsherman.protocross](https://marketplace.visualstudio.com/items?itemName=isaacsherman.protocross) | ProtoCross | 0.7.0 | Language support for ProtoCross: live diagnostics, completion, hover and naviga… |
-| 2026-10-23 00:37:54 | [TysonCung.cc-config-switcher](https://marketplace.visualstudio.com/items?itemName=TysonCung.cc-config-switcher) | Claude Config Switcher | 1.2.2 | Switch between Claude Code config directories (CLAUDE_CONFIG_DIR) from a status… |
-| 2026-10-23 00:38:32 | [nxdlang.NXD](https://marketplace.visualstudio.com/items?itemName=nxdlang.NXD) | nxd language | 0.2.7 | Official VS Code language support for the NXD programming language. |
-| 2026-10-23 00:52:16 | [Mopacraft.vscode-mopacraft](https://marketplace.visualstudio.com/items?itemName=Mopacraft.vscode-mopacraft) | MopaCraft Background | 1.0.1 | Backgrounds customizados com vídeo, GIF e imagem com transparência de interface… |
-| 2026-10-23 01:04:55 | [xanvil.csharp-script-for-application](https://marketplace.visualstudio.com/items?itemName=xanvil.csharp-script-for-application) | CSharp Script For Application | 0.0.1 | 应用C#脚本语言服务支持 |
+| 2026-10-23 01:17:29 | [wang-yang.MindSprout](https://marketplace.visualstudio.com/items?itemName=wang-yang.MindSprout) | 知枝 · MindSprout | 0.1.19 | 知枝 · MindSprout：轻量级思维导图编辑器，支持 Markdown 右侧实时预览、表格、代码、Mermaid、多种布局与关联线，导出 SVG / H… |
+| 2026-10-23 01:40:21 | [filispeen.local-actions-just-like-in-github](https://marketplace.visualstudio.com/items?itemName=filispeen.local-actions-just-like-in-github) | Local Actions, Just Like In GitHub | 0.2.4 | Run GitHub Actions workflows locally with a familiar GitHub Actions-style UI |
+| 2026-10-23 01:58:54 | [MiniMindsLab.minimindslab-base64-decode-selection](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-base64-decode-selection) | Decode Base64 Selection | 0.1.2 | Decode a selected strict Base64 string into UTF-8 text. |
+| 2026-10-23 02:14:25 | [asfasfzxcxzcxv.xander-asfasfzxcxzcxv-test](https://marketplace.visualstudio.com/items?itemName=asfasfzxcxzcxv.xander-asfasfzxcxzcxv-test) | Test VS Code Extension | 0.0.1 | A minimal test extension |
 
 ## Data source
 
