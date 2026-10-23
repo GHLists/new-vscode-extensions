@@ -12,25 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 08:21 UTC
+## Latest list — 2026-10-23 09:18 UTC
 
-New extensions published between 2026-10-23 06:21 UTC and 2026-10-23 08:21 UTC.
+New extensions published between 2026-10-23 07:18 UTC and 2026-10-23 09:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T08-21-57-298453Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T09-18-59-523094Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 07:18:48 | [liangliang-ai.youdao-translate](https://marketplace.visualstudio.com/items?itemName=liangliang-ai.youdao-translate) | 翻译[好用] | 0.4.1 | 选中即翻译，仿 WebStorm 翻译弹框风格的翻译面板，支持有道翻译、腾讯翻译君、百度翻译（悬停 / 翻译面板 / 右键 / 快捷键 / 替换） |
-| 2026-10-23 07:25:41 | [PRODDVTM279Test.platformio-PPEM281DVTTestWeek2](https://marketplace.visualstudio.com/items?itemName=PRODDVTM279Test.platformio-PPEM281DVTTestWeek2) | PPEM281 TESTone On Platform Test | 3.3.8 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
-| 2026-10-23 07:28:33 | [MiroslavBursa.mbx-next-debugger](https://marketplace.visualstudio.com/items?itemName=MiroslavBursa.mbx-next-debugger) | MB Maniax Next Debugger | 0.2.0 | ZX Spectrum Next emulator and debugger right inside VS Code: stepping through s… |
-| 2026-10-23 07:31:08 | [PureAutumn.oi-hydro](https://marketplace.visualstudio.com/items?itemName=PureAutumn.oi-hydro) | OI Hydro 题目导入 | 0.0.1 | 在 VS Code 内登录 HydroOJ（如 yl503.yali.edu.cn），一键把题面与样例导入到 Problems/ 目录 |
-| 2026-10-23 07:45:28 | [FreshWind.markdown-callouts](https://marketplace.visualstudio.com/items?itemName=FreshWind.markdown-callouts) | Markdown Callouts | 0.0.2 | Use callouts in markdown like github and obsidian . |
-| 2026-10-23 07:54:59 | [kmmz1127.simple-latex-preview](https://marketplace.visualstudio.com/items?itemName=kmmz1127.simple-latex-preview) | Simple LaTeX Preview | 0.0.2 | Lightweight LaTeX preview that also works in VS Code for the Web |
-| 2026-10-23 07:55:38 | [lupee.erds-studio](https://marketplace.visualstudio.com/items?itemName=lupee.erds-studio) | ERD Studio – Visual ER Diagram Designer | 26.10.3 | Design database ER diagrams visually in VS Code: crow's foot relationships, aut… |
-| 2026-10-23 08:11:51 | [Aleton.vscode-language-pack-be](https://marketplace.visualstudio.com/items?itemName=Aleton.vscode-language-pack-be) | Беларуская мова (Belarusian Language Pa… | 0.2.0 | Неафіцыйны беларускі пераклад інтэрфейсу Visual Studio Code. Unofficial Belarus… |
-| 2026-10-23 08:17:25 | [runningoffcaffeine.termsnap-textwrap](https://marketplace.visualstudio.com/items?itemName=runningoffcaffeine.termsnap-textwrap) | TermSnap TextWrap | 0.1.0 | Capture beautiful terminal screenshots with adjustable text wrapping, preserved… |
-| 2026-10-23 08:18:02 | [EesaraMegasooriya.claude-account-switcher-EM](https://marketplace.visualstudio.com/items?itemName=EesaraMegasooriya.claude-account-switcher-EM) | Claude Account Switcher by EM | 0.2.0 | Save multiple Claude Code logins and switch between them from the side panel or… |
-| 2026-10-23 08:18:13 | [shapelayer.csv-preview-vscode](https://marketplace.visualstudio.com/items?itemName=shapelayer.csv-preview-vscode) | Lightweight CSV Preview | 0.1.0 | Lightweight CSV table preview with editor sync, cell navigation, and resizable… |
+| 2026-10-23 08:21:13 | [m1oky.winter-vibe](https://marketplace.visualstudio.com/items?itemName=m1oky.winter-vibe) | Winter Vibe | 2.0.0 | Winter aesthetic theme, live editor snow, garland and pixel snow widget. |
+| 2026-10-23 08:22:37 | [OpenProcess.visual-jujutsu](https://marketplace.visualstudio.com/items?itemName=OpenProcess.visual-jujutsu) | Visual Jujutsu | 0.1.0 | See and edit your Jujutsu (jj) revision graph: describe, rebase, move files and… |
+| 2026-10-23 08:24:31 | [apixly.apixly-media](https://marketplace.visualstudio.com/items?itemName=apixly.apixly-media) | Apixly Media | 0.1.2 | A creative studio for apixly.ai images, edits and video: preview, resume and sa… |
+| 2026-10-23 08:31:22 | [deutschlandgpt.deutschlandgpt](https://marketplace.visualstudio.com/items?itemName=deutschlandgpt.deutschlandgpt) | DeutschlandGPT Code | 0.2.0 | DeutschlandGPT Code in VS Code: the coding agent of the DeutschlandGPT desktop… |
+| 2026-10-23 08:34:56 | [localpilot.localpilot-agent](https://marketplace.visualstudio.com/items?itemName=localpilot.localpilot-agent) | LocalPilot Agent | 0.1.4 | The AI coding agent that runs on your machine. Copilot-style agent mode with Ol… |
+| 2026-10-23 08:38:14 | [TurboBaguette.explorer-find-button](https://marketplace.visualstudio.com/items?itemName=TurboBaguette.explorer-find-button) | Explorer Find Button | 0.0.1 | Adds a button to the Explorer to open the file search widget (same as Ctrl+Alt+… |
+| 2026-10-23 08:58:50 | [Tsuki0125.what-agent-touched](https://marketplace.visualstudio.com/items?itemName=Tsuki0125.what-agent-touched) | What Agent Touched | 0.1.1 | See which files AI agent sessions changed: explorer M/A/D colors and an automat… |
+| 2026-10-23 09:05:03 | [task-tracker.task-tracker-kit](https://marketplace.visualstudio.com/items?itemName=task-tracker.task-tracker-kit) | Task Tracker Kit | 1.0.0 | Scaffold the ASP.NET Core MVC + Kendo UI Task Tracker project and add new proje… |
+| 2026-10-23 09:08:58 | [xiaoxiaoshuo.url-web-preview](https://marketplace.visualstudio.com/items?itemName=xiaoxiaoshuo.url-web-preview) | 小小说 | 0.0.28 | 输入网址或书名，在 VS Code 中搜索并阅读小说。 |
 
 ## Data source
 

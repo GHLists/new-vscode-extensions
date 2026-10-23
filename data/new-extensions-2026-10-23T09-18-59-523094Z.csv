@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T08:21:13.603Z,m1oky.winter-vibe,m1oky,Winter Vibe,2.0.0,"Winter aesthetic theme, live editor snow, garland and pixel snow widget."
+2026-10-23T08:22:37.717Z,OpenProcess.visual-jujutsu,OpenProcess,Visual Jujutsu,0.1.0,"See and edit your Jujutsu (jj) revision graph: describe, rebase, move files and bookmarks, push and open pull requests."
+2026-10-23T08:24:31.123Z,apixly.apixly-media,apixly,Apixly Media,0.1.2,"A creative studio for apixly.ai images, edits and video: preview, resume and save in VS Code. Free extension; pay-as-you-go API."
+2026-10-23T08:31:22.627Z,deutschlandgpt.deutschlandgpt,deutschlandgpt,DeutschlandGPT Code,0.2.0,"DeutschlandGPT Code in VS Code: the coding agent of the DeutschlandGPT desktop app, working in your open workspace."
+2026-10-23T08:34:56.06Z,localpilot.localpilot-agent,localpilot,LocalPilot Agent,0.1.4,"The AI coding agent that runs on your machine. Copilot-style agent mode with Ollama, LM Studio, llama.cpp or vLLM — private, offline, free."
+2026-10-23T08:38:14.18Z,TurboBaguette.explorer-find-button,TurboBaguette,Explorer Find Button,0.0.1,Adds a button to the Explorer to open the file search widget (same as Ctrl+Alt+F).
+2026-10-23T08:58:50.877Z,Tsuki0125.what-agent-touched,Tsuki0125,What Agent Touched,0.1.1,See which files AI agent sessions changed: explorer M/A/D colors and an automatic diff against the original when you open a changed file. Claude Code hook included.
+2026-10-23T09:05:03.363Z,task-tracker.task-tracker-kit,task-tracker,Task Tracker Kit,1.0.0,Scaffold the ASP.NET Core MVC + Kendo UI Task Tracker project and add new project files from ready-made templates and snippets.
+2026-10-23T09:08:58.637Z,xiaoxiaoshuo.url-web-preview,xiaoxiaoshuo,小小说,0.0.28,输入网址或书名，在 VS Code 中搜索并阅读小说。
