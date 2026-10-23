@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 19:19 UTC
+## Latest list — 2026-10-23 20:20 UTC
 
-New extensions published between 2026-10-23 17:19 UTC and 2026-10-23 19:19 UTC.
+New extensions published between 2026-10-23 18:20 UTC and 2026-10-23 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T19-19-57-752911Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T20-20-07-249246Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 18:20:18 | [aala.wovenui](https://marketplace.visualstudio.com/items?itemName=aala.wovenui) | WovenUI | 0.1.2 | Hover docs, completion, diagnostics and quick fixes for WovenUI, the human-read… |
-| 2026-10-23 18:23:21 | [bulkhead.bulkhead](https://marketplace.visualstudio.com/items?itemName=bulkhead.bulkhead) | Bulkhead — Database Client | 0.2.0 | Open-source database client with production safety built in: read-only prod con… |
-| 2026-10-23 18:27:43 | [kbosirany.krplot](https://marketplace.visualstudio.com/items?itemName=kbosirany.krplot) | krplot: R Plots pane | 0.4.0 | An RStudio/Positron-like Plots pane for R in VS Code, powered by httpgd: plot h… |
-| 2026-10-23 18:28:06 | [MetinYakar.axardb-vscode](https://marketplace.visualstudio.com/items?itemName=MetinYakar.axardb-vscode) | AxarDB | 0.1.0 | Visual Studio Code extension for AxarDB - fast NoSQL database management, edita… |
-| 2026-10-23 18:32:03 | [ZeroStudio.aximpool](https://marketplace.visualstudio.com/items?itemName=ZeroStudio.aximpool) | Aximpool Language | 1.4.1 | Language support for Aximpool — a unique programming language for building Andr… |
-| 2026-10-23 18:44:18 | [STExtensions.simple-sort](https://marketplace.visualstudio.com/items?itemName=STExtensions.simple-sort) | Simple Sort | 0.0.1 | Sort lines, or sort and remove duplicates. Works on unsaved/untitled text. |
-| 2026-10-23 18:51:11 | [asagi-dyce.staccarta](https://marketplace.visualstudio.com/items?itemName=asagi-dyce.staccarta) | Staccarta Preview | 0.0.39 | Staccarta文書の編集支援、HTML・PDFプレビューと出力を提供します。 |
+| 2026-10-23 19:28:50 | [N1n3VASthR33H.claude-code-zh-ast](https://marketplace.visualstudio.com/items?itemName=N1n3VASthR33H.claude-code-zh-ast) | Claude Code 汉化 (AST) | 0.2.8 | Claude Code 面板中文化：AST 显示位置检查 + 受保护的 DOM 显示层；命令与设置说明汉化；可核验备份和还原；可选中文回复。 |
+| 2026-10-23 19:31:50 | [marc2016.janus-note](https://marketplace.visualstudio.com/items?itemName=marc2016.janus-note) | Janus Note | 0.1.0 | Human Markdown Notes & Machine-Operable Companion Files with AI Assistance |
+| 2026-10-23 19:31:58 | [Chelayel.tide-pets](https://marketplace.visualstudio.com/items?itemName=Chelayel.tide-pets) | Tide Pets | 0.2.0 | Sea creatures that live in your Explorer and react to what you do: they swim fa… |
+| 2026-10-23 19:35:24 | [zacca.wsl-auto-reopen](https://marketplace.visualstudio.com/items?itemName=zacca.wsl-auto-reopen) | WSL Auto Reopen | 0.2.0 | Opens folders from \\wsl.localhost or \\wsl$ straight in a WSL window, so you d… |
+| 2026-10-23 19:36:00 | [lainiceanuraduc.radcode-hermes](https://marketplace.visualstudio.com/items?itemName=lainiceanuraduc.radcode-hermes) | RadCode — Hermes Agent | 0.1.21 | Hermes Agent workspace chat, model-aware thinking controls, and configurable wo… |
+| 2026-10-23 19:49:26 | [liangjunheng.fastergit](https://marketplace.visualstudio.com/items?itemName=liangjunheng.fastergit) | FasterGit | 2.0.0 | Git history graph, multi-file diffs, branch and stash management, multi-reposit… |
+| 2026-10-23 20:05:25 | [paperkite.sidestory](https://marketplace.visualstudio.com/items?itemName=paperkite.sidestory) | Sidestory | 0.1.0 | Rich HTML explainers beside your code, linked both ways, updated live. |
 
 ## Data source
 

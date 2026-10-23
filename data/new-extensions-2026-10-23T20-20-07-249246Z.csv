@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T19:28:50.21Z,N1n3VASthR33H.claude-code-zh-ast,N1n3VASthR33H,Claude Code 汉化 (AST),0.2.8,Claude Code 面板中文化：AST 显示位置检查 + 受保护的 DOM 显示层；命令与设置说明汉化；可核验备份和还原；可选中文回复。
+2026-10-23T19:31:50.413Z,marc2016.janus-note,marc2016,Janus Note,0.1.0,Human Markdown Notes & Machine-Operable Companion Files with AI Assistance
+2026-10-23T19:31:58.687Z,Chelayel.tide-pets,Chelayel,Tide Pets,0.2.0,"Sea creatures that live in your Explorer and react to what you do: they swim faster while you type, celebrate saves, commits and passing tests, notice the terminal and your AI assistant, eat the curly braces you feed them, and nap when you're away."
+2026-10-23T19:35:24.827Z,zacca.wsl-auto-reopen,zacca,WSL Auto Reopen,0.2.0,"Opens folders from \\wsl.localhost or \\wsl$ straight in a WSL window, so you don't have to click ""Reopen Folder in WSL""."
+2026-10-23T19:36:00.673Z,lainiceanuraduc.radcode-hermes,lainiceanuraduc,RadCode — Hermes Agent,0.1.21,"Hermes Agent workspace chat, model-aware thinking controls, and configurable worker agents."
+2026-10-23T19:49:26.127Z,liangjunheng.fastergit,liangjunheng,FasterGit,2.0.0,"Git history graph, multi-file diffs, branch and stash management, multi-repository commits, and merge conflict resolution for VS Code, backed by a built-in libgit2 module."
+2026-10-23T20:05:25.353Z,paperkite.sidestory,paperkite,Sidestory,0.1.0,"Rich HTML explainers beside your code, linked both ways, updated live."
