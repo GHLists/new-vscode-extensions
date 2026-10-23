@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T22:16:26.54Z,carven-lang.carven,carven-lang,Carven,0.1.0,Carven language support powered by the Carven LSP.
+2026-10-23T22:22:32.377Z,Conduktor.conduktor-console,Conduktor,Conduktor Console,0.1.0,"Explore, write and check Conduktor Console resources as YAML, with the Console's own schema and dry runs."
+2026-10-23T22:23:01.253Z,prachwal.oracle-mcp-dotnet,prachwal,Oracle MCP (.NET),0.1.0,Read-only Oracle SELECT tool for AI agents over TCPS with certificate login from the Windows certificate store.
+2026-10-23T22:33:19.463Z,syedxyzsdre.lumen-ai,syedxyzsdre,Lumen AI: Code Walkthrough,0.0.8,Understand any code one step at a time. Lumen AI walks you through your code with explanations lit up inline in the editor. Works with Claude Code or your own Anthropic API key.
+2026-10-23T22:34:56.62Z,chrisgriffinio.token-atlas,chrisgriffinio,Token Atlas,1.0.0,"Language features for W3C/DTCG design tokens in VS Code: hovers, completion, go-to-definition, rename and validation on token JSON and on exported CSS/Sass/JS, plus an opt-in visual editor."
+2026-10-23T22:49:02.417Z,angelminga.commit-messages-for-claude-code,angelminga,Commit Messages for Claude Code,0.1.1,"Generates Conventional Commits messages from your changes with the Claude Code CLI (uses your subscription, no API key)."

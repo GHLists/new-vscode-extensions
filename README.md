@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 22:19 UTC
+## Latest list — 2026-10-23 23:19 UTC
 
-New extensions published between 2026-10-23 20:19 UTC and 2026-10-23 22:19 UTC.
+New extensions published between 2026-10-23 21:19 UTC and 2026-10-23 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T22-19-57-860542Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T23-19-47-066895Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 21:15:22 | [PatchWRK.patchwrk-scanner-local](https://marketplace.visualstudio.com/items?itemName=PatchWRK.patchwrk-scanner-local) | PatchWRK Scanner | 0.1.6 | Free, read-only Scanner for supported third-party API integrations and evidence… |
-| 2026-10-23 22:00:27 | [jaunblanco.ethtools](https://marketplace.visualstudio.com/items?itemName=jaunblanco.ethtools) | extneison | 0.0.2 | A minimal test extension |
-| 2026-10-23 22:02:01 | [contextzip.contextzip](https://marketplace.visualstudio.com/items?itemName=contextzip.contextzip) | contextzip | 0.1.0 | Package the right files of your project for Claude, ChatGPT or any AI chat, the… |
-| 2026-10-23 22:03:43 | [Cabdelillah.sqlab](https://marketplace.visualstudio.com/items?itemName=Cabdelillah.sqlab) | SQLab — Oracle SQL & PL/SQL | 1.0.0 | Run Oracle SQL and PL/SQL offline, with Oracle's error codes, plain-language hi… |
+| 2026-10-23 22:16:26 | [carven-lang.carven](https://marketplace.visualstudio.com/items?itemName=carven-lang.carven) | Carven | 0.1.0 | Carven language support powered by the Carven LSP. |
+| 2026-10-23 22:22:32 | [Conduktor.conduktor-console](https://marketplace.visualstudio.com/items?itemName=Conduktor.conduktor-console) | Conduktor Console | 0.1.0 | Explore, write and check Conduktor Console resources as YAML, with the Console'… |
+| 2026-10-23 22:23:01 | [prachwal.oracle-mcp-dotnet](https://marketplace.visualstudio.com/items?itemName=prachwal.oracle-mcp-dotnet) | Oracle MCP (.NET) | 0.1.0 | Read-only Oracle SELECT tool for AI agents over TCPS with certificate login fro… |
+| 2026-10-23 22:33:19 | [syedxyzsdre.lumen-ai](https://marketplace.visualstudio.com/items?itemName=syedxyzsdre.lumen-ai) | Lumen AI: Code Walkthrough | 0.0.8 | Understand any code one step at a time. Lumen AI walks you through your code wi… |
+| 2026-10-23 22:34:56 | [chrisgriffinio.token-atlas](https://marketplace.visualstudio.com/items?itemName=chrisgriffinio.token-atlas) | Token Atlas | 1.0.0 | Language features for W3C/DTCG design tokens in VS Code: hovers, completion, go… |
+| 2026-10-23 22:49:02 | [angelminga.commit-messages-for-claude-code](https://marketplace.visualstudio.com/items?itemName=angelminga.commit-messages-for-claude-code) | Commit Messages for Claude Code | 0.1.1 | Generates Conventional Commits messages from your changes with the Claude Code… |
 
 ## Data source
 
