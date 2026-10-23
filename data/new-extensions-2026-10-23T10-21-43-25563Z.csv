@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T09:19:02.73Z,mgamal.portainer-vscode,mgamal,Portainer Explorer (Unofficial),0.2.0,"Manage the Docker containers of your Portainer server from VS Code: start, stop, restart, logs, inspect, and a shell inside any container."
+2026-10-23T09:25:04.733Z,exeltarkus.live-log-viewer,exeltarkus,Live Log Viewer,0.8.3,"Open .log (and .log.gz) files with per-level colors, text/regex/level filter and live tail."
+2026-10-23T09:26:22.21Z,exeltarkus.env-branch-switcher,exeltarkus,Env Branch Switcher,1.0.0,Automatically saves and restores your .env file per git branch when switching branches.
+2026-10-23T09:27:32.1Z,byrizki.git-extended,byrizki,Git Extended,13.3.2,"Supercharge Git within VS Code — Blame, CodeLens, Worktrees, Revision Navigation, History, and more"
+2026-10-23T09:35:11.043Z,exeltarkus.git-identity-switch,exeltarkus,Git Identity Switcher,0.7.0,"Switch the git user.name / user.email per project from saved profiles, with the active profile shown in the status bar."
+2026-10-23T09:36:21.32Z,DetermLZ.beauti-markdown,DetermLZ,Beauti Doc,0.1.0,Office-style document editor for Markdown: live preview that never rewrites your source.
+2026-10-23T09:39:15.6Z,KaliXCX.instance-switcher,KaliXCX,Instance Switcher,0.2.1,"See every open VS Code window, jump to it, or reopen recent projects — with your own colors and aliases."
+2026-10-23T09:39:25.18Z,lilinhuang.amethyst-hollow-theme,lilinhuang,Amethyst Hollow Theme,1.0.0,"A deep amethyst palette: near-white paper with violet ink in the light variant, a glowing crystal hollow in the dark one."
+2026-10-23T09:45:07.08Z,Avgerinos.oled-blasphemy,Avgerinos,OLED Blasphemy,1.0.0,High contrast OLED themes with neo-brutalist borders and inverted agent layouts
+2026-10-23T09:47:32.043Z,cbs-consulting.vkm-host,cbs-consulting,Virtual Key Mapper: host sign-in,0.1.2,Relays your local vkm sign-in into dev containers and other remote windows; nothing is stored there.
+2026-10-23T09:53:38.303Z,lilinhuang.marigold-twilight-theme,lilinhuang,Marigold Twilight Theme,1.0.0,"Deep plum dusk with marigold light: warm paper in the light variant, a purple night with amber glow in the dark one."
+2026-10-23T09:59:22.96Z,Instar.instar,Instar,Instar,0.1.0,Luau language support powered by Instar.
+2026-10-23T10:05:54.043Z,LyallLiu.leetcode-cpp-debugger,LyallLiu,LeetCode C++ 调试助手,0.1.0,（非官方）关联 LeetCode（力扣）账号：浏览/搜索题目、查看题面、本地运行与断点调试 C++、自定义测试用例、远程测试与提交。
+2026-10-23T10:06:06.497Z,Realtek.ameba-aiot,Realtek,Ameba-aiot,2.0.1,"Realtek Ameba IoT SDK: build, flash, monitor, and debug your Ameba projects."
+2026-10-23T10:08:36.483Z,lilinhuang.morandi-arch-theme,lilinhuang,Morandi Arch Theme,1.0.0,"A muted Morandi palette: creamy paper with a sand arch in the light variant, a dusty violet evening in the dark one."
+2026-10-23T10:10:23.543Z,living-code-theme.living-code-theme,living-code-theme,Living Code for VS Code,0.1.2,"Living Code theme for VS Code. Calm slate. Living color. Night, Frost, Paper and Signal color themes."
+2026-10-23T10:13:19.073Z,zhenqingfan.codereadmate,zhenqingfan,CodeReadMate · 码阅助手,1.0.0,在源码旁读懂代码：AI 导读、代码批注与持续讨论；说明独立保存，源码保持原样。
