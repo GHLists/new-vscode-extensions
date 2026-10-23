@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-23T20:19:25.367Z,babejsza.emoji-for-claude-code,babejsza,Emoji for Claude Code,0.1.2,Slack-style :shortcode: emoji and autocomplete in the Claude Code chat. Unofficial.
+2026-10-23T20:20:08.98Z,redb.redb-route-xml,redb,redb Route XML,0.2.24,"Completion and validation for redb.Route XML routes, a route tree, bean reference hints and a graph editor over the XML text."
+2026-10-23T20:20:41.53Z,OuroborosProductions.openscad-js-preview,OuroborosProductions,OpenSCAD.js Preview,0.1.0,"SCAD syntax highlighting and interactive 3D previews with STL export, Customizer, animation, and STL, STEP, 3MF and G-code viewers."
+2026-10-23T20:33:37.587Z,CedricDDesigns.getout,CedricDDesigns,getout,2.0.0,Opens linked files in their default Windows application instead of a VS Code tab.
+2026-10-23T20:49:53.427Z,ScriptKittens.kitty-code,ScriptKittens,Kitty Code,1.0.18,Kitty Code for VS Code — Script Kittens AI coding assistant
+2026-10-23T21:07:43.69Z,shikharsaraf.refactorly-vscode,shikharsaraf,Refactorly AI,0.1.0,"Refactor, analyze, and learn project coding style with Refactorly AI"
+2026-10-23T21:14:31.21Z,unifinity.groundhog,unifinity,Groundhog,0.1.0,Hosted HTTPS tunnels and request inspection beside your app.

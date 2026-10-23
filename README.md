@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 20:20 UTC
+## Latest list — 2026-10-23 21:20 UTC
 
-New extensions published between 2026-10-23 18:20 UTC and 2026-10-23 20:20 UTC.
+New extensions published between 2026-10-23 19:20 UTC and 2026-10-23 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T20-20-07-249246Z.csv)
+[Full CSV](data/new-extensions-2026-10-23T21-20-20-118596Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 19:28:50 | [N1n3VASthR33H.claude-code-zh-ast](https://marketplace.visualstudio.com/items?itemName=N1n3VASthR33H.claude-code-zh-ast) | Claude Code 汉化 (AST) | 0.2.8 | Claude Code 面板中文化：AST 显示位置检查 + 受保护的 DOM 显示层；命令与设置说明汉化；可核验备份和还原；可选中文回复。 |
-| 2026-10-23 19:31:50 | [marc2016.janus-note](https://marketplace.visualstudio.com/items?itemName=marc2016.janus-note) | Janus Note | 0.1.0 | Human Markdown Notes & Machine-Operable Companion Files with AI Assistance |
-| 2026-10-23 19:31:58 | [Chelayel.tide-pets](https://marketplace.visualstudio.com/items?itemName=Chelayel.tide-pets) | Tide Pets | 0.2.0 | Sea creatures that live in your Explorer and react to what you do: they swim fa… |
-| 2026-10-23 19:35:24 | [zacca.wsl-auto-reopen](https://marketplace.visualstudio.com/items?itemName=zacca.wsl-auto-reopen) | WSL Auto Reopen | 0.2.0 | Opens folders from \\wsl.localhost or \\wsl$ straight in a WSL window, so you d… |
-| 2026-10-23 19:36:00 | [lainiceanuraduc.radcode-hermes](https://marketplace.visualstudio.com/items?itemName=lainiceanuraduc.radcode-hermes) | RadCode — Hermes Agent | 0.1.21 | Hermes Agent workspace chat, model-aware thinking controls, and configurable wo… |
-| 2026-10-23 19:49:26 | [liangjunheng.fastergit](https://marketplace.visualstudio.com/items?itemName=liangjunheng.fastergit) | FasterGit | 2.0.0 | Git history graph, multi-file diffs, branch and stash management, multi-reposit… |
-| 2026-10-23 20:05:25 | [paperkite.sidestory](https://marketplace.visualstudio.com/items?itemName=paperkite.sidestory) | Sidestory | 0.1.0 | Rich HTML explainers beside your code, linked both ways, updated live. |
+| 2026-10-23 20:19:25 | [babejsza.emoji-for-claude-code](https://marketplace.visualstudio.com/items?itemName=babejsza.emoji-for-claude-code) | Emoji for Claude Code | 0.1.2 | Slack-style :shortcode: emoji and autocomplete in the Claude Code chat. Unoffic… |
+| 2026-10-23 20:20:08 | [redb.redb-route-xml](https://marketplace.visualstudio.com/items?itemName=redb.redb-route-xml) | redb Route XML | 0.2.24 | Completion and validation for redb.Route XML routes, a route tree, bean referen… |
+| 2026-10-23 20:20:41 | [OuroborosProductions.openscad-js-preview](https://marketplace.visualstudio.com/items?itemName=OuroborosProductions.openscad-js-preview) | OpenSCAD.js Preview | 0.1.0 | SCAD syntax highlighting and interactive 3D previews with STL export, Customize… |
+| 2026-10-23 20:33:37 | [CedricDDesigns.getout](https://marketplace.visualstudio.com/items?itemName=CedricDDesigns.getout) | getout | 2.0.0 | Opens linked files in their default Windows application instead of a VS Code ta… |
+| 2026-10-23 20:49:53 | [ScriptKittens.kitty-code](https://marketplace.visualstudio.com/items?itemName=ScriptKittens.kitty-code) | Kitty Code | 1.0.18 | Kitty Code for VS Code — Script Kittens AI coding assistant |
+| 2026-10-23 21:07:43 | [shikharsaraf.refactorly-vscode](https://marketplace.visualstudio.com/items?itemName=shikharsaraf.refactorly-vscode) | Refactorly AI | 0.1.0 | Refactor, analyze, and learn project coding style with Refactorly AI |
+| 2026-10-23 21:14:31 | [unifinity.groundhog](https://marketplace.visualstudio.com/items?itemName=unifinity.groundhog) | Groundhog | 0.1.0 | Hosted HTTPS tunnels and request inspection beside your app. |
 
 ## Data source
 
