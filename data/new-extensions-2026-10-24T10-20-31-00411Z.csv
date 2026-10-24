@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T09:41:37.727Z,SidioraLabs.hyperfide-language-client,SidioraLabs,Hyperfide,2.2.0,"Hyperfide language navigation, index status and links to the platform app."
+2026-10-24T09:53:28.31Z,adivmaimon.monty,adivmaimon,Monty · Keep an eye on your AI,0.3.1,"A discreet eye on your coding agent: live progress, the plan it's working through, and every file it touches, in VS Code and your Mac's menu bar."
+2026-10-24T09:55:52.76Z,UtkarshKumar.routecase,UtkarshKumar,RouteCase — API Route & Endpoint Tester,0.1.0,Define API endpoints once and run multiple input cases against them directly inside VS Code.
+2026-10-24T10:07:42.717Z,AbdelAzizAouiche0725.go-release,AbdelAzizAouiche0725,Go Release,0.1.0,"Discover, build, test, package and release Go applications with multiple executables from a graphical dashboard."
