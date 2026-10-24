@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T11:37:07.56Z,flightcoders.veyra-document-viewer,flightcoders,Veyra Document Viewer,1.0.0,"Open Word, PowerPoint and Excel files right in VS Code: .docx with real pages, .pptx slides with a presenter mode, .xlsx sheets with formulas, plus CSV and TSV. Search, zoom and copy text. Free, offline, nothing uploaded."
+2026-10-24T11:38:17.56Z,sanket-manohar.dolphin-walkthroughs,sanket-manohar,Dolphin Walkthroughs for Flutter,1.0.0,"See the widget tree of any Flutter page, double-click a widget and turn it into a dolphin walkthrough step. Every dolphin option in one form, written into your code or JSON config."
+2026-10-24T12:12:40.37Z,flightcoders.veyra-git-graph,flightcoders,Git Graph Veyra,1.0.0,"See your repository as a graph: every branch, merge and tag, with commit details, diffs and one-click actions like checkout, cherry-pick and revert. Free, fast and private."

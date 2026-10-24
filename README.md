@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 11:20 UTC
+## Latest list — 2026-10-24 12:19 UTC
 
-New extensions published between 2026-10-24 09:20 UTC and 2026-10-24 11:20 UTC.
+New extensions published between 2026-10-24 10:19 UTC and 2026-10-24 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T11-20-03-372916Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T12-19-20-433318Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 10:37:04 | [ayyoubboulahri.codescope-viz](https://marketplace.visualstudio.com/items?itemName=ayyoubboulahri.codescope-viz) | CodeScope Viz | 0.1.0 | Step through Python and JavaScript execution: call stack, variables, loops, hea… |
-| 2026-10-24 10:38:22 | [ShuheiNishikawa.mdmark](https://marketplace.visualstudio.com/items?itemName=ShuheiNishikawa.mdmark) | mdmark | 0.1.0 | Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる |
-| 2026-10-24 10:53:09 | [KurtBrice.casio-basic](https://marketplace.visualstudio.com/items?itemName=KurtBrice.casio-basic) | CASIO BASIC (fx-CG / Prizm) | 0.3.0 | Open, edit and save CASIO fx-CG10/20/50 (Prizm) .g3m BASIC programs directly in… |
-| 2026-10-24 10:56:09 | [TechLinguis.custom-welcome](https://marketplace.visualstudio.com/items?itemName=TechLinguis.custom-welcome) | 启幕 · 欢迎页 | 1.0.0 | 替换 VS Code 默认欢迎页：可自定义问候语、实时 CPU/内存占用、最近项目与常用操作入口。 |
-| 2026-10-24 10:58:44 | [pihajoki.vt323](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323) | VT323 | 0.0.1 | VT323 VSC Theme |
-| 2026-10-24 11:01:20 | [Popirun.popi-theme](https://marketplace.visualstudio.com/items?itemName=Popirun.popi-theme) | Popi Pastel Theme | 0.0.1 | A VSCode theme with pastel colours |
+| 2026-10-24 11:37:07 | [flightcoders.veyra-document-viewer](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-document-viewer) | Veyra Document Viewer | 1.0.0 | Open Word, PowerPoint and Excel files right in VS Code: .docx with real pages,… |
+| 2026-10-24 11:38:17 | [sanket-manohar.dolphin-walkthroughs](https://marketplace.visualstudio.com/items?itemName=sanket-manohar.dolphin-walkthroughs) | Dolphin Walkthroughs for Flutter | 1.0.0 | See the widget tree of any Flutter page, double-click a widget and turn it into… |
+| 2026-10-24 12:12:40 | [flightcoders.veyra-git-graph](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-git-graph) | Git Graph Veyra | 1.0.0 | See your repository as a graph: every branch, merge and tag, with commit detail… |
 
 ## Data source
 
