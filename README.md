@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 10:20 UTC
+## Latest list — 2026-10-24 11:20 UTC
 
-New extensions published between 2026-10-24 08:20 UTC and 2026-10-24 10:20 UTC.
+New extensions published between 2026-10-24 09:20 UTC and 2026-10-24 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T10-20-31-00411Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T11-20-03-372916Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 09:41:37 | [SidioraLabs.hyperfide-language-client](https://marketplace.visualstudio.com/items?itemName=SidioraLabs.hyperfide-language-client) | Hyperfide | 2.2.0 | Hyperfide language navigation, index status and links to the platform app. |
-| 2026-10-24 09:53:28 | [adivmaimon.monty](https://marketplace.visualstudio.com/items?itemName=adivmaimon.monty) | Monty · Keep an eye on your AI | 0.3.1 | A discreet eye on your coding agent: live progress, the plan it's working throu… |
-| 2026-10-24 09:55:52 | [UtkarshKumar.routecase](https://marketplace.visualstudio.com/items?itemName=UtkarshKumar.routecase) | RouteCase — API Route & Endpoint Tester | 0.1.0 | Define API endpoints once and run multiple input cases against them directly in… |
-| 2026-10-24 10:07:42 | [AbdelAzizAouiche0725.go-release](https://marketplace.visualstudio.com/items?itemName=AbdelAzizAouiche0725.go-release) | Go Release | 0.1.0 | Discover, build, test, package and release Go applications with multiple execut… |
+| 2026-10-24 10:37:04 | [ayyoubboulahri.codescope-viz](https://marketplace.visualstudio.com/items?itemName=ayyoubboulahri.codescope-viz) | CodeScope Viz | 0.1.0 | Step through Python and JavaScript execution: call stack, variables, loops, hea… |
+| 2026-10-24 10:38:22 | [ShuheiNishikawa.mdmark](https://marketplace.visualstudio.com/items?itemName=ShuheiNishikawa.mdmark) | mdmark | 0.1.0 | Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる |
+| 2026-10-24 10:53:09 | [KurtBrice.casio-basic](https://marketplace.visualstudio.com/items?itemName=KurtBrice.casio-basic) | CASIO BASIC (fx-CG / Prizm) | 0.3.0 | Open, edit and save CASIO fx-CG10/20/50 (Prizm) .g3m BASIC programs directly in… |
+| 2026-10-24 10:56:09 | [TechLinguis.custom-welcome](https://marketplace.visualstudio.com/items?itemName=TechLinguis.custom-welcome) | 启幕 · 欢迎页 | 1.0.0 | 替换 VS Code 默认欢迎页：可自定义问候语、实时 CPU/内存占用、最近项目与常用操作入口。 |
+| 2026-10-24 10:58:44 | [pihajoki.vt323](https://marketplace.visualstudio.com/items?itemName=pihajoki.vt323) | VT323 | 0.0.1 | VT323 VSC Theme |
+| 2026-10-24 11:01:20 | [Popirun.popi-theme](https://marketplace.visualstudio.com/items?itemName=Popirun.popi-theme) | Popi Pastel Theme | 0.0.1 | A VSCode theme with pastel colours |
 
 ## Data source
 

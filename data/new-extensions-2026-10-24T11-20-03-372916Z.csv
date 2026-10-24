@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T10:37:04.01Z,ayyoubboulahri.codescope-viz,ayyoubboulahri,CodeScope Viz,0.1.0,"Step through Python and JavaScript execution: call stack, variables, loops, heap objects and variable history."
+2026-10-24T10:38:22.887Z,ShuheiNishikawa.mdmark,ShuheiNishikawa,mdmark,0.1.0,Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる
+2026-10-24T10:53:09.527Z,KurtBrice.casio-basic,KurtBrice,CASIO BASIC (fx-CG / Prizm),0.3.0,"Open, edit and save CASIO fx-CG10/20/50 (Prizm) .g3m BASIC programs directly in VS Code."
+2026-10-24T10:56:09.23Z,TechLinguis.custom-welcome,TechLinguis,启幕 · 欢迎页,1.0.0,替换 VS Code 默认欢迎页：可自定义问候语、实时 CPU/内存占用、最近项目与常用操作入口。
+2026-10-24T10:58:44.15Z,pihajoki.vt323,pihajoki,VT323,0.0.1,VT323 VSC Theme
+2026-10-24T11:01:20.477Z,Popirun.popi-theme,Popirun,Popi Pastel Theme,0.0.1,A VSCode theme with pastel colours
