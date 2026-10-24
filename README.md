@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-23 23:19 UTC
+## Latest list — 2026-10-24 00:20 UTC
 
-New extensions published between 2026-10-23 21:19 UTC and 2026-10-23 23:19 UTC.
+New extensions published between 2026-10-23 22:20 UTC and 2026-10-24 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-23T23-19-47-066895Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T00-20-07-055003Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-23 22:16:26 | [carven-lang.carven](https://marketplace.visualstudio.com/items?itemName=carven-lang.carven) | Carven | 0.1.0 | Carven language support powered by the Carven LSP. |
-| 2026-10-23 22:22:32 | [Conduktor.conduktor-console](https://marketplace.visualstudio.com/items?itemName=Conduktor.conduktor-console) | Conduktor Console | 0.1.0 | Explore, write and check Conduktor Console resources as YAML, with the Console'… |
-| 2026-10-23 22:23:01 | [prachwal.oracle-mcp-dotnet](https://marketplace.visualstudio.com/items?itemName=prachwal.oracle-mcp-dotnet) | Oracle MCP (.NET) | 0.1.0 | Read-only Oracle SELECT tool for AI agents over TCPS with certificate login fro… |
-| 2026-10-23 22:33:19 | [syedxyzsdre.lumen-ai](https://marketplace.visualstudio.com/items?itemName=syedxyzsdre.lumen-ai) | Lumen AI: Code Walkthrough | 0.0.8 | Understand any code one step at a time. Lumen AI walks you through your code wi… |
-| 2026-10-23 22:34:56 | [chrisgriffinio.token-atlas](https://marketplace.visualstudio.com/items?itemName=chrisgriffinio.token-atlas) | Token Atlas | 1.0.0 | Language features for W3C/DTCG design tokens in VS Code: hovers, completion, go… |
-| 2026-10-23 22:49:02 | [angelminga.commit-messages-for-claude-code](https://marketplace.visualstudio.com/items?itemName=angelminga.commit-messages-for-claude-code) | Commit Messages for Claude Code | 0.1.1 | Generates Conventional Commits messages from your changes with the Claude Code… |
+| 2026-10-23 23:31:56 | [muowl.velune](https://marketplace.visualstudio.com/items?itemName=muowl.velune) | Velune | 0.1.3 | A dark theme inspired by Evernight, with vivid lavender syntax and restrained c… |
+| 2026-10-23 23:33:23 | [chteau.vcwl](https://marketplace.visualstudio.com/items?itemName=chteau.vcwl) | VCWL | 0.3.0 | VCWL (Vibe Coded Web Language): highlighting, plus errors, lints, completion an… |
+| 2026-10-23 23:36:40 | [palsch.local-code-attention](https://marketplace.visualstudio.com/items?itemName=palsch.local-code-attention) | Local Code Attention | 0.2.2 | Explore real local model attention directly in source code. |
+| 2026-10-23 23:44:33 | [tomasf.cadova](https://marketplace.visualstudio.com/items?itemName=tomasf.cadova) | Cadova | 1.0.0 | Generate and preview Cadova models from VS Code. |
+| 2026-10-24 00:11:35 | [CKinkadeDarling.winter-cocoa](https://marketplace.visualstudio.com/items?itemName=CKinkadeDarling.winter-cocoa) | Winter Cocoa | 0.1.0 | A warm, dark theme built from espresso, walnut, and slate — inspired by the Man… |
+| 2026-10-24 00:15:10 | [jaunblanco.ethertools](https://marketplace.visualstudio.com/items?itemName=jaunblanco.ethertools) | extneison | 0.0.2 | A minimal test extension |
 
 ## Data source
 
