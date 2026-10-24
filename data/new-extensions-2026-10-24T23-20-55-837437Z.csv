@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T22:24:22.017Z,seraph.dm-langclient-extender,seraph,DreamMaker Language Client Extender,0.0.1,Extends the functionality of the existing DM Language Client by SpaceManiac
+2026-10-24T22:30:50.63Z,oxie-lang.oxie,oxie-lang,Oxie,0.1.0,"Oxie language support: syntax highlighting, the Oxie language server (diagnostics, completion, hover with the generated Rust, go to definition, rename, formatting), run and test buttons, snippets."
+2026-10-24T22:31:03.073Z,kelftlang.vscode-kelft,kelftlang,Kelft for VS Code,0.1.3,"Kelft icons, Core and Intent editing, static completion, native checks, and builds."
+2026-10-24T22:48:01.753Z,teddygavi.bem-ls,teddygavi,BEM for JSX & SCSS,0.1.11,"BEM class checks, completion, navigation and SCSS ghost text for React components and their stylesheets."
+2026-10-24T22:54:12.547Z,ZeqTech.zeqs-project-dashboard,ZeqTech,Zeq's Project Dashboard,0.2.0,"A start page for VS Code that appears when no folder is open: jump back into recent projects, pin favourites, keep a note per project, run package.json scripts, and browse your agent skills."
+2026-10-24T23:16:24.333Z,Ricra.tea-green-theme,Ricra,Ricra Tea Green,1.0.0,"Temas claro y oscuro en tonos crema, matcha y verde bosque para Visual Studio Code."
+2026-10-24T23:17:38.75Z,bholten.vscode-lcl,bholten,Lcl,0.1.0,Syntax highlighting and editing support for Lcl (Lexical Command Language)
