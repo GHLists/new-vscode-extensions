@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T01:23:11.173Z,CKinkadeDarling.red-rocks,CKinkadeDarling,Red Rocks,0.2.0,"A dark southern Utah desert theme — sandstone, sagebrush, and juniper under a midnight sky, built from the Ares Enyo palette."
+2026-10-24T02:03:51.327Z,ztessema.monorepo-tools,ztessema,Monorepo Tools,1.0.0,A set of tools to help manage a monorepo
+2026-10-24T02:05:59.457Z,AsmLens.asmlens,AsmLens,AsmLens,1.0.0,"Compiler Explorer inside your editor: see the assembly your real toolchain and flags produce, linked line-by-line to your C and C++ source."
