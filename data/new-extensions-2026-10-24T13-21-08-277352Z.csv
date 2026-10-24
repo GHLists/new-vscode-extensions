@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T12:16:30.48Z,ahmedzakydev.git-ai-review-pack,ahmedzakydev,Git AI Review Pack,0.1.0,"Preview and export Git changes into a secure, structured ZIP for AI-assisted code review."
+2026-10-24T12:44:36.747Z,MaoWei-Weng.beautifulmd,MaoWei-Weng,BeautifulMD,0.2.0,"Pixel-perfect Markdown to PDF, featuring high-fidelity Mermaid rendering and smart diagram pagination."
+2026-10-24T12:50:28.417Z,mvdev.mvdev-mobile-preview,mvdev,Mobile Preview Free by mvdev,0.1.0,View your web project in phone and tablet frames right next to your code. Made for responsive design.
+2026-10-24T12:50:49.1Z,SugerForU.morning-workspaces,SugerForU,"Morning, Workspaces!",0.3.0,One-click launcher for terminals and Codex tabs.
+2026-10-24T12:57:43.377Z,iampratiktandel.depl-dependency-detective,iampratiktandel,DepL - Dependency Detective,0.1.0,"On-demand security, outdated dependency, and package.json validation checks."
+2026-10-24T13:08:23.513Z,yxm1122.markdown-bilingual-sync,yxm1122,Markdown Bilingual Sync,0.9.3,"AI-powered bilingual Markdown translation and preview for VS Code: block-anchored cache, translation locking, split views, glossary, and export."
+2026-10-24T13:18:40.433Z,flightcoders.veyra-error-lens,flightcoders,Error Lens Veyra,1.0.0,"See errors and warnings right where they happen: the message at the end of the line, the line gently highlighted, and the problem under your cursor in the status bar. Works with every language."
