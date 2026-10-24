@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T18:29:38.17Z,ali50m.xnes,ali50m,xnes — Next Edit Suggestions,1.0.1,Next edit suggestions powered by your own OpenAI-compatible endpoint.
+2026-10-24T18:35:11.85Z,EmbeddexAi.note-taker,EmbeddexAi,Note Taker,0.9.4,"Notes, drawings, mind maps and planning saved as ordinary local files in VS Code. Attach any file to a note and preview it in place."
+2026-10-24T18:51:40.567Z,KunalPathak.notiondown,KunalPathak,NotionDown,0.1.0,"A Notion-style editor for Markdown in VS Code. Slash commands, drag-and-drop blocks, visual tables, live Mermaid diagrams, and plain Markdown on disk."
+2026-10-24T18:55:52.55Z,ElenderGoisGallas.pascal-lsp,ElenderGoisGallas,Pascal Language Server,1.0.1,Pascal Language Server powered by Free Pascal Compiler (FPC)
+2026-10-24T18:57:53.337Z,SohamKolhe.modelizer,SohamKolhe,Modelizer,1.0.1,Intelligent Flutter & Dart Clean Architecture model generator and AST-aware updater for VS Code.
+2026-10-24T18:58:33.917Z,DaffaDev.jekyll-mcp,DaffaDev,Jekyll Component MCP,0.1.0,Run jekyll-component-mcp locally and register its tools with VS Code Language Model API
+2026-10-24T19:01:03.637Z,nimblescape.nimblescape-typescript,nimblescape,nimblescape TypeScript,0.1.0,"Keeps the auto-import completions of TypeScript to the imports that a program needs: hides the imports of names that are global already, such as parseInt from es-toolkit/compat or log from node:console. Offers to run npm ci when the TypeScript of the workspace is not installed."
+2026-10-24T19:03:21.27Z,Ro2.tex2docx,Ro2,TeX2DocX,0.1.0,"Convert LaTeX documents to Word (.docx) with numbered figures, subfigures, tables, equations, citations and acronyms."
+2026-10-24T19:11:40.087Z,lisonge.kotlin-vscode,lisonge,Kotlin Syntax,0.0.4,Kotlin syntax support powered by a portable Kotlin lexer and parser.

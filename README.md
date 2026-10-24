@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 18:20 UTC
+## Latest list — 2026-10-24 19:20 UTC
 
-New extensions published between 2026-10-24 16:20 UTC and 2026-10-24 18:20 UTC.
+New extensions published between 2026-10-24 17:20 UTC and 2026-10-24 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T18-20-40-048393Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T19-20-25-288285Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 17:20:28 | [vejaysuriyaa.rtl-live](https://marketplace.visualstudio.com/items?itemName=vejaysuriyaa.rtl-live) | RTL Live | 0.5.1 | Live Verilog schematic in the sidebar: the diagram updates as you type, with ga… |
-| 2026-10-24 17:22:54 | [Redaktyn.redaktyn-vscode](https://marketplace.visualstudio.com/items?itemName=Redaktyn.redaktyn-vscode) | Redaktyn | 0.1.0 | Stops registered secrets reaching AI tools from your editor, terminal and Claud… |
-| 2026-10-24 17:25:59 | [devbluen.claude-hub-accounts](https://marketplace.visualstudio.com/items?itemName=devbluen.claude-hub-accounts) | Claude Hub | 1.1.1 | Switch between Claude Code accounts in one click, with usage limits, analytics… |
-| 2026-10-24 18:03:15 | [rgc-dev.rgc-lang](https://marketplace.visualstudio.com/items?itemName=rgc-dev.rgc-lang) | RGC Lang | 0.2.0 | RGC compiled-language support: syntax highlighting, build/run/test commands, an… |
-| 2026-10-24 18:11:47 | [CHGroup.dragon-fly-theme-official](https://marketplace.visualstudio.com/items?itemName=CHGroup.dragon-fly-theme-official) | Dragon Fly Theme Official | 0.0.1 | new extension |
+| 2026-10-24 18:29:38 | [ali50m.xnes](https://marketplace.visualstudio.com/items?itemName=ali50m.xnes) | xnes — Next Edit Suggestions | 1.0.1 | Next edit suggestions powered by your own OpenAI-compatible endpoint. |
+| 2026-10-24 18:35:11 | [EmbeddexAi.note-taker](https://marketplace.visualstudio.com/items?itemName=EmbeddexAi.note-taker) | Note Taker | 0.9.4 | Notes, drawings, mind maps and planning saved as ordinary local files in VS Cod… |
+| 2026-10-24 18:51:40 | [KunalPathak.notiondown](https://marketplace.visualstudio.com/items?itemName=KunalPathak.notiondown) | NotionDown | 0.1.0 | A Notion-style editor for Markdown in VS Code. Slash commands, drag-and-drop bl… |
+| 2026-10-24 18:55:52 | [ElenderGoisGallas.pascal-lsp](https://marketplace.visualstudio.com/items?itemName=ElenderGoisGallas.pascal-lsp) | Pascal Language Server | 1.0.1 | Pascal Language Server powered by Free Pascal Compiler (FPC) |
+| 2026-10-24 18:57:53 | [SohamKolhe.modelizer](https://marketplace.visualstudio.com/items?itemName=SohamKolhe.modelizer) | Modelizer | 1.0.1 | Intelligent Flutter & Dart Clean Architecture model generator and AST-aware upd… |
+| 2026-10-24 18:58:33 | [DaffaDev.jekyll-mcp](https://marketplace.visualstudio.com/items?itemName=DaffaDev.jekyll-mcp) | Jekyll Component MCP | 0.1.0 | Run jekyll-component-mcp locally and register its tools with VS Code Language M… |
+| 2026-10-24 19:01:03 | [nimblescape.nimblescape-typescript](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-typescript) | nimblescape TypeScript | 0.1.0 | Keeps the auto-import completions of TypeScript to the imports that a program n… |
+| 2026-10-24 19:03:21 | [Ro2.tex2docx](https://marketplace.visualstudio.com/items?itemName=Ro2.tex2docx) | TeX2DocX | 0.1.0 | Convert LaTeX documents to Word (.docx) with numbered figures, subfigures, tabl… |
+| 2026-10-24 19:11:40 | [lisonge.kotlin-vscode](https://marketplace.visualstudio.com/items?itemName=lisonge.kotlin-vscode) | Kotlin Syntax | 0.0.4 | Kotlin syntax support powered by a portable Kotlin lexer and parser. |
 
 ## Data source
 
