@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T07:20:37.957Z,workjerry.bookmark-shelf,workjerry,Bookmark Shelf,0.1.0,在側邊欄瀏覽、搜尋、新增與編輯書籤收藏櫃的書籤。
+2026-10-24T07:21:39.347Z,nightgauge.nightgauge,nightgauge,Nightgauge for VS Code,0.7.2,"Run an autonomous issue-to-merge pipeline from VS Code: queue GitHub issues, watch each stage, gate on evidence, review the PR."
+2026-10-24T07:29:17.273Z,PrasantKumarSahu.kalinga-lang,PrasantKumarSahu,Kalinga Language,0.6.2,"Kalinga language support (.kl) from the Kalinga language server: errors as you type, completion, hover, signature help, go to definition, find references, rename, outline and quick fixes; plus syntax highlighting, snippets, run commands and utkal.toml hints"
+2026-10-24T07:31:46.69Z,Pfolg26.comparecleaner,Pfolg26,CompareCleaner,0.2.1,Find and clean unused files by comparing with reference files.
+2026-10-24T07:41:06.47Z,Fietspompje.total-war-modding-tools,Fietspompje,Total War Modding Tools,0.0.1,"Make Total War: WARHAMMER III mods in VS Code: Lua debugger, DB and loc table editors, game database browser, mod checks, Lua IntelliSense and pack tools. Unofficial."
+2026-10-24T08:02:39.88Z,Sintoo.italiaviva2,Sintoo,ItaliaViva2,1.0.0,"IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello si scarica da solo la prima volta."
+2026-10-24T08:16:11.673Z,task-tracker.kendo-free-kit,task-tracker,Kendo UI Free Kit,1.0.0,"Pick an ASP.NET Core MVC model and generate Kendo UI + Bootstrap forms, CRUD grids, pickers, selects, uploads and Npgsql repositories whose fields match the backend model."
