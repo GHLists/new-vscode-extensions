@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 06:20 UTC
+## Latest list — 2026-10-24 07:20 UTC
 
-New extensions published between 2026-10-24 04:20 UTC and 2026-10-24 06:20 UTC.
+New extensions published between 2026-10-24 05:20 UTC and 2026-10-24 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T06-20-59-604382Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T07-20-58-954233Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 05:19:32 | [LKKStuner.linkintrees](https://marketplace.visualstudio.com/items?itemName=LKKStuner.linkintrees) | LinkinTrees | 1.0.0 | A lightweight Kanban board for Visual Studio Code. |
-| 2026-10-24 05:20:36 | [Necrotree.treefly-nugetia](https://marketplace.visualstudio.com/items?itemName=Necrotree.treefly-nugetia) | Treefly Nugetia | 1.0.35 | Native VS Code NuGet package browser and manager. |
-| 2026-10-24 05:28:06 | [LiveSocre-for-VSCode.livescore-vscode](https://marketplace.visualstudio.com/items?itemName=LiveSocre-for-VSCode.livescore-vscode) | LiveScore for VSCode - 足球/篮球实时比分 | 2.10.1 | Real-time football and basketball match scores with instant updates |
-| 2026-10-24 05:49:19 | [GurtejSingh1476.codeunderstander-gemini](https://marketplace.visualstudio.com/items?itemName=GurtejSingh1476.codeunderstander-gemini) | CodeUnderstander Gemini — AI Code Expla… | 1.2.0 | Understand any code in plain English directly in VS Code. Line-by-line breakdow… |
-| 2026-10-24 05:50:49 | [ZBXAPCY.cc-samples](https://marketplace.visualstudio.com/items?itemName=ZBXAPCY.cc-samples) | Competitive Companion Samples | 1.0.0 | Receive problems from Competitive Companion, manage samples, and test with one… |
-| 2026-10-24 06:16:53 | [OpenSwiftUIProject.openswiftui-preview](https://marketplace.visualstudio.com/items?itemName=OpenSwiftUIProject.openswiftui-preview) | OpenSwiftUI Preview | 0.1.0 | Run interactive OpenSwiftUI previews in native macOS and iOS Simulator windows. |
+| 2026-10-24 06:17:52 | [globalpaws.simple-video-player](https://marketplace.visualstudio.com/items?itemName=globalpaws.simple-video-player) | Video Player: Smooth & Loop | 1.0.3 | High-performance video player for VS Code. Zero-memory streaming handles 20GB+… |
+| 2026-10-24 06:36:19 | [GsonSoft-development.flua](https://marketplace.visualstudio.com/items?itemName=GsonSoft-development.flua) | flua | 0.1.83 | HC3 QuickApp support for VS Code: run flua tools from the explorer, check QA fi… |
+| 2026-10-24 07:07:57 | [RishiShandilyaFrontTerrain.frontlang-prettify-linter](https://marketplace.visualstudio.com/items?itemName=RishiShandilyaFrontTerrain.frontlang-prettify-linter) | FrontLang Prettify & Linter | 1.0.0 | Official Prettier-grade formatter, auto-linter, on-save cleanup, and quick-fixe… |
 
 ## Data source
 

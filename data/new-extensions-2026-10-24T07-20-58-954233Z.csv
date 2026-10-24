@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T06:17:52.197Z,globalpaws.simple-video-player,globalpaws,Video Player: Smooth & Loop,1.0.3,"High-performance video player for VS Code. Zero-memory streaming handles 20GB+ files smoothly without freezing the IDE. Features instant auto-loop, A-B repeat, speed control, and shortcuts (MP4, MOV, M4V, WebM)."
+2026-10-24T06:36:19.783Z,GsonSoft-development.flua,GsonSoft-development,flua,0.1.83,"HC3 QuickApp support for VS Code: run flua tools from the explorer, check QA files on save, and read .fqa packages."
+2026-10-24T07:07:57.197Z,RishiShandilyaFrontTerrain.frontlang-prettify-linter,RishiShandilyaFrontTerrain,FrontLang Prettify & Linter,1.0.0,"Official Prettier-grade formatter, auto-linter, on-save cleanup, and quick-fixes for FrontLang (.ft)"
