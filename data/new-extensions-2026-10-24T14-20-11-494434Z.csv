@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T13:17:08.077Z,boselang.boselang,boselang,BoseLang Support,1.1.0,"Official language support for BoseLang: Live highlighting, IntelliSense, code formatting, bose.exe runner, and interactive documentation."
+2026-10-24T13:19:26.717Z,flightcoders.veyra-todo-tree,flightcoders,Todo Tree Veyra,1.0.0,"Every TODO, FIXME, BUG and HACK in your project, in one tree. Group by file or tag, filter, jump to the line, see who it's for, and export a checklist. Tags highlighted in the editor."
+2026-10-24T13:25:26.667Z,Liruiz.yl503-for-vscode,Liruiz,yl503 for vscode,0.7.11,在 VS Code 内登录 HydroOJ（如 yl503.yali.edu.cn），一键把题面与样例导入到 Problems/ 目录，提交代码，并收发私信
+2026-10-24T13:25:28.37Z,TerenceYang.npzsee,TerenceYang,NPZSee,0.2.1,"Fast multidimensional NumPy array viewer, powered by Rust."
+2026-10-24T13:33:33.213Z,falkonbalkon.falkontheme,falkonbalkon,FalkonTheme,0.0.1,Theme based on SLAB theme
+2026-10-24T13:34:39.113Z,ysf-bkr.evren-code,ysf-bkr,Evren Code — Yazılım Geliştirme,0.0.1,Otonom ve profesyonel Evren Code yazılım geliştirme asistanı
+2026-10-24T13:35:00.457Z,Sintoo.italiaviva3,Sintoo,ItaliaViva3,1.0.0,"IA locale che risponde a tutto e usa i tuoi appunti: funziona offline, il modello si scarica da solo la prima volta."
+2026-10-24T13:36:03.343Z,benmeador.the-nothing,benmeador,The Nothing (Mr. Decoupler) — MCP Server,1.0.1,"An MCP server that does nothing, on purpose. Mr. Decoupler is a no-op seam between AI and your databases and datasets. Sometimes less is more."
+2026-10-24T13:36:43.843Z,ManavShrivastava.opencode-agent-extension,ManavShrivastava,OpenCoder Agent,0.0.1,"An AI-assistant extension with terminal, file, and editor access — like OpenCoder"
+2026-10-24T13:39:00.82Z,flightcoders.veyra-auto-rename-tag,flightcoders,Auto Rename Tag Veyra,1.0.0,"Rename an HTML, JSX or XML tag and its closing tag changes with it, as you type. One undo puts both back. HTML, React, Vue, Svelte, Astro, XML, PHP and more."
+2026-10-24T14:02:30.433Z,solution-infotech-services.web-emulator,solution-infotech-services,Web Emulator,0.2.0,"Responsive layout testing inside VS Code: device presets, custom viewports, overflow diagnostics, local dev server and Flask/Django support."
+2026-10-24T14:02:53.817Z,AvinashShinde.smartgreeting,AvinashShinde,"DevCompanion - Smart Greetings, Wellness & Break Assistant",1.3.0,"All-in-one developer companion: Context-aware greetings, motivational thoughts, dev humor, plus scheduled water, coffee, lunch, and posture wellness reminders."
+2026-10-24T14:07:49.853Z,remoshuang.remoshuang-editor,remoshuang,热摸爽 · 编辑器热榜,0.1.1,在编辑器侧栏浏览按来源分组的热榜，Lite 会员权益。
+2026-10-24T14:13:17.99Z,PrasannaMurugan.tracer-code-flow,PrasannaMurugan,Tracer: Code Flow & Map,0.0.1,"Trace your code: flow diagrams of files and functions, and a map and graph of the whole workspace. Runs locally: no network, no telemetry."
