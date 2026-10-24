@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T21:18:17.53Z,VikramKumar.promptguard,VikramKumar,PromptGuard: AI Privacy & Secret Shield,1.0.3,"Real-time scanner, git pre-commit shield, .gitignore auto-protector, and copy-as-masked-prompt tool for AI assistants (Antigravity, Cursor, Claude)."
+2026-10-24T21:18:24.013Z,lanz.deep-json,lanz,Deep JSON,2.0.0,"Color themes that give every level of JSON nesting its own color. Four Monokai variants, Jazz Solo Cup and VS Code Dark, each with vivid or muted brackets."
+2026-10-24T21:26:24.45Z,pmghartman.hesperus-vscode,pmghartman,Hesperus,0.1.0,"Zoomable graph of a repo's structure, calls, and data flow, built by static analysis. No model draws or guesses edges."
+2026-10-24T21:46:32.793Z,NurshatjanSherpidin.codex-notification,NurshatjanSherpidin,Codex notification,0.2.0,Workspace-scoped Codex alerts for unanswered questions and explicitly declared completed tasks.
+2026-10-24T21:47:32.743Z,Nikolas2610.git-timekeeper,Nikolas2610,Git Timekeeper,0.1.0,Automatic Git-based time tracking and branch analytics for developers.
+2026-10-24T21:48:15.277Z,KollinMurphy.vscode-simple-image-gallery,KollinMurphy,Simple Image Gallery,0.0.8,"Rich interactive visual image gallery web GUI for browsing, inspecting, and managing workspace images."
+2026-10-24T21:53:12.657Z,lyth-lang.lyth,lyth-lang,Lyth,0.1.0,"Lyth language support: syntax highlighting, the Lyth language server (diagnostics, completion, hover with the generated Go, go to definition, references, rename, signature help, inlay hints, quick fixes), run and test buttons, snippets."

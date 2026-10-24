@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 21:20 UTC
+## Latest list — 2026-10-24 22:18 UTC
 
-New extensions published between 2026-10-24 19:20 UTC and 2026-10-24 21:20 UTC.
+New extensions published between 2026-10-24 20:18 UTC and 2026-10-24 22:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T21-20-20-704748Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T22-18-47-327069Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 20:18:20 | [QUB-IT.tumble-code](https://marketplace.visualstudio.com/items?itemName=QUB-IT.tumble-code) | Tumble Code | 1.1.0 | A whole dev team of AI agents in your editor. |
-| 2026-10-24 20:27:44 | [ovenoboyo.simple-jj](https://marketplace.visualstudio.com/items?itemName=ovenoboyo.simple-jj) | Simple JJ | 0.0.1 | Jujutsu SCM extension for VS Code with interactive graph, remote manager, and m… |
-| 2026-10-24 20:30:17 | [ZeqTech.zeqs-database-client](https://marketplace.visualstudio.com/items?itemName=ZeqTech.zeqs-database-client) | Zeq's Database Client | 0.5.0 | Manage PostgreSQL, MySQL/MariaDB and SQLite connections in VS Code: browse tabl… |
-| 2026-10-24 20:39:28 | [connor-lance.script-documentation-tool](https://marketplace.visualstudio.com/items?itemName=connor-lance.script-documentation-tool) | Script Documentation Tool | 0.6.3 | View scripts with their documentation and diagrams side by side, and the flows… |
-| 2026-10-24 20:47:48 | [ZeqTech.zeqs-markdown-editor](https://marketplace.visualstudio.com/items?itemName=ZeqTech.zeqs-markdown-editor) | Zeq's Markdown Editor | 0.4.0 | A Notion/Obsidian-style live-preview Markdown editor for VS Code: edit rendered… |
-| 2026-10-24 20:58:08 | [nan-language.nan](https://marketplace.visualstudio.com/items?itemName=nan-language.nan) | NaN | 0.1.0 | NaN language support for Visual Studio Code: syntax highlighting for .nan files… |
+| 2026-10-24 21:18:17 | [VikramKumar.promptguard](https://marketplace.visualstudio.com/items?itemName=VikramKumar.promptguard) | PromptGuard: AI Privacy & Secret Shield | 1.0.3 | Real-time scanner, git pre-commit shield, .gitignore auto-protector, and copy-a… |
+| 2026-10-24 21:18:24 | [lanz.deep-json](https://marketplace.visualstudio.com/items?itemName=lanz.deep-json) | Deep JSON | 2.0.0 | Color themes that give every level of JSON nesting its own color. Four Monokai… |
+| 2026-10-24 21:26:24 | [pmghartman.hesperus-vscode](https://marketplace.visualstudio.com/items?itemName=pmghartman.hesperus-vscode) | Hesperus | 0.1.0 | Zoomable graph of a repo's structure, calls, and data flow, built by static ana… |
+| 2026-10-24 21:46:32 | [NurshatjanSherpidin.codex-notification](https://marketplace.visualstudio.com/items?itemName=NurshatjanSherpidin.codex-notification) | Codex notification | 0.2.0 | Workspace-scoped Codex alerts for unanswered questions and explicitly declared… |
+| 2026-10-24 21:47:32 | [Nikolas2610.git-timekeeper](https://marketplace.visualstudio.com/items?itemName=Nikolas2610.git-timekeeper) | Git Timekeeper | 0.1.0 | Automatic Git-based time tracking and branch analytics for developers. |
+| 2026-10-24 21:48:15 | [KollinMurphy.vscode-simple-image-gallery](https://marketplace.visualstudio.com/items?itemName=KollinMurphy.vscode-simple-image-gallery) | Simple Image Gallery | 0.0.8 | Rich interactive visual image gallery web GUI for browsing, inspecting, and man… |
+| 2026-10-24 21:53:12 | [lyth-lang.lyth](https://marketplace.visualstudio.com/items?itemName=lyth-lang.lyth) | Lyth | 0.1.0 | Lyth language support: syntax highlighting, the Lyth language server (diagnosti… |
 
 ## Data source
 
