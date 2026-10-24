@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T08:18:01.927Z,myrmex.theuth,myrmex,Theuth,0.1.0,"Type polytonic Greek and Latin in any document: toggle diacritics with shortcuts or toolbar buttons, convert Beta code, SAMPA and transliterations, and pick, find or inspect Unicode characters."
+2026-10-24T08:24:41.393Z,rgc-dev.vscode-rgc,rgc-dev,RGC,0.1.0,"RGC compiled-language support: syntax highlighting, build/run/test commands, and an LSP client for the RGC-written language server over stdio."
+2026-10-24T08:32:06.687Z,CKinkadeDarling.eggplant,CKinkadeDarling,Eggplant,0.1.2,"A dark aubergine theme — plum, peach, and sage on near-black ink, built from the My puppeteer Color Palette."
+2026-10-24T08:37:05.137Z,SunilKapadia.bhashabridge,SunilKapadia,BhashaBridge: AI Explanations in Indian Languages,0.1.1,"Read AI coding explanations from Copilot, ChatGPT and others in your own language, starting with Gujarati. Code, variable names and technical terms stay exactly as they are."
+2026-10-24T08:38:20.96Z,yhnocoder.codeboard-vscode,yhnocoder,CodeBoard: Code Reading Whiteboard,0.2.0,"A whiteboard for reading code: put functions on it, click calls to expand them layer by layer, cards pinned to commits."
+2026-10-24T08:56:27.897Z,kana001-bit.mujun-vscode,kana001-bit,mujun,0.1.0,設計書（Markdown + Mermaid）の矛盾を、保存するたびに「問題」パネルに出す。プロジェクトに入れた mujun を走らせる
+2026-10-24T08:56:40.37Z,jaewon-lee.jaewon-k9s,jaewon-lee,Jaewon K9s,0.1.2,"A free MIT-licensed K9s extension by jaewon, a developer from South Korea."
+2026-10-24T08:58:05.973Z,formalized-si.requality-vscode,formalized-si,Requality (Unofficial),1.4.0,Unofficial port of the Requality Eclipse plug-in (ISP RAS) for requirements management. It runs the original Requality core and plug-in code.
+2026-10-24T09:02:55.563Z,Chelayel.petabytes,Chelayel,Petabytes,0.4.0,"Small companions with a big appetite. Sea creatures that live in your Explorer and react to what you do: they swim faster while you type, celebrate saves, commits and passing tests, notice the terminal and your AI assistant, eat the curly braces you feed them, and nap when you're away."
+2026-10-24T09:07:12.98Z,rofleed.vocab2code,rofleed,vocab2code,0.9.0,写代码时背单词：把每日英语单词伪装成 TypeScript 模块。Vocabulary practice disguised as code.
+2026-10-24T09:07:59.713Z,tinklingway.soap-dish,tinklingway,Soap Dish,0.0.1,"Nine pastel light themes cut from one bar: Purple, Red, Pink, Yellow, Green, Blue, Blue Gray, Coffee Cream, and Cream."
