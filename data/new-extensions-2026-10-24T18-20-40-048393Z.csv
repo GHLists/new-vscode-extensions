@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T17:20:28.423Z,vejaysuriyaa.rtl-live,vejaysuriyaa,RTL Live,0.5.1,"Live Verilog schematic in the sidebar: the diagram updates as you type, with gate-level views from Yosys and a legend that explains every symbol."
+2026-10-24T17:22:54.007Z,Redaktyn.redaktyn-vscode,Redaktyn,Redaktyn,0.1.0,"Stops registered secrets reaching AI tools from your editor, terminal and Claude Code. Zero-knowledge: only keyed fingerprints are ever compared."
+2026-10-24T17:25:59.083Z,devbluen.claude-hub-accounts,devbluen,Claude Hub,1.1.1,"Switch between Claude Code accounts in one click, with usage limits, analytics and notifications."
+2026-10-24T18:03:15.357Z,rgc-dev.rgc-lang,rgc-dev,RGC Lang,0.2.0,"RGC compiled-language support: syntax highlighting, build/run/test commands, and an LSP client for the RGC-written language server over stdio."
+2026-10-24T18:11:47.25Z,CHGroup.dragon-fly-theme-official,CHGroup,Dragon Fly Theme Official,0.0.1,new extension
