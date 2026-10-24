@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T19:24:26.27Z,peterschwps.apigee-x-linter,peterschwps,Apigee X Linter,0.1.0,"Diagnostics, completion, and quick fixes for Apigee X proxy and shared flow XML, based on Google's documentation."
+2026-10-24T19:36:52.873Z,git-lane.git-lane,git-lane,Git Lane,0.2.24,"Three-way Git merge, block conflicts, changes, history and a branch picker in the Explorer. Uses Git and the built-in VS Code Git extension."
+2026-10-24T19:41:35.063Z,adityashirsatrao007.sherpa-mentor,adityashirsatrao007,Sherpa Mentor,0.0.1,Open Sherpa AI codebase mentor and ask about your code from VS Code.
+2026-10-24T19:55:20.51Z,Liladhar.api-flow-explorer,Liladhar,API Flow Explorer,0.1.0,"Statically analyze JS/TS codebases and visualize how frontend requests flow through API routes, middleware, services and data stores. Local and offline."
+2026-10-24T20:06:39.45Z,claudineyqr.nuget-assistant,claudineyqr,NuGet Assistant,1.0.0,"Manage NuGet packages graphically in VS Code. Search, install, update, and remove packages from .NET projects and solutions."
