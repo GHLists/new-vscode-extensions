@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T20:18:20.513Z,QUB-IT.tumble-code,QUB-IT,Tumble Code,1.1.0,A whole dev team of AI agents in your editor.
+2026-10-24T20:27:44.023Z,ovenoboyo.simple-jj,ovenoboyo,Simple JJ,0.0.1,"Jujutsu SCM extension for VS Code with interactive graph, remote manager, and multi-diff inspection"
+2026-10-24T20:30:17.097Z,ZeqTech.zeqs-database-client,ZeqTech,Zeq's Database Client,0.5.0,"Manage PostgreSQL, MySQL/MariaDB and SQLite connections in VS Code: browse tables, run SQL with per-editor connections, generate SQL, view and export DDL, and draw ER diagrams."
+2026-10-24T20:39:28.893Z,connor-lance.script-documentation-tool,connor-lance,Script Documentation Tool,0.6.3,"View scripts with their documentation and diagrams side by side, and the flows that connect them."
+2026-10-24T20:47:48.817Z,ZeqTech.zeqs-markdown-editor,ZeqTech,Zeq's Markdown Editor,0.4.0,"A Notion/Obsidian-style live-preview Markdown editor for VS Code: edit rendered text in place with slash commands, tables, callouts, math, Mermaid diagrams, wikilinks, an outline and HTML export."
+2026-10-24T20:58:08.933Z,nan-language.nan,nan-language,NaN,0.1.0,NaN language support for Visual Studio Code: syntax highlighting for .nan files and nan code blocks in Markdown.
