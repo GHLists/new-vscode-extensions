@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 05:18 UTC
+## Latest list — 2026-10-24 06:20 UTC
 
-New extensions published between 2026-10-24 03:18 UTC and 2026-10-24 05:18 UTC.
+New extensions published between 2026-10-24 04:20 UTC and 2026-10-24 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T05-18-57-292664Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T06-20-59-604382Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 04:28:52 | [bumkom.bumeter](https://marketplace.visualstudio.com/items?itemName=bumkom.bumeter) | Bumeter | 0.1.0 | Claude Code, Kiro and OpenCode quota, context and token use in the status bar,… |
-| 2026-10-24 04:45:09 | [novel-forge.novel-forge](https://marketplace.visualstudio.com/items?itemName=novel-forge.novel-forge) | Novel Forge — 小说编辑器与工程整理 | 0.2.7 | 写长篇小说的编辑器：照正文自动整理每章细纲、角色卡、设定与剧情线，不用作者手动维护；也能用 AI 接着往下写。 |
-| 2026-10-24 04:47:23 | [LKKStuner.linkintree](https://marketplace.visualstudio.com/items?itemName=LKKStuner.linkintree) | LinkinTree | 1.0.0 | A lightweight kanban board for VS Code. |
-| 2026-10-24 04:47:36 | [venkateshkamat.meowter-cats](https://marketplace.visualstudio.com/items?itemName=venkateshkamat.meowter-cats) | Meowter: Cat Breaks | 1.0.2 | Pixel-art cats take over your editor when it's time for a break. |
-| 2026-10-24 04:55:58 | [bumbleb.bumbleb-acorn](https://marketplace.visualstudio.com/items?itemName=bumbleb.bumbleb-acorn) | BumbleB Acorn | 0.1.0 | Ask BumbleB Crunch about your data from your editor. |
-| 2026-10-24 05:02:07 | [ai-nexus-jp.vscode-structured-data-editor](https://marketplace.visualstudio.com/items?itemName=ai-nexus-jp.vscode-structured-data-editor) | Structured Data Editor | 0.1.0 | Edit Markdown tables visually in VS Code and apply changes safely back to the s… |
-| 2026-10-24 05:04:28 | [william0214.inline-diff-review](https://marketplace.visualstudio.com/items?itemName=william0214.inline-diff-review) | Inline Diff Review for Claude Code | 0.5.0 | 以 diff 編輯器（左右並排／上下排）或行內紅綠標示審查 Claude Code 的修改，逐段保留 / 復原，並在聊天視窗下方列出已變更檔案（類似 GitH… |
+| 2026-10-24 05:19:32 | [LKKStuner.linkintrees](https://marketplace.visualstudio.com/items?itemName=LKKStuner.linkintrees) | LinkinTrees | 1.0.0 | A lightweight Kanban board for Visual Studio Code. |
+| 2026-10-24 05:20:36 | [Necrotree.treefly-nugetia](https://marketplace.visualstudio.com/items?itemName=Necrotree.treefly-nugetia) | Treefly Nugetia | 1.0.35 | Native VS Code NuGet package browser and manager. |
+| 2026-10-24 05:28:06 | [LiveSocre-for-VSCode.livescore-vscode](https://marketplace.visualstudio.com/items?itemName=LiveSocre-for-VSCode.livescore-vscode) | LiveScore for VSCode - 足球/篮球实时比分 | 2.10.1 | Real-time football and basketball match scores with instant updates |
+| 2026-10-24 05:49:19 | [GurtejSingh1476.codeunderstander-gemini](https://marketplace.visualstudio.com/items?itemName=GurtejSingh1476.codeunderstander-gemini) | CodeUnderstander Gemini — AI Code Expla… | 1.2.0 | Understand any code in plain English directly in VS Code. Line-by-line breakdow… |
+| 2026-10-24 05:50:49 | [ZBXAPCY.cc-samples](https://marketplace.visualstudio.com/items?itemName=ZBXAPCY.cc-samples) | Competitive Companion Samples | 1.0.0 | Receive problems from Competitive Companion, manage samples, and test with one… |
+| 2026-10-24 06:16:53 | [OpenSwiftUIProject.openswiftui-preview](https://marketplace.visualstudio.com/items?itemName=OpenSwiftUIProject.openswiftui-preview) | OpenSwiftUI Preview | 0.1.0 | Run interactive OpenSwiftUI previews in native macOS and iOS Simulator windows. |
 
 ## Data source
 
