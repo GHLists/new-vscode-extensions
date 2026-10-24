@@ -12,17 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 02:20 UTC
+## Latest list — 2026-10-24 03:19 UTC
 
-New extensions published between 2026-10-24 00:20 UTC and 2026-10-24 02:20 UTC.
+New extensions published between 2026-10-24 01:19 UTC and 2026-10-24 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T02-20-41-960536Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T03-19-22-234032Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 01:23:11 | [CKinkadeDarling.red-rocks](https://marketplace.visualstudio.com/items?itemName=CKinkadeDarling.red-rocks) | Red Rocks | 0.2.0 | A dark southern Utah desert theme — sandstone, sagebrush, and juniper under a m… |
-| 2026-10-24 02:03:51 | [ztessema.monorepo-tools](https://marketplace.visualstudio.com/items?itemName=ztessema.monorepo-tools) | Monorepo Tools | 1.0.0 | A set of tools to help manage a monorepo |
-| 2026-10-24 02:05:59 | [AsmLens.asmlens](https://marketplace.visualstudio.com/items?itemName=AsmLens.asmlens) | AsmLens | 1.0.0 | Compiler Explorer inside your editor: see the assembly your real toolchain and… |
+| 2026-10-24 02:43:55 | [WanwuCLI.wanwu-cli](https://marketplace.visualstudio.com/items?itemName=WanwuCLI.wanwu-cli) | Wanwu CLI | 0.0.4 | 万物 - 多 Agent CLI 启动器与工作区检查点工具 |
+| 2026-10-24 02:57:05 | [guilletin63.vscode-gh-projects](https://marketplace.visualstudio.com/items?itemName=guilletin63.vscode-gh-projects) | Kanban for GitHub Projects | 0.0.3 | GitHub Projects (v2) boards inside VS Code: columns by Status, drag & drop, fil… |
 
 ## Data source
 
