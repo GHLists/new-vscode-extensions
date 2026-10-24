@@ -12,16 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 04:18 UTC
+## Latest list — 2026-10-24 05:18 UTC
 
-New extensions published between 2026-10-24 02:18 UTC and 2026-10-24 04:18 UTC.
+New extensions published between 2026-10-24 03:18 UTC and 2026-10-24 05:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T04-18-47-976282Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T05-18-57-292664Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 03:33:23 | [KirkTolleshaug.FileGridOpen](https://marketplace.visualstudio.com/items?itemName=KirkTolleshaug.FileGridOpen) | File Grid Open | 1.0.1 | Open a configured set of files side by side, with layout you control |
-| 2026-10-24 04:03:21 | [Keyveve.veqen-cost-lens](https://marketplace.visualstudio.com/items?itemName=Keyveve.veqen-cost-lens) | Veqen AI Cost Lens | 0.1.0 | See AI model prices as you code. Hover a model name or find the models in your… |
+| 2026-10-24 04:28:52 | [bumkom.bumeter](https://marketplace.visualstudio.com/items?itemName=bumkom.bumeter) | Bumeter | 0.1.0 | Claude Code, Kiro and OpenCode quota, context and token use in the status bar,… |
+| 2026-10-24 04:45:09 | [novel-forge.novel-forge](https://marketplace.visualstudio.com/items?itemName=novel-forge.novel-forge) | Novel Forge — 小说编辑器与工程整理 | 0.2.7 | 写长篇小说的编辑器：照正文自动整理每章细纲、角色卡、设定与剧情线，不用作者手动维护；也能用 AI 接着往下写。 |
+| 2026-10-24 04:47:23 | [LKKStuner.linkintree](https://marketplace.visualstudio.com/items?itemName=LKKStuner.linkintree) | LinkinTree | 1.0.0 | A lightweight kanban board for VS Code. |
+| 2026-10-24 04:47:36 | [venkateshkamat.meowter-cats](https://marketplace.visualstudio.com/items?itemName=venkateshkamat.meowter-cats) | Meowter: Cat Breaks | 1.0.2 | Pixel-art cats take over your editor when it's time for a break. |
+| 2026-10-24 04:55:58 | [bumbleb.bumbleb-acorn](https://marketplace.visualstudio.com/items?itemName=bumbleb.bumbleb-acorn) | BumbleB Acorn | 0.1.0 | Ask BumbleB Crunch about your data from your editor. |
+| 2026-10-24 05:02:07 | [ai-nexus-jp.vscode-structured-data-editor](https://marketplace.visualstudio.com/items?itemName=ai-nexus-jp.vscode-structured-data-editor) | Structured Data Editor | 0.1.0 | Edit Markdown tables visually in VS Code and apply changes safely back to the s… |
+| 2026-10-24 05:04:28 | [william0214.inline-diff-review](https://marketplace.visualstudio.com/items?itemName=william0214.inline-diff-review) | Inline Diff Review for Claude Code | 0.5.0 | 以 diff 編輯器（左右並排／上下排）或行內紅綠標示審查 Claude Code 的修改，逐段保留 / 復原，並在聊天視窗下方列出已變更檔案（類似 GitH… |
 
 ## Data source
 

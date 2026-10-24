@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T04:28:52.52Z,bumkom.bumeter,bumkom,Bumeter,0.1.0,"Claude Code, Kiro and OpenCode quota, context and token use in the status bar, and which files your agents keep reading. Local only."
+2026-10-24T04:45:09.36Z,novel-forge.novel-forge,novel-forge,Novel Forge — 小说编辑器与工程整理,0.2.7,写长篇小说的编辑器：照正文自动整理每章细纲、角色卡、设定与剧情线，不用作者手动维护；也能用 AI 接着往下写。
+2026-10-24T04:47:23.92Z,LKKStuner.linkintree,LKKStuner,LinkinTree,1.0.0,A lightweight kanban board for VS Code.
+2026-10-24T04:47:36.493Z,venkateshkamat.meowter-cats,venkateshkamat,Meowter: Cat Breaks,1.0.2,Pixel-art cats take over your editor when it's time for a break.
+2026-10-24T04:55:58.703Z,bumbleb.bumbleb-acorn,bumbleb,BumbleB Acorn,0.1.0,Ask BumbleB Crunch about your data from your editor.
+2026-10-24T05:02:07.543Z,ai-nexus-jp.vscode-structured-data-editor,ai-nexus-jp,Structured Data Editor,0.1.0,Edit Markdown tables visually in VS Code and apply changes safely back to the source file.
+2026-10-24T05:04:28.6Z,william0214.inline-diff-review,william0214,Inline Diff Review for Claude Code,0.5.0,以 diff 編輯器（左右並排／上下排）或行內紅綠標示審查 Claude Code 的修改，逐段保留 / 復原，並在聊天視窗下方列出已變更檔案（類似 GitHub Copilot）
