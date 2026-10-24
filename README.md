@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 15:18 UTC
+## Latest list — 2026-10-24 16:20 UTC
 
-New extensions published between 2026-10-24 13:18 UTC and 2026-10-24 15:18 UTC.
+New extensions published between 2026-10-24 14:20 UTC and 2026-10-24 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T15-18-47-959208Z.csv)
+[Full CSV](data/new-extensions-2026-10-24T16-20-08-672182Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 14:18:01 | [flightcoders.veyra-pets](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-pets) | Pets Veyra | 1.0.0 | Cute pets that live in VS Code: a cat, dog, fox, bunny or panda that walks, nap… |
-| 2026-10-24 14:20:05 | [Siveing.jin-cute-theme](https://marketplace.visualstudio.com/items?itemName=Siveing.jin-cute-theme) | Jin Cute Theme | 0.2.0 | A cute pink color theme for VS Code: true black dark mode and soft blush light… |
-| 2026-10-24 14:33:15 | [AvinashShinde.dev-companion-assistant](https://marketplace.visualstudio.com/items?itemName=AvinashShinde.dev-companion-assistant) | Dev Companion Assistant | 1.3.1 | All-in-one developer companion: Context-aware greetings, motivational thoughts,… |
-| 2026-10-24 14:40:44 | [0sc4.0sc4-moodyblues-dark](https://marketplace.visualstudio.com/items?itemName=0sc4.0sc4-moodyblues-dark) | 0scAutmn Theme | 0.0.1 | 0scAutmn Blue Dark Theme |
-| 2026-10-24 14:44:10 | [xiaomingio.neat-csv](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-csv) | Neat CSV - Spreadsheet Editor | 0.1.1 | Open large CSV and TSV files quickly. Edit in a spreadsheet, or use aligned, co… |
-| 2026-10-24 14:50:11 | [agentroom.agentroom](https://marketplace.visualstudio.com/items?itemName=agentroom.agentroom) | AgentRoom — AI team group chat | 0.14.4 | Several AI workers (Claude Code / Codex), each with its own role, working toget… |
-| 2026-10-24 14:52:10 | [lale.pijul-vscode](https://marketplace.visualstudio.com/items?itemName=lale.pijul-vscode) | Pijul for VS Code | 0.0.3 | Pijul source control integration for Visual Studio Code |
-| 2026-10-24 15:02:02 | [bumkom.bumeter-claude-usage](https://marketplace.visualstudio.com/items?itemName=bumkom.bumeter-claude-usage) | Claude Code Usage — Quota & Context in… | 0.2.0 | Your Claude Code 5-hour and weekly quota, reset times and this workspace's cont… |
+| 2026-10-24 15:23:34 | [williamoconnor.service-fabric-tools](https://marketplace.visualstudio.com/items?itemName=williamoconnor.service-fabric-tools) | Service Fabric Tools | 1.2.0 | Author, build, package, publish and debug Azure Service Fabric applications (.s… |
+| 2026-10-24 15:23:35 | [Lumina-IDE.theme-lumina-gruvbox](https://marketplace.visualstudio.com/items?itemName=Lumina-IDE.theme-lumina-gruvbox) | Lumina Gruvbox Collection | 1.0.0 | Harmonious Gruvbox color themes for Lumina IDE & VS Code — refined for zero vis… |
+| 2026-10-24 15:39:45 | [Xbmkoo.cpp-microsoft-c-cpp-extension-hint-promote-info](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.cpp-microsoft-c-cpp-extension-hint-promote-info) | C++ Microsoft C/C++ extension Hint 提升 | 0.0.1 | 将 Microsoft C/C++ extension 插件 Hint 提示提升到 Info |
+| 2026-10-24 15:43:50 | [bumkom.bumeter-claude-skills](https://marketplace.visualstudio.com/items?itemName=bumkom.bumeter-claude-skills) | Claude Code Skills Manager — Install, E… | 0.1.0 | See every Claude Code (and Kiro) skill you have, how often each is used and wha… |
+| 2026-10-24 16:12:21 | [siddhantmedar.pitch-dark-theme](https://marketplace.visualstudio.com/items?itemName=siddhantmedar.pitch-dark-theme) | Pitch Dark | 1.0.0 | A pure black theme with cyan accents and a matching terminal palette. Easy on t… |
 
 ## Data source
 
