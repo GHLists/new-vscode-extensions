@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T14:32:50.857Z,bigdatacloud.ai-workspaces,bigdatacloud,AI Workspaces,0.1.0,"Manage global workspaces of terminals — auto-save state, restore terminals, and resume Claude Code sessions right where you left off"
+2026-10-25T15:12:33.797Z,leekh.pdf2note,leekh,PDF2Note,0.1.0,"Add a ruled note area and a header to PDF pages (also converts .ipynb/.md first via Ipynb PDF Converter). Password protection, teacher mode."
+2026-10-25T15:15:58.143Z,NostraDavid.nostradavid-dotenv,NostraDavid,DotENV by NostraDavid,1.0.0,"Syntax highlighting for environment files, with tested quote, comment, assignment, and interpolation rules."
+2026-10-25T15:16:59.623Z,DHeaven.sktestlab,DHeaven,SkTestLab — Skript Testing & Diagnostics,1.0.0,Write. Test. Debug. Perfect. Skript diagnostics and native offline and isolated Paper testing.

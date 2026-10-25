@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 14:20 UTC
+## Latest list — 2026-10-25 15:20 UTC
 
-New extensions published between 2026-10-25 12:20 UTC and 2026-10-25 14:20 UTC.
+New extensions published between 2026-10-25 13:20 UTC and 2026-10-25 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T14-20-22-942859Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T15-20-26-230414Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 13:13:50 | [goddch.mybatis-lint](https://marketplace.visualstudio.com/items?itemName=goddch.mybatis-lint) | MyBatis Lint | 0.1.0 | Static analysis diagnostics for MyBatis mapper XML files. |
-| 2026-10-25 13:16:44 | [sarathakur.codestash-lab](https://marketplace.visualstudio.com/items?itemName=sarathakur.codestash-lab) | code runnnnnerrrrr | 0.0.1 | Save your own code snippets and insert them anywhere. Includes ready-made telec… |
-| 2026-10-25 13:24:55 | [bitoesposito.htmlemmurt](https://marketplace.visualstudio.com/items?itemName=bitoesposito.htmlemmurt) | htmlemmurt: HTML in napoletano | 0.1.1 | HTML in napoletano: colori, snippet, completamento ed errori mentre scrivi |
-| 2026-10-25 13:30:28 | [bitman.dictate-with-macwhisper](https://marketplace.visualstudio.com/items?itemName=bitman.dictate-with-macwhisper) | Dictate with MacWhisper | 0.2.2 | Press a key, speak, and the words land at your cursor. Local dictation for VS C… |
-| 2026-10-25 13:30:35 | [AlanForester.remote-llm-gateway](https://marketplace.visualstudio.com/items?itemName=AlanForester.remote-llm-gateway) | Remote LLM Gateway | 0.1.2 | Чат с Remote LLM Gateway. Проект остаётся локально, агент работает на шлюзе, пр… |
-| 2026-10-25 13:33:22 | [ms-vs-extensions.vssm-md](https://marketplace.visualstudio.com/items?itemName=ms-vs-extensions.vssm-md) | vssm-md | 1.1.0 | 苏木的vscode扩展Markdown所见即所得编辑器 |
-| 2026-10-25 14:03:52 | [u-na-gi.comment-note](https://marketplace.visualstudio.com/items?itemName=u-na-gi.comment-note) | Comment Note | 0.0.2 | Add GitHub-style review comments to code selections, then list and copy them |
+| 2026-10-25 14:32:50 | [bigdatacloud.ai-workspaces](https://marketplace.visualstudio.com/items?itemName=bigdatacloud.ai-workspaces) | AI Workspaces | 0.1.0 | Manage global workspaces of terminals — auto-save state, restore terminals, and… |
+| 2026-10-25 15:12:33 | [leekh.pdf2note](https://marketplace.visualstudio.com/items?itemName=leekh.pdf2note) | PDF2Note | 0.1.0 | Add a ruled note area and a header to PDF pages (also converts .ipynb/.md first… |
+| 2026-10-25 15:15:58 | [NostraDavid.nostradavid-dotenv](https://marketplace.visualstudio.com/items?itemName=NostraDavid.nostradavid-dotenv) | DotENV by NostraDavid | 1.0.0 | Syntax highlighting for environment files, with tested quote, comment, assignme… |
+| 2026-10-25 15:16:59 | [DHeaven.sktestlab](https://marketplace.visualstudio.com/items?itemName=DHeaven.sktestlab) | SkTestLab — Skript Testing & Diagnostics | 1.0.0 | Write. Test. Debug. Perfect. Skript diagnostics and native offline and isolated… |
 
 ## Data source
 
