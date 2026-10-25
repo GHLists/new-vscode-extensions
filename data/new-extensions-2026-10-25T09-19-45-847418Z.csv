@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T08:16:35.827Z,TattooedGeek.asyncmaster,TattooedGeek,ASyncMaster,2.1.0,"Fast-forward main or master, in parallel, for every workspace repository already on that branch."
+2026-10-25T08:22:41.333Z,jenna-studio.pastel-candy,jenna-studio,Pastel Candy,1.0.1,"A joyful five-color light theme: sky-blue sidebars, lavender tabs, pink chrome, mint status, butter-yellow terminal, and readable Dracula-inspired syntax without red."
+2026-10-25T08:38:40.393Z,orieljs.orieljs,orieljs,OrielJS,0.1.0,"Completions, hovers, go-to-definition and warnings for the strings Oriel reads, fresh route and page types, and the oriel CLI in the command palette."
+2026-10-25T08:38:44.217Z,spharshid.i18n-ai-translate-sync,spharshid,i18n AI Translate & Sync,0.1.0,"Keeps every locale file in sync and translates new or changed i18n strings with an AI model (GitHub Copilot or any OpenAI-compatible endpoint), using your product glossary for accurate, review-ready translations."
+2026-10-25T08:39:00.707Z,r-seize.tetrix,r-seize,Tetrix - Break Timer,0.1.0,A mini Tetris game built into VS Code to force real breaks between two coding rushes.
+2026-10-25T09:11:30.947Z,gykjw.v-formatter,gykjw,Verilog/SystemVerilog Formatter,0.1.0,"Format .v/.sv files: indent, keyword spacing, operator spacing, comment preservation"
+2026-10-25T09:12:51.563Z,Shivexa.nova-terminal-shivexa,Shivexa,NOVA Terminal by Shivexa,1.0.0,"NOVA Terminal is a powerful developer toolkit for VS Code featuring one-click setup, automatic installation and updates, Python support, Node.js project scaffolding, C/C++ compile and run, custom commands, and streamlined development workflows."

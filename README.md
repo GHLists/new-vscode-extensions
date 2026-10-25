@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 08:19 UTC
+## Latest list — 2026-10-25 09:19 UTC
 
-New extensions published between 2026-10-25 06:19 UTC and 2026-10-25 08:19 UTC.
+New extensions published between 2026-10-25 07:19 UTC and 2026-10-25 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T08-19-28-409563Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T09-19-45-847418Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 07:14:20 | [megabrain.code-factory](https://marketplace.visualstudio.com/items?itemName=megabrain.code-factory) | MegaBrain Code Factory — AI Coding Agent | 7.4.18 | AI coding agent that plans, writes, reviews and ships code in VS Code. Free wit… |
-| 2026-10-25 07:38:01 | [Kabaforce.kabalang](https://marketplace.visualstudio.com/items?itemName=Kabaforce.kabalang) | KabaLang | 1.1.1 | KabaLang programlama dili desteği: renklendirme, kod zekâsı, hata denetimi ve t… |
-| 2026-10-25 07:41:27 | [DexterNova.nova-language-dex](https://marketplace.visualstudio.com/items?itemName=DexterNova.nova-language-dex) | DexterNova Nova Language | 0.1.1 | Syntax highlighting, file icons, and a color theme for Nova source files. |
-| 2026-10-25 07:54:26 | [jbaehova.markhov](https://marketplace.visualstudio.com/items?itemName=jbaehova.markhov) | Markhov | 0.1.0 | A quiet, minimal live preview editor for Markdown. Formatting renders as you ty… |
-| 2026-10-25 08:08:09 | [AnanthapadmanabhanM.SafePHP](https://marketplace.visualstudio.com/items?itemName=AnanthapadmanabhanM.SafePHP) | SafePHP - PHP Security Guard | 0.2.0 | Local-first PHP security checks for runtime versions, configuration, Composer a… |
+| 2026-10-25 08:16:35 | [TattooedGeek.asyncmaster](https://marketplace.visualstudio.com/items?itemName=TattooedGeek.asyncmaster) | ASyncMaster | 2.1.0 | Fast-forward main or master, in parallel, for every workspace repository alread… |
+| 2026-10-25 08:22:41 | [jenna-studio.pastel-candy](https://marketplace.visualstudio.com/items?itemName=jenna-studio.pastel-candy) | Pastel Candy | 1.0.1 | A joyful five-color light theme: sky-blue sidebars, lavender tabs, pink chrome,… |
+| 2026-10-25 08:38:40 | [orieljs.orieljs](https://marketplace.visualstudio.com/items?itemName=orieljs.orieljs) | OrielJS | 0.1.0 | Completions, hovers, go-to-definition and warnings for the strings Oriel reads,… |
+| 2026-10-25 08:38:44 | [spharshid.i18n-ai-translate-sync](https://marketplace.visualstudio.com/items?itemName=spharshid.i18n-ai-translate-sync) | i18n AI Translate & Sync | 0.1.0 | Keeps every locale file in sync and translates new or changed i18n strings with… |
+| 2026-10-25 08:39:00 | [r-seize.tetrix](https://marketplace.visualstudio.com/items?itemName=r-seize.tetrix) | Tetrix - Break Timer | 0.1.0 | A mini Tetris game built into VS Code to force real breaks between two coding r… |
+| 2026-10-25 09:11:30 | [gykjw.v-formatter](https://marketplace.visualstudio.com/items?itemName=gykjw.v-formatter) | Verilog/SystemVerilog Formatter | 0.1.0 | Format .v/.sv files: indent, keyword spacing, operator spacing, comment preserv… |
+| 2026-10-25 09:12:51 | [Shivexa.nova-terminal-shivexa](https://marketplace.visualstudio.com/items?itemName=Shivexa.nova-terminal-shivexa) | NOVA Terminal by Shivexa | 1.0.0 | NOVA Terminal is a powerful developer toolkit for VS Code featuring one-click s… |
 
 ## Data source
 
