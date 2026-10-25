@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 02:19 UTC
+## Latest list — 2026-10-25 03:20 UTC
 
-New extensions published between 2026-10-25 00:19 UTC and 2026-10-25 02:19 UTC.
+New extensions published between 2026-10-25 01:20 UTC and 2026-10-25 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T02-19-17-424643Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T03-20-17-745259Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 01:18:47 | [MatthewGadsden.tokyo-snow-vs](https://marketplace.visualstudio.com/items?itemName=MatthewGadsden.tokyo-snow-vs) | Tokyo Snow | 1.1.0 | A warm, dark VS Code theme sampled from a snowy Tokyo alley at night: lit vendi… |
-| 2026-10-25 01:30:21 | [cgzhong17.astoryx-language-tools](https://marketplace.visualstudio.com/items?itemName=cgzhong17.astoryx-language-tools) | AStoryX Language Tools | 0.1.1 | AStoryX 规则驱动补全、参数提示与静态检查 |
-| 2026-10-25 01:33:46 | [koubeyapurin.hitoiki](https://marketplace.visualstudio.com/items?itemName=koubeyapurin.hitoiki) | ひといき | 1.0.0 | AI と一緒に開発する作業の中身(コマンドやテストの失敗、まとまった挿入、ファイルの切替)から脳にかかる負担の目安をため、区切りのいいところでひと休みを提案し… |
-| 2026-10-25 01:38:52 | [jlumbroso.keyhole](https://marketplace.visualstudio.com/items?itemName=jlumbroso.keyhole) | Keyhole | 0.1.0 | Set a secret in your project's .env — it never passes through a model or a chat. |
-| 2026-10-25 02:03:54 | [DawnTask.dawntask](https://marketplace.visualstudio.com/items?itemName=DawnTask.dawntask) | DawnTask | 1.0.0 | DawnTask lightweight developer task and workflow placeholder by DawnTask. |
+| 2026-10-25 02:23:01 | [miroslav-matejovsky.at-path](https://marketplace.visualstudio.com/items?itemName=miroslav-matejovsky.at-path) | At Path | 0.2.0 | Type @ in an untitled or Markdown document to insert a workspace file or folder… |
+| 2026-10-25 02:28:28 | [masanori-satake.structmap-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.structmap-solo) | StructMap-Solo | 1.0.1 | Local-First, Privacy-First structure visualizer for Markdown, JSON, and YAML wi… |
+| 2026-10-25 02:30:41 | [TaskJoin.taskjoin](https://marketplace.visualstudio.com/items?itemName=TaskJoin.taskjoin) | TaskJoin | 1.0.0 | TaskJoin lightweight developer collaboration and task placeholder by taskjoin. |
+| 2026-10-25 02:40:11 | [Ricra.ricra-theme](https://marketplace.visualstudio.com/items?itemName=Ricra.ricra-theme) | Ricra Theme | 1.0.1 | Colección de temas de color para Visual Studio Code, con variantes clara, oscur… |
+| 2026-10-25 02:40:33 | [thuyennv.opencode-gui-chat](https://marketplace.visualstudio.com/items?itemName=thuyennv.opencode-gui-chat) | OpenCode GUI Chat | 1.0.0 | General-purpose agentic AI assistant for VS Code with a native chat UI, file an… |
+| 2026-10-25 02:41:10 | [Markers.markersboard](https://marketplace.visualstudio.com/items?itemName=Markers.markersboard) | MarkersBoard — Visual Kanban & Task Man… | 2.2.3 | Visual Kanban task orchestration, code bookmarks, and workflow tracking for Vis… |
+| 2026-10-25 02:43:10 | [starktask.starktask](https://marketplace.visualstudio.com/items?itemName=starktask.starktask) | StarkTask — Visual Kanban Board & Task… | 1.0.0 | Visual Kanban task orchestration, sprint management, and automated workflow tra… |
+| 2026-10-25 02:47:43 | [LogicFalcon.logicfalcon-vscode](https://marketplace.visualstudio.com/items?itemName=LogicFalcon.logicfalcon-vscode) | LogicFalcon | 0.2.0 | Fast, precise engineering intelligence, deterministic code review, and automate… |
+| 2026-10-25 03:00:46 | [zhifeiya.copilot-model-config-assistant](https://marketplace.visualstudio.com/items?itemName=zhifeiya.copilot-model-config-assistant) | Copilot模型配置助手 | 0.0.6 | 无需先登录GitHub Copilot，即可从兼容OpenAI格式的API获取模型并直接写入Copilot自定义模型配置。 |
 
 ## Data source
 

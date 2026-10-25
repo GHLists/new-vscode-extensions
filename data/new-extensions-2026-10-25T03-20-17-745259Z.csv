@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T02:23:01.993Z,miroslav-matejovsky.at-path,miroslav-matejovsky,At Path,0.2.0,"Type @ in an untitled or Markdown document to insert a workspace file or folder path, filtered like Ctrl+P."
+2026-10-25T02:28:28.69Z,masanori-satake.structmap-solo,masanori-satake,StructMap-Solo,1.0.1,"Local-First, Privacy-First structure visualizer for Markdown, JSON, and YAML without AI."
+2026-10-25T02:30:41.627Z,TaskJoin.taskjoin,TaskJoin,TaskJoin,1.0.0,TaskJoin lightweight developer collaboration and task placeholder by taskjoin.
+2026-10-25T02:40:11.507Z,Ricra.ricra-theme,Ricra,Ricra Theme,1.0.1,"Colección de temas de color para Visual Studio Code, con variantes clara, oscura y de alto contraste."
+2026-10-25T02:40:33.743Z,thuyennv.opencode-gui-chat,thuyennv,OpenCode GUI Chat,1.0.0,"General-purpose agentic AI assistant for VS Code with a native chat UI, file and shell tools, multi-workspace support, MCP integrations, reusable skills and OpenCode CLI session history."
+2026-10-25T02:41:10.393Z,Markers.markersboard,Markers,MarkersBoard — Visual Kanban & Task Manager,2.2.3,"Visual Kanban task orchestration, code bookmarks, and workflow tracking for Visual Studio Code."
+2026-10-25T02:43:10.87Z,starktask.starktask,starktask,StarkTask — Visual Kanban Board & Task Orchestrator,1.0.0,"Visual Kanban task orchestration, sprint management, and automated workflow tracking for Visual Studio Code."
+2026-10-25T02:47:43.63Z,LogicFalcon.logicfalcon-vscode,LogicFalcon,LogicFalcon,0.2.0,"Fast, precise engineering intelligence, deterministic code review, and automated fixes. Powered by AEGIS AI."
+2026-10-25T03:00:46.597Z,zhifeiya.copilot-model-config-assistant,zhifeiya,Copilot模型配置助手,0.0.6,无需先登录GitHub Copilot，即可从兼容OpenAI格式的API获取模型并直接写入Copilot自定义模型配置。
