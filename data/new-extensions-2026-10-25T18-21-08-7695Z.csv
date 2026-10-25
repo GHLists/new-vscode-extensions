@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T17:16:12.67Z,lldeters.kiro-studio,lldeters,Kiro Studio,0.1.0,"Unofficial graphical front end for the locally installed Kiro CLI, built on the Agent Client Protocol. Not affiliated with AWS or Kiro."
+2026-10-25T17:26:03.86Z,skatromb.navigate-theme,skatromb,Navigate,0.2.0,Color theme that helps you navigate through the code
+2026-10-25T17:29:47.41Z,AyushKumarPatel.codetown,AyushKumarPatel,CodeTown,0.2.4,"Explore your codebase as a living isometric city — files become buildings, imports connect districts, diagnostics light up the skyline."
+2026-10-25T17:49:43.46Z,iecode.iecode,iecode,IECode – Structured Text for TwinCAT,0.1.0,"Structured Text for TwinCAT in VS Code: edit .TcPOU/.TcDUT/.TcGVL/.TcIO as plain ST, browse and extend PLC projects, workspaces with libraries and applications, build and deploy with the iecode CLI."
+2026-10-25T18:09:18.97Z,gs-tech-br.timeon-chat,gs-tech-br,TimeOn Chat,2.0.0,Chat do TimeOn na nuvem integrado ao VS Code.

@@ -12,29 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 17:19 UTC
+## Latest list — 2026-10-25 18:21 UTC
 
-New extensions published between 2026-10-25 15:19 UTC and 2026-10-25 17:19 UTC.
+New extensions published between 2026-10-25 16:21 UTC and 2026-10-25 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T17-19-42-539128Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T18-21-08-7695Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 16:19:27 | [kolaos.kolaos-workstation](https://marketplace.visualstudio.com/items?itemName=kolaos.kolaos-workstation) | KolaOS Workstation | 0.1.0 | Discussions, services and previews in your KolaOS workstation. |
-| 2026-10-25 16:21:21 | [kolaos.kolaos](https://marketplace.visualstudio.com/items?itemName=kolaos.kolaos) | KolaOS | 0.1.0 | Connect to your KolaOS workstations. |
-| 2026-10-25 16:23:57 | [dream101.dream](https://marketplace.visualstudio.com/items?itemName=dream101.dream) | YouDream | 0.0.2 | Open the complete contents of a selected text file in a clean Dream tab. |
-| 2026-10-25 16:29:07 | [gaomd.gaogrid](https://marketplace.visualstudio.com/items?itemName=gaomd.gaogrid) | GaoGrid | 0.2.0 | Terminal-first workspace manager for the Secondary Sidebar. |
-| 2026-10-25 16:29:34 | [SBrophy-dev.vs-flow-designer](https://marketplace.visualstudio.com/items?itemName=SBrophy-dev.vs-flow-designer) | VS Flow Designer | 0.0.1 | Visualize and edit Amazon Connect contact flows inside VS Code. Import and expo… |
-| 2026-10-25 16:30:41 | [SameerGarg.aegis-api-sentinel](https://marketplace.visualstudio.com/items?itemName=SameerGarg.aegis-api-sentinel) | AEGIS API Sentinel | 0.0.1 | Black-box API security scanner with score, graphs, and test results |
-| 2026-10-25 16:36:39 | [Oddiss.diff-branch](https://marketplace.visualstudio.com/items?itemName=Oddiss.diff-branch) | Diff Branch | 1.0.2 | Review changes across your Git branch, including committed work, with a changed… |
-| 2026-10-25 16:40:09 | [vDesign.vdesign](https://marketplace.visualstudio.com/items?itemName=vDesign.vdesign) | vDesign | 0.2.0 | View vDesign (.vd) designs in VS Code: a live preview of every page, the pages… |
-| 2026-10-25 16:40:13 | [SaiKiranYarabarla.pr-slicer](https://marketplace.visualstudio.com/items?itemName=SaiKiranYarabarla.pr-slicer) | PR Slicer | 0.1.0 | Plan dependency-aware Git commits and split large changes into reviewable, size… |
-| 2026-10-25 16:46:34 | [NurmukhanbetRakhimbayev.git-merge-studio](https://marketplace.visualstudio.com/items?itemName=NurmukhanbetRakhimbayev.git-merge-studio) | Git Merge Studio | 0.1.0 | PyCharm-style Git log, commit inspection, cherry-pick/rebase/merge and a 3-pane… |
-| 2026-10-25 16:47:12 | [binapps.mdghosttables](https://marketplace.visualstudio.com/items?itemName=binapps.mdghosttables) | Markdown Ghost Tables | 0.3.2 | Compact markdown tables that still look aligned: virtual (ghost) column alignme… |
-| 2026-10-25 16:47:44 | [Kawalir.typescript-factory](https://marketplace.visualstudio.com/items?itemName=Kawalir.typescript-factory) | TypeScript Factory | 1.0.0 | Create TypeScript items with ease |
-| 2026-10-25 16:53:49 | [xzyk.bee-code](https://marketplace.visualstudio.com/items?itemName=xzyk.bee-code) | Bee Code | 1.0.0 | BYO-model coding agent for VS Code: three modes, per-file proposal approval, bu… |
-| 2026-10-25 16:57:44 | [AucoinStatsInc.lc3tools](https://marketplace.visualstudio.com/items?itemName=AucoinStatsInc.lc3tools) | LC3Tools | 0.0.1 | Provides support for the LC-3 ISA Assembly language and bundles a Wasm version… |
-| 2026-10-25 17:05:15 | [aardvarklabs.business-central-explorer](https://marketplace.visualstudio.com/items?itemName=aardvarklabs.business-central-explorer) | Business Central Explorer | 0.2.17 | Explore Business Central AL dependencies, objects, and integration events. |
+| 2026-10-25 17:16:12 | [lldeters.kiro-studio](https://marketplace.visualstudio.com/items?itemName=lldeters.kiro-studio) | Kiro Studio | 0.1.0 | Unofficial graphical front end for the locally installed Kiro CLI, built on the… |
+| 2026-10-25 17:26:03 | [skatromb.navigate-theme](https://marketplace.visualstudio.com/items?itemName=skatromb.navigate-theme) | Navigate | 0.2.0 | Color theme that helps you navigate through the code |
+| 2026-10-25 17:29:47 | [AyushKumarPatel.codetown](https://marketplace.visualstudio.com/items?itemName=AyushKumarPatel.codetown) | CodeTown | 0.2.4 | Explore your codebase as a living isometric city — files become buildings, impo… |
+| 2026-10-25 17:49:43 | [iecode.iecode](https://marketplace.visualstudio.com/items?itemName=iecode.iecode) | IECode – Structured Text for TwinCAT | 0.1.0 | Structured Text for TwinCAT in VS Code: edit .TcPOU/.TcDUT/.TcGVL/.TcIO as plai… |
+| 2026-10-25 18:09:18 | [gs-tech-br.timeon-chat](https://marketplace.visualstudio.com/items?itemName=gs-tech-br.timeon-chat) | TimeOn Chat | 2.0.0 | Chat do TimeOn na nuvem integrado ao VS Code. |
 
 ## Data source
 
