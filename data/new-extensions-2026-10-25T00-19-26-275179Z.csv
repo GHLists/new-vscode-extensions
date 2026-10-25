@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-24T23:32:05.073Z,acstride.codeforces-workbench,acstride,Codeforces Workbench,0.1.0,"Import Codeforces contests and problems, write solutions, run tests, and track submissions in VS Code."
+2026-10-24T23:44:31.163Z,MundoiMilazzo.sap-workbench-color-theme,MundoiMilazzo,SAP Workbench,0.1.5,SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very experimental!
+2026-10-24T23:50:35.177Z,rafaelrbravo.gitnote-auto-merge,rafaelrbravo,GitNoteAutoMerge,0.2.0,Save-triggered Git synchronization with safe automatic merge retries
+2026-10-25T00:08:47.64Z,DisLoPik.auric,DisLoPik,Auric,0.1.0,"Auric language support for AuroraOS: syntax coloring, live error checking, hover docs, autocomplete, snippets, and aurc build commands for .aur files."

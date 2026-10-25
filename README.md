@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-24 23:20 UTC
+## Latest list — 2026-10-25 00:19 UTC
 
-New extensions published between 2026-10-24 21:20 UTC and 2026-10-24 23:20 UTC.
+New extensions published between 2026-10-24 22:19 UTC and 2026-10-25 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-24T23-20-55-837437Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T00-19-26-275179Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 22:24:22 | [seraph.dm-langclient-extender](https://marketplace.visualstudio.com/items?itemName=seraph.dm-langclient-extender) | DreamMaker Language Client Extender | 0.0.1 | Extends the functionality of the existing DM Language Client by SpaceManiac |
-| 2026-10-24 22:30:50 | [oxie-lang.oxie](https://marketplace.visualstudio.com/items?itemName=oxie-lang.oxie) | Oxie | 0.1.0 | Oxie language support: syntax highlighting, the Oxie language server (diagnosti… |
-| 2026-10-24 22:31:03 | [kelftlang.vscode-kelft](https://marketplace.visualstudio.com/items?itemName=kelftlang.vscode-kelft) | Kelft for VS Code | 0.1.3 | Kelft icons, Core and Intent editing, static completion, native checks, and bui… |
-| 2026-10-24 22:48:01 | [teddygavi.bem-ls](https://marketplace.visualstudio.com/items?itemName=teddygavi.bem-ls) | BEM for JSX & SCSS | 0.1.11 | BEM class checks, completion, navigation and SCSS ghost text for React componen… |
-| 2026-10-24 22:54:12 | [ZeqTech.zeqs-project-dashboard](https://marketplace.visualstudio.com/items?itemName=ZeqTech.zeqs-project-dashboard) | Zeq's Project Dashboard | 0.2.0 | A start page for VS Code that appears when no folder is open: jump back into re… |
-| 2026-10-24 23:16:24 | [Ricra.tea-green-theme](https://marketplace.visualstudio.com/items?itemName=Ricra.tea-green-theme) | Ricra Tea Green | 1.0.0 | Temas claro y oscuro en tonos crema, matcha y verde bosque para Visual Studio C… |
-| 2026-10-24 23:17:38 | [bholten.vscode-lcl](https://marketplace.visualstudio.com/items?itemName=bholten.vscode-lcl) | Lcl | 0.1.0 | Syntax highlighting and editing support for Lcl (Lexical Command Language) |
+| 2026-10-24 23:32:05 | [acstride.codeforces-workbench](https://marketplace.visualstudio.com/items?itemName=acstride.codeforces-workbench) | Codeforces Workbench | 0.1.0 | Import Codeforces contests and problems, write solutions, run tests, and track… |
+| 2026-10-24 23:44:31 | [MundoiMilazzo.sap-workbench-color-theme](https://marketplace.visualstudio.com/items?itemName=MundoiMilazzo.sap-workbench-color-theme) | SAP Workbench | 0.1.5 | SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very expe… |
+| 2026-10-24 23:50:35 | [rafaelrbravo.gitnote-auto-merge](https://marketplace.visualstudio.com/items?itemName=rafaelrbravo.gitnote-auto-merge) | GitNoteAutoMerge | 0.2.0 | Save-triggered Git synchronization with safe automatic merge retries |
+| 2026-10-25 00:08:47 | [DisLoPik.auric](https://marketplace.visualstudio.com/items?itemName=DisLoPik.auric) | Auric | 0.1.0 | Auric language support for AuroraOS: syntax coloring, live error checking, hove… |
 
 ## Data source
 
