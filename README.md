@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 12:20 UTC
+## Latest list — 2026-10-25 13:18 UTC
 
-New extensions published between 2026-10-25 10:20 UTC and 2026-10-25 12:20 UTC.
+New extensions published between 2026-10-25 11:18 UTC and 2026-10-25 13:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T12-20-21-096609Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T13-18-56-747092Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 11:25:00 | [readableresume.readable-resume-snippets](https://marketplace.visualstudio.com/items?itemName=readableresume.readable-resume-snippets) | ReadableResume Snippets | 1.0.0 | Snippets for the atsresume LaTeX class and the readable-classic Typst package,… |
-| 2026-10-25 11:39:58 | [domichung-wallpaper.wallpaper-sync-vscode](https://marketplace.visualstudio.com/items?itemName=domichung-wallpaper.wallpaper-sync-vscode) | Wallpaper to VS Code | 0.5.0 | ????? Wallpaper engines ?? VS Code ??? |
-| 2026-10-25 11:46:59 | [adgiz05.pdf-review-for-agents](https://marketplace.visualstudio.com/items?itemName=adgiz05.pdf-review-for-agents) | PDF Review for Coding Agents | 1.0.0 | Comment on a PDF in VS Code and hand the comments to your coding agent: one lin… |
-| 2026-10-25 12:00:56 | [BHA.vha-express-lang-engine-core](https://marketplace.visualstudio.com/items?itemName=BHA.vha-express-lang-engine-core) | BHA Express Code | 0.0.3 | Логика и структуры |
-| 2026-10-25 12:05:15 | [Aletyx.aletyx-lyx](https://marketplace.visualstudio.com/items?itemName=Aletyx.aletyx-lyx) | Aletyx Lyx | 0.0.26 | Your work at Aletyx inside VS Code: PRs, Journeys from PR to production, enviro… |
-| 2026-10-25 12:12:10 | [NostraDavid.nostradavid-todo-tree](https://marketplace.visualstudio.com/items?itemName=NostraDavid.nostradavid-todo-tree) | Todo Tree by NostraDavid | 1.0.0 | Find TODO and FIXME comments with ripgrep. A maintained Todo Tree fork by Nostr… |
+| 2026-10-25 12:19:37 | [maybesweta.flowerfall](https://marketplace.visualstudio.com/items?itemName=maybesweta.flowerfall) | Flowerfall | 0.3.1 | A 2-second sprinkle of pink flowers over your screen when a terminal command su… |
+| 2026-10-25 12:21:52 | [DarrenJMcLeod.cite-ledger](https://marketplace.visualstudio.com/items?itemName=DarrenJMcLeod.cite-ledger) | Cite Ledger — Citation & Retraction Che… | 0.1.0 | Flags retractions, corrections and expressions of concern recorded in Crossref,… |
+| 2026-10-25 12:24:00 | [honor-world.hwchat](https://marketplace.visualstudio.com/items?itemName=honor-world.hwchat) | HWChat | 0.1.0 | A secure coding agent for VS Code with DeepSeek, local skills, durable history… |
+| 2026-10-25 12:28:04 | [CustomforCopilot.custom-for-copilot](https://marketplace.visualstudio.com/items?itemName=CustomforCopilot.custom-for-copilot) | Custom for Copilot | 0.1.0 | Use any OpenAI-compatible model in Copilot Chat and the Agents window — your ow… |
+| 2026-10-25 12:30:51 | [nozyx12.candletools](https://marketplace.visualstudio.com/items?itemName=nozyx12.candletools) | Candle Tools for VS Code | 1.0.0 | Language support and development tools for Candle Assembly (CASM) |
+| 2026-10-25 12:34:01 | [Kobula.antigravity-argon-bridge](https://marketplace.visualstudio.com/items?itemName=Kobula.antigravity-argon-bridge) | Antigravity Argon Bridge | 1.0.1 | Google 4 Argon Reasoning Model Bridge for Antigravity & VS Code with multi-acco… |
+| 2026-10-25 12:57:24 | [pitva90.ftp-nativefs](https://marketplace.visualstudio.com/items?itemName=pitva90.ftp-nativefs) | FTP NativeFS | 1.0.0 | Native FTP and SFTP file system integration for VS Code workspaces |
+| 2026-10-25 13:04:35 | [bitoesposito.htmlemmurt-vscode](https://marketplace.visualstudio.com/items?itemName=bitoesposito.htmlemmurt-vscode) | htmlemmurt | 0.1.1 | HTML in napoletano: colori, snippet, completamento ed errori mentre scrivi |
 
 ## Data source
 
