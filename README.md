@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 00:19 UTC
+## Latest list — 2026-10-25 01:20 UTC
 
-New extensions published between 2026-10-24 22:19 UTC and 2026-10-25 00:19 UTC.
+New extensions published between 2026-10-24 23:20 UTC and 2026-10-25 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T00-19-26-275179Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T01-20-08-639665Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-24 23:32:05 | [acstride.codeforces-workbench](https://marketplace.visualstudio.com/items?itemName=acstride.codeforces-workbench) | Codeforces Workbench | 0.1.0 | Import Codeforces contests and problems, write solutions, run tests, and track… |
-| 2026-10-24 23:44:31 | [MundoiMilazzo.sap-workbench-color-theme](https://marketplace.visualstudio.com/items?itemName=MundoiMilazzo.sap-workbench-color-theme) | SAP Workbench | 0.1.5 | SAP like color theme for ABAP lovers who wants to code UI5 in VSCode. Very expe… |
-| 2026-10-24 23:50:35 | [rafaelrbravo.gitnote-auto-merge](https://marketplace.visualstudio.com/items?itemName=rafaelrbravo.gitnote-auto-merge) | GitNoteAutoMerge | 0.2.0 | Save-triggered Git synchronization with safe automatic merge retries |
-| 2026-10-25 00:08:47 | [DisLoPik.auric](https://marketplace.visualstudio.com/items?itemName=DisLoPik.auric) | Auric | 0.1.0 | Auric language support for AuroraOS: syntax coloring, live error checking, hove… |
+| 2026-10-25 00:23:12 | [jonwomack.stl-workbench](https://marketplace.visualstudio.com/items?itemName=jonwomack.stl-workbench) | STL Workbench | 0.0.3 | A fast, polished STL viewer built as a native VS Code custom editor. |
+| 2026-10-25 01:05:43 | [vascodagama.vasco-cruz-de-malta-3d](https://marketplace.visualstudio.com/items?itemName=vascodagama.vasco-cruz-de-malta-3d) | Vasco da Gama — Cruz de Malta | 0.1.0 | Tema do VS Code em preto, branco e vermelho, com a Cruz de Malta em 3D. Projeto… |
 
 ## Data source
 
