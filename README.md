@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 22:20 UTC
+## Latest list — 2026-10-25 23:19 UTC
 
-New extensions published between 2026-10-25 20:20 UTC and 2026-10-25 22:20 UTC.
+New extensions published between 2026-10-25 21:19 UTC and 2026-10-25 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T22-20-04-764747Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T23-19-19-64498Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 21:25:43 | [PERUN.studiograph](https://marketplace.visualstudio.com/items?itemName=PERUN.studiograph) | StudioGraph | 0.1.0 | Dependency graph, change impact analysis and pre-deployment checks for Salesfor… |
-| 2026-10-25 21:28:29 | [nokker.nokker-vscode](https://marketplace.visualstudio.com/items?itemName=nokker.nokker-vscode) | Nokker | 0.2.0 | Nokker Lokkal in VS Code: a coding session on the open folder, against the kern… |
-| 2026-10-25 21:45:22 | [thenabbu.bharatcode-vscode](https://marketplace.visualstudio.com/items?itemName=thenabbu.bharatcode-vscode) | BharatCode - AI coding agent for VS Code | 7.8.105 | BharatCode is an open source AI coding agent for VS Code: inline autocomplete,… |
-| 2026-10-25 21:49:53 | [ChristianOrrala.umber-calm](https://marketplace.visualstudio.com/items?itemName=ChristianOrrala.umber-calm) | Umber Calm | 0.2.1 | A warm, low-glare dark theme with measured contrast. |
-| 2026-10-25 22:05:29 | [yves0003.f4datadashb](https://marketplace.visualstudio.com/items?itemName=yves0003.f4datadashb) | F4Data Dashboards | 0.0.11 | Import, create and explore local data dashboards. |
+| 2026-10-25 22:31:40 | [luanblanco.language-pack-sol](https://marketplace.visualstudio.com/items?itemName=luanblanco.language-pack-sol) | solidity​​​​​​​​​​​​​​​​​​​​​​​ | 0.0.195 | Ethereum Solidity Language for Visual Studio Code |
+| 2026-10-25 22:43:28 | [codevisuals.code2uml](https://marketplace.visualstudio.com/items?itemName=codevisuals.code2uml) | Code2UML Studio | 0.1.0 | Code2UML turns source code into clear activity, class, state, and sequence diag… |
+| 2026-10-25 22:56:02 | [sonawanemayur.carrycontext](https://marketplace.visualstudio.com/items?itemName=sonawanemayur.carrycontext) | CarryContext | 0.2.0 | Compact AI coding sessions into a portable handoff.md and resume in any LLM pro… |
+| 2026-10-25 23:04:53 | [wrwrwr.devcont-local](https://marketplace.visualstudio.com/items?itemName=wrwrwr.devcont-local) | Dev Containers: Local Add-on | 0.0.1 | Merge local configuration with devcontainer.json. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T22:31:40.36Z,luanblanco.language-pack-sol,luanblanco,solidity​​​​​​​​​​​​​​​​​​​​​​​,0.0.195,Ethereum Solidity Language for Visual Studio Code
+2026-10-25T22:43:28.24Z,codevisuals.code2uml,codevisuals,Code2UML Studio,0.1.0,"Code2UML turns source code into clear activity, class, state, and sequence diagrams for engineering, documentation, and education."
+2026-10-25T22:56:02.847Z,sonawanemayur.carrycontext,sonawanemayur,CarryContext,0.2.0,"Compact AI coding sessions into a portable handoff.md and resume in any LLM provider (Claude Code, Codex, Gemini, Copilot, Cursor, ...)."
+2026-10-25T23:04:53.6Z,wrwrwr.devcont-local,wrwrwr,Dev Containers: Local Add-on,0.0.1,Merge local configuration with devcontainer.json.
