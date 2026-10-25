@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T15:18:03.57Z,NostraDavid.nostradavid-better-comments,NostraDavid,Better Comments by NostraDavid,1.0.0,Comment highlighting that distinguishes Python comments from strings. Existing better-comments.* settings remain supported.
+2026-10-25T15:18:54.527Z,AlanForester.remote-llm-gateway-2,AlanForester,Remote LLM Gateway 2,0.1.3,"Chat with Remote LLM Gateway. The project stays on your machine, the agent runs on the gateway, and edits come back to the editor."
+2026-10-25T15:19:31.28Z,dtrajano.deckbridge,dtrajano,DeckBridge — Unofficial Client for Agent Deck,0.2.1,"View, manage, and continue Agent Deck sessions from Visual Studio Code."
+2026-10-25T15:22:44.31Z,biosimulant.biosimulant-studio,biosimulant,Biosimulant,0.1.1,"Biosimulant Studio in VS Code: continue sessions with your agent, approve its proposals, see run results and work on Lab files."
+2026-10-25T15:28:08.363Z,NostraDavid.nostradavid-dotplan,NostraDavid,dotplan by NostraDavid,1.0.0,"Syntax highlighting for .plan files, with task, question, idea, command, debt, cleanup, and day markers."
+2026-10-25T15:28:11.71Z,GeneralChromodynamics.socrates-the-cat,GeneralChromodynamics,Socrates the Cat,0.1.0,"Layout-aware desktop cat for VS Code (Windows). Start, stop, and diagnostics for the native companion."
+2026-10-25T15:35:02.747Z,magneto3572.spotyy,magneto3572,Spotyy,0.0.7,"Spotify controls in your status bar, plus see what teammates on your Wi-Fi are listening to and focus together in Focus Rooms."
+2026-10-25T15:38:53.83Z,ZackOMARI.k-fluentpdf-designer-vscode,ZackOMARI,K.FluentPdf Designer for VS Code,0.1.9,Visual editing and live PDF preview for K.FluentPdf .kfpdf designs.
+2026-10-25T15:39:01.66Z,ErisInTheDark.dxlint,ErisInTheDark,dxlint,0.1.1,"dxlint diagnostics, fixes and formatting as you type, plus language support for .dx rule files"
+2026-10-25T15:43:09.747Z,ai-kido.kimono-rag-mcp,ai-kido,Kimono RAG MCP by AI-KIDO,0.6.4,Local project RAG and AI-KIDO MCP with embedded lexical and semantic search.
+2026-10-25T15:45:42.637Z,tinklingway.soap-bubble,tinklingway,Soap Bubble,0.0.1,"Six vivid light themes with a rainbow frame, for windows you only read: production code, vendored libraries, other people's repositories. Title bar, tabs, panel, side bar, activity bar and status bar each take one of six colors; each theme shifts the colors one zone along."
+2026-10-25T15:55:25.587Z,Regent.ytl,Regent,YTL,0.0.1,
+2026-10-25T16:02:17.727Z,luguza.ctun-publish-test,luguza,Ctun Publish Test,0.0.1,Placeholder to test publishing to the VS Code Marketplace. It does nothing useful.
+2026-10-25T16:10:01.197Z,kikutano.tinyprobe-vscode,kikutano,tinyprobe,0.2.1,"Explore endpoints and run tinyprobe API workflows from VS Code: validation as you save, one-click calls, results in the Test Explorer."
