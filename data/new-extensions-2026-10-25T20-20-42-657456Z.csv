@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T19:18:05.3Z,NeerajYadav9991.memstrata-cl1-workspace,NeerajYadav9991,MemStrata CL1 Workspace,0.1.0,"Opt-in scoped CL1 source inspection, readiness, correction, deletion and export."
+2026-10-25T19:45:09.71Z,ManavShrivastava.opencoder-ai-agent,ManavShrivastava,OpenCoder AI Agent,0.3.29,An AI Super agent for VS Code that works with any model.
+2026-10-25T20:02:14.51Z,celador.weft-agents,celador,Weft for Coding Agents,0.1.1,"Red squiggles for teams of coding agents: the live Weft feed, Editing now, diffs per event, squiggles linked to the edit that caused them, and Approve/Undo/Pause/Resume/Message."
+2026-10-25T20:04:41.61Z,oddsquad.lit-devtools,oddsquad,Lit DevTools,0.1.0,"Completion, hover, go to source, find references and diagnostics for Lit components in templates, HTML, JSX, Astro and MDX, read from your sources and your dependencies' Custom Elements Manifests."
+2026-10-25T20:13:39.56Z,Nikolas2610.branch-lens,Nikolas2610,BranchWeave,0.2.0,"Compare a reference branch with your current working files, review changes, and copy lines or sections in VS Code."
+2026-10-25T20:16:16.137Z,wolfsteno.task-tabs,wolfsteno,Task Tabs,0.4.0,"Gives each Claude Code terminal a colour and an icon from the task it is working on, automatically. Plus a session switcher and a resume list. Not affiliated with Anthropic."

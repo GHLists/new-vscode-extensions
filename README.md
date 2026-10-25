@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 19:19 UTC
+## Latest list — 2026-10-25 20:20 UTC
 
-New extensions published between 2026-10-25 17:19 UTC and 2026-10-25 19:19 UTC.
+New extensions published between 2026-10-25 18:20 UTC and 2026-10-25 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T19-19-24-447473Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T20-20-42-657456Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 18:19:22 | [lumiose.lumiose-vscode](https://marketplace.visualstudio.com/items?itemName=lumiose.lumiose-vscode) | Lumiose | 0.8.1 | Lumiose .stsx support: TSX with embedded CSS style blocks and $ref highlighting… |
-| 2026-10-25 18:29:41 | [yunerou.k8s-view](https://marketplace.visualstudio.com/items?itemName=yunerou.k8s-view) | K8s View | 0.0.1 | Custom Kubernetes views with auto refresh, resource-bound commands, colored mul… |
-| 2026-10-25 18:30:35 | [MertcanCankara.rabbitmq-pattern-navigator](https://marketplace.visualstudio.com/items?itemName=MertcanCankara.rabbitmq-pattern-navigator) | RabbitMQ Pattern Navigator | 0.0.1 | Ctrl+click a NestJS RabbitMQ pattern to jump between client.send/emit and its @… |
-| 2026-10-25 18:32:47 | [mergeharbor.mergeharbor](https://marketplace.visualstudio.com/items?itemName=mergeharbor.mergeharbor) | MergeHarbor | 0.1.0 | Review your changes before you push, see pull request findings inline, and chec… |
-| 2026-10-25 18:35:10 | [metaverse-systems.the-seed-vscode](https://marketplace.visualstudio.com/items?itemName=metaverse-systems.the-seed-vscode) | The Seed | 1.0.1 | Create, build, sign and package games made with The Seed, a C++ game engine, fr… |
-| 2026-10-25 18:49:44 | [martbrn.tsql-toolbox](https://marketplace.visualstudio.com/items?itemName=martbrn.tsql-toolbox) | T-SQL Toolbox | 1.0.0 | Toolbox for SQL Server in VS Code: auto-replacements expanded with Tab, go to i… |
-| 2026-10-25 19:10:31 | [Dailystate.dailystate-sidebar](https://marketplace.visualstudio.com/items?itemName=Dailystate.dailystate-sidebar) | Pi Coding Agent Sidebar | 0.1.0 | Chat with the Pi coding agent in a VS Code sidebar: multiple session tabs, fork… |
-| 2026-10-25 19:11:27 | [madw3b.mad-live-watcher](https://marketplace.visualstudio.com/items?itemName=madw3b.mad-live-watcher) | MAD Live Watcher | 2.1.0 | Watches your web root (XAMPP / USBWebserver) and tells the Mad Live Reload Chro… |
+| 2026-10-25 19:18:05 | [NeerajYadav9991.memstrata-cl1-workspace](https://marketplace.visualstudio.com/items?itemName=NeerajYadav9991.memstrata-cl1-workspace) | MemStrata CL1 Workspace | 0.1.0 | Opt-in scoped CL1 source inspection, readiness, correction, deletion and export. |
+| 2026-10-25 19:45:09 | [ManavShrivastava.opencoder-ai-agent](https://marketplace.visualstudio.com/items?itemName=ManavShrivastava.opencoder-ai-agent) | OpenCoder AI Agent | 0.3.29 | An AI Super agent for VS Code that works with any model. |
+| 2026-10-25 20:02:14 | [celador.weft-agents](https://marketplace.visualstudio.com/items?itemName=celador.weft-agents) | Weft for Coding Agents | 0.1.1 | Red squiggles for teams of coding agents: the live Weft feed, Editing now, diff… |
+| 2026-10-25 20:04:41 | [oddsquad.lit-devtools](https://marketplace.visualstudio.com/items?itemName=oddsquad.lit-devtools) | Lit DevTools | 0.1.0 | Completion, hover, go to source, find references and diagnostics for Lit compon… |
+| 2026-10-25 20:13:39 | [Nikolas2610.branch-lens](https://marketplace.visualstudio.com/items?itemName=Nikolas2610.branch-lens) | BranchWeave | 0.2.0 | Compare a reference branch with your current working files, review changes, and… |
+| 2026-10-25 20:16:16 | [wolfsteno.task-tabs](https://marketplace.visualstudio.com/items?itemName=wolfsteno.task-tabs) | Task Tabs | 0.4.0 | Gives each Claude Code terminal a colour and an icon from the task it is workin… |
 
 ## Data source
 
