@@ -12,16 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 01:20 UTC
+## Latest list — 2026-10-25 02:19 UTC
 
-New extensions published between 2026-10-24 23:20 UTC and 2026-10-25 01:20 UTC.
+New extensions published between 2026-10-25 00:19 UTC and 2026-10-25 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T01-20-08-639665Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T02-19-17-424643Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 00:23:12 | [jonwomack.stl-workbench](https://marketplace.visualstudio.com/items?itemName=jonwomack.stl-workbench) | STL Workbench | 0.0.3 | A fast, polished STL viewer built as a native VS Code custom editor. |
-| 2026-10-25 01:05:43 | [vascodagama.vasco-cruz-de-malta-3d](https://marketplace.visualstudio.com/items?itemName=vascodagama.vasco-cruz-de-malta-3d) | Vasco da Gama — Cruz de Malta | 0.1.0 | Tema do VS Code em preto, branco e vermelho, com a Cruz de Malta em 3D. Projeto… |
+| 2026-10-25 01:18:47 | [MatthewGadsden.tokyo-snow-vs](https://marketplace.visualstudio.com/items?itemName=MatthewGadsden.tokyo-snow-vs) | Tokyo Snow | 1.1.0 | A warm, dark VS Code theme sampled from a snowy Tokyo alley at night: lit vendi… |
+| 2026-10-25 01:30:21 | [cgzhong17.astoryx-language-tools](https://marketplace.visualstudio.com/items?itemName=cgzhong17.astoryx-language-tools) | AStoryX Language Tools | 0.1.1 | AStoryX 规则驱动补全、参数提示与静态检查 |
+| 2026-10-25 01:33:46 | [koubeyapurin.hitoiki](https://marketplace.visualstudio.com/items?itemName=koubeyapurin.hitoiki) | ひといき | 1.0.0 | AI と一緒に開発する作業の中身(コマンドやテストの失敗、まとまった挿入、ファイルの切替)から脳にかかる負担の目安をため、区切りのいいところでひと休みを提案し… |
+| 2026-10-25 01:38:52 | [jlumbroso.keyhole](https://marketplace.visualstudio.com/items?itemName=jlumbroso.keyhole) | Keyhole | 0.1.0 | Set a secret in your project's .env — it never passes through a model or a chat. |
+| 2026-10-25 02:03:54 | [DawnTask.dawntask](https://marketplace.visualstudio.com/items?itemName=DawnTask.dawntask) | DawnTask | 1.0.0 | DawnTask lightweight developer task and workflow placeholder by DawnTask. |
 
 ## Data source
 
