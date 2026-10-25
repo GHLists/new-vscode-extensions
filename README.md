@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 09:19 UTC
+## Latest list — 2026-10-25 10:20 UTC
 
-New extensions published between 2026-10-25 07:19 UTC and 2026-10-25 09:19 UTC.
+New extensions published between 2026-10-25 08:20 UTC and 2026-10-25 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T09-19-45-847418Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T10-20-18-684613Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 08:16:35 | [TattooedGeek.asyncmaster](https://marketplace.visualstudio.com/items?itemName=TattooedGeek.asyncmaster) | ASyncMaster | 2.1.0 | Fast-forward main or master, in parallel, for every workspace repository alread… |
-| 2026-10-25 08:22:41 | [jenna-studio.pastel-candy](https://marketplace.visualstudio.com/items?itemName=jenna-studio.pastel-candy) | Pastel Candy | 1.0.1 | A joyful five-color light theme: sky-blue sidebars, lavender tabs, pink chrome,… |
-| 2026-10-25 08:38:40 | [orieljs.orieljs](https://marketplace.visualstudio.com/items?itemName=orieljs.orieljs) | OrielJS | 0.1.0 | Completions, hovers, go-to-definition and warnings for the strings Oriel reads,… |
-| 2026-10-25 08:38:44 | [spharshid.i18n-ai-translate-sync](https://marketplace.visualstudio.com/items?itemName=spharshid.i18n-ai-translate-sync) | i18n AI Translate & Sync | 0.1.0 | Keeps every locale file in sync and translates new or changed i18n strings with… |
-| 2026-10-25 08:39:00 | [r-seize.tetrix](https://marketplace.visualstudio.com/items?itemName=r-seize.tetrix) | Tetrix - Break Timer | 0.1.0 | A mini Tetris game built into VS Code to force real breaks between two coding r… |
-| 2026-10-25 09:11:30 | [gykjw.v-formatter](https://marketplace.visualstudio.com/items?itemName=gykjw.v-formatter) | Verilog/SystemVerilog Formatter | 0.1.0 | Format .v/.sv files: indent, keyword spacing, operator spacing, comment preserv… |
-| 2026-10-25 09:12:51 | [Shivexa.nova-terminal-shivexa](https://marketplace.visualstudio.com/items?itemName=Shivexa.nova-terminal-shivexa) | NOVA Terminal by Shivexa | 1.0.0 | NOVA Terminal is a powerful developer toolkit for VS Code featuring one-click s… |
+| 2026-10-25 09:21:53 | [hozaifabinmasud.django-html-intellisense](https://marketplace.visualstudio.com/items?itemName=hozaifabinmasud.django-html-intellisense) | Django HTML IntelliSense | 1.0.0 | Full HTML IntelliSense (tags, attributes, values, hover, auto-close) in Django… |
+| 2026-10-25 09:40:40 | [luck-gh.text-marker-custom](https://marketplace.visualstudio.com/items?itemName=luck-gh.text-marker-custom) | Text Marker Custom | 1.14.3 | Configurable text highlights, live styles and English/Chinese UI. Based on ryu1… |
+| 2026-10-25 09:53:10 | [AcornPlayground.macbeeb-debug](https://marketplace.visualstudio.com/items?itemName=AcornPlayground.macbeeb-debug) | MacBeeb: BBC Micro debugger | 0.1.0 | Debug 6502 programs and BBC BASIC on MacBeeb's emulated BBC Micro: assemble Bee… |
+| 2026-10-25 09:56:49 | [64kramsystem.markdown-tables](https://marketplace.visualstudio.com/items?itemName=64kramsystem.markdown-tables) | Markdown Tables: Bold, Colors & Sort | 0.3.0 | Edit and sort Markdown tables, with row colors and color-name completion. |
+| 2026-10-25 10:15:24 | [alonpe.iris-sql-workbench](https://marketplace.visualstudio.com/items?itemName=alonpe.iris-sql-workbench) | IRIS SQL Workbench | 0.1.0 | Browse the SQL tables and stored procedures of an InterSystems IRIS / Caché nam… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T09:21:53.377Z,hozaifabinmasud.django-html-intellisense,hozaifabinmasud,Django HTML IntelliSense,1.0.0,"Full HTML IntelliSense (tags, attributes, values, hover, auto-close) in Django templates, without losing Django syntax highlighting."
+2026-10-25T09:40:40.037Z,luck-gh.text-marker-custom,luck-gh,Text Marker Custom,1.14.3,"Configurable text highlights, live styles and English/Chinese UI. Based on ryu1kn/vscode-text-marker."
+2026-10-25T09:53:10.117Z,AcornPlayground.macbeeb-debug,AcornPlayground,MacBeeb: BBC Micro debugger,0.1.0,"Debug 6502 programs and BBC BASIC on MacBeeb's emulated BBC Micro: assemble BeebAsm or Baron sources and run them, source breakpoints (BeebAsm, Baron or ld65 debug info), breakpoints in BBC BASIC programs (.bas), stepping (and stepping back), registers, BASIC variables, memory, watchpoints."
+2026-10-25T09:56:49.19Z,64kramsystem.markdown-tables,64kramsystem,"Markdown Tables: Bold, Colors & Sort",0.3.0,"Edit and sort Markdown tables, with row colors and color-name completion."
+2026-10-25T10:15:24.803Z,alonpe.iris-sql-workbench,alonpe,IRIS SQL Workbench,0.1.0,"Browse the SQL tables and stored procedures of an InterSystems IRIS / Caché namespace and run queries, using the connection of your InterSystems namespace folders."
