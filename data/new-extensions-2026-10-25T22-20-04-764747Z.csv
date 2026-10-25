@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T21:25:43.363Z,PERUN.studiograph,PERUN,StudioGraph,0.1.0,"Dependency graph, change impact analysis and pre-deployment checks for Salesforce OmniStudio."
+2026-10-25T21:28:29.593Z,nokker.nokker-vscode,nokker,Nokker,0.2.0,"Nokker Lokkal in VS Code: a coding session on the open folder, against the kernel of your machine."
+2026-10-25T21:45:22.373Z,thenabbu.bharatcode-vscode,thenabbu,BharatCode - AI coding agent for VS Code,7.8.105,"BharatCode is an open source AI coding agent for VS Code: inline autocomplete, browser automation, automated refactoring, an agent manager, and custom modes for planning, coding, and debugging. Powered by bharatcode.ai with two models: qwen-3.8-27b (262k context) and deepseek-v4.1-flash (1M context)"
+2026-10-25T21:49:53.083Z,ChristianOrrala.umber-calm,ChristianOrrala,Umber Calm,0.2.1,"A warm, low-glare dark theme with measured contrast."
+2026-10-25T22:05:29.89Z,yves0003.f4datadashb,yves0003,F4Data Dashboards,0.0.11,"Import, create and explore local data dashboards."
