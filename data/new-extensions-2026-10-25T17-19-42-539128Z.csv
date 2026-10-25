@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T16:19:27.533Z,kolaos.kolaos-workstation,kolaos,KolaOS Workstation,0.1.0,"Discussions, services and previews in your KolaOS workstation."
+2026-10-25T16:21:21.023Z,kolaos.kolaos,kolaos,KolaOS,0.1.0,Connect to your KolaOS workstations.
+2026-10-25T16:23:57.44Z,dream101.dream,dream101,YouDream,0.0.2,Open the complete contents of a selected text file in a clean Dream tab.
+2026-10-25T16:29:07.887Z,gaomd.gaogrid,gaomd,GaoGrid,0.2.0,Terminal-first workspace manager for the Secondary Sidebar.
+2026-10-25T16:29:34.193Z,SBrophy-dev.vs-flow-designer,SBrophy-dev,VS Flow Designer,0.0.1,"Visualize and edit Amazon Connect contact flows inside VS Code. Import and export flow files locally, and optionally connect your AWS account to download, compare and publish."
+2026-10-25T16:30:41.77Z,SameerGarg.aegis-api-sentinel,SameerGarg,AEGIS API Sentinel,0.0.1,"Black-box API security scanner with score, graphs, and test results"
+2026-10-25T16:36:39.033Z,Oddiss.diff-branch,Oddiss,Diff Branch,1.0.2,"Review changes across your Git branch, including committed work, with a changed-files view and editor markers."
+2026-10-25T16:40:09.917Z,vDesign.vdesign,vDesign,vDesign,0.2.0,"View vDesign (.vd) designs in VS Code: a live preview of every page, the pages in the outline, problems as you type, and ```vd fences drawn in the Markdown preview."
+2026-10-25T16:40:13.867Z,SaiKiranYarabarla.pr-slicer,SaiKiranYarabarla,PR Slicer,0.1.0,"Plan dependency-aware Git commits and split large changes into reviewable, size-limited units."
+2026-10-25T16:46:34.917Z,NurmukhanbetRakhimbayev.git-merge-studio,NurmukhanbetRakhimbayev,Git Merge Studio,0.1.0,"PyCharm-style Git log, commit inspection, cherry-pick/rebase/merge and a 3-pane conflict resolver."
+2026-10-25T16:47:12.94Z,binapps.mdghosttables,binapps,Markdown Ghost Tables,0.3.2,"Compact markdown tables that still look aligned: virtual (ghost) column alignment, per-column colors, compact/expand commands, format-on-save and optional Tab cell navigation."
+2026-10-25T16:47:44.86Z,Kawalir.typescript-factory,Kawalir,TypeScript Factory,1.0.0,Create TypeScript items with ease
+2026-10-25T16:53:49.313Z,xzyk.bee-code,xzyk,Bee Code,1.0.0,"BYO-model coding agent for VS Code: three modes, per-file proposal approval, bundled Python, Skills and MCP."
+2026-10-25T16:57:44.277Z,AucoinStatsInc.lc3tools,AucoinStatsInc,LC3Tools,0.0.1,Provides support for the LC-3 ISA Assembly language and bundles a Wasm version of the LC3Tools assembler (used for validating and assembling) and simulator (used for running programs in an integrated terminal).
+2026-10-25T17:05:15.907Z,aardvarklabs.business-central-explorer,aardvarklabs,Business Central Explorer,0.2.17,"Explore Business Central AL dependencies, objects, and integration events."
