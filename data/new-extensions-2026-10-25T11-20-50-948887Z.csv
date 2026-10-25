@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T10:24:16.19Z,ravikiranv.ai-file-guard,ravikiranv,AI File Guard,0.12.2,"Native protected AI terminals, local file/folder locks, and synchronized agent instructions."
+2026-10-25T10:25:56.597Z,AlmoraTheme.almora-theme,AlmoraTheme,Almora Theme — Rainbow & Icons,2.1.0,"Almora Theme is a modern VS Code theme family with a signature accent and vivid rainbow syntax — 9 meticulously tuned variants living on the darker side: six accent nights, an ultra-deep Midnight, a true-black Obsidian for OLED, and one crisp daylight edition. Plus the built-in Almora Icons file the"
+2026-10-25T10:28:01.623Z,jonesj.expodeck,jonesj,ExpoDeck,0.0.1,A quick command deck to manage Expo projects in VS Code
+2026-10-25T10:37:36Z,sweetbrulee.gruvbox-material-sweetbrulee,sweetbrulee,Gruvbox Material (sweetbrulee fork),6.5.2,Gruvbox with Material Palette
+2026-10-25T10:39:09.323Z,ZoneYottaZenith.ucantransit,ZoneYottaZenith,UCanTransit for Copilot,0.6.0,填入调用端点地址 URL 与 API Key，即可把任意中转站或官方 API 接入 GitHub Copilot Chat；自动识别 OpenAI、Anthropic、Gemini 协议，支持多站点并行。
+2026-10-25T10:58:03.5Z,deskbridge.deskbridge,deskbridge,DeskBridge,1.1.95,"DeskBridge inside VS Code: remote screens, files, Codex/Claude chats, Insights and integrated SSH terminals."
+2026-10-25T11:02:56.013Z,Gauthamrgb.quantar-lang,Gauthamrgb,Quantar Language Support,1.0.0,Syntax and language-server support for Quantar files
+2026-10-25T11:07:37.033Z,MaxiBlinkz.devplan,MaxiBlinkz,DevPlan,0.0.1,File-backed project and task management inside Visual Studio Code.

@@ -12,19 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 10:20 UTC
+## Latest list — 2026-10-25 11:20 UTC
 
-New extensions published between 2026-10-25 08:20 UTC and 2026-10-25 10:20 UTC.
+New extensions published between 2026-10-25 09:20 UTC and 2026-10-25 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T10-20-18-684613Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T11-20-50-948887Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 09:21:53 | [hozaifabinmasud.django-html-intellisense](https://marketplace.visualstudio.com/items?itemName=hozaifabinmasud.django-html-intellisense) | Django HTML IntelliSense | 1.0.0 | Full HTML IntelliSense (tags, attributes, values, hover, auto-close) in Django… |
-| 2026-10-25 09:40:40 | [luck-gh.text-marker-custom](https://marketplace.visualstudio.com/items?itemName=luck-gh.text-marker-custom) | Text Marker Custom | 1.14.3 | Configurable text highlights, live styles and English/Chinese UI. Based on ryu1… |
-| 2026-10-25 09:53:10 | [AcornPlayground.macbeeb-debug](https://marketplace.visualstudio.com/items?itemName=AcornPlayground.macbeeb-debug) | MacBeeb: BBC Micro debugger | 0.1.0 | Debug 6502 programs and BBC BASIC on MacBeeb's emulated BBC Micro: assemble Bee… |
-| 2026-10-25 09:56:49 | [64kramsystem.markdown-tables](https://marketplace.visualstudio.com/items?itemName=64kramsystem.markdown-tables) | Markdown Tables: Bold, Colors & Sort | 0.3.0 | Edit and sort Markdown tables, with row colors and color-name completion. |
-| 2026-10-25 10:15:24 | [alonpe.iris-sql-workbench](https://marketplace.visualstudio.com/items?itemName=alonpe.iris-sql-workbench) | IRIS SQL Workbench | 0.1.0 | Browse the SQL tables and stored procedures of an InterSystems IRIS / Caché nam… |
+| 2026-10-25 10:24:16 | [ravikiranv.ai-file-guard](https://marketplace.visualstudio.com/items?itemName=ravikiranv.ai-file-guard) | AI File Guard | 0.12.2 | Native protected AI terminals, local file/folder locks, and synchronized agent… |
+| 2026-10-25 10:25:56 | [AlmoraTheme.almora-theme](https://marketplace.visualstudio.com/items?itemName=AlmoraTheme.almora-theme) | Almora Theme — Rainbow & Icons | 2.1.0 | Almora Theme is a modern VS Code theme family with a signature accent and vivid… |
+| 2026-10-25 10:28:01 | [jonesj.expodeck](https://marketplace.visualstudio.com/items?itemName=jonesj.expodeck) | ExpoDeck | 0.0.1 | A quick command deck to manage Expo projects in VS Code |
+| 2026-10-25 10:37:36 | [sweetbrulee.gruvbox-material-sweetbrulee](https://marketplace.visualstudio.com/items?itemName=sweetbrulee.gruvbox-material-sweetbrulee) | Gruvbox Material (sweetbrulee fork) | 6.5.2 | Gruvbox with Material Palette |
+| 2026-10-25 10:39:09 | [ZoneYottaZenith.ucantransit](https://marketplace.visualstudio.com/items?itemName=ZoneYottaZenith.ucantransit) | UCanTransit for Copilot | 0.6.0 | 填入调用端点地址 URL 与 API Key，即可把任意中转站或官方 API 接入 GitHub Copilot Chat；自动识别 OpenAI、Anthr… |
+| 2026-10-25 10:58:03 | [deskbridge.deskbridge](https://marketplace.visualstudio.com/items?itemName=deskbridge.deskbridge) | DeskBridge | 1.1.95 | DeskBridge inside VS Code: remote screens, files, Codex/Claude chats, Insights… |
+| 2026-10-25 11:02:56 | [Gauthamrgb.quantar-lang](https://marketplace.visualstudio.com/items?itemName=Gauthamrgb.quantar-lang) | Quantar Language Support | 1.0.0 | Syntax and language-server support for Quantar files |
+| 2026-10-25 11:07:37 | [MaxiBlinkz.devplan](https://marketplace.visualstudio.com/items?itemName=MaxiBlinkz.devplan) | DevPlan | 0.0.1 | File-backed project and task management inside Visual Studio Code. |
 
 ## Data source
 
