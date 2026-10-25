@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T06:28:10.39Z,Fluxudio.fluxudio,Fluxudio,fluxudio,0.0.1,Fluxudio commands for projects running in the online editor.
+2026-10-25T06:32:42.873Z,SamTIme101.shortcircuit,SamTIme101,Short Circuit,0.1.0,"LogicFlow language support for Short Circuit: interactive simulator studio, syntax highlighting, diagnostics, completions, hovers, waveform/truth-table previews, and test runner."
+2026-10-25T06:51:17.557Z,KevinZuniga.h-lang,KevinZuniga,H-Lang,0.0.1,
+2026-10-25T07:02:28.15Z,PandaScrub.pandascrub,PandaScrub,PandaScrub: Interactive Data Studio & Python Visualizer,1.0.0,"Visual data cleaning, recipe builder, EDA charts, pivot tables, and Matplotlib/Seaborn playground with native Python code sync."
+2026-10-25T07:05:51.203Z,micromelon.micromelon-rover,micromelon,Micromelon Rover,0.1.0,Connect to Micromelon Rovers via BLE and run Python code

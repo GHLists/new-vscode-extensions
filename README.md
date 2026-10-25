@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 06:18 UTC
+## Latest list — 2026-10-25 07:20 UTC
 
-New extensions published between 2026-10-25 04:18 UTC and 2026-10-25 06:18 UTC.
+New extensions published between 2026-10-25 05:20 UTC and 2026-10-25 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T06-18-47-641774Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T07-20-34-224727Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 05:30:23 | [yumizsui.tex-review](https://marketplace.visualstudio.com/items?itemName=yumizsui.tex-review) | TeX Review Studio | 0.6.16 | Anchored review comments and bidirectional SyncTeX PDF navigation in a local Te… |
-| 2026-10-25 05:48:15 | [greenbeans.greenbeans](https://marketplace.visualstudio.com/items?itemName=greenbeans.greenbeans) | GreenBeans | 1.0.0 | GreenBeans lightweight developer workflow and task engine placeholder. |
-| 2026-10-25 05:52:16 | [taskgo.taskgo](https://marketplace.visualstudio.com/items?itemName=taskgo.taskgo) | TaskGo | 1.0.0 | TaskGo lightweight developer workflow and task engine placeholder. |
+| 2026-10-25 06:28:10 | [Fluxudio.fluxudio](https://marketplace.visualstudio.com/items?itemName=Fluxudio.fluxudio) | fluxudio | 0.0.1 | Fluxudio commands for projects running in the online editor. |
+| 2026-10-25 06:32:42 | [SamTIme101.shortcircuit](https://marketplace.visualstudio.com/items?itemName=SamTIme101.shortcircuit) | Short Circuit | 0.1.0 | LogicFlow language support for Short Circuit: interactive simulator studio, syn… |
+| 2026-10-25 06:51:17 | [KevinZuniga.h-lang](https://marketplace.visualstudio.com/items?itemName=KevinZuniga.h-lang) | H-Lang | 0.0.1 |  |
+| 2026-10-25 07:02:28 | [PandaScrub.pandascrub](https://marketplace.visualstudio.com/items?itemName=PandaScrub.pandascrub) | PandaScrub: Interactive Data Studio & P… | 1.0.0 | Visual data cleaning, recipe builder, EDA charts, pivot tables, and Matplotlib/… |
+| 2026-10-25 07:05:51 | [micromelon.micromelon-rover](https://marketplace.visualstudio.com/items?itemName=micromelon.micromelon-rover) | Micromelon Rover | 0.1.0 | Connect to Micromelon Rovers via BLE and run Python code |
 
 ## Data source
 
