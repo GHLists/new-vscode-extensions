@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T11:25:00.827Z,readableresume.readable-resume-snippets,readableresume,ReadableResume Snippets,1.0.0,"Snippets for the atsresume LaTeX class and the readable-classic Typst package, two one-page, single-column resume templates whose PDF text stays in reading order for applicant tracking systems."
+2026-10-25T11:39:58.877Z,domichung-wallpaper.wallpaper-sync-vscode,domichung-wallpaper,Wallpaper to VS Code,0.5.0,????? Wallpaper engines ?? VS Code ???
+2026-10-25T11:46:59.683Z,adgiz05.pdf-review-for-agents,adgiz05,PDF Review for Coding Agents,1.0.0,"Comment on a PDF in VS Code and hand the comments to your coding agent: one line per note with the page, the quote and the LaTeX file:line (via SyncTeX)."
+2026-10-25T12:00:56.7Z,BHA.vha-express-lang-engine-core,BHA,BHA Express Code,0.0.3,Логика и структуры
+2026-10-25T12:05:15.27Z,Aletyx.aletyx-lyx,Aletyx,Aletyx Lyx,0.0.26,"Your work at Aletyx inside VS Code: PRs, Journeys from PR to production, environments, Jenkins, artifacts, and Ask Lyx."
+2026-10-25T12:12:10.123Z,NostraDavid.nostradavid-todo-tree,NostraDavid,Todo Tree by NostraDavid,1.0.0,Find TODO and FIXME comments with ripgrep. A maintained Todo Tree fork by NostraDavid.
