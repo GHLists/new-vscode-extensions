@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T04:23:41.993Z,anilkumar4.intent-contract,anilkumar4,Intent Contract,0.1.0,Detects changes that violate a local AI task contract.
+2026-10-25T04:29:36.217Z,vixagent.vixtab,vixagent,VixTab — parallel Claude Code tabs,0.8.0,"Orchestrate many Claude Code sessions on one repo: one fresh, labeled tab per ticket in its own column, conflict-free merges, context-saving orchestration."
+2026-10-25T04:43:35.137Z,BHA.vha-toreo-lang-core-game,BHA,BHA Toreo,0.0.3,Создание 3D игр и вещей на ВНА
+2026-10-25T04:53:05.783Z,portuber.portato-vscode,portuber,Portato,0.1.0,VS Code client for the Portato daemon -- manage SSH port-forwarding tunnels from the sidebar
+2026-10-25T05:04:55.583Z,pupydodo.pdfviewer-highlight,pupydodo,PDF Viewer & Highlighter,1.2.4,"A fork of vscode-pdf by tomoki1207, enhanced with text highlighting and editable comments. Save annotations directly to your PDF with Ctrl+S, without reloading the document."
+2026-10-25T05:08:18.613Z,msoftware.msw-agent,msoftware,MSW Agent — Free AI Coding Agent & Autonomous IDE,2.0.20,"Autonomous AI software engineering agent with parallel subagents, persistent cross-session memory, interactive clarify cards, and 1,000,000 context window. Free tier included."
+2026-10-25T05:12:51.1Z,luffotico.tokyo-ghoul-theme,luffotico,Tokyo Ghoul Theme,0.1.1,"Tokyo Ghoul–inspired dark color theme for VS Code. Crimson syntax, deep black UI, and no changes to file icons."
