@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T18:19:22.243Z,lumiose.lumiose-vscode,lumiose,Lumiose,0.8.1,"Lumiose .stsx support: TSX with embedded CSS style blocks and $ref highlighting, and the Lumiose language server (TypeScript 7 takeover, CSS, project-wide classes and custom properties, snippets)."
+2026-10-25T18:29:41.243Z,yunerou.k8s-view,yunerou,K8s View,0.0.1,"Custom Kubernetes views with auto refresh, resource-bound commands, colored multi-pod logs and parameterized snippets, defined in JSON."
+2026-10-25T18:30:35.037Z,MertcanCankara.rabbitmq-pattern-navigator,MertcanCankara,RabbitMQ Pattern Navigator,0.0.1,Ctrl+click a NestJS RabbitMQ pattern to jump between client.send/emit and its @MessagePattern/@EventPattern handler
+2026-10-25T18:32:47.707Z,mergeharbor.mergeharbor,mergeharbor,MergeHarbor,0.1.0,"Review your changes before you push, see pull request findings inline, and check the merge gate without leaving the editor."
+2026-10-25T18:35:10.547Z,metaverse-systems.the-seed-vscode,metaverse-systems,The Seed,1.0.1,"Create, build, sign and package games made with The Seed, a C++ game engine, from VS Code."
+2026-10-25T18:49:44.547Z,martbrn.tsql-toolbox,martbrn,T-SQL Toolbox,1.0.0,"Toolbox for SQL Server in VS Code: auto-replacements expanded with Tab, go to implementation, INSERT/UPDATE/DELETE data scripts, missing-WHERE warnings, a management panel, connections and an environment indicator."
+2026-10-25T19:10:31.763Z,Dailystate.dailystate-sidebar,Dailystate,Pi Coding Agent Sidebar,0.1.0,"Chat with the Pi coding agent in a VS Code sidebar: multiple session tabs, fork from any message, steer a running agent, review diffs before edits land, and track tokens and cost. Unofficial."
+2026-10-25T19:11:27.25Z,madw3b.mad-live-watcher,madw3b,MAD Live Watcher,2.1.0,Watches your web root (XAMPP / USBWebserver) and tells the Mad Live Reload Chrome extension to reload. Supports ignore patterns and an activity log.

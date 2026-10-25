@@ -12,19 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 18:21 UTC
+## Latest list — 2026-10-25 19:19 UTC
 
-New extensions published between 2026-10-25 16:21 UTC and 2026-10-25 18:21 UTC.
+New extensions published between 2026-10-25 17:19 UTC and 2026-10-25 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T18-21-08-7695Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T19-19-24-447473Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 17:16:12 | [lldeters.kiro-studio](https://marketplace.visualstudio.com/items?itemName=lldeters.kiro-studio) | Kiro Studio | 0.1.0 | Unofficial graphical front end for the locally installed Kiro CLI, built on the… |
-| 2026-10-25 17:26:03 | [skatromb.navigate-theme](https://marketplace.visualstudio.com/items?itemName=skatromb.navigate-theme) | Navigate | 0.2.0 | Color theme that helps you navigate through the code |
-| 2026-10-25 17:29:47 | [AyushKumarPatel.codetown](https://marketplace.visualstudio.com/items?itemName=AyushKumarPatel.codetown) | CodeTown | 0.2.4 | Explore your codebase as a living isometric city — files become buildings, impo… |
-| 2026-10-25 17:49:43 | [iecode.iecode](https://marketplace.visualstudio.com/items?itemName=iecode.iecode) | IECode – Structured Text for TwinCAT | 0.1.0 | Structured Text for TwinCAT in VS Code: edit .TcPOU/.TcDUT/.TcGVL/.TcIO as plai… |
-| 2026-10-25 18:09:18 | [gs-tech-br.timeon-chat](https://marketplace.visualstudio.com/items?itemName=gs-tech-br.timeon-chat) | TimeOn Chat | 2.0.0 | Chat do TimeOn na nuvem integrado ao VS Code. |
+| 2026-10-25 18:19:22 | [lumiose.lumiose-vscode](https://marketplace.visualstudio.com/items?itemName=lumiose.lumiose-vscode) | Lumiose | 0.8.1 | Lumiose .stsx support: TSX with embedded CSS style blocks and $ref highlighting… |
+| 2026-10-25 18:29:41 | [yunerou.k8s-view](https://marketplace.visualstudio.com/items?itemName=yunerou.k8s-view) | K8s View | 0.0.1 | Custom Kubernetes views with auto refresh, resource-bound commands, colored mul… |
+| 2026-10-25 18:30:35 | [MertcanCankara.rabbitmq-pattern-navigator](https://marketplace.visualstudio.com/items?itemName=MertcanCankara.rabbitmq-pattern-navigator) | RabbitMQ Pattern Navigator | 0.0.1 | Ctrl+click a NestJS RabbitMQ pattern to jump between client.send/emit and its @… |
+| 2026-10-25 18:32:47 | [mergeharbor.mergeharbor](https://marketplace.visualstudio.com/items?itemName=mergeharbor.mergeharbor) | MergeHarbor | 0.1.0 | Review your changes before you push, see pull request findings inline, and chec… |
+| 2026-10-25 18:35:10 | [metaverse-systems.the-seed-vscode](https://marketplace.visualstudio.com/items?itemName=metaverse-systems.the-seed-vscode) | The Seed | 1.0.1 | Create, build, sign and package games made with The Seed, a C++ game engine, fr… |
+| 2026-10-25 18:49:44 | [martbrn.tsql-toolbox](https://marketplace.visualstudio.com/items?itemName=martbrn.tsql-toolbox) | T-SQL Toolbox | 1.0.0 | Toolbox for SQL Server in VS Code: auto-replacements expanded with Tab, go to i… |
+| 2026-10-25 19:10:31 | [Dailystate.dailystate-sidebar](https://marketplace.visualstudio.com/items?itemName=Dailystate.dailystate-sidebar) | Pi Coding Agent Sidebar | 0.1.0 | Chat with the Pi coding agent in a VS Code sidebar: multiple session tabs, fork… |
+| 2026-10-25 19:11:27 | [madw3b.mad-live-watcher](https://marketplace.visualstudio.com/items?itemName=madw3b.mad-live-watcher) | MAD Live Watcher | 2.1.0 | Watches your web root (XAMPP / USBWebserver) and tells the Mad Live Reload Chro… |
 
 ## Data source
 
