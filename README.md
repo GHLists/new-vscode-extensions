@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 13:18 UTC
+## Latest list — 2026-10-25 14:20 UTC
 
-New extensions published between 2026-10-25 11:18 UTC and 2026-10-25 13:18 UTC.
+New extensions published between 2026-10-25 12:20 UTC and 2026-10-25 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T13-18-56-747092Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T14-20-22-942859Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 12:19:37 | [maybesweta.flowerfall](https://marketplace.visualstudio.com/items?itemName=maybesweta.flowerfall) | Flowerfall | 0.3.1 | A 2-second sprinkle of pink flowers over your screen when a terminal command su… |
-| 2026-10-25 12:21:52 | [DarrenJMcLeod.cite-ledger](https://marketplace.visualstudio.com/items?itemName=DarrenJMcLeod.cite-ledger) | Cite Ledger — Citation & Retraction Che… | 0.1.0 | Flags retractions, corrections and expressions of concern recorded in Crossref,… |
-| 2026-10-25 12:24:00 | [honor-world.hwchat](https://marketplace.visualstudio.com/items?itemName=honor-world.hwchat) | HWChat | 0.1.0 | A secure coding agent for VS Code with DeepSeek, local skills, durable history… |
-| 2026-10-25 12:28:04 | [CustomforCopilot.custom-for-copilot](https://marketplace.visualstudio.com/items?itemName=CustomforCopilot.custom-for-copilot) | Custom for Copilot | 0.1.0 | Use any OpenAI-compatible model in Copilot Chat and the Agents window — your ow… |
-| 2026-10-25 12:30:51 | [nozyx12.candletools](https://marketplace.visualstudio.com/items?itemName=nozyx12.candletools) | Candle Tools for VS Code | 1.0.0 | Language support and development tools for Candle Assembly (CASM) |
-| 2026-10-25 12:34:01 | [Kobula.antigravity-argon-bridge](https://marketplace.visualstudio.com/items?itemName=Kobula.antigravity-argon-bridge) | Antigravity Argon Bridge | 1.0.1 | Google 4 Argon Reasoning Model Bridge for Antigravity & VS Code with multi-acco… |
-| 2026-10-25 12:57:24 | [pitva90.ftp-nativefs](https://marketplace.visualstudio.com/items?itemName=pitva90.ftp-nativefs) | FTP NativeFS | 1.0.0 | Native FTP and SFTP file system integration for VS Code workspaces |
-| 2026-10-25 13:04:35 | [bitoesposito.htmlemmurt-vscode](https://marketplace.visualstudio.com/items?itemName=bitoesposito.htmlemmurt-vscode) | htmlemmurt | 0.1.1 | HTML in napoletano: colori, snippet, completamento ed errori mentre scrivi |
+| 2026-10-25 13:13:50 | [goddch.mybatis-lint](https://marketplace.visualstudio.com/items?itemName=goddch.mybatis-lint) | MyBatis Lint | 0.1.0 | Static analysis diagnostics for MyBatis mapper XML files. |
+| 2026-10-25 13:16:44 | [sarathakur.codestash-lab](https://marketplace.visualstudio.com/items?itemName=sarathakur.codestash-lab) | code runnnnnerrrrr | 0.0.1 | Save your own code snippets and insert them anywhere. Includes ready-made telec… |
+| 2026-10-25 13:24:55 | [bitoesposito.htmlemmurt](https://marketplace.visualstudio.com/items?itemName=bitoesposito.htmlemmurt) | htmlemmurt: HTML in napoletano | 0.1.1 | HTML in napoletano: colori, snippet, completamento ed errori mentre scrivi |
+| 2026-10-25 13:30:28 | [bitman.dictate-with-macwhisper](https://marketplace.visualstudio.com/items?itemName=bitman.dictate-with-macwhisper) | Dictate with MacWhisper | 0.2.2 | Press a key, speak, and the words land at your cursor. Local dictation for VS C… |
+| 2026-10-25 13:30:35 | [AlanForester.remote-llm-gateway](https://marketplace.visualstudio.com/items?itemName=AlanForester.remote-llm-gateway) | Remote LLM Gateway | 0.1.2 | Чат с Remote LLM Gateway. Проект остаётся локально, агент работает на шлюзе, пр… |
+| 2026-10-25 13:33:22 | [ms-vs-extensions.vssm-md](https://marketplace.visualstudio.com/items?itemName=ms-vs-extensions.vssm-md) | vssm-md | 1.1.0 | 苏木的vscode扩展Markdown所见即所得编辑器 |
+| 2026-10-25 14:03:52 | [u-na-gi.comment-note](https://marketplace.visualstudio.com/items?itemName=u-na-gi.comment-note) | Comment Note | 0.0.2 | Add GitHub-style review comments to code selections, then list and copy them |
 
 ## Data source
 

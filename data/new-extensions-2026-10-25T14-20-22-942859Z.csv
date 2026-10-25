@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-25T13:13:50.38Z,goddch.mybatis-lint,goddch,MyBatis Lint,0.1.0,Static analysis diagnostics for MyBatis mapper XML files.
+2026-10-25T13:16:44.203Z,sarathakur.codestash-lab,sarathakur,code runnnnnerrrrr,0.0.1,Save your own code snippets and insert them anywhere. Includes ready-made telecom and ESP32 lab practicals.
+2026-10-25T13:24:55.917Z,bitoesposito.htmlemmurt,bitoesposito,htmlemmurt: HTML in napoletano,0.1.1,"HTML in napoletano: colori, snippet, completamento ed errori mentre scrivi"
+2026-10-25T13:30:28.803Z,bitman.dictate-with-macwhisper,bitman,Dictate with MacWhisper,0.2.2,"Press a key, speak, and the words land at your cursor. Local dictation for VS Code on macOS through the MacWhisper app you already own, with an optional punctuation pass by an Ollama model."
+2026-10-25T13:30:35.36Z,AlanForester.remote-llm-gateway,AlanForester,Remote LLM Gateway,0.1.2,"Чат с Remote LLM Gateway. Проект остаётся локально, агент работает на шлюзе, правки возвращаются в редактор."
+2026-10-25T13:33:22.35Z,ms-vs-extensions.vssm-md,ms-vs-extensions,vssm-md,1.1.0,苏木的vscode扩展Markdown所见即所得编辑器
+2026-10-25T14:03:52.353Z,u-na-gi.comment-note,u-na-gi,Comment Note,0.0.2,"Add GitHub-style review comments to code selections, then list and copy them"
