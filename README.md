@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 07:20 UTC
+## Latest list — 2026-10-25 08:19 UTC
 
-New extensions published between 2026-10-25 05:20 UTC and 2026-10-25 07:20 UTC.
+New extensions published between 2026-10-25 06:19 UTC and 2026-10-25 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T07-20-34-224727Z.csv)
+[Full CSV](data/new-extensions-2026-10-25T08-19-28-409563Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 06:28:10 | [Fluxudio.fluxudio](https://marketplace.visualstudio.com/items?itemName=Fluxudio.fluxudio) | fluxudio | 0.0.1 | Fluxudio commands for projects running in the online editor. |
-| 2026-10-25 06:32:42 | [SamTIme101.shortcircuit](https://marketplace.visualstudio.com/items?itemName=SamTIme101.shortcircuit) | Short Circuit | 0.1.0 | LogicFlow language support for Short Circuit: interactive simulator studio, syn… |
-| 2026-10-25 06:51:17 | [KevinZuniga.h-lang](https://marketplace.visualstudio.com/items?itemName=KevinZuniga.h-lang) | H-Lang | 0.0.1 |  |
-| 2026-10-25 07:02:28 | [PandaScrub.pandascrub](https://marketplace.visualstudio.com/items?itemName=PandaScrub.pandascrub) | PandaScrub: Interactive Data Studio & P… | 1.0.0 | Visual data cleaning, recipe builder, EDA charts, pivot tables, and Matplotlib/… |
-| 2026-10-25 07:05:51 | [micromelon.micromelon-rover](https://marketplace.visualstudio.com/items?itemName=micromelon.micromelon-rover) | Micromelon Rover | 0.1.0 | Connect to Micromelon Rovers via BLE and run Python code |
+| 2026-10-25 07:14:20 | [megabrain.code-factory](https://marketplace.visualstudio.com/items?itemName=megabrain.code-factory) | MegaBrain Code Factory — AI Coding Agent | 7.4.18 | AI coding agent that plans, writes, reviews and ships code in VS Code. Free wit… |
+| 2026-10-25 07:38:01 | [Kabaforce.kabalang](https://marketplace.visualstudio.com/items?itemName=Kabaforce.kabalang) | KabaLang | 1.1.1 | KabaLang programlama dili desteği: renklendirme, kod zekâsı, hata denetimi ve t… |
+| 2026-10-25 07:41:27 | [DexterNova.nova-language-dex](https://marketplace.visualstudio.com/items?itemName=DexterNova.nova-language-dex) | DexterNova Nova Language | 0.1.1 | Syntax highlighting, file icons, and a color theme for Nova source files. |
+| 2026-10-25 07:54:26 | [jbaehova.markhov](https://marketplace.visualstudio.com/items?itemName=jbaehova.markhov) | Markhov | 0.1.0 | A quiet, minimal live preview editor for Markdown. Formatting renders as you ty… |
+| 2026-10-25 08:08:09 | [AnanthapadmanabhanM.SafePHP](https://marketplace.visualstudio.com/items?itemName=AnanthapadmanabhanM.SafePHP) | SafePHP - PHP Security Guard | 0.2.0 | Local-first PHP security checks for runtime versions, configuration, Composer a… |
 
 ## Data source
 
