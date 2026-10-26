@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T12:19:41.377Z,iotacb.ascii-jellyfish-background,iotacb,ASCII Jellyfish Background,0.1.0,"Animated ASCII jellyfish swimming behind VS Code, seen through frosted glass panels."
+2026-10-26T12:21:44.553Z,SoulFriends.css-variables-enhance,SoulFriends,CSS Variables Enhance,0.3.7,"Project-wide CSS variable autocomplete, hover, go-to-definition and color support via css-variable-lsp."
+2026-10-26T12:31:09.097Z,icrmahin.icrmahin-theme,icrmahin,icrmahin-theme,1.0.3,"Calm, vibrant dark and light themes for focused coding. Six variants, low eye fatigue."
+2026-10-26T12:37:09.927Z,Spy48.Leet-Forces,Spy48,Leet-Forces (LeetCode + Codeforces),0.1.1,"Solve LeetCode and Codeforces problems without leaving VS Code: fetch, test, submit."
+2026-10-26T12:49:25.693Z,MartimGomes.bug-tracker-bg,MartimGomes,Bug Tracker (.bg),0.2.1,"Editor visual para ficheiros .bg: uma tabela de bugs com estado, prioridade, filtros e edição."
+2026-10-26T12:49:41.903Z,novaziun.structured-text,novaziun,Structured Text,1.0.0,"Language support for IEC 61131-3 Structured Text in .ST and .EXP files: highlighting, navigation, completion, formatting, renaming and workspace-wide warnings."
+2026-10-26T12:59:08.167Z,random25160765-collab.nw,random25160765-collab,Better Neoweb,0.1.1,Neoweb 文学编程软件的ide配套插件。
+2026-10-26T12:59:27.593Z,zhangissic.vs-solution-explorer,zhangissic,SLN Solution Explorer,0.1.4,"Visual Studio 2013–2026 Solution Explorer for .sln, C# (.csproj), and C++ (.vcxproj) projects in VS Code and Cursor."
+2026-10-26T13:14:15.353Z,SourabhPatil.soql-optimizer-inspector,SourabhPatil,SOQL Optimizer Inspector,0.0.1,Automated performance analysis and governor limit monitoring for Salesforce SOQL queries in debug logs.
+2026-10-26T13:16:46.343Z,laabam.laabam-ai-coder,laabam,Laabam AI Coder,1.0.0,"Laabam AI's coding agent in your editor, powered by Laabam Agni. It reads and edits files, runs commands and uses the browser, with your approval at every step."

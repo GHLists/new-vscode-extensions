@@ -12,21 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 12:20 UTC
+## Latest list — 2026-10-26 13:25 UTC
 
-New extensions published between 2026-10-26 10:20 UTC and 2026-10-26 12:20 UTC.
+New extensions published between 2026-10-26 11:25 UTC and 2026-10-26 13:25 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T12-20-22-088879Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T13-25-46-627609Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 11:26:17 | [edwardsayer.colorful-recent-files](https://marketplace.visualstudio.com/items?itemName=edwardsayer.colorful-recent-files) | Colorful Recent Files: Vertical Tabs &… | 0.3.2 | Colorful treeview of recently opened and edited files, with optional Vertical T… |
-| 2026-10-26 11:29:47 | [HarshitBavaliya.gujarati](https://marketplace.visualstudio.com/items?itemName=HarshitBavaliya.gujarati) | GujaratiLang | 0.1.3 | Syntax highlighting for GujaratiLang source files. |
-| 2026-10-26 11:37:16 | [wowlua.wowlua](https://marketplace.visualstudio.com/items?itemName=wowlua.wowlua) | wowlua | 0.12.0 | Check, format and outline wowlua addons as you type; debug them and their tests… |
-| 2026-10-26 11:44:50 | [dmulholl.syntext-lang](https://marketplace.visualstudio.com/items?itemName=dmulholl.syntext-lang) | Syntext Lang | 0.1.0 | Syntax highlighting for the Syntext markup language |
-| 2026-10-26 11:45:13 | [sunneeyang.gridiff](https://marketplace.visualstudio.com/items?itemName=sunneeyang.gridiff) | Gridiff — Visual Table Diff | 0.1.12 | 看清每一个单元格的变化。按主键和字段对齐 CSV，支持 Mova 多行表头。 |
-| 2026-10-26 11:46:35 | [VitalPoint.near-ai-vscode](https://marketplace.visualstudio.com/items?itemName=VitalPoint.near-ai-vscode) | Near AI for VSCode | 0.1.0 | A private, cost-aware Open-GSD coding harness powered by NEAR AI Cloud. |
-| 2026-10-26 12:04:59 | [animeshmitra.rn-development-toolkit](https://marketplace.visualstudio.com/items?itemName=animeshmitra.rn-development-toolkit) | RN Development Toolkit | 0.0.1 | Developer utilities for React Native and Expo |
+| 2026-10-26 12:19:41 | [iotacb.ascii-jellyfish-background](https://marketplace.visualstudio.com/items?itemName=iotacb.ascii-jellyfish-background) | ASCII Jellyfish Background | 0.1.0 | Animated ASCII jellyfish swimming behind VS Code, seen through frosted glass pa… |
+| 2026-10-26 12:21:44 | [SoulFriends.css-variables-enhance](https://marketplace.visualstudio.com/items?itemName=SoulFriends.css-variables-enhance) | CSS Variables Enhance | 0.3.7 | Project-wide CSS variable autocomplete, hover, go-to-definition and color suppo… |
+| 2026-10-26 12:31:09 | [icrmahin.icrmahin-theme](https://marketplace.visualstudio.com/items?itemName=icrmahin.icrmahin-theme) | icrmahin-theme | 1.0.3 | Calm, vibrant dark and light themes for focused coding. Six variants, low eye f… |
+| 2026-10-26 12:37:09 | [Spy48.Leet-Forces](https://marketplace.visualstudio.com/items?itemName=Spy48.Leet-Forces) | Leet-Forces (LeetCode + Codeforces) | 0.1.1 | Solve LeetCode and Codeforces problems without leaving VS Code: fetch, test, su… |
+| 2026-10-26 12:49:25 | [MartimGomes.bug-tracker-bg](https://marketplace.visualstudio.com/items?itemName=MartimGomes.bug-tracker-bg) | Bug Tracker (.bg) | 0.2.1 | Editor visual para ficheiros .bg: uma tabela de bugs com estado, prioridade, fi… |
+| 2026-10-26 12:49:41 | [novaziun.structured-text](https://marketplace.visualstudio.com/items?itemName=novaziun.structured-text) | Structured Text | 1.0.0 | Language support for IEC 61131-3 Structured Text in .ST and .EXP files: highlig… |
+| 2026-10-26 12:59:08 | [random25160765-collab.nw](https://marketplace.visualstudio.com/items?itemName=random25160765-collab.nw) | Better Neoweb | 0.1.1 | Neoweb 文学编程软件的ide配套插件。 |
+| 2026-10-26 12:59:27 | [zhangissic.vs-solution-explorer](https://marketplace.visualstudio.com/items?itemName=zhangissic.vs-solution-explorer) | SLN Solution Explorer | 0.1.4 | Visual Studio 2013–2026 Solution Explorer for .sln, C# (.csproj), and C++ (.vcx… |
+| 2026-10-26 13:14:15 | [SourabhPatil.soql-optimizer-inspector](https://marketplace.visualstudio.com/items?itemName=SourabhPatil.soql-optimizer-inspector) | SOQL Optimizer Inspector | 0.0.1 | Automated performance analysis and governor limit monitoring for Salesforce SOQ… |
+| 2026-10-26 13:16:46 | [laabam.laabam-ai-coder](https://marketplace.visualstudio.com/items?itemName=laabam.laabam-ai-coder) | Laabam AI Coder | 1.0.0 | Laabam AI's coding agent in your editor, powered by Laabam Agni. It reads and e… |
 
 ## Data source
 
