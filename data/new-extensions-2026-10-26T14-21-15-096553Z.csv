@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T13:25:25.453Z,audiflo.arckeep,audiflo,ArcKeep,0.20.0,"ArcKeep by FictionFlare: a writing app for long serialized fiction. Arc remembers your characters, places and plot threads, drafts chapters from your notes and checks each one against your story."
+2026-10-26T13:32:21.553Z,miragon-gmbh.pulse-cockpit,miragon-gmbh,Miragon Pulse,0.24.1,"See what your process engine is running, right next to your BPMN models: definitions, instances, incidents and variables. Retry incidents and fix variables, guarded."
+2026-10-26T13:43:54.657Z,edwardsayer.folder-spaces,edwardsayer,Folder Spaces,0.2.0,Folder-scoped file explorer spaces: focus on one folder at a time without leaving your workspace.
+2026-10-26T13:48:31.93Z,ace-MS-is-shit.better-md-live-preview,ace-MS-is-shit,Markdown Live Preview (better),0.0.1,
+2026-10-26T13:53:12.143Z,lo-tek.interfaces,lo-tek,LO-TEK for VS Code,0.10.0,"Completion, hover, snippets, diagnostics and quick fixes for the LO-TEK design system: the <lt-*> elements, the lt- classes and their variants."
+2026-10-26T13:55:59.78Z,SourabhPatil.soql-optimizer,SourabhPatil,SOQL Optimizer,0.0.1,Automated performance analysis and governor limit monitoring for Salesforce SOQL queries in debug logs.
+2026-10-26T13:58:17.617Z,promptyq.promptyq-vscode,promptyq,PromptyQ - AI Coding Coach,1.0.1,"Chat with Codex, Claude Code or Gemini inside VS Code and get a daily report on how well you build with AI agents: prompts, review, tests, security and design."
+2026-10-26T13:59:54.417Z,marlonlange.changeline,marlonlange,"Changeline – Changelists, Shelf & Git Log",0.1.0,"Changelists, partial commits, shelf, Git log with graph, branches popup, three-way merge, interactive rebase and pull requests for VS Code: the Git workflow known from JetBrains IDEs. Not affiliated with JetBrains."

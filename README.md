@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 13:25 UTC
+## Latest list — 2026-10-26 14:21 UTC
 
-New extensions published between 2026-10-26 11:25 UTC and 2026-10-26 13:25 UTC.
+New extensions published between 2026-10-26 12:21 UTC and 2026-10-26 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T13-25-46-627609Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T14-21-15-096553Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 12:19:41 | [iotacb.ascii-jellyfish-background](https://marketplace.visualstudio.com/items?itemName=iotacb.ascii-jellyfish-background) | ASCII Jellyfish Background | 0.1.0 | Animated ASCII jellyfish swimming behind VS Code, seen through frosted glass pa… |
-| 2026-10-26 12:21:44 | [SoulFriends.css-variables-enhance](https://marketplace.visualstudio.com/items?itemName=SoulFriends.css-variables-enhance) | CSS Variables Enhance | 0.3.7 | Project-wide CSS variable autocomplete, hover, go-to-definition and color suppo… |
-| 2026-10-26 12:31:09 | [icrmahin.icrmahin-theme](https://marketplace.visualstudio.com/items?itemName=icrmahin.icrmahin-theme) | icrmahin-theme | 1.0.3 | Calm, vibrant dark and light themes for focused coding. Six variants, low eye f… |
-| 2026-10-26 12:37:09 | [Spy48.Leet-Forces](https://marketplace.visualstudio.com/items?itemName=Spy48.Leet-Forces) | Leet-Forces (LeetCode + Codeforces) | 0.1.1 | Solve LeetCode and Codeforces problems without leaving VS Code: fetch, test, su… |
-| 2026-10-26 12:49:25 | [MartimGomes.bug-tracker-bg](https://marketplace.visualstudio.com/items?itemName=MartimGomes.bug-tracker-bg) | Bug Tracker (.bg) | 0.2.1 | Editor visual para ficheiros .bg: uma tabela de bugs com estado, prioridade, fi… |
-| 2026-10-26 12:49:41 | [novaziun.structured-text](https://marketplace.visualstudio.com/items?itemName=novaziun.structured-text) | Structured Text | 1.0.0 | Language support for IEC 61131-3 Structured Text in .ST and .EXP files: highlig… |
-| 2026-10-26 12:59:08 | [random25160765-collab.nw](https://marketplace.visualstudio.com/items?itemName=random25160765-collab.nw) | Better Neoweb | 0.1.1 | Neoweb 文学编程软件的ide配套插件。 |
-| 2026-10-26 12:59:27 | [zhangissic.vs-solution-explorer](https://marketplace.visualstudio.com/items?itemName=zhangissic.vs-solution-explorer) | SLN Solution Explorer | 0.1.4 | Visual Studio 2013–2026 Solution Explorer for .sln, C# (.csproj), and C++ (.vcx… |
-| 2026-10-26 13:14:15 | [SourabhPatil.soql-optimizer-inspector](https://marketplace.visualstudio.com/items?itemName=SourabhPatil.soql-optimizer-inspector) | SOQL Optimizer Inspector | 0.0.1 | Automated performance analysis and governor limit monitoring for Salesforce SOQ… |
-| 2026-10-26 13:16:46 | [laabam.laabam-ai-coder](https://marketplace.visualstudio.com/items?itemName=laabam.laabam-ai-coder) | Laabam AI Coder | 1.0.0 | Laabam AI's coding agent in your editor, powered by Laabam Agni. It reads and e… |
+| 2026-10-26 13:25:25 | [audiflo.arckeep](https://marketplace.visualstudio.com/items?itemName=audiflo.arckeep) | ArcKeep | 0.20.0 | ArcKeep by FictionFlare: a writing app for long serialized fiction. Arc remembe… |
+| 2026-10-26 13:32:21 | [miragon-gmbh.pulse-cockpit](https://marketplace.visualstudio.com/items?itemName=miragon-gmbh.pulse-cockpit) | Miragon Pulse | 0.24.1 | See what your process engine is running, right next to your BPMN models: defini… |
+| 2026-10-26 13:43:54 | [edwardsayer.folder-spaces](https://marketplace.visualstudio.com/items?itemName=edwardsayer.folder-spaces) | Folder Spaces | 0.2.0 | Folder-scoped file explorer spaces: focus on one folder at a time without leavi… |
+| 2026-10-26 13:48:31 | [ace-MS-is-shit.better-md-live-preview](https://marketplace.visualstudio.com/items?itemName=ace-MS-is-shit.better-md-live-preview) | Markdown Live Preview (better) | 0.0.1 |  |
+| 2026-10-26 13:53:12 | [lo-tek.interfaces](https://marketplace.visualstudio.com/items?itemName=lo-tek.interfaces) | LO-TEK for VS Code | 0.10.0 | Completion, hover, snippets, diagnostics and quick fixes for the LO-TEK design… |
+| 2026-10-26 13:55:59 | [SourabhPatil.soql-optimizer](https://marketplace.visualstudio.com/items?itemName=SourabhPatil.soql-optimizer) | SOQL Optimizer | 0.0.1 | Automated performance analysis and governor limit monitoring for Salesforce SOQ… |
+| 2026-10-26 13:58:17 | [promptyq.promptyq-vscode](https://marketplace.visualstudio.com/items?itemName=promptyq.promptyq-vscode) | PromptyQ - AI Coding Coach | 1.0.1 | Chat with Codex, Claude Code or Gemini inside VS Code and get a daily report on… |
+| 2026-10-26 13:59:54 | [marlonlange.changeline](https://marketplace.visualstudio.com/items?itemName=marlonlange.changeline) | Changeline – Changelists, Shelf & Git L… | 0.1.0 | Changelists, partial commits, shelf, Git log with graph, branches popup, three-… |
 
 ## Data source
 
