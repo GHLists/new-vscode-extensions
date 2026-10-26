@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T20:18:38.613Z,yo-l-an.tokyo-night-modern,yo-l-an,Tokyo Night Modern,1.0.0,"A deeper, calmer take on Tokyo Night with a darker UI, softer accents and reworked syntax colors for HTML, CSS/SCSS, JS and TS."
+2026-10-26T20:20:54.1Z,Xbmkoo.filename-auditor,Xbmkoo,Filename Auditor,0.0.2,"Check for spelling errors in file names, powered by CSpell"
+2026-10-26T20:26:14.443Z,thep2wking.autosys-jil,thep2wking,Autosys JIL,1.0.0,Autosys Job Information Language Support
+2026-10-26T20:36:54.123Z,GuardianVigil.prufgate,GuardianVigil,PrufGate,1.1.0,"Shows PrufGate findings (faked results, hollow tests, weakened checks) inline. Runs the prufgate CLI you install."
+2026-10-26T20:38:45.34Z,al2me6.shelx-ins,al2me6,SHELX Instructions Syntax,0.1.1,Syntax highlighter for SHELX .ins and .res files
+2026-10-26T20:41:11.333Z,MLDev.css-peek-preview,MLDev,CSS Peek Preview,0.1.1,Preview CSS rules for the class under your cursor.
+2026-10-26T20:43:27.037Z,nicolas-hedoire.nicohash-code-atlas,nicolas-hedoire,Code Atlas by Nicohash,0.5.0,"Lire et modifier le code avec votre modèle : changements en direct, graphe d’imports et guide de lecture."
+2026-10-26T20:45:47.98Z,parthmudgal.localjudge,parthmudgal,LocalJudge,0.1.0,Import Codeforces samples from Chrome and judge C++ solutions locally.
+2026-10-26T20:52:32.05Z,EugeneK.task-launch-tree,EugeneK,TaskLaunchTree,1.0.0,"Browse, organize, run, and stop VS Code tasks in a sidebar."
+2026-10-26T20:53:14.523Z,galeikan.galeikan-language,galeikan,Galeikan,0.1.0,Galeikan syntax highlighting and Eclipse color theme
+2026-10-26T21:09:37.01Z,mills-git.focus-directory,mills-git,Focus a Directory,0.0.1,Search directories in the current workspace and focus one in the file Explorer.
+2026-10-26T21:14:54.743Z,lorspi.claude-quota-pace,lorspi,Claude Quota Pace,0.1.2,Compara el % de cuota de Claude Code consumido contra el % de tiempo transcurrido desde tu último corte.
