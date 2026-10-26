@@ -12,29 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 10:18 UTC
+## Latest list — 2026-10-26 11:20 UTC
 
-New extensions published between 2026-10-26 08:18 UTC and 2026-10-26 10:18 UTC.
+New extensions published between 2026-10-26 09:20 UTC and 2026-10-26 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T10-18-56-957306Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T11-20-46-558595Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 09:15:56 | [AhmedMohammedSaad.flutter-connect-wirelessly](https://marketplace.visualstudio.com/items?itemName=AhmedMohammedSaad.flutter-connect-wirelessly) | Flutter Connect Wirelessly - Flutter Wi… | 1.0.7 | The ultimate 1-click Wireless ADB connection & screen mirroring tool for Flutte… |
-| 2026-10-26 09:24:19 | [CIGlobalTechnologies.rubiops](https://marketplace.visualstudio.com/items?itemName=CIGlobalTechnologies.rubiops) | RubiOps | 1.0.0 | Azure DevOps in VS Code: dashboard, My Tasks, Task Search Bot, standup AI, time… |
-| 2026-10-26 09:28:17 | [AndyDrei.env-handler-vscode](https://marketplace.visualstudio.com/items?itemName=AndyDrei.env-handler-vscode) | Env Handler | 0.1.0 | Manage named .env environments from VS Code. |
-| 2026-10-26 09:37:31 | [ZanderAlastor.codexbar-usage](https://marketplace.visualstudio.com/items?itemName=ZanderAlastor.codexbar-usage) | CodexBar Usage | 0.5.0 | Codex, Claude, Gemini, DeepSeek and every other CodexBar provider in the VS Cod… |
-| 2026-10-26 09:41:31 | [masota.pichalite](https://marketplace.visualstudio.com/items?itemName=masota.pichalite) | PichaLite — Local Image Compression | 0.1.0 | Compress JPEG, PNG and WebP images locally with PichaLite's Rust encoder. |
-| 2026-10-26 09:41:47 | [Rakhim.ai-feature-source-control](https://marketplace.visualstudio.com/items?itemName=Rakhim.ai-feature-source-control) | AI Feature Source Control | 1.0.1 | Organize Git changes by feature with AI. Stage, commit, and sync multiple repos… |
-| 2026-10-26 09:47:54 | [open-context.open-context-engine](https://marketplace.visualstudio.com/items?itemName=open-context.open-context-engine) | Open Context Engine | 0.4.1 | Local-first codebase indexing, semantic search, and an AI agent grounded in you… |
-| 2026-10-26 09:49:33 | [CAUCOLabs.rea-vscode](https://marketplace.visualstudio.com/items?itemName=CAUCOLabs.rea-vscode) | REA for VS Code | 0.4.0 | Integrate REA reverse engineering and automation tools into Visual Studio Code… |
-| 2026-10-26 09:55:09 | [konnerhorton.ox-training-log](https://marketplace.visualstudio.com/items?itemName=konnerhorton.ox-training-log) | Ox | 0.1.0 | Syntax highlighting and diagnostics for Ox training log files |
-| 2026-10-26 09:55:24 | [CameronAirlie.CameronAirlie-codevim](https://marketplace.visualstudio.com/items?itemName=CameronAirlie.CameronAirlie-codevim) | Neovim in VS Code | 0.1.0 | Embed your real Neovim (and your config) inside VS Code, with seamless navigati… |
-| 2026-10-26 09:56:29 | [dlne.dlne-code-assistant](https://marketplace.visualstudio.com/items?itemName=dlne.dlne-code-assistant) | DLNE Coding Assistant: Free AI Agent | 1.3.0 | A free AI coding agent and autocomplete, running on GPUs its users share. 100 f… |
-| 2026-10-26 09:57:06 | [Heossi.saar](https://marketplace.visualstudio.com/items?itemName=Heossi.saar) | Saar Lossless Compression | 1.0.0 | Compress and decompress files with the Saar engine, byte-exact and recovery-ver… |
-| 2026-10-26 09:58:57 | [Nihilnia.instant-selection-js-runner](https://marketplace.visualstudio.com/items?itemName=Nihilnia.instant-selection-js-runner) | Js runner — Pardus | 0.5.1 | Run JavaScript selections in VS Code with automatic context loading, top-level… |
-| 2026-10-26 09:59:00 | [guaguagua.overwatch-workshop-ggg](https://marketplace.visualstudio.com/items?itemName=guaguagua.overwatch-workshop-ggg) | 守望先锋工坊语言支持（呱呱呱） | 3.11.35 | 守望先锋® 工坊语言支持（中文）· 独立开源分支 |
-| 2026-10-26 10:09:56 | [cixiangtao.codex-project-chats](https://marketplace.visualstudio.com/items?itemName=cixiangtao.codex-project-chats) | Codex Project Chats | 0.1.1 | 按项目查找 Codex 对话，单击回到官方 Codex 继续。 |
+| 2026-10-26 10:16:39 | [pridont.jury](https://marketplace.visualstudio.com/items?itemName=pridont.jury) | Jury | 0.1.0 | Read code in the order it makes sense. Review a diff or pull request as an orde… |
+| 2026-10-26 10:23:05 | [TigranMkrtchyan.gitvision-x](https://marketplace.visualstudio.com/items?itemName=TigranMkrtchyan.gitvision-x) | GitVision X | 0.1.0 | Fast, quiet git blame for the line you're on, and a commit graph that follows y… |
+| 2026-10-26 10:26:30 | [Nihilnia.nihilanth-toolbox](https://marketplace.visualstudio.com/items?itemName=Nihilnia.nihilanth-toolbox) | Nihilanth Toolbox | 0.1.5 | An offline, editor-first toolbox: slash commands, code memory, snippets, dummy… |
+| 2026-10-26 10:29:28 | [welove42.a-share-turnover](https://marketplace.visualstudio.com/items?itemName=welove42.a-share-turnover) | A股行情 · 自选股、图表与财经新闻 | 1.2.0 | 沪深成交额同刻对比、中文名或代码搜索自选股、底部指数切换、东方财富行情图表，以及输出面板财经快讯。 |
+| 2026-10-26 10:39:31 | [timwillis.ai-usage-cloud](https://marketplace.visualstudio.com/items?itemName=timwillis.ai-usage-cloud) | AI Usage Cloud | 0.2.0 | AI plan limits for your detected Cursor, Codex, Claude Code, Gemini and Antigra… |
+| 2026-10-26 11:03:29 | [MarcoMaes.mobile-test-bench](https://marketplace.visualstudio.com/items?itemName=MarcoMaes.mobile-test-bench) | Mobile Test Bench | 1.0.1 | Mirror and control Android and iOS devices in VS Code, inspect their UI, and ge… |
+| 2026-10-26 11:04:11 | [harish-chirati.sharethecode](https://marketplace.visualstudio.com/items?itemName=harish-chirati.sharethecode) | ShareTheCode | 0.5.0 | Share a named scratchpad between VS Code windows and computers. |
+| 2026-10-26 11:07:31 | [codepulse-repository-indexer.codepulse-code-intelligence](https://marketplace.visualstudio.com/items?itemName=codepulse-repository-indexer.codepulse-code-intelligence) | CodePulse Code Intelligence | 0.1.0 | Local-first, agent-native code intelligence for VS Code — search, symbol naviga… |
+| 2026-10-26 11:14:52 | [ZeesuRoyalist.z-code-guard](https://marketplace.visualstudio.com/items?itemName=ZeesuRoyalist.z-code-guard) | Z-Code-Guard | 0.2.0 | A free, local-first VS Code extension that explains code changes, detects regre… |
 
 ## Data source
 

@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T10:16:39.31Z,pridont.jury,pridont,Jury,0.1.0,"Read code in the order it makes sense. Review a diff or pull request as an ordered stack of related changes, or ask how something works and get the code to read, step by step. A model finds and orders the code; you read it and judge it."
+2026-10-26T10:23:05.017Z,TigranMkrtchyan.gitvision-x,TigranMkrtchyan,GitVision X,0.1.0,"Fast, quiet git blame for the line you're on, and a commit graph that follows your cursor."
+2026-10-26T10:26:30.087Z,Nihilnia.nihilanth-toolbox,Nihilnia,Nihilanth Toolbox,0.1.5,"An offline, editor-first toolbox: slash commands, code memory, snippets, dummy data, and transformations."
+2026-10-26T10:29:28.943Z,welove42.a-share-turnover,welove42,A股行情 · 自选股、图表与财经新闻,1.2.0,沪深成交额同刻对比、中文名或代码搜索自选股、底部指数切换、东方财富行情图表，以及输出面板财经快讯。
+2026-10-26T10:39:31.693Z,timwillis.ai-usage-cloud,timwillis,AI Usage Cloud,0.2.0,"AI plan limits for your detected Cursor, Codex, Claude Code, Gemini and Antigravity tools. Windows dashboard in VS Code or Cursor; optional private cloud sync."
+2026-10-26T11:03:29.703Z,MarcoMaes.mobile-test-bench,MarcoMaes,Mobile Test Bench,1.0.1,"Mirror and control Android and iOS devices in VS Code, inspect their UI, and get ready-to-use Mobilewright, Appium and WebdriverIO locators."
+2026-10-26T11:04:11.993Z,harish-chirati.sharethecode,harish-chirati,ShareTheCode,0.5.0,Share a named scratchpad between VS Code windows and computers.
+2026-10-26T11:07:31.82Z,codepulse-repository-indexer.codepulse-code-intelligence,codepulse-repository-indexer,CodePulse Code Intelligence,0.1.0,"Local-first, agent-native code intelligence for VS Code — search, symbol navigation, references, and impact analysis, powered by a local CodePulse server."
+2026-10-26T11:14:52.297Z,ZeesuRoyalist.z-code-guard,ZeesuRoyalist,Z-Code-Guard,0.2.0,"A free, local-first VS Code extension that explains code changes, detects regressions, evaluates risks, and protects important code boundaries."
