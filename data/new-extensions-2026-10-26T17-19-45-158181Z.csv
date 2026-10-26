@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T16:20:53.653Z,TheQtCompany.qt-csharp-pack,TheQtCompany,Qt Bridge C# Extension Pack,0.9.0,Recommended extensions for Qt Bridge C# development.
+2026-10-26T16:21:47.547Z,ibndeif.kvman,ibndeif,kvman,0.4.8,"kvman in VS Code's side bar, beside your files."
+2026-10-26T16:34:01.22Z,chillerb.remote-slurm-containers,chillerb,Slurm Dev Containers,0.1.1,"Develop inside Apptainer containers running as Slurm jobs on HPC clusters, similar to Dev Containers."
+2026-10-26T16:36:14.043Z,fomadev.kva-formatter,fomadev,KivaDB Formatter,1.0.0,"Format Document for KivaDB command files (.kva), and the mistakes KivaDB would report, shown as you type."
+2026-10-26T16:37:14.97Z,fomadev.kiva-tools,fomadev,KivaDB Tools,1.0.0,"Completion, hovers and a live connection to KivaDB for .kva files: run the command under the cursor, complete existing keys."
+2026-10-26T16:37:43.807Z,fomadev.kiva-runner,fomadev,KivaDB Runner,1.0.0,Run KivaDB command files (.kva) from the editor and see the results live.
+2026-10-26T16:38:11.893Z,fomadev.kiva-kva,fomadev,KivaDB Language (.kva),1.0.0,"Syntax highlighting, editing rules and snippets for KivaDB command files (.kva)."
+2026-10-26T16:44:49.443Z,Systemcluster.theme-carinae,Systemcluster,Carinae Theme,0.1.0,Dark/Light Theme with Semantic Highlights and Pastel Appearance.
+2026-10-26T16:45:42.31Z,kaitoi-labs.kaitoi-code,kaitoi-labs,Kaitoi Code,0.1.0,"Kaitoi Code in VS Code: the coding agent that also makes the media your app needs, on one bill."
+2026-10-26T16:54:21.783Z,ftejero21.traza,ftejero21,Traza,0.1.0,"Visualización del flujo de un proceso del proyecto (diagrama de secuencia, simular datos, analizar logs y proponer cambios) con el modelo de lenguaje que ya usas en VS Code. El código relevante (sin archivos sensibles y con secretos enmascarados) se envía al proveedor de ese modelo."
+2026-10-26T16:58:25.813Z,idlebid.idlebid-vscode,idlebid,Idlebid,0.1.0,"Chat with Anthropic, OpenAI, Gemini or OpenRouter in VS Code using your own API key. Shows sponsored text (off until you turn it on)."
+2026-10-26T16:59:04.697Z,montaglue.pliron,montaglue,pliron IR,0.1.0,"pliron IR support powered by pliron-lsp: exact diagnostics, highlighting, navigation and type hints from your project's own dialects — no setup"
