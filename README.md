@@ -12,26 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 21:20 UTC
+## Latest list — 2026-10-26 22:19 UTC
 
-New extensions published between 2026-10-26 19:20 UTC and 2026-10-26 21:20 UTC.
+New extensions published between 2026-10-26 20:19 UTC and 2026-10-26 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T21-20-55-155722Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T22-19-18-840056Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 20:18:38 | [yo-l-an.tokyo-night-modern](https://marketplace.visualstudio.com/items?itemName=yo-l-an.tokyo-night-modern) | Tokyo Night Modern | 1.0.0 | A deeper, calmer take on Tokyo Night with a darker UI, softer accents and rewor… |
-| 2026-10-26 20:20:54 | [Xbmkoo.filename-auditor](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.filename-auditor) | Filename Auditor | 0.0.2 | Check for spelling errors in file names, powered by CSpell |
-| 2026-10-26 20:26:14 | [thep2wking.autosys-jil](https://marketplace.visualstudio.com/items?itemName=thep2wking.autosys-jil) | Autosys JIL | 1.0.0 | Autosys Job Information Language Support |
-| 2026-10-26 20:36:54 | [GuardianVigil.prufgate](https://marketplace.visualstudio.com/items?itemName=GuardianVigil.prufgate) | PrufGate | 1.1.0 | Shows PrufGate findings (faked results, hollow tests, weakened checks) inline.… |
-| 2026-10-26 20:38:45 | [al2me6.shelx-ins](https://marketplace.visualstudio.com/items?itemName=al2me6.shelx-ins) | SHELX Instructions Syntax | 0.1.1 | Syntax highlighter for SHELX .ins and .res files |
-| 2026-10-26 20:41:11 | [MLDev.css-peek-preview](https://marketplace.visualstudio.com/items?itemName=MLDev.css-peek-preview) | CSS Peek Preview | 0.1.1 | Preview CSS rules for the class under your cursor. |
-| 2026-10-26 20:43:27 | [nicolas-hedoire.nicohash-code-atlas](https://marketplace.visualstudio.com/items?itemName=nicolas-hedoire.nicohash-code-atlas) | Code Atlas by Nicohash | 0.5.0 | Lire et modifier le code avec votre modèle : changements en direct, graphe d’im… |
-| 2026-10-26 20:45:47 | [parthmudgal.localjudge](https://marketplace.visualstudio.com/items?itemName=parthmudgal.localjudge) | LocalJudge | 0.1.0 | Import Codeforces samples from Chrome and judge C++ solutions locally. |
-| 2026-10-26 20:52:32 | [EugeneK.task-launch-tree](https://marketplace.visualstudio.com/items?itemName=EugeneK.task-launch-tree) | TaskLaunchTree | 1.0.0 | Browse, organize, run, and stop VS Code tasks in a sidebar. |
-| 2026-10-26 20:53:14 | [galeikan.galeikan-language](https://marketplace.visualstudio.com/items?itemName=galeikan.galeikan-language) | Galeikan | 0.1.0 | Galeikan syntax highlighting and Eclipse color theme |
-| 2026-10-26 21:09:37 | [mills-git.focus-directory](https://marketplace.visualstudio.com/items?itemName=mills-git.focus-directory) | Focus a Directory | 0.0.1 | Search directories in the current workspace and focus one in the file Explorer. |
-| 2026-10-26 21:14:54 | [lorspi.claude-quota-pace](https://marketplace.visualstudio.com/items?itemName=lorspi.claude-quota-pace) | Claude Quota Pace | 0.1.2 | Compara el % de cuota de Claude Code consumido contra el % de tiempo transcurri… |
+| 2026-10-26 21:19:23 | [zglass.sidereal](https://marketplace.visualstudio.com/items?itemName=zglass.sidereal) | Sidereal for Git | 1.0.2 | Git graph, log and history for VS Code, inspired by TortoiseGit: branches, tags… |
+| 2026-10-26 21:34:46 | [Koha9-Lee.liveshare-workspace-bridge](https://marketplace.visualstudio.com/items?itemName=Koha9-Lee.liveshare-workspace-bridge) | Live Share Workspace Bridge | 0.2.2 | Edit Live Share workspaces with permission controls and an optional verified Ho… |
+| 2026-10-26 21:50:42 | [verse-lab.veil-verifier](https://marketplace.visualstudio.com/items?itemName=verse-lab.veil-verifier) | Veil Verifier | 0.0.1 | Run the model checkers that #mc_config builds, and show their progress and resu… |
+| 2026-10-26 21:57:39 | [yves0003.f4dataparq](https://marketplace.visualstudio.com/items?itemName=yves0003.f4dataparq) | f4data parquet | 0.0.33 | Open, explore and query large Parquet, CSV, JSON and Excel files in VS Code — s… |
+| 2026-10-26 22:10:44 | [pride7.verso-markdown-editor](https://marketplace.visualstudio.com/items?itemName=pride7.verso-markdown-editor) | Verso Markdown Editor | 0.3.0 | Edit Markdown files in a what-you-see-is-what-you-get editor, powered by Milkdo… |
 
 ## Data source
 

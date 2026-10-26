@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T21:19:23.583Z,zglass.sidereal,zglass,Sidereal for Git,1.0.2,"Git graph, log and history for VS Code, inspired by TortoiseGit: branches, tags, stashes, worktrees and submodules in one view."
+2026-10-26T21:34:46.803Z,Koha9-Lee.liveshare-workspace-bridge,Koha9-Lee,Live Share Workspace Bridge,0.2.2,"Edit Live Share workspaces with permission controls and an optional verified Host PowerShell bridge, without ports or copied tokens."
+2026-10-26T21:50:42.627Z,verse-lab.veil-verifier,verse-lab,Veil Verifier,0.0.1,"Run the model checkers that #mc_config builds, and show their progress and results."
+2026-10-26T21:57:39.22Z,yves0003.f4dataparq,yves0003,f4data parquet,0.0.33,"Open, explore and query large Parquet, CSV, JSON and Excel files in VS Code — schema, column statistics and SQL, powered by DuckDB"
+2026-10-26T22:10:44.503Z,pride7.verso-markdown-editor,pride7,Verso Markdown Editor,0.3.0,"Edit Markdown files in a what-you-see-is-what-you-get editor, powered by Milkdown."
