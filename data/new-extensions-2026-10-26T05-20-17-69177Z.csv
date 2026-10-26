@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T04:15:46.997Z,Atensor.atensor-ai,Atensor,Atensor AI,1.0.14,"AI chat, agent mode, inline editing and completions, powered by Atensor."
+2026-10-26T04:23:33.89Z,NO00.vscode-codex-speed,NO00,VSCode Codex Speed,0.1.1,读取 Remote SSH 主机的 Codex 会话日志，在状态栏显示输出 token/s、估算状态和最近调用速度。
+2026-10-26T04:48:39.97Z,polestar-tech.docket,polestar-tech,Docket: AI Task Queue & Kanban for Claude Code,0.1.0,"Queue tasks for Claude Code, Copilot, Codex, Cursor and Gemini CLI on a Kanban board. Your agent works through them one by one, asks when stuck, and reports back. Includes usage tracking and a separate login per project."
+2026-10-26T05:04:38.26Z,dr-opensource.audiowizard,dr-opensource,AudioWizard,0.1.0,"Listen instead of read. Neural text-to-speech for Markdown docs, long specs and AI agent replies, with a native-feeling player, sentence highlighting and Skim mode."
+2026-10-26T05:14:19.487Z,narnat.narnat-vscode,narnat,Narnat,0.0.1,AI 编程智能体：在侧边栏对话，自主读写代码、执行命令、SSH/串口调试、联网搜索。内置后端，装完填 API Key 即可用。
