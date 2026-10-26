@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T17:15:37.523Z,VerakSystems.leetcode-workspace,VerakSystems,LeetCode Workspace,1.0.0,Solve official LeetCode problems and view real judge results in VS Code.
+2026-10-26T17:29:54.377Z,Danni96.base64-image-decode,Danni96,Base64 Image Decode & Preview,1.0.1,"Decodifica y previsualiza imágenes en Base64 (con o sin prefijo data:image) en Hover, CodeLens y Visor Interactivo con Zoom, Fondos, Playground y Exportación 100% offline."
+2026-10-26T17:38:36.047Z,intocps.robosapiens-trustworthiness-checker-vscode,intocps,RoboSAPIENS Trustworthiness Checker,1.0.0,"Language support for the RoboSAPIENS trustworthiness checker. Includes syntax highlighting, completion, diagnostics, and testing support for DSRV runtime verification specifications."
+2026-10-26T17:49:59.703Z,hacknseek.report-studio,hacknseek,Report Studio,0.2.0,"Write security and IT reports in VS Code like SysReptor and PwnDoc: pentest, retest, incident response, forensics, audits. Configurable fields, live paged preview, PDF export, screenshot annotation and Excel/CSV/JSON/SARIF export."
+2026-10-26T17:50:16.503Z,renan-dev.clickup-tasks,renan-dev,ClickUp Tasks,0.6.0,"Importa tarefas do ClickUp (dados, comentários e anexos) para uma pasta local em Markdown, prontas para referenciar em qualquer IA."
+2026-10-26T17:55:10.61Z,soapy.soaptask,soapy,SoapTask,1.0.0,SoapTask lightweight developer task management and clean workspace workflow orchestrator.
+2026-10-26T17:56:02.753Z,KeyValueDocument.kvd-vscode,KeyValueDocument,KVD,0.2.0,"KVD language support (diagnostics, completion, hover, formatting, go to definition) via kvd-lsp"
+2026-10-26T18:03:38.447Z,GiggleByteAB.spockify,GiggleByteAB,Spockify,1.0.4,"Open-source Cursor alternative — chat, tab complete, Ctrl+K, composer, agents, terminal agent via spockify.eu"
+2026-10-26T18:10:49.087Z,sidh1999.git-tree-rs,sidh1999,git-tree-rs,0.3.4,"View a Git graph of your repository with its worktrees, and perform Git actions from the graph."
+2026-10-26T18:12:12.973Z,AlxPro.alxpro-theme,AlxPro,AlxPro Theme,1.1.0,"Black-and-white dark and light themes for web development, with matching colors for eight terminals."
