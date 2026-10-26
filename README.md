@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-25 23:19 UTC
+## Latest list — 2026-10-26 00:19 UTC
 
-New extensions published between 2026-10-25 21:19 UTC and 2026-10-25 23:19 UTC.
+New extensions published between 2026-10-25 22:19 UTC and 2026-10-26 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-25T23-19-19-64498Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T00-19-57-81177Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-25 22:31:40 | [luanblanco.language-pack-sol](https://marketplace.visualstudio.com/items?itemName=luanblanco.language-pack-sol) | solidity​​​​​​​​​​​​​​​​​​​​​​​ | 0.0.195 | Ethereum Solidity Language for Visual Studio Code |
-| 2026-10-25 22:43:28 | [codevisuals.code2uml](https://marketplace.visualstudio.com/items?itemName=codevisuals.code2uml) | Code2UML Studio | 0.1.0 | Code2UML turns source code into clear activity, class, state, and sequence diag… |
-| 2026-10-25 22:56:02 | [sonawanemayur.carrycontext](https://marketplace.visualstudio.com/items?itemName=sonawanemayur.carrycontext) | CarryContext | 0.2.0 | Compact AI coding sessions into a portable handoff.md and resume in any LLM pro… |
-| 2026-10-25 23:04:53 | [wrwrwr.devcont-local](https://marketplace.visualstudio.com/items?itemName=wrwrwr.devcont-local) | Dev Containers: Local Add-on | 0.0.1 | Merge local configuration with devcontainer.json. |
+| 2026-10-26 00:04:48 | [konpeki.processingcli-vscode](https://marketplace.visualstudio.com/items?itemName=konpeki.processingcli-vscode) | ProcessingCLI for VS Code | 1.0.0 | Run Processing sketches in VS Code with ProcessingCLI. A fork of the Processing… |
+| 2026-10-26 00:08:44 | [WritersLogic.bluepencil](https://marketplace.visualstudio.com/items?itemName=WritersLogic.bluepencil) | bluepencil | 0.2.0 | Prose analysis for writers: echoes, repeats, rhythm, dialogue, readability, and… |
 
 ## Data source
 
