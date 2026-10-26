@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 19:19 UTC
+## Latest list — 2026-10-26 20:21 UTC
 
-New extensions published between 2026-10-26 17:19 UTC and 2026-10-26 19:19 UTC.
+New extensions published between 2026-10-26 18:21 UTC and 2026-10-26 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T19-19-38-130768Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T20-21-32-831263Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 18:31:52 | [qadeer.qadeer-companion](https://marketplace.visualstudio.com/items?itemName=qadeer.qadeer-companion) | Qadeer — Islamic Companion | 1.0.0 | Personalized Islamic companion and productivity workspace for Qadeer: Quran aya… |
-| 2026-10-26 18:45:35 | [ntdev005.walang](https://marketplace.visualstudio.com/items?itemName=ntdev005.walang) | Wa Language | 1.0.1 |  |
-| 2026-10-26 18:54:49 | [NexusFoursys.nexus-foursys](https://marketplace.visualstudio.com/items?itemName=NexusFoursys.nexus-foursys) | Nexus Foursys | 2.0.1 | Assistente de programação com IA no seu editor: conversa com o seu código, edit… |
-| 2026-10-26 19:02:44 | [6qat.deepwiki](https://marketplace.visualstudio.com/items?itemName=6qat.deepwiki) | DeepWiki | 0.1.6 | Interactive Code Encyclopedia & Symbol Documentation for VS Code |
+| 2026-10-26 19:31:15 | [websitedesigningstore.multi-folder-workspace-manager](https://marketplace.visualstudio.com/items?itemName=websitedesigningstore.multi-folder-workspace-manager) | Multi Folder Workspace Manager | 3.0.1 | Open multiple project folders instantly in a single VS Code multi-root workspac… |
+| 2026-10-26 19:37:03 | [kararo-consulting.token-usage-tracker](https://marketplace.visualstudio.com/items?itemName=kararo-consulting.token-usage-tracker) | Claude Code Token Usage Tracker | 1.0.0 | Track your Claude Code token usage: rate-limit windows, API-equivalent spend, c… |
+| 2026-10-26 19:42:07 | [GwenZhang.workgroup](https://marketplace.visualstudio.com/items?itemName=GwenZhang.workgroup) | Workgroup | 0.2.2 | A shared project chat for you, Codex and Claude, with reviewed code proposals. |
+| 2026-10-26 19:49:12 | [mustry-solutions.iglint](https://marketplace.visualstudio.com/items?itemName=mustry-solutions.iglint) | iglint | 0.1.0 | Fast linter for Ignition 8.3 projects: Perspective views, Jython scripts, expre… |
+| 2026-10-26 19:56:50 | [crno.snomed-ct-languages](https://marketplace.visualstudio.com/items?itemName=crno.snomed-ct-languages) | SNOMED CT Languages | 0.0.1 | Snomed CT Languages for VS Code. AI-assisted development. |
+| 2026-10-26 19:57:12 | [houssam-ouatmani.gradle-dsl-assistant](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.gradle-dsl-assistant) | Gradle DSL Assistant | 0.1.0 | Context-aware Gradle DSL completions and Maven Central dependency search for Gr… |
+| 2026-10-26 19:58:33 | [juangp3.j2c](https://marketplace.visualstudio.com/items?itemName=juangp3.j2c) | J2C Java to C++ | 0.6.0 | Translate Java source code to C++ using the J2C converter. |
 
 ## Data source
 

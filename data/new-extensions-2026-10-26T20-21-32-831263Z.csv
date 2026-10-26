@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T19:31:15.323Z,websitedesigningstore.multi-folder-workspace-manager,websitedesigningstore,Multi Folder Workspace Manager,3.0.1,"Open multiple project folders instantly in a single VS Code multi-root workspace. Perfect for frontend + backend development, Android + API projects, and multi-project workflows."
+2026-10-26T19:37:03.93Z,kararo-consulting.token-usage-tracker,kararo-consulting,Claude Code Token Usage Tracker,1.0.0,"Track your Claude Code token usage: rate-limit windows, API-equivalent spend, cache, project and tool analytics in a status bar and panel dashboard."
+2026-10-26T19:42:07.87Z,GwenZhang.workgroup,GwenZhang,Workgroup,0.2.2,"A shared project chat for you, Codex and Claude, with reviewed code proposals."
+2026-10-26T19:49:12.51Z,mustry-solutions.iglint,mustry-solutions,iglint,0.1.0,"Fast linter for Ignition 8.3 projects: Perspective views, Jython scripts, expressions and gateway resources."
+2026-10-26T19:56:50.757Z,crno.snomed-ct-languages,crno,SNOMED CT Languages,0.0.1,Snomed CT Languages for VS Code. AI-assisted development.
+2026-10-26T19:57:12.033Z,houssam-ouatmani.gradle-dsl-assistant,houssam-ouatmani,Gradle DSL Assistant,0.1.0,Context-aware Gradle DSL completions and Maven Central dependency search for Groovy and Kotlin build scripts
+2026-10-26T19:58:33.55Z,juangp3.j2c,juangp3,J2C Java to C++,0.6.0,Translate Java source code to C++ using the J2C converter.
