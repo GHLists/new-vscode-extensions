@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T00:19:59.843Z,doubleagent.doubleagent,doubleagent,DoubleAgent,0.2.0,"Finds and rates rogue AI agent instruction files (AGENTS.md, CLAUDE.md, Cursor and Copilot rules) as you open and edit them."
+2026-10-26T00:25:15.65Z,aryanKaga.nyxus-coding-agent-replica,aryanKaga,Nyxus Modified,0.0.2,Nyxus Modified - Coding Agent
+2026-10-26T00:28:03.04Z,MSGL.vio-plus,MSGL,Vion+ Language ,0.0.1,Soporte de sintaxis oficial y coloreado para el lenguaje Vion+
+2026-10-26T00:59:56.36Z,bhashitva.bhash,bhashitva,Bhash (भाष),0.1.2,"Devanagari programming: compiler-backed diagnostics, completion, navigation, and project tasks."
+2026-10-26T01:18:53.237Z,junpeiwada.jpstlviewer,junpeiwada,JP STL Viewer,0.1.0,STL を PBR（環境光 IBL・ソフトシャドウ・AO）で高品位にリアルタイムプレビューする VSCode 拡張。材質プリセットつき、STL の更新で自動リロード。

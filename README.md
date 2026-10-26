@@ -12,16 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 00:19 UTC
+## Latest list — 2026-10-26 01:20 UTC
 
-New extensions published between 2026-10-25 22:19 UTC and 2026-10-26 00:19 UTC.
+New extensions published between 2026-10-25 23:20 UTC and 2026-10-26 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T00-19-57-81177Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T01-20-46-108548Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 00:04:48 | [konpeki.processingcli-vscode](https://marketplace.visualstudio.com/items?itemName=konpeki.processingcli-vscode) | ProcessingCLI for VS Code | 1.0.0 | Run Processing sketches in VS Code with ProcessingCLI. A fork of the Processing… |
-| 2026-10-26 00:08:44 | [WritersLogic.bluepencil](https://marketplace.visualstudio.com/items?itemName=WritersLogic.bluepencil) | bluepencil | 0.2.0 | Prose analysis for writers: echoes, repeats, rhythm, dialogue, readability, and… |
+| 2026-10-26 00:19:59 | [doubleagent.doubleagent](https://marketplace.visualstudio.com/items?itemName=doubleagent.doubleagent) | DoubleAgent | 0.2.0 | Finds and rates rogue AI agent instruction files (AGENTS.md, CLAUDE.md, Cursor… |
+| 2026-10-26 00:25:15 | [aryanKaga.nyxus-coding-agent-replica](https://marketplace.visualstudio.com/items?itemName=aryanKaga.nyxus-coding-agent-replica) | Nyxus Modified | 0.0.2 | Nyxus Modified - Coding Agent |
+| 2026-10-26 00:28:03 | [MSGL.vio-plus](https://marketplace.visualstudio.com/items?itemName=MSGL.vio-plus) | Vion+ Language | 0.0.1 | Soporte de sintaxis oficial y coloreado para el lenguaje Vion+ |
+| 2026-10-26 00:59:56 | [bhashitva.bhash](https://marketplace.visualstudio.com/items?itemName=bhashitva.bhash) | Bhash (भाष) | 0.1.2 | Devanagari programming: compiler-backed diagnostics, completion, navigation, an… |
+| 2026-10-26 01:18:53 | [junpeiwada.jpstlviewer](https://marketplace.visualstudio.com/items?itemName=junpeiwada.jpstlviewer) | JP STL Viewer | 0.1.0 | STL を PBR（環境光 IBL・ソフトシャドウ・AO）で高品位にリアルタイムプレビューする VSCode 拡張。材質プリセットつき、STL の更新で自動リ… |
 
 ## Data source
 
