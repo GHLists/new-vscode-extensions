@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T08:17:31.883Z,harish-chirati.sharepad,harish-chirati,shareit,0.3.1,Share a named scratchpad between VS Code windows and computers.
+2026-10-26T08:34:53.683Z,TharakaChathuranga.claude-skills,TharakaChathuranga,Claude Skills Library,0.3.0,"Pick Claude Code skill modules for your tech stack from shared libraries, with dependencies, presets and a token budget."
+2026-10-26T08:47:11.14Z,Amireux.claude-inlineDiff,Amireux,claude-inlineDiff,0.1.0,在真实编辑器内高亮 Claude Code 的改动，并提供 Trae 式逐块审核流程（单栏内联审查，无 Split Diff）。
+2026-10-26T08:50:52.86Z,hollySizzle.mozyo-bridge-vscode,hollySizzle,mozyo-bridge,0.8.0,VS Code UI for mozyo-bridge
+2026-10-26T08:55:24.887Z,PranavKaranam.nest-flow,PranavKaranam,Nest Flow,0.1.6,Run a NestJS service method or API endpoint from your code and see every DB call and step. Save test cases and create Jest tests.
+2026-10-26T09:01:30.88Z,kennbuilds.mobileflow,kennbuilds,MobileFlow,0.5.1,"Android project builds, device automation and experimental iOS workflow planning for VS Code."
+2026-10-26T09:09:22.09Z,SeigwenLee.dualtran,SeigwenLee,DualTran — Translate in Place,0.1.0,Translate the selection and keep it next to the code: inline ghost line or side-by-side panel. Google or your own AI model (BYOK).

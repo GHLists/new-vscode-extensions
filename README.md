@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 08:20 UTC
+## Latest list — 2026-10-26 09:20 UTC
 
-New extensions published between 2026-10-26 06:20 UTC and 2026-10-26 08:20 UTC.
+New extensions published between 2026-10-26 07:20 UTC and 2026-10-26 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T08-20-30-479688Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T09-20-26-138467Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 07:38:33 | [harish-chirati.yaml-previewer-harish](https://marketplace.visualstudio.com/items?itemName=harish-chirati.yaml-previewer-harish) | .yaml previewer - (yaml) | 0.1.5 | Live YAML tree and JSON preview with syntax error reporting. |
-| 2026-10-26 07:45:48 | [gotanel1.claude-code-3d](https://marketplace.visualstudio.com/items?itemName=gotanel1.claude-code-3d) | IT-Office-3D | 0.3.2 | Watch what Claude Code is doing as a live 3D scene in a VS Code panel. Local on… |
-| 2026-10-26 07:49:47 | [leocat81.commit-bot](https://marketplace.visualstudio.com/items?itemName=leocat81.commit-bot) | Commit Bot | 0.1.1 | AI-powered Git commit message generator for any OpenAI-compatible LLM |
-| 2026-10-26 07:51:04 | [MockScope.mockscope](https://marketplace.visualstudio.com/items?itemName=MockScope.mockscope) | MockScope | 0.1.0 | Ultra-fast, zero-trust API mocking and traffic interception directly from your… |
-| 2026-10-26 07:56:08 | [shubham1shinde.ai-code-debugger](https://marketplace.visualstudio.com/items?itemName=shubham1shinde.ai-code-debugger) | AI Code Debugger | 0.0.1 | AI-powered code debugging assistant for VS Code that analyzes errors using repo… |
-| 2026-10-26 08:09:16 | [harshraj797864.cp-pilot](https://marketplace.visualstudio.com/items?itemName=harshraj797864.cp-pilot) | CP Pilot | 0.1.0 | Competitive programming in VS Code: import problems from Codeforces, AtCoder, C… |
-| 2026-10-26 08:09:30 | [cjmld5.pi-agent-tabs](https://marketplace.visualstudio.com/items?itemName=cjmld5.pi-agent-tabs) | Pi Agent Tabs | 0.21.80 | Run the pi coding agent entirely inside VS Code — no terminal or browser. Every… |
+| 2026-10-26 08:17:31 | [harish-chirati.sharepad](https://marketplace.visualstudio.com/items?itemName=harish-chirati.sharepad) | shareit | 0.3.1 | Share a named scratchpad between VS Code windows and computers. |
+| 2026-10-26 08:34:53 | [TharakaChathuranga.claude-skills](https://marketplace.visualstudio.com/items?itemName=TharakaChathuranga.claude-skills) | Claude Skills Library | 0.3.0 | Pick Claude Code skill modules for your tech stack from shared libraries, with… |
+| 2026-10-26 08:47:11 | [Amireux.claude-inlineDiff](https://marketplace.visualstudio.com/items?itemName=Amireux.claude-inlineDiff) | claude-inlineDiff | 0.1.0 | 在真实编辑器内高亮 Claude Code 的改动，并提供 Trae 式逐块审核流程（单栏内联审查，无 Split Diff）。 |
+| 2026-10-26 08:50:52 | [hollySizzle.mozyo-bridge-vscode](https://marketplace.visualstudio.com/items?itemName=hollySizzle.mozyo-bridge-vscode) | mozyo-bridge | 0.8.0 | VS Code UI for mozyo-bridge |
+| 2026-10-26 08:55:24 | [PranavKaranam.nest-flow](https://marketplace.visualstudio.com/items?itemName=PranavKaranam.nest-flow) | Nest Flow | 0.1.6 | Run a NestJS service method or API endpoint from your code and see every DB cal… |
+| 2026-10-26 09:01:30 | [kennbuilds.mobileflow](https://marketplace.visualstudio.com/items?itemName=kennbuilds.mobileflow) | MobileFlow | 0.5.1 | Android project builds, device automation and experimental iOS workflow plannin… |
+| 2026-10-26 09:09:22 | [SeigwenLee.dualtran](https://marketplace.visualstudio.com/items?itemName=SeigwenLee.dualtran) | DualTran — Translate in Place | 0.1.0 | Translate the selection and keep it next to the code: inline ghost line or side… |
 
 ## Data source
 
