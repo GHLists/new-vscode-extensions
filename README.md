@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 11:20 UTC
+## Latest list — 2026-10-26 12:20 UTC
 
-New extensions published between 2026-10-26 09:20 UTC and 2026-10-26 11:20 UTC.
+New extensions published between 2026-10-26 10:20 UTC and 2026-10-26 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T11-20-46-558595Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T12-20-22-088879Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 10:16:39 | [pridont.jury](https://marketplace.visualstudio.com/items?itemName=pridont.jury) | Jury | 0.1.0 | Read code in the order it makes sense. Review a diff or pull request as an orde… |
-| 2026-10-26 10:23:05 | [TigranMkrtchyan.gitvision-x](https://marketplace.visualstudio.com/items?itemName=TigranMkrtchyan.gitvision-x) | GitVision X | 0.1.0 | Fast, quiet git blame for the line you're on, and a commit graph that follows y… |
-| 2026-10-26 10:26:30 | [Nihilnia.nihilanth-toolbox](https://marketplace.visualstudio.com/items?itemName=Nihilnia.nihilanth-toolbox) | Nihilanth Toolbox | 0.1.5 | An offline, editor-first toolbox: slash commands, code memory, snippets, dummy… |
-| 2026-10-26 10:29:28 | [welove42.a-share-turnover](https://marketplace.visualstudio.com/items?itemName=welove42.a-share-turnover) | A股行情 · 自选股、图表与财经新闻 | 1.2.0 | 沪深成交额同刻对比、中文名或代码搜索自选股、底部指数切换、东方财富行情图表，以及输出面板财经快讯。 |
-| 2026-10-26 10:39:31 | [timwillis.ai-usage-cloud](https://marketplace.visualstudio.com/items?itemName=timwillis.ai-usage-cloud) | AI Usage Cloud | 0.2.0 | AI plan limits for your detected Cursor, Codex, Claude Code, Gemini and Antigra… |
-| 2026-10-26 11:03:29 | [MarcoMaes.mobile-test-bench](https://marketplace.visualstudio.com/items?itemName=MarcoMaes.mobile-test-bench) | Mobile Test Bench | 1.0.1 | Mirror and control Android and iOS devices in VS Code, inspect their UI, and ge… |
-| 2026-10-26 11:04:11 | [harish-chirati.sharethecode](https://marketplace.visualstudio.com/items?itemName=harish-chirati.sharethecode) | ShareTheCode | 0.5.0 | Share a named scratchpad between VS Code windows and computers. |
-| 2026-10-26 11:07:31 | [codepulse-repository-indexer.codepulse-code-intelligence](https://marketplace.visualstudio.com/items?itemName=codepulse-repository-indexer.codepulse-code-intelligence) | CodePulse Code Intelligence | 0.1.0 | Local-first, agent-native code intelligence for VS Code — search, symbol naviga… |
-| 2026-10-26 11:14:52 | [ZeesuRoyalist.z-code-guard](https://marketplace.visualstudio.com/items?itemName=ZeesuRoyalist.z-code-guard) | Z-Code-Guard | 0.2.0 | A free, local-first VS Code extension that explains code changes, detects regre… |
+| 2026-10-26 11:26:17 | [edwardsayer.colorful-recent-files](https://marketplace.visualstudio.com/items?itemName=edwardsayer.colorful-recent-files) | Colorful Recent Files: Vertical Tabs &… | 0.3.2 | Colorful treeview of recently opened and edited files, with optional Vertical T… |
+| 2026-10-26 11:29:47 | [HarshitBavaliya.gujarati](https://marketplace.visualstudio.com/items?itemName=HarshitBavaliya.gujarati) | GujaratiLang | 0.1.3 | Syntax highlighting for GujaratiLang source files. |
+| 2026-10-26 11:37:16 | [wowlua.wowlua](https://marketplace.visualstudio.com/items?itemName=wowlua.wowlua) | wowlua | 0.12.0 | Check, format and outline wowlua addons as you type; debug them and their tests… |
+| 2026-10-26 11:44:50 | [dmulholl.syntext-lang](https://marketplace.visualstudio.com/items?itemName=dmulholl.syntext-lang) | Syntext Lang | 0.1.0 | Syntax highlighting for the Syntext markup language |
+| 2026-10-26 11:45:13 | [sunneeyang.gridiff](https://marketplace.visualstudio.com/items?itemName=sunneeyang.gridiff) | Gridiff — Visual Table Diff | 0.1.12 | 看清每一个单元格的变化。按主键和字段对齐 CSV，支持 Mova 多行表头。 |
+| 2026-10-26 11:46:35 | [VitalPoint.near-ai-vscode](https://marketplace.visualstudio.com/items?itemName=VitalPoint.near-ai-vscode) | Near AI for VSCode | 0.1.0 | A private, cost-aware Open-GSD coding harness powered by NEAR AI Cloud. |
+| 2026-10-26 12:04:59 | [animeshmitra.rn-development-toolkit](https://marketplace.visualstudio.com/items?itemName=animeshmitra.rn-development-toolkit) | RN Development Toolkit | 0.0.1 | Developer utilities for React Native and Expo |
 
 ## Data source
 
