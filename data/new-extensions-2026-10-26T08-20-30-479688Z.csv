@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T07:38:33.38Z,harish-chirati.yaml-previewer-harish,harish-chirati,.yaml previewer - (yaml),0.1.5,Live YAML tree and JSON preview with syntax error reporting.
+2026-10-26T07:45:48.917Z,gotanel1.claude-code-3d,gotanel1,IT-Office-3D,0.3.2,"Watch what Claude Code is doing as a live 3D scene in a VS Code panel. Local only, read only."
+2026-10-26T07:49:47.673Z,leocat81.commit-bot,leocat81,Commit Bot,0.1.1,AI-powered Git commit message generator for any OpenAI-compatible LLM
+2026-10-26T07:51:04.693Z,MockScope.mockscope,MockScope,MockScope,0.1.0,"Ultra-fast, zero-trust API mocking and traffic interception directly from your editor."
+2026-10-26T07:56:08.63Z,shubham1shinde.ai-code-debugger,shubham1shinde,AI Code Debugger,0.0.1,AI-powered code debugging assistant for VS Code that analyzes errors using repository context and suggests fixes.
+2026-10-26T08:09:16.153Z,harshraj797864.cp-pilot,harshraj797864,CP Pilot,0.1.0,"Competitive programming in VS Code: import problems from Codeforces, AtCoder, CSES, USACO and 100+ judges, run tests locally, submit, and track your CSES progress."
+2026-10-26T08:09:30.657Z,cjmld5.pi-agent-tabs,cjmld5,Pi Agent Tabs,0.21.80,"Run the pi coding agent entirely inside VS Code — no terminal or browser. Every conversation is a full editor tab, not a sidebar panel, so you can split, compare and keep sessions side by side with your code."
