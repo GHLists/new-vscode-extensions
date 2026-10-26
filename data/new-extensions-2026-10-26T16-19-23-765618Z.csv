@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T15:29:47.297Z,aaban.tomcat-launchpad,aaban,Tomcat Launchpad,0.1.0,"Build, deploy and run Java web apps on a local Tomcat with per-environment profiles."
+2026-10-26T15:32:41.287Z,GVASTETHECREATOR.code-annotations,GVASTETHECREATOR,Code Annotations: TODO Index,0.1.1,"Highlight and navigate TODO, FIXME, HACK, NOTE, REVIEW, and custom comment markers."
+2026-10-26T15:33:06.403Z,GVASTETHECREATOR.paste-image-next,GVASTETHECREATOR,Paste Image Next,0.1.1,Paste a clipboard image into the project and insert a file reference.
+2026-10-26T15:33:44.997Z,GVASTETHECREATOR.quote-switcher,GVASTETHECREATOR,Quote Switcher,0.1.1,Cycle string quotes without changing the string value.
+2026-10-26T15:34:17.033Z,GVASTETHECREATOR.tag-mate,GVASTETHECREATOR,Tag Mate,0.1.1,"Change, match, wrap, and remove paired HTML tags."
+2026-10-26T15:47:05.633Z,TheShuEd.ss14editor,TheShuEd,SS14 Prototype Editor,1.0.0,"Autocomplete, hover docs and go-to-definition for Space Station 14 YAML prototypes, built from your fork's code."
+2026-10-26T15:49:50.597Z,RichardBarolin.orange5-hpl-script,RichardBarolin,Orange5 HPL Script,0.1.0,Entorno de edicion y linter semantico para archivos HPL (Orange5)
+2026-10-26T15:55:57.94Z,lan.wpmanager,lan,WPManager,0.6.0,Workspace management: generate and manage .code-workspace files
+2026-10-26T16:03:44.94Z,kukume.legado-kuku,kukume,Legado Kuku,1.0.0,IDE 小说阅读扩展：对接阅读 Web 的开放接口，书架、目录、正文、进度同步，以及光标后的行内阅读。
+2026-10-26T16:09:22.927Z,crono.crono-sql,crono,Crono SQL,0.1.0,"Soporte de lenguaje para Crono SQL: resaltado de sintaxis, autocompletado, snippets y documentación al pasar el cursor. 100% offline."

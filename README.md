@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 15:20 UTC
+## Latest list — 2026-10-26 16:19 UTC
 
-New extensions published between 2026-10-26 13:20 UTC and 2026-10-26 15:20 UTC.
+New extensions published between 2026-10-26 14:19 UTC and 2026-10-26 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T15-20-07-444071Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T16-19-23-765618Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 14:18:33 | [miaosha-ikio.commitwise](https://marketplace.visualstudio.com/items?itemName=miaosha-ikio.commitwise) | CommitWise | 0.5.0 | 读取 Git 暂存区 diff，用你自己的大模型（DeepSeek / OpenAI / Claude / Ollama）生成规范 commit 信息，并顺带… |
-| 2026-10-26 14:24:26 | [joseaugusto10.visual-studio-purple-dark-ja](https://marketplace.visualstudio.com/items?itemName=joseaugusto10.visual-studio-purple-dark-ja) | Visual Studio Purple Dark JA | 1.1.1 | Tema escuro com detalhes roxos inspirado no Visual Studio, criado por José Augu… |
-| 2026-10-26 14:25:15 | [I-Synergy.nugetpackagemanager](https://marketplace.visualstudio.com/items?itemName=I-Synergy.nugetpackagemanager) | NuGet Package Manager for Visual Studio… | 2.0.0 | A comprehensive NuGet package management extension for Visual Studio Code with… |
-| 2026-10-26 14:27:12 | [mrpark10.deepfriend](https://marketplace.visualstudio.com/items?itemName=mrpark10.deepfriend) | DeepFriend | 0.1.0 | PyTorch·TensorFlow 코드를 돌려보기 전에 데이터 크기 에러를 보여주고, 학습이 왜 안 되는지 쉬운 한국어로 알려주는 딥러닝 학습… |
-| 2026-10-26 14:47:32 | [ztest-suit.ztest-suit](https://marketplace.visualstudio.com/items?itemName=ztest-suit.ztest-suit) | ZTEST Suit | 0.1.0 | Zephyr ZTEST companion: discover cases in the sidebar, navigate to source, run… |
-| 2026-10-26 14:48:17 | [bakiun.datakit](https://marketplace.visualstudio.com/items?itemName=bakiun.datakit) | Datakit | 1.0.0 | Connect to MySQL, MariaDB, PostgreSQL, MongoDB, Redis and Kafka from VS Code: m… |
-| 2026-10-26 14:55:29 | [wwijatkowski.ai-baton](https://marketplace.visualstudio.com/items?itemName=wwijatkowski.ai-baton) | AI Baton | 0.3.0 | A conductor for your AI coding agents: shared memory and handoffs between Claud… |
-| 2026-10-26 15:13:12 | [AryanPandey.craft-c](https://marketplace.visualstudio.com/items?itemName=AryanPandey.craft-c) | Craft-C — C Code Improvement Coach | 0.0.1 | Your Personal C Programming Improvement Coach. Don't just write code. Craft bet… |
+| 2026-10-26 15:29:47 | [aaban.tomcat-launchpad](https://marketplace.visualstudio.com/items?itemName=aaban.tomcat-launchpad) | Tomcat Launchpad | 0.1.0 | Build, deploy and run Java web apps on a local Tomcat with per-environment prof… |
+| 2026-10-26 15:32:41 | [GVASTETHECREATOR.code-annotations](https://marketplace.visualstudio.com/items?itemName=GVASTETHECREATOR.code-annotations) | Code Annotations: TODO Index | 0.1.1 | Highlight and navigate TODO, FIXME, HACK, NOTE, REVIEW, and custom comment mark… |
+| 2026-10-26 15:33:06 | [GVASTETHECREATOR.paste-image-next](https://marketplace.visualstudio.com/items?itemName=GVASTETHECREATOR.paste-image-next) | Paste Image Next | 0.1.1 | Paste a clipboard image into the project and insert a file reference. |
+| 2026-10-26 15:33:44 | [GVASTETHECREATOR.quote-switcher](https://marketplace.visualstudio.com/items?itemName=GVASTETHECREATOR.quote-switcher) | Quote Switcher | 0.1.1 | Cycle string quotes without changing the string value. |
+| 2026-10-26 15:34:17 | [GVASTETHECREATOR.tag-mate](https://marketplace.visualstudio.com/items?itemName=GVASTETHECREATOR.tag-mate) | Tag Mate | 0.1.1 | Change, match, wrap, and remove paired HTML tags. |
+| 2026-10-26 15:47:05 | [TheShuEd.ss14editor](https://marketplace.visualstudio.com/items?itemName=TheShuEd.ss14editor) | SS14 Prototype Editor | 1.0.0 | Autocomplete, hover docs and go-to-definition for Space Station 14 YAML prototy… |
+| 2026-10-26 15:49:50 | [RichardBarolin.orange5-hpl-script](https://marketplace.visualstudio.com/items?itemName=RichardBarolin.orange5-hpl-script) | Orange5 HPL Script | 0.1.0 | Entorno de edicion y linter semantico para archivos HPL (Orange5) |
+| 2026-10-26 15:55:57 | [lan.wpmanager](https://marketplace.visualstudio.com/items?itemName=lan.wpmanager) | WPManager | 0.6.0 | Workspace management: generate and manage .code-workspace files |
+| 2026-10-26 16:03:44 | [kukume.legado-kuku](https://marketplace.visualstudio.com/items?itemName=kukume.legado-kuku) | Legado Kuku | 1.0.0 | IDE 小说阅读扩展：对接阅读 Web 的开放接口，书架、目录、正文、进度同步，以及光标后的行内阅读。 |
+| 2026-10-26 16:09:22 | [crono.crono-sql](https://marketplace.visualstudio.com/items?itemName=crono.crono-sql) | Crono SQL | 0.1.0 | Soporte de lenguaje para Crono SQL: resaltado de sintaxis, autocompletado, snip… |
 
 ## Data source
 
