@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 22:19 UTC
+## Latest list — 2026-10-26 23:20 UTC
 
-New extensions published between 2026-10-26 20:19 UTC and 2026-10-26 22:19 UTC.
+New extensions published between 2026-10-26 21:20 UTC and 2026-10-26 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T22-19-18-840056Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T23-20-18-917199Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 21:19:23 | [zglass.sidereal](https://marketplace.visualstudio.com/items?itemName=zglass.sidereal) | Sidereal for Git | 1.0.2 | Git graph, log and history for VS Code, inspired by TortoiseGit: branches, tags… |
-| 2026-10-26 21:34:46 | [Koha9-Lee.liveshare-workspace-bridge](https://marketplace.visualstudio.com/items?itemName=Koha9-Lee.liveshare-workspace-bridge) | Live Share Workspace Bridge | 0.2.2 | Edit Live Share workspaces with permission controls and an optional verified Ho… |
-| 2026-10-26 21:50:42 | [verse-lab.veil-verifier](https://marketplace.visualstudio.com/items?itemName=verse-lab.veil-verifier) | Veil Verifier | 0.0.1 | Run the model checkers that #mc_config builds, and show their progress and resu… |
-| 2026-10-26 21:57:39 | [yves0003.f4dataparq](https://marketplace.visualstudio.com/items?itemName=yves0003.f4dataparq) | f4data parquet | 0.0.33 | Open, explore and query large Parquet, CSV, JSON and Excel files in VS Code — s… |
-| 2026-10-26 22:10:44 | [pride7.verso-markdown-editor](https://marketplace.visualstudio.com/items?itemName=pride7.verso-markdown-editor) | Verso Markdown Editor | 0.3.0 | Edit Markdown files in a what-you-see-is-what-you-get editor, powered by Milkdo… |
+| 2026-10-26 22:22:02 | [persian-terminal-lab.persian-terminal](https://marketplace.visualstudio.com/items?itemName=persian-terminal-lab.persian-terminal) | Persian Terminal | 0.3.2 | A Persian-friendly output panel with real shell commands and browser-native Ara… |
+| 2026-10-26 22:22:37 | [bd-code.react-side-panel](https://marketplace.visualstudio.com/items?itemName=bd-code.react-side-panel) | 2D Editor | 0.2.2 | A 2D editor extension for VS Code. Visualize and edit tabs, runs, previews and… |
+| 2026-10-26 22:39:11 | [nimblescape.nimblescape-devspaces-2](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-devspaces-2) | nimblescape Devspaces 2 | 0.1.0 | Open your GitHub repositories in dev containers on your own Docker. Uses your G… |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T22:22:02.907Z,persian-terminal-lab.persian-terminal,persian-terminal-lab,Persian Terminal,0.3.2,A Persian-friendly output panel with real shell commands and browser-native Arabic shaping and bidi.
+2026-10-26T22:22:37.99Z,bd-code.react-side-panel,bd-code,2D Editor,0.2.2,"A 2D editor extension for VS Code. Visualize and edit tabs, runs, previews and diagrams in a workspace."
+2026-10-26T22:39:11.833Z,nimblescape.nimblescape-devspaces-2,nimblescape,nimblescape Devspaces 2,0.1.0,"Open your GitHub repositories in dev containers on your own Docker. Uses your GitHub sign-in (scopes repo and read:org), runs Docker and the Dev Containers CLI, can install Docker after you confirm, and runs a background container that updates images, the VS Code Server and extensions. Before your f"
