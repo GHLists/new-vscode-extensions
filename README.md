@@ -12,19 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 05:20 UTC
+## Latest list — 2026-10-26 06:20 UTC
 
-New extensions published between 2026-10-26 03:20 UTC and 2026-10-26 05:20 UTC.
+New extensions published between 2026-10-26 04:20 UTC and 2026-10-26 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T05-20-17-69177Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T06-20-30-042023Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 04:15:46 | [Atensor.atensor-ai](https://marketplace.visualstudio.com/items?itemName=Atensor.atensor-ai) | Atensor AI | 1.0.14 | AI chat, agent mode, inline editing and completions, powered by Atensor. |
-| 2026-10-26 04:23:33 | [NO00.vscode-codex-speed](https://marketplace.visualstudio.com/items?itemName=NO00.vscode-codex-speed) | VSCode Codex Speed | 0.1.1 | 读取 Remote SSH 主机的 Codex 会话日志，在状态栏显示输出 token/s、估算状态和最近调用速度。 |
-| 2026-10-26 04:48:39 | [polestar-tech.docket](https://marketplace.visualstudio.com/items?itemName=polestar-tech.docket) | Docket: AI Task Queue & Kanban for Clau… | 0.1.0 | Queue tasks for Claude Code, Copilot, Codex, Cursor and Gemini CLI on a Kanban… |
-| 2026-10-26 05:04:38 | [dr-opensource.audiowizard](https://marketplace.visualstudio.com/items?itemName=dr-opensource.audiowizard) | AudioWizard | 0.1.0 | Listen instead of read. Neural text-to-speech for Markdown docs, long specs and… |
-| 2026-10-26 05:14:19 | [narnat.narnat-vscode](https://marketplace.visualstudio.com/items?itemName=narnat.narnat-vscode) | Narnat | 0.0.1 | AI 编程智能体：在侧边栏对话，自主读写代码、执行命令、SSH/串口调试、联网搜索。内置后端，装完填 API Key 即可用。 |
+| 2026-10-26 05:16:30 | [yumimi.yumimi-miniprogram](https://marketplace.visualstudio.com/items?itemName=yumimi.yumimi-miniprogram) | Yumimi Mini Program | 0.2.1 | 在 VS Code / Cursor 里预览、编译、登录和上传 Yumimi 小程序。模拟器走现有 DevServer，不另写编译器。 |
+| 2026-10-26 05:19:20 | [sirouk.nodecode-vscode](https://marketplace.visualstudio.com/items?itemName=sirouk.nodecode-vscode) | Nodecode | 0.1.2 | Watch and steer live Nodecode sessions from VS Code: streaming replies, queued… |
+| 2026-10-26 05:24:01 | [AgentTheatre.agent-theatre-vscode](https://marketplace.visualstudio.com/items?itemName=AgentTheatre.agent-theatre-vscode) | Agent Theatre | 1.4.4 | Watch your coding agent work — as a film, not a log. Turns a Claude Code sessio… |
+| 2026-10-26 05:42:27 | [raditted.mommy-error-asmr](https://marketplace.visualstudio.com/items?itemName=raditted.mommy-error-asmr) | Error Mommy Sound Extension | 0.1.0 | Plays soothing mommy ASMR voice when your code fails — powered by Fish Audio TTS |
+| 2026-10-26 05:46:44 | [limccn.longstone-vscode](https://marketplace.visualstudio.com/items?itemName=limccn.longstone-vscode) | Longstone Memory | 0.2.1 | Read-only Longstone memory browser and MCP provider for Base Sepolia, with a lo… |
+| 2026-10-26 05:49:41 | [PranavKaranam.nest-run-debug](https://marketplace.visualstudio.com/items?itemName=PranavKaranam.nest-run-debug) | Nest Run & Debug | 0.1.4 | Run a NestJS service method or API endpoint from your code and see every DB cal… |
+| 2026-10-26 05:58:57 | [JoniRafael.okliterun](https://marketplace.visualstudio.com/items?itemName=JoniRafael.okliterun) | OkLiteRun | 0.1.0 | A lightweight one-click code runner for VS Code (preview). Inspired by Code Run… |
+| 2026-10-26 05:59:42 | [zuoye.comment-preview-probe](https://marketplace.visualstudio.com/items?itemName=zuoye.comment-preview-probe) | CommentInk | 0.0.11 | Graphical formulas and diagrams stored in source comments, with inline previews. |
+| 2026-10-26 06:07:29 | [venkateshkamat.stonks-watch](https://marketplace.visualstudio.com/items?itemName=venkateshkamat.stonks-watch) | Stonks Watch: Stocks & Crypto | 1.0.0 | Track NSE, BSE, US stock and crypto holdings: profit/loss in the status bar, a… |
+| 2026-10-26 06:14:05 | [yongveloper.properties-lens](https://marketplace.visualstudio.com/items?itemName=yongveloper.properties-lens) | Properties Lens | 0.1.0 | Read, diff and search Java .properties message bundles with \uXXXX escapes deco… |
 
 ## Data source
 

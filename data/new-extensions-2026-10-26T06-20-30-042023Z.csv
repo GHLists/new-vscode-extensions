@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T05:16:30.74Z,yumimi.yumimi-miniprogram,yumimi,Yumimi Mini Program,0.2.1,在 VS Code / Cursor 里预览、编译、登录和上传 Yumimi 小程序。模拟器走现有 DevServer，不另写编译器。
+2026-10-26T05:19:20.013Z,sirouk.nodecode-vscode,sirouk,Nodecode,0.1.2,"Watch and steer live Nodecode sessions from VS Code: streaming replies, queued prompts, checkpoints, forks, background processes."
+2026-10-26T05:24:01.57Z,AgentTheatre.agent-theatre-vscode,AgentTheatre,Agent Theatre,1.4.4,"Watch your coding agent work — as a film, not a log. Turns a Claude Code session into an animated scene inside VS Code."
+2026-10-26T05:42:27.623Z,raditted.mommy-error-asmr,raditted,Error Mommy Sound Extension,0.1.0,Plays soothing mommy ASMR voice when your code fails — powered by Fish Audio TTS
+2026-10-26T05:46:44.783Z,limccn.longstone-vscode,limccn,Longstone Memory,0.2.1,"Read-only Longstone memory browser and MCP provider for Base Sepolia, with a local encrypted account store that never signs."
+2026-10-26T05:49:41.193Z,PranavKaranam.nest-run-debug,PranavKaranam,Nest Run & Debug,0.1.4,Run a NestJS service method or API endpoint from your code and see every DB call and step. Save test cases and create Jest tests.
+2026-10-26T05:58:57.65Z,JoniRafael.okliterun,JoniRafael,OkLiteRun,0.1.0,A lightweight one-click code runner for VS Code (preview). Inspired by Code Runner.
+2026-10-26T05:59:42.937Z,zuoye.comment-preview-probe,zuoye,CommentInk,0.0.11,"Graphical formulas and diagrams stored in source comments, with inline previews."
+2026-10-26T06:07:29.21Z,venkateshkamat.stonks-watch,venkateshkamat,Stonks Watch: Stocks & Crypto,1.0.0,"Track NSE, BSE, US stock and crypto holdings: profit/loss in the status bar, a portfolio panel and market heatmaps."
+2026-10-26T06:14:05.417Z,yongveloper.properties-lens,yongveloper,Properties Lens,0.1.0,"Read, diff and search Java .properties message bundles with \uXXXX escapes decoded."
