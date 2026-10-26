@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-26 14:21 UTC
+## Latest list — 2026-10-26 15:20 UTC
 
-New extensions published between 2026-10-26 12:21 UTC and 2026-10-26 14:21 UTC.
+New extensions published between 2026-10-26 13:20 UTC and 2026-10-26 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-26T14-21-15-096553Z.csv)
+[Full CSV](data/new-extensions-2026-10-26T15-20-07-444071Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-26 13:25:25 | [audiflo.arckeep](https://marketplace.visualstudio.com/items?itemName=audiflo.arckeep) | ArcKeep | 0.20.0 | ArcKeep by FictionFlare: a writing app for long serialized fiction. Arc remembe… |
-| 2026-10-26 13:32:21 | [miragon-gmbh.pulse-cockpit](https://marketplace.visualstudio.com/items?itemName=miragon-gmbh.pulse-cockpit) | Miragon Pulse | 0.24.1 | See what your process engine is running, right next to your BPMN models: defini… |
-| 2026-10-26 13:43:54 | [edwardsayer.folder-spaces](https://marketplace.visualstudio.com/items?itemName=edwardsayer.folder-spaces) | Folder Spaces | 0.2.0 | Folder-scoped file explorer spaces: focus on one folder at a time without leavi… |
-| 2026-10-26 13:48:31 | [ace-MS-is-shit.better-md-live-preview](https://marketplace.visualstudio.com/items?itemName=ace-MS-is-shit.better-md-live-preview) | Markdown Live Preview (better) | 0.0.1 |  |
-| 2026-10-26 13:53:12 | [lo-tek.interfaces](https://marketplace.visualstudio.com/items?itemName=lo-tek.interfaces) | LO-TEK for VS Code | 0.10.0 | Completion, hover, snippets, diagnostics and quick fixes for the LO-TEK design… |
-| 2026-10-26 13:55:59 | [SourabhPatil.soql-optimizer](https://marketplace.visualstudio.com/items?itemName=SourabhPatil.soql-optimizer) | SOQL Optimizer | 0.0.1 | Automated performance analysis and governor limit monitoring for Salesforce SOQ… |
-| 2026-10-26 13:58:17 | [promptyq.promptyq-vscode](https://marketplace.visualstudio.com/items?itemName=promptyq.promptyq-vscode) | PromptyQ - AI Coding Coach | 1.0.1 | Chat with Codex, Claude Code or Gemini inside VS Code and get a daily report on… |
-| 2026-10-26 13:59:54 | [marlonlange.changeline](https://marketplace.visualstudio.com/items?itemName=marlonlange.changeline) | Changeline – Changelists, Shelf & Git L… | 0.1.0 | Changelists, partial commits, shelf, Git log with graph, branches popup, three-… |
+| 2026-10-26 14:18:33 | [miaosha-ikio.commitwise](https://marketplace.visualstudio.com/items?itemName=miaosha-ikio.commitwise) | CommitWise | 0.5.0 | 读取 Git 暂存区 diff，用你自己的大模型（DeepSeek / OpenAI / Claude / Ollama）生成规范 commit 信息，并顺带… |
+| 2026-10-26 14:24:26 | [joseaugusto10.visual-studio-purple-dark-ja](https://marketplace.visualstudio.com/items?itemName=joseaugusto10.visual-studio-purple-dark-ja) | Visual Studio Purple Dark JA | 1.1.1 | Tema escuro com detalhes roxos inspirado no Visual Studio, criado por José Augu… |
+| 2026-10-26 14:25:15 | [I-Synergy.nugetpackagemanager](https://marketplace.visualstudio.com/items?itemName=I-Synergy.nugetpackagemanager) | NuGet Package Manager for Visual Studio… | 2.0.0 | A comprehensive NuGet package management extension for Visual Studio Code with… |
+| 2026-10-26 14:27:12 | [mrpark10.deepfriend](https://marketplace.visualstudio.com/items?itemName=mrpark10.deepfriend) | DeepFriend | 0.1.0 | PyTorch·TensorFlow 코드를 돌려보기 전에 데이터 크기 에러를 보여주고, 학습이 왜 안 되는지 쉬운 한국어로 알려주는 딥러닝 학습… |
+| 2026-10-26 14:47:32 | [ztest-suit.ztest-suit](https://marketplace.visualstudio.com/items?itemName=ztest-suit.ztest-suit) | ZTEST Suit | 0.1.0 | Zephyr ZTEST companion: discover cases in the sidebar, navigate to source, run… |
+| 2026-10-26 14:48:17 | [bakiun.datakit](https://marketplace.visualstudio.com/items?itemName=bakiun.datakit) | Datakit | 1.0.0 | Connect to MySQL, MariaDB, PostgreSQL, MongoDB, Redis and Kafka from VS Code: m… |
+| 2026-10-26 14:55:29 | [wwijatkowski.ai-baton](https://marketplace.visualstudio.com/items?itemName=wwijatkowski.ai-baton) | AI Baton | 0.3.0 | A conductor for your AI coding agents: shared memory and handoffs between Claud… |
+| 2026-10-26 15:13:12 | [AryanPandey.craft-c](https://marketplace.visualstudio.com/items?itemName=AryanPandey.craft-c) | Craft-C — C Code Improvement Coach | 0.0.1 | Your Personal C Programming Improvement Coach. Don't just write code. Craft bet… |
 
 ## Data source
 

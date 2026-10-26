@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T14:18:33.1Z,miaosha-ikio.commitwise,miaosha-ikio,CommitWise,0.5.0,读取 Git 暂存区 diff，用你自己的大模型（DeepSeek / OpenAI / Claude / Ollama）生成规范 commit 信息，并顺带做代码审查、把问题标到具体行。密钥本地加密存储，绝不自动提交。
+2026-10-26T14:24:26.163Z,joseaugusto10.visual-studio-purple-dark-ja,joseaugusto10,Visual Studio Purple Dark JA,1.1.1,"Tema escuro com detalhes roxos inspirado no Visual Studio, criado por José Augusto Lopes Almeida para compartilhar com a .Net Brasil Community."
+2026-10-26T14:25:15.303Z,I-Synergy.nugetpackagemanager,I-Synergy,NuGet Package Manager for Visual Studio Code,2.0.0,"A comprehensive NuGet package management extension for Visual Studio Code with vulnerability scanning, multi-project support, and version consolidation."
+2026-10-26T14:27:12.817Z,mrpark10.deepfriend,mrpark10,DeepFriend,0.1.0,"PyTorch·TensorFlow 코드를 돌려보기 전에 데이터 크기 에러를 보여주고, 학습이 왜 안 되는지 쉬운 한국어로 알려주는 딥러닝 학습 도우미"
+2026-10-26T14:47:32.44Z,ztest-suit.ztest-suit,ztest-suit,ZTEST Suit,0.1.0,"Zephyr ZTEST companion: discover cases in the sidebar, navigate to source, run via configurable west/twister wrappers."
+2026-10-26T14:48:17.887Z,bakiun.datakit,bakiun,Datakit,1.0.0,"Connect to MySQL, MariaDB, PostgreSQL, MongoDB, Redis and Kafka from VS Code: manage data sources, browse and edit their data."
+2026-10-26T14:55:29.497Z,wwijatkowski.ai-baton,wwijatkowski,AI Baton,0.3.0,"A conductor for your AI coding agents: shared memory and handoffs between Claude Code and Codex, second-opinion reviews, usage and plan limits."
+2026-10-26T15:13:12.47Z,AryanPandey.craft-c,AryanPandey,Craft-C — C Code Improvement Coach,0.0.1,Your Personal C Programming Improvement Coach. Don't just write code. Craft better code.
