@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T06:20:25.607Z,deltarobotics.vscode-protoboard,deltarobotics,Protoboard,0.2.0,"Protoboard Stack in VS Code: the viewer as editor tabs (diagram, 3D and the module's domain views), a hierarchy in each viewer tab, the Protoboard Inspector following the focused tab, the DRC panel and Problems, the Library, Project Parts and Cloud views, the BOM editor, a CAD viewer for STEP and GL"
+2026-10-26T06:21:41.357Z,accenture-atr.sast-autoremediation,accenture-atr,SAST Auto-Remediation Agent,1.0.0,"AI-powered SAST vulnerability auto-fix using AWS Bedrock and Claude. Reads WIZ SAST CSV reports and automatically fixes security vulnerabilities across Java, Python, TypeScript, React, Angular and .NET."
+2026-10-26T06:23:15.377Z,vamshi-krishna.vscode-rds-explorer,vamshi-krishna,RDS Explorer,0.1.1,VS Code extension for exploring AWS RDS databases via RDS Data API
+2026-10-26T06:31:36.893Z,wang-yang.MindSprout2,wang-yang,思络 · ThoughtWeave,0.2.0,思络 · ThoughtWeave：轻量级思维导图编辑器，支持 Markdown 右侧实时预览、表格、代码、Mermaid、多种布局与关联线，导出 SVG / HTML / PNG。
+2026-10-26T06:33:58.013Z,vrata-ai.vrata-ai,vrata-ai,Врата AI,1.0.1,Подключение к Врата AI по API-ключу через штатный интерфейс VS Code.
+2026-10-26T06:56:01.023Z,datatale.window-tracker,datatale,DataTale Window Tracker,1.0.0,"See every open VS Code window and what its Claude Code session is doing: working, asking you a question, needs input, or done. Click to jump straight to it."
+2026-10-26T06:58:38.32Z,winkchen.pixdebug,winkchen,pixdebug,0.0.6,在 VS Code 里拉起 PixUI 渲染容器（原生 pxide.exe）并用自带调试器（元素 / 样式 / 控制台）调试
+2026-10-26T07:03:00.893Z,Nihilnia.gloria-theme,Nihilnia,プロジェクト_Gloria,1.0.8,Temet Nosce
+2026-10-26T07:08:11.763Z,irumudipriyan.sap-tcode-runner,irumudipriyan,SAP TCode Runner,0.1.0,Run SAP transactions (TCodes) directly inside VS Code via WebGUI — no more switching between IDEs
