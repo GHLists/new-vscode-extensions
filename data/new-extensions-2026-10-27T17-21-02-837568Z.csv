@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T16:23:32.733Z,1237410.pw-inspector-handbook,1237410,PW Inspector & Lab Helper,1.0.0,Run Playwright Test tests in Visual Studio Code.
+2026-10-27T16:26:39.99Z,SkyfallSoftworks.daydream,SkyfallSoftworks,Daydream,1.0.1,"Faintly green, pleasantly elsewhere. A dark and light theme based on Amp's Daydream palette."
+2026-10-27T16:34:31.757Z,elrhea-desouza.formatflip,elrhea-desouza,FormatFlip - Image to WebP Converter,0.0.2,"Convert images to WebP in VS Code with clipboard support, drag-and-drop, batch renaming, and image size statistics."
+2026-10-27T16:36:26.233Z,nicolas-hedoire.diftale,nicolas-hedoire,Diftale,0.8.1,"Understand every AI change. Follow code, plan reviewable batches, connect Jira, and create clear commits."
+2026-10-27T16:38:37.467Z,wxk6b1203.arthas-vscode,wxk6b1203,Arthas VSCode,0.2.0,Generate and copy Arthas commands (watch/trace/stack/monitor/tt/ognl/vmtool/sc/sm/jad...) from the Java element under your cursor. Ported from arthas-idea-plugin.
+2026-10-27T16:44:00.633Z,Rathinosk.vscode-task-runner,Rathinosk,VSCode Task Runner,0.0.2,"A sidebar grid of big, labelled buttons that run your tasks and shell commands."
+2026-10-27T16:55:37.4Z,alexbrickwedde.vscode-todo-file-alexbrickwedde,alexbrickwedde,.todo Editor,0.0.1,"Visual editor for .todo task files with per-user sections, drag & drop and due dates."
+2026-10-27T16:56:08.08Z,vnbtec.vnbtec,vnbtec,VNBtec,1.0.1,"The AI-powered suite for Science, Code & Social — Math solver, Physics engine, AI coding assistant, Templates, Messaging & Community Hub, all in VS Code."
+2026-10-27T16:57:10.703Z,stacks.vscode-stx,stacks,stx Templates by Stacks,0.2.722,"Language support for stx templates: syntax highlighting, completions, hovers, diagnostics, go to definition and utility-class previews for .stx files."
+2026-10-27T16:57:43.857Z,vnbtec.vnbtec-ide,vnbtec,VNBtec IDE,1.0.1,"Open the VNBtec Cloud IDE (Code, Preview, Monitor, AI) directly inside VS Code."
+2026-10-27T16:59:36.37Z,israelsaraiva.routiq,israelsaraiva,Routiq,0.1.0,A lightweight Insomnia/Postman-like REST client inside VS Code.
+2026-10-27T17:07:26.65Z,nandoBlanco.localhost-opener,nandoBlanco,Localhost Opener,1.5.0,"Map local web server files (XAMPP, MAMP, Apache, Nginx) to localhost URLs and open them in your browser or a live-reloading split pane."
+2026-10-27T17:07:50.337Z,nandoBlanco.wrike-tasks,nandoBlanco,Wrike Tasks,1.7.0,"View, star, search, sort, change status, post comments with @mentions, and copy Wrike tasks as Markdown."
