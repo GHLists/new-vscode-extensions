@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T03:23:32.62Z,matrix-oai-compatible-copilot-provider.matrix-deepseek-harness-companion,matrix-oai-compatible-copilot-provider,DeepSeek Harness Companion,0.4.8,Run the official DeepSeek Harness locally from VS Code.
+2026-10-27T03:42:53.573Z,zyyv.asset-meter,zyyv,Asset Meter,0.0.1,"See asset sizes and folder counts in Explorer. Compress JPEG, PNG and WebP with jSquash or TinyPNG, and compare before saving."
+2026-10-27T03:56:19.213Z,squid-farm.talewright,squid-farm,Talewright,0.1.1,"Talemark highlighting, snippets, story configuration schema, shared completion/hover/navigation, and live compiler diagnostics."
