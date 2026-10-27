@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-26T23:31:22.94Z,juunblanco.vscode-soliditiy,juunblanco,solidity  ​​,0.0.195,Ethereum Solidity Language for Visual Studio Code
+2026-10-26T23:31:30.617Z,VishavSharma.salesforce-flow-visualizer,VishavSharma,Salesforce Flow Visualizer,0.1.0,"Visualize Salesforce Flow metadata as interactive Mermaid diagrams — offline, airgapped."
+2026-10-27T00:06:53.303Z,lucidsleep.vscode-maximize,lucidsleep,"Maximize Editor, Terminal & Chat",0.1.0,"Maximize whatever has focus (an editor, the terminal panel, or a chat in the secondary side bar) with one key or one button, and restore the layout the same way."
