@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T19:34:57.633Z,samuelba.ukemi-jj,samuelba,Ukemi: Jujutsu (jj) GUI,0.3.0,"Jujutsu (jj) version control GUI: change graph, drag and drop rebase, hunk split, undo, GitHub PRs and GitLab MRs."
+2026-10-27T19:44:15.423Z,lojhan.typed-sql,lojhan,typed-sql,0.1.0,"TypeScript 7-native SQL inference, hover information, and diagnostics."
+2026-10-27T19:45:31.61Z,AntiBoomz.rojo-sync,AntiBoomz,Rojo Sync,1.0.0,Rojo Sync — Professional project synchronization and live workspace asset pipeline integration for Visual Studio Code.
+2026-10-27T20:07:03.287Z,Satellite.satellite-ai-agent-staging,Satellite,Satellite AI Agent (Staging),0.0.1,"The Satellite coding agent, working on the folder you have open in VS Code."
