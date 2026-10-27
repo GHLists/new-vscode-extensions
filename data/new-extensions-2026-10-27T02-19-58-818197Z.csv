@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T01:13:16.273Z,voidaliot.aliot-software-architecture,voidaliot,Aliot Software Architect,0.13.0,"Model software architecture with diagrams, in-place editing, validation, CLI exports and AI tools."
+2026-10-27T01:15:08.403Z,kukume.legado,kukume,Legado,1.0.0,IDE 小说阅读扩展：对接阅读 Web 的开放接口，书架、目录、正文、进度同步，以及光标后的行内阅读。
+2026-10-27T01:30:40.637Z,Warnain.warnain-color-picker,Warnain,Warnain - Universal Color Picker for Code,1.0.0,"Instantly convert Hex, RGBA, and HSLA to native formats for Flutter, Godot, React, C++, Android, and more."
+2026-10-27T01:44:52.003Z,voidaliot.codebase-vsc-ext,voidaliot,Aliot Codebase,0.11.0,"Explore code structure, call graphs and flow in interactive workspace and file diagrams."
+2026-10-27T01:54:11.233Z,ysra.ysra,ysra,Ysra — AI developer,0.1.0,"Hand coding tasks to Ysra on the folder you have open, and keep or undo each change in VS Code's diff view."
+2026-10-27T01:58:51.893Z,sarathakur.aisc-lab-programs,sarathakur,AISC Lab Programs,0.0.1,"All 23 AISC practical programs (perceptron, Hebbian, search, fuzzy logic, competitive learning) with Copy, Insert into new file and Insert into this file buttons in one panel."
+2026-10-27T02:09:12.46Z,nyra.nyra-lang,nyra,NyraLang,0.24.7,"Syntax, themes, LSP, and debug for Nyra (.ny / .ni / .nk)"
+2026-10-27T02:09:40.36Z,erichuang80s.page-assets-navigator,erichuang80s,Page Assets Navigator,0.0.1,"List the CSS and JS files referenced by the current HTML page and open them in one click, like Dreamweaver's Related Files bar."
