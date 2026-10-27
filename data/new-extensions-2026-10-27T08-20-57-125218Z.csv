@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T07:18:37.503Z,DavidSteven.fuck-the-boss-reader,DavidSteven,Fuck The Boss Reader,0.1.2,在状态栏阅读 TXT 小说，左侧章节目录按分组折叠 | Read TXT novels in the status bar with a collapsible chapter catalog
+2026-10-27T07:21:33.71Z,pcloth.gitviews-sidebar,pcloth,GitViews Sidebar,1.0.2,"GitViews Sidebar brings Git graph and commit history to the sidebar, with inline blame, commit diffs, and clickable terminal commit links."
+2026-10-27T07:27:21.4Z,AbdulRehmanMemon.codewalk-tours,AbdulRehmanMemon,CodeWalk – Interactive Code Walkthroughs,0.1.0,"Guided, step-by-step walkthroughs of a codebase, shown as inline bubbles on the code. Generate them with Claude Code, record them by hand, or build them from a git diff."
+2026-10-27T07:28:02.097Z,Develoops.elisa-vscode,Develoops,Elisa API Client,0.0.1,"Cliente de APIs Elisa dentro de VS Code: REST, GraphQL y MCP, con pruebas y flujos, sin salir del editor."
+2026-10-27T07:28:46.917Z,NgoMinhThuan.karito-theme-official,NgoMinhThuan,Karito Theme,0.1.0,"Karito Dark - a high-contrast Dracula-style dark theme, improved for readability"
+2026-10-27T07:29:39.737Z,mcdottok.dsh-coding-agent,mcdottok,DSH Coding Agent,0.1.80,"AI coding with DeepSeek Harness: chat, share code context, run tools, and review changes, with seamless desktop session continuity."
+2026-10-27T07:40:35.907Z,sky-jiangcheng.repotory-vscode,sky-jiangcheng,Repotory,2.16.0,"Repotory inside your IDE: browse your local knowledge base in a T-shaped reader (thumbnails left, full note right), load session context, write session handoffs and search every note from the command palette, status bar and sidebar. One VSIX covers VS Code, Cursor and Windsurf."
+2026-10-27T07:41:54.953Z,budowella.combswell,budowella,Combswell,0.1.26,Guarded models for VS Code — reasoning that keeps its thread. Combswell watches the exposed thinking stream and restarts the moment it starts to loop.
+2026-10-27T07:46:57.1Z,hzwx.hzwx-extension-pack,hzwx,HZWX Extension Pack,0.0.2,HZWX 前端开发插件集合：国际化(i18n)、发布工具、主题工具。安装本扩展包将自动安装全部三款 HZWX 插件。
+2026-10-27T07:50:31.507Z,limccn.kbmcp-vscode,limccn,hyseed,0.1.0,"hyseed (formerly kb-mcp) local knowledge base inside VS Code: admin console, MCP/skills setup, vaults, and CLI commands."
+2026-10-27T07:53:19.08Z,lang2hong.devbelt-db-client,lang2hong,DevBelt DB Client,0.4.0,"DevBelt — database development inside VS Code. SQL for MySQL, PostgreSQL and SQLite, plus Redis, Elasticsearch, AI assistance, schema tools, SSH tunnels and end-to-end encrypted sync."
+2026-10-27T08:00:17.85Z,the-skware.ganttee,the-skware,Ganttee,1.0.0,Gantt chart editor
+2026-10-27T08:02:03.947Z,miloop.miloop-editor,miloop,Miloop,0.1.0,Connect your current codebase to Miloop so teammates can see when you're working in the same codebase.
+2026-10-27T08:07:26.097Z,easy-tilelang.tilelang-ci-vscode,easy-tilelang,TileLang CI,0.1.0,"GitHub Actions resource queues and your pull request positions, inside VS Code."
+2026-10-27T08:12:52.75Z,bjornharrtell.plantuml-rs,bjornharrtell,PlantUML (Rust),0.1.2,"PlantUML preview and Markdown rendering through the plantuml-rs port: .puml previews and ```puml blocks, rendered locally by a wasm build of plantuml-core"

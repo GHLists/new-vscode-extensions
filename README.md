@@ -12,21 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 07:19 UTC
+## Latest list — 2026-10-27 08:20 UTC
 
-New extensions published between 2026-10-27 05:19 UTC and 2026-10-27 07:19 UTC.
+New extensions published between 2026-10-27 06:20 UTC and 2026-10-27 08:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T07-19-26-816534Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T08-20-57-125218Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 06:40:07 | [Nicchia.trama](https://marketplace.visualstudio.com/items?itemName=Nicchia.trama) | Trama | 0.1.1 | See your System as a layered Model of state machines, review Proposals and Drif… |
-| 2026-10-27 06:48:22 | [M455YN.csharpshooter](https://marketplace.visualstudio.com/items?itemName=M455YN.csharpshooter) | CSharpShooter | 0.0.3 | C# and Razor (.cshtml/.razor) for VSCodium: IntelliSense, go to definition and… |
-| 2026-10-27 06:51:22 | [wangx123.suyue](https://marketplace.visualstudio.com/items?itemName=wangx123.suyue) | 素阅 · 文档阅读器 | 0.1.0 | 在 VS Code 里安静地阅读 Word、Excel、CSV 和 Markdown。本地解析，支持深色。 |
-| 2026-10-27 07:01:30 | [darcyjoven.4gl-full](https://marketplace.visualstudio.com/items?itemName=darcyjoven.4gl-full) | 4gl-full | 0.9.0 | 4gl（.4gl）与 Form（.per）的完整语言支持：语法高亮、定义/引用跳转、符号大纲、悬停、语法诊断。 |
-| 2026-10-27 07:08:34 | [Simplysm.simplysm-go-to-file-or-folder](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-go-to-file-or-folder) | Simplysm Go to File or Folder | 15.1.1 | Find files and folders in one search box opened with Shift Shift — files open i… |
-| 2026-10-27 07:08:43 | [Simplysm.simplysm-lint](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-lint) | Simplysm Lint | 15.1.1 | Shows the project's own sd-cli check results in the editor as you type — runs t… |
-| 2026-10-27 07:09:27 | [Simplysm.simplysm-theme](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-theme) | Simplysm Theme | 15.1.1 | Light and dark color themes in the Simplysm design — Office-style warm gray and… |
+| 2026-10-27 07:18:37 | [DavidSteven.fuck-the-boss-reader](https://marketplace.visualstudio.com/items?itemName=DavidSteven.fuck-the-boss-reader) | Fuck The Boss Reader | 0.1.2 | 在状态栏阅读 TXT 小说，左侧章节目录按分组折叠 \| Read TXT novels in the status bar with a collapsibl… |
+| 2026-10-27 07:21:33 | [pcloth.gitviews-sidebar](https://marketplace.visualstudio.com/items?itemName=pcloth.gitviews-sidebar) | GitViews Sidebar | 1.0.2 | GitViews Sidebar brings Git graph and commit history to the sidebar, with inlin… |
+| 2026-10-27 07:27:21 | [AbdulRehmanMemon.codewalk-tours](https://marketplace.visualstudio.com/items?itemName=AbdulRehmanMemon.codewalk-tours) | CodeWalk – Interactive Code Walkthroughs | 0.1.0 | Guided, step-by-step walkthroughs of a codebase, shown as inline bubbles on the… |
+| 2026-10-27 07:28:02 | [Develoops.elisa-vscode](https://marketplace.visualstudio.com/items?itemName=Develoops.elisa-vscode) | Elisa API Client | 0.0.1 | Cliente de APIs Elisa dentro de VS Code: REST, GraphQL y MCP, con pruebas y flu… |
+| 2026-10-27 07:28:46 | [NgoMinhThuan.karito-theme-official](https://marketplace.visualstudio.com/items?itemName=NgoMinhThuan.karito-theme-official) | Karito Theme | 0.1.0 | Karito Dark - a high-contrast Dracula-style dark theme, improved for readability |
+| 2026-10-27 07:29:39 | [mcdottok.dsh-coding-agent](https://marketplace.visualstudio.com/items?itemName=mcdottok.dsh-coding-agent) | DSH Coding Agent | 0.1.80 | AI coding with DeepSeek Harness: chat, share code context, run tools, and revie… |
+| 2026-10-27 07:40:35 | [sky-jiangcheng.repotory-vscode](https://marketplace.visualstudio.com/items?itemName=sky-jiangcheng.repotory-vscode) | Repotory | 2.16.0 | Repotory inside your IDE: browse your local knowledge base in a T-shaped reader… |
+| 2026-10-27 07:41:54 | [budowella.combswell](https://marketplace.visualstudio.com/items?itemName=budowella.combswell) | Combswell | 0.1.26 | Guarded models for VS Code — reasoning that keeps its thread. Combswell watches… |
+| 2026-10-27 07:46:57 | [hzwx.hzwx-extension-pack](https://marketplace.visualstudio.com/items?itemName=hzwx.hzwx-extension-pack) | HZWX Extension Pack | 0.0.2 | HZWX 前端开发插件集合：国际化(i18n)、发布工具、主题工具。安装本扩展包将自动安装全部三款 HZWX 插件。 |
+| 2026-10-27 07:50:31 | [limccn.kbmcp-vscode](https://marketplace.visualstudio.com/items?itemName=limccn.kbmcp-vscode) | hyseed | 0.1.0 | hyseed (formerly kb-mcp) local knowledge base inside VS Code: admin console, MC… |
+| 2026-10-27 07:53:19 | [lang2hong.devbelt-db-client](https://marketplace.visualstudio.com/items?itemName=lang2hong.devbelt-db-client) | DevBelt DB Client | 0.4.0 | DevBelt — database development inside VS Code. SQL for MySQL, PostgreSQL and SQ… |
+| 2026-10-27 08:00:17 | [the-skware.ganttee](https://marketplace.visualstudio.com/items?itemName=the-skware.ganttee) | Ganttee | 1.0.0 | Gantt chart editor |
+| 2026-10-27 08:02:03 | [miloop.miloop-editor](https://marketplace.visualstudio.com/items?itemName=miloop.miloop-editor) | Miloop | 0.1.0 | Connect your current codebase to Miloop so teammates can see when you're workin… |
+| 2026-10-27 08:07:26 | [easy-tilelang.tilelang-ci-vscode](https://marketplace.visualstudio.com/items?itemName=easy-tilelang.tilelang-ci-vscode) | TileLang CI | 0.1.0 | GitHub Actions resource queues and your pull request positions, inside VS Code. |
+| 2026-10-27 08:12:52 | [bjornharrtell.plantuml-rs](https://marketplace.visualstudio.com/items?itemName=bjornharrtell.plantuml-rs) | PlantUML (Rust) | 0.1.2 | PlantUML preview and Markdown rendering through the plantuml-rs port: .puml pre… |
 
 ## Data source
 
