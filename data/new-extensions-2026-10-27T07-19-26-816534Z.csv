@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T06:40:07.723Z,Nicchia.trama,Nicchia,Trama,0.1.1,"See your System as a layered Model of state machines, review Proposals and Drifts, and steer your coding agent from one editor tab."
+2026-10-27T06:48:22.457Z,M455YN.csharpshooter,M455YN,CSharpShooter,0.0.3,"C# and Razor (.cshtml/.razor) for VSCodium: IntelliSense, go to definition and tag helpers from Microsoft's roslyn-language-server, a Solution Explorer, F5 on launch profiles, and a bundled MIT-licensed .NET debugger."
+2026-10-27T06:51:22.22Z,wangx123.suyue,wangx123,素阅 · 文档阅读器,0.1.0,在 VS Code 里安静地阅读 Word、Excel、CSV 和 Markdown。本地解析，支持深色。
+2026-10-27T07:01:30.93Z,darcyjoven.4gl-full,darcyjoven,4gl-full,0.9.0,4gl（.4gl）与 Form（.per）的完整语言支持：语法高亮、定义/引用跳转、符号大纲、悬停、语法诊断。
+2026-10-27T07:08:34.843Z,Simplysm.simplysm-go-to-file-or-folder,Simplysm,Simplysm Go to File or Folder,15.1.1,"Find files and folders in one search box opened with Shift Shift — files open in the editor, folders open and get focus in the Explorer, like JetBrains Go to File"
+2026-10-27T07:08:43.503Z,Simplysm.simplysm-lint,Simplysm,Simplysm Lint,15.1.1,"Shows the project's own sd-cli check results in the editor as you type — runs the checker installed in the project, so the editor and sd-cli check always agree"
+2026-10-27T07:09:27.87Z,Simplysm.simplysm-theme,Simplysm,Simplysm Theme,15.1.1,Light and dark color themes in the Simplysm design — Office-style warm gray and deep Office blue

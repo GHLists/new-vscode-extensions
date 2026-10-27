@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 06:20 UTC
+## Latest list — 2026-10-27 07:19 UTC
 
-New extensions published between 2026-10-27 04:20 UTC and 2026-10-27 06:20 UTC.
+New extensions published between 2026-10-27 05:19 UTC and 2026-10-27 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T06-20-48-301076Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T07-19-26-816534Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 05:24:02 | [anshuly69.antigravity-companion](https://marketplace.visualstudio.com/items?itemName=anshuly69.antigravity-companion) | KYBER | 0.1.0 | Autonomous Pocket Supervisor & Tool Gatekeeper for Antigravity, Codex & Claude… |
-| 2026-10-27 05:26:25 | [xe-lang.xe-language](https://marketplace.visualstudio.com/items?itemName=xe-lang.xe-language) | XE Lang | 0.1.0 | Syntax highlighting, snippets and editor support for the XE programming languag… |
-| 2026-10-27 05:36:13 | [andrewl746.nebulosity-vscode](https://marketplace.visualstudio.com/items?itemName=andrewl746.nebulosity-vscode) | Nebulosity | 1.0.0 | The Nebulosity Map beside your code: the repo's folders, files and imports, fol… |
-| 2026-10-27 05:45:38 | [jeevavarshan.ember-tracker](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.ember-tracker) | Ember Time | 0.14.1 | Ember vscode plugin. Statistical analysis of code time. |
-| 2026-10-27 05:56:33 | [gsd2003.overwatch-faction-theme](https://marketplace.visualstudio.com/items?itemName=gsd2003.overwatch-faction-theme) | Overwatch & Talon Theme | 1.0.0 | Light and Dark VS Code color themes inspired by Overwatch and Talon color palet… |
-| 2026-10-27 06:00:53 | [zach-shen.tcl-tools](https://marketplace.visualstudio.com/items?itemName=zach-shen.tcl-tools) | Tcl Tools | 0.7.0 | Tcl language support for VS Code: smart completion, diagnostics, Tk/SQLite/TclO… |
-| 2026-10-27 06:01:16 | [AnandTechInc.cloudflare-ai-assistant](https://marketplace.visualstudio.com/items?itemName=AnandTechInc.cloudflare-ai-assistant) | Anand Tech AI Assistant (Cloudflare AI) | 0.2.0 | Conversational AI assistant using Cloudflare Workers AI free-tier models for AP… |
-| 2026-10-27 06:07:38 | [ShuheiNishikawa.mdmark-vscode](https://marketplace.visualstudio.com/items?itemName=ShuheiNishikawa.mdmark-vscode) | mdmark for VS Code | 0.1.0 | Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる |
+| 2026-10-27 06:40:07 | [Nicchia.trama](https://marketplace.visualstudio.com/items?itemName=Nicchia.trama) | Trama | 0.1.1 | See your System as a layered Model of state machines, review Proposals and Drif… |
+| 2026-10-27 06:48:22 | [M455YN.csharpshooter](https://marketplace.visualstudio.com/items?itemName=M455YN.csharpshooter) | CSharpShooter | 0.0.3 | C# and Razor (.cshtml/.razor) for VSCodium: IntelliSense, go to definition and… |
+| 2026-10-27 06:51:22 | [wangx123.suyue](https://marketplace.visualstudio.com/items?itemName=wangx123.suyue) | 素阅 · 文档阅读器 | 0.1.0 | 在 VS Code 里安静地阅读 Word、Excel、CSV 和 Markdown。本地解析，支持深色。 |
+| 2026-10-27 07:01:30 | [darcyjoven.4gl-full](https://marketplace.visualstudio.com/items?itemName=darcyjoven.4gl-full) | 4gl-full | 0.9.0 | 4gl（.4gl）与 Form（.per）的完整语言支持：语法高亮、定义/引用跳转、符号大纲、悬停、语法诊断。 |
+| 2026-10-27 07:08:34 | [Simplysm.simplysm-go-to-file-or-folder](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-go-to-file-or-folder) | Simplysm Go to File or Folder | 15.1.1 | Find files and folders in one search box opened with Shift Shift — files open i… |
+| 2026-10-27 07:08:43 | [Simplysm.simplysm-lint](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-lint) | Simplysm Lint | 15.1.1 | Shows the project's own sd-cli check results in the editor as you type — runs t… |
+| 2026-10-27 07:09:27 | [Simplysm.simplysm-theme](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-theme) | Simplysm Theme | 15.1.1 | Light and dark color themes in the Simplysm design — Office-style warm gray and… |
 
 ## Data source
 
