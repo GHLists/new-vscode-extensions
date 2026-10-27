@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 21:18 UTC
+## Latest list — 2026-10-27 22:20 UTC
 
-New extensions published between 2026-10-27 19:18 UTC and 2026-10-27 21:18 UTC.
+New extensions published between 2026-10-27 20:20 UTC and 2026-10-27 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T21-18-57-585627Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T22-20-42-523714Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 20:25:24 | [MarieAntonetteBacay.ado-task-creator](https://marketplace.visualstudio.com/items?itemName=MarieAntonetteBacay.ado-task-creator) | ADO Task Creator | 1.2.0 | Create your standard Dev or DBCR task pair under an Azure DevOps PBI or Bug in… |
-| 2026-10-27 20:26:01 | [jhasse.cja](https://marketplace.visualstudio.com/items?itemName=jhasse.cja) | cja | 0.1.0 | CMake language support powered by the cja language server: semantic highlightin… |
-| 2026-10-27 20:45:18 | [VersaYT.42header-angouleme](https://marketplace.visualstudio.com/items?itemName=VersaYT.42header-angouleme) | 42 Header Angouleme | 0.42.8 | 42 header for VSCode, fixed for Angouleme email address : www.42angouleme.fr |
+| 2026-10-27 21:38:02 | [korolserhii.java-member-visibility](https://marketplace.visualstudio.com/items?itemName=korolserhii.java-member-visibility) | Java Member Visibility | 0.1.0 | See which Java methods and fields are public, protected, package-private or pri… |
+| 2026-10-27 21:49:00 | [statac.statac](https://marketplace.visualstudio.com/items?itemName=statac.statac) | Statac | 0.1.0 | Statac's language server: problems as you type, completion, hover, go to defini… |
+| 2026-10-27 21:53:04 | [antlambe.iconimp-vsc-cli-blkalpha-20261027214311-c511](https://marketplace.visualstudio.com/items?itemName=antlambe.iconimp-vsc-cli-blkalpha-20261027214311-c511) | II Test - VS Code - CLI - Black Transpa… | 1.0.0 | Generated Prod extension for testing Marketplace icon behavior. |
+| 2026-10-27 22:01:03 | [antlambe.iconimp-vsc-ui-blkalpha-20261027214311-c511](https://marketplace.visualstudio.com/items?itemName=antlambe.iconimp-vsc-ui-blkalpha-20261027214311-c511) | II Test - VS Code - Web UI - Black Tran… | 1.0.0 | Generated Prod extension for testing Marketplace icon behavior. |
 
 ## Data source
 

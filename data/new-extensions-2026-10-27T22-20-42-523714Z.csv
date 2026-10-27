@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T21:38:02.533Z,korolserhii.java-member-visibility,korolserhii,Java Member Visibility,0.1.0,"See which Java methods and fields are public, protected, package-private or private at a glance — a members panel next to Outline with UML visibility marks (+ # ~ −) and colors."
+2026-10-27T21:49:00.01Z,statac.statac,statac,Statac,0.1.0,"Statac's language server: problems as you type, completion, hover, go to definition, find references, fixes, and links updated when a page is renamed."
+2026-10-27T21:53:04.437Z,antlambe.iconimp-vsc-cli-blkalpha-20261027214311-c511,antlambe,II Test - VS Code - CLI - Black Transparent - 20261027214311-c511,1.0.0,Generated Prod extension for testing Marketplace icon behavior.
+2026-10-27T22:01:03.12Z,antlambe.iconimp-vsc-ui-blkalpha-20261027214311-c511,antlambe,II Test - VS Code - Web UI - Black Transparent - 20261027214311-c511,1.0.0,Generated Prod extension for testing Marketplace icon behavior.
