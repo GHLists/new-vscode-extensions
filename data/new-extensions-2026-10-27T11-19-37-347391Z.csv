@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T10:28:23.93Z,hcscat.multi-cli,hcscat,hcscat Multi CLI,0.7.3,"Selected AI sessions in registered projects, with native editor terminals"
+2026-10-27T10:33:50.55Z,ArfaxadZadot.prisma-tech-theme,ArfaxadZadot,Prisma-Tech,0.3.3,Tema oscuro prismático con panel visual para personalizar cada color en vivo: mezcla Aura y Material sobre un fondo #1B2126.
+2026-10-27T10:38:28.14Z,spheretech.muster-ai-agents,spheretech,Muster for AI Agents,0.4.1,"Browse, pin and resume Claude Code, Codex, Antigravity and Grok sessions, and see which agents work together in Muster rooms"
+2026-10-27T10:56:59.157Z,HCLTECHNOLOGIESLIMITED.aiforce-connect,HCLTECHNOLOGIESLIMITED,AIForce Connect,1.0.6,"A VS Code coding agent extension with chat, workspace tools, and guarded terminal execution."
+2026-10-27T11:08:56.607Z,FuSElektronikSysteme.fusystest,FuSElektronikSysteme,FuSys,0.7.1,Manage and download Yocto releases
+2026-10-27T11:13:33.72Z,pcbjs.vscode-pcbjs,pcbjs,pcbjs,0.0.1000,"Runs the pcbjs dev server for the workspace, previews boards beside the editor, links code and board both ways, and shows the language server of the dev server: hovers, lenses, findings and inline value editors."
