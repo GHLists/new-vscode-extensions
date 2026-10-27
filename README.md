@@ -12,29 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 08:20 UTC
+## Latest list — 2026-10-27 09:21 UTC
 
-New extensions published between 2026-10-27 06:20 UTC and 2026-10-27 08:20 UTC.
+New extensions published between 2026-10-27 07:21 UTC and 2026-10-27 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T08-20-57-125218Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T09-21-45-034647Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 07:18:37 | [DavidSteven.fuck-the-boss-reader](https://marketplace.visualstudio.com/items?itemName=DavidSteven.fuck-the-boss-reader) | Fuck The Boss Reader | 0.1.2 | 在状态栏阅读 TXT 小说，左侧章节目录按分组折叠 \| Read TXT novels in the status bar with a collapsibl… |
-| 2026-10-27 07:21:33 | [pcloth.gitviews-sidebar](https://marketplace.visualstudio.com/items?itemName=pcloth.gitviews-sidebar) | GitViews Sidebar | 1.0.2 | GitViews Sidebar brings Git graph and commit history to the sidebar, with inlin… |
-| 2026-10-27 07:27:21 | [AbdulRehmanMemon.codewalk-tours](https://marketplace.visualstudio.com/items?itemName=AbdulRehmanMemon.codewalk-tours) | CodeWalk – Interactive Code Walkthroughs | 0.1.0 | Guided, step-by-step walkthroughs of a codebase, shown as inline bubbles on the… |
-| 2026-10-27 07:28:02 | [Develoops.elisa-vscode](https://marketplace.visualstudio.com/items?itemName=Develoops.elisa-vscode) | Elisa API Client | 0.0.1 | Cliente de APIs Elisa dentro de VS Code: REST, GraphQL y MCP, con pruebas y flu… |
-| 2026-10-27 07:28:46 | [NgoMinhThuan.karito-theme-official](https://marketplace.visualstudio.com/items?itemName=NgoMinhThuan.karito-theme-official) | Karito Theme | 0.1.0 | Karito Dark - a high-contrast Dracula-style dark theme, improved for readability |
-| 2026-10-27 07:29:39 | [mcdottok.dsh-coding-agent](https://marketplace.visualstudio.com/items?itemName=mcdottok.dsh-coding-agent) | DSH Coding Agent | 0.1.80 | AI coding with DeepSeek Harness: chat, share code context, run tools, and revie… |
-| 2026-10-27 07:40:35 | [sky-jiangcheng.repotory-vscode](https://marketplace.visualstudio.com/items?itemName=sky-jiangcheng.repotory-vscode) | Repotory | 2.16.0 | Repotory inside your IDE: browse your local knowledge base in a T-shaped reader… |
-| 2026-10-27 07:41:54 | [budowella.combswell](https://marketplace.visualstudio.com/items?itemName=budowella.combswell) | Combswell | 0.1.26 | Guarded models for VS Code — reasoning that keeps its thread. Combswell watches… |
-| 2026-10-27 07:46:57 | [hzwx.hzwx-extension-pack](https://marketplace.visualstudio.com/items?itemName=hzwx.hzwx-extension-pack) | HZWX Extension Pack | 0.0.2 | HZWX 前端开发插件集合：国际化(i18n)、发布工具、主题工具。安装本扩展包将自动安装全部三款 HZWX 插件。 |
-| 2026-10-27 07:50:31 | [limccn.kbmcp-vscode](https://marketplace.visualstudio.com/items?itemName=limccn.kbmcp-vscode) | hyseed | 0.1.0 | hyseed (formerly kb-mcp) local knowledge base inside VS Code: admin console, MC… |
-| 2026-10-27 07:53:19 | [lang2hong.devbelt-db-client](https://marketplace.visualstudio.com/items?itemName=lang2hong.devbelt-db-client) | DevBelt DB Client | 0.4.0 | DevBelt — database development inside VS Code. SQL for MySQL, PostgreSQL and SQ… |
-| 2026-10-27 08:00:17 | [the-skware.ganttee](https://marketplace.visualstudio.com/items?itemName=the-skware.ganttee) | Ganttee | 1.0.0 | Gantt chart editor |
-| 2026-10-27 08:02:03 | [miloop.miloop-editor](https://marketplace.visualstudio.com/items?itemName=miloop.miloop-editor) | Miloop | 0.1.0 | Connect your current codebase to Miloop so teammates can see when you're workin… |
-| 2026-10-27 08:07:26 | [easy-tilelang.tilelang-ci-vscode](https://marketplace.visualstudio.com/items?itemName=easy-tilelang.tilelang-ci-vscode) | TileLang CI | 0.1.0 | GitHub Actions resource queues and your pull request positions, inside VS Code. |
-| 2026-10-27 08:12:52 | [bjornharrtell.plantuml-rs](https://marketplace.visualstudio.com/items?itemName=bjornharrtell.plantuml-rs) | PlantUML (Rust) | 0.1.2 | PlantUML preview and Markdown rendering through the plantuml-rs port: .puml pre… |
+| 2026-10-27 08:29:22 | [leadlens.leadlens](https://marketplace.visualstudio.com/items?itemName=leadlens.leadlens) | Leadlens — Email Preview & Linting for… | 1.1.3 | Build and inspect Adobe® Marketo® Engage Email Editor 2.0 templates and email H… |
+| 2026-10-27 08:38:23 | [acraider-vivek.ai-proxy-api](https://marketplace.visualstudio.com/items?itemName=acraider-vivek.ai-proxy-api) | AI Proxy API | 1.0.0 | Run a verified, private OpenAI-compatible proxy from VS Code. |
+| 2026-10-27 08:48:54 | [CanCLID.vscode-language-pack-yue](https://marketplace.visualstudio.com/items?itemName=CanCLID.vscode-language-pack-yue) | Cantonese (Hong Kong) Language Pack for… | 1.129.0 | Language pack extension for Cantonese |
+| 2026-10-27 08:57:15 | [schishti.html-click-preview](https://marketplace.visualstudio.com/items?itemName=schishti.html-click-preview) | HTML Click Preview | 0.0.2 | Opens .html and .md files rendered (webview) instead of as source. |
+| 2026-10-27 08:58:16 | [XXC.xmark](https://marketplace.visualstudio.com/items?itemName=XXC.xmark) | XMark - AI Code Bookmark | 0.1.0 | AI & Human collaborative code bookmark tool with grouping, drag-and-drop, gutte… |
+| 2026-10-27 08:58:47 | [gis-georgia.devbridge-vscode](https://marketplace.visualstudio.com/items?itemName=gis-georgia.devbridge-vscode) | PyQGIS DevBridge | 0.1.0 | One-click PyQGIS debugging: start QGIS with the debug bridge and attach VS Code… |
+| 2026-10-27 09:01:44 | [Xbmkoo.clangd-complete-fixer](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.clangd-complete-fixer) | clangd Complete Fixer | 0.0.1 | Fix some completion issues encountered when using the clangd plugin |
+| 2026-10-27 09:03:47 | [bondevn.claudestrator](https://marketplace.visualstudio.com/items?itemName=bondevn.claudestrator) | Claudestrator | 0.1.0 | A Claude Code agent pipeline in VS Code: plan → your approval → code and tests… |
+| 2026-10-27 09:05:30 | [KMM-ZONE.zone-keeper](https://marketplace.visualstudio.com/items?itemName=KMM-ZONE.zone-keeper) | ZoneKeeper | 0.1.0 | Task Management & Package Version Viewer |
+| 2026-10-27 09:15:17 | [FallenMax.vim-keys-for-markdown-preview](https://marketplace.visualstudio.com/items?itemName=FallenMax.vim-keys-for-markdown-preview) | Vim Keys for Markdown Preview | 0.1.0 | Vim-style keyboard navigation for the built-in Markdown preview. |
 
 ## Data source
 
