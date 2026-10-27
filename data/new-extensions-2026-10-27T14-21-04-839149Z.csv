@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T13:19:09.49Z,sid12g.ai-usage-statusbar-by-sid12g,sid12g,AI Usage Gauge,0.2.1,"See how much of your Claude and ChatGPT (Codex) usage limits is left, right in the status bar. Unofficial; not affiliated with Anthropic or OpenAI."
+2026-10-27T13:19:10.94Z,Lazuli-design-system.lazuli-tokens,Lazuli-design-system,Lazuli Tokens,0.1.1,"Resolve a Lazuli token, CSS variable, or Sass variable on hover, and complete names inside token()."
+2026-10-27T13:39:05.43Z,Aaditya.ghostpkg-shield,Aaditya,GhostPkg Shield — AI Hallucination & Slopsquatting Guard,1.0.1,"Real-time, zero-latency detection of AI-hallucinated ghost packages and slopsquatting vulnerabilities inside VS Code."
+2026-10-27T13:41:53.723Z,1237410.feell-code-pack,1237410,Feell Code Pack (3 ชุดโค้ด ระบบบันทึกตรวจห้อง),1.0.0,"รวมชุดโค้ดสำเร็จรูปทั้ง 3 ชุด (API, Vue/HTML, DB/Config) พร้อม Snippets, ระบบสร้างไฟล์อัตโนมัติ และเปิดดูใบซ้อมในตัว"
+2026-10-27T13:42:32.457Z,ceslava.slashless-html,ceslava,Slashless HTML,1.0.1,"HTML formatter that writes void elements without the trailing slash: <img>, <br>, <input>, <meta>, <link>… instead of <img />, <br />…"
+2026-10-27T13:49:52.03Z,anglisano.copilot-web,anglisano,Copilot Web,0.1.0,Open Microsoft Copilot from Visual Studio Code.
+2026-10-27T13:53:58.64Z,emuvi-pce.lidcode,emuvi-pce,LidCode,0.1.0,LidCode is a command extension for VSCode that generates unique identification codes inside a workspace.
+2026-10-27T13:54:26.673Z,MATTHEWKING.css-whitespace-smart-indenter,MATTHEWKING,CSS Whitespace Smart Indenter,0.0.2,Indent CSS children to match their parent selectors using whitespace. Organize CSS to mirror your HTML structure.
+2026-10-27T14:02:28.187Z,AiMatGroup.cluster-tunnel,AiMatGroup,Cluster Tunnel,0.1.0,Shows your HPC clusters and Slurm jobs through the ctun CLI.
+2026-10-27T14:09:50.537Z,SebastianIrimia.mdotion,SebastianIrimia,MDotion – Visual Markdown Editor,0.6.0,"Edit Markdown like a block editor: slash menu, drag-and-drop blocks, callouts, tables and code. Files stay plain .md, untouched blocks are saved byte for byte."
