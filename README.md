@@ -12,27 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 17:21 UTC
+## Latest list — 2026-10-27 18:21 UTC
 
-New extensions published between 2026-10-27 15:21 UTC and 2026-10-27 17:21 UTC.
+New extensions published between 2026-10-27 16:21 UTC and 2026-10-27 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T17-21-02-837568Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T18-21-25-356301Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 16:23:32 | [1237410.pw-inspector-handbook](https://marketplace.visualstudio.com/items?itemName=1237410.pw-inspector-handbook) | PW Inspector & Lab Helper | 1.0.0 | Run Playwright Test tests in Visual Studio Code. |
-| 2026-10-27 16:26:39 | [SkyfallSoftworks.daydream](https://marketplace.visualstudio.com/items?itemName=SkyfallSoftworks.daydream) | Daydream | 1.0.1 | Faintly green, pleasantly elsewhere. A dark and light theme based on Amp's Dayd… |
-| 2026-10-27 16:34:31 | [elrhea-desouza.formatflip](https://marketplace.visualstudio.com/items?itemName=elrhea-desouza.formatflip) | FormatFlip - Image to WebP Converter | 0.0.2 | Convert images to WebP in VS Code with clipboard support, drag-and-drop, batch… |
-| 2026-10-27 16:36:26 | [nicolas-hedoire.diftale](https://marketplace.visualstudio.com/items?itemName=nicolas-hedoire.diftale) | Diftale | 0.8.1 | Understand every AI change. Follow code, plan reviewable batches, connect Jira,… |
-| 2026-10-27 16:38:37 | [wxk6b1203.arthas-vscode](https://marketplace.visualstudio.com/items?itemName=wxk6b1203.arthas-vscode) | Arthas VSCode | 0.2.0 | Generate and copy Arthas commands (watch/trace/stack/monitor/tt/ognl/vmtool/sc/… |
-| 2026-10-27 16:44:00 | [Rathinosk.vscode-task-runner](https://marketplace.visualstudio.com/items?itemName=Rathinosk.vscode-task-runner) | VSCode Task Runner | 0.0.2 | A sidebar grid of big, labelled buttons that run your tasks and shell commands. |
-| 2026-10-27 16:55:37 | [alexbrickwedde.vscode-todo-file-alexbrickwedde](https://marketplace.visualstudio.com/items?itemName=alexbrickwedde.vscode-todo-file-alexbrickwedde) | .todo Editor | 0.0.1 | Visual editor for .todo task files with per-user sections, drag & drop and due… |
-| 2026-10-27 16:56:08 | [vnbtec.vnbtec](https://marketplace.visualstudio.com/items?itemName=vnbtec.vnbtec) | VNBtec | 1.0.1 | The AI-powered suite for Science, Code & Social — Math solver, Physics engine,… |
-| 2026-10-27 16:57:10 | [stacks.vscode-stx](https://marketplace.visualstudio.com/items?itemName=stacks.vscode-stx) | stx Templates by Stacks | 0.2.722 | Language support for stx templates: syntax highlighting, completions, hovers, d… |
-| 2026-10-27 16:57:43 | [vnbtec.vnbtec-ide](https://marketplace.visualstudio.com/items?itemName=vnbtec.vnbtec-ide) | VNBtec IDE | 1.0.1 | Open the VNBtec Cloud IDE (Code, Preview, Monitor, AI) directly inside VS Code. |
-| 2026-10-27 16:59:36 | [israelsaraiva.routiq](https://marketplace.visualstudio.com/items?itemName=israelsaraiva.routiq) | Routiq | 0.1.0 | A lightweight Insomnia/Postman-like REST client inside VS Code. |
-| 2026-10-27 17:07:26 | [nandoBlanco.localhost-opener](https://marketplace.visualstudio.com/items?itemName=nandoBlanco.localhost-opener) | Localhost Opener | 1.5.0 | Map local web server files (XAMPP, MAMP, Apache, Nginx) to localhost URLs and o… |
-| 2026-10-27 17:07:50 | [nandoBlanco.wrike-tasks](https://marketplace.visualstudio.com/items?itemName=nandoBlanco.wrike-tasks) | Wrike Tasks | 1.7.0 | View, star, search, sort, change status, post comments with @mentions, and copy… |
+| 2026-10-27 17:28:11 | [hartwoodsgroup.psgi-runner](https://marketplace.visualstudio.com/items?itemName=hartwoodsgroup.psgi-runner) | PSGI Runner | 1.0.0 | Run and manage Perl PSGI/Plack development servers from VS Code, with Dancer2-f… |
+| 2026-10-27 17:33:31 | [flightcoders.veyra-code-guard](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-code-guard) | Veyra Code Guard | 1.0.0 | A security reviewer that checks every line for trojans, backdoors and malicious… |
+| 2026-10-27 17:37:40 | [voltamicup.micup-docs-ai](https://marketplace.visualstudio.com/items?itemName=voltamicup.micup-docs-ai) | Micup Docs for AI | 0.1.2 | Micup bot and API docs for GitHub Copilot Chat, with /micupdownload and searcha… |
+| 2026-10-27 17:51:11 | [Rozenbridge.risimide](https://marketplace.visualstudio.com/items?itemName=Rozenbridge.risimide) | Risimide | 0.1.0 | Browse, download, and build Risimide projects from VS Code. |
+| 2026-10-27 17:53:25 | [timkpaine.webview-vscode](https://marketplace.visualstudio.com/items?itemName=timkpaine.webview-vscode) | Webview Sites | 0.1.0 | Open configured web apps in VS Code's integrated browser. |
+| 2026-10-27 17:55:46 | [AcornPlayground.macarch-debug](https://marketplace.visualstudio.com/items?itemName=AcornPlayground.macarch-debug) | MacArch: Acorn Archimedes debugger | 0.1.0 | Write ARM assembler or BBC BASIC and debug it on MacArch's emulated Acorn Archi… |
 
 ## Data source
 

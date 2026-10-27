@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T17:28:11.487Z,hartwoodsgroup.psgi-runner,hartwoodsgroup,PSGI Runner,1.0.0,"Run and manage Perl PSGI/Plack development servers from VS Code, with Dancer2-friendly defaults and Output panel logging."
+2026-10-27T17:33:31.85Z,flightcoders.veyra-code-guard,flightcoders,Veyra Code Guard,1.0.0,"A security reviewer that checks every line for trojans, backdoors and malicious code: hidden Trojan Source characters, obfuscated eval, download-and-run commands, reverse shells, crypto miners, credential theft, leaked keys and poisoned install scripts. In VS Code and on every GitHub pull request."
+2026-10-27T17:37:40.227Z,voltamicup.micup-docs-ai,voltamicup,Micup Docs for AI,0.1.2,"Micup bot and API docs for GitHub Copilot Chat, with /micupdownload and searchable MCP tools."
+2026-10-27T17:51:11.277Z,Rozenbridge.risimide,Rozenbridge,Risimide,0.1.0,"Browse, download, and build Risimide projects from VS Code."
+2026-10-27T17:53:25.483Z,timkpaine.webview-vscode,timkpaine,Webview Sites,0.1.0,Open configured web apps in VS Code's integrated browser.
+2026-10-27T17:55:46.767Z,AcornPlayground.macarch-debug,AcornPlayground,MacArch: Acorn Archimedes debugger,0.1.0,"Write ARM assembler or BBC BASIC and debug it on MacArch's emulated Acorn Archimedes: assemble and run with F5, breakpoints in the source (or a BASIC program's lines), stepping (and stepping back), registers, BASIC variables, memory, disassembly and watchpoints."
