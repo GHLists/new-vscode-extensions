@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T15:13:54.517Z,onapi.onapi,onapi,OnAPI,0.0.2,Ultra-lightweight Rest API debugging tool for VS Code.
+2026-10-27T15:26:56.503Z,Apostolu.apostolu-dark-theme,Apostolu,Apostolu's Theme,0.2.0,"My dark theme for Python and C, packaged with clangd and Python."
+2026-10-27T15:54:44.433Z,Planckspace.planckspace-extension,Planckspace,"Planckspace · AI coding spend, one-click fixes & savings",0.3.0,"See what your AI coding tools cost — then fix the waste in one click. Measured insights, one-click remediations with undo, Claude Code hand-off, and savings measured from your telemetry. Works with Claude Code, Cursor, and Windsurf. Local-first — your code never leaves your machine."
+2026-10-27T16:04:12.967Z,1237410.pw-test-runner-suite,1237410,PW Test Runner & Inspector Suite,1.0.0,Run Playwright Test tests in Visual Studio Code.
+2026-10-27T16:10:54.333Z,scnabla.catlas-hub-tools,scnabla,CAtlas Hub,1.0.1,增强 VS Code 的项目切换、代码浏览、标签组织和便携开发设置。
