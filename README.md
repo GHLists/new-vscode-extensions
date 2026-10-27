@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 09:21 UTC
+## Latest list — 2026-10-27 10:20 UTC
 
-New extensions published between 2026-10-27 07:21 UTC and 2026-10-27 09:21 UTC.
+New extensions published between 2026-10-27 08:20 UTC and 2026-10-27 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T09-21-45-034647Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T10-20-11-916992Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 08:29:22 | [leadlens.leadlens](https://marketplace.visualstudio.com/items?itemName=leadlens.leadlens) | Leadlens — Email Preview & Linting for… | 1.1.3 | Build and inspect Adobe® Marketo® Engage Email Editor 2.0 templates and email H… |
-| 2026-10-27 08:38:23 | [acraider-vivek.ai-proxy-api](https://marketplace.visualstudio.com/items?itemName=acraider-vivek.ai-proxy-api) | AI Proxy API | 1.0.0 | Run a verified, private OpenAI-compatible proxy from VS Code. |
-| 2026-10-27 08:48:54 | [CanCLID.vscode-language-pack-yue](https://marketplace.visualstudio.com/items?itemName=CanCLID.vscode-language-pack-yue) | Cantonese (Hong Kong) Language Pack for… | 1.129.0 | Language pack extension for Cantonese |
-| 2026-10-27 08:57:15 | [schishti.html-click-preview](https://marketplace.visualstudio.com/items?itemName=schishti.html-click-preview) | HTML Click Preview | 0.0.2 | Opens .html and .md files rendered (webview) instead of as source. |
-| 2026-10-27 08:58:16 | [XXC.xmark](https://marketplace.visualstudio.com/items?itemName=XXC.xmark) | XMark - AI Code Bookmark | 0.1.0 | AI & Human collaborative code bookmark tool with grouping, drag-and-drop, gutte… |
-| 2026-10-27 08:58:47 | [gis-georgia.devbridge-vscode](https://marketplace.visualstudio.com/items?itemName=gis-georgia.devbridge-vscode) | PyQGIS DevBridge | 0.1.0 | One-click PyQGIS debugging: start QGIS with the debug bridge and attach VS Code… |
-| 2026-10-27 09:01:44 | [Xbmkoo.clangd-complete-fixer](https://marketplace.visualstudio.com/items?itemName=Xbmkoo.clangd-complete-fixer) | clangd Complete Fixer | 0.0.1 | Fix some completion issues encountered when using the clangd plugin |
-| 2026-10-27 09:03:47 | [bondevn.claudestrator](https://marketplace.visualstudio.com/items?itemName=bondevn.claudestrator) | Claudestrator | 0.1.0 | A Claude Code agent pipeline in VS Code: plan → your approval → code and tests… |
-| 2026-10-27 09:05:30 | [KMM-ZONE.zone-keeper](https://marketplace.visualstudio.com/items?itemName=KMM-ZONE.zone-keeper) | ZoneKeeper | 0.1.0 | Task Management & Package Version Viewer |
-| 2026-10-27 09:15:17 | [FallenMax.vim-keys-for-markdown-preview](https://marketplace.visualstudio.com/items?itemName=FallenMax.vim-keys-for-markdown-preview) | Vim Keys for Markdown Preview | 0.1.0 | Vim-style keyboard navigation for the built-in Markdown preview. |
+| 2026-10-27 09:20:42 | [petrichoral.night-owl-reforged](https://marketplace.visualstudio.com/items?itemName=petrichoral.night-owl-reforged) | Night Owl Reforged | 2.2.4 | An actively maintained fork of Night Owl — same palette, with tab and workbench… |
+| 2026-10-27 09:20:47 | [QlikTechInc.qlik-code](https://marketplace.visualstudio.com/items?itemName=QlikTechInc.qlik-code) | Qlik Code | 1.0.0 | Beta - Build for Qlik Cloud using VS Code |
+| 2026-10-27 09:30:14 | [EeeMao.section-figure-paste](https://marketplace.visualstudio.com/items?itemName=EeeMao.section-figure-paste) | Section Figure Paste — 按章节自动编号的图片粘贴 | 0.1.0 | Paste images into Typst/Markdown and auto-name them by section. 按章节自动编号命名粘贴的图片。 |
+| 2026-10-27 09:31:19 | [bondevn.go-to-project](https://marketplace.visualstudio.com/items?itemName=bondevn.go-to-project) | Go To Project | 0.1.0 | Switch between open project windows with quick search, open recent projects, an… |
+| 2026-10-27 09:37:16 | [exeltarkus.easy-projects-manager](https://marketplace.visualstudio.com/items?itemName=exeltarkus.easy-projects-manager) | Easy Projects Manager | 1.10.3 | Easily switch between projects, including opening projects in WSL or Windows (f… |
+| 2026-10-27 09:54:54 | [rkonit.gitcheckout](https://marketplace.visualstudio.com/items?itemName=rkonit.gitcheckout) | Git Checkout | 0.3.0 | A graphical Git client for VS Code: commit graph, staging, history, and branch… |
+| 2026-10-27 10:02:05 | [MASSIVEDYNAMICS.coassist-code](https://marketplace.visualstudio.com/items?itemName=MASSIVEDYNAMICS.coassist-code) | CoAssist-Code | 0.1.0 | A BYOK AI code review and improvement assistant for VS Code. |
+| 2026-10-27 10:02:31 | [shubhammaji1.parallel-earth](https://marketplace.visualstudio.com/items?itemName=shubhammaji1.parallel-earth) | ParallelEarth | 0.1.0 | Explore alternate futures. Verify before you change. Local worktree experiments… |
+| 2026-10-27 10:06:59 | [ZoneYottaZenith.ucansearch](https://marketplace.visualstudio.com/items?itemName=ZoneYottaZenith.ucansearch) | UCanSearch for Copilot | 0.3.6 | 把网页搜索和网页抓取接进 GitHub Copilot：搜索走 DeepSeek Search 接口，抓取走 DeepSeek Fetch 接口，结果直接喂给… |
 
 ## Data source
 

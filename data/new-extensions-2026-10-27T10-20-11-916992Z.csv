@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T09:20:42.553Z,petrichoral.night-owl-reforged,petrichoral,Night Owl Reforged,2.2.4,"An actively maintained fork of Night Owl — same palette, with tab and workbench states that are actually readable. Night, Light and No-Italics variants included. ✨"
+2026-10-27T09:20:47.693Z,QlikTechInc.qlik-code,QlikTechInc,Qlik Code,1.0.0,Beta - Build for Qlik Cloud using VS Code
+2026-10-27T09:30:14.09Z,EeeMao.section-figure-paste,EeeMao,Section Figure Paste — 按章节自动编号的图片粘贴,0.1.0,Paste images into Typst/Markdown and auto-name them by section. 按章节自动编号命名粘贴的图片。
+2026-10-27T09:31:19.347Z,bondevn.go-to-project,bondevn,Go To Project,0.1.0,"Switch between open project windows with quick search, open recent projects, and jump back to the last project."
+2026-10-27T09:37:16.587Z,exeltarkus.easy-projects-manager,exeltarkus,Easy Projects Manager,1.10.3,"Easily switch between projects, including opening projects in WSL or Windows (fork of alefragnani's Project Manager)"
+2026-10-27T09:54:54.527Z,rkonit.gitcheckout,rkonit,Git Checkout,0.3.0,"A graphical Git client for VS Code: commit graph, staging, history, and branch tools. It runs where your code lives, including remote workspaces."
+2026-10-27T10:02:05.03Z,MASSIVEDYNAMICS.coassist-code,MASSIVEDYNAMICS,CoAssist-Code,0.1.0,A BYOK AI code review and improvement assistant for VS Code.
+2026-10-27T10:02:31.18Z,shubhammaji1.parallel-earth,shubhammaji1,ParallelEarth,0.1.0,Explore alternate futures. Verify before you change. Local worktree experiments with real check evidence.
+2026-10-27T10:06:59.823Z,ZoneYottaZenith.ucansearch,ZoneYottaZenith,UCanSearch for Copilot,0.3.6,把网页搜索和网页抓取接进 GitHub Copilot：搜索走 DeepSeek Search 接口，抓取走 DeepSeek Fetch 接口，结果直接喂给模型。
