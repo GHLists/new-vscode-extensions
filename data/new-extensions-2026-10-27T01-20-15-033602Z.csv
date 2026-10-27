@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T00:42:35.733Z,vg0x00.defhop,vg0x00,Defhop,1.0.0,Instant code navigation for Java (definition / references). Defhop for Java.
+2026-10-27T00:49:39.327Z,mnema.mnema,mnema,mnema,0.1.3,"Shows the rules in force over the open file, the decisions waiting for a judgment and the stacks adopted for the project, as the mnema command line reports them."
+2026-10-27T01:04:57.007Z,clydedsouza.crazy-rich-markdown-editor,clydedsouza,Crazy Rich Markdown Editor,0.15.2,"Edit Markdown files as rich text with a floating formatting toolbar. Supports GitHub Flavored Markdown, and keeps the code of MDX files as it is. The file stays raw Markdown on disk."
