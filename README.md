@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 02:19 UTC
+## Latest list — 2026-10-27 03:19 UTC
 
-New extensions published between 2026-10-27 00:19 UTC and 2026-10-27 02:19 UTC.
+New extensions published between 2026-10-27 01:19 UTC and 2026-10-27 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T02-19-58-818197Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T03-19-46-884376Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 01:13:16 | [voidaliot.aliot-software-architecture](https://marketplace.visualstudio.com/items?itemName=voidaliot.aliot-software-architecture) | Aliot Software Architect | 0.13.0 | Model software architecture with diagrams, in-place editing, validation, CLI ex… |
-| 2026-10-27 01:15:08 | [kukume.legado](https://marketplace.visualstudio.com/items?itemName=kukume.legado) | Legado | 1.0.0 | IDE 小说阅读扩展：对接阅读 Web 的开放接口，书架、目录、正文、进度同步，以及光标后的行内阅读。 |
-| 2026-10-27 01:30:40 | [Warnain.warnain-color-picker](https://marketplace.visualstudio.com/items?itemName=Warnain.warnain-color-picker) | Warnain - Universal Color Picker for Co… | 1.0.0 | Instantly convert Hex, RGBA, and HSLA to native formats for Flutter, Godot, Rea… |
-| 2026-10-27 01:44:52 | [voidaliot.codebase-vsc-ext](https://marketplace.visualstudio.com/items?itemName=voidaliot.codebase-vsc-ext) | Aliot Codebase | 0.11.0 | Explore code structure, call graphs and flow in interactive workspace and file… |
-| 2026-10-27 01:54:11 | [ysra.ysra](https://marketplace.visualstudio.com/items?itemName=ysra.ysra) | Ysra — AI developer | 0.1.0 | Hand coding tasks to Ysra on the folder you have open, and keep or undo each ch… |
-| 2026-10-27 01:58:51 | [sarathakur.aisc-lab-programs](https://marketplace.visualstudio.com/items?itemName=sarathakur.aisc-lab-programs) | AISC Lab Programs | 0.0.1 | All 23 AISC practical programs (perceptron, Hebbian, search, fuzzy logic, compe… |
-| 2026-10-27 02:09:12 | [nyra.nyra-lang](https://marketplace.visualstudio.com/items?itemName=nyra.nyra-lang) | NyraLang | 0.24.7 | Syntax, themes, LSP, and debug for Nyra (.ny / .ni / .nk) |
-| 2026-10-27 02:09:40 | [erichuang80s.page-assets-navigator](https://marketplace.visualstudio.com/items?itemName=erichuang80s.page-assets-navigator) | Page Assets Navigator | 0.0.1 | List the CSS and JS files referenced by the current HTML page and open them in… |
+| 2026-10-27 02:28:08 | [manaster.web-nav](https://marketplace.visualstudio.com/items?itemName=manaster.web-nav) | 网站导航 | 0.0.1 | 在 VS Code 侧边栏管理常用网站，在编辑器里直接打开 |
+| 2026-10-27 02:28:35 | [hades841.verilog-fixer-v1](https://marketplace.visualstudio.com/items?itemName=hades841.verilog-fixer-v1) | Verilog BeginEnd Fixer | 1.3.0 | 为 Verilog/SystemVerilog 自动补充 begin/end，并在写入前通过 Vivado xvlog 校验。 |
+| 2026-10-27 02:29:01 | [onepiece-tools.source-insight-context-relation](https://marketplace.visualstudio.com/items?itemName=onepiece-tools.source-insight-context-relation) | Source Insight Context & Relation | 2.0.0 | Source Insight 4 style Context and Relation windows for VS Code with call trees… |
+| 2026-10-27 02:35:49 | [Samboben.ultratether-vscode](https://marketplace.visualstudio.com/items?itemName=Samboben.ultratether-vscode) | UltraTether | 1.2.4 | Drive the Claude Code running on your UltraTether Hub from VSCode — the same li… |
+| 2026-10-27 02:47:15 | [hzwx.hzwx-publish-tool](https://marketplace.visualstudio.com/items?itemName=hzwx.hzwx-publish-tool) | HZWX 发布工具 | 0.1.0 | 组件库可视化发布面板：基于 changeset v3，完成 add / version / build / publish 全流程 |
+| 2026-10-27 02:52:43 | [FelixAndresGonzalezOrtiz.vulnsync](https://marketplace.visualstudio.com/items?itemName=FelixAndresGonzalezOrtiz.vulnsync) | VulnSync — MSRC & GitHub Advisory | 0.1.0 | Detecta el stack del proyecto (.NET, Node.js, Python), sincroniza los boletines… |
+| 2026-10-27 03:08:46 | [clarissa-dev-codes.git-mistake-tracker](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.git-mistake-tracker) | git-mistake-tracker | 1.0.1 | Tracks down git line authors and errors |
+| 2026-10-27 03:10:02 | [VTzy137.conditional-call-flow](https://marketplace.visualstudio.com/items?itemName=VTzy137.conditional-call-flow) | Conditional Call Flow | 0.1.0 | Conditional inter-procedural call graph: see which function calls which, and un… |
+| 2026-10-27 03:10:30 | [VTzy137.dotnet-resources-viewer](https://marketplace.visualstudio.com/items?itemName=VTzy137.dotnet-resources-viewer) | .NET Resources Structure Viewer | 1.0.0 | Xem cấu trúc nhị phân của file .NET .resources (ResourceReader V1/V2, Deseriali… |
 
 ## Data source
 

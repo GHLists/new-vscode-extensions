@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T02:28:08.957Z,manaster.web-nav,manaster,网站导航,0.0.1,在 VS Code 侧边栏管理常用网站，在编辑器里直接打开
+2026-10-27T02:28:35.547Z,hades841.verilog-fixer-v1,hades841,Verilog BeginEnd Fixer,1.3.0,为 Verilog/SystemVerilog 自动补充 begin/end，并在写入前通过 Vivado xvlog 校验。
+2026-10-27T02:29:01.813Z,onepiece-tools.source-insight-context-relation,onepiece-tools,Source Insight Context & Relation,2.0.0,"Source Insight 4 style Context and Relation windows for VS Code with call trees, configurable depth, callers/callees, locks, and symbol-only graph nodes."
+2026-10-27T02:35:49.93Z,Samboben.ultratether-vscode,Samboben,UltraTether,1.2.4,Drive the Claude Code running on your UltraTether Hub from VSCode — the same live sessions as your phone.
+2026-10-27T02:47:15.32Z,hzwx.hzwx-publish-tool,hzwx,HZWX 发布工具,0.1.0,组件库可视化发布面板：基于 changeset v3，完成 add / version / build / publish 全流程
+2026-10-27T02:52:43.387Z,FelixAndresGonzalezOrtiz.vulnsync,FelixAndresGonzalezOrtiz,VulnSync — MSRC & GitHub Advisory,0.1.0,"Detecta el stack del proyecto (.NET, Node.js, Python), sincroniza los boletines de seguridad de Microsoft (MSRC) y la GitHub Advisory Database, y marca en el editor las dependencias y runtimes vulnerables."
+2026-10-27T03:08:46.04Z,clarissa-dev-codes.git-mistake-tracker,clarissa-dev-codes,git-mistake-tracker,1.0.1,Tracks down git line authors and errors
+2026-10-27T03:10:02.9Z,VTzy137.conditional-call-flow,VTzy137,Conditional Call Flow,0.1.0,"Conditional inter-procedural call graph: see which function calls which, and under what condition."
+2026-10-27T03:10:30.96Z,VTzy137.dotnet-resources-viewer,VTzy137,.NET Resources Structure Viewer,1.0.0,"Xem cấu trúc nhị phân của file .NET .resources (ResourceReader V1/V2, DeserializingResourceReader): header, bảng type, name/data section, giá trị, ảnh và hex dump."
