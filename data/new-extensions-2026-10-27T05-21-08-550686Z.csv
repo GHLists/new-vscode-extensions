@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T04:19:35.897Z,precisely.precisely-cloud-vscode,precisely,Precisely,0.0.2,VS Code extension for DSL authoring and Suite integration
+2026-10-27T04:31:34.747Z,he0119.maa-node-test,he0119,Maa 节点测试插件,0.1.0,Maa 节点测试的 VS Code 插件：跑 maa-tools 的节点测试用例，在测试面板里看结果与失败原因，悬浮预览各平台截图
+2026-10-27T04:44:42.573Z,kc-vscode-lab.secure-demo,kc-vscode-lab,Secure Demo,0.0.1,A minimal demo extension that says hello.
+2026-10-27T04:52:13.057Z,ThothanCoding.thothan-code,ThothanCoding,Thổ Thần: Coding Agent by AppotaHub,7.7.9,"AI coding agent by AppotaHub. Build features, fix bugs, automate terminal workflows, and code with TAKA Coding Plan directly inside VS Code."
+2026-10-27T04:57:09.037Z,kimuracoki.nene-vscode,kimuracoki,Nene,0.1.0,Nene（UI のための関数型言語）のハイライト・型エラー・補完・定義へ移動・名前の変更・整形
+2026-10-27T05:12:33.807Z,AnandTechInc.api-onboarding-agent,AnandTechInc,API Onboarding Agent,0.1.0,"Generate typed API clients, tests, docs and a security report from an OpenAPI spec — locally, in VS Code. From Anand Tech Inc: the team behind self-serve API onboarding for 120+ APIs, cutting implementation time from weeks to 20 minutes–1 day."
