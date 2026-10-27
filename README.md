@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 05:21 UTC
+## Latest list — 2026-10-27 06:20 UTC
 
-New extensions published between 2026-10-27 03:21 UTC and 2026-10-27 05:21 UTC.
+New extensions published between 2026-10-27 04:20 UTC and 2026-10-27 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T05-21-08-550686Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T06-20-48-301076Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 04:19:35 | [precisely.precisely-cloud-vscode](https://marketplace.visualstudio.com/items?itemName=precisely.precisely-cloud-vscode) | Precisely | 0.0.2 | VS Code extension for DSL authoring and Suite integration |
-| 2026-10-27 04:31:34 | [he0119.maa-node-test](https://marketplace.visualstudio.com/items?itemName=he0119.maa-node-test) | Maa 节点测试插件 | 0.1.0 | Maa 节点测试的 VS Code 插件：跑 maa-tools 的节点测试用例，在测试面板里看结果与失败原因，悬浮预览各平台截图 |
-| 2026-10-27 04:44:42 | [kc-vscode-lab.secure-demo](https://marketplace.visualstudio.com/items?itemName=kc-vscode-lab.secure-demo) | Secure Demo | 0.0.1 | A minimal demo extension that says hello. |
-| 2026-10-27 04:52:13 | [ThothanCoding.thothan-code](https://marketplace.visualstudio.com/items?itemName=ThothanCoding.thothan-code) | Thổ Thần: Coding Agent by AppotaHub | 7.7.9 | AI coding agent by AppotaHub. Build features, fix bugs, automate terminal workf… |
-| 2026-10-27 04:57:09 | [kimuracoki.nene-vscode](https://marketplace.visualstudio.com/items?itemName=kimuracoki.nene-vscode) | Nene | 0.1.0 | Nene（UI のための関数型言語）のハイライト・型エラー・補完・定義へ移動・名前の変更・整形 |
-| 2026-10-27 05:12:33 | [AnandTechInc.api-onboarding-agent](https://marketplace.visualstudio.com/items?itemName=AnandTechInc.api-onboarding-agent) | API Onboarding Agent | 0.1.0 | Generate typed API clients, tests, docs and a security report from an OpenAPI s… |
+| 2026-10-27 05:24:02 | [anshuly69.antigravity-companion](https://marketplace.visualstudio.com/items?itemName=anshuly69.antigravity-companion) | KYBER | 0.1.0 | Autonomous Pocket Supervisor & Tool Gatekeeper for Antigravity, Codex & Claude… |
+| 2026-10-27 05:26:25 | [xe-lang.xe-language](https://marketplace.visualstudio.com/items?itemName=xe-lang.xe-language) | XE Lang | 0.1.0 | Syntax highlighting, snippets and editor support for the XE programming languag… |
+| 2026-10-27 05:36:13 | [andrewl746.nebulosity-vscode](https://marketplace.visualstudio.com/items?itemName=andrewl746.nebulosity-vscode) | Nebulosity | 1.0.0 | The Nebulosity Map beside your code: the repo's folders, files and imports, fol… |
+| 2026-10-27 05:45:38 | [jeevavarshan.ember-tracker](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.ember-tracker) | Ember Time | 0.14.1 | Ember vscode plugin. Statistical analysis of code time. |
+| 2026-10-27 05:56:33 | [gsd2003.overwatch-faction-theme](https://marketplace.visualstudio.com/items?itemName=gsd2003.overwatch-faction-theme) | Overwatch & Talon Theme | 1.0.0 | Light and Dark VS Code color themes inspired by Overwatch and Talon color palet… |
+| 2026-10-27 06:00:53 | [zach-shen.tcl-tools](https://marketplace.visualstudio.com/items?itemName=zach-shen.tcl-tools) | Tcl Tools | 0.7.0 | Tcl language support for VS Code: smart completion, diagnostics, Tk/SQLite/TclO… |
+| 2026-10-27 06:01:16 | [AnandTechInc.cloudflare-ai-assistant](https://marketplace.visualstudio.com/items?itemName=AnandTechInc.cloudflare-ai-assistant) | Anand Tech AI Assistant (Cloudflare AI) | 0.2.0 | Conversational AI assistant using Cloudflare Workers AI free-tier models for AP… |
+| 2026-10-27 06:07:38 | [ShuheiNishikawa.mdmark-vscode](https://marketplace.visualstudio.com/items?itemName=ShuheiNishikawa.mdmark-vscode) | mdmark for VS Code | 0.1.0 | Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる |
 
 ## Data source
 

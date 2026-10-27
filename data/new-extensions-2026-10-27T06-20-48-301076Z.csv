@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T05:24:02.03Z,anshuly69.antigravity-companion,anshuly69,KYBER,0.1.0,"Autonomous Pocket Supervisor & Tool Gatekeeper for Antigravity, Codex & Claude Code"
+2026-10-27T05:26:25.957Z,xe-lang.xe-language,xe-lang,XE Lang,0.1.0,"Syntax highlighting, snippets and editor support for the XE programming language."
+2026-10-27T05:36:13.513Z,andrewl746.nebulosity-vscode,andrewl746,Nebulosity,1.0.0,"The Nebulosity Map beside your code: the repo's folders, files and imports, following the editor. Needs the nebulosity package (npm install -g nebulosity)."
+2026-10-27T05:45:38.563Z,jeevavarshan.ember-tracker,jeevavarshan,Ember Time,0.14.1,Ember vscode plugin. Statistical analysis of code time.
+2026-10-27T05:56:33.82Z,gsd2003.overwatch-faction-theme,gsd2003,Overwatch & Talon Theme,1.0.0,Light and Dark VS Code color themes inspired by Overwatch and Talon color palettes.
+2026-10-27T06:00:53.503Z,zach-shen.tcl-tools,zach-shen,Tcl Tools,0.7.0,"Tcl language support for VS Code: smart completion, diagnostics, Tk/SQLite/TclOO awareness, tcltest Test Explorer, and a full debugger."
+2026-10-27T06:01:16.643Z,AnandTechInc.cloudflare-ai-assistant,AnandTechInc,Anand Tech AI Assistant (Cloudflare AI),0.2.0,"Conversational AI assistant using Cloudflare Workers AI free-tier models for API and Azure APIM onboarding help, explanations, and Bicep/Terraform drafts. Chat in the sidebar, ask about selected code, and draft APIM onboarding code for review — never applied automatically."
+2026-10-27T06:07:38.003Z,ShuheiNishikawa.mdmark-vscode,ShuheiNishikawa,mdmark for VS Code,0.1.0,Markdown を mdmark で描いたプレビューを VS Code に出し、HTML への書き出しと PDF への印刷ができる
