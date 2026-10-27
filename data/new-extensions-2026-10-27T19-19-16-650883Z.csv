@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T18:14:20.853Z,hacknseek.vaultnest,hacknseek,VaultNest,1.3.1,"A local-first vault for VS Code. Keep logins, API keys, tokens and 2FA codes in an encrypted KDBX file on your machine."
+2026-10-27T18:22:05.837Z,jaxvik.caladesi,jaxvik,Caladesi,1.0.0,"Language support for Caladesi, a toy .NET language with TypeScript syntax."
+2026-10-27T18:36:31.343Z,whwitpohe.linyra,whwitpohe,Linyra — Multi-Repo Git History,1.4.0,"One git log across every repository in your workspace. Search commit messages, filter by author, branch and date across all of them at once, and open any change in the native diff editor."
+2026-10-27T18:37:45.28Z,MariuszCzyrnek.emerson-import,MariuszCzyrnek,CMsoft Import for PAC Machine Edition,1.3.0,"Import Emerson PAC Machine Edition projects into VS Code as PLCopen XML and Structured Text, edit them and export them back to PME - with Copilot tools, a chat assistant and an MCP server."
+2026-10-27T18:40:38.287Z,SmartData.model-alchemist,SmartData,Model Alchemist,5.2.0,Compare two Power BI semantic models (PBIP / TMDL) object by object and deploy only the changes you pick.
+2026-10-27T18:46:09.373Z,picodev.picodev-ctf,picodev,Picodev CTF,0.1.0,"Write Picodev CTF challenges from VS Code (author tools), and send your program to the bench of your game from the challenge's container."
+2026-10-27T18:47:39.937Z,Hyperpowers.hyperpowers-code-review,Hyperpowers,Hyperpowers Code Review,0.17.2,"Pull requests got too big to read. Hyperpowers guides you through every change, with what changed and why, right in VS Code."
+2026-10-27T19:00:04.09Z,optionos.optionos-agent,optionos,OptionOS,0.1.20,"Opens your coding agents (Claude Code, Codex) from OptionOS in a VS Code terminal, pastes the text you dictate with OptionOS, and shows the commits and Claude Code chats OptionOS opens."
+2026-10-27T19:05:17.28Z,PbsandtDev.swat-hru-subset,PbsandtDev,SWAT+ HRU Subset,0.2.0,"Carve a SWAT+ dataset down to the HRUs you pick, in a new folder next to it. Pick HRUs from a table, preview the feeder HRUs, keep the downstream routing."
+2026-10-27T19:08:54.643Z,Blacklight.blacklight-signal-soul,Blacklight,Blacklight · Signal & Soul,0.2.0,"Dark and light editor themes with matching file and folder icons, drawn from the Blacklight design system."
+2026-10-27T19:10:27.397Z,TOLU-MICH.svg-v,TOLU-MICH,svgV: SVG to JSX,0.1.0,Paste SVG from Figma and other design tools straight into React as clean JSX.
