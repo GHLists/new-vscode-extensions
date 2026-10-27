@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T11:17:42.407Z,plagiarismcheckerx.plagx-writing-companion,plagiarismcheckerx,Plagx Writing Companion,0.1.0,"Free academic writing checks in VS Code: citations, reference lists, BibTeX, word limits, grammar and punctuation suggestions, and writing readiness. By Plagiarism Checker X."
+2026-10-27T11:36:26.483Z,zecro.zecro-minify,zecro,"Minify Modern Lite: JS, TS, CSS, HTML, JSON",1.0.1,"Lite (free): minify JS, TS, CSS, HTML and JSON to .min files. Modern syntax. Offline. Upgrade to Pro for batch, source maps, watch and size reports."
+2026-10-27T11:41:41.063Z,mysug.abapfmt,mysug,abapfmt,1.0.0,Formatter for ABAP and CDS (DDL/DCL) code: document and range formatting powered by the abapfmt language server.
+2026-10-27T11:43:43.077Z,JackBonnell.container-devcontainers,JackBonnell,Apple Dev Containers (Unofficial),0.1.1,Unofficial beta extension that runs Dev Containers with Apple's container CLI. Not affiliated with Apple or Microsoft.
+2026-10-27T11:49:30.837Z,NomicFounding.hardhat-soliditiy,NomicFounding,extneison,0.0.2,A minimal test extension
+2026-10-27T11:52:31.643Z,javiercruzb.policylens-security-scanner,javiercruzb,PolicyLens Security Scanner,1.0.0,"Analiza repositorios con políticas de seguridad usando modelos de Copilot, OSV.dev y deps.dev."
+2026-10-27T11:56:28.9Z,maycombhq.atticus,maycombhq,Atticus,0.7.0,"Run Atticus's AI steps with Copilot's own model, in VS Code. Atticus's command line does all the checking."
+2026-10-27T12:04:51.223Z,MojahidZ.us-tool-vscode,MojahidZ,US Tool,1.0.0,"Split Jira user stories into traceable tasks. Every task maps to a requirement, nothing is added outside the scope, and the result exports as Markdown, JSON or Excel for AI agents."
+2026-10-27T12:11:49.3Z,nord-forge.elyx,nord-forge,Elyx Syntax and Previews,0.4.0,"Syntax highlighting, colour swatches and visual token hovers for Elyx design files."
