@@ -12,24 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-27 14:21 UTC
+## Latest list — 2026-10-27 15:20 UTC
 
-New extensions published between 2026-10-27 12:21 UTC and 2026-10-27 14:21 UTC.
+New extensions published between 2026-10-27 13:20 UTC and 2026-10-27 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-27T14-21-04-839149Z.csv)
+[Full CSV](data/new-extensions-2026-10-27T15-20-42-291785Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-27 13:19:09 | [sid12g.ai-usage-statusbar-by-sid12g](https://marketplace.visualstudio.com/items?itemName=sid12g.ai-usage-statusbar-by-sid12g) | AI Usage Gauge | 0.2.1 | See how much of your Claude and ChatGPT (Codex) usage limits is left, right in… |
-| 2026-10-27 13:19:10 | [Lazuli-design-system.lazuli-tokens](https://marketplace.visualstudio.com/items?itemName=Lazuli-design-system.lazuli-tokens) | Lazuli Tokens | 0.1.1 | Resolve a Lazuli token, CSS variable, or Sass variable on hover, and complete n… |
-| 2026-10-27 13:39:05 | [Aaditya.ghostpkg-shield](https://marketplace.visualstudio.com/items?itemName=Aaditya.ghostpkg-shield) | GhostPkg Shield — AI Hallucination & Sl… | 1.0.1 | Real-time, zero-latency detection of AI-hallucinated ghost packages and slopsqu… |
-| 2026-10-27 13:41:53 | [1237410.feell-code-pack](https://marketplace.visualstudio.com/items?itemName=1237410.feell-code-pack) | Feell Code Pack (3 ชุดโค้ด ระบบบันทึกตร… | 1.0.0 | รวมชุดโค้ดสำเร็จรูปทั้ง 3 ชุด (API, Vue/HTML, DB/Config) พร้อม Snippets, ระบบสร… |
-| 2026-10-27 13:42:32 | [ceslava.slashless-html](https://marketplace.visualstudio.com/items?itemName=ceslava.slashless-html) | Slashless HTML | 1.0.1 | HTML formatter that writes void elements without the trailing slash: <img>, <br… |
-| 2026-10-27 13:49:52 | [anglisano.copilot-web](https://marketplace.visualstudio.com/items?itemName=anglisano.copilot-web) | Copilot Web | 0.1.0 | Open Microsoft Copilot from Visual Studio Code. |
-| 2026-10-27 13:53:58 | [emuvi-pce.lidcode](https://marketplace.visualstudio.com/items?itemName=emuvi-pce.lidcode) | LidCode | 0.1.0 | LidCode is a command extension for VSCode that generates unique identification… |
-| 2026-10-27 13:54:26 | [MATTHEWKING.css-whitespace-smart-indenter](https://marketplace.visualstudio.com/items?itemName=MATTHEWKING.css-whitespace-smart-indenter) | CSS Whitespace Smart Indenter | 0.0.2 | Indent CSS children to match their parent selectors using whitespace. Organize… |
-| 2026-10-27 14:02:28 | [AiMatGroup.cluster-tunnel](https://marketplace.visualstudio.com/items?itemName=AiMatGroup.cluster-tunnel) | Cluster Tunnel | 0.1.0 | Shows your HPC clusters and Slurm jobs through the ctun CLI. |
-| 2026-10-27 14:09:50 | [SebastianIrimia.mdotion](https://marketplace.visualstudio.com/items?itemName=SebastianIrimia.mdotion) | MDotion – Visual Markdown Editor | 0.6.0 | Edit Markdown like a block editor: slash menu, drag-and-drop blocks, callouts,… |
+| 2026-10-27 14:16:05 | [xinyang.xinyang-plain-markdown-reader](https://marketplace.visualstudio.com/items?itemName=xinyang.xinyang-plain-markdown-reader) | Plain Markdown Reader | 1.6.0 | 暖纸色底、墨色正文与克制的分级配色，Alt+M 切换阅读与编辑。 |
+| 2026-10-27 14:37:08 | [GregPasquariello.ayu-dawn](https://marketplace.visualstudio.com/items?itemName=GregPasquariello.ayu-dawn) | Ayu Dawn | 1.0.0 | A simple theme with bright colors that comes in two versions, light and mirage,… |
+| 2026-10-27 14:46:03 | [bondevn.claude-ctx-man](https://marketplace.visualstudio.com/items?itemName=bondevn.claude-ctx-man) | Claude Ctx Man | 0.2.0 | Several Claude Code accounts in one place: switch with one click, move a sessio… |
+| 2026-10-27 14:49:25 | [webgdi.devia-cloud-codex](https://marketplace.visualstudio.com/items?itemName=webgdi.devia-cloud-codex) | DevIA | 0.5.1 | DevIA — Codex e Claude em um ambiente unificado com histórico, diagnóstico e sk… |
+| 2026-10-27 14:54:50 | [bondevn.personify](https://marketplace.visualstudio.com/items?itemName=bondevn.personify) | Personify | 0.1.0 | One friendly panel to customize hotkeys, sidebar/editor/terminal colors and fon… |
+| 2026-10-27 14:57:50 | [InDrikSystems.teven](https://marketplace.visualstudio.com/items?itemName=InDrikSystems.teven) | Teven - RTL Hierarchy & Trace | 0.3.0 | Verilog and SystemVerilog design browser and simulation debugger: hierarchy, si… |
+| 2026-10-27 14:58:40 | [Kepler61b.vscode-snippetvault](https://marketplace.visualstudio.com/items?itemName=Kepler61b.vscode-snippetvault) | SnippetVault - Snippet Manager | 0.1.0 | Self-hosted code snippet manager for Visual Studio Code |
+| 2026-10-27 15:03:55 | [MDotion.mdotion-editor](https://marketplace.visualstudio.com/items?itemName=MDotion.mdotion-editor) | MDotion: Visual Markdown Editor | 0.1.0 | Edit Markdown like a block editor: slash menu, drag-and-drop blocks, callouts,… |
+| 2026-10-27 15:06:24 | [bluegrass-studio.conyang](https://marketplace.visualstudio.com/items?itemName=bluegrass-studio.conyang) | 코냥이: 옆에서 참견하는 코딩 고양이 | 0.6.1 | 코드를 보다가 에러가 나거나 더 나은 방법이 보이면 고양이가 한마디 합니다. ReflexKR(reflexkr-blue-grass.reflex.… |
+| 2026-10-27 15:10:34 | [Dylan23691.toml-analyzer](https://marketplace.visualstudio.com/items?itemName=Dylan23691.toml-analyzer) | TOML Analyzer | 0.2.0 | TOML language support with JSON Schema: validation, completion, hover, formatti… |
+| 2026-10-27 15:12:31 | [GravicodeStudios.jsnet](https://marketplace.visualstudio.com/items?itemName=GravicodeStudios.jsnet) | JS.Net | 0.2.0 | JS.Net language support: syntax highlighting, diagnostics, completion, hover, g… |
 
 ## Data source
 

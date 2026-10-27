@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T14:16:05.68Z,xinyang.xinyang-plain-markdown-reader,xinyang,Plain Markdown Reader,1.6.0,暖纸色底、墨色正文与克制的分级配色，Alt+M 切换阅读与编辑。
+2026-10-27T14:37:08.23Z,GregPasquariello.ayu-dawn,GregPasquariello,Ayu Dawn,1.0.0,"A simple theme with bright colors that comes in two versions, light and mirage, for comfortable work all day long. Mirage is exactly like Ayu Mirage, but with a slightly paler background and brighter application text and icons, which I find easier on my eyes."
+2026-10-27T14:46:03.743Z,bondevn.claude-ctx-man,bondevn,Claude Ctx Man,0.2.0,"Several Claude Code accounts in one place: switch with one click, move a session to another account and keep going, or hand it off to Cursor and other tools."
+2026-10-27T14:49:25.137Z,webgdi.devia-cloud-codex,webgdi,DevIA,0.5.1,"DevIA — Codex e Claude em um ambiente unificado com histórico, diagnóstico e skills"
+2026-10-27T14:54:50.727Z,bondevn.personify,bondevn,Personify,0.1.0,"One friendly panel to customize hotkeys, sidebar/editor/terminal colors and fonts, and JS/TS/Go syntax colors."
+2026-10-27T14:57:50.367Z,InDrikSystems.teven,InDrikSystems,Teven - RTL Hierarchy & Trace,0.3.0,"Verilog and SystemVerilog design browser and simulation debugger: hierarchy, signals, driver / load tracing, waveforms (VCD / FST), syntax highlighting and code folding."
+2026-10-27T14:58:40.907Z,Kepler61b.vscode-snippetvault,Kepler61b,SnippetVault - Snippet Manager,0.1.0,Self-hosted code snippet manager for Visual Studio Code
+2026-10-27T15:03:55.21Z,MDotion.mdotion-editor,MDotion,MDotion: Visual Markdown Editor,0.1.0,"Edit Markdown like a block editor: slash menu, drag-and-drop blocks, callouts, tables and code. Files stay plain .md, untouched blocks are saved byte for byte."
+2026-10-27T15:06:24.91Z,bluegrass-studio.conyang,bluegrass-studio,코냥이: 옆에서 참견하는 코딩 고양이,0.6.1,코드를 보다가 에러가 나거나 더 나은 방법이 보이면 고양이가 한마디 합니다. ReflexKR(reflexkr-blue-grass.reflex.run)에서 만들었어요.
+2026-10-27T15:10:34.15Z,Dylan23691.toml-analyzer,Dylan23691,TOML Analyzer,0.2.0,"TOML language support with JSON Schema: validation, completion, hover, formatting and more."
+2026-10-27T15:12:31.33Z,GravicodeStudios.jsnet,GravicodeStudios,JS.Net,0.2.0,"JS.Net language support: syntax highlighting, diagnostics, completion, hover, go to definition, outline and formatting. Dibuat oleh Gravicode Studios dipimpin oleh Kang Fadhil."
