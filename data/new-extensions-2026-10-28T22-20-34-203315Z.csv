@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T21:45:39.273Z,Cadastre.cadastre,Cadastre,Cadastre,0.1.1,"Cadastre language support: highlighting, diagnostics, outline, go to definition, hover, live preview and build of views."
+2026-10-28T21:47:38.723Z,StoryTW.story-dark,StoryTW,Story Dark,0.1.1,"A dark VS Code theme with warm yellow strings, green functions, and blue type names."
+2026-10-28T21:59:54.027Z,IrishBruse.inline-markdown-editor,IrishBruse,Inline Markdown Editor,0.3.0,Edit Markdown with formatted preview that reveals source where you click.
+2026-10-28T22:08:37.097Z,maramesasystem.maramesa-ai-agent,maramesasystem,Maramesa AI Agent,0.2.0,Agentes de IA de Maramesa en VS Code. Requiere una cuenta de desarrollador de Maramesa AI.
+2026-10-28T22:09:06.713Z,DenizhanDaklr.symbolon-for-copilot,DenizhanDaklr,Symbolon: Copilot Provider,0.1.0,Use your ChatGPT plan in GitHub Copilot Chat with Sign in with ChatGPT. No API key needed.
