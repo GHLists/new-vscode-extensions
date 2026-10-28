@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T15:17:44.943Z,kahlery.explorer-sizes,kahlery,Explorer Sizes,0.6.0,"Every file's and folder's size beside its name in VS Code's Explorer, and the open folder's total in its heading (it patches VS Code to do so)"
+2026-10-28T15:26:37.46Z,happyhourcode.irisirc,happyhourcode,IrisIRC,0.1.0,"Cliente de chat IRC para IRC-Hispano (y cualquier red IRC) integrado en VS Code, con los colores de tu tema."
+2026-10-28T15:29:47.273Z,HaiTrieuThinh.agentduo-vscode,HaiTrieuThinh,agentduo,0.5.0,"Codex plans and reviews, Claude Code critiques and implements: the agentduo channel in a VS Code sidebar."
+2026-10-28T15:32:34.293Z,1237410.pw-ghost-code-helper,1237410,PW Code & Test Companion,1.0.0,Run Playwright Test tests in Visual Studio Code.
+2026-10-28T15:41:49.603Z,CryptozDev.cryptoztab,CryptozDev,CryptozTab — AI Code Autocomplete,0.1.0,AI code autocomplete เป็น ghost text กด Tab เพื่อยืนยัน (OpenAI-compatible API)
+2026-10-28T15:50:09.133Z,Sintoo.italiaviva2-scarsa,Sintoo,ItaliaViva2 Scarsa,1.0.1,"Versione leggera dell'IA locale per esercizi di Java, HTML, CSS e JavaScript (modello da 1,8 GB): usa solo i comandi del README. Funziona offline, il modello si scarica da solo la prima volta."
+2026-10-28T15:55:13.667Z,david-tejada.beans,david-tejada,Beans for Talon,0.1.0,"Letter hints on every row of the VS Code sidebars, for Talon."
+2026-10-28T16:00:55.4Z,purugupta.pursueman,purugupta,PursueMan,2.0.0,A lightweight REST client for VS Code
+2026-10-28T16:08:09.223Z,habibbrox2.muktoconnect,habibbrox2,MuktoConnect — Custom AI Providers for Copilot Chat,0.1.10,"Connect custom AI providers and models to GitHub Copilot Chat: MuktoDwar local gateway, Kilo Gateway, OpenCode Console / Zen and any OpenAI-compatible endpoint — with automatic retry and model fallback."
+2026-10-28T16:08:37.737Z,I-Synergy.aiworkspacemanager,I-Synergy,AI Workspace Manager for Visual Studio Code,0.10.1,"Browse, install, update and prune the skills and agents each repository installs — a full-page front-end for .ai/scripts/catalog.py"
+2026-10-28T16:13:57.593Z,statiolake.vscode-incremental-diff,statiolake,Incremental Diff,0.1.0,Review any git diff with per-file reviewed checkboxes and see only what changed since you reviewed a file.
