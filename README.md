@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 07:19 UTC
+## Latest list — 2026-10-28 08:19 UTC
 
-New extensions published between 2026-10-28 05:19 UTC and 2026-10-28 07:19 UTC.
+New extensions published between 2026-10-28 06:19 UTC and 2026-10-28 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T07-19-40-135506Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T08-19-24-166485Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 06:33:05 | [govind-tech.ecocode](https://marketplace.visualstudio.com/items?itemName=govind-tech.ecocode) | Ecocode Analyzer | 0.0.1 | Energy-efficient code analyzer for Python |
-| 2026-10-28 06:34:26 | [elle-ybas22.cinnamoroll-pixel-icons](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cinnamoroll-pixel-icons) | Cinnamoroll Pixel Icons | 1.1.1 | Simple pastel pixel file icons: stars, hearts, clouds, bows and Cinnamoroll, de… |
-| 2026-10-28 06:43:57 | [voidaliot.aliot-uml-editor](https://marketplace.visualstudio.com/items?itemName=voidaliot.aliot-uml-editor) | Aliot UML Editor | 0.5.0 | Native React Flow UML diagrams with bidirectional editing of PlantUML text file… |
-| 2026-10-28 06:47:16 | [samarin-aa-aka-rtm00.mobile-device-manager](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.mobile-device-manager) | Mobile Device Manager — Android & iOS o… | 0.2.1 | Connect Android and iOS devices over Wi-Fi, browse their storage, open device f… |
-| 2026-10-28 06:50:35 | [wilmervasquez.postgresql-client](https://marketplace.visualstudio.com/items?itemName=wilmervasquez.postgresql-client) | PostgreSQL Client | 0.1.0 | PostgreSQL client for VS Code: explorer, SQL query runner and ERD diagrams |
-| 2026-10-28 07:08:35 | [elle-ybas22.cinnamoroll-pixel-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cinnamoroll-pixel-theme) | Cinnamoroll Pixel Theme | 1.0.1 | Two cozy Cinnamoroll-inspired themes: Cloud Café light and Night Sky dark, with… |
+| 2026-10-28 07:25:20 | [PRODCopycatDVT.vsc-panorama-extM281W3](https://marketplace.visualstudio.com/items?itemName=PRODCopycatDVT.vsc-panorama-extM281W3) | CS2 Panorama (VXML / VCSS)M281W3 | 1.0.0 | Language support for CS2 Panorama layouts and styles |
+| 2026-10-28 07:29:54 | [xiaomingio.neat-sqlite](https://marketplace.visualstudio.com/items?itemName=xiaomingio.neat-sqlite) | Neat SQLite - Database Editor | 0.1.0 | Browse SQLite tables and safely edit records with staged changes and transactio… |
+| 2026-10-28 07:30:37 | [Jan-HendrikMueller.blender-dev-toolkit](https://marketplace.visualstudio.com/items?itemName=Jan-HendrikMueller.blender-dev-toolkit) | Blender Dev Toolkit | 0.1.1 | Hendrik's fork of Blender Development by Jacques Lucke: tools to simplify Blend… |
+| 2026-10-28 07:31:13 | [stormphlegyas.decodeheader](https://marketplace.visualstudio.com/items?itemName=stormphlegyas.decodeheader) | Decode Header | 1.0.0 | Decode school header for VSCode : ecole-decode.fr |
+| 2026-10-28 07:54:26 | [imaanmzr.equilibrium-gray-light-theme](https://marketplace.visualstudio.com/items?itemName=imaanmzr.equilibrium-gray-light-theme) | Equilibrium Gray Light | 0.1.1 | Equilibrium Gray Light (base16) theme for VS Code |
 
 ## Data source
 
