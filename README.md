@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 19:21 UTC
+## Latest list — 2026-10-28 20:18 UTC
 
-New extensions published between 2026-10-28 17:21 UTC and 2026-10-28 19:21 UTC.
+New extensions published between 2026-10-28 18:18 UTC and 2026-10-28 20:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T19-21-04-334574Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T20-18-50-581014Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 18:27:47 | [Emela.emela](https://marketplace.visualstudio.com/items?itemName=Emela.emela) | Emela | 0.25.0 | Emela language support: diagnostics, completion and the other features of `emel… |
-| 2026-10-28 18:28:27 | [BryanCuneo.powershell-null-operator-scopes](https://marketplace.visualstudio.com/items?itemName=BryanCuneo.powershell-null-operator-scopes) | PowerShell Null Operator Scopes | 0.1.0 | Adds TextMate scopes for PowerShell 7's null operators. |
-| 2026-10-28 18:30:03 | [zecro.react-extract-lite](https://marketplace.visualstudio.com/items?itemName=zecro.react-extract-lite) | React Extract Lite: JSX → Component (Of… | 1.0.0 | Lite (free): extract a JSX/TSX selection into a React function component, in th… |
-| 2026-10-28 18:42:32 | [Iglikotsiai.dragon-ball-z-arena](https://marketplace.visualstudio.com/items?itemName=Iglikotsiai.dragon-ball-z-arena) | Dragon Ball Z Arena | 1.0.0 | Unofficial Dragon Ball Z fan extension: Goku and Vegeta live in an arena under… |
-| 2026-10-28 18:44:55 | [HeavenSky.easy-graph](https://marketplace.visualstudio.com/items?itemName=HeavenSky.easy-graph) | Easy Graph | 0.0.1 | See every branch of your repository as a commit graph in VS Code, and rebase, m… |
-| 2026-10-28 19:08:08 | [edtroleis.techdocs-editor](https://marketplace.visualstudio.com/items?itemName=edtroleis.techdocs-editor) | TechDocs Editor | 0.1.0 | Visual editor for TechDocs (MkDocs) pages, with the same Markdown fidelity as t… |
+| 2026-10-28 19:18:00 | [QSPFoundation.qsp-lsp](https://marketplace.visualstudio.com/items?itemName=QSPFoundation.qsp-lsp) | QSPeak: QSP Language Support | 0.4.0 | QSP (Quest Soft Player) game development: IntelliSense, diagnostics, navigation… |
+| 2026-10-28 19:40:29 | [pinepomme.luciole](https://marketplace.visualstudio.com/items?itemName=pinepomme.luciole) | Luciole | 0.1.0 | See a Python project as a 3D brain of functions, and watch it light up as the c… |
+| 2026-10-28 19:49:37 | [BryanCuneo.ps-null-operator-scopes](https://marketplace.visualstudio.com/items?itemName=BryanCuneo.ps-null-operator-scopes) | PowerShell - TextMate Scopes for Null O… | 0.1.0 | Adds TextMate scopes for PowerShell 7's null operators. |
+| 2026-10-28 19:58:24 | [PawanMall.claude-studio-by-pm](https://marketplace.visualstudio.com/items?itemName=PawanMall.claude-studio-by-pm) | Claude Studio by PM | 2.0.2 | All-in-one companion for the Claude agent: auto-open edited files, review diffs… |
+| 2026-10-28 20:08:50 | [PawanMall.account-switcher-for-claude](https://marketplace.visualstudio.com/items?itemName=PawanMall.account-switcher-for-claude) | Account Switcher for Claude by PM | 1.0.2 | Use multiple Claude Code accounts (Office, Personal…) side by side: one-click s… |
+| 2026-10-28 20:11:29 | [zxckurayami.appearance-restore](https://marketplace.visualstudio.com/items?itemName=zxckurayami.appearance-restore) | Appearance Restore | 1.1.1 | Restore Vibrancy, Smooth UI, local Doki stickers and Custom CSS after updates,… |
+| 2026-10-28 20:12:49 | [PawanMall.claude-auto-open](https://marketplace.visualstudio.com/items?itemName=PawanMall.claude-auto-open) | Claude Auto Open by PM | 1.0.0 | Automatically opens files in the editor when the Claude agent edits or creates… |
 
 ## Data source
 

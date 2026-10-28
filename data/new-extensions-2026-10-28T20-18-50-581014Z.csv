@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T19:18:00.243Z,QSPFoundation.qsp-lsp,QSPFoundation,QSPeak: QSP Language Support,0.4.0,"QSP (Quest Soft Player) game development: IntelliSense, diagnostics, navigation, a jump graph of locations, building .qsp games and an MCP server for AI agents"
+2026-10-28T19:40:29.7Z,pinepomme.luciole,pinepomme,Luciole,0.1.0,"See a Python project as a 3D brain of functions, and watch it light up as the code runs."
+2026-10-28T19:49:37.003Z,BryanCuneo.ps-null-operator-scopes,BryanCuneo,PowerShell - TextMate Scopes for Null Operators,0.1.0,Adds TextMate scopes for PowerShell 7's null operators.
+2026-10-28T19:58:24.377Z,PawanMall.claude-studio-by-pm,PawanMall,Claude Studio by PM,2.0.2,"All-in-one companion for the Claude agent: auto-open edited files, review diffs, undo tasks, built-in SFTP/FTP upload, usage & cost tracker, skills manager and notifications with sounds."
+2026-10-28T20:08:50.323Z,PawanMall.account-switcher-for-claude,PawanMall,Account Switcher for Claude by PM,1.0.2,"Use multiple Claude Code accounts (Office, Personal…) side by side: one-click switching, continue the last session on another account, and a usage dashboard + status bar for every account."
+2026-10-28T20:11:29.98Z,zxckurayami.appearance-restore,zxckurayami,Appearance Restore,1.1.1,"Restore Vibrancy, Smooth UI, local Doki stickers and Custom CSS after updates, with confirmation and backups."
+2026-10-28T20:12:49.093Z,PawanMall.claude-auto-open,PawanMall,Claude Auto Open by PM,1.0.0,"Automatically opens files in the editor when the Claude agent edits or creates them, and highlights the changed lines — like Antigravity's own agent."
