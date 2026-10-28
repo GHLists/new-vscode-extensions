@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 09:20 UTC
+## Latest list — 2026-10-28 10:20 UTC
 
-New extensions published between 2026-10-28 07:20 UTC and 2026-10-28 09:20 UTC.
+New extensions published between 2026-10-28 08:20 UTC and 2026-10-28 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T09-20-52-207544Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T10-20-17-723501Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 08:11:05 | [akmalyf.remote-deployment](https://marketplace.visualstudio.com/items?itemName=akmalyf.remote-deployment) | Remote Deployment | 1.0.0 | Deploy to SFTP, FTP, FTPS, WebDAV and local folders: remote host browser, uploa… |
-| 2026-10-28 08:22:06 | [frostwosix.md-ticket-graph](https://marketplace.visualstudio.com/items?itemName=frostwosix.md-ticket-graph) | MD Ticket Graph | 1.0.1 | Local Markdown tickets with a board, dependency graph, editing, and focused AI… |
-| 2026-10-28 08:44:33 | [liangliang-ai.temp-files](https://marketplace.visualstudio.com/items?itemName=liangliang-ai.temp-files) | 临时文件 | 2.2.2 | 临时文件 / 草稿文件：快速创建任意类型的临时文件，支持中文命名。Create scratch files of any type, with Chinese… |
-| 2026-10-28 08:55:29 | [lilinhuang.wheat-clay-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.wheat-clay-theme) | Wheat Clay Theme | 1.0.0 | Warm neutral paper: oat and khaki tones in the light variant, a stone-brown nig… |
-| 2026-10-28 08:56:49 | [PRODM281DVTW3.platformio-PRODM281W3DVT](https://marketplace.visualstudio.com/items?itemName=PRODM281DVTW3.platformio-PRODM281W3DVT) | PRODM281W3 TESTone On Platform | 3.3.8 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
-| 2026-10-28 09:02:24 | [ideagittool.ideagittool](https://marketplace.visualstudio.com/items?itemName=ideagittool.ideagittool) | IdeaGitTool | 0.4.2 | The Rebased / IntelliJ git client, remade as a VS Code extension: git log with… |
-| 2026-10-28 09:05:25 | [VahidCode.vahid-code-break](https://marketplace.visualstudio.com/items?itemName=VahidCode.vahid-code-break) | Vahid Code Break | 1.8.0 | Gentle eye-care and movement break reminders while you work in VS Code. |
-| 2026-10-28 09:05:39 | [VahidCode.vahid-code-claude-notify](https://marketplace.visualstudio.com/items?itemName=VahidCode.vahid-code-claude-notify) | Vahid Code Claude Notify | 1.1.0 | Notifications when Claude Code needs you — click one to jump to the exact VS Co… |
-| 2026-10-28 09:05:52 | [VahidCode.vahid-code-notes](https://marketplace.visualstudio.com/items?itemName=VahidCode.vahid-code-notes) | Vahid Code Notes | 0.4.0 | Tags, sticky notes, free notes and search for Claude Code sessions, in the side… |
-| 2026-10-28 09:06:07 | [VahidCode.vahid-code-rtl](https://marketplace.visualstudio.com/items?itemName=VahidCode.vahid-code-rtl) | Vahid Code RTL | 1.4.0 | Right-to-left Persian text in the Claude Code chat and the Markdown preview; En… |
-| 2026-10-28 09:07:55 | [lilinhuang.vinyl-nocturne-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.vinyl-nocturne-theme) | Vinyl Nocturne Theme | 1.0.0 | A blue-violet night for music lovers: pale mist paper in the light variant, a d… |
-| 2026-10-28 09:14:34 | [wpy-1.code-change-impact-analyzer](https://marketplace.visualstudio.com/items?itemName=wpy-1.code-change-impact-analyzer) | Code Change Impact Analyzer | 1.2.0 | 基于大模型与多引擎协同的跨文件变更影响分析插件 |
+| 2026-10-28 09:26:34 | [HeavenSky.markdown-preview-toolkit](https://marketplace.visualstudio.com/items?itemName=HeavenSky.markdown-preview-toolkit) | Markdown Preview Toolkit | 0.0.1 | Render Mermaid and Kroki diagrams, tables of contents, task lists and GitHub-st… |
+| 2026-10-28 09:31:26 | [fqix.apple-container-tools](https://marketplace.visualstudio.com/items?itemName=fqix.apple-container-tools) | Apple Container Tools | 0.1.0 | Manage Apple container (native Linux containers on macOS) in VS Code: container… |
+| 2026-10-28 09:34:00 | [bouffalolab.bouffalo-pilot](https://marketplace.visualstudio.com/items?itemName=bouffalolab.bouffalo-pilot) | Bouffalo Pilot | 0.1.1 | Develop, build, and flash Bouffalo Lab chips with Bouffalo Pilot |
+| 2026-10-28 09:37:34 | [ChimeraTK.jmap-formatter](https://marketplace.visualstudio.com/items?itemName=ChimeraTK.jmap-formatter) | ChimeraTK jmap Formatter | 0.0.1 | Language support and formatting for ChimeraTK .jmap device-mapping files. |
+| 2026-10-28 09:38:12 | [lilinhuang.witching-hour-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.witching-hour-theme) | Witching Hour Theme | 1.0.0 | Pumpkin cream by day and a charcoal violet night: an orange, slime green and bl… |
+| 2026-10-28 09:44:29 | [HunhNgcCngDanh.agentwatch](https://marketplace.visualstudio.com/items?itemName=HunhNgcCngDanh.agentwatch) | Agent Session Watch | 0.3.0 | Browse past Claude Code sessions: cost, tokens, subagents, MCP tool calls, edit… |
+| 2026-10-28 09:44:46 | [bondevn.scriptor](https://marketplace.visualstudio.com/items?itemName=bondevn.scriptor) | Scriptor | 0.0.2 | A launchpad for your scripts. Add any .sh, .js, .py or other script, group them… |
+| 2026-10-28 09:50:03 | [huangdan.eww-bridge](https://marketplace.visualstudio.com/items?itemName=huangdan.eww-bridge) | EWW Bridge — Copilot Chat to Feishu / L… | 1.0.0 | Stream your active VS Code Copilot Chat session to a Feishu/Lark card in real t… |
+| 2026-10-28 10:09:26 | [UpendraSinghChauhan.codeguide](https://marketplace.visualstudio.com/items?itemName=UpendraSinghChauhan.codeguide) | CodeGuide – Explain Code in Plain Words | 0.4.0 | Understand code you didn't write: what each file is, when it runs, what uses it… |
+| 2026-10-28 10:09:35 | [lipengjun.IntelliJ-style-git](https://marketplace.visualstudio.com/items?itemName=lipengjun.IntelliJ-style-git) | IntelliJ Style Git | 0.4.0 | IDEA-style Commit, Git Log, editable diff and three-way merge for VS Code. |
+| 2026-10-28 10:15:57 | [YuvrajRastogi.sumiro](https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.sumiro) | SUMIRO | 1.1.2 | Pitch-black OLED and refined dark/light themes for VS Code-compatible editors,… |
 
 ## Data source
 

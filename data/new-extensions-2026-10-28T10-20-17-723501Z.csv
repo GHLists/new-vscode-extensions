@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T09:26:34.913Z,HeavenSky.markdown-preview-toolkit,HeavenSky,Markdown Preview Toolkit,0.0.1,"Render Mermaid and Kroki diagrams, tables of contents, task lists and GitHub-style syntax in the built-in Markdown preview."
+2026-10-28T09:31:26.033Z,fqix.apple-container-tools,fqix,Apple Container Tools,0.1.0,"Manage Apple container (native Linux containers on macOS) in VS Code: containers, images, networks, volumes and system services"
+2026-10-28T09:34:00.557Z,bouffalolab.bouffalo-pilot,bouffalolab,Bouffalo Pilot,0.1.1,"Develop, build, and flash Bouffalo Lab chips with Bouffalo Pilot"
+2026-10-28T09:37:34Z,ChimeraTK.jmap-formatter,ChimeraTK,ChimeraTK jmap Formatter,0.0.1,Language support and formatting for ChimeraTK .jmap device-mapping files.
+2026-10-28T09:38:12.81Z,lilinhuang.witching-hour-theme,lilinhuang,Witching Hour Theme,1.0.0,"Pumpkin cream by day and a charcoal violet night: an orange, slime green and blood red palette for late sessions."
+2026-10-28T09:44:29.09Z,HunhNgcCngDanh.agentwatch,HunhNgcCngDanh,Agent Session Watch,0.3.0,"Browse past Claude Code sessions: cost, tokens, subagents, MCP tool calls, edited files and conversations."
+2026-10-28T09:44:46.983Z,bondevn.scriptor,bondevn,Scriptor,0.0.2,"A launchpad for your scripts. Add any .sh, .js, .py or other script, group them, and run each one in a terminal with a click."
+2026-10-28T09:50:03.467Z,huangdan.eww-bridge,huangdan,EWW Bridge — Copilot Chat to Feishu / Lark,1.0.0,"Stream your active VS Code Copilot Chat session to a Feishu/Lark card in real time, and send new tasks from Feishu back into the same chat session."
+2026-10-28T10:09:26.853Z,UpendraSinghChauhan.codeguide,UpendraSinghChauhan,CodeGuide – Explain Code in Plain Words,0.4.0,"Understand code you didn't write: what each file is, when it runs, what uses it, and every code word in plain English. Plus a guided tour of the whole project. Free and offline."
+2026-10-28T10:09:35.793Z,lipengjun.IntelliJ-style-git,lipengjun,IntelliJ Style Git,0.4.0,"IDEA-style Commit, Git Log, editable diff and three-way merge for VS Code."
+2026-10-28T10:15:57.987Z,YuvrajRastogi.sumiro,YuvrajRastogi,SUMIRO,1.1.2,"Pitch-black OLED and refined dark/light themes for VS Code-compatible editors, inspired by Cursor, Vercel, VS Code, and Xcode."
