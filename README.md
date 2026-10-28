@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 13:20 UTC
+## Latest list — 2026-10-28 14:20 UTC
 
-New extensions published between 2026-10-28 11:20 UTC and 2026-10-28 13:20 UTC.
+New extensions published between 2026-10-28 12:20 UTC and 2026-10-28 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T13-20-53-983932Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T14-20-53-20412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 12:05:46 | [HernanHerrera.hbd](https://marketplace.visualstudio.com/items?itemName=HernanHerrera.hbd) | hBD - Cliente de Bases de Datos | 0.1.0 | Cliente universal de bases de datos para VS Code inspirado en DBeaver: PostgreS… |
-| 2026-10-28 12:14:58 | [simaosoares.soares-code-helper](https://marketplace.visualstudio.com/items?itemName=simaosoares.soares-code-helper) | Soares Code Helper | 0.0.2 | Uma extensão que goza contigo enquanto programas. |
-| 2026-10-28 12:34:32 | [vortexdq.agent09-assistant](https://marketplace.visualstudio.com/items?itemName=vortexdq.agent09-assistant) | Agent09 Assistant | 1.0.0 | AI coding agent by VortexDQ. Free Agent09 models, local Ollama, or your own Ope… |
-| 2026-10-28 12:40:55 | [deviousprophet.vscode-arxml-scope](https://marketplace.visualstudio.com/items?itemName=deviousprophet.vscode-arxml-scope) | ARXML Scope | 0.2.0 | Browse and edit AUTOSAR ECUC-Values ARXML files in VS Code. |
-| 2026-10-28 12:42:37 | [Sir-Olexander.claude-projects](https://marketplace.visualstudio.com/items?itemName=Sir-Olexander.claude-projects) | Claude Projects | 0.1.0 | Work on all your projects with Claude Code from one window: projects, worktrees… |
-| 2026-10-28 12:46:51 | [newmatik.enginehall](https://marketplace.visualstudio.com/items?itemName=newmatik.enginehall) | EngineHall | 2.0.0 | EngineHall, a Newmatik product: where hardware gets built, checked and released… |
-| 2026-10-28 13:08:56 | [GravicodeStudios.rustzor](https://marketplace.visualstudio.com/items?itemName=GravicodeStudios.rustzor) | Rustzor | 0.1.0 | Build C# Razor apps that run in the browser on RustNetRuntime (Rust, compiled t… |
-| 2026-10-28 13:10:45 | [dr-opensource.ag-remote](https://marketplace.visualstudio.com/items?itemName=dr-opensource.ag-remote) | Antigravity Remote | 0.2.2 | Control your Antigravity agent from your phone: approve or deny commands, send… |
-| 2026-10-28 13:13:12 | [jabezwinston.wap-toolkit](https://marketplace.visualstudio.com/items?itemName=jabezwinston.wap-toolkit) | WAP Toolkit | 0.5.1 | Complete toolkit for WML & WMLScript authoring, preview and debugging |
+| 2026-10-28 13:15:56 | [jonytonet.ptah-laravel](https://marketplace.visualstudio.com/items?itemName=jonytonet.ptah-laravel) | Ptah | 0.1.1 | Autocomplete, validation, docs and AI-agent tools for Laravel apps built with j… |
+| 2026-10-28 13:24:09 | [zouaghi-mohamed.tn-sti-annexe-zouaghi](https://marketplace.visualstudio.com/items?itemName=zouaghi-mohamed.tn-sti-annexe-zouaghi) | TN STI – Conformité Annexe (Zouaghi Med) | 1.0.0 | Vérifie hors ligne la conformité du code HTML5, CSS3, JavaScript, PHP et SQL à… |
+| 2026-10-28 13:24:47 | [ryanholler.merge-queue-tracker](https://marketplace.visualstudio.com/items?itemName=ryanholler.merge-queue-tracker) | Merge Queue Tracker | 0.9.0 | See your GitHub merge queues in the sidebar and get alerted when your PR merges… |
+| 2026-10-28 13:26:03 | [cerberusx.session-chat-for-claude-code](https://marketplace.visualstudio.com/items?itemName=cerberusx.session-chat-for-claude-code) | Session Chat for Claude Code | 0.3.5 | A Messenger-style chat pane for talking to your named Claude Code sessions on o… |
+| 2026-10-28 13:28:05 | [ayyaz3d.one-language](https://marketplace.visualstudio.com/items?itemName=ayyaz3d.one-language) | ONE Language | 1.2.0 | Professional development experience for ONE Language (.one) — compiler diagnost… |
+| 2026-10-28 13:42:34 | [hrk-ymkw.md-table-tools](https://marketplace.visualstudio.com/items?itemName=hrk-ymkw.md-table-tools) | Markdown Table Tools | 0.0.4 | Markdownテーブルを直接編集・ソート・絞り込みできるプレビューパネル |
+| 2026-10-28 13:57:49 | [ocean-access.xmacro-tables](https://marketplace.visualstudio.com/items?itemName=ocean-access.xmacro-tables) | X-Macro Tables | 0.4.0 | Completion, checks and highlighting for C X-macro command tables and their comp… |
+| 2026-10-28 14:04:57 | [ardazeybek.devlog-coding-activity](https://marketplace.visualstudio.com/items?itemName=ardazeybek.devlog-coding-activity) | Devlog — Coding Activity | 1.0.0 | Track active coding time, language and project activity, goals, achievements, a… |
 
 ## Data source
 
