@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T17:19:04.23Z,Ignaciobrenas.commitflow,Ignaciobrenas,"CommitFlow - Git Graph, Visual History & Developer Hub",0.4.5,"High-performance interactive Git commit & branch graph visualizer, real-time live blame with author avatars, visual file history, PR launchpad, worktrees & multi-WIP, cloud patches, and adaptive layout modes for VS Code."
+2026-10-28T17:21:53.48Z,saeris.markdown-caption,saeris,Markdown Captions,0.1.0,"Adds ~: captions for any block (images, quotes, code, tables, lists) to VSCode's markdown preview, as <figure> and <figcaption>"
+2026-10-28T17:23:13.203Z,saeris.markdown-mermaid-pele,saeris,Markdown Mermaid Diagrams (Pele),0.1.0,"Renders mermaid code blocks as diagrams in VSCode's markdown preview, with Pele and no scripts"
+2026-10-28T17:25:08.873Z,jean-claude-aziaha.algorithmique-pseudocode-fr,jean-claude-aziaha,Algorithmique – Pseudo-code français,1.0.0,"Écrivez, exécutez et déboguez vos algorithmes en pseudo-code français, puis retrouvez-les en Python d'un clic."
+2026-10-28T17:30:26.327Z,1237410.pw-drawio-outline-pack,1237410,Draw.io Diagram & Outline Helper,1.0.0,"Export and preview Draw.io architecture, flowchart, ERD, UML, and wireframe .drawio files in Visual Studio Code."
+2026-10-28T17:41:35.867Z,shield-agent.shield-kya,shield-agent,Shield KYA,0.1.0,"Audit trail and traceability for AI agents. See kya verdicts for every coding agent tool call in your editor. Advisory: kya records every call, blocks only the never-list, fails open."
+2026-10-28T17:47:27.037Z,PradipSodha.tabs-emoji,PradipSodha,Tabs Emoji,1.0.0,"Mark editor tabs, including Claude Code chat tabs, with an emoji so you can tell them apart"
+2026-10-28T17:49:04.83Z,dark-dmake.python-debug-copy,dark-dmake,Python Debug Copy,1.0.0,"Copy Python debug variables as JSON or as a Python dict, with all nested values. Plus Copy Name and Copy Path."
+2026-10-28T17:49:23.11Z,evanshareef.import-context-copy,evanshareef,Import Context Copy,0.1.0,"Copy a file plus the local files it imports to the clipboard as a single prompt-ready block for ChatGPT, Claude, Gemini and friends."
