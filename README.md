@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 03:20 UTC
+## Latest list — 2026-10-28 04:22 UTC
 
-New extensions published between 2026-10-28 01:20 UTC and 2026-10-28 03:20 UTC.
+New extensions published between 2026-10-28 02:22 UTC and 2026-10-28 04:22 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T03-20-51-990376Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T04-22-01-216333Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 02:17:31 | [Xanyone.client-project-manager](https://marketplace.visualstudio.com/items?itemName=Xanyone.client-project-manager) | Client Project Manager | 0.4.4 | Manage clients, projects, and folders in VS Code. |
-| 2026-10-28 02:19:12 | [robin211737.remote-tab-download](https://marketplace.visualstudio.com/items?itemName=robin211737.remote-tab-download) | Remote Tab Download | 1.0.0 | Download remote files directly from editor tabs to your computer, including fil… |
-| 2026-10-28 02:27:16 | [elle-ybas22.elle-matcha-strawberry-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.elle-matcha-strawberry-theme) | Matcha Strawberry | 1.0.1 | Creamy matcha greens and strawberry-milk pinks with rich syntax colors. |
-| 2026-10-28 02:36:52 | [placitum.placitum-vscode](https://marketplace.visualstudio.com/items?itemName=placitum.placitum-vscode) | Placitum | 0.1.0 | VS Code client for Placitum: syntax highlighting and language support through t… |
-| 2026-10-28 02:58:47 | [elle-ybas22.elle-buttercream-matcha-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.elle-buttercream-matcha-theme) | Buttercream Matcha | 1.0.2 | Soft buttercream and matcha-green surfaces with colorful syntax. |
+| 2026-10-28 03:29:34 | [jaytankdev.browserkey](https://marketplace.visualstudio.com/items?itemName=jaytankdev.browserkey) | BrowserKey: AI API Key Exposure in Fron… | 0.1.0 | Catches OpenAI, Anthropic, Gemini, Groq, Mistral and other AI provider API keys… |
+| 2026-10-28 03:36:15 | [JamesJoseph.sentinel-engineering-agent](https://marketplace.visualstudio.com/items?itemName=JamesJoseph.sentinel-engineering-agent) | Sentinel Engineering Agent | 1.0.0 | A local, audited coding agent for closed networks, inside VS Code. The extensio… |
+| 2026-10-28 03:38:32 | [mobilefx.aspjs](https://marketplace.visualstudio.com/items?itemName=mobilefx.aspjs) | ASP.js | 1.0.400 | Classic ASP over Node.js with server and browser debugging, language intelligen… |
+| 2026-10-28 03:38:54 | [Spellshift.realm-eldritch](https://marketplace.visualstudio.com/items?itemName=Spellshift.realm-eldritch) | Eldritch Language Support | 0.4.1 | Syntax highlighting, linting, autocompletion, hover documentation, signature he… |
+| 2026-10-28 03:59:25 | [liuhualiang.luban](https://marketplace.visualstudio.com/items?itemName=liuhualiang.luban) | Luban | 1.23.1 | Luban — 独立的侧边栏 AI 编码 agent（多 provider，OpenAI 兼容，零源码补丁） |
 
 ## Data source
 

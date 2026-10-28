@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T03:29:34.49Z,jaytankdev.browserkey,jaytankdev,BrowserKey: AI API Key Exposure in Frontend Code Checker,0.1.0,"Catches OpenAI, Anthropic, Gemini, Groq, Mistral and other AI provider API keys that end up in the browser: NEXT_PUBLIC_, VITE_, REACT_APP_, EXPO_PUBLIC_, NUXT_PUBLIC_, GATSBY_ and SvelteKit/Astro PUBLIC_ variables holding AI keys, SDK clients created with dangerouslyAllowBrowser: true, server-only"
+2026-10-28T03:36:15.22Z,JamesJoseph.sentinel-engineering-agent,JamesJoseph,Sentinel Engineering Agent,1.0.0,"A local, audited coding agent for closed networks, inside VS Code. The extension starts Sentinel's own server on your machine and shows its UI in a panel; nothing leaves the box except the model calls you configure."
+2026-10-28T03:38:32.04Z,mobilefx.aspjs,mobilefx,ASP.js,1.0.400,"Classic ASP over Node.js with server and browser debugging, language intelligence, SQLite tools, and visual site management."
+2026-10-28T03:38:54.797Z,Spellshift.realm-eldritch,Spellshift,Eldritch Language Support,0.4.1,"Syntax highlighting, linting, autocompletion, hover documentation, signature help, and navigation for the Realm Eldritch red team DSL."
+2026-10-28T03:59:25.313Z,liuhualiang.luban,liuhualiang,Luban,1.23.1,Luban — 独立的侧边栏 AI 编码 agent（多 provider，OpenAI 兼容，零源码补丁）
