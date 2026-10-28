@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T16:16:36.453Z,nilsbzh.pros-macro-language,nilsbzh,PROS CPQ Macro Language (unofficial),0.1.0,"Unofficial support for the PROS Smart CPQ macro language (Macro-Based BRC): syntax highlighting, completion, hover, signature help, outline and diagnostics."
+2026-10-28T16:23:26.117Z,s-barn.worknotes,s-barn,WorkNotes,0.1.0,A local-first notes workspace for Visual Studio Code with a focused three-column layout.
+2026-10-28T16:29:29.66Z,ZulkarneynKarauce.tauri-comand,ZulkarneynKarauce,Tauri v2 Commands,0.1.0,"Tauri v2 CLI komutları, proje sihirbazı, snippet'lar, bağımlılık yöneticisi ve Debug menüsü entegrasyonu"
+2026-10-28T16:41:35.68Z,xiaodaidaitest.xiaodaidaitest-oidc-publish-test-prod,xiaodaidaitest,xiaodaidaitest-oidc-publish-test-prod,0.0.1,Test extension for Marketplace OIDC trusted publishing (production)
+2026-10-28T16:42:59.75Z,jondotsoy.worktree,jondotsoy,Worktree,0.0.13,Visualiza y gestiona los git worktrees desde Visual Studio Code.
+2026-10-28T16:43:17.21Z,berkantkaraca.karaca-md-editor,berkantkaraca,Karaca MD,0.1.14,"A continuous WYSIWYG Markdown editor by berkantkaraca. Live, Source, Split and Reading modes."
+2026-10-28T16:53:00.76Z,hronaut.hronaut,hronaut,Hronaut,3.12.0,"Connects your coding agent to Hronaut — a visible desktop browser it can drive over MCP. Watch every step, pause and take over, keep logins between sessions. Requires the Hronaut app (free 10-day trial at hronaut.dev)."
+2026-10-28T16:58:44.213Z,spl-lang.spl-lang-vscode,spl-lang,SPL - Semantic Prompt Language,1.5.0,Executable Markdown with SPL blocks and natural-language workflows
+2026-10-28T16:59:56.753Z,Avius.simdialogs,Avius,SimDialogs,0.0.1,
+2026-10-28T17:00:56.893Z,ZulkarneynKarauce.css-quick-style,ZulkarneynKarauce,CSS Quick Style,0.1.0,"CSS Modules benzeri sınıf önerileri; stil/dosya/klasör yoksa sorup oluştur ve dosyadan ayrılmadan satır içi (peek) kutuda CSS yaz, Ctrl+S ile kaydet + Live Preview yenile. Tailwind uyumlu."
+2026-10-28T17:08:10.09Z,vokilam.comet-vscode,vokilam,Comet Tools,0.1.0,Editor tools for the Comet repositories: a formatter for Angular templates and TypeScript that follows the repository's oxlint rules and conventions.
+2026-10-28T17:09:44.273Z,optersoft.sql-toolchain,optersoft,SQL,0.1.0,"Typed Kotlin, Python and Rust generation and native diagnostics for SQLDelight-style SQLite .sq files."
