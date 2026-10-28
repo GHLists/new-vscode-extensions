@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-27T23:27:17.927Z,alisoftua.haria-web,alisoftua,HARIA Web,1.0.0,Create ASP.NET Core MVC applications and REST API facades for HARIA Clean Architecture solutions.
+2026-10-27T23:35:31.627Z,XKDMW404.vir-signals,XKDMW404,VIR Signals,1.0.0,"Swap the editor built-in sound files with voice pack audio, with a full backup and one command restore."
+2026-10-27T23:48:18.503Z,omnistove.novel-preview,omnistove,Novel Kit,2026.1028.2,"Shows a manuscript text file (.txt) as pages typeset the same way as its PDF. Define the layout, such as characters × lines, the way you set up a page in Word. English manuscripts are detected automatically and typeset like a paperback."
+2026-10-27T23:52:24.31Z,Ruvaaaaaa.code-orb,Ruvaaaaaa,Code Orb,0.0.1,"A lively, frame-animated companion that reacts to your VS Code activity and follows your theme."
+2026-10-27T23:55:51.03Z,babstudios.leaklock,babstudios,LeakLock: Secret & Credential Detection,0.1.0,"Catches API keys, tokens and passwords in your code as you type or save, with one-click redaction. Runs fully on your machine."
+2026-10-28T00:07:02.89Z,zecro.xml-desk,zecro,"XML Desk Lite: XPath, Tree, Format (Offline)",1.0.1,"Lite (free): evaluate XPath 1.0/3.1 with namespace auto-detect, copy XPath, XML tree view, format, minify and well-formedness check. 100% offline: pure JS, no Java, no binary download, no schema fetch, no telemetry."
+2026-10-28T00:13:04.77Z,mahovik.envoy-vscode,mahovik,Envoy for VS Code,0.2.0,"Generated Envoy 1.40 bootstrap YAML completion, inline extension templates, and documentation."
