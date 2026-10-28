@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 05:18 UTC
+## Latest list — 2026-10-28 06:20 UTC
 
-New extensions published between 2026-10-28 03:18 UTC and 2026-10-28 05:18 UTC.
+New extensions published between 2026-10-28 04:20 UTC and 2026-10-28 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T05-18-29-380606Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T06-20-30-852354Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 04:29:29 | [enhancer.enhancer-for-claude-code](https://marketplace.visualstudio.com/items?itemName=enhancer.enhancer-for-claude-code) | Enhancer for Claude Code | 0.4.0 | Makes the Claude Code chat calmer and more readable: right-to-left text (Arabic… |
-| 2026-10-28 04:49:36 | [frostwosix.dd-ticket-graph](https://marketplace.visualstudio.com/items?itemName=frostwosix.dd-ticket-graph) | DD Ticket Graph | 0.0.1 | Local Markdown tickets with a board, dependency graph, editing, and focused AI… |
-| 2026-10-28 04:52:02 | [KurtNguyen.goget-manager](https://marketplace.visualstudio.com/items?itemName=KurtNguyen.goget-manager) | Goget Manager | 0.0.1 | Manage packages for Go project visually. Easy to install/uninstall packages. |
-| 2026-10-28 05:08:11 | [coliff.image-info-vs-code-extension](https://marketplace.visualstudio.com/items?itemName=coliff.image-info-vs-code-extension) | Image Info | 1.0.0 | VS Code extension to get information about images. |
+| 2026-10-28 05:19:10 | [akmalyf.quick-switch-project](https://marketplace.visualstudio.com/items?itemName=akmalyf.quick-switch-project) | Quick Switch Project | 1.0.0 | Quickly switch between projects: recent projects popup and next/previous projec… |
+| 2026-10-28 05:30:58 | [MoizBohra.vss-bridge](https://marketplace.visualstudio.com/items?itemName=MoizBohra.vss-bridge) | VSS Bridge (Visual SourceSafe) | 0.1.9 | Dreamweaver-style Visual SourceSafe integration for VS Code. Asks 'View or Chec… |
+| 2026-10-28 05:31:42 | [JaeHyeokee.midnight-neon-vscode](https://marketplace.visualstudio.com/items?itemName=JaeHyeokee.midnight-neon-vscode) | Midnight Neon | 0.1.0 | A dark theme with pastel neon colours and an optional glow |
+| 2026-10-28 05:48:25 | [NorthPandaLabs.pet-agents](https://marketplace.visualstudio.com/items?itemName=NorthPandaLabs.pet-agents) | Pet Agents | 0.4.0 | A pixel pet in your sidebar that acts out what your AI coding agent is doing, l… |
 
 ## Data source
 

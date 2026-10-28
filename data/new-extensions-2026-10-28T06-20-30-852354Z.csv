@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T05:19:10.337Z,akmalyf.quick-switch-project,akmalyf,Quick Switch Project,1.0.0,Quickly switch between projects: recent projects popup and next/previous project window.
+2026-10-28T05:30:58.807Z,MoizBohra.vss-bridge,MoizBohra,VSS Bridge (Visual SourceSafe),0.1.9,"Dreamweaver-style Visual SourceSafe integration for VS Code. Asks 'View or Check Out?' when you open a file, and adds Check In, Undo Checkout, Get Latest and History commands. Developed by Moiz Bohra."
+2026-10-28T05:31:42.1Z,JaeHyeokee.midnight-neon-vscode,JaeHyeokee,Midnight Neon,0.1.0,A dark theme with pastel neon colours and an optional glow
+2026-10-28T05:48:25.43Z,NorthPandaLabs.pet-agents,NorthPandaLabs,Pet Agents,0.4.0,"A pixel pet in your sidebar that acts out what your AI coding agent is doing, live. Sub-agents pop out as mini pets. Feed it, play fetch, collect toys."
