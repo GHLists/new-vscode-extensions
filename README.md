@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 14:20 UTC
+## Latest list — 2026-10-28 15:21 UTC
 
-New extensions published between 2026-10-28 12:20 UTC and 2026-10-28 14:20 UTC.
+New extensions published between 2026-10-28 13:21 UTC and 2026-10-28 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T14-20-53-20412Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T15-21-17-680735Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 13:15:56 | [jonytonet.ptah-laravel](https://marketplace.visualstudio.com/items?itemName=jonytonet.ptah-laravel) | Ptah | 0.1.1 | Autocomplete, validation, docs and AI-agent tools for Laravel apps built with j… |
-| 2026-10-28 13:24:09 | [zouaghi-mohamed.tn-sti-annexe-zouaghi](https://marketplace.visualstudio.com/items?itemName=zouaghi-mohamed.tn-sti-annexe-zouaghi) | TN STI – Conformité Annexe (Zouaghi Med) | 1.0.0 | Vérifie hors ligne la conformité du code HTML5, CSS3, JavaScript, PHP et SQL à… |
-| 2026-10-28 13:24:47 | [ryanholler.merge-queue-tracker](https://marketplace.visualstudio.com/items?itemName=ryanholler.merge-queue-tracker) | Merge Queue Tracker | 0.9.0 | See your GitHub merge queues in the sidebar and get alerted when your PR merges… |
-| 2026-10-28 13:26:03 | [cerberusx.session-chat-for-claude-code](https://marketplace.visualstudio.com/items?itemName=cerberusx.session-chat-for-claude-code) | Session Chat for Claude Code | 0.3.5 | A Messenger-style chat pane for talking to your named Claude Code sessions on o… |
-| 2026-10-28 13:28:05 | [ayyaz3d.one-language](https://marketplace.visualstudio.com/items?itemName=ayyaz3d.one-language) | ONE Language | 1.2.0 | Professional development experience for ONE Language (.one) — compiler diagnost… |
-| 2026-10-28 13:42:34 | [hrk-ymkw.md-table-tools](https://marketplace.visualstudio.com/items?itemName=hrk-ymkw.md-table-tools) | Markdown Table Tools | 0.0.4 | Markdownテーブルを直接編集・ソート・絞り込みできるプレビューパネル |
-| 2026-10-28 13:57:49 | [ocean-access.xmacro-tables](https://marketplace.visualstudio.com/items?itemName=ocean-access.xmacro-tables) | X-Macro Tables | 0.4.0 | Completion, checks and highlighting for C X-macro command tables and their comp… |
-| 2026-10-28 14:04:57 | [ardazeybek.devlog-coding-activity](https://marketplace.visualstudio.com/items?itemName=ardazeybek.devlog-coding-activity) | Devlog — Coding Activity | 1.0.0 | Track active coding time, language and project activity, goals, achievements, a… |
+| 2026-10-28 14:23:49 | [Valueztech.maximo-code-sync](https://marketplace.visualstudio.com/items?itemName=Valueztech.maximo-code-sync) | Maximo Code Sync by Valueztech | 1.2.0 | Pull automation scripts (foldered by launch point) and Maximo Mobile app source… |
+| 2026-10-28 14:28:09 | [Valueztech.maximo-developer](https://marketplace.visualstudio.com/items?itemName=Valueztech.maximo-developer) | Valueztech Maximo Developer | 1.3.0 | Developer toolkit for IBM Maximo / MAS in VS Code: pull automation scripts (fol… |
+| 2026-10-28 14:45:47 | [SchulzOli.bc-atlas](https://marketplace.visualstudio.com/items?itemName=SchulzOli.bc-atlas) | BC Atlas: AL Architecture & Dependencies | 0.8.0 | See and enforce the architecture of Business Central AL apps: dependencies in 3… |
+| 2026-10-28 14:57:58 | [zso-Rose.lilt](https://marketplace.visualstudio.com/items?itemName=zso-Rose.lilt) | Lilt | 0.0.1 | Six soft, pink-accented color themes for VS Code: Lilt, Lilt Pro, Lilt Soft, Li… |
+| 2026-10-28 15:00:10 | [rkmresearch.dsx-developer-tools](https://marketplace.visualstudio.com/items?itemName=rkmresearch.dsx-developer-tools) | DataStage DSX Developer Tools | 1.0.0 | Syntax highlighting for IBM DataStage DSX export files |
+| 2026-10-28 15:01:00 | [venkatarohithpesala.dotenv-lens](https://marketplace.visualstudio.com/items?itemName=venkatarohithpesala.dotenv-lens) | DotEnv Lens | 0.1.0 | Inspect .env files. Compare a .env with its template and see missing, extra, an… |
+| 2026-10-28 15:02:58 | [AngrySoft.clean-editor](https://marketplace.visualstudio.com/items?itemName=AngrySoft.clean-editor) | cleanEditor | 1.0.0 | Hides the JSDoc line above enum members and properties and shows the comment at… |
+| 2026-10-28 15:03:27 | [hsd.model-view-controller-hsd](https://marketplace.visualstudio.com/items?itemName=hsd.model-view-controller-hsd) | Model View Controller HSD | 0.3.0 |  |
+| 2026-10-28 15:04:01 | [Sachilaranawaka.terminal-manager-by-sachila](https://marketplace.visualstudio.com/items?itemName=Sachilaranawaka.terminal-manager-by-sachila) | Terminal Manager by Sachila | 0.1.5 | See workspace terminals together in a live gallery and pin the terminal you are… |
 
 ## Data source
 

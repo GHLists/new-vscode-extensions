@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T14:23:49.87Z,Valueztech.maximo-code-sync,Valueztech,Maximo Code Sync by Valueztech,1.2.0,"Pull automation scripts (foldered by launch point) and Maximo Mobile app source from IBM Maximo / MAS into VS Code. Review every server change as a diff, with conflict detection and backups."
+2026-10-28T14:28:09.497Z,Valueztech.maximo-developer,Valueztech,Valueztech Maximo Developer,1.3.0,"Developer toolkit for IBM Maximo / MAS in VS Code: pull automation scripts (foldered by launch point and integration type) and Maximo Mobile app source, review every server change as a diff, with conflict detection and backups."
+2026-10-28T14:45:47.32Z,SchulzOli.bc-atlas,SchulzOli,BC Atlas: AL Architecture & Dependencies,0.8.0,"See and enforce the architecture of Business Central AL apps: dependencies in 3D, clean-architecture checks with fixes, health in the Problems panel, CodeLens, diagrams, and an MCP server for AI agents."
+2026-10-28T14:57:58.777Z,zso-Rose.lilt,zso-Rose,Lilt,0.0.1,"Six soft, pink-accented color themes for VS Code: Lilt, Lilt Pro, Lilt Soft, Lilt Warm, Lilt X and Lilt Light."
+2026-10-28T15:00:10.683Z,rkmresearch.dsx-developer-tools,rkmresearch,DataStage DSX Developer Tools,1.0.0,Syntax highlighting for IBM DataStage DSX export files
+2026-10-28T15:01:00.87Z,venkatarohithpesala.dotenv-lens,venkatarohithpesala,DotEnv Lens,0.1.0,"Inspect .env files. Compare a .env with its template and see missing, extra, and empty keys."
+2026-10-28T15:02:58.01Z,AngrySoft.clean-editor,AngrySoft,cleanEditor,1.0.0,Hides the JSDoc line above enum members and properties and shows the comment at the end of the property line
+2026-10-28T15:03:27.173Z,hsd.model-view-controller-hsd,hsd,Model View Controller HSD,0.3.0,
+2026-10-28T15:04:01.69Z,Sachilaranawaka.terminal-manager-by-sachila,Sachilaranawaka,Terminal Manager by Sachila,0.1.5,See workspace terminals together in a live gallery and pin the terminal you are working with.
