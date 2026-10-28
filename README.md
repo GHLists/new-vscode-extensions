@@ -12,17 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 01:19 UTC
+## Latest list — 2026-10-28 02:21 UTC
 
-New extensions published between 2026-10-27 23:19 UTC and 2026-10-28 01:19 UTC.
+New extensions published between 2026-10-28 00:21 UTC and 2026-10-28 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T01-19-46-35603Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T02-21-29-383745Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 00:28:06 | [in3nsec.noctis-theme](https://marketplace.visualstudio.com/items?itemName=in3nsec.noctis-theme) | Noctis Theme | 1.0.4 | A dark theme for Visual Studio Code focused on aesthetics and code legibility. |
-| 2026-10-28 00:28:40 | [Xanyone.client-project-management](https://marketplace.visualstudio.com/items?itemName=Xanyone.client-project-management) | Client Project Management | 0.4.3 | Organize folders by client, project, and module, and open them from a dashboard. |
-| 2026-10-28 01:13:22 | [dekunocode.kyokko-theme](https://marketplace.visualstudio.com/items?itemName=dekunocode.kyokko-theme) | Kyokko Theme | 1.0.0 | A calm navy dark theme lit by aurora cyan and green. |
+| 2026-10-28 02:06:41 | [elle-ybas22.cute-pastel-scrapbook-icons](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cute-pastel-scrapbook-icons) | Cute Pastel Scrapbook Icons | 1.4.1 | Pastel animals, friendly objects and sweet file icons. |
+| 2026-10-28 02:07:18 | [ArcBC.typst-pdf-notebook](https://marketplace.visualstudio.com/items?itemName=ArcBC.typst-pdf-notebook) | Typst PDF Notebook | 0.3.3 | 原书按需阅读、Typst 笔记双向定位，导出时插页。 |
 
 ## Data source
 
