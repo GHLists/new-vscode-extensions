@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T22:10:43.633Z,amr-metwally.git-desk-controller,amr-metwally,Git Desk,0.1.1,"A simple Git sidebar: repositories, branches, staging, commits and sync."
+2026-10-28T22:18:39.61Z,kristijanhusak.org-lsp,kristijanhusak,Org (org-lsp),0.1.0,"Org mode support through the org-lsp language server: highlighting, folding, outline, TODO states and the agenda."
+2026-10-28T22:34:50.263Z,zenc-lang-ce.zenc-lang,zenc-lang-ce,Zen C - CE,0.0.4,Language support for Zen C
+2026-10-28T22:38:59.737Z,tenon-code-eu.tenon,tenon-code-eu,tenon,0.9.0,"tenon in VS Code: chat with the tenon coding agent, permissions, diffs, sandbox and provider jurisdiction in view."
+2026-10-28T22:42:16.88Z,leviax.browser-control-center,leviax,Browser Control Center,0.4.0,Panel de control para testing manual asistido y automatización web desde VS Code.
+2026-10-28T22:44:34.59Z,rezbouchabou.remote-root,rezbouchabou,Remote Root,0.1.0,"Seamlessly edit, save, and manage files with sudo/root permissions over Remote - SSH."

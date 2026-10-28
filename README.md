@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 22:20 UTC
+## Latest list — 2026-10-28 23:20 UTC
 
-New extensions published between 2026-10-28 20:20 UTC and 2026-10-28 22:20 UTC.
+New extensions published between 2026-10-28 21:20 UTC and 2026-10-28 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T22-20-34-203315Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T23-20-51-654845Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 21:45:39 | [Cadastre.cadastre](https://marketplace.visualstudio.com/items?itemName=Cadastre.cadastre) | Cadastre | 0.1.1 | Cadastre language support: highlighting, diagnostics, outline, go to definition… |
-| 2026-10-28 21:47:38 | [StoryTW.story-dark](https://marketplace.visualstudio.com/items?itemName=StoryTW.story-dark) | Story Dark | 0.1.1 | A dark VS Code theme with warm yellow strings, green functions, and blue type n… |
-| 2026-10-28 21:59:54 | [IrishBruse.inline-markdown-editor](https://marketplace.visualstudio.com/items?itemName=IrishBruse.inline-markdown-editor) | Inline Markdown Editor | 0.3.0 | Edit Markdown with formatted preview that reveals source where you click. |
-| 2026-10-28 22:08:37 | [maramesasystem.maramesa-ai-agent](https://marketplace.visualstudio.com/items?itemName=maramesasystem.maramesa-ai-agent) | Maramesa AI Agent | 0.2.0 | Agentes de IA de Maramesa en VS Code. Requiere una cuenta de desarrollador de M… |
-| 2026-10-28 22:09:06 | [DenizhanDaklr.symbolon-for-copilot](https://marketplace.visualstudio.com/items?itemName=DenizhanDaklr.symbolon-for-copilot) | Symbolon: Copilot Provider | 0.1.0 | Use your ChatGPT plan in GitHub Copilot Chat with Sign in with ChatGPT. No API… |
+| 2026-10-28 22:10:43 | [amr-metwally.git-desk-controller](https://marketplace.visualstudio.com/items?itemName=amr-metwally.git-desk-controller) | Git Desk | 0.1.1 | A simple Git sidebar: repositories, branches, staging, commits and sync. |
+| 2026-10-28 22:18:39 | [kristijanhusak.org-lsp](https://marketplace.visualstudio.com/items?itemName=kristijanhusak.org-lsp) | Org (org-lsp) | 0.1.0 | Org mode support through the org-lsp language server: highlighting, folding, ou… |
+| 2026-10-28 22:34:50 | [zenc-lang-ce.zenc-lang](https://marketplace.visualstudio.com/items?itemName=zenc-lang-ce.zenc-lang) | Zen C - CE | 0.0.4 | Language support for Zen C |
+| 2026-10-28 22:38:59 | [tenon-code-eu.tenon](https://marketplace.visualstudio.com/items?itemName=tenon-code-eu.tenon) | tenon | 0.9.0 | tenon in VS Code: chat with the tenon coding agent, permissions, diffs, sandbox… |
+| 2026-10-28 22:42:16 | [leviax.browser-control-center](https://marketplace.visualstudio.com/items?itemName=leviax.browser-control-center) | Browser Control Center | 0.4.0 | Panel de control para testing manual asistido y automatización web desde VS Cod… |
+| 2026-10-28 22:44:34 | [rezbouchabou.remote-root](https://marketplace.visualstudio.com/items?itemName=rezbouchabou.remote-root) | Remote Root | 0.1.0 | Seamlessly edit, save, and manage files with sudo/root permissions over Remote… |
 
 ## Data source
 
