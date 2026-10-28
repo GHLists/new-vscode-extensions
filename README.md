@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 20:18 UTC
+## Latest list — 2026-10-28 21:20 UTC
 
-New extensions published between 2026-10-28 18:18 UTC and 2026-10-28 20:18 UTC.
+New extensions published between 2026-10-28 19:20 UTC and 2026-10-28 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T20-18-50-581014Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T21-20-24-567551Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 19:18:00 | [QSPFoundation.qsp-lsp](https://marketplace.visualstudio.com/items?itemName=QSPFoundation.qsp-lsp) | QSPeak: QSP Language Support | 0.4.0 | QSP (Quest Soft Player) game development: IntelliSense, diagnostics, navigation… |
-| 2026-10-28 19:40:29 | [pinepomme.luciole](https://marketplace.visualstudio.com/items?itemName=pinepomme.luciole) | Luciole | 0.1.0 | See a Python project as a 3D brain of functions, and watch it light up as the c… |
-| 2026-10-28 19:49:37 | [BryanCuneo.ps-null-operator-scopes](https://marketplace.visualstudio.com/items?itemName=BryanCuneo.ps-null-operator-scopes) | PowerShell - TextMate Scopes for Null O… | 0.1.0 | Adds TextMate scopes for PowerShell 7's null operators. |
-| 2026-10-28 19:58:24 | [PawanMall.claude-studio-by-pm](https://marketplace.visualstudio.com/items?itemName=PawanMall.claude-studio-by-pm) | Claude Studio by PM | 2.0.2 | All-in-one companion for the Claude agent: auto-open edited files, review diffs… |
-| 2026-10-28 20:08:50 | [PawanMall.account-switcher-for-claude](https://marketplace.visualstudio.com/items?itemName=PawanMall.account-switcher-for-claude) | Account Switcher for Claude by PM | 1.0.2 | Use multiple Claude Code accounts (Office, Personal…) side by side: one-click s… |
-| 2026-10-28 20:11:29 | [zxckurayami.appearance-restore](https://marketplace.visualstudio.com/items?itemName=zxckurayami.appearance-restore) | Appearance Restore | 1.1.1 | Restore Vibrancy, Smooth UI, local Doki stickers and Custom CSS after updates,… |
-| 2026-10-28 20:12:49 | [PawanMall.claude-auto-open](https://marketplace.visualstudio.com/items?itemName=PawanMall.claude-auto-open) | Claude Auto Open by PM | 1.0.0 | Automatically opens files in the editor when the Claude agent edits or creates… |
+| 2026-10-28 20:17:44 | [ant-lang.ant-lang](https://marketplace.visualstudio.com/items?itemName=ant-lang.ant-lang) | Ant | 0.1.5 | Ant language support: highlighting, editing defaults, and the ant language serv… |
+| 2026-10-28 20:21:09 | [magdyoss.minimal-file-path](https://marketplace.visualstudio.com/items?itemName=magdyoss.minimal-file-path) | Minimal File Path | 0.2.0 | A minimalist, zero-dependency active file path and diff indicator for your stat… |
+| 2026-10-28 20:36:53 | [M455YN.csharpshooter-sql](https://marketplace.visualstudio.com/items?itemName=M455YN.csharpshooter-sql) | CSharpShooter SQL | 0.1.0 | .sql files as in SSMS 22 and Visual Studio 2026: an editor with the results bel… |
+| 2026-10-28 20:41:50 | [houssam-ouatmani.jvm-sense](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.jvm-sense) | JVM Sense | 0.1.0 | Language support for JVM launch options and Java argument files. |
+| 2026-10-28 20:47:30 | [pyzont.pyzont](https://marketplace.visualstudio.com/items?itemName=pyzont.pyzont) | Pyzont | 0.0.3 | My saved codes, available in any VS Code. Click one to open it, or copy/insert… |
+| 2026-10-28 21:04:37 | [flockion.flockion-vscode](https://marketplace.visualstudio.com/items?itemName=flockion.flockion-vscode) | Flockion | 0.38.9 | Work with governed Flockion coding agents inside VS Code. |
+| 2026-10-28 21:04:48 | [shahreyar.hoppy-claude-code](https://marketplace.visualstudio.com/items?itemName=shahreyar.hoppy-claude-code) | Hoppy for Claude Code | 1.0.0 | Out of tokens? Hoppy hops. Switch between your Claude accounts and other AI mod… |
+| 2026-10-28 21:05:35 | [RedFernSoftware.mirth-explorer](https://marketplace.visualstudio.com/items?itemName=RedFernSoftware.mirth-explorer) | Mirth Connect Explorer | 1.0.0 | Browse and manage Mirth Connect 4.x servers from the VS Code sidebar: channel g… |
+| 2026-10-28 21:07:57 | [kristiyanivanov.jira-commit-ticket](https://marketplace.visualstudio.com/items?itemName=kristiyanivanov.jira-commit-ticket) | Jira Ticket from Branch | 1.0.0 | One click to put the Jira ticket from your branch name into the commit message |
 
 ## Data source
 

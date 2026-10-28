@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T20:17:44.48Z,ant-lang.ant-lang,ant-lang,Ant,0.1.5,"Ant language support: highlighting, editing defaults, and the ant language server."
+2026-10-28T20:21:09.333Z,magdyoss.minimal-file-path,magdyoss,Minimal File Path,0.2.0,"A minimalist, zero-dependency active file path and diff indicator for your status bar."
+2026-10-28T20:36:53.12Z,M455YN.csharpshooter-sql,M455YN,CSharpShooter SQL,0.1.0,".sql files as in SSMS 22 and Visual Studio 2026: an editor with the results below the query, connections, SQL Tools Service IntelliSense and an Object Explorer."
+2026-10-28T20:41:50.03Z,houssam-ouatmani.jvm-sense,houssam-ouatmani,JVM Sense,0.1.0,Language support for JVM launch options and Java argument files.
+2026-10-28T20:47:30.203Z,pyzont.pyzont,pyzont,Pyzont,0.0.3,"My saved codes, available in any VS Code. Click one to open it, or copy/insert it."
+2026-10-28T21:04:37.623Z,flockion.flockion-vscode,flockion,Flockion,0.38.9,Work with governed Flockion coding agents inside VS Code.
+2026-10-28T21:04:48.793Z,shahreyar.hoppy-claude-code,shahreyar,Hoppy for Claude Code,1.0.0,"Out of tokens? Hoppy hops. Switch between your Claude accounts and other AI models (free or paid: OpenRouter, Gemini, DeepSeek, GLM) in Claude Code, keep your chat context, and continue any chat on another account or model. Not affiliated with Anthropic."
+2026-10-28T21:05:35.27Z,RedFernSoftware.mirth-explorer,RedFernSoftware,Mirth Connect Explorer,1.0.0,"Browse and manage Mirth Connect 4.x servers from the VS Code sidebar: channel groups and channels with live deployment state, code template libraries, XML editing with save-back, and opt-in channel control (deploy/start/stop) per connection."
+2026-10-28T21:07:57.31Z,kristiyanivanov.jira-commit-ticket,kristiyanivanov,Jira Ticket from Branch,1.0.0,One click to put the Jira ticket from your branch name into the commit message
