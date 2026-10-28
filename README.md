@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 04:22 UTC
+## Latest list — 2026-10-28 05:18 UTC
 
-New extensions published between 2026-10-28 02:22 UTC and 2026-10-28 04:22 UTC.
+New extensions published between 2026-10-28 03:18 UTC and 2026-10-28 05:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T04-22-01-216333Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T05-18-29-380606Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 03:29:34 | [jaytankdev.browserkey](https://marketplace.visualstudio.com/items?itemName=jaytankdev.browserkey) | BrowserKey: AI API Key Exposure in Fron… | 0.1.0 | Catches OpenAI, Anthropic, Gemini, Groq, Mistral and other AI provider API keys… |
-| 2026-10-28 03:36:15 | [JamesJoseph.sentinel-engineering-agent](https://marketplace.visualstudio.com/items?itemName=JamesJoseph.sentinel-engineering-agent) | Sentinel Engineering Agent | 1.0.0 | A local, audited coding agent for closed networks, inside VS Code. The extensio… |
-| 2026-10-28 03:38:32 | [mobilefx.aspjs](https://marketplace.visualstudio.com/items?itemName=mobilefx.aspjs) | ASP.js | 1.0.400 | Classic ASP over Node.js with server and browser debugging, language intelligen… |
-| 2026-10-28 03:38:54 | [Spellshift.realm-eldritch](https://marketplace.visualstudio.com/items?itemName=Spellshift.realm-eldritch) | Eldritch Language Support | 0.4.1 | Syntax highlighting, linting, autocompletion, hover documentation, signature he… |
-| 2026-10-28 03:59:25 | [liuhualiang.luban](https://marketplace.visualstudio.com/items?itemName=liuhualiang.luban) | Luban | 1.23.1 | Luban — 独立的侧边栏 AI 编码 agent（多 provider，OpenAI 兼容，零源码补丁） |
+| 2026-10-28 04:29:29 | [enhancer.enhancer-for-claude-code](https://marketplace.visualstudio.com/items?itemName=enhancer.enhancer-for-claude-code) | Enhancer for Claude Code | 0.4.0 | Makes the Claude Code chat calmer and more readable: right-to-left text (Arabic… |
+| 2026-10-28 04:49:36 | [frostwosix.dd-ticket-graph](https://marketplace.visualstudio.com/items?itemName=frostwosix.dd-ticket-graph) | DD Ticket Graph | 0.0.1 | Local Markdown tickets with a board, dependency graph, editing, and focused AI… |
+| 2026-10-28 04:52:02 | [KurtNguyen.goget-manager](https://marketplace.visualstudio.com/items?itemName=KurtNguyen.goget-manager) | Goget Manager | 0.0.1 | Manage packages for Go project visually. Easy to install/uninstall packages. |
+| 2026-10-28 05:08:11 | [coliff.image-info-vs-code-extension](https://marketplace.visualstudio.com/items?itemName=coliff.image-info-vs-code-extension) | Image Info | 1.0.0 | VS Code extension to get information about images. |
 
 ## Data source
 

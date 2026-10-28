@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T04:29:29.267Z,enhancer.enhancer-for-claude-code,enhancer,Enhancer for Claude Code,0.4.0,"Makes the Claude Code chat calmer and more readable: right-to-left text (Arabic, Persian, Urdu, Hebrew and more), a broom that folds tool rows, quote reply and quote tools, and image previews. Not affiliated with Anthropic."
+2026-10-28T04:49:36.977Z,frostwosix.dd-ticket-graph,frostwosix,DD Ticket Graph,0.0.1,"Local Markdown tickets with a board, dependency graph, editing, and focused AI context export."
+2026-10-28T04:52:02.817Z,KurtNguyen.goget-manager,KurtNguyen,Goget Manager,0.0.1,Manage packages for Go project visually. Easy to install/uninstall packages.
+2026-10-28T05:08:11.233Z,coliff.image-info-vs-code-extension,coliff,Image Info,1.0.0,VS Code extension to get information about images.
