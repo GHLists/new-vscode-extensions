@@ -12,16 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 02:21 UTC
+## Latest list — 2026-10-28 03:20 UTC
 
-New extensions published between 2026-10-28 00:21 UTC and 2026-10-28 02:21 UTC.
+New extensions published between 2026-10-28 01:20 UTC and 2026-10-28 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T02-21-29-383745Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T03-20-51-990376Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 02:06:41 | [elle-ybas22.cute-pastel-scrapbook-icons](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cute-pastel-scrapbook-icons) | Cute Pastel Scrapbook Icons | 1.4.1 | Pastel animals, friendly objects and sweet file icons. |
-| 2026-10-28 02:07:18 | [ArcBC.typst-pdf-notebook](https://marketplace.visualstudio.com/items?itemName=ArcBC.typst-pdf-notebook) | Typst PDF Notebook | 0.3.3 | 原书按需阅读、Typst 笔记双向定位，导出时插页。 |
+| 2026-10-28 02:17:31 | [Xanyone.client-project-manager](https://marketplace.visualstudio.com/items?itemName=Xanyone.client-project-manager) | Client Project Manager | 0.4.4 | Manage clients, projects, and folders in VS Code. |
+| 2026-10-28 02:19:12 | [robin211737.remote-tab-download](https://marketplace.visualstudio.com/items?itemName=robin211737.remote-tab-download) | Remote Tab Download | 1.0.0 | Download remote files directly from editor tabs to your computer, including fil… |
+| 2026-10-28 02:27:16 | [elle-ybas22.elle-matcha-strawberry-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.elle-matcha-strawberry-theme) | Matcha Strawberry | 1.0.1 | Creamy matcha greens and strawberry-milk pinks with rich syntax colors. |
+| 2026-10-28 02:36:52 | [placitum.placitum-vscode](https://marketplace.visualstudio.com/items?itemName=placitum.placitum-vscode) | Placitum | 0.1.0 | VS Code client for Placitum: syntax highlighting and language support through t… |
+| 2026-10-28 02:58:47 | [elle-ybas22.elle-buttercream-matcha-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.elle-buttercream-matcha-theme) | Buttercream Matcha | 1.0.2 | Soft buttercream and matcha-green surfaces with colorful syntax. |
 
 ## Data source
 
