@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 06:20 UTC
+## Latest list — 2026-10-28 07:19 UTC
 
-New extensions published between 2026-10-28 04:20 UTC and 2026-10-28 06:20 UTC.
+New extensions published between 2026-10-28 05:19 UTC and 2026-10-28 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T06-20-30-852354Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T07-19-40-135506Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 05:19:10 | [akmalyf.quick-switch-project](https://marketplace.visualstudio.com/items?itemName=akmalyf.quick-switch-project) | Quick Switch Project | 1.0.0 | Quickly switch between projects: recent projects popup and next/previous projec… |
-| 2026-10-28 05:30:58 | [MoizBohra.vss-bridge](https://marketplace.visualstudio.com/items?itemName=MoizBohra.vss-bridge) | VSS Bridge (Visual SourceSafe) | 0.1.9 | Dreamweaver-style Visual SourceSafe integration for VS Code. Asks 'View or Chec… |
-| 2026-10-28 05:31:42 | [JaeHyeokee.midnight-neon-vscode](https://marketplace.visualstudio.com/items?itemName=JaeHyeokee.midnight-neon-vscode) | Midnight Neon | 0.1.0 | A dark theme with pastel neon colours and an optional glow |
-| 2026-10-28 05:48:25 | [NorthPandaLabs.pet-agents](https://marketplace.visualstudio.com/items?itemName=NorthPandaLabs.pet-agents) | Pet Agents | 0.4.0 | A pixel pet in your sidebar that acts out what your AI coding agent is doing, l… |
+| 2026-10-28 06:33:05 | [govind-tech.ecocode](https://marketplace.visualstudio.com/items?itemName=govind-tech.ecocode) | Ecocode Analyzer | 0.0.1 | Energy-efficient code analyzer for Python |
+| 2026-10-28 06:34:26 | [elle-ybas22.cinnamoroll-pixel-icons](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cinnamoroll-pixel-icons) | Cinnamoroll Pixel Icons | 1.1.1 | Simple pastel pixel file icons: stars, hearts, clouds, bows and Cinnamoroll, de… |
+| 2026-10-28 06:43:57 | [voidaliot.aliot-uml-editor](https://marketplace.visualstudio.com/items?itemName=voidaliot.aliot-uml-editor) | Aliot UML Editor | 0.5.0 | Native React Flow UML diagrams with bidirectional editing of PlantUML text file… |
+| 2026-10-28 06:47:16 | [samarin-aa-aka-rtm00.mobile-device-manager](https://marketplace.visualstudio.com/items?itemName=samarin-aa-aka-rtm00.mobile-device-manager) | Mobile Device Manager — Android & iOS o… | 0.2.1 | Connect Android and iOS devices over Wi-Fi, browse their storage, open device f… |
+| 2026-10-28 06:50:35 | [wilmervasquez.postgresql-client](https://marketplace.visualstudio.com/items?itemName=wilmervasquez.postgresql-client) | PostgreSQL Client | 0.1.0 | PostgreSQL client for VS Code: explorer, SQL query runner and ERD diagrams |
+| 2026-10-28 07:08:35 | [elle-ybas22.cinnamoroll-pixel-theme](https://marketplace.visualstudio.com/items?itemName=elle-ybas22.cinnamoroll-pixel-theme) | Cinnamoroll Pixel Theme | 1.0.1 | Two cozy Cinnamoroll-inspired themes: Cloud Café light and Night Sky dark, with… |
 
 ## Data source
 
