@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T12:05:46.19Z,HernanHerrera.hbd,HernanHerrera,hBD - Cliente de Bases de Datos,0.1.0,"Cliente universal de bases de datos para VS Code inspirado en DBeaver: PostgreSQL, MySQL, MariaDB, SQL Server y SQLite. Explorador, editor SQL, grilla editable, ER, import/export, historial y túneles SSH."
+2026-10-28T12:14:58.58Z,simaosoares.soares-code-helper,simaosoares,Soares Code Helper,0.0.2,Uma extensão que goza contigo enquanto programas.
+2026-10-28T12:34:32.293Z,vortexdq.agent09-assistant,vortexdq,Agent09 Assistant,1.0.0,"AI coding agent by VortexDQ. Free Agent09 models, local Ollama, or your own OpenRouter, Anthropic or OpenAI key."
+2026-10-28T12:40:55.37Z,deviousprophet.vscode-arxml-scope,deviousprophet,ARXML Scope,0.2.0,Browse and edit AUTOSAR ECUC-Values ARXML files in VS Code.
+2026-10-28T12:42:37.943Z,Sir-Olexander.claude-projects,Sir-Olexander,Claude Projects,0.1.0,"Work on all your projects with Claude Code from one window: projects, worktrees, sessions, per-project source control and files, an attention dashboard and a usage bar."
+2026-10-28T12:46:51.46Z,newmatik.enginehall,newmatik,EngineHall,2.0.0,"EngineHall, a Newmatik product: where hardware gets built, checked and released, together. This VS Code UI runs hardware/firmware checks, opens Altium .SchDoc files, and tracks project decisions as linted Markdown."
+2026-10-28T13:08:56.947Z,GravicodeStudios.rustzor,GravicodeStudios,Rustzor,0.1.0,"Build C# Razor apps that run in the browser on RustNetRuntime (Rust, compiled to WebAssembly): new projects, serve with live reload, publish, packages and snippets."
+2026-10-28T13:10:45.15Z,dr-opensource.ag-remote,dr-opensource,Antigravity Remote,0.2.2,"Control your Antigravity agent from your phone: approve or deny commands, send prompts and screenshots, stop runs and get notified, on any network with end-to-end encryption."
+2026-10-28T13:13:12.28Z,jabezwinston.wap-toolkit,jabezwinston,WAP Toolkit,0.5.1,"Complete toolkit for WML & WMLScript authoring, preview and debugging"

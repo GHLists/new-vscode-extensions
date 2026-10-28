@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 12:20 UTC
+## Latest list — 2026-10-28 13:20 UTC
 
-New extensions published between 2026-10-28 10:20 UTC and 2026-10-28 12:20 UTC.
+New extensions published between 2026-10-28 11:20 UTC and 2026-10-28 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T12-20-59-812596Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T13-20-53-983932Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 11:21:40 | [NileshRavishan.dual-agent-orchestrator](https://marketplace.visualstudio.com/items?itemName=NileshRavishan.dual-agent-orchestrator) | Dual Agent Orchestrator | 2.3.0 | Claude answers and Codex checks the answer: a chat where two coding agents revi… |
-| 2026-10-28 11:21:51 | [hetsavani.hk-columns-generator](https://marketplace.visualstudio.com/items?itemName=hetsavani.hk-columns-generator) | HK Columns Generator | 0.1.0 | Pick a C# model from your Models folder and generate Kendo UI Grid columns (che… |
-| 2026-10-28 11:34:44 | [hairtonvanda.stylina-vscode](https://marketplace.visualstudio.com/items?itemName=hairtonvanda.stylina-vscode) | Stylin.js (Stylina) IntelliSense | 0.1.0 | Autocomplete, hover, validation and go-to-definition for Stylina in-* attribute… |
-| 2026-10-28 11:40:26 | [MissingElements.h5p-preview](https://marketplace.visualstudio.com/items?itemName=MissingElements.h5p-preview) | H5P Preview by Missing Elements | 0.1.0 | Open .h5p files in VS Code and play them in the real player: no H5P server, off… |
-| 2026-10-28 11:57:10 | [harish-chirati.coderelay](https://marketplace.visualstudio.com/items?itemName=harish-chirati.coderelay) | CodeRelay | 0.1.0 | By Raha. Share code files between computers and edit synced files directly in V… |
-| 2026-10-28 12:01:19 | [SiliconEmbedSoft.cmake-subproject-wizard](https://marketplace.visualstudio.com/items?itemName=SiliconEmbedSoft.cmake-subproject-wizard) | CMake Subproject Wizard (CLion-Style) | 1.0.0 | Scaffold modular C/C++ CMake subprojects with clangd and CodeLLDB support. |
-| 2026-10-28 12:04:13 | [chepiotech.chepio-agents](https://marketplace.visualstudio.com/items?itemName=chepiotech.chepio-agents) | Chepio Agents | 0.2.0 | Run installed coding-agent CLIs in the background and follow each conversation… |
-| 2026-10-28 12:13:59 | [hetsavani.hk-crud-generator](https://marketplace.visualstudio.com/items?itemName=hetsavani.hk-crud-generator) | HK MVC CRUD Generator | 0.2.0 | Pick a C# model and generate CRUD code for ASP.NET Core MVC: Npgsql service (_c… |
+| 2026-10-28 12:05:46 | [HernanHerrera.hbd](https://marketplace.visualstudio.com/items?itemName=HernanHerrera.hbd) | hBD - Cliente de Bases de Datos | 0.1.0 | Cliente universal de bases de datos para VS Code inspirado en DBeaver: PostgreS… |
+| 2026-10-28 12:14:58 | [simaosoares.soares-code-helper](https://marketplace.visualstudio.com/items?itemName=simaosoares.soares-code-helper) | Soares Code Helper | 0.0.2 | Uma extensão que goza contigo enquanto programas. |
+| 2026-10-28 12:34:32 | [vortexdq.agent09-assistant](https://marketplace.visualstudio.com/items?itemName=vortexdq.agent09-assistant) | Agent09 Assistant | 1.0.0 | AI coding agent by VortexDQ. Free Agent09 models, local Ollama, or your own Ope… |
+| 2026-10-28 12:40:55 | [deviousprophet.vscode-arxml-scope](https://marketplace.visualstudio.com/items?itemName=deviousprophet.vscode-arxml-scope) | ARXML Scope | 0.2.0 | Browse and edit AUTOSAR ECUC-Values ARXML files in VS Code. |
+| 2026-10-28 12:42:37 | [Sir-Olexander.claude-projects](https://marketplace.visualstudio.com/items?itemName=Sir-Olexander.claude-projects) | Claude Projects | 0.1.0 | Work on all your projects with Claude Code from one window: projects, worktrees… |
+| 2026-10-28 12:46:51 | [newmatik.enginehall](https://marketplace.visualstudio.com/items?itemName=newmatik.enginehall) | EngineHall | 2.0.0 | EngineHall, a Newmatik product: where hardware gets built, checked and released… |
+| 2026-10-28 13:08:56 | [GravicodeStudios.rustzor](https://marketplace.visualstudio.com/items?itemName=GravicodeStudios.rustzor) | Rustzor | 0.1.0 | Build C# Razor apps that run in the browser on RustNetRuntime (Rust, compiled t… |
+| 2026-10-28 13:10:45 | [dr-opensource.ag-remote](https://marketplace.visualstudio.com/items?itemName=dr-opensource.ag-remote) | Antigravity Remote | 0.2.2 | Control your Antigravity agent from your phone: approve or deny commands, send… |
+| 2026-10-28 13:13:12 | [jabezwinston.wap-toolkit](https://marketplace.visualstudio.com/items?itemName=jabezwinston.wap-toolkit) | WAP Toolkit | 0.5.1 | Complete toolkit for WML & WMLScript authoring, preview and debugging |
 
 ## Data source
 
