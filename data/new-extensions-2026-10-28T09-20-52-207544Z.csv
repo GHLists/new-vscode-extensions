@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T08:11:05.237Z,akmalyf.remote-deployment,akmalyf,Remote Deployment,1.0.0,"Deploy to SFTP, FTP, FTPS, WebDAV and local folders: remote host browser, upload/download, compare and sync with a built-in diff, automatic upload, remote editing and SSH terminal."
+2026-10-28T08:22:06.323Z,frostwosix.md-ticket-graph,frostwosix,MD Ticket Graph,1.0.1,"Local Markdown tickets with a board, dependency graph, editing, and focused AI context export."
+2026-10-28T08:44:33.523Z,liangliang-ai.temp-files,liangliang-ai,临时文件,2.2.2,"临时文件 / 草稿文件：快速创建任意类型的临时文件，支持中文命名。Create scratch files of any type, with Chinese (non-ASCII) filenames. Fork of buenon/scratchpads."
+2026-10-28T08:55:29.75Z,lilinhuang.wheat-clay-theme,lilinhuang,Wheat Clay Theme,1.0.0,"Warm neutral paper: oat and khaki tones in the light variant, a stone-brown night in the dark one."
+2026-10-28T08:56:49.827Z,PRODM281DVTW3.platformio-PRODM281W3DVT,PRODM281DVTW3,PRODM281W3 TESTone On Platform,3.3.8,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)"
+2026-10-28T09:02:24.18Z,ideagittool.ideagittool,ideagittool,IdeaGitTool,0.4.2,"The Rebased / IntelliJ git client, remade as a VS Code extension: git log with graph, commit tool window, shelf, branches popup, interactive rebase, push/update dialogs, conflicts resolver and annotations."
+2026-10-28T09:05:25.143Z,VahidCode.vahid-code-break,VahidCode,Vahid Code Break,1.8.0,Gentle eye-care and movement break reminders while you work in VS Code.
+2026-10-28T09:05:39.397Z,VahidCode.vahid-code-claude-notify,VahidCode,Vahid Code Claude Notify,1.1.0,"Notifications when Claude Code needs you — click one to jump to the exact VS Code window and Claude chat tab, on Linux too"
+2026-10-28T09:05:52.857Z,VahidCode.vahid-code-notes,VahidCode,Vahid Code Notes,0.4.0,"Tags, sticky notes, free notes and search for Claude Code sessions, in the side bar. The notes are yours alone; nothing is sent to Claude."
+2026-10-28T09:06:07.38Z,VahidCode.vahid-code-rtl,VahidCode,Vahid Code RTL,1.4.0,Right-to-left Persian text in the Claude Code chat and the Markdown preview; English and code stay left-to-right.
+2026-10-28T09:07:55.803Z,lilinhuang.vinyl-nocturne-theme,lilinhuang,Vinyl Nocturne Theme,1.0.0,"A blue-violet night for music lovers: pale mist paper in the light variant, a deep indigo desk at night in the dark one."
+2026-10-28T09:14:34.5Z,wpy-1.code-change-impact-analyzer,wpy-1,Code Change Impact Analyzer,1.2.0,基于大模型与多引擎协同的跨文件变更影响分析插件
