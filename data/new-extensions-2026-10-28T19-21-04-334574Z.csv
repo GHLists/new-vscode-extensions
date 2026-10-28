@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T18:27:47.24Z,Emela.emela,Emela,Emela,0.25.0,"Emela language support: diagnostics, completion and the other features of `emela lsp`, plus syntax highlighting."
+2026-10-28T18:28:27.09Z,BryanCuneo.powershell-null-operator-scopes,BryanCuneo,PowerShell Null Operator Scopes,0.1.0,Adds TextMate scopes for PowerShell 7's null operators.
+2026-10-28T18:30:03.417Z,zecro.react-extract-lite,zecro,React Extract Lite: JSX → Component (Offline),1.0.0,"Lite (free): extract a JSX/TSX selection into a React function component, in the same file or a new file. Props inferred from the variables it uses, imports wired up, fragments and event handlers handled, hook warning. 100% offline: bundled Babel parser, no AI, no telemetry."
+2026-10-28T18:42:32.593Z,Iglikotsiai.dragon-ball-z-arena,Iglikotsiai,Dragon Ball Z Arena,1.0.0,"Unofficial Dragon Ball Z fan extension: Goku and Vegeta live in an arena under your code, power up into Super Saiyan forms while you type, hunt the Dragon Balls and train with you in the Time Chamber."
+2026-10-28T18:44:55.397Z,HeavenSky.easy-graph,HeavenSky,Easy Graph,0.0.1,"See every branch of your repository as a commit graph in VS Code, and rebase, merge, cherry-pick or reset right from it."
+2026-10-28T19:08:08.523Z,edtroleis.techdocs-editor,edtroleis,TechDocs Editor,0.1.0,"Visual editor for TechDocs (MkDocs) pages, with the same Markdown fidelity as the Backstage plugin"
