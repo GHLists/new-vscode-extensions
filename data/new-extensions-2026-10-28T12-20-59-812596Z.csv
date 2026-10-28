@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T11:21:40.737Z,NileshRavishan.dual-agent-orchestrator,NileshRavishan,Dual Agent Orchestrator,2.3.0,"Claude answers and Codex checks the answer: a chat where two coding agents review each other, with attachments, cited web research, isolated edits you review and apply, and token usage."
+2026-10-28T11:21:51.487Z,hetsavani.hk-columns-generator,hetsavani,HK Columns Generator,0.1.0,"Pick a C# model from your Models folder and generate Kendo UI Grid columns (checkbox, image, list and Edit/Delete templates)."
+2026-10-28T11:34:44.607Z,hairtonvanda.stylina-vscode,hairtonvanda,Stylin.js (Stylina) IntelliSense,0.1.0,"Autocomplete, hover, validation and go-to-definition for Stylina in-* attributes."
+2026-10-28T11:40:26.147Z,MissingElements.h5p-preview,MissingElements,H5P Preview by Missing Elements,0.1.0,"Open .h5p files in VS Code and play them in the real player: no H5P server, offline, and nothing leaves your computer."
+2026-10-28T11:57:10.453Z,harish-chirati.coderelay,harish-chirati,CodeRelay,0.1.0,By Raha. Share code files between computers and edit synced files directly in VS Code.
+2026-10-28T12:01:19.62Z,SiliconEmbedSoft.cmake-subproject-wizard,SiliconEmbedSoft,CMake Subproject Wizard (CLion-Style),1.0.0,Scaffold modular C/C++ CMake subprojects with clangd and CodeLLDB support.
+2026-10-28T12:04:13.903Z,chepiotech.chepio-agents,chepiotech,Chepio Agents,0.2.0,Run installed coding-agent CLIs in the background and follow each conversation in VS Code.
+2026-10-28T12:13:59.88Z,hetsavani.hk-crud-generator,hetsavani,HK MVC CRUD Generator,0.2.0,"Pick a C# model and generate CRUD code for ASP.NET Core MVC: Npgsql service (_conn, AddWithValue) with controller actions, or EF Core actions."
