@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-28 10:20 UTC
+## Latest list — 2026-10-28 11:20 UTC
 
-New extensions published between 2026-10-28 08:20 UTC and 2026-10-28 10:20 UTC.
+New extensions published between 2026-10-28 09:20 UTC and 2026-10-28 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-28T10-20-17-723501Z.csv)
+[Full CSV](data/new-extensions-2026-10-28T11-20-42-07206Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-28 09:26:34 | [HeavenSky.markdown-preview-toolkit](https://marketplace.visualstudio.com/items?itemName=HeavenSky.markdown-preview-toolkit) | Markdown Preview Toolkit | 0.0.1 | Render Mermaid and Kroki diagrams, tables of contents, task lists and GitHub-st… |
-| 2026-10-28 09:31:26 | [fqix.apple-container-tools](https://marketplace.visualstudio.com/items?itemName=fqix.apple-container-tools) | Apple Container Tools | 0.1.0 | Manage Apple container (native Linux containers on macOS) in VS Code: container… |
-| 2026-10-28 09:34:00 | [bouffalolab.bouffalo-pilot](https://marketplace.visualstudio.com/items?itemName=bouffalolab.bouffalo-pilot) | Bouffalo Pilot | 0.1.1 | Develop, build, and flash Bouffalo Lab chips with Bouffalo Pilot |
-| 2026-10-28 09:37:34 | [ChimeraTK.jmap-formatter](https://marketplace.visualstudio.com/items?itemName=ChimeraTK.jmap-formatter) | ChimeraTK jmap Formatter | 0.0.1 | Language support and formatting for ChimeraTK .jmap device-mapping files. |
-| 2026-10-28 09:38:12 | [lilinhuang.witching-hour-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.witching-hour-theme) | Witching Hour Theme | 1.0.0 | Pumpkin cream by day and a charcoal violet night: an orange, slime green and bl… |
-| 2026-10-28 09:44:29 | [HunhNgcCngDanh.agentwatch](https://marketplace.visualstudio.com/items?itemName=HunhNgcCngDanh.agentwatch) | Agent Session Watch | 0.3.0 | Browse past Claude Code sessions: cost, tokens, subagents, MCP tool calls, edit… |
-| 2026-10-28 09:44:46 | [bondevn.scriptor](https://marketplace.visualstudio.com/items?itemName=bondevn.scriptor) | Scriptor | 0.0.2 | A launchpad for your scripts. Add any .sh, .js, .py or other script, group them… |
-| 2026-10-28 09:50:03 | [huangdan.eww-bridge](https://marketplace.visualstudio.com/items?itemName=huangdan.eww-bridge) | EWW Bridge — Copilot Chat to Feishu / L… | 1.0.0 | Stream your active VS Code Copilot Chat session to a Feishu/Lark card in real t… |
-| 2026-10-28 10:09:26 | [UpendraSinghChauhan.codeguide](https://marketplace.visualstudio.com/items?itemName=UpendraSinghChauhan.codeguide) | CodeGuide – Explain Code in Plain Words | 0.4.0 | Understand code you didn't write: what each file is, when it runs, what uses it… |
-| 2026-10-28 10:09:35 | [lipengjun.IntelliJ-style-git](https://marketplace.visualstudio.com/items?itemName=lipengjun.IntelliJ-style-git) | IntelliJ Style Git | 0.4.0 | IDEA-style Commit, Git Log, editable diff and three-way merge for VS Code. |
-| 2026-10-28 10:15:57 | [YuvrajRastogi.sumiro](https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.sumiro) | SUMIRO | 1.1.2 | Pitch-black OLED and refined dark/light themes for VS Code-compatible editors,… |
+| 2026-10-28 10:20:54 | [jeycode404.yutu-player](https://marketplace.visualstudio.com/items?itemName=jeycode404.yutu-player) | YouTube Player for VS Code | 3.6.3 | Reproductor de YouTube y YouTube Music para Antigravity con soporte de cancione… |
+| 2026-10-28 10:48:04 | [raga.raga-lang](https://marketplace.visualstudio.com/items?itemName=raga.raga-lang) | Raga | 0.1.0 | Language support for the Raga programming language (.raga): type inference, com… |
+| 2026-10-28 10:52:31 | [mTeXdevelopers.mTeX-for-vscode](https://marketplace.visualstudio.com/items?itemName=mTeXdevelopers.mTeX-for-vscode) | mTeX for VSCode | 0.2.3 | Read LaTeX beside your VS Code editor with a bundled offline reader and two-way… |
+| 2026-10-28 10:57:58 | [hetsavani.hk-form-generator](https://marketplace.visualstudio.com/items?itemName=hetsavani.hk-form-generator) | HK Form Generator | 0.1.0 | Generate jQuery FormData code from a Kendo Form `items` array. |
+| 2026-10-28 11:00:35 | [imaanmzr.grey-solarized](https://marketplace.visualstudio.com/items?itemName=imaanmzr.grey-solarized) | Grey Solarized | 1.0.0 | Light gray VS Code themes with strong, readable colors: a neutral gray variant… |
+| 2026-10-28 11:01:07 | [Datalyn-code.datalyn-code-agent](https://marketplace.visualstudio.com/items?itemName=Datalyn-code.datalyn-code-agent) | Datalyn Code Agent | 0.6.0 | A coding agent in VS Code: it reads, edits and tests your code; every file chan… |
+| 2026-10-28 11:03:35 | [tanishbhandari24.skillz](https://marketplace.visualstudio.com/items?itemName=tanishbhandari24.skillz) | Skillz | 0.1.0 | Create, manage, discover and apply AI coding skills inside your editor |
+| 2026-10-28 11:05:52 | [tokendiet.tokendiet](https://marketplace.visualstudio.com/items?itemName=tokendiet.tokendiet) | TokenDiet: code graph for AI coding age… | 0.1.0 | Cut the tokens Claude Code, Codex, Cursor and Copilot spend exploring your repo… |
 
 ## Data source
 

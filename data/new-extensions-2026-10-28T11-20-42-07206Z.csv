@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T10:20:54.487Z,jeycode404.yutu-player,jeycode404,YouTube Player for VS Code,3.6.3,"Reproductor de YouTube y YouTube Music para Antigravity con soporte de canciones oficiales, escalador HD, widget en barra de estado y atajos globales"
+2026-10-28T10:48:04.87Z,raga.raga-lang,raga,Raga,0.1.0,"Language support for the Raga programming language (.raga): type inference, completion, signature help, go to definition, rename, outline and inlay hints"
+2026-10-28T10:52:31.403Z,mTeXdevelopers.mTeX-for-vscode,mTeXdevelopers,mTeX for VSCode,0.2.3,Read LaTeX beside your VS Code editor with a bundled offline reader and two-way source navigation.
+2026-10-28T10:57:58.443Z,hetsavani.hk-form-generator,hetsavani,HK Form Generator,0.1.0,Generate jQuery FormData code from a Kendo Form `items` array.
+2026-10-28T11:00:35.913Z,imaanmzr.grey-solarized,imaanmzr,Grey Solarized,1.0.0,"Light gray VS Code themes with strong, readable colors: a neutral gray variant and a sage-green variant. No bold or italic in code."
+2026-10-28T11:01:07.663Z,Datalyn-code.datalyn-code-agent,Datalyn-code,Datalyn Code Agent,0.6.0,"A coding agent in VS Code: it reads, edits and tests your code; every file change and every command goes through you."
+2026-10-28T11:03:35.437Z,tanishbhandari24.skillz,tanishbhandari24,Skillz,0.1.0,"Create, manage, discover and apply AI coding skills inside your editor"
+2026-10-28T11:05:52.437Z,tokendiet.tokendiet,tokendiet,TokenDiet: code graph for AI coding agents,0.1.0,"Cut the tokens Claude Code, Codex, Cursor and Copilot spend exploring your repo. One click builds a local code graph, wires up the agents, and carries a repo map + notes into every new session. Shows how much it saved."
