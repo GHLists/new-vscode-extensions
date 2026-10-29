@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T06:07:25.26Z,lc-lucky.filemint,lc-lucky,FileMint,1.0.2,在资源管理器中按类型快速新建文件，支持自定义后缀和菜单排序。
+2026-10-29T06:43:05.51Z,rhema.rhema-language,rhema,Rhema Language,0.1.0,"Rhema (.rhm) support: highlighting, problems from rhema check as you type, Run and Compile commands, folding and snippets."
+2026-10-29T07:07:22.243Z,zooper.beaver,zooper,Beaver Dart Formatter,0.1.0,"Format Dart with Beaver, the configurable formatter (.beaver.yaml)."
+2026-10-29T07:11:17.807Z,oewer-solutions.odoo-runner,oewer-solutions,Odoo Runner,0.1.0,"Manage Odoo source projects, Python environments and independent local runners."
