@@ -12,25 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 19:21 UTC
+## Latest list — 2026-10-29 20:21 UTC
 
-New extensions published between 2026-10-29 17:21 UTC and 2026-10-29 19:21 UTC.
+New extensions published between 2026-10-29 18:21 UTC and 2026-10-29 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T19-21-26-497513Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T20-21-02-633557Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 18:13:53 | [flashduino-edu.flashduino](https://marketplace.visualstudio.com/items?itemName=flashduino-edu.flashduino) | Flashduino — Arduino en el navegador | 1.1.1 | Programa tu Arduino desde VS Code en GitHub Codespaces con un solo botón, por U… |
-| 2026-10-29 18:14:49 | [maybesweta.spring-is-here](https://marketplace.visualstudio.com/items?itemName=maybesweta.spring-is-here) | Spring is here | 0.3.6 | Celebrate successful terminal commands with a customizable emoji shower on macO… |
-| 2026-10-29 18:18:53 | [twincrewlabs.muse-studio](https://marketplace.visualstudio.com/items?itemName=twincrewlabs.muse-studio) | Muse Studio for VS Code | 0.5.0 | Community-built, not affiliated with or endorsed by Meta. A side panel for the… |
-| 2026-10-29 18:20:25 | [quillolang.quillo-lang](https://marketplace.visualstudio.com/items?itemName=quillolang.quillo-lang) | Quillo | 0.10.0 | Quillo language support: highlighting, diagnostics, quick fixes, hover, go to d… |
-| 2026-10-29 18:28:27 | [ItaloAlmeida.docker-and-podman-studio](https://marketplace.visualstudio.com/items?itemName=ItaloAlmeida.docker-and-podman-studio) | Docker and Podman Studio | 1.0.0 | Visual Studio GUI for Docker & Podman: interactive Compose topology graph, Comp… |
-| 2026-10-29 18:34:09 | [ayush2861.auto-boilerplate](https://marketplace.visualstudio.com/items?itemName=ayush2861.auto-boilerplate) | Auto Boilerplate | 1.0.2 | Automatically inserts clean starter boilerplate code and positions the cursor w… |
-| 2026-10-29 18:43:40 | [d-ustindwayne.phl](https://marketplace.visualstudio.com/items?itemName=d-ustindwayne.phl) | PHL | 0.3.0 | PHL and HPL support: highlighting, errors as you type, outline, hover with valu… |
-| 2026-10-29 18:52:08 | [SD-SoftDev.codex-contingent](https://marketplace.visualstudio.com/items?itemName=SD-SoftDev.codex-contingent) | Codex Contingent | 0.3.1 | Codex subscription quota and reset times in the status bar, using the local Cod… |
-| 2026-10-29 18:58:30 | [Marinos33.code-companions](https://marketplace.visualstudio.com/items?itemName=Marinos33.code-companions) | Code Companions | 1.0.0 | A pixel pet in VS Code that reacts to what Claude Code is doing: thinking, edit… |
-| 2026-10-29 19:07:55 | [CanariaWerx.canariawerx-suitescript-snippets](https://marketplace.visualstudio.com/items?itemName=CanariaWerx.canariawerx-suitescript-snippets) | CanariaWerx SuiteScript Snippets | 1.4.0 | Code snippets for NetSuite SuiteScript 2.1, with legacy SuiteScript 1.0 templat… |
-| 2026-10-29 19:12:34 | [ChrisNoodles.clawd-pet](https://marketplace.visualstudio.com/items?itemName=ChrisNoodles.clawd-pet) | Clawd Pet | 0.1.0 | Una mascota virtual inspirada en Clawd, la mascota de Claude Code, que vive en… |
+| 2026-10-29 19:20:16 | [flashduino-edu.flashduino-puente](https://marketplace.visualstudio.com/items?itemName=flashduino-edu.flashduino-puente) | Puente USB (componente interno) | 1.3.2 | Pieza interna que conecta la placa por USB desde el navegador. No hace falta in… |
+| 2026-10-29 19:20:20 | [WilliamFarokhzad.whoopi-ui-tools](https://marketplace.visualstudio.com/items?itemName=WilliamFarokhzad.whoopi-ui-tools) | Whoopi UI | 1.0.1 | Official VS Code extension for Whoopi UI: XAML (.axaml) syntax highlighting, sn… |
+| 2026-10-29 19:22:45 | [RogerioCunha.asciidoc-rewrap](https://marketplace.visualstudio.com/items?itemName=RogerioCunha.asciidoc-rewrap) | AsciiDoc Rewrap | 0.1.3 | Hard-wrap AsciiDoc prose while preserving its block syntax. |
+| 2026-10-29 19:40:38 | [enterprise-r.wmd](https://marketplace.visualstudio.com/items?itemName=enterprise-r.wmd) | Workcard | 0.2.0 | View .w.md workcards, the Markdown format for reliable AI workflows, as cards,… |
+| 2026-10-29 19:48:18 | [dgethings.chunt](https://marketplace.visualstudio.com/items?itemName=dgethings.chunt) | chunt | 0.1.0 | Language support for Cisco IOS Jinja2 configuration templates (.ios.j2) via the… |
+| 2026-10-29 19:57:08 | [yurilzh.tongji-copilot](https://marketplace.visualstudio.com/items?itemName=yurilzh.tongji-copilot) | Tongji Models for Copilot Chat | 0.1.0 | 把同济大学人工智能服务平台（agi.tongji.edu.cn）的模型接入 Copilot Chat，新增 Tongji 模型组（BYOK / OpenAI… |
 
 ## Data source
 
