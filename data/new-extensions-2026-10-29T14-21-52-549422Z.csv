@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T13:15:08.377Z,plong.birt-rptdesign,plong,BIRT Report Design (.rptdesign),0.1.0,Syntax highlighting and JavaScript linting for script blocks embedded in BIRT report design files.
+2026-10-29T13:17:31.457Z,blueplanet-ciena.bpide-extman,blueplanet-ciena,Ciena: Blue Planet IDE Extension Manager,1.0.0,"Discover, install, update, and license-validate Blue Planet VS Code extensions distributed via BP Hub."
+2026-10-29T13:18:51.99Z,exeltarkus.moonage-daydream,exeltarkus,Moonage Daydream,0.5.0,"Database client for SQL Server, MySQL / MariaDB, PostgreSQL, SQLite and MongoDB: run queries from .sql files and view, filter, edit and export the results."
+2026-10-29T13:20:25.88Z,Leonardorat.westerntheme,Leonardorat,Western theme 2,0.0.2,"Color theme that add Western style. I tryed disable very bright colors. it's not a latest version, so shall be better in a future"
+2026-10-29T13:24:02.88Z,wangjinlong.lance-viewer,wangjinlong,Lance Viewer,0.0.1,在编辑区播放 .blob 文件（按 MP4 处理）
+2026-10-29T13:27:48.807Z,Birdycom.omniacss-intellisense,Birdycom,OmniaCSS IntelliSense,0.12.0,"Autocomplete, hover CSS, color swatches and linting for OmniaCSS utilities, variants and color tokens, and OmniaUI component classes."
+2026-10-29T13:33:57.73Z,malahimaamir.errordost,malahimaamir,"ErrorDost – Explain Errors in Urdu, Hindi, Arabic & English",0.1.0,"One-click, beginner-friendly error explanations in Urdu, Roman Urdu, Hindi, Arabic or English: what it means, why it happened and how to fix it. Works offline for common errors and uses your own AI (Copilot, Claude, Ollama…) for the rest. JS/TS, Python, HTML, CSS, Java, C/C++, PHP."
+2026-10-29T13:34:16.63Z,liangy.liangy-jsonmorph,liangy,JsonMorph,0.1.0,"Format, minify, validate JSON/JSONC and Convert JSON into code for JavaScript, TypeScript, C#, Go, Java, C/C++, Rust, Dart, Kotlin, Swift, and more."
+2026-10-29T13:36:33.393Z,my-fileage-tools.fileage-tracker,my-fileage-tools,FileAge Tracker,1.0.0,"Show Git history, authors and changed files"
+2026-10-29T13:52:23.923Z,SudhanshuAmbastha.glslh-previewer,SudhanshuAmbastha,glslh-previewer,1.0.1,Instant live WebGL shader previewer and preprocessor for glslh.
+2026-10-29T13:53:46.717Z,ftejero21.docusesion,ftejero21,DocuSesión,0.1.0,"Turn your Copilot agent session into Word, Excel and PowerPoint documentation, written from your real code and git diff, with real database names and nothing invented."
+2026-10-29T13:57:16.857Z,Birdycom.omnia-theme,Birdycom,Birdycom Omnia Dark,1.0.0,"A calm dark theme from Birdycom, tuned for HTML, Blade, PHP, CSS and JavaScript. Pairs with OmniaCSS IntelliSense."
+2026-10-29T13:59:54.577Z,WillyEverGreen.antigravity-auto-submit,WillyEverGreen,Antigravity Auto-Submit,1.8.5,"Autonomously approve Antigravity IDE tool and plan prompts from a status bar toggle, with keyword guardrails."
