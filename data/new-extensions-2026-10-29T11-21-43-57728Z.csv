@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T10:17:22.173Z,antonm030481.subversion-workbench,antonm030481,Subversion Workbench,2.25.0,"Fast, maintained Subversion source control for VS Code"
+2026-10-29T10:22:28.123Z,yuji-luigi.goqulient,yuji-luigi,GoQulient,0.1.0,"Browse PostgreSQL, MySQL/MariaDB and MongoDB databases and their ER diagrams, like the Goku app."
+2026-10-29T10:22:51.833Z,nksharmaexe.waypoint-snapshots,nksharmaexe,Waypoint - Git Snapshots,0.1.3,"Save hidden snapshots between steps, with no commits, and diff any step against the last."
+2026-10-29T10:25:49.733Z,tzuhsiungyang.biomolecule-viewer,tzuhsiungyang,Biomolecule Viewer,0.1.0,Local molecular structure viewing with Mol*.
+2026-10-29T10:30:05.57Z,ayushniroula.arguseye,ayushniroula,Arguseye,0.0.1,"See any React, Next.js or Vue component live beside your code, as it looks in your app. No dev server."
+2026-10-29T10:34:13.2Z,Labeeb.labeeb,Labeeb,Labeeb — لبيب,0.1.1,"Capture ideas anywhere in Labeeb, find them ready to execute in your IDE & AI tools."
+2026-10-29T10:43:18.95Z,MergeSense-xev.mergesense-xev,MergeSense-xev,MergeSense - xev,1.0.41,"AI-assisted test design for Jira, PRs, Confluence, and BDD workflows inside VS Code."
+2026-10-29T10:46:43.493Z,PriteshDev.mono-accent-theme,PriteshDev,Mono Accent Dark,0.0.1,Pure black theme with one accent color you choose.
+2026-10-29T10:56:14.09Z,TEJWARDEEPSINGH.nodestruct-v2-raw,TEJWARDEEPSINGH,NodeStruct V2 Raw,0.1.0,"Generate Node.js, Express and EJS projects with an interactive wizard."

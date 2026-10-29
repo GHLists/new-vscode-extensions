@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 10:19 UTC
+## Latest list — 2026-10-29 11:21 UTC
 
-New extensions published between 2026-10-29 08:19 UTC and 2026-10-29 10:19 UTC.
+New extensions published between 2026-10-29 09:21 UTC and 2026-10-29 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T10-19-06-782263Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T11-21-43-57728Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 09:16:36 | [NotifyX.godhuli-theme](https://marketplace.visualstudio.com/items?itemName=NotifyX.godhuli-theme) | Godhuli Theme — Warm Eye Comfort | 0.2.0 | Warm, eye-comfort dark & light theme for VS Code: low blue light, OLED Night, s… |
-| 2026-10-29 09:23:22 | [jamesmithiga.history-for-claude-code](https://marketplace.visualstudio.com/items?itemName=jamesmithiga.history-for-claude-code) | History for Claude Code | 0.1.0 | Unofficial. Search, reuse and resume every Claude Code conversation on your mac… |
-| 2026-10-29 09:23:55 | [LinqianShao.json-safe-type](https://marketplace.visualstudio.com/items?itemName=LinqianShao.json-safe-type) | JSON Safe Type | 0.0.3 | Generate TS types and scrub sensitive data locally. |
-| 2026-10-29 09:35:56 | [FlyingCaiChong.vscode-stock-monitor-extension](https://marketplace.visualstudio.com/items?itemName=FlyingCaiChong.vscode-stock-monitor-extension) | Stock Monitor | 1.1.1 | 在 VS Code 状态栏实时监控 A股 / 港股 / 美股行情，支持自选列表、收藏、持仓收益与涨跌配色 |
-| 2026-10-29 09:42:58 | [ZetoStudio.cortex-developer-activity](https://marketplace.visualstudio.com/items?itemName=ZetoStudio.cortex-developer-activity) | Cortex — Developer Activity Agent | 0.1.1 | Connect your IDE to Cortex so your company can see developer activity and AI co… |
-| 2026-10-29 09:45:39 | [waldek.vscode-controller](https://marketplace.visualstudio.com/items?itemName=waldek.vscode-controller) | VS Code Controller | 0.1.0 | Drive VS Code and GitHub Copilot Chat from scripts, tests and agents over a loc… |
-| 2026-10-29 09:52:00 | [CameronPainting.scad-workbench](https://marketplace.visualstudio.com/items?itemName=CameronPainting.scad-workbench) | OpenSCAD Workbench | 0.1.0 | Preview OpenSCAD models inside VS Code: color, customizer sliders, cross-sectio… |
-| 2026-10-29 10:00:04 | [VTzy137.xlsx-csv-pdf-docx-pptx](https://marketplace.visualstudio.com/items?itemName=VTzy137.xlsx-csv-pdf-docx-pptx) | DOCX, XLSX, CSV, PPTX and PDF files | 0.1.1 | View and edit DOCX, XLSX, CSV, PPTX and PDF files inside VS Code. |
-| 2026-10-29 10:01:14 | [ZhangPeng.coding-workflow-ai-flow](https://marketplace.visualstudio.com/items?itemName=ZhangPeng.coding-workflow-ai-flow) | AI 流程 | 0.2.12 | 在 IDE 中查看并推进 AI 编码工作流：以本地 .coding-workflow/ 为真源，通过 cw serve 本地 HTTP 桥读写，与 codin… |
+| 2026-10-29 10:17:22 | [antonm030481.subversion-workbench](https://marketplace.visualstudio.com/items?itemName=antonm030481.subversion-workbench) | Subversion Workbench | 2.25.0 | Fast, maintained Subversion source control for VS Code |
+| 2026-10-29 10:22:28 | [yuji-luigi.goqulient](https://marketplace.visualstudio.com/items?itemName=yuji-luigi.goqulient) | GoQulient | 0.1.0 | Browse PostgreSQL, MySQL/MariaDB and MongoDB databases and their ER diagrams, l… |
+| 2026-10-29 10:22:51 | [nksharmaexe.waypoint-snapshots](https://marketplace.visualstudio.com/items?itemName=nksharmaexe.waypoint-snapshots) | Waypoint - Git Snapshots | 0.1.3 | Save hidden snapshots between steps, with no commits, and diff any step against… |
+| 2026-10-29 10:25:49 | [tzuhsiungyang.biomolecule-viewer](https://marketplace.visualstudio.com/items?itemName=tzuhsiungyang.biomolecule-viewer) | Biomolecule Viewer | 0.1.0 | Local molecular structure viewing with Mol*. |
+| 2026-10-29 10:30:05 | [ayushniroula.arguseye](https://marketplace.visualstudio.com/items?itemName=ayushniroula.arguseye) | Arguseye | 0.0.1 | See any React, Next.js or Vue component live beside your code, as it looks in y… |
+| 2026-10-29 10:34:13 | [Labeeb.labeeb](https://marketplace.visualstudio.com/items?itemName=Labeeb.labeeb) | Labeeb — لبيب | 0.1.1 | Capture ideas anywhere in Labeeb, find them ready to execute in your IDE & AI t… |
+| 2026-10-29 10:43:18 | [MergeSense-xev.mergesense-xev](https://marketplace.visualstudio.com/items?itemName=MergeSense-xev.mergesense-xev) | MergeSense - xev | 1.0.41 | AI-assisted test design for Jira, PRs, Confluence, and BDD workflows inside VS… |
+| 2026-10-29 10:46:43 | [PriteshDev.mono-accent-theme](https://marketplace.visualstudio.com/items?itemName=PriteshDev.mono-accent-theme) | Mono Accent Dark | 0.0.1 | Pure black theme with one accent color you choose. |
+| 2026-10-29 10:56:14 | [TEJWARDEEPSINGH.nodestruct-v2-raw](https://marketplace.visualstudio.com/items?itemName=TEJWARDEEPSINGH.nodestruct-v2-raw) | NodeStruct V2 Raw | 0.1.0 | Generate Node.js, Express and EJS projects with an interactive wizard. |
 
 ## Data source
 
