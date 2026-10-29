@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T11:18:11.973Z,codehemu.live-server-guchho,codehemu,Live Server (Guchho),0.0.1,Preview HTML pages locally with Guchho.
+2026-10-29T11:22:01.647Z,bluecloud-dev.proxy-toggler,bluecloud-dev,Proxy Toggler,0.2.0,"Switch VS Code's proxy settings between proxy profiles and off, from the status bar."
+2026-10-29T11:23:33.773Z,Megharajkjava.pdfextract,Megharajkjava,pdfextract,0.0.1,This will extract the data from the PDF
+2026-10-29T11:25:21.363Z,malahimaamir.devdiary,malahimaamir,DevDiary – AI Daily Work Report Generator,0.2.1,"Automatically tracks what you work on (files, commits, coding time — never your code) and writes your daily work report or standup update with AI, in any language."
+2026-10-29T11:28:11.027Z,srijithunni7182.vscode-llm4j-loom,srijithunni7182,Loom for llm4j: AI agent workflows,1.0.1,"VS Code extension for Loom DSL (.loom and .loot files). Provides syntax highlighting, LSP diagnostics, workflow outline, a workflow graph, and run command."
+2026-10-29T11:38:01.537Z,redaechan.chat-session-agent-mk5,redaechan,Chat Session Agent Mk.5 - Claude Code & Codex,0.11.29,"Mission control for your AI chats: every Claude Code chat on one always-on-top board and your phone, prompts queued for the usage reset. Codex and Copilot too."
+2026-10-29T11:47:15.54Z,rexec.rexec-vscode,rexec,Rexec,0.1.0,"Remote execution engine: agent status monitoring, terminal, and port forwarding for VS Code"
+2026-10-29T11:49:10.563Z,Extensionbay.auto-scratch-save,Extensionbay,Auto Scratch Save,0.1.0,Automatically save new untitled editors to a scratch folder when typing begins.
+2026-10-29T11:54:53.15Z,baruchiro.pr-review-loop,baruchiro,PR Review Loop,0.1.0,"Your PRs in review order and whose turn it is, live from the resolving-pr-review-comments Claude Code skill"
+2026-10-29T11:55:02.127Z,CppCXY.cppls,CppCXY,Cpp Language Server,0.1.1,C/C++ language support powered by the cppls language server.
+2026-10-29T11:58:39.643Z,Synthigy.xsql,Synthigy,XSQL,0.1.0,"Syntax highlighting and language server support (diagnostics, completion, hover, symbols) for .xsql files."
+2026-10-29T12:13:37.9Z,CloudZ.zelix-language,CloudZ,Zelix Language,0.2.0,"Language support and project workflow for Zelix: completions, diagnostics, formatting, navigation, native builds, and local packages."

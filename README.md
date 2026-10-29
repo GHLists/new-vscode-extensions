@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 11:21 UTC
+## Latest list — 2026-10-29 12:21 UTC
 
-New extensions published between 2026-10-29 09:21 UTC and 2026-10-29 11:21 UTC.
+New extensions published between 2026-10-29 10:21 UTC and 2026-10-29 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T11-21-43-57728Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T12-21-25-848268Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 10:17:22 | [antonm030481.subversion-workbench](https://marketplace.visualstudio.com/items?itemName=antonm030481.subversion-workbench) | Subversion Workbench | 2.25.0 | Fast, maintained Subversion source control for VS Code |
-| 2026-10-29 10:22:28 | [yuji-luigi.goqulient](https://marketplace.visualstudio.com/items?itemName=yuji-luigi.goqulient) | GoQulient | 0.1.0 | Browse PostgreSQL, MySQL/MariaDB and MongoDB databases and their ER diagrams, l… |
-| 2026-10-29 10:22:51 | [nksharmaexe.waypoint-snapshots](https://marketplace.visualstudio.com/items?itemName=nksharmaexe.waypoint-snapshots) | Waypoint - Git Snapshots | 0.1.3 | Save hidden snapshots between steps, with no commits, and diff any step against… |
-| 2026-10-29 10:25:49 | [tzuhsiungyang.biomolecule-viewer](https://marketplace.visualstudio.com/items?itemName=tzuhsiungyang.biomolecule-viewer) | Biomolecule Viewer | 0.1.0 | Local molecular structure viewing with Mol*. |
-| 2026-10-29 10:30:05 | [ayushniroula.arguseye](https://marketplace.visualstudio.com/items?itemName=ayushniroula.arguseye) | Arguseye | 0.0.1 | See any React, Next.js or Vue component live beside your code, as it looks in y… |
-| 2026-10-29 10:34:13 | [Labeeb.labeeb](https://marketplace.visualstudio.com/items?itemName=Labeeb.labeeb) | Labeeb — لبيب | 0.1.1 | Capture ideas anywhere in Labeeb, find them ready to execute in your IDE & AI t… |
-| 2026-10-29 10:43:18 | [MergeSense-xev.mergesense-xev](https://marketplace.visualstudio.com/items?itemName=MergeSense-xev.mergesense-xev) | MergeSense - xev | 1.0.41 | AI-assisted test design for Jira, PRs, Confluence, and BDD workflows inside VS… |
-| 2026-10-29 10:46:43 | [PriteshDev.mono-accent-theme](https://marketplace.visualstudio.com/items?itemName=PriteshDev.mono-accent-theme) | Mono Accent Dark | 0.0.1 | Pure black theme with one accent color you choose. |
-| 2026-10-29 10:56:14 | [TEJWARDEEPSINGH.nodestruct-v2-raw](https://marketplace.visualstudio.com/items?itemName=TEJWARDEEPSINGH.nodestruct-v2-raw) | NodeStruct V2 Raw | 0.1.0 | Generate Node.js, Express and EJS projects with an interactive wizard. |
+| 2026-10-29 11:18:11 | [codehemu.live-server-guchho](https://marketplace.visualstudio.com/items?itemName=codehemu.live-server-guchho) | Live Server (Guchho) | 0.0.1 | Preview HTML pages locally with Guchho. |
+| 2026-10-29 11:22:01 | [bluecloud-dev.proxy-toggler](https://marketplace.visualstudio.com/items?itemName=bluecloud-dev.proxy-toggler) | Proxy Toggler | 0.2.0 | Switch VS Code's proxy settings between proxy profiles and off, from the status… |
+| 2026-10-29 11:23:33 | [Megharajkjava.pdfextract](https://marketplace.visualstudio.com/items?itemName=Megharajkjava.pdfextract) | pdfextract | 0.0.1 | This will extract the data from the PDF |
+| 2026-10-29 11:25:21 | [malahimaamir.devdiary](https://marketplace.visualstudio.com/items?itemName=malahimaamir.devdiary) | DevDiary – AI Daily Work Report Generat… | 0.2.1 | Automatically tracks what you work on (files, commits, coding time — never your… |
+| 2026-10-29 11:28:11 | [srijithunni7182.vscode-llm4j-loom](https://marketplace.visualstudio.com/items?itemName=srijithunni7182.vscode-llm4j-loom) | Loom for llm4j: AI agent workflows | 1.0.1 | VS Code extension for Loom DSL (.loom and .loot files). Provides syntax highlig… |
+| 2026-10-29 11:38:01 | [redaechan.chat-session-agent-mk5](https://marketplace.visualstudio.com/items?itemName=redaechan.chat-session-agent-mk5) | Chat Session Agent Mk.5 - Claude Code &… | 0.11.29 | Mission control for your AI chats: every Claude Code chat on one always-on-top… |
+| 2026-10-29 11:47:15 | [rexec.rexec-vscode](https://marketplace.visualstudio.com/items?itemName=rexec.rexec-vscode) | Rexec | 0.1.0 | Remote execution engine: agent status monitoring, terminal, and port forwarding… |
+| 2026-10-29 11:49:10 | [Extensionbay.auto-scratch-save](https://marketplace.visualstudio.com/items?itemName=Extensionbay.auto-scratch-save) | Auto Scratch Save | 0.1.0 | Automatically save new untitled editors to a scratch folder when typing begins. |
+| 2026-10-29 11:54:53 | [baruchiro.pr-review-loop](https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop) | PR Review Loop | 0.1.0 | Your PRs in review order and whose turn it is, live from the resolving-pr-revie… |
+| 2026-10-29 11:55:02 | [CppCXY.cppls](https://marketplace.visualstudio.com/items?itemName=CppCXY.cppls) | Cpp Language Server | 0.1.1 | C/C++ language support powered by the cppls language server. |
+| 2026-10-29 11:58:39 | [Synthigy.xsql](https://marketplace.visualstudio.com/items?itemName=Synthigy.xsql) | XSQL | 0.1.0 | Syntax highlighting and language server support (diagnostics, completion, hover… |
+| 2026-10-29 12:13:37 | [CloudZ.zelix-language](https://marketplace.visualstudio.com/items?itemName=CloudZ.zelix-language) | Zelix Language | 0.2.0 | Language support and project workflow for Zelix: completions, diagnostics, form… |
 
 ## Data source
 
