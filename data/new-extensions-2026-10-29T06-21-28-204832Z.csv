@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T05:22:40.5Z,sarahthakur.python-lab-bmc,sarahthakur,Python Lab BMC,1.0.0,Searchable library of Python data-science lab experiments (Titanic dataset) with one-click clipboard copy and dataset export.
+2026-10-29T05:36:48.71Z,kkt9102.project-flow-explorer,kkt9102,Project Flow Explorer,0.0.1,프로젝트 디렉토리와 JS/TS 파일 참조 관계를 탐색하는 인터랙티브 구조도
+2026-10-29T06:11:28.043Z,syscall97.json-tree-editor,syscall97,JSON Tree Editor Plus,0.1.0,"Edit JSON files as a tree: add, duplicate, remove, rename, drag to reorder, fold — with VS Code's own save and undo."
