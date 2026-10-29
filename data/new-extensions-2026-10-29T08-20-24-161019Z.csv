@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T07:25:53.283Z,GiuseppePisano.arg2p,GiuseppePisano,Arg2P,0.21.1,"Structured argumentation in Prolog: write theories (ASPIC+, ABA, abstract frameworks), see their errors as you type, solve queries and browse their argument graphs."
+2026-10-29T07:40:24.333Z,NeoMetric.codex-acp-for-copilot,NeoMetric,Codex ACP for Copilot,0.1.1,"Run OpenAI Codex inside GitHub Copilot Chat by running the Agent Client Protocol adapter locally. Copilot keeps the agent loop, the tools, the approvals and the diffs."
+2026-10-29T07:50:10.517Z,SanyamKumar.anyxml-tools,SanyamKumar,AnyXML Tools,0.0.9,Format and validate XML files in Visual Studio Code.
+2026-10-29T07:53:20.92Z,abb-robotics-ecosystem.easyrecord-tools,abb-robotics-ecosystem,ABB Robotics - EasyRecord Tools,0.2.2,"Hover, completion, diagnostics, path preview, Copilot path tuning, code generation and controller connectivity for EasyRecord, the ABB RobotWare add-in for hand-guided path recording."
+2026-10-29T07:59:24.467Z,itcx3.x3syntax,itcx3,Sage X3 4GL (solo sintaxis),0.1.0,"Resaltado de sintaxis del 4GL de Sage X3 en VS Code (.src, .stc, .srm). Solo la gramática: sin conexión con el servidor, sin paneles y sin ejecutar nada."
+2026-10-29T08:08:24.433Z,saina.saina,saina,Saina,0.1.0,"Saina, the decision layer for software systems: Helm decision models, decision endpoints and the Saina Studio MCP server in your editor"
+2026-10-29T08:09:50.55Z,Jabofish.jabodsh,Jabofish,JaboDSH,0.4.3,"Unofficial community client for DeepSeek Harness sessions, tools, and coding tasks."
+2026-10-29T08:11:26.23Z,dvgamerr.nimbus-markdown,dvgamerr,Nimbus Markdown,0.0.0,Mermaid diagrams drawn by Ondine and extra markdown-it syntax in the built-in Markdown preview.
