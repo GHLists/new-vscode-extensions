@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 17:21 UTC
+## Latest list — 2026-10-29 18:19 UTC
 
-New extensions published between 2026-10-29 15:21 UTC and 2026-10-29 17:21 UTC.
+New extensions published between 2026-10-29 16:19 UTC and 2026-10-29 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T17-21-31-309354Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T18-19-36-676977Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 16:22:02 | [optersoft.sqlxx](https://marketplace.visualstudio.com/items?itemName=optersoft.sqlxx) | SQL X | 0.1.0 | Typed Kotlin, Python and Rust generation and native diagnostics for SQLDelight-… |
-| 2026-10-29 16:36:05 | [ShaniTiwari.Pkg-Installer](https://marketplace.visualstudio.com/items?itemName=ShaniTiwari.Pkg-Installer) | Pkg-Installer | 1.0.0 | Install packages in one click. |
-| 2026-10-29 16:37:08 | [AnthonyHermanto.myl-language](https://marketplace.visualstudio.com/items?itemName=AnthonyHermanto.myl-language) | Myl Language | 0.3.0 | Syntax highlighting, snippets, completion, compiler diagnostics, and native Run… |
-| 2026-10-29 16:46:08 | [codelaw.codelaw-vscode](https://marketplace.visualstudio.com/items?itemName=codelaw.codelaw-vscode) | codelaw - Rules for AI Agents: Lint, Fo… | 0.3.0 | codelaw in the editor: diagnostics, quick fixes, fix-on-save and formatting for… |
-| 2026-10-29 16:46:31 | [yunerou.gitlab-ci-view](https://marketplace.visualstudio.com/items?itemName=yunerou.gitlab-ci-view) | GitLab CI View | 0.0.1 | Watch and control GitLab CI pipelines of every repository in the workspace: pip… |
-| 2026-10-29 16:53:29 | [garneauhub.garneauhub-giftformat](https://marketplace.visualstudio.com/items?itemName=garneauhub.garneauhub-giftformat) | GarneauHub GIFT | 0.1.0 | Format GIFT de GarneauHub : coloration, modèles de questions, erreurs soulignée… |
-| 2026-10-29 17:00:11 | [OleksandrBoiko.dejareview](https://marketplace.visualstudio.com/items?itemName=OleksandrBoiko.dejareview) | DejaReview | 0.1.0 | Review code locally, then copy contextual feedback into any AI tool. |
-| 2026-10-29 17:05:20 | [NotUsingGithub.wan27](https://marketplace.visualstudio.com/items?itemName=NotUsingGithub.wan27) | Wan27 — AI Image & Video Generation + M… | 0.1.0 | Official VS Code & Cursor extension for Wan27 (https://wan2-7.io/): configure M… |
+| 2026-10-29 17:16:00 | [Crem2y.c-array-image-preview](https://marketplace.visualstudio.com/items?itemName=Crem2y.c-array-image-preview) | C Array Image Preview | 1.0.0 | Preview 1bpp and RGB565 image arrays directly in C and C++ source code on hover. |
+| 2026-10-29 17:24:05 | [ExecLabs.the-sorcerer](https://marketplace.visualstudio.com/items?itemName=ExecLabs.the-sorcerer) | The Sorcerer | 1.0.1 | Sorcerer, the vibrant dark theme by Mark Thomas Miller, plus a light version in… |
+| 2026-10-29 17:27:33 | [oewer-solutions.git-push-pull](https://marketplace.visualstudio.com/items?itemName=oewer-solutions.git-push-pull) | Git Push & Pull | 1.0.0 | Reviewed GitHub publishing, branches, pull requests, stashes and contributor hi… |
+| 2026-10-29 17:39:49 | [Lovervoid.codelover-suite](https://marketplace.visualstudio.com/items?itemName=Lovervoid.codelover-suite) | CodeLover | 0.1.1 | Navigator, Repos and Editors as one extension: a column navigator for the explo… |
+| 2026-10-29 17:43:29 | [ysf-bkr.ahi-code](https://marketplace.visualstudio.com/items?itemName=ysf-bkr.ahi-code) | AhiCode — Yazılım Geliştirme | 0.0.1 | Autonomous AI coding agent for VS Code. Ahilik zanaat disiplini ve mühendislik… |
+| 2026-10-29 17:51:56 | [ZKLogic.haris-guard](https://marketplace.visualstudio.com/items?itemName=ZKLogic.haris-guard) | Haris — Arabic/English LLM Guardrail | 0.1.0 | Scan selections and files for prompt injection and Saudi PII (Iqama, National I… |
+| 2026-10-29 17:54:21 | [theaffy.craftlens](https://marketplace.visualstudio.com/items?itemName=theaffy.craftlens) | CraftLens Next | 1.0.0 | A second pair of eyes for AI-generated software. Find problems, understand why… |
+| 2026-10-29 17:59:03 | [Glitch-Sound.glitchflow](https://marketplace.visualstudio.com/items?itemName=Glitch-Sound.glitchflow) | GlitchFlow | 0.0.1 | 処理の流れとデータの期待状態を同じ時間軸で可視化する .glf エディタとプレビュー |
+| 2026-10-29 18:06:32 | [MitchellBroughton.scribe-markdown-editor](https://marketplace.visualstudio.com/items?itemName=MitchellBroughton.scribe-markdown-editor) | SCRIBE - WYSIWYG Markdown Editor | 0.1.4 | Write what you see. Commit what you mean. Synchronized Content Rendering & Inte… |
+| 2026-10-29 18:08:07 | [nihatcanco.pipeline-viewer-for-jenkins](https://marketplace.visualstudio.com/items?itemName=nihatcanco.pipeline-viewer-for-jenkins) | Pipeline Viewer for Jenkins | 0.1.0 | Browse Jenkins jobs, builds, pipeline stages and console logs from the VS Code… |
 
 ## Data source
 

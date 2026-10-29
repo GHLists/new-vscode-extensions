@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T17:16:00.263Z,Crem2y.c-array-image-preview,Crem2y,C Array Image Preview,1.0.0,Preview 1bpp and RGB565 image arrays directly in C and C++ source code on hover.
+2026-10-29T17:24:05.947Z,ExecLabs.the-sorcerer,ExecLabs,The Sorcerer,1.0.1,"Sorcerer, the vibrant dark theme by Mark Thomas Miller, plus a light version in the same colors."
+2026-10-29T17:27:33.31Z,oewer-solutions.git-push-pull,oewer-solutions,Git Push & Pull,1.0.0,"Reviewed GitHub publishing, branches, pull requests, stashes and contributor history in one workspace."
+2026-10-29T17:39:49.387Z,Lovervoid.codelover-suite,Lovervoid,CodeLover,0.1.1,"Navigator, Repos and Editors as one extension: a column navigator for the explorer, git by intent and your editors in a vertical list, built to work together."
+2026-10-29T17:43:29.533Z,ysf-bkr.ahi-code,ysf-bkr,AhiCode — Yazılım Geliştirme,0.0.1,"Autonomous AI coding agent for VS Code. Ahilik zanaat disiplini ve mühendislik titizliğiyle mimari analiz, kod düzenleme ve test desteği."
+2026-10-29T17:51:56.04Z,ZKLogic.haris-guard,ZKLogic,Haris — Arabic/English LLM Guardrail,0.1.0,"Scan selections and files for prompt injection and Saudi PII (Iqama, National ID, IBAN) in Arabic, Arabizi and English. Runs alongside Copilot; it does not intercept Copilot's model calls."
+2026-10-29T17:54:21.123Z,theaffy.craftlens,theaffy,CraftLens Next,1.0.0,"A second pair of eyes for AI-generated software. Find problems, understand why they matter, and improve them."
+2026-10-29T17:59:03.04Z,Glitch-Sound.glitchflow,Glitch-Sound,GlitchFlow,0.0.1,処理の流れとデータの期待状態を同じ時間軸で可視化する .glf エディタとプレビュー
+2026-10-29T18:06:32.803Z,MitchellBroughton.scribe-markdown-editor,MitchellBroughton,SCRIBE - WYSIWYG Markdown Editor,0.1.4,Write what you see. Commit what you mean. Synchronized Content Rendering & Interactive Block Editing.
+2026-10-29T18:08:07.41Z,nihatcanco.pipeline-viewer-for-jenkins,nihatcanco,Pipeline Viewer for Jenkins,0.1.0,"Browse Jenkins jobs, builds, pipeline stages and console logs from the VS Code sidebar."
