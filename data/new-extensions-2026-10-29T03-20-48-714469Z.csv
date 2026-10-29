@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T02:31:24.92Z,yukhin.vscode-notebook-mcp,yukhin,Notebook MCP for Claude Code & Codex,0.6.2,"Let Claude Code, Codex and other non-Copilot AI agents work on Jupyter notebooks the way GitHub Copilot can: edit cells in the open editor and run them in the live kernel — no .ipynb rewrites, no save conflicts, no lost kernel state."
+2026-10-29T02:40:24.793Z,queryoptima.queryoptima-sql-analyzer,queryoptima,QueryOptima SQL Analyzer,0.3.1,"Analiza consultas SQL de PostgreSQL con QueryOptima: detecta antipatrones de rendimiento, explica sus riesgos y propone una reescritura sugerida, también desde GitHub Copilot en modo Agent."
+2026-10-29T02:54:49.457Z,philliez.remote-terminal-link-opener,philliez,Remote Terminal Link Opener,1.0.0,"Click and open terminal file links directly in VS Code tabs without Windows 0x2 errors, supporting SSH, WSL, stack traces, and line jumps."
+2026-10-29T03:07:23.167Z,NecatiARSLAN.flink-vscode-extension,NecatiARSLAN,Flink VS Code Extension,1.0.0,Manage Apache Flink clusters from VS Code

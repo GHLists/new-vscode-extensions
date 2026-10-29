@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 02:20 UTC
+## Latest list — 2026-10-29 03:20 UTC
 
-New extensions published between 2026-10-29 00:20 UTC and 2026-10-29 02:20 UTC.
+New extensions published between 2026-10-29 01:20 UTC and 2026-10-29 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T02-20-30-51995Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T03-20-48-714469Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 01:25:36 | [jiucheng-zang.qe-language](https://marketplace.visualstudio.com/items?itemName=jiucheng-zang.qe-language) | qe — quant-engine config language | 0.3.0 | Syntax highlighting, snippets, and hover documentation for .qe (quant-engine) b… |
-| 2026-10-29 01:33:16 | [Rainilyl.rebook-rainilyl](https://marketplace.visualstudio.com/items?itemName=Rainilyl.rebook-rainilyl) | rebook-rainilyl | 0.9.4 | 状态栏小说阅读 / Status bar novel reader for VS Code & Cursor |
-| 2026-10-29 01:38:35 | [rick-lzr.dbnook](https://marketplace.visualstudio.com/items?itemName=rick-lzr.dbnook) | DBNook | 0.28.0 | Connect, query and edit SQLite, PostgreSQL, MySQL and MariaDB inside VS Code. |
-| 2026-10-29 01:56:35 | [RadwanAlmsora.code-guardian-pro](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.code-guardian-pro) | Code Guardian Pro | 1.0.0 | Catch Problems Before They Ship. Professional, privacy-focused code quality and… |
-| 2026-10-29 02:10:56 | [purple-hawk.checklist-markdown](https://marketplace.visualstudio.com/items?itemName=purple-hawk.checklist-markdown) | Checklist Markdown | 0.0.1 | switch display from md to checkbox and edit status of todo list. |
+| 2026-10-29 02:31:24 | [yukhin.vscode-notebook-mcp](https://marketplace.visualstudio.com/items?itemName=yukhin.vscode-notebook-mcp) | Notebook MCP for Claude Code & Codex | 0.6.2 | Let Claude Code, Codex and other non-Copilot AI agents work on Jupyter notebook… |
+| 2026-10-29 02:40:24 | [queryoptima.queryoptima-sql-analyzer](https://marketplace.visualstudio.com/items?itemName=queryoptima.queryoptima-sql-analyzer) | QueryOptima SQL Analyzer | 0.3.1 | Analiza consultas SQL de PostgreSQL con QueryOptima: detecta antipatrones de re… |
+| 2026-10-29 02:54:49 | [philliez.remote-terminal-link-opener](https://marketplace.visualstudio.com/items?itemName=philliez.remote-terminal-link-opener) | Remote Terminal Link Opener | 1.0.0 | Click and open terminal file links directly in VS Code tabs without Windows 0x2… |
+| 2026-10-29 03:07:23 | [NecatiARSLAN.flink-vscode-extension](https://marketplace.visualstudio.com/items?itemName=NecatiARSLAN.flink-vscode-extension) | Flink VS Code Extension | 1.0.0 | Manage Apache Flink clusters from VS Code |
 
 ## Data source
 
