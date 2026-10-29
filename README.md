@@ -12,18 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 04:19 UTC
+## Latest list — 2026-10-29 05:20 UTC
 
-New extensions published between 2026-10-29 02:19 UTC and 2026-10-29 04:19 UTC.
+New extensions published between 2026-10-29 03:20 UTC and 2026-10-29 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T04-19-54-343495Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T05-20-54-054343Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 03:19:37 | [zhongwu.mk-editor-ext](https://marketplace.visualstudio.com/items?itemName=zhongwu.mk-editor-ext) | Markdown Minimal Diff Editor | 0.1.2 | Live-preview Markdown editor that never rewrites parts of the file you didn't t… |
-| 2026-10-29 03:40:52 | [DarrenJMcLeod.ioco-vscode](https://marketplace.visualstudio.com/items?itemName=DarrenJMcLeod.ioco-vscode) | IOCO View | 0.1.0 | An Interface Oriented Code Organization (IOCO) view of .NET solutions: the URLs… |
-| 2026-10-29 03:52:23 | [wolfpackfront.klarwolf](https://marketplace.visualstudio.com/items?itemName=wolfpackfront.klarwolf) | Klarwolf | 0.1.0 | Your Klarwolf memory and projects in VS Code and Cursor, and in Copilot's agent… |
-| 2026-10-29 03:56:31 | [distronode.worldinmotion](https://marketplace.visualstudio.com/items?itemName=distronode.worldinmotion) | worldinmotion | 0.1.2 | See and act on your worldinmotion mesh from VS Code: devices, sessions, rooms,… |
+| 2026-10-29 04:27:54 | [harish-hyperDev.enaml-intellisense](https://marketplace.visualstudio.com/items?itemName=harish-hyperDev.enaml-intellisense) | Enaml IntelliSense | 0.2.2 | Enaml and Enaml-Web language support with navigation, completion and diagnostic… |
 
 ## Data source
 
