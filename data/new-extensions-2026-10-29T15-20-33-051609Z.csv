@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T14:27:03.01Z,willem-v.draw-tikz,willem-v,draw.tikz,0.2.0,Visual editor for CircuiTikZ/TikZ drawings: edit *.drawtikz.json files and export them to TikZ or SVG
+2026-10-29T14:32:24.45Z,hynexia.command-center-for-claude-code,hynexia,Command Center for Claude Code,0.8.2,"Watch, control and feed context to Claude Code: live commands and logs, diffs of every edit, stop background processes, and @-mention files, selections and terminal output. Unofficial; not affiliated with Anthropic."
+2026-10-29T14:52:27.86Z,ExplorationToolkit.kiro-acp,ExplorationToolkit,Kiro CLI Models for Copilot Chat,0.6.1,Use Kiro CLI's models in GitHub Copilot Chat through the Agent Client Protocol.
+2026-10-29T14:57:41.943Z,w1ne.labwired-vscode,w1ne,LabWired,0.15.0,"Debug firmware on a virtual chip (breakpoints, registers, reverse step) and connect shared LabWired agent tools (MCP) for compile / run / verify."
+2026-10-29T15:03:43.967Z,fragregg.ui5-assistant-code,fragregg,UI5 Assistant Code,0.0.45,List SAPUI5 models and properties declared in your code and Helps you develop for SAPUI5.
