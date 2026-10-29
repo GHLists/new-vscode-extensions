@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T12:41:06.597Z,Lopleec.minecraft-workbench,Lopleec,Minecraft Workbench,0.4.0,"Minecraft launcher, mod development and server management with Java, Modrinth and AI MCP tools."
+2026-10-29T12:44:15.85Z,JerryHu.seekdock,JerryHu,SeekDock: DeepSeek Harness AI Coding Assistant for VS Code,0.1.0,"Custom DeepSeek Harness UI for chat, agent workflows, code editing, and tool calling inside VS Code"
+2026-10-29T12:49:25.48Z,mooonfly.git-compare-for-code,mooonfly,Git Compare for Code,0.0.1,"Compare an entire Git project's working tree with a branch, tag, or commit."
+2026-10-29T12:52:57.327Z,gregmagichu.version-bumper,gregmagichu,Version Bumper,0.2.0,"Asks on every commit whether to bump the build, minor or major version, keeps CHANGELOG.md up to date and tags releases. Works with package.json, composer.json or a generated version.php."
+2026-10-29T13:05:29.48Z,mooonfly.golang-extenal-libraries,mooonfly,Golang External Libraries,0.0.1,Browse Go SDK and module dependency sources in Explorer.
+2026-10-29T13:05:58.077Z,katcuu.ssh-workspace-manager,katcuu,SSH Workspace Manager,0.1.0,在独立管理页整理 SSH 项目文件夹，并浏览远程目录。
+2026-10-29T13:11:19.97Z,thiagopsnfg.diffspark,thiagopsnfg,DiffSpark,0.1.0,Smarter reviews. Better code. Review Bitbucket Cloud pull requests from VS Code.

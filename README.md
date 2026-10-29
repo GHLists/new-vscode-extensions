@@ -12,26 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 12:21 UTC
+## Latest list — 2026-10-29 13:21 UTC
 
-New extensions published between 2026-10-29 10:21 UTC and 2026-10-29 12:21 UTC.
+New extensions published between 2026-10-29 11:21 UTC and 2026-10-29 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T12-21-25-848268Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T13-21-31-580488Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 11:18:11 | [codehemu.live-server-guchho](https://marketplace.visualstudio.com/items?itemName=codehemu.live-server-guchho) | Live Server (Guchho) | 0.0.1 | Preview HTML pages locally with Guchho. |
-| 2026-10-29 11:22:01 | [bluecloud-dev.proxy-toggler](https://marketplace.visualstudio.com/items?itemName=bluecloud-dev.proxy-toggler) | Proxy Toggler | 0.2.0 | Switch VS Code's proxy settings between proxy profiles and off, from the status… |
-| 2026-10-29 11:23:33 | [Megharajkjava.pdfextract](https://marketplace.visualstudio.com/items?itemName=Megharajkjava.pdfextract) | pdfextract | 0.0.1 | This will extract the data from the PDF |
-| 2026-10-29 11:25:21 | [malahimaamir.devdiary](https://marketplace.visualstudio.com/items?itemName=malahimaamir.devdiary) | DevDiary – AI Daily Work Report Generat… | 0.2.1 | Automatically tracks what you work on (files, commits, coding time — never your… |
-| 2026-10-29 11:28:11 | [srijithunni7182.vscode-llm4j-loom](https://marketplace.visualstudio.com/items?itemName=srijithunni7182.vscode-llm4j-loom) | Loom for llm4j: AI agent workflows | 1.0.1 | VS Code extension for Loom DSL (.loom and .loot files). Provides syntax highlig… |
-| 2026-10-29 11:38:01 | [redaechan.chat-session-agent-mk5](https://marketplace.visualstudio.com/items?itemName=redaechan.chat-session-agent-mk5) | Chat Session Agent Mk.5 - Claude Code &… | 0.11.29 | Mission control for your AI chats: every Claude Code chat on one always-on-top… |
-| 2026-10-29 11:47:15 | [rexec.rexec-vscode](https://marketplace.visualstudio.com/items?itemName=rexec.rexec-vscode) | Rexec | 0.1.0 | Remote execution engine: agent status monitoring, terminal, and port forwarding… |
-| 2026-10-29 11:49:10 | [Extensionbay.auto-scratch-save](https://marketplace.visualstudio.com/items?itemName=Extensionbay.auto-scratch-save) | Auto Scratch Save | 0.1.0 | Automatically save new untitled editors to a scratch folder when typing begins. |
-| 2026-10-29 11:54:53 | [baruchiro.pr-review-loop](https://marketplace.visualstudio.com/items?itemName=baruchiro.pr-review-loop) | PR Review Loop | 0.1.0 | Your PRs in review order and whose turn it is, live from the resolving-pr-revie… |
-| 2026-10-29 11:55:02 | [CppCXY.cppls](https://marketplace.visualstudio.com/items?itemName=CppCXY.cppls) | Cpp Language Server | 0.1.1 | C/C++ language support powered by the cppls language server. |
-| 2026-10-29 11:58:39 | [Synthigy.xsql](https://marketplace.visualstudio.com/items?itemName=Synthigy.xsql) | XSQL | 0.1.0 | Syntax highlighting and language server support (diagnostics, completion, hover… |
-| 2026-10-29 12:13:37 | [CloudZ.zelix-language](https://marketplace.visualstudio.com/items?itemName=CloudZ.zelix-language) | Zelix Language | 0.2.0 | Language support and project workflow for Zelix: completions, diagnostics, form… |
+| 2026-10-29 12:41:06 | [Lopleec.minecraft-workbench](https://marketplace.visualstudio.com/items?itemName=Lopleec.minecraft-workbench) | Minecraft Workbench | 0.4.0 | Minecraft launcher, mod development and server management with Java, Modrinth a… |
+| 2026-10-29 12:44:15 | [JerryHu.seekdock](https://marketplace.visualstudio.com/items?itemName=JerryHu.seekdock) | SeekDock: DeepSeek Harness AI Coding As… | 0.1.0 | Custom DeepSeek Harness UI for chat, agent workflows, code editing, and tool ca… |
+| 2026-10-29 12:49:25 | [mooonfly.git-compare-for-code](https://marketplace.visualstudio.com/items?itemName=mooonfly.git-compare-for-code) | Git Compare for Code | 0.0.1 | Compare an entire Git project's working tree with a branch, tag, or commit. |
+| 2026-10-29 12:52:57 | [gregmagichu.version-bumper](https://marketplace.visualstudio.com/items?itemName=gregmagichu.version-bumper) | Version Bumper | 0.2.0 | Asks on every commit whether to bump the build, minor or major version, keeps C… |
+| 2026-10-29 13:05:29 | [mooonfly.golang-extenal-libraries](https://marketplace.visualstudio.com/items?itemName=mooonfly.golang-extenal-libraries) | Golang External Libraries | 0.0.1 | Browse Go SDK and module dependency sources in Explorer. |
+| 2026-10-29 13:05:58 | [katcuu.ssh-workspace-manager](https://marketplace.visualstudio.com/items?itemName=katcuu.ssh-workspace-manager) | SSH Workspace Manager | 0.1.0 | 在独立管理页整理 SSH 项目文件夹，并浏览远程目录。 |
+| 2026-10-29 13:11:19 | [thiagopsnfg.diffspark](https://marketplace.visualstudio.com/items?itemName=thiagopsnfg.diffspark) | DiffSpark | 0.1.0 | Smarter reviews. Better code. Review Bitbucket Cloud pull requests from VS Code. |
 
 ## Data source
 
