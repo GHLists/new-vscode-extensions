@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T16:22:02.563Z,optersoft.sqlxx,optersoft,SQL X,0.1.0,"Typed Kotlin, Python and Rust generation and native diagnostics for SQLDelight-style SQLite .sq files."
+2026-10-29T16:36:05.643Z,ShaniTiwari.Pkg-Installer,ShaniTiwari,Pkg-Installer,1.0.0,Install packages in one click.
+2026-10-29T16:37:08.863Z,AnthonyHermanto.myl-language,AnthonyHermanto,Myl Language,0.3.0,"Syntax highlighting, snippets, completion, compiler diagnostics, and native Run for .myl files."
+2026-10-29T16:46:08.07Z,codelaw.codelaw-vscode,codelaw,"codelaw - Rules for AI Agents: Lint, Format, Spell",0.3.0,"codelaw in the editor: diagnostics, quick fixes, fix-on-save and formatting for JS, TS, Python, JSON, YAML, TOML, Markdown, CSS, SCSS and HTML, from the project's own codelaw."
+2026-10-29T16:46:31.087Z,yunerou.gitlab-ci-view,yunerou,GitLab CI View,0.0.1,"Watch and control GitLab CI pipelines of every repository in the workspace: pipelines, jobs, live logs and DAG."
+2026-10-29T16:53:29.807Z,garneauhub.garneauhub-giftformat,garneauhub,GarneauHub GIFT,0.1.0,"Format GIFT de GarneauHub : coloration, modèles de questions, erreurs soulignées et aperçu de l'examen, comme l'éditeur GIFT du site."
+2026-10-29T17:00:11.597Z,OleksandrBoiko.dejareview,OleksandrBoiko,DejaReview,0.1.0,"Review code locally, then copy contextual feedback into any AI tool."
+2026-10-29T17:05:20.593Z,NotUsingGithub.wan27,NotUsingGithub,Wan27 — AI Image & Video Generation + MCP Helper,0.1.0,"Official VS Code & Cursor extension for Wan27 (https://wan2-7.io/): configure MCP servers, inspect account balance, estimate credit costs, and submit AI image/video generation tasks."

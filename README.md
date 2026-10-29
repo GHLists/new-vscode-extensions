@@ -12,26 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 16:21 UTC
+## Latest list — 2026-10-29 17:21 UTC
 
-New extensions published between 2026-10-29 14:21 UTC and 2026-10-29 16:21 UTC.
+New extensions published between 2026-10-29 15:21 UTC and 2026-10-29 17:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T16-21-13-766447Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T17-21-31-309354Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 15:18:01 | [pawaretdev.agent-shift](https://marketplace.visualstudio.com/items?itemName=pawaretdev.agent-shift) | AgentShift: Claude Code Profiles | 0.1.4 | Switch isolated Claude Code profiles in Cursor and VS Code. |
-| 2026-10-29 15:18:49 | [Vinvi.xingchen-ai-copilot](https://marketplace.visualstudio.com/items?itemName=Vinvi.xingchen-ai-copilot) | 君の星辰 AI · 模型提供程序 | 0.3.20 | 把「君の星辰」中转站（ai.centos.hk，OpenAI 兼容网关）的数百个模型接入 VS Code Copilot Chat，支持 Agent 模式工具… |
-| 2026-10-29 15:20:30 | [enterprise-r.wmd-preview](https://marketplace.visualstudio.com/items?itemName=enterprise-r.wmd-preview) | Workcard Preview | 0.1.1 | Preview .w.md workcards, the Markdown format for reliable AI workflows, as card… |
-| 2026-10-29 15:22:14 | [ToanBui.cognis-mcp](https://marketplace.visualstudio.com/items?itemName=ToanBui.cognis-mcp) | Cognis MCP | 0.1.0 | Real-time algorithmic complexity (Big-O), optimization advisories, CSIA blast-r… |
-| 2026-10-29 15:22:49 | [ull-ssoo.bash-learn](https://marketplace.visualstudio.com/items?itemName=ull-ssoo.bash-learn) | Bash Learn | 0.1.0 | Interactive Bash course: lessons, quizzes, terminal practice and self-checked s… |
-| 2026-10-29 15:40:13 | [WenjieFan.sv-formatter](https://marketplace.visualstudio.com/items?itemName=WenjieFan.sv-formatter) | SVF — SystemVerilog Formatter | 0.6.2 | Structure-driven SystemVerilog formatter: indentation derived from the parse tr… |
-| 2026-10-29 15:45:21 | [raychu23.mole-code-map](https://marketplace.visualstudio.com/items?itemName=raychu23.mole-code-map) | Mole: Code Map | 0.1.0 | A map of the file you are looking at, beside the code: what it defines, who cal… |
-| 2026-10-29 16:04:59 | [tiger-tools.rbx-viewer](https://marketplace.visualstudio.com/items?itemName=tiger-tools.rbx-viewer) | RBX Viewer | 1.2.0 | Read-only XML viewer for .rbxl, .rbxm, .rbxlx and .rbxmx place/model files with… |
-| 2026-10-29 16:05:29 | [RCAutomSolutions.automationview](https://marketplace.visualstudio.com/items?itemName=RCAutomSolutions.automationview) | AutomationView | 0.14.1 | Complete Sequence management, variable management, and industrial programming t… |
-| 2026-10-29 16:06:57 | [dataflip.dataflip](https://marketplace.visualstudio.com/items?itemName=dataflip.dataflip) | DataFlip | 0.1.0 | Browse, query, filter and edit PostgreSQL, MySQL, SQL Server, SQLite and BigQue… |
-| 2026-10-29 16:07:02 | [siliconembedsoft-hq.cmake-project-wizard](https://marketplace.visualstudio.com/items?itemName=siliconembedsoft-hq.cmake-project-wizard) | CMake Project Wizard | 1.0.1 | Scaffold modular C/C++ CMake subprojects with a CLion-style workflow, clangd In… |
-| 2026-10-29 16:11:33 | [waleedcodes.proofcode](https://marketplace.visualstudio.com/items?itemName=waleedcodes.proofcode) | ProofCode - Code Change Verification | 0.1.0 | AI writes code. ProofCode proves the change. Verify impact, detect risks with e… |
+| 2026-10-29 16:22:02 | [optersoft.sqlxx](https://marketplace.visualstudio.com/items?itemName=optersoft.sqlxx) | SQL X | 0.1.0 | Typed Kotlin, Python and Rust generation and native diagnostics for SQLDelight-… |
+| 2026-10-29 16:36:05 | [ShaniTiwari.Pkg-Installer](https://marketplace.visualstudio.com/items?itemName=ShaniTiwari.Pkg-Installer) | Pkg-Installer | 1.0.0 | Install packages in one click. |
+| 2026-10-29 16:37:08 | [AnthonyHermanto.myl-language](https://marketplace.visualstudio.com/items?itemName=AnthonyHermanto.myl-language) | Myl Language | 0.3.0 | Syntax highlighting, snippets, completion, compiler diagnostics, and native Run… |
+| 2026-10-29 16:46:08 | [codelaw.codelaw-vscode](https://marketplace.visualstudio.com/items?itemName=codelaw.codelaw-vscode) | codelaw - Rules for AI Agents: Lint, Fo… | 0.3.0 | codelaw in the editor: diagnostics, quick fixes, fix-on-save and formatting for… |
+| 2026-10-29 16:46:31 | [yunerou.gitlab-ci-view](https://marketplace.visualstudio.com/items?itemName=yunerou.gitlab-ci-view) | GitLab CI View | 0.0.1 | Watch and control GitLab CI pipelines of every repository in the workspace: pip… |
+| 2026-10-29 16:53:29 | [garneauhub.garneauhub-giftformat](https://marketplace.visualstudio.com/items?itemName=garneauhub.garneauhub-giftformat) | GarneauHub GIFT | 0.1.0 | Format GIFT de GarneauHub : coloration, modèles de questions, erreurs soulignée… |
+| 2026-10-29 17:00:11 | [OleksandrBoiko.dejareview](https://marketplace.visualstudio.com/items?itemName=OleksandrBoiko.dejareview) | DejaReview | 0.1.0 | Review code locally, then copy contextual feedback into any AI tool. |
+| 2026-10-29 17:05:20 | [NotUsingGithub.wan27](https://marketplace.visualstudio.com/items?itemName=NotUsingGithub.wan27) | Wan27 — AI Image & Video Generation + M… | 0.1.0 | Official VS Code & Cursor extension for Wan27 (https://wan2-7.io/): configure M… |
 
 ## Data source
 
