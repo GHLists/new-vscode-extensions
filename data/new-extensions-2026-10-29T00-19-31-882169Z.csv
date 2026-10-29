@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-28T23:18:27.017Z,x-ror.ruby-templates,x-ror,"Ruby Templates: ERB, Haml, Slim",0.1.0,"Syntax highlighting, diagnostics, go-to-partial, completion and hover, plus snippets, HTML preview, tag toggling and converters for ERB, Haml and Slim templates."
+2026-10-28T23:24:49.267Z,ylvsmp.ylspec,ylvsmp,YLSpec,0.1.2,"YLSpec language support with C-backed validation, syntax highlighting, completions, and optional formatting"
+2026-10-28T23:28:51.317Z,ambivra.copy-preflight,ambivra,CopyPreflight — PostgreSQL CSV COPY checks (evaluation),0.1.0,Local checks for limited PostgreSQL CSV COPY NULL and integer rules. Free evaluation.
+2026-10-28T23:34:59.497Z,stefankuburovic.ng-checkup-vscode,stefankuburovic,ng-checkup,0.2.0,"ng-checkup findings inline: deprecated APIs, zoneless readiness, signals adoption, type safety and circular dependencies of your Angular codebase in the Problems panel, with the modernization score in the status bar."
+2026-10-28T23:41:38.65Z,Promptguardian.drizzle-migration-guard,Promptguardian,Drizzle Migration Guard,0.1.1,"Catch destructive Drizzle migrations before they run. Lint your schema, preview migration diffs, and get a risk score — local-first, no cloud."
+2026-10-28T23:43:52.54Z,saeris.markdown-tab-icons,saeris,Markdown Tab Icons,0.1.0,"Adds icons to tab labels in VSCode's markdown preview, matched from the label (npm, pnpm, vite.config.ts) or named with a [!keyword] marker"
+2026-10-28T23:49:11.02Z,AlfredoOliviero.ai-swissknife,AlfredoOliviero,AI Swissknife,0.7.2,"Cross-assistant marketplace and management for custom skill/agent/mcp/rule repositories (Claude Code, Kilo Code, and more)."
+2026-10-28T23:55:51.803Z,fromeroc9.testform,fromeroc9,Testform,1.0.0,"Declarative Test-as-Code orchestration for Git: Gherkin IntelliSense, variables autoload, native Test Explorer, state management, and quality gates."
+2026-10-29T00:09:18.987Z,FrenchExDev.powershell-watchdog,FrenchExDev,PowerShell Memory Watchdog,0.1.0,Monitor the current window's PowerShell Editor Services memory on Windows.
+2026-10-29T00:11:03.347Z,fu-iwata.aidlc-toolkit,fu-iwata,AI-DLC Toolkit,0.1.0,AI-DLC の intent 一覧と、AI-DLC の audit から計算した今月と intent ごとの推定コスト（モデル別の内訳と日本円）をまとめて表示する、非公式の拡張機能。
+2026-10-29T00:11:10.853Z,rayz.claude-session-notify-bridge,rayz,Notify for Claude Code — Bridge,0.3.0,"System notifications from Notify for Claude Code when Claude Code runs on a remote machine — over SSH, in WSL or a container — shown on the computer in front of you."
