@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 21:20 UTC
+## Latest list — 2026-10-29 22:21 UTC
 
-New extensions published between 2026-10-29 19:20 UTC and 2026-10-29 21:20 UTC.
+New extensions published between 2026-10-29 20:21 UTC and 2026-10-29 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T21-20-59-170016Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T22-21-10-924513Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 20:41:26 | [esteban-morales.nexo-ai-hub](https://marketplace.visualstudio.com/items?itemName=esteban-morales.nexo-ai-hub) | Nexo Hub — AI Sessions & Usage | 0.3.1 | Organize AI projects, conversations and usage across Cursor, Claude Code, Grok… |
-| 2026-10-29 20:54:11 | [easypdf.easypdf](https://marketplace.visualstudio.com/items?itemName=easypdf.easypdf) | EasyPDF | 0.1.0 | Adds the EasyPDF MCP server to VS Code so Copilot agent mode can edit PDF text… |
-| 2026-10-29 21:03:25 | [coden-app.coden-app](https://marketplace.visualstudio.com/items?itemName=coden-app.coden-app) | coden for VS Code — Claude Code from yo… | 1.1.1 | Runs the coden Server for the open folder, so you can keep working with Claude… |
+| 2026-10-29 21:48:11 | [mkizil.mkizilai](https://marketplace.visualstudio.com/items?itemName=mkizil.mkizilai) | mkizilAI | 4.9.8 | Ücretsiz AI kodlama asistanı: kodu okur, düzenler, komut çalıştırır, projeyi ha… |
+| 2026-10-29 21:49:54 | [Nuanst-GmbH.vscode-litellm](https://marketplace.visualstudio.com/items?itemName=Nuanst-GmbH.vscode-litellm) | LiteLLM Proxy for GitHub Copilot | 0.2.1 | Route GitHub Copilot chat, completions, inline suggestions, and agents through… |
+| 2026-10-29 22:04:23 | [SourabhSomani.kidai-easy-extension](https://marketplace.visualstudio.com/items?itemName=SourabhSomani.kidai-easy-extension) | KidAI Easy - Coding for Kids with Sparky | 1.2.0 | Colours, tidy indentation and snippets for KidAI Easy (.kid) programs. |
+| 2026-10-29 22:05:55 | [se-nora.noras-lsl-fp](https://marketplace.visualstudio.com/items?itemName=se-nora.noras-lsl-fp) | Noras LSL-FP | 1.10.2 | Support for Linden Scripting Language(LSL) with Firestorm Preprocessor and Code… |
+| 2026-10-29 22:12:46 | [DoctorSpider.tyrax](https://marketplace.visualstudio.com/items?itemName=DoctorSpider.tyrax) | TyraX | 0.5.0 | PS2 game development with the TyraX editor: debug your C++ scripts in PCSX2 (br… |
+| 2026-10-29 22:14:28 | [code-scope.code-scope](https://marketplace.visualstudio.com/items?itemName=code-scope.code-scope) | Code Scope | 0.8.0 | Shows your code running, visually, while you debug, to teach programming. Java,… |
 
 ## Data source
 

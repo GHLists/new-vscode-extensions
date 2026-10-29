@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T21:48:11.673Z,mkizil.mkizilai,mkizil,mkizilAI,4.9.8,"Ücretsiz AI kodlama asistanı: kodu okur, düzenler, komut çalıştırır, projeyi haritalar. Türkçe, giriş kodu ile kullanılır."
+2026-10-29T21:49:54.35Z,Nuanst-GmbH.vscode-litellm,Nuanst-GmbH,LiteLLM Proxy for GitHub Copilot,0.2.1,"Route GitHub Copilot chat, completions, inline suggestions, and agents through your LiteLLM proxy."
+2026-10-29T22:04:23.38Z,SourabhSomani.kidai-easy-extension,SourabhSomani,KidAI Easy - Coding for Kids with Sparky,1.2.0,"Colours, tidy indentation and snippets for KidAI Easy (.kid) programs."
+2026-10-29T22:05:55.18Z,se-nora.noras-lsl-fp,se-nora,Noras LSL-FP,1.10.2,Support for Linden Scripting Language(LSL) with Firestorm Preprocessor and Code Snippeis
+2026-10-29T22:12:46.83Z,DoctorSpider.tyrax,DoctorSpider,TyraX,0.5.0,"PS2 game development with the TyraX editor: debug your C++ scripts in PCSX2 (breakpoints, stepping, locals), plus language support for flow nodes (.flownode), screen effects (.screenfx), menu stylesheets (.menustyle) and VU1 microprograms (.vclpp, src/vu/*.cpp)."
+2026-10-29T22:14:28.48Z,code-scope.code-scope,code-scope,Code Scope,0.8.0,"Shows your code running, visually, while you debug, to teach programming. Java, JavaScript, TypeScript, Python and any language with a debugger in VS Code."
