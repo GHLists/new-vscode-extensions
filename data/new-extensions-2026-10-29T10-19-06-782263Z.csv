@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T09:16:36.73Z,NotifyX.godhuli-theme,NotifyX,Godhuli Theme — Warm Eye Comfort,0.2.0,"Warm, eye-comfort dark & light theme for VS Code: low blue light, OLED Night, soft Mist, paper Light. Colorblind-safe, borderless, APCA-tuned."
+2026-10-29T09:23:22.123Z,jamesmithiga.history-for-claude-code,jamesmithiga,History for Claude Code,0.1.0,"Unofficial. Search, reuse and resume every Claude Code conversation on your machine, from any workspace. Local-only."
+2026-10-29T09:23:55.39Z,LinqianShao.json-safe-type,LinqianShao,JSON Safe Type,0.0.3,Generate TS types and scrub sensitive data locally.
+2026-10-29T09:35:56.573Z,FlyingCaiChong.vscode-stock-monitor-extension,FlyingCaiChong,Stock Monitor,1.1.1,在 VS Code 状态栏实时监控 A股 / 港股 / 美股行情，支持自选列表、收藏、持仓收益与涨跌配色
+2026-10-29T09:42:58.593Z,ZetoStudio.cortex-developer-activity,ZetoStudio,Cortex — Developer Activity Agent,0.1.1,Connect your IDE to Cortex so your company can see developer activity and AI coding-tool usage — without uploading source code or secrets.
+2026-10-29T09:45:39.343Z,waldek.vscode-controller,waldek,VS Code Controller,0.1.0,"Drive VS Code and GitHub Copilot Chat from scripts, tests and agents over a local JSON-RPC socket"
+2026-10-29T09:52:00.983Z,CameronPainting.scad-workbench,CameronPainting,OpenSCAD Workbench,0.1.0,"Preview OpenSCAD models inside VS Code: color, customizer sliders, cross-sections and 2D slice measurement."
+2026-10-29T10:00:04.513Z,VTzy137.xlsx-csv-pdf-docx-pptx,VTzy137,"DOCX, XLSX, CSV, PPTX and PDF files",0.1.1,"View and edit DOCX, XLSX, CSV, PPTX and PDF files inside VS Code."
+2026-10-29T10:01:14.343Z,ZhangPeng.coding-workflow-ai-flow,ZhangPeng,AI 流程,0.2.12,在 IDE 中查看并推进 AI 编码工作流：以本地 .coding-workflow/ 为真源，通过 cw serve 本地 HTTP 桥读写，与 coding-workflow-server 弱同步。
