@@ -12,20 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 22:21 UTC
+## Latest list — 2026-10-29 23:19 UTC
 
-New extensions published between 2026-10-29 20:21 UTC and 2026-10-29 22:21 UTC.
+New extensions published between 2026-10-29 21:19 UTC and 2026-10-29 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T22-21-10-924513Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T23-19-04-480013Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 21:48:11 | [mkizil.mkizilai](https://marketplace.visualstudio.com/items?itemName=mkizil.mkizilai) | mkizilAI | 4.9.8 | Ücretsiz AI kodlama asistanı: kodu okur, düzenler, komut çalıştırır, projeyi ha… |
-| 2026-10-29 21:49:54 | [Nuanst-GmbH.vscode-litellm](https://marketplace.visualstudio.com/items?itemName=Nuanst-GmbH.vscode-litellm) | LiteLLM Proxy for GitHub Copilot | 0.2.1 | Route GitHub Copilot chat, completions, inline suggestions, and agents through… |
-| 2026-10-29 22:04:23 | [SourabhSomani.kidai-easy-extension](https://marketplace.visualstudio.com/items?itemName=SourabhSomani.kidai-easy-extension) | KidAI Easy - Coding for Kids with Sparky | 1.2.0 | Colours, tidy indentation and snippets for KidAI Easy (.kid) programs. |
-| 2026-10-29 22:05:55 | [se-nora.noras-lsl-fp](https://marketplace.visualstudio.com/items?itemName=se-nora.noras-lsl-fp) | Noras LSL-FP | 1.10.2 | Support for Linden Scripting Language(LSL) with Firestorm Preprocessor and Code… |
-| 2026-10-29 22:12:46 | [DoctorSpider.tyrax](https://marketplace.visualstudio.com/items?itemName=DoctorSpider.tyrax) | TyraX | 0.5.0 | PS2 game development with the TyraX editor: debug your C++ scripts in PCSX2 (br… |
-| 2026-10-29 22:14:28 | [code-scope.code-scope](https://marketplace.visualstudio.com/items?itemName=code-scope.code-scope) | Code Scope | 0.8.0 | Shows your code running, visually, while you debug, to teach programming. Java,… |
+| 2026-10-29 22:34:43 | [transglot.transglot](https://marketplace.visualstudio.com/items?itemName=transglot.transglot) | Transglot — AI Translation & Localizati… | 0.1.0 | See translations beside JSON keys, find missing translations, edit values, run… |
+| 2026-10-29 22:43:28 | [thinai-lang.vscode-thinai](https://marketplace.visualstudio.com/items?itemName=thinai-lang.vscode-thinai) | Thinai | 0.1.0 | Thinai language support for VS Code |
 
 ## Data source
 
