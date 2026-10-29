@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T15:18:01.033Z,pawaretdev.agent-shift,pawaretdev,AgentShift: Claude Code Profiles,0.1.4,Switch isolated Claude Code profiles in Cursor and VS Code.
+2026-10-29T15:18:49.44Z,Vinvi.xingchen-ai-copilot,Vinvi,君の星辰 AI · 模型提供程序,0.3.20,把「君の星辰」中转站（ai.centos.hk，OpenAI 兼容网关）的数百个模型接入 VS Code Copilot Chat，支持 Agent 模式工具调用、图片输入与流式输出。
+2026-10-29T15:20:30.157Z,enterprise-r.wmd-preview,enterprise-r,Workcard Preview,0.1.1,"Preview .w.md workcards, the Markdown format for reliable AI workflows, as cards, forms, go/nogo gates and records."
+2026-10-29T15:22:14.663Z,ToanBui.cognis-mcp,ToanBui,Cognis MCP,0.1.0,"Real-time algorithmic complexity (Big-O), optimization advisories, CSIA blast-radius guardrails, and CSAR graph-diffusion context for AI coding agents."
+2026-10-29T15:22:49.273Z,ull-ssoo.bash-learn,ull-ssoo,Bash Learn,0.1.0,"Interactive Bash course: lessons, quizzes, terminal practice and self-checked script exercises."
+2026-10-29T15:40:13.223Z,WenjieFan.sv-formatter,WenjieFan,SVF — SystemVerilog Formatter,0.6.2,"Structure-driven SystemVerilog formatter: indentation derived from the parse tree, column alignment, macro-safe, and idempotent."
+2026-10-29T15:45:21.83Z,raychu23.mole-code-map,raychu23,Mole: Code Map,0.1.0,"A map of the file you are looking at, beside the code: what it defines, who calls it, what it calls, who imports it. Local only, TypeScript."
+2026-10-29T16:04:59.597Z,tiger-tools.rbx-viewer,tiger-tools,RBX Viewer,1.2.0,"Read-only XML viewer for .rbxl, .rbxm, .rbxlx and .rbxmx place/model files with forward-compatible binary inspection."
+2026-10-29T16:05:29.523Z,RCAutomSolutions.automationview,RCAutomSolutions,AutomationView,0.14.1,"Complete Sequence management, variable management, and industrial programming tools for automation engineers"
+2026-10-29T16:06:57.76Z,dataflip.dataflip,dataflip,DataFlip,0.1.0,"Browse, query, filter and edit PostgreSQL, MySQL, SQL Server, SQLite and BigQuery right inside VS Code."
+2026-10-29T16:07:02.323Z,siliconembedsoft-hq.cmake-project-wizard,siliconembedsoft-hq,CMake Project Wizard,1.0.1,"Scaffold modular C/C++ CMake subprojects with a CLion-style workflow, clangd IntelliSense, and LLDB-DAP debugging."
+2026-10-29T16:11:33.663Z,waleedcodes.proofcode,waleedcodes,ProofCode - Code Change Verification,0.1.0,"AI writes code. ProofCode proves the change. Verify impact, detect risks with evidence, and check project rules before shipping."
