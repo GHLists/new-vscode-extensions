@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T18:13:53.697Z,flashduino-edu.flashduino,flashduino-edu,Flashduino — Arduino en el navegador,1.1.1,"Programa tu Arduino desde VS Code en GitHub Codespaces con un solo botón, por USB y sin instalar nada en tu ordenador. Ideal para Chromebooks."
+2026-10-29T18:14:49.347Z,maybesweta.spring-is-here,maybesweta,Spring is here,0.3.6,"Celebrate successful terminal commands with a customizable emoji shower on macOS. Choose your emoji, particle count, size, speed, and more."
+2026-10-29T18:18:53.023Z,twincrewlabs.muse-studio,twincrewlabs,Muse Studio for VS Code,0.5.0,"Community-built, not affiliated with or endorsed by Meta. A side panel for the Muse Code agent: Allow/Reject approvals, @-file mentions, images, editor context, review and undo of every change, model and permission pickers."
+2026-10-29T18:20:25.203Z,quillolang.quillo-lang,quillolang,Quillo,0.10.0,"Quillo language support: highlighting, diagnostics, quick fixes, hover, go to definition, completion, end tags closed as you type, outline (via `quillo lsp`) and debugging (via `quillo dap`)."
+2026-10-29T18:28:27.137Z,ItaloAlmeida.docker-and-podman-studio,ItaloAlmeida,Docker and Podman Studio,1.0.0,"Visual Studio GUI for Docker & Podman: interactive Compose topology graph, Compose stacks, Containers, Pods, Images, Volumes, Networks, Contexts, and Podman Machine."
+2026-10-29T18:34:09.98Z,ayush2861.auto-boilerplate,ayush2861,Auto Boilerplate,1.0.2,Automatically inserts clean starter boilerplate code and positions the cursor when creating or opening empty files.
+2026-10-29T18:43:40.02Z,d-ustindwayne.phl,d-ustindwayne,PHL,0.3.0,"PHL and HPL support: highlighting, errors as you type, outline, hover with value paths, and completion."
+2026-10-29T18:52:08.56Z,SD-SoftDev.codex-contingent,SD-SoftDev,Codex Contingent,0.3.1,"Codex subscription quota and reset times in the status bar, using the local Codex CLI."
+2026-10-29T18:58:30.27Z,Marinos33.code-companions,Marinos33,Code Companions,1.0.0,"A pixel pet in VS Code that reacts to what Claude Code is doing: thinking, editing, reading, running commands, waiting for you."
+2026-10-29T19:07:55.43Z,CanariaWerx.canariawerx-suitescript-snippets,CanariaWerx,CanariaWerx SuiteScript Snippets,1.4.0,"Code snippets for NetSuite SuiteScript 2.1, with legacy SuiteScript 1.0 templates for existing scripts"
+2026-10-29T19:12:34.593Z,ChrisNoodles.clawd-pet,ChrisNoodles,Clawd Pet,0.1.0,"Una mascota virtual inspirada en Clawd, la mascota de Claude Code, que vive en tu VS Code."

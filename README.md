@@ -12,24 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 18:19 UTC
+## Latest list — 2026-10-29 19:21 UTC
 
-New extensions published between 2026-10-29 16:19 UTC and 2026-10-29 18:19 UTC.
+New extensions published between 2026-10-29 17:21 UTC and 2026-10-29 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T18-19-36-676977Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T19-21-26-497513Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 17:16:00 | [Crem2y.c-array-image-preview](https://marketplace.visualstudio.com/items?itemName=Crem2y.c-array-image-preview) | C Array Image Preview | 1.0.0 | Preview 1bpp and RGB565 image arrays directly in C and C++ source code on hover. |
-| 2026-10-29 17:24:05 | [ExecLabs.the-sorcerer](https://marketplace.visualstudio.com/items?itemName=ExecLabs.the-sorcerer) | The Sorcerer | 1.0.1 | Sorcerer, the vibrant dark theme by Mark Thomas Miller, plus a light version in… |
-| 2026-10-29 17:27:33 | [oewer-solutions.git-push-pull](https://marketplace.visualstudio.com/items?itemName=oewer-solutions.git-push-pull) | Git Push & Pull | 1.0.0 | Reviewed GitHub publishing, branches, pull requests, stashes and contributor hi… |
-| 2026-10-29 17:39:49 | [Lovervoid.codelover-suite](https://marketplace.visualstudio.com/items?itemName=Lovervoid.codelover-suite) | CodeLover | 0.1.1 | Navigator, Repos and Editors as one extension: a column navigator for the explo… |
-| 2026-10-29 17:43:29 | [ysf-bkr.ahi-code](https://marketplace.visualstudio.com/items?itemName=ysf-bkr.ahi-code) | AhiCode — Yazılım Geliştirme | 0.0.1 | Autonomous AI coding agent for VS Code. Ahilik zanaat disiplini ve mühendislik… |
-| 2026-10-29 17:51:56 | [ZKLogic.haris-guard](https://marketplace.visualstudio.com/items?itemName=ZKLogic.haris-guard) | Haris — Arabic/English LLM Guardrail | 0.1.0 | Scan selections and files for prompt injection and Saudi PII (Iqama, National I… |
-| 2026-10-29 17:54:21 | [theaffy.craftlens](https://marketplace.visualstudio.com/items?itemName=theaffy.craftlens) | CraftLens Next | 1.0.0 | A second pair of eyes for AI-generated software. Find problems, understand why… |
-| 2026-10-29 17:59:03 | [Glitch-Sound.glitchflow](https://marketplace.visualstudio.com/items?itemName=Glitch-Sound.glitchflow) | GlitchFlow | 0.0.1 | 処理の流れとデータの期待状態を同じ時間軸で可視化する .glf エディタとプレビュー |
-| 2026-10-29 18:06:32 | [MitchellBroughton.scribe-markdown-editor](https://marketplace.visualstudio.com/items?itemName=MitchellBroughton.scribe-markdown-editor) | SCRIBE - WYSIWYG Markdown Editor | 0.1.4 | Write what you see. Commit what you mean. Synchronized Content Rendering & Inte… |
-| 2026-10-29 18:08:07 | [nihatcanco.pipeline-viewer-for-jenkins](https://marketplace.visualstudio.com/items?itemName=nihatcanco.pipeline-viewer-for-jenkins) | Pipeline Viewer for Jenkins | 0.1.0 | Browse Jenkins jobs, builds, pipeline stages and console logs from the VS Code… |
+| 2026-10-29 18:13:53 | [flashduino-edu.flashduino](https://marketplace.visualstudio.com/items?itemName=flashduino-edu.flashduino) | Flashduino — Arduino en el navegador | 1.1.1 | Programa tu Arduino desde VS Code en GitHub Codespaces con un solo botón, por U… |
+| 2026-10-29 18:14:49 | [maybesweta.spring-is-here](https://marketplace.visualstudio.com/items?itemName=maybesweta.spring-is-here) | Spring is here | 0.3.6 | Celebrate successful terminal commands with a customizable emoji shower on macO… |
+| 2026-10-29 18:18:53 | [twincrewlabs.muse-studio](https://marketplace.visualstudio.com/items?itemName=twincrewlabs.muse-studio) | Muse Studio for VS Code | 0.5.0 | Community-built, not affiliated with or endorsed by Meta. A side panel for the… |
+| 2026-10-29 18:20:25 | [quillolang.quillo-lang](https://marketplace.visualstudio.com/items?itemName=quillolang.quillo-lang) | Quillo | 0.10.0 | Quillo language support: highlighting, diagnostics, quick fixes, hover, go to d… |
+| 2026-10-29 18:28:27 | [ItaloAlmeida.docker-and-podman-studio](https://marketplace.visualstudio.com/items?itemName=ItaloAlmeida.docker-and-podman-studio) | Docker and Podman Studio | 1.0.0 | Visual Studio GUI for Docker & Podman: interactive Compose topology graph, Comp… |
+| 2026-10-29 18:34:09 | [ayush2861.auto-boilerplate](https://marketplace.visualstudio.com/items?itemName=ayush2861.auto-boilerplate) | Auto Boilerplate | 1.0.2 | Automatically inserts clean starter boilerplate code and positions the cursor w… |
+| 2026-10-29 18:43:40 | [d-ustindwayne.phl](https://marketplace.visualstudio.com/items?itemName=d-ustindwayne.phl) | PHL | 0.3.0 | PHL and HPL support: highlighting, errors as you type, outline, hover with valu… |
+| 2026-10-29 18:52:08 | [SD-SoftDev.codex-contingent](https://marketplace.visualstudio.com/items?itemName=SD-SoftDev.codex-contingent) | Codex Contingent | 0.3.1 | Codex subscription quota and reset times in the status bar, using the local Cod… |
+| 2026-10-29 18:58:30 | [Marinos33.code-companions](https://marketplace.visualstudio.com/items?itemName=Marinos33.code-companions) | Code Companions | 1.0.0 | A pixel pet in VS Code that reacts to what Claude Code is doing: thinking, edit… |
+| 2026-10-29 19:07:55 | [CanariaWerx.canariawerx-suitescript-snippets](https://marketplace.visualstudio.com/items?itemName=CanariaWerx.canariawerx-suitescript-snippets) | CanariaWerx SuiteScript Snippets | 1.4.0 | Code snippets for NetSuite SuiteScript 2.1, with legacy SuiteScript 1.0 templat… |
+| 2026-10-29 19:12:34 | [ChrisNoodles.clawd-pet](https://marketplace.visualstudio.com/items?itemName=ChrisNoodles.clawd-pet) | Clawd Pet | 0.1.0 | Una mascota virtual inspirada en Clawd, la mascota de Claude Code, que vive en… |
 
 ## Data source
 
