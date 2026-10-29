@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T08:28:58.313Z,xy-esp32-tools.esp32s3-simple-tools,xy-esp32-tools,ESP32-S3 简化开发工具,0.2.0,为现有 ESP-IDF 项目添加 ESP32-S3 RGB 灯和 ST7789 屏幕简化库，提供函数片段与接线说明。
+2026-10-29T08:35:19.737Z,rscythe.rscythe,rscythe,Rscythe,0.0.2,Find and delete unused JS/TS files and packages
+2026-10-29T08:47:49.037Z,HurriDuck.squishy,HurriDuck,"Squishy - Code Minify, Format, Validate",0.0.1,Squish code down to one line in a keystroke — minify the whole file or just the selection. Plus quick format and validate.
+2026-10-29T09:10:59.257Z,Shafiq-Nasiree.folder-lock,Shafiq-Nasiree,Folder Lock — Read-Only Toggle,1.2.0,"Make every file in your folder view-only with one click, and unlock it again just as fast. Stops accidental edits while you read code."
+2026-10-29T09:13:43.297Z,xiake-1.unity-shader-tools,xiake-1,Unity Shader Tools,0.0.1,Unity .shader/.hlsl language support (tree-sitter + LSP)
