@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 03:20 UTC
+## Latest list — 2026-10-29 04:19 UTC
 
-New extensions published between 2026-10-29 01:20 UTC and 2026-10-29 03:20 UTC.
+New extensions published between 2026-10-29 02:19 UTC and 2026-10-29 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T03-20-48-714469Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T04-19-54-343495Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 02:31:24 | [yukhin.vscode-notebook-mcp](https://marketplace.visualstudio.com/items?itemName=yukhin.vscode-notebook-mcp) | Notebook MCP for Claude Code & Codex | 0.6.2 | Let Claude Code, Codex and other non-Copilot AI agents work on Jupyter notebook… |
-| 2026-10-29 02:40:24 | [queryoptima.queryoptima-sql-analyzer](https://marketplace.visualstudio.com/items?itemName=queryoptima.queryoptima-sql-analyzer) | QueryOptima SQL Analyzer | 0.3.1 | Analiza consultas SQL de PostgreSQL con QueryOptima: detecta antipatrones de re… |
-| 2026-10-29 02:54:49 | [philliez.remote-terminal-link-opener](https://marketplace.visualstudio.com/items?itemName=philliez.remote-terminal-link-opener) | Remote Terminal Link Opener | 1.0.0 | Click and open terminal file links directly in VS Code tabs without Windows 0x2… |
-| 2026-10-29 03:07:23 | [NecatiARSLAN.flink-vscode-extension](https://marketplace.visualstudio.com/items?itemName=NecatiARSLAN.flink-vscode-extension) | Flink VS Code Extension | 1.0.0 | Manage Apache Flink clusters from VS Code |
+| 2026-10-29 03:19:37 | [zhongwu.mk-editor-ext](https://marketplace.visualstudio.com/items?itemName=zhongwu.mk-editor-ext) | Markdown Minimal Diff Editor | 0.1.2 | Live-preview Markdown editor that never rewrites parts of the file you didn't t… |
+| 2026-10-29 03:40:52 | [DarrenJMcLeod.ioco-vscode](https://marketplace.visualstudio.com/items?itemName=DarrenJMcLeod.ioco-vscode) | IOCO View | 0.1.0 | An Interface Oriented Code Organization (IOCO) view of .NET solutions: the URLs… |
+| 2026-10-29 03:52:23 | [wolfpackfront.klarwolf](https://marketplace.visualstudio.com/items?itemName=wolfpackfront.klarwolf) | Klarwolf | 0.1.0 | Your Klarwolf memory and projects in VS Code and Cursor, and in Copilot's agent… |
+| 2026-10-29 03:56:31 | [distronode.worldinmotion](https://marketplace.visualstudio.com/items?itemName=distronode.worldinmotion) | worldinmotion | 0.1.2 | See and act on your worldinmotion mesh from VS Code: devices, sessions, rooms,… |
 
 ## Data source
 

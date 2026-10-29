@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T03:19:37.837Z,zhongwu.mk-editor-ext,zhongwu,Markdown Minimal Diff Editor,0.1.2,Live-preview Markdown editor that never rewrites parts of the file you didn't touch.
+2026-10-29T03:40:52.15Z,DarrenJMcLeod.ioco-vscode,DarrenJMcLeod,IOCO View,0.1.0,"An Interface Oriented Code Organization (IOCO) view of .NET solutions: the URLs of ASP.NET Core apps, the menus of WinForms and WPF apps and the commands of console apps, the files that serve each one, and how scattered each feature is."
+2026-10-29T03:52:23.21Z,wolfpackfront.klarwolf,wolfpackfront,Klarwolf,0.1.0,"Your Klarwolf memory and projects in VS Code and Cursor, and in Copilot's agent mode. One key, no AI cost."
+2026-10-29T03:56:31.213Z,distronode.worldinmotion,distronode,worldinmotion,0.1.2,"See and act on your worldinmotion mesh from VS Code: devices, sessions, rooms, leases, held messages and live activity"
