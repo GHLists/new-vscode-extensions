@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 20:21 UTC
+## Latest list — 2026-10-29 21:20 UTC
 
-New extensions published between 2026-10-29 18:21 UTC and 2026-10-29 20:21 UTC.
+New extensions published between 2026-10-29 19:20 UTC and 2026-10-29 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T20-21-02-633557Z.csv)
+[Full CSV](data/new-extensions-2026-10-29T21-20-59-170016Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 19:20:16 | [flashduino-edu.flashduino-puente](https://marketplace.visualstudio.com/items?itemName=flashduino-edu.flashduino-puente) | Puente USB (componente interno) | 1.3.2 | Pieza interna que conecta la placa por USB desde el navegador. No hace falta in… |
-| 2026-10-29 19:20:20 | [WilliamFarokhzad.whoopi-ui-tools](https://marketplace.visualstudio.com/items?itemName=WilliamFarokhzad.whoopi-ui-tools) | Whoopi UI | 1.0.1 | Official VS Code extension for Whoopi UI: XAML (.axaml) syntax highlighting, sn… |
-| 2026-10-29 19:22:45 | [RogerioCunha.asciidoc-rewrap](https://marketplace.visualstudio.com/items?itemName=RogerioCunha.asciidoc-rewrap) | AsciiDoc Rewrap | 0.1.3 | Hard-wrap AsciiDoc prose while preserving its block syntax. |
-| 2026-10-29 19:40:38 | [enterprise-r.wmd](https://marketplace.visualstudio.com/items?itemName=enterprise-r.wmd) | Workcard | 0.2.0 | View .w.md workcards, the Markdown format for reliable AI workflows, as cards,… |
-| 2026-10-29 19:48:18 | [dgethings.chunt](https://marketplace.visualstudio.com/items?itemName=dgethings.chunt) | chunt | 0.1.0 | Language support for Cisco IOS Jinja2 configuration templates (.ios.j2) via the… |
-| 2026-10-29 19:57:08 | [yurilzh.tongji-copilot](https://marketplace.visualstudio.com/items?itemName=yurilzh.tongji-copilot) | Tongji Models for Copilot Chat | 0.1.0 | 把同济大学人工智能服务平台（agi.tongji.edu.cn）的模型接入 Copilot Chat，新增 Tongji 模型组（BYOK / OpenAI… |
+| 2026-10-29 20:41:26 | [esteban-morales.nexo-ai-hub](https://marketplace.visualstudio.com/items?itemName=esteban-morales.nexo-ai-hub) | Nexo Hub — AI Sessions & Usage | 0.3.1 | Organize AI projects, conversations and usage across Cursor, Claude Code, Grok… |
+| 2026-10-29 20:54:11 | [easypdf.easypdf](https://marketplace.visualstudio.com/items?itemName=easypdf.easypdf) | EasyPDF | 0.1.0 | Adds the EasyPDF MCP server to VS Code so Copilot agent mode can edit PDF text… |
+| 2026-10-29 21:03:25 | [coden-app.coden-app](https://marketplace.visualstudio.com/items?itemName=coden-app.coden-app) | coden for VS Code — Claude Code from yo… | 1.1.1 | Runs the coden Server for the open folder, so you can keep working with Claude… |
 
 ## Data source
 

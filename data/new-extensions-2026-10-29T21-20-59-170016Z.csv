@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-29T20:41:26.377Z,esteban-morales.nexo-ai-hub,esteban-morales,Nexo Hub — AI Sessions & Usage,0.3.1,"Organize AI projects, conversations and usage across Cursor, Claude Code, Grok Bot, Antigravity and more, with shared Engram memory."
+2026-10-29T20:54:11.493Z,easypdf.easypdf,easypdf,EasyPDF,0.1.0,"Adds the EasyPDF MCP server to VS Code so Copilot agent mode can edit PDF text in place, compress, merge, split, convert and translate PDF files."
+2026-10-29T21:03:25.103Z,coden-app.coden-app,coden-app,coden for VS Code — Claude Code from your phone,1.1.1,"Runs the coden Server for the open folder, so you can keep working with Claude Code from your phone."
