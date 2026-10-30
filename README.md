@@ -12,21 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 10:20 UTC
+## Latest list — 2026-10-30 11:20 UTC
 
-New extensions published between 2026-10-30 08:20 UTC and 2026-10-30 10:20 UTC.
+New extensions published between 2026-10-30 09:20 UTC and 2026-10-30 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T10-20-17-698837Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T11-20-20-908638Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 09:30:11 | [longhalo1803.hackerrank-native](https://marketplace.visualstudio.com/items?itemName=longhalo1803.hackerrank-native) | HackerRank Native | 0.1.0 | Solve and submit HackerRank coding challenges directly inside Antigravity IDE a… |
-| 2026-10-30 09:37:19 | [coldfinity.tenebris-vscode](https://marketplace.visualstudio.com/items?itemName=coldfinity.tenebris-vscode) | Tenebris for VS Code | 0.3.5 | Tenebris: complete dark and lavender VS Code colour theme with matching file ic… |
-| 2026-10-30 09:47:38 | [cjmld5.pigent](https://marketplace.visualstudio.com/items?itemName=cjmld5.pigent) | Pigent | 0.21.274 | Run the pi coding agent entirely inside VS Code — no terminal or browser. Every… |
-| 2026-10-30 09:50:09 | [Dzantemir.pic-mdf](https://marketplace.visualstudio.com/items?itemName=Dzantemir.pic-mdf) | PIC-MDF | 0.4.2 | Microcontroller Development Framework — build, flash & configure Microchip PIC… |
-| 2026-10-30 09:56:24 | [RestMan.restman-devkit](https://marketplace.visualstudio.com/items?itemName=RestMan.restman-devkit) | RestMan DevKit - REST Client & Toolbox | 1.0.70 | 免费开源的 Thunder Client 替代品 + DevToys 小工具集。REST API 测试（变量环境、curl 导入、Postman 导入导出、O… |
-| 2026-10-30 10:01:58 | [jirikuncar.sqlty](https://marketplace.visualstudio.com/items?itemName=jirikuncar.sqlty) | sqlty | 0.0.2 | Type-check the SQL in your Python code as you type |
-| 2026-10-30 10:13:00 | [garrisonblair.workspace-changes](https://marketplace.visualstudio.com/items?itemName=garrisonblair.workspace-changes) | Workspace Changes | 0.4.1 | A Source Control panel for multi-repo workspaces: shows only the repos you care… |
+| 2026-10-30 10:16:43 | [GovindPG.claude-usage-limits-tracker](https://marketplace.visualstudio.com/items?itemName=GovindPG.claude-usage-limits-tracker) | Claude Usage & Rate Limit Tracker | 1.0.2 | Production-ready VS Code extension displaying Claude 5-hour and weekly usage li… |
+| 2026-10-30 10:16:50 | [DeveloperSupriya.suprnotify](https://marketplace.visualstudio.com/items?itemName=DeveloperSupriya.suprnotify) | SuprNotify | 1.0.0 | Smart developer notification system for VS Code. Monitors terminals and diagnos… |
+| 2026-10-30 10:28:54 | [AfriNuad.smart-commit-afri](https://marketplace.visualstudio.com/items?itemName=AfriNuad.smart-commit-afri) | Smart Commit by AfriNuad | 0.2.1 | Generate commit messages from staged changes using your existing opencode or Cl… |
+| 2026-10-30 10:28:57 | [metecan.github-issues-sidebar](https://marketplace.visualstudio.com/items?itemName=metecan.github-issues-sidebar) | GitHub Issues Sidebar | 0.1.1 | Browse GitHub issues in the sidebar, read them in full, and hand them to AI age… |
+| 2026-10-30 10:36:39 | [loamstack.xlsx-editor-by-loamstack](https://marketplace.visualstudio.com/items?itemName=loamstack.xlsx-editor-by-loamstack) | XLSX Editor by Loamstack | 0.1.0 | Open and edit Excel XLSX workbooks locally with formulas, formatting and VS Cod… |
+| 2026-10-30 10:40:45 | [septalabs.septalabs-septascript](https://marketplace.visualstudio.com/items?itemName=septalabs.septalabs-septascript) | SeptaScript - Septalabs Game Engine | 1.0.0 | Official language support for SeptaScript (.septa) and SeptaShader (.septashade… |
+| 2026-10-30 10:42:54 | [AnandShah.mermaidforge](https://marketplace.visualstudio.com/items?itemName=AnandShah.mermaidforge) | MermaidForge — AI Mermaid Studio | 0.1.2 | An AI-assisted Mermaid diagramming workspace: live preview, formatter, linter,… |
+| 2026-10-30 10:47:41 | [statesync.statesync-terminal](https://marketplace.visualstudio.com/items?itemName=statesync.statesync-terminal) | StateSync | 0.6.3 | Open a StateSync terminal or chat in VS Code: agent CLIs and chats wired to the… |
+| 2026-10-30 10:55:45 | [ShoaibQureshi.ripplemap](https://marketplace.visualstudio.com/items?itemName=ShoaibQureshi.ripplemap) | RippleMap | 0.1.0 | See what your AI agent changed and how your app's workflow graph changes, in re… |
+| 2026-10-30 10:56:35 | [wuhj2001.deepseek-usage-query](https://marketplace.visualstudio.com/items?itemName=wuhj2001.deepseek-usage-query) | DeepSeek Usage Query | 0.0.1 | Track your DeepSeek API balance and estimated daily usage in VS Code. |
+| 2026-10-30 10:57:35 | [RahulTathod.git-actions-pro](https://marketplace.visualstudio.com/items?itemName=RahulTathod.git-actions-pro) | Git Actions Pro | 0.1.0 | A focused Git actions sidebar for multi-repository VS Code workspaces. |
+| 2026-10-30 11:13:13 | [AICis.netease-music](https://marketplace.visualstudio.com/items?itemName=AICis.netease-music) | 网易云音乐 | 0.3.11 | 网易云音乐 for VS Code：EAPI 直连、PC 风侧边栏、歌单/歌手/搜索/评论、封面下载与原生音频输出。 |
 
 ## Data source
 

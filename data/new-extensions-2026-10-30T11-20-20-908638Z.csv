@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T10:16:43.507Z,GovindPG.claude-usage-limits-tracker,GovindPG,Claude Usage & Rate Limit Tracker,1.0.2,Production-ready VS Code extension displaying Claude 5-hour and weekly usage limits and reset times directly in the status bar.
+2026-10-30T10:16:50.05Z,DeveloperSupriya.suprnotify,DeveloperSupriya,SuprNotify,1.0.0,"Smart developer notification system for VS Code. Monitors terminals and diagnostics, filters temporary noise, suppresses duplicates, and alerts on real errors."
+2026-10-30T10:28:54.263Z,AfriNuad.smart-commit-afri,AfriNuad,Smart Commit by AfriNuad,0.2.1,"Generate commit messages from staged changes using your existing opencode or Claude Code CLI. No API keys, no extra setup."
+2026-10-30T10:28:57.28Z,metecan.github-issues-sidebar,metecan,GitHub Issues Sidebar,0.1.1,"Browse GitHub issues in the sidebar, read them in full, and hand them to AI agents by drag and drop or as Markdown."
+2026-10-30T10:36:39.073Z,loamstack.xlsx-editor-by-loamstack,loamstack,XLSX Editor by Loamstack,0.1.0,"Open and edit Excel XLSX workbooks locally with formulas, formatting and VS Code save."
+2026-10-30T10:40:45.27Z,septalabs.septalabs-septascript,septalabs,SeptaScript - Septalabs Game Engine,1.0.0,"Official language support for SeptaScript (.septa) and SeptaShader (.septashader) — the scripting and shader language of Septalabs Game Engine. Syntax highlighting, IntelliSense snippets, bracket matching, and more."
+2026-10-30T10:42:54.56Z,AnandShah.mermaidforge,AnandShah,MermaidForge — AI Mermaid Studio,0.1.2,"An AI-assisted Mermaid diagramming workspace: live preview, formatter, linter, refactoring, complexity analysis, and multi-provider AI diagram generation, all inside VS Code."
+2026-10-30T10:47:41.63Z,statesync.statesync-terminal,statesync,StateSync,0.6.3,"Open a StateSync terminal or chat in VS Code: agent CLIs and chats wired to the StateSync tools, provisioned by the StateSync desktop app."
+2026-10-30T10:55:45.127Z,ShoaibQureshi.ripplemap,ShoaibQureshi,RippleMap,0.1.0,"See what your AI agent changed and how your app's workflow graph changes, in real time."
+2026-10-30T10:56:35.707Z,wuhj2001.deepseek-usage-query,wuhj2001,DeepSeek Usage Query,0.0.1,Track your DeepSeek API balance and estimated daily usage in VS Code.
+2026-10-30T10:57:35.863Z,RahulTathod.git-actions-pro,RahulTathod,Git Actions Pro,0.1.0,A focused Git actions sidebar for multi-repository VS Code workspaces.
+2026-10-30T11:13:13.75Z,AICis.netease-music,AICis,网易云音乐,0.3.11,网易云音乐 for VS Code：EAPI 直连、PC 风侧边栏、歌单/歌手/搜索/评论、封面下载与原生音频输出。
