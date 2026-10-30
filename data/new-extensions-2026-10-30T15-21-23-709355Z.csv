@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T14:18:00.49Z,code2rocq.crocq,code2rocq,Crocq,0.1.0,"Verifiable C support for VS Code: Rocq/CompCert annotations, models and proofs"
+2026-10-30T14:21:55.587Z,timaub.yaml-lint-for-drupal,timaub,timaub's YAML Lint for Drupal,0.1.0,"Find broken references in your Drupal YAML files: missing PHP classes, undeclared services, unknown routes, permissions, libraries and assets. Offline, read-only, no PHP required."
+2026-10-30T14:25:05.313Z,meta-taro.zumen-vscode,meta-taro,zumen,0.1.0,"Diagrams as code in VS Code — a live .zumen.yaml preview with SVG/PNG export, ```zumen blocks in the Markdown preview, and the zumen MCP tools for agent mode."
+2026-10-30T14:45:50.037Z,adiu.adiu-agents,adiu,Adiu Agents,0.1.8,"Run and supervise LLM agent harnesses (omp, opencode, any CLI agent) against any OpenAI-compatible endpoint, with a live per-folder, per-agent status panel."
+2026-10-30T15:13:06.157Z,Finch13.ponytail-dietrichgebert-sync,Finch13,Ponytail Copilot Sync,0.1.0,Ponytail for VS Code and GitHub Copilot
+2026-10-30T15:14:58.843Z,nitpilot.nitpilot-vscode,nitpilot,Nitpilot,0.1.0,"See your Nitpilot PRs and what they need from you, without leaving VS Code."
