@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T19:30:51.987Z,affromero.octoview,affromero,Octoview,0.1.0,"Preview splats, 3D models, arrays, tables, model metadata, scientific images, notebooks and HTML in VS Code."
+2026-10-30T19:38:47.753Z,milad-seyfi.intentos-vscode,milad-seyfi,IntentOS,0.1.0,Prepare bounded AI execution tasks with IntentOS.
+2026-10-30T19:43:04.28Z,Stack3Security.stack3-vscode,Stack3Security,Stack3 Security,0.1.2,"Scan a repo before you open it: auto-run files, install scripts, malicious packages and leaked secrets."
+2026-10-30T19:45:05.48Z,gold3tech.brightx,gold3tech,Brightx — AI coding assistant,1.0.0,"Chat with Brightx inside VS Code: explain, fix and write code, and apply changes to your files."
+2026-10-30T20:09:17.683Z,studiolabs.simple-code-timer,studiolabs,Minimal Timer — Stopwatch & Countdown,0.0.1,"Minimalist timer for VS Code. Click to start/stop, double-click to reset."

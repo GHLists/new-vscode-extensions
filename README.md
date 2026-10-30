@@ -12,25 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 19:20 UTC
+## Latest list — 2026-10-30 20:20 UTC
 
-New extensions published between 2026-10-30 17:20 UTC and 2026-10-30 19:20 UTC.
+New extensions published between 2026-10-30 18:20 UTC and 2026-10-30 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T19-20-47-180461Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T20-20-39-048943Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 18:22:46 | [ShoaibShakeel.word-selection-highlighter](https://marketplace.visualstudio.com/items?itemName=ShoaibShakeel.word-selection-highlighter) | Word and Selection Highlighter | 0.4.2 | Highlights the word under the cursor and selected text, with matching occurrenc… |
-| 2026-10-30 18:26:20 | [project-sdlc.copilot-sdk-sdlc](https://marketplace.visualstudio.com/items?itemName=project-sdlc.copilot-sdk-sdlc) | Copilot SDLC | 0.7.2 | Extensible agent workbench: modular executors, project-owned tools and agents,… |
-| 2026-10-30 18:44:19 | [Chatixia-AI.headwatch](https://marketplace.visualstudio.com/items?itemName=Chatixia-AI.headwatch) | Headwatch | 0.4.0 | An agent reviews every commit you make, and the review opens right beside your… |
-| 2026-10-30 18:48:36 | [blai30.lotus-theme-vscode](https://marketplace.visualstudio.com/items?itemName=blai30.lotus-theme-vscode) | Lotus Theme for VS Code | 1.2.3 | Dark color theme using colors from Tailwind CSS documentation. |
-| 2026-10-30 18:49:34 | [MythrilTech.claude-code-add-to-chat](https://marketplace.visualstudio.com/items?itemName=MythrilTech.claude-code-add-to-chat) | Claude Code - Add to Chat | 0.1.0 | Right-click files, folders or selected lines to add @-references to Claude Code… |
-| 2026-10-30 18:57:36 | [nexo-lang.nexo](https://marketplace.visualstudio.com/items?itemName=nexo-lang.nexo) | Nexo | 0.4.0 | Nexo language support: highlighting, errors and warnings as you type with their… |
-| 2026-10-30 18:58:07 | [efronlicht.ufls](https://marketplace.visualstudio.com/items?itemName=efronlicht.ufls) | ufls | 0.1.1 | Diagnostics and semantic highlighting for .uf files. |
-| 2026-10-30 19:05:44 | [neosky.printing-press-cream](https://marketplace.visualstudio.com/items?itemName=neosky.printing-press-cream) | Printing Press Cream | 0.1.0 | A flat cream-paper and warm-ink light theme for VS Code. Print-press contrast:… |
-| 2026-10-30 19:09:10 | [Gjaa.sql-go-inserter](https://marketplace.visualstudio.com/items?itemName=Gjaa.sql-go-inserter) | SQL GO Inserter | 0.0.1 | Analiza scripts T-SQL e inserta los separadores GO faltantes únicamente a nivel… |
-| 2026-10-30 19:10:42 | [Bloodycub.claud-autopilot](https://marketplace.visualstudio.com/items?itemName=Bloodycub.claud-autopilot) | Sleeping Clanker | 1.0.1000 | Queue Claude Code tasks and goals per project and run them unattended, waiting… |
-| 2026-10-30 19:13:29 | [EzawaTami.cc-prices](https://marketplace.visualstudio.com/items?itemName=EzawaTami.cc-prices) | cc-prices | 1.4.0 |  |
+| 2026-10-30 19:30:51 | [affromero.octoview](https://marketplace.visualstudio.com/items?itemName=affromero.octoview) | Octoview | 0.1.0 | Preview splats, 3D models, arrays, tables, model metadata, scientific images, n… |
+| 2026-10-30 19:38:47 | [milad-seyfi.intentos-vscode](https://marketplace.visualstudio.com/items?itemName=milad-seyfi.intentos-vscode) | IntentOS | 0.1.0 | Prepare bounded AI execution tasks with IntentOS. |
+| 2026-10-30 19:43:04 | [Stack3Security.stack3-vscode](https://marketplace.visualstudio.com/items?itemName=Stack3Security.stack3-vscode) | Stack3 Security | 0.1.2 | Scan a repo before you open it: auto-run files, install scripts, malicious pack… |
+| 2026-10-30 19:45:05 | [gold3tech.brightx](https://marketplace.visualstudio.com/items?itemName=gold3tech.brightx) | Brightx — AI coding assistant | 1.0.0 | Chat with Brightx inside VS Code: explain, fix and write code, and apply change… |
+| 2026-10-30 20:09:17 | [studiolabs.simple-code-timer](https://marketplace.visualstudio.com/items?itemName=studiolabs.simple-code-timer) | Minimal Timer — Stopwatch & Countdown | 0.0.1 | Minimalist timer for VS Code. Click to start/stop, double-click to reset. |
 
 ## Data source
 
