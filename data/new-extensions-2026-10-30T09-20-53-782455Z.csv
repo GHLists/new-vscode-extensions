@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T08:15:34.41Z,AbhilashJaiswal.cps-agent-forge,AbhilashJaiswal,Agent Forge for Copilot Studio,0.4.1,"Design, lint, evaluate and ship multi-agent orchestrators for Microsoft Copilot Studio: architecture graph, 25 policy rules with quick fixes, blueprint wizard, evaluation studio, safe pac lifecycle, CLI/SARIF and MCP server."
+2026-10-30T08:39:57.003Z,lightweight.ai-account-switcher-lite,lightweight,AI Account Switcher Lite,0.1.1,"Lightweight, local account switching with SecretStorage."
+2026-10-30T08:42:34.067Z,LucaWernicke.wernicke-dark,LucaWernicke,Wernicke Dark,1.0.0,"Terminal-dark theme from lucawernicke.com. Near-black, muted white text, white as the only accent."
+2026-10-30T08:55:46.923Z,LXie.multivalue-basic-analyser,LXie,MultiValue Basic Analyser,1.0.0,"Generate documentation reports for Rocket UniVerse BASIC programs, including the internal call tree with Mermaid or Markmap diagrams, file usage, metrics and warnings."
+2026-10-30T09:02:04.667Z,tarangkalaria55.per-project-extensions,tarangkalaria55,Per-Project Extensions,0.1.2,"Enable only the extensions each project needs, listed in .vscode/required-extensions.json, to save memory and CPU."
+2026-10-30T09:03:23.32Z,ChihayaAnon.go-annotations,ChihayaAnon,Go Annotations,0.1.0,"GoLand-style highlighting for Go: struct tags, documented names, and Kubebuilder / controller-gen markers with hover, completion and checks."

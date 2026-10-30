@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 08:20 UTC
+## Latest list — 2026-10-30 09:20 UTC
 
-New extensions published between 2026-10-30 06:20 UTC and 2026-10-30 08:20 UTC.
+New extensions published between 2026-10-30 07:20 UTC and 2026-10-30 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T08-20-08-178561Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T09-20-53-782455Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 07:18:56 | [Nuanst-GmbH.mcp-server-browser](https://marketplace.visualstudio.com/items?itemName=Nuanst-GmbH.mcp-server-browser) | MCP Server: Browser | 0.4.0 | MCP browser tools for AI agents: a headless Chromium opens pages and performs c… |
-| 2026-10-30 07:23:33 | [wujingtao.wjt-sql-formatter](https://marketplace.visualstudio.com/items?itemName=wujingtao.wjt-sql-formatter) | SQL Formatter (SQL Server、PG) | 0.0.5 | Format SQL |
-| 2026-10-30 07:41:57 | [XuanNghiem.ruby-on-micro](https://marketplace.visualstudio.com/items?itemName=XuanNghiem.ruby-on-micro) | Ruby on Micro | 0.1.0 | Ctrl/Cmd-click configured Ruby references to open their implementation. |
-| 2026-10-30 07:52:43 | [lgzzz.diff-open-writable](https://marketplace.visualstudio.com/items?itemName=lgzzz.diff-open-writable) | Open Writable File from Diff | 0.0.2 | Lets a keybinding open the real workspace file from a diff editor or a read-onl… |
-| 2026-10-30 08:02:01 | [fcbyk.byk](https://marketplace.visualstudio.com/items?itemName=fcbyk.byk) | BYK | 0.6.0 | Run byk aliases from *.byk.json files — right-click to run, with schema validat… |
-| 2026-10-30 08:03:33 | [nurglobal.nur-ai](https://marketplace.visualstudio.com/items?itemName=nurglobal.nur-ai) | Nur AI | 1.6.6 | Nur AI personal coding agents, project rules, reviewed edits and controlled pre… |
-| 2026-10-30 08:10:29 | [PRCooper.orbit-git](https://marketplace.visualstudio.com/items?itemName=PRCooper.orbit-git) | Orbit Git | 0.15.0 | Commit graph, multi-commit comparison, selection history and grouped Git operat… |
+| 2026-10-30 08:15:34 | [AbhilashJaiswal.cps-agent-forge](https://marketplace.visualstudio.com/items?itemName=AbhilashJaiswal.cps-agent-forge) | Agent Forge for Copilot Studio | 0.4.1 | Design, lint, evaluate and ship multi-agent orchestrators for Microsoft Copilot… |
+| 2026-10-30 08:39:57 | [lightweight.ai-account-switcher-lite](https://marketplace.visualstudio.com/items?itemName=lightweight.ai-account-switcher-lite) | AI Account Switcher Lite | 0.1.1 | Lightweight, local account switching with SecretStorage. |
+| 2026-10-30 08:42:34 | [LucaWernicke.wernicke-dark](https://marketplace.visualstudio.com/items?itemName=LucaWernicke.wernicke-dark) | Wernicke Dark | 1.0.0 | Terminal-dark theme from lucawernicke.com. Near-black, muted white text, white… |
+| 2026-10-30 08:55:46 | [LXie.multivalue-basic-analyser](https://marketplace.visualstudio.com/items?itemName=LXie.multivalue-basic-analyser) | MultiValue Basic Analyser | 1.0.0 | Generate documentation reports for Rocket UniVerse BASIC programs, including th… |
+| 2026-10-30 09:02:04 | [tarangkalaria55.per-project-extensions](https://marketplace.visualstudio.com/items?itemName=tarangkalaria55.per-project-extensions) | Per-Project Extensions | 0.1.2 | Enable only the extensions each project needs, listed in .vscode/required-exten… |
+| 2026-10-30 09:03:23 | [ChihayaAnon.go-annotations](https://marketplace.visualstudio.com/items?itemName=ChihayaAnon.go-annotations) | Go Annotations | 0.1.0 | GoLand-style highlighting for Go: struct tags, documented names, and Kubebuilde… |
 
 ## Data source
 
