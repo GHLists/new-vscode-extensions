@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 04:19 UTC
+## Latest list — 2026-10-30 05:20 UTC
 
-New extensions published between 2026-10-30 02:19 UTC and 2026-10-30 04:19 UTC.
+New extensions published between 2026-10-30 03:20 UTC and 2026-10-30 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T04-19-24-580853Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T05-20-36-69382Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 03:23:25 | [a-Pachon.apexlang-preview](https://marketplace.visualstudio.com/items?itemName=a-Pachon.apexlang-preview) | APEXlang Preview | 0.1.0 | Preview Oracle APEX applications from APEXlang .apx project files. |
-| 2026-10-30 03:32:24 | [jaytankdev.boxescape](https://marketplace.visualstudio.com/items?itemName=jaytankdev.boxescape) | BoxEscape: Dev Container and Agent Sand… | 0.1.0 | Finds the settings that hand your host to an AI coding agent running "safely" i… |
-| 2026-10-30 03:35:23 | [HydrogenOxygen.vjudge-helper-by-hydrogenoxygen](https://marketplace.visualstudio.com/items?itemName=HydrogenOxygen.vjudge-helper-by-hydrogenoxygen) | VJudge Helper by HydrogenOxygen | 1.8.3 | 在 VS Code 中一键查看 VJudge 题面、一键提交本地代码并跟踪评测结果，还能打开题目链接、阅读文章、浏览比赛与团队 |
-| 2026-10-30 03:38:44 | [iHomeAiSigner.codesign](https://marketplace.visualstudio.com/items?itemName=iHomeAiSigner.codesign) | 代码签名 | 1.0.12 | AI 代码签名与行级归属追踪。安装后自动配置 git-ai CLI 与 Hooks。 |
-| 2026-10-30 03:51:10 | [BunnyLutts.vsolcli](https://marketplace.visualstudio.com/items?itemName=BunnyLutts.vsolcli) | VS Code olcli Sync | 0.1.0 | Automatically sync and compile Overleaf projects with olcli. |
-| 2026-10-30 03:53:39 | [exeltarkus.wsl-share-mount](https://marketplace.visualstudio.com/items?itemName=exeltarkus.wsl-share-mount) | WSL Share Mount | 0.4.3 | Mount Windows SMB shares into WSL (drvfs) using the current Windows login, with… |
-| 2026-10-30 03:59:18 | [junghoon.hangul-hover](https://marketplace.visualstudio.com/items?itemName=junghoon.hangul-hover) | UI5 Docs KR | 0.1.0 | Unofficial Korean API descriptions for OpenUI5 projects. Not affiliated with SA… |
-| 2026-10-30 04:02:51 | [badasslighting.grandma-devkit](https://marketplace.visualstudio.com/items?itemName=badasslighting.grandma-devkit) | Devkit for Grand MA2+MA3 | 0.4.3 | Write Lua plugins for grandMA3 and grandMA2: API completion, hover and signatur… |
-| 2026-10-30 04:05:02 | [Evanzhao7374.giti](https://marketplace.visualstudio.com/items?itemName=Evanzhao7374.giti) | Giti — Git Graph | 1.0.0 | A clear, readable Git history graph with branches, remotes, tags, stashes and c… |
+| 2026-10-30 04:19:58 | [lightpath-dev.lightpath-vscode](https://marketplace.visualstudio.com/items?itemName=lightpath-dev.lightpath-vscode) | Lightpath | 0.0.1 | Click anything in your running app and watch the code that ran light up in your… |
+| 2026-10-30 04:21:30 | [dagshift.dagshift](https://marketplace.visualstudio.com/items?itemName=dagshift.dagshift) | dagshift: Airflow Upgrade Assistant | 0.1.0 | Detects the Airflow version your project runs, then upgrades DAGs, plugins and… |
+| 2026-10-30 04:24:49 | [DarshanMoradiya.claude-rotate](https://marketplace.visualstudio.com/items?itemName=DarshanMoradiya.claude-rotate) | Claude Rotate | 0.8.2 | Run Claude Code on several of your accounts and switch to the next one when a u… |
+| 2026-10-30 04:31:24 | [salivo.salivo](https://marketplace.visualstudio.com/items?itemName=salivo.salivo) | Salivo | 1.0.23 | Official high-performance language support for Salivo: sub-30ms warm execution… |
+| 2026-10-30 04:32:19 | [Dawson.local-reader](https://marketplace.visualstudio.com/items?itemName=Dawson.local-reader) | Local Reader 本地阅读 | 0.5.1 | 离线 EPUB/TXT 书架、原生终端分栏阅读、阅读记录与时长分析。 |
+| 2026-10-30 04:57:28 | [gitpane.gitpane-explorer](https://marketplace.visualstudio.com/items?itemName=gitpane.gitpane-explorer) | Gitpane Explorer | 0.18.0 | See changes across Gitpane repositories in the Explorer. |
+| 2026-10-30 05:12:21 | [berthdev.berth](https://marketplace.visualstudio.com/items?itemName=berthdev.berth) | Berth | 0.2.2 | Every terminal coding agent in one list: kept running in tmux, resumed after re… |
 
 ## Data source
 

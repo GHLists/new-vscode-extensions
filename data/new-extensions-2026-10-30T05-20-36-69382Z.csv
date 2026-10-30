@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T04:19:58.86Z,lightpath-dev.lightpath-vscode,lightpath-dev,Lightpath,0.0.1,Click anything in your running app and watch the code that ran light up in your editor.
+2026-10-30T04:21:30.473Z,dagshift.dagshift,dagshift,dagshift: Airflow Upgrade Assistant,0.1.0,"Detects the Airflow version your project runs, then upgrades DAGs, plugins and DAG configs to the version you pick (2.7 to 3.3), with a diff before anything is written."
+2026-10-30T04:24:49.79Z,DarshanMoradiya.claude-rotate,DarshanMoradiya,Claude Rotate,0.8.2,Run Claude Code on several of your accounts and switch to the next one when a usage limit is hit.
+2026-10-30T04:31:24.41Z,salivo.salivo,salivo,Salivo,1.0.23,"Official high-performance language support for Salivo: sub-30ms warm execution caching (ExecCache), exclusive stream header syntax (><), postfix try operator (?), RAII Drop cleanup, modern camelCase stdlib, syntax highlighting, formatting, linting, checking, testing, and native execution."
+2026-10-30T04:32:19.363Z,Dawson.local-reader,Dawson,Local Reader 本地阅读,0.5.1,离线 EPUB/TXT 书架、原生终端分栏阅读、阅读记录与时长分析。
+2026-10-30T04:57:28.683Z,gitpane.gitpane-explorer,gitpane,Gitpane Explorer,0.18.0,See changes across Gitpane repositories in the Explorer.
+2026-10-30T05:12:21.637Z,berthdev.berth,berthdev,Berth,0.2.2,"Every terminal coding agent in one list: kept running in tmux, resumed after restarts, state on your terminal tabs."
