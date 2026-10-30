@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T06:19:51.007Z,lupee.shell-studio-plugin,lupee,Shell Studio Plugin,26.10.3,"Run .sh shell scripts in one click from the editor title bar: auto-save, shebang support, a dedicated terminal per script. 在编辑器标题栏一键运行 .sh 脚本：自动保存、识别 shebang、每个脚本一个专用终端"
+2026-10-30T06:22:19.11Z,ink-byte.sgf-preview,ink-byte,SGF Game Preview,0.1.0,"Preview SGF Go game records as a board in VS Code, with a draggable progress bar to step through the moves. Based on the Sabaki open-source libraries"
+2026-10-30T06:25:03.73Z,engmock.engmock,engmock,EngMock,0.3.4,"Take EngMock's AI mock coding interviews in your own editor, with your shortcuts, theme and inline completion. The voice interview stays in your browser."
+2026-10-30T06:38:46.93Z,LingCloud.spring-route-finder,LingCloud,Spring Route Finder,0.1.4,Jump from an API path like api/v1/auth/login straight to the Spring Controller method that implements it.
+2026-10-30T06:52:44.847Z,agentKnocks.agentknocks,agentKnocks,AgentKnocks,0.1.0,Lets the AgentKnocks Mac app bring up the exact integrated terminal a Claude Code or Codex session runs in.
+2026-10-30T06:56:52.087Z,shamsulsaleh.git-cherry-pick-squash,shamsulsaleh,Git Cherry-Pick & Squash,0.1.0,"Cherry-pick or squash selected commits into any branch from the Source Control panel, with conflict continue/skip/abort support."
+2026-10-30T06:58:18.813Z,lightweight.lightweight-graph-mcp,lightweight,Lightweight Graph MCP,1.2.0,"Lightweight Code Graph MCP for VS Code, Antigravity & Codex"
+2026-10-30T07:04:21.313Z,AlgoshredTechnologies.fluidgrids-code-extension,AlgoshredTechnologies,FluidGrids,0.1.1,"Run and manage FluidGrids workflows from VS Code: browse workflows, nodes and runs, start a run, and follow its status."
+2026-10-30T07:08:24.74Z,DeveloperArpan.Errly-notification,DeveloperArpan,Errly,0.0.1,
+2026-10-30T07:09:31.917Z,baozilaji.coco-animation-viewer,baozilaji,CocoStudio 动画预览器,0.1.3,在 VS Code 中可视化预览 CocoStudio 骨骼动画三件套（ExportJson + plist + png）
