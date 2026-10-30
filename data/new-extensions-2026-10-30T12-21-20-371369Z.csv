@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T11:17:23.263Z,doublekien.insipilot,doublekien,InsiPilot,0.7.0,Your Code. Your Models. Your Control. A self-hosted AI coding assistant.
+2026-10-30T11:27:16.61Z,maomao23314.scut-71-vision-studio,maomao23314,SCUT-71 Vision Studio,0.12.0,智能车视觉仿真环境 —— 只写算法，其余交给环境
+2026-10-30T11:27:46.88Z,MimikkAi.mimikkai-searxng-mcp,MimikkAi,Mimikkai SearXNG Search,0.0.5,MCP tool for Copilot Chat: search the web through your SearXNG instance.
+2026-10-30T11:44:26.59Z,shipcheck.shipcheck-verify,shipcheck,ShipCheck Verify,0.2.1,"Local multi-language verification before you commit or ship — JS/TS, Python, Go, PHP/CMS, Java, Rust, Ruby, .NET, shell, and web assets. No cloud, no API keys."
+2026-10-30T11:49:35.387Z,swastik-codes.swastik-codes,swastik-codes,Swastik Codes: API Client & Tests,0.2.1,"Send API requests, run collections as tests, and turn the routes in your code into a collection, inside VS Code. Light and fast: requests run in a small native process."
+2026-10-30T11:49:41.447Z,para-space.para-space-vscode,para-space,ParaSpace,0.1.5,"Parallel git worktrees with shared dependencies, per-worktree ports and window colors"
