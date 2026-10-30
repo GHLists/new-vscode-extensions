@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 16:21 UTC
+## Latest list — 2026-10-30 17:19 UTC
 
-New extensions published between 2026-10-30 14:21 UTC and 2026-10-30 16:21 UTC.
+New extensions published between 2026-10-30 15:19 UTC and 2026-10-30 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T16-21-24-813489Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T17-19-26-546353Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 15:16:51 | [MonitKorn.plan-tracker](https://marketplace.visualstudio.com/items?itemName=MonitKorn.plan-tracker) | Plan Tracker | 0.1.0 | Local-first Markdown history for reviewing changes made by people and coding ag… |
-| 2026-10-30 15:19:05 | [optimAIzr.optimaizr-vscode](https://marketplace.visualstudio.com/items?itemName=optimAIzr.optimaizr-vscode) | optimAIzr: Claude Code savings | 0.1.0 | Spend fewer tokens on the same work. Your Claude Code cache countdown, context… |
-| 2026-10-30 15:39:00 | [Tilism.device-simulator-live-preview](https://marketplace.visualstudio.com/items?itemName=Tilism.device-simulator-live-preview) | Live Preview — Device Simulator (iOS, A… | 1.4.5 | Ultra-realistic multi-device live preview & responsive simulator with authentic… |
-| 2026-10-30 15:51:59 | [ReadyStack.outlook-email-html-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.outlook-email-html-lint) | Outlook Email HTML Lint - Classic vs New | 0.1.6 | Classic Outlook renders with the Word engine, the new Outlook with WebView2. Li… |
-| 2026-10-30 15:52:06 | [arkitekt-dev.arkitekt](https://marketplace.visualstudio.com/items?itemName=arkitekt-dev.arkitekt) | Arkitekt | 1.0.0 | Arkitekt in VS Code: your app's own `arkitekt check` underlined in the BSX of e… |
-| 2026-10-30 15:52:07 | [ReadyStack.payment-page-script-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.payment-page-script-audit) | PCI DSS 6.4.3 Payment Page Script Inven… | 0.1.6 | Lists every script on your checkout page that has no integrity hash, no authori… |
-| 2026-10-30 15:52:30 | [ReadyStack.payroll-rate-expiry-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.payroll-rate-expiry-lint) | Payroll Rate Expiry Lint | 1.0.9 | Finds payroll rate tables that still carry prior-year statutory constants or no… |
-| 2026-10-30 15:53:46 | [app-men.scalpel](https://marketplace.visualstudio.com/items?itemName=app-men.scalpel) | Scalpel – WYSIWYG for Azure DevOps Wiki | 0.6.0 | WYSIWYG editor for Azure DevOps wiki pages that writes back only the Markdown y… |
-| 2026-10-30 16:01:51 | [lolrobbe2.qemu-devtools](https://marketplace.visualstudio.com/items?itemName=lolrobbe2.qemu-devtools) | QEMU DevTools | 1.0.0 | qemu based developer tools, build in rendering to vscode panels. |
-| 2026-10-30 16:04:28 | [nykroze-dev.cleancode-logs](https://marketplace.visualstudio.com/items?itemName=nykroze-dev.cleancode-logs) | cleanCode Logs | 0.1.0 | Comment, uncomment or delete console.log, print and var_dump debug logs in a fi… |
+| 2026-10-30 16:15:14 | [Tinomupezeni.archi](https://marketplace.visualstudio.com/items?itemName=Tinomupezeni.archi) | Archi | 0.1.2 | Source-backed architecture diagrams for VS Code workspaces |
+| 2026-10-30 16:23:47 | [ga0sh3n.vsc-review](https://marketplace.visualstudio.com/items?itemName=ga0sh3n.vsc-review) | Code Review Notes for AI | 0.1.0 | 在代码中记录跨文件 Review 评论，汇总为 AI Prompt，并保存每轮历史。 |
+| 2026-10-30 16:24:47 | [IBM.unified-adapters](https://marketplace.visualstudio.com/items?itemName=IBM.unified-adapters) | Unified Adapters | 11.0.3000 | Create, manage, and develop IBM Verify adapters directly inside VS Code with gu… |
+| 2026-10-30 16:36:51 | [MarufMuchlisin.indonesian-language-pack](https://marketplace.visualstudio.com/items?itemName=MarufMuchlisin.indonesian-language-pack) | Bahasa Indonesia - Indonesian Language… | 1.144.3 | Paket Bahasa Indonesia resmi dan modern untuk Visual Studio Code |
+| 2026-10-30 16:49:05 | [yunerou.aws-view](https://marketplace.visualstudio.com/items?itemName=yunerou.aws-view) | AWS View | 0.0.1 | Start and stop your EC2 dev machines and open them in VS Code Remote over AWS S… |
+| 2026-10-30 16:50:38 | [nareyko.vscode-lexaudit](https://marketplace.visualstudio.com/items?itemName=nareyko.vscode-lexaudit) | lexaudit | 0.3.2 | Locale vocabulary audit: calques, inventeds, foreign slips. Shells out to the l… |
+| 2026-10-30 17:11:04 | [facade.facadecode-window](https://marketplace.visualstudio.com/items?itemName=facade.facadecode-window) | Facade Code Window Component | 0.0.1 | Window identity and session continuity coordinator for Facade Code. |
+| 2026-10-30 17:11:10 | [facade.facadecode](https://marketplace.visualstudio.com/items?itemName=facade.facadecode) | Facade Code | 0.0.1 | Run Claude Code / Codex agents side by side in VS Code. |
 
 ## Data source
 

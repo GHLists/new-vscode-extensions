@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T16:15:14.547Z,Tinomupezeni.archi,Tinomupezeni,Archi,0.1.2,Source-backed architecture diagrams for VS Code workspaces
+2026-10-30T16:23:47.523Z,ga0sh3n.vsc-review,ga0sh3n,Code Review Notes for AI,0.1.0,在代码中记录跨文件 Review 评论，汇总为 AI Prompt，并保存每轮历史。
+2026-10-30T16:24:47.893Z,IBM.unified-adapters,IBM,Unified Adapters,11.0.3000,"Create, manage, and develop IBM Verify adapters directly inside VS Code with guided workflows and testing tools."
+2026-10-30T16:36:51.29Z,MarufMuchlisin.indonesian-language-pack,MarufMuchlisin,Bahasa Indonesia - Indonesian Language Pack,1.144.3,Paket Bahasa Indonesia resmi dan modern untuk Visual Studio Code
+2026-10-30T16:49:05.433Z,yunerou.aws-view,yunerou,AWS View,0.0.1,Start and stop your EC2 dev machines and open them in VS Code Remote over AWS Session Manager.
+2026-10-30T16:50:38.64Z,nareyko.vscode-lexaudit,nareyko,lexaudit,0.3.2,"Locale vocabulary audit: calques, inventeds, foreign slips. Shells out to the local lexaudit CLI — no cloud."
+2026-10-30T17:11:04.977Z,facade.facadecode-window,facade,Facade Code Window Component,0.0.1,Window identity and session continuity coordinator for Facade Code.
+2026-10-30T17:11:10.747Z,facade.facadecode,facade,Facade Code,0.0.1,Run Claude Code / Codex agents side by side in VS Code.
