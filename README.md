@@ -12,16 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-29 23:19 UTC
+## Latest list — 2026-10-30 00:19 UTC
 
-New extensions published between 2026-10-29 21:19 UTC and 2026-10-29 23:19 UTC.
+New extensions published between 2026-10-29 22:19 UTC and 2026-10-30 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-29T23-19-04-480013Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T00-19-13-17946Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 22:34:43 | [transglot.transglot](https://marketplace.visualstudio.com/items?itemName=transglot.transglot) | Transglot — AI Translation & Localizati… | 0.1.0 | See translations beside JSON keys, find missing translations, edit values, run… |
-| 2026-10-29 22:43:28 | [thinai-lang.vscode-thinai](https://marketplace.visualstudio.com/items?itemName=thinai-lang.vscode-thinai) | Thinai | 0.1.0 | Thinai language support for VS Code |
+| 2026-10-29 23:17:51 | [partach.blazed](https://marketplace.visualstudio.com/items?itemName=partach.blazed) | Blazed | 0.1.1 | AI coding agent for VS Code with a live task plan, progress and a time-remainin… |
+| 2026-10-29 23:59:42 | [marleeeeeey.git-tree-log](https://marketplace.visualstudio.com/items?itemName=marleeeeeey.git-tree-log) | Git Tree Log | 0.3.1 | CLion-style git log: commit graph, commit details and changed files in the bott… |
+| 2026-10-30 00:07:19 | [HernanHerrera.icon-colors](https://marketplace.visualstudio.com/items?itemName=HernanHerrera.icon-colors) | Icon Colors | 0.0.4 | Asigna un color a cada ícono de la barra de actividad. |
 
 ## Data source
 
