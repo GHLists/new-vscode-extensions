@@ -12,20 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 15:21 UTC
+## Latest list — 2026-10-30 16:21 UTC
 
-New extensions published between 2026-10-30 13:21 UTC and 2026-10-30 15:21 UTC.
+New extensions published between 2026-10-30 14:21 UTC and 2026-10-30 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T15-21-23-709355Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T16-21-24-813489Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 14:18:00 | [code2rocq.crocq](https://marketplace.visualstudio.com/items?itemName=code2rocq.crocq) | Crocq | 0.1.0 | Verifiable C support for VS Code: Rocq/CompCert annotations, models and proofs |
-| 2026-10-30 14:21:55 | [timaub.yaml-lint-for-drupal](https://marketplace.visualstudio.com/items?itemName=timaub.yaml-lint-for-drupal) | timaub's YAML Lint for Drupal | 0.1.0 | Find broken references in your Drupal YAML files: missing PHP classes, undeclar… |
-| 2026-10-30 14:25:05 | [meta-taro.zumen-vscode](https://marketplace.visualstudio.com/items?itemName=meta-taro.zumen-vscode) | zumen | 0.1.0 | Diagrams as code in VS Code — a live .zumen.yaml preview with SVG/PNG export, `… |
-| 2026-10-30 14:45:50 | [adiu.adiu-agents](https://marketplace.visualstudio.com/items?itemName=adiu.adiu-agents) | Adiu Agents | 0.1.8 | Run and supervise LLM agent harnesses (omp, opencode, any CLI agent) against an… |
-| 2026-10-30 15:13:06 | [Finch13.ponytail-dietrichgebert-sync](https://marketplace.visualstudio.com/items?itemName=Finch13.ponytail-dietrichgebert-sync) | Ponytail Copilot Sync | 0.1.0 | Ponytail for VS Code and GitHub Copilot |
-| 2026-10-30 15:14:58 | [nitpilot.nitpilot-vscode](https://marketplace.visualstudio.com/items?itemName=nitpilot.nitpilot-vscode) | Nitpilot | 0.1.0 | See your Nitpilot PRs and what they need from you, without leaving VS Code. |
+| 2026-10-30 15:16:51 | [MonitKorn.plan-tracker](https://marketplace.visualstudio.com/items?itemName=MonitKorn.plan-tracker) | Plan Tracker | 0.1.0 | Local-first Markdown history for reviewing changes made by people and coding ag… |
+| 2026-10-30 15:19:05 | [optimAIzr.optimaizr-vscode](https://marketplace.visualstudio.com/items?itemName=optimAIzr.optimaizr-vscode) | optimAIzr: Claude Code savings | 0.1.0 | Spend fewer tokens on the same work. Your Claude Code cache countdown, context… |
+| 2026-10-30 15:39:00 | [Tilism.device-simulator-live-preview](https://marketplace.visualstudio.com/items?itemName=Tilism.device-simulator-live-preview) | Live Preview — Device Simulator (iOS, A… | 1.4.5 | Ultra-realistic multi-device live preview & responsive simulator with authentic… |
+| 2026-10-30 15:51:59 | [ReadyStack.outlook-email-html-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.outlook-email-html-lint) | Outlook Email HTML Lint - Classic vs New | 0.1.6 | Classic Outlook renders with the Word engine, the new Outlook with WebView2. Li… |
+| 2026-10-30 15:52:06 | [arkitekt-dev.arkitekt](https://marketplace.visualstudio.com/items?itemName=arkitekt-dev.arkitekt) | Arkitekt | 1.0.0 | Arkitekt in VS Code: your app's own `arkitekt check` underlined in the BSX of e… |
+| 2026-10-30 15:52:07 | [ReadyStack.payment-page-script-audit](https://marketplace.visualstudio.com/items?itemName=ReadyStack.payment-page-script-audit) | PCI DSS 6.4.3 Payment Page Script Inven… | 0.1.6 | Lists every script on your checkout page that has no integrity hash, no authori… |
+| 2026-10-30 15:52:30 | [ReadyStack.payroll-rate-expiry-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.payroll-rate-expiry-lint) | Payroll Rate Expiry Lint | 1.0.9 | Finds payroll rate tables that still carry prior-year statutory constants or no… |
+| 2026-10-30 15:53:46 | [app-men.scalpel](https://marketplace.visualstudio.com/items?itemName=app-men.scalpel) | Scalpel – WYSIWYG for Azure DevOps Wiki | 0.6.0 | WYSIWYG editor for Azure DevOps wiki pages that writes back only the Markdown y… |
+| 2026-10-30 16:01:51 | [lolrobbe2.qemu-devtools](https://marketplace.visualstudio.com/items?itemName=lolrobbe2.qemu-devtools) | QEMU DevTools | 1.0.0 | qemu based developer tools, build in rendering to vscode panels. |
+| 2026-10-30 16:04:28 | [nykroze-dev.cleancode-logs](https://marketplace.visualstudio.com/items?itemName=nykroze-dev.cleancode-logs) | cleanCode Logs | 0.1.0 | Comment, uncomment or delete console.log, print and var_dump debug logs in a fi… |
 
 ## Data source
 
