@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T09:30:11.793Z,longhalo1803.hackerrank-native,longhalo1803,HackerRank Native,0.1.0,Solve and submit HackerRank coding challenges directly inside Antigravity IDE and VS Code forks.
+2026-10-30T09:37:19.263Z,coldfinity.tenebris-vscode,coldfinity,Tenebris for VS Code,0.3.5,"Tenebris: complete dark and lavender VS Code colour theme with matching file icons, adapted from tenebris.nvim."
+2026-10-30T09:47:38.08Z,cjmld5.pigent,cjmld5,Pigent,0.21.274,"Run the pi coding agent entirely inside VS Code — no terminal or browser. Every conversation is a full editor tab, not a sidebar panel, so you can split, compare and keep sessions side by side with your code."
+2026-10-30T09:50:09.7Z,Dzantemir.pic-mdf,Dzantemir,PIC-MDF,0.4.2,"Microcontroller Development Framework — build, flash & configure Microchip PIC projects across FOUR architectures with ONE extension: 8-bit PIC (XC8), 16-bit PIC24/dsPIC33 (XC16), 32-bit PIC32M/PIC32C (XC32) and dsPIC33A/C/E/F + dsPIC30 (XC-DSC). Config bits, EEPROM, disassembly and a serial monitor"
+2026-10-30T09:56:24.93Z,RestMan.restman-devkit,RestMan,RestMan DevKit - REST Client & Toolbox,1.0.70,免费开源的 Thunder Client 替代品 + DevToys 小工具集。REST API 测试（变量环境、curl 导入、Postman 导入导出、OpenAI 工程模板）、格式化/编解码/Hash/JWT/正则/时间戳等 20+ 开发小工具。无需登录。
+2026-10-30T10:01:58.19Z,jirikuncar.sqlty,jirikuncar,sqlty,0.0.2,Type-check the SQL in your Python code as you type
+2026-10-30T10:13:00.613Z,garrisonblair.workspace-changes,garrisonblair,Workspace Changes,0.4.1,"A Source Control panel for multi-repo workspaces: shows only the repos you care about (changes, non-default branch, ahead/behind), each with its own native-looking commit box, file icons and Git menus."

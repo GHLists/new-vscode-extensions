@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 09:20 UTC
+## Latest list — 2026-10-30 10:20 UTC
 
-New extensions published between 2026-10-30 07:20 UTC and 2026-10-30 09:20 UTC.
+New extensions published between 2026-10-30 08:20 UTC and 2026-10-30 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T09-20-53-782455Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T10-20-17-698837Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 08:15:34 | [AbhilashJaiswal.cps-agent-forge](https://marketplace.visualstudio.com/items?itemName=AbhilashJaiswal.cps-agent-forge) | Agent Forge for Copilot Studio | 0.4.1 | Design, lint, evaluate and ship multi-agent orchestrators for Microsoft Copilot… |
-| 2026-10-30 08:39:57 | [lightweight.ai-account-switcher-lite](https://marketplace.visualstudio.com/items?itemName=lightweight.ai-account-switcher-lite) | AI Account Switcher Lite | 0.1.1 | Lightweight, local account switching with SecretStorage. |
-| 2026-10-30 08:42:34 | [LucaWernicke.wernicke-dark](https://marketplace.visualstudio.com/items?itemName=LucaWernicke.wernicke-dark) | Wernicke Dark | 1.0.0 | Terminal-dark theme from lucawernicke.com. Near-black, muted white text, white… |
-| 2026-10-30 08:55:46 | [LXie.multivalue-basic-analyser](https://marketplace.visualstudio.com/items?itemName=LXie.multivalue-basic-analyser) | MultiValue Basic Analyser | 1.0.0 | Generate documentation reports for Rocket UniVerse BASIC programs, including th… |
-| 2026-10-30 09:02:04 | [tarangkalaria55.per-project-extensions](https://marketplace.visualstudio.com/items?itemName=tarangkalaria55.per-project-extensions) | Per-Project Extensions | 0.1.2 | Enable only the extensions each project needs, listed in .vscode/required-exten… |
-| 2026-10-30 09:03:23 | [ChihayaAnon.go-annotations](https://marketplace.visualstudio.com/items?itemName=ChihayaAnon.go-annotations) | Go Annotations | 0.1.0 | GoLand-style highlighting for Go: struct tags, documented names, and Kubebuilde… |
+| 2026-10-30 09:30:11 | [longhalo1803.hackerrank-native](https://marketplace.visualstudio.com/items?itemName=longhalo1803.hackerrank-native) | HackerRank Native | 0.1.0 | Solve and submit HackerRank coding challenges directly inside Antigravity IDE a… |
+| 2026-10-30 09:37:19 | [coldfinity.tenebris-vscode](https://marketplace.visualstudio.com/items?itemName=coldfinity.tenebris-vscode) | Tenebris for VS Code | 0.3.5 | Tenebris: complete dark and lavender VS Code colour theme with matching file ic… |
+| 2026-10-30 09:47:38 | [cjmld5.pigent](https://marketplace.visualstudio.com/items?itemName=cjmld5.pigent) | Pigent | 0.21.274 | Run the pi coding agent entirely inside VS Code — no terminal or browser. Every… |
+| 2026-10-30 09:50:09 | [Dzantemir.pic-mdf](https://marketplace.visualstudio.com/items?itemName=Dzantemir.pic-mdf) | PIC-MDF | 0.4.2 | Microcontroller Development Framework — build, flash & configure Microchip PIC… |
+| 2026-10-30 09:56:24 | [RestMan.restman-devkit](https://marketplace.visualstudio.com/items?itemName=RestMan.restman-devkit) | RestMan DevKit - REST Client & Toolbox | 1.0.70 | 免费开源的 Thunder Client 替代品 + DevToys 小工具集。REST API 测试（变量环境、curl 导入、Postman 导入导出、O… |
+| 2026-10-30 10:01:58 | [jirikuncar.sqlty](https://marketplace.visualstudio.com/items?itemName=jirikuncar.sqlty) | sqlty | 0.0.2 | Type-check the SQL in your Python code as you type |
+| 2026-10-30 10:13:00 | [garrisonblair.workspace-changes](https://marketplace.visualstudio.com/items?itemName=garrisonblair.workspace-changes) | Workspace Changes | 0.4.1 | A Source Control panel for multi-repo workspaces: shows only the repos you care… |
 
 ## Data source
 
