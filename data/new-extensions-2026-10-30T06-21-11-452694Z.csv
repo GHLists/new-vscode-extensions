@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T05:47:06.153Z,StellrLLC.orrin-infinity,StellrLLC,OrrinInfinity,0.0.1,OrrinInfinity in VSCode; bring a infinite canvas to the same environment that you build amazing things from
+2026-10-30T05:56:09.59Z,Aistim-Agent.aistim-agent,Aistim-Agent,Aistim Agent,0.1.1,"Aistim Agent chat for VS Code, powered by a local Ollama model."
+2026-10-30T05:58:07.24Z,skravciv.auto-bookmarks,skravciv,Auto Bookmarks,2.3.0,Automatically find configured text markers and navigate grouped occurrences from the Activity Bar.
+2026-10-30T05:59:07.267Z,akmalyf.git-prism,akmalyf,Git Prism,0.1.0,"IDE-style Git log for VS Code: branches tree, commit graph with stable ordering and lane colors, changed files per commit, and a full set of Git actions (compare, history, blame, rebase, merge, conflicts, stash) in the editor menu."
+2026-10-30T05:59:07.593Z,StayElite.StayElite-Savepoint-Diff,StayElite,SavePoint Diff – Git-Style Diff Without Git,0.1.0,"Shows live, unsaved changes in the editor gutter — like Git diff decorations, but without Git."
+2026-10-30T06:08:54.06Z,eagleoutice.satex,eagleoutice,SaTeX,0.1.0,"LaTeX/TeX static analysis and language server, powered by satex."

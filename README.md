@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 05:20 UTC
+## Latest list — 2026-10-30 06:21 UTC
 
-New extensions published between 2026-10-30 03:20 UTC and 2026-10-30 05:20 UTC.
+New extensions published between 2026-10-30 04:21 UTC and 2026-10-30 06:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T05-20-36-69382Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T06-21-11-452694Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 04:19:58 | [lightpath-dev.lightpath-vscode](https://marketplace.visualstudio.com/items?itemName=lightpath-dev.lightpath-vscode) | Lightpath | 0.0.1 | Click anything in your running app and watch the code that ran light up in your… |
-| 2026-10-30 04:21:30 | [dagshift.dagshift](https://marketplace.visualstudio.com/items?itemName=dagshift.dagshift) | dagshift: Airflow Upgrade Assistant | 0.1.0 | Detects the Airflow version your project runs, then upgrades DAGs, plugins and… |
-| 2026-10-30 04:24:49 | [DarshanMoradiya.claude-rotate](https://marketplace.visualstudio.com/items?itemName=DarshanMoradiya.claude-rotate) | Claude Rotate | 0.8.2 | Run Claude Code on several of your accounts and switch to the next one when a u… |
-| 2026-10-30 04:31:24 | [salivo.salivo](https://marketplace.visualstudio.com/items?itemName=salivo.salivo) | Salivo | 1.0.23 | Official high-performance language support for Salivo: sub-30ms warm execution… |
-| 2026-10-30 04:32:19 | [Dawson.local-reader](https://marketplace.visualstudio.com/items?itemName=Dawson.local-reader) | Local Reader 本地阅读 | 0.5.1 | 离线 EPUB/TXT 书架、原生终端分栏阅读、阅读记录与时长分析。 |
-| 2026-10-30 04:57:28 | [gitpane.gitpane-explorer](https://marketplace.visualstudio.com/items?itemName=gitpane.gitpane-explorer) | Gitpane Explorer | 0.18.0 | See changes across Gitpane repositories in the Explorer. |
-| 2026-10-30 05:12:21 | [berthdev.berth](https://marketplace.visualstudio.com/items?itemName=berthdev.berth) | Berth | 0.2.2 | Every terminal coding agent in one list: kept running in tmux, resumed after re… |
+| 2026-10-30 05:47:06 | [StellrLLC.orrin-infinity](https://marketplace.visualstudio.com/items?itemName=StellrLLC.orrin-infinity) | OrrinInfinity | 0.0.1 | OrrinInfinity in VSCode; bring a infinite canvas to the same environment that y… |
+| 2026-10-30 05:56:09 | [Aistim-Agent.aistim-agent](https://marketplace.visualstudio.com/items?itemName=Aistim-Agent.aistim-agent) | Aistim Agent | 0.1.1 | Aistim Agent chat for VS Code, powered by a local Ollama model. |
+| 2026-10-30 05:58:07 | [skravciv.auto-bookmarks](https://marketplace.visualstudio.com/items?itemName=skravciv.auto-bookmarks) | Auto Bookmarks | 2.3.0 | Automatically find configured text markers and navigate grouped occurrences fro… |
+| 2026-10-30 05:59:07 | [akmalyf.git-prism](https://marketplace.visualstudio.com/items?itemName=akmalyf.git-prism) | Git Prism | 0.1.0 | IDE-style Git log for VS Code: branches tree, commit graph with stable ordering… |
+| 2026-10-30 05:59:07 | [StayElite.StayElite-Savepoint-Diff](https://marketplace.visualstudio.com/items?itemName=StayElite.StayElite-Savepoint-Diff) | SavePoint Diff – Git-Style Diff Without… | 0.1.0 | Shows live, unsaved changes in the editor gutter — like Git diff decorations, b… |
+| 2026-10-30 06:08:54 | [eagleoutice.satex](https://marketplace.visualstudio.com/items?itemName=eagleoutice.satex) | SaTeX | 0.1.0 | LaTeX/TeX static analysis and language server, powered by satex. |
 
 ## Data source
 
