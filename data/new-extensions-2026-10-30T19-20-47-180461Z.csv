@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T18:22:46.46Z,ShoaibShakeel.word-selection-highlighter,ShoaibShakeel,Word and Selection Highlighter,0.4.2,"Highlights the word under the cursor and selected text, with matching occurrences shown in the editor and overview ruler."
+2026-10-30T18:26:20.977Z,project-sdlc.copilot-sdk-sdlc,project-sdlc,Copilot SDLC,0.7.2,"Extensible agent workbench: modular executors, project-owned tools and agents, tasks and live sessions."
+2026-10-30T18:44:19.36Z,Chatixia-AI.headwatch,Chatixia-AI,Headwatch,0.4.0,"An agent reviews every commit you make, and the review opens right beside your code."
+2026-10-30T18:48:36.633Z,blai30.lotus-theme-vscode,blai30,Lotus Theme for VS Code,1.2.3,Dark color theme using colors from Tailwind CSS documentation.
+2026-10-30T18:49:34.647Z,MythrilTech.claude-code-add-to-chat,MythrilTech,Claude Code - Add to Chat,0.1.0,"Right-click files, folders or selected lines to add @-references to Claude Code's chat. Ctrl+L like Cursor."
+2026-10-30T18:57:36.03Z,nexo-lang.nexo,nexo-lang,Nexo,0.4.0,"Nexo language support: highlighting, errors and warnings as you type with their fixes, formatting, go to definition, hover, outline and completion (nexo lsp)."
+2026-10-30T18:58:07.43Z,efronlicht.ufls,efronlicht,ufls,0.1.1,Diagnostics and semantic highlighting for .uf files.
+2026-10-30T19:05:44.993Z,neosky.printing-press-cream,neosky,Printing Press Cream,0.1.0,A flat cream-paper and warm-ink light theme for VS Code. Print-press contrast: solid ink text on one calm cream colour across every panel.
+2026-10-30T19:09:10.203Z,Gjaa.sql-go-inserter,Gjaa,SQL GO Inserter,0.0.1,Analiza scripts T-SQL e inserta los separadores GO faltantes únicamente a nivel de lote (raíz).
+2026-10-30T19:10:42.667Z,Bloodycub.claud-autopilot,Bloodycub,Sleeping Clanker,1.0.1000,"Queue Claude Code tasks and goals per project and run them unattended, waiting out usage limits. Native UI over the bundled sleeping_clanker Python core."
+2026-10-30T19:13:29.747Z,EzawaTami.cc-prices,EzawaTami,cc-prices,1.4.0,
