@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 17:19 UTC
+## Latest list — 2026-10-30 18:20 UTC
 
-New extensions published between 2026-10-30 15:19 UTC and 2026-10-30 17:19 UTC.
+New extensions published between 2026-10-30 16:20 UTC and 2026-10-30 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T17-19-26-546353Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T18-20-03-21319Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 16:15:14 | [Tinomupezeni.archi](https://marketplace.visualstudio.com/items?itemName=Tinomupezeni.archi) | Archi | 0.1.2 | Source-backed architecture diagrams for VS Code workspaces |
-| 2026-10-30 16:23:47 | [ga0sh3n.vsc-review](https://marketplace.visualstudio.com/items?itemName=ga0sh3n.vsc-review) | Code Review Notes for AI | 0.1.0 | 在代码中记录跨文件 Review 评论，汇总为 AI Prompt，并保存每轮历史。 |
-| 2026-10-30 16:24:47 | [IBM.unified-adapters](https://marketplace.visualstudio.com/items?itemName=IBM.unified-adapters) | Unified Adapters | 11.0.3000 | Create, manage, and develop IBM Verify adapters directly inside VS Code with gu… |
-| 2026-10-30 16:36:51 | [MarufMuchlisin.indonesian-language-pack](https://marketplace.visualstudio.com/items?itemName=MarufMuchlisin.indonesian-language-pack) | Bahasa Indonesia - Indonesian Language… | 1.144.3 | Paket Bahasa Indonesia resmi dan modern untuk Visual Studio Code |
-| 2026-10-30 16:49:05 | [yunerou.aws-view](https://marketplace.visualstudio.com/items?itemName=yunerou.aws-view) | AWS View | 0.0.1 | Start and stop your EC2 dev machines and open them in VS Code Remote over AWS S… |
-| 2026-10-30 16:50:38 | [nareyko.vscode-lexaudit](https://marketplace.visualstudio.com/items?itemName=nareyko.vscode-lexaudit) | lexaudit | 0.3.2 | Locale vocabulary audit: calques, inventeds, foreign slips. Shells out to the l… |
-| 2026-10-30 17:11:04 | [facade.facadecode-window](https://marketplace.visualstudio.com/items?itemName=facade.facadecode-window) | Facade Code Window Component | 0.0.1 | Window identity and session continuity coordinator for Facade Code. |
-| 2026-10-30 17:11:10 | [facade.facadecode](https://marketplace.visualstudio.com/items?itemName=facade.facadecode) | Facade Code | 0.0.1 | Run Claude Code / Codex agents side by side in VS Code. |
+| 2026-10-30 17:14:40 | [kuebelrobert.ardl](https://marketplace.visualstudio.com/items?itemName=kuebelrobert.ardl) | ARDL – AUTOSAR Design Language | 0.2.0 | Lightweight design-as-code for AUTOSAR ASW and BSW, with live diagram preview |
+| 2026-10-30 17:16:47 | [ahmedshaban.air-flutter](https://marketplace.visualstudio.com/items?itemName=ahmedshaban.air-flutter) | Air Flutter: Wireless ADB, Screen Mirro… | 1.0.1 | Debug Flutter on a real Android phone without cables: wireless ADB, screen mirr… |
+| 2026-10-30 17:54:05 | [gab-dev.faah-volume-boost](https://marketplace.visualstudio.com/items?itemName=gab-dev.faah-volume-boost) | Faah - Auto Volume Boost & Error Alerts | 0.3.2 | Automatically boosts your system volume to 100% when an error alert plays, then… |
+| 2026-10-30 18:03:37 | [codex-claude-lab.codex-claude-orchestra](https://marketplace.visualstudio.com/items?itemName=codex-claude-lab.codex-claude-orchestra) | Codex Claude Orchestra | 0.1.0 | Coordinate Codex and Claude Code on your organization subscription. A mid-tier… |
+| 2026-10-30 18:04:28 | [enspirit.vscode-elo](https://marketplace.visualstudio.com/items?itemName=enspirit.vscode-elo) | Elo | 0.1.0 | Syntax highlighting for the Elo expression language |
 
 ## Data source
 

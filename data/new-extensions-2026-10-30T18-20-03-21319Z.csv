@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T17:14:40.963Z,kuebelrobert.ardl,kuebelrobert,ARDL – AUTOSAR Design Language,0.2.0,"Lightweight design-as-code for AUTOSAR ASW and BSW, with live diagram preview"
+2026-10-30T17:16:47.107Z,ahmedshaban.air-flutter,ahmedshaban,"Air Flutter: Wireless ADB, Screen Mirror & Logcat for Flutter",1.0.1,"Debug Flutter on a real Android phone without cables: wireless ADB, screen mirroring with the phone display off, live device log (logcat), one-click screenshots and Flutter build commands in one panel."
+2026-10-30T17:54:05.553Z,gab-dev.faah-volume-boost,gab-dev,Faah - Auto Volume Boost & Error Alerts,0.3.2,"Automatically boosts your system volume to 100% when an error alert plays, then restores your previous volume. Audio alerts for terminal errors and editor diagnostics."
+2026-10-30T18:03:37.843Z,codex-claude-lab.codex-claude-orchestra,codex-claude-lab,Codex Claude Orchestra,0.1.0,Coordinate Codex and Claude Code on your organization subscription. A mid-tier coordinator spawns smaller workers. Skills ship inside the extension.
+2026-10-30T18:04:28.75Z,enspirit.vscode-elo,enspirit,Elo,0.1.0,Syntax highlighting for the Elo expression language
