@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T22:27:10.477Z,GVASTETHECREATOR.launch-tasks,GVASTETHECREATOR,Launch Tasks,0.2.0,Show VS Code workspace tasks as status bar buttons.
+2026-10-30T22:45:24.357Z,abhijithNarakath12.agent-skills-scaffold,abhijithNarakath12,Agent Skills Manager,0.1.0,"Add ready-made AI agent skills (SKILL.md) for languages, frameworks, libraries and engineering workflows to your project in one click."
+2026-10-30T22:46:20.703Z,CodeCloud.codecloud,CodeCloud,CodeCloud,0.4.0,"See a codebase as pages of real code floating among folder clouds, colored by folder or language, and zoom between the cloud and the editor."
+2026-10-30T22:51:05.05Z,Taiizor.devcontext-memory,Taiizor,DevContext by Taiizor,0.1.0,Local-first project memory system for software development
+2026-10-30T22:51:45.883Z,zecro.large-json-desk,zecro,Large JSON Desk Lite: Tree Viewer (Offline),0.1.0,"Lite (free): open big JSON files in a fast, read-only, lazy-loading tree. Expand nodes, see key/type/preview, copy JSONPath. Scanning runs in a worker thread. 100% offline: pure JS, no telemetry."
+2026-10-30T23:05:47.027Z,zecro.svg-canvas,zecro,SVG Canvas Lite: Visual Editor (Offline),0.1.2,"Lite (free): edit .svg files visually in VS Code. Canvas synced with code, select/move/resize/rotate, draw basic shapes, attribute inspector, defs/symbol/use rendering, round-trip safe. 100% offline, scripts in SVGs never run, no telemetry."
+2026-10-30T23:06:38.907Z,matis-dev.coordiner,matis-dev,Coordiner,0.4.0,"Runs chains of Claude Code skills in unattended sessions, each run in its own git worktree, up to the commit brief. Nothing is committed for you."
