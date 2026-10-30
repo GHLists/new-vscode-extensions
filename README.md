@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 12:21 UTC
+## Latest list — 2026-10-30 13:21 UTC
 
-New extensions published between 2026-10-30 10:21 UTC and 2026-10-30 12:21 UTC.
+New extensions published between 2026-10-30 11:21 UTC and 2026-10-30 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T12-21-20-371369Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T13-21-55-361501Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 11:17:23 | [doublekien.insipilot](https://marketplace.visualstudio.com/items?itemName=doublekien.insipilot) | InsiPilot | 0.7.0 | Your Code. Your Models. Your Control. A self-hosted AI coding assistant. |
-| 2026-10-30 11:27:16 | [maomao23314.scut-71-vision-studio](https://marketplace.visualstudio.com/items?itemName=maomao23314.scut-71-vision-studio) | SCUT-71 Vision Studio | 0.12.0 | 智能车视觉仿真环境 —— 只写算法，其余交给环境 |
-| 2026-10-30 11:27:46 | [MimikkAi.mimikkai-searxng-mcp](https://marketplace.visualstudio.com/items?itemName=MimikkAi.mimikkai-searxng-mcp) | Mimikkai SearXNG Search | 0.0.5 | MCP tool for Copilot Chat: search the web through your SearXNG instance. |
-| 2026-10-30 11:44:26 | [shipcheck.shipcheck-verify](https://marketplace.visualstudio.com/items?itemName=shipcheck.shipcheck-verify) | ShipCheck Verify | 0.2.1 | Local multi-language verification before you commit or ship — JS/TS, Python, Go… |
-| 2026-10-30 11:49:35 | [swastik-codes.swastik-codes](https://marketplace.visualstudio.com/items?itemName=swastik-codes.swastik-codes) | Swastik Codes: API Client & Tests | 0.2.1 | Send API requests, run collections as tests, and turn the routes in your code i… |
-| 2026-10-30 11:49:41 | [para-space.para-space-vscode](https://marketplace.visualstudio.com/items?itemName=para-space.para-space-vscode) | ParaSpace | 0.1.5 | Parallel git worktrees with shared dependencies, per-worktree ports and window… |
+| 2026-10-30 12:33:04 | [Hexora.one-click-git-pull](https://marketplace.visualstudio.com/items?itemName=Hexora.one-click-git-pull) | One Click Git Pull | 1.0.0 | Pull the latest changes from your Git remote using a one-click status bar butto… |
+| 2026-10-30 12:35:54 | [00index.remote-port-forward-ui](https://marketplace.visualstudio.com/items?itemName=00index.remote-port-forward-ui) | Remote Ports Companion | 0.1.0 | Local companion for Remote Ports. Included automatically when installing Remote… |
+| 2026-10-30 12:39:50 | [shubhammaji1.ghosttown](https://marketplace.visualstudio.com/items?itemName=shubhammaji1.ghosttown) | GhostTown | 0.1.0 | Your app deserves users before it gets users. Local persona-driven browser test… |
+| 2026-10-30 12:40:13 | [00index.remote-port-forward](https://marketplace.visualstudio.com/items?itemName=00index.remote-port-forward) | Remote Ports | 0.1.0 | Expose TCP services from your computer or LAN on remote loopback ports. |
+| 2026-10-30 12:45:35 | [Nussmaus.jupyter-statement-meta-renderer](https://marketplace.visualstudio.com/items?itemName=Nussmaus.jupyter-statement-meta-renderer) | Fabric Jupyter Statement Metadata Rende… | 0.0.5 | Render Microsoft Fabric notebook execution metadata (application/vnd.jupyter.st… |
+| 2026-10-30 12:52:18 | [shubhammaji1.shipstats-analytics](https://marketplace.visualstudio.com/items?itemName=shubhammaji1.shipstats-analytics) | ShipStats — Developer Analytics | 0.3.0 | Discover npm packages, choose what to track, and see real download trends along… |
+| 2026-10-30 13:05:13 | [smd-mid2-flutter-dev.flutter-exam-snippets](https://marketplace.visualstudio.com/items?itemName=smd-mid2-flutter-dev.flutter-exam-snippets) | Flutter Exam Kit: Bloc & Provider Snipp… | 1.3.0 | Clean-architecture Flutter templates: entity, model, repository, Bloc, Provider… |
+| 2026-10-30 13:08:46 | [Yusseter.ck3-syntax](https://marketplace.visualstudio.com/items?itemName=Yusseter.ck3-syntax) | CK3 Syntax | 0.0.4 | Syntax highlighting for Crusader Kings III scripts, GUI files and localization,… |
 
 ## Data source
 

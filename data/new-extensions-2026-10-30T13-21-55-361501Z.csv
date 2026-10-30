@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T12:33:04.2Z,Hexora.one-click-git-pull,Hexora,One Click Git Pull,1.0.0,Pull the latest changes from your Git remote using a one-click status bar button in VS Code.
+2026-10-30T12:35:54.567Z,00index.remote-port-forward-ui,00index,Remote Ports Companion,0.1.0,Local companion for Remote Ports. Included automatically when installing Remote Ports from the registry.
+2026-10-30T12:39:50.737Z,shubhammaji1.ghosttown,shubhammaji1,GhostTown,0.1.0,Your app deserves users before it gets users. Local persona-driven browser testing.
+2026-10-30T12:40:13.28Z,00index.remote-port-forward,00index,Remote Ports,0.1.0,Expose TCP services from your computer or LAN on remote loopback ports.
+2026-10-30T12:45:35.79Z,Nussmaus.jupyter-statement-meta-renderer,Nussmaus,Fabric Jupyter Statement Metadata Renderer,0.0.5,Render Microsoft Fabric notebook execution metadata (application/vnd.jupyter.statement-meta+json) as readable JSON in VS Code.
+2026-10-30T12:52:18.797Z,shubhammaji1.shipstats-analytics,shubhammaji1,ShipStats — Developer Analytics,0.3.0,"Discover npm packages, choose what to track, and see real download trends alongside extension and Reddit counts."
+2026-10-30T13:05:13.023Z,smd-mid2-flutter-dev.flutter-exam-snippets,smd-mid2-flutter-dev,Flutter Exam Kit: Bloc & Provider Snippets,1.3.0,"Clean-architecture Flutter templates: entity, model, repository, Bloc, Provider, pages, lists, navigation and UI widgets. Type ex + Tab."
+2026-10-30T13:08:46.29Z,Yusseter.ck3-syntax,Yusseter,CK3 Syntax,0.0.4,"Syntax highlighting for Crusader Kings III scripts, GUI files and localization, with script formatting and semantic parameter highlighting."
