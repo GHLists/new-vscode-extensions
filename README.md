@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 02:20 UTC
+## Latest list — 2026-10-30 03:21 UTC
 
-New extensions published between 2026-10-30 00:20 UTC and 2026-10-30 02:20 UTC.
+New extensions published between 2026-10-30 01:21 UTC and 2026-10-30 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T02-20-21-968554Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T03-21-21-722472Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 01:21:11 | [gpb.atf-syntax](https://marketplace.visualstudio.com/items?itemName=gpb.atf-syntax) | ATF — Advanced Title Formatting | 0.2.7 | Syntax highlighting, WACUP-accurate linting, hovers, completion and lossless fo… |
-| 2026-10-30 01:25:38 | [stocklite.stocklite](https://marketplace.visualstudio.com/items?itemName=stocklite.stocklite) | StockLite 股票基金行情 | 1.0.0 | A股/基金/期货/全球指数实时行情、持仓盈亏、买卖点标记与涨跌提醒，常驻 VSCode 状态栏与侧边栏。 |
-| 2026-10-30 01:26:02 | [jiemo-biscuit.jiemo-cookie](https://marketplace.visualstudio.com/items?itemName=jiemo-biscuit.jiemo-cookie) | 不好吃的芥末小饼干 | 0.1.2 | 不好吃的芥末小饼干：一份带点冲劲的小饼干食谱。 |
-| 2026-10-30 01:30:15 | [unitcircle.uclog](https://marketplace.visualstudio.com/items?itemName=unitcircle.uclog) | ucLog | 4.0.0 | Logs, terminal, plots and FW updates for ucLog devices (Serial, HID, BLE, UDP)… |
-| 2026-10-30 01:37:30 | [cloudquest.titan-vscode](https://marketplace.visualstudio.com/items?itemName=cloudquest.titan-vscode) | projectroom Titan | 0.0.79 | Build JavaScript, Java and Go applications on projectroom with Titan: sign in,… |
-| 2026-10-30 01:42:49 | [fromeroc9.testform-dsl](https://marketplace.visualstudio.com/items?itemName=fromeroc9.testform-dsl) | Testform DSL | 1.0.0 | Declarative Test-as-Code orchestration for Git: Gherkin IntelliSense, variables… |
-| 2026-10-30 01:47:21 | [khoon.svn-tools](https://marketplace.visualstudio.com/items?itemName=khoon.svn-tools) | SVN Tools | 1.0.0 | SVN Source Control panel, explorer context menu (SVN / TortoiseSVN) and status… |
-| 2026-10-30 02:08:26 | [lupee.http-studio](https://marketplace.visualstudio.com/items?itemName=lupee.http-studio) | HTTP Studio | 26.10.2 | A Postman-like HTTP client whose collections and environments live in your repo… |
+| 2026-10-30 02:20:54 | [MPUTRARAMADHANI.putracodeai](https://marketplace.visualstudio.com/items?itemName=MPUTRARAMADHANI.putracodeai) | PutraCodeAi | 1.0.408 | Ekstensi AI Coding Agent interaktif, cerdas, dan cepat buatan PutraCodeAi. |
+| 2026-10-30 02:41:49 | [max-zhang.component-usages-code-vision](https://marketplace.visualstudio.com/items?itemName=max-zhang.component-usages-code-vision) | Component Usages — Code Vision | 0.1.3 | WebStorm-style component usages above Vue, Svelte, Astro and React files. |
+| 2026-10-30 02:52:46 | [exeltarkus.lemari](https://marketplace.visualstudio.com/items?itemName=exeltarkus.lemari) | Lemari - Project Manager | 1.10.4 | Easily switch between projects, including opening projects in WSL or Windows (f… |
+| 2026-10-30 03:00:46 | [yu-april.code-nova](https://marketplace.visualstudio.com/items?itemName=yu-april.code-nova) | CodeNova - AI Code Assistant | 0.7.0 | 在 VS Code 里解释、生成和改进代码的轻量 AI 助手 |
+| 2026-10-30 03:09:21 | [OptimusPrime45.toolkit-resource-library](https://marketplace.visualstudio.com/items?itemName=OptimusPrime45.toolkit-resource-library) | Toolkit-Resource-Library | 0.0.1 | Offline Resource Library for VS Code |
+| 2026-10-30 03:10:42 | [cnoo.duckcb](https://marketplace.visualstudio.com/items?itemName=cnoo.duckcb) | DuckCB | 0.5.2 | Interactive SQL/Python Cook books. Powered by DuckDB |
+| 2026-10-30 03:11:12 | [kawaba.spd-editor](https://marketplace.visualstudio.com/items?itemName=kawaba.spd-editor) | SPD Editor | 1.22.0 | SPD（構造化プログラム設計図）エディタ。.spd ファイルを方眼の画面で描いて編集できます。 |
+| 2026-10-30 03:13:48 | [zhengbangbo.current-line-blame](https://marketplace.visualstudio.com/items?itemName=zhengbangbo.current-line-blame) | Current Line Blame | 0.1.0 | Lightweight Git blame for the current line. Nothing else. |
 
 ## Data source
 
