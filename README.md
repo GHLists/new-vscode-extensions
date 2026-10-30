@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 00:19 UTC
+## Latest list — 2026-10-30 01:20 UTC
 
-New extensions published between 2026-10-29 22:19 UTC and 2026-10-30 00:19 UTC.
+New extensions published between 2026-10-29 23:20 UTC and 2026-10-30 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T00-19-13-17946Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T01-20-23-120288Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-29 23:17:51 | [partach.blazed](https://marketplace.visualstudio.com/items?itemName=partach.blazed) | Blazed | 0.1.1 | AI coding agent for VS Code with a live task plan, progress and a time-remainin… |
-| 2026-10-29 23:59:42 | [marleeeeeey.git-tree-log](https://marketplace.visualstudio.com/items?itemName=marleeeeeey.git-tree-log) | Git Tree Log | 0.3.1 | CLion-style git log: commit graph, commit details and changed files in the bott… |
-| 2026-10-30 00:07:19 | [HernanHerrera.icon-colors](https://marketplace.visualstudio.com/items?itemName=HernanHerrera.icon-colors) | Icon Colors | 0.0.4 | Asigna un color a cada ícono de la barra de actividad. |
+| 2026-10-30 00:22:19 | [fallenstarowo.deepseek-for-copilot-chat](https://marketplace.visualstudio.com/items?itemName=fallenstarowo.deepseek-for-copilot-chat) | DeepSeek for Copilot Chat (Community Fo… | 1.0.0 | Use DeepSeek V4.1 Flash in Copilot Chat with native vision, Vision Proxy, reaso… |
+| 2026-10-30 00:39:04 | [Bently.sticky-chats](https://marketplace.visualstudio.com/items?itemName=Bently.sticky-chats) | Sticky Chats | 0.1.2 | Local-network-only sticky-note chat system for software developers in VS Code |
+| 2026-10-30 00:45:08 | [RadwanAlmsora.qalam-studio](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.qalam-studio) | Qalam Studio: Arabic Text & Hijri Tools | 1.0.0 | Arabic-Indic digit conversion, Hijri date stamps, RTL isolation for mixed Arabi… |
+| 2026-10-30 01:00:25 | [RadwanAlmsora.tarjim-i18n-guard](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.tarjim-i18n-guard) | Tarjim: i18n Guard | 1.0.0 | Find missing, extra, empty, and mismatched translation keys across your locale… |
+| 2026-10-30 01:12:11 | [xy-esp32-tools.wasabi-biscuit](https://marketplace.visualstudio.com/items?itemName=xy-esp32-tools.wasabi-biscuit) | 不好吃的芥末小饼干 | 0.1.0 | 不好吃的芥末小饼干：一份带点冲劲的小饼干食谱。 |
 
 ## Data source
 
