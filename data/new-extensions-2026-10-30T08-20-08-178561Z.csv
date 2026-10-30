@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T07:18:56.337Z,Nuanst-GmbH.mcp-server-browser,Nuanst-GmbH,MCP Server: Browser,0.4.0,"MCP browser tools for AI agents: a headless Chromium opens pages and performs clicks, typing, JS evaluation, and screenshots."
+2026-10-30T07:23:33.383Z,wujingtao.wjt-sql-formatter,wujingtao,SQL Formatter (SQL Server、PG),0.0.5,Format SQL
+2026-10-30T07:41:57.697Z,XuanNghiem.ruby-on-micro,XuanNghiem,Ruby on Micro,0.1.0,Ctrl/Cmd-click configured Ruby references to open their implementation.
+2026-10-30T07:52:43.507Z,lgzzz.diff-open-writable,lgzzz,Open Writable File from Diff,0.0.2,"Lets a keybinding open the real workspace file from a diff editor or a read-only editor, matching the editor title 'Open File' button (Git: Open File)."
+2026-10-30T08:02:01.29Z,fcbyk.byk,fcbyk,BYK,0.6.0,"Run byk aliases from *.byk.json files — right-click to run, with schema validation and path completion"
+2026-10-30T08:03:33.417Z,nurglobal.nur-ai,nurglobal,Nur AI,1.6.6,"Nur AI personal coding agents, project rules, reviewed edits and controlled previews"
+2026-10-30T08:10:29.023Z,PRCooper.orbit-git,PRCooper,Orbit Git,0.15.0,"Commit graph, multi-commit comparison, selection history and grouped Git operations for VS Code, Cursor and Qoder."
