@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T01:21:11.943Z,gpb.atf-syntax,gpb,ATF — Advanced Title Formatting,0.2.7,"Syntax highlighting, WACUP-accurate linting, hovers, completion and lossless formatting for WACUP / Winamp Advanced Title Formatting (ATF / tagz) strings."
+2026-10-30T01:25:38.013Z,stocklite.stocklite,stocklite,StockLite 股票基金行情,1.0.0,A股/基金/期货/全球指数实时行情、持仓盈亏、买卖点标记与涨跌提醒，常驻 VSCode 状态栏与侧边栏。
+2026-10-30T01:26:02.567Z,jiemo-biscuit.jiemo-cookie,jiemo-biscuit,不好吃的芥末小饼干,0.1.2,不好吃的芥末小饼干：一份带点冲劲的小饼干食谱。
+2026-10-30T01:30:15.313Z,unitcircle.uclog,unitcircle,ucLog,4.0.0,"Logs, terminal, plots and FW updates for ucLog devices (Serial, HID, BLE, UDP) and hubs"
+2026-10-30T01:37:30.573Z,cloudquest.titan-vscode,cloudquest,projectroom Titan,0.0.79,"Build JavaScript, Java and Go applications on projectroom with Titan: sign in, manage resources, build, sign and deploy from VS Code."
+2026-10-30T01:42:49.567Z,fromeroc9.testform-dsl,fromeroc9,Testform DSL,1.0.0,"Declarative Test-as-Code orchestration for Git: Gherkin IntelliSense, variables autoload, native Test Explorer, state management, and quality gates."
+2026-10-30T01:47:21.37Z,khoon.svn-tools,khoon,SVN Tools,1.0.0,"SVN Source Control panel, explorer context menu (SVN / TortoiseSVN) and status decorations including ignored files."
+2026-10-30T02:08:26.673Z,lupee.http-studio,lupee,HTTP Studio,26.10.2,A Postman-like HTTP client whose collections and environments live in your repo (.http/conf.json).
