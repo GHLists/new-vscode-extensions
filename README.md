@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-30 03:21 UTC
+## Latest list — 2026-10-30 04:19 UTC
 
-New extensions published between 2026-10-30 01:21 UTC and 2026-10-30 03:21 UTC.
+New extensions published between 2026-10-30 02:19 UTC and 2026-10-30 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-30T03-21-21-722472Z.csv)
+[Full CSV](data/new-extensions-2026-10-30T04-19-24-580853Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-30 02:20:54 | [MPUTRARAMADHANI.putracodeai](https://marketplace.visualstudio.com/items?itemName=MPUTRARAMADHANI.putracodeai) | PutraCodeAi | 1.0.408 | Ekstensi AI Coding Agent interaktif, cerdas, dan cepat buatan PutraCodeAi. |
-| 2026-10-30 02:41:49 | [max-zhang.component-usages-code-vision](https://marketplace.visualstudio.com/items?itemName=max-zhang.component-usages-code-vision) | Component Usages — Code Vision | 0.1.3 | WebStorm-style component usages above Vue, Svelte, Astro and React files. |
-| 2026-10-30 02:52:46 | [exeltarkus.lemari](https://marketplace.visualstudio.com/items?itemName=exeltarkus.lemari) | Lemari - Project Manager | 1.10.4 | Easily switch between projects, including opening projects in WSL or Windows (f… |
-| 2026-10-30 03:00:46 | [yu-april.code-nova](https://marketplace.visualstudio.com/items?itemName=yu-april.code-nova) | CodeNova - AI Code Assistant | 0.7.0 | 在 VS Code 里解释、生成和改进代码的轻量 AI 助手 |
-| 2026-10-30 03:09:21 | [OptimusPrime45.toolkit-resource-library](https://marketplace.visualstudio.com/items?itemName=OptimusPrime45.toolkit-resource-library) | Toolkit-Resource-Library | 0.0.1 | Offline Resource Library for VS Code |
-| 2026-10-30 03:10:42 | [cnoo.duckcb](https://marketplace.visualstudio.com/items?itemName=cnoo.duckcb) | DuckCB | 0.5.2 | Interactive SQL/Python Cook books. Powered by DuckDB |
-| 2026-10-30 03:11:12 | [kawaba.spd-editor](https://marketplace.visualstudio.com/items?itemName=kawaba.spd-editor) | SPD Editor | 1.22.0 | SPD（構造化プログラム設計図）エディタ。.spd ファイルを方眼の画面で描いて編集できます。 |
-| 2026-10-30 03:13:48 | [zhengbangbo.current-line-blame](https://marketplace.visualstudio.com/items?itemName=zhengbangbo.current-line-blame) | Current Line Blame | 0.1.0 | Lightweight Git blame for the current line. Nothing else. |
+| 2026-10-30 03:23:25 | [a-Pachon.apexlang-preview](https://marketplace.visualstudio.com/items?itemName=a-Pachon.apexlang-preview) | APEXlang Preview | 0.1.0 | Preview Oracle APEX applications from APEXlang .apx project files. |
+| 2026-10-30 03:32:24 | [jaytankdev.boxescape](https://marketplace.visualstudio.com/items?itemName=jaytankdev.boxescape) | BoxEscape: Dev Container and Agent Sand… | 0.1.0 | Finds the settings that hand your host to an AI coding agent running "safely" i… |
+| 2026-10-30 03:35:23 | [HydrogenOxygen.vjudge-helper-by-hydrogenoxygen](https://marketplace.visualstudio.com/items?itemName=HydrogenOxygen.vjudge-helper-by-hydrogenoxygen) | VJudge Helper by HydrogenOxygen | 1.8.3 | 在 VS Code 中一键查看 VJudge 题面、一键提交本地代码并跟踪评测结果，还能打开题目链接、阅读文章、浏览比赛与团队 |
+| 2026-10-30 03:38:44 | [iHomeAiSigner.codesign](https://marketplace.visualstudio.com/items?itemName=iHomeAiSigner.codesign) | 代码签名 | 1.0.12 | AI 代码签名与行级归属追踪。安装后自动配置 git-ai CLI 与 Hooks。 |
+| 2026-10-30 03:51:10 | [BunnyLutts.vsolcli](https://marketplace.visualstudio.com/items?itemName=BunnyLutts.vsolcli) | VS Code olcli Sync | 0.1.0 | Automatically sync and compile Overleaf projects with olcli. |
+| 2026-10-30 03:53:39 | [exeltarkus.wsl-share-mount](https://marketplace.visualstudio.com/items?itemName=exeltarkus.wsl-share-mount) | WSL Share Mount | 0.4.3 | Mount Windows SMB shares into WSL (drvfs) using the current Windows login, with… |
+| 2026-10-30 03:59:18 | [junghoon.hangul-hover](https://marketplace.visualstudio.com/items?itemName=junghoon.hangul-hover) | UI5 Docs KR | 0.1.0 | Unofficial Korean API descriptions for OpenUI5 projects. Not affiliated with SA… |
+| 2026-10-30 04:02:51 | [badasslighting.grandma-devkit](https://marketplace.visualstudio.com/items?itemName=badasslighting.grandma-devkit) | Devkit for Grand MA2+MA3 | 0.4.3 | Write Lua plugins for grandMA3 and grandMA2: API completion, hover and signatur… |
+| 2026-10-30 04:05:02 | [Evanzhao7374.giti](https://marketplace.visualstudio.com/items?itemName=Evanzhao7374.giti) | Giti — Git Graph | 1.0.0 | A clear, readable Git history graph with branches, remotes, tags, stashes and c… |
 
 ## Data source
 

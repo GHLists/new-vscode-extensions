@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-30T03:23:25.223Z,a-Pachon.apexlang-preview,a-Pachon,APEXlang Preview,0.1.0,Preview Oracle APEX applications from APEXlang .apx project files.
+2026-10-30T03:32:24.077Z,jaytankdev.boxescape,jaytankdev,BoxEscape: Dev Container and Agent Sandbox Escape Checker,0.1.0,"Finds the settings that hand your host to an AI coding agent running ""safely"" in a dev container or Docker sandbox: --privileged, a mounted docker.sock, host network or PID, CAP_SYS_ADMIN, seccomp=unconfined, ~/.ssh, ~/.aws or $HOME mounted in, forwarded SSH agents, a firewall script that never runs"
+2026-10-30T03:35:23.77Z,HydrogenOxygen.vjudge-helper-by-hydrogenoxygen,HydrogenOxygen,VJudge Helper by HydrogenOxygen,1.8.3,在 VS Code 中一键查看 VJudge 题面、一键提交本地代码并跟踪评测结果，还能打开题目链接、阅读文章、浏览比赛与团队
+2026-10-30T03:38:44.303Z,iHomeAiSigner.codesign,iHomeAiSigner,代码签名,1.0.12,AI 代码签名与行级归属追踪。安装后自动配置 git-ai CLI 与 Hooks。
+2026-10-30T03:51:10.383Z,BunnyLutts.vsolcli,BunnyLutts,VS Code olcli Sync,0.1.0,Automatically sync and compile Overleaf projects with olcli.
+2026-10-30T03:53:39.59Z,exeltarkus.wsl-share-mount,exeltarkus,WSL Share Mount,0.4.3,"Mount Windows SMB shares into WSL (drvfs) using the current Windows login, without storing passwords."
+2026-10-30T03:59:18.013Z,junghoon.hangul-hover,junghoon,UI5 Docs KR,0.1.0,Unofficial Korean API descriptions for OpenUI5 projects. Not affiliated with SAP SE.
+2026-10-30T04:02:51.22Z,badasslighting.grandma-devkit,badasslighting,Devkit for Grand MA2+MA3,0.4.3,"Write Lua plugins for grandMA3 and grandMA2: API completion, hover and signature help, lint checks, plugin scaffolding, one-command deploy, and run-on-console through a LuaBridge."
+2026-10-30T04:05:02.503Z,Evanzhao7374.giti,Evanzhao7374,Giti — Git Graph,1.0.0,"A clear, readable Git history graph with branches, remotes, tags, stashes and commit details."
