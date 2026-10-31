@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T09:15:26.15Z,nguyentaijs.flowable-design-local,nguyentaijs,Flowable Design Local,0.1.1,"Visual BPMN and DMN editor for Flowable 7.2.0 community, with run visualization, writing minimal diffs back to the XML."
+2026-10-31T09:36:11.707Z,AbdellatifELMIZEB.claude-consumption-vscode,AbdellatifELMIZEB,Claude Consumption,0.1.1,"Animated cyberpunk dashboard for Claude Code in VS Code: track agents, tasks, tokens, context, costs and memory from local session transcripts."
+2026-10-31T10:06:49.927Z,emch04.humalis,emch04,Humalis,1.0.0,"Le langage Humalis dans VS Code : erreurs du compilateur en direct, survol, complétion, saut à la déclaration, symboles, coloration (y compris sémantique), indentation et extraits de code ; un serveur de langage (LSP) pour les autres éditeurs."

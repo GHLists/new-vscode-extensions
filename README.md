@@ -12,21 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 09:20 UTC
+## Latest list — 2026-10-31 10:20 UTC
 
-New extensions published between 2026-10-31 07:20 UTC and 2026-10-31 09:20 UTC.
+New extensions published between 2026-10-31 08:20 UTC and 2026-10-31 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T09-20-22-349594Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T10-20-02-80793Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 08:25:19 | [stillwind.stillwind](https://marketplace.visualstudio.com/items?itemName=stillwind.stillwind) | Stillwind | 0.1.0 | Stillwind diagnostics, CSS hover, completion, colors, and utility sorting |
-| 2026-10-31 08:36:03 | [5faith.markdownview-plugin](https://marketplace.visualstudio.com/items?itemName=5faith.markdownview-plugin) | MarkdownView | 0.1.0 | A Milkdown-powered Markdown WYSIWYG editor for VS Code. |
-| 2026-10-31 08:58:27 | [ReqFlow.reqflow](https://marketplace.visualstudio.com/items?itemName=ReqFlow.reqflow) | ReqFlow: REST API Client & Tester | 1.0.0 | REST API client for VS Code. Test APIs with collections, environments, history,… |
-| 2026-10-31 09:04:13 | [pit000.fenced-block-tools](https://marketplace.visualstudio.com/items?itemName=pit000.fenced-block-tools) | Fenced Block Tools | 1.5.0 | Icons above fenced markdown code with various functions |
-| 2026-10-31 09:05:27 | [ku-lang.ku-language](https://marketplace.visualstudio.com/items?itemName=ku-lang.ku-language) | Ku Language | 0.0.19 | Syntax highlighting, snippets, and editor intelligence for Ku |
-| 2026-10-31 09:09:22 | [ewithme.ewithme-jsonld-readability](https://marketplace.visualstudio.com/items?itemName=ewithme.ewithme-jsonld-readability) | eWith.me JSON-LD Schema & Readability I… | 1.1.1 | Real-time Schema.org JSON-LD linter, Wikidata entity grounding verifier, Flesch… |
-| 2026-10-31 09:10:19 | [qmkc.8051-asm-lang](https://marketplace.visualstudio.com/items?itemName=qmkc.8051-asm-lang) | 8051 Assembly (A51) | 0.0.1 | Syntax highlighting, formatting, diagnostics, hover reference, and IntelliSense… |
+| 2026-10-31 09:15:26 | [nguyentaijs.flowable-design-local](https://marketplace.visualstudio.com/items?itemName=nguyentaijs.flowable-design-local) | Flowable Design Local | 0.1.1 | Visual BPMN and DMN editor for Flowable 7.2.0 community, with run visualization… |
+| 2026-10-31 09:36:11 | [AbdellatifELMIZEB.claude-consumption-vscode](https://marketplace.visualstudio.com/items?itemName=AbdellatifELMIZEB.claude-consumption-vscode) | Claude Consumption | 0.1.1 | Animated cyberpunk dashboard for Claude Code in VS Code: track agents, tasks, t… |
+| 2026-10-31 10:06:49 | [emch04.humalis](https://marketplace.visualstudio.com/items?itemName=emch04.humalis) | Humalis | 1.0.0 | Le langage Humalis dans VS Code : erreurs du compilateur en direct, survol, com… |
 
 ## Data source
 
