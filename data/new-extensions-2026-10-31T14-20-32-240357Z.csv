@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T13:17:33.797Z,roychemo.shipsight,roychemo,ShipSight: check a live site after a deploy,0.1.0,"The eyes-on check of a live site after a deploy. Loads the page in Chromium and WebKit at desktop and phone widths and reports what a client would notice: buttons out of their box or too close, cut text, sideways scroll, broken images, JS errors, failed requests. Screenshot per finding."
+2026-10-31T13:18:00.69Z,amxpy.amxpy,amxpy,amxpy,0.5.0,"Плагины AMX Mod X на Python: подсказки нативов для amxx.call, заготовки по «@», def после Enter, автоимпорт, палитра цветов HUD, имена cvar'ов, предпросмотр цветного чата, установка на сервер"
+2026-10-31T13:18:42.72Z,lonelyleaves.dev-toolbox-vscode,lonelyleaves,DevToolbox 开发者工具箱,0.6.9,开发者工具箱：JSON 格式化/转换、时间戳、Cron、正则、文本对比、cURL、SQL 格式化、数据字典(PDM/数据库/金蝶)、Base64/编码转换、哈希/UUID、颜色、二维码
+2026-10-31T13:25:35.883Z,Diffscription.diffscription,Diffscription,Diffscription - AI Commit Messages,0.0.1,"Generate accurate commit messages from your changes using the AI model you already have in VS Code, with your own rules."
+2026-10-31T13:26:57.873Z,NonsoOnah.elf-design-system,NonsoOnah,Elf,0.3.25,"Connect your project and Figma, monitor design drift, and review sync changes."
+2026-10-31T13:42:03.677Z,sa1ntsinner.rosio,sa1ntsinner,rosio: ROS 2 system atlas,0.1.0,"What your ROS 2 system really is, written, coded, running and recorded, where those disagree and which line to edit."
+2026-10-31T13:50:17.69Z,GanttPulse.ganttpulse-claude-code,GanttPulse,GanttPulse for Claude Code,0.3.0,"Installs the GanttPulse plugin in Claude Code, so your AI's plan stays live on a GanttPulse Gantt chart."
+2026-10-31T14:07:46.273Z,greysquirr3l.entirely,greysquirr3l,Entirely,0.3.0,"Unofficial extension for Entire: sessions, checkpoints, trails and review for agent-human collaboration, in the editor."
