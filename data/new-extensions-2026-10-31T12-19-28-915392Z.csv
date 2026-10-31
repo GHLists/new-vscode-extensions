@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T11:17:06.48Z,caninde-theme.caninde,caninde-theme,Canindé,1.0.0,"A dark theme inspired by the Arara-Canindé, the blue-and-yellow macaw. Um tema escuro inspirado na Arara-Canindé."
+2026-10-31T11:21:33.983Z,kite-language.kite-language-vscode,kite-language,Kite-lang,1.0.0,"Syntax highlighting, snippets and language configuration for the Kite programming language (.ki)"
+2026-10-31T11:44:15.21Z,prsurve.k8s-manifestlens-vscode,prsurve,k8s-manifestlens,0.2.0,Explains Kubernetes YAML in plain English and flags risky settings. Works offline.
+2026-10-31T11:53:20.107Z,AdityaDnyaneshwarDahale.skelion-vscode,AdityaDnyaneshwarDahale,Skelion Agent,0.1.0,VS Code panel for Skelion authentication & billing
+2026-10-31T12:07:25.317Z,panda-robotics.panda-path-local,panda-robotics,Panda Robotics · Path Planner,3.2.0,"Vẽ đường chạy robot VEX, nhập/xuất code LemLib và tự lưu chiến thuật offline."
+2026-10-31T12:11:08.943Z,Rashidlab.rashid-secret-blur,Rashidlab,Rashid Secret Blur — Hide API Keys While Recording,1.0.0,"Blurs API keys, tokens, passwords and .env values in the editor, so you can screen-record, stream or share your screen without leaking secrets."
+2026-10-31T12:11:41.853Z,Rashidlab.rashid-folder-colors,Rashidlab,Rashid Folder Colors,1.0.0,"Color your folders in the Explorer. Right-click a folder, pick a color, and find things faster. Colors are saved with the project so your team sees them too."
+2026-10-31T12:12:03.403Z,Rashidlab.ziman,Rashidlab,Ziman — Kurdish Translations for Your App,1.0.0,"Translate your app into Kurdish without leaving VS Code. Move text into en.json and ku.json in one step, see translations inline, spot missing ones, and edit side by side with right-to-left Kurdish."
+2026-10-31T12:13:57.447Z,Rashidlab.rashid-quick-notes,Rashidlab,Rashid Quick Notes — Notes for Every Project,1.0.0,"A notes panel in the Explorer for each project. Jot down ideas, commands, links and code snippets. Saves as you type."

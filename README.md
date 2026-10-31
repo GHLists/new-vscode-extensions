@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 11:20 UTC
+## Latest list — 2026-10-31 12:19 UTC
 
-New extensions published between 2026-10-31 09:20 UTC and 2026-10-31 11:20 UTC.
+New extensions published between 2026-10-31 10:19 UTC and 2026-10-31 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T11-20-27-238404Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T12-19-28-915392Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 10:34:36 | [ieshishinjin.mormonkai](https://marketplace.visualstudio.com/items?itemName=ieshishinjin.mormonkai) | Mormonkai | 1.0.0 | GitHub theme UI with One Monokai syntax highlighting |
-| 2026-10-31 10:51:58 | [orbit-z.lyr](https://marketplace.visualstudio.com/items?itemName=orbit-z.lyr) | Lyr | 0.1.0 | Lyr (.lyr) language support: syntax highlighting, and Go and TypeScript complet… |
-| 2026-10-31 10:55:12 | [AbdellatifELMIZEB.codex-consumption-vscode](https://marketplace.visualstudio.com/items?itemName=AbdellatifELMIZEB.codex-consumption-vscode) | Codex Consumption | 0.1.1 | Animated cyberpunk dashboard for Codex: agents, tools, tokens, context, estimat… |
-| 2026-10-31 10:57:34 | [QuantumLab-ZY.oh-my-hamgnn](https://marketplace.visualstudio.com/items?itemName=QuantumLab-ZY.oh-my-hamgnn) | HamGNN Config Generator | 0.1.0 | Generate HamGNN YAML configuration files from VS Code. |
-| 2026-10-31 10:59:29 | [celalakcelikk.magipilot](https://marketplace.visualstudio.com/items?itemName=celalakcelikk.magipilot) | Magipilot | 0.1.1 | Inline code completions from local models (Ollama, llama.cpp, LM Studio) or you… |
-| 2026-10-31 11:10:46 | [thejakia1.kitty-party](https://marketplace.visualstudio.com/items?itemName=thejakia1.kitty-party) | Kitty Party - Watermelon Themes & Danci… | 0.1.4 | Five watermelon color themes, plus an opt-in party of dancing cats, falling wat… |
-| 2026-10-31 11:13:15 | [PyAMS.PyAMS](https://marketplace.visualstudio.com/items?itemName=PyAMS.PyAMS) | PyAMS - Python for Analog and Mixed Sig… | 0.3.0 |  |
+| 2026-10-31 11:17:06 | [caninde-theme.caninde](https://marketplace.visualstudio.com/items?itemName=caninde-theme.caninde) | Canindé | 1.0.0 | A dark theme inspired by the Arara-Canindé, the blue-and-yellow macaw. Um tema… |
+| 2026-10-31 11:21:33 | [kite-language.kite-language-vscode](https://marketplace.visualstudio.com/items?itemName=kite-language.kite-language-vscode) | Kite-lang | 1.0.0 | Syntax highlighting, snippets and language configuration for the Kite programmi… |
+| 2026-10-31 11:44:15 | [prsurve.k8s-manifestlens-vscode](https://marketplace.visualstudio.com/items?itemName=prsurve.k8s-manifestlens-vscode) | k8s-manifestlens | 0.2.0 | Explains Kubernetes YAML in plain English and flags risky settings. Works offli… |
+| 2026-10-31 11:53:20 | [AdityaDnyaneshwarDahale.skelion-vscode](https://marketplace.visualstudio.com/items?itemName=AdityaDnyaneshwarDahale.skelion-vscode) | Skelion Agent | 0.1.0 | VS Code panel for Skelion authentication & billing |
+| 2026-10-31 12:07:25 | [panda-robotics.panda-path-local](https://marketplace.visualstudio.com/items?itemName=panda-robotics.panda-path-local) | Panda Robotics · Path Planner | 3.2.0 | Vẽ đường chạy robot VEX, nhập/xuất code LemLib và tự lưu chiến thuật offline. |
+| 2026-10-31 12:11:08 | [Rashidlab.rashid-secret-blur](https://marketplace.visualstudio.com/items?itemName=Rashidlab.rashid-secret-blur) | Rashid Secret Blur — Hide API Keys Whil… | 1.0.0 | Blurs API keys, tokens, passwords and .env values in the editor, so you can scr… |
+| 2026-10-31 12:11:41 | [Rashidlab.rashid-folder-colors](https://marketplace.visualstudio.com/items?itemName=Rashidlab.rashid-folder-colors) | Rashid Folder Colors | 1.0.0 | Color your folders in the Explorer. Right-click a folder, pick a color, and fin… |
+| 2026-10-31 12:12:03 | [Rashidlab.ziman](https://marketplace.visualstudio.com/items?itemName=Rashidlab.ziman) | Ziman — Kurdish Translations for Your A… | 1.0.0 | Translate your app into Kurdish without leaving VS Code. Move text into en.json… |
+| 2026-10-31 12:13:57 | [Rashidlab.rashid-quick-notes](https://marketplace.visualstudio.com/items?itemName=Rashidlab.rashid-quick-notes) | Rashid Quick Notes — Notes for Every Pr… | 1.0.0 | A notes panel in the Explorer for each project. Jot down ideas, commands, links… |
 
 ## Data source
 
