@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T22:31:44.173Z,Ruvaaaaaa.error-exe,Ruvaaaaaa,Error.exe,0.0.1,A vintage computer companion that reacts to diagnostics and celebrates builds and tests.
+2026-10-31T22:35:20.95Z,HermesSilva.tootega-asciidoc,HermesSilva,Tootega AsciiDoc,0.1.5,"Complete AsciiDoc editor: WYSIWYG, code with highlighting and real-time preview, plus export to HTML, PDF, Markdown and DocBook — all native, no external tools."
+2026-10-31T22:38:19.013Z,rohit-vscode-ext.git-commit-ai-message-generator,rohit-vscode-ext,Drafty - AI Commit Messages Generator,0.0.1,"Generate accurate commit messages from your changes using the AI model you already have in VS Code, with your own rules."
+2026-10-31T22:42:38.543Z,codeflower.codeflower,codeflower,code flower,0.10.0,"Chat with sandboxed Claude Code, Codex, and DeepSeek Harness workers on your HPC data."

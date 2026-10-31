@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 22:19 UTC
+## Latest list — 2026-10-31 23:18 UTC
 
-New extensions published between 2026-10-31 20:19 UTC and 2026-10-31 22:19 UTC.
+New extensions published between 2026-10-31 21:18 UTC and 2026-10-31 23:18 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T22-19-53-009958Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T23-18-38-98003Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 21:29:18 | [Momo4811.liar](https://marketplace.visualstudio.com/items?itemName=Momo4811.liar) | liar | 0.1.0 | Finds Python code that says one thing and does another |
-| 2026-10-31 22:04:49 | [Viaalink.vscode-caddy-tools](https://marketplace.visualstudio.com/items?itemName=Viaalink.vscode-caddy-tools) | Caddy Configuration Tools | 0.2.0 | IntelliSense, snippets, and validation for Caddy and caddy-security configurati… |
-| 2026-10-31 22:05:26 | [EnvDataScience.eds-guide-course](https://marketplace.visualstudio.com/items?itemName=EnvDataScience.eds-guide-course) | EDS Guide: Environmental Data Science &… | 0.0.35 | Provides practicals, tutorials and notebooks for the Environmental Data Science… |
+| 2026-10-31 22:31:44 | [Ruvaaaaaa.error-exe](https://marketplace.visualstudio.com/items?itemName=Ruvaaaaaa.error-exe) | Error.exe | 0.0.1 | A vintage computer companion that reacts to diagnostics and celebrates builds a… |
+| 2026-10-31 22:35:20 | [HermesSilva.tootega-asciidoc](https://marketplace.visualstudio.com/items?itemName=HermesSilva.tootega-asciidoc) | Tootega AsciiDoc | 0.1.5 | Complete AsciiDoc editor: WYSIWYG, code with highlighting and real-time preview… |
+| 2026-10-31 22:38:19 | [rohit-vscode-ext.git-commit-ai-message-generator](https://marketplace.visualstudio.com/items?itemName=rohit-vscode-ext.git-commit-ai-message-generator) | Drafty - AI Commit Messages Generator | 0.0.1 | Generate accurate commit messages from your changes using the AI model you alre… |
+| 2026-10-31 22:42:38 | [codeflower.codeflower](https://marketplace.visualstudio.com/items?itemName=codeflower.codeflower) | code flower | 0.10.0 | Chat with sandboxed Claude Code, Codex, and DeepSeek Harness workers on your HP… |
 
 ## Data source
 
