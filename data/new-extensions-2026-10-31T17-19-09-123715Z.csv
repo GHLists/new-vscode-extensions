@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T16:30:12.673Z,a2ztools.a2z-tools,a2ztools,"A2Z Tools: DNS, SSL and Email Checks",1.0.0,"Look up DNS records, SSL certificates, security headers, SPF, DMARC and WHOIS from the Command Palette."
+2026-10-31T16:31:22.4Z,GideonAlake.nim-model-bridge,GideonAlake,NIM Model Bridge,1.0.1,"Use the full NVIDIA NIM model catalog from Claude Code, Codex CLI and any OpenAI/Anthropic-compatible AI tool — in VS Code, Cursor, Windsurf/Devin, Trae, Positron, VSCodium, ZCode and more (plus a standalone CLI for editors without extension support)."
+2026-10-31T16:45:20.68Z,brewpage.brewpage-report-publisher,brewpage,BrewPage Report Publisher,0.1.0,"Publish a reviewed HTML, Markdown or text report from your active editor."
+2026-10-31T16:46:45.463Z,ahmedshaban.antigravity-prompt-enhancer,ahmedshaban,Antigravity Prompt Enhancer,1.0.4,Intelligent Two-Stage Context Discovery and Master Prompt Synthesis for Antigravity AI Chat
+2026-10-31T17:06:34.57Z,dotnetpower.test-context-native,dotnetpower,Test Context by dotnetpower,0.1.0,"Fast Python & Rust AST dependency graph, speculative background pytest/cargo runner, Ruff pre-check, and instant test cache."
+2026-10-31T17:10:45.89Z,volfied.mallorn-theme,volfied,Mallorn,0.2.0,"Cream text on deep teal-green, with a matching light variant. Built from an OKLCH palette."

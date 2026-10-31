@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 16:18 UTC
+## Latest list — 2026-10-31 17:19 UTC
 
-New extensions published between 2026-10-31 14:18 UTC and 2026-10-31 16:18 UTC.
+New extensions published between 2026-10-31 15:19 UTC and 2026-10-31 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T16-18-34-535887Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T17-19-09-123715Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 15:16:05 | [jaeliu2000.clp-log-viewer](https://marketplace.visualstudio.com/items?itemName=jaeliu2000.clp-log-viewer) | CLP Log Viewer | 0.1.0 | Decode y-scope CLP (.clp / .clp.zst) log archives inside VS Code |
-| 2026-10-31 15:17:36 | [ghostpilot.ghostpilot-vscode](https://marketplace.visualstudio.com/items?itemName=ghostpilot.ghostpilot-vscode) | Ghostpilot | 0.3.0 | Explain, review, optimise or solve the selected code with Ghostpilot: in an edi… |
-| 2026-10-31 15:23:34 | [BiruIndonesiaCreative.tele-vs-code](https://marketplace.visualstudio.com/items?itemName=BiruIndonesiaCreative.tele-vs-code) | Tele-vs-Code | 1.0.2 | Telegram sebagai pesuruh VS Code dari mana aja - Kontrol, delegasikan tugas, da… |
-| 2026-10-31 15:27:51 | [saedgewell.stella-lms](https://marketplace.visualstudio.com/items?itemName=saedgewell.stella-lms) | STELLA 研修 | 0.4.0 | STELLA の課題を VS Code で受け取り、手元で確かめて提出する拡張機能 |
-| 2026-10-31 15:50:22 | [bmpenuelas.search-by-filename](https://marketplace.visualstudio.com/items?itemName=bmpenuelas.search-by-filename) | Search by filename - find files | 1.1.0 | Find files searching by filename in VSCode. Supports regexp, including ignored… |
-| 2026-10-31 15:51:20 | [YD359Team.zeppelinforms](https://marketplace.visualstudio.com/items?itemName=YD359Team.zeppelinforms) | ZeppelinForms | 0.19.2 | Completion, hover and problems for ZeppelinForms markup (.zfml) and style sheet… |
-| 2026-10-31 15:59:26 | [M1n.claude-agent-copilot-provider](https://marketplace.visualstudio.com/items?itemName=M1n.claude-agent-copilot-provider) | Claude Agent SDK for Copilot Chat | 0.1.1 | Adds Claude models backed by the Claude Agent SDK to the GitHub Copilot Chat mo… |
+| 2026-10-31 16:30:12 | [a2ztools.a2z-tools](https://marketplace.visualstudio.com/items?itemName=a2ztools.a2z-tools) | A2Z Tools: DNS, SSL and Email Checks | 1.0.0 | Look up DNS records, SSL certificates, security headers, SPF, DMARC and WHOIS f… |
+| 2026-10-31 16:31:22 | [GideonAlake.nim-model-bridge](https://marketplace.visualstudio.com/items?itemName=GideonAlake.nim-model-bridge) | NIM Model Bridge | 1.0.1 | Use the full NVIDIA NIM model catalog from Claude Code, Codex CLI and any OpenA… |
+| 2026-10-31 16:45:20 | [brewpage.brewpage-report-publisher](https://marketplace.visualstudio.com/items?itemName=brewpage.brewpage-report-publisher) | BrewPage Report Publisher | 0.1.0 | Publish a reviewed HTML, Markdown or text report from your active editor. |
+| 2026-10-31 16:46:45 | [ahmedshaban.antigravity-prompt-enhancer](https://marketplace.visualstudio.com/items?itemName=ahmedshaban.antigravity-prompt-enhancer) | Antigravity Prompt Enhancer | 1.0.4 | Intelligent Two-Stage Context Discovery and Master Prompt Synthesis for Antigra… |
+| 2026-10-31 17:06:34 | [dotnetpower.test-context-native](https://marketplace.visualstudio.com/items?itemName=dotnetpower.test-context-native) | Test Context by dotnetpower | 0.1.0 | Fast Python & Rust AST dependency graph, speculative background pytest/cargo ru… |
+| 2026-10-31 17:10:45 | [volfied.mallorn-theme](https://marketplace.visualstudio.com/items?itemName=volfied.mallorn-theme) | Mallorn | 0.2.0 | Cream text on deep teal-green, with a matching light variant. Built from an OKL… |
 
 ## Data source
 
