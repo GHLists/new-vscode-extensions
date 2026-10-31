@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T15:16:05.543Z,jaeliu2000.clp-log-viewer,jaeliu2000,CLP Log Viewer,0.1.0,Decode y-scope CLP (.clp / .clp.zst) log archives inside VS Code
+2026-10-31T15:17:36.393Z,ghostpilot.ghostpilot-vscode,ghostpilot,Ghostpilot,0.3.0,"Explain, review, optimise or solve the selected code with Ghostpilot: in an editor panel, or in the Ghostpilot Mac app's overlay."
+2026-10-31T15:23:34.367Z,BiruIndonesiaCreative.tele-vs-code,BiruIndonesiaCreative,Tele-vs-Code,1.0.2,"Telegram sebagai pesuruh VS Code dari mana aja - Kontrol, delegasikan tugas, dan pantau AI Agent dari Telegram"
+2026-10-31T15:27:51.043Z,saedgewell.stella-lms,saedgewell,STELLA 研修,0.4.0,STELLA の課題を VS Code で受け取り、手元で確かめて提出する拡張機能
+2026-10-31T15:50:22.027Z,bmpenuelas.search-by-filename,bmpenuelas,Search by filename - find files,1.1.0,"Find files searching by filename in VSCode. Supports regexp, including ignored files, case matching..."
+2026-10-31T15:51:20.98Z,YD359Team.zeppelinforms,YD359Team,ZeppelinForms,0.19.2,"Completion, hover and problems for ZeppelinForms markup (.zfml) and style sheets (.zss), and a live preview of the project's forms and [Preview] methods."
+2026-10-31T15:59:26.687Z,M1n.claude-agent-copilot-provider,M1n,Claude Agent SDK for Copilot Chat,0.1.1,Adds Claude models backed by the Claude Agent SDK to the GitHub Copilot Chat model picker.
