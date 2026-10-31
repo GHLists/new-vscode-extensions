@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T12:15:35.327Z,Rashidlab.rashid-code-snap,Rashidlab,Rashid Code Snap — Beautiful Code Screenshots,1.0.0,"Select code, right-click, Snap. Get a clean PNG sized for any social platform, with themes, backgrounds and your @handle. Works offline."
+2026-10-31T12:22:42.08Z,Rashidlab.rashid-kit,Rashidlab,Rashid Kit — All 6 Rashid Extensions,1.0.0,"One install for all six Rashid extensions: Rashid Lab icons & themes, Secret Blur, Folder Colors, Ziman (Kurdish translations), Code Snap and Quick Notes."
+2026-10-31T12:26:56.527Z,MuneerPuri.old-skool-ai,MuneerPuri,Old Skool AI,0.0.2,"Copy your project tree + selected files as a clean, AI-ready prompt in one click. Paste straight into ChatGPT, Claude, Gemini or Google AI Studio."
+2026-10-31T12:35:29.733Z,piyushpriyadarshi.reqflow-api-client,piyushpriyadarshi,ReqFlow API Client,1.0.0,"REST API client for VS Code. Test APIs with collections, environments, history, and cURL. No login or account required."
+2026-10-31T12:38:17.71Z,cromolang.cromo,cromolang,Cromo,0.10.0,"The Cromo language: syntax highlighting, errors as you type, hover, go to definition, outline, completion and formatting, with the language server of cromo"
+2026-10-31T13:02:05.227Z,LukasMaag.system-mapper,LukasMaag,System Mapper,1.0.2,"Edit Xtext models and mapping specifications, and run model-to-model transformations."
+2026-10-31T13:04:33.903Z,ceesafe.ceesafe-language,ceesafe,CeeSafe,0.2.0,"The CeeSafe language: syntax highlighting, and diagnostics, hover, go to definition, outline and formatting from ceesafec lsp."
