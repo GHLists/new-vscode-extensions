@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T05:12:27.433Z,FuiSQL.fuisql-fusion-compare,FuiSQL,FuiSQL Fusion Compare,1.0.1,"Compare Oracle Fusion setup between two environments with a guided wizard, and review what differs without leaving VS Code."
+2026-10-31T05:21:38.533Z,SanyamKumar.anyjson,SanyamKumar,AnyJSON,0.1.1,"Format, minify, and lint JSON documents in Visual Studio Code."
+2026-10-31T05:22:26.373Z,joeljohnjobinse.csk-theme,joeljohnjobinse,Chennai Super Kings Yellow Theme,1.0.0,An energetic dark theme inspired by the official colors of Chennai Super Kings (CSK).
+2026-10-31T05:24:40.723Z,ecocitizenz.eczid-website-security,ecocitizenz,ECZ-ID Website Security — Live Website Check,0.1.0,"Check any public website from VS Code. See what ECZ-ID can establish now, what remains UNKNOWN, what needs attention and when the evidence becomes stale. Free. No account required."
+2026-10-31T05:24:43.13Z,ecocitizenz.eczid-plugin-trust,ecocitizenz,ECZ-ID Plugin Trust,0.1.0,"Review plugin and extension publisher, manifest, permission and release evidence locally — then create a permanent Plugin Passport free."
+2026-10-31T05:24:44.743Z,ecocitizenz.eczid-sdk-trust,ecocitizenz,ECZ-ID SDK Trust,0.1.0,"Review SDK package, registry, repository and release-provenance evidence locally — then create a permanent SDK Passport free."
+2026-10-31T05:24:46.453Z,ecocitizenz.eczid-device-trust,ecocitizenz,ECZ-ID Device Trust,0.1.0,"Review device, firmware, fleet and operator identity evidence locally — then create a permanent IoT / Device Passport free."
+2026-10-31T05:24:48.177Z,ecocitizenz.eczid-workload-trust,ecocitizenz,ECZ-ID Workload Trust,0.1.0,"Review service/workload identity, deployment and federation evidence locally — then create a permanent Service & Workload Passport free."
+2026-10-31T05:59:51.72Z,nahueltaibo.o3dv-viewer,nahueltaibo,3D Model Viewer (Online3DViewer),0.2.0,"View STEP, STL, 3MF, OBJ, glTF and other 3D models inside VS Code, powered by Online3DViewer."
