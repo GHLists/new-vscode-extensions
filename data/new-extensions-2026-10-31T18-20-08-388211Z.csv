@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T17:14:12.427Z,VarshilSoni.querypilot-nl2sql,VarshilSoni,QueryPilot - Local SQL Assistant,0.1.9,Ask your MySQL database questions in plain English using local Ollama.
+2026-10-31T17:17:33.33Z,HyperEZ.hyperez-language,HyperEZ,HyperEZ Language Support,0.1.0,"Soporte del lenguaje HyperEZ (.hz, .hez) para VS Code: resaltado de sintaxis, snippets, autocierre de pares, comentarios y tema."
+2026-10-31T17:36:39.193Z,rok-lang.rok,rok-lang,Rok,0.1.0,Rok language support: syntax highlighting and the rokls language server
+2026-10-31T17:43:53.55Z,Kasuality.kasuality-vscode,Kasuality,Kasuality — Universal Color & K-UDA Design System,1.0.0,"Professional Color Science & Design System for VS Code & Cursor. Real-time OKLCH palettes, APCA / WCAG accessibility checker, bitematic K-UDA tokens, and AI context rules."
+2026-10-31T17:44:24.12Z,SalahMo24.impact-tree,SalahMo24,Impact Tree,1.0.0,"Review a diff as an inverted call graph — see what each change affects and which callers weren't updated. TypeScript, JavaScript, Go and Python."
+2026-10-31T17:51:09.307Z,vistr.thinkmax,vistr,thinkmax,0.9.3,Quick puzzles and reply alerts for Codex and Claude Code in VS Code.
+2026-10-31T17:52:01.927Z,JanghoTan.depscope-vscode,JanghoTan,DepScope,0.1.0,Dependency security inspection and vulnerability intelligence for VS Code
+2026-10-31T17:56:31.233Z,Shinem-dev.ps-blogself,Shinem-dev,ps-blogself,0.0.1,Generate problem-solving blog from code evolution
