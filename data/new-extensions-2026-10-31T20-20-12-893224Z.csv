@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T19:18:16.89Z,NimitAryan.neuron-spatial-map,NimitAryan,Neuron Spatial Map,1.2.0,"High-performance WebGPU celestial codebase map, AST visualizer, and spatial code navigation for VS Code."
+2026-10-31T19:22:58.223Z,datanest.datanest,datanest,"DataNest – Database Client for MySQL, PostgreSQL, SQLite, SQL Server, MongoDB, Redis",1.6.2,"Free open-source database client and SQL editor for MySQL, MariaDB, PostgreSQL, SQLite, SQL Server, Oracle, ClickHouse, MongoDB, Redis and Elasticsearch: table designer, ER diagram, import and export, no account, no telemetry."
+2026-10-31T19:23:14.977Z,RodrigoBritto.cmsis-configurator-mcc-like,RodrigoBritto,CMSIS configurator MCC-LIKE,0.1.0,"PIC32CM peripheral, pin, clock and CMSIS configuration inside VS Code."
+2026-10-31T19:25:26.37Z,MrKarmannik.codex-session-tabs,MrKarmannik,ThreadShelf for Codex,0.9.1,"Codex sessions, editor tabs, and live account limits in the Activity Bar."
+2026-10-31T19:53:59.717Z,halen-industry-technology.fraqshift,halen-industry-technology,Fraqshift,0.0.1,Independent silicon-level language support for Fraqshift. Optimized for direct RAM manipulation and bare-metal hardware execution.
+2026-10-31T19:54:15.703Z,webgrandpa.kvali,webgrandpa,Kvali — AI Agent Progress,0.6.1,"One progress bar for all your AI coding agents: plan progress, the current step, usage and alerts on your phone, grouped by project. Local and read-only."
+2026-10-31T19:55:15.027Z,yay.diff-stats,yay,Diff Stats,1.0.0,Uncommitted Git file and line counts in the status bar
+2026-10-31T19:57:22.373Z,Aiolearn.aiolearn,Aiolearn,Aiolearn Check & Submit,1.0.1,سیستم هوشمند بررسی و ارسال خودکار تکالیف دانشجویان آیولرن
+2026-10-31T20:04:59.657Z,RuhmeetDhingra.rusc-security,RuhmeetDhingra,RUSC — Supply-Chain Security,0.1.0,"Reachability-Aware Supply-Chain Security: find reachable vulnerabilities, dead-code CVEs, typosquatted packages, and provenance issues in your Python projects."
+2026-10-31T20:05:20.183Z,MohammadAbuHaded.param-reorder,MohammadAbuHaded,Parameter Reorder,1.0.0,Reorder a function's parameters and automatically rewrite every call site across your TypeScript / JavaScript project.
+2026-10-31T20:05:55.697Z,DigitalDefiance.kiro-spec-progress,DigitalDefiance,Kiro Spec Progress,0.1.0,Progress bars for your Kiro specs: shows % complete per spec by counting the task checkboxes in .kiro/specs/*/tasks.md.
