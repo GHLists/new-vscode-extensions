@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T04:28:12.763Z,SAMtak.rhat,SAMtak,R^ (Rhat) Language Support,0.1.0,"Language support for R^, powered by the native rhat language server (rhat lsp)."
+2026-10-31T04:39:05.67Z,zr2863356099-sudo.zr-c-fix,zr2863356099-sudo,zr 的 C 语言自动报错和补写小助手,0.3.0,面向 C 语言学习者的离线纠错与补全：灰色小字指出错误，Tab 一键修正。
+2026-10-31T04:51:24.09Z,joeljohnjobinse.manchester-city-theme,joeljohnjobinse,Manchester City Sky Blue Theme,1.0.0,An elegant dark theme inspired by the official colors of Manchester City FC.
+2026-10-31T04:54:24.393Z,Jadpo.jadpo,Jadpo,Jadpo,0.1.0,"Jadpo language support: the compiler's own errors, hover, completion, go to definition, references, formatting and quick fixes through jadpo lsp, and highlighting."
+2026-10-31T05:10:42.457Z,MichaelHenry19.vxcode,MichaelHenry19,VXCode,1.0.1,Build and run iOS Simulator apps with Xcode tools on macOS.
+2026-10-31T05:11:03.517Z,shaktIQ.shaktiq-vscode,shaktIQ,shaktIQ – OpenAPI Breaking Change Detection,0.1.0,Deterministic OpenAPI Breaking Change Detection & Release Impact Intelligence in VS Code

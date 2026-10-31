@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 04:20 UTC
+## Latest list — 2026-10-31 05:20 UTC
 
-New extensions published between 2026-10-31 02:20 UTC and 2026-10-31 04:20 UTC.
+New extensions published between 2026-10-31 03:20 UTC and 2026-10-31 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T04-20-08-497536Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T05-20-45-633529Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 03:23:28 | [azayzel-comparelab.comparelab](https://marketplace.visualstudio.com/items?itemName=azayzel-comparelab.comparelab) | CompareLab | 0.2.2 | Compare AI models and prompt variants in VS Code with inline diffs, controlled… |
-| 2026-10-31 03:25:05 | [velstudio.learn-rust](https://marketplace.visualstudio.com/items?itemName=velstudio.learn-rust) | Learn Rust for web devs | 0.1.0 | Apprendre Rust dans ton éditeur quand on vient de TypeScript : la leçon à côté… |
-| 2026-10-31 03:34:33 | [rin00159.schema-form-editor](https://marketplace.visualstudio.com/items?itemName=rin00159.schema-form-editor) | Schema Form Editor | 0.1.0 | JSON Schema から YAML / JSON 用のフォーム編集画面を自動生成します。CMS のように、非エンジニアでも編集できます。vscode.de… |
-| 2026-10-31 03:49:28 | [SanyamKumar.anycsv](https://marketplace.visualstudio.com/items?itemName=SanyamKumar.anycsv) | AnyCSV | 0.1.5 | Work with delimited text: detect separators, preview tables, filter columns, an… |
-| 2026-10-31 04:12:04 | [sejunch.hanraeng](https://marketplace.visualstudio.com/items?itemName=sejunch.hanraeng) | 한랭 (Hanlang) | 0.2.0 | 교육용 한글 프로그래밍 언어 한랭(.han) — 문법 색칠, 저장할 때 오류 밑줄, 실행 버튼, 디버거(멈춤점·한 줄씩·변수), 키워드 설명 |
-| 2026-10-31 04:14:21 | [VisualCoder-sudo.flyengine](https://marketplace.visualstudio.com/items?itemName=VisualCoder-sudo.flyengine) | FlyEngine (Z# and C++ scripting) | 0.2.0 | IntelliSense for FlyEngine: Z# (.zs) diagnostics, go to definition, hover, outl… |
+| 2026-10-31 04:28:12 | [SAMtak.rhat](https://marketplace.visualstudio.com/items?itemName=SAMtak.rhat) | R^ (Rhat) Language Support | 0.1.0 | Language support for R^, powered by the native rhat language server (rhat lsp). |
+| 2026-10-31 04:39:05 | [zr2863356099-sudo.zr-c-fix](https://marketplace.visualstudio.com/items?itemName=zr2863356099-sudo.zr-c-fix) | zr 的 C 语言自动报错和补写小助手 | 0.3.0 | 面向 C 语言学习者的离线纠错与补全：灰色小字指出错误，Tab 一键修正。 |
+| 2026-10-31 04:51:24 | [joeljohnjobinse.manchester-city-theme](https://marketplace.visualstudio.com/items?itemName=joeljohnjobinse.manchester-city-theme) | Manchester City Sky Blue Theme | 1.0.0 | An elegant dark theme inspired by the official colors of Manchester City FC. |
+| 2026-10-31 04:54:24 | [Jadpo.jadpo](https://marketplace.visualstudio.com/items?itemName=Jadpo.jadpo) | Jadpo | 0.1.0 | Jadpo language support: the compiler's own errors, hover, completion, go to def… |
+| 2026-10-31 05:10:42 | [MichaelHenry19.vxcode](https://marketplace.visualstudio.com/items?itemName=MichaelHenry19.vxcode) | VXCode | 1.0.1 | Build and run iOS Simulator apps with Xcode tools on macOS. |
+| 2026-10-31 05:11:03 | [shaktIQ.shaktiq-vscode](https://marketplace.visualstudio.com/items?itemName=shaktIQ.shaktiq-vscode) | shaktIQ – OpenAPI Breaking Change Detec… | 0.1.0 | Deterministic OpenAPI Breaking Change Detection & Release Impact Intelligence i… |
 
 ## Data source
 
