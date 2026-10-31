@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T06:25:34.95Z,Terabinaryte.xdoj-vscode,Terabinaryte,XDOJ,0.1.0,在 VS Code 里刷 OJ：题目列表、题面预览（PDF / DOCX / TXT）、一键提交 cpp、提交状态
+2026-10-31T06:27:21.33Z,efthymios-ks.dotnet-workbench,efthymios-ks,.NET Workbench,0.0.1,"Build, run, debug and attach .NET solutions, run and debug tests, format code, manage EF Core migrations, NuGet packages, user secrets and dev tunnels, and run the repo's own scripts from VS Code."
+2026-10-31T07:05:39.273Z,pablopeanutbar.css-tweaker,pablopeanutbar,CSS Tweaker,0.1.0,Adjust CSS numeric values directly using keyboard shortcuts.
+2026-10-31T07:10:10.377Z,SourCa.sourca-ide,SourCa,SourCa IDE,1.0.1,Solve SourCa placement coding interview problems locally in VS Code with local testing and authoritative server submissions.
