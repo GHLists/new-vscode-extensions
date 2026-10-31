@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T07:38:36.493Z,swak-inc.swak-markdown-preview,swak-inc,Swak Markdown,1.0.0,"Edit Markdown in a styled live preview, switch to reading view, and navigate with a resizable outline. / Markdownを整った表示で編集・閲覧。"
+2026-10-31T07:40:14.093Z,OptimusPrime45.Copy-WAD,OptimusPrime45,Copy-WAD,0.0.1,Offline Resource Library for VS Code
+2026-10-31T07:51:46.717Z,TestAgentic.atf-vscode,TestAgentic,atf: agentic testing,0.1.1,"A UI for the atf agentic testing framework: run status, the clarifications and test case approval sheets, and run reports. Requires the licensed @testagentic/atf package installed in your workspace; without it, the extension does nothing."
