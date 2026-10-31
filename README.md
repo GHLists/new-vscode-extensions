@@ -12,16 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 01:20 UTC
+## Latest list — 2026-10-31 02:20 UTC
 
-New extensions published between 2026-10-30 23:20 UTC and 2026-10-31 01:20 UTC.
+New extensions published between 2026-10-31 00:20 UTC and 2026-10-31 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T01-20-33-062836Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T02-20-34-790749Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 00:32:25 | [marshmellow.marshmallow-theme](https://marketplace.visualstudio.com/items?itemName=marshmellow.marshmallow-theme) | Marshmallow Theme | 0.4.3 | Code that looks good enough to eat. |
-| 2026-10-31 01:11:49 | [Goncalo17Cardoso.csharp-workbench-studio](https://marketplace.visualstudio.com/items?itemName=Goncalo17Cardoso.csharp-workbench-studio) | C# Workbench Studio | 0.3.0 | Visual Studio-style tools for .NET in VS Code: NuGet package manager, Solution… |
+| 2026-10-31 01:16:32 | [happyhourcode.vsgram](https://marketplace.visualstudio.com/items?itemName=happyhourcode.vsgram) | VSGram | 0.2.0 | Cliente de Telegram no oficial para VS Code, con modo fantasma, modo discreto,… |
+| 2026-10-31 01:29:14 | [aetherscript.aetherscript](https://marketplace.visualstudio.com/items?itemName=aetherscript.aetherscript) | AetherScript | 0.5.0 | Learn AetherScript in a custom language IDE with syntax highlighting, interpret… |
+| 2026-10-31 02:04:38 | [wdomitrz.rewraps](https://marketplace.visualstudio.com/items?itemName=wdomitrz.rewraps) | Rewraps | 0.8.0 | Hard word wrapping for comments and other text, at a given column. |
 
 ## Data source
 
