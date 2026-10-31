@@ -12,17 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 10:20 UTC
+## Latest list — 2026-10-31 11:20 UTC
 
-New extensions published between 2026-10-31 08:20 UTC and 2026-10-31 10:20 UTC.
+New extensions published between 2026-10-31 09:20 UTC and 2026-10-31 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T10-20-02-80793Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T11-20-27-238404Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 09:15:26 | [nguyentaijs.flowable-design-local](https://marketplace.visualstudio.com/items?itemName=nguyentaijs.flowable-design-local) | Flowable Design Local | 0.1.1 | Visual BPMN and DMN editor for Flowable 7.2.0 community, with run visualization… |
-| 2026-10-31 09:36:11 | [AbdellatifELMIZEB.claude-consumption-vscode](https://marketplace.visualstudio.com/items?itemName=AbdellatifELMIZEB.claude-consumption-vscode) | Claude Consumption | 0.1.1 | Animated cyberpunk dashboard for Claude Code in VS Code: track agents, tasks, t… |
-| 2026-10-31 10:06:49 | [emch04.humalis](https://marketplace.visualstudio.com/items?itemName=emch04.humalis) | Humalis | 1.0.0 | Le langage Humalis dans VS Code : erreurs du compilateur en direct, survol, com… |
+| 2026-10-31 10:34:36 | [ieshishinjin.mormonkai](https://marketplace.visualstudio.com/items?itemName=ieshishinjin.mormonkai) | Mormonkai | 1.0.0 | GitHub theme UI with One Monokai syntax highlighting |
+| 2026-10-31 10:51:58 | [orbit-z.lyr](https://marketplace.visualstudio.com/items?itemName=orbit-z.lyr) | Lyr | 0.1.0 | Lyr (.lyr) language support: syntax highlighting, and Go and TypeScript complet… |
+| 2026-10-31 10:55:12 | [AbdellatifELMIZEB.codex-consumption-vscode](https://marketplace.visualstudio.com/items?itemName=AbdellatifELMIZEB.codex-consumption-vscode) | Codex Consumption | 0.1.1 | Animated cyberpunk dashboard for Codex: agents, tools, tokens, context, estimat… |
+| 2026-10-31 10:57:34 | [QuantumLab-ZY.oh-my-hamgnn](https://marketplace.visualstudio.com/items?itemName=QuantumLab-ZY.oh-my-hamgnn) | HamGNN Config Generator | 0.1.0 | Generate HamGNN YAML configuration files from VS Code. |
+| 2026-10-31 10:59:29 | [celalakcelikk.magipilot](https://marketplace.visualstudio.com/items?itemName=celalakcelikk.magipilot) | Magipilot | 0.1.1 | Inline code completions from local models (Ollama, llama.cpp, LM Studio) or you… |
+| 2026-10-31 11:10:46 | [thejakia1.kitty-party](https://marketplace.visualstudio.com/items?itemName=thejakia1.kitty-party) | Kitty Party - Watermelon Themes & Danci… | 0.1.4 | Five watermelon color themes, plus an opt-in party of dancing cats, falling wat… |
+| 2026-10-31 11:13:15 | [PyAMS.PyAMS](https://marketplace.visualstudio.com/items?itemName=PyAMS.PyAMS) | PyAMS - Python for Analog and Mixed Sig… | 0.3.0 |  |
 
 ## Data source
 
