@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T20:28:43.51Z,wakacraft.wakacraft,wakacraft,wakacraft,0.1.0,"Automatic time tracking for wakacraft: coding time, projects and languages on your wakacraft dashboard."
+2026-10-31T20:31:13.843Z,Agent-companion.agent-companion,Agent-companion,Agent Companion - Voice Alerts for AI Coding Agents,0.1.0,"Tells you by voice what your AI coding agent is doing: approvals, failures and finished tasks."
+2026-10-31T20:31:19.56Z,daskopfkino.sensation-theme,daskopfkino,sensation-theme,1.3.0,"Sensation is a theme inspired by Nestlé's Sensação chocolate. Dark mode blends brown with pink and beige accents, while light mode offers a beige base with brown and pink details. Coding never felt this smooth."
+2026-10-31T20:37:00.657Z,thulir-inc.jet-new-ui-theme,thulir-inc,Jet New UI Theme (PyCharm-inspired),1.2.0,"Clean light and dark color themes, file/folder icons, and JetBrains Mono editor defaults inspired by the PyCharm New UI. Not affiliated with JetBrains."
+2026-10-31T20:47:34.937Z,StickIT.stickit,StickIT,StickIT,1.0.0,Realistic sticky notes for code
+2026-10-31T20:47:36.103Z,JosCruzChvez.gdw-vault-mcp,JosCruzChvez,GDW Vault MCP,0.1.0,macOS only: configure the GDW Vault app as a global GitHub Copilot MCP server in VS Code.
+2026-10-31T20:49:45.76Z,spseol.stm8-toolchain,spseol,STM8 Toolchain Debugger,0.2.0,"Build, flash and debug STM8S microcontroller projects with SDCC, OpenOCD and stm8-gdb: create a project, press F5, step through code, inspect variables and peripheral registers."
+2026-10-31T20:52:19.917Z,jaewon-lee.jaewon-claude-status,jaewon-lee,jaewon-claude-status,0.1.0,"Shows Claude Code context-window usage and session tokens in the VS Code status bar, read from local Claude Code transcripts."
+2026-10-31T20:56:59.093Z,alexandevs.basilisco,alexandevs,Basilisco,0.1.1,Resaltado de sintaxis para el lenguaje de programación BASILISCO
+2026-10-31T21:08:15.56Z,Santonin.ai-commit-scribe,Santonin,AICommitScribe,0.1.9,中文 AI 提交说明助手：可编辑系统提示词，支持 Responses 与 Chat Completions。

@@ -12,25 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-10-31 20:20 UTC
+## Latest list — 2026-10-31 21:20 UTC
 
-New extensions published between 2026-10-31 18:20 UTC and 2026-10-31 20:20 UTC.
+New extensions published between 2026-10-31 19:20 UTC and 2026-10-31 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-10-31T20-20-12-893224Z.csv)
+[Full CSV](data/new-extensions-2026-10-31T21-20-19-078978Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 19:18:16 | [NimitAryan.neuron-spatial-map](https://marketplace.visualstudio.com/items?itemName=NimitAryan.neuron-spatial-map) | Neuron Spatial Map | 1.2.0 | High-performance WebGPU celestial codebase map, AST visualizer, and spatial cod… |
-| 2026-10-31 19:22:58 | [datanest.datanest](https://marketplace.visualstudio.com/items?itemName=datanest.datanest) | DataNest – Database Client for MySQL, P… | 1.6.2 | Free open-source database client and SQL editor for MySQL, MariaDB, PostgreSQL,… |
-| 2026-10-31 19:23:14 | [RodrigoBritto.cmsis-configurator-mcc-like](https://marketplace.visualstudio.com/items?itemName=RodrigoBritto.cmsis-configurator-mcc-like) | CMSIS configurator MCC-LIKE | 0.1.0 | PIC32CM peripheral, pin, clock and CMSIS configuration inside VS Code. |
-| 2026-10-31 19:25:26 | [MrKarmannik.codex-session-tabs](https://marketplace.visualstudio.com/items?itemName=MrKarmannik.codex-session-tabs) | ThreadShelf for Codex | 0.9.1 | Codex sessions, editor tabs, and live account limits in the Activity Bar. |
-| 2026-10-31 19:53:59 | [halen-industry-technology.fraqshift](https://marketplace.visualstudio.com/items?itemName=halen-industry-technology.fraqshift) | Fraqshift | 0.0.1 | Independent silicon-level language support for Fraqshift. Optimized for direct… |
-| 2026-10-31 19:54:15 | [webgrandpa.kvali](https://marketplace.visualstudio.com/items?itemName=webgrandpa.kvali) | Kvali — AI Agent Progress | 0.6.1 | One progress bar for all your AI coding agents: plan progress, the current step… |
-| 2026-10-31 19:55:15 | [yay.diff-stats](https://marketplace.visualstudio.com/items?itemName=yay.diff-stats) | Diff Stats | 1.0.0 | Uncommitted Git file and line counts in the status bar |
-| 2026-10-31 19:57:22 | [Aiolearn.aiolearn](https://marketplace.visualstudio.com/items?itemName=Aiolearn.aiolearn) | Aiolearn Check & Submit | 1.0.1 | سیستم هوشمند بررسی و ارسال خودکار تکالیف دانشجویان آیولرن |
-| 2026-10-31 20:04:59 | [RuhmeetDhingra.rusc-security](https://marketplace.visualstudio.com/items?itemName=RuhmeetDhingra.rusc-security) | RUSC — Supply-Chain Security | 0.1.0 | Reachability-Aware Supply-Chain Security: find reachable vulnerabilities, dead-… |
-| 2026-10-31 20:05:20 | [MohammadAbuHaded.param-reorder](https://marketplace.visualstudio.com/items?itemName=MohammadAbuHaded.param-reorder) | Parameter Reorder | 1.0.0 | Reorder a function's parameters and automatically rewrite every call site acros… |
-| 2026-10-31 20:05:55 | [DigitalDefiance.kiro-spec-progress](https://marketplace.visualstudio.com/items?itemName=DigitalDefiance.kiro-spec-progress) | Kiro Spec Progress | 0.1.0 | Progress bars for your Kiro specs: shows % complete per spec by counting the ta… |
+| 2026-10-31 20:28:43 | [wakacraft.wakacraft](https://marketplace.visualstudio.com/items?itemName=wakacraft.wakacraft) | wakacraft | 0.1.0 | Automatic time tracking for wakacraft: coding time, projects and languages on y… |
+| 2026-10-31 20:31:13 | [Agent-companion.agent-companion](https://marketplace.visualstudio.com/items?itemName=Agent-companion.agent-companion) | Agent Companion - Voice Alerts for AI C… | 0.1.0 | Tells you by voice what your AI coding agent is doing: approvals, failures and… |
+| 2026-10-31 20:31:19 | [daskopfkino.sensation-theme](https://marketplace.visualstudio.com/items?itemName=daskopfkino.sensation-theme) | sensation-theme | 1.3.0 | Sensation is a theme inspired by Nestlé's Sensação chocolate. Dark mode blends… |
+| 2026-10-31 20:37:00 | [thulir-inc.jet-new-ui-theme](https://marketplace.visualstudio.com/items?itemName=thulir-inc.jet-new-ui-theme) | Jet New UI Theme (PyCharm-inspired) | 1.2.0 | Clean light and dark color themes, file/folder icons, and JetBrains Mono editor… |
+| 2026-10-31 20:47:34 | [StickIT.stickit](https://marketplace.visualstudio.com/items?itemName=StickIT.stickit) | StickIT | 1.0.0 | Realistic sticky notes for code |
+| 2026-10-31 20:47:36 | [JosCruzChvez.gdw-vault-mcp](https://marketplace.visualstudio.com/items?itemName=JosCruzChvez.gdw-vault-mcp) | GDW Vault MCP | 0.1.0 | macOS only: configure the GDW Vault app as a global GitHub Copilot MCP server i… |
+| 2026-10-31 20:49:45 | [spseol.stm8-toolchain](https://marketplace.visualstudio.com/items?itemName=spseol.stm8-toolchain) | STM8 Toolchain Debugger | 0.2.0 | Build, flash and debug STM8S microcontroller projects with SDCC, OpenOCD and st… |
+| 2026-10-31 20:52:19 | [jaewon-lee.jaewon-claude-status](https://marketplace.visualstudio.com/items?itemName=jaewon-lee.jaewon-claude-status) | jaewon-claude-status | 0.1.0 | Shows Claude Code context-window usage and session tokens in the VS Code status… |
+| 2026-10-31 20:56:59 | [alexandevs.basilisco](https://marketplace.visualstudio.com/items?itemName=alexandevs.basilisco) | Basilisco | 0.1.1 | Resaltado de sintaxis para el lenguaje de programación BASILISCO |
+| 2026-10-31 21:08:15 | [Santonin.ai-commit-scribe](https://marketplace.visualstudio.com/items?itemName=Santonin.ai-commit-scribe) | AICommitScribe | 0.1.9 | 中文 AI 提交说明助手：可编辑系统提示词，支持 Responses 与 Chat Completions。 |
 
 ## Data source
 
