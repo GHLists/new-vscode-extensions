@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 15:20 UTC
+## Latest list — 2026-11-01 16:19 UTC
 
-New extensions published between 2026-11-01 13:20 UTC and 2026-11-01 15:20 UTC.
+New extensions published between 2026-11-01 14:19 UTC and 2026-11-01 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T15-20-38-402687Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T16-19-10-213841Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 14:28:32 | [revan99.hover-explain](https://marketplace.visualstudio.com/items?itemName=revan99.hover-explain) | Hover Explain | 0.4.2 | Cmd/Ctrl+hover any symbol for a short AI explanation in the hover. Works with N… |
-| 2026-11-01 14:32:59 | [bootloader.sebol](https://marketplace.visualstudio.com/items?itemName=bootloader.sebol) | SEBOL for Yokogawa CENTUM VP | 0.5.0 | Manual-traceable language support for Yokogawa CENTUM VP SEBOL: syntax, diagnos… |
-| 2026-11-01 14:33:50 | [PaulSquires.tiko](https://marketplace.visualstudio.com/items?itemName=PaulSquires.tiko) | Tiko | 0.1.2 | Language support for the tiko programming language: diagnostics, completion, ho… |
-| 2026-11-01 14:39:42 | [felipelourenco.rule-peek](https://marketplace.visualstudio.com/items?itemName=felipelourenco.rule-peek) | RulePeek | 1.0.0 | Hover a CSS class in HTML, JSX, TSX, Vue or Svelte to see its CSS rules, with f… |
-| 2026-11-01 14:50:40 | [ysf-bkr.evren-kod](https://marketplace.visualstudio.com/items?itemName=ysf-bkr.evren-kod) | Evren Kod | 0.1.0 | Zanaat disipliniyle kodlayan, kanıtla doğrulayan otonom VS Code ajanı. Kodlama,… |
-| 2026-11-01 14:50:56 | [RishiGujadhur.ts-test-impact](https://marketplace.visualstudio.com/items?itemName=RishiGujadhur.ts-test-impact) | TypeScript Structure: Refactoring & Tes… | 0.9.0 | WebStorm-style refactorings, cross-file inspections, structural search and navi… |
-| 2026-11-01 14:51:07 | [aequivor.aequivor](https://marketplace.visualstudio.com/items?itemName=aequivor.aequivor) | Aequivor | 1.0.0 | Run Aequivor cloud coding tasks on your repository, follow them and apply their… |
-| 2026-11-01 14:54:53 | [trails.trails-vscode](https://marketplace.visualstudio.com/items?itemName=trails.trails-vscode) | Trails for VS Code | 0.1.0 | Toggle a configurable command in an editor terminal with Ctrl+\. Defaults to Tr… |
-| 2026-11-01 15:09:19 | [DanielRoesch.auto-fix-all-open](https://marketplace.visualstudio.com/items?itemName=DanielRoesch.auto-fix-all-open) | Auto Fix All Open | 1.0.2 | Behebt alle automatisch behebbaren Probleme (inkl. spezieller Markdown-Regeln)… |
-| 2026-11-01 15:13:10 | [mio-yf.mio-project-switcher](https://marketplace.visualstudio.com/items?itemName=mio-yf.mio-project-switcher) | MIO Project Switcher | 0.3.0 | 从标题栏快速切换最近项目、工作区和文件，支持彩色项目标识、键盘导航与新窗口打开。 |
+| 2026-11-01 15:17:50 | [nexform.nexthon-language](https://marketplace.visualstudio.com/items?itemName=nexform.nexthon-language) | NEXTHON Language | 0.1.0 | Official language support for NEXTHON, an experimental programming language bui… |
+| 2026-11-01 15:25:34 | [EmantTools.tokensmasher](https://marketplace.visualstudio.com/items?itemName=EmantTools.tokensmasher) | TokenSmasher | 0.0.1 |  |
+| 2026-11-01 15:51:20 | [Pawnkoolong.antigravity-sidebar-autoaccept](https://marketplace.visualstudio.com/items?itemName=Pawnkoolong.antigravity-sidebar-autoaccept) | Antigravity Sidebar Auto Accept | 0.1.3 | Auto accept command approvals in the latest tested official Antigravity extensi… |
+| 2026-11-01 15:53:28 | [0xDimay.rust-use-graph](https://marketplace.visualstudio.com/items?itemName=0xDimay.rust-use-graph) | Rust Use Graph | 0.1.0 | File dependency graph for Rust based on use and mod declarations |
+| 2026-11-01 15:53:29 | [joaojardim-codevision.i18n-vision](https://marketplace.visualstudio.com/items?itemName=joaojardim-codevision.i18n-vision) | I18n Vision | 1.0.0 | i18n Vision brings clarity and speed to your internationalization workflow. Eff… |
+| 2026-11-01 15:56:27 | [SinaMashini.soundcheck](https://marketplace.visualstudio.com/items?itemName=SinaMashini.soundcheck) | Soundcheck | 2.0.0 | Preflight health check, role resolution, quirk immunity, and auto-failover for… |
+| 2026-11-01 16:04:00 | [twigsoftware.fubby](https://marketplace.visualstudio.com/items?itemName=twigsoftware.fubby) | Fubby | 0.1.0 | Fubby language support: highlighting, live errors, formatting, completions, out… |
+| 2026-11-01 16:10:33 | [neolinter.neolinter](https://marketplace.visualstudio.com/items?itemName=neolinter.neolinter) | Neolinter | 0.1.2 | Settings screen for Neolinter rules, stored in the workspace .editorconfig. |
 
 ## Data source
 

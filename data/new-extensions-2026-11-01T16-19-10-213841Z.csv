@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T15:17:50.777Z,nexform.nexthon-language,nexform,NEXTHON Language,0.1.0,"Official language support for NEXTHON, an experimental programming language built in Python."
+2026-11-01T15:25:34.207Z,EmantTools.tokensmasher,EmantTools,TokenSmasher,0.0.1,
+2026-11-01T15:51:20.06Z,Pawnkoolong.antigravity-sidebar-autoaccept,Pawnkoolong,Antigravity Sidebar Auto Accept,0.1.3,Auto accept command approvals in the latest tested official Antigravity extension for VS Code.
+2026-11-01T15:53:28.033Z,0xDimay.rust-use-graph,0xDimay,Rust Use Graph,0.1.0,File dependency graph for Rust based on use and mod declarations
+2026-11-01T15:53:29.223Z,joaojardim-codevision.i18n-vision,joaojardim-codevision,I18n Vision,1.0.0,"i18n Vision brings clarity and speed to your internationalization workflow. Effortlessly manage, preview, and edit your i18n JSON translation keys directly inside Visual Studio Code without jumping back and forth between translation files."
+2026-11-01T15:56:27.03Z,SinaMashini.soundcheck,SinaMashini,Soundcheck,2.0.0,"Preflight health check, role resolution, quirk immunity, and auto-failover for AI coding agents."
+2026-11-01T16:04:00.947Z,twigsoftware.fubby,twigsoftware,Fubby,0.1.0,"Fubby language support: highlighting, live errors, formatting, completions, outline, and run commands for .fab files."
+2026-11-01T16:10:33.56Z,neolinter.neolinter,neolinter,Neolinter,0.1.2,"Settings screen for Neolinter rules, stored in the workspace .editorconfig."
