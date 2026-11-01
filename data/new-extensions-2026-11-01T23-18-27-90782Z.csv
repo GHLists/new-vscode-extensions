@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T22:16:56.2Z,brianswiger.squad-pod,brianswiger,Squad Pod,0.1.0,Pixel art office where your Squad agents come to life as animated characters
+2026-11-01T22:27:49.827Z,HUAYANGTIAN.merino-dark-rex,HUAYANGTIAN,Merino Dark (Rex),1.0.0,"Rex Beta's Merino Dark palette for VS Code, with layered dark UI, GitHub-style syntax highlighting, and a 16-color terminal palette."
+2026-11-01T22:57:10.1Z,bitbyandy.shift-case,bitbyandy,Shift Case,0.0.1,Toggle selected text between UPPERCASE and lowercase with a single keybinding
+2026-11-01T23:02:21.973Z,hoox-sh.pyne,hoox-sh,PYNE Language Support,0.5.4,"Syntax highlighting, diagnostics, autocomplete, hover, and formatting for .pyne / .pine sources. Powered by hoox-pyne. Part of the HOOX open trading stack. Unofficial — not affiliated with TradingView, Inc."
+2026-11-01T23:10:32.927Z,varvarakarenski.squiggle-vscode,varvarakarenski,Squiggle - Error Explainer,0.1.0,Explains errors in plain language.
