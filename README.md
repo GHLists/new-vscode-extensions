@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 19:20 UTC
+## Latest list — 2026-11-01 20:20 UTC
 
-New extensions published between 2026-11-01 17:20 UTC and 2026-11-01 19:20 UTC.
+New extensions published between 2026-11-01 18:20 UTC and 2026-11-01 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T19-20-17-516765Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T20-20-24-992448Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 18:19:12 | [SoftForge.softforge-electronic-workbench](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-electronic-workbench) | SoftForge Electronic Workbench | 2.2.0 | Schematic and PCB design workbench for VS Code that reads and writes KiCad file… |
-| 2026-11-01 18:19:30 | [SoftForge.softforge-occt](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-occt) | SoftForge OCCT add-on | 2.2.0 | STEP import and export, outlines from STEP and DXF, 2D booleans and enclosure b… |
-| 2026-11-01 18:19:42 | [SoftForge.softforge-router-pro](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-router-pro) | SoftForge Router Pro | 2.2.0 | The paid autorouter of SoftForge Electronic Workbench: differential pairs, leng… |
-| 2026-11-01 18:39:14 | [OttodeVisserUU.opencrbasic](https://marketplace.visualstudio.com/items?itemName=OttodeVisserUU.opencrbasic) | CRBasic (opencrbasic) | 1.0.0 | CRBasic language support for CR6 programs, backed by the opencrbasic language s… |
-| 2026-11-01 18:44:10 | [PlanSignal.terraform-plansignal](https://marketplace.visualstudio.com/items?itemName=PlanSignal.terraform-plansignal) | PlanSignal | 0.7.1 | Review saved Terraform plans for destructive changes and security risks. Never… |
-| 2026-11-01 18:45:40 | [RichardWood.peoplesoft-sqr](https://marketplace.visualstudio.com/items?itemName=RichardWood.peoplesoft-sqr) | PeopleSoft SQR | 0.1.0 | Syntax highlighting, linting, snippets, hover documentation and navigation for… |
-| 2026-11-01 18:57:53 | [rmvbg.rmvbg](https://marketplace.visualstudio.com/items?itemName=rmvbg.rmvbg) | rmvbg – Remove Background | 1.0.0 | rmvbg — Cut out. Capture. Record. Remove image backgrounds locally, free. |
-| 2026-11-01 19:01:19 | [lockpin.lockpin](https://marketplace.visualstudio.com/items?itemName=lockpin.lockpin) | Lockpin | 0.1.2 | See what every AI agent spends as it works, catch the runaway ones when Lockpin… |
-| 2026-11-01 19:05:54 | [AndrsGarcaRamrez.org-parity-salesforce-qa](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.org-parity-salesforce-qa) | Salesforce Org Parity – Config Diff for… | 0.1.0 | Compare the configuration of two Salesforce orgs (sandbox vs production) with a… |
-| 2026-11-01 19:07:51 | [Zhukovetskyi.sqlc-plus](https://marketplace.visualstudio.com/items?itemName=Zhukovetskyi.sqlc-plus) | sqlc-plus | 0.0.1 | Convert sqlc queries into executable parameterized SQL, copied to clipboard |
-| 2026-11-01 19:14:10 | [MiniMindsLab.minimindslab-dedupe-selected-lines](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-dedupe-selected-lines) | MiniMindsLab: Dedupe Selected Lines | 0.1.1 | Remove duplicate selected lines while preserving the first occurrence order. |
+| 2026-11-01 19:18:22 | [EmantTools.brevity](https://marketplace.visualstudio.com/items?itemName=EmantTools.brevity) | Brevity | 0.0.1 |  |
+| 2026-11-01 19:24:15 | [RoseWaters.pathheader](https://marketplace.visualstudio.com/items?itemName=RoseWaters.pathheader) | Path Header | 0.1.0 | comments the file path at the very top of the file |
+| 2026-11-01 19:34:59 | [YuxiaoKong.gaojing](https://marketplace.visualstudio.com/items?itemName=YuxiaoKong.gaojing) | 稿镜 Manuscript Mirror | 0.1.0 | 对照经典范文与专业领域范文，在编辑器里直接诊断地理学科技论文写作片段。 |
+| 2026-11-01 19:35:47 | [SteveWinschel.frameassembly-vscode](https://marketplace.visualstudio.com/items?itemName=SteveWinschel.frameassembly-vscode) | FrameAssembly (.fasm Packet Crafting DS… | 1.3.1 | Syntax highlighting and language support for FrameAssembly (.fasm), the declara… |
+| 2026-11-01 19:38:40 | [yuan-shine.typed-miliastra-api](https://marketplace.visualstudio.com/items?itemName=yuan-shine.typed-miliastra-api) | 千星奇域类型注解 | 0.0.1 | 为你的 IDE 提供代码补全与提示 |
+| 2026-11-01 19:42:28 | [textjs.vscode-textjs](https://marketplace.visualstudio.com/items?itemName=textjs.vscode-textjs) | Text.js | 1.0.0 | Preview Text.js apps next to your code, scaffold App Router files, and link TX… |
+| 2026-11-01 20:08:48 | [lamestllama.racketeer](https://marketplace.visualstudio.com/items?itemName=lamestllama.racketeer) | Racketeer: Organised Racket | 0.8.48 | Source-level debugging for Racket: the only Racket extension for VS Code with b… |
+| 2026-11-01 20:12:25 | [JonnyClyde.rojo-syncs](https://marketplace.visualstudio.com/items?itemName=JonnyClyde.rojo-syncs) | Rojo Syncs | 0.0.1 | Blank starter extension. |
 
 ## Data source
 
