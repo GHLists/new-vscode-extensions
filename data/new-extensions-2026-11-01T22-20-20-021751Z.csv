@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T21:27:00.453Z,MiniMindsLab.minimindslab-unique-lines-selection,MiniMindsLab,MiniMindsLab: Unique Lines Selection,0.1.3,Remove duplicate selected lines while preserving the first occurrence order.
+2026-11-01T21:27:08.957Z,MiniMindsLab.minimindslab-sort-selected-lines,MiniMindsLab,MiniMindsLab: Sort Selected Lines,0.1.1,Sort selected non-empty lines lexicographically while preserving duplicates.
+2026-11-01T21:27:16.33Z,MiniMindsLab.minimindslab-sort-selected-lines-offline,MiniMindsLab,MiniMindsLab: Sort Selected Lines Offline,0.1.1,Sort the selected non-empty lines lexicographically while preserving duplicate entries.
+2026-11-01T21:27:23.997Z,MiniMindsLab.minimindslab-sort-selected-lines-compact,MiniMindsLab,MiniMindsLab: Sort Selected Lines Compact,0.1.1,Sorts the selected non-empty lines lexicographically while preserving duplicates.
+2026-11-01T21:27:32.743Z,MiniMindsLab.minimindslab-slugify-selection-2,MiniMindsLab,MiniMindsLab: Slugify Selection 2,0.1.1,Convert selected text into a lowercase kebab-case slug.
+2026-11-01T21:27:40.833Z,MiniMindsLab.minimindslab-pretty-json-selection,MiniMindsLab,MiniMindsLab: Pretty JSON Selection,0.1.1,Pretty-print a selected JSON value using two-space indentation.
+2026-11-01T21:36:50.983Z,morten-lejboelle.one-more-markdown-editor,morten-lejboelle,One more markdown editor,0.4.17,"Write Markdown visually. Maintain tables, explore Mermaid and draw.io diagrams, and keep your source in sync."
+2026-11-01T21:43:30.787Z,kuzho.qaforge,kuzho,QAForge,0.3.0,"API + SQL testing and QA test case management: collections, environments, secrets, assertions, flows, data-driven runs and reports."
+2026-11-01T21:56:30.833Z,kyattokasai.coffeemoon,kyattokasai,Coffee-Moon,0.1.0,"Language support for Coffee-Moon: syntax highlighting, snippets, and the Coffee-Moon language server"
+2026-11-01T22:14:26.037Z,ptyrig.ptyrig,ptyrig,PTYrig,0.1.0,Give your CLI/TUI tool a dedicated place in VS Code with a few settings.
