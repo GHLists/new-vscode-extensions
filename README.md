@@ -12,31 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 14:20 UTC
+## Latest list — 2026-11-01 15:20 UTC
 
-New extensions published between 2026-11-01 12:20 UTC and 2026-11-01 14:20 UTC.
+New extensions published between 2026-11-01 13:20 UTC and 2026-11-01 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T14-20-18-174341Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T15-20-38-402687Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 13:16:07 | [half-island-box.agt-vscode](https://marketplace.visualstudio.com/items?itemName=half-island-box.agt-vscode) | AGT — Multi-Agent Bridge | 0.1.0 | VS Code client for the local agt server: daemons, agent runtimes, chat, SOP and… |
-| 2026-11-01 13:17:06 | [JoSuHo.motif-daw](https://marketplace.visualstudio.com/items?itemName=JoSuHo.motif-daw) | Motif — Sonic Pi DAW | 0.2.4 | An AI-native music-as-code workspace for Sonic Pi. |
-| 2026-11-01 13:24:56 | [Sarifkhan.ai-remote-desktop-rdp-ssh-sftp](https://marketplace.visualstudio.com/items?itemName=Sarifkhan.ai-remote-desktop-rdp-ssh-sftp) | AI Remote Desktop: RDP, SSH & SFTP | 0.2.0 | Embedded RDP, SSH terminal, and SFTP for cloud VMs. Powered by agent-rdp, an RD… |
-| 2026-11-01 13:26:48 | [lockitech.visualized-code](https://marketplace.visualstudio.com/items?itemName=lockitech.visualized-code) | Code Execution Visualizer | 0.0.3 | Visualize function calls, classes, and live execution across JavaScript, TypeSc… |
-| 2026-11-01 13:30:36 | [pedrohenriquea.copilot-branch-tracker](https://marketplace.visualstudio.com/items?itemName=pedrohenriquea.copilot-branch-tracker) | Branch Tracker for GitHub Copilot | 0.5.1 | Mostra quantos créditos do GitHub Copilot você gasta em cada projeto, branch e… |
-| 2026-11-01 13:31:52 | [mohithkumar1.zia-ai](https://marketplace.visualstudio.com/items?itemName=mohithkumar1.zia-ai) | Zia AI | 1.0.0 | AI-powered coding assistant for VS Code with intelligent code analysis, semanti… |
-| 2026-11-01 13:41:22 | [hindilang.hindilang](https://marketplace.visualstudio.com/items?itemName=hindilang.hindilang) | HindiLang (Hinglish programming languag… | 1.0.0 | HindiLang ke liye syntax coloring, auto-complete, snippets aur Run button (.hin… |
-| 2026-11-01 13:55:31 | [yzt000000.verilog-systemverilog-formatter](https://marketplace.visualstudio.com/items?itemName=yzt000000.verilog-systemverilog-formatter) | SystemVerilog Formatter (SVF) | 0.6.3 | Structure-driven SystemVerilog formatter: indentation derived from the parse tr… |
-| 2026-11-01 13:56:52 | [uxkin.uxkin](https://marketplace.visualstudio.com/items?itemName=uxkin.uxkin) | UXKIN: Real UI References | 1.0.0 | Real UI references for Copilot: skills that build UI from the product's own des… |
-| 2026-11-01 13:57:30 | [uxkin.ui-design-review](https://marketplace.visualstudio.com/items?itemName=uxkin.ui-design-review) | UI Design Review | 1.0.0 | Review any app or website screen like a senior designer: check the rendered res… |
-| 2026-11-01 13:57:48 | [uxkin.swiftui-app-design](https://marketplace.visualstudio.com/items?itemName=uxkin.swiftui-app-design) | SwiftUI App Design | 1.0.0 | Build SwiftUI screens and flows that feel like a real iPhone app: native naviga… |
-| 2026-11-01 13:58:05 | [uxkin.paywall-pricing-design](https://marketplace.visualstudio.com/items?itemName=uxkin.paywall-pricing-design) | Paywall & Pricing Design | 1.0.0 | Design and build paywalls, upgrade screens and pricing pages that are clear and… |
-| 2026-11-01 13:58:14 | [uxkin.mobile-app-design](https://marketplace.visualstudio.com/items?itemName=uxkin.mobile-app-design) | Mobile App Design | 1.0.0 | Design and build iPhone app screens and flows that feel native: onboarding, sig… |
-| 2026-11-01 13:58:25 | [uxkin.dashboard-design](https://marketplace.visualstudio.com/items?itemName=uxkin.dashboard-design) | Dashboard Design | 1.0.0 | Design and build dashboards and admin panels people can read: clear layout and… |
-| 2026-11-01 13:58:44 | [uxkin.website-design](https://marketplace.visualstudio.com/items?itemName=uxkin.website-design) | Website Design | 1.0.0 | Design and build websites and landing pages that look like a real product, not… |
-| 2026-11-01 14:03:29 | [gunasekar.trails](https://marketplace.visualstudio.com/items?itemName=gunasekar.trails) | Trails | 0.1.0 | Toggle a configurable command in an editor terminal with Ctrl+\. Defaults to Tr… |
-| 2026-11-01 14:09:16 | [emirbugra.php-lsp-vsc](https://marketplace.visualstudio.com/items?itemName=emirbugra.php-lsp-vsc) | PHP LSP (Rust) | 0.1.0 | Fast PHP language server written in Rust: completion, navigation, references, r… |
+| 2026-11-01 14:28:32 | [revan99.hover-explain](https://marketplace.visualstudio.com/items?itemName=revan99.hover-explain) | Hover Explain | 0.4.2 | Cmd/Ctrl+hover any symbol for a short AI explanation in the hover. Works with N… |
+| 2026-11-01 14:32:59 | [bootloader.sebol](https://marketplace.visualstudio.com/items?itemName=bootloader.sebol) | SEBOL for Yokogawa CENTUM VP | 0.5.0 | Manual-traceable language support for Yokogawa CENTUM VP SEBOL: syntax, diagnos… |
+| 2026-11-01 14:33:50 | [PaulSquires.tiko](https://marketplace.visualstudio.com/items?itemName=PaulSquires.tiko) | Tiko | 0.1.2 | Language support for the tiko programming language: diagnostics, completion, ho… |
+| 2026-11-01 14:39:42 | [felipelourenco.rule-peek](https://marketplace.visualstudio.com/items?itemName=felipelourenco.rule-peek) | RulePeek | 1.0.0 | Hover a CSS class in HTML, JSX, TSX, Vue or Svelte to see its CSS rules, with f… |
+| 2026-11-01 14:50:40 | [ysf-bkr.evren-kod](https://marketplace.visualstudio.com/items?itemName=ysf-bkr.evren-kod) | Evren Kod | 0.1.0 | Zanaat disipliniyle kodlayan, kanıtla doğrulayan otonom VS Code ajanı. Kodlama,… |
+| 2026-11-01 14:50:56 | [RishiGujadhur.ts-test-impact](https://marketplace.visualstudio.com/items?itemName=RishiGujadhur.ts-test-impact) | TypeScript Structure: Refactoring & Tes… | 0.9.0 | WebStorm-style refactorings, cross-file inspections, structural search and navi… |
+| 2026-11-01 14:51:07 | [aequivor.aequivor](https://marketplace.visualstudio.com/items?itemName=aequivor.aequivor) | Aequivor | 1.0.0 | Run Aequivor cloud coding tasks on your repository, follow them and apply their… |
+| 2026-11-01 14:54:53 | [trails.trails-vscode](https://marketplace.visualstudio.com/items?itemName=trails.trails-vscode) | Trails for VS Code | 0.1.0 | Toggle a configurable command in an editor terminal with Ctrl+\. Defaults to Tr… |
+| 2026-11-01 15:09:19 | [DanielRoesch.auto-fix-all-open](https://marketplace.visualstudio.com/items?itemName=DanielRoesch.auto-fix-all-open) | Auto Fix All Open | 1.0.2 | Behebt alle automatisch behebbaren Probleme (inkl. spezieller Markdown-Regeln)… |
+| 2026-11-01 15:13:10 | [mio-yf.mio-project-switcher](https://marketplace.visualstudio.com/items?itemName=mio-yf.mio-project-switcher) | MIO Project Switcher | 0.3.0 | 从标题栏快速切换最近项目、工作区和文件，支持彩色项目标识、键盘导航与新窗口打开。 |
 
 ## Data source
 

@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T14:28:32.603Z,revan99.hover-explain,revan99,Hover Explain,0.4.2,"Cmd/Ctrl+hover any symbol for a short AI explanation in the hover. Works with NVIDIA, OpenAI, OpenRouter, Groq, Gemini, Ollama, LM Studio, any OpenAI-compatible API, or Claude Code."
+2026-11-01T14:32:59.263Z,bootloader.sebol,bootloader,SEBOL for Yokogawa CENTUM VP,0.5.0,"Manual-traceable language support for Yokogawa CENTUM VP SEBOL: syntax, diagnostics, formatting, navigation, signatures, snippets, and workspace indexing."
+2026-11-01T14:33:50.357Z,PaulSquires.tiko,PaulSquires,Tiko,0.1.2,"Language support for the tiko programming language: diagnostics, completion, hover, go to definition, references, rename, formatting and more. The language server is included. Tiko is a FreeBASIC-compatible language."
+2026-11-01T14:39:42.843Z,felipelourenco.rule-peek,felipelourenco,RulePeek,1.0.0,"Hover a CSS class in HTML, JSX, TSX, Vue or Svelte to see its CSS rules, with file and line."
+2026-11-01T14:50:40.933Z,ysf-bkr.evren-kod,ysf-bkr,Evren Kod,0.1.0,"Zanaat disipliniyle kodlayan, kanıtla doğrulayan otonom VS Code ajanı. Kodlama, planlama ve eğitim modlarıyla mimari analiz, kanıtlı kod değişikliği, test desteği ve yeni başlayanlar için adım adım mentorluk."
+2026-11-01T14:50:56.19Z,RishiGujadhur.ts-test-impact,RishiGujadhur,TypeScript Structure: Refactoring & Test Impact,0.9.0,"WebStorm-style refactorings, cross-file inspections, structural search and navigation for TypeScript, JavaScript and React, plus test impact analysis. Deterministic, offline, no AI."
+2026-11-01T14:51:07.137Z,aequivor.aequivor,aequivor,Aequivor,1.0.0,"Run Aequivor cloud coding tasks on your repository, follow them and apply their changes."
+2026-11-01T14:54:53.617Z,trails.trails-vscode,trails,Trails for VS Code,0.1.0,Toggle a configurable command in an editor terminal with Ctrl+\. Defaults to Trails.
+2026-11-01T15:09:19.583Z,DanielRoesch.auto-fix-all-open,DanielRoesch,Auto Fix All Open,1.0.2,"Behebt alle automatisch behebbaren Probleme (inkl. spezieller Markdown-Regeln) in allen geöffneten Dateien, speichert diese direkt ab und bietet eine Rückgängig-Funktion."
+2026-11-01T15:13:10.427Z,mio-yf.mio-project-switcher,mio-yf,MIO Project Switcher,0.3.0,从标题栏快速切换最近项目、工作区和文件，支持彩色项目标识、键盘导航与新窗口打开。
