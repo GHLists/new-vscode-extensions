@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T10:14:48.343Z,HyperEZ.hyperezprogramminglanguage,HyperEZ,hyperezprogramminglanguage,0.2.0,"HyperEZ: lenguaje de programación para videojuegos independientes, creado para LPO Engine. Compilador y ejecutor de terminal."
+2026-11-01T10:15:15.38Z,Baiwanyi.prompt-shortcut,Baiwanyi,Prompt Shortcut for VSCode,0.1.2,CodeBuddy 代码开发提示词快捷方式
+2026-11-01T10:21:40.84Z,EsamRabba.cpp-starter-mac,EsamRabba,C++ Starter for Mac,0.0.1,"Build, run and debug C++ on a Mac like in Visual Studio: F5 to run, breakpoints, plain-English errors. Uses Apple clang++ and lldb-dap."
+2026-11-01T10:44:25.137Z,NoName-1991.rn-redux-exam-snippets,NoName-1991,React Native & Redux Toolkit Exam Snippets,1.0.0,"Bộ khung gợi ý (cheat-sheet) tái sử dụng cho mọi đề thi React Native, Redux Toolkit, AsyncStorage, Navigation và Axios."
+2026-11-01T10:49:19.633Z,korolserhii.interactive-window-history,korolserhii,Interactive Window History Search,0.1.2,"Search and reuse everything you ran in the Jupyter Interactive Window — Ctrl+R reverse search like IPython, kept across sessions."
+2026-11-01T10:53:31.893Z,akshaikumar23.devtools-codevault,akshaikumar23,CodeVault Strongroom,1.0.0,"Search your team's CodeVault snippets and insert them with their placeholders as tab stops, or save the selection to CodeVault."
