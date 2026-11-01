@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 17:20 UTC
+## Latest list — 2026-11-01 18:20 UTC
 
-New extensions published between 2026-11-01 15:20 UTC and 2026-11-01 17:20 UTC.
+New extensions published between 2026-11-01 16:20 UTC and 2026-11-01 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T17-20-37-472595Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T18-20-41-890477Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 16:19:04 | [Kilamper.vscode-datautils-hub](https://marketplace.visualstudio.com/items?itemName=Kilamper.vscode-datautils-hub) | DataUtils Hub | 1.0.0 | Extractor de Chasis (VIN), Matrículas, DNI/NIE/CIF con validación matemática, O… |
-| 2026-11-01 16:25:27 | [groundwork-mcp.groundwork-mcp](https://marketplace.visualstudio.com/items?itemName=groundwork-mcp.groundwork-mcp) | Groundwork MCP | 0.1.1 | Index your local workspace so Groundwork-enabled AI assistants can search code… |
-| 2026-11-01 16:33:43 | [MRSHINJI06.sealxx](https://marketplace.visualstudio.com/items?itemName=MRSHINJI06.sealxx) | sealXX | 1.0.0 | Uruchamianie programów .seal jednym kliknięciem + kolorowanie składni. Interpre… |
-| 2026-11-01 16:36:04 | [ai-orchestration-tools.claude-orchestration-tool](https://marketplace.visualstudio.com/items?itemName=ai-orchestration-tools.claude-orchestration-tool) | Claude Orchestration Tool (Unofficial) | 0.2.1 | Use one Claude Code account as an orchestrator that delegates work to your othe… |
-| 2026-11-01 16:46:19 | [percygfx.percygfx-opencode-chat](https://marketplace.visualstudio.com/items?itemName=percygfx.percygfx-opencode-chat) | OpenCode Chat (Unofficial) | 1.0.0 | A Claude Code-style chat panel for OpenCode 2: sessions synced with the TUI, pe… |
-| 2026-11-01 16:58:45 | [cansuk.notestark-vscode](https://marketplace.visualstudio.com/items?itemName=cansuk.notestark-vscode) | Notestark | 0.1.0 | Highlight and annotate documents in VS Code — the same engine as the Notestark… |
-| 2026-11-01 17:01:16 | [CodeNyangi.type-the-change](https://marketplace.visualstudio.com/items?itemName=CodeNyangi.type-the-change) | Type the Change | 0.3.0 | Practice judgment with AI code: predict the outcome, inspect the diff, and keep… |
+| 2026-11-01 17:20:27 | [bitfroest.bitfroest-fs-prototype](https://marketplace.visualstudio.com/items?itemName=bitfroest.bitfroest-fs-prototype) | Bitfroest.fs (Beta) | 0.0.40 | Beta dual-pane file manager with folder tabs, search and local Git status. File… |
+| 2026-11-01 17:26:57 | [valerypetrov.clickhouse-sql](https://marketplace.visualstudio.com/items?itemName=valerypetrov.clickhouse-sql) | ClickHouse SQL | 0.1.0 | Syntax highlighting and syntax checking for ClickHouse SQL |
+| 2026-11-01 17:50:12 | [NeoMetric.acp-hub-for-copilot](https://marketplace.visualstudio.com/items?itemName=NeoMetric.acp-hub-for-copilot) | ACP Hub for Copilot | 0.0.1 | Use Claude, Codex and Antigravity ACP agents in GitHub Copilot Chat, with one s… |
+| 2026-11-01 17:51:44 | [yeoyujie.proto-atlas](https://marketplace.visualstudio.com/items?itemName=yeoyujie.proto-atlas) | Proto Atlas — Protobuf & gRPC Schema Vi… | 0.1.0 | Interactive graph of your .proto files: messages, enums, services and how they… |
+| 2026-11-01 17:54:35 | [miniocean404.mini-ai](https://marketplace.visualstudio.com/items?itemName=miniocean404.mini-ai) | Mini Ai | 0.2.6 | Copy cursor position (file:line:col) to clipboard |
+| 2026-11-01 18:00:57 | [jsynowiec.vscode-pymdbars-syntax-highlighting](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-pymdbars-syntax-highlighting) | PyMDBars - Markdown Handlebars highligh… | 0.1.0 | Syntax highlighting for Markdown, Python expressions, and Handlebars prompt tem… |
+| 2026-11-01 18:06:32 | [moabdelmoati.proofhound](https://marketplace.visualstudio.com/items?itemName=moabdelmoati.proofhound) | ProofHound | 0.1.1 | Prove vulnerabilities instead of guessing — SAST-guided analysis and fuzzing fo… |
+| 2026-11-01 18:14:19 | [adriangull.softgit](https://marketplace.visualstudio.com/items?itemName=adriangull.softgit) | SoftGit | 0.1.1 | A user-friendly, high-performance interface for git repositories in VS Code: ch… |
 
 ## Data source
 

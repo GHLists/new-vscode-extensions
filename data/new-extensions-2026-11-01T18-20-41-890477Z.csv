@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T17:20:27.107Z,bitfroest.bitfroest-fs-prototype,bitfroest,Bitfroest.fs (Beta),0.0.40,"Beta dual-pane file manager with folder tabs, search and local Git status. File operations can cause data loss; a current backup is required."
+2026-11-01T17:26:57.06Z,valerypetrov.clickhouse-sql,valerypetrov,ClickHouse SQL,0.1.0,Syntax highlighting and syntax checking for ClickHouse SQL
+2026-11-01T17:50:12.95Z,NeoMetric.acp-hub-for-copilot,NeoMetric,ACP Hub for Copilot,0.0.1,"Use Claude, Codex and Antigravity ACP agents in GitHub Copilot Chat, with one sidebar to install, sign in, configure and monitor them."
+2026-11-01T17:51:44.453Z,yeoyujie.proto-atlas,yeoyujie,Proto Atlas — Protobuf & gRPC Schema Visualizer,0.1.0,"Interactive graph of your .proto files: messages, enums, services and how they connect. Live preview, cursor sync, focus mode and export."
+2026-11-01T17:54:35.357Z,miniocean404.mini-ai,miniocean404,Mini Ai,0.2.6,Copy cursor position (file:line:col) to clipboard
+2026-11-01T18:00:57.657Z,jsynowiec.vscode-pymdbars-syntax-highlighting,jsynowiec,PyMDBars - Markdown Handlebars highlighting in Python,0.1.0,"Syntax highlighting for Markdown, Python expressions, and Handlebars prompt templates in Python code."
+2026-11-01T18:06:32.467Z,moabdelmoati.proofhound,moabdelmoati,ProofHound,0.1.1,"Prove vulnerabilities instead of guessing — SAST-guided analysis and fuzzing for JS/TS, inline in your editor."
+2026-11-01T18:14:19.31Z,adriangull.softgit,adriangull,SoftGit,0.1.1,"A user-friendly, high-performance interface for git repositories in VS Code: changes, branches, commit graph, compare, blame and history."
