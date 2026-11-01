@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 18:20 UTC
+## Latest list — 2026-11-01 19:20 UTC
 
-New extensions published between 2026-11-01 16:20 UTC and 2026-11-01 18:20 UTC.
+New extensions published between 2026-11-01 17:20 UTC and 2026-11-01 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T18-20-41-890477Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T19-20-17-516765Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 17:20:27 | [bitfroest.bitfroest-fs-prototype](https://marketplace.visualstudio.com/items?itemName=bitfroest.bitfroest-fs-prototype) | Bitfroest.fs (Beta) | 0.0.40 | Beta dual-pane file manager with folder tabs, search and local Git status. File… |
-| 2026-11-01 17:26:57 | [valerypetrov.clickhouse-sql](https://marketplace.visualstudio.com/items?itemName=valerypetrov.clickhouse-sql) | ClickHouse SQL | 0.1.0 | Syntax highlighting and syntax checking for ClickHouse SQL |
-| 2026-11-01 17:50:12 | [NeoMetric.acp-hub-for-copilot](https://marketplace.visualstudio.com/items?itemName=NeoMetric.acp-hub-for-copilot) | ACP Hub for Copilot | 0.0.1 | Use Claude, Codex and Antigravity ACP agents in GitHub Copilot Chat, with one s… |
-| 2026-11-01 17:51:44 | [yeoyujie.proto-atlas](https://marketplace.visualstudio.com/items?itemName=yeoyujie.proto-atlas) | Proto Atlas — Protobuf & gRPC Schema Vi… | 0.1.0 | Interactive graph of your .proto files: messages, enums, services and how they… |
-| 2026-11-01 17:54:35 | [miniocean404.mini-ai](https://marketplace.visualstudio.com/items?itemName=miniocean404.mini-ai) | Mini Ai | 0.2.6 | Copy cursor position (file:line:col) to clipboard |
-| 2026-11-01 18:00:57 | [jsynowiec.vscode-pymdbars-syntax-highlighting](https://marketplace.visualstudio.com/items?itemName=jsynowiec.vscode-pymdbars-syntax-highlighting) | PyMDBars - Markdown Handlebars highligh… | 0.1.0 | Syntax highlighting for Markdown, Python expressions, and Handlebars prompt tem… |
-| 2026-11-01 18:06:32 | [moabdelmoati.proofhound](https://marketplace.visualstudio.com/items?itemName=moabdelmoati.proofhound) | ProofHound | 0.1.1 | Prove vulnerabilities instead of guessing — SAST-guided analysis and fuzzing fo… |
-| 2026-11-01 18:14:19 | [adriangull.softgit](https://marketplace.visualstudio.com/items?itemName=adriangull.softgit) | SoftGit | 0.1.1 | A user-friendly, high-performance interface for git repositories in VS Code: ch… |
+| 2026-11-01 18:19:12 | [SoftForge.softforge-electronic-workbench](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-electronic-workbench) | SoftForge Electronic Workbench | 2.2.0 | Schematic and PCB design workbench for VS Code that reads and writes KiCad file… |
+| 2026-11-01 18:19:30 | [SoftForge.softforge-occt](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-occt) | SoftForge OCCT add-on | 2.2.0 | STEP import and export, outlines from STEP and DXF, 2D booleans and enclosure b… |
+| 2026-11-01 18:19:42 | [SoftForge.softforge-router-pro](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-router-pro) | SoftForge Router Pro | 2.2.0 | The paid autorouter of SoftForge Electronic Workbench: differential pairs, leng… |
+| 2026-11-01 18:39:14 | [OttodeVisserUU.opencrbasic](https://marketplace.visualstudio.com/items?itemName=OttodeVisserUU.opencrbasic) | CRBasic (opencrbasic) | 1.0.0 | CRBasic language support for CR6 programs, backed by the opencrbasic language s… |
+| 2026-11-01 18:44:10 | [PlanSignal.terraform-plansignal](https://marketplace.visualstudio.com/items?itemName=PlanSignal.terraform-plansignal) | PlanSignal | 0.7.1 | Review saved Terraform plans for destructive changes and security risks. Never… |
+| 2026-11-01 18:45:40 | [RichardWood.peoplesoft-sqr](https://marketplace.visualstudio.com/items?itemName=RichardWood.peoplesoft-sqr) | PeopleSoft SQR | 0.1.0 | Syntax highlighting, linting, snippets, hover documentation and navigation for… |
+| 2026-11-01 18:57:53 | [rmvbg.rmvbg](https://marketplace.visualstudio.com/items?itemName=rmvbg.rmvbg) | rmvbg – Remove Background | 1.0.0 | rmvbg — Cut out. Capture. Record. Remove image backgrounds locally, free. |
+| 2026-11-01 19:01:19 | [lockpin.lockpin](https://marketplace.visualstudio.com/items?itemName=lockpin.lockpin) | Lockpin | 0.1.2 | See what every AI agent spends as it works, catch the runaway ones when Lockpin… |
+| 2026-11-01 19:05:54 | [AndrsGarcaRamrez.org-parity-salesforce-qa](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.org-parity-salesforce-qa) | Salesforce Org Parity – Config Diff for… | 0.1.0 | Compare the configuration of two Salesforce orgs (sandbox vs production) with a… |
+| 2026-11-01 19:07:51 | [Zhukovetskyi.sqlc-plus](https://marketplace.visualstudio.com/items?itemName=Zhukovetskyi.sqlc-plus) | sqlc-plus | 0.0.1 | Convert sqlc queries into executable parameterized SQL, copied to clipboard |
+| 2026-11-01 19:14:10 | [MiniMindsLab.minimindslab-dedupe-selected-lines](https://marketplace.visualstudio.com/items?itemName=MiniMindsLab.minimindslab-dedupe-selected-lines) | MiniMindsLab: Dedupe Selected Lines | 0.1.1 | Remove duplicate selected lines while preserving the first occurrence order. |
 
 ## Data source
 
