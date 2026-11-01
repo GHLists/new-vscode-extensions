@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 06:20 UTC
+## Latest list — 2026-11-01 07:19 UTC
 
-New extensions published between 2026-11-01 04:20 UTC and 2026-11-01 06:20 UTC.
+New extensions published between 2026-11-01 05:19 UTC and 2026-11-01 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T06-20-27-087149Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T07-19-15-848978Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 05:25:59 | [BhavyaJustChilll.power-mode-reborn](https://marketplace.visualstudio.com/items?itemName=BhavyaJustChilll.power-mode-reborn) | Power Mode Reborn for VS Code | 1.1.5 | Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A mai… |
-| 2026-11-01 05:53:30 | [Heisenberg1159.NV-MutI-GPU-Monitor](https://marketplace.visualstudio.com/items?itemName=Heisenberg1159.NV-MutI-GPU-Monitor) | GPUM | 0.3.0 | Compact real-time NVIDIA GPU monitor for multi-GPU machines, in the VS Code sid… |
-| 2026-11-01 05:57:27 | [HookbaseApp.hookbase](https://marketplace.visualstudio.com/items?itemName=HookbaseApp.hookbase) | Hookbase | 1.0.0 | Debug webhooks without leaving the editor: a stable localhost tunnel, live deli… |
-| 2026-11-01 06:01:20 | [kulkarniniraj.yajlsp](https://marketplace.visualstudio.com/items?itemName=kulkarniniraj.yajlsp) | yajlsp | 0.2.6 | yajlsp (Yet Another Janet LSP): Janet language support for VS Code. |
-| 2026-11-01 06:06:58 | [erlihs.vscode-kdbx](https://marketplace.visualstudio.com/items?itemName=erlihs.vscode-kdbx) | KDBX for VS Code | 0.1.0 | Browse and manage KeePass-compatible KDBX databases directly in VS Code. |
-| 2026-11-01 06:12:00 | [WandelRafael.occhio-theme](https://marketplace.visualstudio.com/items?itemName=WandelRafael.occhio-theme) | Occhio | 0.3.0 | Tema escuro para VS Code baseado no visual Occhio: fundo azul-noite, destaque c… |
+| 2026-11-01 06:16:58 | [Etavioxy.contractdag-preview](https://marketplace.visualstudio.com/items?itemName=Etavioxy.contractdag-preview) | Contract DAG Preview | 0.1.0 | Preview .contractdag contract declarations as a directed acyclic graph, with st… |
+| 2026-11-01 06:28:35 | [mumer01.context-copier](https://marketplace.visualstudio.com/items?itemName=mumer01.context-copier) | Context Copier | 1.0.0 | Quickly copy or combine file paths and contents for use in AI prompts or docume… |
+| 2026-11-01 06:47:07 | [Asyncript.claude-grasp](https://marketplace.visualstudio.com/items?itemName=Asyncript.claude-grasp) | Claude Grasp | 0.1.1 | How well do you understand the code Claude Code wrote for you? A score for ever… |
+| 2026-11-01 06:49:18 | [HernandoR.duck-viewer2](https://marketplace.visualstudio.com/items?itemName=HernandoR.duck-viewer2) | Duck Viewer 2 | 0.2.0 | Unofficial DuckDB client for VS Code — query CSV, Parquet, JSON, and Excel file… |
+| 2026-11-01 06:55:14 | [growlr.shentu-vscode](https://marketplace.visualstudio.com/items?itemName=growlr.shentu-vscode) | 神途开发助手 (Shentu Dev Assistant) | 0.1.2 | 神途引擎 Lua API 智能提示与 .laye 界面文件支持：客户端/服务端 API 补全、form XML 控件属性补全、内嵌脚本高亮与诊断。 |
+| 2026-11-01 07:00:08 | [skippr-khushal.aoc-helper](https://marketplace.visualstudio.com/items?itemName=skippr-khushal.aoc-helper) | AoC Helper | 0.1.0 | Browse Advent of Code puzzles, fetch inputs, run solutions on samples, submit a… |
+| 2026-11-01 07:06:06 | [henryxiaoyang.realtime-tex](https://marketplace.visualstudio.com/items?itemName=henryxiaoyang.realtime-tex) | Realtime TeX | 0.0.3 | Live LaTeX preview that re-typesets the paragraph you are editing in about a mi… |
 
 ## Data source
 

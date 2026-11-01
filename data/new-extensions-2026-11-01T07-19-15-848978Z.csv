@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T06:16:58.127Z,Etavioxy.contractdag-preview,Etavioxy,Contract DAG Preview,0.1.0,"Preview .contractdag contract declarations as a directed acyclic graph, with structural defects marked."
+2026-11-01T06:28:35.46Z,mumer01.context-copier,mumer01,Context Copier,1.0.0,Quickly copy or combine file paths and contents for use in AI prompts or documentation.
+2026-11-01T06:47:07.397Z,Asyncript.claude-grasp,Asyncript,Claude Grasp,0.1.1,"How well do you understand the code Claude Code wrote for you? A score for every file, with the reasons behind it."
+2026-11-01T06:49:18.073Z,HernandoR.duck-viewer2,HernandoR,Duck Viewer 2,0.2.0,"Unofficial DuckDB client for VS Code — query CSV, Parquet, JSON, and Excel files directly. Not affiliated with DuckDB Labs."
+2026-11-01T06:55:14.193Z,growlr.shentu-vscode,growlr,神途开发助手 (Shentu Dev Assistant),0.1.2,神途引擎 Lua API 智能提示与 .laye 界面文件支持：客户端/服务端 API 补全、form XML 控件属性补全、内嵌脚本高亮与诊断。
+2026-11-01T07:00:08.247Z,skippr-khushal.aoc-helper,skippr-khushal,AoC Helper,0.1.0,"Browse Advent of Code puzzles, fetch inputs, run solutions on samples, submit answers and follow leaderboards without leaving VS Code."
+2026-11-01T07:06:06.613Z,henryxiaoyang.realtime-tex,henryxiaoyang,Realtime TeX,0.0.3,"Live LaTeX preview that re-typesets the paragraph you are editing in about a millisecond, powered by realtime-tex (rtex)."
