@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-10-31T23:15:58.45Z,PeterMonadjemi.lny-vscode,PeterMonadjemi,lny,0.2.0,"Syntax-Highlighting und Ausführung von lny-Skripten (Lernsprache, neun Sprachen)"
+2026-10-31T23:58:28.627Z,Finingus.error-navigator,Finingus,File Error Navigator,0.0.3,"Shows which error you're on and how many the file has in the status bar, with arrows to jump between them."
+2026-11-01T00:02:59.167Z,SyrusAI.wacaller-argon-assist,SyrusAI,WaCaller Argon Assist,0.1.0,"Assistente de programação com o chat web Gemini: prompts com contexto, pré-visualização de diffs e terminal assistido. Não oficial."
+2026-11-01T00:07:56.96Z,axean.sundgren,axean,sundgren,1.1.1,Multi-language code review tool
