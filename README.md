@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 12:19 UTC
+## Latest list — 2026-11-01 13:19 UTC
 
-New extensions published between 2026-11-01 10:19 UTC and 2026-11-01 12:19 UTC.
+New extensions published between 2026-11-01 11:19 UTC and 2026-11-01 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T12-19-53-014967Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T13-19-09-299804Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 11:32:44 | [ZuloOne.zulo-studio](https://marketplace.visualstudio.com/items?itemName=ZuloOne.zulo-studio) | ZuloOne Studio | 0.1.0 | Application Explorer and element designers for the ZuloOne business layer. |
-| 2026-11-01 11:41:04 | [gitamp.gitamp](https://marketplace.visualstudio.com/items?itemName=gitamp.gitamp) | GitAmp | 0.25.2 | Amplify VS Code Git with history, graph, search, revision comparisons, guarded… |
-| 2026-11-01 12:07:36 | [bytemate.dev-focus-tracker](https://marketplace.visualstudio.com/items?itemName=bytemate.dev-focus-tracker) | Dev Focus Tracker | 0.0.1 | A productivity tracker for VS Code with a focus timer, Pomodoro sessions, daily… |
-| 2026-11-01 12:08:34 | [JoSuHo.sonic-pi-daw](https://marketplace.visualstudio.com/items?itemName=JoSuHo.sonic-pi-daw) | Sonic Pi DAW | 0.2.3 | Edit Sonic Pi code with a visual arrangement view. |
+| 2026-11-01 12:20:33 | [ghadirisoft.gmo-strategy](https://marketplace.visualstudio.com/items?itemName=ghadirisoft.gmo-strategy) | GMO Strategy Language | 1.0.0 | GMO Strategy language support + simulation execution |
+| 2026-11-01 12:51:37 | [nscript.nbvg](https://marketplace.visualstudio.com/items?itemName=nscript.nbvg) | nbvg | 1.0.1 | NewBeeVG Cli Plugin |
 
 ## Data source
 
