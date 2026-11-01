@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 05:19 UTC
+## Latest list — 2026-11-01 06:20 UTC
 
-New extensions published between 2026-11-01 03:19 UTC and 2026-11-01 05:19 UTC.
+New extensions published between 2026-11-01 04:20 UTC and 2026-11-01 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T05-19-13-513059Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T06-20-27-087149Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 04:25:50 | [x2Network.agent-live-view](https://marketplace.visualstudio.com/items?itemName=x2Network.agent-live-view) | Agent Live View | 0.6.0 | Follow AI coding agents as they work: changed files open in their own editor co… |
-| 2026-11-01 04:30:25 | [impulse-code.impulse-pair](https://marketplace.visualstudio.com/items?itemName=impulse-code.impulse-pair) | Impulse Pair | 0.1.0 | Edite junto com alguém que usa o Impulse Code, em tempo real. |
-| 2026-11-01 04:44:21 | [gosavetool.gosavetool](https://marketplace.visualstudio.com/items?itemName=gosavetool.gosavetool) | GoSaveTool: Subtitles, Images & Text | 1.0.0 | Convert SRT to VTT, shift and repair subtitles, compress images and convert the… |
-| 2026-11-01 04:58:58 | [dofes.codesnap-plus-fast](https://marketplace.visualstudio.com/items?itemName=dofes.codesnap-plus-fast) | CodeSnap Plus Fast | 1.1.0 | 📸 Take beautiful screenshots of your code in VS Code, fast even for very long s… |
-| 2026-11-01 05:09:15 | [repogates.repogates](https://marketplace.visualstudio.com/items?itemName=repogates.repogates) | RepoGates: what runs on open | 0.1.0 | Open a folder and see what would run on open. It reads the folder's settings; i… |
+| 2026-11-01 05:25:59 | [BhavyaJustChilll.power-mode-reborn](https://marketplace.visualstudio.com/items?itemName=BhavyaJustChilll.power-mode-reborn) | Power Mode Reborn for VS Code | 1.1.5 | Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A mai… |
+| 2026-11-01 05:53:30 | [Heisenberg1159.NV-MutI-GPU-Monitor](https://marketplace.visualstudio.com/items?itemName=Heisenberg1159.NV-MutI-GPU-Monitor) | GPUM | 0.3.0 | Compact real-time NVIDIA GPU monitor for multi-GPU machines, in the VS Code sid… |
+| 2026-11-01 05:57:27 | [HookbaseApp.hookbase](https://marketplace.visualstudio.com/items?itemName=HookbaseApp.hookbase) | Hookbase | 1.0.0 | Debug webhooks without leaving the editor: a stable localhost tunnel, live deli… |
+| 2026-11-01 06:01:20 | [kulkarniniraj.yajlsp](https://marketplace.visualstudio.com/items?itemName=kulkarniniraj.yajlsp) | yajlsp | 0.2.6 | yajlsp (Yet Another Janet LSP): Janet language support for VS Code. |
+| 2026-11-01 06:06:58 | [erlihs.vscode-kdbx](https://marketplace.visualstudio.com/items?itemName=erlihs.vscode-kdbx) | KDBX for VS Code | 0.1.0 | Browse and manage KeePass-compatible KDBX databases directly in VS Code. |
+| 2026-11-01 06:12:00 | [WandelRafael.occhio-theme](https://marketplace.visualstudio.com/items?itemName=WandelRafael.occhio-theme) | Occhio | 0.3.0 | Tema escuro para VS Code baseado no visual Occhio: fundo azul-noite, destaque c… |
 
 ## Data source
 

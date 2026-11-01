@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T05:25:59.153Z,BhavyaJustChilll.power-mode-reborn,BhavyaJustChilll,Power Mode Reborn for VS Code,1.1.5,"Power Mode, reborn for modern VS Code. Your code is powerful, unleash it! A maintained fork of hoovercj/vscode-power-mode with fixes for VS Code 1.88+."
+2026-11-01T05:53:30.13Z,Heisenberg1159.NV-MutI-GPU-Monitor,Heisenberg1159,GPUM,0.3.0,"Compact real-time NVIDIA GPU monitor for multi-GPU machines, in the VS Code sidebar or panel. Fork of GPU Monitoring Service by Minato3000."
+2026-11-01T05:57:27.917Z,HookbaseApp.hookbase,HookbaseApp,Hookbase,1.0.0,"Debug webhooks without leaving the editor: a stable localhost tunnel, live deliveries, replay with edits, dead-letter triage, request bins, and @hookbase in Copilot Chat."
+2026-11-01T06:01:20.18Z,kulkarniniraj.yajlsp,kulkarniniraj,yajlsp,0.2.6,yajlsp (Yet Another Janet LSP): Janet language support for VS Code.
+2026-11-01T06:06:58.86Z,erlihs.vscode-kdbx,erlihs,KDBX for VS Code,0.1.0,Browse and manage KeePass-compatible KDBX databases directly in VS Code.
+2026-11-01T06:12:00.067Z,WandelRafael.occhio-theme,WandelRafael,Occhio,0.3.0,"Tema escuro para VS Code baseado no visual Occhio: fundo azul-noite, destaque ciano e cores de status claras."
