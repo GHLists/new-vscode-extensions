@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 20:20 UTC
+## Latest list — 2026-11-01 21:20 UTC
 
-New extensions published between 2026-11-01 18:20 UTC and 2026-11-01 20:20 UTC.
+New extensions published between 2026-11-01 19:20 UTC and 2026-11-01 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T20-20-24-992448Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T21-20-30-22854Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 19:18:22 | [EmantTools.brevity](https://marketplace.visualstudio.com/items?itemName=EmantTools.brevity) | Brevity | 0.0.1 |  |
-| 2026-11-01 19:24:15 | [RoseWaters.pathheader](https://marketplace.visualstudio.com/items?itemName=RoseWaters.pathheader) | Path Header | 0.1.0 | comments the file path at the very top of the file |
-| 2026-11-01 19:34:59 | [YuxiaoKong.gaojing](https://marketplace.visualstudio.com/items?itemName=YuxiaoKong.gaojing) | 稿镜 Manuscript Mirror | 0.1.0 | 对照经典范文与专业领域范文，在编辑器里直接诊断地理学科技论文写作片段。 |
-| 2026-11-01 19:35:47 | [SteveWinschel.frameassembly-vscode](https://marketplace.visualstudio.com/items?itemName=SteveWinschel.frameassembly-vscode) | FrameAssembly (.fasm Packet Crafting DS… | 1.3.1 | Syntax highlighting and language support for FrameAssembly (.fasm), the declara… |
-| 2026-11-01 19:38:40 | [yuan-shine.typed-miliastra-api](https://marketplace.visualstudio.com/items?itemName=yuan-shine.typed-miliastra-api) | 千星奇域类型注解 | 0.0.1 | 为你的 IDE 提供代码补全与提示 |
-| 2026-11-01 19:42:28 | [textjs.vscode-textjs](https://marketplace.visualstudio.com/items?itemName=textjs.vscode-textjs) | Text.js | 1.0.0 | Preview Text.js apps next to your code, scaffold App Router files, and link TX… |
-| 2026-11-01 20:08:48 | [lamestllama.racketeer](https://marketplace.visualstudio.com/items?itemName=lamestllama.racketeer) | Racketeer: Organised Racket | 0.8.48 | Source-level debugging for Racket: the only Racket extension for VS Code with b… |
-| 2026-11-01 20:12:25 | [JonnyClyde.rojo-syncs](https://marketplace.visualstudio.com/items?itemName=JonnyClyde.rojo-syncs) | Rojo Syncs | 0.0.1 | Blank starter extension. |
+| 2026-11-01 20:26:02 | [chatonlm.chatonlm](https://marketplace.visualstudio.com/items?itemName=chatonlm.chatonlm) | ChatonLM | 0.1.0 | Chat with your local models from VS Code, through the ChatonLM app. |
+| 2026-11-01 20:27:56 | [nobcode.nobcode-ai](https://marketplace.visualstudio.com/items?itemName=nobcode.nobcode-ai) | Nobcode AI | 0.1.0 | Nobcode AI in VS Code: chat with the Coding AI about your code, line help, inli… |
+| 2026-11-01 20:37:24 | [anondrop.anondrop-backup](https://marketplace.visualstudio.com/items?itemName=anondrop.anondrop-backup) | AnonDrop Backup | 1.1.0 | Encrypted project backups to AnonDrop with in-editor file diffs and restore. |
+| 2026-11-01 20:57:16 | [anweba.glugent-vscode](https://marketplace.visualstudio.com/items?itemName=anweba.glugent-vscode) | Glugent | 0.3.2 | Syntax highlighting, diagnostics, completion and build commands for Glugent sec… |
+| 2026-11-01 21:06:09 | [dagmortensj.hoest-theme](https://marketplace.visualstudio.com/items?itemName=dagmortensj.hoest-theme) | Høst Theme | 3.10.0 | A light and a dark theme in comfortable earth tones: Høstlys (autumn light) and… |
 
 ## Data source
 

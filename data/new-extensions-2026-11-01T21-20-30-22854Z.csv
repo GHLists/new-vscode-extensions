@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T20:26:02.043Z,chatonlm.chatonlm,chatonlm,ChatonLM,0.1.0,"Chat with your local models from VS Code, through the ChatonLM app."
+2026-11-01T20:27:56.56Z,nobcode.nobcode-ai,nobcode,Nobcode AI,0.1.0,"Nobcode AI in VS Code: chat with the Coding AI about your code, line help, inline completions and your Code Lab projects."
+2026-11-01T20:37:24.153Z,anondrop.anondrop-backup,anondrop,AnonDrop Backup,1.1.0,Encrypted project backups to AnonDrop with in-editor file diffs and restore.
+2026-11-01T20:57:16.557Z,anweba.glugent-vscode,anweba,Glugent,0.3.2,"Syntax highlighting, diagnostics, completion and build commands for Glugent sections and targets."
+2026-11-01T21:06:09.087Z,dagmortensj.hoest-theme,dagmortensj,Høst Theme,3.10.0,"A light and a dark theme in comfortable earth tones: Høstlys (autumn light) and Høstkveld (autumn evening). Høst is Norwegian for autumn. Tuned for LaTeX and Python, with the same colour roles in TypeScript, JavaScript, Java, C#, C++, Go, Rust and the whole workbench. A status bar button switches be"
