@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 04:20 UTC
+## Latest list — 2026-11-01 05:19 UTC
 
-New extensions published between 2026-11-01 02:20 UTC and 2026-11-01 04:20 UTC.
+New extensions published between 2026-11-01 03:19 UTC and 2026-11-01 05:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T04-20-25-247687Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T05-19-13-513059Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 03:20:30 | [seads-technology.seads-ai-vscode](https://marketplace.visualstudio.com/items?itemName=seads-technology.seads-ai-vscode) | SEADS AI | 0.5.0 | SEADS AI in your editor: ask about your code, explain it, rewrite a selection. |
-| 2026-11-01 03:39:37 | [AztraOpenSource.rustx](https://marketplace.visualstudio.com/items?itemName=AztraOpenSource.rustx) | rustx | 0.1.0 | What an editor needs to know about a .rsx: its colours, its pairs, and where th… |
-| 2026-11-01 03:42:04 | [sqhao.kawaii-python-diagnostics](https://marketplace.visualstudio.com/items?itemName=sqhao.kawaii-python-diagnostics) | Kawaii Python Diagnostics | 0.1.1 | 本地文案补丁：首次启用后修改 Pylance 中文消息表，自动备份并支持恢复。 |
-| 2026-11-01 03:50:57 | [nabinbhandari.code-on-the-fly](https://marketplace.visualstudio.com/items?itemName=nabinbhandari.code-on-the-fly) | Code On The Fly | 0.1.0 | Checks Python and JavaScript files on save and has AI explain the error and the… |
-| 2026-11-01 03:52:14 | [ReadyStack.pci-dss-6-4-3-payment-script-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.pci-dss-6-4-3-payment-script-lint) | PCI DSS 6.4.3 Payment Page Script Lint | 1.0.11 | Lints checkout and payment pages against PCI DSS v4.0.1 Requirements 6.4.3 and… |
-| 2026-11-01 03:52:33 | [ReadyStack.privacidad-chile-21719-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.privacidad-chile-21719-lint) | Privacidad Chile: Ley 21.719 Policy Lint | 1.0.1 | Revisa la política de privacidad de un sitio chileno (WordPress, Elementor, por… |
+| 2026-11-01 04:25:50 | [x2Network.agent-live-view](https://marketplace.visualstudio.com/items?itemName=x2Network.agent-live-view) | Agent Live View | 0.6.0 | Follow AI coding agents as they work: changed files open in their own editor co… |
+| 2026-11-01 04:30:25 | [impulse-code.impulse-pair](https://marketplace.visualstudio.com/items?itemName=impulse-code.impulse-pair) | Impulse Pair | 0.1.0 | Edite junto com alguém que usa o Impulse Code, em tempo real. |
+| 2026-11-01 04:44:21 | [gosavetool.gosavetool](https://marketplace.visualstudio.com/items?itemName=gosavetool.gosavetool) | GoSaveTool: Subtitles, Images & Text | 1.0.0 | Convert SRT to VTT, shift and repair subtitles, compress images and convert the… |
+| 2026-11-01 04:58:58 | [dofes.codesnap-plus-fast](https://marketplace.visualstudio.com/items?itemName=dofes.codesnap-plus-fast) | CodeSnap Plus Fast | 1.1.0 | 📸 Take beautiful screenshots of your code in VS Code, fast even for very long s… |
+| 2026-11-01 05:09:15 | [repogates.repogates](https://marketplace.visualstudio.com/items?itemName=repogates.repogates) | RepoGates: what runs on open | 0.1.0 | Open a folder and see what would run on open. It reads the folder's settings; i… |
 
 ## Data source
 

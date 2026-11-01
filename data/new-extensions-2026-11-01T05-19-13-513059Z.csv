@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T04:25:50.547Z,x2Network.agent-live-view,x2Network,Agent Live View,0.6.0,Follow AI coding agents as they work: changed files open in their own editor columns with the edited lines highlighted. Works with Claude Code.
+2026-11-01T04:30:25.69Z,impulse-code.impulse-pair,impulse-code,Impulse Pair,0.1.0,"Edite junto com alguém que usa o Impulse Code, em tempo real."
+2026-11-01T04:44:21.79Z,gosavetool.gosavetool,gosavetool,"GoSaveTool: Subtitles, Images & Text",1.0.0,"Convert SRT to VTT, shift and repair subtitles, compress images and convert them to WebP, count words and change text case. Works offline, nothing is uploaded."
+2026-11-01T04:58:58.18Z,dofes.codesnap-plus-fast,dofes,CodeSnap Plus Fast,1.1.0,"📸 Take beautiful screenshots of your code in VS Code, fast even for very long snippets. Click a line number to highlight the line."
+2026-11-01T05:09:15.553Z,repogates.repogates,repogates,RepoGates: what runs on open,0.1.0,Open a folder and see what would run on open. It reads the folder's settings; it does not stop the editor.
