@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T16:19:04.74Z,Kilamper.vscode-datautils-hub,Kilamper,DataUtils Hub,1.0.0,"Extractor de Chasis (VIN), Matrículas, DNI/NIE/CIF con validación matemática, OCR de imágenes, Constructor de Queries SQL y Constructor Visual de Regex."
+2026-11-01T16:25:27.04Z,groundwork-mcp.groundwork-mcp,groundwork-mcp,Groundwork MCP,0.1.1,Index your local workspace so Groundwork-enabled AI assistants can search code with file and line citations.
+2026-11-01T16:33:43.42Z,MRSHINJI06.sealxx,MRSHINJI06,sealXX,1.0.0,Uruchamianie programów .seal jednym kliknięciem + kolorowanie składni. Interpreter jest w środku rozszerzenia.
+2026-11-01T16:36:04.223Z,ai-orchestration-tools.claude-orchestration-tool,ai-orchestration-tools,Claude Orchestration Tool (Unofficial),0.2.1,Use one Claude Code account as an orchestrator that delegates work to your other accounts
+2026-11-01T16:46:19.413Z,percygfx.percygfx-opencode-chat,percygfx,OpenCode Chat (Unofficial),1.0.0,"A Claude Code-style chat panel for OpenCode 2: sessions synced with the TUI, permission modes, diffs, MCP and browser control"
+2026-11-01T16:58:45.9Z,cansuk.notestark-vscode,cansuk,Notestark,0.1.0,Highlight and annotate documents in VS Code — the same engine as the Notestark browser extension.
+2026-11-01T17:01:16.72Z,CodeNyangi.type-the-change,CodeNyangi,Type the Change,0.3.0,"Practice judgment with AI code: predict the outcome, inspect the diff, and keep or reject a proposal with evidence. VS Code, ChatGPT and MCP."

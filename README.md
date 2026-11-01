@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 16:19 UTC
+## Latest list — 2026-11-01 17:20 UTC
 
-New extensions published between 2026-11-01 14:19 UTC and 2026-11-01 16:19 UTC.
+New extensions published between 2026-11-01 15:20 UTC and 2026-11-01 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T16-19-10-213841Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T17-20-37-472595Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 15:17:50 | [nexform.nexthon-language](https://marketplace.visualstudio.com/items?itemName=nexform.nexthon-language) | NEXTHON Language | 0.1.0 | Official language support for NEXTHON, an experimental programming language bui… |
-| 2026-11-01 15:25:34 | [EmantTools.tokensmasher](https://marketplace.visualstudio.com/items?itemName=EmantTools.tokensmasher) | TokenSmasher | 0.0.1 |  |
-| 2026-11-01 15:51:20 | [Pawnkoolong.antigravity-sidebar-autoaccept](https://marketplace.visualstudio.com/items?itemName=Pawnkoolong.antigravity-sidebar-autoaccept) | Antigravity Sidebar Auto Accept | 0.1.3 | Auto accept command approvals in the latest tested official Antigravity extensi… |
-| 2026-11-01 15:53:28 | [0xDimay.rust-use-graph](https://marketplace.visualstudio.com/items?itemName=0xDimay.rust-use-graph) | Rust Use Graph | 0.1.0 | File dependency graph for Rust based on use and mod declarations |
-| 2026-11-01 15:53:29 | [joaojardim-codevision.i18n-vision](https://marketplace.visualstudio.com/items?itemName=joaojardim-codevision.i18n-vision) | I18n Vision | 1.0.0 | i18n Vision brings clarity and speed to your internationalization workflow. Eff… |
-| 2026-11-01 15:56:27 | [SinaMashini.soundcheck](https://marketplace.visualstudio.com/items?itemName=SinaMashini.soundcheck) | Soundcheck | 2.0.0 | Preflight health check, role resolution, quirk immunity, and auto-failover for… |
-| 2026-11-01 16:04:00 | [twigsoftware.fubby](https://marketplace.visualstudio.com/items?itemName=twigsoftware.fubby) | Fubby | 0.1.0 | Fubby language support: highlighting, live errors, formatting, completions, out… |
-| 2026-11-01 16:10:33 | [neolinter.neolinter](https://marketplace.visualstudio.com/items?itemName=neolinter.neolinter) | Neolinter | 0.1.2 | Settings screen for Neolinter rules, stored in the workspace .editorconfig. |
+| 2026-11-01 16:19:04 | [Kilamper.vscode-datautils-hub](https://marketplace.visualstudio.com/items?itemName=Kilamper.vscode-datautils-hub) | DataUtils Hub | 1.0.0 | Extractor de Chasis (VIN), Matrículas, DNI/NIE/CIF con validación matemática, O… |
+| 2026-11-01 16:25:27 | [groundwork-mcp.groundwork-mcp](https://marketplace.visualstudio.com/items?itemName=groundwork-mcp.groundwork-mcp) | Groundwork MCP | 0.1.1 | Index your local workspace so Groundwork-enabled AI assistants can search code… |
+| 2026-11-01 16:33:43 | [MRSHINJI06.sealxx](https://marketplace.visualstudio.com/items?itemName=MRSHINJI06.sealxx) | sealXX | 1.0.0 | Uruchamianie programów .seal jednym kliknięciem + kolorowanie składni. Interpre… |
+| 2026-11-01 16:36:04 | [ai-orchestration-tools.claude-orchestration-tool](https://marketplace.visualstudio.com/items?itemName=ai-orchestration-tools.claude-orchestration-tool) | Claude Orchestration Tool (Unofficial) | 0.2.1 | Use one Claude Code account as an orchestrator that delegates work to your othe… |
+| 2026-11-01 16:46:19 | [percygfx.percygfx-opencode-chat](https://marketplace.visualstudio.com/items?itemName=percygfx.percygfx-opencode-chat) | OpenCode Chat (Unofficial) | 1.0.0 | A Claude Code-style chat panel for OpenCode 2: sessions synced with the TUI, pe… |
+| 2026-11-01 16:58:45 | [cansuk.notestark-vscode](https://marketplace.visualstudio.com/items?itemName=cansuk.notestark-vscode) | Notestark | 0.1.0 | Highlight and annotate documents in VS Code — the same engine as the Notestark… |
+| 2026-11-01 17:01:16 | [CodeNyangi.type-the-change](https://marketplace.visualstudio.com/items?itemName=CodeNyangi.type-the-change) | Type the Change | 0.3.0 | Practice judgment with AI code: predict the outcome, inspect the diff, and keep… |
 
 ## Data source
 
