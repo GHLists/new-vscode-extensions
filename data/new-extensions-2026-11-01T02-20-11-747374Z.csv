@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T01:37:39.873Z,houssam-ouatmani.java-bytecode-viewer,houssam-ouatmani,Java Bytecode Viewer,0.2.0,View and analyze Java compiled bytecode directly inside VS Code like IntelliJ IDEA
+2026-11-01T02:14:00.04Z,hyperswine.fpr-lang,hyperswine,FP-RISC (fpr + sol),0.8.1,"FP-RISC and Sol language support: compiler diagnostics on save, syntax highlighting, source-generated API hovers, completions, outlines, semantic tokens, and cross-module navigation."
+2026-11-01T02:16:05.71Z,ref33.musicxml-pianoroll,ref33,MusicXML ピアノロール エディタ,1.0.85,MusicXMLボーカル譜をピアノロールで視覚的に編集し、Web Audioでリアルタイム再生できるVS Codeカスタムエディタ拡張機能
