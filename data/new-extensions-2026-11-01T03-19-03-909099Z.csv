@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T02:15:59.513Z,gaopal.vscode-transmute,gaopal,VSCode Transmute,1.13.1,"Filter, Sort, Unique, Reverse, Align, CSV, Line Selection and more text Transformations"
+2026-11-01T02:17:06.58Z,ovi-dev.ovi-git,ovi-dev,Ovi Git,0.2.0,"Visualiza el historial de Git como un gráfico y gestiona ramas, commits, etiquetas y stashes."
+2026-11-01T02:39:26.853Z,ByAidan.bushscad,ByAidan,BushSCAD,1.0.0,BushSCAD language tools and CAD previews for Visual Studio Code.
+2026-11-01T02:45:28.793Z,trobeeone.daffydna,trobeeone,DaffyDNA,0.0.21,"Query data files with T-SQL, record and replay SQL Server traffic, and switch servers mid-session: the Daffy tools (DaffyDB, DaffyTee, DaffyReplay, DaffyDuo) in one sidebar."

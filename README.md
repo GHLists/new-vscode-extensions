@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 02:20 UTC
+## Latest list — 2026-11-01 03:19 UTC
 
-New extensions published between 2026-11-01 00:20 UTC and 2026-11-01 02:20 UTC.
+New extensions published between 2026-11-01 01:19 UTC and 2026-11-01 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T02-20-11-747374Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T03-19-03-909099Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 01:37:39 | [houssam-ouatmani.java-bytecode-viewer](https://marketplace.visualstudio.com/items?itemName=houssam-ouatmani.java-bytecode-viewer) | Java Bytecode Viewer | 0.2.0 | View and analyze Java compiled bytecode directly inside VS Code like IntelliJ I… |
-| 2026-11-01 02:14:00 | [hyperswine.fpr-lang](https://marketplace.visualstudio.com/items?itemName=hyperswine.fpr-lang) | FP-RISC (fpr + sol) | 0.8.1 | FP-RISC and Sol language support: compiler diagnostics on save, syntax highligh… |
-| 2026-11-01 02:16:05 | [ref33.musicxml-pianoroll](https://marketplace.visualstudio.com/items?itemName=ref33.musicxml-pianoroll) | MusicXML ピアノロール エディタ | 1.0.85 | MusicXMLボーカル譜をピアノロールで視覚的に編集し、Web Audioでリアルタイム再生できるVS Codeカスタムエディタ拡張機能 |
+| 2026-11-01 02:15:59 | [gaopal.vscode-transmute](https://marketplace.visualstudio.com/items?itemName=gaopal.vscode-transmute) | VSCode Transmute | 1.13.1 | Filter, Sort, Unique, Reverse, Align, CSV, Line Selection and more text Transfo… |
+| 2026-11-01 02:17:06 | [ovi-dev.ovi-git](https://marketplace.visualstudio.com/items?itemName=ovi-dev.ovi-git) | Ovi Git | 0.2.0 | Visualiza el historial de Git como un gráfico y gestiona ramas, commits, etique… |
+| 2026-11-01 02:39:26 | [ByAidan.bushscad](https://marketplace.visualstudio.com/items?itemName=ByAidan.bushscad) | BushSCAD | 1.0.0 | BushSCAD language tools and CAD previews for Visual Studio Code. |
+| 2026-11-01 02:45:28 | [trobeeone.daffydna](https://marketplace.visualstudio.com/items?itemName=trobeeone.daffydna) | DaffyDNA | 0.0.21 | Query data files with T-SQL, record and replay SQL Server traffic, and switch s… |
 
 ## Data source
 
