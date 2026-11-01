@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T00:19:08.377Z,Codvian.codvian-vscode,Codvian,Codvian,0.11.1,Codvian coding agent for VS Code: chat with your Codvian models using your editor context.
+2026-11-01T00:28:13.367Z,Sanyam.anyaxml,Sanyam,AnyaXML,0.1.5,"Format, minify, and validate XML in VS Code."
+2026-11-01T00:28:28.303Z,Sanyam.anyacsv,Sanyam,AnyaCSV,0.1.6,"Detect, preview, and lint CSV and other delimited files."
+2026-11-01T00:28:38.233Z,Sanyam.anyajson,Sanyam,AnyaJSON,0.1.2,"Format, minify, and lint JSON in VS Code."
+2026-11-01T00:28:51.18Z,Sanyam.anyapdf,Sanyam,AnyaPDF,0.1.1,Read PDF files in VS Code.
+2026-11-01T00:47:51.76Z,LazZ.csharp-code-search,LazZ,C# Code Search,1.0.0,"Visual Studio style Code Search for C#: find types, methods, fields, locals and parameters with a live code preview."
+2026-11-01T00:55:42.683Z,ameyllc.parth,ameyllc,Parth — AI Coding Agent,0.1.30,"Drag files into the chat, pick any AI provider and model, and let the agent edit, update dependent files and check its work. Every change is reviewable."
+2026-11-01T01:12:05.817Z,yeahmirva.json5-essentials,yeahmirva,JSON5 Essentials,0.1.1,"JSON5 syntax highlighting, syntax validation and comment-preserving formatting."

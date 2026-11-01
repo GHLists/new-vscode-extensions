@@ -12,18 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 00:18 UTC
+## Latest list — 2026-11-01 01:20 UTC
 
-New extensions published between 2026-10-31 22:18 UTC and 2026-11-01 00:18 UTC.
+New extensions published between 2026-10-31 23:20 UTC and 2026-11-01 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T00-18-54-989632Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T01-20-05-592448Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-10-31 23:15:58 | [PeterMonadjemi.lny-vscode](https://marketplace.visualstudio.com/items?itemName=PeterMonadjemi.lny-vscode) | lny | 0.2.0 | Syntax-Highlighting und Ausführung von lny-Skripten (Lernsprache, neun Sprachen) |
-| 2026-10-31 23:58:28 | [Finingus.error-navigator](https://marketplace.visualstudio.com/items?itemName=Finingus.error-navigator) | File Error Navigator | 0.0.3 | Shows which error you're on and how many the file has in the status bar, with a… |
-| 2026-11-01 00:02:59 | [SyrusAI.wacaller-argon-assist](https://marketplace.visualstudio.com/items?itemName=SyrusAI.wacaller-argon-assist) | WaCaller Argon Assist | 0.1.0 | Assistente de programação com o chat web Gemini: prompts com contexto, pré-visu… |
-| 2026-11-01 00:07:56 | [axean.sundgren](https://marketplace.visualstudio.com/items?itemName=axean.sundgren) | sundgren | 1.1.1 | Multi-language code review tool |
+| 2026-11-01 00:19:08 | [Codvian.codvian-vscode](https://marketplace.visualstudio.com/items?itemName=Codvian.codvian-vscode) | Codvian | 0.11.1 | Codvian coding agent for VS Code: chat with your Codvian models using your edit… |
+| 2026-11-01 00:28:13 | [Sanyam.anyaxml](https://marketplace.visualstudio.com/items?itemName=Sanyam.anyaxml) | AnyaXML | 0.1.5 | Format, minify, and validate XML in VS Code. |
+| 2026-11-01 00:28:28 | [Sanyam.anyacsv](https://marketplace.visualstudio.com/items?itemName=Sanyam.anyacsv) | AnyaCSV | 0.1.6 | Detect, preview, and lint CSV and other delimited files. |
+| 2026-11-01 00:28:38 | [Sanyam.anyajson](https://marketplace.visualstudio.com/items?itemName=Sanyam.anyajson) | AnyaJSON | 0.1.2 | Format, minify, and lint JSON in VS Code. |
+| 2026-11-01 00:28:51 | [Sanyam.anyapdf](https://marketplace.visualstudio.com/items?itemName=Sanyam.anyapdf) | AnyaPDF | 0.1.1 | Read PDF files in VS Code. |
+| 2026-11-01 00:47:51 | [LazZ.csharp-code-search](https://marketplace.visualstudio.com/items?itemName=LazZ.csharp-code-search) | C# Code Search | 1.0.0 | Visual Studio style Code Search for C#: find types, methods, fields, locals and… |
+| 2026-11-01 00:55:42 | [ameyllc.parth](https://marketplace.visualstudio.com/items?itemName=ameyllc.parth) | Parth — AI Coding Agent | 0.1.30 | Drag files into the chat, pick any AI provider and model, and let the agent edi… |
+| 2026-11-01 01:12:05 | [yeahmirva.json5-essentials](https://marketplace.visualstudio.com/items?itemName=yeahmirva.json5-essentials) | JSON5 Essentials | 0.1.1 | JSON5 syntax highlighting, syntax validation and comment-preserving formatting. |
 
 ## Data source
 
