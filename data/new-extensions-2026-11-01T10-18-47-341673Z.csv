@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T09:14:13.01Z,milubxaq.pangu-cn,milubxaq,中文排版助手,1.0.0,自动在中英文、中文与数字之间补空格，规范中文标点；支持 Markdown、纯文本、LaTeX，跳过代码块与链接。
+2026-11-01T09:14:38.973Z,koppajs.koppajs-vscode-extension,koppajs,KoppaJS VS Code Extension,1.1.0,"VS Code editing support for KoppaJS .kpa files: grammar, completions, and structural diagnostics."
+2026-11-01T09:26:54.26Z,AvyaanStudios.code-arena,AvyaanStudios,Code Arena,0.2.0,"LeetCode-style practice inside VS Code: import problems or lists like Blind 75 from LeetCode, timed sessions, autocomplete-free focus mode, test cases, a scratchpad and run analytics."
+2026-11-01T09:51:35.813Z,tranphucbol.review-for-gitlab,tranphucbol,Review for GitLab,0.1.0,"Unofficial merge request review for self-hosted GitLab 13.x, with a side-by-side diff. Not affiliated with GitLab Inc. or JetBrains s.r.o."
+2026-11-01T09:51:54.363Z,morten-lejboelle.ml-markdown-editor-plus,morten-lejboelle,ML Markdown Editor Plus,0.4.14,"Write Markdown visually. Maintain tables, explore Mermaid and draw.io diagrams, and keep your source in sync."
+2026-11-01T09:56:55.99Z,antonny3.kltn-tasks-vscode,antonny3,KLTN – Bảng công việc,0.3.0,"Bảng công việc và thư viện tài liệu của nhóm ngay trong VS Code: mở tham chiếu đúng dòng, gắn dòng vào việc, nhắc việc sắp hạn."
+2026-11-01T10:06:06Z,hyna-studio.hyna-developer-tracker,hyna-studio,Hyna Developer Tracker,1.0.0,"Developer activity tracking for Hyna Management with privacy-first workspace, member authentication, and live session tracking."
+2026-11-01T10:11:03.97Z,wesesh.wesesh,wesesh,WeSesh,0.3.0,"Multiplayer coding in VS Code and Cursor, with independent local AI agents."

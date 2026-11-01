@@ -12,17 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 09:18 UTC
+## Latest list — 2026-11-01 10:18 UTC
 
-New extensions published between 2026-11-01 07:18 UTC and 2026-11-01 09:18 UTC.
+New extensions published between 2026-11-01 08:18 UTC and 2026-11-01 10:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T09-18-49-052234Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T10-18-47-341673Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 08:22:04 | [aisus.aisus](https://marketplace.visualstudio.com/items?itemName=aisus.aisus) | aisus | 0.3.1 | View a repository's architecture as a map and open the code behind each node. |
-| 2026-11-01 08:57:03 | [tranphucbol.search-everywhere-classic](https://marketplace.visualstudio.com/items?itemName=tranphucbol.search-everywhere-classic) | Search Everywhere Classic | 0.6.0 | Fast and customizable files, symbols search engine. An alternative for 'Go to s… |
-| 2026-11-01 09:13:33 | [shreyashgupta.commons-vscode](https://marketplace.visualstudio.com/items?itemName=shreyashgupta.commons-vscode) | Commons | 0.1.0 | Share code, notes, links and files with your Commons spaces — live, right from… |
+| 2026-11-01 09:14:13 | [milubxaq.pangu-cn](https://marketplace.visualstudio.com/items?itemName=milubxaq.pangu-cn) | 中文排版助手 | 1.0.0 | 自动在中英文、中文与数字之间补空格，规范中文标点；支持 Markdown、纯文本、LaTeX，跳过代码块与链接。 |
+| 2026-11-01 09:14:38 | [koppajs.koppajs-vscode-extension](https://marketplace.visualstudio.com/items?itemName=koppajs.koppajs-vscode-extension) | KoppaJS VS Code Extension | 1.1.0 | VS Code editing support for KoppaJS .kpa files: grammar, completions, and struc… |
+| 2026-11-01 09:26:54 | [AvyaanStudios.code-arena](https://marketplace.visualstudio.com/items?itemName=AvyaanStudios.code-arena) | Code Arena | 0.2.0 | LeetCode-style practice inside VS Code: import problems or lists like Blind 75… |
+| 2026-11-01 09:51:35 | [tranphucbol.review-for-gitlab](https://marketplace.visualstudio.com/items?itemName=tranphucbol.review-for-gitlab) | Review for GitLab | 0.1.0 | Unofficial merge request review for self-hosted GitLab 13.x, with a side-by-sid… |
+| 2026-11-01 09:51:54 | [morten-lejboelle.ml-markdown-editor-plus](https://marketplace.visualstudio.com/items?itemName=morten-lejboelle.ml-markdown-editor-plus) | ML Markdown Editor Plus | 0.4.14 | Write Markdown visually. Maintain tables, explore Mermaid and draw.io diagrams,… |
+| 2026-11-01 09:56:55 | [antonny3.kltn-tasks-vscode](https://marketplace.visualstudio.com/items?itemName=antonny3.kltn-tasks-vscode) | KLTN – Bảng công việc | 0.3.0 | Bảng công việc và thư viện tài liệu của nhóm ngay trong VS Code: mở tham chiếu… |
+| 2026-11-01 10:06:06 | [hyna-studio.hyna-developer-tracker](https://marketplace.visualstudio.com/items?itemName=hyna-studio.hyna-developer-tracker) | Hyna Developer Tracker | 1.0.0 | Developer activity tracking for Hyna Management with privacy-first workspace, m… |
+| 2026-11-01 10:11:03 | [wesesh.wesesh](https://marketplace.visualstudio.com/items?itemName=wesesh.wesesh) | WeSesh | 0.3.0 | Multiplayer coding in VS Code and Cursor, with independent local AI agents. |
 
 ## Data source
 
