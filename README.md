@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 03:19 UTC
+## Latest list — 2026-11-01 04:20 UTC
 
-New extensions published between 2026-11-01 01:19 UTC and 2026-11-01 03:19 UTC.
+New extensions published between 2026-11-01 02:20 UTC and 2026-11-01 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T03-19-03-909099Z.csv)
+[Full CSV](data/new-extensions-2026-11-01T04-20-25-247687Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 02:15:59 | [gaopal.vscode-transmute](https://marketplace.visualstudio.com/items?itemName=gaopal.vscode-transmute) | VSCode Transmute | 1.13.1 | Filter, Sort, Unique, Reverse, Align, CSV, Line Selection and more text Transfo… |
-| 2026-11-01 02:17:06 | [ovi-dev.ovi-git](https://marketplace.visualstudio.com/items?itemName=ovi-dev.ovi-git) | Ovi Git | 0.2.0 | Visualiza el historial de Git como un gráfico y gestiona ramas, commits, etique… |
-| 2026-11-01 02:39:26 | [ByAidan.bushscad](https://marketplace.visualstudio.com/items?itemName=ByAidan.bushscad) | BushSCAD | 1.0.0 | BushSCAD language tools and CAD previews for Visual Studio Code. |
-| 2026-11-01 02:45:28 | [trobeeone.daffydna](https://marketplace.visualstudio.com/items?itemName=trobeeone.daffydna) | DaffyDNA | 0.0.21 | Query data files with T-SQL, record and replay SQL Server traffic, and switch s… |
+| 2026-11-01 03:20:30 | [seads-technology.seads-ai-vscode](https://marketplace.visualstudio.com/items?itemName=seads-technology.seads-ai-vscode) | SEADS AI | 0.5.0 | SEADS AI in your editor: ask about your code, explain it, rewrite a selection. |
+| 2026-11-01 03:39:37 | [AztraOpenSource.rustx](https://marketplace.visualstudio.com/items?itemName=AztraOpenSource.rustx) | rustx | 0.1.0 | What an editor needs to know about a .rsx: its colours, its pairs, and where th… |
+| 2026-11-01 03:42:04 | [sqhao.kawaii-python-diagnostics](https://marketplace.visualstudio.com/items?itemName=sqhao.kawaii-python-diagnostics) | Kawaii Python Diagnostics | 0.1.1 | 本地文案补丁：首次启用后修改 Pylance 中文消息表，自动备份并支持恢复。 |
+| 2026-11-01 03:50:57 | [nabinbhandari.code-on-the-fly](https://marketplace.visualstudio.com/items?itemName=nabinbhandari.code-on-the-fly) | Code On The Fly | 0.1.0 | Checks Python and JavaScript files on save and has AI explain the error and the… |
+| 2026-11-01 03:52:14 | [ReadyStack.pci-dss-6-4-3-payment-script-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.pci-dss-6-4-3-payment-script-lint) | PCI DSS 6.4.3 Payment Page Script Lint | 1.0.11 | Lints checkout and payment pages against PCI DSS v4.0.1 Requirements 6.4.3 and… |
+| 2026-11-01 03:52:33 | [ReadyStack.privacidad-chile-21719-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.privacidad-chile-21719-lint) | Privacidad Chile: Ley 21.719 Policy Lint | 1.0.1 | Revisa la política de privacidad de un sitio chileno (WordPress, Elementor, por… |
 
 ## Data source
 

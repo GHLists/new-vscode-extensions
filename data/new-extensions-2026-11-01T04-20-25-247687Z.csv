@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T03:20:30.187Z,seads-technology.seads-ai-vscode,seads-technology,SEADS AI,0.5.0,"SEADS AI in your editor: ask about your code, explain it, rewrite a selection."
+2026-11-01T03:39:37.327Z,AztraOpenSource.rustx,AztraOpenSource,rustx,0.1.0,"What an editor needs to know about a .rsx: its colours, its pairs, and where the mistakes are."
+2026-11-01T03:42:04.543Z,sqhao.kawaii-python-diagnostics,sqhao,Kawaii Python Diagnostics,0.1.1,本地文案补丁：首次启用后修改 Pylance 中文消息表，自动备份并支持恢复。
+2026-11-01T03:50:57.947Z,nabinbhandari.code-on-the-fly,nabinbhandari,Code On The Fly,0.1.0,"Checks Python and JavaScript files on save and has AI explain the error and the fix: local Ollama, OpenAI, or any OpenAI-compatible API."
+2026-11-01T03:52:14.377Z,ReadyStack.pci-dss-6-4-3-payment-script-lint,ReadyStack,PCI DSS 6.4.3 Payment Page Script Lint,1.0.11,"Lints checkout and payment pages against PCI DSS v4.0.1 Requirements 6.4.3 and 11.6.1 — script authorization, SRI integrity, written justification and tamper detection. Mandatory since 2025-03-31."
+2026-11-01T03:52:33.703Z,ReadyStack.privacidad-chile-21719-lint,ReadyStack,Privacidad Chile: Ley 21.719 Policy Lint,1.0.1,"Revisa la política de privacidad de un sitio chileno (WordPress, Elementor, portfolio) contra el art. 14 ter de la Ley 21.719, vigente el 2026-12-01: RUT, derechos, Agencia, transferencias."
