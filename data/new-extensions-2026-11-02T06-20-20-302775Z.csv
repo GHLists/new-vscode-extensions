@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T05:17:37.78Z,Pawnkoolong.antigravity-vscode-autoaccept,Pawnkoolong,Antigravity VS Code Auto Accept,0.1.7,Auto accept command approvals in the latest tested official Antigravity extension for VS Code.
+2026-11-02T05:32:23.72Z,brandon-cercedo.pick-changes,brandon-cercedo,Pick Changes,0.3.3,"Open, stage and filter your git changes from a Quick Pick. Forked from Quick Open Git Status."
+2026-11-02T05:34:44.867Z,tubumu.cynapse-vscode-adapter,tubumu,Cynapse VS Code Adapter,0.1.5,VS Code Adapter for Cynapse precise mode
+2026-11-02T05:42:29.807Z,Zaxckheal101.codexport,Zaxckheal101,CodeXport,0.1.0,Extract highlighted code into a .txt prompt file with a single right-click.
+2026-11-02T05:43:58.15Z,vyomeshupadhyay.vscode-opencode,vyomeshupadhyay,VSCode Opencode,1.0.1,"OpenCode v2 AI coding agent for VS Code: chat, sessions, diffs, permissions, MCP, terminals and more."
+2026-11-02T05:59:02.397Z,bitspark.canonical-json,bitspark,Canonical JSON (RFC 8785),0.1.0,"Show the exact RFC 8785 (JCS) canonical form of a JSON document and its SHA-256 digest, and explain why an input canonicalizes the way it does."
+2026-11-02T06:03:16.567Z,minos.rail-theme,minos,Rail Theme,0.1.1,"Six VS Code themes inspired by the ThinkRail editor palette: three dark, three light, plus high-contrast and minimal variants."
+2026-11-02T06:03:50.723Z,anngth.duskfeather,anngth,Duskfeather,1.0.0,"Night Owl (No Italics), reworked: deep cards on a navy shell, gray borders and a VS Code blue accent. Dark and light variants, no italics."
+2026-11-02T06:06:10.433Z,Ednoer.sql-ai-agent,Ednoer,SQL AI Agent,0.3.0,"Azure Data Studio only. Ask questions about your SQL Server databases using Claude, ChatGPT, DeepSeek, Qwen or any OpenAI-compatible model."
