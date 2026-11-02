@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 11:21 UTC
+## Latest list — 2026-11-02 12:20 UTC
 
-New extensions published between 2026-11-02 09:21 UTC and 2026-11-02 11:21 UTC.
+New extensions published between 2026-11-02 10:20 UTC and 2026-11-02 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T11-21-12-140448Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T12-20-42-740357Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 10:16:46 | [Fantasia040506.codex-drag-context](https://marketplace.visualstudio.com/items?itemName=Fantasia040506.codex-drag-context) | Codex Drag Context | 0.1.1 | Send Explorer files and folder references to Codex through a dedicated drop zon… |
-| 2026-11-02 10:28:28 | [SemyonDanilov.merge-and-blame](https://marketplace.visualstudio.com/items?itemName=SemyonDanilov.merge-and-blame) | Merge & Blame | 0.3.0 | An IntelliJ-style three-way merge editor and Git blame for VS Code. |
-| 2026-11-02 10:33:51 | [ScarpLang.scarp](https://marketplace.visualstudio.com/items?itemName=ScarpLang.scarp) | Scarp Compiler & Runner | 0.1.0 | Official experimental VS Code extension for running and checking Scarp programs… |
-| 2026-11-02 10:44:10 | [eagoxstudiobyshahriar.seedcode-vscode](https://marketplace.visualstudio.com/items?itemName=eagoxstudiobyshahriar.seedcode-vscode) | SeedCode CLI | 2.1.4 | Run the SeedCode CLI AI coding agent in a dedicated Activity Bar sidebar or an… |
-| 2026-11-02 10:54:16 | [proximus.proximus-1k](https://marketplace.visualstudio.com/items?itemName=proximus.proximus-1k) | Proxy-1 AI | 0.1.3 | Code, review and test in VS Code with Proxy-1 and your Proximus credits. |
-| 2026-11-02 10:55:12 | [phx-lang.phx-language](https://marketplace.visualstudio.com/items?itemName=phx-lang.phx-language) | PHX Language | 0.2.7 | PHX language support: syntax highlighting for .phx and .phx.html, and diagnosti… |
-| 2026-11-02 11:03:57 | [alonpe.local-ghost](https://marketplace.visualstudio.com/items?itemName=alonpe.local-ghost) | Local Ghost | 0.1.2 | Offline ghost-text completions learned from your open files |
-| 2026-11-02 11:07:14 | [miragon-gmbh.c4-modeler](https://marketplace.visualstudio.com/items?itemName=miragon-gmbh.c4-modeler) | C4 Modeler | 0.1.0 | View and edit C4 model diagrams directly in VS Code, backed by plain-text Struc… |
+| 2026-11-02 11:51:47 | [NiklasBruening.repo-switcher](https://marketplace.visualstudio.com/items?itemName=NiklasBruening.repo-switcher) | Repo Switcher | 0.1.0 | Switch between the git repositories below a configurable root folder, like the… |
+| 2026-11-02 11:59:10 | [Danial031.devshelf](https://marketplace.visualstudio.com/items?itemName=Danial031.devshelf) | DevShelf | 1.0.0 | Offline-first, high-utility developer Swiss Army Knife with seamless Persian (R… |
+| 2026-11-02 11:59:27 | [JimmyUns.sf-org-scout](https://marketplace.visualstudio.com/items?itemName=JimmyUns.sf-org-scout) | SF Org Scout | 0.6.1 | See who changed what in your Salesforce org, get warned before you overwrite a… |
+| 2026-11-02 12:10:54 | [purple-hawk.paperflow](https://marketplace.visualstudio.com/items?itemName=purple-hawk.paperflow) | PaperFlow: LaTeX & Markdown Checklist | 0.2.0 | LaTeX completion (commands, packages, BibTeX citations) and interactive Markdow… |
+| 2026-11-02 12:11:25 | [armotusitio.probato-pr](https://marketplace.visualstudio.com/items?itemName=armotusitio.probato-pr) | Probato PR — Code Review with Proof | 0.1.0 | Your AI reviews the code. We verify what could break. Local, evidence-backed re… |
+| 2026-11-02 12:15:05 | [phv-lang.phv-language](https://marketplace.visualstudio.com/items?itemName=phv-lang.phv-language) | PHV Language | 0.3.0 | PHV language support: syntax highlighting for .phv and .phv.html, and diagnosti… |
 
 ## Data source
 

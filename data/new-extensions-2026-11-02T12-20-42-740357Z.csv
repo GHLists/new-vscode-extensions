@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T11:51:47.41Z,NiklasBruening.repo-switcher,NiklasBruening,Repo Switcher,0.1.0,"Switch between the git repositories below a configurable root folder, like the project dropdown in JetBrains IDEs."
+2026-11-02T11:59:10.083Z,Danial031.devshelf,Danial031,DevShelf,1.0.0,"Offline-first, high-utility developer Swiss Army Knife with seamless Persian (RTL) & English (LTR) bilingual support."
+2026-11-02T11:59:27.7Z,JimmyUns.sf-org-scout,JimmyUns,SF Org Scout,0.6.1,"See who changed what in your Salesforce org, get warned before you overwrite a teammate's work, and compare or retrieve in one click."
+2026-11-02T12:10:54.393Z,purple-hawk.paperflow,purple-hawk,PaperFlow: LaTeX & Markdown Checklist,0.2.0,"LaTeX completion (commands, packages, BibTeX citations) and interactive Markdown checklist preview for academic writing and task management."
+2026-11-02T12:11:25.76Z,armotusitio.probato-pr,armotusitio,Probato PR — Code Review with Proof,0.1.0,"Your AI reviews the code. We verify what could break. Local, evidence-backed review of Git changes and pull requests: deterministic analyzers, approved project checks with base-vs-head regression attribution, SARIF and Markdown reports. No account or AI key required."
+2026-11-02T12:15:05.243Z,phv-lang.phv-language,phv-lang,PHV Language,0.3.0,"PHV language support: syntax highlighting for .phv and .phv.html, and diagnostics and hover types from `phv lsp`."
