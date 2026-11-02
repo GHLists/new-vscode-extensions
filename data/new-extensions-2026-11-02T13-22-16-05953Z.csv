@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T12:19:27.043Z,shapescript.shapescript,shapescript,ShapeScript,0.1.0,"Shape-checked tensor programs: diagnostics, hover with shape diagrams, go to definition, rename and pipe shape hints."
+2026-11-02T12:20:52.777Z,BharathPathan.project-alen,BharathPathan,Project ALEN,0.7.2,Model-independent architecture and code-generation workbench with repository intelligence and verified build workflows.
+2026-11-02T12:30:04.363Z,TheChaosACC.mathmate-vscode,TheChaosACC,MathMate,0.0.1,"Inline math symbols, calculation, and linear equation solving for VS Code."
+2026-11-02T12:33:43.357Z,Sec1.sec1-security,Sec1,Sec1 Security: SCA & SAST,0.1.0,"Find vulnerable open-source dependencies (including vendored C/C++ libraries), insecure code and hard-coded secrets as you code. Code analysis runs locally."
+2026-11-02T12:36:31.987Z,hongjoongshin.git-across-compare,hongjoongshin,Git Across Compare — 브랜치 비교·병합,0.0.1,"두 git 브랜치를 좌우로 나란히 비교하고, 파일 단위로 가져오기·삭제·병합합니다"
+2026-11-02T12:48:39.417Z,Ocym.fakegit-v2,Ocym,fakegit v2,2.1.0,不依赖 git 的本地版本管理：在 VS Code 扩展宿主内运行，不调用外部程序，适用于透明加密 / DLP 白名单环境
+2026-11-02T13:11:51.037Z,myilmaz.git-index-editor,myilmaz,Git Index Editor,0.1.0,"Edit the Git staging area directly: two-stage diffs (Working Tree ↔ Index, HEAD ↔ Index) whose Index side is a real, saveable editor."
+2026-11-02T13:12:31.237Z,soulstack.hollowscript,soulstack,HollowScript,0.1.1,"Preview language support for HollowScript: highlighting, completion, diagnostics, formatting and refactoring. Supports the HollowScript v0.1.1 CLI."

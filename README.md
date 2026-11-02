@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 12:20 UTC
+## Latest list — 2026-11-02 13:22 UTC
 
-New extensions published between 2026-11-02 10:20 UTC and 2026-11-02 12:20 UTC.
+New extensions published between 2026-11-02 11:22 UTC and 2026-11-02 13:22 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T12-20-42-740357Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T13-22-16-05953Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 11:51:47 | [NiklasBruening.repo-switcher](https://marketplace.visualstudio.com/items?itemName=NiklasBruening.repo-switcher) | Repo Switcher | 0.1.0 | Switch between the git repositories below a configurable root folder, like the… |
-| 2026-11-02 11:59:10 | [Danial031.devshelf](https://marketplace.visualstudio.com/items?itemName=Danial031.devshelf) | DevShelf | 1.0.0 | Offline-first, high-utility developer Swiss Army Knife with seamless Persian (R… |
-| 2026-11-02 11:59:27 | [JimmyUns.sf-org-scout](https://marketplace.visualstudio.com/items?itemName=JimmyUns.sf-org-scout) | SF Org Scout | 0.6.1 | See who changed what in your Salesforce org, get warned before you overwrite a… |
-| 2026-11-02 12:10:54 | [purple-hawk.paperflow](https://marketplace.visualstudio.com/items?itemName=purple-hawk.paperflow) | PaperFlow: LaTeX & Markdown Checklist | 0.2.0 | LaTeX completion (commands, packages, BibTeX citations) and interactive Markdow… |
-| 2026-11-02 12:11:25 | [armotusitio.probato-pr](https://marketplace.visualstudio.com/items?itemName=armotusitio.probato-pr) | Probato PR — Code Review with Proof | 0.1.0 | Your AI reviews the code. We verify what could break. Local, evidence-backed re… |
-| 2026-11-02 12:15:05 | [phv-lang.phv-language](https://marketplace.visualstudio.com/items?itemName=phv-lang.phv-language) | PHV Language | 0.3.0 | PHV language support: syntax highlighting for .phv and .phv.html, and diagnosti… |
+| 2026-11-02 12:19:27 | [shapescript.shapescript](https://marketplace.visualstudio.com/items?itemName=shapescript.shapescript) | ShapeScript | 0.1.0 | Shape-checked tensor programs: diagnostics, hover with shape diagrams, go to de… |
+| 2026-11-02 12:20:52 | [BharathPathan.project-alen](https://marketplace.visualstudio.com/items?itemName=BharathPathan.project-alen) | Project ALEN | 0.7.2 | Model-independent architecture and code-generation workbench with repository in… |
+| 2026-11-02 12:30:04 | [TheChaosACC.mathmate-vscode](https://marketplace.visualstudio.com/items?itemName=TheChaosACC.mathmate-vscode) | MathMate | 0.0.1 | Inline math symbols, calculation, and linear equation solving for VS Code. |
+| 2026-11-02 12:33:43 | [Sec1.sec1-security](https://marketplace.visualstudio.com/items?itemName=Sec1.sec1-security) | Sec1 Security: SCA & SAST | 0.1.0 | Find vulnerable open-source dependencies (including vendored C/C++ libraries),… |
+| 2026-11-02 12:36:31 | [hongjoongshin.git-across-compare](https://marketplace.visualstudio.com/items?itemName=hongjoongshin.git-across-compare) | Git Across Compare — 브랜치 비교·병합 | 0.0.1 | 두 git 브랜치를 좌우로 나란히 비교하고, 파일 단위로 가져오기·삭제·병합합니다 |
+| 2026-11-02 12:48:39 | [Ocym.fakegit-v2](https://marketplace.visualstudio.com/items?itemName=Ocym.fakegit-v2) | fakegit v2 | 2.1.0 | 不依赖 git 的本地版本管理：在 VS Code 扩展宿主内运行，不调用外部程序，适用于透明加密 / DLP 白名单环境 |
+| 2026-11-02 13:11:51 | [myilmaz.git-index-editor](https://marketplace.visualstudio.com/items?itemName=myilmaz.git-index-editor) | Git Index Editor | 0.1.0 | Edit the Git staging area directly: two-stage diffs (Working Tree ↔ Index, HEAD… |
+| 2026-11-02 13:12:31 | [soulstack.hollowscript](https://marketplace.visualstudio.com/items?itemName=soulstack.hollowscript) | HollowScript | 0.1.1 | Preview language support for HollowScript: highlighting, completion, diagnostic… |
 
 ## Data source
 
