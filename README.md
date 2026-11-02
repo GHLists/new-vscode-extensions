@@ -12,26 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 08:21 UTC
+## Latest list — 2026-11-02 09:19 UTC
 
-New extensions published between 2026-11-02 06:21 UTC and 2026-11-02 08:21 UTC.
+New extensions published between 2026-11-02 07:19 UTC and 2026-11-02 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T08-21-04-601348Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T09-19-05-102784Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 07:23:09 | [jeffreyzhou.vscode-settings-combiner](https://marketplace.visualstudio.com/items?itemName=jeffreyzhou.vscode-settings-combiner) | VSCode Settings Combiner | 0.2.5 | Merge user.* > team.*.platform > team.* > settings.json into .vscode/settings.j… |
-| 2026-11-02 07:23:40 | [parthoza.requestpulse](https://marketplace.visualstudio.com/items?itemName=parthoza.requestpulse) | RequestPulse — Load Testing | 1.0.0 | Load-test any local or deployed HTTP endpoint (localhost, Vercel, Render) from… |
-| 2026-11-02 07:24:56 | [KCodedevelopment.KostalCodeDevelopmentPlatform](https://marketplace.visualstudio.com/items?itemName=KCodedevelopment.KostalCodeDevelopmentPlatform) | KCDP | 1.0.25 | KCDP |
-| 2026-11-02 07:26:42 | [DataTemplar.android-adb-management-vscode](https://marketplace.visualstudio.com/items?itemName=DataTemplar.android-adb-management-vscode) | Android ADB Management - VS Code | 0.1.2 | Sélection fiable d’appareils Android, gestion AVD et compilation/installation/l… |
-| 2026-11-02 07:28:25 | [aijishu.jishubuddy](https://marketplace.visualstudio.com/items?itemName=aijishu.jishubuddy) | JishuBuddy | 0.1.0 | Open the native JishuBuddy TUI in a VS Code terminal editor. |
-| 2026-11-02 07:29:32 | [Gostman.gostman](https://marketplace.visualstudio.com/items?itemName=Gostman.gostman) | Gostman | 0.1.0 | Run, send, lint and scan Gostman API collections from VS Code. |
-| 2026-11-02 07:37:57 | [hazi.dark-ish-theme](https://marketplace.visualstudio.com/items?itemName=hazi.dark-ish-theme) | Dark-ish | 1.0.0 | Almost dark. A playful, understated dark theme with outline product icons for V… |
-| 2026-11-02 07:54:36 | [JefferyVonYu.rshell](https://marketplace.visualstudio.com/items?itemName=JefferyVonYu.rshell) | RShell SSH | 1.0.0 | Persistent global SSH sessions with a custom three-column SSH terminal |
-| 2026-11-02 08:00:34 | [lhs1hc.artoolkit](https://marketplace.visualstudio.com/items?itemName=lhs1hc.artoolkit) | Artoolkit | 0.4.0 | AI agent tools to read and edit AUTOSAR BSW configuration (ECUC ARXML), checked… |
-| 2026-11-02 08:11:52 | [adito.adito-standalone-tools](https://marketplace.visualstudio.com/items?itemName=adito.adito-standalone-tools) | ADITO Standalone Tools | 0.1.0 | Provides the tool needed to manage ADITO applications |
-| 2026-11-02 08:12:20 | [hamperpick.llm-vitals-vscode](https://marketplace.visualstudio.com/items?itemName=hamperpick.llm-vitals-vscode) | LLM Vitals: Claude Code & Codex Tokens… | 0.1.0 | See live tokens per second, cache hit rate and context size for your Claude Cod… |
-| 2026-11-02 08:12:39 | [SalimCastellanos.bigswarmai](https://marketplace.visualstudio.com/items?itemName=SalimCastellanos.bigswarmai) | BigSwarmAI | 0.1.18 | Run an agent swarm on an objective in the open folder, using the models VS Code… |
+| 2026-11-02 08:14:56 | [theaffy.hueform](https://marketplace.visualstudio.com/items?itemName=theaffy.hueform) | HUEFORM — VS Code Theme & Icon Collecti… | 1.0.0 | A curated collection of 22 dark & light VS Code colour themes and matching file… |
+| 2026-11-02 08:24:07 | [frcoder-lh.md-github-anchor](https://marketplace.visualstudio.com/items?itemName=frcoder-lh.md-github-anchor) | Markdown GitHub Anchor | 1.1.3 | Support GitHub-style line-range anchors (path/file.md#L12-L15) in markdown link… |
+| 2026-11-02 08:24:49 | [buttercrab.flow-language](https://marketplace.visualstudio.com/items?itemName=buttercrab.flow-language) | Flow Language | 0.1.0 | Editing support for the Flow orchestration language. |
+| 2026-11-02 08:30:43 | [soulstack.hollow-code](https://marketplace.visualstudio.com/items?itemName=soulstack.hollow-code) | Hollow Code | 0.1.1 | Hollow, your AI coding partner in VS Code. Chat, plan and make changes in your… |
+| 2026-11-02 08:40:09 | [tok-lang-bpm.tok](https://marketplace.visualstudio.com/items?itemName=tok-lang-bpm.tok) | tok | 1.0.3 | The tok process language: syntax highlighting, diagnostics, formatting, navigat… |
+| 2026-11-02 08:55:08 | [takobaba.kiro-cli-companion](https://marketplace.visualstudio.com/items?itemName=takobaba.kiro-cli-companion) | Kiro CLI Companion | 0.0.1 | Unofficial companion for the Kiro CLI: chat beside your code, plan features wit… |
+| 2026-11-02 09:02:26 | [nitinkumarhiremath.api-testing-studio](https://marketplace.visualstudio.com/items?itemName=nitinkumarhiremath.api-testing-studio) | API Testing Studio | 0.1.3 | API testing workspace for VS Code and Antigravity |
 
 ## Data source
 

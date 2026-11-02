@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T08:14:56.403Z,theaffy.hueform,theaffy,HUEFORM — VS Code Theme & Icon Collection,1.0.0,"A curated collection of 22 dark & light VS Code colour themes and matching file icon sets, crafted with intentional contrast, long-session eye comfort, and seamless theme synchronization."
+2026-11-02T08:24:07.84Z,frcoder-lh.md-github-anchor,frcoder-lh,Markdown GitHub Anchor,1.1.3,Support GitHub-style line-range anchors (path/file.md#L12-L15) in markdown links: click to jump & highlight the target lines.
+2026-11-02T08:24:49.96Z,buttercrab.flow-language,buttercrab,Flow Language,0.1.0,Editing support for the Flow orchestration language.
+2026-11-02T08:30:43.927Z,soulstack.hollow-code,soulstack,Hollow Code,0.1.1,"Hollow, your AI coding partner in VS Code. Chat, plan and make changes in your own workspace or in the cloud, with every edit and command shown to you first."
+2026-11-02T08:40:09.463Z,tok-lang-bpm.tok,tok-lang-bpm,tok,1.0.3,"The tok process language: syntax highlighting, diagnostics, formatting, navigation, rename and a live diagram preview of BPMN 2.0 models written as text."
+2026-11-02T08:55:08.43Z,takobaba.kiro-cli-companion,takobaba,Kiro CLI Companion,0.0.1,"Unofficial companion for the Kiro CLI: chat beside your code, plan features with specs, manage rules, and see what Kiro uses. Requires kiro-cli from kiro.dev."
+2026-11-02T09:02:26.8Z,nitinkumarhiremath.api-testing-studio,nitinkumarhiremath,API Testing Studio,0.1.3,API testing workspace for VS Code and Antigravity
