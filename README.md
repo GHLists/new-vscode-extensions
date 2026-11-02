@@ -12,22 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 18:22 UTC
+## Latest list — 2026-11-02 19:21 UTC
 
-New extensions published between 2026-11-02 16:22 UTC and 2026-11-02 18:22 UTC.
+New extensions published between 2026-11-02 17:21 UTC and 2026-11-02 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T18-22-27-895372Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T19-21-55-941759Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 17:24:29 | [nebula-automotive.truefidelity](https://marketplace.visualstudio.com/items?itemName=nebula-automotive.truefidelity) | TrueFidelity | 0.2.0 | Deploy, flash, and debug automotive ECU firmware on TrueFidelity Cloud without… |
-| 2026-11-02 17:24:59 | [Minato3000.llm-monitor-service](https://marketplace.visualstudio.com/items?itemName=Minato3000.llm-monitor-service) | LLM Monitor Service | 0.1.0 | Live monitoring of running vLLM and SGLang containers in your VS Code sidebar:… |
-| 2026-11-02 17:27:22 | [evotech.wannacode](https://marketplace.visualstudio.com/items?itemName=evotech.wannacode) | WannaCode — Learn by doing | 1.5.2 | Beta: coding practice in Java, Python, JavaScript and C# with real tests, progr… |
-| 2026-11-02 17:28:30 | [RepoMedic.repomedic](https://marketplace.visualstudio.com/items?itemName=RepoMedic.repomedic) | RepoMedic | 0.1.0 | A focused, read-only project health dashboard for Visual Studio Code. |
-| 2026-11-02 17:30:48 | [naoriky.selene](https://marketplace.visualstudio.com/items?itemName=naoriky.selene) | SELENE Agent | 0.1.0 | SELENE para VS Code — abre o SELENE no terminal, na aba ao lado. |
-| 2026-11-02 17:53:33 | [wzaielamri.talpy-den](https://marketplace.visualstudio.com/items?itemName=wzaielamri.talpy-den) | Talpy Den | 1.17.0 | Every Claude Code chat on this computer and your SSH hosts in one view: who nee… |
-| 2026-11-02 18:12:30 | [rolandzwaga.eligian](https://marketplace.visualstudio.com/items?itemName=rolandzwaga.eligian) | Eligian | 1.0.0 | Language support for Eligian, a concise DSL for Eligius presentations: highligh… |
-| 2026-11-02 18:15:23 | [JACOCODE.jaco-cognitive-ide](https://marketplace.visualstudio.com/items?itemName=JACOCODE.jaco-cognitive-ide) | JACO Cognitive IDE | 0.1.1 | Open your local JACO AI workspace in VS Code, with Aura chat, missions, Git and… |
+| 2026-11-02 18:04:58 | [djblu.lodex](https://marketplace.visualstudio.com/items?itemName=djblu.lodex) | Lodex | 1.0.0 | A coding agent for VS Code with configurable model endpoints. |
+| 2026-11-02 18:23:01 | [KingCurve.kingcurve](https://marketplace.visualstudio.com/items?itemName=KingCurve.kingcurve) | Kingcurve | 0.8.1 | AI coding assistant for VS Code with local (Ollama, LM Studio) and cloud (OpenA… |
+| 2026-11-02 19:01:33 | [xporc.vscode-xproc](https://marketplace.visualstudio.com/items?itemName=xporc.vscode-xproc) | XProc for VisualStudio Code | 0.1.0 | Run and validate XProc 1.0 and 3.x pipelines with XML Calabash 1.x and 3.x, wit… |
+| 2026-11-02 19:04:02 | [veratech-es.vscode-fhir-connect](https://marketplace.visualstudio.com/items?itemName=veratech-es.vscode-fhir-connect) | FHIRConnect | 0.5.1 | Editing support for FHIRConnect openEHR <-> FHIR mapping files: validation, com… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T18:04:58.02Z,djblu.lodex,djblu,Lodex,1.0.0,A coding agent for VS Code with configurable model endpoints.
+2026-11-02T18:23:01.29Z,KingCurve.kingcurve,KingCurve,Kingcurve,0.8.1,"AI coding assistant for VS Code with local (Ollama, LM Studio) and cloud (OpenAI, Claude, Gemini, OpenRouter) model support."
+2026-11-02T19:01:33.103Z,xporc.vscode-xproc,xporc,XProc for VisualStudio Code,0.1.0,"Run and validate XProc 1.0 and 3.x pipelines with XML Calabash 1.x and 3.x, with code completion, hover documentation, outline and navigation."
+2026-11-02T19:04:02.013Z,veratech-es.vscode-fhir-connect,veratech-es,FHIRConnect,0.5.1,"Editing support for FHIRConnect openEHR <-> FHIR mapping files: validation, completion, navigation, path resolution against openEHR templates and FHIR R4, and running mappings with openFHIR."
