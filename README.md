@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 01:20 UTC
+## Latest list — 2026-11-02 02:20 UTC
 
-New extensions published between 2026-11-01 23:20 UTC and 2026-11-02 01:20 UTC.
+New extensions published between 2026-11-02 00:20 UTC and 2026-11-02 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T01-20-22-240228Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T02-20-39-685143Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 00:23:03 | [Doomgames.blitscript](https://marketplace.visualstudio.com/items?itemName=Doomgames.blitscript) | dgz's blitscript | 0.2.0 | BlitScript language support and Blit Engine projects: create, build and run gam… |
-| 2026-11-02 00:43:01 | [codetent.mapitect](https://marketplace.visualstudio.com/items?itemName=codetent.mapitect) | mapitect — Interactive D2 Architecture… | 0.1.0 | Render D2 diagrams as interactive architecture maps with zoom, pan, drill-down… |
-| 2026-11-02 00:50:16 | [DanieldeFrancisco.osgi-ai-migrator](https://marketplace.visualstudio.com/items?itemName=DanieldeFrancisco.osgi-ai-migrator) | OSGi AI Migrator for Liferay | 3.2.0 | AI-assisted modernization of legacy Liferay 7.x OSGi modules into Liferay Objec… |
-| 2026-11-02 01:06:27 | [yhay81.vastgrid-vscode](https://marketplace.visualstudio.com/items?itemName=yhay81.vastgrid-vscode) | vastgrid | 0.3.0 | Huge CSV, TSV, Parquet, JSON Lines and Excel files in a grid in VS Code, read b… |
+| 2026-11-02 01:43:59 | [kagome6.quiet-light-balanced-theme](https://marketplace.visualstudio.com/items?itemName=kagome6.quiet-light-balanced-theme) | Quiet Light Balanced | 1.6.0 | A balanced hybrid color theme with a light workbench, dark code editor and term… |
+| 2026-11-02 02:03:53 | [navskh.memo-style](https://marketplace.visualstudio.com/items?itemName=navskh.memo-style) | Memo Style | 0.1.0 | Always-on, quiet styling for plain text notes. TXT 메모의 제목·날짜·목록·참고 표시를 자동으로 정돈합… |
+| 2026-11-02 02:04:03 | [LocaithAI.locaith-agent](https://marketplace.visualstudio.com/items?itemName=LocaithAI.locaith-agent) | Locaith AI Agent | 0.4.0 | Trợ lý AI tự chủ cho VS Code — dùng Claude, ChatGPT, Gemini, DeepSeek, Grok và… |
+| 2026-11-02 02:08:40 | [OptimusPrime45.Final-SE](https://marketplace.visualstudio.com/items?itemName=OptimusPrime45.Final-SE) | Final-SE | 0.0.1 | Offline Resource Library for VS Code |
+| 2026-11-02 02:09:15 | [dbconvert.dbconvert-dbf-viewer](https://marketplace.visualstudio.com/items?itemName=dbconvert.dbconvert-dbf-viewer) | DBF Viewer — DBConvert | 1.3.1 | Open dBase and FoxPro .dbf tables and .dbc databases in the editor, with their… |
 
 ## Data source
 
