@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 03:19 UTC
+## Latest list — 2026-11-02 04:19 UTC
 
-New extensions published between 2026-11-02 01:19 UTC and 2026-11-02 03:19 UTC.
+New extensions published between 2026-11-02 02:19 UTC and 2026-11-02 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T03-19-33-129801Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T04-19-45-303393Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 02:37:12 | [swe-jahid-agentguard.agentguard](https://marketplace.visualstudio.com/items?itemName=swe-jahid-agentguard.agentguard) | AgentGuard | 0.1.0 | Offline-first, zero-configuration codebase safety extension. Catches silent bre… |
-| 2026-11-02 02:48:32 | [irwinarruda.favo-theme](https://marketplace.visualstudio.com/items?itemName=irwinarruda.favo-theme) | Favo | 0.1.0 | Honey-led dark and light themes, Favo Honey and Favo Wax. |
-| 2026-11-02 02:54:42 | [CGQAQ.better-review](https://marketplace.visualstudio.com/items?itemName=CGQAQ.better-review) | Better Review | 0.1.0 | Gerrit-style review for GitHub pull requests: patch sets, votes, submit require… |
+| 2026-11-02 03:21:07 | [narunraman.mache](https://marketplace.visualstudio.com/items?itemName=narunraman.mache) | Mâché | 0.1.4 | Review an agent's edits to a LaTeX paper: suggestions, comments and history. |
+| 2026-11-02 04:01:32 | [clarissa-dev-codes.code-project-tracker](https://marketplace.visualstudio.com/items?itemName=clarissa-dev-codes.code-project-tracker) | Code Project Tracker | 1.0.0 | Tracks bugs, tasks, and code metrics inside your workspace |
+| 2026-11-02 04:17:04 | [ReadyStack.spirituosen-shop-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.spirituosen-shop-lint) | Spirituosen-Lint: Mindestalkohol & Alko… | 1.0.2 | Prüft Produkt-CSV von Spirituosen-Shops: Mindestalkohol und Zucker je Kategorie… |
 
 ## Data source
 
