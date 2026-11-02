@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 09:19 UTC
+## Latest list — 2026-11-02 10:18 UTC
 
-New extensions published between 2026-11-02 07:19 UTC and 2026-11-02 09:19 UTC.
+New extensions published between 2026-11-02 08:18 UTC and 2026-11-02 10:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T09-19-05-102784Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T10-18-39-863556Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 08:14:56 | [theaffy.hueform](https://marketplace.visualstudio.com/items?itemName=theaffy.hueform) | HUEFORM — VS Code Theme & Icon Collecti… | 1.0.0 | A curated collection of 22 dark & light VS Code colour themes and matching file… |
-| 2026-11-02 08:24:07 | [frcoder-lh.md-github-anchor](https://marketplace.visualstudio.com/items?itemName=frcoder-lh.md-github-anchor) | Markdown GitHub Anchor | 1.1.3 | Support GitHub-style line-range anchors (path/file.md#L12-L15) in markdown link… |
-| 2026-11-02 08:24:49 | [buttercrab.flow-language](https://marketplace.visualstudio.com/items?itemName=buttercrab.flow-language) | Flow Language | 0.1.0 | Editing support for the Flow orchestration language. |
-| 2026-11-02 08:30:43 | [soulstack.hollow-code](https://marketplace.visualstudio.com/items?itemName=soulstack.hollow-code) | Hollow Code | 0.1.1 | Hollow, your AI coding partner in VS Code. Chat, plan and make changes in your… |
-| 2026-11-02 08:40:09 | [tok-lang-bpm.tok](https://marketplace.visualstudio.com/items?itemName=tok-lang-bpm.tok) | tok | 1.0.3 | The tok process language: syntax highlighting, diagnostics, formatting, navigat… |
-| 2026-11-02 08:55:08 | [takobaba.kiro-cli-companion](https://marketplace.visualstudio.com/items?itemName=takobaba.kiro-cli-companion) | Kiro CLI Companion | 0.0.1 | Unofficial companion for the Kiro CLI: chat beside your code, plan features wit… |
-| 2026-11-02 09:02:26 | [nitinkumarhiremath.api-testing-studio](https://marketplace.visualstudio.com/items?itemName=nitinkumarhiremath.api-testing-studio) | API Testing Studio | 0.1.3 | API testing workspace for VS Code and Antigravity |
+| 2026-11-02 09:27:18 | [Nisseya.dwa-slides](https://marketplace.visualstudio.com/items?itemName=Nisseya.dwa-slides) | DWA Slides | 0.12.1 | Assistant de rédaction et serveur de langage pour les slides Marp DWA Core v1. |
+| 2026-11-02 09:56:55 | [rust-forge.rust-forge](https://marketplace.visualstudio.com/items?itemName=rust-forge.rust-forge) | Rust Forge | 0.1.1 | Cargo metadata, dependency, toolchain and project-standardization toolkit for R… |
+| 2026-11-02 10:02:36 | [Kobber.merry-christmas-theme](https://marketplace.visualstudio.com/items?itemName=Kobber.merry-christmas-theme) | 🎄 Christmas Theme | 1.0.0 | A cozy dark Christmas theme with emoji typing effects, comment emojis, coal and… |
+| 2026-11-02 10:05:41 | [Thammakit.svg-duplicate-scanner](https://marketplace.visualstudio.com/items?itemName=Thammakit.svg-duplicate-scanner) | SVG Duplicate Scanner | 0.1.0 | Find duplicate and similar SVG files in your VS Code workspace. |
+| 2026-11-02 10:06:09 | [nodeint.migent-vscode](https://marketplace.visualstudio.com/items?itemName=nodeint.migent-vscode) | Migent | 0.0.1 | Monitor and run Migent sessions and workflows from VS Code. |
+| 2026-11-02 10:14:16 | [cianray.mistletoe-theme](https://marketplace.visualstudio.com/items?itemName=cianray.mistletoe-theme) | Mistletoe Theme | 1.0.0 | A cozy Christmas color theme: evergreen nights, holly-berry keywords, gold-star… |
 
 ## Data source
 
