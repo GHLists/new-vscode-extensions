@@ -12,29 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 16:21 UTC
+## Latest list — 2026-11-02 17:18 UTC
 
-New extensions published between 2026-11-02 14:21 UTC and 2026-11-02 16:21 UTC.
+New extensions published between 2026-11-02 15:18 UTC and 2026-11-02 17:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T16-21-15-591341Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T17-18-57-069227Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 14:28:58 | [gnexus.cal-nav-2018](https://marketplace.visualstudio.com/items?itemName=gnexus.cal-nav-2018) | G.Nexus C/AL Tools for NAV 2018 | 0.43.1 | C/AL dla Dynamics NAV 2018: nawigacja po obiektach z eksportu finsql (definicje… |
-| 2026-11-02 15:13:57 | [6xyun.vscode-android-debugger](https://marketplace.visualstudio.com/items?itemName=6xyun.vscode-android-debugger) | Android 调试器 | 0.1.0 | 调试 Android Framework / App Java 层代码, 支持 AOSP Source Workspace 和 Remote-SSH 场景 |
-| 2026-11-02 15:17:59 | [cvasquezpaulus.catenary](https://marketplace.visualstudio.com/items?itemName=cvasquezpaulus.catenary) | Catenary: RDF, SHACL & SKOS Diagrams | 0.0.1 | Draw and edit diagrams of RDF, OWL, SHACL and SKOS models from Turtle files. Vi… |
-| 2026-11-02 15:23:05 | [agarun.boya](https://marketplace.visualstudio.com/items?itemName=agarun.boya) | boya | 0.1.0 | A color theme forked from Night Owl, recolored through OKLCH. |
-| 2026-11-02 15:28:26 | [FEMADOX.python-modern-extensions-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.python-modern-extensions-pack) | FEMADOX Python Modern Extensions Pack | 1.0.0 | Python and FastAPI tools with Ruff, ty, debugging, environments, docstrings and… |
-| 2026-11-02 15:28:44 | [hamperpick.llm-tokens](https://marketplace.visualstudio.com/items?itemName=hamperpick.llm-tokens) | LLM Tokens: Token Counter for GPT, Clau… | 0.1.0 | Count tokens for GPT, Claude, Gemini, Grok, DeepSeek, Kimi and Qwen at once, wi… |
-| 2026-11-02 15:32:45 | [FEMADOX.django-full-extensions-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.django-full-extensions-pack) | FEMADOX Django Full Extensions Pack | 1.0.0 | Django and Jinja language support, Python-side Django snippets, autocomplete an… |
-| 2026-11-02 15:34:20 | [mvnandhakumar.skymood-theme](https://marketplace.visualstudio.com/items?itemName=mvnandhakumar.skymood-theme) | Skymood — Adaptive Day/Night Theme | 1.0.0 | A living color theme that shifts with your day, plus playful touches: a glow wh… |
-| 2026-11-02 15:35:12 | [pooyabrz.rtl-layout-guard](https://marketplace.visualstudio.com/items?itemName=pooyabrz.rtl-layout-guard) | RTL Layout Guard — Persian, Arabic & La… | 0.1.0 | Right-to-left (RTL) text checks for Persian, Arabic and Hebrew, with LaTeX help… |
-| 2026-11-02 15:38:09 | [FEMADOX.react-nextjs-modern-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.react-nextjs-modern-pack) | FEMADOX React / Next.js Modern Pack | 1.0.0 | React and Next.js tools for JavaScript, TypeScript, HTML and CSS, with project-… |
-| 2026-11-02 15:41:39 | [blaazinsoftware.git-compare-plus](https://marketplace.visualstudio.com/items?itemName=blaazinsoftware.git-compare-plus) | Git Compare+ | 1.0.0 | Compare worktrees, branches, tags and commits side by side, with blame, file an… |
-| 2026-11-02 15:51:26 | [Alin0907.wallpaper-studio](https://marketplace.visualstudio.com/items?itemName=Alin0907.wallpaper-studio) | Wallpaper Studio | 1.0.0 | Render images, videos and Wallpaper Engine scene packages as your VS Code backg… |
-| 2026-11-02 16:03:33 | [500TSSD.g-yaodian](https://marketplace.visualstudio.com/items?itemName=500TSSD.g-yaodian) | G-要点 | 1.4.0 | G-要点：内置每日热点新闻（16 个板块，纯文字，离线可读）：历史永久保留、默认最新、支持日期跳转；含 AI 与股市（10 条要闻 + 20 条要点）、全球股… |
-| 2026-11-02 16:08:56 | [Huata.carry-context](https://marketplace.visualstudio.com/items?itemName=Huata.carry-context) | Carry Context | 0.3.1 | Review, summarize, save, and carry chat context into a new Copilot conversation. |
-| 2026-11-02 16:13:38 | [khainx-developer.devmate-kit](https://marketplace.visualstudio.com/items?itemName=khainx-developer.devmate-kit) | DevMate Kit | 0.0.1 | A collection of handy developer utilities for VS Code: GitHub PR & Jira task tr… |
+| 2026-11-02 16:17:36 | [ericchase.suppress-jsts-diagnostics-and-squiggles](https://marketplace.visualstudio.com/items?itemName=ericchase.suppress-jsts-diagnostics-and-squiggles) | Suppress User-Defined JS/TS Diagnostics… | 1.0.1 | Takes a list of user-defined error/warning/info/hint codes and hides the squigg… |
+| 2026-11-02 16:18:34 | [AdnanNaous.cs-work-hub](https://marketplace.visualstudio.com/items?itemName=AdnanNaous.cs-work-hub) | CS Work Hub | 0.3.1 | A local-first project dashboard, tools and learning guides for VS Code. |
+| 2026-11-02 16:24:10 | [magnusr9.sql-formatter-beautifier](https://marketplace.visualstudio.com/items?itemName=magnusr9.sql-formatter-beautifier) | SQL Formatter & Query Beautifier (by Ma… | 1.0.1 | Zero-dependency SQL formatter supporting full-document and selection formatting… |
+| 2026-11-02 16:25:24 | [magnusr9.csv-json-markdown-converter](https://marketplace.visualstudio.com/items?itemName=magnusr9.csv-json-markdown-converter) | CSV to JSON & Markdown Table Studio (by… | 1.0.1 | Fast, RFC-4180 compliant CSV to JSON, JSON to CSV, and CSV to Markdown table co… |
+| 2026-11-02 16:35:27 | [fenyue.showfilesize](https://marketplace.visualstudio.com/items?itemName=fenyue.showfilesize) | File Info — Sizes in Explorer | 1.0.1 | Show file size badges in the VS Code Explorer, plus a full-size File Sizes tree… |
+| 2026-11-02 16:36:28 | [magnusr9.markdown-toc-auto-generator](https://marketplace.visualstudio.com/items?itemName=magnusr9.markdown-toc-auto-generator) | Markdown TOC Generator & Header Studio… | 1.0.1 | Generate and auto-update GitHub-compatible Markdown Table of Contents (TOC) wit… |
+| 2026-11-02 16:36:42 | [magnusr9.multi-case-converter-studio](https://marketplace.visualstudio.com/items?itemName=magnusr9.multi-case-converter-studio) | Case Converter (camelCase, snake_case,… | 1.0.1 | Convert selected text or multi-cursor variables between camelCase, snake_case,… |
+| 2026-11-02 16:38:59 | [wzrzt.codex-ext-local-bridge](https://marketplace.visualstudio.com/items?itemName=wzrzt.codex-ext-local-bridge) | Codex Ext Local Bridge | 0.1.0 | Local account and usage bridge for Codex Ext. |
+| 2026-11-02 16:47:40 | [magnusr9.text-pattern-highlighter](https://marketplace.visualstudio.com/items?itemName=magnusr9.text-pattern-highlighter) | Text Pattern Highlighter & Search Tool… | 1.0.1 | Interactively highlight search patterns and text occurrences live in your activ… |
+| 2026-11-02 17:01:07 | [Minato3000.inferscope](https://marketplace.visualstudio.com/items?itemName=Minato3000.inferscope) | InferScope | 0.1.0 | Live monitoring of running vLLM and SGLang containers in your VS Code sidebar:… |
+| 2026-11-02 17:02:24 | [MatthewNguyen.petting-zoo](https://marketplace.visualstudio.com/items?itemName=MatthewNguyen.petting-zoo) | Petting Zoo: Pixel Pets That Live on Yo… | 1.0.0 | Tiny pixel pets that live on top of your code. They walk your lines, hop betwee… |
+| 2026-11-02 17:07:06 | [Zelsis.zelsis](https://marketplace.visualstudio.com/items?itemName=Zelsis.zelsis) | Zelsis | 0.1.0 | Release check in the editor: security and logic findings from Zelsis on your ch… |
+| 2026-11-02 17:08:45 | [Devzy.devzy-vscode](https://marketplace.visualstudio.com/items?itemName=Devzy.devzy-vscode) | Devzy | 0.0.3 | Devzy for Visual Studio Code — text & JSON compare, JSON stringify/parse, forma… |
 
 ## Data source
 
