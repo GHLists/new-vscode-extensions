@@ -12,25 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 15:21 UTC
+## Latest list — 2026-11-02 16:21 UTC
 
-New extensions published between 2026-11-02 13:21 UTC and 2026-11-02 15:21 UTC.
+New extensions published between 2026-11-02 14:21 UTC and 2026-11-02 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T15-21-23-925647Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T16-21-15-591341Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 14:11:35 | [rintaro-sugishita.docpresenter](https://marketplace.visualstudio.com/items?itemName=rintaro-sugishita.docpresenter) | DocPresenter | 0.1.0 | Write design documents in Markdown with diagrams and tables, edit them on the p… |
-| 2026-11-02 14:19:45 | [xystudio.bubble-vscode](https://marketplace.visualstudio.com/items?itemName=xystudio.bubble-vscode) | Bubble Highlight for VSCode | 0.0.2 | UIML and QSS language support for Visual Studio Code. |
-| 2026-11-02 14:33:04 | [br-ia.br-ia](https://marketplace.visualstudio.com/items?itemName=br-ia.br-ia) | br | 0.5.0 | Team chat where AI takes notes, settles disagreements and builds on your machin… |
-| 2026-11-02 14:34:01 | [oseughu.osemoji](https://marketplace.visualstudio.com/items?itemName=oseughu.osemoji) | Osemoji | 1.0.0 | Emoji file icons and interface icons for VS Code, drawn with your computer's ow… |
-| 2026-11-02 14:47:28 | [DawChae.riceball](https://marketplace.visualstudio.com/items?itemName=DawChae.riceball) | Riceball Salary Ticker | 0.1.0 | A playful live salary ticker for VS Code. |
-| 2026-11-02 14:57:59 | [toppng.png-alpha-benchmark-toolkit](https://marketplace.visualstudio.com/items?itemName=toppng.png-alpha-benchmark-toolkit) | PNG Alpha-Channel & Paeth Filter Benchm… | 1.0.2 | Lossless ISO/IEC 15948 PNG Alpha-Channel Analysis, Scanline Filter Optimization… |
-| 2026-11-02 15:01:53 | [AresDesign.easy-account-switcher-for-claude-code](https://marketplace.visualstudio.com/items?itemName=AresDesign.easy-account-switcher-for-claude-code) | Easy Account Switcher for Claude Code | 0.1.0 | Switch between multiple Claude Code accounts with one click from the status bar… |
-| 2026-11-02 15:04:22 | [Grille.semantic-theme-extender](https://marketplace.visualstudio.com/items?itemName=Grille.semantic-theme-extender) | Semantic Theme Extender | 0.1.0 | Colors what your theme leaves out: structs, interfaces, enums and more, derived… |
-| 2026-11-02 15:05:54 | [500TSSD.daily-hot-news](https://marketplace.visualstudio.com/items?itemName=500TSSD.daily-hot-news) | 每日热点新闻 | 1.0.0 | 内置每日热点新闻（12 类，纯文字，离线可读）：新闻数据随插件仓库同步更新，安装后无需联网即可查看。 |
-| 2026-11-02 15:09:41 | [AaryanPandey.bitzy](https://marketplace.visualstudio.com/items?itemName=AaryanPandey.bitzy) | Bitzy | 1.0.0 | Your AI-powered coding companion for understanding code, debugging issues, and… |
-| 2026-11-02 15:12:59 | [hasitha-gallella.latex-coder](https://marketplace.visualstudio.com/items?itemName=hasitha-gallella.latex-coder) | LaTeX Coder | 0.1.0 | AI-assisted LaTeX writing, math generation, and debugging; backed by zero-setup… |
+| 2026-11-02 14:28:58 | [gnexus.cal-nav-2018](https://marketplace.visualstudio.com/items?itemName=gnexus.cal-nav-2018) | G.Nexus C/AL Tools for NAV 2018 | 0.43.1 | C/AL dla Dynamics NAV 2018: nawigacja po obiektach z eksportu finsql (definicje… |
+| 2026-11-02 15:13:57 | [6xyun.vscode-android-debugger](https://marketplace.visualstudio.com/items?itemName=6xyun.vscode-android-debugger) | Android 调试器 | 0.1.0 | 调试 Android Framework / App Java 层代码, 支持 AOSP Source Workspace 和 Remote-SSH 场景 |
+| 2026-11-02 15:17:59 | [cvasquezpaulus.catenary](https://marketplace.visualstudio.com/items?itemName=cvasquezpaulus.catenary) | Catenary: RDF, SHACL & SKOS Diagrams | 0.0.1 | Draw and edit diagrams of RDF, OWL, SHACL and SKOS models from Turtle files. Vi… |
+| 2026-11-02 15:23:05 | [agarun.boya](https://marketplace.visualstudio.com/items?itemName=agarun.boya) | boya | 0.1.0 | A color theme forked from Night Owl, recolored through OKLCH. |
+| 2026-11-02 15:28:26 | [FEMADOX.python-modern-extensions-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.python-modern-extensions-pack) | FEMADOX Python Modern Extensions Pack | 1.0.0 | Python and FastAPI tools with Ruff, ty, debugging, environments, docstrings and… |
+| 2026-11-02 15:28:44 | [hamperpick.llm-tokens](https://marketplace.visualstudio.com/items?itemName=hamperpick.llm-tokens) | LLM Tokens: Token Counter for GPT, Clau… | 0.1.0 | Count tokens for GPT, Claude, Gemini, Grok, DeepSeek, Kimi and Qwen at once, wi… |
+| 2026-11-02 15:32:45 | [FEMADOX.django-full-extensions-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.django-full-extensions-pack) | FEMADOX Django Full Extensions Pack | 1.0.0 | Django and Jinja language support, Python-side Django snippets, autocomplete an… |
+| 2026-11-02 15:34:20 | [mvnandhakumar.skymood-theme](https://marketplace.visualstudio.com/items?itemName=mvnandhakumar.skymood-theme) | Skymood — Adaptive Day/Night Theme | 1.0.0 | A living color theme that shifts with your day, plus playful touches: a glow wh… |
+| 2026-11-02 15:35:12 | [pooyabrz.rtl-layout-guard](https://marketplace.visualstudio.com/items?itemName=pooyabrz.rtl-layout-guard) | RTL Layout Guard — Persian, Arabic & La… | 0.1.0 | Right-to-left (RTL) text checks for Persian, Arabic and Hebrew, with LaTeX help… |
+| 2026-11-02 15:38:09 | [FEMADOX.react-nextjs-modern-pack](https://marketplace.visualstudio.com/items?itemName=FEMADOX.react-nextjs-modern-pack) | FEMADOX React / Next.js Modern Pack | 1.0.0 | React and Next.js tools for JavaScript, TypeScript, HTML and CSS, with project-… |
+| 2026-11-02 15:41:39 | [blaazinsoftware.git-compare-plus](https://marketplace.visualstudio.com/items?itemName=blaazinsoftware.git-compare-plus) | Git Compare+ | 1.0.0 | Compare worktrees, branches, tags and commits side by side, with blame, file an… |
+| 2026-11-02 15:51:26 | [Alin0907.wallpaper-studio](https://marketplace.visualstudio.com/items?itemName=Alin0907.wallpaper-studio) | Wallpaper Studio | 1.0.0 | Render images, videos and Wallpaper Engine scene packages as your VS Code backg… |
+| 2026-11-02 16:03:33 | [500TSSD.g-yaodian](https://marketplace.visualstudio.com/items?itemName=500TSSD.g-yaodian) | G-要点 | 1.4.0 | G-要点：内置每日热点新闻（16 个板块，纯文字，离线可读）：历史永久保留、默认最新、支持日期跳转；含 AI 与股市（10 条要闻 + 20 条要点）、全球股… |
+| 2026-11-02 16:08:56 | [Huata.carry-context](https://marketplace.visualstudio.com/items?itemName=Huata.carry-context) | Carry Context | 0.3.1 | Review, summarize, save, and carry chat context into a new Copilot conversation. |
+| 2026-11-02 16:13:38 | [khainx-developer.devmate-kit](https://marketplace.visualstudio.com/items?itemName=khainx-developer.devmate-kit) | DevMate Kit | 0.0.1 | A collection of handy developer utilities for VS Code: GitHub PR & Jira task tr… |
 
 ## Data source
 
