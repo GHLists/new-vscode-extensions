@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T22:20:10.377Z,phenzic.shiplogue,phenzic,Shiplogue,0.1.5,"Drafts your daily stand-up from the work you already did. Local-first for VS Code, Cursor and Antigravity: git, IDE activity and GitHub become a Done / Next / Blockers update, written by a local model or your own API key (Anthropic, OpenAI, Google, OpenAI-compatible), then copied."
+2026-11-02T22:47:06.287Z,coding-on-slate.sfos-toolkit,coding-on-slate,SFOS Toolkit,1.0.0,"Build, deploy, and run Sailfish OS apps from VS Code using the Sailfish SDK CLI"
+2026-11-02T22:55:17.627Z,AlexWonton.muse-history-sidebar,AlexWonton,Muse 历史记录,0.1.1,按文件夹浏览本机 Muse 历史记录，在原工作目录打开会话终端。
+2026-11-02T22:55:43.56Z,AlexWonton.opencode-history-sidebar,AlexWonton,OpenCode 历史记录,0.1.0,按文件夹浏览本机 OpenCode 历史记录，在原工作目录打开会话终端。
+2026-11-02T23:05:58.217Z,socless.socle,socless,Socle (Chisel),0.25.0,"Live schematic view of Chisel designs, linked to the source."
+2026-11-02T23:09:19.44Z,JR-Morgan.ifc-lsp,JR-Morgan,IFC LSP,0.1.0,"Syntax highlighting, navigation, hover and diagnostics for IFC (ISO 10303-21 STEP) files, powered by a native language server."
