@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T13:20:51.16Z,myilmaz.buildbar,myilmaz,BuildBar,0.3.0,Aktif projenin tasks.json gorevlerini ve launch.json yapilandirmalarini kalici butonlarda gosterir
+2026-11-02T13:21:40.617Z,PP2zk.codex-session-notifier,PP2zk,Codex Session Notifier,0.0.19,Monitor local and SSH Codex sessions and receive reply completion notifications through pushplus channels.
+2026-11-02T13:33:45.933Z,dev-assistant-tools.dev-assistant-toolkit,dev-assistant-tools,Dev Assistant Toolkit,0.0.1,"A collection of handy developer utilities for VS Code: GitHub PR & Jira task tracking, Base64/URL/JSON tools, UUIDs, timestamps, and case conversions."
+2026-11-02T13:42:53.33Z,AIDotNet.spyglass-avalonia,AIDotNet,Spyglass for Avalonia,0.1.2,XAML hot reload for running Avalonia apps: unsaved .axaml edits update the app as you type. Free and open source.
+2026-11-02T13:43:44.247Z,paoloanzn.tide-syntax,paoloanzn,Tide Syntax,0.1.0,Syntax highlighting for the Tide language (.tid files).
+2026-11-02T13:48:34.453Z,codericsro.roaming-pixel-cats,codericsro,Roaming Pixel Cats,0.1.0,"Tiny pixel-art cats that roam your whole VS Code window: they walk, nap, jump between panels, climb up and slide down."
+2026-11-02T13:51:41.41Z,rafn-lang.rafn,rafn-lang,Rafn,0.1.1,Rafn language support
+2026-11-02T13:55:46.61Z,eliostruyf.vscode-doctor,eliostruyf,Doctor — Markdown to SharePoint Pages,0.1.0,"Write and publish the Markdown that doctor turns into SharePoint pages: edit front matter with pickers for your SharePoint columns, edit doctor.json in a form, and run doctor publish and status from VS Code."
+2026-11-02T14:11:18.997Z,rintaro-sugishita.docpresenter-diagram,rintaro-sugishita,DocPresenter Diagram,0.1.0,"Draw diagrams as text or on a canvas: flowcharts and free-form drawings in .dgm files, with highlighting, suggestions, formatting and SVG export. Every change is a readable Git diff."
