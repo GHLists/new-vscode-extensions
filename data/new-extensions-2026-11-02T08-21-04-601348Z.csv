@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T07:23:09.69Z,jeffreyzhou.vscode-settings-combiner,jeffreyzhou,VSCode Settings Combiner,0.2.5,Merge user.* > team.*.platform > team.* > settings.json into .vscode/settings.json and .vscode/tasks.json (tasks arrays merged by label; platform variants like team.settings.windows.jsonc are picked by the current OS).
+2026-11-02T07:23:40.72Z,parthoza.requestpulse,parthoza,RequestPulse — Load Testing,1.0.0,"Load-test any local or deployed HTTP endpoint (localhost, Vercel, Render) from VS Code. See response-time, error and throughput charts, and compare before/after runs."
+2026-11-02T07:24:56.17Z,KCodedevelopment.KostalCodeDevelopmentPlatform,KCodedevelopment,KCDP,1.0.25,KCDP
+2026-11-02T07:26:42.947Z,DataTemplar.android-adb-management-vscode,DataTemplar,Android ADB Management - VS Code,0.1.2,"Sélection fiable d’appareils Android, gestion AVD et compilation/installation/lancement depuis Linux ou Remote WSL."
+2026-11-02T07:28:25.347Z,aijishu.jishubuddy,aijishu,JishuBuddy,0.1.0,Open the native JishuBuddy TUI in a VS Code terminal editor.
+2026-11-02T07:29:32.24Z,Gostman.gostman,Gostman,Gostman,0.1.0,"Run, send, lint and scan Gostman API collections from VS Code."
+2026-11-02T07:37:57.947Z,hazi.dark-ish-theme,hazi,Dark-ish,1.0.0,"Almost dark. A playful, understated dark theme with outline product icons for VS Code."
+2026-11-02T07:54:36.343Z,JefferyVonYu.rshell,JefferyVonYu,RShell SSH,1.0.0,Persistent global SSH sessions with a custom three-column SSH terminal
+2026-11-02T08:00:34.963Z,lhs1hc.artoolkit,lhs1hc,Artoolkit,0.4.0,"AI agent tools to read and edit AUTOSAR BSW configuration (ECUC ARXML), checked against the project's paramdefs."
+2026-11-02T08:11:52.537Z,adito.adito-standalone-tools,adito,ADITO Standalone Tools,0.1.0,Provides the tool needed to manage ADITO applications
+2026-11-02T08:12:20.23Z,hamperpick.llm-vitals-vscode,hamperpick,LLM Vitals: Claude Code & Codex Tokens per Second,0.1.0,"See live tokens per second, cache hit rate and context size for your Claude Code and Codex sessions in the status bar."
+2026-11-02T08:12:39.84Z,SalimCastellanos.bigswarmai,SalimCastellanos,BigSwarmAI,0.1.18,"Run an agent swarm on an objective in the open folder, using the models VS Code already has."
