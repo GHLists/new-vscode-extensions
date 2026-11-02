@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T04:17:25.003Z,ReadyStack.steuer-lint-astg-hinzurechnung,ReadyStack,Steuer-Lint: Hinzurechnungsbesteuerung AStG 2026,1.0.2,"Prüft Steuer-Memos und KI-Entwürfe (Markdown, Text) auf veraltete AStG-Aussagen: 25 % statt 15 % Niedrigsteuer, Inländerbeherrschung, Gewerbesteuer, Gegenbeweis — 10 Regeln."
+2026-11-02T04:20:18.763Z,rbritta.claude-session-relay,rbritta,Claude Session Relay,0.1.0,"Drive the Claude Code tabs of any VS Code window from a script or a web panel: open, resume, start with a prompt, rename and close sessions through a plain file inbox."
+2026-11-02T04:57:21.307Z,Zaxckheal101.prompt-export,Zaxckheal101,Prompt Export,0.0.4,Extract highlighted code into a .txt prompt file with a single right-click.
+2026-11-02T05:08:18.013Z,loopgad.apple-nature-theme,loopgad,Apple Nature,0.0.1,"The Apple Nature theme for Visual Studio Code: macOS system neutrals, Nature-ink accent, color-blind-safe syntax highlighting, ambient glow drift, Apple cubic-bezier motion curves, and a comprehensive WCAG-validated icon theme."
+2026-11-02T05:11:04.683Z,SamerDadah.al-agentura,SamerDadah,AL Agentura,1.0.2,AL Project Scaffolding & AI Agent Workspace Setup
