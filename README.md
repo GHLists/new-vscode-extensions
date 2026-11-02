@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 02:20 UTC
+## Latest list — 2026-11-02 03:19 UTC
 
-New extensions published between 2026-11-02 00:20 UTC and 2026-11-02 02:20 UTC.
+New extensions published between 2026-11-02 01:19 UTC and 2026-11-02 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T02-20-39-685143Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T03-19-33-129801Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 01:43:59 | [kagome6.quiet-light-balanced-theme](https://marketplace.visualstudio.com/items?itemName=kagome6.quiet-light-balanced-theme) | Quiet Light Balanced | 1.6.0 | A balanced hybrid color theme with a light workbench, dark code editor and term… |
-| 2026-11-02 02:03:53 | [navskh.memo-style](https://marketplace.visualstudio.com/items?itemName=navskh.memo-style) | Memo Style | 0.1.0 | Always-on, quiet styling for plain text notes. TXT 메모의 제목·날짜·목록·참고 표시를 자동으로 정돈합… |
-| 2026-11-02 02:04:03 | [LocaithAI.locaith-agent](https://marketplace.visualstudio.com/items?itemName=LocaithAI.locaith-agent) | Locaith AI Agent | 0.4.0 | Trợ lý AI tự chủ cho VS Code — dùng Claude, ChatGPT, Gemini, DeepSeek, Grok và… |
-| 2026-11-02 02:08:40 | [OptimusPrime45.Final-SE](https://marketplace.visualstudio.com/items?itemName=OptimusPrime45.Final-SE) | Final-SE | 0.0.1 | Offline Resource Library for VS Code |
-| 2026-11-02 02:09:15 | [dbconvert.dbconvert-dbf-viewer](https://marketplace.visualstudio.com/items?itemName=dbconvert.dbconvert-dbf-viewer) | DBF Viewer — DBConvert | 1.3.1 | Open dBase and FoxPro .dbf tables and .dbc databases in the editor, with their… |
+| 2026-11-02 02:37:12 | [swe-jahid-agentguard.agentguard](https://marketplace.visualstudio.com/items?itemName=swe-jahid-agentguard.agentguard) | AgentGuard | 0.1.0 | Offline-first, zero-configuration codebase safety extension. Catches silent bre… |
+| 2026-11-02 02:48:32 | [irwinarruda.favo-theme](https://marketplace.visualstudio.com/items?itemName=irwinarruda.favo-theme) | Favo | 0.1.0 | Honey-led dark and light themes, Favo Honey and Favo Wax. |
+| 2026-11-02 02:54:42 | [CGQAQ.better-review](https://marketplace.visualstudio.com/items?itemName=CGQAQ.better-review) | Better Review | 0.1.0 | Gerrit-style review for GitHub pull requests: patch sets, votes, submit require… |
 
 ## Data source
 

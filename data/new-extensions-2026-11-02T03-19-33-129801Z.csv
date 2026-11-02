@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T02:37:12.123Z,swe-jahid-agentguard.agentguard,swe-jahid-agentguard,AgentGuard,0.1.0,"Offline-first, zero-configuration codebase safety extension. Catches silent breaks and flags hidden logic risks automatically."
+2026-11-02T02:48:32.893Z,irwinarruda.favo-theme,irwinarruda,Favo,0.1.0,"Honey-led dark and light themes, Favo Honey and Favo Wax."
+2026-11-02T02:54:42.277Z,CGQAQ.better-review,CGQAQ,Better Review,0.1.0,"Gerrit-style review for GitHub pull requests: patch sets, votes, submit requirements, no branch switching."
