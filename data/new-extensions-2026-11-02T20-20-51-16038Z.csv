@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T19:18:29.157Z,AlgoshredTechnologies.workspaces-code-extension,AlgoshredTechnologies,Burdenoff Workspaces,0.1.2,The Burdenoff Workspaces platform in your editor — manage workspaces and projects against the Burdenoff GraphQL gateways without leaving VS Code.
+2026-11-02T19:37:08.6Z,xDev-Language.vscode-xdev,xDev-Language,xDev,0.0.0,"Syntax highlighting, function hints and snippets for the xDev language (xBase compatible)."
+2026-11-02T20:03:31.92Z,shyashagupta.tle-lens,shyashagupta,TLE Lens,0.1.0,"Know if your C++ solution will pass: estimated time complexity and a ""will this TLE?"" check above every function."

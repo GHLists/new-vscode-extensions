@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 19:21 UTC
+## Latest list — 2026-11-02 20:20 UTC
 
-New extensions published between 2026-11-02 17:21 UTC and 2026-11-02 19:21 UTC.
+New extensions published between 2026-11-02 18:20 UTC and 2026-11-02 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T19-21-55-941759Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T20-20-51-16038Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 18:04:58 | [djblu.lodex](https://marketplace.visualstudio.com/items?itemName=djblu.lodex) | Lodex | 1.0.0 | A coding agent for VS Code with configurable model endpoints. |
-| 2026-11-02 18:23:01 | [KingCurve.kingcurve](https://marketplace.visualstudio.com/items?itemName=KingCurve.kingcurve) | Kingcurve | 0.8.1 | AI coding assistant for VS Code with local (Ollama, LM Studio) and cloud (OpenA… |
-| 2026-11-02 19:01:33 | [xporc.vscode-xproc](https://marketplace.visualstudio.com/items?itemName=xporc.vscode-xproc) | XProc for VisualStudio Code | 0.1.0 | Run and validate XProc 1.0 and 3.x pipelines with XML Calabash 1.x and 3.x, wit… |
-| 2026-11-02 19:04:02 | [veratech-es.vscode-fhir-connect](https://marketplace.visualstudio.com/items?itemName=veratech-es.vscode-fhir-connect) | FHIRConnect | 0.5.1 | Editing support for FHIRConnect openEHR <-> FHIR mapping files: validation, com… |
+| 2026-11-02 19:18:29 | [AlgoshredTechnologies.workspaces-code-extension](https://marketplace.visualstudio.com/items?itemName=AlgoshredTechnologies.workspaces-code-extension) | Burdenoff Workspaces | 0.1.2 | The Burdenoff Workspaces platform in your editor — manage workspaces and projec… |
+| 2026-11-02 19:37:08 | [xDev-Language.vscode-xdev](https://marketplace.visualstudio.com/items?itemName=xDev-Language.vscode-xdev) | xDev | 0.0.0 | Syntax highlighting, function hints and snippets for the xDev language (xBase c… |
+| 2026-11-02 20:03:31 | [shyashagupta.tle-lens](https://marketplace.visualstudio.com/items?itemName=shyashagupta.tle-lens) | TLE Lens | 0.1.0 | Know if your C++ solution will pass: estimated time complexity and a "will this… |
 
 ## Data source
 
