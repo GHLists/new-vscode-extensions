@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-01T23:20:57.59Z,Paolo16.codedigger,Paolo16,CodeDigger,0.0.3,Deterministic SAST and secrets scanner for JavaScript & TypeScript with real-time Git diff analysis and zero cloud reliance.
+2026-11-01T23:48:36.207Z,Romixo.vscodium-mcp-server,Romixo,VSCodium MCP Server,0.20.44,"Turn VS Code into an MCP server — file ops, symbols, diagnostics, tests, and persistent memory for AI coding assistants."
+2026-11-01T23:55:14.197Z,SeriDebugger.serilog-lens,SeriDebugger,Serilog Debug,0.2.2,"Readable local Serilog logs, request timelines, and focused debugging for your .NET services."

@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-01 23:18 UTC
+## Latest list — 2026-11-02 00:18 UTC
 
-New extensions published between 2026-11-01 21:18 UTC and 2026-11-01 23:18 UTC.
+New extensions published between 2026-11-01 22:18 UTC and 2026-11-02 00:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-01T23-18-27-90782Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T00-18-40-792925Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-01 22:16:56 | [brianswiger.squad-pod](https://marketplace.visualstudio.com/items?itemName=brianswiger.squad-pod) | Squad Pod | 0.1.0 | Pixel art office where your Squad agents come to life as animated characters |
-| 2026-11-01 22:27:49 | [HUAYANGTIAN.merino-dark-rex](https://marketplace.visualstudio.com/items?itemName=HUAYANGTIAN.merino-dark-rex) | Merino Dark (Rex) | 1.0.0 | Rex Beta's Merino Dark palette for VS Code, with layered dark UI, GitHub-style… |
-| 2026-11-01 22:57:10 | [bitbyandy.shift-case](https://marketplace.visualstudio.com/items?itemName=bitbyandy.shift-case) | Shift Case | 0.0.1 | Toggle selected text between UPPERCASE and lowercase with a single keybinding |
-| 2026-11-01 23:02:21 | [hoox-sh.pyne](https://marketplace.visualstudio.com/items?itemName=hoox-sh.pyne) | PYNE Language Support | 0.5.4 | Syntax highlighting, diagnostics, autocomplete, hover, and formatting for .pyne… |
-| 2026-11-01 23:10:32 | [varvarakarenski.squiggle-vscode](https://marketplace.visualstudio.com/items?itemName=varvarakarenski.squiggle-vscode) | Squiggle - Error Explainer | 0.1.0 | Explains errors in plain language. |
+| 2026-11-01 23:20:57 | [Paolo16.codedigger](https://marketplace.visualstudio.com/items?itemName=Paolo16.codedigger) | CodeDigger | 0.0.3 | Deterministic SAST and secrets scanner for JavaScript & TypeScript with real-ti… |
+| 2026-11-01 23:48:36 | [Romixo.vscodium-mcp-server](https://marketplace.visualstudio.com/items?itemName=Romixo.vscodium-mcp-server) | VSCodium MCP Server | 0.20.44 | Turn VS Code into an MCP server — file ops, symbols, diagnostics, tests, and pe… |
+| 2026-11-01 23:55:14 | [SeriDebugger.serilog-lens](https://marketplace.visualstudio.com/items?itemName=SeriDebugger.serilog-lens) | Serilog Debug | 0.2.2 | Readable local Serilog logs, request timelines, and focused debugging for your… |
 
 ## Data source
 
