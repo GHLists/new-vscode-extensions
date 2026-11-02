@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 21:20 UTC
+## Latest list — 2026-11-02 22:21 UTC
 
-New extensions published between 2026-11-02 19:20 UTC and 2026-11-02 21:20 UTC.
+New extensions published between 2026-11-02 20:21 UTC and 2026-11-02 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T21-20-34-581043Z.csv)
+[Full CSV](data/new-extensions-2026-11-02T22-21-22-304539Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 20:15:52 | [Alaxuxsoft.antigravity-prompt-builder](https://marketplace.visualstudio.com/items?itemName=Alaxuxsoft.antigravity-prompt-builder) | Prompt Builder Antigravity | 1.0.1 | Asistente avanzado de Prompt Engineering para Antigravity IDE: formula prompts… |
-| 2026-11-02 20:20:57 | [anakin4747.bpfls](https://marketplace.visualstudio.com/items?itemName=anakin4747.bpfls) | bpftrace (bpfls) | 0.3.1 | bpftrace language support powered by the bpfls language server |
-| 2026-11-02 20:22:08 | [next-move.agent-optics](https://marketplace.visualstudio.com/items?itemName=next-move.agent-optics) | Agent Optics | 0.1.0 | Live usage limits for Claude Code, Codex, Cursor, Antigravity, Gemini, Kimi and… |
-| 2026-11-02 20:47:08 | [giftorm.vim-split](https://marketplace.visualstudio.com/items?itemName=giftorm.vim-split) | Vim Split | 0.1.2 | Vim-style Ctrl+h/j/k/l: focus the editor group in that direction, or split if t… |
-| 2026-11-02 20:58:55 | [dominikmech.project-tiles](https://marketplace.visualstudio.com/items?itemName=dominikmech.project-tiles) | Project Tiles | 1.0.0 | A tile dashboard for your projects: descriptions, logos, collections, git branc… |
-| 2026-11-02 21:00:40 | [OpenSourceRulesz.ollada-code](https://marketplace.visualstudio.com/items?itemName=OpenSourceRulesz.ollada-code) | ollada-code | 0.1.1 | Chat, Fix, and Insert in VS Code, powered by your local ollada serve. Phase 1 o… |
+| 2026-11-02 21:31:18 | [sysdevs.vscode-runescript](https://marketplace.visualstudio.com/items?itemName=sysdevs.vscode-runescript) | RuneScript | 0.8.1 | RuneScript (.rs2) and config file support: highlighting, file icons, diagnostic… |
+| 2026-11-02 21:33:30 | [trustsoftsolutions.trust-network-suite-pro](https://marketplace.visualstudio.com/items?itemName=trustsoftsolutions.trust-network-suite-pro) | TRUST NETWORK SUITE Pro | 1.0.1 | The complete network toolkit for VS Code — SSH, SFTP, diagnostics, and profile… |
+| 2026-11-02 21:44:03 | [docsflowy.docs-flowy](https://marketplace.visualstudio.com/items?itemName=docsflowy.docs-flowy) | Docs Flowy Board | 0.3.0 | Your Docs Flowy Board, drafts and artifacts in the editor — move cards, assign,… |
+| 2026-11-02 21:45:04 | [phenzic.standup-draft-preview](https://marketplace.visualstudio.com/items?itemName=phenzic.standup-draft-preview) | Standup Draft Preview | 0.2.1 | Drafts your daily stand-up from the work you already did. Local-first: git, IDE… |
+| 2026-11-02 21:48:00 | [emanuelebartolesi.vscode-aiquota](https://marketplace.visualstudio.com/items?itemName=emanuelebartolesi.vscode-aiquota) | AI Quota | 0.1.4 | Track Claude, ChatGPT / Codex, GitHub Copilot, Antigravity, OpenCode Go, and Fr… |
+| 2026-11-02 21:57:00 | [EventTemple.source-studio](https://marketplace.visualstudio.com/items?itemName=EventTemple.source-studio) | Source Studio | 1.0.0 | lazygit-style source control for VS Code: multi-repo status, keyboard-driven st… |
+| 2026-11-02 22:11:21 | [lilixxs.bs-klp-mgmt](https://marketplace.visualstudio.com/items?itemName=lilixxs.bs-klp-mgmt) | KLP 项目管理 | 0.1.0 | 浏览与编辑 KLP 工控软件的项目文件夹：变量、ST 程序、通讯配置与工程改名 |
+| 2026-11-02 22:13:54 | [VosuAI.vosuai](https://marketplace.visualstudio.com/items?itemName=VosuAI.vosuai) | VosuAI | 1.0.0 | Generate images, videos, and 3D with VOSU from VS Code. |
 
 ## Data source
 

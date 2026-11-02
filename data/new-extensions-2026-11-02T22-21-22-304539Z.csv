@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T21:31:18.033Z,sysdevs.vscode-runescript,sysdevs,RuneScript,0.8.1,"RuneScript (.rs2) and config file support: highlighting, file icons, diagnostics, hover, go to definition, references, completion."
+2026-11-02T21:33:30.69Z,trustsoftsolutions.trust-network-suite-pro,trustsoftsolutions,TRUST NETWORK SUITE Pro,1.0.1,"The complete network toolkit for VS Code — SSH, SFTP, diagnostics, and profile switching. Free tier available, Pro unlocks automation and VPN, Pro Plus adds enterprise tools like Live Connections and advanced monitoring."
+2026-11-02T21:44:03.977Z,docsflowy.docs-flowy,docsflowy,Docs Flowy Board,0.3.0,"Your Docs Flowy Board, drafts and artifacts in the editor — move cards, assign, and write notes without leaving it — and your AI agent connected to the same specs over MCP."
+2026-11-02T21:45:04.12Z,phenzic.standup-draft-preview,phenzic,Standup Draft Preview,0.2.1,"Drafts your daily stand-up from the work you already did. Local-first: git, IDE activity and GitHub become a Done / Next / Blockers update, written by a local model or your own API key."
+2026-11-02T21:48:00.937Z,emanuelebartolesi.vscode-aiquota,emanuelebartolesi,AI Quota,0.1.4,"Track Claude, ChatGPT / Codex, GitHub Copilot, Antigravity, OpenCode Go, and Freebuff quota and reset times in one VS Code dashboard."
+2026-11-02T21:57:00.897Z,EventTemple.source-studio,EventTemple,Source Studio,1.0.0,"lazygit-style source control for VS Code: multi-repo status, keyboard-driven staging, branches, worktrees, stashes, a commit graph, interactive rebase, blame and undo."
+2026-11-02T22:11:21.057Z,lilixxs.bs-klp-mgmt,lilixxs,KLP 项目管理,0.1.0,浏览与编辑 KLP 工控软件的项目文件夹：变量、ST 程序、通讯配置与工程改名
+2026-11-02T22:13:54.077Z,VosuAI.vosuai,VosuAI,VosuAI,1.0.0,"Generate images, videos, and 3D with VOSU from VS Code."
