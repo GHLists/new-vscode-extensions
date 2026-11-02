@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T10:16:46.29Z,Fantasia040506.codex-drag-context,Fantasia040506,Codex Drag Context,0.1.1,Send Explorer files and folder references to Codex through a dedicated drop zone.
+2026-11-02T10:28:28.947Z,SemyonDanilov.merge-and-blame,SemyonDanilov,Merge & Blame,0.3.0,An IntelliJ-style three-way merge editor and Git blame for VS Code.
+2026-11-02T10:33:51.66Z,ScarpLang.scarp,ScarpLang,Scarp Compiler & Runner,0.1.0,Official experimental VS Code extension for running and checking Scarp programs with the Scarp compiler.
+2026-11-02T10:44:10.95Z,eagoxstudiobyshahriar.seedcode-vscode,eagoxstudiobyshahriar,SeedCode CLI,2.1.4,Run the SeedCode CLI AI coding agent in a dedicated Activity Bar sidebar or an editor tab.
+2026-11-02T10:54:16.19Z,proximus.proximus-1k,proximus,Proxy-1 AI,0.1.3,"Code, review and test in VS Code with Proxy-1 and your Proximus credits."
+2026-11-02T10:55:12.127Z,phx-lang.phx-language,phx-lang,PHX Language,0.2.7,"PHX language support: syntax highlighting for .phx and .phx.html, and diagnostics and hover types from `phx lsp`."
+2026-11-02T11:03:57.847Z,alonpe.local-ghost,alonpe,Local Ghost,0.1.2,Offline ghost-text completions learned from your open files
+2026-11-02T11:07:14.533Z,miragon-gmbh.c4-modeler,miragon-gmbh,C4 Modeler,0.1.0,"View and edit C4 model diagrams directly in VS Code, backed by plain-text Structurizr DSL files (.c4, .dsl)."
