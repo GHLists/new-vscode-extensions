@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T20:15:52.27Z,Alaxuxsoft.antigravity-prompt-builder,Alaxuxsoft,Prompt Builder Antigravity,1.0.1,"Asistente avanzado de Prompt Engineering para Antigravity IDE: formula prompts estructurados, cataloga y categoriza Skills y Agentes de IA, gestiona tu Lista Prompt Local y ofrece soporte multiidioma nativo."
+2026-11-02T20:20:57.59Z,anakin4747.bpfls,anakin4747,bpftrace (bpfls),0.3.1,bpftrace language support powered by the bpfls language server
+2026-11-02T20:22:08.583Z,next-move.agent-optics,next-move,Agent Optics,0.1.0,"Live usage limits for Claude Code, Codex, Cursor, Antigravity, Gemini, Kimi and DeepSeek across all your accounts."
+2026-11-02T20:47:08.207Z,giftorm.vim-split,giftorm,Vim Split,0.1.2,"Vim-style Ctrl+h/j/k/l: focus the editor group in that direction, or split if there is none."
+2026-11-02T20:58:55.87Z,dominikmech.project-tiles,dominikmech,Project Tiles,1.0.0,"A tile dashboard for your projects: descriptions, logos, collections, git branch, last commit and languages."
+2026-11-02T21:00:40.737Z,OpenSourceRulesz.ollada-code,OpenSourceRulesz,ollada-code,0.1.1,"Chat, Fix, and Insert in VS Code, powered by your local ollada serve. Phase 1 only: no autocomplete, no agent loop, no streaming, no telemetry, no bundled models."
