@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T00:23:03.213Z,Doomgames.blitscript,Doomgames,dgz's blitscript,0.2.0,"BlitScript language support and Blit Engine projects: create, build and run games, browse the engine API, and get completion, navigation, linting and compile errors."
+2026-11-02T00:43:01.42Z,codetent.mapitect,codetent,mapitect — Interactive D2 Architecture Maps,0.1.0,"Render D2 diagrams as interactive architecture maps with zoom, pan, drill-down and navigation."
+2026-11-02T00:50:16.32Z,DanieldeFrancisco.osgi-ai-migrator,DanieldeFrancisco,OSGi AI Migrator for Liferay,3.2.0,"AI-assisted modernization of legacy Liferay 7.x OSGi modules into Liferay Objects and Client Extensions, powered by Google Gemini."
+2026-11-02T01:06:27.01Z,yhay81.vastgrid-vscode,yhay81,vastgrid,0.3.0,"Huge CSV, TSV, Parquet, JSON Lines and Excel files in a grid in VS Code, read by DuckDB in the extension: scroll to the last row, sort, filter, group, edit cells and save CSV and TSV files with the bytes that were not edited kept as they are."
