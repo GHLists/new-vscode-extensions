@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T06:25:21.807Z,aitrustlist.aitrustlist-vscode,aitrustlist,AITrustList: AI Tools & Dev Stack Finder,0.1.0,"Discover vetted AI developer tools, verified Similarweb traffic telemetry, alternative stacks, and insert verified README badges."
+2026-11-02T06:31:26.05Z,plagiarismcheckerx.plagx-writer-theme,plagiarismcheckerx,Plagx Writer Theme,0.1.0,"Calm light and dark colour themes for writing in VS Code: readable Markdown, LaTeX and BibTeX, gentle code colours and WCAG AA contrast. By Plagiarism Checker X."
+2026-11-02T06:56:00.397Z,lordprogrammer.android-kotlin-app-generator,lordprogrammer,Android Kotlin Application Generator,0.1.0,"Create standard Kotlin + Jetpack Compose Android projects and build Debug/Release APKs from VS Code, without opening Android Studio."
+2026-11-02T07:06:58.91Z,nodewell.notewell,nodewell,Notewell,0.8.0,Visual views for Markdown planning notes in VS Code. Changes no VS Code settings unless you opt in.
