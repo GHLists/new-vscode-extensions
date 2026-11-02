@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T17:24:29.617Z,nebula-automotive.truefidelity,nebula-automotive,TrueFidelity,0.2.0,"Deploy, flash, and debug automotive ECU firmware on TrueFidelity Cloud without leaving VS Code."
+2026-11-02T17:24:59.97Z,Minato3000.llm-monitor-service,Minato3000,LLM Monitor Service,0.1.0,"Live monitoring of running vLLM and SGLang containers in your VS Code sidebar: model, KV cache, requests, queue and tokens per second."
+2026-11-02T17:27:22.493Z,evotech.wannacode,evotech,WannaCode — Learn by doing,1.5.2,"Beta: coding practice in Java, Python, JavaScript and C# with real tests, progressive hints, and Bulgarian and English learning paths."
+2026-11-02T17:28:30.1Z,RepoMedic.repomedic,RepoMedic,RepoMedic,0.1.0,"A focused, read-only project health dashboard for Visual Studio Code."
+2026-11-02T17:30:48.92Z,naoriky.selene,naoriky,SELENE Agent,0.1.0,"SELENE para VS Code — abre o SELENE no terminal, na aba ao lado."
+2026-11-02T17:53:33.5Z,wzaielamri.talpy-den,wzaielamri,Talpy Den,1.17.0,"Every Claude Code chat on this computer and your SSH hosts in one view: who needs you, plan usage, subagents, and Talpy, the animated pet. Runs on your side, also in Remote-SSH windows."
+2026-11-02T18:12:30.633Z,rolandzwaga.eligian,rolandzwaga,Eligian,1.0.0,"Language support for Eligian, a concise DSL for Eligius presentations: highlighting, validation, completion, a live preview and compilation to Eligius JSON."
+2026-11-02T18:15:23.33Z,JACOCODE.jaco-cognitive-ide,JACOCODE,JACO Cognitive IDE,0.1.1,"Open your local JACO AI workspace in VS Code, with Aura chat, missions, Git and existing MCP connections."
