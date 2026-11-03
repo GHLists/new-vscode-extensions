@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T13:17:30.637Z,Kaynooo.kay,Kaynooo,Kay,1.86.0,"Language support for .kay components: highlighting, diagnostics, hover, completion, go-to-definition and formatting through the kay language server"
+2026-11-03T13:24:45.35Z,mayur-patel-algolens-dev.mayur-patel-algolens,mayur-patel-algolens-dev,Mayur Patel's Algolens,0.1.0,Interactive Algorithm Analysis and Visual Chalkboard Trace
+2026-11-03T13:29:13.737Z,qjohn.git-submodule-extension,qjohn,Git Submodule Extension,0.4.10,"Source Control view for Git submodules: nested repositories and gitlink diffs in one Changes tree, everyday Git actions, and safe reattach of detached submodules to their branch."
+2026-11-03T13:41:08.287Z,lilinhuang.gelato-stand-theme,lilinhuang,Gelato Stand Theme,1.0.0,"An ice-cream parlour for your editor: five pastel scoops - Vanilla (light), Midnight Cocoa (dark), Strawberry, Pistachio and Blueberry. Muted, never neon."
+2026-11-03T13:48:27.287Z,peilundai.pi-agent-manager,peilundai,Pi Agent Manager,0.2.2,Unofficial side-bar chat for the Pi coding agent. Runs your locally installed and configured pi CLI.
+2026-11-03T13:51:40.677Z,arthurka.config-lint,arthurka,Config Lint,1.0.0,Lint and fix package.json and Docker Compose files in the active editor.
+2026-11-03T13:52:28.027Z,AIBlockchainVentures.agentverify-vscode,AIBlockchainVentures,Agent Verify — AI Agent Security Scanner,2.0.0,"Security checks for AI agents while you code: 124 tested checks for prompt injection, risky tools, exposed secrets, MCP tool poisoning and unsafe MCP servers, plus LangChain, LangGraph, CrewAI, AutoGen, OpenAI Agents SDK, Claude Agent SDK and more."
+2026-11-03T13:53:02.58Z,IOG.plinth-blaster,IOG,Plinth Blaster,0.2.0,Check Cardano blueprints and inspect typed Haskell counterexamples alongside UAL properties.
+2026-11-03T14:01:58.087Z,mdemartino-truco.truco,mdemartino-truco,Quiero re Truco,0.1.0,Jugá al truco argentino contra la CPU desde la barra lateral de VS Code.
+2026-11-03T14:04:12.937Z,smartorch.smartorch,smartorch,SmartOrch — Local AI Assistant,3.0.1,"Local AI coding assistant: chat, agent, autocomplete and security RAG powered by Ollama. Self-critique, PRM and few-shot learning. Your code never leaves your machine."
+2026-11-03T14:10:05.297Z,yuna1107.gcp-quick-connect,yuna1107,GCP Quick Connect,1.2.0,"1-Click Start/Stop GCP VM, auto-update ~/.ssh/config IP, and manage Remote-SSH. Syncs across machines via VS Code Settings Sync."
+2026-11-03T14:13:20.01Z,Ashitaka.opencode-go-provider-for-copilot,Ashitaka,OpenCode Go for GitHub Copilot,0.1.0,"Use OpenCode Go models in GitHub Copilot Chat. Add the provider, paste your API key, and chat."
+2026-11-03T14:13:30.147Z,WangWindow.fileheader-extension,WangWindow,File Header,5.0.0,"Insert and maintain file header comments, and generate function comments with parameter extraction."

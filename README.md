@@ -12,20 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 13:20 UTC
+## Latest list — 2026-11-03 14:21 UTC
 
-New extensions published between 2026-11-03 11:20 UTC and 2026-11-03 13:20 UTC.
+New extensions published between 2026-11-03 12:21 UTC and 2026-11-03 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T13-20-20-568628Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T14-21-12-725711Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 12:39:15 | [gigabates.puae-debugger](https://marketplace.visualstudio.com/items?itemName=gigabates.puae-debugger) | PUAE Amiga Debugger and Profiler | 1.3.1 | Debug and profile Amiga programs with an integrated PUAE (WinUAE-derived) emula… |
-| 2026-11-03 12:47:38 | [MRX7999.perplexicode-kilo](https://marketplace.visualstudio.com/items?itemName=MRX7999.perplexicode-kilo) | PerplexiCode Kilo | 3.1.0 | Kilo Code-style autonomous coding agent (Code / Architect / Ask / Debug / Orche… |
-| 2026-11-03 12:47:40 | [rawendil.vscode-browser-sketch](https://marketplace.visualstudio.com/items?itemName=rawendil.vscode-browser-sketch) | Browser Sketch | 0.1.1 | Screenshot the VS Code Integrated Browser, annotate it and copy it to the clipb… |
-| 2026-11-03 12:56:20 | [aaddiiittyaa.emulator-dock](https://marketplace.visualstudio.com/items?itemName=aaddiiittyaa.emulator-dock) | Emulator Dock for Android | 0.1.2 | Run the Android emulator inside VS Code as a native, dockable panel. Code and a… |
-| 2026-11-03 13:05:46 | [jay-boo.tf-plan-lens](https://marketplace.visualstudio.com/items?itemName=jay-boo.tf-plan-lens) | Terraform Plan Lens | 0.4.0 | Your Terraform plan on your code: what each block will create, update, replace… |
-| 2026-11-03 13:06:34 | [AndrsGarcaRamrez.salesforce-impact-analyzer-qa](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-impact-analyzer-qa) | Salesforce Impact Analyzer – Where Used… | 0.1.0 | Where is this Salesforce field used? See everything that references a field or… |
+| 2026-11-03 13:17:30 | [Kaynooo.kay](https://marketplace.visualstudio.com/items?itemName=Kaynooo.kay) | Kay | 1.86.0 | Language support for .kay components: highlighting, diagnostics, hover, complet… |
+| 2026-11-03 13:24:45 | [mayur-patel-algolens-dev.mayur-patel-algolens](https://marketplace.visualstudio.com/items?itemName=mayur-patel-algolens-dev.mayur-patel-algolens) | Mayur Patel's Algolens | 0.1.0 | Interactive Algorithm Analysis and Visual Chalkboard Trace |
+| 2026-11-03 13:29:13 | [qjohn.git-submodule-extension](https://marketplace.visualstudio.com/items?itemName=qjohn.git-submodule-extension) | Git Submodule Extension | 0.4.10 | Source Control view for Git submodules: nested repositories and gitlink diffs i… |
+| 2026-11-03 13:41:08 | [lilinhuang.gelato-stand-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.gelato-stand-theme) | Gelato Stand Theme | 1.0.0 | An ice-cream parlour for your editor: five pastel scoops - Vanilla (light), Mid… |
+| 2026-11-03 13:48:27 | [peilundai.pi-agent-manager](https://marketplace.visualstudio.com/items?itemName=peilundai.pi-agent-manager) | Pi Agent Manager | 0.2.2 | Unofficial side-bar chat for the Pi coding agent. Runs your locally installed a… |
+| 2026-11-03 13:51:40 | [arthurka.config-lint](https://marketplace.visualstudio.com/items?itemName=arthurka.config-lint) | Config Lint | 1.0.0 | Lint and fix package.json and Docker Compose files in the active editor. |
+| 2026-11-03 13:52:28 | [AIBlockchainVentures.agentverify-vscode](https://marketplace.visualstudio.com/items?itemName=AIBlockchainVentures.agentverify-vscode) | Agent Verify — AI Agent Security Scanner | 2.0.0 | Security checks for AI agents while you code: 124 tested checks for prompt inje… |
+| 2026-11-03 13:53:02 | [IOG.plinth-blaster](https://marketplace.visualstudio.com/items?itemName=IOG.plinth-blaster) | Plinth Blaster | 0.2.0 | Check Cardano blueprints and inspect typed Haskell counterexamples alongside UA… |
+| 2026-11-03 14:01:58 | [mdemartino-truco.truco](https://marketplace.visualstudio.com/items?itemName=mdemartino-truco.truco) | Quiero re Truco | 0.1.0 | Jugá al truco argentino contra la CPU desde la barra lateral de VS Code. |
+| 2026-11-03 14:04:12 | [smartorch.smartorch](https://marketplace.visualstudio.com/items?itemName=smartorch.smartorch) | SmartOrch — Local AI Assistant | 3.0.1 | Local AI coding assistant: chat, agent, autocomplete and security RAG powered b… |
+| 2026-11-03 14:10:05 | [yuna1107.gcp-quick-connect](https://marketplace.visualstudio.com/items?itemName=yuna1107.gcp-quick-connect) | GCP Quick Connect | 1.2.0 | 1-Click Start/Stop GCP VM, auto-update ~/.ssh/config IP, and manage Remote-SSH.… |
+| 2026-11-03 14:13:20 | [Ashitaka.opencode-go-provider-for-copilot](https://marketplace.visualstudio.com/items?itemName=Ashitaka.opencode-go-provider-for-copilot) | OpenCode Go for GitHub Copilot | 0.1.0 | Use OpenCode Go models in GitHub Copilot Chat. Add the provider, paste your API… |
+| 2026-11-03 14:13:30 | [WangWindow.fileheader-extension](https://marketplace.visualstudio.com/items?itemName=WangWindow.fileheader-extension) | File Header | 5.0.0 | Insert and maintain file header comments, and generate function comments with p… |
 
 ## Data source
 
