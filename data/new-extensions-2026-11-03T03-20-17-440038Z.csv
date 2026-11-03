@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T02:27:30.06Z,ding-code.ding-code,ding-code,Ding Code,0.1.0,A local-first code pattern library with notes and optional BYOK AI.
+2026-11-03T02:30:32.88Z,Zaxckheal101.case-sensitive-path-guard,Zaxckheal101,Case-Sensitive Path Guard,0.0.2,Finds and fixes file paths whose letter casing does not match the file on disk - the silent cause of missing images after deploying to Linux hosts such as Cloudflare Pages.
+2026-11-03T02:49:27.017Z,codictator.codictator-vscode,codictator,codictator-vscode,0.1.1,
+2026-11-03T02:49:40.573Z,Nuvoton.vscode-nutool-pinconfig,Nuvoton,Nuvoton NuTool - PinConfigure,2.0.2,The NuTool - PinConfigure is used to configure GPIO multi-functions of Nuvoton NuMicro® Family.
+2026-11-03T03:00:55.85Z,ParakramJain.okf-knowledge-studio,ParakramJain,OKF Studio,0.4.1,Turn code and documents into trusted knowledge that AI agents can use.
+2026-11-03T03:09:04.213Z,masanori-satake.skillmap-solo,masanori-satake,SkillMap-Solo,0.1.0,"Visualize Agent Skills as a reference-relationship tree in the Explorer, with estimated token costs and best-practice warnings that teach through Tips. 100% local, no tracking."

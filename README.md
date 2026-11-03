@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 02:21 UTC
+## Latest list — 2026-11-03 03:20 UTC
 
-New extensions published between 2026-11-03 00:21 UTC and 2026-11-03 02:21 UTC.
+New extensions published between 2026-11-03 01:20 UTC and 2026-11-03 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T02-21-01-436292Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T03-20-17-440038Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 01:39:54 | [ThomasAndrewSlater.databricks-sql-quickcheck](https://marketplace.visualstudio.com/items?itemName=ThomasAndrewSlater.databricks-sql-quickcheck) | Quickcheck for Databricks SQL | 0.3.0 | A Databricks SQL language mode whose highlighting understands backslash escapes… |
-| 2026-11-03 01:41:03 | [byteWorxs.aitrace](https://marketplace.visualstudio.com/items?itemName=byteWorxs.aitrace) | AItrace | 1.0.1 | Trace code you actually write — AI proposes, you type it. Code-aware typing pra… |
-| 2026-11-03 01:47:47 | [dnt294.ocean-light](https://marketplace.visualstudio.com/items?itemName=dnt294.ocean-light) | Ocean Light | 1.0.1 | A light theme with an ocean-blue accent, tuned for Rails, Go, Rust, JS/TS and M… |
-| 2026-11-03 01:52:42 | [shenghua.ymd-preview](https://marketplace.visualstudio.com/items?itemName=shenghua.ymd-preview) | Yuque YMD Preview · 语雀富文本预览 | 0.1.2 | Preview Yuque Markdown (.ymd) in VS Code with live updates, rich-text tables, c… |
-| 2026-11-03 02:02:08 | [petrichoral.night-owl-reforged-petrichoral](https://marketplace.visualstudio.com/items?itemName=petrichoral.night-owl-reforged-petrichoral) | Night Owl Reforged by Petrichoral | 2.2.4 | An actively maintained fork of Night Owl — same palette, with tab and workbench… |
+| 2026-11-03 02:27:30 | [ding-code.ding-code](https://marketplace.visualstudio.com/items?itemName=ding-code.ding-code) | Ding Code | 0.1.0 | A local-first code pattern library with notes and optional BYOK AI. |
+| 2026-11-03 02:30:32 | [Zaxckheal101.case-sensitive-path-guard](https://marketplace.visualstudio.com/items?itemName=Zaxckheal101.case-sensitive-path-guard) | Case-Sensitive Path Guard | 0.0.2 | Finds and fixes file paths whose letter casing does not match the file on disk… |
+| 2026-11-03 02:49:27 | [codictator.codictator-vscode](https://marketplace.visualstudio.com/items?itemName=codictator.codictator-vscode) | codictator-vscode | 0.1.1 |  |
+| 2026-11-03 02:49:40 | [Nuvoton.vscode-nutool-pinconfig](https://marketplace.visualstudio.com/items?itemName=Nuvoton.vscode-nutool-pinconfig) | Nuvoton NuTool - PinConfigure | 2.0.2 | The NuTool - PinConfigure is used to configure GPIO multi-functions of Nuvoton… |
+| 2026-11-03 03:00:55 | [ParakramJain.okf-knowledge-studio](https://marketplace.visualstudio.com/items?itemName=ParakramJain.okf-knowledge-studio) | OKF Studio | 0.4.1 | Turn code and documents into trusted knowledge that AI agents can use. |
+| 2026-11-03 03:09:04 | [masanori-satake.skillmap-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.skillmap-solo) | SkillMap-Solo | 0.1.0 | Visualize Agent Skills as a reference-relationship tree in the Explorer, with e… |
 
 ## Data source
 
