@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T18:19:46.873Z,myonara.lpc-ide-master,myonara,LPC-IDE-Master (UNItopia Edition),0.2.5,"LPC-Entwicklungsumgebung mit Dialekt-Management, Remote-FTP/FTPS/SFTP-Sync, Editor-Unterstützung für UNItopia und weitere Mudlibs."
+2026-11-03T18:22:24.017Z,meltemi.meltemi-diagrams,meltemi,Meltemi Diagrams,1.10.18,"Diagrams as code for the Meltemi family: the .meltemi language, and a canvas beside the code that edits the source."
+2026-11-03T18:32:23.737Z,kiranandcode.agda-mode-telemetry,kiranandcode,Agda Mode Telemetry,0.1.0,"Record every agda-mode command, Agda response and buffer state to SQLite, in the same format as the Emacs agda2-telemetry. Share it as a zip or a Markdown trace."
+2026-11-03T18:33:10.8Z,moriyama-dev.vscode-open-html-in-browser,moriyama-dev,Open HTML in Browser,0.1.0,"Open HTML files in your default browser from the Explorer, the editor, or with a double-click. Detects the default browser on macOS, Windows, and Linux."
+2026-11-03T18:34:19.337Z,ScottPIersall.iron3270,ScottPIersall,Iron 3270,0.9.0,"TN3270/TN3270E terminal emulator for z/OS and z/VM: connection explorer, block-mode 3270 screens, PF/PA keyboard, TLS, IND$FILE transfers, macros."
+2026-11-03T18:37:52.04Z,koaim.go-autobrackets,koaim,Go Auto Brackets,0.1.3,Automatically wrap and unwrap Go function result types when editing commas.
+2026-11-03T18:48:59.227Z,0x230797.wired-7-theme,0x230797,Wired-7 Theme,0.1.0,Tema oscuro para VS Code inspirado en la estética retro de Wired-7.org.
