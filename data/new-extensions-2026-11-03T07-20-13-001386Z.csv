@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T06:14:50.46Z,AnanTamas.chartdb-local,AnanTamas,ChartDB Local,0.2.2,Run ChartDB in VS Code and push or pull workspace changes with GitHub.
+2026-11-03T06:42:16.57Z,hommy36.stm32-easy-tool-kit,hommy36,STM32 Easy Tool Kit,0.6.4,"Visual STM32 CMake tools: prepare tools, build, flash and debug natively."
+2026-11-03T06:43:01.833Z,chuyongsik-gse.clausereader-vscode,chuyongsik-gse,ClauseReader,1.4.1,Standalone VS Code document reader adapted from ClauseReader 1.4.0.
+2026-11-03T06:43:23.62Z,ukown812.hack-the-algorithms,ukown812,Hack The Algorithms,0.0.1,Hack the Algorithms in your own way
+2026-11-03T06:46:45.46Z,sumit2424.code-arcade,sumit2424,Code Arcade,0.1.0,Play small games while your AI coding assistant works.
+2026-11-03T06:55:42.163Z,bhu.amo-language,bhu,AMO for OpenScape 4000 / HiPath 4000,1.0.0,"Syntax highlighting, snippets and colorblind-friendly themes for AMO scripts and regen files of OpenScape 4000 / HiPath 4000 PBX systems."
+2026-11-03T07:03:33.41Z,ArmanTaherian.codex-usage-reset,ArmanTaherian,Codex Usage Reset,0.1.2,"Status bar for Codex 5-hour and weekly usage, time until reset, session context, and banked resets."
+2026-11-03T07:06:22.08Z,RCSN.hpm-sdk-explorer,RCSN,HPM SDK Explorer,0.1.0,"Visually select HPM SDK examples, boards, build and debug settings with CMake Tools and Cortex-Debug."
