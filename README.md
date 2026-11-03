@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 04:20 UTC
+## Latest list — 2026-11-03 05:20 UTC
 
-New extensions published between 2026-11-03 02:20 UTC and 2026-11-03 04:20 UTC.
+New extensions published between 2026-11-03 03:20 UTC and 2026-11-03 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T04-20-37-494454Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T05-20-57-331031Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 03:30:43 | [dileepar26.vscode-todoist](https://marketplace.visualstudio.com/items?itemName=dileepar26.vscode-todoist) | Tasks for Todoist | 0.0.1 | View and manage your Todoist tasks directly in VS Code (unofficial) |
-| 2026-11-03 03:53:17 | [alkayesrifat.cp-input-txt](https://marketplace.visualstudio.com/items?itemName=alkayesrifat.cp-input-txt) | CP Input TXT | 1.0.1 | Instantly save Competitive Companion sample testcase inputs into input.txt |
-| 2026-11-03 04:00:15 | [TrummerWork-JeremyDiaz.trummerwork-helper](https://marketplace.visualstudio.com/items?itemName=TrummerWork-JeremyDiaz.trummerwork-helper) | TrummerWork Helper | 0.2.0 | Snippets HTML y CSS, autocompletado de clases TrummerWork 2.0 y accesos a su do… |
-| 2026-11-03 04:06:58 | [cheat-snippet.auto-tag-closer](https://marketplace.visualstudio.com/items?itemName=cheat-snippet.auto-tag-closer) | Smart Auto Tag Closer | 0.0.1 | Automatically add close tag for HTML and XML. |
+| 2026-11-03 04:26:19 | [BestSoft.mongolscript-language](https://marketplace.visualstudio.com/items?itemName=BestSoft.mongolscript-language) | MongolScript | 1.0.0 | MongolScript 1.0: Mongolian syntax with a TypeScript compiler. |
+| 2026-11-03 04:41:19 | [river291.remote-file](https://marketplace.visualstudio.com/items?itemName=river291.remote-file) | Remote File - FTP/SFTP 部署 | 0.12.0 | 读取工作区 .vscode/sftp.json 配置，通过 SFTP/FTP 浏览远程文件、保存自动上传、目录映射、删除同步。 |
+| 2026-11-03 04:49:53 | [Hal.Genius-Coding-Assistant](https://marketplace.visualstudio.com/items?itemName=Hal.Genius-Coding-Assistant) | Genius Coding Assistant | 4.9.0 | HalCode - Conversational AI coding agent for VS Code. Plan once, approve once,… |
+| 2026-11-03 04:59:52 | [cheat-snippet.tag-pair-closer](https://marketplace.visualstudio.com/items?itemName=cheat-snippet.tag-pair-closer) | Tag Pair Closer | 0.0.1 | Automatically close paired HTML, XML, and JSX tags. |
+| 2026-11-03 05:04:27 | [pixelmin.pixel-office](https://marketplace.visualstudio.com/items?itemName=pixelmin.pixel-office) | Pixel Office for Claude Code | 0.1.0 | See your running Claude Code sessions and their subagents at work in a tiny pix… |
+| 2026-11-03 05:09:40 | [etoxiuq.device-screenshot](https://marketplace.visualstudio.com/items?itemName=etoxiuq.device-screenshot) | Device Screenshot (Android & iOS) | 1.0.0 | Capture screenshots from connected Android & iOS physical devices (and simulato… |
 
 ## Data source
 

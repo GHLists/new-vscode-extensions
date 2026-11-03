@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T04:26:19.537Z,BestSoft.mongolscript-language,BestSoft,MongolScript,1.0.0,MongolScript 1.0: Mongolian syntax with a TypeScript compiler.
+2026-11-03T04:41:19.963Z,river291.remote-file,river291,Remote File - FTP/SFTP 部署,0.12.0,读取工作区 .vscode/sftp.json 配置，通过 SFTP/FTP 浏览远程文件、保存自动上传、目录映射、删除同步。
+2026-11-03T04:49:53.573Z,Hal.Genius-Coding-Assistant,Hal,Genius Coding Assistant,4.9.0,"HalCode - Conversational AI coding agent for VS Code. Plan once, approve once, build full apps in your indexed folder with real tools (Claude, Gemini, Grok, Ollama local & cloud)."
+2026-11-03T04:59:52.593Z,cheat-snippet.tag-pair-closer,cheat-snippet,Tag Pair Closer,0.0.1,"Automatically close paired HTML, XML, and JSX tags."
+2026-11-03T05:04:27.933Z,pixelmin.pixel-office,pixelmin,Pixel Office for Claude Code,0.1.0,See your running Claude Code sessions and their subagents at work in a tiny pixel-art office.
+2026-11-03T05:09:40.41Z,etoxiuq.device-screenshot,etoxiuq,Device Screenshot (Android & iOS),1.0.0,"Capture screenshots from connected Android & iOS physical devices (and simulators) directly in the Left Sidebar with 1-click Recapture, Copy to Clipboard, Send to AI Prompt, Markup, Eraser, Crop, Rotation, and Save."
