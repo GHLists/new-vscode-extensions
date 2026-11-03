@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 03:20 UTC
+## Latest list — 2026-11-03 04:20 UTC
 
-New extensions published between 2026-11-03 01:20 UTC and 2026-11-03 03:20 UTC.
+New extensions published between 2026-11-03 02:20 UTC and 2026-11-03 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T03-20-17-440038Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T04-20-37-494454Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 02:27:30 | [ding-code.ding-code](https://marketplace.visualstudio.com/items?itemName=ding-code.ding-code) | Ding Code | 0.1.0 | A local-first code pattern library with notes and optional BYOK AI. |
-| 2026-11-03 02:30:32 | [Zaxckheal101.case-sensitive-path-guard](https://marketplace.visualstudio.com/items?itemName=Zaxckheal101.case-sensitive-path-guard) | Case-Sensitive Path Guard | 0.0.2 | Finds and fixes file paths whose letter casing does not match the file on disk… |
-| 2026-11-03 02:49:27 | [codictator.codictator-vscode](https://marketplace.visualstudio.com/items?itemName=codictator.codictator-vscode) | codictator-vscode | 0.1.1 |  |
-| 2026-11-03 02:49:40 | [Nuvoton.vscode-nutool-pinconfig](https://marketplace.visualstudio.com/items?itemName=Nuvoton.vscode-nutool-pinconfig) | Nuvoton NuTool - PinConfigure | 2.0.2 | The NuTool - PinConfigure is used to configure GPIO multi-functions of Nuvoton… |
-| 2026-11-03 03:00:55 | [ParakramJain.okf-knowledge-studio](https://marketplace.visualstudio.com/items?itemName=ParakramJain.okf-knowledge-studio) | OKF Studio | 0.4.1 | Turn code and documents into trusted knowledge that AI agents can use. |
-| 2026-11-03 03:09:04 | [masanori-satake.skillmap-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.skillmap-solo) | SkillMap-Solo | 0.1.0 | Visualize Agent Skills as a reference-relationship tree in the Explorer, with e… |
+| 2026-11-03 03:30:43 | [dileepar26.vscode-todoist](https://marketplace.visualstudio.com/items?itemName=dileepar26.vscode-todoist) | Tasks for Todoist | 0.0.1 | View and manage your Todoist tasks directly in VS Code (unofficial) |
+| 2026-11-03 03:53:17 | [alkayesrifat.cp-input-txt](https://marketplace.visualstudio.com/items?itemName=alkayesrifat.cp-input-txt) | CP Input TXT | 1.0.1 | Instantly save Competitive Companion sample testcase inputs into input.txt |
+| 2026-11-03 04:00:15 | [TrummerWork-JeremyDiaz.trummerwork-helper](https://marketplace.visualstudio.com/items?itemName=TrummerWork-JeremyDiaz.trummerwork-helper) | TrummerWork Helper | 0.2.0 | Snippets HTML y CSS, autocompletado de clases TrummerWork 2.0 y accesos a su do… |
+| 2026-11-03 04:06:58 | [cheat-snippet.auto-tag-closer](https://marketplace.visualstudio.com/items?itemName=cheat-snippet.auto-tag-closer) | Smart Auto Tag Closer | 0.0.1 | Automatically add close tag for HTML and XML. |
 
 ## Data source
 
