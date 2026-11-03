@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T08:23:22.157Z,mackans95.source-control-changelist,mackans95,Changelist,0.1.0,PyCharm-style changelists in the Source Control view: only repositories with changes are shown.
+2026-11-03T08:29:53.013Z,FPTAIFACTORY.token-factory,FPTAIFACTORY,Token Factory,0.1.1,"Code / Cowork agent powered by opencode, preconfigured for FPT AI Factory. Paste your API key and start."
+2026-11-03T08:30:36.94Z,yangjongwon.handide,yangjongwon,handide: VS Code on your phone,0.2.0,"Open this project on your phone: press the phone button, scan the QR code, and code from the phone with your own VS Code, extensions and AI agents."
+2026-11-03T08:33:16.37Z,macdara.questlog,macdara,Questlog,1.0.0,"Where each parallel Claude Code session is: plan, step, branch. Reopen the unfinished ones."
+2026-11-03T08:48:48.377Z,Nouni2.ver-sync,Nouni2,Ver-Sync,1.1.1,A VS Code extension that synchronizes version numbers across selected project files.
+2026-11-03T08:54:59.91Z,ziishaned.jetbrains-find-in-files,ziishaned,VS Code JetBrains Finder,0.3.63,Search your workspace with a live results list and code preview.
+2026-11-03T08:55:54.277Z,sakshamarora1407.orgweave,sakshamarora1407,OrgWeave,1.0.0,"OrgWeave is a code visualizer for Salesforce: see how Apex, triggers and Lightning Web Components connect and the data they touch, check for recursion, analyze the permissions your code needs, build Permission Sets and export code review summaries. 100% local."
+2026-11-03T08:55:59.007Z,HomeHub.homehub-miniapp,HomeHub,HomeHub MiniApp,0.1.0,"Tạo, chạy thử, đóng gói và xuất bản MiniApp lên HomeHub SuperApp ngay trong VS Code"
+2026-11-03T09:04:24.58Z,VergilXiong.svn-blame-hover,VergilXiong,SVN Blame Hover,0.1.0,鼠标悬停在某一行时显示该行的 SVN 提交信息（作者、版本号、提交时间、提交日志）。
+2026-11-03T09:11:35.18Z,anish-miya.smart-selector-intellisense,anish-miya,"SelectorSync — HTML, CSS & JS IntelliSense",1.0.0,"Smart class and ID autocomplete, definitions, references and cross-file rename for HTML, CSS and JavaScript/TypeScript."

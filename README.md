@@ -12,27 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 08:19 UTC
+## Latest list — 2026-11-03 09:19 UTC
 
-New extensions published between 2026-11-03 06:19 UTC and 2026-11-03 08:19 UTC.
+New extensions published between 2026-11-03 07:19 UTC and 2026-11-03 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T08-19-27-869035Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T09-19-36-680355Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 07:14:52 | [clogmeter.clogmeter](https://marketplace.visualstudio.com/items?itemName=clogmeter.clogmeter) | Clogmeter – token weight for AGENTS.md… | 0.1.0 | See what's clogging your AI agent: local o200k_base token counts, heavy section… |
-| 2026-11-03 07:19:21 | [mdsolimansikder07.git-folder-manage](https://marketplace.visualstudio.com/items?itemName=mdsolimansikder07.git-folder-manage) | Git Folder Manager | 1.0.3 | Commit and push selected folders, files, or multi-selections to GitHub straight… |
-| 2026-11-03 07:24:40 | [raulkivi.ai-credits-analyzer](https://marketplace.visualstudio.com/items?itemName=raulkivi.ai-credits-analyzer) | AI Credits Analyzer | 0.1.0 | See where your GitHub Copilot Chat tokens and AI Credits go: prompt caching, pe… |
-| 2026-11-03 07:31:32 | [0use-TE.reverse-ports](https://marketplace.visualstudio.com/items?itemName=0use-TE.reverse-ports) | Reverse Ports | 1.0.1 | Manage SSH reverse port forwarding in the bottom panel so remote devices can ac… |
-| 2026-11-03 07:34:44 | [TheOnlySoftwareHub.codebud](https://marketplace.visualstudio.com/items?itemName=TheOnlySoftwareHub.codebud) | Codebud | 0.1.0 | IDE-native AI peer programming interview colleague for VS Code and Cursor |
-| 2026-11-03 07:41:53 | [vulkill.vulkill-security](https://marketplace.visualstudio.com/items?itemName=vulkill.vulkill-security) | VulKill Security — Auto-Shard Scanner,… | 1.2.0 | Tek tuşla Tam Cephanelik Auto-Shard paralel güvenlik taraması, 3 Katmanlı Gerçe… |
-| 2026-11-03 07:42:24 | [DedSec.dedsec](https://marketplace.visualstudio.com/items?itemName=DedSec.dedsec) | DedSec | 0.2.0 | Mostra vulnerabilidades de seguranca direto no editor, antes do commit. Traz o… |
-| 2026-11-03 07:52:44 | [WestCX.azure-vault-explorer](https://marketplace.visualstudio.com/items?itemName=WestCX.azure-vault-explorer) | Azure Vault Explorer | 0.2.1 | Browse and edit Azure Key Vault secrets across tenants, subscriptions, and vaul… |
-| 2026-11-03 08:00:00 | [Nouni2.ssh-smb-reveal](https://marketplace.visualstudio.com/items?itemName=Nouni2.ssh-smb-reveal) | Reveal SSH folders via SMB | 1.0.0 | VS Code extension that reveals SSH files and folders in Windows File Explorer t… |
-| 2026-11-03 08:05:23 | [alexis-pokrovski.structured-colors-of-ai](https://marketplace.visualstudio.com/items?itemName=alexis-pokrovski.structured-colors-of-ai) | Structured Colors of AI | 0.1.1 | A dark color theme with warm orange-red accents, generated from VS Code ThemeTu… |
-| 2026-11-03 08:08:22 | [safisa.githistory-plus](https://marketplace.visualstudio.com/items?itemName=safisa.githistory-plus) | GitHistory Plus | 0.1.1 | Git log, file, folder and line history with a commit graph, uncommitted changes… |
-| 2026-11-03 08:10:16 | [AndrsGarcaRamrez.salesforce-migration-validator-qa](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-migration-validator-qa) | Salesforce Migration Validator – Data R… | 0.1.0 | Validate a Salesforce data migration: reconcile your source CSV against the org… |
-| 2026-11-03 08:12:45 | [wirovi.neuralforge](https://marketplace.visualstudio.com/items?itemName=wirovi.neuralforge) | NeuralForge AI: YOLO & Cluster MLOps Su… | 0.0.3 | Enterprise AI MLOps suite for distributed YOLO26/v8 training, Optuna hyperparam… |
+| 2026-11-03 08:23:22 | [mackans95.source-control-changelist](https://marketplace.visualstudio.com/items?itemName=mackans95.source-control-changelist) | Changelist | 0.1.0 | PyCharm-style changelists in the Source Control view: only repositories with ch… |
+| 2026-11-03 08:29:53 | [FPTAIFACTORY.token-factory](https://marketplace.visualstudio.com/items?itemName=FPTAIFACTORY.token-factory) | Token Factory | 0.1.1 | Code / Cowork agent powered by opencode, preconfigured for FPT AI Factory. Past… |
+| 2026-11-03 08:30:36 | [yangjongwon.handide](https://marketplace.visualstudio.com/items?itemName=yangjongwon.handide) | handide: VS Code on your phone | 0.2.0 | Open this project on your phone: press the phone button, scan the QR code, and… |
+| 2026-11-03 08:33:16 | [macdara.questlog](https://marketplace.visualstudio.com/items?itemName=macdara.questlog) | Questlog | 1.0.0 | Where each parallel Claude Code session is: plan, step, branch. Reopen the unfi… |
+| 2026-11-03 08:48:48 | [Nouni2.ver-sync](https://marketplace.visualstudio.com/items?itemName=Nouni2.ver-sync) | Ver-Sync | 1.1.1 | A VS Code extension that synchronizes version numbers across selected project f… |
+| 2026-11-03 08:54:59 | [ziishaned.jetbrains-find-in-files](https://marketplace.visualstudio.com/items?itemName=ziishaned.jetbrains-find-in-files) | VS Code JetBrains Finder | 0.3.63 | Search your workspace with a live results list and code preview. |
+| 2026-11-03 08:55:54 | [sakshamarora1407.orgweave](https://marketplace.visualstudio.com/items?itemName=sakshamarora1407.orgweave) | OrgWeave | 1.0.0 | OrgWeave is a code visualizer for Salesforce: see how Apex, triggers and Lightn… |
+| 2026-11-03 08:55:59 | [HomeHub.homehub-miniapp](https://marketplace.visualstudio.com/items?itemName=HomeHub.homehub-miniapp) | HomeHub MiniApp | 0.1.0 | Tạo, chạy thử, đóng gói và xuất bản MiniApp lên HomeHub SuperApp ngay trong VS… |
+| 2026-11-03 09:04:24 | [VergilXiong.svn-blame-hover](https://marketplace.visualstudio.com/items?itemName=VergilXiong.svn-blame-hover) | SVN Blame Hover | 0.1.0 | 鼠标悬停在某一行时显示该行的 SVN 提交信息（作者、版本号、提交时间、提交日志）。 |
+| 2026-11-03 09:11:35 | [anish-miya.smart-selector-intellisense](https://marketplace.visualstudio.com/items?itemName=anish-miya.smart-selector-intellisense) | SelectorSync — HTML, CSS & JS IntelliSe… | 1.0.0 | Smart class and ID autocomplete, definitions, references and cross-file rename… |
 
 ## Data source
 
