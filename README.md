@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 01:20 UTC
+## Latest list — 2026-11-03 02:21 UTC
 
-New extensions published between 2026-11-02 23:20 UTC and 2026-11-03 01:20 UTC.
+New extensions published between 2026-11-03 00:21 UTC and 2026-11-03 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T01-20-53-040023Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T02-21-01-436292Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 00:14:47 | [nocturne-city.nocturne-city-theme](https://marketplace.visualstudio.com/items?itemName=nocturne-city.nocturne-city-theme) | Nocturne City | 0.3.0 | Ten dark VS Code themes inspired by cities after midnight: neon, rain, harbors,… |
-| 2026-11-03 00:35:19 | [saeris.markdown-file-tree](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-file-tree) | Markdown File Tree | 0.1.0 | Renders filetree code blocks as file trees in VSCode's markdown preview, like t… |
-| 2026-11-03 00:35:39 | [saeris.markdown-prompt](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-prompt) | Markdown AI Prompts | 0.1.0 | Renders prompt code blocks in VSCode's markdown preview as AI prompts to copy o… |
-| 2026-11-03 01:08:47 | [Happel.prob-language-extension](https://marketplace.visualstudio.com/items?itemName=Happel.prob-language-extension) | B/ProB Advanced Language Support | 0.1.0 | The B method and Event-B with ProB: diagnostics, proof obligations, hover, comp… |
+| 2026-11-03 01:39:54 | [ThomasAndrewSlater.databricks-sql-quickcheck](https://marketplace.visualstudio.com/items?itemName=ThomasAndrewSlater.databricks-sql-quickcheck) | Quickcheck for Databricks SQL | 0.3.0 | A Databricks SQL language mode whose highlighting understands backslash escapes… |
+| 2026-11-03 01:41:03 | [byteWorxs.aitrace](https://marketplace.visualstudio.com/items?itemName=byteWorxs.aitrace) | AItrace | 1.0.1 | Trace code you actually write — AI proposes, you type it. Code-aware typing pra… |
+| 2026-11-03 01:47:47 | [dnt294.ocean-light](https://marketplace.visualstudio.com/items?itemName=dnt294.ocean-light) | Ocean Light | 1.0.1 | A light theme with an ocean-blue accent, tuned for Rails, Go, Rust, JS/TS and M… |
+| 2026-11-03 01:52:42 | [shenghua.ymd-preview](https://marketplace.visualstudio.com/items?itemName=shenghua.ymd-preview) | Yuque YMD Preview · 语雀富文本预览 | 0.1.2 | Preview Yuque Markdown (.ymd) in VS Code with live updates, rich-text tables, c… |
+| 2026-11-03 02:02:08 | [petrichoral.night-owl-reforged-petrichoral](https://marketplace.visualstudio.com/items?itemName=petrichoral.night-owl-reforged-petrichoral) | Night Owl Reforged by Petrichoral | 2.2.4 | An actively maintained fork of Night Owl — same palette, with tab and workbench… |
 
 ## Data source
 

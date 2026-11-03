@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T01:39:54.563Z,ThomasAndrewSlater.databricks-sql-quickcheck,ThomasAndrewSlater,Quickcheck for Databricks SQL,0.3.0,"A Databricks SQL language mode whose highlighting understands backslash escapes, raw strings and notebook cells, plus instant, as-you-type structural syntax checks: brackets, quotes, commas, operators, CASE/END."
+2026-11-03T01:41:03.84Z,byteWorxs.aitrace,byteWorxs,AItrace,1.0.1,"Trace code you actually write — AI proposes, you type it. Code-aware typing practice inside the editor."
+2026-11-03T01:47:47.567Z,dnt294.ocean-light,dnt294,Ocean Light,1.0.1,"A light theme with an ocean-blue accent, tuned for Rails, Go, Rust, JS/TS and Markdown"
+2026-11-03T01:52:42.27Z,shenghua.ymd-preview,shenghua,Yuque YMD Preview · 语雀富文本预览,0.1.2,"Preview Yuque Markdown (.ymd) in VS Code with live updates, rich-text tables, colours and original column widths. 语雀 YMD 实时预览，保留表格样式，支持侧边预览与鼠标按钮。"
+2026-11-03T02:02:08.387Z,petrichoral.night-owl-reforged-petrichoral,petrichoral,Night Owl Reforged by Petrichoral,2.2.4,"An actively maintained fork of Night Owl — same palette, with tab and workbench states that are actually readable. Night, Light and No-Italics variants included. ✨"
