@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T21:28:26.543Z,patrickcorral.brace-notes,patrickcorral,Brace Notes,0.8.1,"Made for people learning to code: explains each { } block, each line, and every keyword the first time it appears."
+2026-11-03T21:33:47.677Z,joaotapparo.navy-red-theme,joaotapparo,Navy Red,1.0.0,A dark navy theme with bold red accents and gold highlights.
+2026-11-03T21:41:03.703Z,TaskoDev.vaelorapanel,TaskoDev,Vaelorapanel,1.0.0,"Task board, specs, and review queue for small development teams."
+2026-11-03T21:41:50.817Z,GitHub.copilot-evals,GitHub,GitHub Copilot Evals (Preview),0.22.8,Inspect GitHub Copilot customizations and run evals from one VS Code pane.
+2026-11-03T21:43:33.843Z,patrickcorral.ios-live-preview,patrickcorral,"iOS Live Preview (Xcode-style, for Windows)",0.9.9,"Live, as-you-type preview of real SwiftUI code in a phone-shaped canvas — no Swift toolchain or Xcode required. Views, modifiers, gradients, sheets, alerts, grids, SF Symbols and more."
+2026-11-03T21:48:31.42Z,patrickcorral.brace-block-colors,patrickcorral,Brace Block Colors,0.4.0,"Gives every { } block its own unique, semi-transparent background color so you can see each scope at a glance."
+2026-11-03T21:54:38.77Z,akilin.vscode-extras,akilin,VS Code Extras,0.1.1,Personal VS Code addons.
+2026-11-03T21:56:17.73Z,juanfraire.finder-tags-vscode,juanfraire,Finder Tags,0.1.0,Mirror macOS Finder tag colors in the VS Code Explorer. Finder stays the single source of truth.
+2026-11-03T21:59:28.92Z,sourceregistry.vm-manager,sourceregistry,VM Manager,0.2.0,"Manage virtual machines (Hyper-V, QEMU, Proxmox, ...) from VS Code: clusters, nodes, power actions, graphical and serial consoles."
+2026-11-03T21:59:30.883Z,sourceregistry.vm-manager-hyperv,sourceregistry,VM Manager – Hyper-V,0.2.0,"Hyper-V provider for VM Manager: manage the Hyper-V virtual machines on this Windows machine, with an interactive console and a serial console in the editor."
+2026-11-03T21:59:32.687Z,sourceregistry.vm-manager-qemu,sourceregistry,VM Manager – QEMU,0.2.0,QEMU provider for VM Manager: create and run QEMU virtual machines with graphical (noVNC) and serial consoles.
+2026-11-03T22:05:48.233Z,waityyy.cf-training-tools,waityyy,CF Training Tools,0.6.0,Codeforces 训练辅助：活动栏面板（当前题单/按钮）、周题单（CF+AtCoder+洛谷）、赛后复盘、题面 Markdown
