@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 00:20 UTC
+## Latest list — 2026-11-03 01:20 UTC
 
-New extensions published between 2026-11-02 22:20 UTC and 2026-11-03 00:20 UTC.
+New extensions published between 2026-11-02 23:20 UTC and 2026-11-03 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T00-20-09-655516Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T01-20-53-040023Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 23:22:38 | [tomeqs.codemap-3d](https://marketplace.visualstudio.com/items?itemName=tomeqs.codemap-3d) | CodeMap 3D | 0.2.2 | Interactive 3D map of your C# and TypeScript / JavaScript code: dependencies, a… |
-| 2026-11-02 23:35:43 | [Ghammes.hunkly](https://marketplace.visualstudio.com/items?itemName=Ghammes.hunkly) | Hunkly — Accept / Reject Git Changes In… | 0.5.0 | Cursor-style inline review of what changed in the open file vs GitHub (upstream… |
-| 2026-11-03 00:01:33 | [kiyozz.papyrus-toolchain](https://marketplace.visualstudio.com/items?itemName=kiyozz.papyrus-toolchain) | Papyrus Toolchain | 0.16.2 | Diagnostics, formatting and lints for Papyrus, the scripting language of Skyrim… |
-| 2026-11-03 00:03:07 | [ZalanShah.rainbow-xml](https://marketplace.visualstudio.com/items?itemName=ZalanShah.rainbow-xml) | Rainbow XML | 1.0.0 | Colors XML tags in rainbow order by nesting depth (or by tag name), highlights… |
+| 2026-11-03 00:14:47 | [nocturne-city.nocturne-city-theme](https://marketplace.visualstudio.com/items?itemName=nocturne-city.nocturne-city-theme) | Nocturne City | 0.3.0 | Ten dark VS Code themes inspired by cities after midnight: neon, rain, harbors,… |
+| 2026-11-03 00:35:19 | [saeris.markdown-file-tree](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-file-tree) | Markdown File Tree | 0.1.0 | Renders filetree code blocks as file trees in VSCode's markdown preview, like t… |
+| 2026-11-03 00:35:39 | [saeris.markdown-prompt](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-prompt) | Markdown AI Prompts | 0.1.0 | Renders prompt code blocks in VSCode's markdown preview as AI prompts to copy o… |
+| 2026-11-03 01:08:47 | [Happel.prob-language-extension](https://marketplace.visualstudio.com/items?itemName=Happel.prob-language-extension) | B/ProB Advanced Language Support | 0.1.0 | The B method and Event-B with ProB: diagnostics, proof obligations, hover, comp… |
 
 ## Data source
 

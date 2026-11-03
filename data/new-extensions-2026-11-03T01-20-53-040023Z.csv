@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T00:14:47.537Z,nocturne-city.nocturne-city-theme,nocturne-city,Nocturne City,0.3.0,"Ten dark VS Code themes inspired by cities after midnight: neon, rain, harbors, lanterns and moonlight."
+2026-11-03T00:35:19.387Z,saeris.markdown-file-tree,saeris,Markdown File Tree,0.1.0,"Renders filetree code blocks as file trees in VSCode's markdown preview, like the explorer: Seti icons, git status colors and folders that open and close, in the editor's theme"
+2026-11-03T00:35:39.607Z,saeris.markdown-prompt,saeris,Markdown AI Prompts,0.1.0,"Renders prompt code blocks in VSCode's markdown preview as AI prompts to copy or open in Claude, ChatGPT and other services, collapsed by default, in the editor's theme"
+2026-11-03T01:08:47.32Z,Happel.prob-language-extension,Happel,B/ProB Advanced Language Support,0.1.0,"The B method and Event-B with ProB: diagnostics, proof obligations, hover, completion and animation"
