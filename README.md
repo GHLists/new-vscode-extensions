@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 16:21 UTC
+## Latest list — 2026-11-03 17:20 UTC
 
-New extensions published between 2026-11-03 14:21 UTC and 2026-11-03 16:21 UTC.
+New extensions published between 2026-11-03 15:20 UTC and 2026-11-03 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T16-21-18-14371Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T17-20-44-411835Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 15:17:57 | [xelblch.double-shift-search-tabs](https://marketplace.visualstudio.com/items?itemName=xelblch.double-shift-search-tabs) | Double Shift Search Tabs | 1.0.0 | JetBrains-style Search Everywhere for VS Code: double Shift opens one palette f… |
-| 2026-11-03 15:23:57 | [pa-andreas.luna-image-tools](https://marketplace.visualstudio.com/items?itemName=pa-andreas.luna-image-tools) | Luna Image Editor: Crop, Resize, Conver… | 26.11.1 | Crop, resize, convert and compress images directly in VS Code. Remove backgroun… |
-| 2026-11-03 15:24:14 | [BrieucInc.csv-to-tableur](https://marketplace.visualstudio.com/items?itemName=BrieucInc.csv-to-tableur) | CSV to Tableur | 0.1.0 | Open CSV/TSV files as a spreadsheet: sorting, Excel-style filters, row count, s… |
-| 2026-11-03 15:29:25 | [Sintoo.italiaviva10](https://marketplace.visualstudio.com/items?itemName=Sintoo.italiaviva10) | ItaliaViva10 | 1.4.0 | IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello… |
-| 2026-11-03 15:31:22 | [hiago-patricio.aspnet-endpoints](https://marketplace.visualstudio.com/items?itemName=hiago-patricio.aspnet-endpoints) | ASP.NET Endpoints | 0.1.0 | Search ASP.NET Core endpoints (controllers and minimal APIs) by route or by rea… |
-| 2026-11-03 15:35:35 | [devastuxx.mr-visualizer](https://marketplace.visualstudio.com/items?itemName=devastuxx.mr-visualizer) | MR Visualizer | 1.0.0 | Review GitLab merge requests inside VS Code with a GitLab-style side-by-side di… |
-| 2026-11-03 15:53:11 | [pa-andreas.push-pull](https://marketplace.visualstudio.com/items?itemName=pa-andreas.push-pull) | Push & Pull: FTP & SFTP File Transfer | 26.11.4 | FTP, SFTP and WebDAV client for VS Code. Upload, download, sync folders and com… |
-| 2026-11-03 15:55:15 | [MarieAntonetteBacay.new-code-coverage](https://marketplace.visualstudio.com/items?itemName=MarieAntonetteBacay.new-code-coverage) | New Code Coverage Check | 1.0.0 | See your pull request's "Coverage on New Code" quality gate result in VS Code b… |
-| 2026-11-03 15:58:30 | [Skynex.skynex-docs](https://marketplace.visualstudio.com/items?itemName=Skynex.skynex-docs) | Skynex Docs | 1.0.0 | Sube y baja tus documentos Markdown de Skynex Docs (docs.skynex.es) sin salir d… |
-| 2026-11-03 16:03:05 | [dwertent.helm-workbench](https://marketplace.visualstudio.com/items?itemName=dwertent.helm-workbench) | Helm Workbench | 0.1.0 | Explore, write, lint, and preview Helm charts in Visual Studio Code. |
-| 2026-11-03 16:04:35 | [itanand.orbit-dev](https://marketplace.visualstudio.com/items?itemName=itanand.orbit-dev) | Orbit — understand and trust your Pytho… | 0.1.0 | Plain-language error explanations, fixes you approve, a safety net for AI-writt… |
-| 2026-11-03 16:07:55 | [korolserhii.justmycode-toggle](https://marketplace.visualstudio.com/items?itemName=korolserhii.justmycode-toggle) | Just My Code Toggle for Python | 0.1.0 | Switch the Python debugger's justMyCode on or off with one click in the status… |
+| 2026-11-03 16:14:50 | [razor-formatter.razor-code-formatter](https://marketplace.visualstudio.com/items?itemName=razor-formatter.razor-code-formatter) | Razor Formatter | 0.1.0 | Prettier-grade Razor (.cshtml / .razor) formatter for VS Code, Cursor, and Anti… |
+| 2026-11-03 16:18:09 | [CBx0.pdmllp](https://marketplace.visualstudio.com/items?itemName=CBx0.pdmllp) | PDML Language Pack | 0.1.0 | VS Code extension for the PDML Language |
+| 2026-11-03 16:22:07 | [FYddddss.stepik-vscode-fork](https://marketplace.visualstudio.com/items?itemName=FYddddss.stepik-vscode-fork) | Stepik Fork | 0.4.1 | Fork of Stepik for VS Code: solve Stepik problems, read discussions and post co… |
+| 2026-11-03 16:25:16 | [mrashutoshnigam.pin-and-hide](https://marketplace.visualstudio.com/items?itemName=mrashutoshnigam.pin-and-hide) | Pin & Hide | 0.1.0 | Visual Studio-style pin/unpin auto-hide for the Side Bar, Panel and Secondary S… |
+| 2026-11-03 16:27:00 | [jakobsaadbye.saad](https://marketplace.visualstudio.com/items?itemName=jakobsaadbye.saad) | Saad | 0.3.0 | The Saad language: highlighting, errors as you type, go to definition, find ref… |
+| 2026-11-03 16:33:13 | [kmartin26.pigeon-sync](https://marketplace.visualstudio.com/items?itemName=kmartin26.pigeon-sync) | Pigeon - SFTP/FTP Sync | 1.17.2 | Carry your files to remote servers over SFTP/FTP (maintained fork of Natizyskun… |
+| 2026-11-03 16:40:38 | [roclang.roc](https://marketplace.visualstudio.com/items?itemName=roclang.roc) | Roc | 0.1.0 | Official Roc language support: syntax highlighting, diagnostics, formatting, ho… |
+| 2026-11-03 16:45:15 | [asditech.aichat2026-vscode](https://marketplace.visualstudio.com/items?itemName=asditech.aichat2026-vscode) | AI Chat 2026 – VS Code | 1.0.0 | Secure VS Code integration for AI Chat 2026 Pro Plus via the local PluginBridge. |
+| 2026-11-03 16:53:06 | [ziishaned.jetbrains-replace-in-files](https://marketplace.visualstudio.com/items?itemName=ziishaned.jetbrains-replace-in-files) | JetBrains Replace in Files for VS Code | 0.1.12 | Find and replace across your workspace with live results and code preview. |
+| 2026-11-03 17:09:11 | [ConnorSmith.cerberus-tokens](https://marketplace.visualstudio.com/items?itemName=ConnorSmith.cerberus-tokens) | Cerberus Tokens | 0.5.5 | Project-aware design token completion, hovers and insertion for Cerberus and Pa… |
+| 2026-11-03 17:11:55 | [nanyx.nanyx](https://marketplace.visualstudio.com/items?itemName=nanyx.nanyx) | Nanyx | 0.1.0 | Nanyx language support: syntax highlighting and diagnostics |
 
 ## Data source
 
