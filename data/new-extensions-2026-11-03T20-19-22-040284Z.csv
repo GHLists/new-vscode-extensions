@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T19:13:35.413Z,ghielectronics.endpointvscdebugger,ghielectronics,Endpoint Debugger,0.3.0,"Create, run and debug .NET, Python and C/C++ programs on the GHI Electronics Endpoint board, over USB."
+2026-11-03T19:28:39.25Z,anzil.notechat,anzil,NoteChat,0.1.0,"Notion-style chat pages for code, images, files, headings and paragraphs. Create unlimited chats and join any chat with a 10-digit code."
+2026-11-03T19:30:48.41Z,NAVIGlobal.navi-vazifalar,NAVIGlobal,NAVI vazifalar,0.1.0,"Amaliy va uyga vazifalarni VS Code'da bajarish, bir bosishda topshirish va NAVI AI yordamchisi — NAVI o'quvchilari uchun."
+2026-11-03T19:33:08.843Z,Novis-Lang.nvs,Novis-Lang,Novis-Lang,0.0.2,"Novis language support: syntax, diagnostics, completion and navigation for .nvs files."
+2026-11-03T19:54:35.543Z,Nosfur.sofi-code,Nosfur,SofiCode,0.19.3,"A Sofi, assistente de IA da Findes, no VS Code: chat e agente de código que lê, edita e executa comandos com a sua aprovação."
+2026-11-03T19:56:39.003Z,swayamprabhu2005.vscode-gitghost,swayamprabhu2005,GitGhost - Zero-Token Offline Git Automation & Controller,1.0.0,"Local, zero-credit natural language Git controller. Split dirty working trees into logical commits, generate human or conventional messages, initialize repos, and orchestrate Git workflows 100% offline."
+2026-11-03T20:05:31.207Z,anujvaishampayan.orglens,anujvaishampayan,"OrgLens for Salesforce — Debug Logs, Performance, SOQL, REST & Org Setup",1.0.0,"Live-tail and analyze Apex debug logs (performance profiler, flame chart, call tree, SOQL/DML insights), manage trace flags for any user, query and edit records inline, test REST APIs and inspect org settings — all inside VS Code."
