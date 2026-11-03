@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T14:18:56.467Z,surajitbasak109.extension-inventory,surajitbasak109,Extension Inventory,0.1.0,"Inventory your installed VS Code extensions: export them with category, rating, installs and trust details to Excel, CSV or a plain ID list."
+2026-11-03T14:19:26.353Z,500TSSD.news,500TSSD,每日热点新闻 · 真实版,1.7.2,内置每日热点新闻（18 个板块，纯文字，离线可读）：每板块 10 条公开 RSS 真实新闻，摘要 200–400 字并保留原文链接；另有 30 条真实热搜（合并最近 7 天）、历史保留、日期跳转、全球股市与黄金行情表。
+2026-11-03T14:31:07.177Z,Rellor.yarrr,Rellor,YARRR,0.0.4,Mistype 'yarn' as 'yar' in the terminal and get a hearty YARRRRRR 🦜
+2026-11-03T14:37:25.147Z,alikhawaja.workbook-lens,alikhawaja,Workbook Lens - Excel & Data Viewer,0.2.1,"Explore Excel workbooks with formatting, frozen panes, sorting, filtering, and selection statistics. Local and read-only."
+2026-11-03T14:56:54.727Z,Glitch-Sound.glitchboard,Glitch-Sound,GlitchBoard,0.0.1,個人用プロジェクト管理ツール
+2026-11-03T14:58:09.297Z,JoaquinBanchero.atlas-plantuml,JoaquinBanchero,Atlas PlantUML,0.1.0,"Interactive PlantUML preview with dark mode, layout selector, search, minimap, Arrange and bundled PlantUML. Based on Plan UML by Justus Karlsson (MIT)."
+2026-11-03T15:03:04.493Z,vlkoti.acpcode,vlkoti,acpcode,0.1.1,Yet another ACP-based agentic chat
+2026-11-03T15:08:16.29Z,derDere.makefiles-runner-derdere-fork,derDere,Makefiles Runner - derDere Fork,3.1.0,Make runner for VsCode. Simplify your development by easily running your makefiles commands directly from your IDE interface.
+2026-11-03T15:09:25.61Z,DawChae.tsx-splitter,DawChae,TS Knife — TSX Component Splitter,0.1.1,"Safely split large React TSX pages into reviewable components. Preview changes, type-check, format, and learn FSD."
+2026-11-03T15:15:16.813Z,TrucoVale4.trucovale4,TrucoVale4,Truco Vale 4,0.2.0,"Jugá al truco argentino desde la barra lateral de VS Code, contra la CPU u online contra un amigo."
