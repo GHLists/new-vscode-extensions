@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T05:18:11.053Z,Parzivall.event-horizon-deep-space,Parzivall,Event Horizon Deep Space Theme,1.0.0,"A true-black theme with an accretion-orange accent and amber-phosphor syntax, plus Nerd Font file icons, chamfered Hull product icons, comment-tag pills, inline problems, git blame and folded-line counts."
+2026-11-03T05:23:47.913Z,aditi-24-coder.agentic-whiteboard,aditi-24-coder,Agentic Whiteboard,0.1.0,"A whiteboard in VS Code that your AI (Claude, Copilot, Codex, Cursor, Cline…) draws on over MCP. Create a .whiteboard file and just ask."
+2026-11-03T05:27:30.777Z,StevanGavrilovic.edi-pregled,StevanGavrilovic,Invoice Preview,0.4.0,"Live invoice preview for X12, EDIFACT, UBL / Peppol / SEF, CII, ZUGFeRD / Factur-X, XML and CSV. Field explanations in English and Serbian. Fully offline: nothing is sent or stored."
+2026-11-03T05:28:08.383Z,willdo.willdo,willdo,willdo,0.0.16,AI coding workspaces and execution support in VS Code.
+2026-11-03T05:56:37.937Z,macdara.cornerman,macdara,cornerman,0.7.0,Browse your Claude Code handovers and resume one in a fresh conversation.
+2026-11-03T06:13:34.447Z,EvanZ.track-changes-vs-style,EvanZ,Track Changes (Visual Studio style),0.2.1,"Visual Studio style track-changes gutter: yellow bar for unsaved edits, green bar for saved edits since file was opened. No Git required."
