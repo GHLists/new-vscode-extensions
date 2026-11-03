@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 17:20 UTC
+## Latest list — 2026-11-03 18:20 UTC
 
-New extensions published between 2026-11-03 15:20 UTC and 2026-11-03 17:20 UTC.
+New extensions published between 2026-11-03 16:20 UTC and 2026-11-03 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T17-20-44-411835Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T18-20-55-622917Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 16:14:50 | [razor-formatter.razor-code-formatter](https://marketplace.visualstudio.com/items?itemName=razor-formatter.razor-code-formatter) | Razor Formatter | 0.1.0 | Prettier-grade Razor (.cshtml / .razor) formatter for VS Code, Cursor, and Anti… |
-| 2026-11-03 16:18:09 | [CBx0.pdmllp](https://marketplace.visualstudio.com/items?itemName=CBx0.pdmllp) | PDML Language Pack | 0.1.0 | VS Code extension for the PDML Language |
-| 2026-11-03 16:22:07 | [FYddddss.stepik-vscode-fork](https://marketplace.visualstudio.com/items?itemName=FYddddss.stepik-vscode-fork) | Stepik Fork | 0.4.1 | Fork of Stepik for VS Code: solve Stepik problems, read discussions and post co… |
-| 2026-11-03 16:25:16 | [mrashutoshnigam.pin-and-hide](https://marketplace.visualstudio.com/items?itemName=mrashutoshnigam.pin-and-hide) | Pin & Hide | 0.1.0 | Visual Studio-style pin/unpin auto-hide for the Side Bar, Panel and Secondary S… |
-| 2026-11-03 16:27:00 | [jakobsaadbye.saad](https://marketplace.visualstudio.com/items?itemName=jakobsaadbye.saad) | Saad | 0.3.0 | The Saad language: highlighting, errors as you type, go to definition, find ref… |
-| 2026-11-03 16:33:13 | [kmartin26.pigeon-sync](https://marketplace.visualstudio.com/items?itemName=kmartin26.pigeon-sync) | Pigeon - SFTP/FTP Sync | 1.17.2 | Carry your files to remote servers over SFTP/FTP (maintained fork of Natizyskun… |
-| 2026-11-03 16:40:38 | [roclang.roc](https://marketplace.visualstudio.com/items?itemName=roclang.roc) | Roc | 0.1.0 | Official Roc language support: syntax highlighting, diagnostics, formatting, ho… |
-| 2026-11-03 16:45:15 | [asditech.aichat2026-vscode](https://marketplace.visualstudio.com/items?itemName=asditech.aichat2026-vscode) | AI Chat 2026 – VS Code | 1.0.0 | Secure VS Code integration for AI Chat 2026 Pro Plus via the local PluginBridge. |
-| 2026-11-03 16:53:06 | [ziishaned.jetbrains-replace-in-files](https://marketplace.visualstudio.com/items?itemName=ziishaned.jetbrains-replace-in-files) | JetBrains Replace in Files for VS Code | 0.1.12 | Find and replace across your workspace with live results and code preview. |
-| 2026-11-03 17:09:11 | [ConnorSmith.cerberus-tokens](https://marketplace.visualstudio.com/items?itemName=ConnorSmith.cerberus-tokens) | Cerberus Tokens | 0.5.5 | Project-aware design token completion, hovers and insertion for Cerberus and Pa… |
-| 2026-11-03 17:11:55 | [nanyx.nanyx](https://marketplace.visualstudio.com/items?itemName=nanyx.nanyx) | Nanyx | 0.1.0 | Nanyx language support: syntax highlighting and diagnostics |
+| 2026-11-03 17:14:34 | [AmrKhaledEldhshan.commitguard-kynsec](https://marketplace.visualstudio.com/items?itemName=AmrKhaledEldhshan.commitguard-kynsec) | CommitGuard Security Scanner (KynSec) | 0.1.1 | Offline-first CommitGuard security diagnostics and quick fixes. |
+| 2026-11-03 17:35:06 | [lingchen.pyside-iconify](https://marketplace.visualstudio.com/items?itemName=lingchen.pyside-iconify) | %pyside-iconify.displayName% | 1.0.0 | %pyside-iconify.description% |
+| 2026-11-03 17:44:45 | [zecro.archive-desk](https://marketplace.visualstudio.com/items?itemName=zecro.archive-desk) | Archive Desk Lite: Zip / VSIX / JAR / T… | 0.1.1 | Browse and open files inside zip, jar, vsix, tar and tar.gz/tgz without extract… |
+| 2026-11-03 17:53:36 | [benhouston3d.ies-vscode-extension](https://marketplace.visualstudio.com/items?itemName=benhouston3d.ies-vscode-extension) | IES and LDT Light Viewer | 1.0.0 | Preview IES and EULUMDAT lighting distributions on a floor and wall with an int… |
+| 2026-11-03 18:08:52 | [amitkumarp19.copilot-chat-exporter](https://marketplace.visualstudio.com/items?itemName=amitkumarp19.copilot-chat-exporter) | Copilot Chat Exporter | 0.1.0 | Export local GitHub Copilot chat sessions as styled HTML. |
+| 2026-11-03 18:10:19 | [ulain.marikai](https://marketplace.visualstudio.com/items?itemName=ulain.marikai) | Marikai | 1.0.0 | A dark Monokai-inspired theme with slightly darker side panels, menus and toolb… |
+| 2026-11-03 18:10:35 | [nextcli.nextcli](https://marketplace.visualstudio.com/items?itemName=nextcli.nextcli) | NextCLI: Bring Your Own Model AI Agent | 1.4.3 | The open-source AI coding agent. Your model and API key. No account. |
 
 ## Data source
 
