@@ -12,22 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 07:20 UTC
+## Latest list — 2026-11-03 08:19 UTC
 
-New extensions published between 2026-11-03 05:20 UTC and 2026-11-03 07:20 UTC.
+New extensions published between 2026-11-03 06:19 UTC and 2026-11-03 08:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T07-20-13-001386Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T08-19-27-869035Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 06:14:50 | [AnanTamas.chartdb-local](https://marketplace.visualstudio.com/items?itemName=AnanTamas.chartdb-local) | ChartDB Local | 0.2.2 | Run ChartDB in VS Code and push or pull workspace changes with GitHub. |
-| 2026-11-03 06:42:16 | [hommy36.stm32-easy-tool-kit](https://marketplace.visualstudio.com/items?itemName=hommy36.stm32-easy-tool-kit) | STM32 Easy Tool Kit | 0.6.4 | Visual STM32 CMake tools: prepare tools, build, flash and debug natively. |
-| 2026-11-03 06:43:01 | [chuyongsik-gse.clausereader-vscode](https://marketplace.visualstudio.com/items?itemName=chuyongsik-gse.clausereader-vscode) | ClauseReader | 1.4.1 | Standalone VS Code document reader adapted from ClauseReader 1.4.0. |
-| 2026-11-03 06:43:23 | [ukown812.hack-the-algorithms](https://marketplace.visualstudio.com/items?itemName=ukown812.hack-the-algorithms) | Hack The Algorithms | 0.0.1 | Hack the Algorithms in your own way |
-| 2026-11-03 06:46:45 | [sumit2424.code-arcade](https://marketplace.visualstudio.com/items?itemName=sumit2424.code-arcade) | Code Arcade | 0.1.0 | Play small games while your AI coding assistant works. |
-| 2026-11-03 06:55:42 | [bhu.amo-language](https://marketplace.visualstudio.com/items?itemName=bhu.amo-language) | AMO for OpenScape 4000 / HiPath 4000 | 1.0.0 | Syntax highlighting, snippets and colorblind-friendly themes for AMO scripts an… |
-| 2026-11-03 07:03:33 | [ArmanTaherian.codex-usage-reset](https://marketplace.visualstudio.com/items?itemName=ArmanTaherian.codex-usage-reset) | Codex Usage Reset | 0.1.2 | Status bar for Codex 5-hour and weekly usage, time until reset, session context… |
-| 2026-11-03 07:06:22 | [RCSN.hpm-sdk-explorer](https://marketplace.visualstudio.com/items?itemName=RCSN.hpm-sdk-explorer) | HPM SDK Explorer | 0.1.0 | Visually select HPM SDK examples, boards, build and debug settings with CMake T… |
+| 2026-11-03 07:14:52 | [clogmeter.clogmeter](https://marketplace.visualstudio.com/items?itemName=clogmeter.clogmeter) | Clogmeter – token weight for AGENTS.md… | 0.1.0 | See what's clogging your AI agent: local o200k_base token counts, heavy section… |
+| 2026-11-03 07:19:21 | [mdsolimansikder07.git-folder-manage](https://marketplace.visualstudio.com/items?itemName=mdsolimansikder07.git-folder-manage) | Git Folder Manager | 1.0.3 | Commit and push selected folders, files, or multi-selections to GitHub straight… |
+| 2026-11-03 07:24:40 | [raulkivi.ai-credits-analyzer](https://marketplace.visualstudio.com/items?itemName=raulkivi.ai-credits-analyzer) | AI Credits Analyzer | 0.1.0 | See where your GitHub Copilot Chat tokens and AI Credits go: prompt caching, pe… |
+| 2026-11-03 07:31:32 | [0use-TE.reverse-ports](https://marketplace.visualstudio.com/items?itemName=0use-TE.reverse-ports) | Reverse Ports | 1.0.1 | Manage SSH reverse port forwarding in the bottom panel so remote devices can ac… |
+| 2026-11-03 07:34:44 | [TheOnlySoftwareHub.codebud](https://marketplace.visualstudio.com/items?itemName=TheOnlySoftwareHub.codebud) | Codebud | 0.1.0 | IDE-native AI peer programming interview colleague for VS Code and Cursor |
+| 2026-11-03 07:41:53 | [vulkill.vulkill-security](https://marketplace.visualstudio.com/items?itemName=vulkill.vulkill-security) | VulKill Security — Auto-Shard Scanner,… | 1.2.0 | Tek tuşla Tam Cephanelik Auto-Shard paralel güvenlik taraması, 3 Katmanlı Gerçe… |
+| 2026-11-03 07:42:24 | [DedSec.dedsec](https://marketplace.visualstudio.com/items?itemName=DedSec.dedsec) | DedSec | 0.2.0 | Mostra vulnerabilidades de seguranca direto no editor, antes do commit. Traz o… |
+| 2026-11-03 07:52:44 | [WestCX.azure-vault-explorer](https://marketplace.visualstudio.com/items?itemName=WestCX.azure-vault-explorer) | Azure Vault Explorer | 0.2.1 | Browse and edit Azure Key Vault secrets across tenants, subscriptions, and vaul… |
+| 2026-11-03 08:00:00 | [Nouni2.ssh-smb-reveal](https://marketplace.visualstudio.com/items?itemName=Nouni2.ssh-smb-reveal) | Reveal SSH folders via SMB | 1.0.0 | VS Code extension that reveals SSH files and folders in Windows File Explorer t… |
+| 2026-11-03 08:05:23 | [alexis-pokrovski.structured-colors-of-ai](https://marketplace.visualstudio.com/items?itemName=alexis-pokrovski.structured-colors-of-ai) | Structured Colors of AI | 0.1.1 | A dark color theme with warm orange-red accents, generated from VS Code ThemeTu… |
+| 2026-11-03 08:08:22 | [safisa.githistory-plus](https://marketplace.visualstudio.com/items?itemName=safisa.githistory-plus) | GitHistory Plus | 0.1.1 | Git log, file, folder and line history with a commit graph, uncommitted changes… |
+| 2026-11-03 08:10:16 | [AndrsGarcaRamrez.salesforce-migration-validator-qa](https://marketplace.visualstudio.com/items?itemName=AndrsGarcaRamrez.salesforce-migration-validator-qa) | Salesforce Migration Validator – Data R… | 0.1.0 | Validate a Salesforce data migration: reconcile your source CSV against the org… |
+| 2026-11-03 08:12:45 | [wirovi.neuralforge](https://marketplace.visualstudio.com/items?itemName=wirovi.neuralforge) | NeuralForge AI: YOLO & Cluster MLOps Su… | 0.0.3 | Enterprise AI MLOps suite for distributed YOLO26/v8 training, Optuna hyperparam… |
 
 ## Data source
 
