@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T09:16:06.5Z,archibot.archibot-runtime-java11-tomcat9,archibot,Archibot Runtime Java 11 / Tomcat 9,1.0.1,"Platform-specific Java, Gradle and Tomcat runtime for Archibot."
+2026-11-03T09:16:10.717Z,archibot.archibot-runtime-java21-tomcat10,archibot,Archibot Runtime Java 21 / Tomcat 10,1.0.1,"Platform-specific Java, Gradle and Tomcat runtime for Archibot."
+2026-11-03T09:34:53.163Z,zeealpha-com.roku-studio,zeealpha-com,Roku Studio,1.1.0,"Find Roku devices, sideload your channel, and drive the TV from your keyboard - with live preview, crash diagnostics and an MCP server for AI agents."
+2026-11-03T09:44:27.923Z,magnusr9.openapi-json-schema-validator,magnusr9,OpenAPI & JSON Schema Validator Studio (by MagnusR9),1.0.0,"Validate OpenAPI 3.0/3.1 specs and JSON Schemas (Draft-07, 2020-12) with instant diagnostics and jump-to-error navigation."
+2026-11-03T09:58:14.883Z,vshulcz.deja-status,vshulcz,"deja-vu — Claude Code, Cursor, Codex & OpenCode Memory",0.23.5,"Local cross-agent memory status bar for VS Code, Cursor, Windsurf, Antigravity, Trae and Kiro. Indexes sessions from 43 coding agents with one Go binary and no LLM."
+2026-11-03T10:13:56.98Z,guotianquan.adb-screenshot-helper,guotianquan,图色助手,0.0.1,图色助手：基于 ADB 的安卓设备截图、控件树查看、坐标标记取色、画面拖动与小图裁剪自动命名保存工具

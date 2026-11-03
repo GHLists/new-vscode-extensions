@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 09:19 UTC
+## Latest list — 2026-11-03 10:20 UTC
 
-New extensions published between 2026-11-03 07:19 UTC and 2026-11-03 09:19 UTC.
+New extensions published between 2026-11-03 08:20 UTC and 2026-11-03 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T09-19-36-680355Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T10-20-50-098047Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 08:23:22 | [mackans95.source-control-changelist](https://marketplace.visualstudio.com/items?itemName=mackans95.source-control-changelist) | Changelist | 0.1.0 | PyCharm-style changelists in the Source Control view: only repositories with ch… |
-| 2026-11-03 08:29:53 | [FPTAIFACTORY.token-factory](https://marketplace.visualstudio.com/items?itemName=FPTAIFACTORY.token-factory) | Token Factory | 0.1.1 | Code / Cowork agent powered by opencode, preconfigured for FPT AI Factory. Past… |
-| 2026-11-03 08:30:36 | [yangjongwon.handide](https://marketplace.visualstudio.com/items?itemName=yangjongwon.handide) | handide: VS Code on your phone | 0.2.0 | Open this project on your phone: press the phone button, scan the QR code, and… |
-| 2026-11-03 08:33:16 | [macdara.questlog](https://marketplace.visualstudio.com/items?itemName=macdara.questlog) | Questlog | 1.0.0 | Where each parallel Claude Code session is: plan, step, branch. Reopen the unfi… |
-| 2026-11-03 08:48:48 | [Nouni2.ver-sync](https://marketplace.visualstudio.com/items?itemName=Nouni2.ver-sync) | Ver-Sync | 1.1.1 | A VS Code extension that synchronizes version numbers across selected project f… |
-| 2026-11-03 08:54:59 | [ziishaned.jetbrains-find-in-files](https://marketplace.visualstudio.com/items?itemName=ziishaned.jetbrains-find-in-files) | VS Code JetBrains Finder | 0.3.63 | Search your workspace with a live results list and code preview. |
-| 2026-11-03 08:55:54 | [sakshamarora1407.orgweave](https://marketplace.visualstudio.com/items?itemName=sakshamarora1407.orgweave) | OrgWeave | 1.0.0 | OrgWeave is a code visualizer for Salesforce: see how Apex, triggers and Lightn… |
-| 2026-11-03 08:55:59 | [HomeHub.homehub-miniapp](https://marketplace.visualstudio.com/items?itemName=HomeHub.homehub-miniapp) | HomeHub MiniApp | 0.1.0 | Tạo, chạy thử, đóng gói và xuất bản MiniApp lên HomeHub SuperApp ngay trong VS… |
-| 2026-11-03 09:04:24 | [VergilXiong.svn-blame-hover](https://marketplace.visualstudio.com/items?itemName=VergilXiong.svn-blame-hover) | SVN Blame Hover | 0.1.0 | 鼠标悬停在某一行时显示该行的 SVN 提交信息（作者、版本号、提交时间、提交日志）。 |
-| 2026-11-03 09:11:35 | [anish-miya.smart-selector-intellisense](https://marketplace.visualstudio.com/items?itemName=anish-miya.smart-selector-intellisense) | SelectorSync — HTML, CSS & JS IntelliSe… | 1.0.0 | Smart class and ID autocomplete, definitions, references and cross-file rename… |
+| 2026-11-03 09:16:06 | [archibot.archibot-runtime-java11-tomcat9](https://marketplace.visualstudio.com/items?itemName=archibot.archibot-runtime-java11-tomcat9) | Archibot Runtime Java 11 / Tomcat 9 | 1.0.1 | Platform-specific Java, Gradle and Tomcat runtime for Archibot. |
+| 2026-11-03 09:16:10 | [archibot.archibot-runtime-java21-tomcat10](https://marketplace.visualstudio.com/items?itemName=archibot.archibot-runtime-java21-tomcat10) | Archibot Runtime Java 21 / Tomcat 10 | 1.0.1 | Platform-specific Java, Gradle and Tomcat runtime for Archibot. |
+| 2026-11-03 09:34:53 | [zeealpha-com.roku-studio](https://marketplace.visualstudio.com/items?itemName=zeealpha-com.roku-studio) | Roku Studio | 1.1.0 | Find Roku devices, sideload your channel, and drive the TV from your keyboard -… |
+| 2026-11-03 09:44:27 | [magnusr9.openapi-json-schema-validator](https://marketplace.visualstudio.com/items?itemName=magnusr9.openapi-json-schema-validator) | OpenAPI & JSON Schema Validator Studio… | 1.0.0 | Validate OpenAPI 3.0/3.1 specs and JSON Schemas (Draft-07, 2020-12) with instan… |
+| 2026-11-03 09:58:14 | [vshulcz.deja-status](https://marketplace.visualstudio.com/items?itemName=vshulcz.deja-status) | deja-vu — Claude Code, Cursor, Codex &… | 0.23.5 | Local cross-agent memory status bar for VS Code, Cursor, Windsurf, Antigravity,… |
+| 2026-11-03 10:13:56 | [guotianquan.adb-screenshot-helper](https://marketplace.visualstudio.com/items?itemName=guotianquan.adb-screenshot-helper) | 图色助手 | 0.0.1 | 图色助手：基于 ADB 的安卓设备截图、控件树查看、坐标标记取色、画面拖动与小图裁剪自动命名保存工具 |
 
 ## Data source
 
