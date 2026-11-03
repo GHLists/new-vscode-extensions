@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T22:28:12.457Z,CAC.ccc-vscode,CAC,Customer Command Center,0.1.1,"Account-team operations and opportunity guidance for TLC MultiAgent Assist, inside VS Code."
+2026-11-03T22:39:17.667Z,MishaLestev.SQLestev,MishaLestev,SQLestev — SQL Diagrams,0.1.0,"Live ERD diagram of the SQL file you're editing, beside the editor. Share it as a link."
+2026-11-03T22:51:58.457Z,NiklasWeiblen.flutter-dependency-override-helper,NiklasWeiblen,Flutter Dependency Override Helper,0.1.0,Quick insert local or git dependency_overrides in pubspec
