@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 20:19 UTC
+## Latest list — 2026-11-03 21:20 UTC
 
-New extensions published between 2026-11-03 18:19 UTC and 2026-11-03 20:19 UTC.
+New extensions published between 2026-11-03 19:20 UTC and 2026-11-03 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T20-19-22-040284Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T21-20-17-932738Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 19:13:35 | [ghielectronics.endpointvscdebugger](https://marketplace.visualstudio.com/items?itemName=ghielectronics.endpointvscdebugger) | Endpoint Debugger | 0.3.0 | Create, run and debug .NET, Python and C/C++ programs on the GHI Electronics En… |
-| 2026-11-03 19:28:39 | [anzil.notechat](https://marketplace.visualstudio.com/items?itemName=anzil.notechat) | NoteChat | 0.1.0 | Notion-style chat pages for code, images, files, headings and paragraphs. Creat… |
-| 2026-11-03 19:30:48 | [NAVIGlobal.navi-vazifalar](https://marketplace.visualstudio.com/items?itemName=NAVIGlobal.navi-vazifalar) | NAVI vazifalar | 0.1.0 | Amaliy va uyga vazifalarni VS Code'da bajarish, bir bosishda topshirish va NAVI… |
-| 2026-11-03 19:33:08 | [Novis-Lang.nvs](https://marketplace.visualstudio.com/items?itemName=Novis-Lang.nvs) | Novis-Lang | 0.0.2 | Novis language support: syntax, diagnostics, completion and navigation for .nvs… |
-| 2026-11-03 19:54:35 | [Nosfur.sofi-code](https://marketplace.visualstudio.com/items?itemName=Nosfur.sofi-code) | SofiCode | 0.19.3 | A Sofi, assistente de IA da Findes, no VS Code: chat e agente de código que lê,… |
-| 2026-11-03 19:56:39 | [swayamprabhu2005.vscode-gitghost](https://marketplace.visualstudio.com/items?itemName=swayamprabhu2005.vscode-gitghost) | GitGhost - Zero-Token Offline Git Autom… | 1.0.0 | Local, zero-credit natural language Git controller. Split dirty working trees i… |
-| 2026-11-03 20:05:31 | [anujvaishampayan.orglens](https://marketplace.visualstudio.com/items?itemName=anujvaishampayan.orglens) | OrgLens for Salesforce — Debug Logs, Pe… | 1.0.0 | Live-tail and analyze Apex debug logs (performance profiler, flame chart, call… |
+| 2026-11-03 20:18:42 | [Nosfur.csv-extended](https://marketplace.visualstudio.com/items?itemName=Nosfur.csv-extended) | CSV Extended — Tabular & SQL Studio | 0.2.1 | Universal high-performance tabular viewer, editor, and SQL query engine for CSV… |
+| 2026-11-03 20:24:02 | [nimblescape.nimblescape-course](https://marketplace.visualstudio.com/items?itemName=nimblescape.nimblescape-course) | nimblescape Course | 0.1.0 | The files of a course in a Git repository in one form for people, AI agents and… |
+| 2026-11-03 20:26:30 | [inabox.imx-devtool-agent](https://marketplace.visualstudio.com/items?itemName=inabox.imx-devtool-agent) | i.MX Devtool Agent | 0.1.0 | Container side of i.MX Devtool: attaches forwarded USB devices to vhci_hcd and… |
+| 2026-11-03 20:26:33 | [inabox.imx-devtool](https://marketplace.visualstudio.com/items?itemName=inabox.imx-devtool) | i.MX Devtool | 0.1.0 | Use a locally connected i.MX board (USB serial download for uuu, UARTs) from a… |
+| 2026-11-03 20:30:11 | [victor-rentea.human-review](https://marketplace.visualstudio.com/items?itemName=victor-rentea.human-review) | Human Review | 0.1.1 | The VS Code end of a /human-review page: every code reference in the review ope… |
+| 2026-11-03 21:02:41 | [Profitlich.prosonata-vscode-tools](https://marketplace.visualstudio.com/items?itemName=Profitlich.prosonata-vscode-tools) | ProSonata Tools | 1.0.0 | Connects VS Code with ProSonata. Time tracking bound to commits and branches. |
+| 2026-11-03 21:13:03 | [fonetel.light-modern-2026-ai-mix](https://marketplace.visualstudio.com/items?itemName=fonetel.light-modern-2026-ai-mix) | Light Modern 2026 (AI Mix) | 1.0.0 | A light VS Code theme combining the Light Modern workbench with Light 2026 edit… |
 
 ## Data source
 
