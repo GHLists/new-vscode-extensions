@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-02T23:22:38.537Z,tomeqs.codemap-3d,tomeqs,CodeMap 3D,0.2.2,"Interactive 3D map of your C# and TypeScript / JavaScript code: dependencies, architecture layers, DI lifetimes, call flows and sequence diagrams, one click away from the code."
+2026-11-02T23:35:43.2Z,Ghammes.hunkly,Ghammes,Hunkly — Accept / Reject Git Changes Inline,0.5.0,"Cursor-style inline review of what changed in the open file vs GitHub (upstream branch), HEAD or the index. Removed lines as red rows, added lines in green, mine / incoming / conflict classification, and Accept or Reject on every hunk with one click or one shortcut."
+2026-11-03T00:01:33.633Z,kiyozz.papyrus-toolchain,kiyozz,Papyrus Toolchain,0.16.2,"Diagnostics, formatting and lints for Papyrus, the scripting language of Skyrim, Fallout 4 and Starfield"
+2026-11-03T00:03:07.57Z,ZalanShah.rainbow-xml,ZalanShah,Rainbow XML,1.0.0,"Colors XML tags in rainbow order by nesting depth (or by tag name), highlights matching tags, and marks unmatched ones."

@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-02 23:20 UTC
+## Latest list — 2026-11-03 00:20 UTC
 
-New extensions published between 2026-11-02 21:20 UTC and 2026-11-02 23:20 UTC.
+New extensions published between 2026-11-02 22:20 UTC and 2026-11-03 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-02T23-20-39-386177Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T00-20-09-655516Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-02 22:20:10 | [phenzic.shiplogue](https://marketplace.visualstudio.com/items?itemName=phenzic.shiplogue) | Shiplogue | 0.1.5 | Drafts your daily stand-up from the work you already did. Local-first for VS Co… |
-| 2026-11-02 22:47:06 | [coding-on-slate.sfos-toolkit](https://marketplace.visualstudio.com/items?itemName=coding-on-slate.sfos-toolkit) | SFOS Toolkit | 1.0.0 | Build, deploy, and run Sailfish OS apps from VS Code using the Sailfish SDK CLI |
-| 2026-11-02 22:55:17 | [AlexWonton.muse-history-sidebar](https://marketplace.visualstudio.com/items?itemName=AlexWonton.muse-history-sidebar) | Muse 历史记录 | 0.1.1 | 按文件夹浏览本机 Muse 历史记录，在原工作目录打开会话终端。 |
-| 2026-11-02 22:55:43 | [AlexWonton.opencode-history-sidebar](https://marketplace.visualstudio.com/items?itemName=AlexWonton.opencode-history-sidebar) | OpenCode 历史记录 | 0.1.0 | 按文件夹浏览本机 OpenCode 历史记录，在原工作目录打开会话终端。 |
-| 2026-11-02 23:05:58 | [socless.socle](https://marketplace.visualstudio.com/items?itemName=socless.socle) | Socle (Chisel) | 0.25.0 | Live schematic view of Chisel designs, linked to the source. |
-| 2026-11-02 23:09:19 | [JR-Morgan.ifc-lsp](https://marketplace.visualstudio.com/items?itemName=JR-Morgan.ifc-lsp) | IFC LSP | 0.1.0 | Syntax highlighting, navigation, hover and diagnostics for IFC (ISO 10303-21 ST… |
+| 2026-11-02 23:22:38 | [tomeqs.codemap-3d](https://marketplace.visualstudio.com/items?itemName=tomeqs.codemap-3d) | CodeMap 3D | 0.2.2 | Interactive 3D map of your C# and TypeScript / JavaScript code: dependencies, a… |
+| 2026-11-02 23:35:43 | [Ghammes.hunkly](https://marketplace.visualstudio.com/items?itemName=Ghammes.hunkly) | Hunkly — Accept / Reject Git Changes In… | 0.5.0 | Cursor-style inline review of what changed in the open file vs GitHub (upstream… |
+| 2026-11-03 00:01:33 | [kiyozz.papyrus-toolchain](https://marketplace.visualstudio.com/items?itemName=kiyozz.papyrus-toolchain) | Papyrus Toolchain | 0.16.2 | Diagnostics, formatting and lints for Papyrus, the scripting language of Skyrim… |
+| 2026-11-03 00:03:07 | [ZalanShah.rainbow-xml](https://marketplace.visualstudio.com/items?itemName=ZalanShah.rainbow-xml) | Rainbow XML | 1.0.0 | Colors XML tags in rainbow order by nesting depth (or by tag name), highlights… |
 
 ## Data source
 
