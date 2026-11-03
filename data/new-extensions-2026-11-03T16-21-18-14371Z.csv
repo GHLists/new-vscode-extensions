@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-03T15:17:57.427Z,xelblch.double-shift-search-tabs,xelblch,Double Shift Search Tabs,1.0.0,"JetBrains-style Search Everywhere for VS Code: double Shift opens one palette for files, symbols, actions and text."
+2026-11-03T15:23:57.68Z,pa-andreas.luna-image-tools,pa-andreas,"Luna Image Editor: Crop, Resize, Convert & Compress",26.11.1,"Crop, resize, convert and compress images directly in VS Code. Remove backgrounds with local AI and prepare PNG, JPG and WebP assets without switching apps."
+2026-11-03T15:24:14.547Z,BrieucInc.csv-to-tableur,BrieucInc,CSV to Tableur,0.1.0,"Open CSV/TSV files as a spreadsheet: sorting, Excel-style filters, row count, statistics, editing."
+2026-11-03T15:29:25.153Z,Sintoo.italiaviva10,Sintoo,ItaliaViva10,1.4.0,"IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello si scarica da solo la prima volta."
+2026-11-03T15:31:22.223Z,hiago-patricio.aspnet-endpoints,hiago-patricio,ASP.NET Endpoints,0.1.0,"Search ASP.NET Core endpoints (controllers and minimal APIs) by route or by real URL, like Rider's Endpoints window."
+2026-11-03T15:35:35.65Z,devastuxx.mr-visualizer,devastuxx,MR Visualizer,1.0.0,Review GitLab merge requests inside VS Code with a GitLab-style side-by-side diff of every changed file.
+2026-11-03T15:53:11.663Z,pa-andreas.push-pull,pa-andreas,Push & Pull: FTP & SFTP File Transfer,26.11.4,"FTP, SFTP and WebDAV client for VS Code. Upload, download, sync folders and compare local and remote files. Powered by rclone."
+2026-11-03T15:55:15.563Z,MarieAntonetteBacay.new-code-coverage,MarieAntonetteBacay,New Code Coverage Check,1.0.0,"See your pull request's ""Coverage on New Code"" quality gate result in VS Code before you push. Runs your tests, checks only the lines you changed, and highlights the ones without tests."
+2026-11-03T15:58:30.453Z,Skynex.skynex-docs,Skynex,Skynex Docs,1.0.0,"Sube y baja tus documentos Markdown de Skynex Docs (docs.skynex.es) sin salir del editor: este documento, la carpeta entera o al guardar."
+2026-11-03T16:03:05.807Z,dwertent.helm-workbench,dwertent,Helm Workbench,0.1.0,"Explore, write, lint, and preview Helm charts in Visual Studio Code."
+2026-11-03T16:04:35.133Z,itanand.orbit-dev,itanand,Orbit — understand and trust your Python code,0.1.0,"Plain-language error explanations, fixes you approve, a safety net for AI-written code, and line-by-line explanations. Free and offline-first."
+2026-11-03T16:07:55.507Z,korolserhii.justmycode-toggle,korolserhii,Just My Code Toggle for Python,0.1.0,Switch the Python debugger's justMyCode on or off with one click in the status bar — no launch.json editing.

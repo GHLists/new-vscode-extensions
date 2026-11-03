@@ -12,24 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 15:21 UTC
+## Latest list — 2026-11-03 16:21 UTC
 
-New extensions published between 2026-11-03 13:21 UTC and 2026-11-03 15:21 UTC.
+New extensions published between 2026-11-03 14:21 UTC and 2026-11-03 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T15-21-30-467372Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T16-21-18-14371Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 14:18:56 | [surajitbasak109.extension-inventory](https://marketplace.visualstudio.com/items?itemName=surajitbasak109.extension-inventory) | Extension Inventory | 0.1.0 | Inventory your installed VS Code extensions: export them with category, rating,… |
-| 2026-11-03 14:19:26 | [500TSSD.news](https://marketplace.visualstudio.com/items?itemName=500TSSD.news) | 每日热点新闻 · 真实版 | 1.7.2 | 内置每日热点新闻（18 个板块，纯文字，离线可读）：每板块 10 条公开 RSS 真实新闻，摘要 200–400 字并保留原文链接；另有 30 条真实热搜（合… |
-| 2026-11-03 14:31:07 | [Rellor.yarrr](https://marketplace.visualstudio.com/items?itemName=Rellor.yarrr) | YARRR | 0.0.4 | Mistype 'yarn' as 'yar' in the terminal and get a hearty YARRRRRR 🦜 |
-| 2026-11-03 14:37:25 | [alikhawaja.workbook-lens](https://marketplace.visualstudio.com/items?itemName=alikhawaja.workbook-lens) | Workbook Lens - Excel & Data Viewer | 0.2.1 | Explore Excel workbooks with formatting, frozen panes, sorting, filtering, and… |
-| 2026-11-03 14:56:54 | [Glitch-Sound.glitchboard](https://marketplace.visualstudio.com/items?itemName=Glitch-Sound.glitchboard) | GlitchBoard | 0.0.1 | 個人用プロジェクト管理ツール |
-| 2026-11-03 14:58:09 | [JoaquinBanchero.atlas-plantuml](https://marketplace.visualstudio.com/items?itemName=JoaquinBanchero.atlas-plantuml) | Atlas PlantUML | 0.1.0 | Interactive PlantUML preview with dark mode, layout selector, search, minimap,… |
-| 2026-11-03 15:03:04 | [vlkoti.acpcode](https://marketplace.visualstudio.com/items?itemName=vlkoti.acpcode) | acpcode | 0.1.1 | Yet another ACP-based agentic chat |
-| 2026-11-03 15:08:16 | [derDere.makefiles-runner-derdere-fork](https://marketplace.visualstudio.com/items?itemName=derDere.makefiles-runner-derdere-fork) | Makefiles Runner - derDere Fork | 3.1.0 | Make runner for VsCode. Simplify your development by easily running your makefi… |
-| 2026-11-03 15:09:25 | [DawChae.tsx-splitter](https://marketplace.visualstudio.com/items?itemName=DawChae.tsx-splitter) | TS Knife — TSX Component Splitter | 0.1.1 | Safely split large React TSX pages into reviewable components. Preview changes,… |
-| 2026-11-03 15:15:16 | [TrucoVale4.trucovale4](https://marketplace.visualstudio.com/items?itemName=TrucoVale4.trucovale4) | Truco Vale 4 | 0.2.0 | Jugá al truco argentino desde la barra lateral de VS Code, contra la CPU u onli… |
+| 2026-11-03 15:17:57 | [xelblch.double-shift-search-tabs](https://marketplace.visualstudio.com/items?itemName=xelblch.double-shift-search-tabs) | Double Shift Search Tabs | 1.0.0 | JetBrains-style Search Everywhere for VS Code: double Shift opens one palette f… |
+| 2026-11-03 15:23:57 | [pa-andreas.luna-image-tools](https://marketplace.visualstudio.com/items?itemName=pa-andreas.luna-image-tools) | Luna Image Editor: Crop, Resize, Conver… | 26.11.1 | Crop, resize, convert and compress images directly in VS Code. Remove backgroun… |
+| 2026-11-03 15:24:14 | [BrieucInc.csv-to-tableur](https://marketplace.visualstudio.com/items?itemName=BrieucInc.csv-to-tableur) | CSV to Tableur | 0.1.0 | Open CSV/TSV files as a spreadsheet: sorting, Excel-style filters, row count, s… |
+| 2026-11-03 15:29:25 | [Sintoo.italiaviva10](https://marketplace.visualstudio.com/items?itemName=Sintoo.italiaviva10) | ItaliaViva10 | 1.4.0 | IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello… |
+| 2026-11-03 15:31:22 | [hiago-patricio.aspnet-endpoints](https://marketplace.visualstudio.com/items?itemName=hiago-patricio.aspnet-endpoints) | ASP.NET Endpoints | 0.1.0 | Search ASP.NET Core endpoints (controllers and minimal APIs) by route or by rea… |
+| 2026-11-03 15:35:35 | [devastuxx.mr-visualizer](https://marketplace.visualstudio.com/items?itemName=devastuxx.mr-visualizer) | MR Visualizer | 1.0.0 | Review GitLab merge requests inside VS Code with a GitLab-style side-by-side di… |
+| 2026-11-03 15:53:11 | [pa-andreas.push-pull](https://marketplace.visualstudio.com/items?itemName=pa-andreas.push-pull) | Push & Pull: FTP & SFTP File Transfer | 26.11.4 | FTP, SFTP and WebDAV client for VS Code. Upload, download, sync folders and com… |
+| 2026-11-03 15:55:15 | [MarieAntonetteBacay.new-code-coverage](https://marketplace.visualstudio.com/items?itemName=MarieAntonetteBacay.new-code-coverage) | New Code Coverage Check | 1.0.0 | See your pull request's "Coverage on New Code" quality gate result in VS Code b… |
+| 2026-11-03 15:58:30 | [Skynex.skynex-docs](https://marketplace.visualstudio.com/items?itemName=Skynex.skynex-docs) | Skynex Docs | 1.0.0 | Sube y baja tus documentos Markdown de Skynex Docs (docs.skynex.es) sin salir d… |
+| 2026-11-03 16:03:05 | [dwertent.helm-workbench](https://marketplace.visualstudio.com/items?itemName=dwertent.helm-workbench) | Helm Workbench | 0.1.0 | Explore, write, lint, and preview Helm charts in Visual Studio Code. |
+| 2026-11-03 16:04:35 | [itanand.orbit-dev](https://marketplace.visualstudio.com/items?itemName=itanand.orbit-dev) | Orbit — understand and trust your Pytho… | 0.1.0 | Plain-language error explanations, fixes you approve, a safety net for AI-writt… |
+| 2026-11-03 16:07:55 | [korolserhii.justmycode-toggle](https://marketplace.visualstudio.com/items?itemName=korolserhii.justmycode-toggle) | Just My Code Toggle for Python | 0.1.0 | Switch the Python debugger's justMyCode on or off with one click in the status… |
 
 ## Data source
 
