@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 10:20 UTC
+## Latest list — 2026-11-03 11:19 UTC
 
-New extensions published between 2026-11-03 08:20 UTC and 2026-11-03 10:20 UTC.
+New extensions published between 2026-11-03 09:19 UTC and 2026-11-03 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T10-20-50-098047Z.csv)
+[Full CSV](data/new-extensions-2026-11-03T11-19-21-068863Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 09:16:06 | [archibot.archibot-runtime-java11-tomcat9](https://marketplace.visualstudio.com/items?itemName=archibot.archibot-runtime-java11-tomcat9) | Archibot Runtime Java 11 / Tomcat 9 | 1.0.1 | Platform-specific Java, Gradle and Tomcat runtime for Archibot. |
-| 2026-11-03 09:16:10 | [archibot.archibot-runtime-java21-tomcat10](https://marketplace.visualstudio.com/items?itemName=archibot.archibot-runtime-java21-tomcat10) | Archibot Runtime Java 21 / Tomcat 10 | 1.0.1 | Platform-specific Java, Gradle and Tomcat runtime for Archibot. |
-| 2026-11-03 09:34:53 | [zeealpha-com.roku-studio](https://marketplace.visualstudio.com/items?itemName=zeealpha-com.roku-studio) | Roku Studio | 1.1.0 | Find Roku devices, sideload your channel, and drive the TV from your keyboard -… |
-| 2026-11-03 09:44:27 | [magnusr9.openapi-json-schema-validator](https://marketplace.visualstudio.com/items?itemName=magnusr9.openapi-json-schema-validator) | OpenAPI & JSON Schema Validator Studio… | 1.0.0 | Validate OpenAPI 3.0/3.1 specs and JSON Schemas (Draft-07, 2020-12) with instan… |
-| 2026-11-03 09:58:14 | [vshulcz.deja-status](https://marketplace.visualstudio.com/items?itemName=vshulcz.deja-status) | deja-vu — Claude Code, Cursor, Codex &… | 0.23.5 | Local cross-agent memory status bar for VS Code, Cursor, Windsurf, Antigravity,… |
-| 2026-11-03 10:13:56 | [guotianquan.adb-screenshot-helper](https://marketplace.visualstudio.com/items?itemName=guotianquan.adb-screenshot-helper) | 图色助手 | 0.0.1 | 图色助手：基于 ADB 的安卓设备截图、控件树查看、坐标标记取色、画面拖动与小图裁剪自动命名保存工具 |
+| 2026-11-03 10:15:09 | [binaryhandshake.code-parcel](https://marketplace.visualstudio.com/items?itemName=binaryhandshake.code-parcel) | Code Parcel | 0.1.0 | Select only the project files you need and combine their contents and structure… |
+| 2026-11-03 10:18:25 | [albiummid.pkg-guard](https://marketplace.visualstudio.com/items?itemName=albiummid.pkg-guard) | Pkg Guard | 0.1.3 | Inline vulnerability warnings and update suggestions in package.json, including… |
+| 2026-11-03 10:54:50 | [morten-lejboelle.agent-worktree-viewer](https://marketplace.visualstudio.com/items?itemName=morten-lejboelle.agent-worktree-viewer) | Agent Worktree Viewer | 0.1.0 | Review what Claude Code and other AI agents change in their git worktrees: see… |
+| 2026-11-03 11:04:13 | [SomaliAIConnect.somali-ai-connect-vscode](https://marketplace.visualstudio.com/items?itemName=SomaliAIConnect.somali-ai-connect-vscode) | Somali AI Connect | 0.1.0 | Configure Somali AI Connect and Cloudflare AI Gateway from VS Code. |
+| 2026-11-03 11:08:23 | [jeninnet.jeninnet-filequery](https://marketplace.visualstudio.com/items?itemName=jeninnet.jeninnet-filequery) | Jeninnet FileQuery | 0.1.0 | Test Jeninnet.FileQuery patterns against your workspace and see why each file m… |
+| 2026-11-03 11:16:02 | [RajatMalik.npm-dep-script](https://marketplace.visualstudio.com/items?itemName=RajatMalik.npm-dep-script) | npmDepScript | 1.0.0 | Run npm scripts, and review outdated, deprecated, and vulnerable dependencies,… |
 
 ## Data source
 
