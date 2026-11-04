@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T20:24:46.633Z,DreamInHex.hexdb,DreamInHex,HexDB for VS Code,0.1.0,"Browse HexDB lattices, run SQL and GraphQL, and edit stored functions."
+2026-11-04T20:29:13.07Z,opentidehq.opentide,opentidehq,opentide,0.1.0,"The opentide workbench for detection engineering: live checks for Tide objects and their KQL, SPL, ES|QL, EQL, Kibana KQL, Lucene and Falco queries, templates, catalogue, ATT&CK coverage, query results and deploy previews."
+2026-11-04T20:30:29.483Z,SashaBaranov.vulnfind,SashaBaranov,vulnfind,0.1.0,"Security findings from vulnfind inline in the editor: injection data flows, leaked secrets, risky config, vulnerable dependencies."
+2026-11-04T20:35:07.553Z,mafflin.groovbox,mafflin,Groovbox,0.1.10,"Gruvbox for VS Code. A modern take on Tom Philbin's Gruvbox Themes, with the full UI and semantic highlighting."
+2026-11-04T20:40:30.447Z,Sergwei.open-vs-code,Sergwei,OpenCode Station,1.0.0,Unofficial GUI for opencode in Visual Studio Code
+2026-11-04T20:54:09.507Z,mehmetoguzderin.patch-diff-review,mehmetoguzderin,Patch Diff Review,0.1.0,"Review .patch and .diff files as native VS Code diffs with native comments, on-demand full-file context from GitHub/GitLab, and text/TSV export. Desktop and web."
+2026-11-04T21:01:07.923Z,isovalent.vscode-npv-extension,isovalent,Network Policy Visualizer,0.0.5,Visualize Network Policies side-by-side with YAML using the PolicyMap component
+2026-11-04T21:04:11.947Z,leadwerks.leadwerks-lua,leadwerks,Leadwerks Lua,1.1.0,Lua support for Leadwerks Game Engine
+2026-11-04T21:04:29.523Z,samuelrms.omni-ai-cli,samuelrms,Omni AI CLI,1.12.3,"Run the Omni AI CLI (Claude, Codex, Cursor, Antigravity, Grok, DeepSeek, OpenRouter) from VS Code and Cursor."
+2026-11-04T21:10:07.35Z,N04H.html-event-definition,N04H,HTML Event Handler Navigation,0.1.0,Go to definitions and see hover previews for JavaScript calls in HTML event attributes.
+2026-11-04T21:13:38.51Z,AlfonsoFuentes.cli-view-extension,AlfonsoFuentes,CLI View,1.0.0,A simple VS Code extension that opens CLI tools in a split editor terminal with custom commands.
