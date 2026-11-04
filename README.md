@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 16:18 UTC
+## Latest list — 2026-11-04 17:18 UTC
 
-New extensions published between 2026-11-04 14:18 UTC and 2026-11-04 16:18 UTC.
+New extensions published between 2026-11-04 15:18 UTC and 2026-11-04 17:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-04T16-18-42-250706Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T17-18-46-069567Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 15:17:12 | [wai-lin.vscode-spacefn](https://marketplace.visualstudio.com/items?itemName=wai-lin.vscode-spacefn) | spacefn | 0.2.2 | spacefn support for VS Code: HTML injection for html tagged templates (Datastar… |
-| 2026-11-04 15:22:27 | [sitholewb.daily-bread-statusbar](https://marketplace.visualstudio.com/items?itemName=sitholewb.daily-bread-statusbar) | Daily Bible — Offline & Scripture Statu… | 1.0.0 | 100% Offline Holy Bible (isiZulu 1959, English WEB & KJV) with glanceable statu… |
-| 2026-11-04 15:27:58 | [hiddensc00re.rewrite-overlay](https://marketplace.visualstudio.com/items?itemName=hiddensc00re.rewrite-overlay) | Rewrite Overlay | 0.1.2 | Enables a rewrite overlay coding practice mode. |
-| 2026-11-04 15:38:24 | [appvision.appvision-development](https://marketplace.visualstudio.com/items?itemName=appvision.appvision-development) | AppVision Development | 0.1.1 | Installs and keeps the AppVision Claude Code AL plugin up to date, and keeps AL… |
-| 2026-11-04 15:43:10 | [IvanBelkov.fractal-fern](https://marketplace.visualstudio.com/items?itemName=IvanBelkov.fractal-fern) | Fractal Fern | 0.0.2 |  |
-| 2026-11-04 15:48:19 | [m1oky.grassgreen](https://marketplace.visualstudio.com/items?itemName=m1oky.grassgreen) | GrassGreen (G&G) Language Support | 4.0.0 | Официальная поддержка системного языка программирования GrassGreen 4.0: синтакс… |
-| 2026-11-04 15:49:12 | [randompatch.dogierror](https://marketplace.visualstudio.com/items?itemName=randompatch.dogierror) | dogierror | 0.1.1 | A small sound when a new code error appears. Custom audio, a quiet cooldown, an… |
-| 2026-11-04 15:57:08 | [rederive.sir-lang](https://marketplace.visualstudio.com/items?itemName=rederive.sir-lang) | SIR — Semantic IR for rederive | 0.2.2 | Read and write SIR contracts with rdv's own checks as you type: binding and ora… |
-| 2026-11-04 15:58:56 | [vetrolog.vetrolog](https://marketplace.visualstudio.com/items?itemName=vetrolog.vetrolog) | VetroLog: Mobile & Remote Database Stud… | 1.5.0 | High-performance Database Inspector for Mobile (Flutter, React Native, Android)… |
-| 2026-11-04 16:06:26 | [codetin.commandcode-usage](https://marketplace.visualstudio.com/items?itemName=codetin.commandcode-usage) | Command Code Usage | 0.1.0 | 在状态栏显示 Command Code 套餐用量：5 小时、每周、每月额度与重置时间。 |
-| 2026-11-04 16:13:34 | [JinJunLiang.local-iconfont-hover](https://marketplace.visualstudio.com/items?itemName=JinJunLiang.local-iconfont-hover) | Iconfont 悬停预览 | 0.1.0 | 在 Vue、HTML 和样式代码中悬停 Unicode 编码，预览项目本地 iconfont 字体的真实图标。 |
+| 2026-11-04 16:14:29 | [LTM-Blueverse-AppIQ.appiq-vscode](https://marketplace.visualstudio.com/items?itemName=LTM-Blueverse-AppIQ.appiq-vscode) | AppIQ | 2.2.0 | Download technical and functional baseline documentation from AppIQ directly in… |
+| 2026-11-04 16:36:07 | [lmia34.pixel-worlds](https://marketplace.visualstudio.com/items?itemName=lmia34.pixel-worlds) | Pixel Worlds — Tous les mondes pixel art | 1.0.5 | Tous les mondes en pixel art 8 bits pour VS Code : Noël 🎄, Pôle Nord 🐧… et d'au… |
+| 2026-11-04 16:48:01 | [axialis.iconvectors-integration](https://marketplace.visualstudio.com/items?itemName=axialis.iconvectors-integration) | SVG Editor — Axialis IconVectors | 2.20.0 | SVG editor integration for files and inline SVG. Requires Axialis IconVectors;… |
+| 2026-11-04 17:04:57 | [AICis.netease-music-vscode](https://marketplace.visualstudio.com/items?itemName=AICis.netease-music-vscode) | 网易云音乐 for VS Code（非官方） | 1.0.0 | 非官方第三方网易云音乐客户端：EAPI 直连、PC 风侧边栏、歌单/歌手/搜索/评论、封面下载与原生音频输出。 |
+| 2026-11-04 17:06:20 | [krlostks.mm43](https://marketplace.visualstudio.com/items?itemName=krlostks.mm43) | My M4nag3r | 1.1.0 | Conjunto de herramientas para la gestión y el desarrollo de proyectos maven. |
+| 2026-11-04 17:08:39 | [cic-it-nancy.remote-ssh-cleaner](https://marketplace.visualstudio.com/items?itemName=cic-it-nancy.remote-ssh-cleaner) | Remote SSH Cleaner | 0.1.0 | Cleans old VS Code Server versions, obsolete extensions, and cached downloads i… |
+| 2026-11-04 17:12:16 | [Icaruk.safe-extension-updater](https://marketplace.visualstudio.com/items?itemName=Icaruk.safe-extension-updater) | Safe Extension Updater | 1.0.0 | Protects you from malicious updates, unsafe native auto-update setups, and rele… |
 
 ## Data source
 
