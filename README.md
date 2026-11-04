@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 21:20 UTC
+## Latest list — 2026-11-04 22:21 UTC
 
-New extensions published between 2026-11-04 19:20 UTC and 2026-11-04 21:20 UTC.
+New extensions published between 2026-11-04 20:21 UTC and 2026-11-04 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-04T21-20-11-703945Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T22-21-47-426065Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 20:24:46 | [DreamInHex.hexdb](https://marketplace.visualstudio.com/items?itemName=DreamInHex.hexdb) | HexDB for VS Code | 0.1.0 | Browse HexDB lattices, run SQL and GraphQL, and edit stored functions. |
-| 2026-11-04 20:29:13 | [opentidehq.opentide](https://marketplace.visualstudio.com/items?itemName=opentidehq.opentide) | opentide | 0.1.0 | The opentide workbench for detection engineering: live checks for Tide objects… |
-| 2026-11-04 20:30:29 | [SashaBaranov.vulnfind](https://marketplace.visualstudio.com/items?itemName=SashaBaranov.vulnfind) | vulnfind | 0.1.0 | Security findings from vulnfind inline in the editor: injection data flows, lea… |
-| 2026-11-04 20:35:07 | [mafflin.groovbox](https://marketplace.visualstudio.com/items?itemName=mafflin.groovbox) | Groovbox | 0.1.10 | Gruvbox for VS Code. A modern take on Tom Philbin's Gruvbox Themes, with the fu… |
-| 2026-11-04 20:40:30 | [Sergwei.open-vs-code](https://marketplace.visualstudio.com/items?itemName=Sergwei.open-vs-code) | OpenCode Station | 1.0.0 | Unofficial GUI for opencode in Visual Studio Code |
-| 2026-11-04 20:54:09 | [mehmetoguzderin.patch-diff-review](https://marketplace.visualstudio.com/items?itemName=mehmetoguzderin.patch-diff-review) | Patch Diff Review | 0.1.0 | Review .patch and .diff files as native VS Code diffs with native comments, on-… |
-| 2026-11-04 21:01:07 | [isovalent.vscode-npv-extension](https://marketplace.visualstudio.com/items?itemName=isovalent.vscode-npv-extension) | Network Policy Visualizer | 0.0.5 | Visualize Network Policies side-by-side with YAML using the PolicyMap component |
-| 2026-11-04 21:04:11 | [leadwerks.leadwerks-lua](https://marketplace.visualstudio.com/items?itemName=leadwerks.leadwerks-lua) | Leadwerks Lua | 1.1.0 | Lua support for Leadwerks Game Engine |
-| 2026-11-04 21:04:29 | [samuelrms.omni-ai-cli](https://marketplace.visualstudio.com/items?itemName=samuelrms.omni-ai-cli) | Omni AI CLI | 1.12.3 | Run the Omni AI CLI (Claude, Codex, Cursor, Antigravity, Grok, DeepSeek, OpenRo… |
-| 2026-11-04 21:10:07 | [N04H.html-event-definition](https://marketplace.visualstudio.com/items?itemName=N04H.html-event-definition) | HTML Event Handler Navigation | 0.1.0 | Go to definitions and see hover previews for JavaScript calls in HTML event att… |
-| 2026-11-04 21:13:38 | [AlfonsoFuentes.cli-view-extension](https://marketplace.visualstudio.com/items?itemName=AlfonsoFuentes.cli-view-extension) | CLI View | 1.0.0 | A simple VS Code extension that opens CLI tools in a split editor terminal with… |
+| 2026-11-04 21:27:43 | [UtanSmith1712.vein-lua-api](https://marketplace.visualstudio.com/items?itemName=UtanSmith1712.vein-lua-api) | Vein Lua API | 1.0.0 | Support for the Lua API used by Vein |
+| 2026-11-04 21:36:43 | [kushal-builds.commit-genie-ai](https://marketplace.visualstudio.com/items?itemName=kushal-builds.commit-genie-ai) | Commit Genie AI | 1.0.0 | AI-powered conventional commit message generator from Git staged changes using… |
+| 2026-11-04 21:42:35 | [VeroProductions.board-flows](https://marketplace.visualstudio.com/items?itemName=VeroProductions.board-flows) | Board Flows | 1.0.0 | A bold, colourful infinite whiteboard for VS Code. Sticky notes, text, shapes,… |
+| 2026-11-04 21:44:39 | [leadwerks.lua-leadwerks](https://marketplace.visualstudio.com/items?itemName=leadwerks.lua-leadwerks) | Lua for Leadwerks | 1.1.0 | Lua support for Leadwerks Game Engine |
+| 2026-11-04 21:47:35 | [Velantix.insaidy](https://marketplace.visualstudio.com/items?itemName=Velantix.insaidy) | Insaidy | 1.0.0 | Personal coaching for AI coding: local activity reports, daily practices and ag… |
+| 2026-11-04 21:58:44 | [boringdystopia.svgdiagram](https://marketplace.visualstudio.com/items?itemName=boringdystopia.svgdiagram) | SVG Diagram | 0.1.0 | Create diagrams and add them to your Markdown document. |
+| 2026-11-04 21:59:35 | [meltemi.meltemi-diagrams-vscode](https://marketplace.visualstudio.com/items?itemName=meltemi.meltemi-diagrams-vscode) | Meltemi Diagrams for VS Code | 1.11.3 | Diagrams as code for the Meltemi family: the .meltemi language, and a canvas be… |
+| 2026-11-04 22:06:34 | [lodi.nitro-noche](https://marketplace.visualstudio.com/items?itemName=lodi.nitro-noche) | Nitro Noche | 0.2.3 | Tema oscuro de alto contraste para pantallas con colores lavados o poco brillo. |
 
 ## Data source
 
