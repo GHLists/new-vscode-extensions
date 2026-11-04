@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T19:12:09.553Z,SreyasCC.psytoolkit-debugger,SreyasCC,PsyToolKit Debugger,1.0.1,"Automated debug, basic fuzz testing, and execution tracing for PsyToolKit scripts"
+2026-11-04T19:17:44.983Z,IvanBelkov.zasm-syntax,IvanBelkov,ZASM (Zhelezyaka VM),0.1.5,zasm syntax highlighting
+2026-11-04T19:29:10.46Z,hidayatlossen.zero-dark-theme,hidayatlossen,Zero Dark Theme,1.0.0,"A sleek, true-black dark theme for VS Code featuring 13 distinct dark variants and fully visible Git diff indicators."
+2026-11-04T19:54:09.093Z,PCK-exhibition.llm-cp-telemetry,PCK-exhibition,LLM-CP Telemetry,0.0.1,????????? LLM ??????????
+2026-11-04T20:06:10.677Z,integrations-at.copilot-harness,integrations-at,Copilot Harness,0.2.0,"Harness engineering for GitHub Copilot: see how your agents, skills, instructions and prompts work together across sessions and repositories."
+2026-11-04T20:09:36.157Z,onurkarakus.todoforge,onurkarakus,"TodoForge – TODO Tree, Highlights & Due Dates",1.0.0,"Fast, offline TODO and FIXME tree with theme-aware highlights, owners and due dates, quick fixes, a Changes view for your branch and first-class .NET support. No account, no telemetry."
