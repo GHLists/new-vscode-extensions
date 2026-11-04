@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T18:27:23.74Z,leonardx.leocode,leonardx,LeoCode by LeonardX,0.1.0,Workspace-aware AI coding assistance from your LeonardX account.
+2026-11-04T18:34:11.377Z,SlingHook.slinghook,SlingHook,SlingHook,0.1.0,"Catch. Debug. Replay. Your SlingHook webhook feed live in the editor, with replay to localhost and copy as fixture."
+2026-11-04T18:38:02.07Z,kgptalkie.sql-notebook-studio,kgptalkie,SQL Notebook Studio,1.0.0,"Notebooks for SQL: MySQL, PostgreSQL, SQL Server, built-in SQLite and DuckDB, with a fast results grid, charts and AI that explains and fixes your queries."
+2026-11-04T18:40:37.203Z,digivibetech.mermaid-studio-offline,digivibetech,Mermaid Studio: offline diagrams,0.1.0,"Offline Mermaid live preview for .mmd, .mermaid, and Markdown fences. Bundled renderer, error markers, zoom, and copy-as-SVG. No account and no telemetry."
+2026-11-04T18:41:04.813Z,Llortus.quakec-modern,Llortus,QuakeC Modern,0.3.0,"QuakeC IntelliSense, diagnostics, and code browsing, with support for gmqcc and FTEQCC language extensions."
+2026-11-04T18:48:05.863Z,crowsnest.crowsnest-vscode,crowsnest,Crowsnest: Supply Chain Sentinel,0.1.0,"Flags risky npm and PyPI imports right in your editor: look-alike names, made-up packages and hijacked packages, before they reach your lockfile."
+2026-11-04T18:49:51.51Z,ilab-sl.ichat-ai,ilab-sl,iChat AI,0.2.2,"Chat with iChat, and explain, fix and test your code without leaving VS Code."
+2026-11-04T18:56:33.643Z,allankltsn.grouped-tools,allankltsn,group tools,0.1.1,"Painel compacto de ferramentas com grupos, busca, favoritos, organização por arrastar e grupos fixados na barra de atividades."
+2026-11-04T18:56:49.353Z,idfedorov09.jbsearch,idfedorov09,JB Search,0.2.1,"JetBrains-style Find & Replace for VS Code, with a floating dialog, live preview, and native results."
+2026-11-04T19:01:47.47Z,LonHutt.dcx,LonHutt,dcx: devcontainer.json linter,0.1.0,"Lints devcontainer.json as you type: typos, invalid values, and settings that don't fit the config's setup."
+2026-11-04T19:10:12.81Z,twinsight.twinsight,twinsight,TwinSight,1.0.0,TwinCAT Structured Text language server
