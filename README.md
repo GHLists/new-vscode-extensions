@@ -12,17 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-03 23:20 UTC
+## Latest list — 2026-11-04 00:19 UTC
 
-New extensions published between 2026-11-03 21:20 UTC and 2026-11-03 23:20 UTC.
+New extensions published between 2026-11-03 22:19 UTC and 2026-11-04 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-03T23-20-05-084291Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T00-19-27-184124Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-03 22:28:12 | [CAC.ccc-vscode](https://marketplace.visualstudio.com/items?itemName=CAC.ccc-vscode) | Customer Command Center | 0.1.1 | Account-team operations and opportunity guidance for TLC MultiAgent Assist, ins… |
-| 2026-11-03 22:39:17 | [MishaLestev.SQLestev](https://marketplace.visualstudio.com/items?itemName=MishaLestev.SQLestev) | SQLestev — SQL Diagrams | 0.1.0 | Live ERD diagram of the SQL file you're editing, beside the editor. Share it as… |
-| 2026-11-03 22:51:58 | [NiklasWeiblen.flutter-dependency-override-helper](https://marketplace.visualstudio.com/items?itemName=NiklasWeiblen.flutter-dependency-override-helper) | Flutter Dependency Override Helper | 0.1.0 | Quick insert local or git dependency_overrides in pubspec |
+| 2026-11-03 23:33:48 | [commenteme.atacama-theme](https://marketplace.visualstudio.com/items?itemName=commenteme.atacama-theme) | Atacama Theme | 1.0.0 | Tema oscuro y claro con la paleta del desierto de Atacama: azul profundo y amar… |
+| 2026-11-03 23:40:13 | [oval-vote.oval](https://marketplace.visualstudio.com/items?itemName=oval-vote.oval) | Oval | 0.1.1 | Language support for Oval voting guides |
+| 2026-11-03 23:42:07 | [DenisonCecilianoVega.rpg-guardian](https://marketplace.visualstudio.com/items?itemName=DenisonCecilianoVega.rpg-guardian) | RPG Guardian | 1.1.1 | Enterprise Code Quality Analyzer for IBM i |
+| 2026-11-03 23:42:16 | [YaseenAlkhameri.excel-to-markdown-live](https://marketplace.visualstudio.com/items?itemName=YaseenAlkhameri.excel-to-markdown-live) | Excel to Markdown Live | 0.1.1 | Live Excel tables in the built-in Markdown preview. Keep register specification… |
+| 2026-11-03 23:56:18 | [VeniceProductions.marker-board](https://marketplace.visualstudio.com/items?itemName=VeniceProductions.marker-board) | Marker Board | 0.2.0 | Plan, share, and organize your team work on a collaborative canvas board inside… |
+| 2026-11-04 00:03:28 | [Legesher.legesher-vscode](https://marketplace.visualstudio.com/items?itemName=Legesher.legesher-vscode) | Legesher - Code in Your Language | 0.1.8 | Write Python code in your native language with real-time translation |
+| 2026-11-04 00:07:15 | [kanoksak.antigravity-robot-companion](https://marketplace.visualstudio.com/items?itemName=kanoksak.antigravity-robot-companion) | Antigravity Companion - Animated Robot | 0.1.0 | Live animated robot companion reflecting Google Antigravity AI thinking, coding… |
 
 ## Data source
 
