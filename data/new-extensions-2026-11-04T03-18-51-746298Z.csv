@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T02:19:08.31Z,chinidev.want-to-learn,chinidev,Wanna learn,0.1.1,"Step-by-step coding guides with Claude: you write the code, Claude explains, gives hints and reviews it."
+2026-11-04T02:34:35.517Z,SKIASingularityContinuum.skia-vscode,SKIASingularityContinuum,SKIA,0.1.0,"Chat, explain, fix, and analyze code with SKIA from Visual Studio Code."
+2026-11-04T02:38:05.073Z,agentbrief.agentbrief,agentbrief,Agentbrief — human to agent compiler,0.1.0,"Compile messy asks into scoped, token-cheap briefs for Cursor and other coding agents. Local. No API key."
+2026-11-04T02:38:33.633Z,xtracomla.code-analyzer-extension,xtracomla,Code Analyzer EDU,3.0.0,Analiza cambios en el código para detectar comportamientos abruptos en entornos educativos
+2026-11-04T02:51:01.2Z,HanYue.antigravity-quota-hanyue,HanYue,Antigravity Accounts Monitor,0.2.0,"Unofficial Antigravity quota dashboard with direct OAuth, multi-account monitoring and reset timers. / 非官方模型额度监控。"
+2026-11-04T02:51:22.177Z,vector12138.neurotrace-eeg-bdf,vector12138,NeuroTrace EEG,0.1.0,"Inspect BDF and EDF recordings, signals and events in VS Code."
+2026-11-04T02:56:56.737Z,pascalcouturier.skill-builder-companion,pascalcouturier,Skill Builder Companion,0.1.1,See which Skill Builder project and AI resources apply to the code you have open.
+2026-11-04T03:06:27.67Z,HaibeiNan.usd-physics-visualizer,HaibeiNan,USD Physics Visualizer,0.1.0,"Inspect USD robots, joints, collisions, centers of mass and inertia directly in VS Code."
