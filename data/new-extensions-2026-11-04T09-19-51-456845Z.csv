@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T08:19:24.317Z,YakupCemilK.lsp-cruft,YakupCemilK,Cruft,0.2.0,Language Server and VS Code extension for the Cruft programming language
+2026-11-04T08:30:08.287Z,breadywebstudios.bready-visual-html-editor,breadywebstudios,Bready Visual HTML Editor,1.0.2,"Edit HTML pages visually — click to select, double-click to type — and every change is written straight into your .html source, leaving the rest of the file untouched."
+2026-11-04T08:34:37.49Z,CommitKingdom.commit-kingdom-tracker,CommitKingdom,Commit Kingdom Tracker,0.1.0,"Counts your coding for Commit Kingdom, the strategy game where your commits build your kingdom. Sign in with Commit Kingdom Desktop; only time, language and line counts are sent."
+2026-11-04T08:37:37.863Z,magon8696.finderview,magon8696,FinderView,0.1.5,Explore your workspace in Finder-style Miller columns.
+2026-11-04T08:41:20.413Z,ignorantshr.margo-inline,ignorantshr,Margo Inline — Private Code Annotations,0.2.0,"Private code notes displayed as end-of-line annotations without modifying source files. Categories, resolve/reopen, filtering, and Markdown/HTML export."
+2026-11-04T09:07:55.597Z,MohammadRamiz.secretshield,MohammadRamiz,SecretShield,0.3.0,"Local secret detection for VS Code: three-phase credential scanning, Git ignore inspection and a pre-push gate that blocks restricted secrets."
