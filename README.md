@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 17:18 UTC
+## Latest list — 2026-11-04 18:20 UTC
 
-New extensions published between 2026-11-04 15:18 UTC and 2026-11-04 17:18 UTC.
+New extensions published between 2026-11-04 16:20 UTC and 2026-11-04 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-04T17-18-46-069567Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T18-20-59-086479Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 16:14:29 | [LTM-Blueverse-AppIQ.appiq-vscode](https://marketplace.visualstudio.com/items?itemName=LTM-Blueverse-AppIQ.appiq-vscode) | AppIQ | 2.2.0 | Download technical and functional baseline documentation from AppIQ directly in… |
-| 2026-11-04 16:36:07 | [lmia34.pixel-worlds](https://marketplace.visualstudio.com/items?itemName=lmia34.pixel-worlds) | Pixel Worlds — Tous les mondes pixel art | 1.0.5 | Tous les mondes en pixel art 8 bits pour VS Code : Noël 🎄, Pôle Nord 🐧… et d'au… |
-| 2026-11-04 16:48:01 | [axialis.iconvectors-integration](https://marketplace.visualstudio.com/items?itemName=axialis.iconvectors-integration) | SVG Editor — Axialis IconVectors | 2.20.0 | SVG editor integration for files and inline SVG. Requires Axialis IconVectors;… |
-| 2026-11-04 17:04:57 | [AICis.netease-music-vscode](https://marketplace.visualstudio.com/items?itemName=AICis.netease-music-vscode) | 网易云音乐 for VS Code（非官方） | 1.0.0 | 非官方第三方网易云音乐客户端：EAPI 直连、PC 风侧边栏、歌单/歌手/搜索/评论、封面下载与原生音频输出。 |
-| 2026-11-04 17:06:20 | [krlostks.mm43](https://marketplace.visualstudio.com/items?itemName=krlostks.mm43) | My M4nag3r | 1.1.0 | Conjunto de herramientas para la gestión y el desarrollo de proyectos maven. |
-| 2026-11-04 17:08:39 | [cic-it-nancy.remote-ssh-cleaner](https://marketplace.visualstudio.com/items?itemName=cic-it-nancy.remote-ssh-cleaner) | Remote SSH Cleaner | 0.1.0 | Cleans old VS Code Server versions, obsolete extensions, and cached downloads i… |
-| 2026-11-04 17:12:16 | [Icaruk.safe-extension-updater](https://marketplace.visualstudio.com/items?itemName=Icaruk.safe-extension-updater) | Safe Extension Updater | 1.0.0 | Protects you from malicious updates, unsafe native auto-update setups, and rele… |
+| 2026-11-04 17:20:29 | [tweed-tyne-technologies.aperioflow-vscode](https://marketplace.visualstudio.com/items?itemName=tweed-tyne-technologies.aperioflow-vscode) | AperioFlow | 0.1.0 | See your AperioFlow monitor statuses, browse projects, phases and tasks, change… |
+| 2026-11-04 17:20:37 | [WallabyDesigns.vscode-larust](https://marketplace.visualstudio.com/items?itemName=WallabyDesigns.vscode-larust) | Larust Blade | 0.1.4 | Syntax highlighting and indentation for Larust's .blade.xr templates - directiv… |
+| 2026-11-04 17:21:53 | [RustyJonez.sap-idoc-syntax](https://marketplace.visualstudio.com/items?itemName=RustyJonez.sap-idoc-syntax) | SAP IDoc Syntax | 0.3.2 | Syntax highlighting, hover tooltips, qualifier translations, and status bar fie… |
+| 2026-11-04 17:22:54 | [jackhric.decky-toolkit](https://marketplace.visualstudio.com/items?itemName=jackhric.decky-toolkit) | Decky Toolkit | 0.6.0 | Live screen, one-click deploy, logs and Steam console for Decky plugin developm… |
+| 2026-11-04 17:28:11 | [SyeedMDTalha.cream-theme-collection](https://marketplace.visualstudio.com/items?itemName=SyeedMDTalha.cream-theme-collection) | Cream Theme Collection | 1.0.0 | 66 light cream themes: adaptations of all 64 Bearded Theme variants, Solarized… |
+| 2026-11-04 18:09:56 | [chenyuting3077.robot-preview-urdf-mjcf](https://marketplace.visualstudio.com/items?itemName=chenyuting3077.robot-preview-urdf-mjcf) | Robot Preview: URDF & MJCF | 0.1.0 | Preview URDF, Xacro and MJCF robot models inside VS Code |
+| 2026-11-04 18:12:13 | [CGQAQ.crdev](https://marketplace.visualstudio.com/items?itemName=CGQAQ.crdev) | crdev: Chromium Dev Toolkit (prototype) | 0.1.0 | Build, launch and debug Chromium (multi-process, LLDB-based) on Windows, macOS… |
+| 2026-11-04 18:13:58 | [Darleanow.morise](https://marketplace.visualstudio.com/items?itemName=Darleanow.morise) | Morise | 0.1.0 | Visual editor for Qt .ui form files. |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T17:20:29.547Z,tweed-tyne-technologies.aperioflow-vscode,tweed-tyne-technologies,AperioFlow,0.1.0,"See your AperioFlow monitor statuses, browse projects, phases and tasks, change task statuses with a note, and write messages, without leaving VS Code."
+2026-11-04T17:20:37.427Z,WallabyDesigns.vscode-larust,WallabyDesigns,Larust Blade,0.1.4,"Syntax highlighting and indentation for Larust's .blade.xr templates - directives, {{ }}/{!! !!} interpolation, <Image>/<wire:>/<resource:> tags, and :dynamic= attributes, all with real embedded Rust highlighting."
+2026-11-04T17:21:53.437Z,RustyJonez.sap-idoc-syntax,RustyJonez,SAP IDoc Syntax,0.3.2,"Syntax highlighting, hover tooltips, qualifier translations, and status bar field info for SAP IDoc flat files and XML IDocs"
+2026-11-04T17:22:54.377Z,jackhric.decky-toolkit,jackhric,Decky Toolkit,0.6.0,"Live screen, one-click deploy, logs and Steam console for Decky plugin development on devices running Decky Loader (Steam Deck, SteamOS, Bazzite)"
+2026-11-04T17:28:11.483Z,SyeedMDTalha.cream-theme-collection,SyeedMDTalha,Cream Theme Collection,1.0.0,"66 light cream themes: adaptations of all 64 Bearded Theme variants, Solarized Light, and Peace of the Eye Dracula."
+2026-11-04T18:09:56.657Z,chenyuting3077.robot-preview-urdf-mjcf,chenyuting3077,Robot Preview: URDF & MJCF,0.1.0,"Preview URDF, Xacro and MJCF robot models inside VS Code"
+2026-11-04T18:12:13.873Z,CGQAQ.crdev,CGQAQ,crdev: Chromium Dev Toolkit (prototype),0.1.0,"Build, launch and debug Chromium (multi-process, LLDB-based) on Windows, macOS and Linux."
+2026-11-04T18:13:58.483Z,Darleanow.morise,Darleanow,Morise,0.1.0,Visual editor for Qt .ui form files.
