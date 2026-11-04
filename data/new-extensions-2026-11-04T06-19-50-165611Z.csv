@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T05:18:32.233Z,SCMCommitMessageGenerator.scm-commit-gen,SCMCommitMessageGenerator,SCM Commit Message Generator,0.2.1,Generate Git commit messages from personal and project rules using your local agy CLI or claude CLI.
+2026-11-04T05:41:59.267Z,lucascodev.aura-datadock-db,lucascodev,Aura DataDock DB - Database Manager,0.1.0,"Browse, query and edit Postgres, MySQL and MariaDB. Databases in Docker connect with zero configuration; others connect directly or over SSH. ER diagrams, exports and AI agents."
+2026-11-04T05:48:41.903Z,devpulse-labs.devpulse-workspace-analyzer,devpulse-labs,DevPulse - Workspace Analyzer,0.0.1,"Analyze your workspace with file statistics, TODO/FIXME detection, and large file identification."
+2026-11-04T05:58:55.423Z,dynamox.dynamox-vscode,dynamox,Dynamox,0.1.0,"Language support for Dynamox schemas with validation, completions, and formatting."
