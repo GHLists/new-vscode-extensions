@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T22:16:26.103Z,agent-explorer.agent-explorer,agent-explorer,Agent Explorer,0.1.1,Build and run local A2A and MCP mocks with response rules and a visual flow builder.
+2026-11-04T22:23:29.66Z,HexTank.blueprint-inspector,HexTank,Blueprint Inspector,1.0.2,"Debug Unreal Engine Blueprints: breakpoints, stepping and variables over DAP."
+2026-11-04T22:26:39.99Z,PanSynapse-Labs.cosmiccode,PanSynapse-Labs,CosmicCode,0.1.0,"Code search, signatures, dependencies and architecture for your AI assistant, from an index of your repository."
+2026-11-04T22:37:11.063Z,rawand-faraidun.linguify-vs,rawand-faraidun,Linguify,1.0.0,"Developer-first translation file manager, in the editor."
+2026-11-04T22:37:49.197Z,prompt-cost.prompt-cost,prompt-cost,Prompt Cost,1.0.5,"Estimate LLM token usage and API cost for a prompt, attached files, or two prompt versions. Counts run locally. No API key is required."
+2026-11-04T23:12:21.32Z,iamqazolp.agy-markdown-review,iamqazolp,Antigravity Markdown Review,1.0.0,"Applies Google Antigravity's Artifact Viewer style (callouts, tables, code blocks, carousels, and file links) to every Markdown review and preview in VS Code."
+2026-11-04T23:15:35.18Z,AdiSchein.vscode-volume-viewer,AdiSchein,Volume Viewer (remote-safe),0.1.0,View 3D medical image volumes (.nii / .nii.gz) with label overlays in a VS Code tab. Works over Remote-SSH.
