@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T15:17:12.077Z,wai-lin.vscode-spacefn,wai-lin,spacefn,0.2.2,spacefn support for VS Code: HTML injection for html tagged templates (Datastar) + SQL diagnostics for db queries.
+2026-11-04T15:22:27.457Z,sitholewb.daily-bread-statusbar,sitholewb,Daily Bible — Offline & Scripture Status Bar,1.0.0,"100% Offline Holy Bible (isiZulu 1959, English WEB & KJV) with glanceable status bar scriptures, parallel dual-reader, bookmarks, and curated mood themes."
+2026-11-04T15:27:58.147Z,hiddensc00re.rewrite-overlay,hiddensc00re,Rewrite Overlay,0.1.2,Enables a rewrite overlay coding practice mode.
+2026-11-04T15:38:24.123Z,appvision.appvision-development,appvision,AppVision Development,0.1.1,"Installs and keeps the AppVision Claude Code AL plugin up to date, and keeps AL projects working after plugin updates."
+2026-11-04T15:43:10.877Z,IvanBelkov.fractal-fern,IvanBelkov,Fractal Fern,0.0.2,
+2026-11-04T15:48:19.197Z,m1oky.grassgreen,m1oky,GrassGreen (G&G) Language Support,4.0.0,"Официальная поддержка системного языка программирования GrassGreen 4.0: синтаксис, TextMate подсветка gout/gin, IntelliSense автодополнение, компиляция по Ctrl+Shift+B, иконки файлов и сниппеты."
+2026-11-04T15:49:12.083Z,randompatch.dogierror,randompatch,dogierror,0.1.1,"A small sound when a new code error appears. Custom audio, a quiet cooldown, and a one-click mute."
+2026-11-04T15:57:08.897Z,rederive.sir-lang,rederive,SIR — Semantic IR for rederive,0.2.2,"Read and write SIR contracts with rdv's own checks as you type: binding and oracle hashes, the v0.5 lints, rule hovers and cross-file navigation, an outline of the rules, and a formatter that can never stale a binding."
+2026-11-04T15:58:56.45Z,vetrolog.vetrolog,vetrolog,VetroLog: Mobile & Remote Database Studio,1.5.0,"High-performance Database Inspector for Mobile (Flutter, React Native, Android) & Remote (PostgreSQL, MySQL, SQLite, MSSQL, Redis) with real-time WAL sync and interactive ER diagrams."
+2026-11-04T16:06:26.73Z,codetin.commandcode-usage,codetin,Command Code Usage,0.1.0,在状态栏显示 Command Code 套餐用量：5 小时、每周、每月额度与重置时间。
+2026-11-04T16:13:34.22Z,JinJunLiang.local-iconfont-hover,JinJunLiang,Iconfont 悬停预览,0.1.0,在 Vue、HTML 和样式代码中悬停 Unicode 编码，预览项目本地 iconfont 字体的真实图标。
