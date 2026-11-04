@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T13:21:44.567Z,ajayff4.ajayff4-claude-account-switcher,ajayff4,Ajayff4 Claude Account Switcher,0.1.0,"Switch between multiple Claude Code accounts in VS Code: add, switch, log in, export/import and delete profiles from a sidebar panel. Unofficial."
+2026-11-04T13:24:13.76Z,BitassertSoftware.bitassert,BitassertSoftware,BitAssert,1.0.1,"Generate reviewable web test cases from natural language, requirements documents or your repository, migrate Playwright, Cypress and Selenium tests or expand coverage around them, export test cases back to Playwright or Selenium code, and sync them with the BitAssert platform."
+2026-11-04T13:39:39.867Z,fenyue.viewbigfile,fenyue,Big File Viewer,0.2.6,"Open huge text/log files (4 GB+) instantly: chunked reads, virtualized scrolling, background line index, streaming search and safe line editing."
+2026-11-04T13:43:03.177Z,usableutilities.tinta-code-themes,usableutilities,Tinta – Code Themes,0.1.0,"Companion of the Tinta – Code Themes Mac app: every «Apply» in Tinta changes the theme of this editor instantly, interface and code included."
+2026-11-04T13:47:50.32Z,fenyue.viewhexfile,fenyue,Big Hex Viewer,0.2.4,"HxD-style hex viewer and in-place editor for any file: virtualized scrolling for huge files, O(1) offset jumps, byte search, copy as hex/text, overwrite editing."
+2026-11-04T13:51:27.103Z,JalaDesign.jala-sftp-helper,JalaDesign,Jala SFTP Helper,3.0.2,Helper extension to improve SFTP switching
+2026-11-04T13:55:45.403Z,detachhead.vsenv,detachhead,VSenv,0.0.1,Extension that allows you to set environment variables that are visible to other extensions
