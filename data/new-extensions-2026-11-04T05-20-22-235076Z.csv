@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T04:47:15.123Z,akashagarwal.git-range-diff,akashagarwal,Git Range Diff,0.1.1,"Review vibe-coded rebases with confidence: visualize `git range-diff` as a commit-by-commit, syntax-highlighted diff-of-diffs with side-by-side file comparisons."
+2026-11-04T04:49:43.927Z,parag-098.parallax-chronicle,parag-098,Parallax,0.1.0,Local-first development history for VS Code
+2026-11-04T04:59:27.49Z,AnderCMD.rizomadb-client,AnderCMD,RizomaDB Client for Databases,1.2.4,"Free, open-source database client. No telemetry, no accounts, no locked features."
+2026-11-04T05:05:10.26Z,keepware.cc-cadence,keepware,CC Cadence,0.0.15,"Chat in your editor with Claude (Max subscription via the local claude CLI) and any Anthropic-compatible model — switch models, keep the cadence."
+2026-11-04T05:12:10.6Z,ai-inspector.aind-agent,ai-inspector,AIND Agent,0.1.0,Cline 사용 로그(훅 이벤트·토큰)를 수집해 지정한 서버로 전송합니다.

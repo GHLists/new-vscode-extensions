@@ -12,19 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 04:19 UTC
+## Latest list — 2026-11-04 05:20 UTC
 
-New extensions published between 2026-11-04 02:19 UTC and 2026-11-04 04:19 UTC.
+New extensions published between 2026-11-04 03:20 UTC and 2026-11-04 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-04T04-19-38-989412Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T05-20-22-235076Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 03:19:43 | [DangoWeb.synthwave-2077-neon-glow](https://marketplace.visualstudio.com/items?itemName=DangoWeb.synthwave-2077-neon-glow) | Synthwave 2077 Neon Glow | 1.0.1 | Synthwave 2077 x Neon |
-| 2026-11-04 03:23:55 | [Badvoic3.cedt-grader-submit](https://marketplace.visualstudio.com/items?itemName=Badvoic3.cedt-grader-submit) | CEDT Grader Submit | 1.0.0 | Submit your code to CEDT Grader (cafe-grader) from VS Code: see scores, verdict… |
-| 2026-11-04 03:25:39 | [balaenis.dsh-ide-selection-vscode](https://marketplace.visualstudio.com/items?itemName=balaenis.dsh-ide-selection-vscode) | DSH IDE Selection (VS Code) | 0.2.0 | Shares VS Code editor selections with the local DSH IDE bridge. |
-| 2026-11-04 03:51:18 | [ChikenDEV.kiro-chat-vn](https://marketplace.visualstudio.com/items?itemName=ChikenDEV.kiro-chat-vn) | Kiro Ganz | 0.2.0 | Chat with kiro-cli (ACP) in VS Code editor tabs, one persistent kiro-cli proces… |
-| 2026-11-04 04:09:15 | [mir996.mir996clean](https://marketplace.visualstudio.com/items?itemName=mir996.mir996clean) | 传奇TXT脚本编辑器 | 0.9.2 | 传奇 TXT 脚本编辑器：手机号登录即用基础命令补全、着色、大纲、保存热重载等免费功能；会员解锁中文/拼音补全、CHM 文档悬浮、变量管理、M2 日志、爆率/… |
+| 2026-11-04 04:47:15 | [akashagarwal.git-range-diff](https://marketplace.visualstudio.com/items?itemName=akashagarwal.git-range-diff) | Git Range Diff | 0.1.1 | Review vibe-coded rebases with confidence: visualize `git range-diff` as a comm… |
+| 2026-11-04 04:49:43 | [parag-098.parallax-chronicle](https://marketplace.visualstudio.com/items?itemName=parag-098.parallax-chronicle) | Parallax | 0.1.0 | Local-first development history for VS Code |
+| 2026-11-04 04:59:27 | [AnderCMD.rizomadb-client](https://marketplace.visualstudio.com/items?itemName=AnderCMD.rizomadb-client) | RizomaDB Client for Databases | 1.2.4 | Free, open-source database client. No telemetry, no accounts, no locked feature… |
+| 2026-11-04 05:05:10 | [keepware.cc-cadence](https://marketplace.visualstudio.com/items?itemName=keepware.cc-cadence) | CC Cadence | 0.0.15 | Chat in your editor with Claude (Max subscription via the local claude CLI) and… |
+| 2026-11-04 05:12:10 | [ai-inspector.aind-agent](https://marketplace.visualstudio.com/items?itemName=ai-inspector.aind-agent) | AIND Agent | 0.1.0 | Cline 사용 로그(훅 이벤트·토큰)를 수집해 지정한 서버로 전송합니다. |
 
 ## Data source
 
