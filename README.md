@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-04 03:18 UTC
+## Latest list — 2026-11-04 04:19 UTC
 
-New extensions published between 2026-11-04 01:18 UTC and 2026-11-04 03:18 UTC.
+New extensions published between 2026-11-04 02:19 UTC and 2026-11-04 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-04T03-18-51-746298Z.csv)
+[Full CSV](data/new-extensions-2026-11-04T04-19-38-989412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 02:19:08 | [chinidev.want-to-learn](https://marketplace.visualstudio.com/items?itemName=chinidev.want-to-learn) | Wanna learn | 0.1.1 | Step-by-step coding guides with Claude: you write the code, Claude explains, gi… |
-| 2026-11-04 02:34:35 | [SKIASingularityContinuum.skia-vscode](https://marketplace.visualstudio.com/items?itemName=SKIASingularityContinuum.skia-vscode) | SKIA | 0.1.0 | Chat, explain, fix, and analyze code with SKIA from Visual Studio Code. |
-| 2026-11-04 02:38:05 | [agentbrief.agentbrief](https://marketplace.visualstudio.com/items?itemName=agentbrief.agentbrief) | Agentbrief — human to agent compiler | 0.1.0 | Compile messy asks into scoped, token-cheap briefs for Cursor and other coding… |
-| 2026-11-04 02:38:33 | [xtracomla.code-analyzer-extension](https://marketplace.visualstudio.com/items?itemName=xtracomla.code-analyzer-extension) | Code Analyzer EDU | 3.0.0 | Analiza cambios en el código para detectar comportamientos abruptos en entornos… |
-| 2026-11-04 02:51:01 | [HanYue.antigravity-quota-hanyue](https://marketplace.visualstudio.com/items?itemName=HanYue.antigravity-quota-hanyue) | Antigravity Accounts Monitor | 0.2.0 | Unofficial Antigravity quota dashboard with direct OAuth, multi-account monitor… |
-| 2026-11-04 02:51:22 | [vector12138.neurotrace-eeg-bdf](https://marketplace.visualstudio.com/items?itemName=vector12138.neurotrace-eeg-bdf) | NeuroTrace EEG | 0.1.0 | Inspect BDF and EDF recordings, signals and events in VS Code. |
-| 2026-11-04 02:56:56 | [pascalcouturier.skill-builder-companion](https://marketplace.visualstudio.com/items?itemName=pascalcouturier.skill-builder-companion) | Skill Builder Companion | 0.1.1 | See which Skill Builder project and AI resources apply to the code you have ope… |
-| 2026-11-04 03:06:27 | [HaibeiNan.usd-physics-visualizer](https://marketplace.visualstudio.com/items?itemName=HaibeiNan.usd-physics-visualizer) | USD Physics Visualizer | 0.1.0 | Inspect USD robots, joints, collisions, centers of mass and inertia directly in… |
+| 2026-11-04 03:19:43 | [DangoWeb.synthwave-2077-neon-glow](https://marketplace.visualstudio.com/items?itemName=DangoWeb.synthwave-2077-neon-glow) | Synthwave 2077 Neon Glow | 1.0.1 | Synthwave 2077 x Neon |
+| 2026-11-04 03:23:55 | [Badvoic3.cedt-grader-submit](https://marketplace.visualstudio.com/items?itemName=Badvoic3.cedt-grader-submit) | CEDT Grader Submit | 1.0.0 | Submit your code to CEDT Grader (cafe-grader) from VS Code: see scores, verdict… |
+| 2026-11-04 03:25:39 | [balaenis.dsh-ide-selection-vscode](https://marketplace.visualstudio.com/items?itemName=balaenis.dsh-ide-selection-vscode) | DSH IDE Selection (VS Code) | 0.2.0 | Shares VS Code editor selections with the local DSH IDE bridge. |
+| 2026-11-04 03:51:18 | [ChikenDEV.kiro-chat-vn](https://marketplace.visualstudio.com/items?itemName=ChikenDEV.kiro-chat-vn) | Kiro Ganz | 0.2.0 | Chat with kiro-cli (ACP) in VS Code editor tabs, one persistent kiro-cli proces… |
+| 2026-11-04 04:09:15 | [mir996.mir996clean](https://marketplace.visualstudio.com/items?itemName=mir996.mir996clean) | 传奇TXT脚本编辑器 | 0.9.2 | 传奇 TXT 脚本编辑器：手机号登录即用基础命令补全、着色、大纲、保存热重载等免费功能；会员解锁中文/拼音补全、CHM 文档悬浮、变量管理、M2 日志、爆率/… |
 
 ## Data source
 
