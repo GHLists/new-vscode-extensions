@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T06:09:12.763Z,Four.four-markdown-viewer,Four,Four Markdown Viewer,0.0.1,"Side-by-side Markdown preview with light/dark themes, Mermaid and Excalidraw diagrams."
+2026-11-04T06:15:54.83Z,codesprint.codesprint,codesprint,CodeSprint,1.0.0,"Focus timer, daily coding goals, streaks and productivity stats in your VS Code sidebar. Focus. Code. Improve."
+2026-11-04T06:17:32.093Z,MoMoya.deepseek-harness-ide,MoMoya,DeepSeek Harness by MoMoya,0.2.3,在 VS Code 侧边栏中运行 DeepSeek Harness，自动跟随当前工作区进行对话和代码编辑。
+2026-11-04T06:27:53.933Z,tuyen.runa-vscode,tuyen,"Runa — Static Site, Book & Wiki Authoring",0.1.0,"Language server integration, Tessera template & shortcode highlighting, @include navigation, and runa.toml schema validation for Runa sites, books, and wikis."
+2026-11-04T06:30:10.173Z,muhammedadnank.antigravity-telegram-hub,muhammedadnank,Antigravity Telegram Hub,1.0.0,Secure remote control and monitoring bridge for Google Antigravity IDE and VS Code via Telegram.
+2026-11-04T06:51:16.817Z,karson1992.vs-sidebar-terminal,karson1992,VS Sidebar Terminal,0.1.11,轻量的侧边栏终端：独立 PowerShell、多 Tab、关闭与重命名。
+2026-11-04T06:58:51.923Z,nvcnvn.dg-diagrams,nvcnvn,dg Diagrams,0.1.2,"Diagrams as code: write HCL, arrange by dragging, and let arrows route themselves. Built for reviews and coding agents."
+2026-11-04T07:06:30.66Z,KorczakTechnologiesBR.nbx-language,KorczakTechnologiesBR,Suporte à Linguagem Nebula,0.0.1,Suporte oficial à linguagem Nebula no Visual Studio Code.
