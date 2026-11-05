@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T21:23:32.767Z,NNNCODE.kenning-vscode,NNNCODE,Kenning — Hover Dictionary for English Learners,0.1.0,Hover an English word to see its pronunciation and its meaning in Chinese and English. Offline: the dictionary ships inside the extension.
+2026-11-05T21:27:56.743Z,uahmed.plan-pilot,uahmed,Plan Pilot,0.22.0,"Turn long AI-generated plans into a step-by-step visual view. Discuss each step with Claude Code or Copilot, and execute it one step at a time."
+2026-11-05T21:46:43.693Z,agentguards.agentguards,agentguards,AgentGuards — Extension Scanner,0.1.0,"Checks the extensions you install for malware and vulnerable bundled code, on the AgentGuards service. Warns you and offers one-click uninstall."
+2026-11-05T21:51:55.737Z,sfera-lang.sfera-lang,sfera-lang,Сфера,0.3.3,"Язык программирования «Сфера»: подсветка синтаксиса, ошибки в реальном времени, подсказки и автодополнение."
+2026-11-05T22:07:11.923Z,kinnector.antitheft,kinnector,Antitheft,0.1.43,"Stop infostealers in extensions, AI agents and the programs they start from stealing your wallets and passwords, and see who opens your secrets. Works with the Antitheft app."
