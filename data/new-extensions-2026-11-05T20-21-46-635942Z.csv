@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T19:12:12.12Z,nerdyabhi.claudex,nerdyabhi,Claudex,0.8.0,"Codex and Claude Code together. Local threads, plans, approvals, and diffs in VS Code."
+2026-11-05T19:19:32.507Z,HyperEZ.hyperezprogramminglanguagevscodeextension,HyperEZ,HyperEZ (Programación en español),0.8.2,"Lenguaje de programación en español para hacer de todo: juegos, webs, IA, datos, gráficos y sistemas. Colores, errores en vivo, autocompletado, F5 para ejecutar, formato, pruebas, consola interactiva, tema propio y tutorial."
+2026-11-05T19:26:43.003Z,lakshmisraj.codecitydev,lakshmisraj,CodeCityDev: 3D Codebase Map,0.1.0,"See your workspace as a 3D city: where it starts, what it depends on, how its workflows run, and how it grew. Jump between buildings and files."
+2026-11-05T19:31:15.96Z,goTeleport.beams,goTeleport,Beams,0.3.4,Manage and connect to Teleport Beams from VS Code
+2026-11-05T19:32:44.227Z,umehabiba.agentwatch-test-guard,umehabiba,AgentWatch Test Guard,0.1.0,"Flags skipped and focused tests, weak tests, @ts-ignore, eslint-disable and removed or weakened assertions in JavaScript and TypeScript projects."
+2026-11-05T19:39:24.063Z,Klaversof.coderay-ai,Klaversof,Coderay AI,0.1.4,"AI coding help inside VS Code, priced for India. Chat, edits and explanations on leading open-source models."
+2026-11-05T19:49:32.533Z,lucymystery.image-manager-pro,lucymystery,Image Manager Pro,3.3.10,"Browse, preview, edit, measure, compress and convert workspace images in VS Code."
+2026-11-05T19:57:21.003Z,SalimOmar.fcm,SalimOmar,FCM,1.0.0,Function Complexity Markers and function separators
+2026-11-05T19:59:18.243Z,padcom.pico-lang,padcom,Pico,0.4.0,"The Pico Programming Language: highlighting, diagnostics, completion, hover, rename, formatting and debugging, through the pico language server."

@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 19:20 UTC
+## Latest list — 2026-11-05 20:21 UTC
 
-New extensions published between 2026-11-05 17:20 UTC and 2026-11-05 19:20 UTC.
+New extensions published between 2026-11-05 18:21 UTC and 2026-11-05 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T19-20-35-970475Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T20-21-46-635942Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 18:24:18 | [UdayKiranPamu.flat-table-viewer](https://marketplace.visualstudio.com/items?itemName=UdayKiranPamu.flat-table-viewer) | Flat Table Viewer | 0.3.1 | Read CSV, TSV, custom-delimited, fixed-width and Parquet files as a colorful, s… |
-| 2026-11-05 18:29:25 | [vs-publisher-473885.parked-prompts](https://marketplace.visualstudio.com/items?itemName=vs-publisher-473885.parked-prompts) | Parked Prompts | 1.0.2 | Save chat prompts with their files and images for later, without sending them,… |
-| 2026-11-05 18:35:37 | [structlume-dev.structlume](https://marketplace.visualstudio.com/items?itemName=structlume-dev.structlume) | StructLume | 0.1.0 | See YAML files as an interactive graph, tree, and connection diagrams for Docke… |
-| 2026-11-05 18:38:56 | [SquirrelOps.ui-inspector-vscode](https://marketplace.visualstudio.com/items?itemName=SquirrelOps.ui-inspector-vscode) | UI Inspector | 0.1.1 | Inspect and drive mobile app UIs on local devices and BrowserStack. Switch betw… |
-| 2026-11-05 18:43:07 | [maik-kluwe.bonsai-git](https://marketplace.visualstudio.com/items?itemName=maik-kluwe.bonsai-git) | Bonsai Git | 0.1.0 | A Git client inside VS Code: commit graph, branches, staging by hunk or line, a… |
-| 2026-11-05 18:55:24 | [xiaodaidaitest.xiaodaidaitest-oidc-publish-test-v2](https://marketplace.visualstudio.com/items?itemName=xiaodaidaitest.xiaodaidaitest-oidc-publish-test-v2) | xiaodaidaitest-oidc-publish-test-v2 | 0.0.1 | Test extension for Marketplace OIDC trusted publishing (v2) |
-| 2026-11-05 19:11:11 | [xiaodaidaitest.xiaodaidaitest-oidc-publish-test-sprint-demo](https://marketplace.visualstudio.com/items?itemName=xiaodaidaitest.xiaodaidaitest-oidc-publish-test-sprint-demo) | xiaodaidaitest-oidc-publish-test-sprint… | 0.0.1 | Test extension for Marketplace OIDC trusted publishing (sprint celebration demo) |
-| 2026-11-05 19:13:05 | [arjmath.ducklens](https://marketplace.visualstudio.com/items?itemName=arjmath.ducklens) | DuckLens — Git Blame ligero + AI Commit | 0.2.0 | Blame inline y en hover, rápido y sin telemetría. Genera mensajes de commit con… |
+| 2026-11-05 19:12:12 | [nerdyabhi.claudex](https://marketplace.visualstudio.com/items?itemName=nerdyabhi.claudex) | Claudex | 0.8.0 | Codex and Claude Code together. Local threads, plans, approvals, and diffs in V… |
+| 2026-11-05 19:19:32 | [HyperEZ.hyperezprogramminglanguagevscodeextension](https://marketplace.visualstudio.com/items?itemName=HyperEZ.hyperezprogramminglanguagevscodeextension) | HyperEZ (Programación en español) | 0.8.2 | Lenguaje de programación en español para hacer de todo: juegos, webs, IA, datos… |
+| 2026-11-05 19:26:43 | [lakshmisraj.codecitydev](https://marketplace.visualstudio.com/items?itemName=lakshmisraj.codecitydev) | CodeCityDev: 3D Codebase Map | 0.1.0 | See your workspace as a 3D city: where it starts, what it depends on, how its w… |
+| 2026-11-05 19:31:15 | [goTeleport.beams](https://marketplace.visualstudio.com/items?itemName=goTeleport.beams) | Beams | 0.3.4 | Manage and connect to Teleport Beams from VS Code |
+| 2026-11-05 19:32:44 | [umehabiba.agentwatch-test-guard](https://marketplace.visualstudio.com/items?itemName=umehabiba.agentwatch-test-guard) | AgentWatch Test Guard | 0.1.0 | Flags skipped and focused tests, weak tests, @ts-ignore, eslint-disable and rem… |
+| 2026-11-05 19:39:24 | [Klaversof.coderay-ai](https://marketplace.visualstudio.com/items?itemName=Klaversof.coderay-ai) | Coderay AI | 0.1.4 | AI coding help inside VS Code, priced for India. Chat, edits and explanations o… |
+| 2026-11-05 19:49:32 | [lucymystery.image-manager-pro](https://marketplace.visualstudio.com/items?itemName=lucymystery.image-manager-pro) | Image Manager Pro | 3.3.10 | Browse, preview, edit, measure, compress and convert workspace images in VS Cod… |
+| 2026-11-05 19:57:21 | [SalimOmar.fcm](https://marketplace.visualstudio.com/items?itemName=SalimOmar.fcm) | FCM | 1.0.0 | Function Complexity Markers and function separators |
+| 2026-11-05 19:59:18 | [padcom.pico-lang](https://marketplace.visualstudio.com/items?itemName=padcom.pico-lang) | Pico | 0.4.0 | The Pico Programming Language: highlighting, diagnostics, completion, hover, re… |
 
 ## Data source
 
