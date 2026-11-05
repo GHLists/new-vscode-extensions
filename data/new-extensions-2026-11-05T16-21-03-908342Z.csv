@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T15:18:28.873Z,blazesoftware.sonic-pi-5-extension,blazesoftware,Sonic Pi 5 Extension,0.2.2,Language support and code running for Sonic Pi scripts
+2026-11-05T15:23:15.877Z,Jsoftgem.siglo-workflow-explorer,Jsoftgem,Siglo Workflow Explorer,1.0.0,"Visualize Siglo workflows, inspect step contracts and settings, and navigate between graphs and source."
+2026-11-05T15:23:49.897Z,Abdulla-Aldosari.runbox,Abdulla-Aldosari,RunBox,1.1.0,"Save and organize your terminal commands, then run them in one click, with reusable variables, favorites, and AI-powered generation and explanations."
+2026-11-05T15:28:50.863Z,sharma-daksh.shim-vscode-extension,sharma-daksh,SHIM — Adaptive API Compatibility Guard,1.0.1,Zero-downtime API evolution guard. Detects breaking response schema changes in real-time and auto-bridges equivalent fields.
+2026-11-05T15:29:22.943Z,vuuvv.tabai,vuuvv,TabAI,0.1.0,"AI inline completion and AI commit messages for VS Code. Works with any OpenAI-compatible server (LM Studio, Ollama, vLLM)."
+2026-11-05T15:33:34.79Z,Pavel-Halik.mei-mei-check,Pavel-Halik,Mei Mei check,0.0.1,This extension will check your code and give you picture of Mei Mei Leopard based on if it is correctly written.
+2026-11-05T15:34:28.243Z,RodrigoBritto.zconf,RodrigoBritto,zConf â€” Zephyr MCC-like,0.7.0,Configurador zConf para Zephyr/Microchip com download e preparaÃ§Ã£o automÃ¡tica do ambiente Zephyr4Microchip.
+2026-11-05T15:34:35.38Z,TechwastiInfotech.dev-utils-vscode-plugin,TechwastiInfotech,DevUtils - Developer Utilities,0.2.0,"All-in-one offline developer toolbox: Encoders, Formatters, Hash & UUID Generators, JWT Inspector, Case Converters, Line Tools and Webview Dashboard."
+2026-11-05T15:39:55.5Z,KaichuTheFox.melang,KaichuTheFox,Melang,0.1.1,Language support and native execution for Melang (.m).
+2026-11-05T15:46:20.48Z,elegantuvm.elegantuvm,elegantuvm,ElegantUVM - UVM-aware SystemVerilog,0.1.0,"UVM-aware SystemVerilog: one-click class graph, component topology with factory overrides, config_db cross-reference, UVM lint with quick fixes, slang elaboration diagnostics and an MCP server for AI agents. Free and open source, built on slang."
+2026-11-05T15:46:31.847Z,Hieromon.hexliteral,Hieromon,Hexliteral,1.0.0,GZIP-compress and convert to a hexadecimal literal byte array
+2026-11-05T15:54:34.52Z,DuyDatTong.review-hub-vscode,DuyDatTong,Review Hub,0.3.4,Review AI code changes inline with per-block Accept/Reject and bundled MCP setup for coding agents.
+2026-11-05T15:57:23.587Z,sheetxl.sheetxl-vscode,sheetxl,SheetXL — AI Ready Spreadsheet,0.9.0,Open Excel files in VS Code and work on them with your AI agent
+2026-11-05T15:59:53.813Z,sourceregistry.vm-manager-proxmox,sourceregistry,VM Manager – Proxmox VE,0.3.0,"Manage Proxmox VE virtual machines, nodes, power actions and metrics from VS Code."
+2026-11-05T16:06:50.81Z,chronosiq.chronosiq,chronosiq,ChronosIQ,0.1.0,"ChronosIQ coding agent — chat, inline edits, and tab completions. The extension hosts the agent-core loop."
