@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T06:30:39.35Z,IdanShalom.asm-lens,IdanShalom,Asm Lens,0.8.2,"See the assembly of every function right in the editor: instruction counts as CodeLens, two-way source/assembly highlighting, headers and templates. Uses Compiler Explorer or your local compiler. C, C++, Rust, Go, Python, Zig, Swift, D and Fortran."
+2026-11-05T06:37:59.257Z,X-Lens.x-lens,X-Lens,X-Lens,0.2.1,"Browse your X recommendations, replies and media in VS Code, with translation and a built-in local reader."
+2026-11-05T06:56:05.68Z,storeos.storeos-fluid,storeos,StoreOS Fluid,0.1.0,"Language support for StoreOS .fluid theme templates — Liquid syntax, {% schema %} IntelliSense, and drop completions."
