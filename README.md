@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 04:19 UTC
+## Latest list — 2026-11-05 05:20 UTC
 
-New extensions published between 2026-11-05 02:19 UTC and 2026-11-05 04:19 UTC.
+New extensions published between 2026-11-05 03:20 UTC and 2026-11-05 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T04-19-56-837499Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T05-20-09-247572Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 03:35:23 | [YujunHuang.drawslidescode](https://marketplace.visualstudio.com/items?itemName=YujunHuang.drawslidescode) | DrawSlidesCode | 0.1.0 | Edits and builds slide decks drawn in draw.io, as a fork of the Draw.io Integra… |
-| 2026-11-05 04:00:41 | [lodi.rfc-curp-clabe](https://marketplace.visualstudio.com/items?itemName=lodi.rfc-curp-clabe) | RFC CURP CLABE | 0.1.1 | RFC, CURP y CLABE en VS Code: explica, valida, corrige el dígito verificador y… |
-| 2026-11-05 04:00:46 | [pjdux.single-rust](https://marketplace.visualstudio.com/items?itemName=pjdux.single-rust) | Single Rust | 0.1.0 | Converts accidental single-quoted strings ('hello') in Rust files into double-q… |
-| 2026-11-05 04:03:27 | [ItemCoder.iremote](https://marketplace.visualstudio.com/items?itemName=ItemCoder.iremote) | iRemote — Deployment & Remote Host | 1.0.0 | PhpStorm-style deployment for VS Code: SFTP, FTP, FTPS, WebDAV and local server… |
-| 2026-11-05 04:07:45 | [Kotda.kotda-oled-light](https://marketplace.visualstudio.com/items?itemName=Kotda.kotda-oled-light) | Kotda OLED Light | 1.0.0 | A light theme with white backgrounds for color-inverted OLED displays. |
+| 2026-11-05 04:18:23 | [Gremnar.solder](https://marketplace.visualstudio.com/items?itemName=Gremnar.solder) | Solder | 0.1.1 | A lean coding agent in a side panel, for any OpenAI-compatible endpoint with to… |
+| 2026-11-05 04:21:17 | [kane-li-dev-6934.git-log-digger](https://marketplace.visualstudio.com/items?itemName=kane-li-dev-6934.git-log-digger) | Git Log Digger | 0.1.4 | Deep dive into the animated history of your codebase. Local-first dynamic Git t… |
+| 2026-11-05 04:34:10 | [duonganh.chat-selection-comment](https://marketplace.visualstudio.com/items?itemName=duonganh.chat-selection-comment) | Chat Selection Comment | 0.0.1 | Select text in a chat response, add an optional comment and images, and attach… |
+| 2026-11-05 04:46:00 | [ISWIX-LLC.iswix-vscode](https://marketplace.visualstudio.com/items?itemName=ISWIX-LLC.iswix-vscode) | IsWiX Installer Authoring | 0.0.1 | Open, view and edit IsWiX (.iswixproj) and WiX projects: WiX schema IntelliSens… |
+| 2026-11-05 04:57:31 | [tianjk.pcd-point-cloud-viewer](https://marketplace.visualstudio.com/items?itemName=tianjk.pcd-point-cloud-viewer) | PCD Point Cloud Viewer | 0.1.0 | Preview PCD point clouds, semantic labels and intensity directly in VS Code. |
+| 2026-11-05 05:11:16 | [ei2537.taqra-language](https://marketplace.visualstudio.com/items?itemName=ei2537.taqra-language) | Taqra | 0.1.0 | Language support and compiler integration for Taqra (.tqr). |
 
 ## Data source
 

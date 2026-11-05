@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T04:18:23.36Z,Gremnar.solder,Gremnar,Solder,0.1.1,"A lean coding agent in a side panel, for any OpenAI-compatible endpoint with tool calling."
+2026-11-05T04:21:17.593Z,kane-li-dev-6934.git-log-digger,kane-li-dev-6934,Git Log Digger,0.1.4,Deep dive into the animated history of your codebase. Local-first dynamic Git timeline & Pickaxe search.
+2026-11-05T04:34:10.253Z,duonganh.chat-selection-comment,duonganh,Chat Selection Comment,0.0.1,"Select text in a chat response, add an optional comment and images, and attach it to the chat input as a chip."
+2026-11-05T04:46:00.873Z,ISWIX-LLC.iswix-vscode,ISWIX-LLC,IsWiX Installer Authoring,0.0.1,"Open, view and edit IsWiX (.iswixproj) and WiX projects: WiX schema IntelliSense, a project tree, templates and conversion. Building needs Windows."
+2026-11-05T04:57:31.917Z,tianjk.pcd-point-cloud-viewer,tianjk,PCD Point Cloud Viewer,0.1.0,"Preview PCD point clouds, semantic labels and intensity directly in VS Code."
+2026-11-05T05:11:16.427Z,ei2537.taqra-language,ei2537,Taqra,0.1.0,Language support and compiler integration for Taqra (.tqr).
