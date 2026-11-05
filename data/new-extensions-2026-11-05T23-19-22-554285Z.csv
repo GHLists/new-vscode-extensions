@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T22:34:42.393Z,21CS.Gait-HLASM-Interpreter,21CS,Gait HLASM Interpreter,1.2.0,"A High Level Assembler interpreter for VS Code. Write, run and debug z/Architecture assembler without a mainframe."
+2026-11-05T22:40:00.66Z,jonwomack.mcp-switch,jonwomack,MCP Switch,0.1.0,"Let your VS Code agent turn MCP servers on and off. Exposes start/stop/restart/list as language-model tools that drive VS Code's own MCP lifecycle commands — your mcp.json configuration is read, never moved or rewritten."
+2026-11-05T23:05:51.677Z,Hexanilix.vs-image-corner,Hexanilix,Image Corner,0.1.0,Display images from configurable sources in independent VS Code views.
+2026-11-05T23:08:11.23Z,noxiousamir.dog-on-compile,noxiousamir,Dog on Compile,0.0.1,A dancing chihuahua pops up every time your code compiles successfully.

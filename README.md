@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 22:20 UTC
+## Latest list — 2026-11-05 23:19 UTC
 
-New extensions published between 2026-11-05 20:20 UTC and 2026-11-05 22:20 UTC.
+New extensions published between 2026-11-05 21:19 UTC and 2026-11-05 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T22-20-06-513588Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T23-19-22-554285Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 21:23:32 | [NNNCODE.kenning-vscode](https://marketplace.visualstudio.com/items?itemName=NNNCODE.kenning-vscode) | Kenning — Hover Dictionary for English… | 0.1.0 | Hover an English word to see its pronunciation and its meaning in Chinese and E… |
-| 2026-11-05 21:27:56 | [uahmed.plan-pilot](https://marketplace.visualstudio.com/items?itemName=uahmed.plan-pilot) | Plan Pilot | 0.22.0 | Turn long AI-generated plans into a step-by-step visual view. Discuss each step… |
-| 2026-11-05 21:46:43 | [agentguards.agentguards](https://marketplace.visualstudio.com/items?itemName=agentguards.agentguards) | AgentGuards — Extension Scanner | 0.1.0 | Checks the extensions you install for malware and vulnerable bundled code, on t… |
-| 2026-11-05 21:51:55 | [sfera-lang.sfera-lang](https://marketplace.visualstudio.com/items?itemName=sfera-lang.sfera-lang) | Сфера | 0.3.3 | Язык программирования «Сфера»: подсветка синтаксиса, ошибки в реальном времени,… |
-| 2026-11-05 22:07:11 | [kinnector.antitheft](https://marketplace.visualstudio.com/items?itemName=kinnector.antitheft) | Antitheft | 0.1.43 | Stop infostealers in extensions, AI agents and the programs they start from ste… |
+| 2026-11-05 22:34:42 | [21CS.Gait-HLASM-Interpreter](https://marketplace.visualstudio.com/items?itemName=21CS.Gait-HLASM-Interpreter) | Gait HLASM Interpreter | 1.2.0 | A High Level Assembler interpreter for VS Code. Write, run and debug z/Architec… |
+| 2026-11-05 22:40:00 | [jonwomack.mcp-switch](https://marketplace.visualstudio.com/items?itemName=jonwomack.mcp-switch) | MCP Switch | 0.1.0 | Let your VS Code agent turn MCP servers on and off. Exposes start/stop/restart/… |
+| 2026-11-05 23:05:51 | [Hexanilix.vs-image-corner](https://marketplace.visualstudio.com/items?itemName=Hexanilix.vs-image-corner) | Image Corner | 0.1.0 | Display images from configurable sources in independent VS Code views. |
+| 2026-11-05 23:08:11 | [noxiousamir.dog-on-compile](https://marketplace.visualstudio.com/items?itemName=noxiousamir.dog-on-compile) | Dog on Compile | 0.0.1 | A dancing chihuahua pops up every time your code compiles successfully. |
 
 ## Data source
 
