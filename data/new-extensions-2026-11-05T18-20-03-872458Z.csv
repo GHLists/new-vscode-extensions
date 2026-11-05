@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T17:20:38.55Z,YeixioLLC.toskar,YeixioLLC,Toskar,0.3.1,"Your local AI in VS Code: the models on your Toskar computer in Copilot Chat's model picker, and @toskar, Toskar's assistant, for questions about your code."
+2026-11-05T17:24:45.05Z,hoox-sh.axis-ide,hoox-sh,AXIS IDE,0.2.0,"AXIS chart IDE for VS Code — run Pine Script™ beside the editor with charts, results, and live sessions. Depends on PYNE Language Support (hoox-sh.pyne). Part of the HOOX open trading stack. Unofficial — not affiliated with TradingView, Inc."
+2026-11-05T17:30:18.707Z,rezendesfelipe.solacula-dark,rezendesfelipe,Solacula Dark,1.0.0,Solarized Dark + Dracula: fundo azul-petróleo do Solarized com os acentos vibrantes do Dracula.
+2026-11-05T17:32:46.02Z,hackaiz.hackaiz-editor,hackaiz,Hackaiz,0.1.1,"Request authorized passive analyses, read findings and open Hackaiz approvals"
+2026-11-05T17:36:46.82Z,NordicMoonlight.antigravity-quota-monitor-vs-code-ja,NordicMoonlight,Antigravityクォータモニター for Visual Studio Code,2.0.51,Visual Studio Codeのステータスバーに、Antigravityの5時間制限と週間制限の残量を表示します（対応モデル：Claude Opus/Sonnet 5.5、Gemini 3.8/4、GPT-OSS）。GoogleのAntigravity拡張機能と組み合わせて使います。無料版には、残量バー、アクティビティバーのサイドバー、ライト・ダーク両テーマのダッシュボード、古い会話ファイルのクリーナーが含まれ、37言語にも対応しています。Pro（拡張機能内で7日間無料体験、月額€2.99または買い切り€9.99）なら、5時間枠の自動スタート（任意）、リセット時刻の表示、使い切り予測、残
+2026-11-05T17:38:55.183Z,Dart-Code-Testing.dart-code-test-extension,Dart-Code-Testing,Dart-Code Test Extension,0.11.20261105,An extension for testing automated publishing. Not useful to you.
+2026-11-05T17:47:50.067Z,BeeTech.beetask-vscode,BeeTech,BeeTask,1.1.0,Gerenciamento e rastreamento de tarefas com cronômetro integrado ao VS Code
+2026-11-05T17:50:34.45Z,sigmoid-ide.hunch,sigmoid-ide,Hunch,0.1.0,"Experiment journal for ML: every run's code, config, metrics and why, as a tree in your editor. Local files, no account."
+2026-11-05T17:58:50.84Z,Somaraj.snowdrop-theme,Somaraj,Snowdrop Theme,1.0.0,"A soft, easy-on-the-eyes light theme inspired by iOS — three variants, accessible syntax colors (WCAG AA/AAA), tuned for C# and all popular languages, fully customizable."
+2026-11-05T18:02:07.13Z,ParnilVyawahare.undrift,ParnilVyawahare,UNDRIFT,1.0.0,Detect frontend-backend API contract drift directly in your VS Code workspace.
+2026-11-05T18:04:22.79Z,WilsonPilon.zxspectrum-basic,WilsonPilon,ZX Spectrum Basic,1.11.1,"ZX Spectrum (Sinclair BASIC) language support, snippets and build tasks for Basic Dignified"
+2026-11-05T18:06:48.513Z,arx-tools.arx-scripting-language-support,arx-tools,Arx Fatalis ASL,0.1.0,"Language support for the Arx Fatalis scripting language (.asl): highlighting, snippets, diagnostics, completions and navigation"
+2026-11-05T18:06:55.287Z,Avi.winui-svelte-vscode,Avi,winui-svelte,0.0.1,"Previews and completes winui-svelte's Fluent icons, colors and installed fonts in .svelte files, and turns a component's props into the CSS that sets the same value"
