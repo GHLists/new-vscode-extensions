@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T11:24:43.973Z,NickGholami.color-focus,NickGholami,Color Focus,1.0.0,"Highlight blocks of code with colors and labels, then focus on them, fold them, or stack them from every file into one view. Works in every language."
+2026-11-05T11:25:55.82Z,mrashutoshnigam.effective-config,mrashutoshnigam,Effective Config Viewer,0.2.3,"Shows the merged .NET appsettings or Python .env configuration for a chosen environment, with the source of every value."
+2026-11-05T11:29:05.137Z,MahdiMohammad.gherkin-java-runner,MahdiMohammad,Gherkin Runner for Java (Cucumber · Maven · Gradle),0.1.0,"Run and debug Cucumber scenarios, single Examples rows and tag expressions from VS Code's Test Explorer. Works with Maven and Gradle. Ctrl+click a step to jump to its Java step definition."
+2026-11-05T11:46:11.117Z,nbaxp.merge-open-docs,nbaxp,Merge Open Docs,0.1.3,将 VS Code 当前打开的所有文本文件合并到一个新的 Untitled 文档。Merge all open text files in VS Code into a single new Untitled document.
+2026-11-05T11:47:26.183Z,efliao.kifedit,efliao,kifedit,0.0.2,"SUO-KIF editing: checks, formatting, term pages, taxonomy trees, and queries."
+2026-11-05T12:06:56.18Z,JonProductions.flow-boards,JonProductions,Flow Boards,0.0.1,blank
+2026-11-05T12:12:59.227Z,xo-lang.xo,xo-lang,Xo Language,0.1.0,"Xo language support: syntax highlighting, the xo lsp language server, and the xo debugger."
