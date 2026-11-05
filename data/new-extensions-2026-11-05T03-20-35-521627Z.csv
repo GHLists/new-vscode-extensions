@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T02:14:39.4Z,msdoslite.siege-language-tools,msdoslite,Siege Language Tools,1.1.0,"Fast GAS, Skrit, Flick and Naming Key support with workspace diagnostics, completion and navigation."
+2026-11-05T02:23:07.14Z,PortOS.portos-smart-home-mcp,PortOS,Port OS Smart Home MCP,0.1.14,"Smart home MCP server for VS Code agent mode: control lights, thermostats, vacuums, cameras, locks and speakers from Philips Hue, Sonos, SmartThings and more. Hosted by Port OS; nothing runs locally."
+2026-11-05T02:49:44.567Z,discover-edge.taipan-lang,discover-edge,Taipan,0.4.3,"Taipan language support: highlighting, running files, and the taipan language server's diagnostics, completion, navigation, rename and formatting."
+2026-11-05T02:56:25.56Z,akashagarwal.rss-feed-curator,akashagarwal,RSS Feed Curator,0.1.0,"Curate global and per-project RSS/Atom feeds, get notified in VS Code/Cursor and macOS when new posts land, and track read/unread across every window."
+2026-11-05T03:06:05.55Z,recued.recued-kitchen,recued,Recued Kitchen,0.59.8,"Author Recued recipes, packs and compositions with offline validation, AI tools and optional Kitchen drafts."
+2026-11-05T03:11:10.347Z,quick-log.vscode-quick-log,quick-log,Quick Log by Jianvey,1.0.0,"Insert console.log with one shortcut, a custom prefix, and a configurable message template."
+2026-11-05T03:14:44.843Z,praveenojha.antigravity-mic,praveenojha,Mic+ — AI Voice Input for IDEs,0.0.2,"Mic+ — More than a microphone: Zero-latency on-device Whisper voice input, multi-agent AI chat injection, wireless mobile phone mic studio, and automatic 30s chunking for Antigravity IDE, VS Code, Cursor, Cline, and Roo Code."
+2026-11-05T03:15:40.077Z,lodi.claudia-status,lodi,Claudia Status,0.8.1,"Cuánto te queda de Claude Code en la barra de estado: contexto, límite de 5 h y de la semana, modelo y sesión."
+2026-11-05T03:15:59.807Z,X-Lens.tw-view,X-Lens,FeedLens,0.1.0,Read your X feed in VS Code through a locally running companion app.

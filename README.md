@@ -12,20 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 02:20 UTC
+## Latest list — 2026-11-05 03:20 UTC
 
-New extensions published between 2026-11-05 00:20 UTC and 2026-11-05 02:20 UTC.
+New extensions published between 2026-11-05 01:20 UTC and 2026-11-05 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T02-20-20-671525Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T03-20-35-521627Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 01:22:28 | [jiuxianzai.git-graph-jetbrains](https://marketplace.visualstudio.com/items?itemName=jiuxianzai.git-graph-jetbrains) | Git Graph (JetBrains) | 1.0.0 | A community fork of JetBrains Git for VS Code & Cursor with full Simplified Chi… |
-| 2026-11-05 01:24:36 | [KodaRising.kodarising](https://marketplace.visualstudio.com/items?itemName=KodaRising.kodarising) | Koda Rising: AI Coding Assistant | 0.14.1 | AI coding, priced for here — run agent tasks with local (Naira) prepaid billing… |
-| 2026-11-05 01:40:13 | [fliwright.fliwright-vscode](https://marketplace.visualstudio.com/items?itemName=fliwright.fliwright-vscode) | Fliwright | 0.2.0 | Flutter automation, recording, mocks, traces, and Riverpod state tools for Fliw… |
-| 2026-11-05 01:45:00 | [TOBESOFT-Publisher.testprostudio](https://marketplace.visualstudio.com/items?itemName=TOBESOFT-Publisher.testprostudio) | TESTPro Studio [Beta] | 1.0.1 | Nexacro 웹 화면 테스트 자동화(TESTPro/JEBI 엔진)의 테스트케이스·시나리오를 json + git으로 작성·녹화·실행·관리하는… |
-| 2026-11-05 01:57:03 | [vansoski.coloredi](https://marketplace.visualstudio.com/items?itemName=vansoski.coloredi) | ColorEDI | 1.0.0 | Colora e explica arquivos EDI posicionais com base em layouts JSON. |
-| 2026-11-05 02:06:22 | [yoshi47.agent-review-notes](https://marketplace.visualstudio.com/items?itemName=yoshi47.agent-review-notes) | Agent Review Notes | 0.1.0 | Read a pull request with your AI agent: ordered explanation cards and line-by-l… |
+| 2026-11-05 02:14:39 | [msdoslite.siege-language-tools](https://marketplace.visualstudio.com/items?itemName=msdoslite.siege-language-tools) | Siege Language Tools | 1.1.0 | Fast GAS, Skrit, Flick and Naming Key support with workspace diagnostics, compl… |
+| 2026-11-05 02:23:07 | [PortOS.portos-smart-home-mcp](https://marketplace.visualstudio.com/items?itemName=PortOS.portos-smart-home-mcp) | Port OS Smart Home MCP | 0.1.14 | Smart home MCP server for VS Code agent mode: control lights, thermostats, vacu… |
+| 2026-11-05 02:49:44 | [discover-edge.taipan-lang](https://marketplace.visualstudio.com/items?itemName=discover-edge.taipan-lang) | Taipan | 0.4.3 | Taipan language support: highlighting, running files, and the taipan language s… |
+| 2026-11-05 02:56:25 | [akashagarwal.rss-feed-curator](https://marketplace.visualstudio.com/items?itemName=akashagarwal.rss-feed-curator) | RSS Feed Curator | 0.1.0 | Curate global and per-project RSS/Atom feeds, get notified in VS Code/Cursor an… |
+| 2026-11-05 03:06:05 | [recued.recued-kitchen](https://marketplace.visualstudio.com/items?itemName=recued.recued-kitchen) | Recued Kitchen | 0.59.8 | Author Recued recipes, packs and compositions with offline validation, AI tools… |
+| 2026-11-05 03:11:10 | [quick-log.vscode-quick-log](https://marketplace.visualstudio.com/items?itemName=quick-log.vscode-quick-log) | Quick Log by Jianvey | 1.0.0 | Insert console.log with one shortcut, a custom prefix, and a configurable messa… |
+| 2026-11-05 03:14:44 | [praveenojha.antigravity-mic](https://marketplace.visualstudio.com/items?itemName=praveenojha.antigravity-mic) | Mic+ — AI Voice Input for IDEs | 0.0.2 | Mic+ — More than a microphone: Zero-latency on-device Whisper voice input, mult… |
+| 2026-11-05 03:15:40 | [lodi.claudia-status](https://marketplace.visualstudio.com/items?itemName=lodi.claudia-status) | Claudia Status | 0.8.1 | Cuánto te queda de Claude Code en la barra de estado: contexto, límite de 5 h y… |
+| 2026-11-05 03:15:59 | [X-Lens.tw-view](https://marketplace.visualstudio.com/items?itemName=X-Lens.tw-view) | FeedLens | 0.1.0 | Read your X feed in VS Code through a locally running companion app. |
 
 ## Data source
 
