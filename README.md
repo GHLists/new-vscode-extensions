@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 03:20 UTC
+## Latest list — 2026-11-05 04:19 UTC
 
-New extensions published between 2026-11-05 01:20 UTC and 2026-11-05 03:20 UTC.
+New extensions published between 2026-11-05 02:19 UTC and 2026-11-05 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T03-20-35-521627Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T04-19-56-837499Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 02:14:39 | [msdoslite.siege-language-tools](https://marketplace.visualstudio.com/items?itemName=msdoslite.siege-language-tools) | Siege Language Tools | 1.1.0 | Fast GAS, Skrit, Flick and Naming Key support with workspace diagnostics, compl… |
-| 2026-11-05 02:23:07 | [PortOS.portos-smart-home-mcp](https://marketplace.visualstudio.com/items?itemName=PortOS.portos-smart-home-mcp) | Port OS Smart Home MCP | 0.1.14 | Smart home MCP server for VS Code agent mode: control lights, thermostats, vacu… |
-| 2026-11-05 02:49:44 | [discover-edge.taipan-lang](https://marketplace.visualstudio.com/items?itemName=discover-edge.taipan-lang) | Taipan | 0.4.3 | Taipan language support: highlighting, running files, and the taipan language s… |
-| 2026-11-05 02:56:25 | [akashagarwal.rss-feed-curator](https://marketplace.visualstudio.com/items?itemName=akashagarwal.rss-feed-curator) | RSS Feed Curator | 0.1.0 | Curate global and per-project RSS/Atom feeds, get notified in VS Code/Cursor an… |
-| 2026-11-05 03:06:05 | [recued.recued-kitchen](https://marketplace.visualstudio.com/items?itemName=recued.recued-kitchen) | Recued Kitchen | 0.59.8 | Author Recued recipes, packs and compositions with offline validation, AI tools… |
-| 2026-11-05 03:11:10 | [quick-log.vscode-quick-log](https://marketplace.visualstudio.com/items?itemName=quick-log.vscode-quick-log) | Quick Log by Jianvey | 1.0.0 | Insert console.log with one shortcut, a custom prefix, and a configurable messa… |
-| 2026-11-05 03:14:44 | [praveenojha.antigravity-mic](https://marketplace.visualstudio.com/items?itemName=praveenojha.antigravity-mic) | Mic+ — AI Voice Input for IDEs | 0.0.2 | Mic+ — More than a microphone: Zero-latency on-device Whisper voice input, mult… |
-| 2026-11-05 03:15:40 | [lodi.claudia-status](https://marketplace.visualstudio.com/items?itemName=lodi.claudia-status) | Claudia Status | 0.8.1 | Cuánto te queda de Claude Code en la barra de estado: contexto, límite de 5 h y… |
-| 2026-11-05 03:15:59 | [X-Lens.tw-view](https://marketplace.visualstudio.com/items?itemName=X-Lens.tw-view) | FeedLens | 0.1.0 | Read your X feed in VS Code through a locally running companion app. |
+| 2026-11-05 03:35:23 | [YujunHuang.drawslidescode](https://marketplace.visualstudio.com/items?itemName=YujunHuang.drawslidescode) | DrawSlidesCode | 0.1.0 | Edits and builds slide decks drawn in draw.io, as a fork of the Draw.io Integra… |
+| 2026-11-05 04:00:41 | [lodi.rfc-curp-clabe](https://marketplace.visualstudio.com/items?itemName=lodi.rfc-curp-clabe) | RFC CURP CLABE | 0.1.1 | RFC, CURP y CLABE en VS Code: explica, valida, corrige el dígito verificador y… |
+| 2026-11-05 04:00:46 | [pjdux.single-rust](https://marketplace.visualstudio.com/items?itemName=pjdux.single-rust) | Single Rust | 0.1.0 | Converts accidental single-quoted strings ('hello') in Rust files into double-q… |
+| 2026-11-05 04:03:27 | [ItemCoder.iremote](https://marketplace.visualstudio.com/items?itemName=ItemCoder.iremote) | iRemote — Deployment & Remote Host | 1.0.0 | PhpStorm-style deployment for VS Code: SFTP, FTP, FTPS, WebDAV and local server… |
+| 2026-11-05 04:07:45 | [Kotda.kotda-oled-light](https://marketplace.visualstudio.com/items?itemName=Kotda.kotda-oled-light) | Kotda OLED Light | 1.0.0 | A light theme with white backgrounds for color-inverted OLED displays. |
 
 ## Data source
 

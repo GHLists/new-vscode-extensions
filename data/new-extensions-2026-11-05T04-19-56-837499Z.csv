@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T03:35:23.51Z,YujunHuang.drawslidescode,YujunHuang,DrawSlidesCode,0.1.0,"Edits and builds slide decks drawn in draw.io, as a fork of the Draw.io Integration of Henning Dieterichs. Not made or endorsed by draw.io Ltd."
+2026-11-05T04:00:41.647Z,lodi.rfc-curp-clabe,lodi,RFC CURP CLABE,0.1.1,"RFC, CURP y CLABE en VS Code: explica, valida, corrige el dígito verificador y genera datos de prueba. Todo local."
+2026-11-05T04:00:46.86Z,pjdux.single-rust,pjdux,Single Rust,0.1.0,"Converts accidental single-quoted strings ('hello') in Rust files into double-quoted string literals, leaving char literals, lifetimes and labels alone."
+2026-11-05T04:03:27.153Z,ItemCoder.iremote,ItemCoder,iRemote — Deployment & Remote Host,1.0.0,"PhpStorm-style deployment for VS Code: SFTP, FTP, FTPS, WebDAV and local servers with path mappings, auto-upload, Remote Host browser, direct remote editing, sync and compare."
+2026-11-05T04:07:45.493Z,Kotda.kotda-oled-light,Kotda,Kotda OLED Light,1.0.0,A light theme with white backgrounds for color-inverted OLED displays.
