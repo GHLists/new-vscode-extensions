@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 01:21 UTC
+## Latest list — 2026-11-05 02:20 UTC
 
-New extensions published between 2026-11-04 23:21 UTC and 2026-11-05 01:21 UTC.
+New extensions published between 2026-11-05 00:20 UTC and 2026-11-05 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T01-21-15-95066Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T02-20-20-671525Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 00:15:31 | [corentin-gautier.amend-any-commit](https://marketplace.visualstudio.com/items?itemName=corentin-gautier.amend-any-commit) | Amend Any Commit | 0.5.0 | Edit (amend) the message of any commit, not just the last one: right-click it i… |
-| 2026-11-05 00:54:22 | [ExNihiloLLC.hide-dotfolders](https://marketplace.visualstudio.com/items?itemName=ExNihiloLLC.hide-dotfolders) | Hide Dotfolders | 1.0.0 | Hide dotfolders in the explorer |
-| 2026-11-05 00:54:43 | [Jamesliu.openai-api-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.openai-api-usage) | OpenAI API Usage | 0.1.7 | Query OpenAI organization costs and text completion usage from VS Code. |
-| 2026-11-05 00:56:45 | [Mindkerchief.pg-sql-intellisense](https://marketplace.visualstudio.com/items?itemName=Mindkerchief.pg-sql-intellisense) | PL/pgSQL IntelliSense | 1.0.0 | Zero-config workspace-wide PostgreSQL DDL and PL/pgSQL function IntelliSense, S… |
-| 2026-11-05 00:58:51 | [Jamesliu.vscode-glm-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-glm-usage) | GLM Coding Plan Usage (Jamesliu) | 0.1.2 | 在 VS Code 狀態列顯示 GLM Coding Plan 用量。 |
-| 2026-11-05 00:59:03 | [Jamesliu.vscode-opencode-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-opencode-usage) | OpenCode Go Usage (Jamesliu) | 0.5.3 | 使用同一把 API Key 提供 OpenCode Go 聊天模型、五小時預估次數、方案用量與本機請求明細 |
-| 2026-11-05 00:59:18 | [Jamesliu.vscode-openai-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-openai-usage) | OpenAI Codex Usage (Jamesliu) | 0.1.3 | 在 VS Code 狀態列顯示 OpenAI Codex 5 小時與每週用量。 |
-| 2026-11-05 01:13:36 | [hboulal.session-groups](https://marketplace.visualstudio.com/items?itemName=hboulal.session-groups) | Session Groups | 0.1.0 | A side panel of your own groups of coding-agent sessions: each session runs in… |
+| 2026-11-05 01:22:28 | [jiuxianzai.git-graph-jetbrains](https://marketplace.visualstudio.com/items?itemName=jiuxianzai.git-graph-jetbrains) | Git Graph (JetBrains) | 1.0.0 | A community fork of JetBrains Git for VS Code & Cursor with full Simplified Chi… |
+| 2026-11-05 01:24:36 | [KodaRising.kodarising](https://marketplace.visualstudio.com/items?itemName=KodaRising.kodarising) | Koda Rising: AI Coding Assistant | 0.14.1 | AI coding, priced for here — run agent tasks with local (Naira) prepaid billing… |
+| 2026-11-05 01:40:13 | [fliwright.fliwright-vscode](https://marketplace.visualstudio.com/items?itemName=fliwright.fliwright-vscode) | Fliwright | 0.2.0 | Flutter automation, recording, mocks, traces, and Riverpod state tools for Fliw… |
+| 2026-11-05 01:45:00 | [TOBESOFT-Publisher.testprostudio](https://marketplace.visualstudio.com/items?itemName=TOBESOFT-Publisher.testprostudio) | TESTPro Studio [Beta] | 1.0.1 | Nexacro 웹 화면 테스트 자동화(TESTPro/JEBI 엔진)의 테스트케이스·시나리오를 json + git으로 작성·녹화·실행·관리하는… |
+| 2026-11-05 01:57:03 | [vansoski.coloredi](https://marketplace.visualstudio.com/items?itemName=vansoski.coloredi) | ColorEDI | 1.0.0 | Colora e explica arquivos EDI posicionais com base em layouts JSON. |
+| 2026-11-05 02:06:22 | [yoshi47.agent-review-notes](https://marketplace.visualstudio.com/items?itemName=yoshi47.agent-review-notes) | Agent Review Notes | 0.1.0 | Read a pull request with your AI agent: ordered explanation cards and line-by-l… |
 
 ## Data source
 

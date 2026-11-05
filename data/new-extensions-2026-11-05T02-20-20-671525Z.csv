@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T01:22:28.79Z,jiuxianzai.git-graph-jetbrains,jiuxianzai,Git Graph (JetBrains),1.0.0,"A community fork of JetBrains Git for VS Code & Cursor with full Simplified Chinese UI, prefix-grouped branch tree, Conventional Commit type picker, resizable commit box and a compact, readable Git log."
+2026-11-05T01:24:36.797Z,KodaRising.kodarising,KodaRising,Koda Rising: AI Coding Assistant,0.14.1,"AI coding, priced for here — run agent tasks with local (Naira) prepaid billing, and index your repo for smarter context."
+2026-11-05T01:40:13.387Z,fliwright.fliwright-vscode,fliwright,Fliwright,0.2.0,"Flutter automation, recording, mocks, traces, and Riverpod state tools for Fliwright."
+2026-11-05T01:45:00.67Z,TOBESOFT-Publisher.testprostudio,TOBESOFT-Publisher,TESTPro Studio [Beta],1.0.1,Nexacro 웹 화면 테스트 자동화(TESTPro/JEBI 엔진)의 테스트케이스·시나리오를 json + git으로 작성·녹화·실행·관리하는 도구
+2026-11-05T01:57:03.833Z,vansoski.coloredi,vansoski,ColorEDI,1.0.0,Colora e explica arquivos EDI posicionais com base em layouts JSON.
+2026-11-05T02:06:22.953Z,yoshi47.agent-review-notes,yoshi47,Agent Review Notes,0.1.0,Read a pull request with your AI agent: ordered explanation cards and line-by-line Q&A threads on the diff
