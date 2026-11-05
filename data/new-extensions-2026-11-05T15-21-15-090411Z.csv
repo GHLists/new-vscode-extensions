@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T14:12:57.42Z,Safarli.safarli,Safarli,Safarli,0.1.5,"A native English programming language with offline verification, clarification and a private Beta review experience."
+2026-11-05T14:17:24.433Z,HiTLandCo.md-reader-rtl,HiTLandCo,MD Reader +RTL,0.1.0,"Read Markdown as a clean page inside the editor, with automatic RTL for Persian and Arabic. By HiT Land."
+2026-11-05T14:27:17.857Z,intellijsfcc.intellij-sfcc,intellijsfcc,Salesforce B2C Commerce (Intellij SFCC),1.0.0,"Salesforce B2C Commerce development in VS Code: SFCC and SFRA IntelliSense, ISML, TypeScript, pipelines, debugging, deployment, logs and MCP. Paid with a 7-day trial."
+2026-11-05T14:29:17.42Z,laravelcom.laravel-knowledge-assistant,laravelcom,Laravel Knowledge Assistant,1.0.0,Offline Arabic Laravel reference library with searchable Markdown topics.
+2026-11-05T14:33:02.173Z,iamqazolp.vscode-gradient-themes,iamqazolp,VSCode Gradient Themes,1.2.0,"Full-workbench atmospheric gradient meshes, single-hue ombré themes, and a 0ms Status Bar (🎲) mood roller with 30 curated palettes."
+2026-11-05T14:34:08.273Z,OliverFawcett.meetings-calendar,OliverFawcett,Meetings Calendar,0.1.0,"Your upcoming Google Calendar meetings in the activity bar, with one-click join for Google Meet, Zoom and Teams."
+2026-11-05T14:34:09.943Z,MarkPhamm.cte-diff,MarkPhamm,CTE Diff for dbt and Snowflake,0.4.0,"Preview any CTE's rows, and compare the same CTE on both sides of a diff, straight from the editor. Runs through dbt show, so Jinja, refs and your Snowflake profile just work."
+2026-11-05T14:38:00.72Z,Sekvens.sekvens-xlf-translator,Sekvens,AL XLIF Translator,1.0.1,Translates Business Central XLIF Files
+2026-11-05T14:41:09.993Z,fama.mercurial-graph,fama,Mercurial Graph,0.1.0,"Visualize Mercurial commit history with branches, bookmarks, tags, and revision diffs"
+2026-11-05T14:46:34.693Z,bislink360.semantic-markdown,bislink360,Semantic Markdown (.smd),3.0.0,"Semantic Markdown: Markdown for humans and AI agents. Callouts, colors, diagrams, math, decisions, risks, APIs, KPIs — with live preview, validation, and token-efficient agent views."
+2026-11-05T14:50:10.38Z,SugaiMasayoshi.natural-block,SugaiMasayoshi,natural_block,0.1.0,"Syntax highlighting for natural_block, a markup language that leaves ordinary prose alone."
+2026-11-05T14:50:28.99Z,345096093.session-tree,345096093,SessionTree,0.1.9,Conversation forks in the Explorer. Codex first; other agents can follow.
+2026-11-05T15:03:29.323Z,TS-Laws.vscode-tslaws,TS-Laws,tsc-laws,0.6.4,"tsc-laws for VS Code: law failures show live on the law and on the code it exercises, with CodeLens, Test Explorer and commands"
+2026-11-05T15:04:36.217Z,The4leepy.deepseek-pre-edit-review,The4leepy,Pre-edit Review for DeepSeek Harness,0.2.5,Unofficial community extension: review agent-proposed file changes as an editable diff before anything is written to disk. Requires the dsh-pre-edit-review DSH Host plugin.
+2026-11-05T15:11:48.763Z,lokashaka.lokashaka,lokashaka,Lokashaka,1.0.0,"Your Lokashaka character keeps you company while you code: she panics at errors, cheers when a run succeeds, and loves headpats."
+2026-11-05T15:16:41.99Z,BeenTech.agent-kitchen,BeenTech,Agent Kitchen,1.0.0,A live pixel-art restaurant kitchen where your Claude Code and GitHub Copilot sessions are chefs cooking orders.
