@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T09:19:13.453Z,ahmadanshori.kavitori-theme,ahmadanshori,Kavitori Theme,1.0.0,An elegant dark theme: a charcoal interface from Dark 2026 with colorful One Dark Pro syntax highlighting.
+2026-11-05T09:19:38.493Z,zigang93.pnpm-safe-lens,zigang93,pnpm Safe Lens,0.4.0,"See which version of each pnpm catalog dependency you can install today, before pnpm's minimumReleaseAge blocks it."
+2026-11-05T09:20:44.703Z,Ashling.riscfree-vscode,Ashling,Ashling RiscFree™ for Embedded Software Development,26.4.0,"Develop, build and debug embedded software for Arm, RISC-V and MIPS ARC targets."
+2026-11-05T09:22:45.057Z,zovo.context-drift,zovo,Context Drift for AGENTS.md & CLAUDE.md,0.1.1,"Finds stale facts in AGENTS.md, CLAUDE.md, GEMINI.md, Cursor and Copilot rules: missing npm scripts, make targets and paths, the wrong package manager, wrong Node/Python/Go versions. Local, no network."
+2026-11-05T09:23:43.637Z,gbe-Lang.gbe-runner,gbe-Lang,Gbé Runner,1.1.0,"Langage Gbé : coloration syntaxique, autocomplétion, aide à la signature, compilation et exécution sous Windows, macOS et Linux."
+2026-11-05T09:27:44.96Z,stateward.stateward-vscode,stateward,Stateward,1.0.0,"Exclusive states and predictable code paths for TypeScript and React, as you type: the states your code allows but never means, with the context and the fix."
+2026-11-05T09:41:15.663Z,sichen7263.hermes-for-vscode,sichen7263,Hermes for VS Code,0.3.6,Launch Hermes Agent TUI in an editor-area split terminal tab.
+2026-11-05T09:52:45.537Z,browsitory.browsitory,browsitory,Browsitory,0.3.0,"A full Git client inside VSCode: commit graph, staging by hunk or line, branches, rebase, stashes, tags, worktrees and pull requests."
+2026-11-05T10:04:34.5Z,myspec.myspec-vscode,myspec,MySpec,0.1.0,"Browse MySpec projects, spec files, revisions, attachments, discussions and tasks without leaving VS Code."
+2026-11-05T10:10:14.837Z,QASystemsGmbH.cantata-vscode-core,QASystemsGmbH,Cantata VSCode Core,1.0.0,Shared core services for Cantata VS Code extensions

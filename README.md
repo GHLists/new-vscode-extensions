@@ -12,27 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 09:19 UTC
+## Latest list — 2026-11-05 10:20 UTC
 
-New extensions published between 2026-11-05 07:19 UTC and 2026-11-05 09:19 UTC.
+New extensions published between 2026-11-05 08:20 UTC and 2026-11-05 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T09-19-44-172071Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T10-20-52-291526Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 08:15:27 | [YuvrajRastogi.matte-minimal](https://marketplace.visualstudio.com/items?itemName=YuvrajRastogi.matte-minimal) | Matte Minimal - Vercel, Xcode, Cursor,… | 1.1.0 | Pure Black. Perfect Contrast. Refined dark and light themes inspired by Cursor,… |
-| 2026-11-05 08:20:34 | [KrushnaKoshatwar.codefox](https://marketplace.visualstudio.com/items?itemName=KrushnaKoshatwar.codefox) | CodeFox | 0.0.3 | A tiny pixel fox that roams your Explorer sidebar. Click to jump, hold to crouc… |
-| 2026-11-05 08:21:21 | [benquike.omnicomment](https://marketplace.visualstudio.com/items?itemName=benquike.omnicomment) | OmniComment - Universal Comments & Anno… | 0.3.12 | Universal commenting and inline annotation system for editors, web, and AI agen… |
-| 2026-11-05 08:35:26 | [EAZYBRIZI.css-utility-D5](https://marketplace.visualstudio.com/items?itemName=EAZYBRIZI.css-utility-D5) | CSS Utility D5 | 1.0.0 | Разбирает CSS-файл с @utility и подсказывает классы при вводе className |
-| 2026-11-05 08:35:58 | [luhaifeng666.vscode-tetris](https://marketplace.visualstudio.com/items?itemName=luhaifeng666.vscode-tetris) | 俄罗斯方块 | 0.4.0 | 在侧边栏里玩一局经典俄罗斯方块。一个快捷键开始，失焦自动暂停，关掉即摸鱼。 |
-| 2026-11-05 08:50:00 | [MohammadAhmedAmer.quickmarkBookmark](https://marketplace.visualstudio.com/items?itemName=MohammadAhmedAmer.quickmarkBookmark) | Quick Mark | 0.0.1 | Bookmark manager for VS Code — store, organize, and share project bookmarks (fi… |
-| 2026-11-05 08:52:00 | [stanfelixskz.dashcam](https://marketplace.visualstudio.com/items?itemName=stanfelixskz.dashcam) | Dashcam | 0.1.0 | A dashcam for your code: it records what happens while you work, and when somet… |
-| 2026-11-05 09:00:58 | [Mihailik.kabibi-vscode](https://marketplace.visualstudio.com/items?itemName=Mihailik.kabibi-vscode) | 🐚︎ Kabibi Shell | 0.1.0 | Kabibi shell for VS Code with Copilot terminal tools |
-| 2026-11-05 09:04:36 | [pair-flow.pair-flow](https://marketplace.visualstudio.com/items?itemName=pair-flow.pair-flow) | Pair Flow | 0.4.0 | Build with AI one reviewed code chunk at a time. |
-| 2026-11-05 09:05:30 | [jamartif.gitsight-free](https://marketplace.visualstudio.com/items?itemName=jamartif.gitsight-free) | GitSight — Free Git Supercharged | 0.2.3 | 100% free and open-source Git superpowers for VS Code: inline blame, hovers, Co… |
-| 2026-11-05 09:06:06 | [akshaikumar23.gitwise](https://marketplace.visualstudio.com/items?itemName=akshaikumar23.gitwise) | Gitwise | 0.3.0 | See who changed every line and why, your whole history in a commit graph, a reb… |
-| 2026-11-05 09:11:50 | [ethan-heo.markdown-selection-notes](https://marketplace.visualstudio.com/items?itemName=ethan-heo.markdown-selection-notes) | Markdown Selection Notes | 1.0.2 | Markdown Preview에서 드래그한 영역에 메모를 남깁니다. |
-| 2026-11-05 09:14:16 | [jamartif.wrenchit](https://marketplace.visualstudio.com/items?itemName=jamartif.wrenchit) | WrenchIT | 1.2.5 | Utilidades rápidas: codificar/decodificar Base64, limpiar/formatear JSON de Gra… |
+| 2026-11-05 09:19:13 | [ahmadanshori.kavitori-theme](https://marketplace.visualstudio.com/items?itemName=ahmadanshori.kavitori-theme) | Kavitori Theme | 1.0.0 | An elegant dark theme: a charcoal interface from Dark 2026 with colorful One Da… |
+| 2026-11-05 09:19:38 | [zigang93.pnpm-safe-lens](https://marketplace.visualstudio.com/items?itemName=zigang93.pnpm-safe-lens) | pnpm Safe Lens | 0.4.0 | See which version of each pnpm catalog dependency you can install today, before… |
+| 2026-11-05 09:20:44 | [Ashling.riscfree-vscode](https://marketplace.visualstudio.com/items?itemName=Ashling.riscfree-vscode) | Ashling RiscFree™ for Embedded Software… | 26.4.0 | Develop, build and debug embedded software for Arm, RISC-V and MIPS ARC targets. |
+| 2026-11-05 09:22:45 | [zovo.context-drift](https://marketplace.visualstudio.com/items?itemName=zovo.context-drift) | Context Drift for AGENTS.md & CLAUDE.md | 0.1.1 | Finds stale facts in AGENTS.md, CLAUDE.md, GEMINI.md, Cursor and Copilot rules:… |
+| 2026-11-05 09:23:43 | [gbe-Lang.gbe-runner](https://marketplace.visualstudio.com/items?itemName=gbe-Lang.gbe-runner) | Gbé Runner | 1.1.0 | Langage Gbé : coloration syntaxique, autocomplétion, aide à la signature, compi… |
+| 2026-11-05 09:27:44 | [stateward.stateward-vscode](https://marketplace.visualstudio.com/items?itemName=stateward.stateward-vscode) | Stateward | 1.0.0 | Exclusive states and predictable code paths for TypeScript and React, as you ty… |
+| 2026-11-05 09:41:15 | [sichen7263.hermes-for-vscode](https://marketplace.visualstudio.com/items?itemName=sichen7263.hermes-for-vscode) | Hermes for VS Code | 0.3.6 | Launch Hermes Agent TUI in an editor-area split terminal tab. |
+| 2026-11-05 09:52:45 | [browsitory.browsitory](https://marketplace.visualstudio.com/items?itemName=browsitory.browsitory) | Browsitory | 0.3.0 | A full Git client inside VSCode: commit graph, staging by hunk or line, branche… |
+| 2026-11-05 10:04:34 | [myspec.myspec-vscode](https://marketplace.visualstudio.com/items?itemName=myspec.myspec-vscode) | MySpec | 0.1.0 | Browse MySpec projects, spec files, revisions, attachments, discussions and tas… |
+| 2026-11-05 10:10:14 | [QASystemsGmbH.cantata-vscode-core](https://marketplace.visualstudio.com/items?itemName=QASystemsGmbH.cantata-vscode-core) | Cantata VSCode Core | 1.0.0 | Shared core services for Cantata VS Code extensions |
 
 ## Data source
 
