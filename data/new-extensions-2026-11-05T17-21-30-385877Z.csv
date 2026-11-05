@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T15:47:50.71Z,kaiketsu-labs.agent-cockpit,kaiketsu-labs,Agent Cockpit,0.5.2,"Coding agent sessions organized by project folders and tickets, with live status, ticket status and open PRs; click a session to jump in."
+2026-11-05T16:16:17.633Z,AliImranDev.code-explainer-fresh,AliImranDev,Code Explainer Fresh,0.0.1,AI-Powered code explanation
+2026-11-05T16:22:03.317Z,SivaDeepak.xivault,SivaDeepak,XiVault,0.1.0,"Private, secure cloud-backed source-code vault for authorized developers"
+2026-11-05T16:32:57.82Z,VPlot.vsshgroups,VPlot,VSSH Remote Tree,0.2.0,"A better-looking sidebar for Microsoft's Remote - SSH (required, installed automatically): your SSH hosts in colored groups, with search, recent folders and drag & drop."
+2026-11-05T17:07:28.26Z,gokila16.rotkin,gokila16,Rotkin,0.1.0,A pumpkin in your sidebar that rots while you vibecode.
+2026-11-05T17:07:57.037Z,Chartur.repository-intelligence,Chartur,Chartur,0.12.0,"Chartur, the workspace for this repository: documents, Ask, and living documentation."
+2026-11-05T17:11:31.26Z,MBKDevStudio.nightping,MBKDevStudio,Nightping — Phone Notifications via ntfy,0.2.1,"Phone push notifications when tasks, terminal commands, notebook cells, debug sessions, Claude Code, Codex or GitHub Copilot finish or need you, through your own ntfy server or ntfy.sh topic. Send your own messages too. No default server, no telemetry."
+2026-11-05T17:11:36.483Z,mrcsschmdt.nastran-bdf,mrcsschmdt,Nastran BDF,0.2.0,"Edit MSC/NX Nastran input decks (.bdf/.dat/.aset): field-aware hovers, small/large/free-field conversion, INCLUDE navigation, card references, outline and diagnostics. Read .f06 output files: section outline and folding, FATAL/WARNING messages in the Problems panel."
