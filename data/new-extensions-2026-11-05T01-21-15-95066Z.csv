@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T00:15:31.983Z,corentin-gautier.amend-any-commit,corentin-gautier,Amend Any Commit,0.5.0,"Edit (amend) the message of any commit, not just the last one: right-click it in the Source Control Graph or the Timeline, or pick it from the Command Palette. Force push in the same step if needed."
+2026-11-05T00:54:22.92Z,ExNihiloLLC.hide-dotfolders,ExNihiloLLC,Hide Dotfolders,1.0.0,Hide dotfolders in the explorer
+2026-11-05T00:54:43.043Z,Jamesliu.openai-api-usage,Jamesliu,OpenAI API Usage,0.1.7,Query OpenAI organization costs and text completion usage from VS Code.
+2026-11-05T00:56:45.75Z,Mindkerchief.pg-sql-intellisense,Mindkerchief,PL/pgSQL IntelliSense,1.0.0,"Zero-config workspace-wide PostgreSQL DDL and PL/pgSQL function IntelliSense, Semantic Color Coding, Go-to-Definition, Find References, Signature Help, Inlay Hints, and Static Type/Syntax Diagnostics."
+2026-11-05T00:58:51.87Z,Jamesliu.vscode-glm-usage,Jamesliu,GLM Coding Plan Usage (Jamesliu),0.1.2,在 VS Code 狀態列顯示 GLM Coding Plan 用量。
+2026-11-05T00:59:03.723Z,Jamesliu.vscode-opencode-usage,Jamesliu,OpenCode Go Usage (Jamesliu),0.5.3,使用同一把 API Key 提供 OpenCode Go 聊天模型、五小時預估次數、方案用量與本機請求明細
+2026-11-05T00:59:18.753Z,Jamesliu.vscode-openai-usage,Jamesliu,OpenAI Codex Usage (Jamesliu),0.1.3,在 VS Code 狀態列顯示 OpenAI Codex 5 小時與每週用量。
+2026-11-05T01:13:36.793Z,hboulal.session-groups,hboulal,Session Groups,0.1.0,A side panel of your own groups of coding-agent sessions: each session runs in a terminal and resumes after VS Code restarts.

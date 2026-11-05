@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 00:18 UTC
+## Latest list — 2026-11-05 01:21 UTC
 
-New extensions published between 2026-11-04 22:18 UTC and 2026-11-05 00:18 UTC.
+New extensions published between 2026-11-04 23:21 UTC and 2026-11-05 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T00-18-51-994643Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T01-21-15-95066Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-04 23:26:21 | [matestudio-app.debug-env](https://marketplace.visualstudio.com/items?itemName=matestudio-app.debug-env) | Debug Env | 0.1.0 | Elige las variables de entorno justo antes de un debug y aplícalas sin reinicia… |
-| 2026-11-04 23:34:20 | [sirkingbinx.vscode-moonlight](https://marketplace.visualstudio.com/items?itemName=sirkingbinx.vscode-moonlight) | vscode-moonlight | 1.0.0 | Dark blue theme based on Visual Studio's Moonlight Glow theme |
-| 2026-11-04 23:34:38 | [onratlgn.tackroom](https://marketplace.visualstudio.com/items?itemName=onratlgn.tackroom) | TackRoom | 0.0.7 | Agent harness GUI for VS Code, starting with OpenCode: full editor-tab chat wit… |
-| 2026-11-04 23:41:15 | [team581.spot-camera-preview](https://marketplace.visualstudio.com/items?itemName=team581.spot-camera-preview) | Spot Camera Preview | 0.2.0 | Offline preview of Spot robot camera configuration |
-| 2026-11-04 23:43:09 | [AiGromatics.mindpool](https://marketplace.visualstudio.com/items?itemName=AiGromatics.mindpool) | MindPool | 1.0.0 | MindPool is a small tool to sync your team AI skills in one go, from a private… |
-| 2026-11-04 23:55:58 | [POLA-LCS.powang-lsp](https://marketplace.visualstudio.com/items?itemName=POLA-LCS.powang-lsp) | Powang LSP | 0.2.0 | Syntax highlighting, diagnostics and completion for the Powang language |
-| 2026-11-05 00:07:34 | [trmi.trmi-vscode](https://marketplace.visualstudio.com/items?itemName=trmi.trmi-vscode) | trmi | 0.1.0 | Your team and one AI agent in a shared room, inside VS Code. |
+| 2026-11-05 00:15:31 | [corentin-gautier.amend-any-commit](https://marketplace.visualstudio.com/items?itemName=corentin-gautier.amend-any-commit) | Amend Any Commit | 0.5.0 | Edit (amend) the message of any commit, not just the last one: right-click it i… |
+| 2026-11-05 00:54:22 | [ExNihiloLLC.hide-dotfolders](https://marketplace.visualstudio.com/items?itemName=ExNihiloLLC.hide-dotfolders) | Hide Dotfolders | 1.0.0 | Hide dotfolders in the explorer |
+| 2026-11-05 00:54:43 | [Jamesliu.openai-api-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.openai-api-usage) | OpenAI API Usage | 0.1.7 | Query OpenAI organization costs and text completion usage from VS Code. |
+| 2026-11-05 00:56:45 | [Mindkerchief.pg-sql-intellisense](https://marketplace.visualstudio.com/items?itemName=Mindkerchief.pg-sql-intellisense) | PL/pgSQL IntelliSense | 1.0.0 | Zero-config workspace-wide PostgreSQL DDL and PL/pgSQL function IntelliSense, S… |
+| 2026-11-05 00:58:51 | [Jamesliu.vscode-glm-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-glm-usage) | GLM Coding Plan Usage (Jamesliu) | 0.1.2 | 在 VS Code 狀態列顯示 GLM Coding Plan 用量。 |
+| 2026-11-05 00:59:03 | [Jamesliu.vscode-opencode-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-opencode-usage) | OpenCode Go Usage (Jamesliu) | 0.5.3 | 使用同一把 API Key 提供 OpenCode Go 聊天模型、五小時預估次數、方案用量與本機請求明細 |
+| 2026-11-05 00:59:18 | [Jamesliu.vscode-openai-usage](https://marketplace.visualstudio.com/items?itemName=Jamesliu.vscode-openai-usage) | OpenAI Codex Usage (Jamesliu) | 0.1.3 | 在 VS Code 狀態列顯示 OpenAI Codex 5 小時與每週用量。 |
+| 2026-11-05 01:13:36 | [hboulal.session-groups](https://marketplace.visualstudio.com/items?itemName=hboulal.session-groups) | Session Groups | 0.1.0 | A side panel of your own groups of coding-agent sessions: each session runs in… |
 
 ## Data source
 
