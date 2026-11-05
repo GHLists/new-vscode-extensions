@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T13:18:47.853Z,suremotoo.protocol-blueprint-light,suremotoo,Protocol Blueprint Light,1.1.1,"White paper, cobalt ink and fine blue borders. Complete blueprint-inspired light workbench theme."
+2026-11-05T13:22:49.657Z,chartguard.chartguard,chartguard,ChartGuard,0.1.0,"Chart.js, ECharts and Highcharts configs checked in JavaScript and TypeScript as you type, with the runtime's own renames as quick fixes"
+2026-11-05T13:40:45.26Z,thienqo.flutter-skills,thienqo,Flutter Skills,0.12.0,"Agent skills for building, reviewing, testing, and releasing Flutter and Dart apps."
+2026-11-05T13:51:36.03Z,TuvokYangDline.dline-insiders,TuvokYangDline,Dline (Insiders),0.13.1793885832,"Independent coding agent for VS Code with separate task panels, per-task model Profiles, persistent state, MCP, subagents, and configurable tool approvals."
+2026-11-05T13:57:50.5Z,isovalent.vscode-npt-extension,isovalent,Network Policy Tools,0.0.2,Schema-based autocompletion and validation for Network Policy YAML files
+2026-11-05T14:01:36.157Z,OliverFawcett.laneboard,OliverFawcett,Laneboard,0.4.1,"A simple kanban board for each workspace, shown in the activity bar."
+2026-11-05T14:07:24.95Z,AdithyaLochana.project-command-launcher,AdithyaLochana,Project Command Launcher,0.1.0,"Find and run package scripts, VS Code tasks, Docker Compose actions and custom commands from one panel, safely through native VS Code Tasks."
+2026-11-05T14:12:12.937Z,hprice-extensions.hprice-extensions,hprice-extensions,HPrice Extensions,1.0.0,Pacote de extensões do VS Code da squad Price da HSystem para o front-end e o back-end das aplicações.

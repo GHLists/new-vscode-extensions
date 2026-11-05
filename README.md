@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 13:20 UTC
+## Latest list — 2026-11-05 14:19 UTC
 
-New extensions published between 2026-11-05 11:20 UTC and 2026-11-05 13:20 UTC.
+New extensions published between 2026-11-05 12:19 UTC and 2026-11-05 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T13-20-15-643976Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T14-19-02-165751Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 12:16:48 | [a2d-ai.a2d-vscode](https://marketplace.visualstudio.com/items?itemName=a2d-ai.a2d-vscode) | A2D: APIs, MCP Servers & A2A Agents | 0.2.1 | Scaffold REST APIs, MCP servers and A2A agents from A2D (a2d-ai.com) into Anypo… |
-| 2026-11-05 12:32:10 | [saule.saule](https://marketplace.visualstudio.com/items?itemName=saule.saule) | Saule | 26.20.0 | Language support for the Saule programming language: syntax highlighting plus a… |
-| 2026-11-05 12:32:27 | [pip-buddy.pip-buddy](https://marketplace.visualstudio.com/items?itemName=pip-buddy.pip-buddy) | Pip — your sarcastic pixel buddy | 0.1.0 | A sarcastic pixel sprite that reacts to your editing habits. 100% local. |
-| 2026-11-05 12:36:21 | [RudraParmar.speak2build](https://marketplace.visualstudio.com/items?itemName=RudraParmar.speak2build) | Speak2Build | 0.1.0 | Speech-to-verified-code assistant for Python projects |
-| 2026-11-05 12:50:07 | [NordicMoonlight.antigravity-quota-monitor-vs-code](https://marketplace.visualstudio.com/items?itemName=NordicMoonlight.antigravity-quota-monitor-vs-code) | Antigravity Quota Monitor for Visual St… | 2.0.48 | See your Antigravity 5-hour and weekly limits in the Visual Studio Code status… |
-| 2026-11-05 12:50:14 | [Aaronlu2026.usbtraceplus](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.usbtraceplus) | usbtracePlus 采集分析 | 0.3.9 | usbtracePlus 采集分析工具的 VS Code 面板：抓取 VCD 波形与 LOG 日志两大类数据，解码为标准 VCD，做确定性事实提取与断言检查。… |
-| 2026-11-05 12:50:23 | [JohnBake.corklane](https://marketplace.visualstudio.com/items?itemName=JohnBake.corklane) | Corklane Board | 0.0.1 | blank |
-| 2026-11-05 12:57:41 | [leapliu.leap-mindmap-github-bed](https://marketplace.visualstudio.com/items?itemName=leapliu.leap-mindmap-github-bed) | Leap MindMap GitHub Bed | 1.0.9 | mindmap for vscode |
-| 2026-11-05 13:06:06 | [OliverFawcett.papers-scout](https://marketplace.visualstudio.com/items?itemName=OliverFawcett.papers-scout) | Papers Scout | 0.2.0 | Suggests research papers related to your recent work, using Claude Code and the… |
-| 2026-11-05 13:10:15 | [mde-tools.mdevc](https://marketplace.visualstudio.com/items?itemName=mde-tools.mdevc) | mdevc - Inline Markdown Editor for Visu… | 1.0.0 | WYSIWYG Markdown editor: edit Markdown files directly in the preview. |
+| 2026-11-05 13:18:47 | [suremotoo.protocol-blueprint-light](https://marketplace.visualstudio.com/items?itemName=suremotoo.protocol-blueprint-light) | Protocol Blueprint Light | 1.1.1 | White paper, cobalt ink and fine blue borders. Complete blueprint-inspired ligh… |
+| 2026-11-05 13:22:49 | [chartguard.chartguard](https://marketplace.visualstudio.com/items?itemName=chartguard.chartguard) | ChartGuard | 0.1.0 | Chart.js, ECharts and Highcharts configs checked in JavaScript and TypeScript a… |
+| 2026-11-05 13:40:45 | [thienqo.flutter-skills](https://marketplace.visualstudio.com/items?itemName=thienqo.flutter-skills) | Flutter Skills | 0.12.0 | Agent skills for building, reviewing, testing, and releasing Flutter and Dart a… |
+| 2026-11-05 13:51:36 | [TuvokYangDline.dline-insiders](https://marketplace.visualstudio.com/items?itemName=TuvokYangDline.dline-insiders) | Dline (Insiders) | 0.13.1793885832 | Independent coding agent for VS Code with separate task panels, per-task model… |
+| 2026-11-05 13:57:50 | [isovalent.vscode-npt-extension](https://marketplace.visualstudio.com/items?itemName=isovalent.vscode-npt-extension) | Network Policy Tools | 0.0.2 | Schema-based autocompletion and validation for Network Policy YAML files |
+| 2026-11-05 14:01:36 | [OliverFawcett.laneboard](https://marketplace.visualstudio.com/items?itemName=OliverFawcett.laneboard) | Laneboard | 0.4.1 | A simple kanban board for each workspace, shown in the activity bar. |
+| 2026-11-05 14:07:24 | [AdithyaLochana.project-command-launcher](https://marketplace.visualstudio.com/items?itemName=AdithyaLochana.project-command-launcher) | Project Command Launcher | 0.1.0 | Find and run package scripts, VS Code tasks, Docker Compose actions and custom… |
+| 2026-11-05 14:12:12 | [hprice-extensions.hprice-extensions](https://marketplace.visualstudio.com/items?itemName=hprice-extensions.hprice-extensions) | HPrice Extensions | 1.0.0 | Pacote de extensões do VS Code da squad Price da HSystem para o front-end e o b… |
 
 ## Data source
 
