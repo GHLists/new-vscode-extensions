@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T12:16:48.247Z,a2d-ai.a2d-vscode,a2d-ai,"A2D: APIs, MCP Servers & A2A Agents",0.2.1,"Scaffold REST APIs, MCP servers and A2A agents from A2D (a2d-ai.com) into Anypoint Code Builder (Mule 4), Python, TypeScript or JavaScript projects, and run them locally as isolated mocks, one at a time or in bulk."
+2026-11-05T12:32:10.633Z,saule.saule,saule,Saule,26.20.0,"Language support for the Saule programming language: syntax highlighting plus a full language server (diagnostics, hover, go-to-definition, references, document symbols, inlay hints, signature help, and formatting)."
+2026-11-05T12:32:27.72Z,pip-buddy.pip-buddy,pip-buddy,Pip — your sarcastic pixel buddy,0.1.0,A sarcastic pixel sprite that reacts to your editing habits. 100% local.
+2026-11-05T12:36:21.703Z,RudraParmar.speak2build,RudraParmar,Speak2Build,0.1.0,Speech-to-verified-code assistant for Python projects
+2026-11-05T12:50:07.35Z,NordicMoonlight.antigravity-quota-monitor-vs-code,NordicMoonlight,Antigravity Quota Monitor for Visual Studio Code,2.0.48,"See your Antigravity 5-hour and weekly limits in the Visual Studio Code status bar. Works with Google's Antigravity extension. Reset times, run-out forecast, phone alerts and an optional session Auto-Starter."
+2026-11-05T12:50:14.617Z,Aaronlu2026.usbtraceplus,Aaronlu2026,usbtracePlus 采集分析,0.3.9,usbtracePlus 采集分析工具的 VS Code 面板：抓取 VCD 波形与 LOG 日志两大类数据，解码为标准 VCD，做确定性事实提取与断言检查。内置同名命令行 usbtraceplus，全命令支持 --json，便于脚本与 AI 自动化。
+2026-11-05T12:50:23.873Z,JohnBake.corklane,JohnBake,Corklane Board,0.0.1,blank
+2026-11-05T12:57:41.017Z,leapliu.leap-mindmap-github-bed,leapliu,Leap MindMap GitHub Bed,1.0.9,mindmap for vscode
+2026-11-05T13:06:06.75Z,OliverFawcett.papers-scout,OliverFawcett,Papers Scout,0.2.0,"Suggests research papers related to your recent work, using Claude Code and the Papers with Code catalog."
+2026-11-05T13:10:15.16Z,mde-tools.mdevc,mde-tools,mdevc - Inline Markdown Editor for Visual Studio Code,1.0.0,WYSIWYG Markdown editor: edit Markdown files directly in the preview.

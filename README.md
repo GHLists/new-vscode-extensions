@@ -12,21 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 12:21 UTC
+## Latest list — 2026-11-05 13:20 UTC
 
-New extensions published between 2026-11-05 10:21 UTC and 2026-11-05 12:21 UTC.
+New extensions published between 2026-11-05 11:20 UTC and 2026-11-05 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T12-21-12-920684Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T13-20-15-643976Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 11:24:43 | [NickGholami.color-focus](https://marketplace.visualstudio.com/items?itemName=NickGholami.color-focus) | Color Focus | 1.0.0 | Highlight blocks of code with colors and labels, then focus on them, fold them,… |
-| 2026-11-05 11:25:55 | [mrashutoshnigam.effective-config](https://marketplace.visualstudio.com/items?itemName=mrashutoshnigam.effective-config) | Effective Config Viewer | 0.2.3 | Shows the merged .NET appsettings or Python .env configuration for a chosen env… |
-| 2026-11-05 11:29:05 | [MahdiMohammad.gherkin-java-runner](https://marketplace.visualstudio.com/items?itemName=MahdiMohammad.gherkin-java-runner) | Gherkin Runner for Java (Cucumber · Mav… | 0.1.0 | Run and debug Cucumber scenarios, single Examples rows and tag expressions from… |
-| 2026-11-05 11:46:11 | [nbaxp.merge-open-docs](https://marketplace.visualstudio.com/items?itemName=nbaxp.merge-open-docs) | Merge Open Docs | 0.1.3 | 将 VS Code 当前打开的所有文本文件合并到一个新的 Untitled 文档。Merge all open text files in VS Code i… |
-| 2026-11-05 11:47:26 | [efliao.kifedit](https://marketplace.visualstudio.com/items?itemName=efliao.kifedit) | kifedit | 0.0.2 | SUO-KIF editing: checks, formatting, term pages, taxonomy trees, and queries. |
-| 2026-11-05 12:06:56 | [JonProductions.flow-boards](https://marketplace.visualstudio.com/items?itemName=JonProductions.flow-boards) | Flow Boards | 0.0.1 | blank |
-| 2026-11-05 12:12:59 | [xo-lang.xo](https://marketplace.visualstudio.com/items?itemName=xo-lang.xo) | Xo Language | 0.1.0 | Xo language support: syntax highlighting, the xo lsp language server, and the x… |
+| 2026-11-05 12:16:48 | [a2d-ai.a2d-vscode](https://marketplace.visualstudio.com/items?itemName=a2d-ai.a2d-vscode) | A2D: APIs, MCP Servers & A2A Agents | 0.2.1 | Scaffold REST APIs, MCP servers and A2A agents from A2D (a2d-ai.com) into Anypo… |
+| 2026-11-05 12:32:10 | [saule.saule](https://marketplace.visualstudio.com/items?itemName=saule.saule) | Saule | 26.20.0 | Language support for the Saule programming language: syntax highlighting plus a… |
+| 2026-11-05 12:32:27 | [pip-buddy.pip-buddy](https://marketplace.visualstudio.com/items?itemName=pip-buddy.pip-buddy) | Pip — your sarcastic pixel buddy | 0.1.0 | A sarcastic pixel sprite that reacts to your editing habits. 100% local. |
+| 2026-11-05 12:36:21 | [RudraParmar.speak2build](https://marketplace.visualstudio.com/items?itemName=RudraParmar.speak2build) | Speak2Build | 0.1.0 | Speech-to-verified-code assistant for Python projects |
+| 2026-11-05 12:50:07 | [NordicMoonlight.antigravity-quota-monitor-vs-code](https://marketplace.visualstudio.com/items?itemName=NordicMoonlight.antigravity-quota-monitor-vs-code) | Antigravity Quota Monitor for Visual St… | 2.0.48 | See your Antigravity 5-hour and weekly limits in the Visual Studio Code status… |
+| 2026-11-05 12:50:14 | [Aaronlu2026.usbtraceplus](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.usbtraceplus) | usbtracePlus 采集分析 | 0.3.9 | usbtracePlus 采集分析工具的 VS Code 面板：抓取 VCD 波形与 LOG 日志两大类数据，解码为标准 VCD，做确定性事实提取与断言检查。… |
+| 2026-11-05 12:50:23 | [JohnBake.corklane](https://marketplace.visualstudio.com/items?itemName=JohnBake.corklane) | Corklane Board | 0.0.1 | blank |
+| 2026-11-05 12:57:41 | [leapliu.leap-mindmap-github-bed](https://marketplace.visualstudio.com/items?itemName=leapliu.leap-mindmap-github-bed) | Leap MindMap GitHub Bed | 1.0.9 | mindmap for vscode |
+| 2026-11-05 13:06:06 | [OliverFawcett.papers-scout](https://marketplace.visualstudio.com/items?itemName=OliverFawcett.papers-scout) | Papers Scout | 0.2.0 | Suggests research papers related to your recent work, using Claude Code and the… |
+| 2026-11-05 13:10:15 | [mde-tools.mdevc](https://marketplace.visualstudio.com/items?itemName=mde-tools.mdevc) | mdevc - Inline Markdown Editor for Visu… | 1.0.0 | WYSIWYG Markdown editor: edit Markdown files directly in the preview. |
 
 ## Data source
 
