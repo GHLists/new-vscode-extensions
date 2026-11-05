@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 07:33 UTC
+## Latest list — 2026-11-05 08:21 UTC
 
-New extensions published between 2026-11-05 05:33 UTC and 2026-11-05 07:33 UTC.
+New extensions published between 2026-11-05 06:21 UTC and 2026-11-05 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T07-33-05-943924Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T08-21-22-532191Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 06:30:39 | [IdanShalom.asm-lens](https://marketplace.visualstudio.com/items?itemName=IdanShalom.asm-lens) | Asm Lens | 0.8.2 | See the assembly of every function right in the editor: instruction counts as C… |
-| 2026-11-05 06:37:59 | [X-Lens.x-lens](https://marketplace.visualstudio.com/items?itemName=X-Lens.x-lens) | X-Lens | 0.2.1 | Browse your X recommendations, replies and media in VS Code, with translation a… |
-| 2026-11-05 06:56:05 | [storeos.storeos-fluid](https://marketplace.visualstudio.com/items?itemName=storeos.storeos-fluid) | StoreOS Fluid | 0.1.0 | Language support for StoreOS .fluid theme templates — Liquid syntax, {% schema… |
+| 2026-11-05 07:41:18 | [mdtausifiqbal.aidql-language-support](https://marketplace.visualstudio.com/items?itemName=mdtausifiqbal.aidql-language-support) | AI-DQL Syntax Highlighter | 1.0.2 | Syntax highlighting and editor support for AI-DQL scripts. |
+| 2026-11-05 08:00:10 | [VladyslavVitko.ai-token-cost-tracker](https://marketplace.visualstudio.com/items?itemName=VladyslavVitko.ai-token-cost-tracker) | AI Token & Cost Tracker | 1.0.0 | Local-First Multi-Provider LLM API Gateway (Gemini, Anthropic Claude, OpenAI, O… |
+| 2026-11-05 08:07:04 | [amapleaf.new-window-here](https://marketplace.visualstudio.com/items?itemName=amapleaf.new-window-here) | New Window Here | 0.1.0 | Open files, folders and remote contexts in a new VS Code window. |
+| 2026-11-05 08:08:08 | [MohammadAhmedAmer.copilot-orbit](https://marketplace.visualstudio.com/items?itemName=MohammadAhmedAmer.copilot-orbit) | Copilot Orbit | 0.0.1 | Every discoverable Copilot session. Clear control where supported. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T07:41:18.03Z,mdtausifiqbal.aidql-language-support,mdtausifiqbal,AI-DQL Syntax Highlighter,1.0.2,Syntax highlighting and editor support for AI-DQL scripts.
+2026-11-05T08:00:10.743Z,VladyslavVitko.ai-token-cost-tracker,VladyslavVitko,AI Token & Cost Tracker,1.0.0,"Local-First Multi-Provider LLM API Gateway (Gemini, Anthropic Claude, OpenAI, OpenRouter, Custom) with per-project cost accounting, budget circuit breakers, and IDE-isolated subscription plan analytics."
+2026-11-05T08:07:04.79Z,amapleaf.new-window-here,amapleaf,New Window Here,0.1.0,"Open files, folders and remote contexts in a new VS Code window."
+2026-11-05T08:08:08.61Z,MohammadAhmedAmer.copilot-orbit,MohammadAhmedAmer,Copilot Orbit,0.0.1,Every discoverable Copilot session. Clear control where supported.
