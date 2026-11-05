@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T18:24:18.61Z,UdayKiranPamu.flat-table-viewer,UdayKiranPamu,Flat Table Viewer,0.3.1,"Read CSV, TSV, custom-delimited, fixed-width and Parquet files as a colorful, sortable, searchable table. Mark cells, rows and columns, and highlight data with rules."
+2026-11-05T18:29:25.137Z,vs-publisher-473885.parked-prompts,vs-publisher-473885,Parked Prompts,1.0.2,"Save chat prompts with their files and images for later, without sending them, then restore them to Chat when the codebase is free."
+2026-11-05T18:35:37.333Z,structlume-dev.structlume,structlume-dev,StructLume,0.1.0,"See YAML files as an interactive graph, tree, and connection diagrams for Docker Compose, Kubernetes and GitHub Actions, right beside the editor."
+2026-11-05T18:38:56.593Z,SquirrelOps.ui-inspector-vscode,SquirrelOps,UI Inspector,0.1.1,Inspect and drive mobile app UIs on local devices and BrowserStack. Switch between running cloud tests and inspect elements live or from the video and logs.
+2026-11-05T18:43:07.443Z,maik-kluwe.bonsai-git,maik-kluwe,Bonsai Git,0.1.0,"A Git client inside VS Code: commit graph, branches, staging by hunk or line, a merge dialog for conflicts and interactive rebase."
+2026-11-05T18:55:24.51Z,xiaodaidaitest.xiaodaidaitest-oidc-publish-test-v2,xiaodaidaitest,xiaodaidaitest-oidc-publish-test-v2,0.0.1,Test extension for Marketplace OIDC trusted publishing (v2)
+2026-11-05T19:11:11.24Z,xiaodaidaitest.xiaodaidaitest-oidc-publish-test-sprint-demo,xiaodaidaitest,xiaodaidaitest-oidc-publish-test-sprint-demo,0.0.1,Test extension for Marketplace OIDC trusted publishing (sprint celebration demo)
+2026-11-05T19:13:05.013Z,arjmath.ducklens,arjmath,DuckLens — Git Blame ligero + AI Commit,0.2.0,"Blame inline y en hover, rápido y sin telemetría. Genera mensajes de commit con cualquier API compatible con OpenAI (Ollama, LM Studio, llama.cpp, OpenAI…)."
