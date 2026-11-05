@@ -12,24 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 10:20 UTC
+## Latest list — 2026-11-05 11:21 UTC
 
-New extensions published between 2026-11-05 08:20 UTC and 2026-11-05 10:20 UTC.
+New extensions published between 2026-11-05 09:21 UTC and 2026-11-05 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T10-20-52-291526Z.csv)
+[Full CSV](data/new-extensions-2026-11-05T11-21-16-752179Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 09:19:13 | [ahmadanshori.kavitori-theme](https://marketplace.visualstudio.com/items?itemName=ahmadanshori.kavitori-theme) | Kavitori Theme | 1.0.0 | An elegant dark theme: a charcoal interface from Dark 2026 with colorful One Da… |
-| 2026-11-05 09:19:38 | [zigang93.pnpm-safe-lens](https://marketplace.visualstudio.com/items?itemName=zigang93.pnpm-safe-lens) | pnpm Safe Lens | 0.4.0 | See which version of each pnpm catalog dependency you can install today, before… |
-| 2026-11-05 09:20:44 | [Ashling.riscfree-vscode](https://marketplace.visualstudio.com/items?itemName=Ashling.riscfree-vscode) | Ashling RiscFree™ for Embedded Software… | 26.4.0 | Develop, build and debug embedded software for Arm, RISC-V and MIPS ARC targets. |
-| 2026-11-05 09:22:45 | [zovo.context-drift](https://marketplace.visualstudio.com/items?itemName=zovo.context-drift) | Context Drift for AGENTS.md & CLAUDE.md | 0.1.1 | Finds stale facts in AGENTS.md, CLAUDE.md, GEMINI.md, Cursor and Copilot rules:… |
-| 2026-11-05 09:23:43 | [gbe-Lang.gbe-runner](https://marketplace.visualstudio.com/items?itemName=gbe-Lang.gbe-runner) | Gbé Runner | 1.1.0 | Langage Gbé : coloration syntaxique, autocomplétion, aide à la signature, compi… |
-| 2026-11-05 09:27:44 | [stateward.stateward-vscode](https://marketplace.visualstudio.com/items?itemName=stateward.stateward-vscode) | Stateward | 1.0.0 | Exclusive states and predictable code paths for TypeScript and React, as you ty… |
-| 2026-11-05 09:41:15 | [sichen7263.hermes-for-vscode](https://marketplace.visualstudio.com/items?itemName=sichen7263.hermes-for-vscode) | Hermes for VS Code | 0.3.6 | Launch Hermes Agent TUI in an editor-area split terminal tab. |
-| 2026-11-05 09:52:45 | [browsitory.browsitory](https://marketplace.visualstudio.com/items?itemName=browsitory.browsitory) | Browsitory | 0.3.0 | A full Git client inside VSCode: commit graph, staging by hunk or line, branche… |
-| 2026-11-05 10:04:34 | [myspec.myspec-vscode](https://marketplace.visualstudio.com/items?itemName=myspec.myspec-vscode) | MySpec | 0.1.0 | Browse MySpec projects, spec files, revisions, attachments, discussions and tas… |
-| 2026-11-05 10:10:14 | [QASystemsGmbH.cantata-vscode-core](https://marketplace.visualstudio.com/items?itemName=QASystemsGmbH.cantata-vscode-core) | Cantata VSCode Core | 1.0.0 | Shared core services for Cantata VS Code extensions |
+| 2026-11-05 10:23:43 | [SwaroopGajula.claude-terminal-sessions](https://marketplace.visualstudio.com/items?itemName=SwaroopGajula.claude-terminal-sessions) | Claude Terminal Sessions | 0.3.0 | Browse, search and resume your Claude Code terminal sessions from every project… |
+| 2026-11-05 10:32:41 | [yof.yof](https://marketplace.visualstudio.com/items?itemName=yof.yof) | yof | 0.1.0 | Leaked keys and made-up packages in Problems as you save, with the fix prompt f… |
+| 2026-11-05 10:40:25 | [RitualDev.agentshield-defense](https://marketplace.visualstudio.com/items?itemName=RitualDev.agentshield-defense) | AgentShield — AI Agent Security & Sandb… | 0.2.1 | Zero-leak secret defense, kernel sandboxing, and real-time status bar guardrail… |
+| 2026-11-05 10:43:35 | [floracho.session-office](https://marketplace.visualstudio.com/items?itemName=floracho.session-office) | Session Office for Claude Code | 0.9.2 | Claude Code 세션을 픽셀 사무실의 책상으로 보여 줍니다. 상태 · 진행 · 하위 에이전트 · 세션끼리 주고받은 메시지를 한 화면에서… |
+| 2026-11-05 10:49:11 | [sloppy-website.sloppy-ai](https://marketplace.visualstudio.com/items?itemName=sloppy-website.sloppy-ai) | Sloppy — AI для вашего кода | 0.3.0 | Чат и задачи в проекте: поиск, несколько файлов, просмотр diff, запуск проверок… |
+| 2026-11-05 10:49:18 | [NeuralFoundry.openlitespeed](https://marketplace.visualstudio.com/items?itemName=NeuralFoundry.openlitespeed) | OpenLiteSpeed | 1.0.0 | Run your local OpenLiteSpeed sites from VS Code on Windows and macOS: start the… |
+| 2026-11-05 10:53:52 | [vivani.rallybeam](https://marketplace.visualstudio.com/items?itemName=vivani.rallybeam) | Rallybeam | 0.1.0 | Code in your own editor during a Rallybeam meet: the meet's code as a folder on… |
+| 2026-11-05 11:08:42 | [ENIGRASOFTWARE.enigra-codegen](https://marketplace.visualstudio.com/items?itemName=ENIGRASOFTWARE.enigra-codegen) | Enigra CodeGen | 0.1.0 | Generate code from Figma designs straight into your workspace: React, Angular,… |
+| 2026-11-05 11:09:17 | [OliverFawcett.moss-and-ember](https://marketplace.visualstudio.com/items?itemName=OliverFawcett.moss-and-ember) | Moss & Ember | 0.1.0 | A soft, warm light theme with olive greens, burnt oranges and parchment tones.… |
+| 2026-11-05 11:13:18 | [u1710073.udevs-chat](https://marketplace.visualstudio.com/items?itemName=u1710073.udevs-chat) | udevs Chat | 0.3.0 | AI-ассистент и агент в VS Code на базе chat.udevs.io (MCP): читает проект, прав… |
+| 2026-11-05 11:13:56 | [chenyuting3077.robot-preview-mesh-splat](https://marketplace.visualstudio.com/items?itemName=chenyuting3077.robot-preview-mesh-splat) | Robot Preview: Mesh & Splat | 0.1.0 | Preview meshes, point clouds and Gaussian splats inside VS Code |
 
 ## Data source
 

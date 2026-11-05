@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T10:23:43.143Z,SwaroopGajula.claude-terminal-sessions,SwaroopGajula,Claude Terminal Sessions,0.3.0,"Browse, search and resume your Claude Code terminal sessions from every project folder, right in the VS Code sidebar."
+2026-11-05T10:32:41.44Z,yof.yof,yof,yof,0.1.0,"Leaked keys and made-up packages in Problems as you save, with the fix prompt for your AI assistant. Attack your own app from the editor. Local, rules only, no telemetry."
+2026-11-05T10:40:25.03Z,RitualDev.agentshield-defense,RitualDev,AgentShield — AI Agent Security & Sandbox,0.2.1,"Zero-leak secret defense, kernel sandboxing, and real-time status bar guardrails for Claude Code, Cursor, Windsurf, and Copilot."
+2026-11-05T10:43:35.197Z,floracho.session-office,floracho,Session Office for Claude Code,0.9.2,"Claude Code 세션을 픽셀 사무실의 책상으로 보여 줍니다. 상태 · 진행 · 하위 에이전트 · 세션끼리 주고받은 메시지를 한 화면에서 보고, 책상을 누르면 그 세션을 엽니다."
+2026-11-05T10:49:11.273Z,sloppy-website.sloppy-ai,sloppy-website,Sloppy — AI для вашего кода,0.3.0,"Чат и задачи в проекте: поиск, несколько файлов, просмотр diff, запуск проверок и MCP."
+2026-11-05T10:49:18.647Z,NeuralFoundry.openlitespeed,NeuralFoundry,OpenLiteSpeed,1.0.0,"Run your local OpenLiteSpeed sites from VS Code on Windows and macOS: start the server, pick a PHP version per site, debug with Xdebug, follow logs and put a site online."
+2026-11-05T10:53:52.437Z,vivani.rallybeam,vivani,Rallybeam,0.1.0,"Code in your own editor during a Rallybeam meet: the meet's code as a folder on your disk, live, with everyone's cursor."
+2026-11-05T11:08:42.02Z,ENIGRASOFTWARE.enigra-codegen,ENIGRASOFTWARE,Enigra CodeGen,0.1.0,"Generate code from Figma designs straight into your workspace: React, Angular, React Native, Android, iOS and Electron."
+2026-11-05T11:09:17.06Z,OliverFawcett.moss-and-ember,OliverFawcett,Moss & Ember,0.1.0,"A soft, warm light theme with olive greens, burnt oranges and parchment tones. Built on Solarized Autumn."
+2026-11-05T11:13:18.967Z,u1710073.udevs-chat,u1710073,udevs Chat,0.3.0,"AI-ассистент и агент в VS Code на базе chat.udevs.io (MCP): читает проект, правит файлы, запускает команды."
+2026-11-05T11:13:56.417Z,chenyuting3077.robot-preview-mesh-splat,chenyuting3077,Robot Preview: Mesh & Splat,0.1.0,"Preview meshes, point clouds and Gaussian splats inside VS Code"
