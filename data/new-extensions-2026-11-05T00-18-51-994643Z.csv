@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-04T23:26:21.863Z,matestudio-app.debug-env,matestudio-app,Debug Env,0.1.0,Elige las variables de entorno justo antes de un debug y aplícalas sin reiniciar VS Code.
+2026-11-04T23:34:20.753Z,sirkingbinx.vscode-moonlight,sirkingbinx,vscode-moonlight,1.0.0,Dark blue theme based on Visual Studio's Moonlight Glow theme
+2026-11-04T23:34:38.247Z,onratlgn.tackroom,onratlgn,TackRoom,0.0.7,"Agent harness GUI for VS Code, starting with OpenCode: full editor-tab chat with @-context and skills, session history and resume, native diff review, model/agent picker, and Claude Code compatibility (plugins, skills, MCP, CLAUDE.md, settings, hooks)."
+2026-11-04T23:41:15.213Z,team581.spot-camera-preview,team581,Spot Camera Preview,0.2.0,Offline preview of Spot robot camera configuration
+2026-11-04T23:43:09.247Z,AiGromatics.mindpool,AiGromatics,MindPool,1.0.0,"MindPool is a small tool to sync your team AI skills in one go, from a private Git repository."
+2026-11-04T23:55:58.31Z,POLA-LCS.powang-lsp,POLA-LCS,Powang LSP,0.2.0,"Syntax highlighting, diagnostics and completion for the Powang language"
+2026-11-05T00:07:34.567Z,trmi.trmi-vscode,trmi,trmi,0.1.0,"Your team and one AI agent in a shared room, inside VS Code."
