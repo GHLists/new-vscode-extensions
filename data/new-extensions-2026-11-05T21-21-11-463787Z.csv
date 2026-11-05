@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T20:34:06.08Z,saffo.curbcut,saffo,Curbcut: WCAG Checks for HTML and JSX,1.0.1,"Lints HTML, JSX/TSX, Vue and Svelte templates for WCAG 2.2 issues (alt text, labels, headings, ARIA) and explains each fix."
+2026-11-05T20:42:40.843Z,homobel.joy,homobel,Joy Templates,1.0.0,Syntax highlighting for joy templates (joytpl)
+2026-11-05T20:43:06.96Z,Lee4-M.retro-autumn,Lee4-M,Retro Autumn,0.0.8,VSCode theme with autumn colours and a retro vibe
+2026-11-05T20:45:37.887Z,blznworks.tsql-tools,blznworks,"T-SQL Tools — Formatter, Linter & Snippets for SQL Server",0.1.0,"Format T-SQL your way, catch risky queries (UPDATE without WHERE, NOLOCK, non-sargable filters) and write faster with SQL Server snippets. Works alongside the MSSQL extension."
+2026-11-05T21:06:05.897Z,Kooraseru.vscode-extension-host,Kooraseru,Kooraseru Extension Host,0.1.0,A language-neutral VS Code host API for workspace plugins and live diagnostics.
+2026-11-05T21:06:40.13Z,sipemu.dbt-lineage-viewer,sipemu,dbt-lineage: lineage & impact for dbt,0.1.0,"dbt lineage in the editor: hover and go-to-definition on ref()/source(), upstream/downstream impact per model, lint diagnostics. No warehouse, no Python."
+2026-11-05T21:14:30.577Z,armotusitio.indizivo,armotusitio,Indizivo,0.1.0,Evidence-first development environment diagnostics. Find the cause. Fix with confidence.
