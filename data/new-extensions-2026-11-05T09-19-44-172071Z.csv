@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T08:15:27.04Z,YuvrajRastogi.matte-minimal,YuvrajRastogi,"Matte Minimal - Vercel, Xcode, Cursor, Vscode ",1.1.0,"Pure Black. Perfect Contrast. Refined dark and light themes inspired by Cursor, Vercel, VS Code, and Xcode."
+2026-11-05T08:20:34.49Z,KrushnaKoshatwar.codefox,KrushnaKoshatwar,CodeFox,0.0.3,"A tiny pixel fox that roams your Explorer sidebar. Click to jump, hold to crouch, double-click to sprint."
+2026-11-05T08:21:21.397Z,benquike.omnicomment,benquike,OmniComment - Universal Comments & Annotations,0.3.12,"Universal commenting and inline annotation system for editors, web, and AI agents"
+2026-11-05T08:35:26.27Z,EAZYBRIZI.css-utility-D5,EAZYBRIZI,CSS Utility D5,1.0.0,Разбирает CSS-файл с @utility и подсказывает классы при вводе className
+2026-11-05T08:35:58.397Z,luhaifeng666.vscode-tetris,luhaifeng666,俄罗斯方块,0.4.0,在侧边栏里玩一局经典俄罗斯方块。一个快捷键开始，失焦自动暂停，关掉即摸鱼。
+2026-11-05T08:50:00.903Z,MohammadAhmedAmer.quickmarkBookmark,MohammadAhmedAmer,Quick Mark,0.0.1,"Bookmark manager for VS Code — store, organize, and share project bookmarks (files & URLs) with your team, right from the editor."
+2026-11-05T08:52:00.54Z,stanfelixskz.dashcam,stanfelixskz,Dashcam,0.1.0,"A dashcam for your code: it records what happens while you work, and when something breaks you save the footage as a shareable Markdown bug report."
+2026-11-05T09:00:58.033Z,Mihailik.kabibi-vscode,Mihailik,🐚︎ Kabibi Shell,0.1.0,Kabibi shell for VS Code with Copilot terminal tools
+2026-11-05T09:04:36.963Z,pair-flow.pair-flow,pair-flow,Pair Flow,0.4.0,Build with AI one reviewed code chunk at a time.
+2026-11-05T09:05:30.397Z,jamartif.gitsight-free,jamartif,GitSight — Free Git Supercharged,0.2.3,"100% free and open-source Git superpowers for VS Code: inline blame, hovers, CodeLens, heatmaps, file & line history, commit graph, branches, tags, stashes, worktrees, contributors, commit search, remote links and more. No accounts, no paywalls, no telemetry."
+2026-11-05T09:06:06.293Z,akshaikumar23.gitwise,akshaikumar23,Gitwise,0.3.0,"See who changed every line and why, your whole history in a commit graph, a rebase screen you can drag, and your Bitbucket pull requests grouped by what to do next. Free on private repositories, no account."
+2026-11-05T09:11:50.003Z,ethan-heo.markdown-selection-notes,ethan-heo,Markdown Selection Notes,1.0.2,Markdown Preview에서 드래그한 영역에 메모를 남깁니다.
+2026-11-05T09:14:16.56Z,jamartif.wrenchit,jamartif,WrenchIT,1.2.5,"Utilidades rápidas: codificar/decodificar Base64, limpiar/formatear JSON de Grafana y previsualizar specs OpenAPI con Swagger UI"
