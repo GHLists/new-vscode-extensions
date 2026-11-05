@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T05:17:06.757Z,japanese-novel.vscode-jpnov,japanese-novel,Japanese Novel Studio,0.9.5,VS Code を小説の執筆環境に変える拡張機能。書いた文章はすぐ隣に縦書きで表示され、章をまとめて HTML・EPUB・テキストの本として出力できます。出力した HTML はブラウザーでそのまま印刷・PDF 保存できます。記法は青空文庫の注記そのまま。
+2026-11-05T05:17:13.247Z,jianvey.quick-log-console-shortcuts,jianvey,Quick Log – Console Shortcuts,1.0.2,"Insert console.log with one shortcut, a custom prefix, and a configurable message template."
+2026-11-05T05:28:24.403Z,xisui-PA.codex-subagent,xisui-PA,Codex Subagent,0.2.0,"Persistent BYOK worker agents for Codex, using VS Code language models through MCP."
+2026-11-05T05:38:08.32Z,ClemCa.world-execute-me,ClemCa,world.execute(me); highlighting,0.1.1,Language support for the world.execute(me);-inspired language.
+2026-11-05T05:54:09.923Z,J-Siu.multi-llm,J-Siu,Multi LLM,1.0.1,"Use OpenAI-compatible chat endpoints, including DeepSeek, as VS Code language models."
+2026-11-05T05:57:37.03Z,huntertran.read-markdown,huntertran,Read Markdown,0.1.0,"A reading-focused Markdown preview for long documents: heading navigation, collapsible sections, typography customization, search highlight sync, Mermaid and code highlighting."
+2026-11-05T06:03:43.09Z,Bytos.bytos,Bytos,Bytos,1.0.0,"Bytos is an open-source AI coding agent for Visual Studio Code. It plans before it edits, asks before it acts, and can edit files, run commands, use the browser, and call MCP tools with your approval. Bring your own API key (BYOK); no Bytos account or backend is required."
+2026-11-05T06:05:56.25Z,FiscalOx.fiscal-ox-testing,FiscalOx,Fox Testing,1.0.0,"Find problems in your Fiscal Ox components before release. Get clear results in the editor and a simple testing report, with optional Groq AI review."
+2026-11-05T06:11:13.9Z,huxuan.md-mindmap,huxuan,Markdown Mindmap Viewer,0.0.9,Markdown 预览 + 脑图双栏面板：点脑图节点联动定位预览章节，滚动编辑器反向高亮节点
+2026-11-05T06:11:45.01Z,omnibrain-ai.omnibrain,omnibrain-ai,OmniBrain AI,0.1.14,"Resilient Multi-Model AI Assistant — Local-First, Zero-Cost, File & Code Intelligence"
