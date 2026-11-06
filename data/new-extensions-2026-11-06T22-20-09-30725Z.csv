@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T21:15:48.067Z,su-labs.ts-one-line-imports,su-labs,TS One-Line Imports,1.0.1,Formats TypeScript and JavaScript with each project's own Prettier config and keeps every import on a single line. Projects without Prettier only get their imports joined.
+2026-11-06T21:29:31.967Z,keplang.keplang,keplang,KEPLang,0.1.0,"Syntax highlighting, snippets and branded .kep file icons for KEPLang, a programming language with Khorezm dialect keywords."
+2026-11-06T21:32:06.767Z,juliojimenez.moro,juliojimenez,Moro,0.1.0,"Common Lisp for Visual Studio Code: syntax highlighting, language server, REPL integration and structural editing."
+2026-11-06T21:37:52.033Z,VengeanceLabs.dotguard,VengeanceLabs,Dotguard,0.1.0,"Local environment, credential, deployment, and dependency safety checks inside VS Code."
+2026-11-06T22:03:31.88Z,Lasse.hta,Lasse,hta,0.0.1,Adds HTA support to VSCode
+2026-11-06T22:05:13.123Z,Creatiwity.pgzest,Creatiwity,pgzest,0.1.0,"Raw PostgreSQL, with zest: checked the way PostgreSQL would, without a database — diagnostics, hover, completion and macro expansion for SQL, PL/pgSQL and SQL in Rust strings."
+2026-11-06T22:12:48.087Z,cderivan.copilot-agent-manager,cderivan,Copilot Agent Manager,1.0.0,"Live, read-only monitor for your GitHub Copilot agent sessions — the agent tree, every subagent, activity, tokens, diffs, and full-text conversation search in a VS Code sidebar."

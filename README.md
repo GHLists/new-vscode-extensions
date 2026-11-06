@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 21:21 UTC
+## Latest list — 2026-11-06 22:20 UTC
 
-New extensions published between 2026-11-06 19:21 UTC and 2026-11-06 21:21 UTC.
+New extensions published between 2026-11-06 20:20 UTC and 2026-11-06 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T21-21-09-600383Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T22-20-09-30725Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 20:25:48 | [kaiketsu-labs.pair-review](https://marketplace.visualstudio.com/items?itemName=kaiketsu-labs.pair-review) | Pair Review | 0.5.1 | Review local changes with Claude Code using native inline comments and automati… |
-| 2026-11-06 20:32:08 | [amar-micro.remote-server-cleaner](https://marketplace.visualstudio.com/items?itemName=amar-micro.remote-server-cleaner) | Remote SSH Version Cleaner | 0.1.14 | Preview and remove obsolete VS Code Stable server installations on connected Li… |
-| 2026-11-06 20:37:54 | [Sernine.charlier](https://marketplace.visualstudio.com/items?itemName=Sernine.charlier) | Charlier: Antigravity Account Switcher | 0.1.0 | Instant, zero-dependency account switcher and profile vault for Google Antigrav… |
-| 2026-11-06 20:54:59 | [SilverServers.window-color-guard](https://marketplace.visualstudio.com/items?itemName=SilverServers.window-color-guard) | Window Color Guard | 0.1.7 | Stop mixing up VS Code windows and giving AI agents commands meant for another… |
-| 2026-11-06 20:55:02 | [FSDK.robot-werther](https://marketplace.visualstudio.com/items?itemName=FSDK.robot-werther) | Робот Вертер | 0.3.12 | Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и… |
-| 2026-11-06 20:59:32 | [fpracek.samprbasic](https://marketplace.visualstudio.com/items?itemName=fpracek.samprbasic) | SamPr Basic for MSX | 1.4.2 | SamPr Basic: BASIC compiler and IDE for MSX (MSX-DOS programs, MSX-BASIC BIN fi… |
-| 2026-11-06 21:14:03 | [SharadGoyal.tesseract-workflow](https://marketplace.visualstudio.com/items?itemName=SharadGoyal.tesseract-workflow) | Tesseract: Codebase Workflow | 0.1.0 | See any repository as an interactive end-to-end workflow, from UI screens to AP… |
+| 2026-11-06 21:15:48 | [su-labs.ts-one-line-imports](https://marketplace.visualstudio.com/items?itemName=su-labs.ts-one-line-imports) | TS One-Line Imports | 1.0.1 | Formats TypeScript and JavaScript with each project's own Prettier config and k… |
+| 2026-11-06 21:29:31 | [keplang.keplang](https://marketplace.visualstudio.com/items?itemName=keplang.keplang) | KEPLang | 0.1.0 | Syntax highlighting, snippets and branded .kep file icons for KEPLang, a progra… |
+| 2026-11-06 21:32:06 | [juliojimenez.moro](https://marketplace.visualstudio.com/items?itemName=juliojimenez.moro) | Moro | 0.1.0 | Common Lisp for Visual Studio Code: syntax highlighting, language server, REPL… |
+| 2026-11-06 21:37:52 | [VengeanceLabs.dotguard](https://marketplace.visualstudio.com/items?itemName=VengeanceLabs.dotguard) | Dotguard | 0.1.0 | Local environment, credential, deployment, and dependency safety checks inside… |
+| 2026-11-06 22:03:31 | [Lasse.hta](https://marketplace.visualstudio.com/items?itemName=Lasse.hta) | hta | 0.0.1 | Adds HTA support to VSCode |
+| 2026-11-06 22:05:13 | [Creatiwity.pgzest](https://marketplace.visualstudio.com/items?itemName=Creatiwity.pgzest) | pgzest | 0.1.0 | Raw PostgreSQL, with zest: checked the way PostgreSQL would, without a database… |
+| 2026-11-06 22:12:48 | [cderivan.copilot-agent-manager](https://marketplace.visualstudio.com/items?itemName=cderivan.copilot-agent-manager) | Copilot Agent Manager | 1.0.0 | Live, read-only monitor for your GitHub Copilot agent sessions — the agent tree… |
 
 ## Data source
 
