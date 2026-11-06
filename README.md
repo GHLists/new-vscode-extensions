@@ -12,22 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 13:20 UTC
+## Latest list — 2026-11-06 14:19 UTC
 
-New extensions published between 2026-11-06 11:20 UTC and 2026-11-06 13:20 UTC.
+New extensions published between 2026-11-06 12:19 UTC and 2026-11-06 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T13-20-40-922055Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T14-19-07-956638Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 12:12:55 | [MedComPublisher.medcom-fhir-ig-helper](https://marketplace.visualstudio.com/items?itemName=MedComPublisher.medcom-fhir-ig-helper) | MedCom FHIR IG Helper | 1.4.0 | Firely validation, SDK validation and live preview for FHIR implementation guid… |
-| 2026-11-06 12:18:29 | [jeevavarshan.ember-time-jeeva1070](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.ember-time-jeeva1070) | Ember Time: Daily Code Tracker | 1.0.0 | Ember vscode plugin. Statistical analysis of code time. |
-| 2026-11-06 12:32:53 | [sr-web-studio.opencode-voice](https://marketplace.visualstudio.com/items?itemName=sr-web-studio.opencode-voice) | OpenCode Voice (unofficial) | 0.3.6 | Voice input for the OpenCode (unofficial) extension: records your microphone on… |
-| 2026-11-06 12:34:22 | [sr-web-studio.opencode-unofficial](https://marketplace.visualstudio.com/items?itemName=sr-web-studio.opencode-unofficial) | OpenCode (unofficial) | 0.3.5 | Chat with OpenCode in the VS Code sidebar. Sessions live on your OpenCode serve… |
-| 2026-11-06 12:39:46 | [Da7e.da7e-bot](https://marketplace.visualstudio.com/items?itemName=Da7e.da7e-bot) | Da7eBot AI - Code Assistant & Remote Co… | 1.0.0 | AI Coding Assistant and Mobile LAN Remote Controller for VS Code (iPhone & Andr… |
-| 2026-11-06 12:59:08 | [FehmiCitiloglu.evren-provider](https://marketplace.visualstudio.com/items?itemName=FehmiCitiloglu.evren-provider) | Evren Provider (Unofficial) | 1.0.0 | Unofficial, independent Evren API integration for VS Code Chat. By Fehmi Çitilo… |
-| 2026-11-06 13:08:24 | [hugo0.ce-code-explorer](https://marketplace.visualstudio.com/items?itemName=hugo0.ce-code-explorer) | CE Code Explorer | 0.1.105 | Multi-language Class Explorer with visual member creation, refactoring, and hea… |
-| 2026-11-06 13:09:17 | [melissa-themes.catnap-dark-theme](https://marketplace.visualstudio.com/items?itemName=melissa-themes.catnap-dark-theme) | Catnap | 1.0.0 | A cozy dark theme in lavender, mint and peach — easy on the eyes. |
+| 2026-11-06 13:19:35 | [hopperw12.git-log-studio](https://marketplace.visualstudio.com/items?itemName=hopperw12.git-log-studio) | Git Log Studio | 1.1.0 | IntelliJ-style Git Log tool window for VS Code: commit graph, branches pane, fi… |
+| 2026-11-06 13:25:11 | [mitsutan.interlinear](https://marketplace.visualstudio.com/items?itemName=mitsutan.interlinear) | Interlinear - Local Comment Translator | 0.1.0 | ソースコードのコメントと、ホバーで表示されるドキュメントを、ローカルの翻訳モデル（PLaMo 3 Translate + llama.cpp）で翻訳して表示する |
+| 2026-11-06 13:26:44 | [Nyren.opencode-notifications](https://marketplace.visualstudio.com/items?itemName=Nyren.opencode-notifications) | OpenCode Notifications | 0.2.0 | OpenCode sounds and terminal status. Standalone on local Linux; Remote SSH also… |
+| 2026-11-06 13:26:55 | [Nyren.opencode-notification-bridge](https://marketplace.visualstudio.com/items?itemName=Nyren.opencode-notification-bridge) | OpenCode Notification Bridge | 0.2.0 | Remote SSH companion for OpenCode Notifications. Install on the SSH host; the m… |
+| 2026-11-06 13:29:47 | [MarkerLens.concepts-board](https://marketplace.visualstudio.com/items?itemName=MarkerLens.concepts-board) | Concepts Board | 1.0.0 | Concept board workspace for Visual Studio Code. |
+| 2026-11-06 13:30:43 | [BeeTech.bee-tech-plugin](https://marketplace.visualstudio.com/items?itemName=BeeTech.bee-tech-plugin) | Bee Tech Plugin | 1.2.0 | Gerenciamento e rastreamento de tarefas com cronômetro integrado ao VS Code |
+| 2026-11-06 13:31:52 | [melissa-themes.rose-milk-theme](https://marketplace.visualstudio.com/items?itemName=melissa-themes.rose-milk-theme) | Rose Milk | 1.0.1 | A soft light theme in rose, peach and sage — gentle on the eyes. |
+| 2026-11-06 13:35:57 | [kmarek.reqnroll-step-highlighter](https://marketplace.visualstudio.com/items?itemName=kmarek.reqnroll-step-highlighter) | Reqnroll Step Highlighter | 0.1.0 | Live step results in Reqnroll .feature files: running, passed, failed and skipp… |
+| 2026-11-06 13:43:11 | [pedrora22.markdown-instant-viewer](https://marketplace.visualstudio.com/items?itemName=pedrora22.markdown-instant-viewer) | Markdown Instant Viewer | 0.2.1 | Opens Markdown files rendered in the editor with a GitHub-inspired style. |
+| 2026-11-06 13:50:24 | [fabiomendes.mdq](https://marketplace.visualstudio.com/items?itemName=fabiomendes.mdq) | MDQ | 0.0.1 | Validation and preview of MDQ documents: questions and exams written in Markdow… |
+| 2026-11-06 14:03:42 | [vik-ingram.sausage-fingers](https://marketplace.visualstudio.com/items?itemName=vik-ingram.sausage-fingers) | Sausage Fingers | 0.1.0 | Fix text typed in the wrong keyboard layout (EN ⇄ RU) and convert case — side p… |
+| 2026-11-06 14:04:36 | [leonardo-trujillo.dsn-nova-theme](https://marketplace.visualstudio.com/items?itemName=leonardo-trujillo.dsn-nova-theme) | DSN Nova | 1.0.0 | Deep Space Nova glassmorphism theme with futuristic aerospace aesthetics |
 
 ## Data source
 
