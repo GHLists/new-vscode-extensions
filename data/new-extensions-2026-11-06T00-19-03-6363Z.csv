@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-05T23:28:15.313Z,JcDulas.gridsntabs,JcDulas,Grids&Tabs,0.1.13,An offline spreadsheet editor for local workbooks and delimited text.
+2026-11-05T23:32:51.283Z,antao-almada.apm-package-manager,antao-almada,APM - Agent Package Manager,0.1.0,"Visual package, marketplace, and workflow management for Microsoft's Agent Package Manager."
+2026-11-06T00:02:06.23Z,michael-castillo-utp.devflow-scanner,michael-castillo-utp,DevFlow Scanner,1.4.8,Visualiza el flujo Frontend → Controller → Service → Repository → Model y prueba APIs locales desde VS Code.
+2026-11-06T00:08:48.11Z,VaeloraPanel.vaelora-studio-workspace,VaeloraPanel,Vaelora Studio Workspace by VaeloraPanel,3.5.0,Studio operations panel for task delivery and workspace sync.

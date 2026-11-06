@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-05 23:19 UTC
+## Latest list — 2026-11-06 00:19 UTC
 
-New extensions published between 2026-11-05 21:19 UTC and 2026-11-05 23:19 UTC.
+New extensions published between 2026-11-05 22:19 UTC and 2026-11-06 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-05T23-19-22-554285Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T00-19-03-6363Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-05 22:34:42 | [21CS.Gait-HLASM-Interpreter](https://marketplace.visualstudio.com/items?itemName=21CS.Gait-HLASM-Interpreter) | Gait HLASM Interpreter | 1.2.0 | A High Level Assembler interpreter for VS Code. Write, run and debug z/Architec… |
-| 2026-11-05 22:40:00 | [jonwomack.mcp-switch](https://marketplace.visualstudio.com/items?itemName=jonwomack.mcp-switch) | MCP Switch | 0.1.0 | Let your VS Code agent turn MCP servers on and off. Exposes start/stop/restart/… |
-| 2026-11-05 23:05:51 | [Hexanilix.vs-image-corner](https://marketplace.visualstudio.com/items?itemName=Hexanilix.vs-image-corner) | Image Corner | 0.1.0 | Display images from configurable sources in independent VS Code views. |
-| 2026-11-05 23:08:11 | [noxiousamir.dog-on-compile](https://marketplace.visualstudio.com/items?itemName=noxiousamir.dog-on-compile) | Dog on Compile | 0.0.1 | A dancing chihuahua pops up every time your code compiles successfully. |
+| 2026-11-05 23:28:15 | [JcDulas.gridsntabs](https://marketplace.visualstudio.com/items?itemName=JcDulas.gridsntabs) | Grids&Tabs | 0.1.13 | An offline spreadsheet editor for local workbooks and delimited text. |
+| 2026-11-05 23:32:51 | [antao-almada.apm-package-manager](https://marketplace.visualstudio.com/items?itemName=antao-almada.apm-package-manager) | APM - Agent Package Manager | 0.1.0 | Visual package, marketplace, and workflow management for Microsoft's Agent Pack… |
+| 2026-11-06 00:02:06 | [michael-castillo-utp.devflow-scanner](https://marketplace.visualstudio.com/items?itemName=michael-castillo-utp.devflow-scanner) | DevFlow Scanner | 1.4.8 | Visualiza el flujo Frontend → Controller → Service → Repository → Model y prueb… |
+| 2026-11-06 00:08:48 | [VaeloraPanel.vaelora-studio-workspace](https://marketplace.visualstudio.com/items?itemName=VaeloraPanel.vaelora-studio-workspace) | Vaelora Studio Workspace by VaeloraPanel | 3.5.0 | Studio operations panel for task delivery and workspace sync. |
 
 ## Data source
 
