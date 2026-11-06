@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T12:12:55.1Z,MedComPublisher.medcom-fhir-ig-helper,MedComPublisher,MedCom FHIR IG Helper,1.4.0,"Firely validation, SDK validation and live preview for FHIR implementation guides."
+2026-11-06T12:18:29.75Z,jeevavarshan.ember-time-jeeva1070,jeevavarshan,Ember Time: Daily Code Tracker,1.0.0,Ember vscode plugin. Statistical analysis of code time.
+2026-11-06T12:32:53.53Z,sr-web-studio.opencode-voice,sr-web-studio,OpenCode Voice (unofficial),0.3.6,"Voice input for the OpenCode (unofficial) extension: records your microphone on this computer and types what you say (Bangla, English and more) into the prompt box. Bring your own Soniox key. Unofficial — not affiliated with the OpenCode team."
+2026-11-06T12:34:22.85Z,sr-web-studio.opencode-unofficial,sr-web-studio,OpenCode (unofficial),0.3.5,"Chat with OpenCode in the VS Code sidebar. Sessions live on your OpenCode server and keep running when you close the editor. Native diffs, terminal, voice input. Unofficial — not affiliated with the OpenCode team."
+2026-11-06T12:39:46.177Z,Da7e.da7e-bot,Da7e,Da7eBot AI - Code Assistant & Remote Controller,1.0.0,AI Coding Assistant and Mobile LAN Remote Controller for VS Code (iPhone & Android)
+2026-11-06T12:59:08.463Z,FehmiCitiloglu.evren-provider,FehmiCitiloglu,Evren Provider (Unofficial),1.0.0,"Unofficial, independent Evren API integration for VS Code Chat. By Fehmi Çitiloğlu; not affiliated with or endorsed by the Evren service operator."
+2026-11-06T13:08:24.75Z,hugo0.ce-code-explorer,hugo0,CE Code Explorer,0.1.105,"Multi-language Class Explorer with visual member creation, refactoring, and header/source management"
+2026-11-06T13:09:17.297Z,melissa-themes.catnap-dark-theme,melissa-themes,Catnap,1.0.0,"A cozy dark theme in lavender, mint and peach — easy on the eyes."

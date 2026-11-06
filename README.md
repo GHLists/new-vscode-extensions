@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 12:20 UTC
+## Latest list — 2026-11-06 13:20 UTC
 
-New extensions published between 2026-11-06 10:20 UTC and 2026-11-06 12:20 UTC.
+New extensions published between 2026-11-06 11:20 UTC and 2026-11-06 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T12-20-47-215292Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T13-20-40-922055Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 11:17:51 | [KaichuTheFox.moulang](https://marketplace.visualstudio.com/items?itemName=KaichuTheFox.moulang) | Moulang for VS Code | 0.1.3 | Language support and native execution for Moulang (.m). |
-| 2026-11-06 11:20:17 | [levdikpavel.json-pretty-view](https://marketplace.visualstudio.com/items?itemName=levdikpavel.json-pretty-view) | JSON Pretty View | 0.1.0 | Read-only pretty view of minified JSON in the same tab, for any file system: lo… |
-| 2026-11-06 11:23:40 | [Moogenie.ai-dotnet-debugger](https://marketplace.visualstudio.com/items?itemName=Moogenie.ai-dotnet-debugger) | AI .NET Debugger | 0.0.1 | Lets an AI agent and a person debug a local .NET process together. Test data on… |
-| 2026-11-06 11:28:50 | [voxpupuli.openvox-vscode](https://marketplace.visualstudio.com/items?itemName=voxpupuli.openvox-vscode) | OpenVox | 0.2.1 | OpenVox Puppet DSL support for Visual Studio Code |
-| 2026-11-06 11:30:00 | [Buger.nuaa-oj](https://marketplace.visualstudio.com/items?itemName=Buger.nuaa-oj) | NUAA OJ | 1.10.3 | 在 VS Code 中直接登录、查找、编写、测试并提交 NUAA OJ（HOJ）题目，无需浏览器。 |
-| 2026-11-06 12:13:27 | [SeifHamza.da7e-ai](https://marketplace.visualstudio.com/items?itemName=SeifHamza.da7e-ai) | Da7e AI - Coding Assistant & Mobile LAN… | 1.0.0 | AI Coding Assistant and Mobile LAN Remote Controller for VS Code (iPhone & Andr… |
+| 2026-11-06 12:12:55 | [MedComPublisher.medcom-fhir-ig-helper](https://marketplace.visualstudio.com/items?itemName=MedComPublisher.medcom-fhir-ig-helper) | MedCom FHIR IG Helper | 1.4.0 | Firely validation, SDK validation and live preview for FHIR implementation guid… |
+| 2026-11-06 12:18:29 | [jeevavarshan.ember-time-jeeva1070](https://marketplace.visualstudio.com/items?itemName=jeevavarshan.ember-time-jeeva1070) | Ember Time: Daily Code Tracker | 1.0.0 | Ember vscode plugin. Statistical analysis of code time. |
+| 2026-11-06 12:32:53 | [sr-web-studio.opencode-voice](https://marketplace.visualstudio.com/items?itemName=sr-web-studio.opencode-voice) | OpenCode Voice (unofficial) | 0.3.6 | Voice input for the OpenCode (unofficial) extension: records your microphone on… |
+| 2026-11-06 12:34:22 | [sr-web-studio.opencode-unofficial](https://marketplace.visualstudio.com/items?itemName=sr-web-studio.opencode-unofficial) | OpenCode (unofficial) | 0.3.5 | Chat with OpenCode in the VS Code sidebar. Sessions live on your OpenCode serve… |
+| 2026-11-06 12:39:46 | [Da7e.da7e-bot](https://marketplace.visualstudio.com/items?itemName=Da7e.da7e-bot) | Da7eBot AI - Code Assistant & Remote Co… | 1.0.0 | AI Coding Assistant and Mobile LAN Remote Controller for VS Code (iPhone & Andr… |
+| 2026-11-06 12:59:08 | [FehmiCitiloglu.evren-provider](https://marketplace.visualstudio.com/items?itemName=FehmiCitiloglu.evren-provider) | Evren Provider (Unofficial) | 1.0.0 | Unofficial, independent Evren API integration for VS Code Chat. By Fehmi Çitilo… |
+| 2026-11-06 13:08:24 | [hugo0.ce-code-explorer](https://marketplace.visualstudio.com/items?itemName=hugo0.ce-code-explorer) | CE Code Explorer | 0.1.105 | Multi-language Class Explorer with visual member creation, refactoring, and hea… |
+| 2026-11-06 13:09:17 | [melissa-themes.catnap-dark-theme](https://marketplace.visualstudio.com/items?itemName=melissa-themes.catnap-dark-theme) | Catnap | 1.0.0 | A cozy dark theme in lavender, mint and peach — easy on the eyes. |
 
 ## Data source
 
