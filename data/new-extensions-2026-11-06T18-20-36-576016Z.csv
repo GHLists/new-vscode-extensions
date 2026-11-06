@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T17:28:26.923Z,devarchitect.vscode-devarchitect,devarchitect,DevArchitect — Engineering Intelligence,0.1.2,"Real-time architecture health, change blast radius, and boundary enforcement inside VS Code and Cursor"
+2026-11-06T17:28:42.98Z,orneos.ornis,orneos,Ornis,0.2.0,"Ornis dans l’éditeur : un agent de code européen avec son panneau, le dossier ouvert, et votre accord avant d’écrire."
+2026-11-06T17:36:09.033Z,ti-development-tools.ccstudio-openocd,ti-development-tools,TI Cortex Debug,1.0.0,ARM Cortex-M GDB Debugger support for VS Code
+2026-11-06T17:44:35.53Z,MarthinusBosman.databricks-notebooks,MarthinusBosman,Databricks Notebooks,0.1.0,"Open Databricks source notebooks (.py files starting with '# Databricks notebook source') as Jupyter-style notebooks and run cells, %sql, %run and %sh on a local Python kernel."
+2026-11-06T17:47:09.91Z,EnzoUnified.datazen-sqlcdc,EnzoUnified,DataZen SQL CDC,0.2.3,"Author, preview and publish DataZen SQL CDC scripts (.sqlcdc) against a DataZen agent."
+2026-11-06T17:51:09.143Z,DeepakR.neurocode-ai,DeepakR,NeuroCode - In-Memory Context Slicer & Local SWE Agent,0.1.0,"Zero-daemon AST reachability slicer for local models (Ollama, Cursor, Claude). Fits repository context into sub-1,200 tokens for 4GB-8GB GPU bug repair."
+2026-11-06T17:56:16.353Z,MandacaruProject.mandacaru-project-theme,MandacaruProject,Mandacaru Project Theme,1.0.1,Mandacaru Theme utiliza cores baseadas na flor do mandacaru com variações temáticas
+2026-11-06T17:58:26.297Z,kris7t.seminar-vscode,kris7t,Seminar,0.3.0,"Language support for Seminar decks: syntax highlighting and IntelliSense for .deck.mdx files, previews in the editor, and buttons to present and preview them"
+2026-11-06T18:05:49.75Z,EPelletierNBCC.dataman,EPelletierNBCC,Dataman,0.1.2,Manage local database projects and run SQL in Docker-powered workspaces.
