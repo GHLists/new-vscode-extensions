@@ -12,20 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 15:21 UTC
+## Latest list — 2026-11-06 16:20 UTC
 
-New extensions published between 2026-11-06 13:21 UTC and 2026-11-06 15:21 UTC.
+New extensions published between 2026-11-06 14:20 UTC and 2026-11-06 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T15-21-08-625361Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T16-20-30-24309Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 14:18:37 | [waldoxbin.vscode-router-goto](https://marketplace.visualstudio.com/items?itemName=waldoxbin.vscode-router-goto) | React Navigation & Expo Router IntelliS… | 0.2.0 | Smart autocomplete, Click-to-Definition (Cmd+click) and hover documentation for… |
-| 2026-11-06 14:33:18 | [ISMAILIYanisse.agent-verse](https://marketplace.visualstudio.com/items?itemName=ISMAILIYanisse.agent-verse) | Agent-Verse | 0.7.0 | Vois tes agents Claude Code bosser en direct : un bureau en style comics où cha… |
-| 2026-11-06 14:35:31 | [seven07ve.prisma-window-colors](https://marketplace.visualstudio.com/items?itemName=seven07ve.prisma-window-colors) | Prisma Window Colors | 1.0.0 | Gives every project window its own color from a palette of 11, never repeating… |
-| 2026-11-06 14:45:57 | [greatminds-nl.arqi](https://marketplace.visualstudio.com/items?itemName=greatminds-nl.arqi) | Arqi | 0.2.26 | Architecture-as-Code support for Arqi DSL |
-| 2026-11-06 15:05:03 | [puzzlysstudio.codecontrol](https://marketplace.visualstudio.com/items?itemName=puzzlysstudio.codecontrol) | CodeControl | 0.2.0 | CodeControl: programming quizzes for while your AI agent works, plus a ping the… |
-| 2026-11-06 15:11:42 | [saffo.waysill](https://marketplace.visualstudio.com/items?itemName=saffo.waysill) | Waysill: WCAG Checks for HTML and JSX | 1.1.0 | Lints HTML, JSX/TSX, Vue and Svelte templates for WCAG 2.2 issues (alt text, la… |
+| 2026-11-06 15:39:03 | [MrAlt.agent-skills-marketplace](https://marketplace.visualstudio.com/items?itemName=MrAlt.agent-skills-marketplace) | Skills - Agent Skills Marketplace | 1.14.0 | Discover, install, inspect, and toggle AI Agent Skills (.agents/skills, skills.… |
+| 2026-11-06 15:50:05 | [zovo.dxf-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.dxf-viewer) | DXF Viewer & CAD Viewer for 2D Drawings | 0.1.1 | DXF viewer and CAD viewer that opens ASCII and binary .dxf drawings in VS Code… |
+| 2026-11-06 15:52:58 | [prateep-r.multi-git-explorer](https://marketplace.visualstudio.com/items?itemName=prateep-r.multi-git-explorer) | Multi-Git Explorer | 1.2.0 | See the branch and status of every git repository in your workspace at a glance… |
+| 2026-11-06 16:01:55 | [zovo.zovo-json-tree-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-json-tree-viewer) | JSON Viewer & JSON Tree | 0.1.1 | JSON viewer with a fast JSON tree for large files. Search keys and values, copy… |
+| 2026-11-06 16:03:20 | [zovo.zovo-jsonl-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-jsonl-viewer) | JSONL Viewer & NDJSON Table Viewer | 0.1.2 | Open JSONL and NDJSON files as a table, as pretty records or as a chat view for… |
+| 2026-11-06 16:04:50 | [zovo.ai-usage-meter](https://marketplace.visualstudio.com/items?itemName=zovo.ai-usage-meter) | Claude Code Usage & Codex Usage Cost Me… | 0.1.1 | See today's Claude Code and Codex tokens and estimated cost in the status bar,… |
+| 2026-11-06 16:06:15 | [zovo.sqlite-table-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.sqlite-table-viewer) | SQLite Table Viewer | 0.1.2 | Open SQLite databases (.db, .sqlite, .sqlite3) read-only. Browse tables with pa… |
+| 2026-11-06 16:07:41 | [zovo.video-preview-with-sound](https://marketplace.visualstudio.com/items?itemName=zovo.video-preview-with-sound) | Video Preview with Sound | 0.1.2 | Play MP4, MOV, MKV and WebM files in VS Code with their sound, which VS Code mu… |
+| 2026-11-06 16:08:11 | [spin-stack.spinbox](https://marketplace.visualstudio.com/items?itemName=spin-stack.spinbox) | Spinbox | 0.0.1 | Open Spinbox workspaces in VS Code over Remote-SSH, through the spin CLI. |
+| 2026-11-06 16:09:14 | [zovo.agent-session-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.agent-session-viewer) | Agent Session Viewer | 0.1.2 | Browse, search and export your local Claude Code and Codex sessions, with promp… |
+| 2026-11-06 16:12:41 | [t1m0ntimon.route-atlas](https://marketplace.visualstudio.com/items?itemName=t1m0ntimon.route-atlas) | Route Atlas | 0.2.1 | See every page and endpoint of a web project in one sorted tree, then jump to t… |
 
 ## Data source
 
