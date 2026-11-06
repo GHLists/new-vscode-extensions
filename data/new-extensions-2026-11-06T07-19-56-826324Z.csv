@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T06:21:51.533Z,hoang-tuanp.loc-monitor-pro,hoang-tuanp,LOC Monitor Pro,1.0.0,Count code across VS Code languages and installed language extensions
+2026-11-06T06:39:30.327Z,viviewtech.vvt-agent,viviewtech,VVT Agent,0.4.24,Zephyr embedded development workspace and AI Agent MCP gateway.
+2026-11-06T06:47:49.04Z,GabrielPetteway-Dib.sksp-vscode,GabrielPetteway-Dib,sKSP for VS Code,0.1.0,Project-aware SublimeKSP compilation and syntax highlighting for VS Code.
+2026-11-06T07:05:40.843Z,appmonster007.yamd-pack,appmonster007,YAMD Studio Pack,1.2.0,"YAMD Studio with everything it works with: Foam for linked notes, SQLite and CSV editors for query data, and Markdown tooling. One install for boards, queries, diagrams, study tools and exports in plain Markdown."
+2026-11-06T07:10:41.94Z,zhongwu.agent-diff-auditor,zhongwu,Agent Diff Auditor,0.1.0,"Catches the shortcuts AI coding agents take to look done: skipped or deleted tests, weakened assertions, suppressed errors and softened CI."

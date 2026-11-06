@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 06:21 UTC
+## Latest list — 2026-11-06 07:19 UTC
 
-New extensions published between 2026-11-06 04:21 UTC and 2026-11-06 06:21 UTC.
+New extensions published between 2026-11-06 05:19 UTC and 2026-11-06 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T06-21-25-614975Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T07-19-56-826324Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 05:15:13 | [popnow.popnow](https://marketplace.visualstudio.com/items?itemName=popnow.popnow) | PopNow: AI Image and Video Generator | 0.1.0 | Generate AI images and videos in VS Code with Nano Banana, GPT Image, Seedream,… |
-| 2026-11-06 05:25:43 | [junbiaojin.mysql-custom](https://marketplace.visualstudio.com/items?itemName=junbiaojin.mysql-custom) | MySQL Custom | 0.1.0 | MySQL/MariaDB client with enhanced SQL intellisense (based on cweijan/vscode-da… |
-| 2026-11-06 05:41:48 | [waguea.rangeedit-vscode](https://marketplace.visualstudio.com/items?itemName=waguea.rangeedit-vscode) | RangeEdit | 0.1.0 | Range-based scan, replace, and delete powered by the RangeEdit engine. |
-| 2026-11-06 05:42:44 | [yeeth.pkgscan](https://marketplace.visualstudio.com/items?itemName=yeeth.pkgscan) | pkgscan | 0.1.2 | A simple security auditor for VS Code-compatible IDE extensions that checks for… |
+| 2026-11-06 06:21:51 | [hoang-tuanp.loc-monitor-pro](https://marketplace.visualstudio.com/items?itemName=hoang-tuanp.loc-monitor-pro) | LOC Monitor Pro | 1.0.0 | Count code across VS Code languages and installed language extensions |
+| 2026-11-06 06:39:30 | [viviewtech.vvt-agent](https://marketplace.visualstudio.com/items?itemName=viviewtech.vvt-agent) | VVT Agent | 0.4.24 | Zephyr embedded development workspace and AI Agent MCP gateway. |
+| 2026-11-06 06:47:49 | [GabrielPetteway-Dib.sksp-vscode](https://marketplace.visualstudio.com/items?itemName=GabrielPetteway-Dib.sksp-vscode) | sKSP for VS Code | 0.1.0 | Project-aware SublimeKSP compilation and syntax highlighting for VS Code. |
+| 2026-11-06 07:05:40 | [appmonster007.yamd-pack](https://marketplace.visualstudio.com/items?itemName=appmonster007.yamd-pack) | YAMD Studio Pack | 1.2.0 | YAMD Studio with everything it works with: Foam for linked notes, SQLite and CS… |
+| 2026-11-06 07:10:41 | [zhongwu.agent-diff-auditor](https://marketplace.visualstudio.com/items?itemName=zhongwu.agent-diff-auditor) | Agent Diff Auditor | 0.1.0 | Catches the shortcuts AI coding agents take to look done: skipped or deleted te… |
 
 ## Data source
 
