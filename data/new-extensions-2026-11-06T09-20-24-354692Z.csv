@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T08:29:58.323Z,carbonconfig.carbonwire,carbonconfig,CarbonWire,1.0.0,"Test REST APIs with a fast HTTP client. Send requests, inspect JSON responses, and import collections from Postman, Insomnia, Bruno, HTTPie and curl, kept as plain files in your workspace."
+2026-11-06T08:37:31.553Z,azzamalessa.agenthaven-codespaces,azzamalessa,AgentHaven Codespaces Connector,0.1.0,Connect the current GitHub Codespace to AgentHaven with a one-time pairing code.
+2026-11-06T08:52:50.23Z,waldoxbin.antigravity-theme,waldoxbin,Antigravity Theme,0.0.1,Visual Studio Code theme extension based on Antigravity v2.29.0 Onyx design system. Includes precision Dark and Light themes.
+2026-11-06T08:53:50.257Z,whw23.git-graph-sharp,whw23,Git Graph #,0.7.3,A Git Graph fork that puts every worktree on the graph.
+2026-11-06T09:01:39.283Z,dataforge.dataforge-ide,dataforge,DataForge IDE,0.1.2,"A neo-brutalist PostgreSQL IDE for VS Code: connections, schema explorer, SQL execution and result grids."

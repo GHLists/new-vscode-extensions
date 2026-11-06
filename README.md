@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 08:21 UTC
+## Latest list — 2026-11-06 09:20 UTC
 
-New extensions published between 2026-11-06 06:21 UTC and 2026-11-06 08:21 UTC.
+New extensions published between 2026-11-06 07:20 UTC and 2026-11-06 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T08-21-19-266364Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T09-20-24-354692Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 07:16:25 | [lenny.sextante](https://marketplace.visualstudio.com/items?itemName=lenny.sextante) | Sextante | 0.1.1 | SE80-style workbench inside VS Code on top of SAP ABAP Development Tools: syste… |
-| 2026-11-06 07:28:05 | [Aki0x137.markdown-annotator](https://marketplace.visualstudio.com/items?itemName=Aki0x137.markdown-annotator) | Annotate Markdown Preview | 0.1.2 | Highlight, comment, color-code, and attach links in the official VS Code Markdo… |
-| 2026-11-06 07:33:15 | [fourounces.agent-sessions-dashboard](https://marketplace.visualstudio.com/items?itemName=fourounces.agent-sessions-dashboard) | Agent Sessions Dashboard | 0.7.4 | See every AI coding agent session you have running, as a Kanban board or a list… |
-| 2026-11-06 07:44:34 | [tugline.tugline-agent](https://marketplace.visualstudio.com/items?itemName=tugline.tugline-agent) | Tugline Agent: coding agent for any mod… | 1.2.5 | A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your… |
-| 2026-11-06 07:54:30 | [FSEmbedded.fusysDev](https://marketplace.visualstudio.com/items?itemName=FSEmbedded.fusysDev) | FuSys Dev V1 | 0.7.2 | Manage and download Yocto releases |
-| 2026-11-06 07:57:26 | [adito.adito-view-preview](https://marketplace.visualstudio.com/items?itemName=adito.adito-view-preview) | ADITO View Preview | 0.0.1 | Visualize ADITO view YAML files as an interactive layout tree. |
-| 2026-11-06 08:02:27 | [langchou.vs-worktree-view](https://marketplace.visualstudio.com/items?itemName=langchou.vs-worktree-view) | Worktree View | 0.1.0 | A lightweight git worktree board in Source Control: see what every AI agent wor… |
-| 2026-11-06 08:04:35 | [seanzhou.jetgit-vscode](https://marketplace.visualstudio.com/items?itemName=seanzhou.jetgit-vscode) | JetGit | 1.0.0 | JetBrains-like Git experience for VS Code: right-click Git menu, commit dialog… |
-| 2026-11-06 08:11:57 | [andreashuthe.intellij-java-kotlin-navigation](https://marketplace.visualstudio.com/items?itemName=andreashuthe.intellij-java-kotlin-navigation) | IntelliJ Java/Kotlin Navigation | 1.0.0 | IntelliJ-style interface / implementation / override navigation ('1 implementat… |
+| 2026-11-06 08:29:58 | [carbonconfig.carbonwire](https://marketplace.visualstudio.com/items?itemName=carbonconfig.carbonwire) | CarbonWire | 1.0.0 | Test REST APIs with a fast HTTP client. Send requests, inspect JSON responses,… |
+| 2026-11-06 08:37:31 | [azzamalessa.agenthaven-codespaces](https://marketplace.visualstudio.com/items?itemName=azzamalessa.agenthaven-codespaces) | AgentHaven Codespaces Connector | 0.1.0 | Connect the current GitHub Codespace to AgentHaven with a one-time pairing code. |
+| 2026-11-06 08:52:50 | [waldoxbin.antigravity-theme](https://marketplace.visualstudio.com/items?itemName=waldoxbin.antigravity-theme) | Antigravity Theme | 0.0.1 | Visual Studio Code theme extension based on Antigravity v2.29.0 Onyx design sys… |
+| 2026-11-06 08:53:50 | [whw23.git-graph-sharp](https://marketplace.visualstudio.com/items?itemName=whw23.git-graph-sharp) | Git Graph # | 0.7.3 | A Git Graph fork that puts every worktree on the graph. |
+| 2026-11-06 09:01:39 | [dataforge.dataforge-ide](https://marketplace.visualstudio.com/items?itemName=dataforge.dataforge-ide) | DataForge IDE | 0.1.2 | A neo-brutalist PostgreSQL IDE for VS Code: connections, schema explorer, SQL e… |
 
 ## Data source
 
