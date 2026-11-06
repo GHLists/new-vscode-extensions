@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T10:33:28.433Z,OscarSoirey.raven-xml,OscarSoirey,Raven XML,0.1.0,"Completion, hovers and diagnostics for the XML interfaces of Raven: widgets, attributes, values and actions."
+2026-11-06T10:51:44.027Z,Arui.fitcode,Arui,FitCode,0.1.0,Center the editor text like JetBrains does: width follows the longest line of the current file
+2026-11-06T11:00:26.507Z,NNNCODE.agent-config-guard,NNNCODE,Agent Config Guard,0.1.0,"Detects silent changes to coding-agent configs (Claude Code, Codex, Cursor, GitHub Copilot, OpenCode), flags risky ones such as new hooks, plugins and MCP servers, and lets you accept or revert them."

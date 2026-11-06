@@ -12,22 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 10:21 UTC
+## Latest list — 2026-11-06 11:20 UTC
 
-New extensions published between 2026-11-06 08:21 UTC and 2026-11-06 10:21 UTC.
+New extensions published between 2026-11-06 09:20 UTC and 2026-11-06 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T10-21-21-297352Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T11-20-01-548251Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 09:18:03 | [henriquegoliveira.debug-algo](https://marketplace.visualstudio.com/items?itemName=henriquegoliveira.debug-algo) | DebugAlgo | 0.1.0 | Visualize data structures during debugging |
-| 2026-11-06 09:49:44 | [waldoxbin.vscode-rn-asset-lens](https://marketplace.visualstudio.com/items?itemName=waldoxbin.vscode-rn-asset-lens) | React Native Asset & Icon Lens | 1.0.0 | Lightning-fast offline icon picker, image hover preview (dimensions & file size… |
-| 2026-11-06 10:05:50 | [eejyang.miku-volume](https://marketplace.visualstudio.com/items?itemName=eejyang.miku-volume) | Miku Volume | 1.0.0 | NIfTI medical image viewer with linked 2D slices, segmentation overlays and 3D… |
-| 2026-11-06 10:06:25 | [Sunnyth.leaklock-security](https://marketplace.visualstudio.com/items?itemName=Sunnyth.leaklock-security) | LeakLock | 1.0.0 | Developer-first credential protection. Detect, trace, block, and fix secret lea… |
-| 2026-11-06 10:06:32 | [prateep.multi-repo-explorer](https://marketplace.visualstudio.com/items?itemName=prateep.multi-repo-explorer) | Multi-Repo Explorer | 1.2.0 | See the branch and status of every git repository in your workspace at a glance… |
-| 2026-11-06 10:08:30 | [wheatlay.stateful-buttons](https://marketplace.visualstudio.com/items?itemName=wheatlay.stateful-buttons) | Stateful Buttons | 0.1.0 | Status bar buttons that run shell or VS Code commands and show live ON/OFF stat… |
-| 2026-11-06 10:14:21 | [emerald-ocean.emerald-ocean](https://marketplace.visualstudio.com/items?itemName=emerald-ocean.emerald-ocean) | Emerald Ocean | 0.1.0 | A dark theme coloured like the ocean when green beats blue. |
-| 2026-11-06 10:15:46 | [algorithmalbert.k6-loaddeck](https://marketplace.visualstudio.com/items?itemName=algorithmalbert.k6-loaddeck) | LoadDeck — k6 Performance Testing | 0.2.0 | GUI-first local performance testing powered by Grafana k6. |
+| 2026-11-06 10:33:28 | [OscarSoirey.raven-xml](https://marketplace.visualstudio.com/items?itemName=OscarSoirey.raven-xml) | Raven XML | 0.1.0 | Completion, hovers and diagnostics for the XML interfaces of Raven: widgets, at… |
+| 2026-11-06 10:51:44 | [Arui.fitcode](https://marketplace.visualstudio.com/items?itemName=Arui.fitcode) | FitCode | 0.1.0 | Center the editor text like JetBrains does: width follows the longest line of t… |
+| 2026-11-06 11:00:26 | [NNNCODE.agent-config-guard](https://marketplace.visualstudio.com/items?itemName=NNNCODE.agent-config-guard) | Agent Config Guard | 0.1.0 | Detects silent changes to coding-agent configs (Claude Code, Codex, Cursor, Git… |
 
 ## Data source
 
