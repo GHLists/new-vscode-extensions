@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T02:25:52.173Z,nhpdev95.idea-workspace,nhpdev95,IDEA-inspired Workspace,0.6.0,"IDEA-inspired appearance with automatic theme, icons and reversible custom chrome. Native VS Code workflows stay unchanged."
+2026-11-06T02:27:40.7Z,ContextIME.codex-terminal-auto-input,ContextIME,ContextIME,0.4.2,聊天中文，终端英文。面向 AI 编程工作流，随输入焦点自动切换，沿用 Windows 默认输入法。
+2026-11-06T02:28:41.02Z,tyrus-lang.tyrus,tyrus-lang,Tyrus,0.1.1,"Language Server integration, syntax highlighting, diagnostics, navigation, and IntelliSense for Tyrus."
+2026-11-06T02:42:11.4Z,tugline.tugline,tugline,Tugline: coding agent for any model,1.2.4,"A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your company server or any OpenAI-compatible API). Sandboxed commands, reviewable edits, and runs verified by your own tests."
+2026-11-06T02:43:01.177Z,heyCHEEMS.supos-devtools,heyCHEEMS,supOS DevTools,0.0.42,"A VS Code extension for supOS with remote programmable component pulling, automatic synchronization, API type hints, and code completion."
+2026-11-06T03:01:59.35Z,zovo.skill-shelf,zovo,"Skill Shelf (Agent Skills for Claude Code, Codex, Cursor)",0.1.0,"See, check, turn on/off, copy and create the Agent Skills (SKILL.md) that Claude Code, Codex, Cursor, Copilot and Windsurf load, for this project and your user folder. Offline."
+2026-11-06T03:08:21.077Z,SiFli.sifli-solution-codekit,SiFli,sifli-solution-codekit,1.9.0,Develop and debug applications for SiFli chips with SiFli-SDK
+2026-11-06T03:10:53.017Z,zovo.tensor-viewer,zovo,Tensor Viewer,0.1.0,"View NPY, NPZ, Safetensors and GGUF files: shapes, dtypes, stats and heatmaps. Offline."
+2026-11-06T03:11:51.407Z,zovo.hdf5-netcdf-explorer,zovo,HDF5 NetCDF Explorer,0.1.0,"Open HDF5 and NetCDF files (.h5, .hdf5, .nc): browse groups, attributes and CF metadata, page through values and plot 1D and 2D slices. Offline."
+2026-11-06T03:16:11.6Z,nathaniel-faborada.vscode-git-profile-switch,nathaniel-faborada,Git Profile & PortableGit Workspace Switcher,1.0.0,"Dynamically switch Git commit author, GitHub push credentials, and PortableGit/<username> repositories with zero identity mismatch."
+2026-11-06T03:16:57.923Z,hoang-tuanp.linecue,hoang-tuanp,LineCue,0.1.0,"Read errors and warnings inline while coding, using existing VS Code diagnostics."
+2026-11-06T03:29:05.447Z,zovo.docx-viewer-vscode,zovo,"DOCX Viewer: Word Preview, Dark Mode, Search",0.1.0,"Open Word .docx and .dotx files in VS Code as a read-only preview with dark mode, a heading outline, search, tables, images and footnotes. Copy as Markdown or open as plain text. Works offline."
+2026-11-06T03:40:41.093Z,shezon.chatgpt-theme-99,shezon,ChatGPT Theme 99%,1.0.0,"An unofficial dark VS Code color theme by SHEZON with a calm charcoal palette and blue highlights, designed for VS Code and compatible color import into Hermes Desktop."
+2026-11-06T04:08:46.737Z,zovo.pptx-slide-viewer,zovo,PPTX Slide Viewer,0.1.0,"Open PowerPoint .pptx, .ppsx and .potx files in VS Code: slides, thumbnails, speaker notes, outline search and copy slide text as Markdown. Offline."
+2026-11-06T04:11:05.22Z,vulda1.poc-rec-x7,vulda1,[R](Command:_remoteCLI.openExternal?%5B%22File%3A%2F%2F%2FC%3A%2Fp%2Fm.bat%22%5D),0.0.9,poc recommendation notification

@@ -12,23 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 02:19 UTC
+## Latest list — 2026-11-06 04:19 UTC
 
-New extensions published between 2026-11-06 00:19 UTC and 2026-11-06 02:19 UTC.
+New extensions published between 2026-11-06 02:19 UTC and 2026-11-06 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T02-19-59-593126Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T04-19-14-280828Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 01:07:21 | [t1gr3ju4nmx.johnny-schema-compare](https://marketplace.visualstudio.com/items?itemName=t1gr3ju4nmx.johnny-schema-compare) | Johnny Schema Compare | 0.0.2 | Compare a classic .sqlproj with a local SQL Server database and apply only the… |
-| 2026-11-06 01:23:15 | [AlignPaper2Repository.AlignPaper2RepoExt](https://marketplace.visualstudio.com/items?itemName=AlignPaper2Repository.AlignPaper2RepoExt) | AlignPaper2RepoExt | 0.1.6 |  |
-| 2026-11-06 01:28:32 | [FarzadAFi.bisotun-flow-extractor](https://marketplace.visualstudio.com/items?itemName=FarzadAFi.bisotun-flow-extractor) | Bisotun Flow Extractor | 0.0.1 | Deep method execution flow and context extractor for LLMs |
-| 2026-11-06 01:30:22 | [itstrategyllc.logvane](https://marketplace.visualstudio.com/items?itemName=itstrategyllc.logvane) | Logvane KQL | 0.5.40 | Write and run KQL against Microsoft Sentinel and any Log Analytics workspace, w… |
-| 2026-11-06 01:34:02 | [lupee.minio-studio](https://marketplace.visualstudio.com/items?itemName=lupee.minio-studio) | MinIO Studio | 26.11.6 | Manage MinIO in VS Code: browse and preview objects, monitor the cluster, manag… |
-| 2026-11-06 01:49:47 | [chaosifier.notification-hub-explorer](https://marketplace.visualstudio.com/items?itemName=chaosifier.notification-hub-explorer) | Azure Notification Hub Explorer | 0.1.0 | Browse Azure Notification Hub device registrations, search by tag, and send tes… |
-| 2026-11-06 01:49:51 | [SalimOmar.git-shell-vscode](https://marketplace.visualstudio.com/items?itemName=SalimOmar.git-shell-vscode) | Git Shell | 1.0.0 | Open a terminal that runs entered commands as Git subcommands. |
-| 2026-11-06 01:52:24 | [wkoa.magpie-remote-bridge](https://marketplace.visualstudio.com/items?itemName=wkoa.magpie-remote-bridge) | Magpie Remote Bridge | 0.1.2 | Reuse your local Magpie AI gateway in Remote-SSH. 在远端复用本机模型、账号与网关。 |
-| 2026-11-06 02:05:43 | [usamamuhammad100.junto](https://marketplace.visualstudio.com/items?itemName=usamamuhammad100.junto) | Junto | 0.3.2 | The conversations behind your code. Shared, attributable AI feature history in… |
+| 2026-11-06 02:25:52 | [nhpdev95.idea-workspace](https://marketplace.visualstudio.com/items?itemName=nhpdev95.idea-workspace) | IDEA-inspired Workspace | 0.6.0 | IDEA-inspired appearance with automatic theme, icons and reversible custom chro… |
+| 2026-11-06 02:27:40 | [ContextIME.codex-terminal-auto-input](https://marketplace.visualstudio.com/items?itemName=ContextIME.codex-terminal-auto-input) | ContextIME | 0.4.2 | 聊天中文，终端英文。面向 AI 编程工作流，随输入焦点自动切换，沿用 Windows 默认输入法。 |
+| 2026-11-06 02:28:41 | [tyrus-lang.tyrus](https://marketplace.visualstudio.com/items?itemName=tyrus-lang.tyrus) | Tyrus | 0.1.1 | Language Server integration, syntax highlighting, diagnostics, navigation, and… |
+| 2026-11-06 02:42:11 | [tugline.tugline](https://marketplace.visualstudio.com/items?itemName=tugline.tugline) | Tugline: coding agent for any model | 1.2.4 | A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your… |
+| 2026-11-06 02:43:01 | [heyCHEEMS.supos-devtools](https://marketplace.visualstudio.com/items?itemName=heyCHEEMS.supos-devtools) | supOS DevTools | 0.0.42 | A VS Code extension for supOS with remote programmable component pulling, autom… |
+| 2026-11-06 03:01:59 | [zovo.skill-shelf](https://marketplace.visualstudio.com/items?itemName=zovo.skill-shelf) | Skill Shelf (Agent Skills for Claude Co… | 0.1.0 | See, check, turn on/off, copy and create the Agent Skills (SKILL.md) that Claud… |
+| 2026-11-06 03:08:21 | [SiFli.sifli-solution-codekit](https://marketplace.visualstudio.com/items?itemName=SiFli.sifli-solution-codekit) | sifli-solution-codekit | 1.9.0 | Develop and debug applications for SiFli chips with SiFli-SDK |
+| 2026-11-06 03:10:53 | [zovo.tensor-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.tensor-viewer) | Tensor Viewer | 0.1.0 | View NPY, NPZ, Safetensors and GGUF files: shapes, dtypes, stats and heatmaps.… |
+| 2026-11-06 03:11:51 | [zovo.hdf5-netcdf-explorer](https://marketplace.visualstudio.com/items?itemName=zovo.hdf5-netcdf-explorer) | HDF5 NetCDF Explorer | 0.1.0 | Open HDF5 and NetCDF files (.h5, .hdf5, .nc): browse groups, attributes and CF… |
+| 2026-11-06 03:16:11 | [nathaniel-faborada.vscode-git-profile-switch](https://marketplace.visualstudio.com/items?itemName=nathaniel-faborada.vscode-git-profile-switch) | Git Profile & PortableGit Workspace Swi… | 1.0.0 | Dynamically switch Git commit author, GitHub push credentials, and PortableGit/… |
+| 2026-11-06 03:16:57 | [hoang-tuanp.linecue](https://marketplace.visualstudio.com/items?itemName=hoang-tuanp.linecue) | LineCue | 0.1.0 | Read errors and warnings inline while coding, using existing VS Code diagnostic… |
+| 2026-11-06 03:29:05 | [zovo.docx-viewer-vscode](https://marketplace.visualstudio.com/items?itemName=zovo.docx-viewer-vscode) | DOCX Viewer: Word Preview, Dark Mode, S… | 0.1.0 | Open Word .docx and .dotx files in VS Code as a read-only preview with dark mod… |
+| 2026-11-06 03:40:41 | [shezon.chatgpt-theme-99](https://marketplace.visualstudio.com/items?itemName=shezon.chatgpt-theme-99) | ChatGPT Theme 99% | 1.0.0 | An unofficial dark VS Code color theme by SHEZON with a calm charcoal palette a… |
+| 2026-11-06 04:08:46 | [zovo.pptx-slide-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.pptx-slide-viewer) | PPTX Slide Viewer | 0.1.0 | Open PowerPoint .pptx, .ppsx and .potx files in VS Code: slides, thumbnails, sp… |
+| 2026-11-06 04:11:05 | [vulda1.poc-rec-x7](https://marketplace.visualstudio.com/items?itemName=vulda1.poc-rec-x7) | [R](Command:_remoteCLI.openExternal?%5B… | 0.0.9 | poc recommendation notification |
 
 ## Data source
 
