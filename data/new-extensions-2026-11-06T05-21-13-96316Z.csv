@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T04:41:32.21Z,harrrry.wispkit,harrrry,Wispkit,0.2.15,"Browsing enhancements for Markdown, images, videos, HTML and XAML: preview-script injection with nonce/CSP, table of contents, default wheel zoom, right-drag pan, media context menu (save as / copy path / copy source), drawio block editing, and in-editor link navigation (relative paths, vscode://fil"
+2026-11-06T04:44:23.123Z,piperliu.piper-markdown-review,piperliu,Piper Markdown Review,0.2.0,实时 Markdown 阅读、目录与滚动联动，支持公众号排版、图床上传和富文本复制。
+2026-11-06T04:44:51.187Z,nathaniel-faborada.git-profile-sync,nathaniel-faborada,Git Profile & Workspace Sync,1.0.0,"Dynamically switch Git commit author, GitHub push credentials, and PortableGit/<username> repositories with zero identity mismatch."
+2026-11-06T04:49:56.6Z,ShanmukhaSrinivasa.witcher3-wolf-dark-theme,ShanmukhaSrinivasa,Witcher 3: Wolf School Dark,0.1.0,"Dark monochrome VS Code theme inspired by The Witcher 3, with steel-silver accents and a companion Wolf School Journal panel (git/diagnostics board, focus timer, notes). Unofficial fan project — not affiliated with or endorsed by CD Projekt Red."
+2026-11-06T04:52:15.923Z,CHAKKAEBI.korean-variable-namer,CHAKKAEBI,한글 변수명 추천 · Korean Variable Namer,0.1.0,"한국어 설명을 영어 변수명으로 변환하고 camelCase, PascalCase, snake_case 이름을 추천합니다."
+2026-11-06T05:04:00.36Z,Devlin.remote-ssh-password-memory,Devlin,Remote SSH Password Memory,0.1.6,Save SSH passwords on this device for Microsoft Remote-SSH. Windows x64 preview.
+2026-11-06T05:16:17.033Z,fourounces.publish-check,fourounces,Publish Check,0.0.1,A placeholder used to test publishing. It does nothing.

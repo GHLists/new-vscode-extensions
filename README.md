@@ -12,29 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 04:19 UTC
+## Latest list — 2026-11-06 05:21 UTC
 
-New extensions published between 2026-11-06 02:19 UTC and 2026-11-06 04:19 UTC.
+New extensions published between 2026-11-06 03:21 UTC and 2026-11-06 05:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T04-19-14-280828Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T05-21-13-96316Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 02:25:52 | [nhpdev95.idea-workspace](https://marketplace.visualstudio.com/items?itemName=nhpdev95.idea-workspace) | IDEA-inspired Workspace | 0.6.0 | IDEA-inspired appearance with automatic theme, icons and reversible custom chro… |
-| 2026-11-06 02:27:40 | [ContextIME.codex-terminal-auto-input](https://marketplace.visualstudio.com/items?itemName=ContextIME.codex-terminal-auto-input) | ContextIME | 0.4.2 | 聊天中文，终端英文。面向 AI 编程工作流，随输入焦点自动切换，沿用 Windows 默认输入法。 |
-| 2026-11-06 02:28:41 | [tyrus-lang.tyrus](https://marketplace.visualstudio.com/items?itemName=tyrus-lang.tyrus) | Tyrus | 0.1.1 | Language Server integration, syntax highlighting, diagnostics, navigation, and… |
-| 2026-11-06 02:42:11 | [tugline.tugline](https://marketplace.visualstudio.com/items?itemName=tugline.tugline) | Tugline: coding agent for any model | 1.2.4 | A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your… |
-| 2026-11-06 02:43:01 | [heyCHEEMS.supos-devtools](https://marketplace.visualstudio.com/items?itemName=heyCHEEMS.supos-devtools) | supOS DevTools | 0.0.42 | A VS Code extension for supOS with remote programmable component pulling, autom… |
-| 2026-11-06 03:01:59 | [zovo.skill-shelf](https://marketplace.visualstudio.com/items?itemName=zovo.skill-shelf) | Skill Shelf (Agent Skills for Claude Co… | 0.1.0 | See, check, turn on/off, copy and create the Agent Skills (SKILL.md) that Claud… |
-| 2026-11-06 03:08:21 | [SiFli.sifli-solution-codekit](https://marketplace.visualstudio.com/items?itemName=SiFli.sifli-solution-codekit) | sifli-solution-codekit | 1.9.0 | Develop and debug applications for SiFli chips with SiFli-SDK |
-| 2026-11-06 03:10:53 | [zovo.tensor-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.tensor-viewer) | Tensor Viewer | 0.1.0 | View NPY, NPZ, Safetensors and GGUF files: shapes, dtypes, stats and heatmaps.… |
-| 2026-11-06 03:11:51 | [zovo.hdf5-netcdf-explorer](https://marketplace.visualstudio.com/items?itemName=zovo.hdf5-netcdf-explorer) | HDF5 NetCDF Explorer | 0.1.0 | Open HDF5 and NetCDF files (.h5, .hdf5, .nc): browse groups, attributes and CF… |
-| 2026-11-06 03:16:11 | [nathaniel-faborada.vscode-git-profile-switch](https://marketplace.visualstudio.com/items?itemName=nathaniel-faborada.vscode-git-profile-switch) | Git Profile & PortableGit Workspace Swi… | 1.0.0 | Dynamically switch Git commit author, GitHub push credentials, and PortableGit/… |
-| 2026-11-06 03:16:57 | [hoang-tuanp.linecue](https://marketplace.visualstudio.com/items?itemName=hoang-tuanp.linecue) | LineCue | 0.1.0 | Read errors and warnings inline while coding, using existing VS Code diagnostic… |
-| 2026-11-06 03:29:05 | [zovo.docx-viewer-vscode](https://marketplace.visualstudio.com/items?itemName=zovo.docx-viewer-vscode) | DOCX Viewer: Word Preview, Dark Mode, S… | 0.1.0 | Open Word .docx and .dotx files in VS Code as a read-only preview with dark mod… |
-| 2026-11-06 03:40:41 | [shezon.chatgpt-theme-99](https://marketplace.visualstudio.com/items?itemName=shezon.chatgpt-theme-99) | ChatGPT Theme 99% | 1.0.0 | An unofficial dark VS Code color theme by SHEZON with a calm charcoal palette a… |
-| 2026-11-06 04:08:46 | [zovo.pptx-slide-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.pptx-slide-viewer) | PPTX Slide Viewer | 0.1.0 | Open PowerPoint .pptx, .ppsx and .potx files in VS Code: slides, thumbnails, sp… |
-| 2026-11-06 04:11:05 | [vulda1.poc-rec-x7](https://marketplace.visualstudio.com/items?itemName=vulda1.poc-rec-x7) | [R](Command:_remoteCLI.openExternal?%5B… | 0.0.9 | poc recommendation notification |
+| 2026-11-06 04:41:32 | [harrrry.wispkit](https://marketplace.visualstudio.com/items?itemName=harrrry.wispkit) | Wispkit | 0.2.15 | Browsing enhancements for Markdown, images, videos, HTML and XAML: preview-scri… |
+| 2026-11-06 04:44:23 | [piperliu.piper-markdown-review](https://marketplace.visualstudio.com/items?itemName=piperliu.piper-markdown-review) | Piper Markdown Review | 0.2.0 | 实时 Markdown 阅读、目录与滚动联动，支持公众号排版、图床上传和富文本复制。 |
+| 2026-11-06 04:44:51 | [nathaniel-faborada.git-profile-sync](https://marketplace.visualstudio.com/items?itemName=nathaniel-faborada.git-profile-sync) | Git Profile & Workspace Sync | 1.0.0 | Dynamically switch Git commit author, GitHub push credentials, and PortableGit/… |
+| 2026-11-06 04:49:56 | [ShanmukhaSrinivasa.witcher3-wolf-dark-theme](https://marketplace.visualstudio.com/items?itemName=ShanmukhaSrinivasa.witcher3-wolf-dark-theme) | Witcher 3: Wolf School Dark | 0.1.0 | Dark monochrome VS Code theme inspired by The Witcher 3, with steel-silver acce… |
+| 2026-11-06 04:52:15 | [CHAKKAEBI.korean-variable-namer](https://marketplace.visualstudio.com/items?itemName=CHAKKAEBI.korean-variable-namer) | 한글 변수명 추천 · Korean Variable Namer | 0.1.0 | 한국어 설명을 영어 변수명으로 변환하고 camelCase, PascalCase, snake_case 이름을 추천합니다. |
+| 2026-11-06 05:04:00 | [Devlin.remote-ssh-password-memory](https://marketplace.visualstudio.com/items?itemName=Devlin.remote-ssh-password-memory) | Remote SSH Password Memory | 0.1.6 | Save SSH passwords on this device for Microsoft Remote-SSH. Windows x64 preview. |
+| 2026-11-06 05:16:17 | [fourounces.publish-check](https://marketplace.visualstudio.com/items?itemName=fourounces.publish-check) | Publish Check | 0.0.1 | A placeholder used to test publishing. It does nothing. |
 
 ## Data source
 
