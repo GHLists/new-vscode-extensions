@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T20:25:48.983Z,kaiketsu-labs.pair-review,kaiketsu-labs,Pair Review,0.5.1,Review local changes with Claude Code using native inline comments and automatic feedback delivery.
+2026-11-06T20:32:08.987Z,amar-micro.remote-server-cleaner,amar-micro,Remote SSH Version Cleaner,0.1.14,Preview and remove obsolete VS Code Stable server installations on connected Linux hosts.
+2026-11-06T20:37:54.04Z,Sernine.charlier,Sernine,Charlier: Antigravity Account Switcher,0.1.0,"Instant, zero-dependency account switcher and profile vault for Google Antigravity."
+2026-11-06T20:54:59.067Z,SilverServers.window-color-guard,SilverServers,Window Color Guard,0.1.7,"Stop mixing up VS Code windows and giving AI agents commands meant for another server. Automatically color-codes each window and workspace, including Remote-SSH."
+2026-11-06T20:55:02.893Z,FSDK.robot-werther,FSDK,Робот Вертер,0.3.12,"Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и OpenRouter."
+2026-11-06T20:59:32.977Z,fpracek.samprbasic,fpracek,SamPr Basic for MSX,1.4.2,"SamPr Basic: BASIC compiler and IDE for MSX (MSX-DOS programs, MSX-BASIC BIN files, ROM cartridges). Same files and same workflow as the editor that runs on the MSX."
+2026-11-06T21:14:03.61Z,SharadGoyal.tesseract-workflow,SharadGoyal,Tesseract: Codebase Workflow,0.1.0,"See any repository as an interactive end-to-end workflow, from UI screens to API endpoints to services and datastores. Runs entirely on your machine."

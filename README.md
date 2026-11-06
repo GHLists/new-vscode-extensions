@@ -12,17 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 20:20 UTC
+## Latest list — 2026-11-06 21:21 UTC
 
-New extensions published between 2026-11-06 18:20 UTC and 2026-11-06 20:20 UTC.
+New extensions published between 2026-11-06 19:21 UTC and 2026-11-06 21:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T20-20-34-308653Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T21-21-09-600383Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 19:53:19 | [AzureLLC.clarity-boards](https://marketplace.visualstudio.com/items?itemName=AzureLLC.clarity-boards) | Clarity Boards | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
-| 2026-11-06 20:04:24 | [jvon1904.fast-rails-credentials](https://marketplace.visualstudio.com/items?itemName=jvon1904.fast-rails-credentials) | Fast Rails Credentials | 0.1.0 | Quickly open Rails credentials |
-| 2026-11-06 20:07:37 | [evanp.inference-coop-copilot](https://marketplace.visualstudio.com/items?itemName=evanp.inference-coop-copilot) | inference-coop-copilot | 0.2.2 | Inference.coop models for Copilot Chat (unofficial) |
+| 2026-11-06 20:25:48 | [kaiketsu-labs.pair-review](https://marketplace.visualstudio.com/items?itemName=kaiketsu-labs.pair-review) | Pair Review | 0.5.1 | Review local changes with Claude Code using native inline comments and automati… |
+| 2026-11-06 20:32:08 | [amar-micro.remote-server-cleaner](https://marketplace.visualstudio.com/items?itemName=amar-micro.remote-server-cleaner) | Remote SSH Version Cleaner | 0.1.14 | Preview and remove obsolete VS Code Stable server installations on connected Li… |
+| 2026-11-06 20:37:54 | [Sernine.charlier](https://marketplace.visualstudio.com/items?itemName=Sernine.charlier) | Charlier: Antigravity Account Switcher | 0.1.0 | Instant, zero-dependency account switcher and profile vault for Google Antigrav… |
+| 2026-11-06 20:54:59 | [SilverServers.window-color-guard](https://marketplace.visualstudio.com/items?itemName=SilverServers.window-color-guard) | Window Color Guard | 0.1.7 | Stop mixing up VS Code windows and giving AI agents commands meant for another… |
+| 2026-11-06 20:55:02 | [FSDK.robot-werther](https://marketplace.visualstudio.com/items?itemName=FSDK.robot-werther) | Робот Вертер | 0.3.12 | Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и… |
+| 2026-11-06 20:59:32 | [fpracek.samprbasic](https://marketplace.visualstudio.com/items?itemName=fpracek.samprbasic) | SamPr Basic for MSX | 1.4.2 | SamPr Basic: BASIC compiler and IDE for MSX (MSX-DOS programs, MSX-BASIC BIN fi… |
+| 2026-11-06 21:14:03 | [SharadGoyal.tesseract-workflow](https://marketplace.visualstudio.com/items?itemName=SharadGoyal.tesseract-workflow) | Tesseract: Codebase Workflow | 0.1.0 | See any repository as an interactive end-to-end workflow, from UI screens to AP… |
 
 ## Data source
 
