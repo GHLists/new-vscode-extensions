@@ -12,19 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 09:20 UTC
+## Latest list — 2026-11-06 10:21 UTC
 
-New extensions published between 2026-11-06 07:20 UTC and 2026-11-06 09:20 UTC.
+New extensions published between 2026-11-06 08:21 UTC and 2026-11-06 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T09-20-24-354692Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T10-21-21-297352Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 08:29:58 | [carbonconfig.carbonwire](https://marketplace.visualstudio.com/items?itemName=carbonconfig.carbonwire) | CarbonWire | 1.0.0 | Test REST APIs with a fast HTTP client. Send requests, inspect JSON responses,… |
-| 2026-11-06 08:37:31 | [azzamalessa.agenthaven-codespaces](https://marketplace.visualstudio.com/items?itemName=azzamalessa.agenthaven-codespaces) | AgentHaven Codespaces Connector | 0.1.0 | Connect the current GitHub Codespace to AgentHaven with a one-time pairing code. |
-| 2026-11-06 08:52:50 | [waldoxbin.antigravity-theme](https://marketplace.visualstudio.com/items?itemName=waldoxbin.antigravity-theme) | Antigravity Theme | 0.0.1 | Visual Studio Code theme extension based on Antigravity v2.29.0 Onyx design sys… |
-| 2026-11-06 08:53:50 | [whw23.git-graph-sharp](https://marketplace.visualstudio.com/items?itemName=whw23.git-graph-sharp) | Git Graph # | 0.7.3 | A Git Graph fork that puts every worktree on the graph. |
-| 2026-11-06 09:01:39 | [dataforge.dataforge-ide](https://marketplace.visualstudio.com/items?itemName=dataforge.dataforge-ide) | DataForge IDE | 0.1.2 | A neo-brutalist PostgreSQL IDE for VS Code: connections, schema explorer, SQL e… |
+| 2026-11-06 09:18:03 | [henriquegoliveira.debug-algo](https://marketplace.visualstudio.com/items?itemName=henriquegoliveira.debug-algo) | DebugAlgo | 0.1.0 | Visualize data structures during debugging |
+| 2026-11-06 09:49:44 | [waldoxbin.vscode-rn-asset-lens](https://marketplace.visualstudio.com/items?itemName=waldoxbin.vscode-rn-asset-lens) | React Native Asset & Icon Lens | 1.0.0 | Lightning-fast offline icon picker, image hover preview (dimensions & file size… |
+| 2026-11-06 10:05:50 | [eejyang.miku-volume](https://marketplace.visualstudio.com/items?itemName=eejyang.miku-volume) | Miku Volume | 1.0.0 | NIfTI medical image viewer with linked 2D slices, segmentation overlays and 3D… |
+| 2026-11-06 10:06:25 | [Sunnyth.leaklock-security](https://marketplace.visualstudio.com/items?itemName=Sunnyth.leaklock-security) | LeakLock | 1.0.0 | Developer-first credential protection. Detect, trace, block, and fix secret lea… |
+| 2026-11-06 10:06:32 | [prateep.multi-repo-explorer](https://marketplace.visualstudio.com/items?itemName=prateep.multi-repo-explorer) | Multi-Repo Explorer | 1.2.0 | See the branch and status of every git repository in your workspace at a glance… |
+| 2026-11-06 10:08:30 | [wheatlay.stateful-buttons](https://marketplace.visualstudio.com/items?itemName=wheatlay.stateful-buttons) | Stateful Buttons | 0.1.0 | Status bar buttons that run shell or VS Code commands and show live ON/OFF stat… |
+| 2026-11-06 10:14:21 | [emerald-ocean.emerald-ocean](https://marketplace.visualstudio.com/items?itemName=emerald-ocean.emerald-ocean) | Emerald Ocean | 0.1.0 | A dark theme coloured like the ocean when green beats blue. |
+| 2026-11-06 10:15:46 | [algorithmalbert.k6-loaddeck](https://marketplace.visualstudio.com/items?itemName=algorithmalbert.k6-loaddeck) | LoadDeck — k6 Performance Testing | 0.2.0 | GUI-first local performance testing powered by Grafana k6. |
 
 ## Data source
 

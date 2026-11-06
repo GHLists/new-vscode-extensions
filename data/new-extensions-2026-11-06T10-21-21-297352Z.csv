@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T09:18:03.207Z,henriquegoliveira.debug-algo,henriquegoliveira,DebugAlgo,0.1.0,Visualize data structures during debugging
+2026-11-06T09:49:44.157Z,waldoxbin.vscode-rn-asset-lens,waldoxbin,React Native Asset & Icon Lens,1.0.0,"Lightning-fast offline icon picker, image hover preview (dimensions & file size), and asset import diagnostics for React Native & Expo."
+2026-11-06T10:05:50.093Z,eejyang.miku-volume,eejyang,Miku Volume,1.0.0,"NIfTI medical image viewer with linked 2D slices, segmentation overlays and 3D surfaces."
+2026-11-06T10:06:25.883Z,Sunnyth.leaklock-security,Sunnyth,LeakLock,1.0.0,"Developer-first credential protection. Detect, trace, block, and fix secret leaks before they leave your machine."
+2026-11-06T10:06:32.51Z,prateep.multi-repo-explorer,prateep,Multi-Repo Explorer,1.2.0,"See the branch and status of every git repository in your workspace at a glance, even with hundreds of repos."
+2026-11-06T10:08:30.823Z,wheatlay.stateful-buttons,wheatlay,Stateful Buttons,0.1.0,"Status bar buttons that run shell or VS Code commands and show live ON/OFF state. A lighter, stateful alternative to Action Buttons."
+2026-11-06T10:14:21.407Z,emerald-ocean.emerald-ocean,emerald-ocean,Emerald Ocean,0.1.0,A dark theme coloured like the ocean when green beats blue.
+2026-11-06T10:15:46Z,algorithmalbert.k6-loaddeck,algorithmalbert,LoadDeck — k6 Performance Testing,0.2.0,GUI-first local performance testing powered by Grafana k6.
