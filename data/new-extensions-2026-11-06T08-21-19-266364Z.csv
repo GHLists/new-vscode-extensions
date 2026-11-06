@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T07:16:25.59Z,lenny.sextante,lenny,Sextante,0.1.1,"SE80-style workbench inside VS Code on top of SAP ABAP Development Tools: systems, object search, object tree, one-click actions, dictionary in context and an AI agent over MCP."
+2026-11-06T07:28:05.933Z,Aki0x137.markdown-annotator,Aki0x137,Annotate Markdown Preview,0.1.2,"Highlight, comment, color-code, and attach links in the official VS Code Markdown preview. Annotations live in a sidecar file next to your document."
+2026-11-06T07:33:15.543Z,fourounces.agent-sessions-dashboard,fourounces,Agent Sessions Dashboard,0.7.4,"See every AI coding agent session you have running, as a Kanban board or a list, and spot the one that's waiting on you."
+2026-11-06T07:44:34.48Z,tugline.tugline-agent,tugline,Tugline Agent: coding agent for any model,1.2.5,"A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your company server or any OpenAI-compatible API). Sandboxed commands, reviewable edits, and runs verified by your own tests."
+2026-11-06T07:54:30.4Z,FSEmbedded.fusysDev,FSEmbedded,FuSys Dev V1,0.7.2,Manage and download Yocto releases
+2026-11-06T07:57:26.64Z,adito.adito-view-preview,adito,ADITO View Preview,0.0.1,Visualize ADITO view YAML files as an interactive layout tree.
+2026-11-06T08:02:27.75Z,langchou.vs-worktree-view,langchou,Worktree View,0.1.0,"A lightweight git worktree board in Source Control: see what every AI agent worktree (Claude, Codex, Cursor, .agent…) changed and diff it natively. 轻量 worktree 看板，原生 diff 对比各个 AI worktree 的改动。"
+2026-11-06T08:04:35.58Z,seanzhou.jetgit-vscode,seanzhou,JetGit,1.0.0,"JetBrains-like Git experience for VS Code: right-click Git menu, commit dialog and branch popup panel. 类 JetBrains 的 Git 右键菜单、提交窗口与分支面板。"
+2026-11-06T08:11:57.76Z,andreashuthe.intellij-java-kotlin-navigation,andreashuthe,IntelliJ Java/Kotlin Navigation,1.0.0,"IntelliJ-style interface / implementation / override navigation ('1 implementation', '↑ Interface' hints) in Java and Kotlin. Works on top of any language server (e.g. JetBrains' 'Java and Kotlin by IntelliJ IDEA')."

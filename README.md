@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 07:19 UTC
+## Latest list — 2026-11-06 08:21 UTC
 
-New extensions published between 2026-11-06 05:19 UTC and 2026-11-06 07:19 UTC.
+New extensions published between 2026-11-06 06:21 UTC and 2026-11-06 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T07-19-56-826324Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T08-21-19-266364Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 06:21:51 | [hoang-tuanp.loc-monitor-pro](https://marketplace.visualstudio.com/items?itemName=hoang-tuanp.loc-monitor-pro) | LOC Monitor Pro | 1.0.0 | Count code across VS Code languages and installed language extensions |
-| 2026-11-06 06:39:30 | [viviewtech.vvt-agent](https://marketplace.visualstudio.com/items?itemName=viviewtech.vvt-agent) | VVT Agent | 0.4.24 | Zephyr embedded development workspace and AI Agent MCP gateway. |
-| 2026-11-06 06:47:49 | [GabrielPetteway-Dib.sksp-vscode](https://marketplace.visualstudio.com/items?itemName=GabrielPetteway-Dib.sksp-vscode) | sKSP for VS Code | 0.1.0 | Project-aware SublimeKSP compilation and syntax highlighting for VS Code. |
-| 2026-11-06 07:05:40 | [appmonster007.yamd-pack](https://marketplace.visualstudio.com/items?itemName=appmonster007.yamd-pack) | YAMD Studio Pack | 1.2.0 | YAMD Studio with everything it works with: Foam for linked notes, SQLite and CS… |
-| 2026-11-06 07:10:41 | [zhongwu.agent-diff-auditor](https://marketplace.visualstudio.com/items?itemName=zhongwu.agent-diff-auditor) | Agent Diff Auditor | 0.1.0 | Catches the shortcuts AI coding agents take to look done: skipped or deleted te… |
+| 2026-11-06 07:16:25 | [lenny.sextante](https://marketplace.visualstudio.com/items?itemName=lenny.sextante) | Sextante | 0.1.1 | SE80-style workbench inside VS Code on top of SAP ABAP Development Tools: syste… |
+| 2026-11-06 07:28:05 | [Aki0x137.markdown-annotator](https://marketplace.visualstudio.com/items?itemName=Aki0x137.markdown-annotator) | Annotate Markdown Preview | 0.1.2 | Highlight, comment, color-code, and attach links in the official VS Code Markdo… |
+| 2026-11-06 07:33:15 | [fourounces.agent-sessions-dashboard](https://marketplace.visualstudio.com/items?itemName=fourounces.agent-sessions-dashboard) | Agent Sessions Dashboard | 0.7.4 | See every AI coding agent session you have running, as a Kanban board or a list… |
+| 2026-11-06 07:44:34 | [tugline.tugline-agent](https://marketplace.visualstudio.com/items?itemName=tugline.tugline-agent) | Tugline Agent: coding agent for any mod… | 1.2.5 | A coding agent that runs on the model you choose (Ollama, LM Studio, vLLM, your… |
+| 2026-11-06 07:54:30 | [FSEmbedded.fusysDev](https://marketplace.visualstudio.com/items?itemName=FSEmbedded.fusysDev) | FuSys Dev V1 | 0.7.2 | Manage and download Yocto releases |
+| 2026-11-06 07:57:26 | [adito.adito-view-preview](https://marketplace.visualstudio.com/items?itemName=adito.adito-view-preview) | ADITO View Preview | 0.0.1 | Visualize ADITO view YAML files as an interactive layout tree. |
+| 2026-11-06 08:02:27 | [langchou.vs-worktree-view](https://marketplace.visualstudio.com/items?itemName=langchou.vs-worktree-view) | Worktree View | 0.1.0 | A lightweight git worktree board in Source Control: see what every AI agent wor… |
+| 2026-11-06 08:04:35 | [seanzhou.jetgit-vscode](https://marketplace.visualstudio.com/items?itemName=seanzhou.jetgit-vscode) | JetGit | 1.0.0 | JetBrains-like Git experience for VS Code: right-click Git menu, commit dialog… |
+| 2026-11-06 08:11:57 | [andreashuthe.intellij-java-kotlin-navigation](https://marketplace.visualstudio.com/items?itemName=andreashuthe.intellij-java-kotlin-navigation) | IntelliJ Java/Kotlin Navigation | 1.0.0 | IntelliJ-style interface / implementation / override navigation ('1 implementat… |
 
 ## Data source
 
