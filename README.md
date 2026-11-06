@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 22:20 UTC
+## Latest list — 2026-11-06 23:21 UTC
 
-New extensions published between 2026-11-06 20:20 UTC and 2026-11-06 22:20 UTC.
+New extensions published between 2026-11-06 21:21 UTC and 2026-11-06 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T22-20-09-30725Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T23-21-05-681266Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 21:15:48 | [su-labs.ts-one-line-imports](https://marketplace.visualstudio.com/items?itemName=su-labs.ts-one-line-imports) | TS One-Line Imports | 1.0.1 | Formats TypeScript and JavaScript with each project's own Prettier config and k… |
-| 2026-11-06 21:29:31 | [keplang.keplang](https://marketplace.visualstudio.com/items?itemName=keplang.keplang) | KEPLang | 0.1.0 | Syntax highlighting, snippets and branded .kep file icons for KEPLang, a progra… |
-| 2026-11-06 21:32:06 | [juliojimenez.moro](https://marketplace.visualstudio.com/items?itemName=juliojimenez.moro) | Moro | 0.1.0 | Common Lisp for Visual Studio Code: syntax highlighting, language server, REPL… |
-| 2026-11-06 21:37:52 | [VengeanceLabs.dotguard](https://marketplace.visualstudio.com/items?itemName=VengeanceLabs.dotguard) | Dotguard | 0.1.0 | Local environment, credential, deployment, and dependency safety checks inside… |
-| 2026-11-06 22:03:31 | [Lasse.hta](https://marketplace.visualstudio.com/items?itemName=Lasse.hta) | hta | 0.0.1 | Adds HTA support to VSCode |
-| 2026-11-06 22:05:13 | [Creatiwity.pgzest](https://marketplace.visualstudio.com/items?itemName=Creatiwity.pgzest) | pgzest | 0.1.0 | Raw PostgreSQL, with zest: checked the way PostgreSQL would, without a database… |
-| 2026-11-06 22:12:48 | [cderivan.copilot-agent-manager](https://marketplace.visualstudio.com/items?itemName=cderivan.copilot-agent-manager) | Copilot Agent Manager | 1.0.0 | Live, read-only monitor for your GitHub Copilot agent sessions — the agent tree… |
+| 2026-11-06 22:21:10 | [admercs.ironshell](https://marketplace.visualstudio.com/items?itemName=admercs.ironshell) | IronShell | 1.6.1 | Language support for IronShell - a typed, functional shell with AI capabilities |
+| 2026-11-06 22:30:27 | [Dancra.test-explorer-for-unity](https://marketplace.visualstudio.com/items?itemName=Dancra.test-explorer-for-unity) | Test Explorer for Unity | 0.1.0 | Run Unity Edit Mode and Play Mode tests from the VS Code Testing tab, in your o… |
+| 2026-11-06 22:32:20 | [sungbin.vscode-toolsmith](https://marketplace.visualstudio.com/items?itemName=sungbin.vscode-toolsmith) | 工具匠 | 0.1.0 | 在底部面板里放一排可点击的快捷操作：运行工作区文件、向 Copilot Chat 输入框追加提示词、执行 VS Code 命令。 |
+| 2026-11-06 22:44:25 | [epavanello.talkthrough](https://marketplace.visualstudio.com/items?itemName=epavanello.talkthrough) | Talkthrough — talk a PR review through… | 0.4.2 | Review a pull request by talking it through with Claude Code: native diffs on y… |
+| 2026-11-06 22:47:26 | [BylochOfficial.by-language](https://marketplace.visualstudio.com/items?itemName=BylochOfficial.by-language) | BY Language — Wolf Edition | 0.1.1 | BY Language support for Visual Studio Code: syntax highlighting, snippets, a cu… |
+| 2026-11-06 22:50:31 | [soluml.repo-scratchpad](https://marketplace.visualstudio.com/items?itemName=soluml.repo-scratchpad) | Repo Scratchpad | 0.1.0 | Take quick per-repository notes in the panel |
+| 2026-11-06 22:56:36 | [mhl-language.mhl-language](https://marketplace.visualstudio.com/items?itemName=mhl-language.mhl-language) | Meta-Harness Language (MHL) | 0.7.0 | Syntax highlighting, diagnostics, completion and navigation for Meta-Harness La… |
 
 ## Data source
 

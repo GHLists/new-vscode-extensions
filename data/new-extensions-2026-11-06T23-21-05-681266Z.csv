@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T22:21:10.01Z,admercs.ironshell,admercs,IronShell,1.6.1,"Language support for IronShell - a typed, functional shell with AI capabilities"
+2026-11-06T22:30:27.18Z,Dancra.test-explorer-for-unity,Dancra,Test Explorer for Unity,0.1.0,"Run Unity Edit Mode and Play Mode tests from the VS Code Testing tab, in your open Editor or in a background worker that keeps it free."
+2026-11-06T22:32:20.12Z,sungbin.vscode-toolsmith,sungbin,工具匠,0.1.0,在底部面板里放一排可点击的快捷操作：运行工作区文件、向 Copilot Chat 输入框追加提示词、执行 VS Code 命令。
+2026-11-06T22:44:25.307Z,epavanello.talkthrough,epavanello,Talkthrough — talk a PR review through with Claude,0.4.2,"Review a pull request by talking it through with Claude Code: native diffs on your real files, short spoken turns, and a memory of what is clear."
+2026-11-06T22:47:26.727Z,BylochOfficial.by-language,BylochOfficial,BY Language — Wolf Edition,0.1.1,"BY Language support for Visual Studio Code: syntax highlighting, snippets, a custom wolf file icon, and a command to run .by files. Created by Byloch Official."
+2026-11-06T22:50:31.943Z,soluml.repo-scratchpad,soluml,Repo Scratchpad,0.1.0,Take quick per-repository notes in the panel
+2026-11-06T22:56:36.847Z,mhl-language.mhl-language,mhl-language,Meta-Harness Language (MHL),0.7.0,"Syntax highlighting, diagnostics, completion and navigation for Meta-Harness Language (.mh) AI agent pipelines."
