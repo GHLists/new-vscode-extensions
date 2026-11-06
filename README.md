@@ -12,25 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 16:20 UTC
+## Latest list — 2026-11-06 17:20 UTC
 
-New extensions published between 2026-11-06 14:20 UTC and 2026-11-06 16:20 UTC.
+New extensions published between 2026-11-06 15:20 UTC and 2026-11-06 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T16-20-30-24309Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T17-20-34-387679Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 15:39:03 | [MrAlt.agent-skills-marketplace](https://marketplace.visualstudio.com/items?itemName=MrAlt.agent-skills-marketplace) | Skills - Agent Skills Marketplace | 1.14.0 | Discover, install, inspect, and toggle AI Agent Skills (.agents/skills, skills.… |
-| 2026-11-06 15:50:05 | [zovo.dxf-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.dxf-viewer) | DXF Viewer & CAD Viewer for 2D Drawings | 0.1.1 | DXF viewer and CAD viewer that opens ASCII and binary .dxf drawings in VS Code… |
-| 2026-11-06 15:52:58 | [prateep-r.multi-git-explorer](https://marketplace.visualstudio.com/items?itemName=prateep-r.multi-git-explorer) | Multi-Git Explorer | 1.2.0 | See the branch and status of every git repository in your workspace at a glance… |
-| 2026-11-06 16:01:55 | [zovo.zovo-json-tree-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-json-tree-viewer) | JSON Viewer & JSON Tree | 0.1.1 | JSON viewer with a fast JSON tree for large files. Search keys and values, copy… |
-| 2026-11-06 16:03:20 | [zovo.zovo-jsonl-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-jsonl-viewer) | JSONL Viewer & NDJSON Table Viewer | 0.1.2 | Open JSONL and NDJSON files as a table, as pretty records or as a chat view for… |
-| 2026-11-06 16:04:50 | [zovo.ai-usage-meter](https://marketplace.visualstudio.com/items?itemName=zovo.ai-usage-meter) | Claude Code Usage & Codex Usage Cost Me… | 0.1.1 | See today's Claude Code and Codex tokens and estimated cost in the status bar,… |
-| 2026-11-06 16:06:15 | [zovo.sqlite-table-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.sqlite-table-viewer) | SQLite Table Viewer | 0.1.2 | Open SQLite databases (.db, .sqlite, .sqlite3) read-only. Browse tables with pa… |
-| 2026-11-06 16:07:41 | [zovo.video-preview-with-sound](https://marketplace.visualstudio.com/items?itemName=zovo.video-preview-with-sound) | Video Preview with Sound | 0.1.2 | Play MP4, MOV, MKV and WebM files in VS Code with their sound, which VS Code mu… |
-| 2026-11-06 16:08:11 | [spin-stack.spinbox](https://marketplace.visualstudio.com/items?itemName=spin-stack.spinbox) | Spinbox | 0.0.1 | Open Spinbox workspaces in VS Code over Remote-SSH, through the spin CLI. |
-| 2026-11-06 16:09:14 | [zovo.agent-session-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.agent-session-viewer) | Agent Session Viewer | 0.1.2 | Browse, search and export your local Claude Code and Codex sessions, with promp… |
-| 2026-11-06 16:12:41 | [t1m0ntimon.route-atlas](https://marketplace.visualstudio.com/items?itemName=t1m0ntimon.route-atlas) | Route Atlas | 0.2.1 | See every page and endpoint of a web project in one sorted tree, then jump to t… |
+| 2026-11-06 16:16:22 | [ti-development-tools.ccstudio-starthub](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-starthub) | CCStudio StartHub | 1.1.0 | Browse a wealth of examples and documentation and download all of the necessary… |
+| 2026-11-06 16:23:01 | [ti-development-tools.ccstudio-ai](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-ai) | CCStudio AI | 1.0.0 | Component of CCStudio that enables AI-powered development |
+| 2026-11-06 16:24:31 | [ti-development-tools.ccstudio-debug](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-debug) | CCStudio Debug | 1.0.0 | Components of CCStudio that enables debugging for Texas Instruments embedded de… |
+| 2026-11-06 16:30:25 | [ti-development-tools.ccstudio-sysconfig](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-sysconfig) | CCStudio SysConfig | 1.0.2 | Component of CCStudio for VS Code that enables the integration of SysConfig wit… |
+| 2026-11-06 16:31:07 | [ti-development-tools.ccstudio-project](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-project) | CCStudio Project | 1.0.0 | Component of CCStudio that enables project management and build capabilities fo… |
+| 2026-11-06 16:36:22 | [HyperEZ.hyperezprogramminglanguagevscodeextensioneditor](https://marketplace.visualstudio.com/items?itemName=HyperEZ.hyperezprogramminglanguagevscodeextensioneditor) | HyperEZ Programming Language | 0.8.3 | Lenguaje de programación en español para hacer de todo: juegos, webs, IA, datos… |
+| 2026-11-06 16:47:35 | [ariel-amriou.r-type-lua-engine-epitech](https://marketplace.visualstudio.com/items?itemName=ariel-amriou.r-type-lua-engine-epitech) | R-Type lua engine epitech | 0.0.1 | Install the R-Type engine and create, open and run Lua games from VS Code. |
+| 2026-11-06 16:51:55 | [KevinAmundson.usx](https://marketplace.visualstudio.com/items?itemName=KevinAmundson.usx) | USX | 0.3.4 | Highlight USX scripture markup and preview it as an HTML page. |
+| 2026-11-06 17:01:19 | [thesulce.developer-farm](https://marketplace.visualstudio.com/items?itemName=thesulce.developer-farm) | Developer Farm | 0.8.0 | A cozy little world of your own. A single-player pixel-art farming and explorat… |
+| 2026-11-06 17:03:32 | [ti-development-tools.ccstudio-targetlink](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-targetlink) | CCStudio TargetLink | 1.0.3 | Connects development tools to TI target devices through a local service. |
 
 ## Data source
 
