@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T01:07:21.077Z,t1gr3ju4nmx.johnny-schema-compare,t1gr3ju4nmx,Johnny Schema Compare,0.0.2,Compare a classic .sqlproj with a local SQL Server database and apply only the objects you choose.
+2026-11-06T01:23:15.67Z,AlignPaper2Repository.AlignPaper2RepoExt,AlignPaper2Repository,AlignPaper2RepoExt,0.1.6,
+2026-11-06T01:28:32.49Z,FarzadAFi.bisotun-flow-extractor,FarzadAFi,Bisotun Flow Extractor,0.0.1,Deep method execution flow and context extractor for LLMs
+2026-11-06T01:30:22.677Z,itstrategyllc.logvane,itstrategyllc,Logvane KQL,0.5.40,"Write and run KQL against Microsoft Sentinel and any Log Analytics workspace, with Logvane's IntelliSense, linting and results grid. Read-only: it never changes Azure."
+2026-11-06T01:34:02.757Z,lupee.minio-studio,lupee,MinIO Studio,26.11.6,"Manage MinIO in VS Code: browse and preview objects, monitor the cluster, manage users, policies, access keys and bucket settings"
+2026-11-06T01:49:47.243Z,chaosifier.notification-hub-explorer,chaosifier,Azure Notification Hub Explorer,0.1.0,"Browse Azure Notification Hub device registrations, search by tag, and send test notifications — like the classic Visual Studio Notification Hub Explorer."
+2026-11-06T01:49:51.18Z,SalimOmar.git-shell-vscode,SalimOmar,Git Shell,1.0.0,Open a terminal that runs entered commands as Git subcommands.
+2026-11-06T01:52:24.007Z,wkoa.magpie-remote-bridge,wkoa,Magpie Remote Bridge,0.1.2,Reuse your local Magpie AI gateway in Remote-SSH. 在远端复用本机模型、账号与网关。
+2026-11-06T02:05:43.57Z,usamamuhammad100.junto,usamamuhammad100,Junto,0.3.2,"The conversations behind your code. Shared, attributable AI feature history in Git."

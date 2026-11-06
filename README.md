@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 01:20 UTC
+## Latest list — 2026-11-06 02:19 UTC
 
-New extensions published between 2026-11-05 23:20 UTC and 2026-11-06 01:20 UTC.
+New extensions published between 2026-11-06 00:19 UTC and 2026-11-06 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T01-20-38-48664Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T02-19-59-593126Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 00:24:54 | [MarianoBlua.patch-trail](https://marketplace.visualstudio.com/items?itemName=MarianoBlua.patch-trail) | Patch Trail | 0.1.0 | Read a coding agent's .patch with real old/new line numbers and blame every lin… |
-| 2026-11-06 00:41:11 | [zecro.todo-desk](https://marketplace.visualstudio.com/items?itemName=zecro.todo-desk) | TODO Desk Lite: Offline TODO/FIXME Tree | 0.1.2 | Find TODO, FIXME, HACK, NOTE, BUG and XXX comments in your workspace with a pur… |
-| 2026-11-06 00:41:24 | [crpxiii.crpxiii-dai](https://marketplace.visualstudio.com/items?itemName=crpxiii.crpxiii-dai) | crpxiii-dAi | 1.0.0 | Autonomous AI Website Humanizer & Design Intelligence Engine. |
-| 2026-11-06 00:51:31 | [zovo.table-viewer-vscode](https://marketplace.visualstudio.com/items?itemName=zovo.table-viewer-vscode) | Table Viewer for Parquet, Excel and CSV | 0.1.0 | Open Parquet, Excel (xlsx, xls, ods) and CSV/TSV files as a fast, sortable, fil… |
-| 2026-11-06 00:52:17 | [MehdiBrahmi.device-tools-for-android](https://marketplace.visualstudio.com/items?itemName=MehdiBrahmi.device-tools-for-android) | Device Tools for Android | 0.1.0 | Mirror and control Android emulators and devices, manage virtual devices (AVDs)… |
-| 2026-11-06 00:54:31 | [zovo.pdf-viewer-dark](https://marketplace.visualstudio.com/items?itemName=zovo.pdf-viewer-dark) | PDF Reader: Dark Mode, Search, Outline | 0.1.1 | Read PDFs in VS Code with a real dark mode that keeps photos in their true colo… |
-| 2026-11-06 00:58:32 | [zecro.http-desk](https://marketplace.visualstudio.com/items?itemName=zecro.http-desk) | HTTP Desk Lite: Local .http / REST Clie… | 0.1.2 | Send HTTP requests from .http and .rest files with no login, no account and no… |
-| 2026-11-06 01:01:12 | [erikchaupis.javascope](https://marketplace.visualstudio.com/items?itemName=erikchaupis.javascope) | JavaScope | 1.0.0 | Eclipse & IntelliJ-inspired Java editor colors and Eclipse JDT-based Java/JSP f… |
-| 2026-11-06 01:12:46 | [on-the-right-side.notifai-agents](https://marketplace.visualstudio.com/items?itemName=on-the-right-side.notifai-agents) | NotifAI Agents | 0.2.3 | See your Claude Code sessions across your computers and message them from anywh… |
-| 2026-11-06 01:13:30 | [KangDae-ryeon.wpf-visual-designer](https://marketplace.visualstudio.com/items?itemName=KangDae-ryeon.wpf-visual-designer) | WPF Visual Designer | 1.4.2 | Native WPF preview and basic visual XAML editing for Windows. |
+| 2026-11-06 01:07:21 | [t1gr3ju4nmx.johnny-schema-compare](https://marketplace.visualstudio.com/items?itemName=t1gr3ju4nmx.johnny-schema-compare) | Johnny Schema Compare | 0.0.2 | Compare a classic .sqlproj with a local SQL Server database and apply only the… |
+| 2026-11-06 01:23:15 | [AlignPaper2Repository.AlignPaper2RepoExt](https://marketplace.visualstudio.com/items?itemName=AlignPaper2Repository.AlignPaper2RepoExt) | AlignPaper2RepoExt | 0.1.6 |  |
+| 2026-11-06 01:28:32 | [FarzadAFi.bisotun-flow-extractor](https://marketplace.visualstudio.com/items?itemName=FarzadAFi.bisotun-flow-extractor) | Bisotun Flow Extractor | 0.0.1 | Deep method execution flow and context extractor for LLMs |
+| 2026-11-06 01:30:22 | [itstrategyllc.logvane](https://marketplace.visualstudio.com/items?itemName=itstrategyllc.logvane) | Logvane KQL | 0.5.40 | Write and run KQL against Microsoft Sentinel and any Log Analytics workspace, w… |
+| 2026-11-06 01:34:02 | [lupee.minio-studio](https://marketplace.visualstudio.com/items?itemName=lupee.minio-studio) | MinIO Studio | 26.11.6 | Manage MinIO in VS Code: browse and preview objects, monitor the cluster, manag… |
+| 2026-11-06 01:49:47 | [chaosifier.notification-hub-explorer](https://marketplace.visualstudio.com/items?itemName=chaosifier.notification-hub-explorer) | Azure Notification Hub Explorer | 0.1.0 | Browse Azure Notification Hub device registrations, search by tag, and send tes… |
+| 2026-11-06 01:49:51 | [SalimOmar.git-shell-vscode](https://marketplace.visualstudio.com/items?itemName=SalimOmar.git-shell-vscode) | Git Shell | 1.0.0 | Open a terminal that runs entered commands as Git subcommands. |
+| 2026-11-06 01:52:24 | [wkoa.magpie-remote-bridge](https://marketplace.visualstudio.com/items?itemName=wkoa.magpie-remote-bridge) | Magpie Remote Bridge | 0.1.2 | Reuse your local Magpie AI gateway in Remote-SSH. 在远端复用本机模型、账号与网关。 |
+| 2026-11-06 02:05:43 | [usamamuhammad100.junto](https://marketplace.visualstudio.com/items?itemName=usamamuhammad100.junto) | Junto | 0.3.2 | The conversations behind your code. Shared, attributable AI feature history in… |
 
 ## Data source
 
