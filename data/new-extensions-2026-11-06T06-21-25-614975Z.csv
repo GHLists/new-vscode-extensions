@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T05:15:13.353Z,popnow.popnow,popnow,PopNow: AI Image and Video Generator,0.1.0,"Generate AI images and videos in VS Code with Nano Banana, GPT Image, Seedream, Kling, Seedance, MiniMax H3, Veo and more. See the price before every run. Requires a PopNow API key and API balance."
+2026-11-06T05:25:43.353Z,junbiaojin.mysql-custom,junbiaojin,MySQL Custom,0.1.0,"MySQL/MariaDB client with enhanced SQL intellisense (based on cweijan/vscode-database-client 3.9.8, MIT)"
+2026-11-06T05:41:48.957Z,waguea.rangeedit-vscode,waguea,RangeEdit,0.1.0,"Range-based scan, replace, and delete powered by the RangeEdit engine."
+2026-11-06T05:42:44.85Z,yeeth.pkgscan,yeeth,pkgscan,0.1.2,A simple security auditor for VS Code-compatible IDE extensions that checks for known malicious extensions.
