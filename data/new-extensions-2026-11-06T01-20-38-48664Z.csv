@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T00:24:54.61Z,MarianoBlua.patch-trail,MarianoBlua,Patch Trail,0.1.0,Read a coding agent's .patch with real old/new line numbers and blame every line to the trajectory step that wrote it.
+2026-11-06T00:41:11.87Z,zecro.todo-desk,zecro,TODO Desk Lite: Offline TODO/FIXME Tree,0.1.2,"Find TODO, FIXME, HACK, NOTE, BUG and XXX comments in your workspace with a pure-JS scanner — no ripgrep install, no network, no telemetry. Tree view by tag; click to jump."
+2026-11-06T00:41:24.24Z,crpxiii.crpxiii-dai,crpxiii,crpxiii-dAi,1.0.0,Autonomous AI Website Humanizer & Design Intelligence Engine.
+2026-11-06T00:51:31.973Z,zovo.table-viewer-vscode,zovo,"Table Viewer for Parquet, Excel and CSV",0.1.0,"Open Parquet, Excel (xlsx, xls, ods) and CSV/TSV files as a fast, sortable, filterable table with column types and the Parquet schema. Handles 1M rows. No Python, no setup, works offline."
+2026-11-06T00:52:17.133Z,MehdiBrahmi.device-tools-for-android,MehdiBrahmi,Device Tools for Android,0.1.0,"Mirror and control Android emulators and devices, manage virtual devices (AVDs) and browse Logcat without leaving VS Code."
+2026-11-06T00:54:31.563Z,zovo.pdf-viewer-dark,zovo,"PDF Reader: Dark Mode, Search, Outline",0.1.1,"Read PDFs in VS Code with a real dark mode that keeps photos in their true colors, plus search with highlights, outline, page thumbnails and zoom. Works offline."
+2026-11-06T00:58:32.197Z,zecro.http-desk,zecro,HTTP Desk Lite: Local .http / REST Client,0.1.2,"Send HTTP requests from .http and .rest files with no login, no account and no telemetry. Pretty JSON/XML responses, file variables, .env, Basic/Bearer auth, cURL paste."
+2026-11-06T01:01:12.907Z,erikchaupis.javascope,erikchaupis,JavaScope,1.0.0,Eclipse & IntelliJ-inspired Java editor colors and Eclipse JDT-based Java/JSP formatting for Visual Studio Code.
+2026-11-06T01:12:46.527Z,on-the-right-side.notifai-agents,on-the-right-side,NotifAI Agents,0.2.3,See your Claude Code sessions across your computers and message them from anywhere. Part of NotifAI.
+2026-11-06T01:13:30.907Z,KangDae-ryeon.wpf-visual-designer,KangDae-ryeon,WPF Visual Designer,1.4.2,Native WPF preview and basic visual XAML editing for Windows.
