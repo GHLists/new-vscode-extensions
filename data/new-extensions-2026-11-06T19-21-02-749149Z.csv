@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T18:12:34.597Z,011BrasilCentrodeTeconologia.agent-orchestra-011brasil,011BrasilCentrodeTeconologia,Nestor Orchestra,0.7.8,"Explore agentes e skills, mapeie o projeto e gere contexto para documentação."
+2026-11-06T18:23:07.527Z,IhabBishara.kern-lang-eu,IhabBishara,Kern Lang EU Support,0.1.0,"Kern for VS Code: syntax highlighting, real compiler diagnostics as you type, quick fixes, auto-import, stdlib-aware completion, hover docs, signature help, go to definition, outline and run/test commands."
+2026-11-06T18:26:20.053Z,devarchitect.devarchitect,devarchitect,DevArchitect,0.1.3,"Understand your codebase. Prevent architectural drift. Real-time architecture health, change blast radius, and interactive studio inside VS Code and Cursor"
+2026-11-06T18:30:11.173Z,SyrusAI.wacaller-gemini,SyrusAI,Wacaller Gemini - Antigravity Agent,0.2.0,Extensão integrada ao Gemini Web e Terminal PTY seguro com validação de licença
+2026-11-06T18:31:58.073Z,harshanacz.xml-language-client,harshanacz,Schema-Aware XML,0.1.0,"Schema-aware XML validation and completion for .xml, .xsd and .xsl files. JVM-free."
+2026-11-06T18:41:51.927Z,DoubleCLN.clarity-board,DoubleCLN,Clarity Board,1.0.0,Clarity board workspace for Visual Studio Code.
+2026-11-06T18:47:48.557Z,AhmedHussein.git-diagram,AhmedHussein,Git Diagram,0.0.1,
+2026-11-06T18:49:41.243Z,importemelhor.imconnect-dev,importemelhor,IM Connect Dev,1.0.0,O manual da plataforma IM Connect e a pré-validação de módulo dentro do seu editor. Para o time e os tech partners da Importe Melhor.
+2026-11-06T18:52:53.87Z,siber-akademi.tzero-vscode,siber-akademi,T-Zero Context Architect & MCP,10.6.0,"Cut AI token costs by up to 95% with local AST pruning, Zero-Leak security audit, and 1-click MCP initialization for Cursor, Windsurf, and VS Code Copilot."
+2026-11-06T18:53:14.51Z,CorridorPlatforms.ggx-mcp,CorridorPlatforms,GenGuardX MCP,0.1.0,Connect your editor's AI assistant to your GenGuardX MCP server using a configurable endpoint and OAuth.
+2026-11-06T18:59:15.523Z,SyrusAI.gemini-wacaller,SyrusAI,Gemini-Wacaller,0.3.0,Extensão oficial Gemini-Wacaller para Google Antigravity e VS Code com Gemini Web e Terminal PTY seguro
+2026-11-06T19:11:43.74Z,atreyu-94.noctis2,atreyu-94,Noctis2,0.1.0,11 light and dark themes with semantic highlighting and Typst/Julia refinements. An independent fork of Noctis by Liviu Schera.

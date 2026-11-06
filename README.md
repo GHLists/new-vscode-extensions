@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-06 18:20 UTC
+## Latest list — 2026-11-06 19:21 UTC
 
-New extensions published between 2026-11-06 16:20 UTC and 2026-11-06 18:20 UTC.
+New extensions published between 2026-11-06 17:21 UTC and 2026-11-06 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-06T18-20-36-576016Z.csv)
+[Full CSV](data/new-extensions-2026-11-06T19-21-02-749149Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 17:28:26 | [devarchitect.vscode-devarchitect](https://marketplace.visualstudio.com/items?itemName=devarchitect.vscode-devarchitect) | DevArchitect — Engineering Intelligence | 0.1.2 | Real-time architecture health, change blast radius, and boundary enforcement in… |
-| 2026-11-06 17:28:42 | [orneos.ornis](https://marketplace.visualstudio.com/items?itemName=orneos.ornis) | Ornis | 0.2.0 | Ornis dans l’éditeur : un agent de code européen avec son panneau, le dossier o… |
-| 2026-11-06 17:36:09 | [ti-development-tools.ccstudio-openocd](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio-openocd) | TI Cortex Debug | 1.0.0 | ARM Cortex-M GDB Debugger support for VS Code |
-| 2026-11-06 17:44:35 | [MarthinusBosman.databricks-notebooks](https://marketplace.visualstudio.com/items?itemName=MarthinusBosman.databricks-notebooks) | Databricks Notebooks | 0.1.0 | Open Databricks source notebooks (.py files starting with '# Databricks noteboo… |
-| 2026-11-06 17:47:09 | [EnzoUnified.datazen-sqlcdc](https://marketplace.visualstudio.com/items?itemName=EnzoUnified.datazen-sqlcdc) | DataZen SQL CDC | 0.2.3 | Author, preview and publish DataZen SQL CDC scripts (.sqlcdc) against a DataZen… |
-| 2026-11-06 17:51:09 | [DeepakR.neurocode-ai](https://marketplace.visualstudio.com/items?itemName=DeepakR.neurocode-ai) | NeuroCode - In-Memory Context Slicer &… | 0.1.0 | Zero-daemon AST reachability slicer for local models (Ollama, Cursor, Claude).… |
-| 2026-11-06 17:56:16 | [MandacaruProject.mandacaru-project-theme](https://marketplace.visualstudio.com/items?itemName=MandacaruProject.mandacaru-project-theme) | Mandacaru Project Theme | 1.0.1 | Mandacaru Theme utiliza cores baseadas na flor do mandacaru com variações temát… |
-| 2026-11-06 17:58:26 | [kris7t.seminar-vscode](https://marketplace.visualstudio.com/items?itemName=kris7t.seminar-vscode) | Seminar | 0.3.0 | Language support for Seminar decks: syntax highlighting and IntelliSense for .d… |
-| 2026-11-06 18:05:49 | [EPelletierNBCC.dataman](https://marketplace.visualstudio.com/items?itemName=EPelletierNBCC.dataman) | Dataman | 0.1.2 | Manage local database projects and run SQL in Docker-powered workspaces. |
+| 2026-11-06 18:12:34 | [011BrasilCentrodeTeconologia.agent-orchestra-011brasil](https://marketplace.visualstudio.com/items?itemName=011BrasilCentrodeTeconologia.agent-orchestra-011brasil) | Nestor Orchestra | 0.7.8 | Explore agentes e skills, mapeie o projeto e gere contexto para documentação. |
+| 2026-11-06 18:23:07 | [IhabBishara.kern-lang-eu](https://marketplace.visualstudio.com/items?itemName=IhabBishara.kern-lang-eu) | Kern Lang EU Support | 0.1.0 | Kern for VS Code: syntax highlighting, real compiler diagnostics as you type, q… |
+| 2026-11-06 18:26:20 | [devarchitect.devarchitect](https://marketplace.visualstudio.com/items?itemName=devarchitect.devarchitect) | DevArchitect | 0.1.3 | Understand your codebase. Prevent architectural drift. Real-time architecture h… |
+| 2026-11-06 18:30:11 | [SyrusAI.wacaller-gemini](https://marketplace.visualstudio.com/items?itemName=SyrusAI.wacaller-gemini) | Wacaller Gemini - Antigravity Agent | 0.2.0 | Extensão integrada ao Gemini Web e Terminal PTY seguro com validação de licença |
+| 2026-11-06 18:31:58 | [harshanacz.xml-language-client](https://marketplace.visualstudio.com/items?itemName=harshanacz.xml-language-client) | Schema-Aware XML | 0.1.0 | Schema-aware XML validation and completion for .xml, .xsd and .xsl files. JVM-f… |
+| 2026-11-06 18:41:51 | [DoubleCLN.clarity-board](https://marketplace.visualstudio.com/items?itemName=DoubleCLN.clarity-board) | Clarity Board | 1.0.0 | Clarity board workspace for Visual Studio Code. |
+| 2026-11-06 18:47:48 | [AhmedHussein.git-diagram](https://marketplace.visualstudio.com/items?itemName=AhmedHussein.git-diagram) | Git Diagram | 0.0.1 |  |
+| 2026-11-06 18:49:41 | [importemelhor.imconnect-dev](https://marketplace.visualstudio.com/items?itemName=importemelhor.imconnect-dev) | IM Connect Dev | 1.0.0 | O manual da plataforma IM Connect e a pré-validação de módulo dentro do seu edi… |
+| 2026-11-06 18:52:53 | [siber-akademi.tzero-vscode](https://marketplace.visualstudio.com/items?itemName=siber-akademi.tzero-vscode) | T-Zero Context Architect & MCP | 10.6.0 | Cut AI token costs by up to 95% with local AST pruning, Zero-Leak security audi… |
+| 2026-11-06 18:53:14 | [CorridorPlatforms.ggx-mcp](https://marketplace.visualstudio.com/items?itemName=CorridorPlatforms.ggx-mcp) | GenGuardX MCP | 0.1.0 | Connect your editor's AI assistant to your GenGuardX MCP server using a configu… |
+| 2026-11-06 18:59:15 | [SyrusAI.gemini-wacaller](https://marketplace.visualstudio.com/items?itemName=SyrusAI.gemini-wacaller) | Gemini-Wacaller | 0.3.0 | Extensão oficial Gemini-Wacaller para Google Antigravity e VS Code com Gemini W… |
+| 2026-11-06 19:11:43 | [atreyu-94.noctis2](https://marketplace.visualstudio.com/items?itemName=atreyu-94.noctis2) | Noctis2 | 0.1.0 | 11 light and dark themes with semantic highlighting and Typst/Julia refinements… |
 
 ## Data source
 
