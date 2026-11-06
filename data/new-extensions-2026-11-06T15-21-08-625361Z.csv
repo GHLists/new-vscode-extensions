@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T14:18:37.003Z,waldoxbin.vscode-router-goto,waldoxbin,React Navigation & Expo Router IntelliSense,0.2.0,"Smart autocomplete, Click-to-Definition (Cmd+click) and hover documentation for Expo Router & React Navigation screens and params."
+2026-11-06T14:33:18.797Z,ISMAILIYanisse.agent-verse,ISMAILIYanisse,Agent-Verse,0.7.0,"Vois tes agents Claude Code bosser en direct : un bureau en style comics où chaque agent est un personnage, avec ce qu'il fait, ses fichiers, sa durée et sa consommation."
+2026-11-06T14:35:31.07Z,seven07ve.prisma-window-colors,seven07ve,Prisma Window Colors,1.0.0,"Gives every project window its own color from a palette of 11, never repeating among open windows, and remembers it. Tell your VS Code and Cursor windows apart at a glance."
+2026-11-06T14:45:57.533Z,greatminds-nl.arqi,greatminds-nl,Arqi,0.2.26,Architecture-as-Code support for Arqi DSL
+2026-11-06T15:05:03.533Z,puzzlysstudio.codecontrol,puzzlysstudio,CodeControl,0.2.0,"CodeControl: programming quizzes for while your AI agent works, plus a ping the moment it finishes or needs you."
+2026-11-06T15:11:42.15Z,saffo.waysill,saffo,Waysill: WCAG Checks for HTML and JSX,1.1.0,"Lints HTML, JSX/TSX, Vue and Svelte templates for WCAG 2.2 issues (alt text, labels, headings, ARIA) and explains each fix."
