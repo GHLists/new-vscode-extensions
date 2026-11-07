@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T05:37:19.84Z,dtcode-dev.dtcode-theme,dtcode-dev,DTCode Theme,0.1.1,VS Code theme based on the DTCode — Blog lập trình design system
+2026-11-07T05:51:19.943Z,powerengine98.odin-pr-review,powerengine98,Odin PR Review,0.2.0,"Review a pull request as a graph of the files it touches, with guided tours narrated by AI agents and agents you can pair with on the change."
+2026-11-07T05:55:10.247Z,ALc51.xiaomi-mimo-for-copilot-chat,ALc51,MiMo Control Center for Copilot Chat,0.1.45,将 Xiaomi MiMo（V2.6 Flash / Pro）接入 GitHub Copilot Chat：Ask / Edit / Agent，含控制中心、账单与 Debug。
+2026-11-07T05:55:33.363Z,grupo8-si783.mia-vscode,grupo8-si783,MongoIndexAdvisor (MIA),1.0.0,Analiza una base MongoDB con MIA y aplica los índices recomendados (regla ESR) sin salir de VS Code.
+2026-11-07T05:59:13.403Z,ensleep.gitlab-publish,ensleep,GitLab Publish,1.3.0,按环境在侧边栏执行发布命令，并通过健康检查轮询确认发布结果
+2026-11-07T06:05:38.967Z,workpods.agent-ready,workpods,Agent Ready Website Audit,0.1.0,"SEO and AI search audit for any website, in VS Code: technical SEO, schema markup, AI crawler access, robots.txt, sitemaps and llms.txt. Adds the Agent Ready MCP server to Copilot agent mode."
