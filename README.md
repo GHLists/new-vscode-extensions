@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 04:20 UTC
+## Latest list — 2026-11-07 05:20 UTC
 
-New extensions published between 2026-11-07 02:20 UTC and 2026-11-07 04:20 UTC.
+New extensions published between 2026-11-07 03:20 UTC and 2026-11-07 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T04-20-48-404427Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T05-20-16-754786Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 03:29:14 | [Mezsa.absolutesolvermz](https://marketplace.visualstudio.com/items?itemName=Mezsa.absolutesolvermz) | AbsoluteSolverMz | 1.0.0 | Tema creado por Mezsa para Visual Studio Code, con paleta púrpura, snippets y s… |
-| 2026-11-07 03:29:28 | [jerryemc.ayu-dark-emc](https://marketplace.visualstudio.com/items?itemName=jerryemc.ayu-dark-emc) | Ayu Dark EMC | 0.1.0 | A warm, low-glare Ayu dark theme with an OKLCH-balanced palette, ported from th… |
-| 2026-11-07 03:53:58 | [zovo.zovo-pickle-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-pickle-viewer) | PKL Viewer & Pickle Viewer | 0.1.1 | PKL viewer and pickle viewer for Python .pkl, .pickle and .p files that opens t… |
-| 2026-11-07 03:59:51 | [maotou316.project-manager-maotou](https://marketplace.visualstudio.com/items?itemName=maotou316.project-manager-maotou) | Project Manager (Maotou) | 13.1.3 | Easily switch between projects. Fork of Project Manager by Alessandro Fragnani,… |
-| 2026-11-07 04:03:46 | [nyu-acsys.caravan](https://marketplace.visualstudio.com/items?itemName=nyu-acsys.caravan) | Caravan | 0.1.0 | Verification for multicore OCaml programs. |
-| 2026-11-07 04:05:30 | [zovo.arrow-avro-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.arrow-avro-viewer) | Avro Viewer, Arrow Viewer & Feather Vie… | 0.1.1 | Avro viewer, Arrow viewer and Feather viewer that opens .avro, .arrow, .feather… |
-| 2026-11-07 04:11:52 | [zovo.3d-model-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.3d-model-viewer) | 3D Model Viewer (GLB, glTF, STL, OBJ, P… | 0.1.1 | 3D model viewer for GLB, glTF, STL, OBJ, PLY and 3MF files in VS Code, with wir… |
-| 2026-11-07 04:13:40 | [zovo.zovo-graphviz-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-graphviz-preview) | Graphviz Preview & DOT Viewer | 0.1.1 | Graphviz preview for .dot and .gv files and dot blocks in Markdown, with live u… |
-| 2026-11-07 04:15:27 | [zovo.tiff-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.tiff-viewer) | TIFF Viewer (16-bit, Float, GeoTIFF) | 0.1.1 | Open TIFF and GeoTIFF files in VS Code. Multi-page stacks, 16-bit and float dat… |
-| 2026-11-07 04:17:25 | [zovo.dicom-nifti-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.dicom-nifti-viewer) | DICOM Viewer & NIfTI Viewer for CT and… | 0.1.0 | DICOM viewer and NIfTI viewer for CT and MRI scans in VS Code. Opens .dcm files… |
+| 2026-11-07 04:17:48 | [Burnout3D.papyrus-scene-graph](https://marketplace.visualstudio.com/items?itemName=Burnout3D.papyrus-scene-graph) | Papyrus Scene Graph | 1.0.0 | Syntax support for Papyrus PSG files |
+| 2026-11-07 04:18:51 | [zovo.eml-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.eml-viewer) | EML Viewer & MBOX Email Viewer | 0.1.2 | Open .eml, .emlx and .mbox email files in VS Code. See the HTML with remote ima… |
+| 2026-11-07 04:32:43 | [ti-development-tools.ccstudio](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.ccstudio) | CCStudio for VS Code | 1.0.0 | CCStudio development tools support for Texas Instruments devices |
+| 2026-11-07 04:39:18 | [BigAgentCreator.bigagentcreator](https://marketplace.visualstudio.com/items?itemName=BigAgentCreator.bigagentcreator) | BigAgentCreator | 0.2.1 | Design an AI agent workflow on a canvas and save it as a folder. Triggers, tool… |
+| 2026-11-07 04:42:10 | [kftcda.rigswig](https://marketplace.visualstudio.com/items?itemName=kftcda.rigswig) | rigswig | 0.0.1 | What a coding-agent session in this repo loads, and where each piece came from… |
+| 2026-11-07 04:48:10 | [Courage.courage-hub](https://marketplace.visualstudio.com/items?itemName=Courage.courage-hub) | Courage Hub | 1.0.0 | A pixel office that shows what your Courage agents are doing. |
 
 ## Data source
 

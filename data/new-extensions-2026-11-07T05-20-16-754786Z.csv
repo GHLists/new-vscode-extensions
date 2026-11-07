@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T04:17:48.087Z,Burnout3D.papyrus-scene-graph,Burnout3D,Papyrus Scene Graph,1.0.0,Syntax support for Papyrus PSG files
+2026-11-07T04:18:51.05Z,zovo.eml-viewer,zovo,EML Viewer & MBOX Email Viewer,0.1.2,"Open .eml, .emlx and .mbox email files in VS Code. See the HTML with remote images blocked, attachments, SPF/DKIM/DMARC results and the delivery route. Offline."
+2026-11-07T04:32:43.033Z,ti-development-tools.ccstudio,ti-development-tools,CCStudio for VS Code,1.0.0,CCStudio development tools support for Texas Instruments devices
+2026-11-07T04:39:18.29Z,BigAgentCreator.bigagentcreator,BigAgentCreator,BigAgentCreator,0.2.1,"Design an AI agent workflow on a canvas and save it as a folder. Triggers, tools, and Telegram. Manage environments and deploy the same image with Docker locally, or straight to AWS, GCP, and Azure. Skip the agent and the path answers in code."
+2026-11-07T04:42:10.1Z,kftcda.rigswig,kftcda,rigswig,0.0.1,"What a coding-agent session in this repo loads, and where each piece came from — the rigswig CLI in your editor."
+2026-11-07T04:48:10.007Z,Courage.courage-hub,Courage,Courage Hub,1.0.0,A pixel office that shows what your Courage agents are doing.
