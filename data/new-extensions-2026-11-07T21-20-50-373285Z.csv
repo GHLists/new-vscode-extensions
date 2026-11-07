@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T20:22:42.293Z,vibeglitch-sdlc.gometer-runner,vibeglitch-sdlc,GoMeter Load Tester & API Performance Engine,1.6.2,"Go-powered JMeter alternative for API testing, load testing, real-time metrics, LLM generation, and MCP support."
+2026-11-07T20:31:52.93Z,RadwanAlmsora.zen-pulse,RadwanAlmsora,Zen Pulse,1.0.0,"Pomodoro focus timer, breathing breaks and bilingual (Arabic/English) inspiration quotes for VS Code."
+2026-11-07T20:45:38.21Z,HavisunTechnologies.btp-deploy-doctor-vscode,HavisunTechnologies,BTP Deploy Doctor,0.1.0,"Catches SAP BTP / CAP deployment mistakes in mta.yaml and package.json, fixes them in one click, and explains failed cf deploy logs."
+2026-11-07T20:46:28.86Z,SpeakingInBits.circuit-bench,SpeakingInBits,Circuit Bench,0.4.0,Build circuits and test code on simulated microcontroller boards. Runs CircuitPython for the Adafruit Metro M0 Express.
+2026-11-07T20:52:05.72Z,RadwanAlmsora.rwn-code-garden,RadwanAlmsora,Code Garden,1.0.0,"Grow a living garden while you code. Every save and every few lines make it bloom, with levels, daily streaks and a cozy animated garden view. 100% local."
+2026-11-07T20:53:35.52Z,RadwanAlmsora.rwn-dev-chronicle,RadwanAlmsora,Dev Chronicle,1.0.0,"Private, local coding-time tracker with a beautiful dashboard: daily goal ring, 7-day chart, languages, projects and streaks. No account, no cloud, no telemetry."
+2026-11-07T21:02:43.44Z,illusion77.thinkmark,illusion77,Thinkmark — Markdown Mind Map,0.1.0,"Edit Markdown files as XMind-style mind maps. The Markdown file stays the source of truth: changes in the map are written back to the text, and changes to the text show up in the map."
+2026-11-07T21:09:59.48Z,mycelium-cmbse.mycelium-hypha,mycelium-cmbse,Hypha – SysML v2 and KerML,0.1.0,Release-aware SysML v2 and KerML knowledge tools for GitHub Copilot in VS Code.

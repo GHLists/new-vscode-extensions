@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 20:20 UTC
+## Latest list — 2026-11-07 21:20 UTC
 
-New extensions published between 2026-11-07 18:20 UTC and 2026-11-07 20:20 UTC.
+New extensions published between 2026-11-07 19:20 UTC and 2026-11-07 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T20-20-41-691457Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T21-20-50-373285Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 19:24:22 | [bitoesposito.par-o-css](https://marketplace.visualstudio.com/items?itemName=bitoesposito.par-o-css) | par-o-css: CSS in napoletano | 0.1.0 | CSS in napoletano e classi alla Tailwind: colori, completamento delle classi ed… |
-| 2026-11-07 19:28:18 | [gigi-didberidze.terrain](https://marketplace.visualstudio.com/items?itemName=gigi-didberidze.terrain) | Terrain — Code Map | 0.1.0 | A fast, deterministic map of your codebase: where you are, what holds it up, an… |
-| 2026-11-07 19:36:09 | [rsluna.free-llm-api-provider](https://marketplace.visualstudio.com/items?itemName=rsluna.free-llm-api-provider) | Free LLM API Provider | 0.3.5 | Connect VS Code Chat to any OpenAI-compatible LLM endpoint. Supports 350+ model… |
-| 2026-11-07 19:36:42 | [NehaDev.rest-api-explorer-tree](https://marketplace.visualstudio.com/items?itemName=NehaDev.rest-api-explorer-tree) | rest-api-explorer-tree | 0.0.1 | new |
-| 2026-11-07 19:55:03 | [escapepz.pzstudio42](https://marketplace.visualstudio.com/items?itemName=escapepz.pzstudio42) | PZ Studio 42 | 0.42210.0 | Effortlessly create and maintain Lua mods for Project Zomboid with intuitive st… |
-| 2026-11-07 20:02:22 | [harveyh.jaxtypinglint](https://marketplace.visualstudio.com/items?itemName=harveyh.jaxtypinglint) | jaxtypinglint | 0.2.1 | See jaxtyping tensor shapes in Python hovers and signatures, alongside Pylance.… |
-| 2026-11-07 20:03:34 | [nodexa.nodexa](https://marketplace.visualstudio.com/items?itemName=nodexa.nodexa) | Nodexa | 1.1.0 | Nodexa is a lightweight, Postman-like API client built directly into Visual Stu… |
-| 2026-11-07 20:06:16 | [dimanrus.dotnet-pro-pack-vscode](https://marketplace.visualstudio.com/items?itemName=dimanrus.dotnet-pro-pack-vscode) | Dotnet Pro Pack | 1.0.0 | Ultimate extension pack for .NET developers in Visual Studio Code: C#, MAUI, Av… |
+| 2026-11-07 20:22:42 | [vibeglitch-sdlc.gometer-runner](https://marketplace.visualstudio.com/items?itemName=vibeglitch-sdlc.gometer-runner) | GoMeter Load Tester & API Performance E… | 1.6.2 | Go-powered JMeter alternative for API testing, load testing, real-time metrics,… |
+| 2026-11-07 20:31:52 | [RadwanAlmsora.zen-pulse](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.zen-pulse) | Zen Pulse | 1.0.0 | Pomodoro focus timer, breathing breaks and bilingual (Arabic/English) inspirati… |
+| 2026-11-07 20:45:38 | [HavisunTechnologies.btp-deploy-doctor-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.btp-deploy-doctor-vscode) | BTP Deploy Doctor | 0.1.0 | Catches SAP BTP / CAP deployment mistakes in mta.yaml and package.json, fixes t… |
+| 2026-11-07 20:46:28 | [SpeakingInBits.circuit-bench](https://marketplace.visualstudio.com/items?itemName=SpeakingInBits.circuit-bench) | Circuit Bench | 0.4.0 | Build circuits and test code on simulated microcontroller boards. Runs CircuitP… |
+| 2026-11-07 20:52:05 | [RadwanAlmsora.rwn-code-garden](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.rwn-code-garden) | Code Garden | 1.0.0 | Grow a living garden while you code. Every save and every few lines make it blo… |
+| 2026-11-07 20:53:35 | [RadwanAlmsora.rwn-dev-chronicle](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.rwn-dev-chronicle) | Dev Chronicle | 1.0.0 | Private, local coding-time tracker with a beautiful dashboard: daily goal ring,… |
+| 2026-11-07 21:02:43 | [illusion77.thinkmark](https://marketplace.visualstudio.com/items?itemName=illusion77.thinkmark) | Thinkmark — Markdown Mind Map | 0.1.0 | Edit Markdown files as XMind-style mind maps. The Markdown file stays the sourc… |
+| 2026-11-07 21:09:59 | [mycelium-cmbse.mycelium-hypha](https://marketplace.visualstudio.com/items?itemName=mycelium-cmbse.mycelium-hypha) | Hypha – SysML v2 and KerML | 0.1.0 | Release-aware SysML v2 and KerML knowledge tools for GitHub Copilot in VS Code. |
 
 ## Data source
 
