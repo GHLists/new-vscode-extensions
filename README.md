@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 21:20 UTC
+## Latest list — 2026-11-07 22:18 UTC
 
-New extensions published between 2026-11-07 19:20 UTC and 2026-11-07 21:20 UTC.
+New extensions published between 2026-11-07 20:18 UTC and 2026-11-07 22:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T21-20-50-373285Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T22-18-40-054201Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 20:22:42 | [vibeglitch-sdlc.gometer-runner](https://marketplace.visualstudio.com/items?itemName=vibeglitch-sdlc.gometer-runner) | GoMeter Load Tester & API Performance E… | 1.6.2 | Go-powered JMeter alternative for API testing, load testing, real-time metrics,… |
-| 2026-11-07 20:31:52 | [RadwanAlmsora.zen-pulse](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.zen-pulse) | Zen Pulse | 1.0.0 | Pomodoro focus timer, breathing breaks and bilingual (Arabic/English) inspirati… |
-| 2026-11-07 20:45:38 | [HavisunTechnologies.btp-deploy-doctor-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.btp-deploy-doctor-vscode) | BTP Deploy Doctor | 0.1.0 | Catches SAP BTP / CAP deployment mistakes in mta.yaml and package.json, fixes t… |
-| 2026-11-07 20:46:28 | [SpeakingInBits.circuit-bench](https://marketplace.visualstudio.com/items?itemName=SpeakingInBits.circuit-bench) | Circuit Bench | 0.4.0 | Build circuits and test code on simulated microcontroller boards. Runs CircuitP… |
-| 2026-11-07 20:52:05 | [RadwanAlmsora.rwn-code-garden](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.rwn-code-garden) | Code Garden | 1.0.0 | Grow a living garden while you code. Every save and every few lines make it blo… |
-| 2026-11-07 20:53:35 | [RadwanAlmsora.rwn-dev-chronicle](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.rwn-dev-chronicle) | Dev Chronicle | 1.0.0 | Private, local coding-time tracker with a beautiful dashboard: daily goal ring,… |
-| 2026-11-07 21:02:43 | [illusion77.thinkmark](https://marketplace.visualstudio.com/items?itemName=illusion77.thinkmark) | Thinkmark — Markdown Mind Map | 0.1.0 | Edit Markdown files as XMind-style mind maps. The Markdown file stays the sourc… |
-| 2026-11-07 21:09:59 | [mycelium-cmbse.mycelium-hypha](https://marketplace.visualstudio.com/items?itemName=mycelium-cmbse.mycelium-hypha) | Hypha – SysML v2 and KerML | 0.1.0 | Release-aware SysML v2 and KerML knowledge tools for GitHub Copilot in VS Code. |
+| 2026-11-07 21:34:44 | [victor06-git.untangle](https://marketplace.visualstudio.com/items?itemName=victor06-git.untangle) | Untangle — Import & Call Tracer | 0.2.0 | Your imports are spaghetti. Untangle them: see the full import tree and call hi… |
+| 2026-11-07 21:42:28 | [ryankkhalil19.many-hats](https://marketplace.visualstudio.com/items?itemName=ryankkhalil19.many-hats) | Many Hats for Claude Code | 0.9.0 | Run each Claude Code tab on its own Claude account, side by side in one window,… |
+| 2026-11-07 21:58:57 | [bithynia.zircon-analyzer](https://marketplace.visualstudio.com/items?itemName=bithynia.zircon-analyzer) | Zircon Analyzer | 0.5.0 | Zircon language support for Visual Studio Code. |
+| 2026-11-07 22:00:52 | [schobiyet.hashmark](https://marketplace.visualstudio.com/items?itemName=schobiyet.hashmark) | Hashmark | 0.1.0 | Bookmark lines of code with notes and #tags. Browse, filter and search your boo… |
+| 2026-11-07 22:00:58 | [fpracek.msx-sdcc-debugger](https://marketplace.visualstudio.com/items?itemName=fpracek.msx-sdcc-debugger) | MSX-SDCC-Debugger | 0.2.4 | Step-by-step C debugger for MSX programs built with SDCC / MSXgl, running in op… |
+| 2026-11-07 22:04:46 | [bithynia.veles-analyzer](https://marketplace.visualstudio.com/items?itemName=bithynia.veles-analyzer) | Veles Analyzer | 0.1.0 | Veles language support for Visual Studio Code. |
+| 2026-11-07 22:05:29 | [MCIN-dlq.bids-explorer](https://marketplace.visualstudio.com/items?itemName=MCIN-dlq.bids-explorer) | BIDS Explorer | 1.0.1 | Browse BIDS studies, preview metadata and open NIfTI images locally or over SSH. |
+| 2026-11-07 22:09:16 | [ElzadaSaputo.juli-board](https://marketplace.visualstudio.com/items?itemName=ElzadaSaputo.juli-board) | Juli Board | 1.0.9 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
 
 ## Data source
 
