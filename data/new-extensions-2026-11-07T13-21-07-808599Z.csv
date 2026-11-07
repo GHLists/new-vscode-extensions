@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T12:15:33.53Z,RootShellForge.xscp,RootShellForge,FileTandem – SFTP & SCP File Manager,1.0.2,"Dual-pane SFTP and SCP file manager for VS Code Desktop, with a transfer queue and guarded remote editing."
+2026-11-07T12:40:43.943Z,GeorgeGunter.12dpl-debugger,GeorgeGunter,12dPL Debugger,0.5.0,Step-through debugging for 12d Model macros (12dPL) via source instrumentation and the Debug Adapter Protocol.
+2026-11-07T12:43:03.367Z,dynotable.vscode-dynotable,dynotable,DynoTable,0.1.0,"SQL, PartiQL and OpenSearch queries for DynamoDB and OpenSearch, served by the DynoTable desktop app."
+2026-11-07T12:48:24.113Z,JeremieGaud.clippy-lint-docs,JeremieGaud,Clippy Lint Docs,0.0.1,Display the documentation of a clippy lint in a panel tab.
+2026-11-07T12:53:16.607Z,openrig.openrig,openrig,OpenRig,0.1.0,"Early preview: work with your local OpenRig team from VS Code or Cursor. Join as the editor's seat, hand work to the team, see what needs you, open an agent's terminal, review results as diffs, and give your editor's agent the team's tools."
+2026-11-07T13:11:20.373Z,VerPublish.julia-board,VerPublish,Julia Board,0.0.1,Blank Julia Board extension. Minimal scaffold ready for your own code.
+2026-11-07T13:12:01.053Z,marg.marg-vscode,marg,MARG Coding Streak,0.1.0,"Code by hand every day, keep your streak, and unlock MARG characters."
+2026-11-07T13:15:02.25Z,FSDK.fsdk-robot-werther,FSDK,- Робот Вертер -,0.3.17,"Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и OpenRouter."

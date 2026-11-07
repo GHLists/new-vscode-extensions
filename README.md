@@ -12,18 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 12:20 UTC
+## Latest list — 2026-11-07 13:21 UTC
 
-New extensions published between 2026-11-07 10:20 UTC and 2026-11-07 12:20 UTC.
+New extensions published between 2026-11-07 11:21 UTC and 2026-11-07 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T12-20-36-719075Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T13-21-07-808599Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 11:32:46 | [Rohit-kumar-g.chat-threads](https://marketplace.visualstudio.com/items?itemName=Rohit-kumar-g.chat-threads) | Threads for AI Chats | 0.4.0 | Read-only side threads on any line of your Claude Code or GitHub Copilot chat:… |
-| 2026-11-07 12:01:14 | [mbaradad.omp-sessions](https://marketplace.visualstudio.com/items?itemName=mbaradad.omp-sessions) | omp Sessions | 0.5.0 | Run oh-my-pi (omp) coding-agent sessions in the background — locally or over Re… |
-| 2026-11-07 12:08:43 | [masanori-satake.skilltrace-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.skilltrace-solo) | SkillTrace-Solo | 1.0.0 | See which skill files GitHub Copilot actually loaded. SkillTrace overlays Copil… |
-| 2026-11-07 12:11:10 | [xdffish.agent-skills-matrix-vsc](https://marketplace.visualstudio.com/items?itemName=xdffish.agent-skills-matrix-vsc) | Agent Skills Matrix — Multi-Agent Skill… | 0.5.12 | Multi-agent skill matrix dashboard and dispatcher powered by standard npx skills |
+| 2026-11-07 12:15:33 | [RootShellForge.xscp](https://marketplace.visualstudio.com/items?itemName=RootShellForge.xscp) | FileTandem – SFTP & SCP File Manager | 1.0.2 | Dual-pane SFTP and SCP file manager for VS Code Desktop, with a transfer queue… |
+| 2026-11-07 12:40:43 | [GeorgeGunter.12dpl-debugger](https://marketplace.visualstudio.com/items?itemName=GeorgeGunter.12dpl-debugger) | 12dPL Debugger | 0.5.0 | Step-through debugging for 12d Model macros (12dPL) via source instrumentation… |
+| 2026-11-07 12:43:03 | [dynotable.vscode-dynotable](https://marketplace.visualstudio.com/items?itemName=dynotable.vscode-dynotable) | DynoTable | 0.1.0 | SQL, PartiQL and OpenSearch queries for DynamoDB and OpenSearch, served by the… |
+| 2026-11-07 12:48:24 | [JeremieGaud.clippy-lint-docs](https://marketplace.visualstudio.com/items?itemName=JeremieGaud.clippy-lint-docs) | Clippy Lint Docs | 0.0.1 | Display the documentation of a clippy lint in a panel tab. |
+| 2026-11-07 12:53:16 | [openrig.openrig](https://marketplace.visualstudio.com/items?itemName=openrig.openrig) | OpenRig | 0.1.0 | Early preview: work with your local OpenRig team from VS Code or Cursor. Join a… |
+| 2026-11-07 13:11:20 | [VerPublish.julia-board](https://marketplace.visualstudio.com/items?itemName=VerPublish.julia-board) | Julia Board | 0.0.1 | Blank Julia Board extension. Minimal scaffold ready for your own code. |
+| 2026-11-07 13:12:01 | [marg.marg-vscode](https://marketplace.visualstudio.com/items?itemName=marg.marg-vscode) | MARG Coding Streak | 0.1.0 | Code by hand every day, keep your streak, and unlock MARG characters. |
+| 2026-11-07 13:15:02 | [FSDK.fsdk-robot-werther](https://marketplace.visualstudio.com/items?itemName=FSDK.fsdk-robot-werther) | - Робот Вертер - | 0.3.17 | Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и… |
 
 ## Data source
 
