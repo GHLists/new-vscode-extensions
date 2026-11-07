@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T15:19:29.85Z,JambaarTechSolutions.opengateai-vscode,JambaarTechSolutions,OpenGateAI,0.1.0,"Chat IA dans VSCode via l'API OpenGateAI (GPT, Claude, Gemini, Llama, DeepSeek, Mistral), paye en GATE."
+2026-11-07T15:20:33.797Z,tansuasici.overtex,tansuasici,Overtex,0.1.0,"A complete LaTeX writing environment inside VS Code: build, live PDF preview and SyncTeX."
+2026-11-07T15:55:42.1Z,mohithrenangi.sentrytrace,mohithrenangi,SentryTrace Incident Forensics,0.1.0,Air-gapped on-device incident root-cause analysis
+2026-11-07T16:03:10.66Z,ChunkyDragon.vscode-chupa,ChunkyDragon,chupa tickets,0.0.23,"chupa's tickets as an SCM-style dependency graph: blocked, queued, running, merged."

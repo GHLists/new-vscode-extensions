@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 15:19 UTC
+## Latest list — 2026-11-07 16:18 UTC
 
-New extensions published between 2026-11-07 13:19 UTC and 2026-11-07 15:19 UTC.
+New extensions published between 2026-11-07 14:18 UTC and 2026-11-07 16:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T15-19-55-334415Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T16-18-56-326107Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 14:27:37 | [nguyentaijs.flowable-community-studio](https://marketplace.visualstudio.com/items?itemName=nguyentaijs.flowable-community-studio) | Flowable Community Modeler | 1.0.0 | Visual BPMN and DMN editor for Flowable 7.2.0 community, with run visualization… |
-| 2026-11-07 14:34:31 | [drkyy.mycel](https://marketplace.visualstudio.com/items?itemName=drkyy.mycel) | Mycel | 1.1.0 | Mycel language support: syntax highlighting, errors with fixes, hover types, go… |
-| 2026-11-07 14:50:18 | [HuyTRAN-Lab.itasca](https://marketplace.visualstudio.com/items?itemName=HuyTRAN-Lab.itasca) | Itasca FISH | 1.0.0 | Syntax highlighting for the Itasca FISH language. |
-| 2026-11-07 14:54:37 | [asidko.dark-relief](https://marketplace.visualstudio.com/items?itemName=asidko.dark-relief) | Dark Relief | 1.0.0 | A calm dark theme: soft pastel syntax colours on the familiar Dark+ base. |
-| 2026-11-07 14:56:40 | [bruj0.omni-monitor](https://marketplace.visualstudio.com/items?itemName=bruj0.omni-monitor) | Omni Monitor — API Quota Dashboard | 0.1.1 | Usage monitor for OmniRoute and OpenAI-compatible API gateways: quota remaining… |
-| 2026-11-07 15:08:39 | [PocketStudiosGroupLtd.stackr-classroom](https://marketplace.visualstudio.com/items?itemName=PocketStudiosGroupLtd.stackr-classroom) | Stackr Classroom | 0.1.0 | Turn VS Code into an all-in-one interactive coding & robotics classroom. Learn,… |
-| 2026-11-07 15:11:33 | [ti-development-tools.edgeai-toolkit](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.edgeai-toolkit) | CCStudio Edge AI Toolkit | 1.0.0 | Detects and installs Python, TinyML ModelZoo and AI skills for TI Edge AI workf… |
+| 2026-11-07 15:19:29 | [JambaarTechSolutions.opengateai-vscode](https://marketplace.visualstudio.com/items?itemName=JambaarTechSolutions.opengateai-vscode) | OpenGateAI | 0.1.0 | Chat IA dans VSCode via l'API OpenGateAI (GPT, Claude, Gemini, Llama, DeepSeek,… |
+| 2026-11-07 15:20:33 | [tansuasici.overtex](https://marketplace.visualstudio.com/items?itemName=tansuasici.overtex) | Overtex | 0.1.0 | A complete LaTeX writing environment inside VS Code: build, live PDF preview an… |
+| 2026-11-07 15:55:42 | [mohithrenangi.sentrytrace](https://marketplace.visualstudio.com/items?itemName=mohithrenangi.sentrytrace) | SentryTrace Incident Forensics | 0.1.0 | Air-gapped on-device incident root-cause analysis |
+| 2026-11-07 16:03:10 | [ChunkyDragon.vscode-chupa](https://marketplace.visualstudio.com/items?itemName=ChunkyDragon.vscode-chupa) | chupa tickets | 0.0.23 | chupa's tickets as an SCM-style dependency graph: blocked, queued, running, mer… |
 
 ## Data source
 
