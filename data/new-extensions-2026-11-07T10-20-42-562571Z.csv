@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T09:26:37.233Z,AnyDVs.anyd,AnyDVs,AnyD,0.1.2,Агент для программирования в VS Code. Работает с любым OpenAI- или Anthropic-совместимым API по вашему ключу.
+2026-11-07T09:32:45.507Z,kd-labs.kd-code,kd-labs,KD Code,0.0.1,"Chat with coding agents over the Agent Client Protocol, install agents from the ACP Registry"
+2026-11-07T09:36:44.89Z,reviactyl.reviactyl-vsc,reviactyl,Reviactyl,26.11.0,"Browse, Edit, Manage your servers' files directly from VS Code."
+2026-11-07T09:50:15.923Z,utkarshraj.zero-touch-api-tester,utkarshraj,Zero-Touch API Tester,1.0.0,"Auto-discover Express/Node.js APIs via AST & Zod, generate smart mock/AI payloads, and test endpoints with auto JWT/Cookie chaining inside VS Code."
+2026-11-07T10:09:26.523Z,ayobami-olukunle-ogundairo.yoruba-code-snippets,ayobami-olukunle-ogundairo,Yorùbá Code Snippets,0.1.0,"Yorùbá-vocabulary shortcuts for Python, HTML, and CSS. Type with or without tone marks - both trigger the same snippet. Standard English keywords keep working exactly as before."
+2026-11-07T10:09:29.227Z,ayobami-olukunle-ogundairo.yoruba-code-spell-checker,ayobami-olukunle-ogundairo,Yorùbá Code Spell Checker,0.1.0,"Adds a Yorùbá dictionary to Code Spell Checker so wavy red underlines stop firing on Yorùbá words in comments, strings, and identifiers. Recognizes both toned and plain-ASCII spellings."
+2026-11-07T10:09:31.883Z,ayobami-olukunle-ogundairo.vscode-language-pack-yo,ayobami-olukunle-ogundairo,Yorùbá Language Pack for VS Code,0.1.0,"Community-maintained Yorùbá localization of the VS Code interface. Tier 1 in progress: menus, command palette, panel titles, common notifications. See docs/LOCALIZATION.md before packaging this one."
