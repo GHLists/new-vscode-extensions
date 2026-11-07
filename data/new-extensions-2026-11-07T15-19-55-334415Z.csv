@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T14:27:37.183Z,nguyentaijs.flowable-community-studio,nguyentaijs,Flowable Community Modeler,1.0.0,"Visual BPMN and DMN editor for Flowable 7.2.0 community, with run visualization, writing minimal diffs back to the XML."
+2026-11-07T14:34:31.403Z,drkyy.mycel,drkyy,Mycel,1.1.0,"Mycel language support: syntax highlighting, errors with fixes, hover types, go to definition, completion, outline, and a Run command."
+2026-11-07T14:50:18.81Z,HuyTRAN-Lab.itasca,HuyTRAN-Lab,Itasca FISH,1.0.0,Syntax highlighting for the Itasca FISH language.
+2026-11-07T14:54:37.49Z,asidko.dark-relief,asidko,Dark Relief,1.0.0,A calm dark theme: soft pastel syntax colours on the familiar Dark+ base.
+2026-11-07T14:56:40.32Z,bruj0.omni-monitor,bruj0,Omni Monitor — API Quota Dashboard,0.1.1,"Usage monitor for OmniRoute and OpenAI-compatible API gateways: quota remaining in the status bar, plus a usage dashboard."
+2026-11-07T15:08:39.743Z,PocketStudiosGroupLtd.stackr-classroom,PocketStudiosGroupLtd,Stackr Classroom,0.1.0,"Turn VS Code into an all-in-one interactive coding & robotics classroom. Learn, code, test, and submit assignments in one seamless flow."
+2026-11-07T15:11:33.48Z,ti-development-tools.edgeai-toolkit,ti-development-tools,CCStudio Edge AI Toolkit,1.0.0,"Detects and installs Python, TinyML ModelZoo and AI skills for TI Edge AI workflows"
