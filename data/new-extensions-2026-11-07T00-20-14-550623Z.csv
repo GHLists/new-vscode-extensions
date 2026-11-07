@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-06T23:20:48.003Z,portmem.portmem,portmem,PortMem,1.0.1,"See what PortMem found in a draft, in a panel next to the terminal where your AI assistant works."
+2026-11-06T23:27:36.597Z,SyrusAI.gemini4-wacaller,SyrusAI,Gemini4-Wacaller,0.4.0,Extensão oficial Gemini4-Wacaller para Google Antigravity e VS Code com Gemini Web e Terminal PTY seguro
+2026-11-06T23:55:26.903Z,armotusitio.orquestivo,armotusitio,Orquestivo,0.1.0,"Design, inspect, and verify CI/CD workflows with evidence-backed diagnostics."
+2026-11-07T00:09:13.117Z,devx-gmu.designfix,devx-gmu,DesignFix,0.0.3,LLM-assisted detection and repair of design-rule violations in Java projects.
