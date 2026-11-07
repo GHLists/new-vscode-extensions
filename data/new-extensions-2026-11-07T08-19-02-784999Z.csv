@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T07:29:13.157Z,xiaomingio.neat-md,xiaomingio,Neat MD - Markdown Editor,0.1.0,"Edit Markdown with live preview, WYSIWYG editing, Mermaid diagrams, and KaTeX math."
+2026-11-07T07:33:19.91Z,AnandShah.odoolens,AnandShah,OdooLens,0.1.1,"Odoo-aware developer intelligence for VS Code: semantic model index, ORM performance doctor, XML view validation, security analysis, dependency graphs, migration assistant and more."
+2026-11-07T07:42:29.28Z,xxxL0C.omp-config,xxxL0C,[Oh My Posh] Config Utility,0.1.1,Oh My Posh の設定ファイル（JSON / YAML / TOML）を検証・補完し、テンプレートとパレット参照を扱いやすくします。
+2026-11-07T07:47:27.76Z,DivyanshuSingh.portside,DivyanshuSingh,Portside: Dev Servers & Ports,0.1.1,"See every dev server running on localhost, which project started it, and stop it in one click. Fixes ""port 3000 is already in use"" for good."
+2026-11-07T07:54:04.583Z,photofresco.photofresco,photofresco,PhotoFresco,0.1.0,Edit images in an approved PhotoFresco browser window and provide its MCP server to coding agents.
+2026-11-07T07:56:38.757Z,leximo.wxwidgets-tools,leximo,wxWidgets Tools,0.3.2,wxWidgets Support
