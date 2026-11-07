@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T01:25:32.983Z,SyrusAI.antigravity-gemini4-v2,SyrusAI,Antigravity Gemini4 v2,2.0.0,Extensão oficial Gemini4 v2 exclusiva para Google Antigravity com integração ao Gemini Web e Terminal PTY seguro
+2026-11-07T01:26:54.637Z,VenProduct.venro-board,VenProduct,Venro Board,0.0.1,Venro Board extension.
+2026-11-07T01:33:54.157Z,glcodex-ia.glcodex-ia-vscode,glcodex-ia,GLCodex IA,0.1.0,"Integracao do GLCodex IA ao Visual Studio Code, com compartilhamento de contexto do workspace, editor e diagnosticos. Especializacao em Flutter e Dart, com suporte complementar a outras tecnologias."
+2026-11-07T01:52:27.16Z,JuanPabloFuentesVivanco.opencode-chat-vscode,JuanPabloFuentesVivanco,OpenCode Chat for VS Code,1.0.1,Interfaz de chat para OpenCode CLI en VS Code con visualización del proceso de razonamiento
+2026-11-07T01:58:21.057Z,Kooraseru.workbench-bridge,Kooraseru,Workbench Bridge,0.2.0,"Expose VS Code APIs to external workspace programs through a stable, language-neutral bridge."
+2026-11-07T02:13:52.617Z,liuhualiang.web-boot-runner,liuhualiang,Web Boot Runner,0.1.6,"Run, stop and debug Spring Boot apps in multi-module Maven workspaces: reactor-aware, profile/port memory, port conflict detection, runtime monitoring and JaCoCo coverage"

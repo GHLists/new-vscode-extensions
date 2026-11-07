@@ -12,20 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 01:20 UTC
+## Latest list — 2026-11-07 02:20 UTC
 
-New extensions published between 2026-11-06 23:20 UTC and 2026-11-07 01:20 UTC.
+New extensions published between 2026-11-07 00:20 UTC and 2026-11-07 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T01-20-15-723364Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T02-20-13-285362Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 00:30:17 | [OliverLSanz.droider](https://marketplace.visualstudio.com/items?itemName=OliverLSanz.droider) | Droider — DROID Patch Language | 1.0.1 | Write DROID Eurorack patches in VS Code: live error checking, autocompletion, h… |
-| 2026-11-07 00:46:54 | [jackseigerman.bagel](https://marketplace.visualstudio.com/items?itemName=jackseigerman.bagel) | Bagel | 0.0.2 | Bagel the pixel-art goldendoodle walks, sits, wags, lies down and naps in your… |
-| 2026-11-07 00:49:09 | [migranosql-upt.migranosql](https://marketplace.visualstudio.com/items?itemName=migranosql-upt.migranosql) | MigraNoSQL — Migrador SQL a MongoDB | 1.1.0 | Analiza bases de datos SQL (scripts .sql o servidores PostgreSQL, MySQL, SQL Se… |
-| 2026-11-07 00:54:52 | [intel-corporation.rohd-tools](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-tools) | ROHD Tools | 0.2.0 | ROHD Tools extension for VS Code — snippets, cross-probe source navigation, and… |
-| 2026-11-07 01:03:15 | [Ashius-dev.sbugger](https://marketplace.visualstudio.com/items?itemName=Ashius-dev.sbugger) | Sbugger | 0.7.0 | Plays a sound when your code runs, when it errors, and when you git push. Use t… |
-| 2026-11-07 01:05:28 | [SyrusAI.gemini4v1-wacaller](https://marketplace.visualstudio.com/items?itemName=SyrusAI.gemini4v1-wacaller) | Gemini4v1-Wacaller | 0.4.1 | Extensão oficial Gemini4v1-Wacaller para Google Antigravity e VS Code com Gemin… |
+| 2026-11-07 01:25:32 | [SyrusAI.antigravity-gemini4-v2](https://marketplace.visualstudio.com/items?itemName=SyrusAI.antigravity-gemini4-v2) | Antigravity Gemini4 v2 | 2.0.0 | Extensão oficial Gemini4 v2 exclusiva para Google Antigravity com integração ao… |
+| 2026-11-07 01:26:54 | [VenProduct.venro-board](https://marketplace.visualstudio.com/items?itemName=VenProduct.venro-board) | Venro Board | 0.0.1 | Venro Board extension. |
+| 2026-11-07 01:33:54 | [glcodex-ia.glcodex-ia-vscode](https://marketplace.visualstudio.com/items?itemName=glcodex-ia.glcodex-ia-vscode) | GLCodex IA | 0.1.0 | Integracao do GLCodex IA ao Visual Studio Code, com compartilhamento de context… |
+| 2026-11-07 01:52:27 | [JuanPabloFuentesVivanco.opencode-chat-vscode](https://marketplace.visualstudio.com/items?itemName=JuanPabloFuentesVivanco.opencode-chat-vscode) | OpenCode Chat for VS Code | 1.0.1 | Interfaz de chat para OpenCode CLI en VS Code con visualización del proceso de… |
+| 2026-11-07 01:58:21 | [Kooraseru.workbench-bridge](https://marketplace.visualstudio.com/items?itemName=Kooraseru.workbench-bridge) | Workbench Bridge | 0.2.0 | Expose VS Code APIs to external workspace programs through a stable, language-n… |
+| 2026-11-07 02:13:52 | [liuhualiang.web-boot-runner](https://marketplace.visualstudio.com/items?itemName=liuhualiang.web-boot-runner) | Web Boot Runner | 0.1.6 | Run, stop and debug Spring Boot apps in multi-module Maven workspaces: reactor-… |
 
 ## Data source
 
