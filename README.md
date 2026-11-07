@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 02:20 UTC
+## Latest list — 2026-11-07 03:19 UTC
 
-New extensions published between 2026-11-07 00:20 UTC and 2026-11-07 02:20 UTC.
+New extensions published between 2026-11-07 01:19 UTC and 2026-11-07 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T02-20-13-285362Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T03-19-42-437412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 01:25:32 | [SyrusAI.antigravity-gemini4-v2](https://marketplace.visualstudio.com/items?itemName=SyrusAI.antigravity-gemini4-v2) | Antigravity Gemini4 v2 | 2.0.0 | Extensão oficial Gemini4 v2 exclusiva para Google Antigravity com integração ao… |
-| 2026-11-07 01:26:54 | [VenProduct.venro-board](https://marketplace.visualstudio.com/items?itemName=VenProduct.venro-board) | Venro Board | 0.0.1 | Venro Board extension. |
-| 2026-11-07 01:33:54 | [glcodex-ia.glcodex-ia-vscode](https://marketplace.visualstudio.com/items?itemName=glcodex-ia.glcodex-ia-vscode) | GLCodex IA | 0.1.0 | Integracao do GLCodex IA ao Visual Studio Code, com compartilhamento de context… |
-| 2026-11-07 01:52:27 | [JuanPabloFuentesVivanco.opencode-chat-vscode](https://marketplace.visualstudio.com/items?itemName=JuanPabloFuentesVivanco.opencode-chat-vscode) | OpenCode Chat for VS Code | 1.0.1 | Interfaz de chat para OpenCode CLI en VS Code con visualización del proceso de… |
-| 2026-11-07 01:58:21 | [Kooraseru.workbench-bridge](https://marketplace.visualstudio.com/items?itemName=Kooraseru.workbench-bridge) | Workbench Bridge | 0.2.0 | Expose VS Code APIs to external workspace programs through a stable, language-n… |
-| 2026-11-07 02:13:52 | [liuhualiang.web-boot-runner](https://marketplace.visualstudio.com/items?itemName=liuhualiang.web-boot-runner) | Web Boot Runner | 0.1.6 | Run, stop and debug Spring Boot apps in multi-module Maven workspaces: reactor-… |
+| 2026-11-07 02:21:51 | [SyrusAI.wacellerv4-gemini4-0-2](https://marketplace.visualstudio.com/items?itemName=SyrusAI.wacellerv4-gemini4-0-2) | WaCellerv4-Gemini4.0.2 | 4.0.2 | Assistente de IA independente para Google Antigravity com integração Gemini Web… |
+| 2026-11-07 02:33:00 | [corentin-gautier.source-control-graph-plus](https://marketplace.visualstudio.com/items?itemName=corentin-gautier.source-control-graph-plus) | Source Control Graph Plus | 0.8.1 | Adds the Git actions missing from VS Code's built-in Source Control Graph: edit… |
+| 2026-11-07 03:05:33 | [helmfile.vscode-helmfile](https://marketplace.visualstudio.com/items?itemName=helmfile.vscode-helmfile) | Helmfile | 0.3.6 | Helmfile state file editing: completion, navigation, repository awareness, envi… |
 
 ## Data source
 
