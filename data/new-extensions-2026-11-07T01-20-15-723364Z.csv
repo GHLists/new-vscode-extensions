@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T00:30:17Z,OliverLSanz.droider,OliverLSanz,Droider — DROID Patch Language,1.0.1,"Write DROID Eurorack patches in VS Code: live error checking, autocompletion, hover docs, rainbow cables, hardware and circuit-graph views, megacircuits and one-click SD-card upload."
+2026-11-07T00:46:54.107Z,jackseigerman.bagel,jackseigerman,Bagel,0.0.2,"Bagel the pixel-art goldendoodle walks, sits, wags, lies down and naps in your sidebar."
+2026-11-07T00:49:09.39Z,migranosql-upt.migranosql,migranosql-upt,MigraNoSQL — Migrador SQL a MongoDB,1.1.0,"Analiza bases de datos SQL (scripts .sql o servidores PostgreSQL, MySQL, SQL Server, Oracle y SQLite), propone el modelo documental y migra a MongoDB con verificación de integridad. Incluye el agente @migranosql, herramientas para el modo agente y la skill migranosql para Copilot."
+2026-11-07T00:54:52.883Z,intel-corporation.rohd-tools,intel-corporation,ROHD Tools,0.2.0,"ROHD Tools extension for VS Code — snippets, cross-probe source navigation, and language support for the ROHD hardware design framework."
+2026-11-07T01:03:15.547Z,Ashius-dev.sbugger,Ashius-dev,Sbugger,0.7.0,"Plays a sound when your code runs, when it errors, and when you git push. Use the built-in sounds or upload your own (audio or video); with several checked, one is picked at random."
+2026-11-07T01:05:28.54Z,SyrusAI.gemini4v1-wacaller,SyrusAI,Gemini4v1-Wacaller,0.4.1,Extensão oficial Gemini4v1-Wacaller para Google Antigravity e VS Code com Gemini Web e Terminal PTY seguro

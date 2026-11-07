@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 00:20 UTC
+## Latest list — 2026-11-07 01:20 UTC
 
-New extensions published between 2026-11-06 22:20 UTC and 2026-11-07 00:20 UTC.
+New extensions published between 2026-11-06 23:20 UTC and 2026-11-07 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T00-20-14-550623Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T01-20-15-723364Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-06 23:20:48 | [portmem.portmem](https://marketplace.visualstudio.com/items?itemName=portmem.portmem) | PortMem | 1.0.1 | See what PortMem found in a draft, in a panel next to the terminal where your A… |
-| 2026-11-06 23:27:36 | [SyrusAI.gemini4-wacaller](https://marketplace.visualstudio.com/items?itemName=SyrusAI.gemini4-wacaller) | Gemini4-Wacaller | 0.4.0 | Extensão oficial Gemini4-Wacaller para Google Antigravity e VS Code com Gemini… |
-| 2026-11-06 23:55:26 | [armotusitio.orquestivo](https://marketplace.visualstudio.com/items?itemName=armotusitio.orquestivo) | Orquestivo | 0.1.0 | Design, inspect, and verify CI/CD workflows with evidence-backed diagnostics. |
-| 2026-11-07 00:09:13 | [devx-gmu.designfix](https://marketplace.visualstudio.com/items?itemName=devx-gmu.designfix) | DesignFix | 0.0.3 | LLM-assisted detection and repair of design-rule violations in Java projects. |
+| 2026-11-07 00:30:17 | [OliverLSanz.droider](https://marketplace.visualstudio.com/items?itemName=OliverLSanz.droider) | Droider — DROID Patch Language | 1.0.1 | Write DROID Eurorack patches in VS Code: live error checking, autocompletion, h… |
+| 2026-11-07 00:46:54 | [jackseigerman.bagel](https://marketplace.visualstudio.com/items?itemName=jackseigerman.bagel) | Bagel | 0.0.2 | Bagel the pixel-art goldendoodle walks, sits, wags, lies down and naps in your… |
+| 2026-11-07 00:49:09 | [migranosql-upt.migranosql](https://marketplace.visualstudio.com/items?itemName=migranosql-upt.migranosql) | MigraNoSQL — Migrador SQL a MongoDB | 1.1.0 | Analiza bases de datos SQL (scripts .sql o servidores PostgreSQL, MySQL, SQL Se… |
+| 2026-11-07 00:54:52 | [intel-corporation.rohd-tools](https://marketplace.visualstudio.com/items?itemName=intel-corporation.rohd-tools) | ROHD Tools | 0.2.0 | ROHD Tools extension for VS Code — snippets, cross-probe source navigation, and… |
+| 2026-11-07 01:03:15 | [Ashius-dev.sbugger](https://marketplace.visualstudio.com/items?itemName=Ashius-dev.sbugger) | Sbugger | 0.7.0 | Plays a sound when your code runs, when it errors, and when you git push. Use t… |
+| 2026-11-07 01:05:28 | [SyrusAI.gemini4v1-wacaller](https://marketplace.visualstudio.com/items?itemName=SyrusAI.gemini4v1-wacaller) | Gemini4v1-Wacaller | 0.4.1 | Extensão oficial Gemini4v1-Wacaller para Google Antigravity e VS Code com Gemin… |
 
 ## Data source
 
