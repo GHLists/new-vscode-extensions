@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T13:25:01.933Z,thegeeklab.home-assistant,thegeeklab,home-assistant,0.1.1,Completion for entity-id's in Home Assistant Configurations
+2026-11-07T13:45:16.13Z,ricochet.ricochet-rs,ricochet,Ricochet.rs,0.1.0,Deploy and manage Ricochet content from VS Code and Positron.
+2026-11-07T13:46:37.347Z,swh-vscode.swh-vscode,swh-vscode,Software Heritage,0.1.0,"Software Heritage client: archive your code, cite it with a SWHID, and see which of your files are already archived."
+2026-11-07T13:56:20.873Z,c0mbit.ruxel-studio,c0mbit,Ruxel Studio,0.1.1,Universal Visual UI Builder & Scene Builder for Rust and Go desktop applications
+2026-11-07T13:58:21.543Z,codo-ai.codo-voice-tutor,codo-ai,Codo Voice: Interactive Python Tutor,0.0.2,"Learn Python inside VS Code with a live voice AI tutor, audio-synced Ghost Cursor, and 120 interactive modules in English and Amharic."

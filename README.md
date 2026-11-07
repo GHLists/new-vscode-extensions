@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 13:21 UTC
+## Latest list — 2026-11-07 14:20 UTC
 
-New extensions published between 2026-11-07 11:21 UTC and 2026-11-07 13:21 UTC.
+New extensions published between 2026-11-07 12:20 UTC and 2026-11-07 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T13-21-07-808599Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T14-20-28-146631Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 12:15:33 | [RootShellForge.xscp](https://marketplace.visualstudio.com/items?itemName=RootShellForge.xscp) | FileTandem – SFTP & SCP File Manager | 1.0.2 | Dual-pane SFTP and SCP file manager for VS Code Desktop, with a transfer queue… |
-| 2026-11-07 12:40:43 | [GeorgeGunter.12dpl-debugger](https://marketplace.visualstudio.com/items?itemName=GeorgeGunter.12dpl-debugger) | 12dPL Debugger | 0.5.0 | Step-through debugging for 12d Model macros (12dPL) via source instrumentation… |
-| 2026-11-07 12:43:03 | [dynotable.vscode-dynotable](https://marketplace.visualstudio.com/items?itemName=dynotable.vscode-dynotable) | DynoTable | 0.1.0 | SQL, PartiQL and OpenSearch queries for DynamoDB and OpenSearch, served by the… |
-| 2026-11-07 12:48:24 | [JeremieGaud.clippy-lint-docs](https://marketplace.visualstudio.com/items?itemName=JeremieGaud.clippy-lint-docs) | Clippy Lint Docs | 0.0.1 | Display the documentation of a clippy lint in a panel tab. |
-| 2026-11-07 12:53:16 | [openrig.openrig](https://marketplace.visualstudio.com/items?itemName=openrig.openrig) | OpenRig | 0.1.0 | Early preview: work with your local OpenRig team from VS Code or Cursor. Join a… |
-| 2026-11-07 13:11:20 | [VerPublish.julia-board](https://marketplace.visualstudio.com/items?itemName=VerPublish.julia-board) | Julia Board | 0.0.1 | Blank Julia Board extension. Minimal scaffold ready for your own code. |
-| 2026-11-07 13:12:01 | [marg.marg-vscode](https://marketplace.visualstudio.com/items?itemName=marg.marg-vscode) | MARG Coding Streak | 0.1.0 | Code by hand every day, keep your streak, and unlock MARG characters. |
-| 2026-11-07 13:15:02 | [FSDK.fsdk-robot-werther](https://marketplace.visualstudio.com/items?itemName=FSDK.fsdk-robot-werther) | - Робот Вертер - | 0.3.17 | Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и… |
+| 2026-11-07 13:25:01 | [thegeeklab.home-assistant](https://marketplace.visualstudio.com/items?itemName=thegeeklab.home-assistant) | home-assistant | 0.1.1 | Completion for entity-id's in Home Assistant Configurations |
+| 2026-11-07 13:45:16 | [ricochet.ricochet-rs](https://marketplace.visualstudio.com/items?itemName=ricochet.ricochet-rs) | Ricochet.rs | 0.1.0 | Deploy and manage Ricochet content from VS Code and Positron. |
+| 2026-11-07 13:46:37 | [swh-vscode.swh-vscode](https://marketplace.visualstudio.com/items?itemName=swh-vscode.swh-vscode) | Software Heritage | 0.1.0 | Software Heritage client: archive your code, cite it with a SWHID, and see whic… |
+| 2026-11-07 13:56:20 | [c0mbit.ruxel-studio](https://marketplace.visualstudio.com/items?itemName=c0mbit.ruxel-studio) | Ruxel Studio | 0.1.1 | Universal Visual UI Builder & Scene Builder for Rust and Go desktop applications |
+| 2026-11-07 13:58:21 | [codo-ai.codo-voice-tutor](https://marketplace.visualstudio.com/items?itemName=codo-ai.codo-voice-tutor) | Codo Voice: Interactive Python Tutor | 0.0.2 | Learn Python inside VS Code with a live voice AI tutor, audio-synced Ghost Curs… |
 
 ## Data source
 
