@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 19:20 UTC
+## Latest list — 2026-11-07 20:20 UTC
 
-New extensions published between 2026-11-07 17:20 UTC and 2026-11-07 19:20 UTC.
+New extensions published between 2026-11-07 18:20 UTC and 2026-11-07 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T19-20-27-572829Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T20-20-41-691457Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 18:23:15 | [SmithP.change-by-change-review](https://marketplace.visualstudio.com/items?itemName=SmithP.change-by-change-review) | Change-by-Change Review | 0.1.3 | Review and accept or reject individual file changes. Independent extension comp… |
-| 2026-11-07 18:26:48 | [SHAHEERAHMIII.aurum-otherside](https://marketplace.visualstudio.com/items?itemName=SHAHEERAHMIII.aurum-otherside) | Aurum Kerr Black Hole Visualizer | 0.0.1 | Cinematic Kerr Black Hole extension for VS Code. |
-| 2026-11-07 18:29:22 | [wnbase.cph-web-judge](https://marketplace.visualstudio.com/items?itemName=wnbase.cph-web-judge) | CPH Web Judge | 0.2.1 | The CPH test-case interface for VS Code for the Web. |
-| 2026-11-07 18:32:20 | [armotusitio.saturivo](https://marketplace.visualstudio.com/items?itemName=armotusitio.saturivo) | Saturivo | 0.1.0 | Evidence-based load, concurrency and performance diagnostics for local APIs and… |
-| 2026-11-07 18:42:13 | [tokensaver.tokensaver-vscode](https://marketplace.visualstudio.com/items?itemName=tokensaver.tokensaver-vscode) | TokenSaver for Claude Code | 0.3.4 | TokenSaver governance harness for Claude Code — secure agentic flows on SaaS (t… |
-| 2026-11-07 18:46:23 | [lenstools.rowlens](https://marketplace.visualstudio.com/items?itemName=lenstools.rowlens) | RowLens: SQLite Editor & Change Recorder | 0.1.0 | Open, edit and query SQLite files of any size, free. Pro records every row your… |
-| 2026-11-07 18:59:23 | [dimanrus.dev-tools-vscode](https://marketplace.visualstudio.com/items?itemName=dimanrus.dev-tools-vscode) | Dev Tools Toolbox | 1.0.0 | A developer toolbox in one place: converters, encoders, formatters, generators,… |
+| 2026-11-07 19:24:22 | [bitoesposito.par-o-css](https://marketplace.visualstudio.com/items?itemName=bitoesposito.par-o-css) | par-o-css: CSS in napoletano | 0.1.0 | CSS in napoletano e classi alla Tailwind: colori, completamento delle classi ed… |
+| 2026-11-07 19:28:18 | [gigi-didberidze.terrain](https://marketplace.visualstudio.com/items?itemName=gigi-didberidze.terrain) | Terrain — Code Map | 0.1.0 | A fast, deterministic map of your codebase: where you are, what holds it up, an… |
+| 2026-11-07 19:36:09 | [rsluna.free-llm-api-provider](https://marketplace.visualstudio.com/items?itemName=rsluna.free-llm-api-provider) | Free LLM API Provider | 0.3.5 | Connect VS Code Chat to any OpenAI-compatible LLM endpoint. Supports 350+ model… |
+| 2026-11-07 19:36:42 | [NehaDev.rest-api-explorer-tree](https://marketplace.visualstudio.com/items?itemName=NehaDev.rest-api-explorer-tree) | rest-api-explorer-tree | 0.0.1 | new |
+| 2026-11-07 19:55:03 | [escapepz.pzstudio42](https://marketplace.visualstudio.com/items?itemName=escapepz.pzstudio42) | PZ Studio 42 | 0.42210.0 | Effortlessly create and maintain Lua mods for Project Zomboid with intuitive st… |
+| 2026-11-07 20:02:22 | [harveyh.jaxtypinglint](https://marketplace.visualstudio.com/items?itemName=harveyh.jaxtypinglint) | jaxtypinglint | 0.2.1 | See jaxtyping tensor shapes in Python hovers and signatures, alongside Pylance.… |
+| 2026-11-07 20:03:34 | [nodexa.nodexa](https://marketplace.visualstudio.com/items?itemName=nodexa.nodexa) | Nodexa | 1.1.0 | Nodexa is a lightweight, Postman-like API client built directly into Visual Stu… |
+| 2026-11-07 20:06:16 | [dimanrus.dotnet-pro-pack-vscode](https://marketplace.visualstudio.com/items?itemName=dimanrus.dotnet-pro-pack-vscode) | Dotnet Pro Pack | 1.0.0 | Ultimate extension pack for .NET developers in Visual Studio Code: C#, MAUI, Av… |
 
 ## Data source
 

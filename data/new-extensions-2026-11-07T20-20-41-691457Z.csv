@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T19:24:22.497Z,bitoesposito.par-o-css,bitoesposito,par-o-css: CSS in napoletano,0.1.0,"CSS in napoletano e classi alla Tailwind: colori, completamento delle classi ed errori mentre scrivi"
+2026-11-07T19:28:18.637Z,gigi-didberidze.terrain,gigi-didberidze,Terrain — Code Map,0.1.0,"A fast, deterministic map of your codebase: where you are, what holds it up, and what really belongs together."
+2026-11-07T19:36:09.567Z,rsluna.free-llm-api-provider,rsluna,Free LLM API Provider,0.3.5,"Connect VS Code Chat to any OpenAI-compatible LLM endpoint. Supports 350+ models via FreeLLM API, automatic model discovery, secure key storage, and native Chat model picker integration."
+2026-11-07T19:36:42.507Z,NehaDev.rest-api-explorer-tree,NehaDev,rest-api-explorer-tree,0.0.1,new
+2026-11-07T19:55:03.677Z,escapepz.pzstudio42,escapepz,PZ Studio 42,0.42210.0,Effortlessly create and maintain Lua mods for Project Zomboid with intuitive structuring.
+2026-11-07T20:02:22.543Z,harveyh.jaxtypinglint,harveyh,jaxtypinglint,0.2.1,"See jaxtyping tensor shapes in Python hovers and signatures, alongside Pylance. No JAX required."
+2026-11-07T20:03:34.53Z,nodexa.nodexa,nodexa,Nodexa,1.1.0,"Nodexa is a lightweight, Postman-like API client built directly into Visual Studio Code. It allows developers to create, organize, execute, and test HTTP API requests without leaving their development environment."
+2026-11-07T20:06:16.95Z,dimanrus.dotnet-pro-pack-vscode,dimanrus,Dotnet Pro Pack,1.0.0,"Ultimate extension pack for .NET developers in Visual Studio Code: C#, MAUI, Avalonia, Uno Platform, Aspire, containers, databases, diagrams and productivity tools."
