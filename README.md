@@ -12,17 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 03:19 UTC
+## Latest list — 2026-11-07 04:20 UTC
 
-New extensions published between 2026-11-07 01:19 UTC and 2026-11-07 03:19 UTC.
+New extensions published between 2026-11-07 02:20 UTC and 2026-11-07 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T03-19-42-437412Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T04-20-48-404427Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 02:21:51 | [SyrusAI.wacellerv4-gemini4-0-2](https://marketplace.visualstudio.com/items?itemName=SyrusAI.wacellerv4-gemini4-0-2) | WaCellerv4-Gemini4.0.2 | 4.0.2 | Assistente de IA independente para Google Antigravity com integração Gemini Web… |
-| 2026-11-07 02:33:00 | [corentin-gautier.source-control-graph-plus](https://marketplace.visualstudio.com/items?itemName=corentin-gautier.source-control-graph-plus) | Source Control Graph Plus | 0.8.1 | Adds the Git actions missing from VS Code's built-in Source Control Graph: edit… |
-| 2026-11-07 03:05:33 | [helmfile.vscode-helmfile](https://marketplace.visualstudio.com/items?itemName=helmfile.vscode-helmfile) | Helmfile | 0.3.6 | Helmfile state file editing: completion, navigation, repository awareness, envi… |
+| 2026-11-07 03:29:14 | [Mezsa.absolutesolvermz](https://marketplace.visualstudio.com/items?itemName=Mezsa.absolutesolvermz) | AbsoluteSolverMz | 1.0.0 | Tema creado por Mezsa para Visual Studio Code, con paleta púrpura, snippets y s… |
+| 2026-11-07 03:29:28 | [jerryemc.ayu-dark-emc](https://marketplace.visualstudio.com/items?itemName=jerryemc.ayu-dark-emc) | Ayu Dark EMC | 0.1.0 | A warm, low-glare Ayu dark theme with an OKLCH-balanced palette, ported from th… |
+| 2026-11-07 03:53:58 | [zovo.zovo-pickle-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-pickle-viewer) | PKL Viewer & Pickle Viewer | 0.1.1 | PKL viewer and pickle viewer for Python .pkl, .pickle and .p files that opens t… |
+| 2026-11-07 03:59:51 | [maotou316.project-manager-maotou](https://marketplace.visualstudio.com/items?itemName=maotou316.project-manager-maotou) | Project Manager (Maotou) | 13.1.3 | Easily switch between projects. Fork of Project Manager by Alessandro Fragnani,… |
+| 2026-11-07 04:03:46 | [nyu-acsys.caravan](https://marketplace.visualstudio.com/items?itemName=nyu-acsys.caravan) | Caravan | 0.1.0 | Verification for multicore OCaml programs. |
+| 2026-11-07 04:05:30 | [zovo.arrow-avro-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.arrow-avro-viewer) | Avro Viewer, Arrow Viewer & Feather Vie… | 0.1.1 | Avro viewer, Arrow viewer and Feather viewer that opens .avro, .arrow, .feather… |
+| 2026-11-07 04:11:52 | [zovo.3d-model-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.3d-model-viewer) | 3D Model Viewer (GLB, glTF, STL, OBJ, P… | 0.1.1 | 3D model viewer for GLB, glTF, STL, OBJ, PLY and 3MF files in VS Code, with wir… |
+| 2026-11-07 04:13:40 | [zovo.zovo-graphviz-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-graphviz-preview) | Graphviz Preview & DOT Viewer | 0.1.1 | Graphviz preview for .dot and .gv files and dot blocks in Markdown, with live u… |
+| 2026-11-07 04:15:27 | [zovo.tiff-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.tiff-viewer) | TIFF Viewer (16-bit, Float, GeoTIFF) | 0.1.1 | Open TIFF and GeoTIFF files in VS Code. Multi-page stacks, 16-bit and float dat… |
+| 2026-11-07 04:17:25 | [zovo.dicom-nifti-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.dicom-nifti-viewer) | DICOM Viewer & NIfTI Viewer for CT and… | 0.1.0 | DICOM viewer and NIfTI viewer for CT and MRI scans in VS Code. Opens .dcm files… |
 
 ## Data source
 
