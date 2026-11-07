@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 10:20 UTC
+## Latest list — 2026-11-07 11:20 UTC
 
-New extensions published between 2026-11-07 08:20 UTC and 2026-11-07 10:20 UTC.
+New extensions published between 2026-11-07 09:20 UTC and 2026-11-07 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T10-20-42-562571Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T11-20-28-588952Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 09:26:37 | [AnyDVs.anyd](https://marketplace.visualstudio.com/items?itemName=AnyDVs.anyd) | AnyD | 0.1.2 | Агент для программирования в VS Code. Работает с любым OpenAI- или Anthropic-со… |
-| 2026-11-07 09:32:45 | [kd-labs.kd-code](https://marketplace.visualstudio.com/items?itemName=kd-labs.kd-code) | KD Code | 0.0.1 | Chat with coding agents over the Agent Client Protocol, install agents from the… |
-| 2026-11-07 09:36:44 | [reviactyl.reviactyl-vsc](https://marketplace.visualstudio.com/items?itemName=reviactyl.reviactyl-vsc) | Reviactyl | 26.11.0 | Browse, Edit, Manage your servers' files directly from VS Code. |
-| 2026-11-07 09:50:15 | [utkarshraj.zero-touch-api-tester](https://marketplace.visualstudio.com/items?itemName=utkarshraj.zero-touch-api-tester) | Zero-Touch API Tester | 1.0.0 | Auto-discover Express/Node.js APIs via AST & Zod, generate smart mock/AI payloa… |
-| 2026-11-07 10:09:26 | [ayobami-olukunle-ogundairo.yoruba-code-snippets](https://marketplace.visualstudio.com/items?itemName=ayobami-olukunle-ogundairo.yoruba-code-snippets) | Yorùbá Code Snippets | 0.1.0 | Yorùbá-vocabulary shortcuts for Python, HTML, and CSS. Type with or without ton… |
-| 2026-11-07 10:09:29 | [ayobami-olukunle-ogundairo.yoruba-code-spell-checker](https://marketplace.visualstudio.com/items?itemName=ayobami-olukunle-ogundairo.yoruba-code-spell-checker) | Yorùbá Code Spell Checker | 0.1.0 | Adds a Yorùbá dictionary to Code Spell Checker so wavy red underlines stop firi… |
-| 2026-11-07 10:09:31 | [ayobami-olukunle-ogundairo.vscode-language-pack-yo](https://marketplace.visualstudio.com/items?itemName=ayobami-olukunle-ogundairo.vscode-language-pack-yo) | Yorùbá Language Pack for VS Code | 0.1.0 | Community-maintained Yorùbá localization of the VS Code interface. Tier 1 in pr… |
+| 2026-11-07 10:19:26 | [MaxMak.antigravity-gbc-theme](https://marketplace.visualstudio.com/items?itemName=MaxMak.antigravity-gbc-theme) | Antigravity Game Boy Color Retro | 0.0.2 | Retro Game Boy Color inspired theme for Antigravity & VS Code with Atomic Purpl… |
+| 2026-11-07 10:22:10 | [ayobami-olukunle-ogundairo.yoruba-development-suite](https://marketplace.visualstudio.com/items?itemName=ayobami-olukunle-ogundairo.yoruba-development-suite) | Yorùbá Development Suite | 0.1.0 | One-click install of the full Yorùbá developer experience for VS Code: language… |
+| 2026-11-07 10:34:01 | [KnowledgeBits.adrp-proposals](https://marketplace.visualstudio.com/items?itemName=KnowledgeBits.adrp-proposals) | ADR Proposals | 0.4.0 | Browse ADR proposals in the workspace and open each document directly from the… |
+| 2026-11-07 10:46:25 | [denny.agent-skills-matrix](https://marketplace.visualstudio.com/items?itemName=denny.agent-skills-matrix) | Agent Skills Matrix | 0.5.10 | Multi-agent skill matrix dashboard and dispatcher powered by standard npx skills |
+| 2026-11-07 10:46:35 | [prudhvi.react-native-screen-preview](https://marketplace.visualstudio.com/items?itemName=prudhvi.react-native-screen-preview) | React Native Screen Preview | 1.0.0 | Preview React Native screens inside VS Code. Compiles JSX and TSX, renders Reac… |
+| 2026-11-07 10:55:48 | [MaxMak.sps-secretary-assistant-carpi](https://marketplace.visualstudio.com/items?itemName=MaxMak.sps-secretary-assistant-carpi) | SPS Secretary Assistant - Carpi | 1.0.1 | Solo Play System (SPS) Companion Engine - Retro Game Boy Color pixel companion… |
+| 2026-11-07 10:58:41 | [PepperCat.easygui-devcontainer](https://marketplace.visualstudio.com/items?itemName=PepperCat.easygui-devcontainer) | EasyGUI for DevContainer | 0.3.0 | Show Linux GUI applications running in a Dev Container in a VS Code editor tab,… |
+| 2026-11-07 11:00:23 | [WashingMachine94.serial-grapher](https://marketplace.visualstudio.com/items?itemName=WashingMachine94.serial-grapher) | serial-grapher | 0.0.1 | Visualize live serial and Bluetooth data from microcontrollers in VS Code with… |
+| 2026-11-07 11:09:00 | [damonsoul.leetcode-cn](https://marketplace.visualstudio.com/items?itemName=damonsoul.leetcode-cn) | 算法工作台 | 0.1.8 | 在 Positron / VS Code 中练习算法：题库、每日一题、收藏、运行与提交；登录一次，持久保持。 |
 
 ## Data source
 
