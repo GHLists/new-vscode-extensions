@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T16:29:40.433Z,zhangyahan.vscode-opencode-terminal,zhangyahan,OpenCode Terminal by ZhangYahan,0.0.9,"Run OpenCode's real TUI inside the VS Code Secondary Sidebar using xterm.js + node-pty, with a native file drop target and @mentions."
+2026-11-07T16:34:04.817Z,Ortyanetty.markdown-creator,Ortyanetty,Markdown Creator,1.0.2,"Create Markdown files from the New File menu, Explorer, or Command Palette, with optional templates."
+2026-11-07T16:46:17.4Z,NeemiiDevs.flutterastest,NeemiiDevs,FlutterASTest - AI Widget Test Generator,1.1.1,"Generate and run Flutter widget tests with AI. Understands your Dart code through AST analysis; uses a local model by default, so your code stays on your machine."
+2026-11-07T16:46:36.83Z,nicolasrz.php-refactor-kit,nicolasrz,PHP Refactor Kit,0.1.1,"PhpStorm-like PHP refactorings: update namespaces when moving files, implement interface methods."
+2026-11-07T16:49:35.83Z,JoltWare.machina-state,JoltWare,MachinaState,0.4.0,"Draw, edit and simulate UML state machine diagrams and generate switch- or table-based state machine code in C++, C# or C."
+2026-11-07T17:04:37.463Z,imagera.imagera-code,imagera,Imagera Code,1.0.0,Open the Imagera Code terminal agent beside your editor and hand it the file or lines you are looking at.
+2026-11-07T17:06:20.98Z,YuanhaoLiu.kiro-usage-simplified,YuanhaoLiu,Kiro Usage (Simplified),0.1.1,"Kiro credit usage in your status bar, with safe retries and clear CLI setup guidance."
+2026-11-07T17:06:59.227Z,softixer.softixer,softixer,Softixer Code,4.0.0,"Your AI-powered coding assistant, powered by Softixer."
+2026-11-07T17:14:24.72Z,zovo.zovo-epub-reader,zovo,"EPUB Viewer, EPUB Reader & Ebook Reader",0.1.0,"EPUB viewer and EPUB reader for ebooks in VS Code. Paged or scrolled reading, table of contents, search, footnote popups, light, sepia and dark themes, and it remembers your page. Book scripts never run."

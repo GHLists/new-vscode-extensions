@@ -12,18 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 16:18 UTC
+## Latest list — 2026-11-07 17:20 UTC
 
-New extensions published between 2026-11-07 14:18 UTC and 2026-11-07 16:18 UTC.
+New extensions published between 2026-11-07 15:20 UTC and 2026-11-07 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T16-18-56-326107Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T17-20-35-879865Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 15:19:29 | [JambaarTechSolutions.opengateai-vscode](https://marketplace.visualstudio.com/items?itemName=JambaarTechSolutions.opengateai-vscode) | OpenGateAI | 0.1.0 | Chat IA dans VSCode via l'API OpenGateAI (GPT, Claude, Gemini, Llama, DeepSeek,… |
-| 2026-11-07 15:20:33 | [tansuasici.overtex](https://marketplace.visualstudio.com/items?itemName=tansuasici.overtex) | Overtex | 0.1.0 | A complete LaTeX writing environment inside VS Code: build, live PDF preview an… |
-| 2026-11-07 15:55:42 | [mohithrenangi.sentrytrace](https://marketplace.visualstudio.com/items?itemName=mohithrenangi.sentrytrace) | SentryTrace Incident Forensics | 0.1.0 | Air-gapped on-device incident root-cause analysis |
-| 2026-11-07 16:03:10 | [ChunkyDragon.vscode-chupa](https://marketplace.visualstudio.com/items?itemName=ChunkyDragon.vscode-chupa) | chupa tickets | 0.0.23 | chupa's tickets as an SCM-style dependency graph: blocked, queued, running, mer… |
+| 2026-11-07 16:29:40 | [zhangyahan.vscode-opencode-terminal](https://marketplace.visualstudio.com/items?itemName=zhangyahan.vscode-opencode-terminal) | OpenCode Terminal by ZhangYahan | 0.0.9 | Run OpenCode's real TUI inside the VS Code Secondary Sidebar using xterm.js + n… |
+| 2026-11-07 16:34:04 | [Ortyanetty.markdown-creator](https://marketplace.visualstudio.com/items?itemName=Ortyanetty.markdown-creator) | Markdown Creator | 1.0.2 | Create Markdown files from the New File menu, Explorer, or Command Palette, wit… |
+| 2026-11-07 16:46:17 | [NeemiiDevs.flutterastest](https://marketplace.visualstudio.com/items?itemName=NeemiiDevs.flutterastest) | FlutterASTest - AI Widget Test Generator | 1.1.1 | Generate and run Flutter widget tests with AI. Understands your Dart code throu… |
+| 2026-11-07 16:46:36 | [nicolasrz.php-refactor-kit](https://marketplace.visualstudio.com/items?itemName=nicolasrz.php-refactor-kit) | PHP Refactor Kit | 0.1.1 | PhpStorm-like PHP refactorings: update namespaces when moving files, implement… |
+| 2026-11-07 16:49:35 | [JoltWare.machina-state](https://marketplace.visualstudio.com/items?itemName=JoltWare.machina-state) | MachinaState | 0.4.0 | Draw, edit and simulate UML state machine diagrams and generate switch- or tabl… |
+| 2026-11-07 17:04:37 | [imagera.imagera-code](https://marketplace.visualstudio.com/items?itemName=imagera.imagera-code) | Imagera Code | 1.0.0 | Open the Imagera Code terminal agent beside your editor and hand it the file or… |
+| 2026-11-07 17:06:20 | [YuanhaoLiu.kiro-usage-simplified](https://marketplace.visualstudio.com/items?itemName=YuanhaoLiu.kiro-usage-simplified) | Kiro Usage (Simplified) | 0.1.1 | Kiro credit usage in your status bar, with safe retries and clear CLI setup gui… |
+| 2026-11-07 17:06:59 | [softixer.softixer](https://marketplace.visualstudio.com/items?itemName=softixer.softixer) | Softixer Code | 4.0.0 | Your AI-powered coding assistant, powered by Softixer. |
+| 2026-11-07 17:14:24 | [zovo.zovo-epub-reader](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-epub-reader) | EPUB Viewer, EPUB Reader & Ebook Reader | 0.1.0 | EPUB viewer and EPUB reader for ebooks in VS Code. Paged or scrolled reading, t… |
 
 ## Data source
 
