@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T06:21:23.323Z,omnibrig.omnibrig,omnibrig,OMNIbrig,0.9.12,"OMNIbrig — вся бригада моделей в одном проекте: Claude Code ведёт работу, помощники DeepSeek, DeepSeek 2, GLM, MiMo и GPT (по подписке ChatGPT через официальный Codex) делают её в вашем проекте VS Code — с проверкой, откатом, очередью к видеокарте, защитой памяти и процессора, расходами и лимитами,"
+2026-11-07T06:26:24.8Z,ramcrack.ramcrack-request,ramcrack,Ramcrack Request,0.2.0,"Cliente REST simple e intuitivo dentro de VS Code. Colecciones, entornos, tests, importación de colecciones (Postman) y cURL, y snippets de código, sin cuentas ni nube."
+2026-11-07T06:33:11.163Z,oijusti.md-mermaid-viewer-ext,oijusti,MD Mermaid Viewer by Oijusti,0.1.0,"Preview Markdown and Mermaid files directly in VS Code with a lightweight, theme-aware viewer."
+2026-11-07T06:36:42.127Z,gaojunran.fff-search,gaojunran,FFF Search,0.3.1,"Floating fuzzy search over your workspace, backed by a resident fff index."
+2026-11-07T06:37:45.137Z,quantsmind.quantsmind-vscode-ai-coder,quantsmind,QuantsMind AI Coder,1.0.0,"Project-aware AI coding assistant for VS Code with nine provider profiles, explicit context control, streaming responses, and approval-first changes."
+2026-11-07T07:12:18.84Z,zaccomode.sketchframe,zaccomode,Sketchframe,0.4.0,"View and annotate .sketchframe design exports, and give agents tools to read them: the frame preview, its layer tree and design details"
+2026-11-07T07:13:50.943Z,joffroy.vscode-extension-autoopen-existing-workspace,joffroy,Auto Open Workspace by Joffroy,1.1.2,Automatically opens a workspace file (.code-workspace) if it exists in the current directory or workspace root upon opening VS Code.

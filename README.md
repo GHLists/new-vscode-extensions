@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 06:19 UTC
+## Latest list — 2026-11-07 07:21 UTC
 
-New extensions published between 2026-11-07 04:19 UTC and 2026-11-07 06:19 UTC.
+New extensions published between 2026-11-07 05:21 UTC and 2026-11-07 07:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T06-19-03-686034Z.csv)
+[Full CSV](data/new-extensions-2026-11-07T07-21-11-298459Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 05:37:19 | [dtcode-dev.dtcode-theme](https://marketplace.visualstudio.com/items?itemName=dtcode-dev.dtcode-theme) | DTCode Theme | 0.1.1 | VS Code theme based on the DTCode — Blog lập trình design system |
-| 2026-11-07 05:51:19 | [powerengine98.odin-pr-review](https://marketplace.visualstudio.com/items?itemName=powerengine98.odin-pr-review) | Odin PR Review | 0.2.0 | Review a pull request as a graph of the files it touches, with guided tours nar… |
-| 2026-11-07 05:55:10 | [ALc51.xiaomi-mimo-for-copilot-chat](https://marketplace.visualstudio.com/items?itemName=ALc51.xiaomi-mimo-for-copilot-chat) | MiMo Control Center for Copilot Chat | 0.1.45 | 将 Xiaomi MiMo（V2.6 Flash / Pro）接入 GitHub Copilot Chat：Ask / Edit / Agent，含控制中心、… |
-| 2026-11-07 05:55:33 | [grupo8-si783.mia-vscode](https://marketplace.visualstudio.com/items?itemName=grupo8-si783.mia-vscode) | MongoIndexAdvisor (MIA) | 1.0.0 | Analiza una base MongoDB con MIA y aplica los índices recomendados (regla ESR)… |
-| 2026-11-07 05:59:13 | [ensleep.gitlab-publish](https://marketplace.visualstudio.com/items?itemName=ensleep.gitlab-publish) | GitLab Publish | 1.3.0 | 按环境在侧边栏执行发布命令，并通过健康检查轮询确认发布结果 |
-| 2026-11-07 06:05:38 | [workpods.agent-ready](https://marketplace.visualstudio.com/items?itemName=workpods.agent-ready) | Agent Ready Website Audit | 0.1.0 | SEO and AI search audit for any website, in VS Code: technical SEO, schema mark… |
+| 2026-11-07 06:21:23 | [omnibrig.omnibrig](https://marketplace.visualstudio.com/items?itemName=omnibrig.omnibrig) | OMNIbrig | 0.9.12 | OMNIbrig — вся бригада моделей в одном проекте: Claude Code ведёт работу, помощ… |
+| 2026-11-07 06:26:24 | [ramcrack.ramcrack-request](https://marketplace.visualstudio.com/items?itemName=ramcrack.ramcrack-request) | Ramcrack Request | 0.2.0 | Cliente REST simple e intuitivo dentro de VS Code. Colecciones, entornos, tests… |
+| 2026-11-07 06:33:11 | [oijusti.md-mermaid-viewer-ext](https://marketplace.visualstudio.com/items?itemName=oijusti.md-mermaid-viewer-ext) | MD Mermaid Viewer by Oijusti | 0.1.0 | Preview Markdown and Mermaid files directly in VS Code with a lightweight, them… |
+| 2026-11-07 06:36:42 | [gaojunran.fff-search](https://marketplace.visualstudio.com/items?itemName=gaojunran.fff-search) | FFF Search | 0.3.1 | Floating fuzzy search over your workspace, backed by a resident fff index. |
+| 2026-11-07 06:37:45 | [quantsmind.quantsmind-vscode-ai-coder](https://marketplace.visualstudio.com/items?itemName=quantsmind.quantsmind-vscode-ai-coder) | QuantsMind AI Coder | 1.0.0 | Project-aware AI coding assistant for VS Code with nine provider profiles, expl… |
+| 2026-11-07 07:12:18 | [zaccomode.sketchframe](https://marketplace.visualstudio.com/items?itemName=zaccomode.sketchframe) | Sketchframe | 0.4.0 | View and annotate .sketchframe design exports, and give agents tools to read th… |
+| 2026-11-07 07:13:50 | [joffroy.vscode-extension-autoopen-existing-workspace](https://marketplace.visualstudio.com/items?itemName=joffroy.vscode-extension-autoopen-existing-workspace) | Auto Open Workspace by Joffroy | 1.1.2 | Automatically opens a workspace file (.code-workspace) if it exists in the curr… |
 
 ## Data source
 
