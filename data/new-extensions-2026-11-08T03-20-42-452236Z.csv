@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T02:46:18.02Z,EdgeInformation.gigglybits-theme-lab,EdgeInformation,GigglyBits Theme Lab,0.1.1,"Design your own dark VS Code theme, preview it live, and give each project a color of its own."
+2026-11-08T02:49:51.873Z,DynamoSoftware.opencode-fusion,DynamoSoftware,OpenCode Fusion,0.6.10,"Bring OpenCode models, free options, agents, and tools into VS Code Chat. Connect your providers and discover models in one picker."
+2026-11-08T02:56:13.14Z,rubtsov-stan.rift-diff,rubtsov-stan,Rift: Diff Huge Files,0.3.0,"Compare huge text files in VS Code's own diff editor, one difference at a time."
+2026-11-08T02:59:16.173Z,chistokhinsv.ansible-flow-designer,chistokhinsv,Ansible Flow Designer,0.74.0,"Design Ansible automation as a diagram: draw the steps, handle every failure, and get the playbook generated, run locally or in AWX."
+2026-11-08T03:06:43.173Z,armotusitio.noditrivo,armotusitio,Noditrivo,0.1.0,Evidence-based change impact intelligence for VS Code
