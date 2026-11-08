@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T10:35:00.883Z,JJLIM00.tabpalette,JJLIM00,TabPalette - Tab Groups,0.1.1,"Chrome-style tab groups on the VS Code tab bar: named, colored groups you can collapse, drag tabs into, and reorder."
+2026-11-08T10:46:02.26Z,EugenioCos.dep-chain,EugenioCos,Dep Chain,0.0.1,"Run ordered cross-repo setup chains: fetch, checkout, pull and shell commands in a single terminal."
+2026-11-08T10:51:00.013Z,Tally.tally-syntax,Tally,Tally - Learn to Code,0.1.1,Syntax highlighting and editor support for the Tally programming language.
+2026-11-08T11:01:56.253Z,qian-o.byok-studio,qian-o,BYOK Studio,1.0.2,Manage Copilot Custom Endpoint providers and model presets in a compact interface.
+2026-11-08T11:05:48.59Z,RajatMalik.file-coverage-insight,RajatMalik,File Coverage Insight,1.1.0,"See line, branch, function and statement coverage for the file you open - Jest, Vitest, Karma, c8 and LCOV reports with status bar, hover and gutter highlighting."

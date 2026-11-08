@@ -12,23 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 10:20 UTC
+## Latest list — 2026-11-08 11:19 UTC
 
-New extensions published between 2026-11-08 08:20 UTC and 2026-11-08 10:20 UTC.
+New extensions published between 2026-11-08 09:19 UTC and 2026-11-08 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T10-20-13-872716Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T11-19-01-192478Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 09:18:53 | [PirapaakaranPirathapan.regexlens-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.regexlens-pro) | RegexLens: Regex Explainer & Inline San… | 0.1.0 | Hover over regular expressions to see plain-English explanations, and test rege… |
-| 2026-11-08 09:31:52 | [PirapaakaranPirathapan.css-to-tailwind-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.css-to-tailwind-pro) | CSS to Tailwind Pro: Instant Utility Co… | 0.1.0 | Convert vanilla CSS, CSS modules, and Figma inspect styles into clean Tailwind… |
-| 2026-11-08 09:37:09 | [galimatron.gal-syntax](https://marketplace.visualstudio.com/items?itemName=galimatron.gal-syntax) | GaL | 0.1.7 | Syntax highlighting for GaL (.gal), and a command that runs Galimatron. |
-| 2026-11-08 09:41:54 | [area-tools.codex-tabs-personal](https://marketplace.visualstudio.com/items?itemName=area-tools.codex-tabs-personal) | Codex Tabs Personal | 0.3.2 | Independent Codex editor tabs, custom titles and optional version-pinned recove… |
-| 2026-11-08 09:43:44 | [Procoder588.devorch-code](https://marketplace.visualstudio.com/items?itemName=Procoder588.devorch-code) | DevOrch | 0.1.2 | Chat with the DevOrch AI coding assistant from VS Code: any model provider, run… |
-| 2026-11-08 09:46:43 | [goatedcode.goatedcode](https://marketplace.visualstudio.com/items?itemName=goatedcode.goatedcode) | goatedcode | 0.2.4 | The shared core of the goatedcode tools: your own AI agent writes the change, g… |
-| 2026-11-08 09:49:57 | [goatedcode.fastercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.fastercode) | fastercode | 0.2.4 | Make your Python faster, with every rewrite checked against the original. Your… |
-| 2026-11-08 09:50:09 | [goatedcode.simplercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.simplercode) | simplercode | 0.2.4 | Make your Python shorter and simpler, with every refactor checked against the o… |
-| 2026-11-08 10:09:08 | [kirasync2748.kiralume](https://marketplace.visualstudio.com/items?itemName=kirasync2748.kiralume) | KiraLume | 1.0.0 | Dawn, Daylight and Midnight: three complete colour palettes for your VS Code wo… |
+| 2026-11-08 10:35:00 | [JJLIM00.tabpalette](https://marketplace.visualstudio.com/items?itemName=JJLIM00.tabpalette) | TabPalette - Tab Groups | 0.1.1 | Chrome-style tab groups on the VS Code tab bar: named, colored groups you can c… |
+| 2026-11-08 10:46:02 | [EugenioCos.dep-chain](https://marketplace.visualstudio.com/items?itemName=EugenioCos.dep-chain) | Dep Chain | 0.0.1 | Run ordered cross-repo setup chains: fetch, checkout, pull and shell commands i… |
+| 2026-11-08 10:51:00 | [Tally.tally-syntax](https://marketplace.visualstudio.com/items?itemName=Tally.tally-syntax) | Tally - Learn to Code | 0.1.1 | Syntax highlighting and editor support for the Tally programming language. |
+| 2026-11-08 11:01:56 | [qian-o.byok-studio](https://marketplace.visualstudio.com/items?itemName=qian-o.byok-studio) | BYOK Studio | 1.0.2 | Manage Copilot Custom Endpoint providers and model presets in a compact interfa… |
+| 2026-11-08 11:05:48 | [RajatMalik.file-coverage-insight](https://marketplace.visualstudio.com/items?itemName=RajatMalik.file-coverage-insight) | File Coverage Insight | 1.1.0 | See line, branch, function and statement coverage for the file you open - Jest,… |
 
 ## Data source
 
