@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T19:16:21.773Z,local-ai-studio.local-ai-studio,local-ai-studio,Local AI Studio,0.61.0,"Claude-like coding agent for local models (Ollama, OpenAI-compatible) with image/video generation."
+2026-11-08T19:20:26.897Z,rajareddye.yaml-preview-enhanced,rajareddye,YAML Preview Enhanced,0.1.1,"Preview YAML as a live, searchable tree with anchors, tables, JSON Schema validation, themes and export — the Markdown Preview Enhanced experience for .yaml files."
+2026-11-08T19:34:42.007Z,zovo.zovo-rtf-viewer,zovo,"RTF Viewer & Rich Text Viewer (RTF Preview, Dark Mode)",0.1.0,"Free RTF viewer for VS Code. Open .rtf files as a read-only page with tables, pictures, search, outline, zoom and dark mode. No sign-in, works offline, sends nothing anywhere."
+2026-11-08T19:54:21.143Z,AndreaAcanfora.prompt-blame,AndreaAcanfora,Prompt Blame,0.1.0,"git blame for AI code: see the Claude Code prompt and conversation behind every line. Zero setup, works on code you already wrote."
+2026-11-08T20:11:16.353Z,Klaversof.scorpy,Klaversof,Scorpy,0.0.1,Name reservation placeholder. Not for use.
