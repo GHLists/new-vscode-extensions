@@ -12,17 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 01:18 UTC
+## Latest list — 2026-11-08 02:19 UTC
 
-New extensions published between 2026-11-07 23:18 UTC and 2026-11-08 01:18 UTC.
+New extensions published between 2026-11-08 00:19 UTC and 2026-11-08 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T01-18-51-668297Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T02-19-31-75297Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 00:26:08 | [413287184954.GitthecodeVS](https://marketplace.visualstudio.com/items?itemName=413287184954.GitthecodeVS) | GitthecodeVS | 1.0.0 | Intégration GitTheCode (repos, branches, commits, push/pull) dans VS Code. |
-| 2026-11-08 00:38:33 | [eeeggg.your-turn](https://marketplace.visualstudio.com/items?itemName=eeeggg.your-turn) | Your Turn | 0.4.0 | Work with coding agents and understand their changes, one turn at a time. |
-| 2026-11-08 01:14:31 | [NikolayChernuha.worktree-hopper](https://marketplace.visualstudio.com/items?itemName=NikolayChernuha.worktree-hopper) | Worktree Hopper | 1.0.0 | A Worktrees panel in Source Control: search by text or regex and switch git wor… |
+| 2026-11-08 01:18:26 | [LNFCreates.prism-board](https://marketplace.visualstudio.com/items?itemName=LNFCreates.prism-board) | Prism Board | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
+| 2026-11-08 02:01:34 | [devsolalcom.translation-preflight](https://marketplace.visualstudio.com/items?itemName=devsolalcom.translation-preflight) | Translation Preflight | 0.1.0 | Offline localization QA for one flat JSON or key,text CSV source/target pair. P… |
 
 ## Data source
 
