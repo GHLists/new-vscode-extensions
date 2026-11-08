@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T16:23:50.1Z,albertn.wick-language,albertn,Wick Language,0.1.0,"Syntax highlighting and language support for Wick, the small statically-typed scripting language of the Lantern game engine."
+2026-11-08T16:26:44.237Z,iineolineii.license-templates,iineolineii,License templates,0.0.1,Provides code snippets for LICENSE and LICENSE.md files containing all commonly used licenses.
+2026-11-08T16:30:41.107Z,sinowealth-semiconductor.sinoiot-windows-ide,sinowealth-semiconductor,SinoIOT Windows IDE,1.0.4,"Sets up the SinoIOT SDK for SinoWealth SH87F8919 and SH87F8916 boards on Windows: Git, the SDK, the build tools, VS Code extensions and AI agents, in one page."
+2026-11-08T16:59:27.28Z,armotusitio.vestigivo,armotusitio,Vestigivo RCA,0.1.0,Local-first Incident Intelligence & Root Cause Analysis with explicit evidence states.
+2026-11-08T17:00:01.127Z,GambuzinAI.gambuzin,GambuzinAI,Gambuzin,0.1.0,"Build, review, synchronize, and narrate software architecture from Mermaid and AIR models."
+2026-11-08T17:06:22.09Z,MichaelPrinc.research-stack-toolkit,MichaelPrinc,Research Stack Toolkit (Phase 4 Preview),0.3.10,"Set up package components, verify real MCP reading and research tools, and keep components updated."
+2026-11-08T17:13:31.153Z,VGFP.macdevcontainer,VGFP,macOS Container Dev Containers,0.0.9,"Use Apple's native container runtime as a Dev Containers backend in VS Code, with no Docker Desktop."

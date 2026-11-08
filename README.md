@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 16:20 UTC
+## Latest list — 2026-11-08 17:20 UTC
 
-New extensions published between 2026-11-08 14:20 UTC and 2026-11-08 16:20 UTC.
+New extensions published between 2026-11-08 15:20 UTC and 2026-11-08 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T16-20-35-219743Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T17-20-45-724452Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 15:20:46 | [peacekang.account-switcher-for-antigravity](https://marketplace.visualstudio.com/items?itemName=peacekang.account-switcher-for-antigravity) | Account Switcher for Antigravity | 0.0.1 | Switch between Google Antigravity (agy) accounts in one click and see the activ… |
-| 2026-11-08 15:29:26 | [wwwh7.codetrail-app](https://marketplace.visualstudio.com/items?itemName=wwwh7.codetrail-app) | CodeTrail — 架构导览与 AI 修改审查 | 0.5.1 | Rust 静态代码图：入口路径、Git 修改影响、BYOK 职责叙述与有界架构记忆。 |
-| 2026-11-08 15:36:25 | [AbdullahMasood-005.nodefit-vscode](https://marketplace.visualstudio.com/items?itemName=AbdullahMasood-005.nodefit-vscode) | nodefit | 0.1.2 | Finds the Node.js version every dependency supports, and flags native modules w… |
-| 2026-11-08 15:39:34 | [adam-wiacek-ch.togethersolo-diagram-viewer](https://marketplace.visualstudio.com/items?itemName=adam-wiacek-ch.togethersolo-diagram-viewer) | TogetherSolo Diagram Viewer | 0.1.13 | Visualize TogetherSolo diagram files (.dfState, .dfPackage, .dfSequence) inside… |
-| 2026-11-08 15:40:35 | [CGQAQ.clangdpp](https://marketplace.visualstudio.com/items?itemName=CGQAQ.clangdpp) | clangd++ | 0.2.0 | Class hierarchy, call, ownership and include graphs, exact class layouts, and g… |
-| 2026-11-08 15:51:12 | [gentle120.cmake-forge](https://marketplace.visualstudio.com/items?itemName=gentle120.cmake-forge) | CMake Forge | 1.0.0 | Generate ready-to-build CMake projects for ARM Cortex-M MCU firmware (chip data… |
-| 2026-11-08 16:02:02 | [arman-dev.vs-kizuna-extension](https://marketplace.visualstudio.com/items?itemName=arman-dev.vs-kizuna-extension) | VS Kizuna | 0.0.1 | Developer productivity and intelligent feedback toolkit for Visual Studio Code. |
-| 2026-11-08 16:12:03 | [Codster.codster](https://marketplace.visualstudio.com/items?itemName=Codster.codster) | Codster | 0.1.100 | AI-агент для VS Code и Cursor: чат, инструменты, правки файлов, терминал, diff… |
+| 2026-11-08 16:23:50 | [albertn.wick-language](https://marketplace.visualstudio.com/items?itemName=albertn.wick-language) | Wick Language | 0.1.0 | Syntax highlighting and language support for Wick, the small statically-typed s… |
+| 2026-11-08 16:26:44 | [iineolineii.license-templates](https://marketplace.visualstudio.com/items?itemName=iineolineii.license-templates) | License templates | 0.0.1 | Provides code snippets for LICENSE and LICENSE.md files containing all commonly… |
+| 2026-11-08 16:30:41 | [sinowealth-semiconductor.sinoiot-windows-ide](https://marketplace.visualstudio.com/items?itemName=sinowealth-semiconductor.sinoiot-windows-ide) | SinoIOT Windows IDE | 1.0.4 | Sets up the SinoIOT SDK for SinoWealth SH87F8919 and SH87F8916 boards on Window… |
+| 2026-11-08 16:59:27 | [armotusitio.vestigivo](https://marketplace.visualstudio.com/items?itemName=armotusitio.vestigivo) | Vestigivo RCA | 0.1.0 | Local-first Incident Intelligence & Root Cause Analysis with explicit evidence… |
+| 2026-11-08 17:00:01 | [GambuzinAI.gambuzin](https://marketplace.visualstudio.com/items?itemName=GambuzinAI.gambuzin) | Gambuzin | 0.1.0 | Build, review, synchronize, and narrate software architecture from Mermaid and… |
+| 2026-11-08 17:06:22 | [MichaelPrinc.research-stack-toolkit](https://marketplace.visualstudio.com/items?itemName=MichaelPrinc.research-stack-toolkit) | Research Stack Toolkit (Phase 4 Preview) | 0.3.10 | Set up package components, verify real MCP reading and research tools, and keep… |
+| 2026-11-08 17:13:31 | [VGFP.macdevcontainer](https://marketplace.visualstudio.com/items?itemName=VGFP.macdevcontainer) | macOS Container Dev Containers | 0.0.9 | Use Apple's native container runtime as a Dev Containers backend in VS Code, wi… |
 
 ## Data source
 
