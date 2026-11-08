@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T14:18:11.177Z,aymanbms.pybms-tools,aymanbms,PyBMS Tools,0.1.2,"VS Code companion for the PyBMS data science and machine learning framework: 100 API completions, explorer, recipes, environment checks and reviewable syntax repair."
+2026-11-08T14:19:53.503Z,SoftForge.softforge-process-explorer,SoftForge,Soft Forge Process Explorer,0.2.0,"htop for Visual Studio Code: one key opens a modal with the machine's meters and your processes; kill, renice, trace and inspect them with htop's keys. The pmon command line does the same in a terminal."
+2026-11-08T14:20:33.01Z,k00ky.ametrin-theme,k00ky,Ametrin,0.1.0,Warm dusk purple and gold on deep aubergine. A contrast-tested dark theme from the Ametrin palette.
+2026-11-08T14:28:47.197Z,HDL-Tools.hdl-autodoc,HDL-Tools,HDL-AutoDoc-Lite,3.18.3,"Live documentation preview for VHDL and SystemVerilog files, from the same extractors as the HDL AutoDoc site."
+2026-11-08T14:30:17.95Z,RootShellForge.filetandem,RootShellForge,FileTandem – SFTP/SCP File Manager,1.0.3,"Dual-pane SFTP and SCP file manager for VS Code Desktop, with a transfer queue and guarded remote editing."
+2026-11-08T14:31:14.753Z,unknownnumbers.backspace-helper-for-vscode,unknownnumbers,Backspace Helper for VS Code,0.2.1,"Make a customizable shortcut act as Backspace in Windows desktop VS Code inputs, editors, and terminals while respecting Vim bindings."
+2026-11-08T14:32:37.05Z,bukowa.vscodeagtokentab,bukowa,Antigravity Context Monitor,0.1.0,Real-time context token counter in the VS Code status bar for Antigravity sessions.
+2026-11-08T14:40:15.723Z,HDL-Tools.hdl-log-lens,HDL-Tools,HDL Log Lens,0.0.1,"Shows warnings and errors from Verilator, NVC, Yosys and nextpnr logs in the Problems panel."
+2026-11-08T14:58:56.03Z,rayendatechnologies.rayendaview,rayendatechnologies,"RayendaView - Preview PDF, Excel, Word, PSD & AI",0.1.0,"Preview PDF, XLSX, DOCX, PPTX, PSD, AI, EPUB, fonts, SQLite and ZIP files directly inside VS Code"
+2026-11-08T15:11:37.797Z,novair.mainframe-file-viewer,novair,Mainframe File Viewer: EBCDIC + COBOL Copybook (COMP-3),1.0.0,"Read EBCDIC files with their COBOL copybook in VS Code: COMP-3 decoded next to the hex, no mainframe connection, nothing uploaded."
