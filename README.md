@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 17:20 UTC
+## Latest list — 2026-11-08 18:19 UTC
 
-New extensions published between 2026-11-08 15:20 UTC and 2026-11-08 17:20 UTC.
+New extensions published between 2026-11-08 16:19 UTC and 2026-11-08 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T17-20-45-724452Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T18-19-04-444732Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 16:23:50 | [albertn.wick-language](https://marketplace.visualstudio.com/items?itemName=albertn.wick-language) | Wick Language | 0.1.0 | Syntax highlighting and language support for Wick, the small statically-typed s… |
-| 2026-11-08 16:26:44 | [iineolineii.license-templates](https://marketplace.visualstudio.com/items?itemName=iineolineii.license-templates) | License templates | 0.0.1 | Provides code snippets for LICENSE and LICENSE.md files containing all commonly… |
-| 2026-11-08 16:30:41 | [sinowealth-semiconductor.sinoiot-windows-ide](https://marketplace.visualstudio.com/items?itemName=sinowealth-semiconductor.sinoiot-windows-ide) | SinoIOT Windows IDE | 1.0.4 | Sets up the SinoIOT SDK for SinoWealth SH87F8919 and SH87F8916 boards on Window… |
-| 2026-11-08 16:59:27 | [armotusitio.vestigivo](https://marketplace.visualstudio.com/items?itemName=armotusitio.vestigivo) | Vestigivo RCA | 0.1.0 | Local-first Incident Intelligence & Root Cause Analysis with explicit evidence… |
-| 2026-11-08 17:00:01 | [GambuzinAI.gambuzin](https://marketplace.visualstudio.com/items?itemName=GambuzinAI.gambuzin) | Gambuzin | 0.1.0 | Build, review, synchronize, and narrate software architecture from Mermaid and… |
-| 2026-11-08 17:06:22 | [MichaelPrinc.research-stack-toolkit](https://marketplace.visualstudio.com/items?itemName=MichaelPrinc.research-stack-toolkit) | Research Stack Toolkit (Phase 4 Preview) | 0.3.10 | Set up package components, verify real MCP reading and research tools, and keep… |
-| 2026-11-08 17:13:31 | [VGFP.macdevcontainer](https://marketplace.visualstudio.com/items?itemName=VGFP.macdevcontainer) | macOS Container Dev Containers | 0.0.9 | Use Apple's native container runtime as a Dev Containers backend in VS Code, wi… |
+| 2026-11-08 17:14:12 | [seqcall.seqcall](https://marketplace.visualstudio.com/items?itemName=seqcall.seqcall) | Seqcall | 0.1.1 | Explore how your code behaves: click through call flows as sequence diagrams, e… |
+| 2026-11-08 17:24:19 | [AbuShahed.varcoach](https://marketplace.visualstudio.com/items?itemName=AbuShahed.varcoach) | Var Coach | 0.1.0 | Helps beginner developers write better variable names by detecting weak names a… |
+| 2026-11-08 17:25:06 | [aaron43210.shield-code](https://marketplace.visualstudio.com/items?itemName=aaron43210.shield-code) | Shield·Code | 0.5.7 | Scan a workspace for secrets, Indian PII, unsafe code, risky config and sensiti… |
+| 2026-11-08 17:26:34 | [Alamion.opencode-dsh-web](https://marketplace.visualstudio.com/items?itemName=Alamion.opencode-dsh-web) | OpenCode & DSH Web (Sidebar) | 0.1.0 | Open the OpenCode and DeepSeek Harness (DSH) web UIs in a VS Code sidebar, loca… |
+| 2026-11-08 17:27:13 | [chronosieve.glyphox](https://marketplace.visualstudio.com/items?itemName=chronosieve.glyphox) | Glyphox | 1.0.0 | Model an app in VS Code, have the Assistant build it, and export its source cod… |
+| 2026-11-08 17:32:51 | [azflowai.azflow-ai](https://marketplace.visualstudio.com/items?itemName=azflowai.azflow-ai) | Azflow AI | 0.1.1 | The Azflow AI app inside VS Code: your threads, agents, plugins and settings be… |
+| 2026-11-08 17:37:50 | [zovo.zovo-code-screenshot](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-code-screenshot) | Code Screenshot & Code Snapshot (Copy C… | 0.1.0 | Code screenshot and code snapshot in one key: select code, press Cmd+Alt+C (Shi… |
+| 2026-11-08 17:41:31 | [EohLczin.jlscript-formatter](https://marketplace.visualstudio.com/items?itemName=EohLczin.jlscript-formatter) | JLScript Formatter | 3.2.0 | Formatter multi-linguagem do ecossistema JLScript com preview, range, ignore, c… |
+| 2026-11-08 17:41:51 | [Andreasb95.bille-salesforce-devtools](https://marketplace.visualstudio.com/items?itemName=Andreasb95.bille-salesforce-devtools) | Bille's DevTools for Salesforce | 0.1.10 | A fast, joyful developer toolbar for Salesforce in VS Code — 1-click Anonymous… |
+| 2026-11-08 18:03:32 | [sublinear.bromine-sim](https://marketplace.visualstudio.com/items?itemName=sublinear.bromine-sim) | Bromine Sim | 0.0.1 | Run and debug PROS projects in a VEX V5 simulator |
+| 2026-11-08 18:03:46 | [IoannisKokkinis.8bot-vscode](https://marketplace.visualstudio.com/items?itemName=IoannisKokkinis.8bot-vscode) | 8bot: AI Coding Agent for the 8os Gatew… | 0.1.0 | Unofficial AI coding agent and chat for VS Code using your Pax8 8os Agent Gatew… |
 
 ## Data source
 
