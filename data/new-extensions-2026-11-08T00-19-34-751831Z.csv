@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-07T23:41:52.993Z,stbenjam.skillsaw,stbenjam,skillsaw,0.1.0,"Lint AI agent skills, instructions, hooks and tool configuration with the skillsaw CLI."
+2026-11-08T00:04:54.313Z,21HoKim.code-graph-vscode,21HoKim,CodeGraph — Code Circuit Visualizer,0.2.0,"See C, C++ and Python code as a live circuit: blocks for folders, files, classes and functions; wires where calls, threads and data flow like current. Compile errors turn red with their impact; Run & Trace replays threads and values."
+2026-11-08T00:13:27.16Z,cujarrett.between-stars,cujarrett,Between Stars,0.1.0,A purple-black space theme with a green accent.
+2026-11-08T00:15:02.06Z,its99studios.gdc-vscode,its99studios,GDC,1.0.0,Language support for Godot Dialogue Compositor (GDC).

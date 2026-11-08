@@ -12,16 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-07 23:19 UTC
+## Latest list — 2026-11-08 00:19 UTC
 
-New extensions published between 2026-11-07 21:19 UTC and 2026-11-07 23:19 UTC.
+New extensions published between 2026-11-07 22:19 UTC and 2026-11-08 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-07T23-19-34-401868Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T00-19-34-751831Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 22:31:44 | [ElzadaSaputo.julia-boards](https://marketplace.visualstudio.com/items?itemName=ElzadaSaputo.julia-boards) | Julia Boards | 1.0.9 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
-| 2026-11-07 22:58:51 | [formalmethods.intrepid-vscode](https://marketplace.visualstudio.com/items?itemName=formalmethods.intrepid-vscode) | Intrepid Circuit Editor | 1.0.0 | A Simulink-style editor for intrepyd circuits: draw the circuit with canonical… |
+| 2026-11-07 23:41:52 | [stbenjam.skillsaw](https://marketplace.visualstudio.com/items?itemName=stbenjam.skillsaw) | skillsaw | 0.1.0 | Lint AI agent skills, instructions, hooks and tool configuration with the skill… |
+| 2026-11-08 00:04:54 | [21HoKim.code-graph-vscode](https://marketplace.visualstudio.com/items?itemName=21HoKim.code-graph-vscode) | CodeGraph — Code Circuit Visualizer | 0.2.0 | See C, C++ and Python code as a live circuit: blocks for folders, files, classe… |
+| 2026-11-08 00:13:27 | [cujarrett.between-stars](https://marketplace.visualstudio.com/items?itemName=cujarrett.between-stars) | Between Stars | 0.1.0 | A purple-black space theme with a green accent. |
+| 2026-11-08 00:15:02 | [its99studios.gdc-vscode](https://marketplace.visualstudio.com/items?itemName=its99studios.gdc-vscode) | GDC | 1.0.0 | Language support for Godot Dialogue Compositor (GDC). |
 
 ## Data source
 
