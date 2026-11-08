@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T21:41:17.853Z,magoma.magomacolor,magoma,MAGOMA,0.1.0,"Disciplined, high-contrast Dark and Light themes built for focus, progress, and clean syntax readability."
+2026-11-08T21:48:54.057Z,lde-org.lye,lde-org,lye — LuaJIT language server,0.1.0,"Types, narrowing, diagnostics and completion for LuaJIT, from the lye language server."
+2026-11-08T21:49:13.177Z,llambda.llambda-agent,llambda,llambda-agent,0.1.23,Installable VS Code extension that talks to the NVIDIA model.
+2026-11-08T21:49:53.157Z,flash2974.inline-number-slider,flash2974,Inline number slider,1.0.1,Interactive mini-slider for vscode numbers
+2026-11-08T22:08:35.023Z,ola-coding.ortho,ola-coding,Ortho for SysML v2,0.3.0,SysML v2 highlighting and a live preview of the architectural views ortho draws from your model

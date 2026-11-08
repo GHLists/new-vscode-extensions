@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 21:20 UTC
+## Latest list — 2026-11-08 22:18 UTC
 
-New extensions published between 2026-11-08 19:20 UTC and 2026-11-08 21:20 UTC.
+New extensions published between 2026-11-08 20:18 UTC and 2026-11-08 22:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T21-20-16-231006Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T22-18-30-116949Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 20:31:06 | [HDL-Tools.hdl-tools](https://marketplace.visualstudio.com/items?itemName=HDL-Tools.hdl-tools) | HDL Tools | 0.0.2 | Extension pack: HDL-AutoDoc-Lite, HDL Log Lens and HDL Outliner for SV/Verilog/… |
-| 2026-11-08 20:36:14 | [hoox-sh.axis-pack](https://marketplace.visualstudio.com/items?itemName=hoox-sh.axis-pack) | AXIS Trading Pack | 0.3.0 | One-click install: PYNE Language Support + AXIS IDE. Part of the HOOX open trad… |
-| 2026-11-08 20:38:38 | [expongo.jsx-template-converter](https://marketplace.visualstudio.com/items?itemName=expongo.jsx-template-converter) | jsx-template-converter | 1.0.0 | Convert JSX string attributes into template literals with a keyboard shortcut. |
-| 2026-11-08 20:44:41 | [irwinarruda.barro-theme](https://marketplace.visualstudio.com/items?itemName=irwinarruda.barro-theme) | Barro | 0.1.0 | Clay on slate: Barro Slate for the dark and Barro Kaolin for the light, with th… |
-| 2026-11-08 21:01:43 | [mafflin.autumno](https://marketplace.visualstudio.com/items?itemName=mafflin.autumno) | Autumno | 0.1.1 | A warm, muted autumn dark theme for VS Code. |
-| 2026-11-08 21:03:33 | [FirozKhan.w3c-validator-plus](https://marketplace.visualstudio.com/items?itemName=FirozKhan.w3c-validator-plus) | Web Standards Validator for HTML & JSP | 0.1.0 | Validate HTML5, CSS, JavaScript and JSP locally. HTML and CSS checks are powere… |
-| 2026-11-08 21:16:34 | [ugcore-project.ugcore-vscode](https://marketplace.visualstudio.com/items?itemName=ugcore-project.ugcore-vscode) | UgCore IntelliSense | 1.0.0 | Types and snippets for the UgCore FiveM framework. Typed UgCore.* API, enums an… |
+| 2026-11-08 21:41:17 | [magoma.magomacolor](https://marketplace.visualstudio.com/items?itemName=magoma.magomacolor) | MAGOMA | 0.1.0 | Disciplined, high-contrast Dark and Light themes built for focus, progress, and… |
+| 2026-11-08 21:48:54 | [lde-org.lye](https://marketplace.visualstudio.com/items?itemName=lde-org.lye) | lye — LuaJIT language server | 0.1.0 | Types, narrowing, diagnostics and completion for LuaJIT, from the lye language… |
+| 2026-11-08 21:49:13 | [llambda.llambda-agent](https://marketplace.visualstudio.com/items?itemName=llambda.llambda-agent) | llambda-agent | 0.1.23 | Installable VS Code extension that talks to the NVIDIA model. |
+| 2026-11-08 21:49:53 | [flash2974.inline-number-slider](https://marketplace.visualstudio.com/items?itemName=flash2974.inline-number-slider) | Inline number slider | 1.0.1 | Interactive mini-slider for vscode numbers |
+| 2026-11-08 22:08:35 | [ola-coding.ortho](https://marketplace.visualstudio.com/items?itemName=ola-coding.ortho) | Ortho for SysML v2 | 0.3.0 | SysML v2 highlighting and a live preview of the architectural views ortho draws… |
 
 ## Data source
 
