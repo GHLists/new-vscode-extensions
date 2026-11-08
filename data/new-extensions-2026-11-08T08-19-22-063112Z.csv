@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T07:14:44.727Z,Sempai-07.mylang2-support-language,Sempai-07,MyLang2 Support Language,1.1.0,"Language support for MyLang2: language server with diagnostics, completion, hover, go to definition, rename, semantic highlighting and more."
+2026-11-08T07:26:57.93Z,letERfunctionRE.Live-HTML,letERfunctionRE,Live-HTML,0.3.0,"A fast and lightweight live server for VS Code with smart auto-reload, cache prevention, and minimal flickering."
+2026-11-08T07:30:29.113Z,zovo.xmind-mind-map-viewer,zovo,"XMind Viewer & Mind Map Viewer (XMind 8, 2020+)",0.1.0,"XMind viewer and mind map viewer for VS Code. Opens XMind 2020+, XMind Zen and XMind 8 files with every sheet as a tab, relationships, boundaries, summaries, markers, notes, pictures and LaTeX equations. Also opens FreeMind .mm and OPML. Search, collapse, PNG, SVG and Markdown export. Free, works of"
+2026-11-08T07:47:28.643Z,moonlivedt.moon-core,moonlivedt,Moon Core,0.2.0,"Переделай интерфейс VS Code под себя: конструктор (убрать, увеличить, перекрасить любой элемент), готовые профили и стили, живые CSS/JS-сниппеты, отмена правок, безопасный режим. Ноль зависимостей."
+2026-11-08T07:59:51.75Z,sinowealth-semiconductor.sinoiot-vscode,sinowealth-semiconductor,SinoIOT for VS Code,1.0.8,"Serial terminal, UART firmware download and AI agent access for the SinoWealth SH87F8919 (SinoIOT SDK)"
+2026-11-08T08:04:06.157Z,ClarityAscend.mvbu2,ClarityAscend,MultiValue Basic Utility for VS Code,0.5.3,"Bring Rocket UniVerse and UniData into VS Code: find records in plain language, explore dictionaries, and run TCL, API calls and compiles in a full-width console."
+2026-11-08T08:09:31.27Z,FSDK.robot-werther-ai,FSDK,Робот Вертер AI,0.1.0,"Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и OpenRouter."
+2026-11-08T08:11:15.143Z,tdkreasi.opilab,tdkreasi,Opilab,0.2.10,Internal development knowledge library for VS Code.
