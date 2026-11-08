@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T08:14:14.173Z,yxzly6819.keil-assistant-live,yxzly6819,Keil Assistant Live,1.0.0,"Keil uVision 5 project support in VS Code: project tree, build, flash and cpptools sync. An independent rewrite of Keil Assistant."
+2026-11-08T08:16:15.813Z,appswire.claude-project-hub,appswire,Project Hub for Claude Code,0.12.0,"Неофициальное расширение: проекты и чаты Claude Code в одной панели — открыть проект с последним чатом, в этом или новом окне, на любой глубине папок."
+2026-11-08T08:21:38.803Z,jazza.codesnap-diff,jazza,CodeSnap Diff,1.4.0,"Take beautiful screenshots of your code, including diffs"
+2026-11-08T08:42:24.41Z,TuvokYangDline.dline-main,TuvokYangDline,Dline (Stable),0.13.1,"Comprehensive multi-task automated coding agent with per-task model Profiles, persistent state, scoped capabilities, and global approval settings with per-action granularity."
+2026-11-08T08:45:06.453Z,chensuiyi.mark-show,chensuiyi,markShow - 马克秀,1.0.0,Markdown 多平台排版预览，侧边栏实时看效果，一键复制成公众号、知乎、掘金等平台可用的富文本
+2026-11-08T08:49:34.85Z,PirapaakaranPirathapan.envguard-secret-shield,PirapaakaranPirathapan,EnvGuard: Secret Leak Prevention & .env Inspector 🛡️,0.1.0,"Real-time API key and secret leak detector, missing .env variable linter, and 1-click .env.example generator!"
+2026-11-08T08:50:06.687Z,RatneshDesign.json-graph-viewer,RatneshDesign,JSON Graph viewer,0.0.1,JSON Graph viewer - part of jsonGraph Visual JSON data flow inspector - paste JSON or fetch from API endpoints and visualize as interactive node graphs.
+2026-11-08T08:51:29.383Z,ChuCI.vscode-996m2-helper,ChuCI,996M2 引擎开发助手 (Rust LSP),1.1.0,专为 996 引擎量身打造的开发利器：基于 Rust 高性能语言服务器，秒级段落标签跳转、全工程引用查找、实时错误诊断、Hero经典排版一键格式化、段落/控制块双层代码折叠、全套语法分类色彩自定义(支持实时热生效)、内置【Hero 经典进阶·护眼微调版】高对比舒适配色、989条 M2 命令补全与 Lua API 集成
+2026-11-08T08:51:54.427Z,ingestron.ingestron-vscode,ingestron,Ingestron,2.1.2,"Problems, navigation, completion, setting explanations and generated-file previews for Ingestron projects."
+2026-11-08T08:58:43.187Z,PirapaakaranPirathapan.quick-data-table-viewer,PirapaakaranPirathapan,"Quick Data Table: Interactive CSV, TSV & JSON Grid 📊",0.1.0,"Lightning-fast interactive data grid viewer with column sorting, fuzzy search, pagination, and 1-click Markdown / JSON exports!"
+2026-11-08T09:07:05.9Z,PirapaakaranPirathapan.commit-crafter-pro,PirapaakaranPirathapan,AI Conventional Commit Crafter ✨,0.1.0,"Craft standard feat, fix, chore Conventional Commit messages from git diffs with 1 click using AI or smart rule heuristics!"

@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 08:19 UTC
+## Latest list — 2026-11-08 09:20 UTC
 
-New extensions published between 2026-11-08 06:19 UTC and 2026-11-08 08:19 UTC.
+New extensions published between 2026-11-08 07:20 UTC and 2026-11-08 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T08-19-22-063112Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T09-20-20-711583Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 07:14:44 | [Sempai-07.mylang2-support-language](https://marketplace.visualstudio.com/items?itemName=Sempai-07.mylang2-support-language) | MyLang2 Support Language | 1.1.0 | Language support for MyLang2: language server with diagnostics, completion, hov… |
-| 2026-11-08 07:26:57 | [letERfunctionRE.Live-HTML](https://marketplace.visualstudio.com/items?itemName=letERfunctionRE.Live-HTML) | Live-HTML | 0.3.0 | A fast and lightweight live server for VS Code with smart auto-reload, cache pr… |
-| 2026-11-08 07:30:29 | [zovo.xmind-mind-map-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.xmind-mind-map-viewer) | XMind Viewer & Mind Map Viewer (XMind 8… | 0.1.0 | XMind viewer and mind map viewer for VS Code. Opens XMind 2020+, XMind Zen and… |
-| 2026-11-08 07:47:28 | [moonlivedt.moon-core](https://marketplace.visualstudio.com/items?itemName=moonlivedt.moon-core) | Moon Core | 0.2.0 | Переделай интерфейс VS Code под себя: конструктор (убрать, увеличить, перекраси… |
-| 2026-11-08 07:59:51 | [sinowealth-semiconductor.sinoiot-vscode](https://marketplace.visualstudio.com/items?itemName=sinowealth-semiconductor.sinoiot-vscode) | SinoIOT for VS Code | 1.0.8 | Serial terminal, UART firmware download and AI agent access for the SinoWealth… |
-| 2026-11-08 08:04:06 | [ClarityAscend.mvbu2](https://marketplace.visualstudio.com/items?itemName=ClarityAscend.mvbu2) | MultiValue Basic Utility for VS Code | 0.5.3 | Bring Rocket UniVerse and UniData into VS Code: find records in plain language,… |
-| 2026-11-08 08:09:31 | [FSDK.robot-werther-ai](https://marketplace.visualstudio.com/items?itemName=FSDK.robot-werther-ai) | Робот Вертер AI | 0.1.0 | Чат в редакторе через API DeepSeek, Gemini, Groq, Mistral, Cloudflare, NVIDIA и… |
-| 2026-11-08 08:11:15 | [tdkreasi.opilab](https://marketplace.visualstudio.com/items?itemName=tdkreasi.opilab) | Opilab | 0.2.10 | Internal development knowledge library for VS Code. |
+| 2026-11-08 08:14:14 | [yxzly6819.keil-assistant-live](https://marketplace.visualstudio.com/items?itemName=yxzly6819.keil-assistant-live) | Keil Assistant Live | 1.0.0 | Keil uVision 5 project support in VS Code: project tree, build, flash and cppto… |
+| 2026-11-08 08:16:15 | [appswire.claude-project-hub](https://marketplace.visualstudio.com/items?itemName=appswire.claude-project-hub) | Project Hub for Claude Code | 0.12.0 | Неофициальное расширение: проекты и чаты Claude Code в одной панели — открыть п… |
+| 2026-11-08 08:21:38 | [jazza.codesnap-diff](https://marketplace.visualstudio.com/items?itemName=jazza.codesnap-diff) | CodeSnap Diff | 1.4.0 | Take beautiful screenshots of your code, including diffs |
+| 2026-11-08 08:42:24 | [TuvokYangDline.dline-main](https://marketplace.visualstudio.com/items?itemName=TuvokYangDline.dline-main) | Dline (Stable) | 0.13.1 | Comprehensive multi-task automated coding agent with per-task model Profiles, p… |
+| 2026-11-08 08:45:06 | [chensuiyi.mark-show](https://marketplace.visualstudio.com/items?itemName=chensuiyi.mark-show) | markShow - 马克秀 | 1.0.0 | Markdown 多平台排版预览，侧边栏实时看效果，一键复制成公众号、知乎、掘金等平台可用的富文本 |
+| 2026-11-08 08:49:34 | [PirapaakaranPirathapan.envguard-secret-shield](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.envguard-secret-shield) | EnvGuard: Secret Leak Prevention & .env… | 0.1.0 | Real-time API key and secret leak detector, missing .env variable linter, and 1… |
+| 2026-11-08 08:50:06 | [RatneshDesign.json-graph-viewer](https://marketplace.visualstudio.com/items?itemName=RatneshDesign.json-graph-viewer) | JSON Graph viewer | 0.0.1 | JSON Graph viewer - part of jsonGraph Visual JSON data flow inspector - paste J… |
+| 2026-11-08 08:51:29 | [ChuCI.vscode-996m2-helper](https://marketplace.visualstudio.com/items?itemName=ChuCI.vscode-996m2-helper) | 996M2 引擎开发助手 (Rust LSP) | 1.1.0 | 专为 996 引擎量身打造的开发利器：基于 Rust 高性能语言服务器，秒级段落标签跳转、全工程引用查找、实时错误诊断、Hero经典排版一键格式化、段落/控制… |
+| 2026-11-08 08:51:54 | [ingestron.ingestron-vscode](https://marketplace.visualstudio.com/items?itemName=ingestron.ingestron-vscode) | Ingestron | 2.1.2 | Problems, navigation, completion, setting explanations and generated-file previ… |
+| 2026-11-08 08:58:43 | [PirapaakaranPirathapan.quick-data-table-viewer](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.quick-data-table-viewer) | Quick Data Table: Interactive CSV, TSV… | 0.1.0 | Lightning-fast interactive data grid viewer with column sorting, fuzzy search,… |
+| 2026-11-08 09:07:05 | [PirapaakaranPirathapan.commit-crafter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.commit-crafter-pro) | AI Conventional Commit Crafter ✨ | 0.1.0 | Craft standard feat, fix, chore Conventional Commit messages from git diffs wit… |
 
 ## Data source
 
