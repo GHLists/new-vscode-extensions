@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 05:20 UTC
+## Latest list — 2026-11-08 06:20 UTC
 
-New extensions published between 2026-11-08 03:20 UTC and 2026-11-08 05:20 UTC.
+New extensions published between 2026-11-08 04:20 UTC and 2026-11-08 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T05-20-32-373936Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T06-20-53-871299Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 04:14:58 | [AztraOpenSource.rustx-framework-extension](https://marketplace.visualstudio.com/items?itemName=AztraOpenSource.rustx-framework-extension) | Rustx Framework Extension | 0.2.0 | What an editor needs to know about a .rsx: its colours, its pairs, and where th… |
-| 2026-11-08 04:19:52 | [civ13.byond-devtools-vscode](https://marketplace.visualstudio.com/items?itemName=civ13.byond-devtools-vscode) | BYOND Map Preview | 0.1.0 | Read-only preview of BYOND .dmm maps (rendered tiles from the native type tree,… |
-| 2026-11-08 04:38:27 | [PaulSquires.tiko-lang](https://marketplace.visualstudio.com/items?itemName=PaulSquires.tiko-lang) | tiko-lang | 0.1.3 | Language support for the tiko programming language: diagnostics, completion, ho… |
-| 2026-11-08 04:44:14 | [7xmohamed.wano-theme](https://marketplace.visualstudio.com/items?itemName=7xmohamed.wano-theme) | Wano | 0.1.0 | A dark VS Code theme with deep indigo-navy surfaces, warm paper text, and Japan… |
-| 2026-11-08 04:45:57 | [HarshDoshi-34.warden-diff-guard](https://marketplace.visualstudio.com/items?itemName=HarshDoshi-34.warden-diff-guard) | Warden: The Diff Guard | 0.1.1 | Review every Claude Code file edit in a VS Code diff before it is written: appr… |
-| 2026-11-08 04:50:44 | [lab530.chatgpt-subscription-for-copilot](https://marketplace.visualstudio.com/items?itemName=lab530.chatgpt-subscription-for-copilot) | ChatGPT Subscription for Copilot (Previ… | 0.1.0 | Use your ChatGPT subscription in Copilot Chat through official Sign in with Cha… |
-| 2026-11-08 05:07:26 | [RadwanAlmsora.autolisp-cad-helper](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.autolisp-cad-helper) | AutoLISP & CAD Pro Assistant | 1.0.0 | Comprehensive AutoLISP language support, syntax highlighting, smart snippets, l… |
-| 2026-11-08 05:12:36 | [jaops.fops-vscode](https://marketplace.visualstudio.com/items?itemName=jaops.fops-vscode) | fops | 0.1.0 | Writing flight operations procedures for Yamcs: live fops check, MDB completion… |
+| 2026-11-08 05:21:03 | [zovo.mermaid-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.mermaid-viewer) | Mermaid Viewer & Mermaid Preview (MMD D… | 0.1.0 | Free Mermaid viewer and Mermaid preview for .mmd files and mermaid blocks in Ma… |
+| 2026-11-08 05:34:57 | [RadwanAlmsora.secret-shield-sentinel](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.secret-shield-sentinel) | SecretShield — API Key & Leak Sentinel | 1.0.0 | Real-time security scanner for VS Code. Instantly detects leaked API keys, toke… |
+| 2026-11-08 05:39:14 | [PirapaakaranPirathapan.turbo-log-clean-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.turbo-log-clean-pro) | Turbo Log & Clean Pro 🚀 | 0.1.0 | Lightning-fast multi-language debug logging with Alt+L and 1-click production l… |
+| 2026-11-08 06:03:59 | [SamitBhattacharjee.mergeship](https://marketplace.visualstudio.com/items?itemName=SamitBhattacharjee.mergeship) | MergeShip - Conflict Resolver | 0.1.0 | Ship files between branches, resolve conflicts, vault vanished code, and build… |
+| 2026-11-08 06:09:30 | [jishi-micro-li.li-vscode](https://marketplace.visualstudio.com/items?itemName=jishi-micro-li.li-vscode) | 砾（LI） | 0.1.0 | 砾语言（.jsh）的编辑器支持：语法高亮、编译诊断、运行/断点、跳转到定义与语言卡补全。 |
+| 2026-11-08 06:10:23 | [zovo.zovo-hex-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-hex-viewer) | Hex Viewer & Binary Viewer, Hex Editor… | 0.1.0 | Hex viewer, binary viewer and hex editor for VS Code that opens files of any si… |
+| 2026-11-08 06:14:08 | [JonathanGualli.gemi2](https://marketplace.visualstudio.com/items?itemName=JonathanGualli.gemi2) | gemi2 | 0.0.1 | Suenan gemi2s al azar cada vez que creas un archivo o una carpeta. Totalmente i… |
 
 ## Data source
 
