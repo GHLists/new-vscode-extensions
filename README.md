@@ -12,25 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 09:20 UTC
+## Latest list — 2026-11-08 10:20 UTC
 
-New extensions published between 2026-11-08 07:20 UTC and 2026-11-08 09:20 UTC.
+New extensions published between 2026-11-08 08:20 UTC and 2026-11-08 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T09-20-20-711583Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T10-20-13-872716Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 08:14:14 | [yxzly6819.keil-assistant-live](https://marketplace.visualstudio.com/items?itemName=yxzly6819.keil-assistant-live) | Keil Assistant Live | 1.0.0 | Keil uVision 5 project support in VS Code: project tree, build, flash and cppto… |
-| 2026-11-08 08:16:15 | [appswire.claude-project-hub](https://marketplace.visualstudio.com/items?itemName=appswire.claude-project-hub) | Project Hub for Claude Code | 0.12.0 | Неофициальное расширение: проекты и чаты Claude Code в одной панели — открыть п… |
-| 2026-11-08 08:21:38 | [jazza.codesnap-diff](https://marketplace.visualstudio.com/items?itemName=jazza.codesnap-diff) | CodeSnap Diff | 1.4.0 | Take beautiful screenshots of your code, including diffs |
-| 2026-11-08 08:42:24 | [TuvokYangDline.dline-main](https://marketplace.visualstudio.com/items?itemName=TuvokYangDline.dline-main) | Dline (Stable) | 0.13.1 | Comprehensive multi-task automated coding agent with per-task model Profiles, p… |
-| 2026-11-08 08:45:06 | [chensuiyi.mark-show](https://marketplace.visualstudio.com/items?itemName=chensuiyi.mark-show) | markShow - 马克秀 | 1.0.0 | Markdown 多平台排版预览，侧边栏实时看效果，一键复制成公众号、知乎、掘金等平台可用的富文本 |
-| 2026-11-08 08:49:34 | [PirapaakaranPirathapan.envguard-secret-shield](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.envguard-secret-shield) | EnvGuard: Secret Leak Prevention & .env… | 0.1.0 | Real-time API key and secret leak detector, missing .env variable linter, and 1… |
-| 2026-11-08 08:50:06 | [RatneshDesign.json-graph-viewer](https://marketplace.visualstudio.com/items?itemName=RatneshDesign.json-graph-viewer) | JSON Graph viewer | 0.0.1 | JSON Graph viewer - part of jsonGraph Visual JSON data flow inspector - paste J… |
-| 2026-11-08 08:51:29 | [ChuCI.vscode-996m2-helper](https://marketplace.visualstudio.com/items?itemName=ChuCI.vscode-996m2-helper) | 996M2 引擎开发助手 (Rust LSP) | 1.1.0 | 专为 996 引擎量身打造的开发利器：基于 Rust 高性能语言服务器，秒级段落标签跳转、全工程引用查找、实时错误诊断、Hero经典排版一键格式化、段落/控制… |
-| 2026-11-08 08:51:54 | [ingestron.ingestron-vscode](https://marketplace.visualstudio.com/items?itemName=ingestron.ingestron-vscode) | Ingestron | 2.1.2 | Problems, navigation, completion, setting explanations and generated-file previ… |
-| 2026-11-08 08:58:43 | [PirapaakaranPirathapan.quick-data-table-viewer](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.quick-data-table-viewer) | Quick Data Table: Interactive CSV, TSV… | 0.1.0 | Lightning-fast interactive data grid viewer with column sorting, fuzzy search,… |
-| 2026-11-08 09:07:05 | [PirapaakaranPirathapan.commit-crafter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.commit-crafter-pro) | AI Conventional Commit Crafter ✨ | 0.1.0 | Craft standard feat, fix, chore Conventional Commit messages from git diffs wit… |
+| 2026-11-08 09:18:53 | [PirapaakaranPirathapan.regexlens-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.regexlens-pro) | RegexLens: Regex Explainer & Inline San… | 0.1.0 | Hover over regular expressions to see plain-English explanations, and test rege… |
+| 2026-11-08 09:31:52 | [PirapaakaranPirathapan.css-to-tailwind-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.css-to-tailwind-pro) | CSS to Tailwind Pro: Instant Utility Co… | 0.1.0 | Convert vanilla CSS, CSS modules, and Figma inspect styles into clean Tailwind… |
+| 2026-11-08 09:37:09 | [galimatron.gal-syntax](https://marketplace.visualstudio.com/items?itemName=galimatron.gal-syntax) | GaL | 0.1.7 | Syntax highlighting for GaL (.gal), and a command that runs Galimatron. |
+| 2026-11-08 09:41:54 | [area-tools.codex-tabs-personal](https://marketplace.visualstudio.com/items?itemName=area-tools.codex-tabs-personal) | Codex Tabs Personal | 0.3.2 | Independent Codex editor tabs, custom titles and optional version-pinned recove… |
+| 2026-11-08 09:43:44 | [Procoder588.devorch-code](https://marketplace.visualstudio.com/items?itemName=Procoder588.devorch-code) | DevOrch | 0.1.2 | Chat with the DevOrch AI coding assistant from VS Code: any model provider, run… |
+| 2026-11-08 09:46:43 | [goatedcode.goatedcode](https://marketplace.visualstudio.com/items?itemName=goatedcode.goatedcode) | goatedcode | 0.2.4 | The shared core of the goatedcode tools: your own AI agent writes the change, g… |
+| 2026-11-08 09:49:57 | [goatedcode.fastercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.fastercode) | fastercode | 0.2.4 | Make your Python faster, with every rewrite checked against the original. Your… |
+| 2026-11-08 09:50:09 | [goatedcode.simplercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.simplercode) | simplercode | 0.2.4 | Make your Python shorter and simpler, with every refactor checked against the o… |
+| 2026-11-08 10:09:08 | [kirasync2748.kiralume](https://marketplace.visualstudio.com/items?itemName=kirasync2748.kiralume) | KiraLume | 1.0.0 | Dawn, Daylight and Midnight: three complete colour palettes for your VS Code wo… |
 
 ## Data source
 
