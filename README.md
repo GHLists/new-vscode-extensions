@@ -12,25 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 12:18 UTC
+## Latest list — 2026-11-08 13:20 UTC
 
-New extensions published between 2026-11-08 10:18 UTC and 2026-11-08 12:18 UTC.
+New extensions published between 2026-11-08 11:20 UTC and 2026-11-08 13:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T12-18-37-254091Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T13-20-05-904865Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 11:22:42 | [AnshGajera.ctx-workspace](https://marketplace.visualstudio.com/items?itemName=AnshGajera.ctx-workspace) | CTX | 0.1.6 | Explore local CTX project context without duplicating the Go engine. |
-| 2026-11-08 11:30:53 | [ZenWave360.zenwave-platform](https://marketplace.visualstudio.com/items?itemName=ZenWave360.zenwave-platform) | ZenWave Platform | 0.0.22 | Domain modeling, event storming and API design with ZDL and ZFL. |
-| 2026-11-08 11:35:26 | [ShaneDaly.openrig-vsc](https://marketplace.visualstudio.com/items?itemName=ShaneDaly.openrig-vsc) | OpenRig-VSC | 0.0.1 | Launch a persistent OpenRig agent team for your project inside VS Code, with au… |
-| 2026-11-08 11:45:01 | [eduardo239.hx99-night-city](https://marketplace.visualstudio.com/items?itemName=eduardo239.hx99-night-city) | HX99 Night City | 0.1.0 | Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano),… |
-| 2026-11-08 11:46:11 | [llamachat.llamachat-local](https://marketplace.visualstudio.com/items?itemName=llamachat.llamachat-local) | LlamaChat Local | 0.1.0 | Run a local GGUF in VS Code and use it from GitHub Copilot Chat and Agent mode. |
-| 2026-11-08 11:46:26 | [ResearchPilot.researchpilot-vscode](https://marketplace.visualstudio.com/items?itemName=ResearchPilot.researchpilot-vscode) | ResearchPilot | 0.1.0 | Institutional-Grade Multi-Agent AI Research & Fact-Checking Assistant for VS Co… |
-| 2026-11-08 11:47:06 | [ashsingh-ai.chroma](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.chroma) | Chroma — Title Bar Colors | 1.0.1 | Instantly set your VS Code title bar color — native color picker, per-workspace. |
-| 2026-11-08 11:48:02 | [himito.vscode-swh](https://marketplace.visualstudio.com/items?itemName=himito.vscode-swh) | SWH for VS Code | 0.1.0 | Software Heritage client: archive your code, cite it with a SWHID, and see whic… |
-| 2026-11-08 11:57:10 | [JHeilingbrunner.vscode-code-city](https://marketplace.visualstudio.com/items?itemName=JHeilingbrunner.vscode-code-city) | Code-City | 0.0.1 | Visualize code complexity (file length, folder structure) as a 3D city. |
-| 2026-11-08 12:04:43 | [YoshioNishiyama.esa-explorer](https://marketplace.visualstudio.com/items?itemName=YoshioNishiyama.esa-explorer) | esa Explorer | 0.1.0 | esa.ioの記事をVisual Studio Code上で一覧・閲覧・編集する拡張機能 |
-| 2026-11-08 12:10:11 | [YangLiu0802.claude-context-audit](https://marketplace.visualstudio.com/items?itemName=YangLiu0802.claude-context-audit) | Context Audit for Claude Code | 0.2.0 | See every MCP server, plugin, skill, agent and hook Claude Code loads in this p… |
+| 2026-11-08 12:20:20 | [wavecoders.test-runner-panel](https://marketplace.visualstudio.com/items?itemName=wavecoders.test-runner-panel) | Test Runner Panel | 0.0.2 | Shows the progress, memory and failures of test runs that write a run.json: a s… |
+| 2026-11-08 12:25:37 | [akanjs.akan](https://marketplace.visualstudio.com/items?itemName=akanjs.akan) | Akan.js | 0.1.0 | Go from Akan.js derived names (initMemoInPublic, listByName, setNameOnMemo, srv… |
+| 2026-11-08 12:34:51 | [jaim3r0jas.loadmap](https://marketplace.visualstudio.com/items?itemName=jaim3r0jas.loadmap) | loadmap | 0.24.0 | Capacity models in .loadmap: a live preview of the diagram beside the text, hig… |
+| 2026-11-08 12:36:08 | [lnexp.simplecode-robot](https://marketplace.visualstudio.com/items?itemName=lnexp.simplecode-robot) | SimpleCode Robot | 0.1.1 | SimpleCode 的桌面机器人（仅 macOS）：别的应用盖住 VS Code 时，在机器人上看到审批卡和任务结束提醒，直接点「允许」或跳回对应任务。 |
+| 2026-11-08 12:39:10 | [omniflash.omniflash-video-prompt-snippets](https://marketplace.visualstudio.com/items?itemName=omniflash.omniflash-video-prompt-snippets) | Omni Flash Video Prompt Snippets | 0.1.0 | Local snippets for writing structured text-to-video and image-to-video prompts… |
+| 2026-11-08 12:43:32 | [KaroTechnica.codex-ubuntu-notifications](https://marketplace.visualstudio.com/items?itemName=KaroTechnica.codex-ubuntu-notifications) | Codex Ubuntu Notifications | 1.1.27 | Desktop completion notifications, optional answer previews and audio for local… |
+| 2026-11-08 12:43:50 | [Valtry.valtry-devpulse](https://marketplace.visualstudio.com/items?itemName=Valtry.valtry-devpulse) | DevPulse — Developer Intelligence | 1.0.0 | A local-first developer intelligence platform for Visual Studio Code. Monitor s… |
+| 2026-11-08 12:51:39 | [SANBusinessSolutions.al-structure-explorer](https://marketplace.visualstudio.com/items?itemName=SANBusinessSolutions.al-structure-explorer) | AL Structure Explorer | 1.0.0 | Explore Business Central AL object structures and navigate to source code in .a… |
+| 2026-11-08 12:52:43 | [imtrinity94.vro-packlens](https://marketplace.visualstudio.com/items?itemName=imtrinity94.vro-packlens) | vRO PackLens | 2026.3.0 | See inside any vRO package - right in VS Code. Click a .package file to browse… |
+| 2026-11-08 13:02:16 | [bero-labs.diff-notes](https://marketplace.visualstudio.com/items?itemName=bero-labs.diff-notes) | Diff Notes | 0.1.0 | PR-style notes on local, unpushed commits and uncommitted changes. |
+| 2026-11-08 13:07:53 | [saltfishpr.vscode-llm-translator](https://marketplace.visualstudio.com/items?itemName=saltfishpr.vscode-llm-translator) | Translator for VS Code | 0.1.4 | Translate selected text using Google / DeepL / OpenAI / Baidu APIs |
 
 ## Data source
 
