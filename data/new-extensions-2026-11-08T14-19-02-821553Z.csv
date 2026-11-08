@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T13:14:34.923Z,josna.josna-language,josna,জোছনা (Josna) Language,0.6.0,"জোছনা প্রোগ্রামিং ভাষা: বাংলায় সাজেশন, লাল দাগে ভুল, ডিবাগার, F12/নাম বদল, কোড সাজানো, পাইথন থেকে রূপান্তর, টেবিল-চার্টসহ নিখুঁত বাংলা আউটপুট প্যানেল"
+2026-11-08T13:48:01.767Z,linyuze.twig-paper-reading,linyuze,Twig 问枝 — Paper Reading Tree,0.2.1,读论文时把主线与追问画成树状图，点节点看知识卡片，点出处跳到原文对应页；可选为 Claude Code、Codex、Gemini、Copilot 安装配套的书写规则。
+2026-11-08T13:51:33.717Z,galite.galite-analytics-report-snippets,galite,GA Lite Analytics Report Snippets,0.1.0,"Local Markdown/plain-text templates for multi-site analytics reviews, search reports, GA4 funnel and event planning, for use with GA Lite."
+2026-11-08T13:57:14.53Z,HDL-Tools.hdl-outliner,HDL-Tools,HDL Outliner,0.1.2,"Side-panel outline of SV/Verilog/VHDL files: instances, processes, constants, types, signals."
+2026-11-08T14:10:20.7Z,devsushant03.git-push-sound,devsushant03,Git Push Sound,0.0.1,Plays the iconic 'Om Phat Swaha' (Tatya Vinchu) sound whenever git push succeeds in the VS Code integrated terminal.

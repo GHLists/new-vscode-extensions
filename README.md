@@ -12,25 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 13:20 UTC
+## Latest list — 2026-11-08 14:19 UTC
 
-New extensions published between 2026-11-08 11:20 UTC and 2026-11-08 13:20 UTC.
+New extensions published between 2026-11-08 12:19 UTC and 2026-11-08 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T13-20-05-904865Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T14-19-02-821553Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 12:20:20 | [wavecoders.test-runner-panel](https://marketplace.visualstudio.com/items?itemName=wavecoders.test-runner-panel) | Test Runner Panel | 0.0.2 | Shows the progress, memory and failures of test runs that write a run.json: a s… |
-| 2026-11-08 12:25:37 | [akanjs.akan](https://marketplace.visualstudio.com/items?itemName=akanjs.akan) | Akan.js | 0.1.0 | Go from Akan.js derived names (initMemoInPublic, listByName, setNameOnMemo, srv… |
-| 2026-11-08 12:34:51 | [jaim3r0jas.loadmap](https://marketplace.visualstudio.com/items?itemName=jaim3r0jas.loadmap) | loadmap | 0.24.0 | Capacity models in .loadmap: a live preview of the diagram beside the text, hig… |
-| 2026-11-08 12:36:08 | [lnexp.simplecode-robot](https://marketplace.visualstudio.com/items?itemName=lnexp.simplecode-robot) | SimpleCode Robot | 0.1.1 | SimpleCode 的桌面机器人（仅 macOS）：别的应用盖住 VS Code 时，在机器人上看到审批卡和任务结束提醒，直接点「允许」或跳回对应任务。 |
-| 2026-11-08 12:39:10 | [omniflash.omniflash-video-prompt-snippets](https://marketplace.visualstudio.com/items?itemName=omniflash.omniflash-video-prompt-snippets) | Omni Flash Video Prompt Snippets | 0.1.0 | Local snippets for writing structured text-to-video and image-to-video prompts… |
-| 2026-11-08 12:43:32 | [KaroTechnica.codex-ubuntu-notifications](https://marketplace.visualstudio.com/items?itemName=KaroTechnica.codex-ubuntu-notifications) | Codex Ubuntu Notifications | 1.1.27 | Desktop completion notifications, optional answer previews and audio for local… |
-| 2026-11-08 12:43:50 | [Valtry.valtry-devpulse](https://marketplace.visualstudio.com/items?itemName=Valtry.valtry-devpulse) | DevPulse — Developer Intelligence | 1.0.0 | A local-first developer intelligence platform for Visual Studio Code. Monitor s… |
-| 2026-11-08 12:51:39 | [SANBusinessSolutions.al-structure-explorer](https://marketplace.visualstudio.com/items?itemName=SANBusinessSolutions.al-structure-explorer) | AL Structure Explorer | 1.0.0 | Explore Business Central AL object structures and navigate to source code in .a… |
-| 2026-11-08 12:52:43 | [imtrinity94.vro-packlens](https://marketplace.visualstudio.com/items?itemName=imtrinity94.vro-packlens) | vRO PackLens | 2026.3.0 | See inside any vRO package - right in VS Code. Click a .package file to browse… |
-| 2026-11-08 13:02:16 | [bero-labs.diff-notes](https://marketplace.visualstudio.com/items?itemName=bero-labs.diff-notes) | Diff Notes | 0.1.0 | PR-style notes on local, unpushed commits and uncommitted changes. |
-| 2026-11-08 13:07:53 | [saltfishpr.vscode-llm-translator](https://marketplace.visualstudio.com/items?itemName=saltfishpr.vscode-llm-translator) | Translator for VS Code | 0.1.4 | Translate selected text using Google / DeepL / OpenAI / Baidu APIs |
+| 2026-11-08 13:14:34 | [josna.josna-language](https://marketplace.visualstudio.com/items?itemName=josna.josna-language) | জোছনা (Josna) Language | 0.6.0 | জোছনা প্রোগ্রামিং ভাষা: বাংলায় সাজেশন, লাল দাগে ভুল, ডিবাগার, F12/নাম বদল, কোড… |
+| 2026-11-08 13:48:01 | [linyuze.twig-paper-reading](https://marketplace.visualstudio.com/items?itemName=linyuze.twig-paper-reading) | Twig 问枝 — Paper Reading Tree | 0.2.1 | 读论文时把主线与追问画成树状图，点节点看知识卡片，点出处跳到原文对应页；可选为 Claude Code、Codex、Gemini、Copilot 安装配套的书… |
+| 2026-11-08 13:51:33 | [galite.galite-analytics-report-snippets](https://marketplace.visualstudio.com/items?itemName=galite.galite-analytics-report-snippets) | GA Lite Analytics Report Snippets | 0.1.0 | Local Markdown/plain-text templates for multi-site analytics reviews, search re… |
+| 2026-11-08 13:57:14 | [HDL-Tools.hdl-outliner](https://marketplace.visualstudio.com/items?itemName=HDL-Tools.hdl-outliner) | HDL Outliner | 0.1.2 | Side-panel outline of SV/Verilog/VHDL files: instances, processes, constants, t… |
+| 2026-11-08 14:10:20 | [devsushant03.git-push-sound](https://marketplace.visualstudio.com/items?itemName=devsushant03.git-push-sound) | Git Push Sound | 0.0.1 | Plays the iconic 'Om Phat Swaha' (Tatya Vinchu) sound whenever git push succeed… |
 
 ## Data source
 
