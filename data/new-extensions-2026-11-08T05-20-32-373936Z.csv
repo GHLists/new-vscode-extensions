@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T04:14:58.363Z,AztraOpenSource.rustx-framework-extension,AztraOpenSource,Rustx Framework Extension,0.2.0,"What an editor needs to know about a .rsx: its colours, its pairs, and where the mistakes are."
+2026-11-08T04:19:52.273Z,civ13.byond-devtools-vscode,civ13,BYOND Map Preview,0.1.0,"Read-only preview of BYOND .dmm maps (rendered tiles from the native type tree, cell inspection, diagnostics), plus DreamMaker compile errors in the Problems panel and local playtests."
+2026-11-08T04:38:27.503Z,PaulSquires.tiko-lang,PaulSquires,tiko-lang,0.1.3,"Language support for the tiko programming language: diagnostics, completion, hover, go to definition, references, rename, formatting and more. The language server is included. Tiko is a FreeBASIC-compatible language."
+2026-11-08T04:44:14.213Z,7xmohamed.wano-theme,7xmohamed,Wano,0.1.0,"A dark VS Code theme with deep indigo-navy surfaces, warm paper text, and Japanese-inspired accents."
+2026-11-08T04:45:57.137Z,HarshDoshi-34.warden-diff-guard,HarshDoshi-34,Warden: The Diff Guard,0.1.1,"Review every Claude Code file edit in a VS Code diff before it is written: approve, reject, edit or comment."
+2026-11-08T04:50:44.533Z,lab530.chatgpt-subscription-for-copilot,lab530,ChatGPT Subscription for Copilot (Preview),0.1.0,Use your ChatGPT subscription in Copilot Chat through official Sign in with ChatGPT (Preview).
+2026-11-08T05:07:26.083Z,RadwanAlmsora.autolisp-cad-helper,RadwanAlmsora,AutoLISP & CAD Pro Assistant,1.0.0,"Comprehensive AutoLISP language support, syntax highlighting, smart snippets, live bracket audit, and CAD development tools."
+2026-11-08T05:12:36.993Z,jaops.fops-vscode,jaops,fops,0.1.0,"Writing flight operations procedures for Yamcs: live fops check, MDB completion, hovers and the procedure outline"

@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 04:20 UTC
+## Latest list — 2026-11-08 05:20 UTC
 
-New extensions published between 2026-11-08 02:20 UTC and 2026-11-08 04:20 UTC.
+New extensions published between 2026-11-08 03:20 UTC and 2026-11-08 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T04-20-32-904205Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T05-20-32-373936Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 03:16:29 | [Rohit-kumar-g.sfflow-table-preview](https://marketplace.visualstudio.com/items?itemName=Rohit-kumar-g.sfflow-table-preview) | Flow Table Preview for Salesforce | 0.5.0 | See what a Salesforce flow does from its XML: step-by-step table, diagram, best… |
-| 2026-11-08 03:24:42 | [TQSY.springy-cursor](https://marketplace.visualstudio.com/items?itemName=TQSY.springy-cursor) | Springy Cursor | 0.2.5 | Neovide-like animated cursor trail for VS Code |
-| 2026-11-08 03:31:29 | [debugt-labs.debugt-extension](https://marketplace.visualstudio.com/items?itemName=debugt-labs.debugt-extension) | Debugt | 0.1.0 | Run and debug a system of services from one canvas, and trace every request acr… |
-| 2026-11-08 03:53:34 | [ItemCoder.storm-parity](https://marketplace.visualstudio.com/items?itemName=ItemCoder.storm-parity) | Storm Parity | 0.1.0 | PhpStorm-style workflow for VS Code: open-folder prompt, recent projects, mnemo… |
-| 2026-11-08 03:53:55 | [b1tninja.continuous](https://marketplace.visualstudio.com/items?itemName=b1tninja.continuous) | Continuous | 2.4.4 | Continuous: a community-maintained fork of the Continue open-source AI code age… |
-| 2026-11-08 03:54:51 | [sedna-lang.sedna-lang](https://marketplace.visualstudio.com/items?itemName=sedna-lang.sedna-lang) | Sedna | 2.1.0 | Soporte para el lenguaje Sedna (multilingüe): resaltado en 7 idiomas, errores e… |
-| 2026-11-08 03:58:32 | [kbach.kbach-vscode](https://marketplace.visualstudio.com/items?itemName=kbach.kbach-vscode) | Kbach IntelliSense | 0.1.1 | className autocomplete, hover previews, and inline typo diagnostics for Kbach —… |
+| 2026-11-08 04:14:58 | [AztraOpenSource.rustx-framework-extension](https://marketplace.visualstudio.com/items?itemName=AztraOpenSource.rustx-framework-extension) | Rustx Framework Extension | 0.2.0 | What an editor needs to know about a .rsx: its colours, its pairs, and where th… |
+| 2026-11-08 04:19:52 | [civ13.byond-devtools-vscode](https://marketplace.visualstudio.com/items?itemName=civ13.byond-devtools-vscode) | BYOND Map Preview | 0.1.0 | Read-only preview of BYOND .dmm maps (rendered tiles from the native type tree,… |
+| 2026-11-08 04:38:27 | [PaulSquires.tiko-lang](https://marketplace.visualstudio.com/items?itemName=PaulSquires.tiko-lang) | tiko-lang | 0.1.3 | Language support for the tiko programming language: diagnostics, completion, ho… |
+| 2026-11-08 04:44:14 | [7xmohamed.wano-theme](https://marketplace.visualstudio.com/items?itemName=7xmohamed.wano-theme) | Wano | 0.1.0 | A dark VS Code theme with deep indigo-navy surfaces, warm paper text, and Japan… |
+| 2026-11-08 04:45:57 | [HarshDoshi-34.warden-diff-guard](https://marketplace.visualstudio.com/items?itemName=HarshDoshi-34.warden-diff-guard) | Warden: The Diff Guard | 0.1.1 | Review every Claude Code file edit in a VS Code diff before it is written: appr… |
+| 2026-11-08 04:50:44 | [lab530.chatgpt-subscription-for-copilot](https://marketplace.visualstudio.com/items?itemName=lab530.chatgpt-subscription-for-copilot) | ChatGPT Subscription for Copilot (Previ… | 0.1.0 | Use your ChatGPT subscription in Copilot Chat through official Sign in with Cha… |
+| 2026-11-08 05:07:26 | [RadwanAlmsora.autolisp-cad-helper](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.autolisp-cad-helper) | AutoLISP & CAD Pro Assistant | 1.0.0 | Comprehensive AutoLISP language support, syntax highlighting, smart snippets, l… |
+| 2026-11-08 05:12:36 | [jaops.fops-vscode](https://marketplace.visualstudio.com/items?itemName=jaops.fops-vscode) | fops | 0.1.0 | Writing flight operations procedures for Yamcs: live fops check, MDB completion… |
 
 ## Data source
 
