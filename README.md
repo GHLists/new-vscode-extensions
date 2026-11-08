@@ -12,25 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 18:19 UTC
+## Latest list — 2026-11-08 19:18 UTC
 
-New extensions published between 2026-11-08 16:19 UTC and 2026-11-08 18:19 UTC.
+New extensions published between 2026-11-08 17:18 UTC and 2026-11-08 19:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T18-19-04-444732Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T19-18-40-490152Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 17:14:12 | [seqcall.seqcall](https://marketplace.visualstudio.com/items?itemName=seqcall.seqcall) | Seqcall | 0.1.1 | Explore how your code behaves: click through call flows as sequence diagrams, e… |
-| 2026-11-08 17:24:19 | [AbuShahed.varcoach](https://marketplace.visualstudio.com/items?itemName=AbuShahed.varcoach) | Var Coach | 0.1.0 | Helps beginner developers write better variable names by detecting weak names a… |
-| 2026-11-08 17:25:06 | [aaron43210.shield-code](https://marketplace.visualstudio.com/items?itemName=aaron43210.shield-code) | Shield·Code | 0.5.7 | Scan a workspace for secrets, Indian PII, unsafe code, risky config and sensiti… |
-| 2026-11-08 17:26:34 | [Alamion.opencode-dsh-web](https://marketplace.visualstudio.com/items?itemName=Alamion.opencode-dsh-web) | OpenCode & DSH Web (Sidebar) | 0.1.0 | Open the OpenCode and DeepSeek Harness (DSH) web UIs in a VS Code sidebar, loca… |
-| 2026-11-08 17:27:13 | [chronosieve.glyphox](https://marketplace.visualstudio.com/items?itemName=chronosieve.glyphox) | Glyphox | 1.0.0 | Model an app in VS Code, have the Assistant build it, and export its source cod… |
-| 2026-11-08 17:32:51 | [azflowai.azflow-ai](https://marketplace.visualstudio.com/items?itemName=azflowai.azflow-ai) | Azflow AI | 0.1.1 | The Azflow AI app inside VS Code: your threads, agents, plugins and settings be… |
-| 2026-11-08 17:37:50 | [zovo.zovo-code-screenshot](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-code-screenshot) | Code Screenshot & Code Snapshot (Copy C… | 0.1.0 | Code screenshot and code snapshot in one key: select code, press Cmd+Alt+C (Shi… |
-| 2026-11-08 17:41:31 | [EohLczin.jlscript-formatter](https://marketplace.visualstudio.com/items?itemName=EohLczin.jlscript-formatter) | JLScript Formatter | 3.2.0 | Formatter multi-linguagem do ecossistema JLScript com preview, range, ignore, c… |
-| 2026-11-08 17:41:51 | [Andreasb95.bille-salesforce-devtools](https://marketplace.visualstudio.com/items?itemName=Andreasb95.bille-salesforce-devtools) | Bille's DevTools for Salesforce | 0.1.10 | A fast, joyful developer toolbar for Salesforce in VS Code — 1-click Anonymous… |
-| 2026-11-08 18:03:32 | [sublinear.bromine-sim](https://marketplace.visualstudio.com/items?itemName=sublinear.bromine-sim) | Bromine Sim | 0.0.1 | Run and debug PROS projects in a VEX V5 simulator |
-| 2026-11-08 18:03:46 | [IoannisKokkinis.8bot-vscode](https://marketplace.visualstudio.com/items?itemName=IoannisKokkinis.8bot-vscode) | 8bot: AI Coding Agent for the 8os Gatew… | 0.1.0 | Unofficial AI coding agent and chat for VS Code using your Pax8 8os Agent Gatew… |
+| 2026-11-08 18:16:12 | [zovo.swagger-openapi-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.swagger-openapi-viewer) | Swagger Viewer & OpenAPI Viewer (OpenAP… | 0.1.1 | Swagger viewer and OpenAPI preview for VS Code. Live Swagger UI or reference la… |
+| 2026-11-08 18:19:52 | [zovo.zovo-html-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-html-preview) | HTML Preview & HTML Viewer (Live, CSS a… | 0.1.0 | Free HTML preview and HTML viewer beside your editor. Linked CSS, JS and images… |
+| 2026-11-08 18:22:40 | [zovo.zovo-rst-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-rst-preview) | RST Preview & reStructuredText Preview… | 0.1.0 | RST preview and reStructuredText preview for VS Code with no Python, no Sphinx… |
+| 2026-11-08 18:23:04 | [JourneytoCode.zubra](https://marketplace.visualstudio.com/items?itemName=JourneytoCode.zubra) | Zubra | 5.0.2 | Language support for Zubra Web Components: syntax highlighting, diagnostics, co… |
+| 2026-11-08 18:25:45 | [zovo.zovo-sarif-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-sarif-viewer) | SARIF Viewer (CodeQL, Semgrep & Static… | 0.1.0 | Free SARIF viewer for CodeQL, Semgrep, ESLint, Bandit, Trivy and other static a… |
+| 2026-11-08 18:44:07 | [learntime.spring-explorer](https://marketplace.visualstudio.com/items?itemName=learntime.spring-explorer) | Spring Explorer | 1.0.0 | Explore Spring beans in a dedicated editor panel: dependency levels, injection… |
+| 2026-11-08 18:49:19 | [zovo.zovo-regex-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-regex-preview) | Regex Preview & Regex Tester (Railroad… | 0.1.0 | Regex preview and regex tester beside your code: click "Test regex" above a reg… |
+| 2026-11-08 18:49:28 | [patrick-lindemann.agent-tabs](https://marketplace.visualstudio.com/items?itemName=patrick-lindemann.agent-tabs) | Agent Tabs: Coding Agents in the Sidebar | 2.0.0 | Run Claude Code, Codex, Gemini CLI, pi and other coding agents in tabs in the s… |
+| 2026-11-08 18:56:31 | [SergiMoreno.session-branch-for-claude-code](https://marketplace.visualstudio.com/items?itemName=SergiMoreno.session-branch-for-claude-code) | Session Branch for Claude Code | 1.0.0 | Shows the git branch of the active Claude Code session in the status bar, right… |
+| 2026-11-08 18:56:34 | [attentry.attentry](https://marketplace.visualstudio.com/items?itemName=attentry.attentry) | Attentry | 0.1.0 | Checks the code Claude Code writes for security holes, crash risks, copied and… |
+| 2026-11-08 18:57:19 | [pablojimp.tagged-todos](https://marketplace.visualstudio.com/items?itemName=pablojimp.tagged-todos) | Tagged TODOs | 0.1.0 | Groups TODO[tag] comments by tag in a sidebar tree, so you can jump to each one. |
+| 2026-11-08 19:00:40 | [DilshanAkhtar.lynucent](https://marketplace.visualstudio.com/items?itemName=DilshanAkhtar.lynucent) | LYNUCENT - frosted windows | 1.0.0 | Frosted acrylic blur + transparency for your VS Code window (Windows DWM). Alt+… |
+| 2026-11-08 19:06:40 | [BMC0.cie-9618-pseudocode-sh](https://marketplace.visualstudio.com/items?itemName=BMC0.cie-9618-pseudocode-sh) | CIE 9618 Pseudocode Syntax Highlighter | 0.1.0 | Syntax highlighting, snippets, indentation and folding for Cambridge Internatio… |
+| 2026-11-08 19:07:25 | [novair.edi-reader-energie](https://marketplace.visualstudio.com/items?itemName=novair.edi-reader-energie) | EDI Reader Energie – UTILMD, MSCONS, AP… | 1.0.0 | German energy market messages (MaKo) in VS Code: read UTILMD, MSCONS, APERAK an… |
+| 2026-11-08 19:09:50 | [lale.tustep](https://marketplace.visualstudio.com/items?itemName=lale.tustep) | TUSTEP | 0.0.1 | TUSTEP integration for VS Code |
 
 ## Data source
 
