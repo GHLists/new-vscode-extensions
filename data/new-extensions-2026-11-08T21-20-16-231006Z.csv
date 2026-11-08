@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T20:31:06.257Z,HDL-Tools.hdl-tools,HDL-Tools,HDL Tools,0.0.2,"Extension pack: HDL-AutoDoc-Lite, HDL Log Lens and HDL Outliner for SV/Verilog/VHDL work."
+2026-11-08T20:36:14.193Z,hoox-sh.axis-pack,hoox-sh,AXIS Trading Pack,0.3.0,"One-click install: PYNE Language Support + AXIS IDE. Part of the HOOX open trading stack. Unofficial — not affiliated with TradingView, Inc."
+2026-11-08T20:38:38.38Z,expongo.jsx-template-converter,expongo,jsx-template-converter,1.0.0,Convert JSX string attributes into template literals with a keyboard shortcut.
+2026-11-08T20:44:41.673Z,irwinarruda.barro-theme,irwinarruda,Barro,0.1.0,"Clay on slate: Barro Slate for the dark and Barro Kaolin for the light, with the contrast to read code all day."
+2026-11-08T21:01:43.403Z,mafflin.autumno,mafflin,Autumno,0.1.1,"A warm, muted autumn dark theme for VS Code."
+2026-11-08T21:03:33.51Z,FirozKhan.w3c-validator-plus,FirozKhan,Web Standards Validator for HTML & JSP,0.1.0,"Validate HTML5, CSS, JavaScript and JSP locally. HTML and CSS checks are powered by the Nu Html Checker (the engine behind validator.w3.org/nu)."
+2026-11-08T21:16:34.387Z,ugcore-project.ugcore-vscode,ugcore-project,UgCore IntelliSense,1.0.0,"Types and snippets for the UgCore FiveM framework. Typed UgCore.* API, enums and hooks, with no setup."
