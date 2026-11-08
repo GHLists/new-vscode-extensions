@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 00:19 UTC
+## Latest list — 2026-11-08 01:18 UTC
 
-New extensions published between 2026-11-07 22:19 UTC and 2026-11-08 00:19 UTC.
+New extensions published between 2026-11-07 23:18 UTC and 2026-11-08 01:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T00-19-34-751831Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T01-18-51-668297Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-07 23:41:52 | [stbenjam.skillsaw](https://marketplace.visualstudio.com/items?itemName=stbenjam.skillsaw) | skillsaw | 0.1.0 | Lint AI agent skills, instructions, hooks and tool configuration with the skill… |
-| 2026-11-08 00:04:54 | [21HoKim.code-graph-vscode](https://marketplace.visualstudio.com/items?itemName=21HoKim.code-graph-vscode) | CodeGraph — Code Circuit Visualizer | 0.2.0 | See C, C++ and Python code as a live circuit: blocks for folders, files, classe… |
-| 2026-11-08 00:13:27 | [cujarrett.between-stars](https://marketplace.visualstudio.com/items?itemName=cujarrett.between-stars) | Between Stars | 0.1.0 | A purple-black space theme with a green accent. |
-| 2026-11-08 00:15:02 | [its99studios.gdc-vscode](https://marketplace.visualstudio.com/items?itemName=its99studios.gdc-vscode) | GDC | 1.0.0 | Language support for Godot Dialogue Compositor (GDC). |
+| 2026-11-08 00:26:08 | [413287184954.GitthecodeVS](https://marketplace.visualstudio.com/items?itemName=413287184954.GitthecodeVS) | GitthecodeVS | 1.0.0 | Intégration GitTheCode (repos, branches, commits, push/pull) dans VS Code. |
+| 2026-11-08 00:38:33 | [eeeggg.your-turn](https://marketplace.visualstudio.com/items?itemName=eeeggg.your-turn) | Your Turn | 0.4.0 | Work with coding agents and understand their changes, one turn at a time. |
+| 2026-11-08 01:14:31 | [NikolayChernuha.worktree-hopper](https://marketplace.visualstudio.com/items?itemName=NikolayChernuha.worktree-hopper) | Worktree Hopper | 1.0.0 | A Worktrees panel in Source Control: search by text or regex and switch git wor… |
 
 ## Data source
 

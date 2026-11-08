@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T00:26:08.217Z,413287184954.GitthecodeVS,413287184954,GitthecodeVS,1.0.0,"Intégration GitTheCode (repos, branches, commits, push/pull) dans VS Code."
+2026-11-08T00:38:33.293Z,eeeggg.your-turn,eeeggg,Your Turn,0.4.0,"Work with coding agents and understand their changes, one turn at a time."
+2026-11-08T01:14:31.683Z,NikolayChernuha.worktree-hopper,NikolayChernuha,Worktree Hopper,1.0.0,"A Worktrees panel in Source Control: search by text or regex and switch git worktrees in place, without reloading the window."
