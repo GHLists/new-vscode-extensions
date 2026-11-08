@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T15:20:46.61Z,peacekang.account-switcher-for-antigravity,peacekang,Account Switcher for Antigravity,0.0.1,Switch between Google Antigravity (agy) accounts in one click and see the active account's Gemini / Claude quota in the sidebar (Windows).
+2026-11-08T15:29:26.62Z,wwwh7.codetrail-app,wwwh7,CodeTrail — 架构导览与 AI 修改审查,0.5.1,Rust 静态代码图：入口路径、Git 修改影响、BYOK 职责叙述与有界架构记忆。
+2026-11-08T15:36:25.203Z,AbdullahMasood-005.nodefit-vscode,AbdullahMasood-005,nodefit,0.1.2,"Finds the Node.js version every dependency supports, and flags native modules with no prebuilt binary before node-gyp fails."
+2026-11-08T15:39:34.7Z,adam-wiacek-ch.togethersolo-diagram-viewer,adam-wiacek-ch,TogetherSolo Diagram Viewer,0.1.13,"Visualize TogetherSolo diagram files (.dfState, .dfPackage, .dfSequence) inside VS Code with live preview, syntax highlighting, bidirectional navigation, and export."
+2026-11-08T15:40:35.527Z,CGQAQ.clangdpp,CGQAQ,clangd++,0.2.0,"Class hierarchy, call, ownership and include graphs, exact class layouts, and go-to-definition through forward declarations for C and C++, powered by clangd."
+2026-11-08T15:51:12.427Z,gentle120.cmake-forge,gentle120,CMake Forge,1.0.0,"Generate ready-to-build CMake projects for ARM Cortex-M MCU firmware (chip data from CMSIS Packs), Linux / SoC cross compilation and desktop C/C++."
+2026-11-08T16:02:02.757Z,arman-dev.vs-kizuna-extension,arman-dev,VS Kizuna,0.0.1,Developer productivity and intelligent feedback toolkit for Visual Studio Code.
+2026-11-08T16:12:03.84Z,Codster.codster,Codster,Codster,0.1.100,"AI-агент для VS Code и Cursor: чат, инструменты, правки файлов, терминал, diff и откат. Бесплатный лимит без API-ключа, модели «Хокку», «Танка», «Ода» и «Эпос»."
