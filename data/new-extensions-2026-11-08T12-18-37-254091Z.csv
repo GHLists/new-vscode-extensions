@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T11:22:42.163Z,AnshGajera.ctx-workspace,AnshGajera,CTX,0.1.6,Explore local CTX project context without duplicating the Go engine.
+2026-11-08T11:30:53.22Z,ZenWave360.zenwave-platform,ZenWave360,ZenWave Platform,0.0.22,"Domain modeling, event storming and API design with ZDL and ZFL."
+2026-11-08T11:35:26.657Z,ShaneDaly.openrig-vsc,ShaneDaly,OpenRig-VSC,0.0.1,"Launch a persistent OpenRig agent team for your project inside VS Code, with automatic WSL2 setup."
+2026-11-08T11:45:01.277Z,eduardo239.hx99-night-city,eduardo239,HX99 Night City,0.1.0,"Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano), Night City Mint (suave, verde-menta) e Night City Cherry (suave, rosa-cereja)."
+2026-11-08T11:46:11.423Z,llamachat.llamachat-local,llamachat,LlamaChat Local,0.1.0,Run a local GGUF in VS Code and use it from GitHub Copilot Chat and Agent mode.
+2026-11-08T11:46:26.477Z,ResearchPilot.researchpilot-vscode,ResearchPilot,ResearchPilot,0.1.0,Institutional-Grade Multi-Agent AI Research & Fact-Checking Assistant for VS Code
+2026-11-08T11:47:06.877Z,ashsingh-ai.chroma,ashsingh-ai,Chroma — Title Bar Colors,1.0.1,"Instantly set your VS Code title bar color — native color picker, per-workspace."
+2026-11-08T11:48:02.857Z,himito.vscode-swh,himito,SWH for VS Code,0.1.0,"Software Heritage client: archive your code, cite it with a SWHID, and see which of your files are already archived."
+2026-11-08T11:57:10.013Z,JHeilingbrunner.vscode-code-city,JHeilingbrunner,Code-City,0.0.1,"Visualize code complexity (file length, folder structure) as a 3D city."
+2026-11-08T12:04:43.723Z,YoshioNishiyama.esa-explorer,YoshioNishiyama,esa Explorer,0.1.0,esa.ioの記事をVisual Studio Code上で一覧・閲覧・編集する拡張機能
+2026-11-08T12:10:11.783Z,YangLiu0802.claude-context-audit,YangLiu0802,Context Audit for Claude Code,0.2.0,"See every MCP server, plugin, skill, agent and hook Claude Code loads in this project, what each costs in tokens, and switch off what you never use."

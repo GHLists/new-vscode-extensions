@@ -12,19 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 11:19 UTC
+## Latest list — 2026-11-08 12:18 UTC
 
-New extensions published between 2026-11-08 09:19 UTC and 2026-11-08 11:19 UTC.
+New extensions published between 2026-11-08 10:18 UTC and 2026-11-08 12:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T11-19-01-192478Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T12-18-37-254091Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 10:35:00 | [JJLIM00.tabpalette](https://marketplace.visualstudio.com/items?itemName=JJLIM00.tabpalette) | TabPalette - Tab Groups | 0.1.1 | Chrome-style tab groups on the VS Code tab bar: named, colored groups you can c… |
-| 2026-11-08 10:46:02 | [EugenioCos.dep-chain](https://marketplace.visualstudio.com/items?itemName=EugenioCos.dep-chain) | Dep Chain | 0.0.1 | Run ordered cross-repo setup chains: fetch, checkout, pull and shell commands i… |
-| 2026-11-08 10:51:00 | [Tally.tally-syntax](https://marketplace.visualstudio.com/items?itemName=Tally.tally-syntax) | Tally - Learn to Code | 0.1.1 | Syntax highlighting and editor support for the Tally programming language. |
-| 2026-11-08 11:01:56 | [qian-o.byok-studio](https://marketplace.visualstudio.com/items?itemName=qian-o.byok-studio) | BYOK Studio | 1.0.2 | Manage Copilot Custom Endpoint providers and model presets in a compact interfa… |
-| 2026-11-08 11:05:48 | [RajatMalik.file-coverage-insight](https://marketplace.visualstudio.com/items?itemName=RajatMalik.file-coverage-insight) | File Coverage Insight | 1.1.0 | See line, branch, function and statement coverage for the file you open - Jest,… |
+| 2026-11-08 11:22:42 | [AnshGajera.ctx-workspace](https://marketplace.visualstudio.com/items?itemName=AnshGajera.ctx-workspace) | CTX | 0.1.6 | Explore local CTX project context without duplicating the Go engine. |
+| 2026-11-08 11:30:53 | [ZenWave360.zenwave-platform](https://marketplace.visualstudio.com/items?itemName=ZenWave360.zenwave-platform) | ZenWave Platform | 0.0.22 | Domain modeling, event storming and API design with ZDL and ZFL. |
+| 2026-11-08 11:35:26 | [ShaneDaly.openrig-vsc](https://marketplace.visualstudio.com/items?itemName=ShaneDaly.openrig-vsc) | OpenRig-VSC | 0.0.1 | Launch a persistent OpenRig agent team for your project inside VS Code, with au… |
+| 2026-11-08 11:45:01 | [eduardo239.hx99-night-city](https://marketplace.visualstudio.com/items?itemName=eduardo239.hx99-night-city) | HX99 Night City | 0.1.0 | Temas escuros inspirados em Cyberpunk 2077: Night City (neon amarelo e ciano),… |
+| 2026-11-08 11:46:11 | [llamachat.llamachat-local](https://marketplace.visualstudio.com/items?itemName=llamachat.llamachat-local) | LlamaChat Local | 0.1.0 | Run a local GGUF in VS Code and use it from GitHub Copilot Chat and Agent mode. |
+| 2026-11-08 11:46:26 | [ResearchPilot.researchpilot-vscode](https://marketplace.visualstudio.com/items?itemName=ResearchPilot.researchpilot-vscode) | ResearchPilot | 0.1.0 | Institutional-Grade Multi-Agent AI Research & Fact-Checking Assistant for VS Co… |
+| 2026-11-08 11:47:06 | [ashsingh-ai.chroma](https://marketplace.visualstudio.com/items?itemName=ashsingh-ai.chroma) | Chroma — Title Bar Colors | 1.0.1 | Instantly set your VS Code title bar color — native color picker, per-workspace. |
+| 2026-11-08 11:48:02 | [himito.vscode-swh](https://marketplace.visualstudio.com/items?itemName=himito.vscode-swh) | SWH for VS Code | 0.1.0 | Software Heritage client: archive your code, cite it with a SWHID, and see whic… |
+| 2026-11-08 11:57:10 | [JHeilingbrunner.vscode-code-city](https://marketplace.visualstudio.com/items?itemName=JHeilingbrunner.vscode-code-city) | Code-City | 0.0.1 | Visualize code complexity (file length, folder structure) as a 3D city. |
+| 2026-11-08 12:04:43 | [YoshioNishiyama.esa-explorer](https://marketplace.visualstudio.com/items?itemName=YoshioNishiyama.esa-explorer) | esa Explorer | 0.1.0 | esa.ioの記事をVisual Studio Code上で一覧・閲覧・編集する拡張機能 |
+| 2026-11-08 12:10:11 | [YangLiu0802.claude-context-audit](https://marketplace.visualstudio.com/items?itemName=YangLiu0802.claude-context-audit) | Context Audit for Claude Code | 0.2.0 | See every MCP server, plugin, skill, agent and hook Claude Code loads in this p… |
 
 ## Data source
 
