@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 03:20 UTC
+## Latest list — 2026-11-08 04:20 UTC
 
-New extensions published between 2026-11-08 01:20 UTC and 2026-11-08 03:20 UTC.
+New extensions published between 2026-11-08 02:20 UTC and 2026-11-08 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T03-20-42-452236Z.csv)
+[Full CSV](data/new-extensions-2026-11-08T04-20-32-904205Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 02:46:18 | [EdgeInformation.gigglybits-theme-lab](https://marketplace.visualstudio.com/items?itemName=EdgeInformation.gigglybits-theme-lab) | GigglyBits Theme Lab | 0.1.1 | Design your own dark VS Code theme, preview it live, and give each project a co… |
-| 2026-11-08 02:49:51 | [DynamoSoftware.opencode-fusion](https://marketplace.visualstudio.com/items?itemName=DynamoSoftware.opencode-fusion) | OpenCode Fusion | 0.6.10 | Bring OpenCode models, free options, agents, and tools into VS Code Chat. Conne… |
-| 2026-11-08 02:56:13 | [rubtsov-stan.rift-diff](https://marketplace.visualstudio.com/items?itemName=rubtsov-stan.rift-diff) | Rift: Diff Huge Files | 0.3.0 | Compare huge text files in VS Code's own diff editor, one difference at a time. |
-| 2026-11-08 02:59:16 | [chistokhinsv.ansible-flow-designer](https://marketplace.visualstudio.com/items?itemName=chistokhinsv.ansible-flow-designer) | Ansible Flow Designer | 0.74.0 | Design Ansible automation as a diagram: draw the steps, handle every failure, a… |
-| 2026-11-08 03:06:43 | [armotusitio.noditrivo](https://marketplace.visualstudio.com/items?itemName=armotusitio.noditrivo) | Noditrivo | 0.1.0 | Evidence-based change impact intelligence for VS Code |
+| 2026-11-08 03:16:29 | [Rohit-kumar-g.sfflow-table-preview](https://marketplace.visualstudio.com/items?itemName=Rohit-kumar-g.sfflow-table-preview) | Flow Table Preview for Salesforce | 0.5.0 | See what a Salesforce flow does from its XML: step-by-step table, diagram, best… |
+| 2026-11-08 03:24:42 | [TQSY.springy-cursor](https://marketplace.visualstudio.com/items?itemName=TQSY.springy-cursor) | Springy Cursor | 0.2.5 | Neovide-like animated cursor trail for VS Code |
+| 2026-11-08 03:31:29 | [debugt-labs.debugt-extension](https://marketplace.visualstudio.com/items?itemName=debugt-labs.debugt-extension) | Debugt | 0.1.0 | Run and debug a system of services from one canvas, and trace every request acr… |
+| 2026-11-08 03:53:34 | [ItemCoder.storm-parity](https://marketplace.visualstudio.com/items?itemName=ItemCoder.storm-parity) | Storm Parity | 0.1.0 | PhpStorm-style workflow for VS Code: open-folder prompt, recent projects, mnemo… |
+| 2026-11-08 03:53:55 | [b1tninja.continuous](https://marketplace.visualstudio.com/items?itemName=b1tninja.continuous) | Continuous | 2.4.4 | Continuous: a community-maintained fork of the Continue open-source AI code age… |
+| 2026-11-08 03:54:51 | [sedna-lang.sedna-lang](https://marketplace.visualstudio.com/items?itemName=sedna-lang.sedna-lang) | Sedna | 2.1.0 | Soporte para el lenguaje Sedna (multilingüe): resaltado en 7 idiomas, errores e… |
+| 2026-11-08 03:58:32 | [kbach.kbach-vscode](https://marketplace.visualstudio.com/items?itemName=kbach.kbach-vscode) | Kbach IntelliSense | 0.1.1 | className autocomplete, hover previews, and inline typo diagnostics for Kbach —… |
 
 ## Data source
 

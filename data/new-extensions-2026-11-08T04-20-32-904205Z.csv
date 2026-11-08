@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-08T03:16:29.893Z,Rohit-kumar-g.sfflow-table-preview,Rohit-kumar-g,Flow Table Preview for Salesforce,0.5.0,"See what a Salesforce flow does from its XML: step-by-step table, diagram, best-practice checks, compare with org versions or local files, Markdown/HTML export and Ask with AI."
+2026-11-08T03:24:42.39Z,TQSY.springy-cursor,TQSY,Springy Cursor,0.2.5,Neovide-like animated cursor trail for VS Code
+2026-11-08T03:31:29.837Z,debugt-labs.debugt-extension,debugt-labs,Debugt,0.1.0,"Run and debug a system of services from one canvas, and trace every request across them"
+2026-11-08T03:53:34.467Z,ItemCoder.storm-parity,ItemCoder,Storm Parity,0.1.0,"PhpStorm-style workflow for VS Code: open-folder prompt, recent projects, mnemonic bookmarks, recent locations, clipboard history, surround with, scratch files, changelists, shelf, local history and more."
+2026-11-08T03:53:55.5Z,b1tninja.continuous,b1tninja,Continuous,2.4.4,Continuous: a community-maintained fork of the Continue open-source AI code agent
+2026-11-08T03:54:51.477Z,sedna-lang.sedna-lang,sedna-lang,Sedna,2.1.0,"Soporte para el lenguaje Sedna (multilingüe): resaltado en 7 idiomas, errores en vivo, formateador, fragmentos y ejecución."
+2026-11-08T03:58:32.47Z,kbach.kbach-vscode,kbach,Kbach IntelliSense,0.1.1,"className autocomplete, hover previews, and inline typo diagnostics for Kbach — the Rust-powered utility-class styling engine for React and React Native."
