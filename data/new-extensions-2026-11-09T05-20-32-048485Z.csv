@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T04:58:14.127Z,PirapaakaranPirathapan.task-craft-pro,PirapaakaranPirathapan,Task Craft Pro: Visual Task & Comment Board,0.1.0,Interactive visual task management board for project comments with 1-click code navigation.
+2026-11-09T05:04:32.583Z,dimanrus.http-pulse-vscode,dimanrus,HTTP Pulse,1.0.0,"A fast, beautiful HTTP client for .http files: run requests with CodeLens, switch environments, use variables and inspect responses in a rich viewer."
+2026-11-09T05:04:56.56Z,PirapaakaranPirathapan.quickrest-pro,PirapaakaranPirathapan,QuickRest Pro: Inline HTTP & cURL Runner 🌐,0.1.0,"Lightning-fast inline HTTP request & cURL runner with Alt+Enter execution, CodeLens, and interactive response inspector!"

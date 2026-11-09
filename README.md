@@ -12,21 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 04:19 UTC
+## Latest list — 2026-11-09 05:20 UTC
 
-New extensions published between 2026-11-09 02:19 UTC and 2026-11-09 04:19 UTC.
+New extensions published between 2026-11-09 03:20 UTC and 2026-11-09 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T04-19-46-257553Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T05-20-32-048485Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 03:16:51 | [atdev.memingo](https://marketplace.visualstudio.com/items?itemName=atdev.memingo) | Memingo | 0.2.2 | Memingo language support, commands and project tooling for Visual Studio Code. |
-| 2026-11-09 03:19:49 | [wxblue.go-external-libraries](https://marketplace.visualstudio.com/items?itemName=wxblue.go-external-libraries) | Go Workspace Library Navigator | 0.1.0 | Browse Go SDKs, multi-module workspaces and local replacements in the Explorer. |
-| 2026-11-09 03:35:43 | [gauravnagar.python-random-list](https://marketplace.visualstudio.com/items?itemName=gauravnagar.python-random-list) | python random list | 0.0.4 | shortcut for python list |
-| 2026-11-09 03:39:35 | [BosiTerryLin.guided-i18n](https://marketplace.visualstudio.com/items?itemName=BosiTerryLin.guided-i18n) | guided-i18n: AI i18n for React | 0.1.0 | Internationalize your React app in a few clicks: no prompts, no surprises. Revi… |
-| 2026-11-09 03:40:04 | [toga4.golspk](https://marketplace.visualstudio.com/items?itemName=toga4.golspk) | golspk | 0.1.1 | A fast, read-only Go language server for reading code: go to definition, hover,… |
-| 2026-11-09 04:05:31 | [HavisunTechnologies.auth-studio-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.auth-studio-vscode) | Auth Studio for SAP BTP | 0.1.0 | Visual editor for xs-security.json and a view of AMS policies, both checked aga… |
-| 2026-11-09 04:08:03 | [victorcesae.steerhouse](https://marketplace.visualstudio.com/items?itemName=victorcesae.steerhouse) | Steerhouse | 1.0.0 | Steer every AI coding agent from your editor: live sessions and sub-agents, rea… |
+| 2026-11-09 04:58:14 | [PirapaakaranPirathapan.task-craft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.task-craft-pro) | Task Craft Pro: Visual Task & Comment B… | 0.1.0 | Interactive visual task management board for project comments with 1-click code… |
+| 2026-11-09 05:04:32 | [dimanrus.http-pulse-vscode](https://marketplace.visualstudio.com/items?itemName=dimanrus.http-pulse-vscode) | HTTP Pulse | 1.0.0 | A fast, beautiful HTTP client for .http files: run requests with CodeLens, swit… |
+| 2026-11-09 05:04:56 | [PirapaakaranPirathapan.quickrest-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.quickrest-pro) | QuickRest Pro: Inline HTTP & cURL Runne… | 0.1.0 | Lightning-fast inline HTTP request & cURL runner with Alt+Enter execution, Code… |
 
 ## Data source
 
