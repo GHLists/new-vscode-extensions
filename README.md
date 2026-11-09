@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 02:20 UTC
+## Latest list — 2026-11-09 03:19 UTC
 
-New extensions published between 2026-11-09 00:20 UTC and 2026-11-09 02:20 UTC.
+New extensions published between 2026-11-09 01:19 UTC and 2026-11-09 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T02-20-47-26496Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T03-19-45-320632Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 01:44:51 | [rajareddye.yaml-preview-enhanced-r](https://marketplace.visualstudio.com/items?itemName=rajareddye.yaml-preview-enhanced-r) | yaml-preview-enhanced-r | 0.1.2 | Preview YAML as a live, searchable tree with anchors, tables, JSON Schema valid… |
-| 2026-11-09 01:49:08 | [Zaxckheal101.double-click-highlighted-quotes](https://marketplace.visualstudio.com/items?itemName=Zaxckheal101.double-click-highlighted-quotes) | Double-Click Highlighted Quotes | 0.0.1 | Double-click inside double quotes to select everything between them - in any la… |
-| 2026-11-09 01:54:38 | [slixtex.slixtex](https://marketplace.visualstudio.com/items?itemName=slixtex.slixtex) | SlixTeX | 0.0.1 | SlixTeX — TeX editing based on LyX for VS Code. |
+| 2026-11-09 02:19:24 | [leodu.aimlab](https://marketplace.visualstudio.com/items?itemName=leodu.aimlab) | AimLab | 1.0.0 | In-editor aim training: practice flicks, click accuracy and target tracking on… |
+| 2026-11-09 02:28:46 | [cleb-01.js-preview](https://marketplace.visualstudio.com/items?itemName=cleb-01.js-preview) | jsPreview | 0.0.2 | Preview JavaScript/TypeScript/React projects in vscode.dev |
+| 2026-11-09 02:28:59 | [bscan.stitch](https://marketplace.visualstudio.com/items?itemName=bscan.stitch) | Stitch: SVN & Git File History | 0.0.5 | See who changed a file, when and why. Works with SVN and Git, no svn install ne… |
+| 2026-11-09 02:30:55 | [duzhe-theme.deep-blue-themes](https://marketplace.visualstudio.com/items?itemName=duzhe-theme.deep-blue-themes) | Deep Blue Themes | 1.0.0 | Deep Blue, Dark and Light color themes with a calm, low-contrast palette. |
+| 2026-11-09 02:39:02 | [raresteak.project-control-studio](https://marketplace.visualstudio.com/items?itemName=raresteak.project-control-studio) | Project Control Studio | 0.17.6 | Personal Kanban planning, optional GitHub Issues, read-only Codex reviews and T… |
+| 2026-11-09 02:55:36 | [leiipo.opened-changes](https://marketplace.visualstudio.com/items?itemName=leiipo.opened-changes) | Opened Changes | 0.2.2 | 标注文件自打开（或上次标记基线）以来被新增、修改、删除的行，类似 Source Insight 的改动标记。 |
 
 ## Data source
 
