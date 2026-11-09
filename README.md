@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 21:20 UTC
+## Latest list — 2026-11-09 22:20 UTC
 
-New extensions published between 2026-11-09 19:20 UTC and 2026-11-09 21:20 UTC.
+New extensions published between 2026-11-09 20:20 UTC and 2026-11-09 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T21-20-33-275407Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T22-20-23-29361Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 20:31:24 | [dasax.shng-items](https://marketplace.visualstudio.com/items?itemName=dasax.shng-items) | SmartHomeNG Items | 0.1.1 | SmartHomeNG items in VS Code: item tree with resolved structs, search & filter,… |
-| 2026-11-09 20:40:16 | [elazon.void-git](https://marketplace.visualstudio.com/items?itemName=elazon.void-git) | Void Git | 0.1.0 | IntelliJ-style git log: full commit graph, cherry-pick, reword, interactive reb… |
-| 2026-11-09 20:48:53 | [snipharbor.snipharbor](https://marketplace.visualstudio.com/items?itemName=snipharbor.snipharbor) | SnipHarbor | 0.1.0 | Search, insert, save, edit and run your SnipHarbor snippets without leaving the… |
-| 2026-11-09 21:01:53 | [a7ec5.vscode-nufmt](https://marketplace.visualstudio.com/items?itemName=a7ec5.vscode-nufmt) | vscode-nufmt | 0.0.1 | Formats Nushell documents with nufmt. |
-| 2026-11-09 21:16:04 | [leandrosilva.claude-session-id](https://marketplace.visualstudio.com/items?itemName=leandrosilva.claude-session-id) | CØdeZØne Claude Session ID | 0.2.0 | Copy the name or UUID of the Claude Code session running in this window, straig… |
+| 2026-11-09 21:29:24 | [bmosher.virtual-filesystem-for-dropbox](https://marketplace.visualstudio.com/items?itemName=bmosher.virtual-filesystem-for-dropbox) | Virtual Filesystem for Dropbox | 0.1.1 | Open Dropbox folders as workspace folders, with an offline mirror. Works on vsc… |
+| 2026-11-09 21:31:35 | [VincentUntiedt.alcops-static-dependencies-offline](https://marketplace.visualstudio.com/items?itemName=VincentUntiedt.alcops-static-dependencies-offline) | ALcops-Static-Dependencies | 0.2.0 | Offline, pinned analyzer payload for arthurvdv.alcops. Network policy remains t… |
+| 2026-11-09 21:39:42 | [condense-chat.condense](https://marketplace.visualstudio.com/items?itemName=condense-chat.condense) | Condense for VS Code | 0.1.0 | Get more out of your Claude Code plan. Run Claude Code, Codex, or OpenCode with… |
+| 2026-11-09 21:56:32 | [vscode-ansible.ansible-toolkit](https://marketplace.visualstudio.com/items?itemName=vscode-ansible.ansible-toolkit) | Ansible Toolkit | 0.1.0 | A full-featured Ansible toolkit for VS Code: syntax highlighting, module autoco… |
 
 ## Data source
 

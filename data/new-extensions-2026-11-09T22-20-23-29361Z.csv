@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T21:29:24.257Z,bmosher.virtual-filesystem-for-dropbox,bmosher,Virtual Filesystem for Dropbox,0.1.1,"Open Dropbox folders as workspace folders, with an offline mirror. Works on vscode.dev and desktop."
+2026-11-09T21:31:35.437Z,VincentUntiedt.alcops-static-dependencies-offline,VincentUntiedt,ALcops-Static-Dependencies,0.2.0,"Offline, pinned analyzer payload for arthurvdv.alcops. Network policy remains the download enforcement."
+2026-11-09T21:39:42.88Z,condense-chat.condense,condense-chat,Condense for VS Code,0.1.0,"Get more out of your Claude Code plan. Run Claude Code, Codex, or OpenCode with context compression directly in your VS Code terminal."
+2026-11-09T21:56:32.373Z,vscode-ansible.ansible-toolkit,vscode-ansible,Ansible Toolkit,0.1.0,"A full-featured Ansible toolkit for VS Code: syntax highlighting, module autocomplete, playbook runner, linting, project graphs, secret detection, and debugging."
