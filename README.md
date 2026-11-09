@@ -12,17 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 05:20 UTC
+## Latest list — 2026-11-09 06:20 UTC
 
-New extensions published between 2026-11-09 03:20 UTC and 2026-11-09 05:20 UTC.
+New extensions published between 2026-11-09 04:20 UTC and 2026-11-09 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T05-20-32-048485Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T06-20-22-866453Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 04:58:14 | [PirapaakaranPirathapan.task-craft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.task-craft-pro) | Task Craft Pro: Visual Task & Comment B… | 0.1.0 | Interactive visual task management board for project comments with 1-click code… |
-| 2026-11-09 05:04:32 | [dimanrus.http-pulse-vscode](https://marketplace.visualstudio.com/items?itemName=dimanrus.http-pulse-vscode) | HTTP Pulse | 1.0.0 | A fast, beautiful HTTP client for .http files: run requests with CodeLens, swit… |
-| 2026-11-09 05:04:56 | [PirapaakaranPirathapan.quickrest-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.quickrest-pro) | QuickRest Pro: Inline HTTP & cURL Runne… | 0.1.0 | Lightning-fast inline HTTP request & cURL runner with Alt+Enter execution, Code… |
+| 2026-11-09 05:16:18 | [PirapaakaranPirathapan.unused-code-hunter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.unused-code-hunter-pro) | Unused Code Hunter Pro: Dead Imports &… | 0.1.0 | Detect and clean unused dependencies, dead imports, and orphaned functions acro… |
+| 2026-11-09 05:34:18 | [AndresConradoMontoya.context-tools](https://marketplace.visualstudio.com/items?itemName=AndresConradoMontoya.context-tools) | ConTeXt Tools | 0.1.60 | ConTeXt SyncTeX PDF preview, equation hover preview, DigestiF language server,… |
+| 2026-11-09 05:41:26 | [zovo.zovo-auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-auto-rename-tag) | Tag Auto Rename & Close Tag Sync (Match… | 0.1.0 | Auto rename tag and auto close tag as you type in HTML, JSX/TSX, Vue, Svelte, P… |
+| 2026-11-09 05:47:35 | [PirapaakaranPirathapan.ambient-dev-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.ambient-dev-pro) | Ambient Dev Pro: Focus Audio & Pomodoro… | 0.1.0 | Offline ambient soundscapes (rain, cafe, vinyl, white noise) paired with a mini… |
+| 2026-11-09 06:08:40 | [uttori.uttori-asm-vscode](https://marketplace.visualstudio.com/items?itemName=uttori.uttori-asm-vscode) | Uttori Assembly | 1.0.0 | Assembly editing, builds, ROM analysis, and debugging for SNES and 65xx. |
+| 2026-11-09 06:14:05 | [PirapaakaranPirathapan.mockmaster-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.mockmaster-pro) | MockMaster Pro: Instant Mock Data & Loc… | 0.1.0 | Generate realistic mock data inline (@mock.name, @mock.email, @mock.uuid) and l… |
+| 2026-11-09 06:14:32 | [PirapaakaranPirathapan.responsive-canvas-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.responsive-canvas-pro) | Responsive Canvas Pro: Multi-Screen Vie… | 0.1.0 | Simultaneous multi-device responsive web previewer for Mobile, Tablet, and Desk… |
 
 ## Data source
 
