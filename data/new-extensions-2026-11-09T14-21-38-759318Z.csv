@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T13:25:44.72Z,scao.jsonbrowse,scao,JsonBrowse,0.1.0,"Read JSON and JSONL with escaped \n in strings displayed as real line breaks, plus colors, nesting, and automatic wrapping."
+2026-11-09T13:35:02.21Z,mtafakori1993.pairpilot,mtafakori1993,PairPilot,0.1.1,"Human-controlled AI pair programming. The AI proposes, you review and approve, then PairPilot writes the code in your real editor."
+2026-11-09T13:44:42.027Z,xwolfoverride.div2-on-vscode,xwolfoverride,DIV2 on VS Code,0.1.0,"DIV Games Studio 2 language support: syntax highlighting, block folding, built-in help (completion, hover, parameter hints), outline and navigation of your processes and variables, formatting, snippets and DOS file conventions (CP850, CRLF)."
+2026-11-09T13:48:24.9Z,blamnetwork.megaloevolved,blamnetwork,MegaloEvolved LSP,0.42.0,Language Server for Halo's Megalo scripting language.
+2026-11-09T13:59:43.89Z,trae-jsharness.jsharness,trae-jsharness,JSHarness,2.7.5,JSHarness —— Trae / VS Code 团队协作扩展面板，提供实时看板、使用统计、插件目录与缺陷管理，支持插件市场分发、自动安装及 MCP/Rule/Hook 自动注册
+2026-11-09T14:06:23.747Z,SoftForge.softforge-perf-analyser,SoftForge,Soft Forge Perf Analyser,2.0.0,"Annotate source code with perf and py-spy profiles: line heatmaps, hottest-line navigation and an interactive flame graph."

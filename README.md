@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 13:21 UTC
+## Latest list — 2026-11-09 14:21 UTC
 
-New extensions published between 2026-11-09 11:21 UTC and 2026-11-09 13:21 UTC.
+New extensions published between 2026-11-09 12:21 UTC and 2026-11-09 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T13-21-18-470114Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T14-21-38-759318Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 12:16:42 | [novair.fix-log-analyzer](https://marketplace.visualstudio.com/items?itemName=novair.fix-log-analyzer) | FIX Protocol Log Analyzer: order lifecy… | 1.0.1 | FIX protocol logs in VS Code: decoded messages, rejection reasons, order lifecy… |
-| 2026-11-09 12:21:50 | [Methodox.divooka-dhole-in-markdown](https://marketplace.visualstudio.com/items?itemName=Methodox.divooka-dhole-in-markdown) | Dhole in Markdown | 0.1.0 | Draws Dhole diagrams - flowcharts, sequence, state, class and entity diagrams,… |
-| 2026-11-09 12:39:38 | [codetin.ai-commit-codetin](https://marketplace.visualstudio.com/items?itemName=codetin.ai-commit-codetin) | AI Commit (codetin) | 0.1.5 | Use OpenAI/Gemini/Claude/Azure API to review Git changes, generate conventional… |
-| 2026-11-09 12:42:37 | [Kaditya67.git-profile-hub](https://marketplace.visualstudio.com/items?itemName=Kaditya67.git-profile-hub) | Git Profile Hub (Account Switcher) | 1.1.0 | Visual sidebar panel & status bar to view, switch, and manage Git identities lo… |
-| 2026-11-09 12:52:46 | [SoftForge.vscode-extension-cxpm](https://marketplace.visualstudio.com/items?itemName=SoftForge.vscode-extension-cxpm) | CX::PM | 0.8.2 | Build, test, pack and install cxpm projects from Visual Studio Code: targets, t… |
-| 2026-11-09 13:06:32 | [kukudim.ccode-bits](https://marketplace.visualstudio.com/items?itemName=kukudim.ccode-bits) | CCode Bits | 0.1.1 | Utilities for Claude Code in VS Code, starting with chat pins via an opt-in, re… |
-| 2026-11-09 13:06:44 | [zovo.zovo-load-testing](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-load-testing) | Load Testing & HTTP Load Tests for APIs… | 0.1.0 | Free load testing for HTTP APIs inside VS Code, with no account, no cloud and n… |
+| 2026-11-09 13:25:44 | [scao.jsonbrowse](https://marketplace.visualstudio.com/items?itemName=scao.jsonbrowse) | JsonBrowse | 0.1.0 | Read JSON and JSONL with escaped \n in strings displayed as real line breaks, p… |
+| 2026-11-09 13:35:02 | [mtafakori1993.pairpilot](https://marketplace.visualstudio.com/items?itemName=mtafakori1993.pairpilot) | PairPilot | 0.1.1 | Human-controlled AI pair programming. The AI proposes, you review and approve,… |
+| 2026-11-09 13:44:42 | [xwolfoverride.div2-on-vscode](https://marketplace.visualstudio.com/items?itemName=xwolfoverride.div2-on-vscode) | DIV2 on VS Code | 0.1.0 | DIV Games Studio 2 language support: syntax highlighting, block folding, built-… |
+| 2026-11-09 13:48:24 | [blamnetwork.megaloevolved](https://marketplace.visualstudio.com/items?itemName=blamnetwork.megaloevolved) | MegaloEvolved LSP | 0.42.0 | Language Server for Halo's Megalo scripting language. |
+| 2026-11-09 13:59:43 | [trae-jsharness.jsharness](https://marketplace.visualstudio.com/items?itemName=trae-jsharness.jsharness) | JSHarness | 2.7.5 | JSHarness —— Trae / VS Code 团队协作扩展面板，提供实时看板、使用统计、插件目录与缺陷管理，支持插件市场分发、自动安装及 MCP/R… |
+| 2026-11-09 14:06:23 | [SoftForge.softforge-perf-analyser](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-perf-analyser) | Soft Forge Perf Analyser | 2.0.0 | Annotate source code with perf and py-spy profiles: line heatmaps, hottest-line… |
 
 ## Data source
 
