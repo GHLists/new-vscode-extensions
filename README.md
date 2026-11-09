@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 00:19 UTC
+## Latest list — 2026-11-09 01:19 UTC
 
-New extensions published between 2026-11-08 22:19 UTC and 2026-11-09 00:19 UTC.
+New extensions published between 2026-11-08 23:19 UTC and 2026-11-09 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T00-19-37-838939Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T01-19-19-81538Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 23:48:16 | [sidsoftstudio.model-context-lens](https://marketplace.visualstudio.com/items?itemName=sidsoftstudio.model-context-lens) | Model Context Lens | 0.4.3 | See what fills your AI agent's context window — Claude Code (exact /context spl… |
-| 2026-11-09 00:01:55 | [meirb.commit-draft](https://marketplace.visualstudio.com/items?itemName=meirb.commit-draft) | Commit Draft: AI Commit Messages for Co… | 0.2.0 | Draft Git commit messages with AI, using the Codex CLI or Claude Code you alrea… |
+| 2026-11-09 00:26:34 | [p10node.claude-account-switch](https://marketplace.visualstudio.com/items?itemName=p10node.claude-account-switch) | Claude Account Switch | 0.1.0 | Unofficial. Log in, switch and check quota of several Claude Code accounts from… |
+| 2026-11-09 00:45:31 | [FlowIME.flowime](https://marketplace.visualstudio.com/items?itemName=FlowIME.flowime) | FlowIME: Auto Input Switcher | 0.5.4 | Chinese for chat, English for the terminal. Switch input modes with focus using… |
 
 ## Data source
 
