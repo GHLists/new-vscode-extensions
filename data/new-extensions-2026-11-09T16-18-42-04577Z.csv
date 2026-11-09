@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T15:20:57.033Z,RockYou.image-path-preview,RockYou,Image Path Preview,1.0.2,Preview image paths while browsing autocomplete or hovering over code in VS Code and compatible editors.
+2026-11-09T15:30:49.897Z,globw.globw,globw,Globw,1.46.0,"Syntax colors, run button, live errors, completion, hover and formatting for the Globw language (.gw)"
+2026-11-09T15:34:40.82Z,yotsuda.calamo,yotsuda,Calamo Sheet Music Scanner,0.6.0,"Optical music recognition (OMR) for Lily#: reads a page image or PDF of printed sheet music into editable Lily# (.lys) text, with the uncertain places marked. Open source (Apache-2.0). Adds to the Lily# extension; runs locally on Windows."
+2026-11-09T15:59:15.623Z,yotsuda.cantoria,yotsuda,Cantoria Singing Voice,0.4.0,"Sings the lyrics of a score for notation extensions such as Lily#: notes with syllables in, a voice out, through DiffSinger voices in the OpenUtau format, or your own NEUTRINO or VOICEVOX. Voices from different engines can sing together. Open source (Apache-2.0); runs locally."
