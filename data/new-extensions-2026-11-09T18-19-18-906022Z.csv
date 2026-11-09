@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T17:20:41.603Z,JohnK.autoformat,JohnK,AutoFormat,0.1.0,"One formatter for Rust, TOML, TypeScript, JavaScript, C# and PowerShell. No other tools needed."
+2026-11-09T17:34:12.99Z,hugo0.db-explorer-Multi-SQL,hugo0,DB Explorer Multi-SQL,0.35.1,"Multi-database SQL explorer and client (Oracle with tnsnames.ora, SQLite, MySQL/MariaDB, PostgreSQL) inspired by Toad: Schema Browser, query history, results grid, Explain Plan, DDL, export."
+2026-11-09T17:45:00.773Z,zovo.zovo-run-cpp,zovo,"Run C++ and C Code: One-Click Compile with GCC, G++, Clang (CPP Runner, Input Panel)",0.1.0,"Run C++ and C code with one click: compile and run the current file with gcc, g++, clang or clang++. Interactive input in the terminal, an Input panel with saved test cases and diffs, errors in Problems, Stop for endless loops, per-file flags. Free, no sign-in, works offline."
+2026-11-09T17:46:57.797Z,dIIIvblo.navidad-rojo-baston,dIIIvblo,Navidad Rojo Bastón,1.2.0,"Tema oscuro navideño para VS Code: rojo Santa, verde pino, dorado de esferas y blanco nieve sobre una noche de invierno."
+2026-11-09T17:57:28.683Z,MarkMcLaren.zip-this-folder,MarkMcLaren,Zip This Folder,0.1.0,Right-click any folder in the Explorer sidebar to compress it into a zip file.
