@@ -12,18 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 16:18 UTC
+## Latest list — 2026-11-09 17:19 UTC
 
-New extensions published between 2026-11-09 14:18 UTC and 2026-11-09 16:18 UTC.
+New extensions published between 2026-11-09 15:19 UTC and 2026-11-09 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T16-18-42-04577Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T17-19-10-671533Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 15:20:57 | [RockYou.image-path-preview](https://marketplace.visualstudio.com/items?itemName=RockYou.image-path-preview) | Image Path Preview | 1.0.2 | Preview image paths while browsing autocomplete or hovering over code in VS Cod… |
-| 2026-11-09 15:30:49 | [globw.globw](https://marketplace.visualstudio.com/items?itemName=globw.globw) | Globw | 1.46.0 | Syntax colors, run button, live errors, completion, hover and formatting for th… |
-| 2026-11-09 15:34:40 | [yotsuda.calamo](https://marketplace.visualstudio.com/items?itemName=yotsuda.calamo) | Calamo Sheet Music Scanner | 0.6.0 | Optical music recognition (OMR) for Lily#: reads a page image or PDF of printed… |
-| 2026-11-09 15:59:15 | [yotsuda.cantoria](https://marketplace.visualstudio.com/items?itemName=yotsuda.cantoria) | Cantoria Singing Voice | 0.4.0 | Sings the lyrics of a score for notation extensions such as Lily#: notes with s… |
+| 2026-11-09 16:25:43 | [arthur-carminati.embedmark](https://marketplace.visualstudio.com/items?itemName=arthur-carminati.embedmark) | EmbedMark | 0.4.1 | Traduza um subconjunto explícito de HTML/CSS para interfaces C do LVGL 8.3, com… |
+| 2026-11-09 16:33:04 | [Hemashushu.ason-vscode](https://marketplace.visualstudio.com/items?itemName=Hemashushu.ason-vscode) | ASON | 1.0.0 | ASON syntax highlighting, source-preserving formatting and validation, powered… |
+| 2026-11-09 16:41:51 | [CodeWithKolin.codebeautifier](https://marketplace.visualstudio.com/items?itemName=CodeWithKolin.codebeautifier) | Code Beautifier (codebeautifier.app) | 0.1.0 | Format JSON, SQL, HTML, CSS, JS, and XML with Code Beautifier — or open any too… |
+| 2026-11-09 16:47:32 | [zsolt-tarczali.vma-assembler](https://marketplace.visualstudio.com/items?itemName=zsolt-tarczali.vma-assembler) | VMA — Visual Macro Assembler | 0.1.3 | Language support for VMA (Visual Macro Assembler) — the 6502 / 6510 assembler o… |
+| 2026-11-09 16:52:02 | [RodrigoBritto.treinamento-dspic33ak](https://marketplace.visualstudio.com/items?itemName=RodrigoBritto.treinamento-dspic33ak) | Treinamento dsPIC33AK (Mouser RoadShow… | 1.0.0 | Cria o profile treinamento_dspic33ak, instala o MPLAB e as dependências e traz… |
+| 2026-11-09 16:54:53 | [ChaybeLucas.php-routes-blueprint](https://marketplace.visualstudio.com/items?itemName=ChaybeLucas.php-routes-blueprint) | PHP Routes Blocks | 1.0.1 | Monte endpoints Slim (PHP) encaixando blocos, estilo Scratch, com as classes e… |
+| 2026-11-09 17:00:08 | [sourcecodemaker.openedge-zext-community](https://marketplace.visualstudio.com/items?itemName=sourcecodemaker.openedge-zext-community) | OpenEdge ABL (Community) | 1.1.3 | OpenEdge ABL Extension for VSCode - local activation and Outline fix |
+| 2026-11-09 17:06:21 | [zsolt-tarczali.ultimate-basic](https://marketplace.visualstudio.com/items?itemName=zsolt-tarczali.ultimate-basic) | Ultimate Basic | 0.4.2 | Language support for Ultimate Basic (.ub) — C64 BASIC-like compiler targeting 6… |
+| 2026-11-09 17:07:58 | [MinecraftMetascript.mms](https://marketplace.visualstudio.com/items?itemName=MinecraftMetascript.mms) | Minecraft Metascript | 0.6.2 | Language support for Minecraft Metascript (.mms): diagnostics, completion, form… |
+| 2026-11-09 17:09:19 | [Submersible.better-notebook-mcp-server](https://marketplace.visualstudio.com/items?itemName=Submersible.better-notebook-mcp-server) | Better Native Jupyter Notebook MCP Serv… | 0.4.0 | Expose VS Code Jupyter notebooks as MCP tools: read/edit/run cells and capture… |
 
 ## Data source
 

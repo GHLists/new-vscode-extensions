@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T16:25:43.303Z,arthur-carminati.embedmark,arthur-carminati,EmbedMark,0.4.1,"Traduza um subconjunto explícito de HTML/CSS para interfaces C do LVGL 8.3, com diagnósticos e fontes em português."
+2026-11-09T16:33:04.787Z,Hemashushu.ason-vscode,Hemashushu,ASON,1.0.0,"ASON syntax highlighting, source-preserving formatting and validation, powered by Rust and WebAssembly."
+2026-11-09T16:41:51.86Z,CodeWithKolin.codebeautifier,CodeWithKolin,Code Beautifier (codebeautifier.app),0.1.0,"Format JSON, SQL, HTML, CSS, JS, and XML with Code Beautifier — or open any tool in the browser."
+2026-11-09T16:47:32.303Z,zsolt-tarczali.vma-assembler,zsolt-tarczali,VMA — Visual Macro Assembler,0.1.3,Language support for VMA (Visual Macro Assembler) — the 6502 / 6510 assembler of C64 Visual Assembler
+2026-11-09T16:52:02.483Z,RodrigoBritto.treinamento-dspic33ak,RodrigoBritto,Treinamento dsPIC33AK (Mouser RoadShow 2026),1.0.0,"Cria o profile treinamento_dspic33ak, instala o MPLAB e as dependências e traz os PDFs e a GUI PQ6 do laboratório dsPIC33AK."
+2026-11-09T16:54:53.177Z,ChaybeLucas.php-routes-blueprint,ChaybeLucas,PHP Routes Blocks,1.0.1,"Monte endpoints Slim (PHP) encaixando blocos, estilo Scratch, com as classes e procedures do próprio projeto. Também tem o modo Blueprint e o Script."
+2026-11-09T17:00:08.743Z,sourcecodemaker.openedge-zext-community,sourcecodemaker,OpenEdge ABL (Community),1.1.3,OpenEdge ABL Extension for VSCode - local activation and Outline fix
+2026-11-09T17:06:21.923Z,zsolt-tarczali.ultimate-basic,zsolt-tarczali,Ultimate Basic,0.4.2,Language support for Ultimate Basic (.ub) — C64 BASIC-like compiler targeting 6502
+2026-11-09T17:07:58.32Z,MinecraftMetascript.mms,MinecraftMetascript,Minecraft Metascript,0.6.2,"Language support for Minecraft Metascript (.mms): diagnostics, completion, formatting, quick fixes and worldgen previews from the MMS language server."
+2026-11-09T17:09:19.123Z,Submersible.better-notebook-mcp-server,Submersible,Better Native Jupyter Notebook MCP Server,0.4.0,"Expose VS Code Jupyter notebooks as MCP tools: read/edit/run cells and capture outputs (Cursor, Claude Code, Windsurf)."
