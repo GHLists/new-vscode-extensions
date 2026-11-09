@@ -12,23 +12,31 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 08:20 UTC
+## Latest list — 2026-11-09 09:20 UTC
 
-New extensions published between 2026-11-09 06:20 UTC and 2026-11-09 08:20 UTC.
+New extensions published between 2026-11-09 07:20 UTC and 2026-11-09 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T08-20-41-422518Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T09-20-31-250923Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 07:03:25 | [khoarau.albert-code](https://marketplace.visualstudio.com/items?itemName=khoarau.albert-code) | Albert Code | 1.0.0 | AI coding agent for VS Code that only talks to the Albert API (albert.api.etala… |
-| 2026-11-09 07:37:08 | [zkcoding.snug-sql-formatter](https://marketplace.visualstudio.com/items?itemName=zkcoding.snug-sql-formatter) | Snug SQL Formatter | 1.1.0 | Screen-width-aware SQL / HQL / DDL formatter with built-in lint: wraps at W*80%… |
-| 2026-11-09 07:37:15 | [Cassie11.night-sakura](https://marketplace.visualstudio.com/items?itemName=Cassie11.night-sakura) | Night Sakura | 0.4.0 | Dark and light VS Code themes in black, gray and cherry-blossom pink. |
-| 2026-11-09 07:41:39 | [blip-lang.vscode-blip](https://marketplace.visualstudio.com/items?itemName=blip-lang.vscode-blip) | blip | 0.1.1 | blip language support for Visual Studio Code: syntax highlighting, snippets, fo… |
-| 2026-11-09 07:49:04 | [DreamHelpersAI.dreamhelpersai-yuanmeng-mcp](https://marketplace.visualstudio.com/items?itemName=DreamHelpersAI.dreamhelpersai-yuanmeng-mcp) | 元梦开发助手AI | 1.5.2 | 元梦开发助手是《元梦之星》为创作者提供的编程工具。 |
-| 2026-11-09 08:02:04 | [kaiagent.kaiagent-vscode](https://marketplace.visualstudio.com/items?itemName=kaiagent.kaiagent-vscode) | Kai Agent by KGF AI | 0.8.1 | Chat with Kai Agent coding agents, approve their tool calls, and review their c… |
-| 2026-11-09 08:05:38 | [JestingDart4369.novaroma](https://marketplace.visualstudio.com/items?itemName=JestingDart4369.novaroma) | Novaroma | 2.2.2 | Nova Roma colour, file icon and product icon themes: Standard, Frühling, Sommer… |
-| 2026-11-09 08:08:38 | [ugcore-project.ugcore-extension](https://marketplace.visualstudio.com/items?itemName=ugcore-project.ugcore-extension) | UgCore for VSCode - IntelliSense | 1.0.0 | Types and snippets for the UgCore FiveM framework. Typed UgCore.* API, enums an… |
-| 2026-11-09 08:12:29 | [kukume.zhihu-reader](https://marketplace.visualstudio.com/items?itemName=kukume.zhihu-reader) | zhihu | 0.1.0 | 浏览知乎推荐、解码盐选，并在编辑器中阅读详情与评论 |
+| 2026-11-09 08:16:41 | [apperside.vscode-react-extract](https://marketplace.visualstudio.com/items?itemName=apperside.vscode-react-extract) | Instantly transform variables and funct… | 0.0.1 | Extract a declaration in a React component or custom hook into useMemo or useCa… |
+| 2026-11-09 08:22:08 | [Mc-dev-80.processing-support](https://marketplace.visualstudio.com/items?itemName=Mc-dev-80.processing-support) | Processing Support | 0.0.1 | Processing sketch support for VS Code |
+| 2026-11-09 08:22:19 | [whythohh.ember-tide-theme](https://marketplace.visualstudio.com/items?itemName=whythohh.ember-tide-theme) | Ember Tide | 1.0.0 | A warm–cool dark theme: night-blue background, ember coral and amber, tide blue… |
+| 2026-11-09 08:22:55 | [behrooz-vedadian.vedadian-php-cs-fixer](https://marketplace.visualstudio.com/items?itemName=behrooz-vedadian.vedadian-php-cs-fixer) | Vedadian's PHP CS Fixer | 0.1.1 | Format PHP documents with the PHP CS Fixer installed in your Composer project. |
+| 2026-11-09 08:25:37 | [kaiketsu-labs.diffguide](https://marketplace.visualstudio.com/items?itemName=kaiketsu-labs.diffguide) | DiffGuide | 0.6.0 | Review local changes and GitHub pull requests with Claude Code on one review pa… |
+| 2026-11-09 08:30:05 | [a-st.checkstyle-vscode](https://marketplace.visualstudio.com/items?itemName=a-st.checkstyle-vscode) | Checkstyle Extension for Java | 2.0.2 | Provide real-time feedback about Checkstyle violations and quick fix actions |
+| 2026-11-09 08:33:59 | [amirmohnasiri.draw-eer](https://marketplace.visualstudio.com/items?itemName=amirmohnasiri.draw-eer) | Draw EER | 0.1.0 | Write ER and EER diagrams as text and see them live in classic Chen notation, a… |
+| 2026-11-09 08:39:28 | [Code-Compas-Remake.code-compas-remake](https://marketplace.visualstudio.com/items?itemName=Code-Compas-Remake.code-compas-remake) | Code Compas Remake | 0.2.4 | Local coding hints and a separate guide to programming principles. |
+| 2026-11-09 08:43:34 | [gaojunran.git-studio-history](https://marketplace.visualstudio.com/items?itemName=gaojunran.git-studio-history) | Git Studio History | 0.23.3 | IntelliJ-style Git history for VS Code: multi-ref commit graph, deep history se… |
+| 2026-11-09 08:54:00 | [xnervwang.agent-plus](https://marketplace.visualstudio.com/items?itemName=xnervwang.agent-plus) | Agent Plus | 1.0.0 | Work plan sidebar, Conversations panel and Answer view shared by Claude Code Pl… |
+| 2026-11-09 08:54:25 | [xnervwang.claude-code-plus](https://marketplace.visualstudio.com/items?itemName=xnervwang.claude-code-plus) | Claude Code Plus | 1.0.0 | Help Claude track open work across topics and compaction. Claude starts and upd… |
+| 2026-11-09 08:54:45 | [xnervwang.codex-plus](https://marketplace.visualstudio.com/items?itemName=xnervwang.codex-plus) | Codex Plus | 1.0.0 | Codex conversations in Agent Plus's work plan and Conversations views, a Codex… |
+| 2026-11-09 08:56:37 | [CanticaTech.cantica-agent-status](https://marketplace.visualstudio.com/items?itemName=CanticaTech.cantica-agent-status) | Cantica Agent Status | 0.10.2 | Live status of the agent sessions on this machine, from the agent-behaviors ses… |
+| 2026-11-09 09:02:00 | [AstroJulio.orbitleaf](https://marketplace.visualstudio.com/items?itemName=AstroJulio.orbitleaf) | Orbitleaf — Overleaf in VS Code | 0.16.0 | Edit Overleaf LaTeX projects in VS Code, compile on your server, and preview PD… |
+| 2026-11-09 09:04:27 | [windead.likec4-markdown-preview](https://marketplace.visualstudio.com/items?itemName=windead.likec4-markdown-preview) | Markdown Preview for LikeC4 | 0.1.0 | Render LikeC4 views in the built-in VS Code Markdown preview, with mkdocs-likec… |
+| 2026-11-09 09:12:55 | [arqawa.ompcli](https://marketplace.visualstudio.com/items?itemName=arqawa.ompcli) | ARQAWA OMPCLI | 0.0.1 |  |
+| 2026-11-09 09:13:40 | [khidee.khidee-ai](https://marketplace.visualstudio.com/items?itemName=khidee.khidee-ai) | คิดดี AI — ผู้ช่วยเขียนโค้ดภาษาไทย | 0.1.0 | เอเจนต์ AI ภาษาไทยใน VS Code: อ่านโปรเจกต์ แก้ไฟล์ รันคำสั่ง หาบั๊ก อธิบายโค้ด… |
 
 ## Data source
 

@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T08:16:41.553Z,apperside.vscode-react-extract,apperside,Instantly transform variables and function in useMemo and useCallback with tracked dependencies array,0.0.1,Extract a declaration in a React component or custom hook into useMemo or useCallback.
+2026-11-09T08:22:08.037Z,Mc-dev-80.processing-support,Mc-dev-80,Processing Support,0.0.1,Processing sketch support for VS Code
+2026-11-09T08:22:19.417Z,whythohh.ember-tide-theme,whythohh,Ember Tide,1.0.0,"A warm–cool dark theme: night-blue background, ember coral and amber, tide blue and teal. Also available for Zed."
+2026-11-09T08:22:55.797Z,behrooz-vedadian.vedadian-php-cs-fixer,behrooz-vedadian,Vedadian's PHP CS Fixer,0.1.1,Format PHP documents with the PHP CS Fixer installed in your Composer project.
+2026-11-09T08:25:37.96Z,kaiketsu-labs.diffguide,kaiketsu-labs,DiffGuide,0.6.0,"Review local changes and GitHub pull requests with Claude Code on one review page, with automatic feedback delivery."
+2026-11-09T08:30:05.297Z,a-st.checkstyle-vscode,a-st,Checkstyle Extension for Java,2.0.2,Provide real-time feedback about Checkstyle violations and quick fix actions
+2026-11-09T08:33:59.67Z,amirmohnasiri.draw-eer,amirmohnasiri,Draw EER,0.1.0,"Write ER and EER diagrams as text and see them live in classic Chen notation, as taught in database courses. Persian (right-to-left) names fully supported."
+2026-11-09T08:39:28.92Z,Code-Compas-Remake.code-compas-remake,Code-Compas-Remake,Code Compas Remake,0.2.4,Local coding hints and a separate guide to programming principles.
+2026-11-09T08:43:34.483Z,gaojunran.git-studio-history,gaojunran,Git Studio History,0.23.3,"IntelliJ-style Git history for VS Code: multi-ref commit graph, deep history search, file history and full-file blame."
+2026-11-09T08:54:00.75Z,xnervwang.agent-plus,xnervwang,Agent Plus,1.0.0,"Work plan sidebar, Conversations panel and Answer view shared by Claude Code Plus and Codex Plus."
+2026-11-09T08:54:25.83Z,xnervwang.claude-code-plus,xnervwang,Claude Code Plus,1.0.0,"Help Claude track open work across topics and compaction. Claude starts and updates a plan as you talk; Agent Plus installs with this extension and shows the plan beside the Claude Code panel, and you can answer by row number, even for several rows in one message: ""2.1: not now"". Rows Claude propose"
+2026-11-09T08:54:45.24Z,xnervwang.codex-plus,xnervwang,Codex Plus,1.0.0,"Codex conversations in Agent Plus's work plan and Conversations views, a Codex session list, and a Codex button on the tab bar."
+2026-11-09T08:56:37.293Z,CanticaTech.cantica-agent-status,CanticaTech,Cantica Agent Status,0.10.2,"Live status of the agent sessions on this machine, from the agent-behaviors session-status board."
+2026-11-09T09:02:00.867Z,AstroJulio.orbitleaf,AstroJulio,Orbitleaf — Overleaf in VS Code,0.16.0,"Edit Overleaf LaTeX projects in VS Code, compile on your server, and preview PDFs with source navigation."
+2026-11-09T09:04:27.697Z,windead.likec4-markdown-preview,windead,Markdown Preview for LikeC4,0.1.0,"Render LikeC4 views in the built-in VS Code Markdown preview, with mkdocs-likec4 compatible syntax. Not an official LikeC4 project."
+2026-11-09T09:12:55.19Z,arqawa.ompcli,arqawa,ARQAWA OMPCLI,0.0.1,
+2026-11-09T09:13:40.397Z,khidee.khidee-ai,khidee,คิดดี AI — ผู้ช่วยเขียนโค้ดภาษาไทย,0.1.0,เอเจนต์ AI ภาษาไทยใน VS Code: อ่านโปรเจกต์ แก้ไฟล์ รันคำสั่ง หาบั๊ก อธิบายโค้ด — ใช้ฟรีด้วยบัญชี khideeai.com
