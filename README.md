@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 22:20 UTC
+## Latest list — 2026-11-09 23:21 UTC
 
-New extensions published between 2026-11-09 20:20 UTC and 2026-11-09 22:20 UTC.
+New extensions published between 2026-11-09 21:21 UTC and 2026-11-09 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T22-20-23-29361Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T23-21-02-544828Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 21:29:24 | [bmosher.virtual-filesystem-for-dropbox](https://marketplace.visualstudio.com/items?itemName=bmosher.virtual-filesystem-for-dropbox) | Virtual Filesystem for Dropbox | 0.1.1 | Open Dropbox folders as workspace folders, with an offline mirror. Works on vsc… |
-| 2026-11-09 21:31:35 | [VincentUntiedt.alcops-static-dependencies-offline](https://marketplace.visualstudio.com/items?itemName=VincentUntiedt.alcops-static-dependencies-offline) | ALcops-Static-Dependencies | 0.2.0 | Offline, pinned analyzer payload for arthurvdv.alcops. Network policy remains t… |
-| 2026-11-09 21:39:42 | [condense-chat.condense](https://marketplace.visualstudio.com/items?itemName=condense-chat.condense) | Condense for VS Code | 0.1.0 | Get more out of your Claude Code plan. Run Claude Code, Codex, or OpenCode with… |
-| 2026-11-09 21:56:32 | [vscode-ansible.ansible-toolkit](https://marketplace.visualstudio.com/items?itemName=vscode-ansible.ansible-toolkit) | Ansible Toolkit | 0.1.0 | A full-featured Ansible toolkit for VS Code: syntax highlighting, module autoco… |
+| 2026-11-09 22:37:38 | [Phrozenn1.tether-vscode](https://marketplace.visualstudio.com/items?itemName=Phrozenn1.tether-vscode) | Tether — ADHD Flow & Save-State | 0.1.1 | ADHD Flowmodoro timer, automatic context save-states, and distraction shielding… |
+| 2026-11-09 22:47:30 | [P-Technologies.recbug-vscode](https://marketplace.visualstudio.com/items?itemName=P-Technologies.recbug-vscode) | RecBug | 1.0.0 | Inspect RecBug reports, replay evidence, trace failures to source, and generate… |
+| 2026-11-09 22:48:26 | [zecro.sqlite-desk](https://marketplace.visualstudio.com/items?itemName=zecro.sqlite-desk) | SQLite Desk: Open .db / .sqlite Files,… | 0.1.2 | Open .db / .sqlite / .sqlite3 files in VS Code: browse tables and views, schema… |
+| 2026-11-09 23:06:17 | [NecatiARSLAN.apache-flink-manager](https://marketplace.visualstudio.com/items?itemName=NecatiARSLAN.apache-flink-manager) | Apache Flink Manager | 1.0.2 | Manage Apache Flink clusters from VS Code |
+| 2026-11-09 23:06:42 | [kristhianlizcano.kristh](https://marketplace.visualstudio.com/items?itemName=kristhianlizcano.kristh) | Kris Engine Language | 1.0.3 | Cognitive Programming Language Support |
+| 2026-11-09 23:15:34 | [zecro.openapi-desk](https://marketplace.visualstudio.com/items?itemName=zecro.openapi-desk) | OpenAPI Desk: OpenAPI 3.0/3.1 & Swagger… | 0.1.2 | Preview OpenAPI 3.0 / 3.1 and Swagger 2.0 specs (YAML or JSON) side by side, wi… |
 
 ## Data source
 

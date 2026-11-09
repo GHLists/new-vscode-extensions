@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T22:37:38.41Z,Phrozenn1.tether-vscode,Phrozenn1,Tether — ADHD Flow & Save-State,0.1.1,"ADHD Flowmodoro timer, automatic context save-states, and distraction shielding for VS Code."
+2026-11-09T22:47:30.17Z,P-Technologies.recbug-vscode,P-Technologies,RecBug,1.0.0,"Inspect RecBug reports, replay evidence, trace failures to source, and generate reproduction tests from your editor."
+2026-11-09T22:48:26.23Z,zecro.sqlite-desk,zecro,"SQLite Desk: Open .db / .sqlite Files, Browse Tables, Run SQL (No Ads, No Login)",0.1.2,"Open .db / .sqlite / .sqlite3 files in VS Code: browse tables and views, schema, filter and sort, and run SQL queries. Read-only by default, bundled WASM SQLite (no sqlite3 CLI, no native binary), no ads, no login, no telemetry, no network."
+2026-11-09T23:06:17.547Z,NecatiARSLAN.apache-flink-manager,NecatiARSLAN,Apache Flink Manager,1.0.2,Manage Apache Flink clusters from VS Code
+2026-11-09T23:06:42.99Z,kristhianlizcano.kristh,kristhianlizcano,Kris Engine Language,1.0.3,Cognitive Programming Language Support
+2026-11-09T23:15:34.36Z,zecro.openapi-desk,zecro,"OpenAPI Desk: OpenAPI 3.0/3.1 & Swagger 2.0 Preview, Validation, $ref Navigation (No Account)",0.1.2,"Preview OpenAPI 3.0 / 3.1 and Swagger 2.0 specs (YAML or JSON) side by side, with structural diagnostics, an outline, Go to Definition / hover / Find References for $ref, a filterable operation list and Copy as cURL. Detects specs by content. Everything runs locally: no account, no API key, no telem"
