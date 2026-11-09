@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T11:19:51.28Z,Arui.fit-code,Arui,Fit Code,0.1.2,Center the editor text like JetBrains does: width follows the longest line of the current file
+2026-11-09T11:23:39.677Z,AD-Developers.fridge-lang,AD-Developers,FRIDGE Language For VS Code,0.4.0,"Official language support, syntax highlighting, and runner for FRIDGE."
+2026-11-09T11:48:58.523Z,ak495867.demonic-c,ak495867,Demonic C Language Support,1.9.0,"Rich language support, syntax highlighting, LSP client, runner, snippets, and diagnostics for the Demonic C systems programming language."
+2026-11-09T11:50:50.58Z,KindspellsLabs.project-colours,KindspellsLabs,Project Colours,0.1.0,"Give every project window its own colour, so you never mistake one VS Code window for another."
+2026-11-09T11:55:47.573Z,cbsumastre-es.tidy-tint,cbsumastre-es,Tidy Tint,0.1.0,Color your VS Code window per workspace without reordering your settings.json
+2026-11-09T12:00:50.447Z,nicosmartworking.papi-virus-v2,nicosmartworking,Papi-Caos,0.2.3,"Your video frames and numbered companion audio invade the real code editor, without opening a tab."
+2026-11-09T12:10:34.12Z,ceslava.web-code-stats,ceslava,"Web Code Stats: HTML, CSS & JS Report",0.1.0,"Counts what you choose in your HTML, CSS and JavaScript files (elements, inputs, classes, display: flex, variables, functions…) and builds a report in English or Spanish."
+2026-11-09T12:10:45.52Z,VeriLib.verilib-chart-viewer,VeriLib,VeriLib,2.8.4,"VeriLib in the editor: the repo browser (built from verilib-web), call graph, verification status in your code, verilib-cli integration and settings."
+2026-11-09T12:11:23.757Z,ceslava.extension-forge,ceslava,Extension Forge: Build VS Code Extensions with Any AI (MCP),0.1.0,"MCP server that teaches any AI (Claude, Copilot, Cursor, Codex…) to create, check, test and package bilingual VS Code extensions with an author."
+2026-11-09T12:13:30.123Z,masota.swahilipro-language,masota,Swahili Programming Language - SwahiliPro,1.0.0,"Syntax highlighting, editor configuration and keyword documentation for the SwahiliPro programming language (.swa)."

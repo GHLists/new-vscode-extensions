@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 11:20 UTC
+## Latest list — 2026-11-09 12:19 UTC
 
-New extensions published between 2026-11-09 09:20 UTC and 2026-11-09 11:20 UTC.
+New extensions published between 2026-11-09 10:19 UTC and 2026-11-09 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T11-20-39-800702Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T12-19-20-904779Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 10:32:08 | [0xp.sh-inline-syntax](https://marketplace.visualstudio.com/items?itemName=0xp.sh-inline-syntax) | Shell inline syntax (awk, jq, sed, pyth… | 0.1.0 | Syntax highlighting for awk, jq, sed, python -c, and JMESPath programs embedded… |
-| 2026-11-09 10:33:31 | [roman-kiefer.git-lineage](https://marketplace.visualstudio.com/items?itemName=roman-kiefer.git-lineage) | Git Lineage | 0.1.0 | Interactive Git graph of your history: branches, merges, worktrees, commit deta… |
-| 2026-11-09 10:34:42 | [m-ronak-gh.pebblebit](https://marketplace.visualstudio.com/items?itemName=m-ronak-gh.pebblebit) | PebbleBit | 1.0.0 | Language support for the PebbleBit programming language. |
-| 2026-11-09 10:36:22 | [CXAGE.pathmark](https://marketplace.visualstudio.com/items?itemName=CXAGE.pathmark) | PathMark - File Path Marker | 0.1.0 | A free VS Code extension by CXAGE for maintaining consistent project-relative f… |
-| 2026-11-09 10:38:57 | [mohamediburan.gh-actions-watch](https://marketplace.visualstudio.com/items?itemName=mohamediburan.gh-actions-watch) | GitHub Actions Watch | 0.1.0 | Compact GitHub Actions sidebar card: all runs, runs grouped by workflow, and th… |
-| 2026-11-09 10:49:36 | [Agentlabs.claude-folder-agents](https://marketplace.visualstudio.com/items?itemName=Agentlabs.claude-folder-agents) | AGL Agent Manager | 0.14.12 | Folder-scoped Claude, Codex and Kimi sessions with native terminals, Gemini voi… |
-| 2026-11-09 10:55:43 | [8ksoft.8khost](https://marketplace.visualstudio.com/items?itemName=8ksoft.8khost) | 8KHost | 0.2.0 | Acompanhe seus apps do 8KHost sem sair do editor: status, pods, uso de CPU/RAM,… |
-| 2026-11-09 11:00:42 | [oktopios-them.okp-icons](https://marketplace.visualstudio.com/items?itemName=oktopios-them.okp-icons) | Oktopios File Icons | 0.0.1 | Icônes personnalisées pour les fichiers Oktopios (.okp) |
+| 2026-11-09 11:19:51 | [Arui.fit-code](https://marketplace.visualstudio.com/items?itemName=Arui.fit-code) | Fit Code | 0.1.2 | Center the editor text like JetBrains does: width follows the longest line of t… |
+| 2026-11-09 11:23:39 | [AD-Developers.fridge-lang](https://marketplace.visualstudio.com/items?itemName=AD-Developers.fridge-lang) | FRIDGE Language For VS Code | 0.4.0 | Official language support, syntax highlighting, and runner for FRIDGE. |
+| 2026-11-09 11:48:58 | [ak495867.demonic-c](https://marketplace.visualstudio.com/items?itemName=ak495867.demonic-c) | Demonic C Language Support | 1.9.0 | Rich language support, syntax highlighting, LSP client, runner, snippets, and d… |
+| 2026-11-09 11:50:50 | [KindspellsLabs.project-colours](https://marketplace.visualstudio.com/items?itemName=KindspellsLabs.project-colours) | Project Colours | 0.1.0 | Give every project window its own colour, so you never mistake one VS Code wind… |
+| 2026-11-09 11:55:47 | [cbsumastre-es.tidy-tint](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint) | Tidy Tint | 0.1.0 | Color your VS Code window per workspace without reordering your settings.json |
+| 2026-11-09 12:00:50 | [nicosmartworking.papi-virus-v2](https://marketplace.visualstudio.com/items?itemName=nicosmartworking.papi-virus-v2) | Papi-Caos | 0.2.3 | Your video frames and numbered companion audio invade the real code editor, wit… |
+| 2026-11-09 12:10:34 | [ceslava.web-code-stats](https://marketplace.visualstudio.com/items?itemName=ceslava.web-code-stats) | Web Code Stats: HTML, CSS & JS Report | 0.1.0 | Counts what you choose in your HTML, CSS and JavaScript files (elements, inputs… |
+| 2026-11-09 12:10:45 | [VeriLib.verilib-chart-viewer](https://marketplace.visualstudio.com/items?itemName=VeriLib.verilib-chart-viewer) | VeriLib | 2.8.4 | VeriLib in the editor: the repo browser (built from verilib-web), call graph, v… |
+| 2026-11-09 12:11:23 | [ceslava.extension-forge](https://marketplace.visualstudio.com/items?itemName=ceslava.extension-forge) | Extension Forge: Build VS Code Extensio… | 0.1.0 | MCP server that teaches any AI (Claude, Copilot, Cursor, Codex…) to create, che… |
+| 2026-11-09 12:13:30 | [masota.swahilipro-language](https://marketplace.visualstudio.com/items?itemName=masota.swahilipro-language) | Swahili Programming Language - SwahiliP… | 1.0.0 | Syntax highlighting, editor configuration and keyword documentation for the Swa… |
 
 ## Data source
 
