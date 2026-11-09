@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-08 22:18 UTC
+## Latest list — 2026-11-09 00:19 UTC
 
-New extensions published between 2026-11-08 20:18 UTC and 2026-11-08 22:18 UTC.
+New extensions published between 2026-11-08 22:19 UTC and 2026-11-09 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-08T22-18-30-116949Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T00-19-37-838939Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-08 21:41:17 | [magoma.magomacolor](https://marketplace.visualstudio.com/items?itemName=magoma.magomacolor) | MAGOMA | 0.1.0 | Disciplined, high-contrast Dark and Light themes built for focus, progress, and… |
-| 2026-11-08 21:48:54 | [lde-org.lye](https://marketplace.visualstudio.com/items?itemName=lde-org.lye) | lye — LuaJIT language server | 0.1.0 | Types, narrowing, diagnostics and completion for LuaJIT, from the lye language… |
-| 2026-11-08 21:49:13 | [llambda.llambda-agent](https://marketplace.visualstudio.com/items?itemName=llambda.llambda-agent) | llambda-agent | 0.1.23 | Installable VS Code extension that talks to the NVIDIA model. |
-| 2026-11-08 21:49:53 | [flash2974.inline-number-slider](https://marketplace.visualstudio.com/items?itemName=flash2974.inline-number-slider) | Inline number slider | 1.0.1 | Interactive mini-slider for vscode numbers |
-| 2026-11-08 22:08:35 | [ola-coding.ortho](https://marketplace.visualstudio.com/items?itemName=ola-coding.ortho) | Ortho for SysML v2 | 0.3.0 | SysML v2 highlighting and a live preview of the architectural views ortho draws… |
+| 2026-11-08 23:48:16 | [sidsoftstudio.model-context-lens](https://marketplace.visualstudio.com/items?itemName=sidsoftstudio.model-context-lens) | Model Context Lens | 0.4.3 | See what fills your AI agent's context window — Claude Code (exact /context spl… |
+| 2026-11-09 00:01:55 | [meirb.commit-draft](https://marketplace.visualstudio.com/items?itemName=meirb.commit-draft) | Commit Draft: AI Commit Messages for Co… | 0.2.0 | Draft Git commit messages with AI, using the Codex CLI or Claude Code you alrea… |
 
 ## Data source
 
