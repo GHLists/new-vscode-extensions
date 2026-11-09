@@ -12,21 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 06:20 UTC
+## Latest list — 2026-11-09 07:20 UTC
 
-New extensions published between 2026-11-09 04:20 UTC and 2026-11-09 06:20 UTC.
+New extensions published between 2026-11-09 05:20 UTC and 2026-11-09 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T06-20-22-866453Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T07-20-45-397022Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 05:16:18 | [PirapaakaranPirathapan.unused-code-hunter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.unused-code-hunter-pro) | Unused Code Hunter Pro: Dead Imports &… | 0.1.0 | Detect and clean unused dependencies, dead imports, and orphaned functions acro… |
-| 2026-11-09 05:34:18 | [AndresConradoMontoya.context-tools](https://marketplace.visualstudio.com/items?itemName=AndresConradoMontoya.context-tools) | ConTeXt Tools | 0.1.60 | ConTeXt SyncTeX PDF preview, equation hover preview, DigestiF language server,… |
-| 2026-11-09 05:41:26 | [zovo.zovo-auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-auto-rename-tag) | Tag Auto Rename & Close Tag Sync (Match… | 0.1.0 | Auto rename tag and auto close tag as you type in HTML, JSX/TSX, Vue, Svelte, P… |
-| 2026-11-09 05:47:35 | [PirapaakaranPirathapan.ambient-dev-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.ambient-dev-pro) | Ambient Dev Pro: Focus Audio & Pomodoro… | 0.1.0 | Offline ambient soundscapes (rain, cafe, vinyl, white noise) paired with a mini… |
-| 2026-11-09 06:08:40 | [uttori.uttori-asm-vscode](https://marketplace.visualstudio.com/items?itemName=uttori.uttori-asm-vscode) | Uttori Assembly | 1.0.0 | Assembly editing, builds, ROM analysis, and debugging for SNES and 65xx. |
-| 2026-11-09 06:14:05 | [PirapaakaranPirathapan.mockmaster-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.mockmaster-pro) | MockMaster Pro: Instant Mock Data & Loc… | 0.1.0 | Generate realistic mock data inline (@mock.name, @mock.email, @mock.uuid) and l… |
-| 2026-11-09 06:14:32 | [PirapaakaranPirathapan.responsive-canvas-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.responsive-canvas-pro) | Responsive Canvas Pro: Multi-Screen Vie… | 0.1.0 | Simultaneous multi-device responsive web previewer for Mobile, Tablet, and Desk… |
+| 2026-11-09 06:14:51 | [PirapaakaranPirathapan.timetrack-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.timetrack-pro) | TimeTrack Pro: Coding Time & Billable H… | 0.1.0 | Automatic project coding time tracker with keystroke detection, branch breakdow… |
+| 2026-11-09 06:18:19 | [MaybeDu.crypto-watcher](https://marketplace.visualstudio.com/items?itemName=MaybeDu.crypto-watcher) | Crypto Watcher 盯盘 | 1.0.0 | 在 VS Code 状态栏盯加密货币行情：实时价格、24h 涨跌、价格与涨跌幅提醒、关注列表管理。Track crypto prices in the VS… |
+| 2026-11-09 06:19:41 | [zovo.zovo-html-css-class-intellisense](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-html-css-class-intellisense) | Class Names IntelliSense & CSS Support… | 0.1.0 | Free and offline. CSS class names and id completion in HTML, React, Vue, Svelte… |
+| 2026-11-09 06:20:11 | [muumer.vibe-review](https://marketplace.visualstudio.com/items?itemName=muumer.vibe-review) | Vibe Review: Review AI Agent Code Like… | 0.2.2 | PR-style code review for your AI agent's uncommitted changes. Comment in VS Cod… |
+| 2026-11-09 06:23:31 | [zovo.zovo-parquet-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-parquet-viewer) | Parquet Grid Viewer: Large File Explore… | 0.1.0 | Free, no Python, no sign-in, works offline. Opens Parquet files as a fast grid:… |
+| 2026-11-09 06:27:02 | [zovo.zovo-sql-formatter](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-sql-formatter) | SQL Safe Formatter & Format on Save: Po… | 0.1.0 | Free and offline SQL formatter that never changes your code: $$ bodies, DELIMIT… |
+| 2026-11-09 06:28:50 | [yogurt-icon.yogurt-icon](https://marketplace.visualstudio.com/items?itemName=yogurt-icon.yogurt-icon) | Yogurt Icon | 1.3.2 | Search Yogurt icons and retrieve SVG or React JSX through your coding agent. |
+| 2026-11-09 06:30:11 | [zovo.zovo-linker-map-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-linker-map-viewer) | Linker Map Viewer & Map File Analyzer (… | 0.1.0 | Opens linker map files (.map) from GNU ld, LLVM lld, IAR and Keil as FLASH and… |
+| 2026-11-09 06:51:07 | [comatype.comatype](https://marketplace.visualstudio.com/items?itemName=comatype.comatype) | Comatype | 0.0.3 | Language support for Comatype .comat API definitions: live diagnostics, go to d… |
+| 2026-11-09 06:54:46 | [exeltarkus.httpme](https://marketplace.visualstudio.com/items?itemName=exeltarkus.httpme) | http.me | 1.0.0 | Lightweight HTTP client for VS Code: send requests from .http files, collection… |
+| 2026-11-09 06:57:53 | [pandawidkur.mind-md](https://marketplace.visualstudio.com/items?itemName=pandawidkur.mind-md) | mind.md | 0.1.0 | Edit the headings of a Markdown file as a mind map, without touching the rest o… |
+| 2026-11-09 07:06:27 | [zovo.zovo-sql-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-sql-client) | Postgres & MySQL Query Client - SQL Dat… | 0.1.0 | Free PostgreSQL client and MySQL client for VS Code: unlimited connections, edi… |
+| 2026-11-09 07:06:59 | [lalalalala00.chanelu](https://marketplace.visualstudio.com/items?itemName=lalalalala00.chanelu) | Baby Flower Chanelu | 0.2.1 | Chanelu walks around on top of your screen (macOS) |
 
 ## Data source
 
