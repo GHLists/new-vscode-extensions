@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T19:21:51.787Z,mnantel.md-browser,mnantel,MD Browser,0.3.0,Browse Markdown documentation like a website: follow links between .md files with back and forward history.
+2026-11-09T19:26:51.413Z,Alfegaso.ai-development-team,Alfegaso,AI Development Team,0.10.8,It creates a full autonomus development team AI powered.
+2026-11-09T19:34:17.51Z,NikolaiRadke.ardudebug,NikolaiRadke,ArduDebug,1.0.0,"Breakpoint debugging for Arduino Uno, Nano, Leonardo and Mega – no extra hardware required"
+2026-11-09T19:45:18.817Z,Bidyutkumarbhowmick.syncpull,Bidyutkumarbhowmick,SyncPull — GitHub Synchronization Assistant,1.0.0,Stay in sync. Never miss a commit. Proactive GitHub synchronization intelligence for your editor.
+2026-11-09T19:48:13.207Z,westbaydigital.wbd-image-viewer,westbaydigital,Image Viewer by WestbayDigital,0.1.0,"Browse a folder of images with a thumbnail navigator, a draggable zoom region and a zoom slider."
+2026-11-09T20:00:57.747Z,vaelorahq.vaeloraboard,vaelorahq,Vaelora Board,3.6.1,Studio operations panel for task delivery and workspace sync.
+2026-11-09T20:04:40.09Z,hypen.hypen-lsp,hypen,Hypen Language Support,0.6.7,Language Server Protocol support for the Hypen declarative UI language
+2026-11-09T20:09:43.15Z,zovo.zovo-mongodb-client,zovo,"MongoDB Client & MongoDB GUI: Query, Edit Documents, Aggregation & Indexes",0.1.0,"Free MongoDB client and MongoDB GUI: edit documents in a grid (nested fields too) or as JSON, query with filter, sort and projection, aggregation with stage preview, explain, indexes, streamed import and export. Atlas, DocumentDB, Cosmos DB, FerretDB. No telemetry, no keep-alive."

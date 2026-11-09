@@ -12,29 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 19:20 UTC
+## Latest list — 2026-11-09 20:20 UTC
 
-New extensions published between 2026-11-09 17:20 UTC and 2026-11-09 19:20 UTC.
+New extensions published between 2026-11-09 18:20 UTC and 2026-11-09 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T19-20-18-292423Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T20-20-56-359953Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 18:19:50 | [YoniTad.pip-todos](https://marketplace.visualstudio.com/items?itemName=YoniTad.pip-todos) | Pip Todos | 0.1.0 | A tiny sidebar todo list for the small things you notice while you work. |
-| 2026-11-09 18:20:32 | [charliekarstan.datagym-vscode](https://marketplace.visualstudio.com/items?itemName=charliekarstan.datagym-vscode) | DataGym | 0.1.0 | Practice pandas and NumPy with live DataFrame previews in VS Code (local Python… |
-| 2026-11-09 18:23:24 | [zovo.zovo-oracle-sqlserver-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-oracle-sqlserver-client) | Oracle SQL & SQL Server Query Client (M… | 0.1.0 | Free Oracle SQL and SQL Server client for VS Code, Cursor and Windsurf: run T-S… |
-| 2026-11-09 18:32:13 | [amitshenoy.csv-query-for-vscode](https://marketplace.visualstudio.com/items?itemName=amitshenoy.csv-query-for-vscode) | CSV Query for VS Code | 0.1.6 | Run SQLite SQL against any delimited text file — like Notepad++ CSV Query. Tabl… |
-| 2026-11-09 18:32:48 | [az8TLab.human-agency-review](https://marketplace.visualstudio.com/items?itemName=az8TLab.human-agency-review) | Human Agency Review | 1.0.0 | Review choices, consequences and recovery in your interfaces. Connect local cod… |
-| 2026-11-09 18:35:23 | [HarshalMoon.android-dev-tools](https://marketplace.visualstudio.com/items?itemName=HarshalMoon.android-dev-tools) | Android Dev Tool | 0.1.0 | Simplify Android SDK installation, environment variable configuration, JDK mana… |
-| 2026-11-09 18:41:19 | [restnologin.rest-client-nologin](https://marketplace.visualstudio.com/items?itemName=restnologin.rest-client-nologin) | REST API Client – No Login (Thunder Cli… | 0.1.0 | Local REST client with collections, environments, and curl. No account and no t… |
-| 2026-11-09 18:46:17 | [PebbleLanguage.pebble-language](https://marketplace.visualstudio.com/items?itemName=PebbleLanguage.pebble-language) | Pebble Language Support | 0.1.0 | Syntax highlighting and language configuration for the Pebble programming langu… |
-| 2026-11-09 18:49:29 | [zovo.zovo-docstring-generator](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-docstring-generator) | Docstring Generator & Python Docstring… | 0.1.0 | Free docstring generator for Python: type """ under a def or class and press En… |
-| 2026-11-09 18:49:57 | [orthodoxcoder.bhaiyo-behno-vscode](https://marketplace.visualstudio.com/items?itemName=orthodoxcoder.bhaiyo-behno-vscode) | Bhaiyo Behno | 0.1.0 | Plays voice clips when you run, build, test, commit, or debug in VS Code. |
-| 2026-11-09 18:53:13 | [kristhianlizcano.kris](https://marketplace.visualstudio.com/items?itemName=kristhianlizcano.kris) | Kris | 1.0.2 | Cognitive Programming Language Support |
-| 2026-11-09 18:53:42 | [zovo.zovo-js-ts-scratchpad](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-js-ts-scratchpad) | JavaScript Playground & TypeScript Scra… | 0.1.0 | JavaScript playground and TypeScript scratchpad for VS Code: the value of each… |
-| 2026-11-09 18:59:49 | [zovo.zovo-svn-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-svn-client) | SVN Client & Subversion Source Control… | 0.1.0 | Free SVN client for VS Code that uses your own svn command line. Subversion sou… |
-| 2026-11-09 19:11:21 | [ghlabs.sap-commerce-tools](https://marketplace.visualstudio.com/items?itemName=ghlabs.sap-commerce-tools) | Tools for SAP Commerce | 0.1.0 | ImpEx language support for SAP Commerce (Hybris): highlighting, validation and… |
-| 2026-11-09 19:13:01 | [AndreyGatsuk.eenei](https://marketplace.visualstudio.com/items?itemName=AndreyGatsuk.eenei) | Eenei | 0.1.0 | Frost-blue syntax highlighting with rose, dahlia, lilac and soft green hellebor… |
+| 2026-11-09 19:21:51 | [mnantel.md-browser](https://marketplace.visualstudio.com/items?itemName=mnantel.md-browser) | MD Browser | 0.3.0 | Browse Markdown documentation like a website: follow links between .md files wi… |
+| 2026-11-09 19:26:51 | [Alfegaso.ai-development-team](https://marketplace.visualstudio.com/items?itemName=Alfegaso.ai-development-team) | AI Development Team | 0.10.8 | It creates a full autonomus development team AI powered. |
+| 2026-11-09 19:34:17 | [NikolaiRadke.ardudebug](https://marketplace.visualstudio.com/items?itemName=NikolaiRadke.ardudebug) | ArduDebug | 1.0.0 | Breakpoint debugging for Arduino Uno, Nano, Leonardo and Mega – no extra hardwa… |
+| 2026-11-09 19:45:18 | [Bidyutkumarbhowmick.syncpull](https://marketplace.visualstudio.com/items?itemName=Bidyutkumarbhowmick.syncpull) | SyncPull — GitHub Synchronization Assis… | 1.0.0 | Stay in sync. Never miss a commit. Proactive GitHub synchronization intelligenc… |
+| 2026-11-09 19:48:13 | [westbaydigital.wbd-image-viewer](https://marketplace.visualstudio.com/items?itemName=westbaydigital.wbd-image-viewer) | Image Viewer by WestbayDigital | 0.1.0 | Browse a folder of images with a thumbnail navigator, a draggable zoom region a… |
+| 2026-11-09 20:00:57 | [vaelorahq.vaeloraboard](https://marketplace.visualstudio.com/items?itemName=vaelorahq.vaeloraboard) | Vaelora Board | 3.6.1 | Studio operations panel for task delivery and workspace sync. |
+| 2026-11-09 20:04:40 | [hypen.hypen-lsp](https://marketplace.visualstudio.com/items?itemName=hypen.hypen-lsp) | Hypen Language Support | 0.6.7 | Language Server Protocol support for the Hypen declarative UI language |
+| 2026-11-09 20:09:43 | [zovo.zovo-mongodb-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-mongodb-client) | MongoDB Client & MongoDB GUI: Query, Ed… | 0.1.0 | Free MongoDB client and MongoDB GUI: edit documents in a grid (nested fields to… |
 
 ## Data source
 
