@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T07:03:25.433Z,khoarau.albert-code,khoarau,Albert Code,1.0.0,AI coding agent for VS Code that only talks to the Albert API (albert.api.etalab.gouv.fr). Unofficial fork of Kilo Code.
+2026-11-09T07:37:08.903Z,zkcoding.snug-sql-formatter,zkcoding,Snug SQL Formatter,1.1.0,"Screen-width-aware SQL / HQL / DDL formatter with built-in lint: wraps at W*80%, snaps to complete logical blocks, and flags errors and questionable patterns in the Problems panel."
+2026-11-09T07:37:15.507Z,Cassie11.night-sakura,Cassie11,Night Sakura,0.4.0,"Dark and light VS Code themes in black, gray and cherry-blossom pink."
+2026-11-09T07:41:39.767Z,blip-lang.vscode-blip,blip-lang,blip,0.1.1,"blip language support for Visual Studio Code: syntax highlighting, snippets, formatting, and a full language server (diagnostics, hover, completion, go-to-definition, references, rename, semantic tokens)."
+2026-11-09T07:49:04.26Z,DreamHelpersAI.dreamhelpersai-yuanmeng-mcp,DreamHelpersAI,元梦开发助手AI,1.5.2,元梦开发助手是《元梦之星》为创作者提供的编程工具。
+2026-11-09T08:02:04.823Z,kaiagent.kaiagent-vscode,kaiagent,Kai Agent by KGF AI,0.8.1,"Chat with Kai Agent coding agents, approve their tool calls, and review their changes as native diffs, without leaving VS Code."
+2026-11-09T08:05:38.68Z,JestingDart4369.novaroma,JestingDart4369,Novaroma,2.2.2,"Nova Roma colour, file icon and product icon themes: Standard, Frühling, Sommer, Herbst and Winter in light and dark, normal and swapped, switching with the calendar, profiles and Markdown preview styling."
+2026-11-09T08:08:38.647Z,ugcore-project.ugcore-extension,ugcore-project,UgCore for VSCode - IntelliSense,1.0.0,"Types and snippets for the UgCore FiveM framework. Typed UgCore.* API, enums and hooks, with no setup."
+2026-11-09T08:12:29.57Z,kukume.zhihu-reader,kukume,zhihu,0.1.0,浏览知乎推荐、解码盐选，并在编辑器中阅读详情与评论
