@@ -12,24 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 12:19 UTC
+## Latest list — 2026-11-09 13:21 UTC
 
-New extensions published between 2026-11-09 10:19 UTC and 2026-11-09 12:19 UTC.
+New extensions published between 2026-11-09 11:21 UTC and 2026-11-09 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T12-19-20-904779Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T13-21-18-470114Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 11:19:51 | [Arui.fit-code](https://marketplace.visualstudio.com/items?itemName=Arui.fit-code) | Fit Code | 0.1.2 | Center the editor text like JetBrains does: width follows the longest line of t… |
-| 2026-11-09 11:23:39 | [AD-Developers.fridge-lang](https://marketplace.visualstudio.com/items?itemName=AD-Developers.fridge-lang) | FRIDGE Language For VS Code | 0.4.0 | Official language support, syntax highlighting, and runner for FRIDGE. |
-| 2026-11-09 11:48:58 | [ak495867.demonic-c](https://marketplace.visualstudio.com/items?itemName=ak495867.demonic-c) | Demonic C Language Support | 1.9.0 | Rich language support, syntax highlighting, LSP client, runner, snippets, and d… |
-| 2026-11-09 11:50:50 | [KindspellsLabs.project-colours](https://marketplace.visualstudio.com/items?itemName=KindspellsLabs.project-colours) | Project Colours | 0.1.0 | Give every project window its own colour, so you never mistake one VS Code wind… |
-| 2026-11-09 11:55:47 | [cbsumastre-es.tidy-tint](https://marketplace.visualstudio.com/items?itemName=cbsumastre-es.tidy-tint) | Tidy Tint | 0.1.0 | Color your VS Code window per workspace without reordering your settings.json |
-| 2026-11-09 12:00:50 | [nicosmartworking.papi-virus-v2](https://marketplace.visualstudio.com/items?itemName=nicosmartworking.papi-virus-v2) | Papi-Caos | 0.2.3 | Your video frames and numbered companion audio invade the real code editor, wit… |
-| 2026-11-09 12:10:34 | [ceslava.web-code-stats](https://marketplace.visualstudio.com/items?itemName=ceslava.web-code-stats) | Web Code Stats: HTML, CSS & JS Report | 0.1.0 | Counts what you choose in your HTML, CSS and JavaScript files (elements, inputs… |
-| 2026-11-09 12:10:45 | [VeriLib.verilib-chart-viewer](https://marketplace.visualstudio.com/items?itemName=VeriLib.verilib-chart-viewer) | VeriLib | 2.8.4 | VeriLib in the editor: the repo browser (built from verilib-web), call graph, v… |
-| 2026-11-09 12:11:23 | [ceslava.extension-forge](https://marketplace.visualstudio.com/items?itemName=ceslava.extension-forge) | Extension Forge: Build VS Code Extensio… | 0.1.0 | MCP server that teaches any AI (Claude, Copilot, Cursor, Codex…) to create, che… |
-| 2026-11-09 12:13:30 | [masota.swahilipro-language](https://marketplace.visualstudio.com/items?itemName=masota.swahilipro-language) | Swahili Programming Language - SwahiliP… | 1.0.0 | Syntax highlighting, editor configuration and keyword documentation for the Swa… |
+| 2026-11-09 12:16:42 | [novair.fix-log-analyzer](https://marketplace.visualstudio.com/items?itemName=novair.fix-log-analyzer) | FIX Protocol Log Analyzer: order lifecy… | 1.0.1 | FIX protocol logs in VS Code: decoded messages, rejection reasons, order lifecy… |
+| 2026-11-09 12:21:50 | [Methodox.divooka-dhole-in-markdown](https://marketplace.visualstudio.com/items?itemName=Methodox.divooka-dhole-in-markdown) | Dhole in Markdown | 0.1.0 | Draws Dhole diagrams - flowcharts, sequence, state, class and entity diagrams,… |
+| 2026-11-09 12:39:38 | [codetin.ai-commit-codetin](https://marketplace.visualstudio.com/items?itemName=codetin.ai-commit-codetin) | AI Commit (codetin) | 0.1.5 | Use OpenAI/Gemini/Claude/Azure API to review Git changes, generate conventional… |
+| 2026-11-09 12:42:37 | [Kaditya67.git-profile-hub](https://marketplace.visualstudio.com/items?itemName=Kaditya67.git-profile-hub) | Git Profile Hub (Account Switcher) | 1.1.0 | Visual sidebar panel & status bar to view, switch, and manage Git identities lo… |
+| 2026-11-09 12:52:46 | [SoftForge.vscode-extension-cxpm](https://marketplace.visualstudio.com/items?itemName=SoftForge.vscode-extension-cxpm) | CX::PM | 0.8.2 | Build, test, pack and install cxpm projects from Visual Studio Code: targets, t… |
+| 2026-11-09 13:06:32 | [kukudim.ccode-bits](https://marketplace.visualstudio.com/items?itemName=kukudim.ccode-bits) | CCode Bits | 0.1.1 | Utilities for Claude Code in VS Code, starting with chat pins via an opt-in, re… |
+| 2026-11-09 13:06:44 | [zovo.zovo-load-testing](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-load-testing) | Load Testing & HTTP Load Tests for APIs… | 0.1.0 | Free load testing for HTTP APIs inside VS Code, with no account, no cloud and n… |
 
 ## Data source
 
