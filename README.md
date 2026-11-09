@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 10:21 UTC
+## Latest list — 2026-11-09 11:20 UTC
 
-New extensions published between 2026-11-09 08:21 UTC and 2026-11-09 10:21 UTC.
+New extensions published between 2026-11-09 09:20 UTC and 2026-11-09 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T10-21-23-980776Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T11-20-39-800702Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 09:26:51 | [JestingDart4369.lernatelier-checker](https://marketplace.visualstudio.com/items?itemName=JestingDart4369.lernatelier-checker) | Lernatelier Checker | 0.2.0 | Prüft Lernatelier-Dokumentationen (Lernperiode-N.md) beim Schreiben auf formale… |
-| 2026-11-09 09:28:12 | [qlang.qlang-vscode](https://marketplace.visualstudio.com/items?itemName=qlang.qlang-vscode) | qlang | 1.3.0 | Language support for qlang: syntax highlighting, errors as you type, hovers, co… |
-| 2026-11-09 09:31:12 | [Jean-ChristopheLejeune.envora](https://marketplace.visualstudio.com/items?itemName=Jean-ChristopheLejeune.envora) | Envora | 0.2.0 | Never mistake PROD for DEV again: switch between local and SSH environments, ea… |
-| 2026-11-09 09:40:05 | [waldoxbin.vscode-glassmorphism](https://marketplace.visualstudio.com/items?itemName=waldoxbin.vscode-glassmorphism) | VSCode Glassmorphism: Mindful Workspace | 0.0.1 | Ultra-minimalist, soothing, and stress-reducing workspace featuring Glassmorphi… |
-| 2026-11-09 09:41:25 | [geblang.vscode-geblang](https://marketplace.visualstudio.com/items?itemName=geblang.vscode-geblang) | Geblang | 1.5.1 | Geblang language support for Visual Studio Code |
-| 2026-11-09 09:42:11 | [rgro.git-wave](https://marketplace.visualstudio.com/items?itemName=rgro.git-wave) | Git Wave | 0.3.0 | A fast git graph with worktrees. Lightweight, canvas-drawn history with lock-aw… |
-| 2026-11-09 09:47:21 | [osg-junue.dynamic-architect-viewer](https://marketplace.visualstudio.com/items?itemName=osg-junue.dynamic-architect-viewer) | DynamicArchitectViewer | 0.1.0 | Write architecture and screen-flow diagrams as text, play them step by step, an… |
-| 2026-11-09 10:01:11 | [RedsenTechnology.redsen-redline-review](https://marketplace.visualstudio.com/items?itemName=RedsenTechnology.redsen-redline-review) | Redsen RedLine Review | 0.1.1 | Lire, commenter et versionner les artefacts BMAD d'un dépôt Git directement dan… |
-| 2026-11-09 10:03:50 | [kukume.zhihu-reading](https://marketplace.visualstudio.com/items?itemName=kukume.zhihu-reading) | zhihu reading | 0.1.0 | 浏览知乎推荐、解码盐选，并在编辑器中阅读详情与评论 |
-| 2026-11-09 10:07:53 | [eskiii.word-review-status-bar](https://marketplace.visualstudio.com/items?itemName=eskiii.word-review-status-bar) | 词隙 · 状态栏背单词 | 0.2.13 | 在 VS Code 状态栏离线背雅思词汇，快捷键翻词、收藏和标记掌握。 |
-| 2026-11-09 10:10:12 | [ritesh-ravichandran.rustic-cpp](https://marketplace.visualstudio.com/items?itemName=ritesh-ravichandran.rustic-cpp) | RustiC & C++ | 0.1.1 | Fast, GCC-native C/C++ language intelligence powered by a Rust language server,… |
+| 2026-11-09 10:32:08 | [0xp.sh-inline-syntax](https://marketplace.visualstudio.com/items?itemName=0xp.sh-inline-syntax) | Shell inline syntax (awk, jq, sed, pyth… | 0.1.0 | Syntax highlighting for awk, jq, sed, python -c, and JMESPath programs embedded… |
+| 2026-11-09 10:33:31 | [roman-kiefer.git-lineage](https://marketplace.visualstudio.com/items?itemName=roman-kiefer.git-lineage) | Git Lineage | 0.1.0 | Interactive Git graph of your history: branches, merges, worktrees, commit deta… |
+| 2026-11-09 10:34:42 | [m-ronak-gh.pebblebit](https://marketplace.visualstudio.com/items?itemName=m-ronak-gh.pebblebit) | PebbleBit | 1.0.0 | Language support for the PebbleBit programming language. |
+| 2026-11-09 10:36:22 | [CXAGE.pathmark](https://marketplace.visualstudio.com/items?itemName=CXAGE.pathmark) | PathMark - File Path Marker | 0.1.0 | A free VS Code extension by CXAGE for maintaining consistent project-relative f… |
+| 2026-11-09 10:38:57 | [mohamediburan.gh-actions-watch](https://marketplace.visualstudio.com/items?itemName=mohamediburan.gh-actions-watch) | GitHub Actions Watch | 0.1.0 | Compact GitHub Actions sidebar card: all runs, runs grouped by workflow, and th… |
+| 2026-11-09 10:49:36 | [Agentlabs.claude-folder-agents](https://marketplace.visualstudio.com/items?itemName=Agentlabs.claude-folder-agents) | AGL Agent Manager | 0.14.12 | Folder-scoped Claude, Codex and Kimi sessions with native terminals, Gemini voi… |
+| 2026-11-09 10:55:43 | [8ksoft.8khost](https://marketplace.visualstudio.com/items?itemName=8ksoft.8khost) | 8KHost | 0.2.0 | Acompanhe seus apps do 8KHost sem sair do editor: status, pods, uso de CPU/RAM,… |
+| 2026-11-09 11:00:42 | [oktopios-them.okp-icons](https://marketplace.visualstudio.com/items?itemName=oktopios-them.okp-icons) | Oktopios File Icons | 0.0.1 | Icônes personnalisées pour les fichiers Oktopios (.okp) |
 
 ## Data source
 

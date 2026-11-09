@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T10:32:08.5Z,0xp.sh-inline-syntax,0xp,"Shell inline syntax (awk, jq, sed, python, JMESPath)",0.1.0,"Syntax highlighting for awk, jq, sed, python -c, and JMESPath programs embedded in shell scripts."
+2026-11-09T10:33:31.03Z,roman-kiefer.git-lineage,roman-kiefer,Git Lineage,0.1.0,"Interactive Git graph of your history: branches, merges, worktrees, commit details and diffs, with Git actions such as checkout, merge, interactive rebase, cherry-pick, tags and stashes."
+2026-11-09T10:34:42.227Z,m-ronak-gh.pebblebit,m-ronak-gh,PebbleBit,1.0.0,Language support for the PebbleBit programming language.
+2026-11-09T10:36:22.747Z,CXAGE.pathmark,CXAGE,PathMark - File Path Marker,0.1.0,A free VS Code extension by CXAGE for maintaining consistent project-relative file-path markers.
+2026-11-09T10:38:57.953Z,mohamediburan.gh-actions-watch,mohamediburan,GitHub Actions Watch,0.1.0,"Compact GitHub Actions sidebar card: all runs, runs grouped by workflow, and the failed step on demand."
+2026-11-09T10:49:36.393Z,Agentlabs.claude-folder-agents,Agentlabs,AGL Agent Manager,0.14.12,"Folder-scoped Claude, Codex and Kimi sessions with native terminals, Gemini voice control and full-reply TTS."
+2026-11-09T10:55:43.817Z,8ksoft.8khost,8ksoft,8KHost,0.2.0,"Acompanhe seus apps do 8KHost sem sair do editor: status, pods, uso de CPU/RAM, logs, alertas e diagnóstico com Claude Code."
+2026-11-09T11:00:42.13Z,oktopios-them.okp-icons,oktopios-them,Oktopios File Icons,0.0.1,Icônes personnalisées pour les fichiers Oktopios (.okp)
