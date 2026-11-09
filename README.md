@@ -12,20 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 14:21 UTC
+## Latest list — 2026-11-09 15:20 UTC
 
-New extensions published between 2026-11-09 12:21 UTC and 2026-11-09 14:21 UTC.
+New extensions published between 2026-11-09 13:20 UTC and 2026-11-09 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T14-21-38-759318Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T15-20-27-248311Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 13:25:44 | [scao.jsonbrowse](https://marketplace.visualstudio.com/items?itemName=scao.jsonbrowse) | JsonBrowse | 0.1.0 | Read JSON and JSONL with escaped \n in strings displayed as real line breaks, p… |
-| 2026-11-09 13:35:02 | [mtafakori1993.pairpilot](https://marketplace.visualstudio.com/items?itemName=mtafakori1993.pairpilot) | PairPilot | 0.1.1 | Human-controlled AI pair programming. The AI proposes, you review and approve,… |
-| 2026-11-09 13:44:42 | [xwolfoverride.div2-on-vscode](https://marketplace.visualstudio.com/items?itemName=xwolfoverride.div2-on-vscode) | DIV2 on VS Code | 0.1.0 | DIV Games Studio 2 language support: syntax highlighting, block folding, built-… |
-| 2026-11-09 13:48:24 | [blamnetwork.megaloevolved](https://marketplace.visualstudio.com/items?itemName=blamnetwork.megaloevolved) | MegaloEvolved LSP | 0.42.0 | Language Server for Halo's Megalo scripting language. |
-| 2026-11-09 13:59:43 | [trae-jsharness.jsharness](https://marketplace.visualstudio.com/items?itemName=trae-jsharness.jsharness) | JSHarness | 2.7.5 | JSHarness —— Trae / VS Code 团队协作扩展面板，提供实时看板、使用统计、插件目录与缺陷管理，支持插件市场分发、自动安装及 MCP/R… |
-| 2026-11-09 14:06:23 | [SoftForge.softforge-perf-analyser](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-perf-analyser) | Soft Forge Perf Analyser | 2.0.0 | Annotate source code with perf and py-spy profiles: line heatmaps, hottest-line… |
+| 2026-11-09 14:45:53 | [ThiagoVieira.agent-tab-restore](https://marketplace.visualstudio.com/items?itemName=ThiagoVieira.agent-tab-restore) | Agent Tab Restore | 1.0.0 | Reopens only the Cursor agent tabs that were open before a reload. Chat history… |
+| 2026-11-09 14:48:07 | [RemoGrillo.pretty-md](https://marketplace.visualstudio.com/items?itemName=RemoGrillo.pretty-md) | pretty.md | 0.2.0 | Open Markdown files as a beautifully typeset page first. Switch between reading… |
+| 2026-11-09 14:53:28 | [az8TLab.ecocoding-resource-practice](https://marketplace.visualstudio.com/items?itemName=az8TLab.ecocoding-resource-practice) | Eco-Coding | 1.1.0 | Build resource-conscious coding habits. Inspect code across 13 languages and di… |
+| 2026-11-09 14:55:32 | [CriticalManufacturing.dee-debugger](https://marketplace.visualstudio.com/items?itemName=CriticalManufacturing.dee-debugger) | DEE Debugger for Critical Manufacturing… | 0.3.0 | Browse, edit, sync and debug Critical Manufacturing MES DEE Actions and custom… |
+| 2026-11-09 14:57:25 | [WilliamStone.pi-for-ide](https://marketplace.visualstudio.com/items?itemName=WilliamStone.pi-for-ide) | Pi for IDE | 0.6.0 | Pi for IDE — VSCode-native editor experience for pi coding agent. Full pi-web G… |
+| 2026-11-09 15:02:59 | [95wesley.shadow-vscode-theme](https://marketplace.visualstudio.com/items?itemName=95wesley.shadow-vscode-theme) | ShadowVsCode Theme | 1.0.1 | The ultimate fusion of VS Code and shadcn/ui. Minimalist, precision-crafted des… |
+| 2026-11-09 15:06:34 | [WenxiDuan.folder-relay](https://marketplace.visualstudio.com/items?itemName=WenxiDuan.folder-relay) | Folder Relay | 0.2.4 | Collaborate in a local VS Code folder. Sync code, documents, data, and assets,… |
+| 2026-11-09 15:06:49 | [piya-boy.agentlens-file-monitor](https://marketplace.visualstudio.com/items?itemName=piya-boy.agentlens-file-monitor) | AgentLens File Monitor | 0.0.1 | Universal AI Agent File Monitor for VS Code |
+| 2026-11-09 15:09:42 | [mzhyui.word-count-2026](https://marketplace.visualstudio.com/items?itemName=mzhyui.word-count-2026) | Word Count 2026 | 0.3.0 | Live word count for the document or the current selection(s), with a character… |
 
 ## Data source
 
