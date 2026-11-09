@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 03:19 UTC
+## Latest list — 2026-11-09 04:19 UTC
 
-New extensions published between 2026-11-09 01:19 UTC and 2026-11-09 03:19 UTC.
+New extensions published between 2026-11-09 02:19 UTC and 2026-11-09 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T03-19-45-320632Z.csv)
+[Full CSV](data/new-extensions-2026-11-09T04-19-46-257553Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 02:19:24 | [leodu.aimlab](https://marketplace.visualstudio.com/items?itemName=leodu.aimlab) | AimLab | 1.0.0 | In-editor aim training: practice flicks, click accuracy and target tracking on… |
-| 2026-11-09 02:28:46 | [cleb-01.js-preview](https://marketplace.visualstudio.com/items?itemName=cleb-01.js-preview) | jsPreview | 0.0.2 | Preview JavaScript/TypeScript/React projects in vscode.dev |
-| 2026-11-09 02:28:59 | [bscan.stitch](https://marketplace.visualstudio.com/items?itemName=bscan.stitch) | Stitch: SVN & Git File History | 0.0.5 | See who changed a file, when and why. Works with SVN and Git, no svn install ne… |
-| 2026-11-09 02:30:55 | [duzhe-theme.deep-blue-themes](https://marketplace.visualstudio.com/items?itemName=duzhe-theme.deep-blue-themes) | Deep Blue Themes | 1.0.0 | Deep Blue, Dark and Light color themes with a calm, low-contrast palette. |
-| 2026-11-09 02:39:02 | [raresteak.project-control-studio](https://marketplace.visualstudio.com/items?itemName=raresteak.project-control-studio) | Project Control Studio | 0.17.6 | Personal Kanban planning, optional GitHub Issues, read-only Codex reviews and T… |
-| 2026-11-09 02:55:36 | [leiipo.opened-changes](https://marketplace.visualstudio.com/items?itemName=leiipo.opened-changes) | Opened Changes | 0.2.2 | 标注文件自打开（或上次标记基线）以来被新增、修改、删除的行，类似 Source Insight 的改动标记。 |
+| 2026-11-09 03:16:51 | [atdev.memingo](https://marketplace.visualstudio.com/items?itemName=atdev.memingo) | Memingo | 0.2.2 | Memingo language support, commands and project tooling for Visual Studio Code. |
+| 2026-11-09 03:19:49 | [wxblue.go-external-libraries](https://marketplace.visualstudio.com/items?itemName=wxblue.go-external-libraries) | Go Workspace Library Navigator | 0.1.0 | Browse Go SDKs, multi-module workspaces and local replacements in the Explorer. |
+| 2026-11-09 03:35:43 | [gauravnagar.python-random-list](https://marketplace.visualstudio.com/items?itemName=gauravnagar.python-random-list) | python random list | 0.0.4 | shortcut for python list |
+| 2026-11-09 03:39:35 | [BosiTerryLin.guided-i18n](https://marketplace.visualstudio.com/items?itemName=BosiTerryLin.guided-i18n) | guided-i18n: AI i18n for React | 0.1.0 | Internationalize your React app in a few clicks: no prompts, no surprises. Revi… |
+| 2026-11-09 03:40:04 | [toga4.golspk](https://marketplace.visualstudio.com/items?itemName=toga4.golspk) | golspk | 0.1.1 | A fast, read-only Go language server for reading code: go to definition, hover,… |
+| 2026-11-09 04:05:31 | [HavisunTechnologies.auth-studio-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.auth-studio-vscode) | Auth Studio for SAP BTP | 0.1.0 | Visual editor for xs-security.json and a view of AMS policies, both checked aga… |
+| 2026-11-09 04:08:03 | [victorcesae.steerhouse](https://marketplace.visualstudio.com/items?itemName=victorcesae.steerhouse) | Steerhouse | 1.0.0 | Steer every AI coding agent from your editor: live sessions and sub-agents, rea… |
 
 ## Data source
 

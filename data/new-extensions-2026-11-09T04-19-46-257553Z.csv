@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-09T03:16:51.817Z,atdev.memingo,atdev,Memingo,0.2.2,"Memingo language support, commands and project tooling for Visual Studio Code."
+2026-11-09T03:19:49.043Z,wxblue.go-external-libraries,wxblue,Go Workspace Library Navigator,0.1.0,"Browse Go SDKs, multi-module workspaces and local replacements in the Explorer."
+2026-11-09T03:35:43.35Z,gauravnagar.python-random-list,gauravnagar,python random list,0.0.4,shortcut for python list
+2026-11-09T03:39:35.087Z,BosiTerryLin.guided-i18n,BosiTerryLin,guided-i18n: AI i18n for React,0.1.0,"Internationalize your React app in a few clicks: no prompts, no surprises. Review every string and key before anything changes, undo in one step, and only your UI text leaves your machine. Just bring your own Anthropic or OpenAI API key; no extra fees."
+2026-11-09T03:40:04.22Z,toga4.golspk,toga4,golspk,0.1.1,"A fast, read-only Go language server for reading code: go to definition, hover, references and more, without loading the whole module first."
+2026-11-09T04:05:31.31Z,HavisunTechnologies.auth-studio-vscode,HavisunTechnologies,Auth Studio for SAP BTP,0.1.0,"Visual editor for xs-security.json and a view of AMS policies, both checked against your CAP model, plus a local token decoder that explains 401 and 403 errors."
+2026-11-09T04:08:03.227Z,victorcesae.steerhouse,victorcesae,Steerhouse,1.0.0,"Steer every AI coding agent from your editor: live sessions and sub-agents, real diffs, Steer / Queue / Send now, worktrees per chat, PR checks and merge, plan usage. Claude Code, model providers, Cursor Agent, Codex and more."
