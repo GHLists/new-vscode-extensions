@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 07:19 UTC
+## Latest list — 2026-11-10 08:20 UTC
 
-New extensions published between 2026-11-10 05:19 UTC and 2026-11-10 07:19 UTC.
+New extensions published between 2026-11-10 06:20 UTC and 2026-11-10 08:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T07-19-37-480276Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T08-20-29-456657Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 06:33:04 | [zovo.zovo-nuget-package-manager](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-nuget-package-manager) | NuGet Package Manager & NuGet Gallery:… | 0.1.0 | NuGet package manager and NuGet gallery for VS Code: browse nuget.org, install,… |
-| 2026-11-10 07:02:39 | [zovo.zovo-redis-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-redis-client) | Redis Client & Redis GUI: Keys, TTL, St… | 0.1.0 | Free Redis client and Redis GUI for VS Code: browse keys with SCAN, edit string… |
-| 2026-11-10 07:06:03 | [ssamdog117.crud-training-assistant](https://marketplace.visualstudio.com/items?itemName=ssamdog117.crud-training-assistant) | CRUD Training Assistant | 0.0.1 | An offline learning companion for practicing PHP and MySQL CRUD operations in V… |
-| 2026-11-10 07:07:41 | [masum-hasan.json-twist](https://marketplace.visualstudio.com/items?itemName=masum-hasan.json-twist) | JSON Twist - Edge Case Generator | 0.1.5 | Create JSON edge-case inputs with missing fields, nulls, empty values and wrong… |
-| 2026-11-10 07:10:06 | [zovo.zovo-elf-pe-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-elf-pe-viewer) | ELF Viewer & PE Viewer (DLL, EXE, Mach-… | 0.1.0 | ELF viewer, PE viewer and DLL viewer for VS Code: open .so, .o, .exe, .dll, .sy… |
-| 2026-11-10 07:11:52 | [Joye.ai-plugin-demo](https://marketplace.visualstudio.com/items?itemName=Joye.ai-plugin-demo) | AI Plugin Demo | 0.1.0 | 演示 VS Code 插件的命令、状态栏、设置和侧边栏 Webview。 |
-| 2026-11-10 07:12:17 | [arunkumar-dev.workspace-color-manager](https://marketplace.visualstudio.com/items?itemName=arunkumar-dev.workspace-color-manager) | Mayil | 1.0.0 | Customize colors for each workspace |
+| 2026-11-10 07:23:19 | [pingaura.pingaura-ai](https://marketplace.visualstudio.com/items?itemName=pingaura.pingaura-ai) | PingAura AI: Agentic Marketing | 0.1.0 | Agentic marketing from VS Code chat. Your agent finds what AI engines miss on y… |
+| 2026-11-10 07:45:31 | [logcrew.logcrew](https://marketplace.visualstudio.com/items?itemName=logcrew.logcrew) | LogCrew | 0.1.0 | Analyze a local log file with a small agent crew (Parser → Clusterer → Explaine… |
+| 2026-11-10 07:47:21 | [DrFormat.jb-commit-panel](https://marketplace.visualstudio.com/items?itemName=DrFormat.jb-commit-panel) | JB Commit Panel | 0.5.0 | JetBrains-style Git tool window: Local Changes with the diff in the panel, a Co… |
+| 2026-11-10 07:57:19 | [auto-commit-developer.auto-commit-system](https://marketplace.visualstudio.com/items?itemName=auto-commit-developer.auto-commit-system) | auto-commit-system | 0.0.1 | Automatic Git history management with AI-generated commit summaries for beginne… |
+| 2026-11-10 07:57:50 | [dodo.java-module-manager](https://marketplace.visualstudio.com/items?itemName=dodo.java-module-manager) | Java Module Manager | 0.1.0 | Eclipse-style Maven module open/close (close project): right-click or status ba… |
+| 2026-11-10 08:02:55 | [litchamber.docket-for-claude-code](https://marketplace.visualstudio.com/items?itemName=litchamber.docket-for-claude-code) | Docket for Claude Code | 0.1.0 | Every open Claude Code session in one place: which are running, which need you,… |
+| 2026-11-10 08:03:23 | [zaidwhy.docstep](https://marketplace.visualstudio.com/items?itemName=zaidwhy.docstep) | Docstep | 1.0.0 | Generates Python docstrings and updates them when the signature changes. A main… |
+| 2026-11-10 08:11:11 | [digivibetech.commit-graph-viewer](https://marketplace.visualstudio.com/items?itemName=digivibetech.commit-graph-viewer) | Commit Graph Viewer | 0.1.1 | A simple, free, read-only view of your Git commit history as a graph. |
 
 ## Data source
 

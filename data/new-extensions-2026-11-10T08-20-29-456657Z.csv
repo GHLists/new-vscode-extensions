@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T07:23:19.047Z,pingaura.pingaura-ai,pingaura,PingAura AI: Agentic Marketing,0.1.0,"Agentic marketing from VS Code chat. Your agent finds what AI engines miss on your site, fixes it in your code, and tracks the result with PingAura AI."
+2026-11-10T07:45:31.32Z,logcrew.logcrew,logcrew,LogCrew,0.1.0,"Analyze a local log file with a small agent crew (Parser → Clusterer → Explainer): clustered errors, timeline, and root-cause hypotheses with line-number evidence. Cost shown before any AI call. BYOK, no backend."
+2026-11-10T07:47:21.383Z,DrFormat.jb-commit-panel,DrFormat,JB Commit Panel,0.5.0,"JetBrains-style Git tool window: Local Changes with the diff in the panel, a Commit Changes dialog, and a Log with the commit graph, branches and filters."
+2026-11-10T07:57:19.19Z,auto-commit-developer.auto-commit-system,auto-commit-developer,auto-commit-system,0.0.1,Automatic Git history management with AI-generated commit summaries for beginner developers.
+2026-11-10T07:57:50.12Z,dodo.java-module-manager,dodo,Java Module Manager,0.1.0,Eclipse-style Maven module open/close (close project): right-click or status bar to pick which modules to compile; the rest are not imported or compiled
+2026-11-10T08:02:55.917Z,litchamber.docket-for-claude-code,litchamber,Docket for Claude Code,0.1.0,"Every open Claude Code session in one place: which are running, which need you, and one click to get there. Plus a board that sorts your sessions by feature, with a next step for each."
+2026-11-10T08:03:23.24Z,zaidwhy.docstep,zaidwhy,Docstep,1.0.0,Generates Python docstrings and updates them when the signature changes. A maintained fork of autoDocstring by Nils Werner.
+2026-11-10T08:11:11.05Z,digivibetech.commit-graph-viewer,digivibetech,Commit Graph Viewer,0.1.1,"A simple, free, read-only view of your Git commit history as a graph."
