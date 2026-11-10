@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T10:22:10.063Z,akromind.ovoz-kiritish,akromind,Ovozli kiritish — o'zbekcha (Uzbek voice typing),0.2.0,"O'zbekcha gapiring — matn kursor turgan joyga yoziladi. Oflayn, bepul, Whisper modeli. Uzbek speech-to-text for any window (Windows)."
+2026-11-10T10:25:17.323Z,IYourSunshineI.deft-xmacro,IYourSunshineI,Deft X-Macro,1.0.0,"Deft: highlighting, diagnostics, hover, outline, formatting and C/C++ navigation for X-macro .def tables"
+2026-11-10T10:31:28.907Z,TestPublisherMapawade.DOmainTest,TestPublisherMapawade,TestDomain,0.11.1792302291,"Autonomous coding agent right in your IDE, capable of creating/editing files, running commands, using the browser, and more with your permission every step of the way."
+2026-11-10T10:34:53.613Z,aebwp.polipetto-claude,aebwp,Polipetto per Claude Code,0.5.1,"A pixel-art octopus in the sidebar that acts out what Claude Code is doing, one per agent. Unofficial, not affiliated with Anthropic."
+2026-11-10T10:36:25.85Z,ssamdog117.trainmee-crud-learning,ssamdog117,TrainMee 2,0.0.3,A PHP Error Detector.
+2026-11-10T10:36:58.893Z,PRODM280DVTWEEK1.doki-wallpaper-carouselM281W3DVTdomain,PRODM280DVTWEEK1,Wallpaper Carousel for Doki ThemeM281W3DVT domain,1.2.1,"Unofficial companion for the Doki Theme: flip your wallpaper through a folder of GIFs and images (PNG, JPG, WebP, AVIF, ...), choose where it shows (editors, side bars, panel, terminal), darken it live so code stays readable, color VS Code after it, make big GIFs lighter and turn .mp4 videos into GI"
+2026-11-10T10:46:46.423Z,Simplysm.simplysm-compose,Simplysm,Simplysm Compose,15.1.8,Starts a folder's Docker Compose services when you open it in VS Code and stops them when the window closes
+2026-11-10T10:52:38.173Z,otofumi-sunasato.indent-outline,otofumi-sunasato,Indent Outline,0.0.1,Show indentation-based plain text as an outline.
+2026-11-10T10:53:17.243Z,GidadoMukhtarBalangoggo.errorcopy-pro,GidadoMukhtarBalangoggo,ErrorCopy: AI Error Explainer,0.0.1,"Understand errors faster with AI - GitHub Copilot Chat, Copilot Web, Claude, ChatGPT"
+2026-11-10T10:53:55.533Z,my-workspace-tools.flutter-project-tools,my-workspace-tools,Workspace Flutter Dev,1.0.2,Инструменты для текущей рабочей папки.
+2026-11-10T10:57:44.16Z,yyg27.skyrim-vscode-theme,yyg27,Skyrim Theme,0.1.0,"Hey, you. You're finally themed."
+2026-11-10T10:57:55.313Z,yyg27.redemption-vscode-theme,yyg27,Redemption Theme,0.1.0,"Outlaws, gunsmoke and worn leather from the Wild West."
+2026-11-10T11:04:17.107Z,gunsnprices.gun-title-parser,gunsnprices,Gun & Ammo Title Parser,0.1.0,"Turn gun and ammo product titles into structured data: brand, model, generation, caliber, capacity, barrel length, rounds per box and cost per round. Works offline on CSV, JSON, SQL and plain text."
+2026-11-10T11:08:24.493Z,sudarsans.blame-the-extension,sudarsans,Blame the Extension,0.1.0,"Find the extension that is slowing down your VS Code. Ranks every installed extension by real CPU cost and startup time, then tells you exactly what to disable."
+2026-11-10T11:12:16.747Z,aleksandrdotnet.usage-tokens,aleksandrdotnet,Usage Tokens,1.0.0,"Status-bar readout of your AI plan limits: 5-hour session, weekly and per-model weekly."
