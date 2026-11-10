@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T03:26:38.687Z,SymartecLTD.better-auth,SymartecLTD,Better Auth,1.0.0,"See the providers and plugins enabled in betterAuth, and warn when the client calls one that is not."
+2026-11-10T03:26:56.27Z,SymartecLTD.inngest,SymartecLTD,Inngest,1.0.0,See Inngest functions and warn when a send names an event that no function handles.
+2026-11-10T03:27:15.587Z,SymartecLTD.kysely,SymartecLTD,Kysely,1.0.0,"See selectFrom, insertInto, updateTable, and deleteFrom, and warn when the table is not on the Kysely type."
+2026-11-10T03:27:39.343Z,cliqtomedia.run-apify-actors,cliqtomedia,Run Apify Actors,0.1.0,Run any Apify Actor from VS Code with your own API token. Get scraped data as JSON in a new editor tab.
+2026-11-10T03:27:46.097Z,SymartecLTD.react-hook-form,SymartecLTD,React Hook Form,1.0.0,"See register and Controller fields beside the Zod or Valibot resolver, and catch a name that is in only one of them."
+2026-11-10T03:27:58.117Z,SymartecLTD.valibot,SymartecLTD,Valibot,1.0.0,"Jump from parse and safeParse to the Valibot object schema, and see every schema in the sidebar."
+2026-11-10T03:31:16.237Z,juhapark.hmmm-auto-linenum,juhapark,HMMM Auto Linenum,0.0.1,Automatically number your lines in hmmm!
+2026-11-10T03:40:50.113Z,SymartecLTD.framer-motion,SymartecLTD,Framer Motion,1.0.0,See motion components and catch a variant name that is not on its variants object.
+2026-11-10T04:04:43.08Z,crd233.vscode-terminal-preview,crd233,vscode-terminal-preview,0.1.0,Make terminal file links respect workbench.editor.enablePreview for configurable file types.

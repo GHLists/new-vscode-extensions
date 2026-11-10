@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 03:21 UTC
+## Latest list — 2026-11-10 04:20 UTC
 
-New extensions published between 2026-11-10 01:21 UTC and 2026-11-10 03:21 UTC.
+New extensions published between 2026-11-10 02:20 UTC and 2026-11-10 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T03-21-37-406813Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T04-20-16-644932Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 02:19:04 | [decussi.ftp-sftp-sync](https://marketplace.visualstudio.com/items?itemName=decussi.ftp-sftp-sync) | FTP/SFTP Sync | 0.1.0 | Compare, envie e baixe arquivos via FTP, FTPS ou SFTP pelo botão direito, com a… |
-| 2026-11-10 02:38:16 | [HavisunTechnologies.connectivity-doctor-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.connectivity-doctor-vscode) | Connectivity Doctor for SAP BTP | 0.1.1 | Checks the destinations of a deployed SAP BTP app: finds missing and misspelled… |
-| 2026-11-10 02:38:35 | [Nuclei.nucleistudio](https://marketplace.visualstudio.com/items?itemName=Nuclei.nucleistudio) | Nuclei Studio VSCode | 0.3.0 | Develop, build, and debug embedded applications on Nuclei RISC-V processors in… |
-| 2026-11-10 02:49:06 | [tnotesjs.open-dropped-folder](https://marketplace.visualstudio.com/items?itemName=tnotesjs.open-dropped-folder) | Open Dropped Folder | 0.0.1 | Open a folder dropped into the window in the current window. |
-| 2026-11-10 02:49:43 | [modelware.sysight](https://marketplace.visualstudio.com/items?itemName=modelware.sysight) | Sysight: SysML v2 Insight | 0.1.6 | SysML v2 and KerML models, understood: live diagnostics across the workspace, n… |
-| 2026-11-10 03:00:03 | [SymartecLTD.msw](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.msw) | MSW | 1.0.1 | Mock Service Worker in the editor. Jump from fetch, axios, ky, or ofetch to the… |
-| 2026-11-10 03:01:30 | [SadeqYazdi.simple-dev-tools](https://marketplace.visualstudio.com/items?itemName=SadeqYazdi.simple-dev-tools) | Simple Dev Tools | 0.0.11 | Small personal editor tools. |
-| 2026-11-10 03:09:24 | [Skyhoshi.theme-randomizer-vscode](https://marketplace.visualstudio.com/items?itemName=Skyhoshi.theme-randomizer-vscode) | VS Code Theme Randomizer | 0.0.1 | Randomize the current VS Code color theme. |
+| 2026-11-10 03:26:38 | [SymartecLTD.better-auth](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.better-auth) | Better Auth | 1.0.0 | See the providers and plugins enabled in betterAuth, and warn when the client c… |
+| 2026-11-10 03:26:56 | [SymartecLTD.inngest](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.inngest) | Inngest | 1.0.0 | See Inngest functions and warn when a send names an event that no function hand… |
+| 2026-11-10 03:27:15 | [SymartecLTD.kysely](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.kysely) | Kysely | 1.0.0 | See selectFrom, insertInto, updateTable, and deleteFrom, and warn when the tabl… |
+| 2026-11-10 03:27:39 | [cliqtomedia.run-apify-actors](https://marketplace.visualstudio.com/items?itemName=cliqtomedia.run-apify-actors) | Run Apify Actors | 0.1.0 | Run any Apify Actor from VS Code with your own API token. Get scraped data as J… |
+| 2026-11-10 03:27:46 | [SymartecLTD.react-hook-form](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.react-hook-form) | React Hook Form | 1.0.0 | See register and Controller fields beside the Zod or Valibot resolver, and catc… |
+| 2026-11-10 03:27:58 | [SymartecLTD.valibot](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.valibot) | Valibot | 1.0.0 | Jump from parse and safeParse to the Valibot object schema, and see every schem… |
+| 2026-11-10 03:31:16 | [juhapark.hmmm-auto-linenum](https://marketplace.visualstudio.com/items?itemName=juhapark.hmmm-auto-linenum) | HMMM Auto Linenum | 0.0.1 | Automatically number your lines in hmmm! |
+| 2026-11-10 03:40:50 | [SymartecLTD.framer-motion](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.framer-motion) | Framer Motion | 1.0.0 | See motion components and catch a variant name that is not on its variants obje… |
+| 2026-11-10 04:04:43 | [crd233.vscode-terminal-preview](https://marketplace.visualstudio.com/items?itemName=crd233.vscode-terminal-preview) | vscode-terminal-preview | 0.1.0 | Make terminal file links respect workbench.editor.enablePreview for configurabl… |
 
 ## Data source
 
