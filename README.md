@@ -12,24 +12,30 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 13:22 UTC
+## Latest list — 2026-11-10 14:20 UTC
 
-New extensions published between 2026-11-10 11:22 UTC and 2026-11-10 13:22 UTC.
+New extensions published between 2026-11-10 12:20 UTC and 2026-11-10 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T13-22-05-293392Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T14-20-06-98447Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 12:24:49 | [yhay81.markdown-translation-preview](https://marketplace.visualstudio.com/items?itemName=yhay81.markdown-translation-preview) | Markdown Translation Preview | 0.1.0 | Preview Markdown with an LLM translation side by side. Bring your own key for C… |
-| 2026-11-10 12:25:14 | [zovo.zovo-git-commit-graph](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-git-commit-graph) | Git Commit Graph & History Log (Branche… | 0.1.0 | Free git commit graph and history log for VS Code: every branch, tag, remote an… |
-| 2026-11-10 12:27:48 | [Sky1sBloo.juno-pl](https://marketplace.visualstudio.com/items?itemName=Sky1sBloo.juno-pl) | JunoPL | 0.0.1 | Syntax highligher for JunoPL |
-| 2026-11-10 12:38:19 | [gislaine-web3.gitml](https://marketplace.visualstudio.com/items?itemName=gislaine-web3.gitml) | GITML — Modern Markup | 0.4.2 | Linguagem GITML: comando `gitml` no terminal, abre o site no navegador (localho… |
-| 2026-11-10 12:38:54 | [morty6688.notebook-save-cleaner](https://marketplace.visualstudio.com/items?itemName=morty6688.notebook-save-cleaner) | Notebook Save Cleaner | 0.1.3 | Clean Jupyter execution counts and metadata on save while keeping outputs. |
-| 2026-11-10 12:52:44 | [ballombert.vcmd2conf](https://marketplace.visualstudio.com/items?itemName=ballombert.vcmd2conf) | VcMd2Conf — Markdown ↔ Confluence | 0.1.0 | Synchronize Markdown documentation with Confluence using mark CLI. Visual sync… |
-| 2026-11-10 12:54:02 | [sourceregistry.vm-manager-libvirt](https://marketplace.visualstudio.com/items?itemName=sourceregistry.vm-manager-libvirt) | VM Manager – libvirt | 1.0.0 | Manage libvirt (KVM/QEMU) domains on this computer or over SSH from VS Code: po… |
-| 2026-11-10 12:58:03 | [Glem.glem-ai-sdk](https://marketplace.visualstudio.com/items?itemName=Glem.glem-ai-sdk) | Glem AI SDK | 2.0.0 | Official Glem SDK development tools for Visual Studio Code: install and update… |
-| 2026-11-10 12:58:54 | [torbenson-consulting.mem-log-viewer](https://marketplace.visualstudio.com/items?itemName=torbenson-consulting.mem-log-viewer) | MEM Log Viewer | 1.0.0 | Finally, human-readable Intune and ConfigMgr (CMTrace-format) log files! |
-| 2026-11-10 13:07:31 | [SonLang.sonlang](https://marketplace.visualstudio.com/items?itemName=SonLang.sonlang) | SonLang | 0.2.0 | Official language support and file icon recognition for SonLang (.sonl) |
+| 2026-11-10 13:16:45 | [kiro-pc.kiro-agent](https://marketplace.visualstudio.com/items?itemName=kiro-pc.kiro-agent) | Kiro — AI Coding Agent | 0.2.0 | AI coding agent inside VS Code: reads and edits files, runs commands, verifies… |
+| 2026-11-10 13:17:20 | [santoshkurmi.antigem-vscode-extension](https://marketplace.visualstudio.com/items?itemName=santoshkurmi.antigem-vscode-extension) | AntiGem VSCode Extension | 0.1.0 | One chat UI for Antigravity (agy), Claude Code, Codex and OpenCode — the AntiGe… |
+| 2026-11-10 13:18:08 | [classgrid.classgrid](https://marketplace.visualstudio.com/items?itemName=classgrid.classgrid) | Classgrid | 0.1.0 | The Classgrid AI inside Classgrid Code: the Agent chat on the right side, and t… |
+| 2026-11-10 13:19:30 | [learnosity.build-aide-mcp](https://marketplace.visualstudio.com/items?itemName=learnosity.build-aide-mcp) | Learnosity Build Aide MCP | 1.2.0 | Build Learnosity integrations directly from your AI coding assistant. |
+| 2026-11-10 13:21:07 | [kya-dev.lichess-sidebar](https://marketplace.visualstudio.com/items?itemName=kya-dev.lichess-sidebar) | Lichess Sidebar | 0.2.0 | Play Lichess games from a small panel in the VS Code sidebar (bottom-left, unde… |
+| 2026-11-10 13:26:50 | [fabioconcina.softgaze](https://marketplace.visualstudio.com/items?itemName=fabioconcina.softgaze) | Softgaze | 0.1.0 | A calm window to stay with one Claude Code session while it works. Requires the… |
+| 2026-11-10 13:28:33 | [anosic.speech-recorder](https://marketplace.visualstudio.com/items?itemName=anosic.speech-recorder) | Anosic Speech Recorder | 0.1.0 | Records your voice, transcribes it with a local AI model, and copies the text t… |
+| 2026-11-10 13:36:15 | [ahmedfarhat.fix-copilot-rtl](https://marketplace.visualstudio.com/items?itemName=ahmedfarhat.fix-copilot-rtl) | Fix-copilot-RTL | 1.0.1 | Right-to-left (Arabic, Hebrew, Persian) and mixed-direction text support for th… |
+| 2026-11-10 13:54:03 | [le-lab-um.ontodlplus](https://marketplace.visualstudio.com/items?itemName=le-lab-um.ontodlplus) | OntoDL+ | 0.1.0 | Language support for OntoDL+ ontologies. |
+| 2026-11-10 13:56:38 | [movoa.movoa](https://marketplace.visualstudio.com/items?itemName=movoa.movoa) | Movoa: AI Video Generator with Sound | 0.1.0 | Unlimited AI video generator with sound: on paid plans the tenth take of a shot… |
+| 2026-11-10 13:57:24 | [q-werty452.codearena](https://marketplace.visualstudio.com/items?itemName=q-werty452.codearena) | CodeArena — coding games for class | 0.1.0 | Kahoot + Codewars inside VS Code: tug of war, quiz, Codewars, race and find-the… |
+| 2026-11-10 14:06:41 | [PRODM282.tensorflow-keras-pro-snippetsM282](https://marketplace.visualstudio.com/items?itemName=PRODM282.tensorflow-keras-pro-snippetsM282) | TensorFlow Keras Pro SnippetsM282 | 0.1.0 | A practical collection of 163 VS Code snippets for TensorFlow, Keras, deep lear… |
+| 2026-11-10 14:09:11 | [Fabrimat.vscode-nbt-plus](https://marketplace.visualstudio.com/items?itemName=Fabrimat.vscode-nbt-plus) | NBT Plus for VS Code | 1.0.0 | View and edit Minecraft NBT (Java & Bedrock) with a 3D structure viewer for .nb… |
+| 2026-11-10 14:12:03 | [ShaikMohammadMujeeb.join-lines-with-comma](https://marketplace.visualstudio.com/items?itemName=ShaikMohammadMujeeb.join-lines-with-comma) | Join Lines with Comma | 1.0.0 | Join lines into one comma-separated line (1,2,3 or 'a','b','c'), in the editor… |
+| 2026-11-10 14:12:51 | [kahlery.shell-script-buttons](https://marketplace.visualstudio.com/items?itemName=kahlery.shell-script-buttons) | Shell Script Buttons | 0.1.0 | Your workspace's .sh scripts as a grid of buttons in the sidebar. Flags from ea… |
+| 2026-11-10 14:14:48 | [kahlery.claude-usage-rings](https://marketplace.visualstudio.com/items?itemName=kahlery.claude-usage-rings) | Usage Rings for Claude Code | 0.1.0 | Claude Code's context fill, 5-hour and 7-day limits and session cost in the sta… |
 
 ## Data source
 
