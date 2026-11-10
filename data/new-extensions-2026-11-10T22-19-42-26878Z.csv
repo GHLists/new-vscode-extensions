@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T21:07:39.807Z,Otta.llama-agent-local,Otta,Otta Agent,0.1.1,"Painel de chat e agente com modelos locais ou remotos, credenciais seguras e customização visual."
+2026-11-10T21:16:47.18Z,pythialabs.pythia-ai,pythialabs,Pythia,0.1.4,"Ask coding questions and get answers from a free AI, right in VS Code, in a compact panel you can show or hide with one shortcut. No sign-up and no API key needed."
+2026-11-10T21:33:26.847Z,asakli.42-comment-toggle,asakli,42-comment toggle,0.1.0,42-style block comments: comment and uncomment with one key (fork of nasanov/42-comment)
+2026-11-10T21:39:51.51Z,Brief.brief-vscode-extension,Brief,Brief Product Strategy Agent,0.1.1,"Brief is a product strategy agent that answers from the workspace's decisions, personas, strategy, customers, and competitive landscape."
+2026-11-10T21:40:11.773Z,alexleonec6.codwhat-br,alexleonec6,Codwhat BR,1.0.0,"Explicador inteligente de codigo e arquivos com IA, suporte ao GitHub Copilot, Portugol e analise tecnica em Portugues."
+2026-11-10T21:49:26.857Z,Rayane912.unharnessed,Rayane912,Unharnessed,0.0.1,Chat with the Unharnessed agent from VS Code.
+2026-11-10T21:51:18.297Z,wrojasa.vscode-dbml-erd,wrojasa,DBML ER Diagrams,0.1.0,"Render .dbml files and ```dbml code blocks as interactive entity-relationship diagrams with orthogonal, dbdiagram.io-style routing. Edit tables, columns, relationships and areas on the canvas; every change is written back to the text."
+2026-11-10T21:57:57.353Z,deveveryday.efficient-hours,deveveryday,efficient hours,0.0.7,dark and light themes for efficient hours
+2026-11-10T22:05:49.033Z,geniussmr.vscode-codeprint,geniussmr,CodePrint,0.0.2,"See the environmental footprint of your AI-assisted coding. CodePrint turns GitHub Copilot, Claude Code and Codex activity into energy, CO₂e and water estimates, with a pixel-art planet that reacts as you work. Fully local, no telemetry."
