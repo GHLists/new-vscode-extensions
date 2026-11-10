@@ -12,23 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 17:20 UTC
+## Latest list — 2026-11-10 18:21 UTC
 
-New extensions published between 2026-11-10 15:20 UTC and 2026-11-10 17:20 UTC.
+New extensions published between 2026-11-10 16:21 UTC and 2026-11-10 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T17-20-06-540304Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T18-21-58-137612Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 16:08:41 | [veriloop.voder-vscode](https://marketplace.visualstudio.com/items?itemName=veriloop.voder-vscode) | Voder – VeriLoop’s coding agent | 0.1.45 | A verifiable coding agent for exploring codebases, implementing changes, runnin… |
-| 2026-11-10 16:16:49 | [lecrane.launch-tags-editor](https://marketplace.visualstudio.com/items?itemName=lecrane.launch-tags-editor) | Launch Tags Editor for Adobe Experience… | 0.13.1 | Pull, edit, and push Adobe Launch (Reactor) web and mobile properties as local… |
-| 2026-11-10 16:19:50 | [ZoraJack.verilog-signal-trace](https://marketplace.visualstudio.com/items?itemName=ZoraJack.verilog-signal-trace) | Verilog Signal Trace | 0.8.2 | Trace Verilog and SystemVerilog signals through assignments, write conditions,… |
-| 2026-11-10 16:51:07 | [GaussAA.office-viewer-plus](https://marketplace.visualstudio.com/items?itemName=GaussAA.office-viewer-plus) | Data File Viewer (Parquet, JSONL, Excel) | 6.4.5 | Fork of Office Viewer narrowed to what its maintainer actually opens: spreadshe… |
-| 2026-11-10 16:51:12 | [SynlynkAI.synlynk-vscode](https://marketplace.visualstudio.com/items?itemName=SynlynkAI.synlynk-vscode) | Synlynk Multi-Agent Engineering | 0.31.0 | Multi-agent orchestration, leased worktree isolation, adversarial verification,… |
-| 2026-11-10 16:52:16 | [AravBhardwaj.testscribe](https://marketplace.visualstudio.com/items?itemName=AravBhardwaj.testscribe) | TestScribe | 0.2.4 | Run plain-English browser tests with checked Playwright results |
-| 2026-11-10 17:02:34 | [TejPratapSingh.logstudio-logspec](https://marketplace.visualstudio.com/items?itemName=TejPratapSingh.logstudio-logspec) | LogStudio LogSpec Test Runner | 0.1.0 | Author, autocomplete, and execute LogSpec log pattern test cases against Chrome… |
-| 2026-11-10 17:04:32 | [LxStudio.codeshot-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.codeshot-lx) | CodeShot — Beautiful Code Screenshots | 1.0.0 | Turn your code into beautiful, shareable screenshots — right inside VS Code. Sy… |
-| 2026-11-10 17:11:42 | [wlezzar.skeudo-vscode](https://marketplace.visualstudio.com/items?itemName=wlezzar.skeudo-vscode) | Skeudo | 0.1.0 | Highlights sketches in .skeudo files and Markdown fences, and renders them in t… |
+| 2026-11-10 17:18:07 | [zplflow.vscode-zplflow](https://marketplace.visualstudio.com/items?itemName=zplflow.vscode-zplflow) | zplflow — ZPL Live Preview & Label Tools | 0.2.0 | Pixel-perfect ZPL thermal label live preview, syntax highlighting, and pipeline… |
+| 2026-11-10 17:19:36 | [minortex.mediawiki-vscode-editor](https://marketplace.visualstudio.com/items?itemName=minortex.mediawiki-vscode-editor) | MediaWiki ⇄ VSCode External Editor | 0.18.1 | Edit MediaWiki pages in VSCode; the browser previews on save and performs the e… |
+| 2026-11-10 17:20:55 | [nevoxus.nevoxus](https://marketplace.visualstudio.com/items?itemName=nevoxus.nevoxus) | Nevoxus | 0.4.0 | Programación, pruebas y servidores con el orquestador automático de Nevoxus. |
+| 2026-11-10 17:24:03 | [WaddahMoghram.view-patch](https://marketplace.visualstudio.com/items?itemName=WaddahMoghram.view-patch) | View Patch | 0.2.0 | Review patches and patch series side by side, with complete Git-backed files or… |
+| 2026-11-10 17:33:48 | [GuillemSerra.vgscript-plugin](https://marketplace.visualstudio.com/items?itemName=GuillemSerra.vgscript-plugin) | VgScript | 0.4.8 | Write video-game narrative in .vgs: coloring that tells scenes, dialogue, actio… |
+| 2026-11-10 17:33:52 | [nachoranf.seal](https://marketplace.visualstudio.com/items?itemName=nachoranf.seal) | SEAL | 0.1.0 | Code verification that returns one prioritised review decision per file -- a pa… |
+| 2026-11-10 17:43:28 | [sungbin.fcdev](https://marketplace.visualstudio.com/items?itemName=sungbin.fcdev) | fcdev 6502 开发 | 0.1.0 | 6502 兼容机（NES、小霸王学习机等）开发：ca65 汇编的语法高亮、悬停、补全、转到定义与符号，以及 cc65 的 C 头文件配置。 |
+| 2026-11-10 17:50:19 | [paivel.reactio-latex](https://marketplace.visualstudio.com/items?itemName=paivel.reactio-latex) | Reactio Draw figures for LaTeX | 0.2.3 | Paste Reactio Draw figures into LaTeX with their files, edit them in Reactio Dr… |
+| 2026-11-10 18:03:45 | [sundarkid.sangam](https://marketplace.visualstudio.com/items?itemName=sundarkid.sangam) | sangam | 0.2.0 | A gathering of experts, in your editor: chat with sangam's agents, pick model /… |
+| 2026-11-10 18:08:41 | [zovo.zovo-jar-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-jar-viewer) | JAR Viewer & Java Decompiler (Class Fil… | 0.1.0 | JAR viewer and Java decompiler for VS Code: open .jar, .war, .ear, .aar and .cl… |
 
 ## Data source
 
