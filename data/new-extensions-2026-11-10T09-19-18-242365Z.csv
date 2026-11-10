@@ -1,0 +1,20 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T08:15:54.397Z,jungleer.serial-gateway,jungleer,Serial Gateway,0.1.13,浏览器串口终端。
+2026-11-10T08:16:48.403Z,jungleer.doc-live-server,jungleer,Doc Live Server,0.4.8,Markdown 编辑与文档预览。
+2026-11-10T08:20:06.027Z,jungleer.tftp-server,jungleer,j-tools TFTP Server,0.1.13,TFTP 文件传输服务。
+2026-11-10T08:27:05.23Z,zoceanfly.oceanview,zoceanfly,OceanView,0.1.1,浏览 Protobuf，并用 gRPC / HTTP / SSE / WebSocket 调试接口：侧边栏导航、Client、Auth、压测与链路调试
+2026-11-10T08:29:32.6Z,jamiearodi.xl-runner,jamiearodi,XL Runner,0.1.0,"Run GitHub Actions workflows locally with nektos/act, right from VS Code."
+2026-11-10T08:32:14.373Z,SandeepaMallawarachchi.projectlens,SandeepaMallawarachchi,ProjectLens AI,0.1.0,"Analyze your workspace for technologies, code quality, security risks, implementation progress and production readiness — with optional AI review via Groq, OpenAI, Gemini or Claude."
+2026-11-10T08:36:47.963Z,MYFSillyBa.signal-dock,MYFSillyBa,Signal Dock,0.1.5,"Serial and network telemetry, waveforms, analysis and instrument dashboards."
+2026-11-10T08:37:50.547Z,wby-shu-edu-china.wby-midnight-folio,wby-shu-edu-china,WBY Midnight Folio,1.0.0,"A dark stylesheet for the built-in Markdown preview, with serif headings, warm accents and readable code blocks."
+2026-11-10T08:39:10.493Z,LanarLLC.prism-boards,LanarLLC,Prism Boards,1.0.0,Prism Boards workspace for Visual Studio Code.
+2026-11-10T08:39:20.953Z,lylede.tudlocrud,lylede,TudloCRUD,0.2.1,"TudloCRUD: an offline learning companion for practicing PHP and MySQL CRUD, with a project library, file explorer and code viewer in the Explorer sidebar."
+2026-11-10T08:45:47.07Z,tatenlee.omni-sql-formatter,tatenlee,Omni SQL Formatter,0.3.0,"Configurable SQL formatting across PostgreSQL, MySQL, Hive, Spark and more."
+2026-11-10T08:46:10.633Z,ngamamaC.pythontrainer,ngamamaC,Python Trainer,0.3.1,"Python Trainer creates Flask + SQLite apps: a Basic CRUD starter or skill test apps (Books ISBN, Events Registration, Employee Attendance, Clinic, ICT Congress, plus Neil's versions of Clinic, Department and Intrams), and documents how to add routes."
+2026-11-10T08:46:37.86Z,theodoreguillet.revspan,theodoreguillet,Revspan for Bitbucket,3.0.0,"Review Bitbucket PRs version by version, despite amend, rebase and force-push, in VS Code"
+2026-11-10T08:47:43.26Z,cuviss.soloas,cuviss,soloAS,0.2.1,"soloAS（Unreal Engine AngelScript）编辑与调试扩展，基于 Hazelight 维护的 UE-AS 官方扩展。 Editing and debugging for soloAS, based on the official UE-AS extension maintained by Hazelight."
+2026-11-10T08:48:25.963Z,kiryu.readbar,kiryu,摸鱼阅读,1.0.0,把小说放进 VS Code 状态栏，一边写代码一边摸鱼看小说
+2026-11-10T08:56:55.153Z,HongKongProgrammingSociety.semiblock-esp32,HongKongProgrammingSociety,SemiBlock ESP32,0.3.1,Visual Basic-style form designer and MicroPython events for ESP32 touch-screen boards. Currently supports the Waveshare ESP32-S3-Touch-LCD-3.5B.
+2026-11-10T09:00:30.93Z,Ondeoma.scalactive-st,Ondeoma,Scalactive Single File Component (.st),0.4.1,"Language support for Scalactive single file components (.st): syntax highlighting, completion, type errors, hover and go to definition"
+2026-11-10T09:04:54.327Z,ManavVaishnani.moody-dark-themes,ManavVaishnani,Moody Dark Themes,0.0.1,"A collection of moody, low-contrast dark themes engineered to reduce eye strain."
+2026-11-10T09:12:06.02Z,bisayanibai.tudlotech,bisayanibai,TudloTech,0.2.4,"TudloTech: an offline learning companion for practicing PHP and MySQL CRUD, with a project library, file explorer and code viewer in the Explorer sidebar."
