@@ -12,24 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 18:21 UTC
+## Latest list — 2026-11-10 19:21 UTC
 
-New extensions published between 2026-11-10 16:21 UTC and 2026-11-10 18:21 UTC.
+New extensions published between 2026-11-10 17:21 UTC and 2026-11-10 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T18-21-58-137612Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T19-21-48-176672Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 17:18:07 | [zplflow.vscode-zplflow](https://marketplace.visualstudio.com/items?itemName=zplflow.vscode-zplflow) | zplflow — ZPL Live Preview & Label Tools | 0.2.0 | Pixel-perfect ZPL thermal label live preview, syntax highlighting, and pipeline… |
-| 2026-11-10 17:19:36 | [minortex.mediawiki-vscode-editor](https://marketplace.visualstudio.com/items?itemName=minortex.mediawiki-vscode-editor) | MediaWiki ⇄ VSCode External Editor | 0.18.1 | Edit MediaWiki pages in VSCode; the browser previews on save and performs the e… |
-| 2026-11-10 17:20:55 | [nevoxus.nevoxus](https://marketplace.visualstudio.com/items?itemName=nevoxus.nevoxus) | Nevoxus | 0.4.0 | Programación, pruebas y servidores con el orquestador automático de Nevoxus. |
-| 2026-11-10 17:24:03 | [WaddahMoghram.view-patch](https://marketplace.visualstudio.com/items?itemName=WaddahMoghram.view-patch) | View Patch | 0.2.0 | Review patches and patch series side by side, with complete Git-backed files or… |
-| 2026-11-10 17:33:48 | [GuillemSerra.vgscript-plugin](https://marketplace.visualstudio.com/items?itemName=GuillemSerra.vgscript-plugin) | VgScript | 0.4.8 | Write video-game narrative in .vgs: coloring that tells scenes, dialogue, actio… |
-| 2026-11-10 17:33:52 | [nachoranf.seal](https://marketplace.visualstudio.com/items?itemName=nachoranf.seal) | SEAL | 0.1.0 | Code verification that returns one prioritised review decision per file -- a pa… |
-| 2026-11-10 17:43:28 | [sungbin.fcdev](https://marketplace.visualstudio.com/items?itemName=sungbin.fcdev) | fcdev 6502 开发 | 0.1.0 | 6502 兼容机（NES、小霸王学习机等）开发：ca65 汇编的语法高亮、悬停、补全、转到定义与符号，以及 cc65 的 C 头文件配置。 |
-| 2026-11-10 17:50:19 | [paivel.reactio-latex](https://marketplace.visualstudio.com/items?itemName=paivel.reactio-latex) | Reactio Draw figures for LaTeX | 0.2.3 | Paste Reactio Draw figures into LaTeX with their files, edit them in Reactio Dr… |
-| 2026-11-10 18:03:45 | [sundarkid.sangam](https://marketplace.visualstudio.com/items?itemName=sundarkid.sangam) | sangam | 0.2.0 | A gathering of experts, in your editor: chat with sangam's agents, pick model /… |
-| 2026-11-10 18:08:41 | [zovo.zovo-jar-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-jar-viewer) | JAR Viewer & Java Decompiler (Class Fil… | 0.1.0 | JAR viewer and Java decompiler for VS Code: open .jar, .war, .ear, .aar and .cl… |
+| 2026-11-10 18:20:43 | [Felipe-OSouza.nerv-terminal](https://marketplace.visualstudio.com/items?itemName=Felipe-OSouza.nerv-terminal) | NERV Terminal | 0.1.0 | Tema escuro para VS Code inspirado nas telas NERV/MAGI: preto quente de CRT, te… |
+| 2026-11-10 18:23:37 | [ShanteshSindgi.jatayu-explains](https://marketplace.visualstudio.com/items?itemName=ShanteshSindgi.jatayu-explains) | JatayuExplains | 0.2.0 | Understand any code: step-by-step tours that highlight your code, quick quizzes… |
+| 2026-11-10 18:30:59 | [shoshindev.svelte-marker](https://marketplace.visualstudio.com/items?itemName=shoshindev.svelte-marker) | Svelte Marker | 0.0.9 | Highlighter-style marks behind Svelte and SvelteKit syntax and names, so you ca… |
+| 2026-11-10 18:39:44 | [ToGODer.togoder-security](https://marketplace.visualstudio.com/items?itemName=ToGODer.togoder-security) | Togoder Security: Extension Malware Sca… | 0.1.0 | Scan a VS Code extension for malicious code before you install or update it. An… |
+| 2026-11-10 18:42:08 | [zovo.zovo-docx-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-docx-editor) | DOCX Editor & Word Editor (Edit Word Do… | 0.1.0 | DOCX editor and Word editor for VS Code: edit Word documents (.docx, .dotx) in… |
+| 2026-11-10 18:53:51 | [optersoft.oxid-sql](https://marketplace.visualstudio.com/items?itemName=optersoft.oxid-sql) | Oxid SQL | 0.2.0 | Typed Python generation and native diagnostics for SQLite .sq files. |
+| 2026-11-10 18:59:17 | [ai2team.a2-code](https://marketplace.visualstudio.com/items?itemName=ai2team.a2-code) | a2 Code | 0.1.0 | AI coding agent for teams: use your company’s AI (Claude, GPT, Gemini) managed… |
+| 2026-11-10 19:01:49 | [LeftConsult.tab-organizer](https://marketplace.visualstudio.com/items?itemName=LeftConsult.tab-organizer) | Tab Organizer | 0.4.0 | Organize editor tabs into named groups per demand, like Google Chrome tab group… |
+| 2026-11-10 19:01:58 | [userima.pit-wall-insights](https://marketplace.visualstudio.com/items?itemName=userima.pit-wall-insights) | Pit Wall Insights for Claude Code | 0.2.0 | F1-style live telemetry from your own Claude Code usage, shown in the status ba… |
+| 2026-11-10 19:05:49 | [mohammed-worafi.paste-json-flutter-model](https://marketplace.visualstudio.com/items?itemName=mohammed-worafi.paste-json-flutter-model) | Paste JSON → Flutter Model | 0.1.0 | Paste an API JSON response and generate a Flutter/Dart model file with fromJson… |
+| 2026-11-10 19:12:25 | [alexeytozik.vscode-agent-review](https://marketplace.visualstudio.com/items?itemName=alexeytozik.vscode-agent-review) | Agent Review by ANTOLEX | 0.7.4 | Review individual changes from each request in a full-file review tab. |
 
 ## Data source
 
