@@ -12,29 +12,30 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 11:21 UTC
+## Latest list — 2026-11-10 12:19 UTC
 
-New extensions published between 2026-11-10 09:21 UTC and 2026-11-10 11:21 UTC.
+New extensions published between 2026-11-10 10:19 UTC and 2026-11-10 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T11-21-45-400652Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T12-19-50-636022Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 10:22:10 | [akromind.ovoz-kiritish](https://marketplace.visualstudio.com/items?itemName=akromind.ovoz-kiritish) | Ovozli kiritish — o'zbekcha (Uzbek voic… | 0.2.0 | O'zbekcha gapiring — matn kursor turgan joyga yoziladi. Oflayn, bepul, Whisper… |
-| 2026-11-10 10:25:17 | [IYourSunshineI.deft-xmacro](https://marketplace.visualstudio.com/items?itemName=IYourSunshineI.deft-xmacro) | Deft X-Macro | 1.0.0 | Deft: highlighting, diagnostics, hover, outline, formatting and C/C++ navigatio… |
-| 2026-11-10 10:31:28 | [TestPublisherMapawade.DOmainTest](https://marketplace.visualstudio.com/items?itemName=TestPublisherMapawade.DOmainTest) | TestDomain | 0.11.1792302291 | Autonomous coding agent right in your IDE, capable of creating/editing files, r… |
-| 2026-11-10 10:34:53 | [aebwp.polipetto-claude](https://marketplace.visualstudio.com/items?itemName=aebwp.polipetto-claude) | Polipetto per Claude Code | 0.5.1 | A pixel-art octopus in the sidebar that acts out what Claude Code is doing, one… |
-| 2026-11-10 10:36:25 | [ssamdog117.trainmee-crud-learning](https://marketplace.visualstudio.com/items?itemName=ssamdog117.trainmee-crud-learning) | TrainMee 2 | 0.0.3 | A PHP Error Detector. |
-| 2026-11-10 10:36:58 | [PRODM280DVTWEEK1.doki-wallpaper-carouselM281W3DVTdomain](https://marketplace.visualstudio.com/items?itemName=PRODM280DVTWEEK1.doki-wallpaper-carouselM281W3DVTdomain) | Wallpaper Carousel for Doki ThemeM281W3… | 1.2.1 | Unofficial companion for the Doki Theme: flip your wallpaper through a folder o… |
-| 2026-11-10 10:46:46 | [Simplysm.simplysm-compose](https://marketplace.visualstudio.com/items?itemName=Simplysm.simplysm-compose) | Simplysm Compose | 15.1.8 | Starts a folder's Docker Compose services when you open it in VS Code and stops… |
-| 2026-11-10 10:52:38 | [otofumi-sunasato.indent-outline](https://marketplace.visualstudio.com/items?itemName=otofumi-sunasato.indent-outline) | Indent Outline | 0.0.1 | Show indentation-based plain text as an outline. |
-| 2026-11-10 10:53:17 | [GidadoMukhtarBalangoggo.errorcopy-pro](https://marketplace.visualstudio.com/items?itemName=GidadoMukhtarBalangoggo.errorcopy-pro) | ErrorCopy: AI Error Explainer | 0.0.1 | Understand errors faster with AI - GitHub Copilot Chat, Copilot Web, Claude, Ch… |
-| 2026-11-10 10:53:55 | [my-workspace-tools.flutter-project-tools](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-project-tools) | Workspace Flutter Dev | 1.0.2 | Инструменты для текущей рабочей папки. |
-| 2026-11-10 10:57:44 | [yyg27.skyrim-vscode-theme](https://marketplace.visualstudio.com/items?itemName=yyg27.skyrim-vscode-theme) | Skyrim Theme | 0.1.0 | Hey, you. You're finally themed. |
-| 2026-11-10 10:57:55 | [yyg27.redemption-vscode-theme](https://marketplace.visualstudio.com/items?itemName=yyg27.redemption-vscode-theme) | Redemption Theme | 0.1.0 | Outlaws, gunsmoke and worn leather from the Wild West. |
-| 2026-11-10 11:04:17 | [gunsnprices.gun-title-parser](https://marketplace.visualstudio.com/items?itemName=gunsnprices.gun-title-parser) | Gun & Ammo Title Parser | 0.1.0 | Turn gun and ammo product titles into structured data: brand, model, generation… |
-| 2026-11-10 11:08:24 | [sudarsans.blame-the-extension](https://marketplace.visualstudio.com/items?itemName=sudarsans.blame-the-extension) | Blame the Extension | 0.1.0 | Find the extension that is slowing down your VS Code. Ranks every installed ext… |
-| 2026-11-10 11:12:16 | [aleksandrdotnet.usage-tokens](https://marketplace.visualstudio.com/items?itemName=aleksandrdotnet.usage-tokens) | Usage Tokens | 1.0.0 | Status-bar readout of your AI plan limits: 5-hour session, weekly and per-model… |
+| 2026-11-10 11:21:28 | [zovo.zovo-spreadsheet-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-spreadsheet-editor) | Spreadsheet Editor for CSV, Excel & XLS… | 0.1.0 | Edit CSV, TSV and Excel (.xlsx) files as a spreadsheet. Free, no sign-in, works… |
+| 2026-11-10 11:25:13 | [fahdroussafi.live-model-usage](https://marketplace.visualstudio.com/items?itemName=fahdroussafi.live-model-usage) | Live Model Usage and Quota Tracker | 1.1.3 | Real-time token, cache, cost, and quota tracking for Gemini Flash, Argon, Claud… |
+| 2026-11-10 11:26:22 | [CriticalManufacturing.cm-dee-debugger](https://marketplace.visualstudio.com/items?itemName=CriticalManufacturing.cm-dee-debugger) | Critical Manufacturing DEE Debugger | 0.3.1 | Browse, edit, sync and debug Critical Manufacturing MES DEE Actions and custom… |
+| 2026-11-10 11:27:43 | [StruXllence.struxllence-themes](https://marketplace.visualstudio.com/items?itemName=StruXllence.struxllence-themes) | StruXllence Themes | 1.0.2 | Luxury engineering dark & light theme suite for VS Code and VS Code Insiders, w… |
+| 2026-11-10 11:32:21 | [techstep.techstep-labs](https://marketplace.visualstudio.com/items?itemName=techstep.techstep-labs) | TechStep Labs | 0.21.1 | Write your TechStep programming labs in VS Code: open a lab from the TechStep s… |
+| 2026-11-10 11:32:50 | [SoumyaranjanSia.odia-language-support](https://marketplace.visualstudio.com/items?itemName=SoumyaranjanSia.odia-language-support) | ଓଡ଼ିଆ ଲିପି: Typing & Language Tools | 2.0.6 | Odia language support and Indic-script transliteration for Visual Studio Code |
+| 2026-11-10 11:37:47 | [ayzann.ayzann-device-frame-preview](https://marketplace.visualstudio.com/items?itemName=ayzann.ayzann-device-frame-preview) | Device Frame Preview by AyZann | 0.3.0 | Prévisualise ton site dans des cadres réalistes de téléphone, tablette, PC port… |
+| 2026-11-10 11:42:38 | [masum-hasan.json-edge](https://marketplace.visualstudio.com/items?itemName=masum-hasan.json-edge) | JSON Edge - The Edge Case Maker | 0.1.6 | Create JSON edge-case inputs with missing fields, nulls, empty values and wrong… |
+| 2026-11-10 11:43:16 | [preekmr.dev-multitool](https://marketplace.visualstudio.com/items?itemName=preekmr.dev-multitool) | Dev Multitool | 0.1.2 | Format, convert, encode and decode text without leaving the editor: JSON, XML,… |
+| 2026-11-10 11:47:38 | [kos-codes.xcode-preview](https://marketplace.visualstudio.com/items?itemName=kos-codes.xcode-preview) | Xcode Preview | 0.1.1 | SwiftUI previews in VS Code, rendered by Xcode 27's headless MCP server. |
+| 2026-11-10 11:59:17 | [Q4USdevteam.qunit-test-generator](https://marketplace.visualstudio.com/items?itemName=Q4USdevteam.qunit-test-generator) | QUnit: AI Test Generator | 1.0.0 | Automatically generate high-quality unit and integration tests for Moleculer.js… |
+| 2026-11-10 12:05:24 | [Glem.glem-sdk](https://marketplace.visualstudio.com/items?itemName=Glem.glem-sdk) | Glem SDK | 0.1.3 | The official Glem VS Code extension. A multi-tab coding conversations powered b… |
+| 2026-11-10 12:05:43 | [devbluen.pawn-studio](https://marketplace.visualstudio.com/items?itemName=devbluen.pawn-studio) | Pawn Studio — SA-MP / open.mp | 0.9.0 | Complete Pawn environment for SA-MP / open.mp: compile from any file, syntax hi… |
+| 2026-11-10 12:06:47 | [SaraJMR.secure-copilot](https://marketplace.visualstudio.com/items?itemName=SaraJMR.secure-copilot) | Secure Copilot | 0.1.0 | AI-powered DevSecOps copilot: detects OWASP vulnerabilities in Python code and… |
+| 2026-11-10 12:12:21 | [studiomedio.git-selector](https://marketplace.visualstudio.com/items?itemName=studiomedio.git-selector) | Git Selector | 1.0.0 | Fast switching between local git repositories and their .code-workspace files,… |
+| 2026-11-10 12:14:01 | [TixXin.fuyu](https://marketplace.visualstudio.com/items?itemName=TixXin.fuyu) | Fuyu | 0.2.0 | Lets Fuyu switch to the terminal running a Claude Code or Codex session when yo… |
 
 ## Data source
 
