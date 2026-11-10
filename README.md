@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 02:21 UTC
+## Latest list — 2026-11-10 03:21 UTC
 
-New extensions published between 2026-11-10 00:21 UTC and 2026-11-10 02:21 UTC.
+New extensions published between 2026-11-10 01:21 UTC and 2026-11-10 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T02-21-54-908062Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T03-21-37-406813Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 01:15:28 | [bp-devops.k6-performance-agent](https://marketplace.visualstudio.com/items?itemName=bp-devops.k6-performance-agent) | K6 Performance Agent | 2.2.38 | Agente de IA para creación, ejecución y análisis de pruebas de performance con… |
-| 2026-11-10 01:31:26 | [TJA.barrel-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.barrel-vscode) | Barrel Bypass | 0.1.0 | Find barrel files (index.ts re-exports) and rewrite imports to bypass them in o… |
-| 2026-11-10 01:36:55 | [TJA.cccc-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.cccc-vscode) | cccc Complexity | 0.2.0 | Cognitive and cyclomatic complexity per function, with a project-wide hotspots… |
-| 2026-11-10 01:37:05 | [TJA.wt-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.wt-vscode) | Worktrunk (wt) | 0.3.0 | Git worktrees in the sidebar: create, switch, merge and remove with the wt CLI. |
-| 2026-11-10 01:47:37 | [fd-system-holdings.boxlite-cloud](https://marketplace.visualstudio.com/items?itemName=fd-system-holdings.boxlite-cloud) | BoxLite Cloud | 0.1.0 | Deploy and manage BoxLite cloud applications with ease |
-| 2026-11-10 01:50:06 | [mjlee111.vskicad](https://marketplace.visualstudio.com/items?itemName=mjlee111.vskicad) | KiCad Preview | 0.1.0 | Preview KiCad schematics and PCBs (2D and 3D) inside Visual Studio Code using k… |
-| 2026-11-10 02:08:28 | [devreadytools.devready](https://marketplace.visualstudio.com/items?itemName=devreadytools.devready) | DevReady — Project Readiness | 0.3.0 | Understand any cloned project before running it. Detect required tools, version… |
-| 2026-11-10 02:15:00 | [verying.ai-commit-msg-generator](https://marketplace.visualstudio.com/items?itemName=verying.ai-commit-msg-generator) | AI 提交信息生成器 | 0.1.0 | 读取暂存的更改，调用 OpenAI 兼容接口生成提交信息并填入源代码管理输入框 |
+| 2026-11-10 02:19:04 | [decussi.ftp-sftp-sync](https://marketplace.visualstudio.com/items?itemName=decussi.ftp-sftp-sync) | FTP/SFTP Sync | 0.1.0 | Compare, envie e baixe arquivos via FTP, FTPS ou SFTP pelo botão direito, com a… |
+| 2026-11-10 02:38:16 | [HavisunTechnologies.connectivity-doctor-vscode](https://marketplace.visualstudio.com/items?itemName=HavisunTechnologies.connectivity-doctor-vscode) | Connectivity Doctor for SAP BTP | 0.1.1 | Checks the destinations of a deployed SAP BTP app: finds missing and misspelled… |
+| 2026-11-10 02:38:35 | [Nuclei.nucleistudio](https://marketplace.visualstudio.com/items?itemName=Nuclei.nucleistudio) | Nuclei Studio VSCode | 0.3.0 | Develop, build, and debug embedded applications on Nuclei RISC-V processors in… |
+| 2026-11-10 02:49:06 | [tnotesjs.open-dropped-folder](https://marketplace.visualstudio.com/items?itemName=tnotesjs.open-dropped-folder) | Open Dropped Folder | 0.0.1 | Open a folder dropped into the window in the current window. |
+| 2026-11-10 02:49:43 | [modelware.sysight](https://marketplace.visualstudio.com/items?itemName=modelware.sysight) | Sysight: SysML v2 Insight | 0.1.6 | SysML v2 and KerML models, understood: live diagnostics across the workspace, n… |
+| 2026-11-10 03:00:03 | [SymartecLTD.msw](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.msw) | MSW | 1.0.1 | Mock Service Worker in the editor. Jump from fetch, axios, ky, or ofetch to the… |
+| 2026-11-10 03:01:30 | [SadeqYazdi.simple-dev-tools](https://marketplace.visualstudio.com/items?itemName=SadeqYazdi.simple-dev-tools) | Simple Dev Tools | 0.0.11 | Small personal editor tools. |
+| 2026-11-10 03:09:24 | [Skyhoshi.theme-randomizer-vscode](https://marketplace.visualstudio.com/items?itemName=Skyhoshi.theme-randomizer-vscode) | VS Code Theme Randomizer | 0.0.1 | Randomize the current VS Code color theme. |
 
 ## Data source
 

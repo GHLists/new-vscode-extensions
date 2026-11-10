@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T02:19:04.727Z,decussi.ftp-sftp-sync,decussi,FTP/SFTP Sync,0.1.0,"Compare, envie e baixe arquivos via FTP, FTPS ou SFTP pelo botão direito, com a configuração no próprio projeto."
+2026-11-10T02:38:16.327Z,HavisunTechnologies.connectivity-doctor-vscode,HavisunTechnologies,Connectivity Doctor for SAP BTP,0.1.1,"Checks the destinations of a deployed SAP BTP app: finds missing and misspelled destinations, failing OAuth tokens, Cloud Connector setup mistakes and missing bindings, and explains each one."
+2026-11-10T02:38:35.53Z,Nuclei.nucleistudio,Nuclei,Nuclei Studio VSCode,0.3.0,"Develop, build, and debug embedded applications on Nuclei RISC-V processors in VS Code, powered by Nuclei Studio IDE."
+2026-11-10T02:49:06.37Z,tnotesjs.open-dropped-folder,tnotesjs,Open Dropped Folder,0.0.1,Open a folder dropped into the window in the current window.
+2026-11-10T02:49:43.207Z,modelware.sysight,modelware,Sysight: SysML v2 Insight,0.1.6,"SysML v2 and KerML models, understood: live diagnostics across the workspace, navigation, computed values and requirement verdicts, and SPARQL queries over the model."
+2026-11-10T03:00:03.647Z,SymartecLTD.msw,SymartecLTD,MSW,1.0.1,"Mock Service Worker in the editor. Jump from fetch, axios, ky, or ofetch to the http handler, catch duplicate mocks, and add the missing one."
+2026-11-10T03:01:30.763Z,SadeqYazdi.simple-dev-tools,SadeqYazdi,Simple Dev Tools,0.0.11,Small personal editor tools.
+2026-11-10T03:09:24.597Z,Skyhoshi.theme-randomizer-vscode,Skyhoshi,VS Code Theme Randomizer,0.0.1,Randomize the current VS Code color theme.
