@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T16:08:41.88Z,veriloop.voder-vscode,veriloop,Voder – VeriLoop’s coding agent,0.1.45,"A verifiable coding agent for exploring codebases, implementing changes, running tests, and delivering evidence-backed results."
+2026-11-10T16:16:49.387Z,lecrane.launch-tags-editor,lecrane,Launch Tags Editor for Adobe Experience Platform,0.13.1,"Pull, edit, and push Adobe Launch (Reactor) web and mobile properties as local JSON + JS files."
+2026-11-10T16:19:50.527Z,ZoraJack.verilog-signal-trace,ZoraJack,Verilog Signal Trace,0.8.2,"Trace Verilog and SystemVerilog signals through assignments, write conditions, and named ports. Explore dependencies in an interactive graph."
+2026-11-10T16:51:07.49Z,GaussAA.office-viewer-plus,GaussAA,"Data File Viewer (Parquet, JSONL, Excel)",6.4.5,"Fork of Office Viewer narrowed to what its maintainer actually opens: spreadsheets (xls/xlsx/xlsm/csv/tsv/ods), parquet with ZSTD support, and a JSONL tree viewer."
+2026-11-10T16:51:12.897Z,SynlynkAI.synlynk-vscode,SynlynkAI,Synlynk Multi-Agent Engineering,0.31.0,"Multi-agent orchestration, leased worktree isolation, adversarial verification, and goal tracking for Synlynk."
+2026-11-10T16:52:16.697Z,AravBhardwaj.testscribe,AravBhardwaj,TestScribe,0.2.4,Run plain-English browser tests with checked Playwright results
+2026-11-10T17:02:34.82Z,TejPratapSingh.logstudio-logspec,TejPratapSingh,LogStudio LogSpec Test Runner,0.1.0,"Author, autocomplete, and execute LogSpec log pattern test cases against Chrome/Edge via WebMCP"
+2026-11-10T17:04:32.77Z,LxStudio.codeshot-lx,LxStudio,CodeShot — Beautiful Code Screenshots,1.0.0,"Turn your code into beautiful, shareable screenshots — right inside VS Code. Syntax highlighted, offline, your code never leaves your machine. Free to start; Pro for SVG, HD export."
+2026-11-10T17:11:42.043Z,wlezzar.skeudo-vscode,wlezzar,Skeudo,0.1.0,"Highlights sketches in .skeudo files and Markdown fences, and renders them in the Markdown preview: pseudocode for code review, with every outside effect tagged."
