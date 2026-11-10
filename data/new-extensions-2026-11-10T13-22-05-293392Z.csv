@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T12:24:49.66Z,yhay81.markdown-translation-preview,yhay81,Markdown Translation Preview,0.1.0,Preview Markdown with an LLM translation side by side. Bring your own key for Claude Haiku 5.5 or GPT-6 Luna.
+2026-11-10T12:25:14.15Z,zovo.zovo-git-commit-graph,zovo,"Git Commit Graph & History Log (Branches, Compare, Blame)",0.1.0,"Free git commit graph and history log for VS Code: every branch, tag, remote and stash as a graph that opens 200,000 commits in about a second, search across the full history (message, author, hash, file path, changed text), compare any two commits, file and line history, and checkout, merge, rebase"
+2026-11-10T12:27:48.633Z,Sky1sBloo.juno-pl,Sky1sBloo,JunoPL,0.0.1,Syntax highligher for JunoPL
+2026-11-10T12:38:19.917Z,gislaine-web3.gitml,gislaine-web3,GITML — Modern Markup,0.4.2,"Linguagem GITML: comando `gitml` no terminal, abre o site no navegador (localhost), prévia ao vivo, realce (também dentro de HTML), autocompletar, diagnósticos, formatação e ícone de arquivo .gitml."
+2026-11-10T12:38:54.863Z,morty6688.notebook-save-cleaner,morty6688,Notebook Save Cleaner,0.1.3,Clean Jupyter execution counts and metadata on save while keeping outputs.
+2026-11-10T12:52:44.443Z,ballombert.vcmd2conf,ballombert,VcMd2Conf — Markdown ↔ Confluence,0.1.0,"Synchronize Markdown documentation with Confluence using mark CLI. Visual sync status, one-click publish, and version tracking."
+2026-11-10T12:54:02.093Z,sourceregistry.vm-manager-libvirt,sourceregistry,VM Manager – libvirt,1.0.0,"Manage libvirt (KVM/QEMU) domains on this computer or over SSH from VS Code: power, details, consoles and snapshots."
+2026-11-10T12:58:03.727Z,Glem.glem-ai-sdk,Glem,Glem AI SDK,2.0.0,"Official Glem SDK development tools for Visual Studio Code: install and update the Glem SDK, run the SDK host locally, build and deploy plugins, and develop with AI assistance from your Glem instance."
+2026-11-10T12:58:54.373Z,torbenson-consulting.mem-log-viewer,torbenson-consulting,MEM Log Viewer,1.0.0,"Finally, human-readable Intune and ConfigMgr (CMTrace-format) log files!"
+2026-11-10T13:07:31.907Z,SonLang.sonlang,SonLang,SonLang,0.2.0,Official language support and file icon recognition for SonLang (.sonl)
