@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T05:18:39.46Z,code-craft-ai.loup-lang,code-craft-ai,Loup Language,1.20.0,Language support for the Loup programming language (v1.20)
+2026-11-10T05:43:29.57Z,ArionLee.agent-session-restore,ArionLee,Rekindle,0.9.0,Automatically restore your terminal agents when you reopen VS Code.
+2026-11-10T05:56:01.87Z,newsword0620.two-way-bookmarks,newsword0620,Bookmark Bridge — Two-Way Bookmarks,1.0.2,"Two-way bookmarks: jump from a bookmark in the tree to the code, and from the code straight back to the bookmark in the tree view."
+2026-11-10T05:58:41.093Z,zovo.zovo-cosmos-db-client,zovo,"Cosmos DB Client & Azure Cosmos DB Explorer (CosmosDB NoSQL Query, Emulator)",0.1.0,"Free Cosmos DB client for VS Code: connect to Azure Cosmos DB with a connection string or the local emulator in one click, no Azure sign-in. Run NoSQL queries with the RU charge and query metrics on every page, page with continuation tokens, edit items with ETag checks, export JSON/CSV, import JSONL"

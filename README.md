@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 05:19 UTC
+## Latest list — 2026-11-10 06:21 UTC
 
-New extensions published between 2026-11-10 03:19 UTC and 2026-11-10 05:19 UTC.
+New extensions published between 2026-11-10 04:21 UTC and 2026-11-10 06:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T05-19-44-55682Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T06-21-39-717888Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 04:47:53 | [ShreyRadadia.agj-language](https://marketplace.visualstudio.com/items?itemName=ShreyRadadia.agj-language) | AGJ Programming Language | 1.0.0 | Official language support for AGJ - App Generator Ka Jalva. |
-| 2026-11-10 04:59:06 | [fattung79.antigravity-context-viewer](https://marketplace.visualstudio.com/items?itemName=fattung79.antigravity-context-viewer) | Antigravity Context Viewer | 0.1.0 | View-only Token Gauge and Context Inventory for Antigravity Conversations. |
-| 2026-11-10 05:03:47 | [mjlee111.ros2-visualiser](https://marketplace.visualstudio.com/items?itemName=mjlee111.ros2-visualiser) | ROS 2 Visualiser | 0.1.0 | rqt-style ROS 2 tools inside VS Code: node graph, topic monitor (Hz, bandwidth,… |
-| 2026-11-10 05:10:54 | [tnotesjs.tnotesjs-open-folder-in-new-window](https://marketplace.visualstudio.com/items?itemName=tnotesjs.tnotesjs-open-folder-in-new-window) | TNotes Open Folder in New Window | 0.0.1 | Open a folder in a new window from the Explorer context menu. |
+| 2026-11-10 05:18:39 | [code-craft-ai.loup-lang](https://marketplace.visualstudio.com/items?itemName=code-craft-ai.loup-lang) | Loup Language | 1.20.0 | Language support for the Loup programming language (v1.20) |
+| 2026-11-10 05:43:29 | [ArionLee.agent-session-restore](https://marketplace.visualstudio.com/items?itemName=ArionLee.agent-session-restore) | Rekindle | 0.9.0 | Automatically restore your terminal agents when you reopen VS Code. |
+| 2026-11-10 05:56:01 | [newsword0620.two-way-bookmarks](https://marketplace.visualstudio.com/items?itemName=newsword0620.two-way-bookmarks) | Bookmark Bridge — Two-Way Bookmarks | 1.0.2 | Two-way bookmarks: jump from a bookmark in the tree to the code, and from the c… |
+| 2026-11-10 05:58:41 | [zovo.zovo-cosmos-db-client](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-cosmos-db-client) | Cosmos DB Client & Azure Cosmos DB Expl… | 0.1.0 | Free Cosmos DB client for VS Code: connect to Azure Cosmos DB with a connection… |
 
 ## Data source
 
