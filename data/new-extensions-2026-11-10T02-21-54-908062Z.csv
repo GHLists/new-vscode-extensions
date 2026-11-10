@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T01:15:28.44Z,bp-devops.k6-performance-agent,bp-devops,K6 Performance Agent,2.2.38,"Agente de IA para creación, ejecución y análisis de pruebas de performance con K6"
+2026-11-10T01:31:26.647Z,TJA.barrel-vscode,TJA,Barrel Bypass,0.1.0,Find barrel files (index.ts re-exports) and rewrite imports to bypass them in one click.
+2026-11-10T01:36:55.053Z,TJA.cccc-vscode,TJA,cccc Complexity,0.2.0,"Cognitive and cyclomatic complexity per function, with a project-wide hotspots view, powered by the cccc CLI."
+2026-11-10T01:37:05.897Z,TJA.wt-vscode,TJA,Worktrunk (wt),0.3.0,"Git worktrees in the sidebar: create, switch, merge and remove with the wt CLI."
+2026-11-10T01:47:37.547Z,fd-system-holdings.boxlite-cloud,fd-system-holdings,BoxLite Cloud,0.1.0,Deploy and manage BoxLite cloud applications with ease
+2026-11-10T01:50:06.05Z,mjlee111.vskicad,mjlee111,KiCad Preview,0.1.0,Preview KiCad schematics and PCBs (2D and 3D) inside Visual Studio Code using kicad-cli.
+2026-11-10T02:08:28.577Z,devreadytools.devready,devreadytools,DevReady — Project Readiness,0.3.0,"Understand any cloned project before running it. Detect required tools, versions, dependencies, configuration gaps, permissions, and production readiness. Local-first analysis."
+2026-11-10T02:15:00.123Z,verying.ai-commit-msg-generator,verying,AI 提交信息生成器,0.1.0,读取暂存的更改，调用 OpenAI 兼容接口生成提交信息并填入源代码管理输入框

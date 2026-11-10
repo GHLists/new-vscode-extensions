@@ -12,18 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 01:21 UTC
+## Latest list — 2026-11-10 02:21 UTC
 
-New extensions published between 2026-11-09 23:21 UTC and 2026-11-10 01:21 UTC.
+New extensions published between 2026-11-10 00:21 UTC and 2026-11-10 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T01-21-16-485406Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T02-21-54-908062Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 00:16:29 | [LA-Code.devcat](https://marketplace.visualstudio.com/items?itemName=LA-Code.devcat) | LA-Code | 1.3.0 | Programa en español: escribe lo que necesitas (párrafo + negrita, si + sino, li… |
-| 2026-11-10 00:47:02 | [DrewHolzworth.lpj-ins-file](https://marketplace.visualstudio.com/items?itemName=DrewHolzworth.lpj-ins-file) | LPJ-GUESS Instruction File | 1.0.0 | Syntax highlighting support for LPJ-GUESS .ins instruction files. |
-| 2026-11-10 01:07:35 | [Skyhoshi.coyotescript](https://marketplace.visualstudio.com/items?itemName=Skyhoshi.coyotescript) | CoyoteScript | 0.1.0 | Unofficial CoyoteScript language support for CoyoteMIDI: linting, IntelliSense,… |
-| 2026-11-10 01:10:39 | [zovo.zovo-azure-storage-explorer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-azure-storage-explorer) | Azure Storage & Azure Blob Storage Expl… | 0.1.0 | Free Azure Storage explorer for Azure Blob Storage, Queue Storage and Table Sto… |
+| 2026-11-10 01:15:28 | [bp-devops.k6-performance-agent](https://marketplace.visualstudio.com/items?itemName=bp-devops.k6-performance-agent) | K6 Performance Agent | 2.2.38 | Agente de IA para creación, ejecución y análisis de pruebas de performance con… |
+| 2026-11-10 01:31:26 | [TJA.barrel-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.barrel-vscode) | Barrel Bypass | 0.1.0 | Find barrel files (index.ts re-exports) and rewrite imports to bypass them in o… |
+| 2026-11-10 01:36:55 | [TJA.cccc-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.cccc-vscode) | cccc Complexity | 0.2.0 | Cognitive and cyclomatic complexity per function, with a project-wide hotspots… |
+| 2026-11-10 01:37:05 | [TJA.wt-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.wt-vscode) | Worktrunk (wt) | 0.3.0 | Git worktrees in the sidebar: create, switch, merge and remove with the wt CLI. |
+| 2026-11-10 01:47:37 | [fd-system-holdings.boxlite-cloud](https://marketplace.visualstudio.com/items?itemName=fd-system-holdings.boxlite-cloud) | BoxLite Cloud | 0.1.0 | Deploy and manage BoxLite cloud applications with ease |
+| 2026-11-10 01:50:06 | [mjlee111.vskicad](https://marketplace.visualstudio.com/items?itemName=mjlee111.vskicad) | KiCad Preview | 0.1.0 | Preview KiCad schematics and PCBs (2D and 3D) inside Visual Studio Code using k… |
+| 2026-11-10 02:08:28 | [devreadytools.devready](https://marketplace.visualstudio.com/items?itemName=devreadytools.devready) | DevReady — Project Readiness | 0.3.0 | Understand any cloned project before running it. Detect required tools, version… |
+| 2026-11-10 02:15:00 | [verying.ai-commit-msg-generator](https://marketplace.visualstudio.com/items?itemName=verying.ai-commit-msg-generator) | AI 提交信息生成器 | 0.1.0 | 读取暂存的更改，调用 OpenAI 兼容接口生成提交信息并填入源代码管理输入框 |
 
 ## Data source
 
