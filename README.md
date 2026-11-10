@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 00:20 UTC
+## Latest list — 2026-11-10 01:21 UTC
 
-New extensions published between 2026-11-09 22:20 UTC and 2026-11-10 00:20 UTC.
+New extensions published between 2026-11-09 23:21 UTC and 2026-11-10 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T00-20-15-053389Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T01-21-16-485406Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 23:26:10 | [angeloquartarone.htop-meters](https://marketplace.visualstudio.com/items?itemName=angeloquartarone.htop-meters) | htop Meters | 0.1.0 | htop's CPU, Mem and Swp meters, in ASCII, in a section of the VS Code side bar. |
-| 2026-11-09 23:40:56 | [Motip.code-tempest-fx](https://marketplace.visualstudio.com/items?itemName=Motip.code-tempest-fx) | Code Tempest FX | 0.1.3 | Typing sparks, glowing cursor, lightning and fire. Basic effects plus an experi… |
-| 2026-11-09 23:49:54 | [schalappe.broke-code](https://marketplace.visualstudio.com/items?itemName=schalappe.broke-code) | broke-code | 0.1.0 | A coding agent for LLM services without native tool calling. |
-| 2026-11-09 23:58:47 | [NotHolycom.notholy](https://marketplace.visualstudio.com/items?itemName=NotHolycom.notholy) | NotHoly.com | 0.1.3 | NotHoly models for offensive security work in your editor: chat, security revie… |
-| 2026-11-10 00:07:23 | [solidjs.reactivescript](https://marketplace.visualstudio.com/items?itemName=solidjs.reactivescript) | ReactiveScript | 0.1.0 | ReactiveScript (.rx, .d.rx): highlighting, and TypeScript's types, hover, go to… |
+| 2026-11-10 00:16:29 | [LA-Code.devcat](https://marketplace.visualstudio.com/items?itemName=LA-Code.devcat) | LA-Code | 1.3.0 | Programa en español: escribe lo que necesitas (párrafo + negrita, si + sino, li… |
+| 2026-11-10 00:47:02 | [DrewHolzworth.lpj-ins-file](https://marketplace.visualstudio.com/items?itemName=DrewHolzworth.lpj-ins-file) | LPJ-GUESS Instruction File | 1.0.0 | Syntax highlighting support for LPJ-GUESS .ins instruction files. |
+| 2026-11-10 01:07:35 | [Skyhoshi.coyotescript](https://marketplace.visualstudio.com/items?itemName=Skyhoshi.coyotescript) | CoyoteScript | 0.1.0 | Unofficial CoyoteScript language support for CoyoteMIDI: linting, IntelliSense,… |
+| 2026-11-10 01:10:39 | [zovo.zovo-azure-storage-explorer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-azure-storage-explorer) | Azure Storage & Azure Blob Storage Expl… | 0.1.0 | Free Azure Storage explorer for Azure Blob Storage, Queue Storage and Table Sto… |
 
 ## Data source
 
