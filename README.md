@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-09 23:21 UTC
+## Latest list — 2026-11-10 00:20 UTC
 
-New extensions published between 2026-11-09 21:21 UTC and 2026-11-09 23:21 UTC.
+New extensions published between 2026-11-09 22:20 UTC and 2026-11-10 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-09T23-21-02-544828Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T00-20-15-053389Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-09 22:37:38 | [Phrozenn1.tether-vscode](https://marketplace.visualstudio.com/items?itemName=Phrozenn1.tether-vscode) | Tether — ADHD Flow & Save-State | 0.1.1 | ADHD Flowmodoro timer, automatic context save-states, and distraction shielding… |
-| 2026-11-09 22:47:30 | [P-Technologies.recbug-vscode](https://marketplace.visualstudio.com/items?itemName=P-Technologies.recbug-vscode) | RecBug | 1.0.0 | Inspect RecBug reports, replay evidence, trace failures to source, and generate… |
-| 2026-11-09 22:48:26 | [zecro.sqlite-desk](https://marketplace.visualstudio.com/items?itemName=zecro.sqlite-desk) | SQLite Desk: Open .db / .sqlite Files,… | 0.1.2 | Open .db / .sqlite / .sqlite3 files in VS Code: browse tables and views, schema… |
-| 2026-11-09 23:06:17 | [NecatiARSLAN.apache-flink-manager](https://marketplace.visualstudio.com/items?itemName=NecatiARSLAN.apache-flink-manager) | Apache Flink Manager | 1.0.2 | Manage Apache Flink clusters from VS Code |
-| 2026-11-09 23:06:42 | [kristhianlizcano.kristh](https://marketplace.visualstudio.com/items?itemName=kristhianlizcano.kristh) | Kris Engine Language | 1.0.3 | Cognitive Programming Language Support |
-| 2026-11-09 23:15:34 | [zecro.openapi-desk](https://marketplace.visualstudio.com/items?itemName=zecro.openapi-desk) | OpenAPI Desk: OpenAPI 3.0/3.1 & Swagger… | 0.1.2 | Preview OpenAPI 3.0 / 3.1 and Swagger 2.0 specs (YAML or JSON) side by side, wi… |
+| 2026-11-09 23:26:10 | [angeloquartarone.htop-meters](https://marketplace.visualstudio.com/items?itemName=angeloquartarone.htop-meters) | htop Meters | 0.1.0 | htop's CPU, Mem and Swp meters, in ASCII, in a section of the VS Code side bar. |
+| 2026-11-09 23:40:56 | [Motip.code-tempest-fx](https://marketplace.visualstudio.com/items?itemName=Motip.code-tempest-fx) | Code Tempest FX | 0.1.3 | Typing sparks, glowing cursor, lightning and fire. Basic effects plus an experi… |
+| 2026-11-09 23:49:54 | [schalappe.broke-code](https://marketplace.visualstudio.com/items?itemName=schalappe.broke-code) | broke-code | 0.1.0 | A coding agent for LLM services without native tool calling. |
+| 2026-11-09 23:58:47 | [NotHolycom.notholy](https://marketplace.visualstudio.com/items?itemName=NotHolycom.notholy) | NotHoly.com | 0.1.3 | NotHoly models for offensive security work in your editor: chat, security revie… |
+| 2026-11-10 00:07:23 | [solidjs.reactivescript](https://marketplace.visualstudio.com/items?itemName=solidjs.reactivescript) | ReactiveScript | 0.1.0 | ReactiveScript (.rx, .d.rx): highlighting, and TypeScript's types, hover, go to… |
 
 ## Data source
 
