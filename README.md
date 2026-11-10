@@ -12,23 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 04:20 UTC
+## Latest list — 2026-11-10 05:19 UTC
 
-New extensions published between 2026-11-10 02:20 UTC and 2026-11-10 04:20 UTC.
+New extensions published between 2026-11-10 03:19 UTC and 2026-11-10 05:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T04-20-16-644932Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T05-19-44-55682Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 03:26:38 | [SymartecLTD.better-auth](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.better-auth) | Better Auth | 1.0.0 | See the providers and plugins enabled in betterAuth, and warn when the client c… |
-| 2026-11-10 03:26:56 | [SymartecLTD.inngest](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.inngest) | Inngest | 1.0.0 | See Inngest functions and warn when a send names an event that no function hand… |
-| 2026-11-10 03:27:15 | [SymartecLTD.kysely](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.kysely) | Kysely | 1.0.0 | See selectFrom, insertInto, updateTable, and deleteFrom, and warn when the tabl… |
-| 2026-11-10 03:27:39 | [cliqtomedia.run-apify-actors](https://marketplace.visualstudio.com/items?itemName=cliqtomedia.run-apify-actors) | Run Apify Actors | 0.1.0 | Run any Apify Actor from VS Code with your own API token. Get scraped data as J… |
-| 2026-11-10 03:27:46 | [SymartecLTD.react-hook-form](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.react-hook-form) | React Hook Form | 1.0.0 | See register and Controller fields beside the Zod or Valibot resolver, and catc… |
-| 2026-11-10 03:27:58 | [SymartecLTD.valibot](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.valibot) | Valibot | 1.0.0 | Jump from parse and safeParse to the Valibot object schema, and see every schem… |
-| 2026-11-10 03:31:16 | [juhapark.hmmm-auto-linenum](https://marketplace.visualstudio.com/items?itemName=juhapark.hmmm-auto-linenum) | HMMM Auto Linenum | 0.0.1 | Automatically number your lines in hmmm! |
-| 2026-11-10 03:40:50 | [SymartecLTD.framer-motion](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.framer-motion) | Framer Motion | 1.0.0 | See motion components and catch a variant name that is not on its variants obje… |
-| 2026-11-10 04:04:43 | [crd233.vscode-terminal-preview](https://marketplace.visualstudio.com/items?itemName=crd233.vscode-terminal-preview) | vscode-terminal-preview | 0.1.0 | Make terminal file links respect workbench.editor.enablePreview for configurabl… |
+| 2026-11-10 04:47:53 | [ShreyRadadia.agj-language](https://marketplace.visualstudio.com/items?itemName=ShreyRadadia.agj-language) | AGJ Programming Language | 1.0.0 | Official language support for AGJ - App Generator Ka Jalva. |
+| 2026-11-10 04:59:06 | [fattung79.antigravity-context-viewer](https://marketplace.visualstudio.com/items?itemName=fattung79.antigravity-context-viewer) | Antigravity Context Viewer | 0.1.0 | View-only Token Gauge and Context Inventory for Antigravity Conversations. |
+| 2026-11-10 05:03:47 | [mjlee111.ros2-visualiser](https://marketplace.visualstudio.com/items?itemName=mjlee111.ros2-visualiser) | ROS 2 Visualiser | 0.1.0 | rqt-style ROS 2 tools inside VS Code: node graph, topic monitor (Hz, bandwidth,… |
+| 2026-11-10 05:10:54 | [tnotesjs.tnotesjs-open-folder-in-new-window](https://marketplace.visualstudio.com/items?itemName=tnotesjs.tnotesjs-open-folder-in-new-window) | TNotes Open Folder in New Window | 0.0.1 | Open a folder in a new window from the Explorer context menu. |
 
 ## Data source
 

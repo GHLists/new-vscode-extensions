@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T04:47:53.897Z,ShreyRadadia.agj-language,ShreyRadadia,AGJ Programming Language,1.0.0,Official language support for AGJ - App Generator Ka Jalva.
+2026-11-10T04:59:06.04Z,fattung79.antigravity-context-viewer,fattung79,Antigravity Context Viewer,0.1.0,View-only Token Gauge and Context Inventory for Antigravity Conversations.
+2026-11-10T05:03:47.19Z,mjlee111.ros2-visualiser,mjlee111,ROS 2 Visualiser,0.1.0,"rqt-style ROS 2 tools inside VS Code: node graph, topic monitor (Hz, bandwidth, echo), image and point cloud views, plot, service caller, publisher, parameters, console, TF tree and URDF viewer."
+2026-11-10T05:10:54.093Z,tnotesjs.tnotesjs-open-folder-in-new-window,tnotesjs,TNotes Open Folder in New Window,0.0.1,Open a folder in a new window from the Explorer context menu.
