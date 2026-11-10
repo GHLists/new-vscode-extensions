@@ -12,33 +12,31 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-10 09:19 UTC
+## Latest list — 2026-11-10 10:20 UTC
 
-New extensions published between 2026-11-10 07:19 UTC and 2026-11-10 09:19 UTC.
+New extensions published between 2026-11-10 08:20 UTC and 2026-11-10 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-10T09-19-18-242365Z.csv)
+[Full CSV](data/new-extensions-2026-11-10T10-20-23-495714Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-10 08:15:54 | [jungleer.serial-gateway](https://marketplace.visualstudio.com/items?itemName=jungleer.serial-gateway) | Serial Gateway | 0.1.13 | 浏览器串口终端。 |
-| 2026-11-10 08:16:48 | [jungleer.doc-live-server](https://marketplace.visualstudio.com/items?itemName=jungleer.doc-live-server) | Doc Live Server | 0.4.8 | Markdown 编辑与文档预览。 |
-| 2026-11-10 08:20:06 | [jungleer.tftp-server](https://marketplace.visualstudio.com/items?itemName=jungleer.tftp-server) | j-tools TFTP Server | 0.1.13 | TFTP 文件传输服务。 |
-| 2026-11-10 08:27:05 | [zoceanfly.oceanview](https://marketplace.visualstudio.com/items?itemName=zoceanfly.oceanview) | OceanView | 0.1.1 | 浏览 Protobuf，并用 gRPC / HTTP / SSE / WebSocket 调试接口：侧边栏导航、Client、Auth、压测与链路调试 |
-| 2026-11-10 08:29:32 | [jamiearodi.xl-runner](https://marketplace.visualstudio.com/items?itemName=jamiearodi.xl-runner) | XL Runner | 0.1.0 | Run GitHub Actions workflows locally with nektos/act, right from VS Code. |
-| 2026-11-10 08:32:14 | [SandeepaMallawarachchi.projectlens](https://marketplace.visualstudio.com/items?itemName=SandeepaMallawarachchi.projectlens) | ProjectLens AI | 0.1.0 | Analyze your workspace for technologies, code quality, security risks, implemen… |
-| 2026-11-10 08:36:47 | [MYFSillyBa.signal-dock](https://marketplace.visualstudio.com/items?itemName=MYFSillyBa.signal-dock) | Signal Dock | 0.1.5 | Serial and network telemetry, waveforms, analysis and instrument dashboards. |
-| 2026-11-10 08:37:50 | [wby-shu-edu-china.wby-midnight-folio](https://marketplace.visualstudio.com/items?itemName=wby-shu-edu-china.wby-midnight-folio) | WBY Midnight Folio | 1.0.0 | A dark stylesheet for the built-in Markdown preview, with serif headings, warm… |
-| 2026-11-10 08:39:10 | [LanarLLC.prism-boards](https://marketplace.visualstudio.com/items?itemName=LanarLLC.prism-boards) | Prism Boards | 1.0.0 | Prism Boards workspace for Visual Studio Code. |
-| 2026-11-10 08:39:20 | [lylede.tudlocrud](https://marketplace.visualstudio.com/items?itemName=lylede.tudlocrud) | TudloCRUD | 0.2.1 | TudloCRUD: an offline learning companion for practicing PHP and MySQL CRUD, wit… |
-| 2026-11-10 08:45:47 | [tatenlee.omni-sql-formatter](https://marketplace.visualstudio.com/items?itemName=tatenlee.omni-sql-formatter) | Omni SQL Formatter | 0.3.0 | Configurable SQL formatting across PostgreSQL, MySQL, Hive, Spark and more. |
-| 2026-11-10 08:46:10 | [ngamamaC.pythontrainer](https://marketplace.visualstudio.com/items?itemName=ngamamaC.pythontrainer) | Python Trainer | 0.3.1 | Python Trainer creates Flask + SQLite apps: a Basic CRUD starter or skill test… |
-| 2026-11-10 08:46:37 | [theodoreguillet.revspan](https://marketplace.visualstudio.com/items?itemName=theodoreguillet.revspan) | Revspan for Bitbucket | 3.0.0 | Review Bitbucket PRs version by version, despite amend, rebase and force-push,… |
-| 2026-11-10 08:47:43 | [cuviss.soloas](https://marketplace.visualstudio.com/items?itemName=cuviss.soloas) | soloAS | 0.2.1 | soloAS（Unreal Engine AngelScript）编辑与调试扩展，基于 Hazelight 维护的 UE-AS 官方扩展。 Editing a… |
-| 2026-11-10 08:48:25 | [kiryu.readbar](https://marketplace.visualstudio.com/items?itemName=kiryu.readbar) | 摸鱼阅读 | 1.0.0 | 把小说放进 VS Code 状态栏，一边写代码一边摸鱼看小说 |
-| 2026-11-10 08:56:55 | [HongKongProgrammingSociety.semiblock-esp32](https://marketplace.visualstudio.com/items?itemName=HongKongProgrammingSociety.semiblock-esp32) | SemiBlock ESP32 | 0.3.1 | Visual Basic-style form designer and MicroPython events for ESP32 touch-screen… |
-| 2026-11-10 09:00:30 | [Ondeoma.scalactive-st](https://marketplace.visualstudio.com/items?itemName=Ondeoma.scalactive-st) | Scalactive Single File Component (.st) | 0.4.1 | Language support for Scalactive single file components (.st): syntax highlighti… |
-| 2026-11-10 09:04:54 | [ManavVaishnani.moody-dark-themes](https://marketplace.visualstudio.com/items?itemName=ManavVaishnani.moody-dark-themes) | Moody Dark Themes | 0.0.1 | A collection of moody, low-contrast dark themes engineered to reduce eye strain. |
-| 2026-11-10 09:12:06 | [bisayanibai.tudlotech](https://marketplace.visualstudio.com/items?itemName=bisayanibai.tudlotech) | TudloTech | 0.2.4 | TudloTech: an offline learning companion for practicing PHP and MySQL CRUD, wit… |
+| 2026-11-10 09:15:18 | [xx025.slurm-job-viewer](https://marketplace.visualstudio.com/items?itemName=xx025.slurm-job-viewer) | Slurm Job Viewer | 0.5.1 | View Slurm jobs, scheduling details, accounting history and logs through Remote… |
+| 2026-11-10 09:16:48 | [vscode-ansible.vscode-ansible-extension](https://marketplace.visualstudio.com/items?itemName=vscode-ansible.vscode-ansible-extension) | VSCode Ansible Extension | 0.1.1 | Ansible support for VS Code: syntax highlighting, module autocomplete, playbook… |
+| 2026-11-10 09:19:56 | [MB42.pyathy](https://marketplace.visualstudio.com/items?itemName=MB42.pyathy) | pyathy | 0.1.13 | Plain-English acceptance tests for Python command-line programs |
+| 2026-11-10 09:23:41 | [tommojphillips.bldcfg](https://marketplace.visualstudio.com/items?itemName=tommojphillips.bldcfg) | BldCfg | 1.0.0 | Make builds, C IntelliSense, and C/NASM source navigation |
+| 2026-11-10 09:25:35 | [Dibachain.dibacoder](https://marketplace.visualstudio.com/items?itemName=Dibachain.dibacoder) | DibaCoder | 2.5.0 | دستیار برنامه‌نویسی هوش مصنوعی دیباچین — AI coding agent powered by DibaRouter |
+| 2026-11-10 09:27:38 | [my-workspace-tools.my-workspace-tools](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.my-workspace-tools) | Workspace Flutter Tool | 1.0.0 | Инструменты для текущей рабочей папки. |
+| 2026-11-10 09:30:51 | [arsentev-ai.contextburn](https://marketplace.visualstudio.com/items?itemName=arsentev-ai.contextburn) | contextburn — run efficiency | 0.1.0 | Status bar meter for Claude Code: what share of the tokens you pay for became m… |
+| 2026-11-10 09:31:02 | [anxinwen.anlogic-assistant](https://marketplace.visualstudio.com/items?itemName=anxinwen.anlogic-assistant) | 安路 FA 填表助手 | 0.1.0 | 在 Copilot Agent 中按安芯问知识库的原文证据填写 Excel 和 Word 表格, 内置本地 Office 工具与 fill-doc 技能 |
+| 2026-11-10 09:34:17 | [codemama.codemama](https://marketplace.visualstudio.com/items?itemName=codemama.codemama) | CodeMama | 0.0.48 | AI-агент для VS Code: понимает проект, пишет код, запускает тесты и чинит упавш… |
+| 2026-11-10 09:47:33 | [BoxesnLines.bnl-dotnet-diagrams](https://marketplace.visualstudio.com/items?itemName=BoxesnLines.bnl-dotnet-diagrams) | Boxes'n'Lines .NET Diagrams | 0.0.1 | Renders a flow diagram of the C# method under your cursor in a pane, using the… |
+| 2026-11-10 09:50:00 | [arisyn.intalink-for-dbt](https://marketplace.visualstudio.com/items?itemName=arisyn.intalink-for-dbt) | Intalink for dbt | 0.3.1 | Bring the table relationships Intalink discovers into dbt development: JOIN com… |
+| 2026-11-10 09:59:43 | [zaidwhy.todo-ledger](https://marketplace.visualstudio.com/items?itemName=zaidwhy.todo-ledger) | Todo Ledger | 0.1.0 | Maintained fork of Todo Tree: comment tags in a tree that works on current VS C… |
+| 2026-11-10 10:02:00 | [JeswinJohn.break-bestie](https://marketplace.visualstudio.com/items?itemName=JeswinJohn.break-bestie) | Break Bestie — Water & Eye Break Compan… | 1.1.0 | Your hilarious offline VS Code break bestie! Stay hydrated and prevent eye stra… |
+| 2026-11-10 10:05:27 | [pyke-official.pyke](https://marketplace.visualstudio.com/items?itemName=pyke-official.pyke) | Pyke | 0.2.26 | Launch Pyke games, browser and encrypted offline libraries in a browser app win… |
+| 2026-11-10 10:08:44 | [fabr-build.fabr](https://marketplace.visualstudio.com/items?itemName=fabr-build.fabr) | Fabr | 0.4.0 | Fabr projects in VS Code: the editor's TypeScript server shown each compilation… |
+| 2026-11-10 10:08:48 | [sinowealth-semiconductor.sinoiot-ide](https://marketplace.visualstudio.com/items?itemName=sinowealth-semiconductor.sinoiot-ide) | SinoIOT IDE | 1.0.0 | Sets up the SinoIOT SDK for SinoWealth SH87F8919 and SH87F8916 boards on Window… |
+| 2026-11-10 10:10:00 | [SirMekus.php-eyes](https://marketplace.visualstudio.com/items?itemName=SirMekus.php-eyes) | PHP Eyes | 0.2.0 | Free "N references" CodeLens above PHP classes, methods and functions. Works wi… |
 
 ## Data source
 

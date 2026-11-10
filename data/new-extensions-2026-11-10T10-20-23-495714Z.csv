@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T09:15:18.453Z,xx025.slurm-job-viewer,xx025,Slurm Job Viewer,0.5.1,"View Slurm jobs, scheduling details, accounting history and logs through Remote-SSH."
+2026-11-10T09:16:48.927Z,vscode-ansible.vscode-ansible-extension,vscode-ansible,VSCode Ansible Extension,0.1.1,"Ansible support for VS Code: syntax highlighting, module autocomplete, playbook runner, linting, project graphs, secret detection, and debugging."
+2026-11-10T09:19:56.447Z,MB42.pyathy,MB42,pyathy,0.1.13,Plain-English acceptance tests for Python command-line programs
+2026-11-10T09:23:41.21Z,tommojphillips.bldcfg,tommojphillips,BldCfg,1.0.0,"Make builds, C IntelliSense, and C/NASM source navigation"
+2026-11-10T09:25:35.947Z,Dibachain.dibacoder,Dibachain,DibaCoder,2.5.0,دستیار برنامه‌نویسی هوش مصنوعی دیباچین — AI coding agent powered by DibaRouter
+2026-11-10T09:27:38.173Z,my-workspace-tools.my-workspace-tools,my-workspace-tools,Workspace Flutter Tool,1.0.0,Инструменты для текущей рабочей папки.
+2026-11-10T09:30:51.093Z,arsentev-ai.contextburn,arsentev-ai,contextburn — run efficiency,0.1.0,"Status bar meter for Claude Code: what share of the tokens you pay for became model output, and how much was re-reading context already sent."
+2026-11-10T09:31:02.33Z,anxinwen.anlogic-assistant,anxinwen,安路 FA 填表助手,0.1.0,"在 Copilot Agent 中按安芯问知识库的原文证据填写 Excel 和 Word 表格, 内置本地 Office 工具与 fill-doc 技能"
+2026-11-10T09:34:17.357Z,codemama.codemama,codemama,CodeMama,0.0.48,"AI-агент для VS Code: понимает проект, пишет код, запускает тесты и чинит упавшее. Модели платформы Klavo, знает 1С."
+2026-11-10T09:47:33.657Z,BoxesnLines.bnl-dotnet-diagrams,BoxesnLines,Boxes'n'Lines .NET Diagrams,0.0.1,"Renders a flow diagram of the C# method under your cursor in a pane, using the bnl-dotnet CLI."
+2026-11-10T09:50:00.4Z,arisyn.intalink-for-dbt,arisyn,Intalink for dbt,0.3.1,"Bring the table relationships Intalink discovers into dbt development: JOIN completion, evidence, confidence grading and join fan-out warnings. Requires the Intalink platform."
+2026-11-10T09:59:43.593Z,zaidwhy.todo-ledger,zaidwhy,Todo Ledger,0.1.0,"Maintained fork of Todo Tree: comment tags in a tree that works on current VS Code, Cursor and VSCodium, with the git age of every TODO."
+2026-11-10T10:02:00.677Z,JeswinJohn.break-bestie,JeswinJohn,Break Bestie — Water & Eye Break Companion,1.1.0,"Your hilarious offline VS Code break bestie! Stay hydrated and prevent eye strain (20-20-20 rule) with animated dancing celebrity stickers featuring Mohanlal, Mammootty, Ranga Annan (Fahadh Faasil), Dashamoolam Damu, Adi Pookkutti, Lionel Messi & Cristiano Ronaldo."
+2026-11-10T10:05:27.93Z,pyke-official.pyke,pyke-official,Pyke,0.2.26,"Launch Pyke games, browser and encrypted offline libraries in a browser app window."
+2026-11-10T10:08:44.467Z,fabr-build.fabr,fabr-build,Fabr,0.4.0,Fabr projects in VS Code: the editor's TypeScript server shown each compilation unit as fabr compiles it
+2026-11-10T10:08:48.307Z,sinowealth-semiconductor.sinoiot-ide,sinowealth-semiconductor,SinoIOT IDE,1.0.0,"Sets up the SinoIOT SDK for SinoWealth SH87F8919 and SH87F8916 boards on Windows, Windows + WSL2 and Linux: Git, the SDK, the build tools, VS Code extensions and AI agents, in one page."
+2026-11-10T10:10:00.173Z,SirMekus.php-eyes,SirMekus,PHP Eyes,0.2.0,"Free ""N references"" CodeLens above PHP classes, methods and functions. Works with Intelephense, DEVSENSE or Phpactor, no premium licence needed."
