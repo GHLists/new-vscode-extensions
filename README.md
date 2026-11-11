@@ -12,23 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 15:21 UTC
+## Latest list — 2026-11-11 16:21 UTC
 
-New extensions published between 2026-11-11 13:21 UTC and 2026-11-11 15:21 UTC.
+New extensions published between 2026-11-11 14:21 UTC and 2026-11-11 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T15-21-29-797674Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T16-21-47-254767Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 14:35:16 | [TuyizereIbrahim.tixagent](https://marketplace.visualstudio.com/items?itemName=TuyizereIbrahim.tixagent) | TixAgent | 0.0.1 | TixAgent – An AI-powered VS Code extension providing an intelligent chat interf… |
-| 2026-11-11 14:38:11 | [KhalidSalman.arab-lang](https://marketplace.visualstudio.com/items?itemName=KhalidSalman.arab-lang) | لغة عرب — Arab Programming Language | 1.0.0 | لغة برمجة عربية مستقلة مع دعم VS Code وتلوين الأكواد وتشغيل البرامج وفحص الأخطا… |
-| 2026-11-11 14:39:39 | [luizgununes.codex-usage-bar-vscode](https://marketplace.visualstudio.com/items?itemName=luizgununes.codex-usage-bar-vscode) | Codex Usage Bar | 0.1.0 | Shows Codex 5-hour and weekly usage in the VS Code status bar, with progress ba… |
-| 2026-11-11 14:39:43 | [kyell182.projects-hub](https://marketplace.visualstudio.com/items?itemName=kyell182.projects-hub) | Projects Hub | 0.2.0 | Save projects, organize them in groups, label them with colored tags and see th… |
-| 2026-11-11 14:48:08 | [AlexandruLupei.ai-token-usage-tracker](https://marketplace.visualstudio.com/items?itemName=AlexandruLupei.ai-token-usage-tracker) | AI Token Usage Tracker | 0.2.9 | Analyze AI coding-assistant token usage, session statistics, and workflow-effic… |
-| 2026-11-11 14:48:43 | [PanzerPeter.neuro-language-support](https://marketplace.visualstudio.com/items?itemName=PanzerPeter.neuro-language-support) | Neuro Language Support | 1.3.0 | Syntax highlighting and editor configuration for the Neuro programming language. |
-| 2026-11-11 14:50:45 | [TonyFonseca.decode-web-tf](https://marketplace.visualstudio.com/items?itemName=TonyFonseca.decode-web-tf) | Decode Web | 1.0.0 | Decode Web rassemble cinq extensions pour faciliter l’utilisation de Visual Stu… |
-| 2026-11-11 15:01:13 | [xiaozhu-studio.git-killer](https://marketplace.visualstudio.com/items?itemName=xiaozhu-studio.git-killer) | Git Killer | 0.1.1 | A commit-graph-centric Git client: browse, compare, blame and operate on Git fr… |
-| 2026-11-11 15:03:01 | [tty32.never-untitled](https://marketplace.visualstudio.com/items?itemName=tty32.never-untitled) | Never Untitled | 0.1.0 | Tell your VS Code windows apart at a glance. The Dock, the taskbar, Alt-Tab and… |
+| 2026-11-11 15:18:09 | [XiaoHanys.deepseek-autocomplete](https://marketplace.visualstudio.com/items?itemName=XiaoHanys.deepseek-autocomplete) | Dspilot | 0.0.1 | Copilot-replica inline autocomplete using your own API endpoint, configured ent… |
+| 2026-11-11 15:24:21 | [rapier.jxl-convert](https://marketplace.visualstudio.com/items?itemName=rapier.jxl-convert) | JPEG XL Convert: compress images, scree… | 0.1.0 | Convert and compress PNG, JPEG, WebP and GIF files to JPEG XL. Compare, preview… |
+| 2026-11-11 15:31:38 | [elimulink.elimulink](https://marketplace.visualstudio.com/items?itemName=elimulink.elimulink) | ElimuLink Code | 0.6.0 | ElimuLink inside VS Code: ask coding questions, explain, fix and improve your c… |
+| 2026-11-11 15:43:57 | [Lusisoft.lusisoft-developer-portal](https://marketplace.visualstudio.com/items?itemName=Lusisoft.lusisoft-developer-portal) | Lusisoft Developer Portal | 0.3.3 | Technology-agnostic VS Code workspace portal with visual pages, Markdown, linke… |
+| 2026-11-11 15:45:07 | [MustafizKaifee.arrebol](https://marketplace.visualstudio.com/items?itemName=MustafizKaifee.arrebol) | Arrebol Themes | 0.1.0 | A growing collection of carefully contrasted VS Code color themes, each with da… |
+| 2026-11-11 15:49:10 | [DimitarTsenev.agent-plugin-manager](https://marketplace.visualstudio.com/items?itemName=DimitarTsenev.agent-plugin-manager) | Agent Plugin Manager | 1.1.0 | Browse and install Agent Plugins (agent-plugins.org): skills, agents, prompts a… |
+| 2026-11-11 15:50:43 | [LeonNonnast.cutoverly](https://marketplace.visualstudio.com/items?itemName=LeonNonnast.cutoverly) | Cutoverly – Cutover as Code | 0.1.1 | Plan, run and track system cutovers straight from a .cutoverly file in your rep… |
+| 2026-11-11 15:52:52 | [y0rshb3.vortaq](https://marketplace.visualstudio.com/items?itemName=y0rshb3.vortaq) | Vortaq | 0.8.0 | Cliente de bases de datos para VS Code |
+| 2026-11-11 15:58:54 | [holobiomicslab.studium-vscode](https://marketplace.visualstudio.com/items?itemName=holobiomicslab.studium-vscode) | Studium | 0.6.0 | Learn from adaptive lessons in VS Code and train your judgment of AI output: ea… |
+| 2026-11-11 16:06:12 | [ganeshkumar.pypypython](https://marketplace.visualstudio.com/items?itemName=ganeshkumar.pypypython) | PCRpython | 1.0.0 | Offline Python practical code replacer that automatically transforms practical… |
+| 2026-11-11 16:16:26 | [EnzoSCH1.vscode-terminal-aquarium](https://marketplace.visualstudio.com/items?itemName=EnzoSCH1.vscode-terminal-aquarium) | Terminal Pixel Aquarium | 1.0.0 | Un aquarium 2D pixel art interactif (poissons, plantes, roches, sol technique)… |
 
 ## Data source
 

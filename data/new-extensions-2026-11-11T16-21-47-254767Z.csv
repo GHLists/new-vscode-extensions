@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T15:18:09.103Z,XiaoHanys.deepseek-autocomplete,XiaoHanys,Dspilot,0.0.1,"Copilot-replica inline autocomplete using your own API endpoint, configured entirely in VS Code Settings. Works alongside GitHub Copilot."
+2026-11-11T15:24:21.423Z,rapier.jxl-convert,rapier,"JPEG XL Convert: compress images, screenshots and photos",0.1.0,"Convert and compress PNG, JPEG, WebP and GIF files to JPEG XL. Compare, preview, convert back. Offline."
+2026-11-11T15:31:38.853Z,elimulink.elimulink,elimulink,ElimuLink Code,0.6.0,"ElimuLink inside VS Code: ask coding questions, explain, fix and improve your code, step by step."
+2026-11-11T15:43:57.18Z,Lusisoft.lusisoft-developer-portal,Lusisoft,Lusisoft Developer Portal,0.3.3,"Technology-agnostic VS Code workspace portal with visual pages, Markdown, linked blocks, themes and opt-in startup."
+2026-11-11T15:45:07.4Z,MustafizKaifee.arrebol,MustafizKaifee,Arrebol Themes,0.1.0,"A growing collection of carefully contrasted VS Code color themes, each with dark and light variants."
+2026-11-11T15:49:10.593Z,DimitarTsenev.agent-plugin-manager,DimitarTsenev,Agent Plugin Manager,1.1.0,"Browse and install Agent Plugins (agent-plugins.org): skills, agents, prompts and MCP servers from public or SSO-protected repositories into your user folders or the current repository."
+2026-11-11T15:50:43.133Z,LeonNonnast.cutoverly,LeonNonnast,Cutoverly – Cutover as Code,0.1.1,"Plan, run and track system cutovers straight from a .cutoverly file in your repository."
+2026-11-11T15:52:52.823Z,y0rshb3.vortaq,y0rshb3,Vortaq,0.8.0,Cliente de bases de datos para VS Code
+2026-11-11T15:58:54.217Z,holobiomicslab.studium-vscode,holobiomicslab,Studium,0.6.0,"Learn from adaptive lessons in VS Code and train your judgment of AI output: each scene is shown with its figures, equations and executed reference runs, and spaced reviews bring concepts back before you forget them."
+2026-11-11T16:06:12.583Z,ganeshkumar.pypypython,ganeshkumar,PCRpython,1.0.0,Offline Python practical code replacer that automatically transforms practical question comments into complete Python programs.
+2026-11-11T16:16:26.607Z,EnzoSCH1.vscode-terminal-aquarium,EnzoSCH1,Terminal Pixel Aquarium,1.0.0,"Un aquarium 2D pixel art interactif (poissons, plantes, roches, sol technique) directement en fond du terminal VS Code."
