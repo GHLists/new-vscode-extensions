@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T05:27:12.78Z,Prashanthviru.git-compass,Prashanthviru,Git Compass,0.2.1,"Blame, file and line history, visual history, worktrees, branch compare, a pull request Launchpad and AI commit tools, all free on any repository."
+2026-11-11T05:30:46.437Z,NotUsingGithub.wan30,NotUsingGithub,Wan30 MCP and CLI,0.1.0,"Registers the official local Wan30 MCP server and can show account, model, and credit estimates. Does not generate videos."
+2026-11-11T05:54:33.3Z,mint1535.step-learn-for-vscode,mint1535,STEP Learn for VSCode,0.1.0,STEP Learn で配られたプログラムのファイルを、ボタン 1 つで VS Code に用意して開きます。
+2026-11-11T05:55:19.777Z,windcloud.markdown-lime,windcloud,Markdown Lime,1.0.0,在 VSCode 中以 Markdown 编辑器的样式预览 Markdown 文件，预览样式与 Web 版保持一致，支持主题切换、色盘取色与一键复制到编辑器。
+2026-11-11T06:04:26.71Z,kms-labs.session-watchtower,kms-labs,Session Watchtower for Claude Code,0.6.0,"See every Claude Code session at a glance — working, waiting or idle — and exactly which files each one changed. Read-only."
+2026-11-11T06:06:16.203Z,Prolixis.contivon,Prolixis,Contivon - AI Memory for Your Codebase,0.2.0,"One-click setup of the Contivon MCP server for Cursor, Claude Code, Windsurf and VS Code Copilot. Sign in with your browser, no API keys."
