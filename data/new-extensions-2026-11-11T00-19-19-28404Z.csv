@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-10T23:56:26.55Z,az8TLab.predict-expectation-check,az8TLab,Predict: Expectation Check,1.0.0,"Practice coding reasoning while using AI. Compare your expectation with supplied code, explore optional explanations, and check a concrete input or requirement. You decide what to trust."
+2026-11-10T23:57:43.347Z,az8TLab.notice-avoidable-work,az8TLab,Eco.Coding,1.0.0,"Notice avoidable work in your code. Understand the trade-off, preview supported changes, and apply or revert them yourself. Build resource-conscious habits through everyday practice."
+2026-11-10T23:58:01.813Z,az8TLab.choice-and-recovery,az8TLab,Human Agency: Choice & Recovery,1.0.0,"Review whether people can understand, choose and recover in your software; then test the real interaction."
+2026-11-11T00:04:18.047Z,MominJan.DsaLab-Snippets-Momin,MominJan,DSA LabExam Snippets Momin,1.0.1,Relax Bro Relax
+2026-11-11T00:10:03.57Z,drom.rtlviz,drom,RTL Viz,0.2.0,"Interactive RTL schematics for Verilog and SystemVerilog, with code-to-graph navigation. Bundled Verilator (WebAssembly), no install needed."
+2026-11-11T00:12:33.817Z,Syncline.syncline-mesh,Syncline,Syncline Mesh,0.1.4,Edit the same files together in VS Code and Cursor. People who can see the GitHub repository join automatically. Connected agents coordinate overlapping changes for both people to accept.
