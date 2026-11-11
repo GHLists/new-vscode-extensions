@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T03:17:24.96Z,guscfer.navi-pet,guscfer,Navi Fairy Pet,1.0.0,Uma fadinha de pixel art que voa no Explorer como um pet e reage ao seu código.
+2026-11-11T03:19:11.03Z,hornby-zhu.shadowsave,hornby-zhu,ShadowSave,0.1.0,Save edits to an isolated shadow store instead of overwriting the original file; write back only when you explicitly ask.
+2026-11-11T03:26:46.74Z,Themvora.themvora-for-vscode,Themvora,Themvora Theme Studio for VS Code,0.1.0,"Explore, preview, create and validate your Themvora themes without leaving VS Code."
+2026-11-11T03:28:26.633Z,viacheslav-kladov.blogger-studio,viacheslav-kladov,Blogger Studio,1.0.0,"Write, publish, and modify blog posts and pages directly from VS Code to Blogger.com"
+2026-11-11T03:35:46.483Z,zovo.zovo-can-dbc-viewer,zovo,"DBC Viewer & CAN Log Viewer (BLF Viewer, ASC, TRC, candump Decoder)",0.1.0,"DBC viewer and CAN log viewer for VS Code: browse .dbc messages, signals, bit layouts and value tables, and decode Vector BLF and ASC, PCAN TRC and candump logs with your DBC. Frame table, filters, per-id cycle time and jitter. Read-only, no network."
+2026-11-11T03:37:49.91Z,PhanHoaiNam.md-review-comments,PhanHoaiNam,Markdown Inline Review,0.1.0,Google-Docs-style review comments on a Markdown preview. Comments are stored inline as CriticMarkup ({==text==}{>>comment<<}) so Claude or any reader of the file can act on them.
+2026-11-11T04:10:41.85Z,HermesSilva.tootega-mdb,HermesSilva,Tootega Multi-Database MCP,1.0.0,"MCP server for PostgreSQL, MySQL, SQL Server and Oracle. Native C core with zero dependencies, read-only by default."
