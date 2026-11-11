@@ -12,27 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 14:21 UTC
+## Latest list — 2026-11-11 15:21 UTC
 
-New extensions published between 2026-11-11 12:21 UTC and 2026-11-11 14:21 UTC.
+New extensions published between 2026-11-11 13:21 UTC and 2026-11-11 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T14-21-06-8091Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T15-21-29-797674Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 13:09:23 | [ai-sprintflow.ai-sprintflow](https://marketplace.visualstudio.com/items?itemName=ai-sprintflow.ai-sprintflow) | AI SprintFlow | 2.3.1 | Turns Jira, GitHub or Azure Boards tickets into reviewed, tested draft pull req… |
-| 2026-11-11 13:19:16 | [vxrdhxn.orbit-ai-assistant](https://marketplace.visualstudio.com/items?itemName=vxrdhxn.orbit-ai-assistant) | Orbit AI Coding Agent | 2.2.0 | A VS Code extension providing agentic AI chat features offline, online, and via… |
-| 2026-11-11 13:19:23 | [krisztiankovacs.koko-themes](https://marketplace.visualstudio.com/items?itemName=krisztiankovacs.koko-themes) | Koko Themes | 0.1.0 | Calm, readable color themes: Koko Slate, Koko Midnight, Koko Coral Night, Koko… |
-| 2026-11-11 13:20:27 | [krisztiankovacs.theme-tuner](https://marketplace.visualstudio.com/items?itemName=krisztiankovacs.theme-tuner) | Theme Tuner | 0.1.0 | Mix themes per region (sidebars, editor, syntax, terminal, chat) and tune every… |
-| 2026-11-11 13:21:14 | [RiccardoCherchi.flutter-runner](https://marketplace.visualstudio.com/items?itemName=RiccardoCherchi.flutter-runner) | Flutter Runner: Persistent Sessions | 0.1.2 | Start persistent fr instances and use the native Flutter debugger, hot reload a… |
-| 2026-11-11 13:31:25 | [Shapled.sidecar-comments](https://marketplace.visualstudio.com/items?itemName=Shapled.sidecar-comments) | Sidecar Comments | 0.1.0 | Show extra comments as CodeLens rows anchored above lines. Comment text lives i… |
-| 2026-11-11 13:34:20 | [SigmaLabsXYZ.sigmabot-editor-context](https://marketplace.visualstudio.com/items?itemName=SigmaLabsXYZ.sigmabot-editor-context) | SigmaBot Coach | 2.2.6 | Shares the active file, selection and open tabs with the SigmaBot TUI |
-| 2026-11-11 13:37:03 | [xx025.slurm-explorer](https://marketplace.visualstudio.com/items?itemName=xx025.slurm-explorer) | Slurm Explorer: Jobs, Nodes & Partitions | 0.6.7 | Explore Slurm jobs, partitions, nodes, accounting history and logs through Remo… |
-| 2026-11-11 13:37:27 | [ngxx-fus.c-comment-fold-helper](https://marketplace.visualstudio.com/items?itemName=ngxx-fus.c-comment-fold-helper) | C/C++ Comment Fold Helper | 0.1.3 | Better C/C++ Comment Fold Previews |
-| 2026-11-11 13:42:35 | [realtusharrr.storeenv-vscode](https://marketplace.visualstudio.com/items?itemName=realtusharrr.storeenv-vscode) | StoreEnv | 0.1.0 | Push, pull, commit and roll back your .env files from VS Code. Values are encry… |
-| 2026-11-11 13:52:34 | [freeimagetovideo.freeimagetovideo](https://marketplace.visualstudio.com/items?itemName=freeimagetovideo.freeimagetovideo) | Free Image to Video: Photo to Video wit… | 0.1.0 | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
-| 2026-11-11 13:57:55 | [codenote-dev.codenote-vscode](https://marketplace.visualstudio.com/items?itemName=codenote-dev.codenote-vscode) | CodeNote | 0.9.0 | 以题目为中心的编程学习工作区：题面、笔记、画板与代码放在同一处。 Problem-centered workspace for competitive pro… |
-| 2026-11-11 14:11:25 | [Spellwarden.infra-pack](https://marketplace.visualstudio.com/items?itemName=Spellwarden.infra-pack) | Spellwarden Infra Pack | 0.9.0 | Five skills for infrastructure operations: change safety, Terraform plan review… |
+| 2026-11-11 14:35:16 | [TuyizereIbrahim.tixagent](https://marketplace.visualstudio.com/items?itemName=TuyizereIbrahim.tixagent) | TixAgent | 0.0.1 | TixAgent – An AI-powered VS Code extension providing an intelligent chat interf… |
+| 2026-11-11 14:38:11 | [KhalidSalman.arab-lang](https://marketplace.visualstudio.com/items?itemName=KhalidSalman.arab-lang) | لغة عرب — Arab Programming Language | 1.0.0 | لغة برمجة عربية مستقلة مع دعم VS Code وتلوين الأكواد وتشغيل البرامج وفحص الأخطا… |
+| 2026-11-11 14:39:39 | [luizgununes.codex-usage-bar-vscode](https://marketplace.visualstudio.com/items?itemName=luizgununes.codex-usage-bar-vscode) | Codex Usage Bar | 0.1.0 | Shows Codex 5-hour and weekly usage in the VS Code status bar, with progress ba… |
+| 2026-11-11 14:39:43 | [kyell182.projects-hub](https://marketplace.visualstudio.com/items?itemName=kyell182.projects-hub) | Projects Hub | 0.2.0 | Save projects, organize them in groups, label them with colored tags and see th… |
+| 2026-11-11 14:48:08 | [AlexandruLupei.ai-token-usage-tracker](https://marketplace.visualstudio.com/items?itemName=AlexandruLupei.ai-token-usage-tracker) | AI Token Usage Tracker | 0.2.9 | Analyze AI coding-assistant token usage, session statistics, and workflow-effic… |
+| 2026-11-11 14:48:43 | [PanzerPeter.neuro-language-support](https://marketplace.visualstudio.com/items?itemName=PanzerPeter.neuro-language-support) | Neuro Language Support | 1.3.0 | Syntax highlighting and editor configuration for the Neuro programming language. |
+| 2026-11-11 14:50:45 | [TonyFonseca.decode-web-tf](https://marketplace.visualstudio.com/items?itemName=TonyFonseca.decode-web-tf) | Decode Web | 1.0.0 | Decode Web rassemble cinq extensions pour faciliter l’utilisation de Visual Stu… |
+| 2026-11-11 15:01:13 | [xiaozhu-studio.git-killer](https://marketplace.visualstudio.com/items?itemName=xiaozhu-studio.git-killer) | Git Killer | 0.1.1 | A commit-graph-centric Git client: browse, compare, blame and operate on Git fr… |
+| 2026-11-11 15:03:01 | [tty32.never-untitled](https://marketplace.visualstudio.com/items?itemName=tty32.never-untitled) | Never Untitled | 0.1.0 | Tell your VS Code windows apart at a glance. The Dock, the taskbar, Alt-Tab and… |
 
 ## Data source
 

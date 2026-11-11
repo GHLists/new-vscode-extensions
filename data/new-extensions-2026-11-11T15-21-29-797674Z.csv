@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T14:35:16.39Z,TuyizereIbrahim.tixagent,TuyizereIbrahim,TixAgent,0.0.1,"TixAgent – An AI-powered VS Code extension providing an intelligent chat interface with secure web-based authentication, model configuration, and seamless AI-assisted development."
+2026-11-11T14:38:11.943Z,KhalidSalman.arab-lang,KhalidSalman,لغة عرب — Arab Programming Language,1.0.0,لغة برمجة عربية مستقلة مع دعم VS Code وتلوين الأكواد وتشغيل البرامج وفحص الأخطاء.
+2026-11-11T14:39:39.617Z,luizgununes.codex-usage-bar-vscode,luizgununes,Codex Usage Bar,0.1.0,"Shows Codex 5-hour and weekly usage in the VS Code status bar, with progress bars, reset countdowns, and color alerts."
+2026-11-11T14:39:43.727Z,kyell182.projects-hub,kyell182,Projects Hub,0.2.0,"Save projects, organize them in groups, label them with colored tags and see their status at a glance. Open any project with one click."
+2026-11-11T14:48:08.373Z,AlexandruLupei.ai-token-usage-tracker,AlexandruLupei,AI Token Usage Tracker,0.2.9,"Analyze AI coding-assistant token usage, session statistics, and workflow-efficiency insights from local logs (GitHub Copilot and Claude Code)."
+2026-11-11T14:48:43.37Z,PanzerPeter.neuro-language-support,PanzerPeter,Neuro Language Support,1.3.0,Syntax highlighting and editor configuration for the Neuro programming language.
+2026-11-11T14:50:45.383Z,TonyFonseca.decode-web-tf,TonyFonseca,Decode Web,1.0.0,"Decode Web rassemble cinq extensions pour faciliter l’utilisation de Visual Studio Code : gestion des balises, aperçu des pages, ouverture dans le navigateur et interface en français."
+2026-11-11T15:01:13.487Z,xiaozhu-studio.git-killer,xiaozhu-studio,Git Killer,0.1.1,"A commit-graph-centric Git client: browse, compare, blame and operate on Git from one graph."
+2026-11-11T15:03:01.76Z,tty32.never-untitled,tty32,Never Untitled,0.1.0,"Tell your VS Code windows apart at a glance. The Dock, the taskbar, Alt-Tab and Mission Control stop showing five windows called ""Visual Studio Code"" or just ""main""."
