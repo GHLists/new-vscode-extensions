@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T17:14:28.47Z,vnoc.vnoc,vnoc,V-NOC,0.0.1,"Browse Python code as a tree and a canvas, and attach docs that stay with the code when it is renamed or moved."
+2026-11-11T17:19:45.393Z,uditgoyaludit.claude-code-account-switcher-auto-switch-on-limit,uditgoyaludit,Claude Code Multi-Account Switcher & Manager – Auto-Switch on Limit,1.0.2,"Unofficial Claude Code account manager: add multiple Claude accounts (Pro, Max, Team), switch in one click, see usage, and auto-switch when you hit the usage or rate limit."
+2026-11-11T17:39:04.573Z,dvirtz.devcontainer-ssh-terminal,dvirtz,Devcontainer SSH Terminal,1.0.0,Open an integrated terminal on the SSH host of your devcontainer.
+2026-11-11T17:59:13.31Z,FrancescoMargiotta.scopa-cards,FrancescoMargiotta,Scopa Cards,0.0.1,Play Scopa online (scopa.cards) in a VS Code webview.
+2026-11-11T17:59:29.077Z,martincodes.branchline-notes,martincodes,Branchline Notes,0.3.1,"A local-first, bullet-based outliner with zoom, tasks, tags, and linked pages."
+2026-11-11T18:00:57.863Z,LPO-Studio.lpo-engine,LPO-Studio,LPO Engine,0.6.0,"Programa los scripts de tus juegos de LPO Engine en VS Code, sincronizados en tiempo real: HyperEZ con colores, errores del motor, autocompletado, árbol del juego, salida en directo y Jugar/Detener."
+2026-11-11T18:08:45.407Z,dmundt.prompteur,dmundt,Prompteur,0.5.0,"Git-friendly local Markdown prompts with categories, tags, and clipboard generation."

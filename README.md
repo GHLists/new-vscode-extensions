@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 17:20 UTC
+## Latest list — 2026-11-11 18:19 UTC
 
-New extensions published between 2026-11-11 15:20 UTC and 2026-11-11 17:20 UTC.
+New extensions published between 2026-11-11 16:19 UTC and 2026-11-11 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T17-20-44-727038Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T18-19-02-964767Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 16:23:15 | [hadrykkxd.minecraft-material-icons](https://marketplace.visualstudio.com/items?itemName=hadrykkxd.minecraft-material-icons) | Minecraft Material Icons | 1.1.2 | Icon theme for Minecraft mod projects (Fabric, Forge, NeoForge, Quilt): Materia… |
-| 2026-11-11 16:24:06 | [tw365-gmbh.xpp-language-tools](https://marketplace.visualstudio.com/items?itemName=tw365-gmbh.xpp-language-tools) | X++ Tools | 1.0.0 | Syntax highlighting and formatting for Dynamics 365 Finance & Operations X++ so… |
-| 2026-11-11 16:28:28 | [SoftForge.softforge-agenticx-indexer](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-agenticx-indexer) | AI AgenticX Indexer | 1.0.0 | Up to 20x fewer tokens of context for Claude Code: your assistant finds the rig… |
-| 2026-11-11 16:50:21 | [Tunasoft.odak](https://marketplace.visualstudio.com/items?itemName=Tunasoft.odak) | Odak — Focus Timer | 0.1.0 | Start Odak focus sessions from VS Code and Cursor: a countdown in the status ba… |
+| 2026-11-11 17:14:28 | [vnoc.vnoc](https://marketplace.visualstudio.com/items?itemName=vnoc.vnoc) | V-NOC | 0.0.1 | Browse Python code as a tree and a canvas, and attach docs that stay with the c… |
+| 2026-11-11 17:19:45 | [uditgoyaludit.claude-code-account-switcher-auto-switch-on-limit](https://marketplace.visualstudio.com/items?itemName=uditgoyaludit.claude-code-account-switcher-auto-switch-on-limit) | Claude Code Multi-Account Switcher & Ma… | 1.0.2 | Unofficial Claude Code account manager: add multiple Claude accounts (Pro, Max,… |
+| 2026-11-11 17:39:04 | [dvirtz.devcontainer-ssh-terminal](https://marketplace.visualstudio.com/items?itemName=dvirtz.devcontainer-ssh-terminal) | Devcontainer SSH Terminal | 1.0.0 | Open an integrated terminal on the SSH host of your devcontainer. |
+| 2026-11-11 17:59:13 | [FrancescoMargiotta.scopa-cards](https://marketplace.visualstudio.com/items?itemName=FrancescoMargiotta.scopa-cards) | Scopa Cards | 0.0.1 | Play Scopa online (scopa.cards) in a VS Code webview. |
+| 2026-11-11 17:59:29 | [martincodes.branchline-notes](https://marketplace.visualstudio.com/items?itemName=martincodes.branchline-notes) | Branchline Notes | 0.3.1 | A local-first, bullet-based outliner with zoom, tasks, tags, and linked pages. |
+| 2026-11-11 18:00:57 | [LPO-Studio.lpo-engine](https://marketplace.visualstudio.com/items?itemName=LPO-Studio.lpo-engine) | LPO Engine | 0.6.0 | Programa los scripts de tus juegos de LPO Engine en VS Code, sincronizados en t… |
+| 2026-11-11 18:08:45 | [dmundt.prompteur](https://marketplace.visualstudio.com/items?itemName=dmundt.prompteur) | Prompteur | 0.5.0 | Git-friendly local Markdown prompts with categories, tags, and clipboard genera… |
 
 ## Data source
 
