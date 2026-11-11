@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 11:20 UTC
+## Latest list — 2026-11-11 12:19 UTC
 
-New extensions published between 2026-11-11 09:20 UTC and 2026-11-11 11:20 UTC.
+New extensions published between 2026-11-11 10:19 UTC and 2026-11-11 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T11-20-29-012595Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T12-19-36-929973Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 10:23:43 | [meieluka.meieluka-material](https://marketplace.visualstudio.com/items?itemName=meieluka.meieluka-material) | Meieluka's Material Icon Theme | 5.40.0 | Meieluka's Material Design Icons for Visual Studio Code |
-| 2026-11-11 10:32:58 | [sheno.pointr](https://marketplace.visualstudio.com/items?itemName=sheno.pointr) | Pointr | 0.1.0 | Point and click any element in your running React or Next.js app and VS Code op… |
-| 2026-11-11 10:34:48 | [federachosnak.ars-language-support](https://marketplace.visualstudio.com/items?itemName=federachosnak.ars-language-support) | ARS Language Support (IPS/IDS Rules) | 1.1.2 | Complete language support for .ars (Access & Validation Rules): syntax highligh… |
-| 2026-11-11 10:49:15 | [andreashuthe.intellij-islands-theme](https://marketplace.visualstudio.com/items?itemName=andreashuthe.intellij-islands-theme) | Islands Theme (IntelliJ-inspired) | 1.0.2 | Islands Dark & Islands Light for VS Code – the colors of the IntelliJ IDEA Isla… |
-| 2026-11-11 10:52:00 | [Al-Amin.nomad-anna](https://marketplace.visualstudio.com/items?itemName=Al-Amin.nomad-anna) | NOMAD ANNA | 1.0.0 | A complete developer experience: two premium themes, an original file icon them… |
-| 2026-11-11 10:52:09 | [plenustech.personal-timer](https://marketplace.visualstudio.com/items?itemName=plenustech.personal-timer) | Personal Timer | 0.1.28 | Track project time from VS Code |
-| 2026-11-11 10:54:20 | [finnbuilds.focus-next-on-stage](https://marketplace.visualstudio.com/items?itemName=finnbuilds.focus-next-on-stage) | Focus Next on Stage | 0.4.1 | Keeps a file focused and open in the Source Control view after you stage or uns… |
-| 2026-11-11 10:56:14 | [GrismLLJ.prisms-board](https://marketplace.visualstudio.com/items?itemName=GrismLLJ.prisms-board) | Prisms Board | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
-| 2026-11-11 11:14:56 | [adimj11.bea-vscode](https://marketplace.visualstudio.com/items?itemName=adimj11.bea-vscode) | Bea Programming Toolkit | 0.5.0 | Syntax highlighting, diagnostics, completion, navigation, rename, formatting, s… |
+| 2026-11-11 11:17:13 | [HugoHamon.pdf-annotator](https://marketplace.visualstudio.com/items?itemName=HugoHamon.pdf-annotator) | PDF Annotator | 0.1.10 | Read and annotate PDFs inside VS Code with highlights, underlines, notes, and c… |
+| 2026-11-11 11:32:38 | [NjegosVukadin.ai-tab-toolbar](https://marketplace.visualstudio.com/items?itemName=NjegosVukadin.ai-tab-toolbar) | AI Tab Toolbar | 1.0.5 | Open Codex and Claude Code as editor tabs in a shared, locked group, with theme… |
+| 2026-11-11 11:45:10 | [niobium-41-nb.hzauoj-vscode-extension](https://marketplace.visualstudio.com/items?itemName=niobium-41-nb.hzauoj-vscode-extension) | hzauoj-vscode-extension | 0.4.0 | 用 SSH 私钥登录 HOJ：通过状态对勾、Markdown 题面预览、样例导入 CPH、直接提交代码并等待判题结果。 |
+| 2026-11-11 11:59:52 | [M282PPESul.sulM282DVT3](https://marketplace.visualstudio.com/items?itemName=M282PPESul.sulM282DVT3) | Sulagna2VersionuploadtestM282DVT | 0.0.19 | Test |
+| 2026-11-11 12:04:23 | [jerrybe.ai-pulse](https://marketplace.visualstudio.com/items?itemName=jerrybe.ai-pulse) | AI Pulse | 0.0.1 | Monitor your machine and AI providers at a glance: CPU, RAM, GPU/VRAM, and Olla… |
+| 2026-11-11 12:14:18 | [System-Sciences.dsh-bridge](https://marketplace.visualstudio.com/items?itemName=System-Sciences.dsh-bridge) | DeepSeek Harness Bridge — run on your o… | 0.1.3 | Alpha testing. Requires vLLM-Copilot — that is where your local models are conf… |
 
 ## Data source
 

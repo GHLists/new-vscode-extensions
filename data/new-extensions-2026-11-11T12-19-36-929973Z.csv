@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T11:17:13.327Z,HugoHamon.pdf-annotator,HugoHamon,PDF Annotator,0.1.10,"Read and annotate PDFs inside VS Code with highlights, underlines, notes, and comments saved directly to the PDF."
+2026-11-11T11:32:38.763Z,NjegosVukadin.ai-tab-toolbar,NjegosVukadin,AI Tab Toolbar,1.0.5,"Open Codex and Claude Code as editor tabs in a shared, locked group, with theme-aware toolbar buttons."
+2026-11-11T11:45:10.07Z,niobium-41-nb.hzauoj-vscode-extension,niobium-41-nb,hzauoj-vscode-extension,0.4.0,用 SSH 私钥登录 HOJ：通过状态对勾、Markdown 题面预览、样例导入 CPH、直接提交代码并等待判题结果。
+2026-11-11T11:59:52.91Z,M282PPESul.sulM282DVT3,M282PPESul,Sulagna2VersionuploadtestM282DVT,0.0.19,Test
+2026-11-11T12:04:23.073Z,jerrybe.ai-pulse,jerrybe,AI Pulse,0.0.1,"Monitor your machine and AI providers at a glance: CPU, RAM, GPU/VRAM, and Ollama Cloud, OpenRouter, Claude, and ChatGPT usage in the sidebar."
+2026-11-11T12:14:18.483Z,System-Sciences.dsh-bridge,System-Sciences,DeepSeek Harness Bridge — run on your own models,0.1.3,"Alpha testing. Requires vLLM-Copilot — that is where your local models are configured. Then run the DeepSeek Harness (dsh) on your own models: your servers, your token totals, no DeepSeek account."
