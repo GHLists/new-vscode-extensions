@@ -12,25 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 16:21 UTC
+## Latest list — 2026-11-11 17:20 UTC
 
-New extensions published between 2026-11-11 14:21 UTC and 2026-11-11 16:21 UTC.
+New extensions published between 2026-11-11 15:20 UTC and 2026-11-11 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T16-21-47-254767Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T17-20-44-727038Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 15:18:09 | [XiaoHanys.deepseek-autocomplete](https://marketplace.visualstudio.com/items?itemName=XiaoHanys.deepseek-autocomplete) | Dspilot | 0.0.1 | Copilot-replica inline autocomplete using your own API endpoint, configured ent… |
-| 2026-11-11 15:24:21 | [rapier.jxl-convert](https://marketplace.visualstudio.com/items?itemName=rapier.jxl-convert) | JPEG XL Convert: compress images, scree… | 0.1.0 | Convert and compress PNG, JPEG, WebP and GIF files to JPEG XL. Compare, preview… |
-| 2026-11-11 15:31:38 | [elimulink.elimulink](https://marketplace.visualstudio.com/items?itemName=elimulink.elimulink) | ElimuLink Code | 0.6.0 | ElimuLink inside VS Code: ask coding questions, explain, fix and improve your c… |
-| 2026-11-11 15:43:57 | [Lusisoft.lusisoft-developer-portal](https://marketplace.visualstudio.com/items?itemName=Lusisoft.lusisoft-developer-portal) | Lusisoft Developer Portal | 0.3.3 | Technology-agnostic VS Code workspace portal with visual pages, Markdown, linke… |
-| 2026-11-11 15:45:07 | [MustafizKaifee.arrebol](https://marketplace.visualstudio.com/items?itemName=MustafizKaifee.arrebol) | Arrebol Themes | 0.1.0 | A growing collection of carefully contrasted VS Code color themes, each with da… |
-| 2026-11-11 15:49:10 | [DimitarTsenev.agent-plugin-manager](https://marketplace.visualstudio.com/items?itemName=DimitarTsenev.agent-plugin-manager) | Agent Plugin Manager | 1.1.0 | Browse and install Agent Plugins (agent-plugins.org): skills, agents, prompts a… |
-| 2026-11-11 15:50:43 | [LeonNonnast.cutoverly](https://marketplace.visualstudio.com/items?itemName=LeonNonnast.cutoverly) | Cutoverly – Cutover as Code | 0.1.1 | Plan, run and track system cutovers straight from a .cutoverly file in your rep… |
-| 2026-11-11 15:52:52 | [y0rshb3.vortaq](https://marketplace.visualstudio.com/items?itemName=y0rshb3.vortaq) | Vortaq | 0.8.0 | Cliente de bases de datos para VS Code |
-| 2026-11-11 15:58:54 | [holobiomicslab.studium-vscode](https://marketplace.visualstudio.com/items?itemName=holobiomicslab.studium-vscode) | Studium | 0.6.0 | Learn from adaptive lessons in VS Code and train your judgment of AI output: ea… |
-| 2026-11-11 16:06:12 | [ganeshkumar.pypypython](https://marketplace.visualstudio.com/items?itemName=ganeshkumar.pypypython) | PCRpython | 1.0.0 | Offline Python practical code replacer that automatically transforms practical… |
-| 2026-11-11 16:16:26 | [EnzoSCH1.vscode-terminal-aquarium](https://marketplace.visualstudio.com/items?itemName=EnzoSCH1.vscode-terminal-aquarium) | Terminal Pixel Aquarium | 1.0.0 | Un aquarium 2D pixel art interactif (poissons, plantes, roches, sol technique)… |
+| 2026-11-11 16:23:15 | [hadrykkxd.minecraft-material-icons](https://marketplace.visualstudio.com/items?itemName=hadrykkxd.minecraft-material-icons) | Minecraft Material Icons | 1.1.2 | Icon theme for Minecraft mod projects (Fabric, Forge, NeoForge, Quilt): Materia… |
+| 2026-11-11 16:24:06 | [tw365-gmbh.xpp-language-tools](https://marketplace.visualstudio.com/items?itemName=tw365-gmbh.xpp-language-tools) | X++ Tools | 1.0.0 | Syntax highlighting and formatting for Dynamics 365 Finance & Operations X++ so… |
+| 2026-11-11 16:28:28 | [SoftForge.softforge-agenticx-indexer](https://marketplace.visualstudio.com/items?itemName=SoftForge.softforge-agenticx-indexer) | AI AgenticX Indexer | 1.0.0 | Up to 20x fewer tokens of context for Claude Code: your assistant finds the rig… |
+| 2026-11-11 16:50:21 | [Tunasoft.odak](https://marketplace.visualstudio.com/items?itemName=Tunasoft.odak) | Odak — Focus Timer | 0.1.0 | Start Odak focus sessions from VS Code and Cursor: a countdown in the status ba… |
 
 ## Data source
 
