@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T09:21:20.263Z,PirapaakaranPirathapan.errorlens-explainer-pro,PirapaakaranPirathapan,ErrorLens AI Explainer Pro,0.1.0,"Instant compiler & runtime error explainer with plain-English causes, diagnostic inspect drawer, and fix suggestions for JS, TS, Python, Go, Rust, and more."
+2026-11-11T09:22:16.673Z,PirapaakaranPirathapan.smart-git-snapshotter-pro,PirapaakaranPirathapan,Smart Git Snapshotter Pro: Zero-Loss Branch Switcher 🔀,0.1.0,"Safely snapshot staged diffs, untracked files, and open editor tabs before switching Git branches, and auto-restore your exact workspace upon return!"
+2026-11-11T09:25:13.637Z,PirapaakaranPirathapan.codenotes-scratchpad-pro,PirapaakaranPirathapan,CodeNotes & Scratchpad Pro,0.1.0,"Developer scratchpad, persistent quick notes, code snippet bookmarks with line references, and markdown export."
+2026-11-11T09:25:23.863Z,PirapaakaranPirathapan.imagecraft-optimizer-pro,PirapaakaranPirathapan,Image Optimizer Pro: Lossless WebP & PNG Compressor 🗜️,0.1.0,"Compress, optimize, and convert images (PNG, JPEG, WebP, SVG) losslessly directly from the VS Code Explorer context menu!"
+2026-11-11T09:31:21.903Z,DavidFischer.dhbw-latex-vorlage,DavidFischer,DHBW LaTeX-Vorlage,1.1.0,"Neue wissenschaftliche Arbeit nach der DHBW-Vorlage mit einem Klick anlegen, beim Speichern das PDF erstellen, Quellen, Zitate, Abbildungen, Glossar und Abkürzungen einfügen und vor der Abgabe alles prüfen."
+2026-11-11T09:39:23.6Z,Prismio.prismio,Prismio,Prismio,0.1.0,"The Prismio language: diagnostics, completion, navigation and refactoring from the toolchain's own language server."
+2026-11-11T09:41:00.257Z,paa-james.chunk-tail,paa-james,ChunkTail,0.1.0,"Extract long Tailwind CSS class lists into clean, reusable @apply utility classes"
+2026-11-11T09:41:39.643Z,mm-lab.browser-mcp-debug,mm-lab,Browser MCP Debug,0.1.2,"Use Playwright MCP and Chrome DevTools MCP with your VS Code Chrome debugger, locally or over Remote-SSH."
+2026-11-11T09:42:28.497Z,dotnet-secrets-manager.net-secrets-manager,dotnet-secrets-manager,.NET Secrets Manager,1.0.0,Manage .NET User Secrets for your projects from VS Code.
+2026-11-11T09:43:40.007Z,nexivion-labs.sarmal,nexivion-labs,Sarmal: Plan & Guardrails for AI Agents,0.9.205,"Write your project's plan, structure and rules in .sar files. Sarmal checks the plan against the disk on every save and serves the same truth to your AI agents over MCP."
+2026-11-11T09:47:40.203Z,fffqqqhh.git-daily,fffqqqhh,Git Daily · 每日提交助手,0.1.2,每天提醒提交代码，在侧边栏完成提交、推送与同步。
+2026-11-11T09:49:25.277Z,AndrejSopp.kremen-syntax,AndrejSopp,Kremen Syntax,0.1.0,Syntax highlighting and editor basics for the Kremen programming language.
+2026-11-11T09:52:36.923Z,Minhh.cva-preview,Minhh,CVA Preview,0.1.0,Renders every variant of a class-variance-authority definition with the project's own Tailwind theme.
+2026-11-11T10:03:29.22Z,XuetaoLi.pybind11-navigate,XuetaoLi,pybind11 Navigate,0.1.2,Go from Python symbols to pybind11 registrations in the workspace.
