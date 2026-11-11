@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T06:19:47.46Z,zovo.zovo-dbml-viewer,zovo,"DBML Viewer & ER Diagram (DBML Preview, SQL to ER Diagram, ERD)",0.1.0,"DBML viewer and ER diagram for VS Code: a live DBML preview beside the editor, SQL to ER diagram for PostgreSQL, MySQL, SQL Server and SQLite DDL, and Prisma schemas. Drag tables, search, zoom, click to jump to the line, copy as SVG. DBML syntax colors, problems, outline and go to definition. No net"
+2026-11-11T06:22:55.473Z,wangyifu.codenodemap,wangyifu,Code Node Map,0.3.52,"Code Node Map (codenodemap): hierarchical source-code node graph viewer with Markdown nodes, explicit layout, depth-based LOD, role colors, tags, and source links."
+2026-11-11T06:23:27.23Z,MilesXu.wancoder,MilesXu,WanCoder,0.6.1,WanCoder：使用本机 SSH 初始化和更新项目模板，统一管理 .crm-agents。
+2026-11-11T06:48:53.597Z,Ezio416.openplanetarium,Ezio416,Openplanetarium,0.1.0,Language server for Openplanet's Angelscript
+2026-11-11T06:53:47.957Z,zovo.zovo-image-editor,zovo,"Image Editor & Image Resizer (Crop, Annotate, Convert)",0.1.0,"Image editor and image resizer for VS Code: crop, resize, rotate, straighten, annotate (arrows, boxes, text, numbered steps), blur or pixelate, and convert PNG, JPEG, WebP, GIF and BMP files with Undo, Save and Save As. Works offline, no account."
+2026-11-11T07:02:05.32Z,TasfiqueOfficial.banglathon-vscode,TasfiqueOfficial,BanglaThon — Bangla & Banglish Language Support,0.1.0,"Syntax highlighting, smart Bangla/Banglish code snippets, and 1-click Run button for BanglaThon (.bl, .bng)."
+2026-11-11T07:02:20.303Z,vulda1.f02-sponsor-poc,vulda1,F02 Sponsor POC Theme,1.0.0,Codeless theme used only to reproduce F-02 (sponsor-link command execution).
+2026-11-11T07:08:47.603Z,singular-attention.singular-git-graph,singular-attention,Singular Git Graph,1.0.4,"View a Git Graph of your repository, and perform Git actions from the graph."
