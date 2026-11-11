@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 19:21 UTC
+## Latest list — 2026-11-11 21:19 UTC
 
-New extensions published between 2026-11-11 17:21 UTC and 2026-11-11 19:21 UTC.
+New extensions published between 2026-11-11 19:19 UTC and 2026-11-11 21:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T19-21-23-701058Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T21-19-44-552202Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 18:14:24 | [gitswitch.git-switch-accounts](https://marketplace.visualstudio.com/items?itemName=gitswitch.git-switch-accounts) | Git Switch | 0.1.0 | Switch and add Git accounts from the status bar — identity, SSH, and HTTPS/PAT. |
-| 2026-11-11 18:14:46 | [talha-noyon.restly](https://marketplace.visualstudio.com/items?itemName=talha-noyon.restly) | Restly - REST API Client | 0.1.0 | Free, open-source REST API client for VS Code: collections, environments, histo… |
-| 2026-11-11 18:15:24 | [kyattokasai.coffee-moon](https://marketplace.visualstudio.com/items?itemName=kyattokasai.coffee-moon) | Coffee Moon | 0.1.0 | Language support for Coffee-Moon: syntax highlighting, snippets, and the Coffee… |
-| 2026-11-11 18:22:49 | [BozNtouranLabs.snipsheet](https://marketplace.visualstudio.com/items?itemName=BozNtouranLabs.snipsheet) | SnipSheet | 0.1.0 | Offline cheat sheets in your sidebar — search, favorite, and open curated comma… |
-| 2026-11-11 18:27:35 | [fervillanuevas.axon-git](https://marketplace.visualstudio.com/items?itemName=fervillanuevas.axon-git) | Axon Git | 0.1.2 | Review ahead commits by reading the final files, with the changes painted on to… |
-| 2026-11-11 18:32:23 | [VerPublishing.cosmic-board](https://marketplace.visualstudio.com/items?itemName=VerPublishing.cosmic-board) | Cosmic Board | 0.0.1 | Cosmic Board |
-| 2026-11-11 18:34:38 | [TiagoCamacho.work-universe](https://marketplace.visualstudio.com/items?itemName=TiagoCamacho.work-universe) | Work Universe | 0.0.5 | Group several project folders into one window and switch between them with tabs… |
-| 2026-11-11 18:35:39 | [flutterlocalisation.flutter-l10n](https://marketplace.visualstudio.com/items?itemName=flutterlocalisation.flutter-l10n) | Flutter Localization (ARB, gen-l10n) | 0.1.0 | Find hardcoded strings in Flutter apps, extract them to ARB files with one quic… |
-| 2026-11-11 18:40:24 | [GrannisLKF.prism-cards](https://marketplace.visualstudio.com/items?itemName=GrannisLKF.prism-cards) | Prism Cards | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
+| 2026-11-11 19:37:41 | [RobinBakshi.pulsar-agent-remote](https://marketplace.visualstudio.com/items?itemName=RobinBakshi.pulsar-agent-remote) | Pulsar AI Agent Remote | 1.2.18 | Free for the first 3 months (90 days). Phone app available now on the App Store… |
+| 2026-11-11 19:46:13 | [VinayakSharma.claude-code-prompt-improver](https://marketplace.visualstudio.com/items?itemName=VinayakSharma.claude-code-prompt-improver) | Prompt Improvisor for Claude Code | 0.1.0 | Improve the prompt you typed in the Claude Code terminal box with one click, in… |
+| 2026-11-11 19:52:59 | [TuyizereIbrahim.tixlagent](https://marketplace.visualstudio.com/items?itemName=TuyizereIbrahim.tixlagent) | TixlAgent | 0.0.1 | TixAgent — AI pair programmer in VS Code: agent chat that reads, edits, and cre… |
+| 2026-11-11 20:01:46 | [sohpea.auxtools](https://marketplace.visualstudio.com/items?itemName=sohpea.auxtools) | auxtools Debugger | 3.0.0 | Debug BYOND worlds with breakpoints, stepping, variable inspection and hot relo… |
+| 2026-11-11 20:07:27 | [Stef302.rose-language](https://marketplace.visualstudio.com/items?itemName=Stef302.rose-language) | Rose — langage de programmation en fran… | 5.10.1 | Prise en charge complète du langage Rose (v5.10) : coloration syntaxique, snipp… |
+| 2026-11-11 20:27:35 | [my-workspace-tools.flutter-wei-tools-dev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-wei-tools-dev) | Flutter Wei | 1.0.15 | Инструменты для текущей рабочей папки. |
+| 2026-11-11 20:41:02 | [paivel.latex-review-live](https://marketplace.visualstudio.com/items?itemName=paivel.latex-review-live) | LaTeX Review and Visual Editor | 0.5.6 | Track changes with accept/reject, review comments, and a visual editor that sho… |
+| 2026-11-11 21:01:15 | [robertoalvarezjunior.angular-component-live](https://marketplace.visualstudio.com/items?itemName=robertoalvarezjunior.angular-component-live) | Angular Component Live | 0.1.0 | Isolate and render any Angular .component.ts in a live preview tab with interac… |
+| 2026-11-11 21:06:50 | [TejAliota.obel-red-theme](https://marketplace.visualstudio.com/items?itemName=TejAliota.obel-red-theme) | Obel Red Theme | 0.0.2 | Inspired by the Obel Mono website [https://typographic.systems/obel-mono]. This… |
 
 ## Data source
 
