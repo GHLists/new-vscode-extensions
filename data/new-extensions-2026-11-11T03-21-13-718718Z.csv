@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T02:13:13.657Z,ManuelPinedaRicourt.mini-studio,ManuelPinedaRicourt,Mini Studio para .NET,0.5.2,"Entorno estilo Visual Studio para .NET: explorador de soluciones, compilar, ejecutar y depurar apps de consola y Windows Forms en C# y Visual Basic, plantillas, ejemplos y diseñador visual de formularios."
+2026-11-11T02:30:43.12Z,dharshanlastone-tech.videokit,dharshanlastone-tech,VideoKit,0.1.0,Python completions and documentation for the implemented VideoKit API.
+2026-11-11T02:39:14.4Z,zovo.zovo-spss-stata-viewer,zovo,"SPSS Viewer & Stata Viewer (SAV, DTA, XPT Files)",0.1.0,"SPSS viewer and Stata viewer for VS Code: open .sav, .zsav, .dta and SAS .xpt data files in a fast grid with value labels, variable labels, missing values and dates. Sort, filter, summary statistics and frequencies, copy as TSV. Read-only, no network, millions of rows."
+2026-11-11T02:40:07.457Z,gravastar-theme.gravastar-theme-vscode,gravastar-theme,Gravastar,0.0.1,"Dark, color-rich Visual Studio Code theme with a clear syntax hierarchy."
+2026-11-11T02:45:16.173Z,SymartecLTD.h3,SymartecLTD,h3,1.0.0,"See h3 and Nitro routes, including file routes under server/api and server/routes."
+2026-11-11T02:45:39.293Z,SymartecLTD.swr,SymartecLTD,SWR,1.0.0,See SWR keys and catch a mutate() key that does not match a useSWR key.
+2026-11-11T02:45:57.583Z,SymartecLTD.trpc,SymartecLTD,tRPC,1.0.0,See tRPC procedures and catch a client path that does not exist on the router.
+2026-11-11T02:45:59.483Z,zovo.zovo-edi-viewer,zovo,"EDI Viewer & X12 Viewer, EDIFACT Viewer (EDI Parser)",0.1.0,"EDI viewer, X12 viewer and EDIFACT viewer for VS Code: open .edi, .x12 and EDIFACT files as a tree of interchanges, transaction sets, loops and segments, with element names and code meanings. An EDI parser and validator for 850, 810, 856, 837, 835, ORDERS, INVOIC and DESADV: control numbers and coun"
+2026-11-11T03:04:33.127Z,ZipMind.zipmind,ZipMind,ZipMind,0.1.0,Mind map editor for .mind files. Plain text your agent can read and edit; you confirm every change.

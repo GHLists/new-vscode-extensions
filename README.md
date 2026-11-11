@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 02:21 UTC
+## Latest list — 2026-11-11 03:21 UTC
 
-New extensions published between 2026-11-11 00:21 UTC and 2026-11-11 02:21 UTC.
+New extensions published between 2026-11-11 01:21 UTC and 2026-11-11 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T02-21-36-824399Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T03-21-13-718718Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 01:18:23 | [devchan64.vscode-audio-wave-editor](https://marketplace.visualstudio.com/items?itemName=devchan64.vscode-audio-wave-editor) | Audio Wave Editor | 0.1.0 | Waveform and basic audio editing for WAV, MP3, and Web Audio-compatible formats. |
-| 2026-11-11 01:28:38 | [synqra.contextkeeper-ai](https://marketplace.visualstudio.com/items?itemName=synqra.contextkeeper-ai) | ContextKeeper: AI Context Rot Preventio… | 1.0.0 | Stop context rot and hallucination in AI coding assistants. Monitors tokens, ge… |
-| 2026-11-11 01:42:23 | [ronlipke.mariana-faithful](https://marketplace.visualstudio.com/items?itemName=ronlipke.mariana-faithful) | Mariana Faithful | 1.0.5 | A source-based port of Sublime Text Mariana, including syntax, workbench and te… |
-| 2026-11-11 01:43:08 | [beermat-pub.beermat](https://marketplace.visualstudio.com/items?itemName=beermat-pub.beermat) | Beermat | 1.0.0 | Engineering worksheets in VS Code: .bbm files open on their page, with real mat… |
-| 2026-11-11 01:49:17 | [ColinMyers.read-text-for-claude-code](https://marketplace.visualstudio.com/items?itemName=ColinMyers.read-text-for-claude-code) | Read Text for Claude Code | 0.2.0 | Hear Claude Code's replies read aloud, and right-click any text in VS Code to h… |
+| 2026-11-11 02:13:13 | [ManuelPinedaRicourt.mini-studio](https://marketplace.visualstudio.com/items?itemName=ManuelPinedaRicourt.mini-studio) | Mini Studio para .NET | 0.5.2 | Entorno estilo Visual Studio para .NET: explorador de soluciones, compilar, eje… |
+| 2026-11-11 02:30:43 | [dharshanlastone-tech.videokit](https://marketplace.visualstudio.com/items?itemName=dharshanlastone-tech.videokit) | VideoKit | 0.1.0 | Python completions and documentation for the implemented VideoKit API. |
+| 2026-11-11 02:39:14 | [zovo.zovo-spss-stata-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-spss-stata-viewer) | SPSS Viewer & Stata Viewer (SAV, DTA, X… | 0.1.0 | SPSS viewer and Stata viewer for VS Code: open .sav, .zsav, .dta and SAS .xpt d… |
+| 2026-11-11 02:40:07 | [gravastar-theme.gravastar-theme-vscode](https://marketplace.visualstudio.com/items?itemName=gravastar-theme.gravastar-theme-vscode) | Gravastar | 0.0.1 | Dark, color-rich Visual Studio Code theme with a clear syntax hierarchy. |
+| 2026-11-11 02:45:16 | [SymartecLTD.h3](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.h3) | h3 | 1.0.0 | See h3 and Nitro routes, including file routes under server/api and server/rout… |
+| 2026-11-11 02:45:39 | [SymartecLTD.swr](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.swr) | SWR | 1.0.0 | See SWR keys and catch a mutate() key that does not match a useSWR key. |
+| 2026-11-11 02:45:57 | [SymartecLTD.trpc](https://marketplace.visualstudio.com/items?itemName=SymartecLTD.trpc) | tRPC | 1.0.0 | See tRPC procedures and catch a client path that does not exist on the router. |
+| 2026-11-11 02:45:59 | [zovo.zovo-edi-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-edi-viewer) | EDI Viewer & X12 Viewer, EDIFACT Viewer… | 0.1.0 | EDI viewer, X12 viewer and EDIFACT viewer for VS Code: open .edi, .x12 and EDIF… |
+| 2026-11-11 03:04:33 | [ZipMind.zipmind](https://marketplace.visualstudio.com/items?itemName=ZipMind.zipmind) | ZipMind | 0.1.0 | Mind map editor for .mind files. Plain text your agent can read and edit; you c… |
 
 ## Data source
 
