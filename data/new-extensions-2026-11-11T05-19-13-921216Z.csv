@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T04:25:58.08Z,Bushboul.vibespaces,Bushboul,Vibespaces,1.0.0,"One window per project: its own colour, its own taskbar button, one click to open."
+2026-11-11T04:38:25.943Z,bacuriim.jxforge-vscode,bacuriim,JXForge (JXML),0.1.0,"JXML language support for JXForge: highlighting, schema-based completion and validation, snippets, and go to definition into the controller."
+2026-11-11T04:45:24.777Z,monolyth.qadenza,monolyth,Qadenza,0.1.0,Use the models running on your Qadenza servers as a coding agent inside VS Code.
