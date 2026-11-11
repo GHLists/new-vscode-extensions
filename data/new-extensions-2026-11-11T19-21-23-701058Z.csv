@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T18:14:24.67Z,gitswitch.git-switch-accounts,gitswitch,Git Switch,0.1.0,"Switch and add Git accounts from the status bar — identity, SSH, and HTTPS/PAT."
+2026-11-11T18:14:46.303Z,talha-noyon.restly,talha-noyon,Restly - REST API Client,0.1.0,"Free, open-source REST API client for VS Code: collections, environments, history, tests, cURL and Postman import, code snippets."
+2026-11-11T18:15:24.007Z,kyattokasai.coffee-moon,kyattokasai,Coffee Moon,0.1.0,"Language support for Coffee-Moon: syntax highlighting, snippets, and the Coffee-Moon language server"
+2026-11-11T18:22:49.257Z,BozNtouranLabs.snipsheet,BozNtouranLabs,SnipSheet,0.1.0,"Offline cheat sheets in your sidebar — search, favorite, and open curated command references."
+2026-11-11T18:27:35.513Z,fervillanuevas.axon-git,fervillanuevas,Axon Git,0.1.2,"Review ahead commits by reading the final files, with the changes painted on top."
+2026-11-11T18:32:23.61Z,VerPublishing.cosmic-board,VerPublishing,Cosmic Board,0.0.1,Cosmic Board
+2026-11-11T18:34:38.253Z,TiagoCamacho.work-universe,TiagoCamacho,Work Universe,0.0.5,"Group several project folders into one window and switch between them with tabs: files, search, editor tabs and custom action buttons follow the active project."
+2026-11-11T18:35:39.49Z,flutterlocalisation.flutter-l10n,flutterlocalisation,"Flutter Localization (ARB, gen-l10n)",0.1.0,"Find hardcoded strings in Flutter apps, extract them to ARB files with one quick fix, regenerate gen-l10n on save and see every translation on hover. A maintained replacement for the Flutter Intl extension."
+2026-11-11T18:40:24.343Z,GrannisLKF.prism-cards,GrannisLKF,Prism Cards,1.0.1,"Plan, share, and organize your team work on a collaborative board inside VS Code. Create boards, add cards, and join your teammates boards instantly with short codes."

@@ -12,21 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 18:19 UTC
+## Latest list — 2026-11-11 19:21 UTC
 
-New extensions published between 2026-11-11 16:19 UTC and 2026-11-11 18:19 UTC.
+New extensions published between 2026-11-11 17:21 UTC and 2026-11-11 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T18-19-02-964767Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T19-21-23-701058Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 17:14:28 | [vnoc.vnoc](https://marketplace.visualstudio.com/items?itemName=vnoc.vnoc) | V-NOC | 0.0.1 | Browse Python code as a tree and a canvas, and attach docs that stay with the c… |
-| 2026-11-11 17:19:45 | [uditgoyaludit.claude-code-account-switcher-auto-switch-on-limit](https://marketplace.visualstudio.com/items?itemName=uditgoyaludit.claude-code-account-switcher-auto-switch-on-limit) | Claude Code Multi-Account Switcher & Ma… | 1.0.2 | Unofficial Claude Code account manager: add multiple Claude accounts (Pro, Max,… |
-| 2026-11-11 17:39:04 | [dvirtz.devcontainer-ssh-terminal](https://marketplace.visualstudio.com/items?itemName=dvirtz.devcontainer-ssh-terminal) | Devcontainer SSH Terminal | 1.0.0 | Open an integrated terminal on the SSH host of your devcontainer. |
-| 2026-11-11 17:59:13 | [FrancescoMargiotta.scopa-cards](https://marketplace.visualstudio.com/items?itemName=FrancescoMargiotta.scopa-cards) | Scopa Cards | 0.0.1 | Play Scopa online (scopa.cards) in a VS Code webview. |
-| 2026-11-11 17:59:29 | [martincodes.branchline-notes](https://marketplace.visualstudio.com/items?itemName=martincodes.branchline-notes) | Branchline Notes | 0.3.1 | A local-first, bullet-based outliner with zoom, tasks, tags, and linked pages. |
-| 2026-11-11 18:00:57 | [LPO-Studio.lpo-engine](https://marketplace.visualstudio.com/items?itemName=LPO-Studio.lpo-engine) | LPO Engine | 0.6.0 | Programa los scripts de tus juegos de LPO Engine en VS Code, sincronizados en t… |
-| 2026-11-11 18:08:45 | [dmundt.prompteur](https://marketplace.visualstudio.com/items?itemName=dmundt.prompteur) | Prompteur | 0.5.0 | Git-friendly local Markdown prompts with categories, tags, and clipboard genera… |
+| 2026-11-11 18:14:24 | [gitswitch.git-switch-accounts](https://marketplace.visualstudio.com/items?itemName=gitswitch.git-switch-accounts) | Git Switch | 0.1.0 | Switch and add Git accounts from the status bar — identity, SSH, and HTTPS/PAT. |
+| 2026-11-11 18:14:46 | [talha-noyon.restly](https://marketplace.visualstudio.com/items?itemName=talha-noyon.restly) | Restly - REST API Client | 0.1.0 | Free, open-source REST API client for VS Code: collections, environments, histo… |
+| 2026-11-11 18:15:24 | [kyattokasai.coffee-moon](https://marketplace.visualstudio.com/items?itemName=kyattokasai.coffee-moon) | Coffee Moon | 0.1.0 | Language support for Coffee-Moon: syntax highlighting, snippets, and the Coffee… |
+| 2026-11-11 18:22:49 | [BozNtouranLabs.snipsheet](https://marketplace.visualstudio.com/items?itemName=BozNtouranLabs.snipsheet) | SnipSheet | 0.1.0 | Offline cheat sheets in your sidebar — search, favorite, and open curated comma… |
+| 2026-11-11 18:27:35 | [fervillanuevas.axon-git](https://marketplace.visualstudio.com/items?itemName=fervillanuevas.axon-git) | Axon Git | 0.1.2 | Review ahead commits by reading the final files, with the changes painted on to… |
+| 2026-11-11 18:32:23 | [VerPublishing.cosmic-board](https://marketplace.visualstudio.com/items?itemName=VerPublishing.cosmic-board) | Cosmic Board | 0.0.1 | Cosmic Board |
+| 2026-11-11 18:34:38 | [TiagoCamacho.work-universe](https://marketplace.visualstudio.com/items?itemName=TiagoCamacho.work-universe) | Work Universe | 0.0.5 | Group several project folders into one window and switch between them with tabs… |
+| 2026-11-11 18:35:39 | [flutterlocalisation.flutter-l10n](https://marketplace.visualstudio.com/items?itemName=flutterlocalisation.flutter-l10n) | Flutter Localization (ARB, gen-l10n) | 0.1.0 | Find hardcoded strings in Flutter apps, extract them to ARB files with one quic… |
+| 2026-11-11 18:40:24 | [GrannisLKF.prism-cards](https://marketplace.visualstudio.com/items?itemName=GrannisLKF.prism-cards) | Prism Cards | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
 
 ## Data source
 
