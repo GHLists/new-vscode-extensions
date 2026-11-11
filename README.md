@@ -12,28 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 10:20 UTC
+## Latest list — 2026-11-11 11:20 UTC
 
-New extensions published between 2026-11-11 08:20 UTC and 2026-11-11 10:20 UTC.
+New extensions published between 2026-11-11 09:20 UTC and 2026-11-11 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T10-20-30-132605Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T11-20-29-012595Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 09:21:20 | [PirapaakaranPirathapan.errorlens-explainer-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.errorlens-explainer-pro) | ErrorLens AI Explainer Pro | 0.1.0 | Instant compiler & runtime error explainer with plain-English causes, diagnosti… |
-| 2026-11-11 09:22:16 | [PirapaakaranPirathapan.smart-git-snapshotter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.smart-git-snapshotter-pro) | Smart Git Snapshotter Pro: Zero-Loss Br… | 0.1.0 | Safely snapshot staged diffs, untracked files, and open editor tabs before swit… |
-| 2026-11-11 09:25:13 | [PirapaakaranPirathapan.codenotes-scratchpad-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.codenotes-scratchpad-pro) | CodeNotes & Scratchpad Pro | 0.1.0 | Developer scratchpad, persistent quick notes, code snippet bookmarks with line… |
-| 2026-11-11 09:25:23 | [PirapaakaranPirathapan.imagecraft-optimizer-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.imagecraft-optimizer-pro) | Image Optimizer Pro: Lossless WebP & PN… | 0.1.0 | Compress, optimize, and convert images (PNG, JPEG, WebP, SVG) losslessly direct… |
-| 2026-11-11 09:31:21 | [DavidFischer.dhbw-latex-vorlage](https://marketplace.visualstudio.com/items?itemName=DavidFischer.dhbw-latex-vorlage) | DHBW LaTeX-Vorlage | 1.1.0 | Neue wissenschaftliche Arbeit nach der DHBW-Vorlage mit einem Klick anlegen, be… |
-| 2026-11-11 09:39:23 | [Prismio.prismio](https://marketplace.visualstudio.com/items?itemName=Prismio.prismio) | Prismio | 0.1.0 | The Prismio language: diagnostics, completion, navigation and refactoring from… |
-| 2026-11-11 09:41:00 | [paa-james.chunk-tail](https://marketplace.visualstudio.com/items?itemName=paa-james.chunk-tail) | ChunkTail | 0.1.0 | Extract long Tailwind CSS class lists into clean, reusable @apply utility class… |
-| 2026-11-11 09:41:39 | [mm-lab.browser-mcp-debug](https://marketplace.visualstudio.com/items?itemName=mm-lab.browser-mcp-debug) | Browser MCP Debug | 0.1.2 | Use Playwright MCP and Chrome DevTools MCP with your VS Code Chrome debugger, l… |
-| 2026-11-11 09:42:28 | [dotnet-secrets-manager.net-secrets-manager](https://marketplace.visualstudio.com/items?itemName=dotnet-secrets-manager.net-secrets-manager) | .NET Secrets Manager | 1.0.0 | Manage .NET User Secrets for your projects from VS Code. |
-| 2026-11-11 09:43:40 | [nexivion-labs.sarmal](https://marketplace.visualstudio.com/items?itemName=nexivion-labs.sarmal) | Sarmal: Plan & Guardrails for AI Agents | 0.9.205 | Write your project's plan, structure and rules in .sar files. Sarmal checks the… |
-| 2026-11-11 09:47:40 | [fffqqqhh.git-daily](https://marketplace.visualstudio.com/items?itemName=fffqqqhh.git-daily) | Git Daily · 每日提交助手 | 0.1.2 | 每天提醒提交代码，在侧边栏完成提交、推送与同步。 |
-| 2026-11-11 09:49:25 | [AndrejSopp.kremen-syntax](https://marketplace.visualstudio.com/items?itemName=AndrejSopp.kremen-syntax) | Kremen Syntax | 0.1.0 | Syntax highlighting and editor basics for the Kremen programming language. |
-| 2026-11-11 09:52:36 | [Minhh.cva-preview](https://marketplace.visualstudio.com/items?itemName=Minhh.cva-preview) | CVA Preview | 0.1.0 | Renders every variant of a class-variance-authority definition with the project… |
-| 2026-11-11 10:03:29 | [XuetaoLi.pybind11-navigate](https://marketplace.visualstudio.com/items?itemName=XuetaoLi.pybind11-navigate) | pybind11 Navigate | 0.1.2 | Go from Python symbols to pybind11 registrations in the workspace. |
+| 2026-11-11 10:23:43 | [meieluka.meieluka-material](https://marketplace.visualstudio.com/items?itemName=meieluka.meieluka-material) | Meieluka's Material Icon Theme | 5.40.0 | Meieluka's Material Design Icons for Visual Studio Code |
+| 2026-11-11 10:32:58 | [sheno.pointr](https://marketplace.visualstudio.com/items?itemName=sheno.pointr) | Pointr | 0.1.0 | Point and click any element in your running React or Next.js app and VS Code op… |
+| 2026-11-11 10:34:48 | [federachosnak.ars-language-support](https://marketplace.visualstudio.com/items?itemName=federachosnak.ars-language-support) | ARS Language Support (IPS/IDS Rules) | 1.1.2 | Complete language support for .ars (Access & Validation Rules): syntax highligh… |
+| 2026-11-11 10:49:15 | [andreashuthe.intellij-islands-theme](https://marketplace.visualstudio.com/items?itemName=andreashuthe.intellij-islands-theme) | Islands Theme (IntelliJ-inspired) | 1.0.2 | Islands Dark & Islands Light for VS Code – the colors of the IntelliJ IDEA Isla… |
+| 2026-11-11 10:52:00 | [Al-Amin.nomad-anna](https://marketplace.visualstudio.com/items?itemName=Al-Amin.nomad-anna) | NOMAD ANNA | 1.0.0 | A complete developer experience: two premium themes, an original file icon them… |
+| 2026-11-11 10:52:09 | [plenustech.personal-timer](https://marketplace.visualstudio.com/items?itemName=plenustech.personal-timer) | Personal Timer | 0.1.28 | Track project time from VS Code |
+| 2026-11-11 10:54:20 | [finnbuilds.focus-next-on-stage](https://marketplace.visualstudio.com/items?itemName=finnbuilds.focus-next-on-stage) | Focus Next on Stage | 0.4.1 | Keeps a file focused and open in the Source Control view after you stage or uns… |
+| 2026-11-11 10:56:14 | [GrismLLJ.prisms-board](https://marketplace.visualstudio.com/items?itemName=GrismLLJ.prisms-board) | Prisms Board | 1.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
+| 2026-11-11 11:14:56 | [adimj11.bea-vscode](https://marketplace.visualstudio.com/items?itemName=adimj11.bea-vscode) | Bea Programming Toolkit | 0.5.0 | Syntax highlighting, diagnostics, completion, navigation, rename, formatting, s… |
 
 ## Data source
 

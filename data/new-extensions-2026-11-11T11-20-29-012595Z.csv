@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T10:23:43.48Z,meieluka.meieluka-material,meieluka,Meieluka's Material Icon Theme,5.40.0,Meieluka's Material Design Icons for Visual Studio Code
+2026-11-11T10:32:58.163Z,sheno.pointr,sheno,Pointr,0.1.0,"Point and click any element in your running React or Next.js app and VS Code opens the exact code lines behind it, plus its hooks, services, API routes, types and utilities. One install, nothing added to your project, 100% local."
+2026-11-11T10:34:48.863Z,federachosnak.ars-language-support,federachosnak,ARS Language Support (IPS/IDS Rules),1.1.2,"Complete language support for .ars (Access & Validation Rules): syntax highlighting, live error diagnostics, IntelliSense, code snippets, and Outline structure."
+2026-11-11T10:49:15.29Z,andreashuthe.intellij-islands-theme,andreashuthe,Islands Theme (IntelliJ-inspired),1.0.2,"Islands Dark & Islands Light for VS Code – the colors of the IntelliJ IDEA Islands themes (editor, Java/Kotlin semantic highlighting and UI), generated from the JetBrains sources."
+2026-11-11T10:52:00.987Z,Al-Amin.nomad-anna,Al-Amin,NOMAD ANNA,1.0.0,"A complete developer experience: two premium themes, an original file icon theme, a Smart Tailwind engine that turns arbitrary pixel classes into real utilities, a recommended-extension manager and a welcome dashboard."
+2026-11-11T10:52:09.933Z,plenustech.personal-timer,plenustech,Personal Timer,0.1.28,Track project time from VS Code
+2026-11-11T10:54:20.39Z,finnbuilds.focus-next-on-stage,finnbuilds,Focus Next on Stage,0.4.1,Keeps a file focused and open in the Source Control view after you stage or unstage one.
+2026-11-11T10:56:14.27Z,GrismLLJ.prisms-board,GrismLLJ,Prisms Board,1.0.1,"Plan, share, and organize your team work on a collaborative board inside VS Code. Create boards, add cards, and join your teammates boards instantly with short codes."
+2026-11-11T11:14:56.223Z,adimj11.bea-vscode,adimj11,Bea Programming Toolkit,0.5.0,"Syntax highlighting, diagnostics, completion, navigation, rename, formatting, snippets and tasks for Bea"
