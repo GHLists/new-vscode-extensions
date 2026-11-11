@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 07:22 UTC
+## Latest list — 2026-11-11 08:20 UTC
 
-New extensions published between 2026-11-11 05:22 UTC and 2026-11-11 07:22 UTC.
+New extensions published between 2026-11-11 06:20 UTC and 2026-11-11 08:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T07-22-00-5845Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T08-20-54-641011Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 06:19:47 | [zovo.zovo-dbml-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-dbml-viewer) | DBML Viewer & ER Diagram (DBML Preview,… | 0.1.0 | DBML viewer and ER diagram for VS Code: a live DBML preview beside the editor,… |
-| 2026-11-11 06:22:55 | [wangyifu.codenodemap](https://marketplace.visualstudio.com/items?itemName=wangyifu.codenodemap) | Code Node Map | 0.3.52 | Code Node Map (codenodemap): hierarchical source-code node graph viewer with Ma… |
-| 2026-11-11 06:23:27 | [MilesXu.wancoder](https://marketplace.visualstudio.com/items?itemName=MilesXu.wancoder) | WanCoder | 0.6.1 | WanCoder：使用本机 SSH 初始化和更新项目模板，统一管理 .crm-agents。 |
-| 2026-11-11 06:48:53 | [Ezio416.openplanetarium](https://marketplace.visualstudio.com/items?itemName=Ezio416.openplanetarium) | Openplanetarium | 0.1.0 | Language server for Openplanet's Angelscript |
-| 2026-11-11 06:53:47 | [zovo.zovo-image-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-image-editor) | Image Editor & Image Resizer (Crop, Ann… | 0.1.0 | Image editor and image resizer for VS Code: crop, resize, rotate, straighten, a… |
-| 2026-11-11 07:02:05 | [TasfiqueOfficial.banglathon-vscode](https://marketplace.visualstudio.com/items?itemName=TasfiqueOfficial.banglathon-vscode) | BanglaThon — Bangla & Banglish Language… | 0.1.0 | Syntax highlighting, smart Bangla/Banglish code snippets, and 1-click Run butto… |
-| 2026-11-11 07:02:20 | [vulda1.f02-sponsor-poc](https://marketplace.visualstudio.com/items?itemName=vulda1.f02-sponsor-poc) | F02 Sponsor POC Theme | 1.0.0 | Codeless theme used only to reproduce F-02 (sponsor-link command execution). |
-| 2026-11-11 07:08:47 | [singular-attention.singular-git-graph](https://marketplace.visualstudio.com/items?itemName=singular-attention.singular-git-graph) | Singular Git Graph | 1.0.4 | View a Git Graph of your repository, and perform Git actions from the graph. |
+| 2026-11-11 07:29:35 | [A29b.my-ai-agent-anywhere](https://marketplace.visualstudio.com/items?itemName=A29b.my-ai-agent-anywhere) | My AI Agent Anywhere | 0.1.0 | Sync your local AI configuration files to WSL and Dev Containers. |
+| 2026-11-11 07:31:39 | [magicduo.jump-bridge](https://marketplace.visualstudio.com/items?itemName=magicduo.jump-bridge) | JumpBridge | 0.1.15 | Navigate files bidirectionally between VS Code-based AI IDEs and JetBrains IDEs… |
+| 2026-11-11 07:34:07 | [tkhmelovskyi.claude-session-sync](https://marketplace.visualstudio.com/items?itemName=tkhmelovskyi.claude-session-sync) | Session Sync for Claude Code | 0.3.0 | Continue a Claude Code session on another device: syncs transcripts through you… |
+| 2026-11-11 07:41:43 | [MilanHusz.claude-cost-tracker](https://marketplace.visualstudio.com/items?itemName=MilanHusz.claude-cost-tracker) | Claude Cost Tracker | 0.2.1 | Real-time Claude cost tracking in VS Code: status bar budget meter, per-session… |
+| 2026-11-11 07:43:51 | [DrFormat.jb-run-widget](https://marketplace.visualstudio.com/items?itemName=DrFormat.jb-run-widget) | JB Run Widget | 0.2.0 | JetBrains-style Run widget (configuration, Run, Debug, Stop) and Run/Debug Conf… |
+| 2026-11-11 07:53:17 | [TomMajor.sqlquay](https://marketplace.visualstudio.com/items?itemName=TomMajor.sqlquay) | SQLQuay | 0.5.0 | SQLQuay — a read-only SQL workbench with JDBC, Alibaba Cloud DMS, DDL hover and… |
+| 2026-11-11 08:01:22 | [louisdumon.42-aio](https://marketplace.visualstudio.com/items?itemName=louisdumon.42-aio) | 42 All In One | 0.1.0 | Extension tout-en-un pour faciliter la structuration de vos projets 42: header… |
 
 ## Data source
 

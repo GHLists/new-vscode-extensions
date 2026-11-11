@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T07:29:35.597Z,A29b.my-ai-agent-anywhere,A29b,My AI Agent Anywhere,0.1.0,Sync your local AI configuration files to WSL and Dev Containers.
+2026-11-11T07:31:39.08Z,magicduo.jump-bridge,magicduo,JumpBridge,0.1.15,Navigate files bidirectionally between VS Code-based AI IDEs and JetBrains IDEs through explicit repository mappings.
+2026-11-11T07:34:07.37Z,tkhmelovskyi.claude-session-sync,tkhmelovskyi,Session Sync for Claude Code,0.3.0,Continue a Claude Code session on another device: syncs transcripts through your own private git repository.
+2026-11-11T07:41:43.697Z,MilanHusz.claude-cost-tracker,MilanHusz,Claude Cost Tracker,0.2.1,"Real-time Claude cost tracking in VS Code: status bar budget meter, per-session costs and a local dashboard."
+2026-11-11T07:43:51.32Z,DrFormat.jb-run-widget,DrFormat,JB Run Widget,0.2.0,"JetBrains-style Run widget (configuration, Run, Debug, Stop) and Run/Debug Configurations dialog with forms for Python, FastAPI, Django, Flask, pytest, Node.js, npm, Cargo, Go and Java, on top of launch.json."
+2026-11-11T07:53:17.177Z,TomMajor.sqlquay,TomMajor,SQLQuay,0.5.0,"SQLQuay — a read-only SQL workbench with JDBC, Alibaba Cloud DMS, DDL hover and session results."
+2026-11-11T08:01:22.96Z,louisdumon.42-aio,louisdumon,42 All In One,0.1.0,"Extension tout-en-un pour faciliter la structuration de vos projets 42: header automatique, norminette intégrée, correction automatique de la norme et formatage en C et Python."
