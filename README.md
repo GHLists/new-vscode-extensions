@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 08:20 UTC
+## Latest list — 2026-11-11 09:20 UTC
 
-New extensions published between 2026-11-11 06:20 UTC and 2026-11-11 08:20 UTC.
+New extensions published between 2026-11-11 07:20 UTC and 2026-11-11 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T08-20-54-641011Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T09-20-40-053887Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 07:29:35 | [A29b.my-ai-agent-anywhere](https://marketplace.visualstudio.com/items?itemName=A29b.my-ai-agent-anywhere) | My AI Agent Anywhere | 0.1.0 | Sync your local AI configuration files to WSL and Dev Containers. |
-| 2026-11-11 07:31:39 | [magicduo.jump-bridge](https://marketplace.visualstudio.com/items?itemName=magicduo.jump-bridge) | JumpBridge | 0.1.15 | Navigate files bidirectionally between VS Code-based AI IDEs and JetBrains IDEs… |
-| 2026-11-11 07:34:07 | [tkhmelovskyi.claude-session-sync](https://marketplace.visualstudio.com/items?itemName=tkhmelovskyi.claude-session-sync) | Session Sync for Claude Code | 0.3.0 | Continue a Claude Code session on another device: syncs transcripts through you… |
-| 2026-11-11 07:41:43 | [MilanHusz.claude-cost-tracker](https://marketplace.visualstudio.com/items?itemName=MilanHusz.claude-cost-tracker) | Claude Cost Tracker | 0.2.1 | Real-time Claude cost tracking in VS Code: status bar budget meter, per-session… |
-| 2026-11-11 07:43:51 | [DrFormat.jb-run-widget](https://marketplace.visualstudio.com/items?itemName=DrFormat.jb-run-widget) | JB Run Widget | 0.2.0 | JetBrains-style Run widget (configuration, Run, Debug, Stop) and Run/Debug Conf… |
-| 2026-11-11 07:53:17 | [TomMajor.sqlquay](https://marketplace.visualstudio.com/items?itemName=TomMajor.sqlquay) | SQLQuay | 0.5.0 | SQLQuay — a read-only SQL workbench with JDBC, Alibaba Cloud DMS, DDL hover and… |
-| 2026-11-11 08:01:22 | [louisdumon.42-aio](https://marketplace.visualstudio.com/items?itemName=louisdumon.42-aio) | 42 All In One | 0.1.0 | Extension tout-en-un pour faciliter la structuration de vos projets 42: header… |
+| 2026-11-11 08:18:25 | [codeXpower.solar-flare-power-mode](https://marketplace.visualstudio.com/items?itemName=codeXpower.solar-flare-power-mode) | Solar Flare Power Mode | 0.1.0 | Turn every keystroke into a radial burst of sunlight. A cinematic power mode fo… |
+| 2026-11-11 08:23:49 | [ScarKuo.agentgo](https://marketplace.visualstudio.com/items?itemName=ScarKuo.agentgo) | AgentGo | 0.0.19 | VS Code extension for displaying plan execution progress |
+| 2026-11-11 08:25:46 | [MiguelMariz.start-view](https://marketplace.visualstudio.com/items?itemName=MiguelMariz.start-view) | Start View | 1.0.1 | A Home button in the activity bar with configurable quick-access buttons for op… |
+| 2026-11-11 08:37:57 | [Vensmer-Alexander.gn-ninja-tools](https://marketplace.visualstudio.com/items?itemName=Vensmer-Alexander.gn-ninja-tools) | GN Ninja Build Tools | 0.1.0 | Configure (gn gen), browse and build GN/Ninja targets from a dedicated side bar. |
+| 2026-11-11 08:38:27 | [99tests.99tests-mcp](https://marketplace.visualstudio.com/items?itemName=99tests.99tests-mcp) | 99tests: real-device testing for your A… | 1.0.0 | Adds the 99tests MCP server to VS Code, so Copilot agent mode can order a human… |
+| 2026-11-11 08:41:00 | [ParkerQiu.opencode-session-hub](https://marketplace.visualstudio.com/items?itemName=ParkerQiu.opencode-session-hub) | OpenCode Session Hub | 0.1.0 | OpenCode sessions in the sidebar, conversations in a dedicated editor tab. |
+| 2026-11-11 08:42:47 | [aryacode.arya-language](https://marketplace.visualstudio.com/items?itemName=aryacode.arya-language) | Arya Language | 1.3.2 | Arya language support: syntax highlighting, diagnostics, completion, snippets,… |
+| 2026-11-11 08:49:34 | [tokensaver.tokensaver-claude](https://marketplace.visualstudio.com/items?itemName=tokensaver.tokensaver-claude) | TokenSaver · Claude Code | 0.4.2 | Keep your Claude plan with agent governance, or route open-source models via th… |
+| 2026-11-11 08:53:17 | [CharithJayasankha.azure-pim-activator](https://marketplace.visualstudio.com/items?itemName=CharithJayasankha.azure-pim-activator) | Azure PIM Activator | 0.2.1 | Activate Azure PIM eligible roles from saved profiles. |
+| 2026-11-11 09:00:19 | [PirapaakaranPirathapan.markdown-slidedeck-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.markdown-slidedeck-pro) | Markdown SlideDeck Pro: Instant Slides… | 0.1.0 | Convert any Markdown file into beautiful interactive presentation slides with c… |
+| 2026-11-11 09:05:43 | [quorvax.termora](https://marketplace.visualstudio.com/items?itemName=quorvax.termora) | Termora | 1.0.0 | Create, configure and launch dedicated terminals (frontend, backend, git, ...)… |
 
 ## Data source
 

@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T08:18:25.233Z,codeXpower.solar-flare-power-mode,codeXpower,Solar Flare Power Mode,0.1.0,Turn every keystroke into a radial burst of sunlight. A cinematic power mode for VS Code and Trae CN.
+2026-11-11T08:23:49.98Z,ScarKuo.agentgo,ScarKuo,AgentGo,0.0.19,VS Code extension for displaying plan execution progress
+2026-11-11T08:25:46Z,MiguelMariz.start-view,MiguelMariz,Start View,1.0.1,A Home button in the activity bar with configurable quick-access buttons for opening a project.
+2026-11-11T08:37:57.53Z,Vensmer-Alexander.gn-ninja-tools,Vensmer-Alexander,GN Ninja Build Tools,0.1.0,"Configure (gn gen), browse and build GN/Ninja targets from a dedicated side bar."
+2026-11-11T08:38:27.57Z,99tests.99tests-mcp,99tests,99tests: real-device testing for your AI agent,1.0.0,"Adds the 99tests MCP server to VS Code, so Copilot agent mode can order a human-run test of your app on real phones and browsers and apply the verified findings."
+2026-11-11T08:41:00.603Z,ParkerQiu.opencode-session-hub,ParkerQiu,OpenCode Session Hub,0.1.0,"OpenCode sessions in the sidebar, conversations in a dedicated editor tab."
+2026-11-11T08:42:47.81Z,aryacode.arya-language,aryacode,Arya Language,1.3.2,"Arya language support: syntax highlighting, diagnostics, completion, snippets, and run/check commands."
+2026-11-11T08:49:34.41Z,tokensaver.tokensaver-claude,tokensaver,TokenSaver · Claude Code,0.4.2,"Keep your Claude plan with agent governance, or route open-source models via the TokenSaver AI gateway. Free Cloud trial or local gateway."
+2026-11-11T08:53:17.847Z,CharithJayasankha.azure-pim-activator,CharithJayasankha,Azure PIM Activator,0.2.1,Activate Azure PIM eligible roles from saved profiles.
+2026-11-11T09:00:19.39Z,PirapaakaranPirathapan.markdown-slidedeck-pro,PirapaakaranPirathapan,Markdown SlideDeck Pro: Instant Slides & Pitch Decks 📜,0.1.0,"Convert any Markdown file into beautiful interactive presentation slides with code highlighting, presenter timer, themes, and 1-click HTML/print export!"
+2026-11-11T09:05:43.887Z,quorvax.termora,quorvax,Termora,1.0.0,"Create, configure and launch dedicated terminals (frontend, backend, git, ...) from a graphical panel - no settings.json editing required."
