@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T22:20:12.443Z,TechCodinz.ckb-vscode,TechCodinz,CKB - Invisible Reality Architecture Intelligence,1.12.2,"Living code intelligence for VS Code: a living architecture graph of your codebase, change-impact verdicts with affected tests, and one-click landing in your editor from CKB Cloud."
+2026-11-11T22:21:48.17Z,canhtrang.tcvn3-editor,canhtrang,TCVN3 Editor,0.2.0,"Hiển thị và chỉnh sửa file TCVN3 trộn GBK bằng Unicode; lưu lại đúng bảng mã gốc, tự sao lưu và giữ định dạng xuống dòng."
+2026-11-11T22:25:38.863Z,bitno.services-by-bitno,bitno,Services by Bitno,0.0.1,"A Services panel for Docker, Kubernetes, Cassandra, Postgres, Kafka and Redis"
+2026-11-11T22:27:58.507Z,tomtimlt.redwidow,tomtimlt,RedWidow,1.0.7,"Pentest workspace for VS Code: missions, terminals, evidence, and reports, with optional AI."
+2026-11-11T22:30:00.44Z,joseavilasg.sqol,joseavilasg,SQoL,0.1.0,"Format SQL with SQoL, an opinionated formatter that keeps one clause per line."
+2026-11-11T22:38:58.68Z,bitno.java-ls-by-bitno,bitno,Java Language Server by Bitno,0.0.1,"Java language support built on javac, with projects imported and compiled through Gradle"
+2026-11-11T23:09:21.06Z,robertoalvarezjunior.angular-component-preview,robertoalvarezjunior,Angular Component Preview,0.1.5,"Isolate and render any Angular .component.ts in a live preview tab with interactive @Input()/@Output() DevTools, automatic Dependency Injection mocking, and zero full-project build."

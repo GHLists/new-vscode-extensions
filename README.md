@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 22:20 UTC
+## Latest list — 2026-11-11 23:20 UTC
 
-New extensions published between 2026-11-11 20:20 UTC and 2026-11-11 22:20 UTC.
+New extensions published between 2026-11-11 21:20 UTC and 2026-11-11 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T22-20-39-654721Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T23-20-37-470291Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 21:14:33 | [HalilCeyhan.commit-pro](https://marketplace.visualstudio.com/items?itemName=HalilCeyhan.commit-pro) | Advanced Git Commits Panel | 1.0.0 | Advanced Git Commits panel, branch selector, right-click commit context actions… |
-| 2026-11-11 21:19:29 | [my-workspace-tools.flutter-qei-tools-dev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-dev) | Flutter Qei | 1.0.16 | Инструменты для текущей рабочей папки. |
-| 2026-11-11 21:42:17 | [lukeed.tidyup](https://marketplace.visualstudio.com/items?itemName=lukeed.tidyup) | tidy up | 0.1.0 | A fast formatter for JavaScript, TypeScript, HTML, Vue, CSS, JSON, YAML, TOML,… |
-| 2026-11-11 21:50:59 | [RozuTechnologies.antigravity-mobile](https://marketplace.visualstudio.com/items?itemName=RozuTechnologies.antigravity-mobile) | Antigravity Mobile | 1.0.7 | Control and monitor Google Antigravity IDE from your mobile phone or browser. D… |
-| 2026-11-11 21:53:38 | [archscript.archscript](https://marketplace.visualstudio.com/items?itemName=archscript.archscript) | ArchScript – Architecture as Code | 1.0.0 | Write your software architecture as code: live diagram, architecture rules, cus… |
-| 2026-11-11 21:58:19 | [masanori-satake.signboard-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.signboard-solo) | Signboard-Solo | 1.0.0 | Your open tabs as an airport split-flap arrivals board (or a station LED depart… |
-| 2026-11-11 22:03:56 | [StudioVisioneo.opencode-client-for-vs-code](https://marketplace.visualstudio.com/items?itemName=StudioVisioneo.opencode-client-for-vs-code) | OpenCode Client for VS Code (Own Server) | 0.1.1 | The OpenCode coding agent in a VS Code sidebar, connected to your own OpenCode… |
-| 2026-11-11 22:10:41 | [Soaibuzzaman.tex-margin](https://marketplace.visualstudio.com/items?itemName=Soaibuzzaman.tex-margin) | TeX Margin | 0.1.0 | Overleaf-style review comments for LaTeX, stored locally in your project and an… |
+| 2026-11-11 22:20:12 | [TechCodinz.ckb-vscode](https://marketplace.visualstudio.com/items?itemName=TechCodinz.ckb-vscode) | CKB - Invisible Reality Architecture In… | 1.12.2 | Living code intelligence for VS Code: a living architecture graph of your codeb… |
+| 2026-11-11 22:21:48 | [canhtrang.tcvn3-editor](https://marketplace.visualstudio.com/items?itemName=canhtrang.tcvn3-editor) | TCVN3 Editor | 0.2.0 | Hiển thị và chỉnh sửa file TCVN3 trộn GBK bằng Unicode; lưu lại đúng bảng mã gố… |
+| 2026-11-11 22:25:38 | [bitno.services-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.services-by-bitno) | Services by Bitno | 0.0.1 | A Services panel for Docker, Kubernetes, Cassandra, Postgres, Kafka and Redis |
+| 2026-11-11 22:27:58 | [tomtimlt.redwidow](https://marketplace.visualstudio.com/items?itemName=tomtimlt.redwidow) | RedWidow | 1.0.7 | Pentest workspace for VS Code: missions, terminals, evidence, and reports, with… |
+| 2026-11-11 22:30:00 | [joseavilasg.sqol](https://marketplace.visualstudio.com/items?itemName=joseavilasg.sqol) | SQoL | 0.1.0 | Format SQL with SQoL, an opinionated formatter that keeps one clause per line. |
+| 2026-11-11 22:38:58 | [bitno.java-ls-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.java-ls-by-bitno) | Java Language Server by Bitno | 0.0.1 | Java language support built on javac, with projects imported and compiled throu… |
+| 2026-11-11 23:09:21 | [robertoalvarezjunior.angular-component-preview](https://marketplace.visualstudio.com/items?itemName=robertoalvarezjunior.angular-component-preview) | Angular Component Preview | 0.1.5 | Isolate and render any Angular .component.ts in a live preview tab with interac… |
 
 ## Data source
 
