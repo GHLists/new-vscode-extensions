@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T21:14:33.183Z,HalilCeyhan.commit-pro,HalilCeyhan,Advanced Git Commits Panel,1.0.0,"Advanced Git Commits panel, branch selector, right-click commit context actions, 3-Pane Conflict Resolver, Interactive Rebase, and Git Blame for VS Code."
+2026-11-11T21:19:29.2Z,my-workspace-tools.flutter-qei-tools-dev,my-workspace-tools,Flutter Qei,1.0.16,Инструменты для текущей рабочей папки.
+2026-11-11T21:42:17.727Z,lukeed.tidyup,lukeed,tidy up,0.1.0,"A fast formatter for JavaScript, TypeScript, HTML, Vue, CSS, JSON, YAML, TOML, XML, Markdown and more, with Prettier's style by default"
+2026-11-11T21:50:59.757Z,RozuTechnologies.antigravity-mobile,RozuTechnologies,Antigravity Mobile,1.0.7,Control and monitor Google Antigravity IDE from your mobile phone or browser. Download the Android APK or launch the web app.
+2026-11-11T21:53:38.01Z,archscript.archscript,archscript,ArchScript – Architecture as Code,1.0.0,"Write your software architecture as code: live diagram, architecture rules, custom elements with Archpacks and branded exports (PDF, SVG, PNG, Markdown, Mermaid, PlantUML)."
+2026-11-11T21:58:19.36Z,masanori-satake.signboard-solo,masanori-satake,Signboard-Solo,1.0.0,"Your open tabs as an airport split-flap arrivals board (or a station LED departure board). Deliberately useless, quietly soothing."
+2026-11-11T22:03:56.517Z,StudioVisioneo.opencode-client-for-vs-code,StudioVisioneo,OpenCode Client for VS Code (Own Server),0.1.1,"The OpenCode coding agent in a VS Code sidebar, connected to your own OpenCode server."
+2026-11-11T22:10:41.903Z,Soaibuzzaman.tex-margin,Soaibuzzaman,TeX Margin,0.1.0,"Overleaf-style review comments for LaTeX, stored locally in your project and anchored so they survive edits. Plus BibTeX tidying and metadata updates from DBLP, Crossref and OpenAlex, with a diff preview."
