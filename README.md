@@ -12,26 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-11 13:20 UTC
+## Latest list — 2026-11-11 14:21 UTC
 
-New extensions published between 2026-11-11 11:20 UTC and 2026-11-11 13:20 UTC.
+New extensions published between 2026-11-11 12:21 UTC and 2026-11-11 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-11T13-20-14-838147Z.csv)
+[Full CSV](data/new-extensions-2026-11-11T14-21-06-8091Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-11 12:22:28 | [miragon-gmbh.business-model-canvas-modeler](https://marketplace.visualstudio.com/items?itemName=miragon-gmbh.business-model-canvas-modeler) | Business Model Canvas Modeler | 0.1.0 | View and edit Business Model Canvases directly in VS Code as plain-text *.bmc f… |
-| 2026-11-11 12:26:48 | [M282PPESul.Sulplatformio-PPEM282DVT2](https://marketplace.visualstudio.com/items?itemName=M282PPESul.Sulplatformio-PPEM282DVT2) | sulagna2 TESTone On Platform | 3.8.0 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
-| 2026-11-11 12:28:17 | [LUNWANG.vscode-bsp](https://marketplace.visualstudio.com/items?itemName=LUNWANG.vscode-bsp) | BSP Client | 0.1.2 | A general Build Server Protocol client for VSCode |
-| 2026-11-11 12:31:09 | [GreenForest.parchment-slate-theme](https://marketplace.visualstudio.com/items?itemName=GreenForest.parchment-slate-theme) | Parchment & Slate Theme | 1.0.8 | Astigmatism-friendly day & night VS Code themes combining Parchment Vintage & c… |
-| 2026-11-11 12:34:07 | [pesherind.bitrix-assistant](https://marketplace.visualstudio.com/items?itemName=pesherind.bitrix-assistant) | Bitrix Assistant | 0.3.2 | Индекс ядра 1С-Битрикс, подсказки PHP и JS (LSP), SSH-синхронизация с сервером… |
-| 2026-11-11 12:39:50 | [KamalMakhsudov.vibes-vscode](https://marketplace.visualstudio.com/items?itemName=KamalMakhsudov.vibes-vscode) | Vibes Language Support | 0.3.0 | Create and run Vibes programs and games with a bundled MyLang compiler, setup c… |
-| 2026-11-11 12:42:06 | [manon42bcn.toolium-resource-navigator](https://marketplace.visualstudio.com/items?itemName=manon42bcn.toolium-resource-navigator) | Toolium Resource Navigator | 1.0.0 | Navigate Toolium resource placeholders and autocomplete LANG/CONF keys. |
-| 2026-11-11 12:56:27 | [ImadMuratspahic.edi-lens](https://marketplace.visualstudio.com/items?itemName=ImadMuratspahic.edi-lens) | EDI Lens | 0.1.0 | Read, validate, reformat and compare UN/EDIFACT, ANSI X12 and HL7 v2 messages.… |
-| 2026-11-11 13:00:13 | [yotsuda.lilysharp-soundfont](https://marketplace.visualstudio.com/items?itemName=yotsuda.lilysharp-soundfont) | Lily# Sound Font (MuseScore General) | 1.0.0 | The sound Lily# plays scores with: the MuseScore_General sound font (by S. Chri… |
-| 2026-11-11 13:07:54 | [ShaikMohammadMujeeb.postgres-describe-to-ddl](https://marketplace.visualstudio.com/items?itemName=ShaikMohammadMujeeb.postgres-describe-to-ddl) | Postgres \d to CREATE TABLE | 1.0.0 | Turn psql \d / \d+ output into the CREATE TABLE or CREATE FOREIGN TABLE stateme… |
-| 2026-11-11 13:10:38 | [Keyglot.keyglot-vscode](https://marketplace.visualstudio.com/items?itemName=Keyglot.keyglot-vscode) | Keyglot | 0.6.6 | Find hardcoded UI text, review diffs, and turn it into translation keys without… |
-| 2026-11-11 13:11:56 | [XunKal1.eryscript](https://marketplace.visualstudio.com/items?itemName=XunKal1.eryscript) | EryScript Language | 2.0.0 | Syntax highlighting, IntelliSense, diagnostics, snippets and file icons for Ery… |
+| 2026-11-11 13:09:23 | [ai-sprintflow.ai-sprintflow](https://marketplace.visualstudio.com/items?itemName=ai-sprintflow.ai-sprintflow) | AI SprintFlow | 2.3.1 | Turns Jira, GitHub or Azure Boards tickets into reviewed, tested draft pull req… |
+| 2026-11-11 13:19:16 | [vxrdhxn.orbit-ai-assistant](https://marketplace.visualstudio.com/items?itemName=vxrdhxn.orbit-ai-assistant) | Orbit AI Coding Agent | 2.2.0 | A VS Code extension providing agentic AI chat features offline, online, and via… |
+| 2026-11-11 13:19:23 | [krisztiankovacs.koko-themes](https://marketplace.visualstudio.com/items?itemName=krisztiankovacs.koko-themes) | Koko Themes | 0.1.0 | Calm, readable color themes: Koko Slate, Koko Midnight, Koko Coral Night, Koko… |
+| 2026-11-11 13:20:27 | [krisztiankovacs.theme-tuner](https://marketplace.visualstudio.com/items?itemName=krisztiankovacs.theme-tuner) | Theme Tuner | 0.1.0 | Mix themes per region (sidebars, editor, syntax, terminal, chat) and tune every… |
+| 2026-11-11 13:21:14 | [RiccardoCherchi.flutter-runner](https://marketplace.visualstudio.com/items?itemName=RiccardoCherchi.flutter-runner) | Flutter Runner: Persistent Sessions | 0.1.2 | Start persistent fr instances and use the native Flutter debugger, hot reload a… |
+| 2026-11-11 13:31:25 | [Shapled.sidecar-comments](https://marketplace.visualstudio.com/items?itemName=Shapled.sidecar-comments) | Sidecar Comments | 0.1.0 | Show extra comments as CodeLens rows anchored above lines. Comment text lives i… |
+| 2026-11-11 13:34:20 | [SigmaLabsXYZ.sigmabot-editor-context](https://marketplace.visualstudio.com/items?itemName=SigmaLabsXYZ.sigmabot-editor-context) | SigmaBot Coach | 2.2.6 | Shares the active file, selection and open tabs with the SigmaBot TUI |
+| 2026-11-11 13:37:03 | [xx025.slurm-explorer](https://marketplace.visualstudio.com/items?itemName=xx025.slurm-explorer) | Slurm Explorer: Jobs, Nodes & Partitions | 0.6.7 | Explore Slurm jobs, partitions, nodes, accounting history and logs through Remo… |
+| 2026-11-11 13:37:27 | [ngxx-fus.c-comment-fold-helper](https://marketplace.visualstudio.com/items?itemName=ngxx-fus.c-comment-fold-helper) | C/C++ Comment Fold Helper | 0.1.3 | Better C/C++ Comment Fold Previews |
+| 2026-11-11 13:42:35 | [realtusharrr.storeenv-vscode](https://marketplace.visualstudio.com/items?itemName=realtusharrr.storeenv-vscode) | StoreEnv | 0.1.0 | Push, pull, commit and roll back your .env files from VS Code. Values are encry… |
+| 2026-11-11 13:52:34 | [freeimagetovideo.freeimagetovideo](https://marketplace.visualstudio.com/items?itemName=freeimagetovideo.freeimagetovideo) | Free Image to Video: Photo to Video wit… | 0.1.0 | Free image to video AI with no daily cap: start with no sign-up, keep going on… |
+| 2026-11-11 13:57:55 | [codenote-dev.codenote-vscode](https://marketplace.visualstudio.com/items?itemName=codenote-dev.codenote-vscode) | CodeNote | 0.9.0 | 以题目为中心的编程学习工作区：题面、笔记、画板与代码放在同一处。 Problem-centered workspace for competitive pro… |
+| 2026-11-11 14:11:25 | [Spellwarden.infra-pack](https://marketplace.visualstudio.com/items?itemName=Spellwarden.infra-pack) | Spellwarden Infra Pack | 0.9.0 | Five skills for infrastructure operations: change safety, Terraform plan review… |
 
 ## Data source
 

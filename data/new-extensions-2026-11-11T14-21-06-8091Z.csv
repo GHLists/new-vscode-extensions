@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T13:09:23.303Z,ai-sprintflow.ai-sprintflow,ai-sprintflow,AI SprintFlow,2.3.1,"Turns Jira, GitHub or Azure Boards tickets into reviewed, tested draft pull requests, from inside VS Code."
+2026-11-11T13:19:16.5Z,vxrdhxn.orbit-ai-assistant,vxrdhxn,Orbit AI Coding Agent,2.2.0,"A VS Code extension providing agentic AI chat features offline, online, and via custom API keys"
+2026-11-11T13:19:23.273Z,krisztiankovacs.koko-themes,krisztiankovacs,Koko Themes,0.1.0,"Calm, readable color themes: Koko Slate, Koko Midnight, Koko Coral Night, Koko Daylight and the mixed Koko Mixed."
+2026-11-11T13:20:27.48Z,krisztiankovacs.theme-tuner,krisztiankovacs,Theme Tuner,0.1.0,"Mix themes per region (sidebars, editor, syntax, terminal, chat) and tune every color live, with a preview, Apply and a version history."
+2026-11-11T13:21:14.12Z,RiccardoCherchi.flutter-runner,RiccardoCherchi,Flutter Runner: Persistent Sessions,0.1.2,"Start persistent fr instances and use the native Flutter debugger, hot reload and hot restart."
+2026-11-11T13:31:25.903Z,Shapled.sidecar-comments,Shapled,Sidecar Comments,0.1.0,Show extra comments as CodeLens rows anchored above lines. Comment text lives in .sidecar-comments/ and never touches your source files until you convert it.
+2026-11-11T13:34:20.23Z,SigmaLabsXYZ.sigmabot-editor-context,SigmaLabsXYZ,SigmaBot Coach,2.2.6,"Shares the active file, selection and open tabs with the SigmaBot TUI"
+2026-11-11T13:37:03.637Z,xx025.slurm-explorer,xx025,"Slurm Explorer: Jobs, Nodes & Partitions",0.6.7,"Explore Slurm jobs, partitions, nodes, accounting history and logs through Remote-SSH."
+2026-11-11T13:37:27.49Z,ngxx-fus.c-comment-fold-helper,ngxx-fus,C/C++ Comment Fold Helper,0.1.3,Better C/C++ Comment Fold Previews
+2026-11-11T13:42:35.653Z,realtusharrr.storeenv-vscode,realtusharrr,StoreEnv,0.1.0,"Push, pull, commit and roll back your .env files from VS Code. Values are encrypted on your device."
+2026-11-11T13:52:34.46Z,freeimagetovideo.freeimagetovideo,freeimagetovideo,Free Image to Video: Photo to Video with Sound,0.1.0,"Free image to video AI with no daily cap: start with no sign-up, keep going on a free account. Every video comes with sound and no watermark. This is the official VS Code extension for Free Image to Video: turn a photo or a prompt into an MP4 clip saved in your workspace."
+2026-11-11T13:57:55.337Z,codenote-dev.codenote-vscode,codenote-dev,CodeNote,0.9.0,"以题目为中心的编程学习工作区：题面、笔记、画板与代码放在同一处。 Problem-centered workspace for competitive programming — statement, notes, whiteboard and code in one place."
+2026-11-11T14:11:25.97Z,Spellwarden.infra-pack,Spellwarden,Spellwarden Infra Pack,0.9.0,"Five skills for infrastructure operations: change safety, Terraform plan review, Kubernetes incident triage, IAM least-privilege review and CI pipeline repair."
