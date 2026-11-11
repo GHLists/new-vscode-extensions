@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T12:22:28.98Z,miragon-gmbh.business-model-canvas-modeler,miragon-gmbh,Business Model Canvas Modeler,0.1.0,View and edit Business Model Canvases directly in VS Code as plain-text *.bmc files.
+2026-11-11T12:26:48.82Z,M282PPESul.Sulplatformio-PPEM282DVT2,M282PPESul,sulagna2 TESTone On Platform,3.8.0,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051),"
+2026-11-11T12:28:17.16Z,LUNWANG.vscode-bsp,LUNWANG,BSP Client,0.1.2,A general Build Server Protocol client for VSCode
+2026-11-11T12:31:09.517Z,GreenForest.parchment-slate-theme,GreenForest,Parchment & Slate Theme,1.0.8,Astigmatism-friendly day & night VS Code themes combining Parchment Vintage & cool Slate Machine surfaces with balanced Monokai syntax semantics.
+2026-11-11T12:34:07.597Z,pesherind.bitrix-assistant,pesherind,Bitrix Assistant,0.3.2,"Индекс ядра 1С-Битрикс, подсказки PHP и JS (LSP), SSH-синхронизация с сервером и терминал на сервере — без внешних сервисов и LLM"
+2026-11-11T12:39:50.323Z,KamalMakhsudov.vibes-vscode,KamalMakhsudov,Vibes Language Support,0.3.0,"Create and run Vibes programs and games with a bundled MyLang compiler, setup checks, and syntax highlighting."
+2026-11-11T12:42:06.103Z,manon42bcn.toolium-resource-navigator,manon42bcn,Toolium Resource Navigator,1.0.0,Navigate Toolium resource placeholders and autocomplete LANG/CONF keys.
+2026-11-11T12:56:27.84Z,ImadMuratspahic.edi-lens,ImadMuratspahic,EDI Lens,0.1.0,"Read, validate, reformat and compare UN/EDIFACT, ANSI X12 and HL7 v2 messages. Free, with paid Pro features. Works offline; only the Pro licence check (after you enter a key) uses the network."
+2026-11-11T13:00:13.747Z,yotsuda.lilysharp-soundfont,yotsuda,Lily# Sound Font (MuseScore General),1.0.0,"The sound Lily# plays scores with: the MuseScore_General sound font (by S. Christian Collins and others, MIT license), unchanged. Not an official MuseScore distribution."
+2026-11-11T13:07:54.037Z,ShaikMohammadMujeeb.postgres-describe-to-ddl,ShaikMohammadMujeeb,Postgres \d to CREATE TABLE,1.0.0,Turn psql \d / \d+ output into the CREATE TABLE or CREATE FOREIGN TABLE statement that recreates the table.
+2026-11-11T13:10:38.703Z,Keyglot.keyglot-vscode,Keyglot,Keyglot,0.6.6,"Find hardcoded UI text, review diffs, and turn it into translation keys without leaving VS Code."
+2026-11-11T13:11:56.5Z,XunKal1.eryscript,XunKal1,EryScript Language,2.0.0,"Syntax highlighting, IntelliSense, diagnostics, snippets and file icons for EryScript - the scripting language of Erythros Lite."
