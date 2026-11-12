@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T10:19:10.407Z,RZZBT.ponder-animations,RZZBT,Ponder Animations,0.2.1,"Press Alt+W on a library call to see a short, step-by-step animation of what the function does."
+2026-11-12T10:21:25.93Z,penvhq.penv,penvhq,penv,0.1.0,"Diagnostics, completion and hover for .env.schema from the penv binary: @rotate, @hosts, @assert, penv() and every @env-spec decorator penv reads."
+2026-11-12T10:25:15.49Z,novair.novair-sheets,novair,"Novair Sheets — CSV, Excel & Parquet Viewer, Compare Tables",1.0.0,"Open CSV, TSV, Excel and Parquet files in one fast grid inside VS Code, with the row and column count always in view and no ads, banner or account. Pro matches two tables by key, shows every changed cell and saves the report."
+2026-11-12T10:28:12.793Z,agent-campus.agent-campus,agent-campus,Agent Campus,0.0.2,"Visualize Codex chats, subagents, progress, and results in a live agent campus."
+2026-11-12T10:29:14.083Z,redclove.redclove-blocks,redclove,RedClove Blocks,0.2.4,"Everything RedClove in one panel: browse backend blocks, preview their code, add them to your project, fill your .env, and connect your AI agent."
+2026-11-12T10:40:52.227Z,rikpan.vs-find-all-references,rikpan,FindAllReferences,1.0.2,"Recreates the Visual Studio ""Find All References"" window: grouping by project/definition, a multi-column table (Code, File, Line, Column, Project, Containing Member, Containing Type, Kind, Repository), scope and column filters, sorting, kept results and list view."
+2026-11-12T10:44:28.207Z,rudy-malhi.codex-usage-status-bar,rudy-malhi,Codex Usage Status Bar,0.1.1,See your Codex account quota usage and reset times in the status bar.
+2026-11-12T10:54:43.95Z,ParadigmTechnologies.refresh-terminal-env,ParadigmTechnologies,Refresh Terminal Env,1.1.0,Status bar button that reloads Windows PATH/env into VS Code terminals without restarting VS Code.
+2026-11-12T10:55:18.667Z,LucianoDiLeonardo.aap-vscode,LucianoDiLeonardo,Ansible Automation Platform,1.0.1,Work with Red Hat Ansible Automation Platform 2.5 / 2.6 / 2.7 from VSCodium and VS Code.
+2026-11-12T11:04:29.193Z,Twelveeee.copy4agent,Twelveeee,CopyForAgent,0.2.0,"Copy the selected lines as an @file:line reference, optionally with the code, ready to paste into Claude Code, Codex, Cursor and other AI agents."
