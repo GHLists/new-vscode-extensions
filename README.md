@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 11:19 UTC
+## Latest list — 2026-11-12 12:21 UTC
 
-New extensions published between 2026-11-12 09:19 UTC and 2026-11-12 11:19 UTC.
+New extensions published between 2026-11-12 10:21 UTC and 2026-11-12 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T11-19-06-766495Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T12-21-35-418733Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 10:19:10 | [RZZBT.ponder-animations](https://marketplace.visualstudio.com/items?itemName=RZZBT.ponder-animations) | Ponder Animations | 0.2.1 | Press Alt+W on a library call to see a short, step-by-step animation of what th… |
-| 2026-11-12 10:21:25 | [penvhq.penv](https://marketplace.visualstudio.com/items?itemName=penvhq.penv) | penv | 0.1.0 | Diagnostics, completion and hover for .env.schema from the penv binary: @rotate… |
-| 2026-11-12 10:25:15 | [novair.novair-sheets](https://marketplace.visualstudio.com/items?itemName=novair.novair-sheets) | Novair Sheets — CSV, Excel & Parquet Vi… | 1.0.0 | Open CSV, TSV, Excel and Parquet files in one fast grid inside VS Code, with th… |
-| 2026-11-12 10:28:12 | [agent-campus.agent-campus](https://marketplace.visualstudio.com/items?itemName=agent-campus.agent-campus) | Agent Campus | 0.0.2 | Visualize Codex chats, subagents, progress, and results in a live agent campus. |
-| 2026-11-12 10:29:14 | [redclove.redclove-blocks](https://marketplace.visualstudio.com/items?itemName=redclove.redclove-blocks) | RedClove Blocks | 0.2.4 | Everything RedClove in one panel: browse backend blocks, preview their code, ad… |
-| 2026-11-12 10:40:52 | [rikpan.vs-find-all-references](https://marketplace.visualstudio.com/items?itemName=rikpan.vs-find-all-references) | FindAllReferences | 1.0.2 | Recreates the Visual Studio "Find All References" window: grouping by project/d… |
-| 2026-11-12 10:44:28 | [rudy-malhi.codex-usage-status-bar](https://marketplace.visualstudio.com/items?itemName=rudy-malhi.codex-usage-status-bar) | Codex Usage Status Bar | 0.1.1 | See your Codex account quota usage and reset times in the status bar. |
-| 2026-11-12 10:54:43 | [ParadigmTechnologies.refresh-terminal-env](https://marketplace.visualstudio.com/items?itemName=ParadigmTechnologies.refresh-terminal-env) | Refresh Terminal Env | 1.1.0 | Status bar button that reloads Windows PATH/env into VS Code terminals without… |
-| 2026-11-12 10:55:18 | [LucianoDiLeonardo.aap-vscode](https://marketplace.visualstudio.com/items?itemName=LucianoDiLeonardo.aap-vscode) | Ansible Automation Platform | 1.0.1 | Work with Red Hat Ansible Automation Platform 2.5 / 2.6 / 2.7 from VSCodium and… |
-| 2026-11-12 11:04:29 | [Twelveeee.copy4agent](https://marketplace.visualstudio.com/items?itemName=Twelveeee.copy4agent) | CopyForAgent | 0.2.0 | Copy the selected lines as an @file:line reference, optionally with the code, r… |
+| 2026-11-12 11:16:49 | [rikpan.track-changes](https://marketplace.visualstudio.com/items?itemName=rikpan.track-changes) | Track Changes | 1.0.2 | Visual Studio style change tracking in the gutter: yellow for unsaved changes,… |
+| 2026-11-12 11:25:46 | [QuorvoxTeam.quorvox-dev](https://marketplace.visualstudio.com/items?itemName=QuorvoxTeam.quorvox-dev) | Quorvox Dev | 0.9.0 | Одна кнопка поднимает проект, карта объясняет как всё связано (CSS, фронт, бэк,… |
+| 2026-11-12 11:30:18 | [xiaolinxin.git-xlx](https://marketplace.visualstudio.com/items?itemName=xiaolinxin.git-xlx) | Git XLX | 1.0.0 | Git 工具集：仓库集——在【源代码管理】自建一栏，勾选即打开仓库、取消即关闭，只保留日常要看的那几个 |
+| 2026-11-12 11:37:51 | [novair.novair-logs](https://marketplace.visualstudio.com/items?itemName=novair.novair-logs) | Novair Logs — Log Viewer: large files,… | 1.0.0 | Open large log files, follow them live without flicker, filter by level, regula… |
+| 2026-11-12 11:46:27 | [chpeer.phorge-review](https://marketplace.visualstudio.com/items?itemName=chpeer.phorge-review) | Phorge (Phabricator) Code Review | 0.1.0 | Review Phabricator revisions inside VS Code with full LSP navigation: highlight… |
+| 2026-11-12 11:50:45 | [MaksimGusev.cccr](https://marketplace.visualstudio.com/items?itemName=MaksimGusev.cccr) | Claude Code Code Review | 0.1.0 | AI-powered Git code reviews using Claude Code |
+| 2026-11-12 11:51:24 | [marcinukleja.csv-table](https://marketplace.visualstudio.com/items?itemName=marcinukleja.csv-table) | CSV Table | 0.1.2 | Browse and edit CSV as readable tables, with customizable views, automatic alig… |
+| 2026-11-12 12:00:52 | [Andreasb95.billes-rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=Andreasb95.billes-rainbow-brackets) | Bille's rainbow brackets | 1.0.2 | Colorizes {}, () and [] with dark-mode-optimized neon rainbow colors by nesting… |
 
 ## Data source
 

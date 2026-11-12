@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T11:16:49.183Z,rikpan.track-changes,rikpan,Track Changes,1.0.2,"Visual Studio style change tracking in the gutter: yellow for unsaved changes, green for saved changes, blue hatched for lines undone back to their original content."
+2026-11-12T11:25:46.703Z,QuorvoxTeam.quorvox-dev,QuorvoxTeam,Quorvox Dev,0.9.0,"Одна кнопка поднимает проект, карта объясняет как всё связано (CSS, фронт, бэк, база), проверки, QR для телефона и выкладка на VPS"
+2026-11-12T11:30:18.56Z,xiaolinxin.git-xlx,xiaolinxin,Git XLX,1.0.0,Git 工具集：仓库集——在【源代码管理】自建一栏，勾选即打开仓库、取消即关闭，只保留日常要看的那几个
+2026-11-12T11:37:51.097Z,novair.novair-logs,novair,"Novair Logs — Log Viewer: large files, live tail, filter, merge",1.0.0,"Open large log files, follow them live without flicker, filter by level, regular expression or JSON field. Pro merges logs by time and makes anonymized copies. No log data leaves your machine."
+2026-11-12T11:46:27.53Z,chpeer.phorge-review,chpeer,Phorge (Phabricator) Code Review,0.1.0,"Review Phabricator revisions inside VS Code with full LSP navigation: highlighted changes, descriptions, inline comments and review actions."
+2026-11-12T11:50:45.657Z,MaksimGusev.cccr,MaksimGusev,Claude Code Code Review,0.1.0,AI-powered Git code reviews using Claude Code
+2026-11-12T11:51:24.53Z,marcinukleja.csv-table,marcinukleja,CSV Table,0.1.2,"Browse and edit CSV as readable tables, with customizable views, automatic alignment and colors, and conditional formatting."
+2026-11-12T12:00:52.95Z,Andreasb95.billes-rainbow-brackets,Andreasb95,Bille's rainbow brackets,1.0.2,"Colorizes {}, () and [] with dark-mode-optimized neon rainbow colors by nesting depth and highlights the active bracket pair around your cursor."
