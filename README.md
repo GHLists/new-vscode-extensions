@@ -12,26 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 17:19 UTC
+## Latest list — 2026-11-12 18:19 UTC
 
-New extensions published between 2026-11-12 15:19 UTC and 2026-11-12 17:19 UTC.
+New extensions published between 2026-11-12 16:19 UTC and 2026-11-12 18:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T17-19-46-097641Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T18-19-54-294769Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 16:22:20 | [supat-roong.claude-alts](https://marketplace.visualstudio.com/items?itemName=supat-roong.claude-alts) | Claude Alts | 1.0.0 | Companion for the Claude Code VS Code extension: run a different Claude account… |
-| 2026-11-12 16:31:50 | [MaCianz.ros2-intellisense](https://marketplace.visualstudio.com/items?itemName=MaCianz.ros2-intellisense) | ROS 2 IntelliSense | 0.1.10 | Adds the active ROS 2 package and its dependencies to C/C++ IntelliSense, and b… |
-| 2026-11-12 16:43:24 | [catalonec.plsql-lint](https://marketplace.visualstudio.com/items?itemName=catalonec.plsql-lint) | PL/SQL Lint | 1.0.0 | Oracle SQL and PL/SQL linter: catches WHEN OTHERS THEN NULL, = NULL, COMMIT in… |
-| 2026-11-12 16:53:51 | [zovo.zovo-image-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-image-preview) | Image Preview & Image Hover | 0.1.0 | Image preview in the gutter and on hover for image paths in code, CSS url(), Ma… |
-| 2026-11-12 16:57:44 | [JenishPatel.error-clap](https://marketplace.visualstudio.com/items?itemName=JenishPatel.error-clap) | ERROR CLAP | 1.0.0 | A hilarious VS Code extension that makes a clapping cat react whenever your ter… |
-| 2026-11-12 16:59:38 | [catalonec.ora-error-helper](https://marketplace.visualstudio.com/items?itemName=catalonec.ora-error-helper) | ORA Error Helper | 1.0.0 | Hover any ORA-, PLS- or TNS- error code in SQL, logs or stack traces to see wha… |
-| 2026-11-12 17:02:36 | [1hue.glsl-vscode](https://marketplace.visualstudio.com/items?itemName=1hue.glsl-vscode) | GLSL & GDShader | 1.2.9 | Docs, autocomplete, syntax highlighting, compile errors, and live preview. |
-| 2026-11-12 17:03:16 | [thedevlab.red-devils-theme](https://marketplace.visualstudio.com/items?itemName=thedevlab.red-devils-theme) | Red Devils | 0.1.0 | A bold dark theme in red, gold and black. |
-| 2026-11-12 17:03:32 | [thedevlab.los-blancos-theme](https://marketplace.visualstudio.com/items?itemName=thedevlab.los-blancos-theme) | Los Blancos | 0.1.0 | A crisp white VS Code theme in blue, gold and red, with Navy and Blackout dark… |
-| 2026-11-12 17:05:35 | [romitlang.romit](https://marketplace.visualstudio.com/items?itemName=romitlang.romit) | Romit | 0.1.0 | Syntax highlighting, snippets, and editor settings for the Romit language (.rmt… |
-| 2026-11-12 17:05:39 | [benext.ai-code-chat](https://marketplace.visualstudio.com/items?itemName=benext.ai-code-chat) | Local AI Code Chat | 0.3.0 | Chat with your own AI server (OpenAI-compatible URL) and let it read and correc… |
-| 2026-11-12 17:10:43 | [zovo.zovo-dotenv](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-dotenv) | Dotenv & .env File Editor | 0.1.0 | Dotenv support for .env files: syntax colors, secret values hidden on screen, p… |
+| 2026-11-12 17:12:42 | [zovo.zovo-s3-explorer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-s3-explorer) | S3 Explorer: AWS, R2 & MinIO | 0.1.1 | S3 explorer and free S3 client inside VS Code: browse buckets with millions of… |
+| 2026-11-12 17:15:57 | [zovo.zovo-shell-formatter](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-shell-formatter) | Shell Formatter for Bash & Zsh | 0.1.1 | Shell formatter for VS Code: format bash, sh, zsh, bats and mksh scripts with s… |
+| 2026-11-12 17:17:00 | [lucasatz.tokenometro](https://marketplace.visualstudio.com/items?itemName=lucasatz.tokenometro) | Tokenômetro | 0.1.1 | Saiba se, no seu ritmo, os tokens do Claude Code vão acabar antes de o limite r… |
+| 2026-11-12 17:19:14 | [1hue.format-ext](https://marketplace.visualstudio.com/items?itemName=1hue.format-ext) | FormatExt | 1.0.5 | Custom formatter support. Use prettier, clang-format or whatever else you have… |
+| 2026-11-12 17:20:32 | [vetkit.vetkit-vscode](https://marketplace.visualstudio.com/items?itemName=vetkit.vetkit-vscode) | vetkit | 0.7.0 | Shows your latest vetkit audit findings as diagnostics and in a tree view, and… |
+| 2026-11-12 17:27:05 | [ayobami-olukunle-ogundairo.yoruba-code-translator](https://marketplace.visualstudio.com/items?itemName=ayobami-olukunle-ogundairo.yoruba-code-translator) | Yorùbá Code Translator | 0.4.0 | Write Python in Yorùbá, English, or both. Your repository keeps plain English w… |
+| 2026-11-12 17:29:34 | [zovo.zovo-protobuf](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-protobuf) | Protobuf & Proto3 Formatter | 0.1.0 | Protobuf and proto3 support for VS Code: syntax highlighting, a formatter that… |
+| 2026-11-12 17:36:03 | [1hue.lichen-theme](https://marketplace.visualstudio.com/items?itemName=1hue.lichen-theme) | Lichen Theme | 1.1.3 | Lichen greens on dark. Less chaos. |
+| 2026-11-12 17:38:39 | [HenrideBoutray.vscode-git-host-profiles](https://marketplace.visualstudio.com/items?itemName=HenrideBoutray.vscode-git-host-profiles) | Smart Profiles | 0.1.1 | Automatically select VS Code profiles using Git remote hosts, folder globs, pro… |
+| 2026-11-12 17:40:24 | [hirokiokabe.req-link](https://marketplace.visualstudio.com/items?itemName=hirokiokabe.req-link) | Req Link | 0.1.0 | Shows requirements files (.req.md) as a tree and preview, and jumps from each r… |
+| 2026-11-12 17:42:37 | [rachnalabs.design-book](https://marketplace.visualstudio.com/items?itemName=rachnalabs.design-book) | Design Book | 0.68.0 | A book of your project's screens that you open like a file: a .designbook file… |
+| 2026-11-12 17:50:10 | [Optiblack.hodor](https://marketplace.visualstudio.com/items?itemName=Optiblack.hodor) | Hodor | 0.2.0 | Your product's tracking plan from Hodor, inside VS Code and Cursor: browse even… |
+| 2026-11-12 17:50:47 | [SmallStepsStudio.xsd-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.xsd-atlas) | XSD Atlas | 0.1.0 | XSD and WSDL explorer: outline, hover, go to definition, problems, sample XML.… |
+| 2026-11-12 17:59:12 | [OmkarSanap.apex-smart-cleaner](https://marketplace.visualstudio.com/items?itemName=OmkarSanap.apex-smart-cleaner) | Apex Smart Cleaner | 1.0.1 | Automatically clean Salesforce Apex code on save |
+| 2026-11-12 18:08:19 | [bitno.paths-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.paths-by-bitno) | Paths by Bitno | 0.1.0 | A lightweight, fast path completion for VS Code |
 
 ## Data source
 
