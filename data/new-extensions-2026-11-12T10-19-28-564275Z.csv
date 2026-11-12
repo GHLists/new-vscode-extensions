@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T09:17:33.553Z,hubris.hubris-agent,hubris,Hubris — агент для кода,0.1.0,"Агент для кода в VS Code: пишет и правит файлы, запускает команды, работает с любой моделью Hubris. Оплата в рублях."
+2026-11-12T09:25:38.273Z,VeigarChen.cc1-ts,VeigarChen,cc1-ts,1.0.0,Analyze open TS/JS/Vue files and dependencies on demand to reduce memory usage.
+2026-11-12T09:33:27.14Z,jaffersha.deskbuddy,jaffersha,DeskBuddy: Animated Reminder Buddy,1.0.0,"A friendly animated character in your sidebar that reminds you to drink water, take breaks and stretch while you code."
+2026-11-12T09:49:09.82Z,apperside.vscode-react-memoize,apperside,React Easy Memoize,0.0.1,Instantly transform variables and function in useMemo and useCallback with tracked dependencies array
+2026-11-12T09:49:57.06Z,ShaikMohammadMujeeb.postgres-explain-visualizer,ShaikMohammadMujeeb,Postgres Explain Visualizer,1.0.0,"Turn the output of PostgreSQL's EXPLAIN into an interactive plan diagram, inside VS Code and without sending the plan anywhere."
+2026-11-12T10:06:22.727Z,andizadry.gitlab-ci-local-visualizer,andizadry,GitLab CI Local Visualizer,2.2.1,"100% Offline GitLab CI: preview, include resolver, interactive graph, rules simulator (parent-child, multi-project, dynamic child), inputs, diagnostics, CodeLens"
