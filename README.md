@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 19:20 UTC
+## Latest list — 2026-11-12 20:21 UTC
 
-New extensions published between 2026-11-12 17:20 UTC and 2026-11-12 19:20 UTC.
+New extensions published between 2026-11-12 18:21 UTC and 2026-11-12 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T19-20-31-816213Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T20-21-50-660528Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 18:27:16 | [SmallStepsStudio.ach-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.ach-atlas) | ACH Atlas | 0.1.0 | ACH bank payment files: outline, field hover, totals, problems, check digits. P… |
-| 2026-11-12 18:50:16 | [archvow.archvow](https://marketplace.visualstudio.com/items?itemName=archvow.archvow) | archvow | 0.25.2 | Spec-driven development with AI: manage architecture specs, decisions and check… |
-| 2026-11-12 18:51:01 | [UnrealDeveloper.codex-panel](https://marketplace.visualstudio.com/items?itemName=UnrealDeveloper.codex-panel) | Codexter: chat for OpenAI Codex (unoffi… | 0.9.0 | Unofficial chat panel for OpenAI Codex and GPT models with your ChatGPT subscri… |
-| 2026-11-12 19:01:01 | [dtcode-dev.omp-chat](https://marketplace.visualstudio.com/items?itemName=dtcode-dev.omp-chat) | OMP Chat by DT | 0.1.0 | AI coding chat panel for VS Code, powered by the oh-my-pi (omp) agent and OpenR… |
-| 2026-11-12 19:02:22 | [ajwiebe.angular-suffix-lens](https://marketplace.visualstudio.com/items?itemName=ajwiebe.angular-suffix-lens) | Angular Suffix Lens | 0.1.1 | Shows Angular suffixes (home.service.ts, home.component.ts) for suffix-less fil… |
+| 2026-11-12 19:26:24 | [flightcoders.veyra-rewind](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-rewind) | Veyra Rewind: Time Travel for Your Code | 1.0.0 | Every file's history, without commits: scrub a timeline to see any file at any… |
+| 2026-11-12 19:35:39 | [bitno.ls-markdown-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-markdown-by-bitno) | Markdown Language Server by Bitno | 0.1.1 | A fast Markdown formatter and linter for VS Code |
+| 2026-11-12 19:44:09 | [JoyalJames.gitmerge](https://marketplace.visualstudio.com/items?itemName=JoyalJames.gitmerge) | GitMerge | 4.0.0 | Create GitLab merge requests and GitHub pull requests from VS Code |
+| 2026-11-12 19:51:24 | [LeandroGCruzP.markuml-vscode](https://marketplace.visualstudio.com/items?itemName=LeandroGCruzP.markuml-vscode) | MarkUML Preview | 1.0.0 | Live SVG preview for MarkUML diagrams in Markdown (```uml / ```markuml) and sta… |
+| 2026-11-12 19:53:34 | [execarranza.markit-reader](https://marketplace.visualstudio.com/items?itemName=execarranza.markit-reader) | Markit - Markdown Reader | 0.3.0 | Modo lectura comodo y responsive para archivos Markdown dentro de Visual Studio… |
+| 2026-11-12 20:08:14 | [GurmanOthi.custom-profile-photo](https://marketplace.visualstudio.com/items?itemName=GurmanOthi.custom-profile-photo) | Custom Profile Photo | 0.1.1 | Crop a local photo for your VS Code Accounts icon. |
+| 2026-11-12 20:09:06 | [peterschwps.apigee-tools](https://marketplace.visualstudio.com/items?itemName=peterschwps.apigee-tools) | Apigee Tools | 0.1.3 | Diagnostics, completion, and quick fixes for Apigee X proxy and shared flow XML… |
 
 ## Data source
 
