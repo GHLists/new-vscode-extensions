@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T22:23:31.297Z,deckcheck.deckcheck,deckcheck,deckcheck,0.1.0,"Checks keyword decks for LS-DYNA as you edit: dangling references, duplicate ids, bad values, include problems."
+2026-11-12T22:32:00.823Z,bitno.convert-by-bitno,bitno,Convert by Bitno,0.1.0,"Quick conversions on the selection from one menu: Base64, URL, JWT, JSON and YAML, timestamps, case, lines and UUIDs"
+2026-11-12T23:01:25.24Z,MichaelRocksonCoffie.sage-night-theme,MichaelRocksonCoffie,Sage Night,1.0.0,"A muted dark theme with sage-green keywords, warm strings and soft orange parameters."
+2026-11-12T23:11:10.003Z,neucine.vscode-typescript-notebook,neucine,TypeScript Notebook,0.0.1,A focused VS Code notebook frontend for TypeScript runtimes using the Jupyter messaging protocol.

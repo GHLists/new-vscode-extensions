@@ -12,20 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 22:20 UTC
+## Latest list — 2026-11-12 23:20 UTC
 
-New extensions published between 2026-11-12 20:20 UTC and 2026-11-12 22:20 UTC.
+New extensions published between 2026-11-12 21:20 UTC and 2026-11-12 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T22-20-10-37919Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T23-20-14-250802Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 21:22:39 | [TendaiNMupezeni.java-kind-icons](https://marketplace.visualstudio.com/items?itemName=TendaiNMupezeni.java-kind-icons) | Java Kind Icons (Atom Material) | 1.0.0 | Atom Material Icons plus per-type icons for .java files: class, abstract, inter… |
-| 2026-11-12 21:32:30 | [EastonHou.quick-ai-push](https://marketplace.visualstudio.com/items?itemName=EastonHou.quick-ai-push) | Quick AI Push & Merge | 0.1.0 | One-click status-bar AI commit and push, plus merge committed changes into the… |
-| 2026-11-12 21:42:00 | [utopy.utopia-craft](https://marketplace.visualstudio.com/items?itemName=utopy.utopia-craft) | Утопия.CRAFT | 0.1.0 | Утопия.CRAFT пишет код в вашем проекте, оплата через Утопию |
-| 2026-11-12 21:52:30 | [matinfly-VS.error-roaster](https://marketplace.visualstudio.com/items?itemName=matinfly-VS.error-roaster) | Error Roaster | 1.0.0 | Roasts failed terminal commands and tasks by playing a funny reaction video in… |
-| 2026-11-12 21:57:26 | [docnboard.auralens-extension](https://marketplace.visualstudio.com/items?itemName=docnboard.auralens-extension) | AuraLens | 1.2.0 | Block editor and visual board for .dnb documents in VS Code, powered by BlockSu… |
-| 2026-11-12 22:12:33 | [easydiagram.diagram-dsl](https://marketplace.visualstudio.com/items?itemName=easydiagram.diagram-dsl) | EasyDiagram | 0.1.0 | Syntax highlighting, live diagnostics and format-on-save for .diagram files, th… |
+| 2026-11-12 22:23:31 | [deckcheck.deckcheck](https://marketplace.visualstudio.com/items?itemName=deckcheck.deckcheck) | deckcheck | 0.1.0 | Checks keyword decks for LS-DYNA as you edit: dangling references, duplicate id… |
+| 2026-11-12 22:32:00 | [bitno.convert-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.convert-by-bitno) | Convert by Bitno | 0.1.0 | Quick conversions on the selection from one menu: Base64, URL, JWT, JSON and YA… |
+| 2026-11-12 23:01:25 | [MichaelRocksonCoffie.sage-night-theme](https://marketplace.visualstudio.com/items?itemName=MichaelRocksonCoffie.sage-night-theme) | Sage Night | 1.0.0 | A muted dark theme with sage-green keywords, warm strings and soft orange param… |
+| 2026-11-12 23:11:10 | [neucine.vscode-typescript-notebook](https://marketplace.visualstudio.com/items?itemName=neucine.vscode-typescript-notebook) | TypeScript Notebook | 0.0.1 | A focused VS Code notebook frontend for TypeScript runtimes using the Jupyter m… |
 
 ## Data source
 
