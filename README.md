@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 14:19 UTC
+## Latest list — 2026-11-12 15:22 UTC
 
-New extensions published between 2026-11-12 12:19 UTC and 2026-11-12 14:19 UTC.
+New extensions published between 2026-11-12 13:22 UTC and 2026-11-12 15:22 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T14-19-05-529718Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T15-22-05-122314Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 13:22:31 | [AliImranDev.pretty-typescript-errors](https://marketplace.visualstudio.com/items?itemName=AliImranDev.pretty-typescript-errors) | Pretty TypeScript Errors - AliImranDev | 0.0.1 | Makes complicated TypeScript errors easier to understand. |
-| 2026-11-12 13:26:20 | [RaviKumarRajapudi.maximo-mcp-ravi](https://marketplace.visualstudio.com/items?itemName=RaviKumarRajapudi.maximo-mcp-ravi) | MAS MCP Toolkit for AI | 1.0.0 | Bring AI directly into your **IBM Maximo Application Suite** or **Maximo 7.6.x*… |
-| 2026-11-12 13:32:01 | [vitortrack.alien](https://marketplace.visualstudio.com/items?itemName=vitortrack.alien) | Alien — Agente de Código | 0.1.0 | Agente de código autônomo em formato de chat: ReAct, planejamento, revisão inde… |
-| 2026-11-12 13:39:39 | [burma-forge.burma-forge-dotnet-tools](https://marketplace.visualstudio.com/items?itemName=burma-forge.burma-forge-dotnet-tools) | DotNet Tools | 0.1.4 | Everyday .NET solution, build, run and code-generation tools without C# Dev Kit. |
-| 2026-11-12 13:43:19 | [bitno.ls-java-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-java-by-bitno) | Java Language Server by Bitno | 0.5.0 | A lightweight, fast Java language server for VS Code |
-| 2026-11-12 13:43:27 | [cuinixam.criticmark-review](https://marketplace.visualstudio.com/items?itemName=cuinixam.criticmark-review) | CriticMark Review | 0.4.0 | Review CriticMarkup comments and suggestions in markdown and other text files f… |
-| 2026-11-12 13:43:30 | [bitno.ls-gradle-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-gradle-by-bitno) | Gradle Language Server by Bitno | 0.1.0 | A lightweight, fast Gradle language server for VS Code |
-| 2026-11-12 13:46:41 | [zhuuchaofan.cobol-tools-for-netcobol](https://marketplace.visualstudio.com/items?itemName=zhuuchaofan.cobol-tools-for-netcobol) | COBOL Tools for NetCOBOL | 0.5.0 | Unofficial NetCOBOL (fixed format) support: syntax highlighting, Shift_JIS byte… |
-| 2026-11-12 13:47:00 | [mse-Business-Consulting.mse-al-object-id-manager](https://marketplace.visualstudio.com/items?itemName=mse-Business-Consulting.mse-al-object-id-manager) | mse AL Object ID Manager | 2.5.3 | Branch-aware AL object IDs with optional GitHub or shared Excel allocation regi… |
-| 2026-11-12 14:05:55 | [bitno.ls-bash-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-bash-by-bitno) | Bash Language Server by Bitno | 0.3.0 | A lightweight, fast Bash language server for VS Code |
-| 2026-11-12 14:07:30 | [kirasync2748.snapglow-studio](https://marketplace.visualstudio.com/items?itemName=kirasync2748.snapglow-studio) | Snapglow: Code Snap Studio | 0.1.0 | A local-first code screenshot studio. Style, highlight, and export beautiful sn… |
+| 2026-11-12 14:13:38 | [debaprasadnayak.copilot-account-profile-switcher](https://marketplace.visualstudio.com/items?itemName=debaprasadnayak.copilot-account-profile-switcher) | Copilot Account and Profile Shortcuts | 0.1.2 | Shortcuts to Copilot account preferences and separate VS Code profiles. Not per… |
+| 2026-11-12 14:21:15 | [scriptdock.portscope-dev](https://marketplace.visualstudio.com/items?itemName=scriptdock.portscope-dev) | PortScope Dev | 0.1.0 | Shows the dev servers of this VS Code window in the status bar and opens them i… |
+| 2026-11-12 14:25:19 | [pascman.remotex](https://marketplace.visualstudio.com/items?itemName=pascman.remotex) | Remotex | 0.1.1 | Browse and edit files on SFTP, FTP and FTPS servers directly in the VS Code exp… |
+| 2026-11-12 14:32:36 | [dconyemerekwe.0xword](https://marketplace.visualstudio.com/items?itemName=dconyemerekwe.0xword) | 0xWORD | 1.0.0 | Guess 8 hex digits that make a real 4-letter word, then decode it. In your side… |
+| 2026-11-12 14:43:26 | [saarthicode.sarathicode](https://marketplace.visualstudio.com/items?itemName=saarthicode.sarathicode) | SarathiCode - AI Coding Assistant | 1.0.0 | AI coding assistant with chat, autocomplete, local models, and NVIDIA NIM suppo… |
+| 2026-11-12 14:43:38 | [lirobi.xlsx-spreadsheet-viewer](https://marketplace.visualstudio.com/items?itemName=lirobi.xlsx-spreadsheet-viewer) | Excel Viewer - XLSX, XLS, ODS & CSV Spr… | 0.1.0 | Open Excel spreadsheets (.xlsx, .xls, .xlsm, .xlsb), OpenDocument (.ods) and CS… |
+| 2026-11-12 14:55:40 | [alidendenne.sidekick-code-ai](https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai) | Sidekick Code AI | 1.1.7 | Cloud AI coding assistant with local codebase indexing |
+| 2026-11-12 15:10:14 | [izzyjere.jpa-powertools](https://marketplace.visualstudio.com/items?itemName=izzyjere.jpa-powertools) | JPA Power Tools | 1.0.0 | Browse PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, Db2 and other JDBC datab… |
 
 ## Data source
 

@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T14:13:38.17Z,debaprasadnayak.copilot-account-profile-switcher,debaprasadnayak,Copilot Account and Profile Shortcuts,0.1.2,Shortcuts to Copilot account preferences and separate VS Code profiles. Not per-chat account isolation.
+2026-11-12T14:21:15.543Z,scriptdock.portscope-dev,scriptdock,PortScope Dev,0.1.0,Shows the dev servers of this VS Code window in the status bar and opens them in one click.
+2026-11-12T14:25:19.047Z,pascman.remotex,pascman,Remotex,0.1.1,"Browse and edit files on SFTP, FTP and FTPS servers directly in the VS Code explorer."
+2026-11-12T14:32:36.72Z,dconyemerekwe.0xword,dconyemerekwe,0xWORD,1.0.0,"Guess 8 hex digits that make a real 4-letter word, then decode it. In your side bar while your agent works."
+2026-11-12T14:43:26.31Z,saarthicode.sarathicode,saarthicode,SarathiCode - AI Coding Assistant,1.0.0,"AI coding assistant with chat, autocomplete, local models, and NVIDIA NIM support"
+2026-11-12T14:43:38.79Z,lirobi.xlsx-spreadsheet-viewer,lirobi,"Excel Viewer - XLSX, XLS, ODS & CSV Spreadsheet Viewer",0.1.0,"Open Excel spreadsheets (.xlsx, .xls, .xlsm, .xlsb), OpenDocument (.ods) and CSV files as a fast, searchable grid inside VS Code."
+2026-11-12T14:55:40.567Z,alidendenne.sidekick-code-ai,alidendenne,Sidekick Code AI,1.1.7,Cloud AI coding assistant with local codebase indexing
+2026-11-12T15:10:14.023Z,izzyjere.jpa-powertools,izzyjere,JPA Power Tools,1.0.0,"Browse PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, Db2 and other JDBC databases, generate JPA entities and Spring Data repositories, and write JPQL with validation, completion and navigation."
