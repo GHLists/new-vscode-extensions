@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T16:22:20.407Z,supat-roong.claude-alts,supat-roong,Claude Alts,1.0.0,"Companion for the Claude Code VS Code extension: run a different Claude account in each VSCode window simultaneously — capture, switch, and isolate accounts per window."
+2026-11-12T16:31:50.227Z,MaCianz.ros2-intellisense,MaCianz,ROS 2 IntelliSense,0.1.10,"Adds the active ROS 2 package and its dependencies to C/C++ IntelliSense, and builds colcon workspaces."
+2026-11-12T16:43:24.083Z,catalonec.plsql-lint,catalonec,PL/SQL Lint,1.0.0,"Oracle SQL and PL/SQL linter: catches WHEN OTHERS THEN NULL, = NULL, COMMIT in loops, SQL injection via EXECUTE IMMEDIATE and 11 more bugs while you type."
+2026-11-12T16:53:51.73Z,zovo.zovo-image-preview,zovo,Image Preview & Image Hover,0.1.0,"Image preview in the gutter and on hover for image paths in code, CSS url(), Markdown, HTML, JSX imports, SVG and data URIs. Shows type, pixel size and file size. Resolves @, ~ and tsconfig paths. Local files only, offline."
+2026-11-12T16:57:44.997Z,JenishPatel.error-clap,JenishPatel,ERROR CLAP,1.0.0,A hilarious VS Code extension that makes a clapping cat react whenever your terminal commands fail.
+2026-11-12T16:59:38.817Z,catalonec.ora-error-helper,catalonec,ORA Error Helper,1.0.0,"Hover any ORA-, PLS- or TNS- error code in SQL, logs or stack traces to see what it means and how to fix it. 250 Oracle errors explained, works offline."
+2026-11-12T17:02:36.183Z,1hue.glsl-vscode,1hue,GLSL & GDShader,1.2.9,"Docs, autocomplete, syntax highlighting, compile errors, and live preview."
+2026-11-12T17:03:16.993Z,thedevlab.red-devils-theme,thedevlab,Red Devils,0.1.0,"A bold dark theme in red, gold and black."
+2026-11-12T17:03:32.217Z,thedevlab.los-blancos-theme,thedevlab,Los Blancos,0.1.0,"A crisp white VS Code theme in blue, gold and red, with Navy and Blackout dark variants."
+2026-11-12T17:05:35.577Z,romitlang.romit,romitlang,Romit,0.1.0,"Syntax highlighting, snippets, and editor settings for the Romit language (.rmt): write apps the way you write prompts."
+2026-11-12T17:05:39.73Z,benext.ai-code-chat,benext,Local AI Code Chat,0.3.0,Chat with your own AI server (OpenAI-compatible URL) and let it read and correct the code in the open project folder.
+2026-11-12T17:10:43.35Z,zovo.zovo-dotenv,zovo,Dotenv & .env File Editor,0.1.0,"Dotenv support for .env files: syntax colors, secret values hidden on screen, problems with quick fixes (duplicates, spaces, quotes), outline, formatter, and hover and go to definition from process.env. Offline."

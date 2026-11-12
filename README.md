@@ -12,27 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 16:21 UTC
+## Latest list — 2026-11-12 17:19 UTC
 
-New extensions published between 2026-11-12 14:21 UTC and 2026-11-12 16:21 UTC.
+New extensions published between 2026-11-12 15:19 UTC and 2026-11-12 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T16-21-37-255997Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T17-19-46-097641Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 15:20:21 | [spideythedev.tdf-language-support](https://marketplace.visualstudio.com/items?itemName=spideythedev.tdf-language-support) | TDF & TBF Language Support | 1.0.0 | Syntax highlighting and language support for TDF and TBF files. |
-| 2026-11-12 15:26:03 | [diskdiet.diskdiet-vscode](https://marketplace.visualstudio.com/items?itemName=diskdiet.diskdiet-vscode) | diskdiet - Free Developer Disk Space | 0.6.1 | See what npm, pnpm, Yarn, pip, Cargo, Go, Gradle and Docker caches and old node… |
-| 2026-11-12 15:31:06 | [hewinloose.pi-sidebar-plus](https://marketplace.visualstudio.com/items?itemName=hewinloose.pi-sidebar-plus) | Pi Agent Sidebar Plus | 1.0.6 | A focused pi coding-agent workspace in the VS Code auxiliary sidebar. |
-| 2026-11-12 15:31:10 | [fillddak.twinlock](https://marketplace.visualstudio.com/items?itemName=fillddak.twinlock) | Twinlock — Keep Linked Code in Sync | 1.0.1 | Real-time LINT.IfChange / LINT.ThenChange for VS Code: link code that must chan… |
-| 2026-11-12 16:00:04 | [rushirb2001.cohors](https://marketplace.visualstudio.com/items?itemName=rushirb2001.cohors) | cohors | 0.7.6 | The state of every git repository you own, and what to do next, in one editor t… |
-| 2026-11-12 16:00:26 | [zekaizer.strata-git-graph](https://marketplace.visualstudio.com/items?itemName=zekaizer.strata-git-graph) | Strata Git Graph | 0.1.0 | Commit graph for git repositories |
-| 2026-11-12 16:03:56 | [COOLC.TranserCompareData](https://marketplace.visualstudio.com/items?itemName=COOLC.TranserCompareData) | TranserCompareData | 1.0.0 | Launch CompareData.exe |
-| 2026-11-12 16:07:20 | [jungm.faces](https://marketplace.visualstudio.com/items?itemName=jungm.faces) | Faces for Jakarta® EE | 0.1.0 | Support for Jakarta® Faces: Facelets pages, Expression Language and Java integr… |
-| 2026-11-12 16:07:25 | [zovo.zovo-convert-to-markdown](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-convert-to-markdown) | Convert to Markdown: PDF, DOCX | 0.1.1 | Convert to Markdown in VS Code: PDF, Word (DOCX), PowerPoint (PPTX), Excel, CSV… |
-| 2026-11-12 16:10:14 | [Jailed.status-widget](https://marketplace.visualstudio.com/items?itemName=Jailed.status-widget) | Status Widget | 0.0.1 | Show what you are coding on your profile. Connect your account with a key from… |
-| 2026-11-12 16:12:15 | [RJRYT.nemotron-coding-agent](https://marketplace.visualstudio.com/items?itemName=RJRYT.nemotron-coding-agent) | Nemotron Coding Agent | 0.2.28 | A workspace-aware coding agent powered by NVIDIA Nemotron, with optional Auto m… |
-| 2026-11-12 16:12:18 | [VikumBhashitha.autopilot-ai02](https://marketplace.visualstudio.com/items?itemName=VikumBhashitha.autopilot-ai02) | VB.autopilot-ai02 | 1.0.0 | Autonomous AI workflow automation, prompt inspection, and file change approval… |
-| 2026-11-12 16:14:29 | [zovo.zovo-xml-xpath-tools](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xml-xpath-tools) | XML Formatter & XPath Tools | 0.1.1 | XML formatter that changes only whitespace between tags: text, CDATA, comments… |
+| 2026-11-12 16:22:20 | [supat-roong.claude-alts](https://marketplace.visualstudio.com/items?itemName=supat-roong.claude-alts) | Claude Alts | 1.0.0 | Companion for the Claude Code VS Code extension: run a different Claude account… |
+| 2026-11-12 16:31:50 | [MaCianz.ros2-intellisense](https://marketplace.visualstudio.com/items?itemName=MaCianz.ros2-intellisense) | ROS 2 IntelliSense | 0.1.10 | Adds the active ROS 2 package and its dependencies to C/C++ IntelliSense, and b… |
+| 2026-11-12 16:43:24 | [catalonec.plsql-lint](https://marketplace.visualstudio.com/items?itemName=catalonec.plsql-lint) | PL/SQL Lint | 1.0.0 | Oracle SQL and PL/SQL linter: catches WHEN OTHERS THEN NULL, = NULL, COMMIT in… |
+| 2026-11-12 16:53:51 | [zovo.zovo-image-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-image-preview) | Image Preview & Image Hover | 0.1.0 | Image preview in the gutter and on hover for image paths in code, CSS url(), Ma… |
+| 2026-11-12 16:57:44 | [JenishPatel.error-clap](https://marketplace.visualstudio.com/items?itemName=JenishPatel.error-clap) | ERROR CLAP | 1.0.0 | A hilarious VS Code extension that makes a clapping cat react whenever your ter… |
+| 2026-11-12 16:59:38 | [catalonec.ora-error-helper](https://marketplace.visualstudio.com/items?itemName=catalonec.ora-error-helper) | ORA Error Helper | 1.0.0 | Hover any ORA-, PLS- or TNS- error code in SQL, logs or stack traces to see wha… |
+| 2026-11-12 17:02:36 | [1hue.glsl-vscode](https://marketplace.visualstudio.com/items?itemName=1hue.glsl-vscode) | GLSL & GDShader | 1.2.9 | Docs, autocomplete, syntax highlighting, compile errors, and live preview. |
+| 2026-11-12 17:03:16 | [thedevlab.red-devils-theme](https://marketplace.visualstudio.com/items?itemName=thedevlab.red-devils-theme) | Red Devils | 0.1.0 | A bold dark theme in red, gold and black. |
+| 2026-11-12 17:03:32 | [thedevlab.los-blancos-theme](https://marketplace.visualstudio.com/items?itemName=thedevlab.los-blancos-theme) | Los Blancos | 0.1.0 | A crisp white VS Code theme in blue, gold and red, with Navy and Blackout dark… |
+| 2026-11-12 17:05:35 | [romitlang.romit](https://marketplace.visualstudio.com/items?itemName=romitlang.romit) | Romit | 0.1.0 | Syntax highlighting, snippets, and editor settings for the Romit language (.rmt… |
+| 2026-11-12 17:05:39 | [benext.ai-code-chat](https://marketplace.visualstudio.com/items?itemName=benext.ai-code-chat) | Local AI Code Chat | 0.3.0 | Chat with your own AI server (OpenAI-compatible URL) and let it read and correc… |
+| 2026-11-12 17:10:43 | [zovo.zovo-dotenv](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-dotenv) | Dotenv & .env File Editor | 0.1.0 | Dotenv support for .env files: syntax colors, secret values hidden on screen, p… |
 
 ## Data source
 
