@@ -12,23 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 13:19 UTC
+## Latest list — 2026-11-12 14:19 UTC
 
-New extensions published between 2026-11-12 11:19 UTC and 2026-11-12 13:19 UTC.
+New extensions published between 2026-11-12 12:19 UTC and 2026-11-12 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T13-19-51-027093Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T14-19-05-529718Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 12:18:46 | [akaminer.structure-fold](https://marketplace.visualstudio.com/items?itemName=akaminer.structure-fold) | Structure Fold | 0.1.4 | Three-level folding of Python and C++ functions and classes without folding ord… |
-| 2026-11-12 12:19:40 | [creativepathbreakers.reqit](https://marketplace.visualstudio.com/items?itemName=creativepathbreakers.reqit) | Reqit | 0.4.0 | API client that stores everything as plain JSON in your workspace, so teams col… |
-| 2026-11-12 12:26:34 | [HubToolify.hubtoolify-icons](https://marketplace.visualstudio.com/items?itemName=HubToolify.hubtoolify-icons) | HubToolify Icons | 1.1.0 | Search 4,309 free HubToolify icons offline and insert the class, React or Svelt… |
-| 2026-11-12 12:36:26 | [mcustudio.mcustudio-vscode](https://marketplace.visualstudio.com/items?itemName=mcustudio.mcustudio-vscode) | McuStudio for VS Code | 0.1.1 | McuStudio 芯片工程全链工具：图形化配置外设/引脚/时钟树 → 生成 Keil/CMake/IAR/EIDE 工程 → 编译 → pyocd 烧录 →… |
-| 2026-11-12 12:44:32 | [dotnet-tools.dotnet-daily-tools](https://marketplace.visualstudio.com/items?itemName=dotnet-tools.dotnet-daily-tools) | .NET Daily Tools | 0.1.3 | Everyday .NET solution, build, run and code-generation tools without C# Dev Kit. |
-| 2026-11-12 12:54:58 | [rusmanplatd.goravel-vscode](https://marketplace.visualstudio.com/items?itemName=rusmanplatd.goravel-vscode) | Goravel | 0.1.0 | Goravel tooling: raw SQL language server (completion, hover, go-to-definition,… |
-| 2026-11-12 13:09:12 | [E1aina2007.go-interfaces-impl](https://marketplace.visualstudio.com/items?itemName=E1aina2007.go-interfaces-impl) | Go Interfaces | 0.0.9 | Go interface implementation navigation within a module (in development). |
-| 2026-11-12 13:09:45 | [Ringo3Apples.vtu-node-processor](https://marketplace.visualstudio.com/items?itemName=Ringo3Apples.vtu-node-processor) | VTU Node Processor | 0.1.1 | VTU No-Code Data Flow Studio (WebGPU / WebGL2 Node Processor) for viewing and a… |
-| 2026-11-12 13:13:47 | [dnkats.second-look](https://marketplace.visualstudio.com/items?itemName=dnkats.second-look) | Second Look | 0.2.0 | Review what your coding agent changed, change by change: accept, reject, edit,… |
+| 2026-11-12 13:22:31 | [AliImranDev.pretty-typescript-errors](https://marketplace.visualstudio.com/items?itemName=AliImranDev.pretty-typescript-errors) | Pretty TypeScript Errors - AliImranDev | 0.0.1 | Makes complicated TypeScript errors easier to understand. |
+| 2026-11-12 13:26:20 | [RaviKumarRajapudi.maximo-mcp-ravi](https://marketplace.visualstudio.com/items?itemName=RaviKumarRajapudi.maximo-mcp-ravi) | MAS MCP Toolkit for AI | 1.0.0 | Bring AI directly into your **IBM Maximo Application Suite** or **Maximo 7.6.x*… |
+| 2026-11-12 13:32:01 | [vitortrack.alien](https://marketplace.visualstudio.com/items?itemName=vitortrack.alien) | Alien — Agente de Código | 0.1.0 | Agente de código autônomo em formato de chat: ReAct, planejamento, revisão inde… |
+| 2026-11-12 13:39:39 | [burma-forge.burma-forge-dotnet-tools](https://marketplace.visualstudio.com/items?itemName=burma-forge.burma-forge-dotnet-tools) | DotNet Tools | 0.1.4 | Everyday .NET solution, build, run and code-generation tools without C# Dev Kit. |
+| 2026-11-12 13:43:19 | [bitno.ls-java-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-java-by-bitno) | Java Language Server by Bitno | 0.5.0 | A lightweight, fast Java language server for VS Code |
+| 2026-11-12 13:43:27 | [cuinixam.criticmark-review](https://marketplace.visualstudio.com/items?itemName=cuinixam.criticmark-review) | CriticMark Review | 0.4.0 | Review CriticMarkup comments and suggestions in markdown and other text files f… |
+| 2026-11-12 13:43:30 | [bitno.ls-gradle-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-gradle-by-bitno) | Gradle Language Server by Bitno | 0.1.0 | A lightweight, fast Gradle language server for VS Code |
+| 2026-11-12 13:46:41 | [zhuuchaofan.cobol-tools-for-netcobol](https://marketplace.visualstudio.com/items?itemName=zhuuchaofan.cobol-tools-for-netcobol) | COBOL Tools for NetCOBOL | 0.5.0 | Unofficial NetCOBOL (fixed format) support: syntax highlighting, Shift_JIS byte… |
+| 2026-11-12 13:47:00 | [mse-Business-Consulting.mse-al-object-id-manager](https://marketplace.visualstudio.com/items?itemName=mse-Business-Consulting.mse-al-object-id-manager) | mse AL Object ID Manager | 2.5.3 | Branch-aware AL object IDs with optional GitHub or shared Excel allocation regi… |
+| 2026-11-12 14:05:55 | [bitno.ls-bash-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-bash-by-bitno) | Bash Language Server by Bitno | 0.3.0 | A lightweight, fast Bash language server for VS Code |
+| 2026-11-12 14:07:30 | [kirasync2748.snapglow-studio](https://marketplace.visualstudio.com/items?itemName=kirasync2748.snapglow-studio) | Snapglow: Code Snap Studio | 0.1.0 | A local-first code screenshot studio. Style, highlight, and export beautiful sn… |
 
 ## Data source
 

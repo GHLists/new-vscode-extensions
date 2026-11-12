@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T13:22:31.49Z,AliImranDev.pretty-typescript-errors,AliImranDev,Pretty TypeScript Errors - AliImranDev,0.0.1,Makes complicated TypeScript errors easier to understand.
+2026-11-12T13:26:20.027Z,RaviKumarRajapudi.maximo-mcp-ravi,RaviKumarRajapudi,MAS MCP Toolkit for AI,1.0.0,"Bring AI directly into your **IBM Maximo Application Suite** or **Maximo 7.6.x** environment. Using the **Model Context Protocol (MCP)**, this extension seamlessly connects Maximo with leading AI assistants and AI-powered IDEs."
+2026-11-12T13:32:01.46Z,vitortrack.alien,vitortrack,Alien — Agente de Código,0.1.0,"Agente de código autônomo em formato de chat: ReAct, planejamento, revisão independente, multiagente, RAG e memória — local com Ollama ou com Claude."
+2026-11-12T13:39:39.21Z,burma-forge.burma-forge-dotnet-tools,burma-forge,DotNet Tools,0.1.4,"Everyday .NET solution, build, run and code-generation tools without C# Dev Kit."
+2026-11-12T13:43:19.6Z,bitno.ls-java-by-bitno,bitno,Java Language Server by  Bitno,0.5.0,"A lightweight, fast Java language server for VS Code"
+2026-11-12T13:43:27.447Z,cuinixam.criticmark-review,cuinixam,CriticMark Review,0.4.0,"Review CriticMarkup comments and suggestions in markdown and other text files from a side panel, compatible with the Obsidian Track Changes plugin."
+2026-11-12T13:43:30.957Z,bitno.ls-gradle-by-bitno,bitno,Gradle Language Server by Bitno,0.1.0,"A lightweight, fast Gradle language server for VS Code"
+2026-11-12T13:46:41.277Z,zhuuchaofan.cobol-tools-for-netcobol,zhuuchaofan,COBOL Tools for NetCOBOL,0.5.0,"Unofficial NetCOBOL (fixed format) support: syntax highlighting, Shift_JIS byte-accurate column checks, sequence number renumbering, outline and go to definition."
+2026-11-12T13:47:00.95Z,mse-Business-Consulting.mse-al-object-id-manager,mse-Business-Consulting,mse AL Object ID Manager,2.5.3,Branch-aware AL object IDs with optional GitHub or shared Excel allocation registers.
+2026-11-12T14:05:55.627Z,bitno.ls-bash-by-bitno,bitno,Bash Language Server by  Bitno,0.3.0,"A lightweight, fast Bash language server for VS Code"
+2026-11-12T14:07:30.67Z,kirasync2748.snapglow-studio,kirasync2748,Snapglow: Code Snap Studio,0.1.0,"A local-first code screenshot studio. Style, highlight, and export beautiful snippets without leaving VS Code."
