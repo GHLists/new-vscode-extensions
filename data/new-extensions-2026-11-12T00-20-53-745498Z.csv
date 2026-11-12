@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-11T23:17:43.85Z,gokhanozdemir.sealbox,gokhanozdemir,SealBox: Secret Vault for AI Coding,0.3.0,"Keep passwords, API keys and personal data out of your source files, so AI coding agents like Copilot, Claude Code and Cursor never see them. Secrets live in an encrypted vault and reach your program only after your approval."
+2026-11-11T23:20:43.297Z,hedgerock.throwable-highlighter,hedgerock,Throwable Highlighter,0.1.0,Throwable Highlighter for VS Code.
+2026-11-11T23:29:14.343Z,EduardoBrito.syncstage,EduardoBrito,syncstage,0.1.0,Keep per-project .env values for each environment and switch between them.
+2026-11-11T23:44:31.027Z,MarcosEduardo.commitly-auto-git-message,MarcosEduardo,Commitly: Auto Git Message,0.2.1,"Mensagens de commit personalizadas a partir do staging, com Codex CLI."
+2026-11-11T23:46:46.03Z,turbinado.turbinado,turbinado,Turbinado,0.0.2,"A virtual-context agent harness for VS Code: tiered memory, multi-provider, image-aware, cache-optimized."
+2026-11-12T00:08:57.31Z,ameyon-labs.branchharbor,ameyon-labs,BranchHarbor,0.1.0,"Multi-repository Git worktrees, grouped by feature. Create isolated workspaces and reopen them in parallel VS Code windows."
+2026-11-12T00:13:45.027Z,JakubJirak.accessibility-compliance-helper,JakubJirak,Accessibility Compliance Helper — WCAG Audit,1.0.0,"Open-source WCAG 2.2 accessibility auditor for HTML, JSX/TSX, Vue, Svelte, Razor and CSS: live diagnostics, quick fixes and a workspace health-score report (Markdown, JSON, HTML, SARIF)."
