@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T00:30:11.263Z,JakubJirak.adr-companion,JakubJirak,ADR Companion — Architecture Decision Records,1.0.0,"Write, link and govern Architecture Decision Records: MADR/Nygard templates, safe renumbering, status lifecycle with supersede links, lint diagnostics, Mermaid/DOT graphs, ADRs from merged PRs and a CI governance check."
+2026-11-12T01:03:08.093Z,talisman-platform.talisman-studio-vscode,talisman-platform,Talisman Studio for VS Code,26.16.0,Talisman Platform Local Development Toolkit: design integration projects on a feature branch of your git repository with the Talisman designers and run them locally on the Talisman devmode image.
+2026-11-12T01:08:16.02Z,badrusiddique.cadence-insights,badrusiddique,Cadence — Agent Engineering Insights,1.1.0,"Local-first insights for AI coding assistants. Watch sessions, quantify output, refine habits, grow practice — no telemetry, no log mutation."
