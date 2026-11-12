@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T18:27:16.393Z,SmallStepsStudio.ach-atlas,SmallStepsStudio,ACH Atlas,0.1.0,"ACH bank payment files: outline, field hover, totals, problems, check digits. Pro: test files, anonymise, compare, export, reports. Works offline; only the licence check uses the network."
+2026-11-12T18:50:16.373Z,archvow.archvow,archvow,archvow,0.25.2,"Spec-driven development with AI: manage architecture specs, decisions and checks, prepare AI coding prompts, and review changes with ArchVow."
+2026-11-12T18:51:01.133Z,UnrealDeveloper.codex-panel,UnrealDeveloper,Codexter: chat for OpenAI Codex (unofficial),0.9.0,"Unofficial chat panel for OpenAI Codex and GPT models with your ChatGPT subscription: a chat per project and git branch, tabs, history search, commit messages. Not affiliated with OpenAI."
+2026-11-12T19:01:01.597Z,dtcode-dev.omp-chat,dtcode-dev,OMP Chat by DT,0.1.0,"AI coding chat panel for VS Code, powered by the oh-my-pi (omp) agent and OpenRouter / DeepSeek models."
+2026-11-12T19:02:22.333Z,ajwiebe.angular-suffix-lens,ajwiebe,Angular Suffix Lens,0.1.1,"Shows Angular suffixes (home.service.ts, home.component.ts) for suffix-less files like home.ts, in Quick Open, workspace symbols, the Explorer and editor tabs, without renaming anything on disk."
