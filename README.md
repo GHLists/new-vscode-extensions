@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 12:21 UTC
+## Latest list — 2026-11-12 13:19 UTC
 
-New extensions published between 2026-11-12 10:21 UTC and 2026-11-12 12:21 UTC.
+New extensions published between 2026-11-12 11:19 UTC and 2026-11-12 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T12-21-35-418733Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T13-19-51-027093Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 11:16:49 | [rikpan.track-changes](https://marketplace.visualstudio.com/items?itemName=rikpan.track-changes) | Track Changes | 1.0.2 | Visual Studio style change tracking in the gutter: yellow for unsaved changes,… |
-| 2026-11-12 11:25:46 | [QuorvoxTeam.quorvox-dev](https://marketplace.visualstudio.com/items?itemName=QuorvoxTeam.quorvox-dev) | Quorvox Dev | 0.9.0 | Одна кнопка поднимает проект, карта объясняет как всё связано (CSS, фронт, бэк,… |
-| 2026-11-12 11:30:18 | [xiaolinxin.git-xlx](https://marketplace.visualstudio.com/items?itemName=xiaolinxin.git-xlx) | Git XLX | 1.0.0 | Git 工具集：仓库集——在【源代码管理】自建一栏，勾选即打开仓库、取消即关闭，只保留日常要看的那几个 |
-| 2026-11-12 11:37:51 | [novair.novair-logs](https://marketplace.visualstudio.com/items?itemName=novair.novair-logs) | Novair Logs — Log Viewer: large files,… | 1.0.0 | Open large log files, follow them live without flicker, filter by level, regula… |
-| 2026-11-12 11:46:27 | [chpeer.phorge-review](https://marketplace.visualstudio.com/items?itemName=chpeer.phorge-review) | Phorge (Phabricator) Code Review | 0.1.0 | Review Phabricator revisions inside VS Code with full LSP navigation: highlight… |
-| 2026-11-12 11:50:45 | [MaksimGusev.cccr](https://marketplace.visualstudio.com/items?itemName=MaksimGusev.cccr) | Claude Code Code Review | 0.1.0 | AI-powered Git code reviews using Claude Code |
-| 2026-11-12 11:51:24 | [marcinukleja.csv-table](https://marketplace.visualstudio.com/items?itemName=marcinukleja.csv-table) | CSV Table | 0.1.2 | Browse and edit CSV as readable tables, with customizable views, automatic alig… |
-| 2026-11-12 12:00:52 | [Andreasb95.billes-rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=Andreasb95.billes-rainbow-brackets) | Bille's rainbow brackets | 1.0.2 | Colorizes {}, () and [] with dark-mode-optimized neon rainbow colors by nesting… |
+| 2026-11-12 12:18:46 | [akaminer.structure-fold](https://marketplace.visualstudio.com/items?itemName=akaminer.structure-fold) | Structure Fold | 0.1.4 | Three-level folding of Python and C++ functions and classes without folding ord… |
+| 2026-11-12 12:19:40 | [creativepathbreakers.reqit](https://marketplace.visualstudio.com/items?itemName=creativepathbreakers.reqit) | Reqit | 0.4.0 | API client that stores everything as plain JSON in your workspace, so teams col… |
+| 2026-11-12 12:26:34 | [HubToolify.hubtoolify-icons](https://marketplace.visualstudio.com/items?itemName=HubToolify.hubtoolify-icons) | HubToolify Icons | 1.1.0 | Search 4,309 free HubToolify icons offline and insert the class, React or Svelt… |
+| 2026-11-12 12:36:26 | [mcustudio.mcustudio-vscode](https://marketplace.visualstudio.com/items?itemName=mcustudio.mcustudio-vscode) | McuStudio for VS Code | 0.1.1 | McuStudio 芯片工程全链工具：图形化配置外设/引脚/时钟树 → 生成 Keil/CMake/IAR/EIDE 工程 → 编译 → pyocd 烧录 →… |
+| 2026-11-12 12:44:32 | [dotnet-tools.dotnet-daily-tools](https://marketplace.visualstudio.com/items?itemName=dotnet-tools.dotnet-daily-tools) | .NET Daily Tools | 0.1.3 | Everyday .NET solution, build, run and code-generation tools without C# Dev Kit. |
+| 2026-11-12 12:54:58 | [rusmanplatd.goravel-vscode](https://marketplace.visualstudio.com/items?itemName=rusmanplatd.goravel-vscode) | Goravel | 0.1.0 | Goravel tooling: raw SQL language server (completion, hover, go-to-definition,… |
+| 2026-11-12 13:09:12 | [E1aina2007.go-interfaces-impl](https://marketplace.visualstudio.com/items?itemName=E1aina2007.go-interfaces-impl) | Go Interfaces | 0.0.9 | Go interface implementation navigation within a module (in development). |
+| 2026-11-12 13:09:45 | [Ringo3Apples.vtu-node-processor](https://marketplace.visualstudio.com/items?itemName=Ringo3Apples.vtu-node-processor) | VTU Node Processor | 0.1.1 | VTU No-Code Data Flow Studio (WebGPU / WebGL2 Node Processor) for viewing and a… |
+| 2026-11-12 13:13:47 | [dnkats.second-look](https://marketplace.visualstudio.com/items?itemName=dnkats.second-look) | Second Look | 0.2.0 | Review what your coding agent changed, change by change: accept, reject, edit,… |
 
 ## Data source
 
