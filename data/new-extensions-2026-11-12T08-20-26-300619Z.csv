@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T07:17:21.69Z,Touch-Technologies-Inc.sheerpower,Touch-Technologies-Inc,Sheerpower,0.1.1,"Write, build, run and debug Sheerpower programs"
+2026-11-12T07:25:07.71Z,nayan-mle.nayans-nocturne,nayan-mle,Nayan's Nocturne,0.0.1,"A VS Code color theme designed with intent, precision, and care."
+2026-11-12T07:30:27.483Z,wpe.simple-ooxml-viewer,wpe,Simple OOXML Viewer,0.4.0,"Read and edit .docx, .xlsx, .pptx and .vsdx files straight inside VS Code. Paginated Word documents, editable spreadsheet grids, slide text and Visio drawings, rendered locally by bundled WASM engines — no cloud round-trip, no telemetry, works offline."
+2026-11-12T07:35:37.203Z,infravis.infravis-terraform-preview,infravis,InfraVis Terraform Preview,0.3.2,"Preview the AWS architecture described by the Terraform and Terragrunt files in a folder as a live, layered diagram."
+2026-11-12T07:41:33.74Z,EASYMODULARITY.easymod-vscode,EASYMODULARITY,EasyMod Code,0.0.10,EasyMod Coding assistant for VS Code
+2026-11-12T07:49:18.52Z,sebin-gg.slowlang,sebin-gg,SlowLang,1.0.0,Syntax highlighting for SlowLang (.slow) - the esoteric programming language that punishes fast typing. Python grammar plus the please() keyword.
+2026-11-12T07:56:55.367Z,rapier.jxl,rapier,"JPEG XL Converter: compress images, screenshots and photos",0.1.0,"Convert and compress PNG, JPEG, WebP and GIF files to JPEG XL. Compare, preview, convert back. Offline."
+2026-11-12T08:04:41.08Z,bitno.bash-by-bitno,bitno,Bash by Bitno,0.1.0,"A lightweight, fast Bash language server for VS Code"
+2026-11-12T08:14:18.367Z,Om-Anand.dormant-vscode,Om-Anand,Dormant: Auto-Wake Dependencies,0.1.0,"Wakes hibernated dependency folders (node_modules, .venv, ...) when you open a project."
