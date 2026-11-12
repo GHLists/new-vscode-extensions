@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T15:20:21.337Z,spideythedev.tdf-language-support,spideythedev,TDF & TBF Language Support,1.0.0,Syntax highlighting and language support for TDF and TBF files.
+2026-11-12T15:26:03.977Z,diskdiet.diskdiet-vscode,diskdiet,diskdiet - Free Developer Disk Space,0.6.1,"See what npm, pnpm, Yarn, pip, Cargo, Go, Gradle and Docker caches and old node_modules use, and free disk space safely. Offers a fix when a command runs out of disk."
+2026-11-12T15:31:06.83Z,hewinloose.pi-sidebar-plus,hewinloose,Pi Agent Sidebar Plus,1.0.6,A focused pi coding-agent workspace in the VS Code auxiliary sidebar.
+2026-11-12T15:31:10.483Z,fillddak.twinlock,fillddak,Twinlock — Keep Linked Code in Sync,1.0.1,"Real-time LINT.IfChange / LINT.ThenChange for VS Code: link code that must change together across files and languages, and see the moment one side drifts."
+2026-11-12T16:00:04.373Z,rushirb2001.cohors,rushirb2001,cohors,0.7.6,"The state of every git repository you own, and what to do next, in one editor tab. Needs the cohors command-line tool."
+2026-11-12T16:00:26.023Z,zekaizer.strata-git-graph,zekaizer,Strata Git Graph,0.1.0,Commit graph for git repositories
+2026-11-12T16:03:56.453Z,COOLC.TranserCompareData,COOLC,TranserCompareData,1.0.0,Launch CompareData.exe
+2026-11-12T16:07:20.003Z,jungm.faces,jungm,Faces for Jakarta® EE,0.1.0,"Support for Jakarta® Faces: Facelets pages, Expression Language and Java integration, powered by the Faces Language Server."
+2026-11-12T16:07:25.493Z,zovo.zovo-convert-to-markdown,zovo,"Convert to Markdown: PDF, DOCX",0.1.1,"Convert to Markdown in VS Code: PDF, Word (DOCX), PowerPoint (PPTX), Excel, CSV, HTML, EPUB, ODT and RTF files become clean Markdown with headings, lists, tables, links and slide notes. Right-click a file. Nothing to install, no Python, no network."
+2026-11-12T16:10:14.843Z,Jailed.status-widget,Jailed,Status Widget,0.0.1,Show what you are coding on your profile. Connect your account with a key from your dashboard and your current file and language appear live.
+2026-11-12T16:12:15.177Z,RJRYT.nemotron-coding-agent,RJRYT,Nemotron Coding Agent,0.2.28,"A workspace-aware coding agent powered by NVIDIA Nemotron, with optional Auto mode and granular command permissions."
+2026-11-12T16:12:18.13Z,VikumBhashitha.autopilot-ai02,VikumBhashitha,VB.autopilot-ai02,1.0.0,"Autonomous AI workflow automation, prompt inspection, and file change approval for Visual Studio Code & Google Antigravity IDE."
+2026-11-12T16:14:29.023Z,zovo.zovo-xml-xpath-tools,zovo,XML Formatter & XPath Tools,0.1.1,"XML formatter that changes only whitespace between tags: text, CDATA, comments and xml:space=""preserve"" stay as written. XPath 1.0 with namespaces, Copy XPath at the cursor, a lazy XML tree, minify and well-formedness checks. Free, offline."

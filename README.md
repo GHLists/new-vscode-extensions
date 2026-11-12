@@ -12,22 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 15:22 UTC
+## Latest list — 2026-11-12 16:21 UTC
 
-New extensions published between 2026-11-12 13:22 UTC and 2026-11-12 15:22 UTC.
+New extensions published between 2026-11-12 14:21 UTC and 2026-11-12 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T15-22-05-122314Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T16-21-37-255997Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 14:13:38 | [debaprasadnayak.copilot-account-profile-switcher](https://marketplace.visualstudio.com/items?itemName=debaprasadnayak.copilot-account-profile-switcher) | Copilot Account and Profile Shortcuts | 0.1.2 | Shortcuts to Copilot account preferences and separate VS Code profiles. Not per… |
-| 2026-11-12 14:21:15 | [scriptdock.portscope-dev](https://marketplace.visualstudio.com/items?itemName=scriptdock.portscope-dev) | PortScope Dev | 0.1.0 | Shows the dev servers of this VS Code window in the status bar and opens them i… |
-| 2026-11-12 14:25:19 | [pascman.remotex](https://marketplace.visualstudio.com/items?itemName=pascman.remotex) | Remotex | 0.1.1 | Browse and edit files on SFTP, FTP and FTPS servers directly in the VS Code exp… |
-| 2026-11-12 14:32:36 | [dconyemerekwe.0xword](https://marketplace.visualstudio.com/items?itemName=dconyemerekwe.0xword) | 0xWORD | 1.0.0 | Guess 8 hex digits that make a real 4-letter word, then decode it. In your side… |
-| 2026-11-12 14:43:26 | [saarthicode.sarathicode](https://marketplace.visualstudio.com/items?itemName=saarthicode.sarathicode) | SarathiCode - AI Coding Assistant | 1.0.0 | AI coding assistant with chat, autocomplete, local models, and NVIDIA NIM suppo… |
-| 2026-11-12 14:43:38 | [lirobi.xlsx-spreadsheet-viewer](https://marketplace.visualstudio.com/items?itemName=lirobi.xlsx-spreadsheet-viewer) | Excel Viewer - XLSX, XLS, ODS & CSV Spr… | 0.1.0 | Open Excel spreadsheets (.xlsx, .xls, .xlsm, .xlsb), OpenDocument (.ods) and CS… |
-| 2026-11-12 14:55:40 | [alidendenne.sidekick-code-ai](https://marketplace.visualstudio.com/items?itemName=alidendenne.sidekick-code-ai) | Sidekick Code AI | 1.1.7 | Cloud AI coding assistant with local codebase indexing |
-| 2026-11-12 15:10:14 | [izzyjere.jpa-powertools](https://marketplace.visualstudio.com/items?itemName=izzyjere.jpa-powertools) | JPA Power Tools | 1.0.0 | Browse PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, Db2 and other JDBC datab… |
+| 2026-11-12 15:20:21 | [spideythedev.tdf-language-support](https://marketplace.visualstudio.com/items?itemName=spideythedev.tdf-language-support) | TDF & TBF Language Support | 1.0.0 | Syntax highlighting and language support for TDF and TBF files. |
+| 2026-11-12 15:26:03 | [diskdiet.diskdiet-vscode](https://marketplace.visualstudio.com/items?itemName=diskdiet.diskdiet-vscode) | diskdiet - Free Developer Disk Space | 0.6.1 | See what npm, pnpm, Yarn, pip, Cargo, Go, Gradle and Docker caches and old node… |
+| 2026-11-12 15:31:06 | [hewinloose.pi-sidebar-plus](https://marketplace.visualstudio.com/items?itemName=hewinloose.pi-sidebar-plus) | Pi Agent Sidebar Plus | 1.0.6 | A focused pi coding-agent workspace in the VS Code auxiliary sidebar. |
+| 2026-11-12 15:31:10 | [fillddak.twinlock](https://marketplace.visualstudio.com/items?itemName=fillddak.twinlock) | Twinlock — Keep Linked Code in Sync | 1.0.1 | Real-time LINT.IfChange / LINT.ThenChange for VS Code: link code that must chan… |
+| 2026-11-12 16:00:04 | [rushirb2001.cohors](https://marketplace.visualstudio.com/items?itemName=rushirb2001.cohors) | cohors | 0.7.6 | The state of every git repository you own, and what to do next, in one editor t… |
+| 2026-11-12 16:00:26 | [zekaizer.strata-git-graph](https://marketplace.visualstudio.com/items?itemName=zekaizer.strata-git-graph) | Strata Git Graph | 0.1.0 | Commit graph for git repositories |
+| 2026-11-12 16:03:56 | [COOLC.TranserCompareData](https://marketplace.visualstudio.com/items?itemName=COOLC.TranserCompareData) | TranserCompareData | 1.0.0 | Launch CompareData.exe |
+| 2026-11-12 16:07:20 | [jungm.faces](https://marketplace.visualstudio.com/items?itemName=jungm.faces) | Faces for Jakarta® EE | 0.1.0 | Support for Jakarta® Faces: Facelets pages, Expression Language and Java integr… |
+| 2026-11-12 16:07:25 | [zovo.zovo-convert-to-markdown](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-convert-to-markdown) | Convert to Markdown: PDF, DOCX | 0.1.1 | Convert to Markdown in VS Code: PDF, Word (DOCX), PowerPoint (PPTX), Excel, CSV… |
+| 2026-11-12 16:10:14 | [Jailed.status-widget](https://marketplace.visualstudio.com/items?itemName=Jailed.status-widget) | Status Widget | 0.0.1 | Show what you are coding on your profile. Connect your account with a key from… |
+| 2026-11-12 16:12:15 | [RJRYT.nemotron-coding-agent](https://marketplace.visualstudio.com/items?itemName=RJRYT.nemotron-coding-agent) | Nemotron Coding Agent | 0.2.28 | A workspace-aware coding agent powered by NVIDIA Nemotron, with optional Auto m… |
+| 2026-11-12 16:12:18 | [VikumBhashitha.autopilot-ai02](https://marketplace.visualstudio.com/items?itemName=VikumBhashitha.autopilot-ai02) | VB.autopilot-ai02 | 1.0.0 | Autonomous AI workflow automation, prompt inspection, and file change approval… |
+| 2026-11-12 16:14:29 | [zovo.zovo-xml-xpath-tools](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xml-xpath-tools) | XML Formatter & XPath Tools | 0.1.1 | XML formatter that changes only whitespace between tags: text, CDATA, comments… |
 
 ## Data source
 
