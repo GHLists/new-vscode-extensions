@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T02:15:50.553Z,lfcontato.sqlite-explorer-local,lfcontato,LF SQLite Explorer,0.3.1,"Browse and edit SQLite tables with undo/redo, paged results, SQL JOINs and CSV/JSON export."
+2026-11-12T02:29:02.187Z,Fast-compose.fast-compose-preview,Fast-compose,Fast Compose Preview,0.2.0,"Instant Jetpack Compose previews in VS Code. No compiler, no build, no waiting."
+2026-11-12T02:46:30.07Z,easelian.remote-device-hub,easelian,Remote Device Hub,0.0.27,Use Copilot Chat or MCP in VS Code to access files and run permitted commands on your authorized devices.
+2026-11-12T02:47:09.813Z,fahrizaall.nestjs-routes-explorer,fahrizaall,NestJS Routes Explorer,0.1.0,"Browse, search and jump to every HTTP route in your NestJS app, right from the sidebar."
+2026-11-12T02:47:28.237Z,ganeshkumar.pypython,ganeshkumar,pittypython,1.0.1,Offline Python practical code replacer that automatically transforms practical question comments into complete Python programs.
+2026-11-12T02:58:02.823Z,gykjw.xdc-pinmap-converter,gykjw,国产50T → 进口50T XDC 约束自动转换,0.4.1,按原理图国产 JFMK50T 管脚写好 XDC，一键同步成 Vivado / XC7A50T 能用的管脚约束。装好即用，内置 50T 映射表，不用导入、不用配置。
+2026-11-12T03:10:14.303Z,liyujiang.cli-agents-window,liyujiang,CLI Agents Window,0.1.39,Connect native CLI sessions to the official VS Code Agents Window.
+2026-11-12T03:11:02.003Z,wangzhibo.upload-to-asset,wangzhibo,Upload to Asset,1.0.0,右键文件或文件夹，选择数据集或模型，把内容上传到平台资产对应的存储目录。
+2026-11-12T03:14:37.287Z,zycode.zycode,zycode,zycode,0.1.0,Chat with the zycode coding agent in VS Code. Unofficial; not affiliated with pi or Microsoft.
