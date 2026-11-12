@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T06:16:01.277Z,Nafisarkar.asterisk,Nafisarkar,Asterisk,0.1.1,"A local-first HTTP client for VS Code — requests, collections and environments as plain files."
+2026-11-12T06:18:12.177Z,rapier.rapier,rapier,Rapier,0.1.0,"Write Markdown in Rapier inside VS Code: formatted or source view, find and replace, compare, comments, diagrams, math and tables. Saves the file exactly as written."
+2026-11-12T06:20:39.02Z,DJRHails.criticmarkup,DJRHails,CriticMarkup Diff,0.6.1,"Render CriticMarkup suggestions the way git renders a diff — decorated in the source, hunks in the Markdown preview, and a live read-only .diff of the document with every suggestion rejected against every suggestion accepted."
+2026-11-12T06:22:20.267Z,SilasPaul.pi-agent-coding,SilasPaul,PI Agent Coding,1.0.0,A native-feeling VS Code sidebar for your locally installed PI coding agent.
+2026-11-12T06:22:30.877Z,westhack.ai-work-harness-vs,westhack,Ai Work Harness,0.2.1,AI coding agent chat inside VS Code
+2026-11-12T06:31:34.98Z,Aiolearn.aiolearn-school,Aiolearn,Aiolearn-school,1.5.2,"Next-Gen AI Automated Homework Evaluation, Multi-File Project Analysis & Classroom Management Platform. Developed and Published by Amir Nahavandi."
+2026-11-12T06:32:10.503Z,DJRHails.llm-save-merge,DJRHails,LLM Save Merge,0.7.3,"When a file changes on disk underneath an unsaved editor buffer, 3-way merge the two versions with an LLM instead of surfacing VS Code's save-conflict dialog."
+2026-11-12T06:32:13.813Z,DJRHails.mdx-wordcount,DJRHails,MDX Word Count,0.1.2,"Status-bar word count for MDX prose, ignoring frontmatter, imports, JSX, code and maths."
+2026-11-12T06:32:34.977Z,DJRHails.isogram-vscode,DJRHails,Isogram — AI Text Score,0.6.1,"Per-line AI-edit scores as you write: lines tinted by how much of them the Isogram detector attributes to AI, with a document verdict in the status bar."
+2026-11-12T06:33:12.113Z,curtis-liong.copy-source-reference-for-agent,curtis-liong,Copy Source Reference for Agent,0.1.6,"Copy source paths, line ranges, and Markdown snippets for coding agents."
+2026-11-12T06:42:25.387Z,jokeran.add-next-code,jokeran,Add Next Code (FIM),1.0.0,VS Code 行内 FIM 代码补全：直连 DeepSeek 原生 FIM 接口，成本优先。
+2026-11-12T06:43:26.05Z,ipromise.pi-workspace-chat,ipromise,Pi Coding Agent Chat for VS Code,0.1.3,"A VS Code chat interface for the Pi Coding Agent, with local and Remote-SSH workspace support."
+2026-11-12T06:47:13.46Z,Roland.markdown-preview-translate,Roland,MarkDown Preview Translate,0.5.0,Translate Markdown in VS Code's built-in preview with Google Translate or an OpenAI-compatible AI provider.
+2026-11-12T07:00:47.317Z,ZJ12581.qoder-sidebar-local,ZJ12581,Qoder Agent (Unofficial),0.11.2,An independent VS Code sidebar for the Qoder CLI.
+2026-11-12T07:03:42.437Z,local-team-tools.agent-context-bridge,local-team-tools,Agent Context Bridge,0.1.6,"Copy selected code or text with project, file path, and line range for Codex, Claude, DeepSeek, and other AI agents."
+2026-11-12T07:12:48.823Z,Jsoftgem.siglo-workflows,Jsoftgem,Siglo Workflows,1.2.3,Interactive workflow graph visualization and diagnostics for Siglo workflows.
