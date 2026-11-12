@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T03:11:08.033Z,liyujiang.ai-cli-workspace,liyujiang,CLI Agents,0.1.168,"Resume and continue native Codex, Claude Code and OpenCode sessions from VS Code over Remote-SSH."
+2026-11-12T03:26:24.803Z,opensoyce.opensoyce,opensoyce,OpenSoyce,0.3.1,OpenSoyce — deterministic doctrine + LLM code review inside VS Code
+2026-11-12T03:28:51.32Z,rky25.apex-test-studio,rky25,Apex Test Studio — AI Test Generator for Salesforce,1.0.0,"Autonomous AI-powered Apex unit test class generator for Salesforce. Synthesizes 85%+ coverage tests with live org metadata, mock generation, and governor limit bulkification."
+2026-11-12T03:29:27.683Z,larryz7.builtin-markdown-preview-toc,larryz7,TOC for Built-in Markdown Preview,0.2.1,"Adds a table of contents sidebar to the left of the built-in Markdown preview, plus a fullscreen button for Mermaid diagrams, keeping all other built-in features."
+2026-11-12T03:49:11.017Z,Jchou24.vscode-jctk-diff-style,Jchou24,jctk diff style,0.2.0,"Borders around the changed characters in the diff view, with a live settings panel for backgrounds, borders, comment color and line number colors; keep several presets and switch in one click"
+2026-11-12T03:55:20.15Z,swq123459.hyper-model-provider,swq123459,Hyper Model Provider,0.1.4,Bring a self-hosted model gateway into GitHub Copilot Chat as a model provider.
+2026-11-12T04:00:43.243Z,gobinath.java-index,gobinath,Java Index,0.1.3,"Fast, lightweight Java navigation built on Google's turbine header compiler: a fraction of the memory and CPU of a full Java language server, with one shared index across every worktree. Links Spring Boot and Quarkus config keys to the Java that reads them."
+2026-11-12T04:01:59.71Z,nuhmanpk.multiverse-theme,nuhmanpk,Multiverse Theme,0.0.1,"93 color themes, 21 file-icon styles and 93 mascots in one: color-blind-safe, focus, night-shift and stage modes; hero, anime, cartoon, retro, art and neon looks. 325 file types. Live-preview pickers, random/daily/scheduled switching, contrast-checked."
+2026-11-12T04:02:15.877Z,TianyaSKY.tianya-coderef,TianyaSKY,Tianya CodeRef,0.1.1,复制光标行的代码引用，以及该行的红色错误。
+2026-11-12T04:08:30.93Z,eury.eury-vscode,eury,Eury,0.0.1,"Eury coding agent for VS Code: chat, reviewed file edits, commit messages and terminals."

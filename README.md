@@ -12,23 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 03:21 UTC
+## Latest list — 2026-11-12 04:19 UTC
 
-New extensions published between 2026-11-12 01:21 UTC and 2026-11-12 03:21 UTC.
+New extensions published between 2026-11-12 02:19 UTC and 2026-11-12 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T03-21-08-733712Z.csv)
+[Full CSV](data/new-extensions-2026-11-12T04-19-55-424506Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 02:15:50 | [lfcontato.sqlite-explorer-local](https://marketplace.visualstudio.com/items?itemName=lfcontato.sqlite-explorer-local) | LF SQLite Explorer | 0.3.1 | Browse and edit SQLite tables with undo/redo, paged results, SQL JOINs and CSV/… |
-| 2026-11-12 02:29:02 | [Fast-compose.fast-compose-preview](https://marketplace.visualstudio.com/items?itemName=Fast-compose.fast-compose-preview) | Fast Compose Preview | 0.2.0 | Instant Jetpack Compose previews in VS Code. No compiler, no build, no waiting. |
-| 2026-11-12 02:46:30 | [easelian.remote-device-hub](https://marketplace.visualstudio.com/items?itemName=easelian.remote-device-hub) | Remote Device Hub | 0.0.27 | Use Copilot Chat or MCP in VS Code to access files and run permitted commands o… |
-| 2026-11-12 02:47:09 | [fahrizaall.nestjs-routes-explorer](https://marketplace.visualstudio.com/items?itemName=fahrizaall.nestjs-routes-explorer) | NestJS Routes Explorer | 0.1.0 | Browse, search and jump to every HTTP route in your NestJS app, right from the… |
-| 2026-11-12 02:47:28 | [ganeshkumar.pypython](https://marketplace.visualstudio.com/items?itemName=ganeshkumar.pypython) | pittypython | 1.0.1 | Offline Python practical code replacer that automatically transforms practical… |
-| 2026-11-12 02:58:02 | [gykjw.xdc-pinmap-converter](https://marketplace.visualstudio.com/items?itemName=gykjw.xdc-pinmap-converter) | 国产50T → 进口50T XDC 约束自动转换 | 0.4.1 | 按原理图国产 JFMK50T 管脚写好 XDC，一键同步成 Vivado / XC7A50T 能用的管脚约束。装好即用，内置 50T 映射表，不用导入、不用配… |
-| 2026-11-12 03:10:14 | [liyujiang.cli-agents-window](https://marketplace.visualstudio.com/items?itemName=liyujiang.cli-agents-window) | CLI Agents Window | 0.1.39 | Connect native CLI sessions to the official VS Code Agents Window. |
-| 2026-11-12 03:11:02 | [wangzhibo.upload-to-asset](https://marketplace.visualstudio.com/items?itemName=wangzhibo.upload-to-asset) | Upload to Asset | 1.0.0 | 右键文件或文件夹，选择数据集或模型，把内容上传到平台资产对应的存储目录。 |
-| 2026-11-12 03:14:37 | [zycode.zycode](https://marketplace.visualstudio.com/items?itemName=zycode.zycode) | zycode | 0.1.0 | Chat with the zycode coding agent in VS Code. Unofficial; not affiliated with p… |
+| 2026-11-12 03:11:08 | [liyujiang.ai-cli-workspace](https://marketplace.visualstudio.com/items?itemName=liyujiang.ai-cli-workspace) | CLI Agents | 0.1.168 | Resume and continue native Codex, Claude Code and OpenCode sessions from VS Cod… |
+| 2026-11-12 03:26:24 | [opensoyce.opensoyce](https://marketplace.visualstudio.com/items?itemName=opensoyce.opensoyce) | OpenSoyce | 0.3.1 | OpenSoyce — deterministic doctrine + LLM code review inside VS Code |
+| 2026-11-12 03:28:51 | [rky25.apex-test-studio](https://marketplace.visualstudio.com/items?itemName=rky25.apex-test-studio) | Apex Test Studio — AI Test Generator fo… | 1.0.0 | Autonomous AI-powered Apex unit test class generator for Salesforce. Synthesize… |
+| 2026-11-12 03:29:27 | [larryz7.builtin-markdown-preview-toc](https://marketplace.visualstudio.com/items?itemName=larryz7.builtin-markdown-preview-toc) | TOC for Built-in Markdown Preview | 0.2.1 | Adds a table of contents sidebar to the left of the built-in Markdown preview,… |
+| 2026-11-12 03:49:11 | [Jchou24.vscode-jctk-diff-style](https://marketplace.visualstudio.com/items?itemName=Jchou24.vscode-jctk-diff-style) | jctk diff style | 0.2.0 | Borders around the changed characters in the diff view, with a live settings pa… |
+| 2026-11-12 03:55:20 | [swq123459.hyper-model-provider](https://marketplace.visualstudio.com/items?itemName=swq123459.hyper-model-provider) | Hyper Model Provider | 0.1.4 | Bring a self-hosted model gateway into GitHub Copilot Chat as a model provider. |
+| 2026-11-12 04:00:43 | [gobinath.java-index](https://marketplace.visualstudio.com/items?itemName=gobinath.java-index) | Java Index | 0.1.3 | Fast, lightweight Java navigation built on Google's turbine header compiler: a… |
+| 2026-11-12 04:01:59 | [nuhmanpk.multiverse-theme](https://marketplace.visualstudio.com/items?itemName=nuhmanpk.multiverse-theme) | Multiverse Theme | 0.0.1 | 93 color themes, 21 file-icon styles and 93 mascots in one: color-blind-safe, f… |
+| 2026-11-12 04:02:15 | [TianyaSKY.tianya-coderef](https://marketplace.visualstudio.com/items?itemName=TianyaSKY.tianya-coderef) | Tianya CodeRef | 0.1.1 | 复制光标行的代码引用，以及该行的红色错误。 |
+| 2026-11-12 04:08:30 | [eury.eury-vscode](https://marketplace.visualstudio.com/items?itemName=eury.eury-vscode) | Eury | 0.0.1 | Eury coding agent for VS Code: chat, reviewed file edits, commit messages and t… |
 
 ## Data source
 
