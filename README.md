@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 11:20 UTC
+## Latest list — 2026-11-13 12:20 UTC
 
-New extensions published between 2026-11-13 09:20 UTC and 2026-11-13 11:20 UTC.
+New extensions published between 2026-11-13 10:20 UTC and 2026-11-13 12:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T11-20-18-732131Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T12-20-47-132786Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 10:15:35 | [CarrierOs.carrieros-agent](https://marketplace.visualstudio.com/items?itemName=CarrierOs.carrieros-agent) | Carrier OS Agent | 0.2.0 | The Carrier OS coding agent in VS Code: investigate, plan, review exact diffs,… |
-| 2026-11-13 10:46:50 | [HuyTRAN-Lab.itasca-mesh-viewer](https://marketplace.visualstudio.com/items?itemName=HuyTRAN-Lab.itasca-mesh-viewer) | Itasca Mesh Viewer | 1.0.0 | Interactive VTK.js viewer for Itasca FLAC3D/FLAC2D/3DEC grids (.f3grid, .f2grid… |
-| 2026-11-13 11:07:26 | [shoshindev.drizzle-marker](https://marketplace.visualstudio.com/items?itemName=shoshindev.drizzle-marker) | Drizzle Marker | 0.0.1 | Marks the names Drizzle ORM fixes, like pgTable, where and onDelete, so you can… |
+| 2026-11-13 11:25:26 | [ElLoko.phosphor-breach](https://marketplace.visualstudio.com/items?itemName=ElLoko.phosphor-breach) | Phosphor Breach | 3.2.1 | Six movie-hacker themes, each with its own layout, icons, cursor, typing effect… |
+| 2026-11-13 11:33:56 | [accl-kaust.phitex](https://marketplace.visualstudio.com/items?itemName=accl-kaust.phitex) | PhiTeX ⚡ Instant LaTeX Preview | 1.0.1 | Instant LaTeX preview: pages update as you type, typeset by PhiTeX in VS Code i… |
+| 2026-11-13 11:34:25 | [SmallStepsStudio.edi-lens-viewer](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.edi-lens-viewer) | EDI Lens - EDIFACT, X12 and HL7 Viewer | 0.2.1 | Read, validate, compare, query, anonymise and split UN/EDIFACT, ANSI X12 and HL… |
+| 2026-11-13 11:49:09 | [R0DR160HM.hive-lang](https://marketplace.visualstudio.com/items?itemName=R0DR160HM.hive-lang) | Hive Language | 0.2.0 | The Hive programming language. |
+| 2026-11-13 12:00:16 | [nikahai.wharfsync](https://marketplace.visualstudio.com/items?itemName=nikahai.wharfsync) | Wharfsync: SFTP upload on save, works o… | 1.0.0 | SFTP/FTP/FTPS upload on save and sync for VS Code, Cursor and VSCodium. No "isD… |
 
 ## Data source
 

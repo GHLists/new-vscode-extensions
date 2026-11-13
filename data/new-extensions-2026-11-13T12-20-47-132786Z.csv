@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T11:25:26.333Z,ElLoko.phosphor-breach,ElLoko,Phosphor Breach,3.2.1,"Six movie-hacker themes, each with its own layout, icons, cursor, typing effect, file-open reveal and animated HUD."
+2026-11-13T11:33:56.5Z,accl-kaust.phitex,accl-kaust,PhiTeX ⚡ Instant LaTeX Preview,1.0.1,"Instant LaTeX preview: pages update as you type, typeset by PhiTeX in VS Code itself."
+2026-11-13T11:34:25.38Z,SmallStepsStudio.edi-lens-viewer,SmallStepsStudio,"EDI Lens - EDIFACT, X12 and HL7 Viewer",0.2.1,"Read, validate, compare, query, anonymise and split UN/EDIFACT, ANSI X12 and HL7 v2 messages. Free features plus a 14-day trial of Pro; works offline, only the Pro licence check uses the network."
+2026-11-13T11:49:09.96Z,R0DR160HM.hive-lang,R0DR160HM,Hive Language,0.2.0,The Hive programming language.
+2026-11-13T12:00:16.23Z,nikahai.wharfsync,nikahai,"Wharfsync: SFTP upload on save, works on new VS Code",1.0.0,"SFTP/FTP/FTPS upload on save and sync for VS Code, Cursor and VSCodium. No ""isDate is not a function"" crash. Reads your existing .vscode/sftp.json and keeps passwords in the OS keychain."
