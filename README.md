@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 09:21 UTC
+## Latest list — 2026-11-13 10:20 UTC
 
-New extensions published between 2026-11-13 07:21 UTC and 2026-11-13 09:21 UTC.
+New extensions published between 2026-11-13 08:20 UTC and 2026-11-13 10:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T09-21-48-528822Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T10-20-46-631688Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 08:16:16 | [baibolintsika.baibolintsika-verse](https://marketplace.visualstudio.com/items?itemName=baibolintsika.baibolintsika-verse) | BaibolintsikaVerse | 0.2.2 | Bible MDG, KJF et KJV, KJV CCDB, Interlinéaire, Péricope, Parole du jour, Hymne… |
-| 2026-11-13 08:33:29 | [kilocode.kilo-code-v2](https://marketplace.visualstudio.com/items?itemName=kilocode.kilo-code-v2) | Kilo Code (v2 preview) | 0.1.104 | Kilo Code on the Kilo v2 server |
-| 2026-11-13 08:46:49 | [ShaikMohammadMujeeb.postgres-query-anonymizer](https://marketplace.visualstudio.com/items?itemName=ShaikMohammadMujeeb.postgres-query-anonymizer) | Postgres Query Anonymizer | 1.0.0 | Mask the customer data in a PostgreSQL query or EXPLAIN plan before you share i… |
-| 2026-11-13 08:50:18 | [wangbin6957.api-client-tools](https://marketplace.visualstudio.com/items?itemName=wangbin6957.api-client-tools) | API Client · 接口管理 | 1.0.8 | 类 Apifox 的 HTTP 接口调试工具：环境 Host 配置、自动化测试、临时用例、Mock 数据、一键导出并导入 Postman / Apifox |
-| 2026-11-13 08:57:45 | [zovo.zovo-excel-to-markdown](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-excel-to-markdown) | Excel to Markdown: Paste & CSV | 0.1.2 | Excel to Markdown table converter: paste cells copied from Excel, Google Sheets… |
-| 2026-11-13 09:07:33 | [star-lang.heaven-programming-language](https://marketplace.visualstudio.com/items?itemName=star-lang.heaven-programming-language) | Heaven (Haven) Programming Language | 2.0.0 | Official Visual Studio Code extension for Heaven & Haven: natural-English synta… |
-| 2026-11-13 09:13:14 | [nodeviz.nodeviz](https://marketplace.visualstudio.com/items?itemName=nodeviz.nodeviz) | NodeViz | 0.3.0 | A visual canvas for dbt projects: see how your models connect, and sketch new o… |
+| 2026-11-13 09:18:59 | [tiny-earth-moon.outskirts](https://marketplace.visualstudio.com/items?itemName=tiny-earth-moon.outskirts) | outskirts | 0.1.0 | Finds unused Swift code with outskirts: results in a side bar and the Problems… |
+| 2026-11-13 09:25:18 | [luiscantero.branch-reaper](https://marketplace.visualstudio.com/items?itemName=luiscantero.branch-reaper) | Branch Reaper | 0.1.0 | Delete a git branch and all of its worktrees in one click, even locked, dirty o… |
+| 2026-11-13 09:38:13 | [SortaGameDev.mermaid-tree](https://marketplace.visualstudio.com/items?itemName=SortaGameDev.mermaid-tree) | Mermaid Tree | 0.7.0 | Structure tree and live preview for Mermaid diagrams: hide, show and collapse p… |
+| 2026-11-13 09:43:43 | [lighthouse2815.codex-csharp-editor](https://marketplace.visualstudio.com/items?itemName=lighthouse2815.codex-csharp-editor) | Codex C# Editor | 0.1.3 | Chat với Codex trong một tài liệu C# riêng. |
+| 2026-11-13 09:44:35 | [tarasbondaruk.dendro](https://marketplace.visualstudio.com/items?itemName=tarasbondaruk.dendro) | Dendro | 0.12.1 | Reads your git tree like tree rings: commit graph, pull / push, the changes and… |
+| 2026-11-13 10:00:00 | [mrDev.coding-report-card](https://marketplace.visualstudio.com/items?itemName=mrDev.coding-report-card) | Code Time & Workspace Tracker | 0.0.1 | Track coding time, daily activity, file edits, and workspace metrics with an in… |
+| 2026-11-13 10:04:53 | [litol-ai.litol-ai](https://marketplace.visualstudio.com/items?itemName=litol-ai.litol-ai) | Litol AI | 0.1.0 | Autonomous AI coding agent for Visual Studio Code, powered by Litol AI Gateway. |
 
 ## Data source
 

@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T09:18:59.747Z,tiny-earth-moon.outskirts,tiny-earth-moon,outskirts,0.1.0,"Finds unused Swift code with outskirts: results in a side bar and the Problems panel, per project, with a hand-off to a coding agent."
+2026-11-13T09:25:18.943Z,luiscantero.branch-reaper,luiscantero,Branch Reaper,0.1.0,"Delete a git branch and all of its worktrees in one click, even locked, dirty or open ones. Bulk clean-up of merged and squash-merged branches."
+2026-11-13T09:38:13.58Z,SortaGameDev.mermaid-tree,SortaGameDev,Mermaid Tree,0.7.0,"Structure tree and live preview for Mermaid diagrams: hide, show and collapse parts of flowcharts, state, sequence and class diagrams."
+2026-11-13T09:43:43.433Z,lighthouse2815.codex-csharp-editor,lighthouse2815,Codex C# Editor,0.1.3,Chat với Codex trong một tài liệu C# riêng.
+2026-11-13T09:44:35.34Z,tarasbondaruk.dendro,tarasbondaruk,Dendro,0.12.1,"Reads your git tree like tree rings: commit graph, pull / push, the changes and files of every commit."
+2026-11-13T10:00:00.807Z,mrDev.coding-report-card,mrDev,Code Time & Workspace Tracker,0.0.1,"Track coding time, daily activity, file edits, and workspace metrics with an interactive dashboard."
+2026-11-13T10:04:53.893Z,litol-ai.litol-ai,litol-ai,Litol AI,0.1.0,"Autonomous AI coding agent for Visual Studio Code, powered by Litol AI Gateway."
