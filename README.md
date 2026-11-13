@@ -12,21 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 02:21 UTC
+## Latest list — 2026-11-13 03:21 UTC
 
-New extensions published between 2026-11-13 00:21 UTC and 2026-11-13 02:21 UTC.
+New extensions published between 2026-11-13 01:21 UTC and 2026-11-13 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T02-21-48-372248Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T03-21-41-683034Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 01:17:02 | [framecode.cf-cfscript-docblock-hover](https://marketplace.visualstudio.com/items?itemName=framecode.cf-cfscript-docblock-hover) | ColdFusion CFScript DocBlock Hover | 1.0.0 | Shows the docblock documentation (/** ... */) of CFScript functions on hover, i… |
-| 2026-11-13 01:17:26 | [gohawk.gohawk](https://marketplace.visualstudio.com/items?itemName=gohawk.gohawk) | gohawk | 0.8.0 | Precise resource-leak and concurrency findings for Go, with the evidence path. |
-| 2026-11-13 01:18:58 | [ai-team-local.ai-team](https://marketplace.visualstudio.com/items?itemName=ai-team-local.ai-team) | AI-Team | 0.1.0 | A board of 3D heads that shows what your local Claude Code, Codex CLI and GitHu… |
-| 2026-11-13 01:36:38 | [orynova-ai.trinity-pure](https://marketplace.visualstudio.com/items?itemName=orynova-ai.trinity-pure) | ✪ 三合一原生中文母舰 | 9.1.1 | 把工厂并发舱、反重力五个版本、2048 教学库和谷歌 IDE 五个版本镶进编辑器原生界面 |
-| 2026-11-13 01:39:22 | [orynova-ai.factory-native-fusion](https://marketplace.visualstudio.com/items?itemName=orynova-ai.factory-native-fusion) | 🌌 Factory × 2048教学库 原生内舱 | 1.0.0 |  |
-| 2026-11-13 02:11:51 | [taylor12138.codex-skill-statistics](https://marketplace.visualstudio.com/items?itemName=taylor12138.codex-skill-statistics) | Codex Skill Statistics | 0.1.0 | Local Codex skill usage counts, last-used timestamps, and a live dashboard. 本地技… |
-| 2026-11-13 02:14:32 | [notyourboy-zjp.daily-earnings](https://marketplace.visualstudio.com/items?itemName=notyourboy-zjp.daily-earnings) | 今日已赚 | 1.0.0 | 查看今天赚了多少钱：月薪、休息制度、法定节假日、午休、打卡结算、弹性工作制、加班费（倍率/固定时薪/每次固定）与特殊补贴，状态栏实时显示今日金额。 |
+| 2026-11-13 02:43:08 | [Conn3x.conn3x](https://marketplace.visualstudio.com/items?itemName=Conn3x.conn3x) | Conn3x | 0.1.0 | Syntax highlighting and step snippets for Conn3x circuit files (.circuit.hcl). |
+| 2026-11-13 02:47:40 | [pipihua.open-git-scope](https://marketplace.visualstudio.com/items?itemName=pipihua.open-git-scope) | Open Git Scope | 0.1.0 | Explore commit history, inspect file changes, and jump between branches and fol… |
+| 2026-11-13 03:04:33 | [YSTools.diff-page-opener](https://marketplace.visualstudio.com/items?itemName=YSTools.diff-page-opener) | Diff Page Opener | 0.2.0 | Opens diff approval pages in the VS Code Integrated Browser and applies a page… |
 
 ## Data source
 

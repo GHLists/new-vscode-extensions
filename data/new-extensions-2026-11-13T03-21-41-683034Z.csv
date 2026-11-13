@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T02:43:08.623Z,Conn3x.conn3x,Conn3x,Conn3x,0.1.0,Syntax highlighting and step snippets for Conn3x circuit files (.circuit.hcl).
+2026-11-13T02:47:40.817Z,pipihua.open-git-scope,pipihua,Open Git Scope,0.1.0,"Explore commit history, inspect file changes, and jump between branches and folders with a local-first Git toolkit."
+2026-11-13T03:04:33.093Z,YSTools.diff-page-opener,YSTools,Diff Page Opener,0.2.0,Opens diff approval pages in the VS Code Integrated Browser and applies a page design interpreted from a DESIGN.md.
