@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 18:19 UTC
+## Latest list — 2026-11-13 19:19 UTC
 
-New extensions published between 2026-11-13 16:19 UTC and 2026-11-13 18:19 UTC.
+New extensions published between 2026-11-13 17:19 UTC and 2026-11-13 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T18-19-49-983409Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T19-19-32-618412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 17:18:16 | [GabrielLimaDeAlbuquerque.vectra-language](https://marketplace.visualstudio.com/items?itemName=GabrielLimaDeAlbuquerque.vectra-language) | VECTRA Language Support | 0.0.2 | Suporte à linguagem VECTRA no Visual Studio Code. |
-| 2026-11-13 17:22:16 | [lauterbach.trace32-pack](https://marketplace.visualstudio.com/items?itemName=lauterbach.trace32-pack) | TRACE32® PACK | 0.1.0 | TRACE32® Extension Pack for Visual Studio Code |
-| 2026-11-13 17:32:20 | [ALOHADAWN.sync-fork](https://marketplace.visualstudio.com/items?itemName=ALOHADAWN.sync-fork) | Sync Fork | 0.2.2 | Sync your fork on GitHub with one click, directly from VS Code. |
-| 2026-11-13 17:37:05 | [AntoinePERRIN.slidepix-deck](https://marketplace.visualstudio.com/items?itemName=AntoinePERRIN.slidepix-deck) | SlidePix Deck | 0.1.0 | A Git-friendly visual presentation editor for VS Code, Cursor and Forks. |
-| 2026-11-13 17:48:23 | [benext.lexitanon](https://marketplace.visualstudio.com/items?itemName=benext.lexitanon) | LexITanon - Pseudonymisation Tool | 0.3.2 | Pseudonymise or redact PDF and text files with your own LexITanon (Desktop or S… |
+| 2026-11-13 18:41:49 | [elambert.dbt-prism](https://marketplace.visualstudio.com/items?itemName=elambert.dbt-prism) | dbt Prism | 1.0.0 | Semantic SQL & dbt autocompletion, rich column metadata badges, and Go-to-Defin… |
+| 2026-11-13 18:45:18 | [honestarchitector.nomos](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos) | Nomos | 0.1.2 | Statistics and observations about code from Nomos analyzers. Findings are heuri… |
+| 2026-11-13 18:46:23 | [honestarchitector.nomos-csharp](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-csharp) | Nomos: C# | 0.1.2 | C# analyzer for Nomos: statistics and heuristic observations, without verdicts. |
+| 2026-11-13 18:46:35 | [honestarchitector.nomos-java](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-java) | Nomos: Java | 0.1.2 | Java analyzer for Nomos: statistics and heuristic observations, without verdict… |
+| 2026-11-13 18:46:58 | [honestarchitector.nomos-kotlin](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-kotlin) | Nomos: Kotlin | 0.1.2 | Kotlin analyzer for Nomos: statistics and heuristic observations, without verdi… |
+| 2026-11-13 18:47:23 | [honestarchitector.nomos-python](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-python) | Nomos: Python | 0.1.2 | Python analyzer for Nomos: statistics and heuristic observations, without verdi… |
+| 2026-11-13 18:47:35 | [honestarchitector.nomos-ruby](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-ruby) | Nomos: Ruby | 0.1.2 | Ruby analyzer for Nomos: statistics and heuristic observations, without verdict… |
+| 2026-11-13 18:47:48 | [honestarchitector.nomos-typescript](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-typescript) | Nomos: TypeScript and JavaScript | 0.1.2 | TypeScript and JavaScript analyzer for Nomos: statistics and heuristic observat… |
+| 2026-11-13 18:53:46 | [ArthurSudbrackIbarra.reading-room](https://marketplace.visualstudio.com/items?itemName=ArthurSudbrackIbarra.reading-room) | Reading Room | 0.12.0 | A quiet place to read and study inside VS Code. Open PDF, Markdown and text fil… |
 
 ## Data source
 

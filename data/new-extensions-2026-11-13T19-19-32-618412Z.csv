@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T18:41:49.18Z,elambert.dbt-prism,elambert,dbt Prism,1.0.0,"Semantic SQL & dbt autocompletion, rich column metadata badges, and Go-to-Definition across CTEs and models."
+2026-11-13T18:45:18.907Z,honestarchitector.nomos,honestarchitector,Nomos,0.1.2,"Statistics and observations about code from Nomos analyzers. Findings are heuristics, not verdicts."
+2026-11-13T18:46:23.43Z,honestarchitector.nomos-csharp,honestarchitector,Nomos: C#,0.1.2,"C# analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:46:35.757Z,honestarchitector.nomos-java,honestarchitector,Nomos: Java,0.1.2,"Java analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:46:58.787Z,honestarchitector.nomos-kotlin,honestarchitector,Nomos: Kotlin,0.1.2,"Kotlin analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:47:23.91Z,honestarchitector.nomos-python,honestarchitector,Nomos: Python,0.1.2,"Python analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:47:35.277Z,honestarchitector.nomos-ruby,honestarchitector,Nomos: Ruby,0.1.2,"Ruby analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:47:48.52Z,honestarchitector.nomos-typescript,honestarchitector,Nomos: TypeScript and JavaScript,0.1.2,"TypeScript and JavaScript analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-13T18:53:46.487Z,ArthurSudbrackIbarra.reading-room,ArthurSudbrackIbarra,Reading Room,0.12.0,"A quiet place to read and study inside VS Code. Open PDF, Markdown and text files as pages, highlight them, write notes, draw and type on them, keep your place, play rain or a fireplace while you read, and download it all as a PDF."
