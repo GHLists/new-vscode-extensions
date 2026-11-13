@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T14:31:13.54Z,slidepixx.slidepixx,slidepixx,SlidePix Deck Editor,0.1.0,A Git-friendly visual presentation editor for VS Code and Cursor.
+2026-11-13T14:36:17.273Z,ken-jo.file-lens,ken-jo,File Lens,3.3.5,"File size, type, timestamps and path in the status bar and file details"
+2026-11-13T14:37:31.07Z,alecgibson.vue-syntax,alecgibson,Vue Syntax (Restricted Mode),3.3.14,"Syntax highlighting for .vue files in Restricted Mode, using the grammar from Vue (Official)."
+2026-11-13T14:59:03.573Z,adoc-diff.asciidoc-vscode-diff,adoc-diff,AsciiDoc Diff,1.0.0,Fork of the AsciiDoc extension for VS Code that adds a side-by-side comparison of rendered documents.
