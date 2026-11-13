@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T13:22:20.937Z,lighthouse2815.opencode-csharp-editor,lighthouse2815,OpenCode C# Editor,0.1.1,Chat với OpenCode trong một tài liệu C# riêng. Tác giả: lighthouse2815.
+2026-11-13T13:31:21.157Z,HaidarEsber.nowplaying-pc,HaidarEsber,Now Playing Lyrics Player,0.1.1,"Shows what is playing on your PC (Spotify, browsers, Apple Music...) in VS Code: status bar, synced lyrics, a good-looking player panel and playback controls."
+2026-11-13T13:36:19.287Z,sasivarnan.redirects-toolkit,sasivarnan,Redirects Toolkit for Netlify and Cloudflare,0.1.1,"Syntax highlighting, column formatting, and validation for Netlify and Cloudflare Pages _redirects files."
+2026-11-13T13:48:59.433Z,lighthouse2815.codex-typescript-editor,lighthouse2815,Codex TypeScript Editor,0.1.2,Chat với Codex trong một tài liệu TypeScript riêng. Tác giả: lighthouse2815.
+2026-11-13T13:52:47.723Z,zhuuchaofan.rdw-viewer,zhuuchaofan,RDW Viewer,0.3.1,RDW（前後 4 バイト・リトルエンディアン）付き可変長レコードファイルのビューアー。COBOL の COPY句による項目表示、COMP-3 のデコードに対応
+2026-11-13T13:53:55.49Z,rezbouchabou.sqliter,rezbouchabou,SQLiter,0.1.0,Browse and edit SQLite databases in Visual Studio Code.
+2026-11-13T13:57:28.227Z,scigantic.scigantic-mount,scigantic,Scigantic,0.1.12,Search the Scigantic catalog and mount public research datasets as local folders.
+2026-11-13T14:06:16.417Z,mercurial.google-slides-mcp,mercurial,Google Slides MCP,26.11.14,"Google Slides MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:06:19.4Z,mercurial.firebase-mcp,mercurial,Firebase MCP,26.11.14,"Firebase MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:06:22.037Z,mercurial.google-tag-manager-mcp,mercurial,Google Tag Manager MCP,26.11.14,"Google Tag Manager MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:06:24.747Z,mercurial.google-tasks-mcp,mercurial,Google Tasks MCP,26.11.14,"Google Tasks MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:14:45.217Z,mercurial.google-chat-mcp,mercurial,Google Chat MCP,26.11.14,"Google Chat MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:14:47.86Z,mercurial.google-forms-mcp,mercurial,Google Forms MCP,26.11.14,"Google Forms MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:14:51.217Z,mercurial.google-business-profile-mcp,mercurial,Google Business Profile MCP,26.11.14,"Google Business Profile MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-13T14:18:21.423Z,BDarshan1052.vscode-intellerror,BDarshan1052,IntellError,0.1.0,"Production-grade error intelligence, interactive stack traces, and actionable diagnostics for VS Code."
