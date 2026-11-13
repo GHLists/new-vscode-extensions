@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T15:21:06.793Z,pavlyshyn.vertepnyk-vscode,pavlyshyn,Vertepnyk,0.1.0,Visual designer and simulator for vertep SCXML and YAML statecharts
+2026-11-13T15:22:42.227Z,dru.dru,dru,DRU,0.1.0,"DataRoot University courses in VS Code: labs, graded submits, progress and deadlines."
+2026-11-13T15:23:25.773Z,ShunsukeF.inazuma-pwsh,ShunsukeF,InazumaPwsh,0.2.0,Persistent PowerShell sessions and structured .NET and Playwright diagnostics for AI coding in VS Code on Windows x64.
+2026-11-13T15:30:51.567Z,xenon-54.xenon-z54,xenon-54,Xenon-z54,0.1.8,"Syntax highlighting, folding, and print output for Xenon files."
+2026-11-13T15:46:03.23Z,idfkit.idfkit-lsp,idfkit,idfkit Language Support,0.5.1,"Completion, hover and signature help for Python code that uses idfkit (requires the idfkit-lsp Python package), plus semantic highlighting, diagnostics, completion, hover and go-to-definition for EnergyPlus IDF files."
+2026-11-13T15:57:23.17Z,yasnora.wicscode-vscode,yasnora,Yasnora Code,2.1.0,"Yasnora Code for local folders and connected GitHub projects, with Yasnora account sign-in."
+2026-11-13T15:58:01.577Z,vishwakulkarni.tidyagents,vishwakulkarni,tidyagents,0.3.0,"Lint and score AI agent instruction files (AGENTS.md, CLAUDE.md, .cursorrules, SKILL.md and more) as you edit."
+2026-11-13T16:07:28.043Z,pierreyvesdelion.rust-generator,pierreyvesdelion,Rust Generator,0.1.0,"Create Rust files, structs, enums, traits, modules and build scripts from the explorer context menu."
+2026-11-13T16:14:58.627Z,LWilhelmer.local-preview,LWilhelmer,Local Preview,0.3.0,"Preview local web files in VS Code, without manually typing the local server URL into a browser."
+2026-11-13T16:17:46.7Z,zhengdifei.env-vault,zhengdifei,Env Vault,0.1.0,"Switch between .env files with automatic backup, and generate secret-masked copies for safe sharing."
