@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T19:22:50.503Z,groovyfmt.groovyfmt,groovyfmt,groovyfmt,0.13.1,"Format and lint Groovy, Gradle build scripts and Jenkinsfiles with groovyfmt"
+2026-11-13T19:23:58.113Z,sadikahasan6.norsa,sadikahasan6,Norsa,0.0.1,Norsa language support for VS Code.
+2026-11-13T19:31:48.387Z,steelesh.sotto,steelesh,Sotto,0.1.0,a quiet dark theme in muted pastels.
+2026-11-13T19:32:32.547Z,axeljaeger.angular-i18n-tools-vscode,axeljaeger,Angular i18n Tools,0.0.9,VS Code tooling for Angular built-in localization IDs.
+2026-11-13T19:32:50.84Z,usio.very-familiar-green-light-theme,usio,Familiar green Light Theme,0.0.2,A light theme for people who don't want to leave the familiar look of their favorite website.
+2026-11-13T19:39:36.217Z,tealkit.tealkit-vscode,tealkit,TealKit Coder,0.1.4,"Autonomous AI Coding Agent powered by TealKit CLI with sub-agents, MCP servers, and full workspace control."
+2026-11-13T19:43:56.63Z,cowana-ai.yamori,cowana-ai,Yamori,0.13.0,"Programming context, made explicit. Read code as friendly, navigable pseudocode in Cursor and VS Code."
+2026-11-13T19:44:37.94Z,AryanBarsaiyan.kibanalocal,AryanBarsaiyan,KibanaLocal,0.4.0,"Kibana-style search, histogram and field explorer for local JSON-lines (LDJSON/NDJSON) log files, with live tailing."
+2026-11-13T19:57:07.007Z,infinittheme.infinit-tem,infinittheme,Infinit Tem,0.0.2,It's a theme with dark colors.
+2026-11-13T19:59:48.21Z,borealstars.opencode-theme,borealstars,OpenCode Peach,0.1.0,OpenCode default dark palette
+2026-11-13T20:12:54.143Z,SunJiahe.xrack,SunJiahe,XRack,0.5.0,"Navigation, semantic highlighting, diagnostics, completions and live XRack preview"
