@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T01:17:02.19Z,framecode.cf-cfscript-docblock-hover,framecode,ColdFusion CFScript DocBlock Hover,1.0.0,"Shows the docblock documentation (/** ... */) of CFScript functions on hover, in .cfc and in <cfscript> blocks of .cfm files"
+2026-11-13T01:17:26.423Z,gohawk.gohawk,gohawk,gohawk,0.8.0,"Precise resource-leak and concurrency findings for Go, with the evidence path."
+2026-11-13T01:18:58.817Z,ai-team-local.ai-team,ai-team-local,AI-Team,0.1.0,"A board of 3D heads that shows what your local Claude Code, Codex CLI and GitHub Copilot Chat sessions are doing. Read-only."
+2026-11-13T01:36:38.973Z,orynova-ai.trinity-pure,orynova-ai,✪ 三合一原生中文母舰,9.1.1,把工厂并发舱、反重力五个版本、2048 教学库和谷歌 IDE 五个版本镶进编辑器原生界面
+2026-11-13T01:39:22.503Z,orynova-ai.factory-native-fusion,orynova-ai,🌌 Factory × 2048教学库 原生内舱,1.0.0,
+2026-11-13T02:11:51.483Z,taylor12138.codex-skill-statistics,taylor12138,Codex Skill Statistics,0.1.0,"Local Codex skill usage counts, last-used timestamps, and a live dashboard. 本地技能使用统计。"
+2026-11-13T02:14:32.037Z,notyourboy-zjp.daily-earnings,notyourboy-zjp,今日已赚,1.0.0,查看今天赚了多少钱：月薪、休息制度、法定节假日、午休、打卡结算、弹性工作制、加班费（倍率/固定时薪/每次固定）与特殊补贴，状态栏实时显示今日金额。
