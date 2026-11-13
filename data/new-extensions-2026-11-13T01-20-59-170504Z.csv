@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T00:34:09.78Z,TJA.hk-vscode,TJA,hk Hooks,0.1.0,"Run hk checks and fixes from the sidebar, with each linter's findings in the Problems panel."
+2026-11-13T00:34:41.47Z,TJA.claude-sidebar-vscode,TJA,Claude Sidebar,0.1.0,"Your Claude Code skills and MCP servers in a sidebar: send a skill to chat, a terminal or a new session, and open a server in MCP Inspector."
+2026-11-13T00:35:46.293Z,TJA.jactionlint-vscode,TJA,jactionlint,0.1.0,"GitHub Actions workflow, action and Dependabot findings in the Problems panel, with quick fixes, powered by the jactionlint CLI."
+2026-11-13T00:36:37.883Z,TJA.jouet-vscode,TJA,jouet,0.1.0,"See which files coding-agent sessions have claimed, and their background jobs, powered by the jouet CLI."
+2026-11-13T00:43:09.673Z,MennoHomanWindigo.spritemate-msx-vscode-plugin,MennoHomanWindigo,MSX SpriteMate,0.1.0,"Design MSX2 V9938 sprites and animations in VS Code. Preview CC color mixing and export C, Z80 assembly, or MSX BASIC DATA."
+2026-11-13T00:50:58.47Z,awalsh128.regex-explain,awalsh128,Regex Explain Lab,1.0.1,"Explain regular expressions in plain English on hover, in many languages, with catastrophic backtracking warnings"
+2026-11-13T01:02:38.82Z,MarkusvanKempen.mcp-server-inspector-auditor,MarkusvanKempen,MCP Server Inspector & Spec Auditor,1.3.0,"Inspect, validate and audit Model Context Protocol (MCP) servers, tool JSONSchemas and spec compliance from inside VS Code."
