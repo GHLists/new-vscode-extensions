@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T05:32:27.603Z,Alijany.ai-usage-alijany,Alijany,Claude & Codex Usage Budget,0.7.3,Shows Claude Code and Codex usage limits and a daily budget in the status bar.
+2026-11-13T06:18:23.4Z,harishraagavkj.docflowai,harishraagavkj,DocFlowAI,0.0.1,AI-powered continuous documentation generator
+2026-11-13T06:23:03.713Z,revington.sightline,revington,Sightline for .NET,0.4.2,"A live, editable map of your .NET solution beside your code: projects, dependency injection, HTTP endpoints, request flows and problems."
+2026-11-13T06:30:57.423Z,orgcw01.memgovern-mcp,orgcw01,MemGovern - Memory Governance MCP,0.1.0,"Local memory governance for AI coding assistants: conflict detection, human-in-the-loop adjudication, and confidence decay. Requires Python 3.10+."
+2026-11-13T06:31:42.09Z,SchemaEvolutionX.schemaevolution-x,SchemaEvolutionX,schemaevolution-x,0.0.1,Database Schema Evolution and Migration Safety
+2026-11-13T06:36:30.8Z,star-lang.star-programming-language,star-lang,Star Programming Language,1.2.0,"Official Visual Studio Code extension for the Star Programming Language. Features rich syntax highlighting, code snippets, real-time diagnostics, Flutter declarative UI preview, interactive REPL, and Android build integration."
+2026-11-13T06:53:57.527Z,HariBI.powerbi-explorer,HariBI,Power BI Explorer,1.3.4,"Developer explorer for Power BI semantic models and reports (PBIP / TMDL / PBIR / PBIX / Fabric) - end-to-end lineage, Power Query, DAX dependency levels, report layout, calculation groups, DAX UDFs, query folding, unused objects, impact analysis, RLS and VertiPaq Analyzer (VPAX)."
+2026-11-13T06:54:14.67Z,rokartur.intl-peek,rokartur,Intl Peek,0.1.1,"Tiny, zero-dependency inline translations, hover, go-to-definition, key completion and missing-key warnings for next-intl and use-intl."
+2026-11-13T06:58:15.88Z,anang77.code-garden,anang77,Pixel Garden - Grow by Code,0.1.0,A pixel-art garden that grows forever as you code.
+2026-11-13T07:04:24.147Z,JoyalJames.gitmerge-vscode,JoyalJames,Git Merge — GitLab & GitHub,4.0.7,Create GitLab merge requests and GitHub pull requests from VS Code
+2026-11-13T07:06:32.02Z,cgXiao.markmap-plus,cgXiao,Markmap Plus,0.4.0,"Markmap mindmap preview for VS Code — an actively maintained fork of markmap-vscode with keyboard shortcuts, node search and more"
+2026-11-13T07:10:37.7Z,anxinwen.anlogic-form-assistant,anxinwen,安路 FA 文档填写助手,0.2.0,"在 Copilot Agent 中按安芯问知识库的原文证据填写 Excel 和 Word 表格, 内置本地 Office 工具与 fill-doc 技能"
