@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T16:20:31.75Z,betalyra.haus,betalyra,Haus,0.1.0,"Highlighting, errors, inferred types on hover, formatting and schema inference for the haus data format"
+2026-11-13T16:39:14.36Z,saka.copane,saka,Copane,0.1.1,"Shares your VS Code window with Claude Code and other MCP agents: its integrated browser tabs and terminals, per window and per agent session, with you able to step in."
+2026-11-13T16:53:48.707Z,KrzysztofWlasiuk.code-navigator-plsql,KrzysztofWlasiuk,Code Navigator (PL/SQL),0.1.0,"Ctrl+Click navigation for Oracle PL/SQL sources (packages, procedures, functions, types, tables...) indexed from workspace folders. Pluggable language adapters."
+2026-11-13T17:04:34.417Z,lauterbach.trace32-debug,lauterbach,TRACE32® Debug,0.1.0,Debugging with TRACE32® in Visual Studio Code.
+2026-11-13T17:11:15.347Z,oidoug.tuck-imports,oidoug,Tuck Imports,1.0.0,"Collapse the import block of JS/TS files to a single `import ⋯` line, like Android Studio."
+2026-11-13T17:16:58.37Z,lauterbach.trace32-ai,lauterbach,TRACE32® AI,0.1.0,"Let AI agents control TRACE32® via MCP, with expert knowledge from the TRACE32® AI Assistant."
