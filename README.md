@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 04:20 UTC
+## Latest list — 2026-11-13 05:20 UTC
 
-New extensions published between 2026-11-13 02:20 UTC and 2026-11-13 04:20 UTC.
+New extensions published between 2026-11-13 03:20 UTC and 2026-11-13 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T04-20-24-041445Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T05-20-53-342402Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 03:33:57 | [hexcavator.hexcavator](https://marketplace.visualstudio.com/items?itemName=hexcavator.hexcavator) | Hexcavator | 0.0.3 | Explore executables, objects, libraries, and WebAssembly modules with their deb… |
-| 2026-11-13 03:41:29 | [epsilon-dev.lanqiao-oj-bridge](https://marketplace.visualstudio.com/items?itemName=epsilon-dev.lanqiao-oj-bridge) | Lanqiao OJ Bridge | 0.3.4 | 蓝桥 OJ 题面导入、CPH 样例、官方在线调试与确认提交 |
-| 2026-11-13 03:42:31 | [luorax.code-evolution-lens](https://marketplace.visualstudio.com/items?itemName=luorax.code-evolution-lens) | code-evolution-lens | 0.3.4 | Explore code rework trends by AI attribution across repositories, directories,… |
-| 2026-11-13 03:48:13 | [moha358.genkou-sheet](https://marketplace.visualstudio.com/items?itemName=moha358.genkou-sheet) | Genkou Sheet - 原稿用紙エディタ | 0.1.0 | 原稿用紙のマス目（緑・赤罫線、縦書き・横書き）に直接タイピングできる小説・文章執筆用VS Code拡張機能。対象フォルダー限定動作、ルビ・禁則処理、文字数・枚… |
-| 2026-11-13 03:52:40 | [ShunsukeF.kioku-search](https://marketplace.visualstudio.com/items?itemName=ShunsukeF.kioku-search) | kioku | 0.3.0 | Long-term memory for AI coding agents: keeps lessons from successes and failure… |
-| 2026-11-13 04:02:53 | [letERfunctionRE.LiveMD](https://marketplace.visualstudio.com/items?itemName=letERfunctionRE.LiveMD) | LiveMD | 0.1.3 | Lightweight live Markdown preview with a draggable snippet bar, math and syntax… |
-| 2026-11-13 04:12:26 | [grupo9-upt-enmascarador.enmascarador-datos](https://marketplace.visualstudio.com/items?itemName=grupo9-upt-enmascarador.enmascarador-datos) | Enmascarador de Datos en BD | 1.0.0 | Detecta columnas sensibles, simula (Dry Run) y enmascara bases SQLite desde VS… |
+| 2026-11-13 04:24:05 | [zovo.zovo-plantuml-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-plantuml-viewer) | PlantUML Viewer & Preview | 0.1.0 | PlantUML viewer and live preview for VS Code, drawn on your computer by the bun… |
+| 2026-11-13 04:25:57 | [zovo.zovo-nginx-config](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-nginx-config) | Nginx Config Formatter & Lint | 0.1.0 | Nginx config formatter and lint for VS Code: correct syntax colours, a formatte… |
+| 2026-11-13 05:05:00 | [noname.clang-extern-rw-map](https://marketplace.visualstudio.com/items?itemName=noname.clang-extern-rw-map) | clang extern rw map | 0.1.0 | Shows, for an extern variable, which files write it and which files read it, as… |
+| 2026-11-13 05:06:29 | [SplaySpace.splayspace](https://marketplace.visualstudio.com/items?itemName=SplaySpace.splayspace) | SplaySpace: Live Collaborative Coding | 1.0.0 | Share projects in VS Code. Edit together, sync files and see where teammates ar… |
+| 2026-11-13 05:08:28 | [casara.biblia](https://marketplace.visualstudio.com/items?itemName=casara.biblia) | Bíblia (biblia-cli) | 0.2.0 | Bible verses in several translations, with the original Hebrew/Greek, Strong's… |
+| 2026-11-13 05:09:24 | [cdm-project-community.cdm-project-tools](https://marketplace.visualstudio.com/items?itemName=cdm-project-community.cdm-project-tools) | CocoVS | 0.8.12 | Coco-de-Mer assembly, local emulation and custom processor projects |
+| 2026-11-13 05:10:27 | [zovo.zovo-sftp](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-sftp) | SFTP & FTP Sync and Upload | 0.1.0 | SFTP and FTP upload for VS Code: upload on save, upload and download files and… |
 
 ## Data source
 
