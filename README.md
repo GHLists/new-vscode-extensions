@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-12 23:20 UTC
+## Latest list — 2026-11-13 00:19 UTC
 
-New extensions published between 2026-11-12 21:20 UTC and 2026-11-12 23:20 UTC.
+New extensions published between 2026-11-12 22:19 UTC and 2026-11-13 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-12T23-20-14-250802Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T00-19-29-6519Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-12 22:23:31 | [deckcheck.deckcheck](https://marketplace.visualstudio.com/items?itemName=deckcheck.deckcheck) | deckcheck | 0.1.0 | Checks keyword decks for LS-DYNA as you edit: dangling references, duplicate id… |
-| 2026-11-12 22:32:00 | [bitno.convert-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.convert-by-bitno) | Convert by Bitno | 0.1.0 | Quick conversions on the selection from one menu: Base64, URL, JWT, JSON and YA… |
-| 2026-11-12 23:01:25 | [MichaelRocksonCoffie.sage-night-theme](https://marketplace.visualstudio.com/items?itemName=MichaelRocksonCoffie.sage-night-theme) | Sage Night | 1.0.0 | A muted dark theme with sage-green keywords, warm strings and soft orange param… |
-| 2026-11-12 23:11:10 | [neucine.vscode-typescript-notebook](https://marketplace.visualstudio.com/items?itemName=neucine.vscode-typescript-notebook) | TypeScript Notebook | 0.0.1 | A focused VS Code notebook frontend for TypeScript runtimes using the Jupyter m… |
+| 2026-11-12 23:45:18 | [thesecondcoming123.gleaner](https://marketplace.visualstudio.com/items?itemName=thesecondcoming123.gleaner) | Gleaner | 0.6.1 | turns errors from commands you run in the terminal into problems and squiggles… |
+| 2026-11-13 00:02:40 | [microfund.markdown-double-click-preview](https://marketplace.visualstudio.com/items?itemName=microfund.markdown-double-click-preview) | Markdown Double Click Preview | 0.6.2 | Double-click to switch between a Markdown file and its preview. The line you cl… |
+| 2026-11-13 00:03:36 | [iserlabs.jindo-box](https://marketplace.visualstudio.com/items?itemName=iserlabs.jindo-box) | Jindo Box | 0.1.5 | Open your Jindo Box in VS Code. |
+| 2026-11-13 00:10:40 | [l1asis.sap-hana-dev-tools](https://marketplace.visualstudio.com/items?itemName=l1asis.sap-hana-dev-tools) | SAP HANA Developer Tools | 0.1.0 | Complete language support for SAP HANA (XS Classic, XS Advanced & HDI). Include… |
 
 ## Data source
 

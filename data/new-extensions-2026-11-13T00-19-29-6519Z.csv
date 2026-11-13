@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-12T23:45:18.003Z,thesecondcoming123.gleaner,thesecondcoming123,Gleaner,0.6.1,turns errors from commands you run in the terminal into problems and squiggles in your code.
+2026-11-13T00:02:40.203Z,microfund.markdown-double-click-preview,microfund,Markdown Double Click Preview,0.6.2,Double-click to switch between a Markdown file and its preview. The line you clicked appears at the top of the other view.
+2026-11-13T00:03:36.16Z,iserlabs.jindo-box,iserlabs,Jindo Box,0.1.5,Open your Jindo Box in VS Code.
+2026-11-13T00:10:40.57Z,l1asis.sap-hana-dev-tools,l1asis,SAP HANA Developer Tools,0.1.0,"Complete language support for SAP HANA (XS Classic, XS Advanced & HDI). Includes syntax highlighting and configurable formatting for SQLScript, CDS, and all HANA repository/design-time artifacts (.hdbtable, .hdbcds, .xsjs, .hdbgrants, and more)."
