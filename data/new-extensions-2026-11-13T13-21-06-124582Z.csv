@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T12:21:53.877Z,hernanijusto.cgmes-cim-ncp-hints,hernanijusto,CGMES CIM & Network Code Assistant,0.1.15,"Completions, hovers and validation for CIM/XML instance files following CGMES 2.4.15, CGMES 3.0 and ENTSO-E network code profiles (NCP) 2.2 and 2.5."
+2026-11-13T12:28:03.327Z,RicardoDevPt.apiview,RicardoDevPt,ApiView,0.2.2,Visualize OpenAPI and AsyncAPI files: all endpoints/channels and their fields.
+2026-11-13T12:56:21.143Z,ofis.tsorm,ofis,TSORM,0.0.3,Language support for TSORM schemas
+2026-11-13T12:58:10.493Z,DevScope.enterprise-integration-toolkit,DevScope,DevScope Integration Toolkit,1.15.0,"Visual Data Mapper, Visual XSD Editor, Visual JSON Schema Editor, Flat File Wizard, Schema Validator (XML/XSD, JSON/JSON Schema), Workflow Diff, XPath Tester, Logic Apps JSON Path Tester and Schema to C# (JSON Schema / XSD) from the Azure Enterprise Integration Toolkit, inside VS Code."
+2026-11-13T12:59:17.57Z,abaper.open-rap-runtime-vscode,abaper,Open RAP Runtime,0.2.0,"Check, generate and run a RAP business object without an SAP system: Open RAP Runtime, OpenUI5 and PGlite are bundled, nothing else to install."
+2026-11-13T13:03:41.917Z,ElLoko.jvm-runner,ElLoko,JVM Runner (Java / Kotlin / Android),0.4.1,"Build and run Java & Kotlin projects (Gradle, Maven, plain sources, Android) with a device picker and an Android Studio style Logcat."

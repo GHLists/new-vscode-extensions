@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 12:20 UTC
+## Latest list — 2026-11-13 13:21 UTC
 
-New extensions published between 2026-11-13 10:20 UTC and 2026-11-13 12:20 UTC.
+New extensions published between 2026-11-13 11:21 UTC and 2026-11-13 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T12-20-47-132786Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T13-21-06-124582Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 11:25:26 | [ElLoko.phosphor-breach](https://marketplace.visualstudio.com/items?itemName=ElLoko.phosphor-breach) | Phosphor Breach | 3.2.1 | Six movie-hacker themes, each with its own layout, icons, cursor, typing effect… |
-| 2026-11-13 11:33:56 | [accl-kaust.phitex](https://marketplace.visualstudio.com/items?itemName=accl-kaust.phitex) | PhiTeX ⚡ Instant LaTeX Preview | 1.0.1 | Instant LaTeX preview: pages update as you type, typeset by PhiTeX in VS Code i… |
-| 2026-11-13 11:34:25 | [SmallStepsStudio.edi-lens-viewer](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.edi-lens-viewer) | EDI Lens - EDIFACT, X12 and HL7 Viewer | 0.2.1 | Read, validate, compare, query, anonymise and split UN/EDIFACT, ANSI X12 and HL… |
-| 2026-11-13 11:49:09 | [R0DR160HM.hive-lang](https://marketplace.visualstudio.com/items?itemName=R0DR160HM.hive-lang) | Hive Language | 0.2.0 | The Hive programming language. |
-| 2026-11-13 12:00:16 | [nikahai.wharfsync](https://marketplace.visualstudio.com/items?itemName=nikahai.wharfsync) | Wharfsync: SFTP upload on save, works o… | 1.0.0 | SFTP/FTP/FTPS upload on save and sync for VS Code, Cursor and VSCodium. No "isD… |
+| 2026-11-13 12:21:53 | [hernanijusto.cgmes-cim-ncp-hints](https://marketplace.visualstudio.com/items?itemName=hernanijusto.cgmes-cim-ncp-hints) | CGMES CIM & Network Code Assistant | 0.1.15 | Completions, hovers and validation for CIM/XML instance files following CGMES 2… |
+| 2026-11-13 12:28:03 | [RicardoDevPt.apiview](https://marketplace.visualstudio.com/items?itemName=RicardoDevPt.apiview) | ApiView | 0.2.2 | Visualize OpenAPI and AsyncAPI files: all endpoints/channels and their fields. |
+| 2026-11-13 12:56:21 | [ofis.tsorm](https://marketplace.visualstudio.com/items?itemName=ofis.tsorm) | TSORM | 0.0.3 | Language support for TSORM schemas |
+| 2026-11-13 12:58:10 | [DevScope.enterprise-integration-toolkit](https://marketplace.visualstudio.com/items?itemName=DevScope.enterprise-integration-toolkit) | DevScope Integration Toolkit | 1.15.0 | Visual Data Mapper, Visual XSD Editor, Visual JSON Schema Editor, Flat File Wiz… |
+| 2026-11-13 12:59:17 | [abaper.open-rap-runtime-vscode](https://marketplace.visualstudio.com/items?itemName=abaper.open-rap-runtime-vscode) | Open RAP Runtime | 0.2.0 | Check, generate and run a RAP business object without an SAP system: Open RAP R… |
+| 2026-11-13 13:03:41 | [ElLoko.jvm-runner](https://marketplace.visualstudio.com/items?itemName=ElLoko.jvm-runner) | JVM Runner (Java / Kotlin / Android) | 0.4.1 | Build and run Java & Kotlin projects (Gradle, Maven, plain sources, Android) wi… |
 
 ## Data source
 
