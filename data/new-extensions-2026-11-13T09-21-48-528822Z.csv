@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T08:16:16.987Z,baibolintsika.baibolintsika-verse,baibolintsika,BaibolintsikaVerse,0.2.2,"Bible MDG, KJF et KJV, KJV CCDB, Interlinéaire, Péricope, Parole du jour, Hymnes FFPM, DSS Teny Fiainana et Bible en 90 jours."
+2026-11-13T08:33:29.443Z,kilocode.kilo-code-v2,kilocode,Kilo Code (v2 preview),0.1.104,Kilo Code on the Kilo v2 server
+2026-11-13T08:46:49.037Z,ShaikMohammadMujeeb.postgres-query-anonymizer,ShaikMohammadMujeeb,Postgres Query Anonymizer,1.0.0,"Mask the customer data in a PostgreSQL query or EXPLAIN plan before you share it: string literals, comments, IP and email addresses, file paths and passwords."
+2026-11-13T08:50:18.81Z,wangbin6957.api-client-tools,wangbin6957,API Client · 接口管理,1.0.8,类 Apifox 的 HTTP 接口调试工具：环境 Host 配置、自动化测试、临时用例、Mock 数据、一键导出并导入 Postman / Apifox
+2026-11-13T08:57:45.323Z,zovo.zovo-excel-to-markdown,zovo,Excel to Markdown: Paste & CSV,0.1.2,"Excel to Markdown table converter: paste cells copied from Excel, Google Sheets, Numbers or LibreOffice as a Markdown table, convert CSV to Markdown and back, format tables, and open .xlsx, .xls, .ods and .csv files to copy a sheet or range as Markdown. Offline, no network."
+2026-11-13T09:07:33.21Z,star-lang.heaven-programming-language,star-lang,Heaven (Haven) Programming Language,2.0.0,"Official Visual Studio Code extension for Heaven & Haven: natural-English syntax highlighting, AST diagnostics, hover tooltips, snippets, and ODCS continuity gateway integration."
+2026-11-13T09:13:14.367Z,nodeviz.nodeviz,nodeviz,NodeViz,0.3.0,"A visual canvas for dbt projects: see how your models connect, and sketch new ones as boxes that become .sql files."

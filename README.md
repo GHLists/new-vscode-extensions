@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 08:20 UTC
+## Latest list — 2026-11-13 09:21 UTC
 
-New extensions published between 2026-11-13 06:20 UTC and 2026-11-13 08:20 UTC.
+New extensions published between 2026-11-13 07:21 UTC and 2026-11-13 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T08-20-44-921072Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T09-21-48-528822Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 07:15:32 | [orgcw01.dataflow-guard](https://marketplace.visualstudio.com/items?itemName=orgcw01.dataflow-guard) | DataFlow Guard | 0.1.0 | Pandas 数据 Schema 静态校验与数据预览（100% 本地，零上传） |
-| 2026-11-13 07:17:46 | [ZacharyBenjaminGohYuLiang.excel-reader](https://marketplace.visualstudio.com/items?itemName=ZacharyBenjaminGohYuLiang.excel-reader) | Excel Reader | 0.2.0 | View and edit Excel (.xlsx, .xlsm) and CSV/TSV files in a clean, theme-aware sp… |
-| 2026-11-13 07:20:13 | [toarjungarg.codepdf](https://marketplace.visualstudio.com/items?itemName=toarjungarg.codepdf) | CodePDF | 0.0.1 | View PDFs inside VS Code and export C++ files as clean, printable PDFs. Everyth… |
-| 2026-11-13 07:32:04 | [seanstellar.cline-chinese-pure](https://marketplace.visualstudio.com/items?itemName=seanstellar.cline-chinese-pure) | cline-chinese纯净版 | 4.1.37 | Cline 的开源社区汉化版本 |
-| 2026-11-13 07:59:52 | [steggy.fpp-icon](https://marketplace.visualstudio.com/items?itemName=steggy.fpp-icon) | Fpp Icon | 1.0.0 | Adds an icon to .fpp files |
+| 2026-11-13 08:16:16 | [baibolintsika.baibolintsika-verse](https://marketplace.visualstudio.com/items?itemName=baibolintsika.baibolintsika-verse) | BaibolintsikaVerse | 0.2.2 | Bible MDG, KJF et KJV, KJV CCDB, Interlinéaire, Péricope, Parole du jour, Hymne… |
+| 2026-11-13 08:33:29 | [kilocode.kilo-code-v2](https://marketplace.visualstudio.com/items?itemName=kilocode.kilo-code-v2) | Kilo Code (v2 preview) | 0.1.104 | Kilo Code on the Kilo v2 server |
+| 2026-11-13 08:46:49 | [ShaikMohammadMujeeb.postgres-query-anonymizer](https://marketplace.visualstudio.com/items?itemName=ShaikMohammadMujeeb.postgres-query-anonymizer) | Postgres Query Anonymizer | 1.0.0 | Mask the customer data in a PostgreSQL query or EXPLAIN plan before you share i… |
+| 2026-11-13 08:50:18 | [wangbin6957.api-client-tools](https://marketplace.visualstudio.com/items?itemName=wangbin6957.api-client-tools) | API Client · 接口管理 | 1.0.8 | 类 Apifox 的 HTTP 接口调试工具：环境 Host 配置、自动化测试、临时用例、Mock 数据、一键导出并导入 Postman / Apifox |
+| 2026-11-13 08:57:45 | [zovo.zovo-excel-to-markdown](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-excel-to-markdown) | Excel to Markdown: Paste & CSV | 0.1.2 | Excel to Markdown table converter: paste cells copied from Excel, Google Sheets… |
+| 2026-11-13 09:07:33 | [star-lang.heaven-programming-language](https://marketplace.visualstudio.com/items?itemName=star-lang.heaven-programming-language) | Heaven (Haven) Programming Language | 2.0.0 | Official Visual Studio Code extension for Heaven & Haven: natural-English synta… |
+| 2026-11-13 09:13:14 | [nodeviz.nodeviz](https://marketplace.visualstudio.com/items?itemName=nodeviz.nodeviz) | NodeViz | 0.3.0 | A visual canvas for dbt projects: see how your models connect, and sketch new o… |
 
 ## Data source
 
