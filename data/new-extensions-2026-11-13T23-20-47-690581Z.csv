@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T22:25:10.627Z,Bendfeldt.fabric-connect,Bendfeldt,Fabric Connect,1.4.2,"Local-first Microsoft Fabric development: run notebooks, files, Spark jobs and KQL/DAX/GraphQL queries from your git repo on Fabric compute — Databricks Connect-style, and it never deploys."
+2026-11-13T22:27:21.457Z,potamico.vscode-lorequill,potamico,Lorequill – Structured Knowledge Documentation,0.1.0,Structured Knowledge Documentation for Visual Studio Code
+2026-11-13T22:40:13.533Z,JorgeMiguel.mainframe-ftps,JorgeMiguel,Mainframe FTPS (z/OS),0.3.0,"Navega nos data sets do z/OS, edita membros com gravação automática no PDS, submete jobs e mostra o spool, numa única sessão FTPS com keepalive e login por PIN + token."
+2026-11-13T22:45:30.007Z,drenhaziri.noctyra,drenhaziri,Noctyra,1.0.1,"A refined near-black VS Code theme with warm syntax accents, subtle contrast, and a focused editing experience."
+2026-11-13T22:47:29.87Z,novair.arxml-compare,novair,"ARXML Compare — AUTOSAR viewer & diff (signals, PDUs)",1.0.0,"Compare two AUTOSAR versions locally: signals, PDUs, frames, ports"
+2026-11-13T22:47:38.523Z,alexdmrx.twinseat,alexdmrx,Twinseat,0.3.0,"Two Claude Code accounts side by side in VS Code: one account per window, the account follows the project, both accounts' usage in one panel. macOS and Linux."
+2026-11-13T23:10:08.293Z,DevanshChoubey.radolint,DevanshChoubey,radolint - fast Dockerfile linter (hadolint compatible),0.1.1,"Lint Dockerfiles as you type with radolint, a fast drop-in hadolint replacement written in Rust. Same rules, config and ignore pragmas as hadolint, with ShellCheck for RUN instructions."
+2026-11-13T23:12:16.92Z,armotusitio.armotusitio-theme,armotusitio,ArmoTuSitio Theme,0.1.0,"Four accessible, performance-first editor themes inspired by ArmoTuSitio's verified brand palette."
