@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T07:15:32.447Z,orgcw01.dataflow-guard,orgcw01,DataFlow Guard,0.1.0,Pandas 数据 Schema 静态校验与数据预览（100% 本地，零上传）
+2026-11-13T07:17:46.637Z,ZacharyBenjaminGohYuLiang.excel-reader,ZacharyBenjaminGohYuLiang,Excel Reader,0.2.0,"View and edit Excel (.xlsx, .xlsm) and CSV/TSV files in a clean, theme-aware spreadsheet grid. Keeps formatting and macros when saving."
+2026-11-13T07:20:13.663Z,toarjungarg.codepdf,toarjungarg,CodePDF,0.0.1,"View PDFs inside VS Code and export C++ files as clean, printable PDFs. Everything runs locally."
+2026-11-13T07:32:04.17Z,seanstellar.cline-chinese-pure,seanstellar,cline-chinese纯净版,4.1.37,Cline 的开源社区汉化版本
+2026-11-13T07:59:52.093Z,steggy.fpp-icon,steggy,Fpp Icon,1.0.0,Adds an icon to .fpp files
