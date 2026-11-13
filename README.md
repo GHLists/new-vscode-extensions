@@ -12,21 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 10:20 UTC
+## Latest list — 2026-11-13 11:20 UTC
 
-New extensions published between 2026-11-13 08:20 UTC and 2026-11-13 10:20 UTC.
+New extensions published between 2026-11-13 09:20 UTC and 2026-11-13 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T10-20-46-631688Z.csv)
+[Full CSV](data/new-extensions-2026-11-13T11-20-18-732131Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 09:18:59 | [tiny-earth-moon.outskirts](https://marketplace.visualstudio.com/items?itemName=tiny-earth-moon.outskirts) | outskirts | 0.1.0 | Finds unused Swift code with outskirts: results in a side bar and the Problems… |
-| 2026-11-13 09:25:18 | [luiscantero.branch-reaper](https://marketplace.visualstudio.com/items?itemName=luiscantero.branch-reaper) | Branch Reaper | 0.1.0 | Delete a git branch and all of its worktrees in one click, even locked, dirty o… |
-| 2026-11-13 09:38:13 | [SortaGameDev.mermaid-tree](https://marketplace.visualstudio.com/items?itemName=SortaGameDev.mermaid-tree) | Mermaid Tree | 0.7.0 | Structure tree and live preview for Mermaid diagrams: hide, show and collapse p… |
-| 2026-11-13 09:43:43 | [lighthouse2815.codex-csharp-editor](https://marketplace.visualstudio.com/items?itemName=lighthouse2815.codex-csharp-editor) | Codex C# Editor | 0.1.3 | Chat với Codex trong một tài liệu C# riêng. |
-| 2026-11-13 09:44:35 | [tarasbondaruk.dendro](https://marketplace.visualstudio.com/items?itemName=tarasbondaruk.dendro) | Dendro | 0.12.1 | Reads your git tree like tree rings: commit graph, pull / push, the changes and… |
-| 2026-11-13 10:00:00 | [mrDev.coding-report-card](https://marketplace.visualstudio.com/items?itemName=mrDev.coding-report-card) | Code Time & Workspace Tracker | 0.0.1 | Track coding time, daily activity, file edits, and workspace metrics with an in… |
-| 2026-11-13 10:04:53 | [litol-ai.litol-ai](https://marketplace.visualstudio.com/items?itemName=litol-ai.litol-ai) | Litol AI | 0.1.0 | Autonomous AI coding agent for Visual Studio Code, powered by Litol AI Gateway. |
+| 2026-11-13 10:15:35 | [CarrierOs.carrieros-agent](https://marketplace.visualstudio.com/items?itemName=CarrierOs.carrieros-agent) | Carrier OS Agent | 0.2.0 | The Carrier OS coding agent in VS Code: investigate, plan, review exact diffs,… |
+| 2026-11-13 10:46:50 | [HuyTRAN-Lab.itasca-mesh-viewer](https://marketplace.visualstudio.com/items?itemName=HuyTRAN-Lab.itasca-mesh-viewer) | Itasca Mesh Viewer | 1.0.0 | Interactive VTK.js viewer for Itasca FLAC3D/FLAC2D/3DEC grids (.f3grid, .f2grid… |
+| 2026-11-13 11:07:26 | [shoshindev.drizzle-marker](https://marketplace.visualstudio.com/items?itemName=shoshindev.drizzle-marker) | Drizzle Marker | 0.0.1 | Marks the names Drizzle ORM fixes, like pgTable, where and onDelete, so you can… |
 
 ## Data source
 

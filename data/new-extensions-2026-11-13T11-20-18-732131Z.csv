@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T10:15:35.073Z,CarrierOs.carrieros-agent,CarrierOs,Carrier OS Agent,0.2.0,"The Carrier OS coding agent in VS Code: investigate, plan, review exact diffs, approve, apply, test and correct — with your Carrier OS account."
+2026-11-13T10:46:50.79Z,HuyTRAN-Lab.itasca-mesh-viewer,HuyTRAN-Lab,Itasca Mesh Viewer,1.0.0,"Interactive VTK.js viewer for Itasca FLAC3D/FLAC2D/3DEC grids (.f3grid, .f2grid, .grid), plus OBJ and STL meshes."
+2026-11-13T11:07:26.307Z,shoshindev.drizzle-marker,shoshindev,Drizzle Marker,0.0.1,"Marks the names Drizzle ORM fixes, like pgTable, where and onDelete, so you can tell them apart from your own code."
