@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 15:21 UTC
+## Latest list — 2026-11-14 16:19 UTC
 
-New extensions published between 2026-11-14 13:21 UTC and 2026-11-14 15:21 UTC.
+New extensions published between 2026-11-14 14:19 UTC and 2026-11-14 16:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T15-21-06-599717Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T16-19-57-169434Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 14:22:19 | [AAALOUI.dbt-nav](https://marketplace.visualstudio.com/items?itemName=AAALOUI.dbt-nav) | dbt-nav | 0.1.0 | Hover over a dbt ref() to see the model's full upstream lineage and its direct… |
-| 2026-11-14 14:25:25 | [semihdesticioglu.buzz-for-vscode](https://marketplace.visualstudio.com/items?itemName=semihdesticioglu.buzz-for-vscode) | Buzz for VS Code | 0.8.8 | Unofficial community extension for Buzz, Block's team chat: channels and thread… |
-| 2026-11-14 14:46:00 | [bottrall.rbs-inline-syntax](https://marketplace.visualstudio.com/items?itemName=bottrall.rbs-inline-syntax) | rbs-inline Syntax | 0.1.2 | Highlights rbs-inline `# @rbs` and `# @dynamic` annotations in Ruby comments. |
-| 2026-11-14 14:52:49 | [meremark.meremark](https://marketplace.visualstudio.com/items?itemName=meremark.meremark) | Meremark — Floating Markdown Reader | 0.1.0 | Open the Markdown file you are editing in Meremark's floating reader. It refres… |
-| 2026-11-14 15:01:01 | [Lambogenius.gitpraise](https://marketplace.visualstudio.com/items?itemName=Lambogenius.gitpraise) | GitPraise | 0.0.1 | A better Git blame for VS Code. Praise the coder behind every line. |
+| 2026-11-14 15:26:45 | [MariaDB.mariadb-shell](https://marketplace.visualstudio.com/items?itemName=MariaDB.mariadb-shell) | MariaDB Shell | 26.11.1 | MariaDB Shell UI and MariaDB AI Plugin Copilot integration. |
+| 2026-11-14 16:12:36 | [woodbetweenstudio.epoch-lens](https://marketplace.visualstudio.com/items?itemName=woodbetweenstudio.epoch-lens) | Timestamp & Epoch Converter (Epoch Lens) | 1.0.0 | Unix timestamp and epoch converter: hover any epoch (s/ms/µs/ns) or ISO date to… |
 
 ## Data source
 
