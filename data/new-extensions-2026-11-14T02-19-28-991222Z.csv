@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T01:20:01.167Z,honestrel.node-tap-test-explorer,honestrel,node-tap Test Explorer,0.1.0,"Run and debug node-tap (tap) tests from the VS Code Testing view and from the gutter, with failure diffs shown at the failing line."
+2026-11-14T01:21:22.66Z,Alejandro-x.morbo-divino---neon-dark,Alejandro-x,Morbo Divino - Neon Dark,0.0.1,"Expressing learning and growth, vibrating in neon"
+2026-11-14T02:06:18.39Z,weixu.wx-vsce-ron-ultra,weixu,RON Ultra,0.1.0,"RON (Rusty Object Notation) editing — syntax highlighting, diagnostics, comment-preserving formatting, outline, hover paths and smart select, powered by a RON analyzer compiled to WebAssembly."
+2026-11-14T02:12:25.27Z,axyome-ai.axyome-ai-xm,axyome-ai,Axyome XM — Flight Recorder for Copilot & Claude Code,1.1.9,"Your AI forgets between chats. Axyome XM remembers: a local flight recorder of your files, errors, terminal commands and AI sessions (Copilot, Claude Code) that your assistant recalls through MCP tools."
