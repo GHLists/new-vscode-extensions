@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T10:29:22.097Z,Patchkin.patchkin,Patchkin,Patchkin,0.1.0,"Patchkin's waiting-for-you queue, plan approvals, review briefs and runs inside VS Code and Cursor"
+2026-11-14T10:35:35.71Z,gistry.gistry,gistry,Gistry — Commit History,0.3.0,"A beautiful commit graph for VS Code and Cursor: branch lanes, stacked PRs, conventional commits and more."
+2026-11-14T10:53:04.447Z,OutBlade.chipfoot,OutBlade,Chipfoot BGA Footprints,0.1.0,"MCP server that builds BGA footprints (KiCad .kicad_mod, CSV, fit-check SVG) from a chip scan, phone photo, stencil artwork, boardview or JEDEC grid. Nvidia GPUs included."
+2026-11-14T10:54:11.1Z,shamsulhaq08.burgundy-pro,shamsulhaq08,Burgundy Pro,1.0.1,"A premium, elegant, modern dark Visual Studio Code theme crafted with deep burgundy, rich wine-red accents, and soft rose highlights."
+2026-11-14T10:55:51.137Z,penwiki.penwiki,penwiki,Pen Wiki,0.4.628,"Closed pre-release, by invitation only. Understand, review and improve what your AI built. Run a guide with your own coding agent (Claude Code or Codex CLI) and see what changed since the last Run; comment on any Markdown file and Claude changes the document or the code. Your documents and code stay"
+2026-11-14T10:56:00.64Z,mashalifyps.pashto-typescript-helper,mashalifyps,Pashto TypeScript Helper,0.2.0,"Explains TypeScript and JavaScript diagnostic errors in Pashto, offline."
+2026-11-14T11:08:35.803Z,honestarchitector.nomos-go,honestarchitector,Nomos: Go,0.1.2,"Go analyzer for Nomos: statistics and heuristic observations, without verdicts."
+2026-11-14T11:08:51.117Z,honestarchitector.nomos-agents,honestarchitector,Nomos Agents,0.1.0,"Two agents over the Nomos analysis: review of paradigms and practices, and speed of functions with ways to optimize them. Includes the Nomos MCP server."
+2026-11-14T11:09:05.07Z,honestarchitector.nomos-score,honestarchitector,Nomos Score,0.1.0,"Scores of stability, extensibility, conformance and maintainability, the abstractness and instability of modules, percolation and the key problems of a system, over the Nomos analysis"
+2026-11-14T11:12:33.193Z,contextpocket.contextpocket,contextpocket,Context Pocket,0.0.4,Private scratchpads for your Git branches and project folders.
