@@ -12,25 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 22:20 UTC
+## Latest list — 2026-11-14 23:19 UTC
 
-New extensions published between 2026-11-14 20:20 UTC and 2026-11-14 22:20 UTC.
+New extensions published between 2026-11-14 21:19 UTC and 2026-11-14 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T22-20-38-544125Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T23-19-57-150448Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 21:05:55 | [IvanLjubicic.codepresenter](https://marketplace.visualstudio.com/items?itemName=IvanLjubicic.codepresenter) | Code Presenter Extension | 1.0.1 | Code Presenter extension |
-| 2026-11-14 21:17:04 | [OfekE.mesa-inlist](https://marketplace.visualstudio.com/items?itemName=OfekE.mesa-inlist) | MESA Inlist | 1.1.0 | Syntax highlighting, validation, hover docs and completion for MESA stellar evo… |
-| 2026-11-14 21:33:36 | [sgorbietto.0effort-tail](https://marketplace.visualstudio.com/items?itemName=sgorbietto.0effort-tail) | 0effort Tail | 0.1.0 | Work continuity for Claude Code across your PCs: your workspace, chats and memo… |
-| 2026-11-14 21:38:36 | [Chirag4904.pocket-context](https://marketplace.visualstudio.com/items?itemName=Chirag4904.pocket-context) | Pocket Context | 0.0.10 | Private scratchpads for your Git branches and project folders. |
-| 2026-11-14 21:45:09 | [djhhh.ddo-code-flow](https://marketplace.visualstudio.com/items?itemName=djhhh.ddo-code-flow) | Ddo-Code-Flow | 1.0.0 | 查看 ddo-code-flow 流水的只读插件：运行中流水（存活流水）、本项目已收口 run 与全局历史——三源聚合数据面 |
-| 2026-11-14 21:47:53 | [puzaricloud.sqlite-viewer-editor](https://marketplace.visualstudio.com/items?itemName=puzaricloud.sqlite-viewer-editor) | SQLite Viewer & Editor – Fast, Local, F… | 1.0.0 | Open .db, .sqlite and .sqlite3 files in VS Code. Browse million-row tables, fil… |
-| 2026-11-14 21:55:01 | [maks-pavlovskyi.agy-chat](https://marketplace.visualstudio.com/items?itemName=maks-pavlovskyi.agy-chat) | Agy Chat for Gemini | 0.3.1 | A minimalist, ergonomic chat interface for Google Gemini via the Antigravity CL… |
-| 2026-11-14 21:59:00 | [Suggestion.suggestion](https://marketplace.visualstudio.com/items?itemName=Suggestion.suggestion) | suggestion | 0.0.1 | File suggestions support for prompt files. |
-| 2026-11-14 22:00:45 | [alebona.siren](https://marketplace.visualstudio.com/items?itemName=alebona.siren) | Siren | 1.0.0 | Print-debugging for Python without the cleanup: siren(x) values inline in the e… |
-| 2026-11-14 22:04:07 | [IhabRabaya.ihab-arabic-python-terminal](https://marketplace.visualstudio.com/items?itemName=IhabRabaya.ihab-arabic-python-terminal) | Arabic Python Terminal — Ihab Rabaya | 1.1.0 | Run Python files with connected Arabic text and automatic UTF-8 output in a ded… |
-| 2026-11-14 22:10:06 | [archibara.archibara-vscode](https://marketplace.visualstudio.com/items?itemName=archibara.archibara-vscode) | Archibara | 0.2.0 | Browse architecture, preview diagrams and share model context with coding agent… |
+| 2026-11-14 22:19:31 | [m3-welch.super-markdown-live-view](https://marketplace.visualstudio.com/items?itemName=m3-welch.super-markdown-live-view) | Super Markdown Live View | 0.0.1 | Edit Markdown with an inline rendered live view. |
+| 2026-11-14 22:22:19 | [puzaricloud.github-actions-runs-logs](https://marketplace.visualstudio.com/items?itemName=puzaricloud.github-actions-runs-logs) | GitHub Actions Runs & Live Logs | 1.0.0 | Watch GitHub Actions without leaving VS Code: auto-refreshing runs → jobs → ste… |
+| 2026-11-14 22:29:18 | [FortuneNowake.nowax](https://marketplace.visualstudio.com/items?itemName=FortuneNowake.nowax) | Nowax Code | 0.1.3 | AI coding inside VS Code. Automatic engine setup, project sessions, and file co… |
+| 2026-11-14 22:42:30 | [smiling-pixel.xiaohongshu-fisher](https://marketplace.visualstudio.com/items?itemName=smiling-pixel.xiaohongshu-fisher) | Xiaohongshu Fisher | 0.1.0 | Browse and read Xiaohongshu notes from Visual Studio Code. |
+| 2026-11-14 22:44:46 | [phoxite.phoxite](https://marketplace.visualstudio.com/items?itemName=phoxite.phoxite) | Phoxite — PHP & Laravel IntelliSense | 0.1.0 | PHP and Laravel code intelligence: completion, navigation, usages, rename, refa… |
+| 2026-11-14 22:48:43 | [rein-lang.rein-language](https://marketplace.visualstudio.com/items?itemName=rein-lang.rein-language) | Rein Language | 0.1.0 | Language support for Rein, a small language for agent decision flows. |
+| 2026-11-14 22:50:13 | [honestrel.uvu-test-explorer](https://marketplace.visualstudio.com/items?itemName=honestrel.uvu-test-explorer) | Test Explorer for uvu | 0.1.0 | Run and debug uvu suites and tests from the VS Code Testing view and the editor… |
+| 2026-11-14 22:52:36 | [honestrel.invoke-tasks](https://marketplace.visualstudio.com/items?itemName=honestrel.invoke-tasks) | Task Runner for Invoke | 0.1.0 | Run Python Invoke (pyinvoke) tasks from tasks.py in VS Code: Run Task, an Invok… |
+| 2026-11-14 22:59:48 | [tuffpython.tuffpython-language-support](https://marketplace.visualstudio.com/items?itemName=tuffpython.tuffpython-language-support) | TuffPython | 1.0.2 | Syntax highlighting, IntelliSense, navigation, and diagnostics for TuffPython f… |
+| 2026-11-14 23:03:11 | [honestrel.towncrier-fragments](https://marketplace.visualstudio.com/items?itemName=honestrel.towncrier-fragments) | News Fragments for towncrier | 0.1.2 | Create towncrier news fragments with the right file name, see pending fragments… |
 
 ## Data source
 
