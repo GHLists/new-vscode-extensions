@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-13 23:20 UTC
+## Latest list — 2026-11-14 00:20 UTC
 
-New extensions published between 2026-11-13 21:20 UTC and 2026-11-13 23:20 UTC.
+New extensions published between 2026-11-13 22:20 UTC and 2026-11-14 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-13T23-20-47-690581Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T00-20-24-323307Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-13 22:25:10 | [Bendfeldt.fabric-connect](https://marketplace.visualstudio.com/items?itemName=Bendfeldt.fabric-connect) | Fabric Connect | 1.4.2 | Local-first Microsoft Fabric development: run notebooks, files, Spark jobs and… |
-| 2026-11-13 22:27:21 | [potamico.vscode-lorequill](https://marketplace.visualstudio.com/items?itemName=potamico.vscode-lorequill) | Lorequill – Structured Knowledge Docume… | 0.1.0 | Structured Knowledge Documentation for Visual Studio Code |
-| 2026-11-13 22:40:13 | [JorgeMiguel.mainframe-ftps](https://marketplace.visualstudio.com/items?itemName=JorgeMiguel.mainframe-ftps) | Mainframe FTPS (z/OS) | 0.3.0 | Navega nos data sets do z/OS, edita membros com gravação automática no PDS, sub… |
-| 2026-11-13 22:45:30 | [drenhaziri.noctyra](https://marketplace.visualstudio.com/items?itemName=drenhaziri.noctyra) | Noctyra | 1.0.1 | A refined near-black VS Code theme with warm syntax accents, subtle contrast, a… |
-| 2026-11-13 22:47:29 | [novair.arxml-compare](https://marketplace.visualstudio.com/items?itemName=novair.arxml-compare) | ARXML Compare — AUTOSAR viewer & diff (… | 1.0.0 | Compare two AUTOSAR versions locally: signals, PDUs, frames, ports |
-| 2026-11-13 22:47:38 | [alexdmrx.twinseat](https://marketplace.visualstudio.com/items?itemName=alexdmrx.twinseat) | Twinseat | 0.3.0 | Two Claude Code accounts side by side in VS Code: one account per window, the a… |
-| 2026-11-13 23:10:08 | [DevanshChoubey.radolint](https://marketplace.visualstudio.com/items?itemName=DevanshChoubey.radolint) | radolint - fast Dockerfile linter (hado… | 0.1.1 | Lint Dockerfiles as you type with radolint, a fast drop-in hadolint replacement… |
-| 2026-11-13 23:12:16 | [armotusitio.armotusitio-theme](https://marketplace.visualstudio.com/items?itemName=armotusitio.armotusitio-theme) | ArmoTuSitio Theme | 0.1.0 | Four accessible, performance-first editor themes inspired by ArmoTuSitio's veri… |
+| 2026-11-13 23:50:29 | [ContextShare.tmuxdeck](https://marketplace.visualstudio.com/items?itemName=ContextShare.tmuxdeck) | tmuxdeck | 0.6.1 | Browse and manage tmux sessions on your VS Code Remote-SSH host. |
+| 2026-11-13 23:55:20 | [armotusitio.armotusitio-icons](https://marketplace.visualstudio.com/items?itemName=armotusitio.armotusitio-icons) | ArmoTuSitio Icons | 0.1.1 | An original, precision-crafted SVG file icon system for VS Code. Prism, Dayligh… |
+| 2026-11-13 23:59:42 | [psyquy.aquascope-vscode-extension](https://marketplace.visualstudio.com/items?itemName=psyquy.aquascope-vscode-extension) | Aquascope | 0.0.7 | VS Code extension for Aquascope. |
+| 2026-11-14 00:07:05 | [RadwanAlmsora.legacy-code-navigator](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.legacy-code-navigator) | Legacy Code Navigator | 0.1.2 | Evidence-based codebase exploration: call graphs, request flows, feature maps,… |
+| 2026-11-14 00:07:39 | [klepo1.texglass](https://marketplace.visualstudio.com/items?itemName=klepo1.texglass) | TeXglass Preview | 0.7.1 | Preview LaTeX like Markdown: math, sections and numbered theorems with working… |
 
 ## Data source
 

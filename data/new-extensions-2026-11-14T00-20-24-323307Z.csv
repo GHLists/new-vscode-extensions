@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-13T23:50:29Z,ContextShare.tmuxdeck,ContextShare,tmuxdeck,0.6.1,Browse and manage tmux sessions on your VS Code Remote-SSH host.
+2026-11-13T23:55:20.067Z,armotusitio.armotusitio-icons,armotusitio,ArmoTuSitio Icons,0.1.1,"An original, precision-crafted SVG file icon system for VS Code. Prism, Daylight, Focus and High Contrast."
+2026-11-13T23:59:42.017Z,psyquy.aquascope-vscode-extension,psyquy,Aquascope,0.0.7,VS Code extension for Aquascope.
+2026-11-14T00:07:05.3Z,RadwanAlmsora.legacy-code-navigator,RadwanAlmsora,Legacy Code Navigator,0.1.2,"Evidence-based codebase exploration: call graphs, request flows, feature maps, risk signals, and onboarding reports. Runs locally."
+2026-11-14T00:07:39.693Z,klepo1.texglass,klepo1,TeXglass Preview,0.7.1,"Preview LaTeX like Markdown: math, sections and numbered theorems with working references, live as you type. No TeX installation needed."
