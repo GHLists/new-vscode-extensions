@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T05:23:04.31Z,Alejandro-x.codex-pastel,Alejandro-x,Codex Pastel,0.0.1,"A pitch-black VS Code theme with vivid, high-contrast colors."
+2026-11-14T05:23:12.687Z,WuXinRan.rani18n-lens,WuXinRan,Ran i18n Lens,1.0.0,"Offline i18n assistant: highlight keys, hover translations with open/refs, language matrix, sidebar index, diagnostics & health check, key completion. No API keys."
+2026-11-14T05:52:02.767Z,semlayer.semlayer,semlayer,semlayer,0.1.0,"Infer a semantic layer from your warehouse, then catch wrong SQL before it runs."
+2026-11-14T06:10:23.55Z,synkdevspace.synkdevspace,synkdevspace,Synk Devspace,0.1.1,"Zero-friction environment setup for Node.js and Python projects — detects, installs, and records everything automatically."
