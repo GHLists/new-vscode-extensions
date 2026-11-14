@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 09:20 UTC
+## Latest list — 2026-11-14 10:21 UTC
 
-New extensions published between 2026-11-14 07:20 UTC and 2026-11-14 09:20 UTC.
+New extensions published between 2026-11-14 08:21 UTC and 2026-11-14 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T09-20-07-751257Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T10-21-13-541499Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 08:25:56 | [b2-apps.envguard-b2](https://marketplace.visualstudio.com/items?itemName=b2-apps.envguard-b2) | EnvGuard — .env Sync & Secret Leak Lint… | 0.1.0 | Compare .env vs .env.example, highlight missing keys in Diagnostics, sync keys-… |
-| 2026-11-14 08:27:53 | [forwcc.markdown-multilevel-numbering](https://marketplace.visualstudio.com/items?itemName=forwcc.markdown-multilevel-numbering) | Markdown Multilevel Numbering | 1.1.12 | VS Code extension for markdown multilevel numbering |
-| 2026-11-14 08:44:52 | [ascentracore.ascentracore-codemitra](https://marketplace.visualstudio.com/items?itemName=ascentracore.ascentracore-codemitra) | CodeMitra – Free AI Coding Assistant | 1.5.1 | Free AI pair programmer. No sign up. Finds errors, fixes code, writes new code… |
-| 2026-11-14 08:46:44 | [luat.luat-language-server](https://marketplace.visualstudio.com/items?itemName=luat.luat-language-server) | LuaT - Language Server (Official) | 0.1.0 | Language support for typed Lua targeting CfxLua. |
+| 2026-11-14 09:10:54 | [zhenyu-zhao.latex-pro](https://marketplace.visualstudio.com/items?itemName=zhenyu-zhao.latex-pro) | LaTeX Pro | 0.11.0 | ???????????? LaTeX ??? |
+| 2026-11-14 09:23:55 | [ismeetxd.everforest-vscode](https://marketplace.visualstudio.com/items?itemName=ismeetxd.everforest-vscode) | Everforest (Eye Comfort Theme) | 1.0.1 | Everforest color scheme for Visual Studio Code — warm, soft, green-based theme… |
+| 2026-11-14 09:30:41 | [freeaivideo.freeaivideo-prompt-kit](https://marketplace.visualstudio.com/items?itemName=freeaivideo.freeaivideo-prompt-kit) | Free AI Video Offline Prompt Kit | 0.1.0 | Validate the active creative brief JSON and export a Markdown plan offline. |
+| 2026-11-14 09:57:10 | [filipcho100.claudewatch](https://marketplace.visualstudio.com/items?itemName=filipcho100.claudewatch) | ClaudeWatch | 0.0.1 | Allows to revert changes from claude on a per file basis |
+| 2026-11-14 10:04:56 | [mhquan.antigravity-session-tracker](https://marketplace.visualstudio.com/items?itemName=mhquan.antigravity-session-tracker) | Antigravity Session & Issue Tracker | 0.3.1 | Track and manage Antigravity sessions, issues, token metrics, and git worktrees… |
 
 ## Data source
 
