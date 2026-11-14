@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T19:11:50.877Z,xopseasy.mergecraft,xopseasy,Mergecraft,0.1.2,"IntelliJ-style three-way merge, side-by-side diff, shelf and GitHub pull requests for Git."
+2026-11-14T19:16:12.317Z,YetAnotherSqlTool.yet-another-sql-tool,YetAnotherSqlTool,YetAnotherSqlTool,0.1.0,"Multi-database SQL client for VS Code (SQL Server, PostgreSQL), inspired by the mssql extension"
+2026-11-14T19:17:43.71Z,IFC-Specialty.hello-world-popup,IFC-Specialty,Calculator Launcher,0.0.3,Launches the Windows Calculator after VS Code starts.
+2026-11-14T19:21:27.557Z,saltcoreyan.syncnotes,saltcoreyan,SyncNotes,0.1.1,Markdown 笔记管理，支持 Git 仓库与 WebDAV 同步
+2026-11-14T19:25:48.923Z,msilabs.msilabs-theme,msilabs,msilabs Theme,0.1.1,"Eye-comfort themes from msilabs: Dark, Light, Notebook and Warm Night."
+2026-11-14T19:27:13.473Z,rokartur.md-ghost-align,rokartur,Markdown Ghost Align,0.1.1,"Aligns markdown table columns on screen with virtual padding, without writing spaces to the file."
+2026-11-14T19:44:38.683Z,RadwanAlmsora.shipcheck-pr-review,RadwanAlmsora,ShipCheck — Pre-PR Code Review,1.0.0,"Trust your code before you merge: impact map, Blocking/Warning/Suggestion review with exact lines, missing-test hints, PR description generator and a pre-push guard."
+2026-11-14T20:10:25.177Z,MykD.agents-stack,MykD,Agents Stack,0.2.1,"See which Claude Code, Antigravity and Gemini CLI agents are running, what they are doing, and which ones are waiting for you."
