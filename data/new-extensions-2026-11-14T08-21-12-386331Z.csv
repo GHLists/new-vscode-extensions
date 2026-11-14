@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T07:22:09.68Z,Winstead-Inc.spectra-noir,Winstead-Inc,Spectra Noir,1.0.1,Deep pure black OLED dark theme with signature purple and rainbow accents.
+2026-11-14T07:25:14.677Z,battleangel.vuln-lens,battleangel,VulnLens,0.2.2,"Security review for Python: deterministic CWE rules plus optional AI verification through your own API key, GitHub Copilot, or Ollama."
+2026-11-14T07:31:39.523Z,DocViewer.DocView,DocViewer,Doc View,0.1.1,"Open Word, Excel, PowerPoint, PDF, VectorCraft and design (FigCraft, Figma .fig) files in VS Code. View only: nothing is ever edited, saved or sent anywhere."
+2026-11-14T07:41:08.237Z,AkshayBhatia.vim-pdf,AkshayBhatia,Vim PDF Viewer,0.0.1,"Minimal dark-mode PDF viewer and reader with vim keybindings: j/k scrolling, :page jumps, /search, marks, clickable links, chapter outline and auto-reload for LaTeX and Typst."
+2026-11-14T08:03:57.623Z,iamssen.ai-context-tools,iamssen,AI Context Tools,0.0.3,"Turn TODO comments into ready-to-paste prompts for AI coding agents (Claude Code, Codex, Copilot, Cursor) and copy path:line references in one click."
+2026-11-14T08:12:28.307Z,advaetuc.gitflux,advaetuc,GitFlux,0.1.0,Stage selected files and commit them with a custom author and committer date.
+2026-11-14T08:12:55.093Z,systasys.skeptopus,systasys,SkeptOpus,0.2.2,Your AI says it's done. SkeptOpus goes and looks.
