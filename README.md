@@ -12,24 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 11:20 UTC
+## Latest list — 2026-11-14 12:19 UTC
 
-New extensions published between 2026-11-14 09:20 UTC and 2026-11-14 11:20 UTC.
+New extensions published between 2026-11-14 10:19 UTC and 2026-11-14 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T11-20-20-226392Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T12-19-18-659082Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 10:29:22 | [Patchkin.patchkin](https://marketplace.visualstudio.com/items?itemName=Patchkin.patchkin) | Patchkin | 0.1.0 | Patchkin's waiting-for-you queue, plan approvals, review briefs and runs inside… |
-| 2026-11-14 10:35:35 | [gistry.gistry](https://marketplace.visualstudio.com/items?itemName=gistry.gistry) | Gistry — Commit History | 0.3.0 | A beautiful commit graph for VS Code and Cursor: branch lanes, stacked PRs, con… |
-| 2026-11-14 10:53:04 | [OutBlade.chipfoot](https://marketplace.visualstudio.com/items?itemName=OutBlade.chipfoot) | Chipfoot BGA Footprints | 0.1.0 | MCP server that builds BGA footprints (KiCad .kicad_mod, CSV, fit-check SVG) fr… |
-| 2026-11-14 10:54:11 | [shamsulhaq08.burgundy-pro](https://marketplace.visualstudio.com/items?itemName=shamsulhaq08.burgundy-pro) | Burgundy Pro | 1.0.1 | A premium, elegant, modern dark Visual Studio Code theme crafted with deep burg… |
-| 2026-11-14 10:55:51 | [penwiki.penwiki](https://marketplace.visualstudio.com/items?itemName=penwiki.penwiki) | Pen Wiki | 0.4.628 | Closed pre-release, by invitation only. Understand, review and improve what you… |
-| 2026-11-14 10:56:00 | [mashalifyps.pashto-typescript-helper](https://marketplace.visualstudio.com/items?itemName=mashalifyps.pashto-typescript-helper) | Pashto TypeScript Helper | 0.2.0 | Explains TypeScript and JavaScript diagnostic errors in Pashto, offline. |
-| 2026-11-14 11:08:35 | [honestarchitector.nomos-go](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-go) | Nomos: Go | 0.1.2 | Go analyzer for Nomos: statistics and heuristic observations, without verdicts. |
-| 2026-11-14 11:08:51 | [honestarchitector.nomos-agents](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-agents) | Nomos Agents | 0.1.0 | Two agents over the Nomos analysis: review of paradigms and practices, and spee… |
-| 2026-11-14 11:09:05 | [honestarchitector.nomos-score](https://marketplace.visualstudio.com/items?itemName=honestarchitector.nomos-score) | Nomos Score | 0.1.0 | Scores of stability, extensibility, conformance and maintainability, the abstra… |
-| 2026-11-14 11:12:33 | [contextpocket.contextpocket](https://marketplace.visualstudio.com/items?itemName=contextpocket.contextpocket) | Context Pocket | 0.0.4 | Private scratchpads for your Git branches and project folders. |
+| 2026-11-14 11:18:45 | [drenhaziri.green-barrette-theme](https://marketplace.visualstudio.com/items?itemName=drenhaziri.green-barrette-theme) | Green Barrette | 1.0.0 | Dark theme with moss-green keywords, types and calls and clay-toned members and… |
+| 2026-11-14 11:19:55 | [Railgun19457.copilot-custom-api](https://marketplace.visualstudio.com/items?itemName=Railgun19457.copilot-custom-api) | Copilot Custom API | 0.6.0 | Connect your own model API endpoints to GitHub Copilot Chat. |
+| 2026-11-14 11:29:27 | [JHeilingbrunner.vscode-pwsh-eps-csharp-xaml](https://marketplace.visualstudio.com/items?itemName=JHeilingbrunner.vscode-pwsh-eps-csharp-xaml) | PowerShell EPS Templates for C# and XAML | 0.0.1 | Syntax highlighting for EPS (Embedded PowerShell) templates generating C# and X… |
+| 2026-11-14 11:48:28 | [dreamlab-ai.vellum-markdown-editor](https://marketplace.visualstudio.com/items?itemName=dreamlab-ai.vellum-markdown-editor) | Vellum Markdown Editor | 0.4.0 | A live WYSIWYG Markdown editor for VS Code with Pele-rendered diagrams and hard… |
+| 2026-11-14 11:49:18 | [ImpisiTech.impisitech-nexus](https://marketplace.visualstudio.com/items?itemName=ImpisiTech.impisitech-nexus) | NEXUS by Impisi Tech | 0.1.0 | Understand and inspect code locally, directly in VS Code. |
+| 2026-11-14 12:05:30 | [RahulSrivastava.coolify-vscode-dashboard](https://marketplace.visualstudio.com/items?itemName=RahulSrivastava.coolify-vscode-dashboard) | Coolify Deploy Dashboard | 1.1.0 | Deploy, monitor and manage your Coolify apps, databases and services from the V… |
+| 2026-11-14 12:12:24 | [codeladder.codeladder](https://marketplace.visualstudio.com/items?itemName=codeladder.codeladder) | CodeLadder · Four-tier Code Reading | 0.1.6 | CodeLadder turns Python, TypeScript, C, C++, Java, Rust and Go into four readab… |
 
 ## Data source
 
