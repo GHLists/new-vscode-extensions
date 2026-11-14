@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 14:20 UTC
+## Latest list — 2026-11-14 15:21 UTC
 
-New extensions published between 2026-11-14 12:20 UTC and 2026-11-14 14:20 UTC.
+New extensions published between 2026-11-14 13:21 UTC and 2026-11-14 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T14-20-59-592811Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T15-21-06-599717Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 13:18:45 | [jayaswalprateek.atelier-theme](https://marketplace.visualstudio.com/items?itemName=jayaswalprateek.atelier-theme) | Atelier Black | 0.1.0 | A quiet, borderless dark theme: one black surface, warm grey chrome, and color… |
-| 2026-11-14 13:23:13 | [bmukheja.vscode-click-timer](https://marketplace.visualstudio.com/items?itemName=bmukheja.vscode-click-timer) | Click Timer | 0.1.0 | A status bar countdown timer. Click to pause or resume, and open the menu to se… |
-| 2026-11-14 13:40:54 | [yfyang.texlsp-vscode](https://marketplace.visualstudio.com/items?itemName=yfyang.texlsp-vscode) | texlsp LaTeX Language Server | 0.1.0 | LaTeX diagnostics, completion, navigation, formatting, and macro expansion thro… |
-| 2026-11-14 13:48:02 | [tisakonicc.background-wallpaper-engine](https://marketplace.visualstudio.com/items?itemName=tisakonicc.background-wallpaper-engine) | Background-Wallpaper-Engine | 0.2.14 | 把 Steam Wallpaper Engine 的壁纸（视频 / 场景 / 网页）以及本地导入的视频、图片渲染成 IDE 背景，支持播放壁纸自带的背景音乐。 |
+| 2026-11-14 14:22:19 | [AAALOUI.dbt-nav](https://marketplace.visualstudio.com/items?itemName=AAALOUI.dbt-nav) | dbt-nav | 0.1.0 | Hover over a dbt ref() to see the model's full upstream lineage and its direct… |
+| 2026-11-14 14:25:25 | [semihdesticioglu.buzz-for-vscode](https://marketplace.visualstudio.com/items?itemName=semihdesticioglu.buzz-for-vscode) | Buzz for VS Code | 0.8.8 | Unofficial community extension for Buzz, Block's team chat: channels and thread… |
+| 2026-11-14 14:46:00 | [bottrall.rbs-inline-syntax](https://marketplace.visualstudio.com/items?itemName=bottrall.rbs-inline-syntax) | rbs-inline Syntax | 0.1.2 | Highlights rbs-inline `# @rbs` and `# @dynamic` annotations in Ruby comments. |
+| 2026-11-14 14:52:49 | [meremark.meremark](https://marketplace.visualstudio.com/items?itemName=meremark.meremark) | Meremark — Floating Markdown Reader | 0.1.0 | Open the Markdown file you are editing in Meremark's floating reader. It refres… |
+| 2026-11-14 15:01:01 | [Lambogenius.gitpraise](https://marketplace.visualstudio.com/items?itemName=Lambogenius.gitpraise) | GitPraise | 0.0.1 | A better Git blame for VS Code. Praise the coder behind every line. |
 
 ## Data source
 

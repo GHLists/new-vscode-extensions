@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T14:22:19.05Z,AAALOUI.dbt-nav,AAALOUI,dbt-nav,0.1.0,Hover over a dbt ref() to see the model's full upstream lineage and its direct downstream children.
+2026-11-14T14:25:25.843Z,semihdesticioglu.buzz-for-vscode,semihdesticioglu,Buzz for VS Code,0.8.8,"Unofficial community extension for Buzz, Block's team chat: channels and threads with your AI agents in VS Code, send code and errors to them, review their proposals as diffs, and see what was said about the code you are reading."
+2026-11-14T14:46:00.377Z,bottrall.rbs-inline-syntax,bottrall,rbs-inline Syntax,0.1.2,Highlights rbs-inline `# @rbs` and `# @dynamic` annotations in Ruby comments.
+2026-11-14T14:52:49.257Z,meremark.meremark,meremark,Meremark — Floating Markdown Reader,0.1.0,"Open the Markdown file you are editing in Meremark's floating reader. It refreshes every time you, or your AI, save."
+2026-11-14T15:01:01.397Z,Lambogenius.gitpraise,Lambogenius,GitPraise,0.0.1,A better Git blame for VS Code. Praise the coder behind every line.
