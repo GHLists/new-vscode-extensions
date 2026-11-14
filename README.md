@@ -12,22 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 20:20 UTC
+## Latest list — 2026-11-14 21:19 UTC
 
-New extensions published between 2026-11-14 18:20 UTC and 2026-11-14 20:20 UTC.
+New extensions published between 2026-11-14 19:19 UTC and 2026-11-14 21:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T20-20-17-048046Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T21-19-14-391563Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 19:11:50 | [xopseasy.mergecraft](https://marketplace.visualstudio.com/items?itemName=xopseasy.mergecraft) | Mergecraft | 0.1.2 | IntelliJ-style three-way merge, side-by-side diff, shelf and GitHub pull reques… |
-| 2026-11-14 19:16:12 | [YetAnotherSqlTool.yet-another-sql-tool](https://marketplace.visualstudio.com/items?itemName=YetAnotherSqlTool.yet-another-sql-tool) | YetAnotherSqlTool | 0.1.0 | Multi-database SQL client for VS Code (SQL Server, PostgreSQL), inspired by the… |
-| 2026-11-14 19:17:43 | [IFC-Specialty.hello-world-popup](https://marketplace.visualstudio.com/items?itemName=IFC-Specialty.hello-world-popup) | Calculator Launcher | 0.0.3 | Launches the Windows Calculator after VS Code starts. |
-| 2026-11-14 19:21:27 | [saltcoreyan.syncnotes](https://marketplace.visualstudio.com/items?itemName=saltcoreyan.syncnotes) | SyncNotes | 0.1.1 | Markdown 笔记管理，支持 Git 仓库与 WebDAV 同步 |
-| 2026-11-14 19:25:48 | [msilabs.msilabs-theme](https://marketplace.visualstudio.com/items?itemName=msilabs.msilabs-theme) | msilabs Theme | 0.1.1 | Eye-comfort themes from msilabs: Dark, Light, Notebook and Warm Night. |
-| 2026-11-14 19:27:13 | [rokartur.md-ghost-align](https://marketplace.visualstudio.com/items?itemName=rokartur.md-ghost-align) | Markdown Ghost Align | 0.1.1 | Aligns markdown table columns on screen with virtual padding, without writing s… |
-| 2026-11-14 19:44:38 | [RadwanAlmsora.shipcheck-pr-review](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.shipcheck-pr-review) | ShipCheck — Pre-PR Code Review | 1.0.0 | Trust your code before you merge: impact map, Blocking/Warning/Suggestion revie… |
-| 2026-11-14 20:10:25 | [MykD.agents-stack](https://marketplace.visualstudio.com/items?itemName=MykD.agents-stack) | Agents Stack | 0.2.1 | See which Claude Code, Antigravity and Gemini CLI agents are running, what they… |
+| 2026-11-14 20:20:59 | [tchbn-atsk.atsk-theme](https://marketplace.visualstudio.com/items?itemName=tchbn-atsk.atsk-theme) | atsk-theme | 0.0.1 | new theme |
+| 2026-11-14 20:37:19 | [LeScribeAudiolescribeaudio.srt-vtt-cleaner-fr-vscode](https://marketplace.visualstudio.com/items?itemName=LeScribeAudiolescribeaudio.srt-vtt-cleaner-fr-vscode) | SRT/VTT Cleaner FR & Corpus IRaMuTeQ (L… | 1.0.0 | Nettoyeur local de sous-titres .SRT / .VTT en français : déduplication YouTube,… |
+| 2026-11-14 20:40:30 | [tento.chatstudy](https://marketplace.visualstudio.com/items?itemName=tento.chatstudy) | ChatStudy for VS Code | 0.5.0 | ChatStudy の AI に、VS Code で書いているコードのことを相談できる拡張機能です。使うには ChatStudy のアカウントが必要です。 |
+| 2026-11-14 20:42:04 | [filippobrogi00.tether-sync](https://marketplace.visualstudio.com/items?itemName=filippobrogi00.tether-sync) | Tether - SSH Sync | 0.1.0 | Work on any SSH server while every extension runs on your own machine. Two-way… |
+| 2026-11-14 20:45:31 | [philip-stoyanov.data-modeler-companion-projects](https://marketplace.visualstudio.com/items?itemName=philip-stoyanov.data-modeler-companion-projects) | Data Modeler Companion | 0.9.0 | Visualize Database artifacts from Oracle Database and MSSQL Server, Transition… |
+| 2026-11-14 20:47:04 | [datastep-labs.datastep-studio-r](https://marketplace.visualstudio.com/items?itemName=datastep-labs.datastep-studio-r) | DataStep Studio for R | 0.10.3 | Run and debug R the way a statistical programmer works: a log with the line of… |
+| 2026-11-14 20:50:45 | [ubiufboeuf.mango-opener](https://marketplace.visualstudio.com/items?itemName=ubiufboeuf.mango-opener) | Opener | 0.1.0 | Lightweight, automatic file opener for VS Code and Code OSS |
+| 2026-11-14 21:03:30 | [quantum-as-a-service-vscode.qaas-vscode](https://marketplace.visualstudio.com/items?itemName=quantum-as-a-service-vscode.qaas-vscode) | Quantum-as-a-Service (QHEAppE) | 0.0.1 | Run OpenQASM 3 and Qiskit circuits on the VLQ quantum computer through LEXIS an… |
 
 ## Data source
 
