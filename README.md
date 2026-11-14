@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 06:19 UTC
+## Latest list — 2026-11-14 07:19 UTC
 
-New extensions published between 2026-11-14 04:19 UTC and 2026-11-14 06:19 UTC.
+New extensions published between 2026-11-14 05:19 UTC and 2026-11-14 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T06-19-49-306873Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T07-19-18-870071Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 05:23:04 | [Alejandro-x.codex-pastel](https://marketplace.visualstudio.com/items?itemName=Alejandro-x.codex-pastel) | Codex Pastel | 0.0.1 | A pitch-black VS Code theme with vivid, high-contrast colors. |
-| 2026-11-14 05:23:12 | [WuXinRan.rani18n-lens](https://marketplace.visualstudio.com/items?itemName=WuXinRan.rani18n-lens) | Ran i18n Lens | 1.0.0 | Offline i18n assistant: highlight keys, hover translations with open/refs, lang… |
-| 2026-11-14 05:52:02 | [semlayer.semlayer](https://marketplace.visualstudio.com/items?itemName=semlayer.semlayer) | semlayer | 0.1.0 | Infer a semantic layer from your warehouse, then catch wrong SQL before it runs. |
-| 2026-11-14 06:10:23 | [synkdevspace.synkdevspace](https://marketplace.visualstudio.com/items?itemName=synkdevspace.synkdevspace) | Synk Devspace | 0.1.1 | Zero-friction environment setup for Node.js and Python projects — detects, inst… |
+| 2026-11-14 06:28:48 | [Mrxixixixi.xinote](https://marketplace.visualstudio.com/items?itemName=Mrxixixixi.xinote) | XiNote | 0.1.16 | A set of tools for markdown notebook |
+| 2026-11-14 07:10:47 | [ljxlapin.lapin-tools](https://marketplace.visualstudio.com/items?itemName=ljxlapin.lapin-tools) | Lapin Tools | 1.0.1 | Code Runner button visibility and LaTeX PDF helpers, written using OpenAI Codex. |
 
 ## Data source
 
