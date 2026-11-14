@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T08:25:56.727Z,b2-apps.envguard-b2,b2-apps,EnvGuard — .env Sync & Secret Leak Linter,0.1.0,"Compare .env vs .env.example, highlight missing keys in Diagnostics, sync keys-only to .env.example without copying secrets, and warn on hardcoded API key patterns."
+2026-11-14T08:27:53.64Z,forwcc.markdown-multilevel-numbering,forwcc,Markdown Multilevel Numbering,1.1.12,VS Code extension for markdown multilevel numbering
+2026-11-14T08:44:52.827Z,ascentracore.ascentracore-codemitra,ascentracore,CodeMitra – Free AI Coding Assistant,1.5.1,"Free AI pair programmer. No sign up. Finds errors, fixes code, writes new code and answers questions about your whole project."
+2026-11-14T08:46:44.683Z,luat.luat-language-server,luat,LuaT - Language Server (Official),0.1.0,Language support for typed Lua targeting CfxLua.
