@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 18:20 UTC
+## Latest list — 2026-11-14 19:20 UTC
 
-New extensions published between 2026-11-14 16:20 UTC and 2026-11-14 18:20 UTC.
+New extensions published between 2026-11-14 17:20 UTC and 2026-11-14 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T18-20-10-753287Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T19-20-17-321551Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 17:03:20 | [MariaDB.mariadb-shell-agent](https://marketplace.visualstudio.com/items?itemName=MariaDB.mariadb-shell-agent) | MariaDB Shell Agent | 26.11.1 | An AI agent for MariaDB, with direct access to your VS Code workspace. |
-| 2026-11-14 17:35:05 | [morzan1001.vs-control-bridge](https://marketplace.visualstudio.com/items?itemName=morzan1001.vs-control-bridge) | VS Control — Claude Code Bridge | 0.0.2 | Expose native VS Code browser, testing and editor tools to the VS Control Claud… |
-| 2026-11-14 17:48:10 | [ull-ssoo.course-lab](https://marketplace.visualstudio.com/items?itemName=ull-ssoo.course-lab) | Course Lab | 0.5.0 | Interactive courses in VS Code: lessons, quizzes, terminal practice and self-ch… |
-| 2026-11-14 17:50:28 | [AucoinStatsInc.manpages-for-c](https://marketplace.visualstudio.com/items?itemName=AucoinStatsInc.manpages-for-c) | Manpages for C | 0.0.1 | Contributes a hover provider for system-level C manual pages (manpages) and let… |
-| 2026-11-14 18:04:02 | [puzaricloud.rest-api-client-local](https://marketplace.visualstudio.com/items?itemName=puzaricloud.rest-api-client-local) | REST API Client – Local Collections, No… | 1.0.0 | Local-first REST/GraphQL API client for VS Code. No account, no login, no cloud… |
-| 2026-11-14 18:05:28 | [SrujanRana.graphpilot](https://marketplace.visualstudio.com/items?itemName=SrujanRana.graphpilot) | GraphPilot – Codebase Knowledge Graph | 0.1.0 | Transform your workspace into an interactive knowledge graph with an AI agent t… |
-| 2026-11-14 18:08:58 | [Zahed-r.antigravity-session-monitor](https://marketplace.visualstudio.com/items?itemName=Zahed-r.antigravity-session-monitor) | GravityWatch for Antigravity | 0.1.0 | GravityWatch — read-only live status bar and bottom panel for Antigravity sessi… |
+| 2026-11-14 18:36:25 | [jmsapps.pysx](https://marketplace.visualstudio.com/items?itemName=jmsapps.pysx) | PYSX | 0.1.0 | PYSX markup highlighting, diagnostics and an optional resident language server… |
+| 2026-11-14 19:02:31 | [Trkod.turkod-vscode](https://marketplace.visualstudio.com/items?itemName=Trkod.turkod-vscode) | Türkod | 0.8.0 | Türkçe programlama dili Türkod için tam dil desteği: renklendirme, otomatik tam… |
+| 2026-11-14 19:10:14 | [Praktical.hermitile](https://marketplace.visualstudio.com/items?itemName=Praktical.hermitile) | HermiTile | 0.1.8 | Layouts for VS Code's panels, switched from the keyboard — like windows on a de… |
+| 2026-11-14 19:12:11 | [flightcoders.veyra-garden](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-garden) | Code Garden Veyra | 1.0.0 | Your coding grows a living garden in VS Code. Saving waters it, commits make fl… |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T18:36:25.567Z,jmsapps.pysx,jmsapps,PYSX,0.1.0,"PYSX markup highlighting, diagnostics and an optional resident language server for templates inside t-strings"
+2026-11-14T19:02:31.227Z,Trkod.turkod-vscode,Trkod,Türkod,0.8.0,"Türkçe programlama dili Türkod için tam dil desteği: renklendirme, otomatik tamamlama, canlı hata denetimi, TürkUI arayüzleri ve tek tuşla çalıştırma."
+2026-11-14T19:10:14.127Z,Praktical.hermitile,Praktical,HermiTile,0.1.8,"Layouts for VS Code's panels, switched from the keyboard — like windows on a desktop."
+2026-11-14T19:12:11.557Z,flightcoders.veyra-garden,flightcoders,Code Garden Veyra,1.0.0,"Your coding grows a living garden in VS Code. Saving waters it, commits make flowers bloom, fixing errors brings butterflies, and coding streaks unlock rare plants. Collect all nine."
