@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T13:18:45.89Z,jayaswalprateek.atelier-theme,jayaswalprateek,Atelier Black,0.1.0,"A quiet, borderless dark theme: one black surface, warm grey chrome, and color only where it means something."
+2026-11-14T13:23:13.37Z,bmukheja.vscode-click-timer,bmukheja,Click Timer,0.1.0,"A status bar countdown timer. Click to pause or resume, and open the menu to set time or manage the timer."
+2026-11-14T13:40:54.777Z,yfyang.texlsp-vscode,yfyang,texlsp LaTeX Language Server,0.1.0,"LaTeX diagnostics, completion, navigation, formatting, and macro expansion through texlsp."
+2026-11-14T13:48:02.64Z,tisakonicc.background-wallpaper-engine,tisakonicc,Background-Wallpaper-Engine,0.2.14,把 Steam Wallpaper Engine 的壁纸（视频 / 场景 / 网页）以及本地导入的视频、图片渲染成 IDE 背景，支持播放壁纸自带的背景音乐。
