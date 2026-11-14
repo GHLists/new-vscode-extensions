@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T21:05:55.56Z,IvanLjubicic.codepresenter,IvanLjubicic,Code Presenter Extension,1.0.1,Code Presenter extension
+2026-11-14T21:17:04.81Z,OfekE.mesa-inlist,OfekE,MESA Inlist,1.1.0,"Syntax highlighting, validation, hover docs and completion for MESA stellar evolution inlist files (inlist, project_inlist, pgstar, etc.). Built for MESA 26.4."
+2026-11-14T21:33:36.97Z,sgorbietto.0effort-tail,sgorbietto,0effort Tail,0.1.0,"Work continuity for Claude Code across your PCs: your workspace, chats and memory, self-hosted and end-to-end encrypted."
+2026-11-14T21:38:36.517Z,Chirag4904.pocket-context,Chirag4904,Pocket Context,0.0.10,Private scratchpads for your Git branches and project folders.
+2026-11-14T21:45:09.45Z,djhhh.ddo-code-flow,djhhh,Ddo-Code-Flow,1.0.0,查看 ddo-code-flow 流水的只读插件：运行中流水（存活流水）、本项目已收口 run 与全局历史——三源聚合数据面
+2026-11-14T21:47:53.667Z,puzaricloud.sqlite-viewer-editor,puzaricloud,"SQLite Viewer & Editor – Fast, Local, Free",1.0.0,"Open .db, .sqlite and .sqlite3 files in VS Code. Browse million-row tables, filter, sort, run SQL and inspect schema for free, with no file-size limit, no account and no ads. Works in Remote, WSL, Codespaces and vscode.dev (pure WASM). Pro: edit cells with a save diff, CSV/JSON export, CSV import."
+2026-11-14T21:55:01.293Z,maks-pavlovskyi.agy-chat,maks-pavlovskyi,Agy Chat for Gemini,0.3.1,"A minimalist, ergonomic chat interface for Google Gemini via the Antigravity CLI (ACP). No telemetry. Not affiliated with Google."
+2026-11-14T21:59:00.28Z,Suggestion.suggestion,Suggestion,suggestion,0.0.1,File suggestions support for prompt files.
+2026-11-14T22:00:45.973Z,alebona.siren,alebona,Siren,1.0.0,"Print-debugging for Python without the cleanup: siren(x) values inline in the editor, one-click removal, code checks, snippets and an HTTP client."
+2026-11-14T22:04:07.837Z,IhabRabaya.ihab-arabic-python-terminal,IhabRabaya,Arabic Python Terminal — Ihab Rabaya,1.1.0,Run Python files with connected Arabic text and automatic UTF-8 output in a dedicated terminal panel. By Ihab Rabaya.
+2026-11-14T22:10:06.393Z,archibara.archibara-vscode,archibara,Archibara,0.2.0,"Browse architecture, preview diagrams and share model context with coding agents."

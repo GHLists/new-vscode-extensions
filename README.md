@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-14 21:19 UTC
+## Latest list — 2026-11-14 22:20 UTC
 
-New extensions published between 2026-11-14 19:19 UTC and 2026-11-14 21:19 UTC.
+New extensions published between 2026-11-14 20:20 UTC and 2026-11-14 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-14T21-19-14-391563Z.csv)
+[Full CSV](data/new-extensions-2026-11-14T22-20-38-544125Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-14 20:20:59 | [tchbn-atsk.atsk-theme](https://marketplace.visualstudio.com/items?itemName=tchbn-atsk.atsk-theme) | atsk-theme | 0.0.1 | new theme |
-| 2026-11-14 20:37:19 | [LeScribeAudiolescribeaudio.srt-vtt-cleaner-fr-vscode](https://marketplace.visualstudio.com/items?itemName=LeScribeAudiolescribeaudio.srt-vtt-cleaner-fr-vscode) | SRT/VTT Cleaner FR & Corpus IRaMuTeQ (L… | 1.0.0 | Nettoyeur local de sous-titres .SRT / .VTT en français : déduplication YouTube,… |
-| 2026-11-14 20:40:30 | [tento.chatstudy](https://marketplace.visualstudio.com/items?itemName=tento.chatstudy) | ChatStudy for VS Code | 0.5.0 | ChatStudy の AI に、VS Code で書いているコードのことを相談できる拡張機能です。使うには ChatStudy のアカウントが必要です。 |
-| 2026-11-14 20:42:04 | [filippobrogi00.tether-sync](https://marketplace.visualstudio.com/items?itemName=filippobrogi00.tether-sync) | Tether - SSH Sync | 0.1.0 | Work on any SSH server while every extension runs on your own machine. Two-way… |
-| 2026-11-14 20:45:31 | [philip-stoyanov.data-modeler-companion-projects](https://marketplace.visualstudio.com/items?itemName=philip-stoyanov.data-modeler-companion-projects) | Data Modeler Companion | 0.9.0 | Visualize Database artifacts from Oracle Database and MSSQL Server, Transition… |
-| 2026-11-14 20:47:04 | [datastep-labs.datastep-studio-r](https://marketplace.visualstudio.com/items?itemName=datastep-labs.datastep-studio-r) | DataStep Studio for R | 0.10.3 | Run and debug R the way a statistical programmer works: a log with the line of… |
-| 2026-11-14 20:50:45 | [ubiufboeuf.mango-opener](https://marketplace.visualstudio.com/items?itemName=ubiufboeuf.mango-opener) | Opener | 0.1.0 | Lightweight, automatic file opener for VS Code and Code OSS |
-| 2026-11-14 21:03:30 | [quantum-as-a-service-vscode.qaas-vscode](https://marketplace.visualstudio.com/items?itemName=quantum-as-a-service-vscode.qaas-vscode) | Quantum-as-a-Service (QHEAppE) | 0.0.1 | Run OpenQASM 3 and Qiskit circuits on the VLQ quantum computer through LEXIS an… |
+| 2026-11-14 21:05:55 | [IvanLjubicic.codepresenter](https://marketplace.visualstudio.com/items?itemName=IvanLjubicic.codepresenter) | Code Presenter Extension | 1.0.1 | Code Presenter extension |
+| 2026-11-14 21:17:04 | [OfekE.mesa-inlist](https://marketplace.visualstudio.com/items?itemName=OfekE.mesa-inlist) | MESA Inlist | 1.1.0 | Syntax highlighting, validation, hover docs and completion for MESA stellar evo… |
+| 2026-11-14 21:33:36 | [sgorbietto.0effort-tail](https://marketplace.visualstudio.com/items?itemName=sgorbietto.0effort-tail) | 0effort Tail | 0.1.0 | Work continuity for Claude Code across your PCs: your workspace, chats and memo… |
+| 2026-11-14 21:38:36 | [Chirag4904.pocket-context](https://marketplace.visualstudio.com/items?itemName=Chirag4904.pocket-context) | Pocket Context | 0.0.10 | Private scratchpads for your Git branches and project folders. |
+| 2026-11-14 21:45:09 | [djhhh.ddo-code-flow](https://marketplace.visualstudio.com/items?itemName=djhhh.ddo-code-flow) | Ddo-Code-Flow | 1.0.0 | 查看 ddo-code-flow 流水的只读插件：运行中流水（存活流水）、本项目已收口 run 与全局历史——三源聚合数据面 |
+| 2026-11-14 21:47:53 | [puzaricloud.sqlite-viewer-editor](https://marketplace.visualstudio.com/items?itemName=puzaricloud.sqlite-viewer-editor) | SQLite Viewer & Editor – Fast, Local, F… | 1.0.0 | Open .db, .sqlite and .sqlite3 files in VS Code. Browse million-row tables, fil… |
+| 2026-11-14 21:55:01 | [maks-pavlovskyi.agy-chat](https://marketplace.visualstudio.com/items?itemName=maks-pavlovskyi.agy-chat) | Agy Chat for Gemini | 0.3.1 | A minimalist, ergonomic chat interface for Google Gemini via the Antigravity CL… |
+| 2026-11-14 21:59:00 | [Suggestion.suggestion](https://marketplace.visualstudio.com/items?itemName=Suggestion.suggestion) | suggestion | 0.0.1 | File suggestions support for prompt files. |
+| 2026-11-14 22:00:45 | [alebona.siren](https://marketplace.visualstudio.com/items?itemName=alebona.siren) | Siren | 1.0.0 | Print-debugging for Python without the cleanup: siren(x) values inline in the e… |
+| 2026-11-14 22:04:07 | [IhabRabaya.ihab-arabic-python-terminal](https://marketplace.visualstudio.com/items?itemName=IhabRabaya.ihab-arabic-python-terminal) | Arabic Python Terminal — Ihab Rabaya | 1.1.0 | Run Python files with connected Arabic text and automatic UTF-8 output in a ded… |
+| 2026-11-14 22:10:06 | [archibara.archibara-vscode](https://marketplace.visualstudio.com/items?itemName=archibara.archibara-vscode) | Archibara | 0.2.0 | Browse architecture, preview diagrams and share model context with coding agent… |
 
 ## Data source
 
