@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T02:15:21.467Z,masanori-satake.signboard-duo,masanori-satake,Signboard-Duo,1.0.2,A split-flap / LED board for your RSS & Atom feeds and CI results — topics arrive like trains and planes.
+2026-11-14T02:16:10.55Z,mercurial.google-keep-mcp,mercurial,Google Keep MCP,26.11.14,"Google Keep MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-14T02:16:12.9Z,mercurial.bigquery-mcp,mercurial,BigQuery MCP,26.11.14,"BigQuery MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-14T02:16:15.453Z,mercurial.google-maps-mcp,mercurial,Google Maps MCP,26.11.14,"Google Maps MCP server for Claude Code, Cursor, Copilot and five more AI agents."
+2026-11-14T02:20:45.937Z,honestrel.tape-test-explorer,honestrel,Test Explorer for tape,0.1.0,"Run and debug tape tests from the VS Code Testing view and the editor gutter, with per-assertion failures and expected/actual diffs at the failing line."
+2026-11-14T02:24:26.957Z,datasense.session-shelf,datasense,Session Shelf for Claude Code,0.3.1,"Keep your Claude Code sessions in colored groups that survive closing the tab — reopen any conversation from its group, with rich hover previews."
+2026-11-14T02:28:01.427Z,honestrel.poe-tasks,honestrel,Task Runner for Poe the Poet,0.1.0,"Run Poe the Poet tasks from pyproject.toml in VS Code: Run Task, a Poe Tasks side bar view, and Run buttons above each task."
+2026-11-14T02:28:32.997Z,Alejandro-x.colombian-dark-theme,Alejandro-x,Colombian Dark Theme,0.0.1,Colombia and its colors (at least the ones I like to see)
+2026-11-14T02:31:29.7Z,Biomotum.biomotum-developer,Biomotum,Biomotum Developer,0.0.2,Supports a standardized development environment for Biomotum repositories.
+2026-11-14T02:32:24.983Z,jhoon-dev.m365-code-agent,jhoon-dev,M365 Code Agent,0.2.0,"Unofficial, experimental coding agent that uses your signed-in M365 Copilot through Edge to read and edit a VS Code workspace."
+2026-11-14T02:34:49.297Z,honestrel.pytest-ini-helper,honestrel,INI Config Assistant for pytest,0.1.0,"Completion, hover docs and checks for pytest settings in pytest.ini, .pytest.ini, tox.ini ([pytest]) and setup.cfg ([tool:pytest]): typos, bad values, wrong section headers and missing testpaths."
+2026-11-14T02:47:12.14Z,selvagant.xhtml-reader-previewer,selvagant,XHTML Reader Previewer,0.0.1,Live XHTML and EPUB reader preview for VS Code-compatible IDEs.
