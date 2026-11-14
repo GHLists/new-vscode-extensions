@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-14T17:03:20.56Z,MariaDB.mariadb-shell-agent,MariaDB,MariaDB Shell Agent,26.11.1,"An AI agent for MariaDB, with direct access to your VS Code workspace."
+2026-11-14T17:35:05.753Z,morzan1001.vs-control-bridge,morzan1001,VS Control — Claude Code Bridge,0.0.2,"Expose native VS Code browser, testing and editor tools to the VS Control Claude Code plugin."
+2026-11-14T17:48:10.41Z,ull-ssoo.course-lab,ull-ssoo,Course Lab,0.5.0,"Interactive courses in VS Code: lessons, quizzes, terminal practice and self-checked exercises."
+2026-11-14T17:50:28.837Z,AucoinStatsInc.manpages-for-c,AucoinStatsInc,Manpages for C,0.0.1,Contributes a hover provider for system-level C manual pages (manpages) and lets you view them as cross-referenced HTML inside VS Code.
+2026-11-14T18:04:02.7Z,puzaricloud.rest-api-client-local,puzaricloud,"REST API Client – Local Collections, No Login",1.0.0,"Local-first REST/GraphQL API client for VS Code. No account, no login, no cloud: collections and environments are plain JSON files in your repo. Imports Thunder Client, Postman, cURL and OpenAPI."
+2026-11-14T18:05:28.413Z,SrujanRana.graphpilot,SrujanRana,GraphPilot – Codebase Knowledge Graph,0.1.0,Transform your workspace into an interactive knowledge graph with an AI agent that understands it structurally.
+2026-11-14T18:08:58.06Z,Zahed-r.antigravity-session-monitor,Zahed-r,GravityWatch for Antigravity,0.1.0,"GravityWatch — read-only live status bar and bottom panel for Antigravity session context windows, subagent token rollups, and 5h/weekly quota pools."
