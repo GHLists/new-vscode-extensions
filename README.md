@@ -12,27 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 17:21 UTC
+## Latest list — 2026-11-15 18:20 UTC
 
-New extensions published between 2026-11-15 15:21 UTC and 2026-11-15 17:21 UTC.
+New extensions published between 2026-11-15 16:20 UTC and 2026-11-15 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T17-21-28-987028Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T18-20-08-768936Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 16:13:42 | [puzaricloud.sql-database-client](https://marketplace.visualstudio.com/items?itemName=puzaricloud.sql-database-client) | SQL Database Client – PostgreSQL, MySQL… | 1.0.0 | Connect to PostgreSQL, MySQL/MariaDB, SQLite and SQL Server with unlimited free… |
-| 2026-11-15 16:16:04 | [puzaricloud.sftp-upload-on-save](https://marketplace.visualstudio.com/items?itemName=puzaricloud.sftp-upload-on-save) | SFTP/FTP Upload on Save – Deploy to Rem… | 1.0.0 | Upload files to your server on save over SFTP, FTP or FTPS. Reads the .vscode/s… |
-| 2026-11-15 16:17:47 | [AedisDev.monokai-evergreen](https://marketplace.visualstudio.com/items?itemName=AedisDev.monokai-evergreen) | Monokai Evergreen | 1.0.1 | Monokai, reimagined in deep green. Dark, composed and easy to live in. |
-| 2026-11-15 16:18:36 | [wayfarer6.vamp-mcp](https://marketplace.visualstudio.com/items?itemName=wayfarer6.vamp-mcp) | VAMP — Virtual Agent Machine Platform | 0.1.2 | Local VirtualBox MCP tools for AI agents and RPA, with detachable observation a… |
-| 2026-11-15 16:18:57 | [rezis-work.rezis-codeflow](https://marketplace.visualstudio.com/items?itemName=rezis-work.rezis-codeflow) | Rezis CodeFlow | 1.0.2 | Call graphs, flowcharts, and sequence diagrams for TypeScript, JavaScript, and… |
-| 2026-11-15 16:22:21 | [sniptide.sniptide-vscode](https://marketplace.visualstudio.com/items?itemName=sniptide.sniptide-vscode) | Sniptide | 0.1.0 | Share a selection as a link, save it to a collection, and insert your snippets… |
-| 2026-11-15 16:25:40 | [vitortrack.kronos](https://marketplace.visualstudio.com/items?itemName=vitortrack.kronos) | Kronos — Agente de Código | 0.1.29 | Agente de código autônomo em formato de chat: ReAct, planejamento, revisão inde… |
-| 2026-11-15 16:29:04 | [BareMetalTestLab.vscode-bm-debug-mcp](https://marketplace.visualstudio.com/items?itemName=BareMetalTestLab.vscode-bm-debug-mcp) | Bare Metal Debug MCP | 1.0.0 | Exposes VS Code debugging (any DAP adapter) as MCP tools over HTTP for AI assis… |
-| 2026-11-15 16:51:10 | [KORVO.korvo](https://marketplace.visualstudio.com/items?itemName=KORVO.korvo) | KORVO | 0.1.2 | Chat with your organization's KORVO models and let the KORVO agent work in your… |
-| 2026-11-15 17:00:51 | [patrickluzdev.esquadro](https://marketplace.visualstudio.com/items?itemName=patrickluzdev.esquadro) | Esquadro | 0.1.1 | Syntax highlighting, live errors and formatting for Esquadro's .esq files. |
-| 2026-11-15 17:01:45 | [ErinSteph.handheld-screen-studio](https://marketplace.visualstudio.com/items?itemName=ErinSteph.handheld-screen-studio) | Handheld Screen Studio | 0.2.0 | Visual layouts for Nintendo handhelds, from Game Boy to New 3DS, plus static C… |
-| 2026-11-15 17:02:55 | [spingras.hue-md](https://marketplace.visualstudio.com/items?itemName=spingras.hue-md) | Hue MD | 0.1.1 | Rich color spans and styled callout boxes for Markdown (.hue.md) with live side… |
-| 2026-11-15 17:10:34 | [Latent-Lab.latent-config-lab](https://marketplace.visualstudio.com/items?itemName=Latent-Lab.latent-config-lab) | Latent Config Lab | 0.0.1 | Diagnostics, completion, hover and navigation for the config files of Latent Co… |
+| 2026-11-15 17:18:06 | [zovo.zovo-flame-graph](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-flame-graph) | Flame Graph & pprof Viewer | 0.1.0 | Flame graph viewer for CPU and memory profiles: .cpuprofile, .heapprofile, Chro… |
+| 2026-11-15 17:20:07 | [zovo.zovo-icalendar-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-icalendar-viewer) | iCalendar Viewer & ICS, vCard | 0.1.0 | iCalendar viewer for VS Code: open .ics and .ifb files as a calendar with month… |
+| 2026-11-15 17:22:06 | [zovo.zovo-dmn-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-dmn-editor) | DMN Decision Table Editor | 0.1.0 | DMN editor for VS Code: open .dmn files (DMN 1.1 to 1.6) as decision tables, a… |
+| 2026-11-15 17:24:06 | [zovo.zovo-subtitles-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-subtitles-editor) | Subtitles & SRT Editor, VTT | 0.1.0 | Subtitles editor for SRT, WebVTT, ASS, SSA and SBV files: an editable cue table… |
+| 2026-11-15 17:25:50 | [tipandtale.blood-sweat-and-code](https://marketplace.visualstudio.com/items?itemName=tipandtale.blood-sweat-and-code) | Blood, Sweat and Code | 0.1.1 | A cheerful pastel-purple coding companion for ARMY. Track sweat (keystrokes), b… |
+| 2026-11-15 17:26:06 | [zovo.zovo-fastq-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-fastq-viewer) | FASTQ & FASTA Viewer, VCF, SAM | 0.1.0 | FASTQ viewer and FASTA viewer for VCF, SAM, BED and GFF files, plain or .gz: a… |
+| 2026-11-15 17:28:05 | [zovo.zovo-org-mode](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-org-mode) | Org Mode Viewer & Org Preview | 0.1.0 | Org mode viewer for VS Code: a live Org preview beside the editor with folding… |
+| 2026-11-15 17:35:00 | [camposcloud.camposcloud](https://marketplace.visualstudio.com/items?itemName=camposcloud.camposcloud) | CamposCloud | 1.1.0 | Manage CamposCloud applications, files and databases and watch the live console… |
+| 2026-11-15 17:47:19 | [Persenb.nailong](https://marketplace.visualstudio.com/items?itemName=Persenb.nailong) | Nailong | 0.0.1 | Adds a tiny, unofficial Nailong to your status bar |
+| 2026-11-15 17:48:22 | [SamuelVergaraMartin.nexocolor-theme](https://marketplace.visualstudio.com/items?itemName=SamuelVergaraMartin.nexocolor-theme) | NexoColor Theme | 0.0.3 | NexoColor Theme for VSC |
+| 2026-11-15 17:57:15 | [khatisani.fairy-dust-git-push](https://marketplace.visualstudio.com/items?itemName=khatisani.fairy-dust-git-push) | Fairy Dust: Git Push Sound | 0.0.2 | Plays an audio clip on git push |
+| 2026-11-15 17:58:27 | [VinayakSharma.read-aloud-claude-code](https://marketplace.visualstudio.com/items?itemName=VinayakSharma.read-aloud-claude-code) | Read Aloud: Claude Code Response (Termi… | 0.1.3 | Read Claude Code's latest terminal response aloud, with pause and stop controls. |
+| 2026-11-15 18:03:14 | [cdwilson.open-in-dinkus](https://marketplace.visualstudio.com/items?itemName=cdwilson.open-in-dinkus) | Open in Dinkus | 0.1.0 | Open Markdown files in the Dinkus markdown studio for macOS from the Explorer,… |
+| 2026-11-15 18:05:02 | [njf.njf-theme](https://marketplace.visualstudio.com/items?itemName=njf.njf-theme) | NJF Theme | 0.1.5 | GitHub Dark with expressive Primer colours and Python semantic highlighting. |
 
 ## Data source
 
