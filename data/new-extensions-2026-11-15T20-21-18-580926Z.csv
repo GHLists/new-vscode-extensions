@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T19:29:51.557Z,beatahumeniuk.data-lab,beatahumeniuk,DataLab,1.1.0,"Sample data in any format (JSON, XML, YAML, CSV, key=value) and its transformations step by step: filter, sort, merge, compare and compute, with every step's result as a table."
+2026-11-15T19:32:11.983Z,coldsofttech.sweepito,coldsofttech,Sweepito,0.1.0,"Safely clean caches and build artifacts from inside VS Code. Runs natively, with no Python needed."
+2026-11-15T19:38:57.07Z,SmallStepsStudio.can-atlas,SmallStepsStudio,CAN Atlas,0.1.0,"CAN DBC workbench: outline, hover, problems, frame decode and encode, bit layout. Pro: DBC diff, trace decode, statistics, documentation. Works offline; only the licence check uses the network."
+2026-11-15T19:47:45.637Z,PabloHenriquez.workspace-style,PabloHenriquez,Workspace Style,0.0.1,"Identify with colors, badges, and prefixes which folder or repository each tab comes from in a multi-root workspace."
+2026-11-15T19:56:41.737Z,PigonAI.echolive,PigonAI,EchoLive™,0.0.1,Coming soon from PiGON.
+2026-11-15T19:57:10.907Z,PigonAI.echoteams,PigonAI,EchoTeams™,0.0.1,Coming soon from PiGON.
+2026-11-15T20:01:57.623Z,my-workspace-tools.flutter-qei-tools-zev,my-workspace-tools,Flutter Zev,1.0.17,Инструменты для текущей рабочей папки.
+2026-11-15T20:02:42.09Z,zovo.zovo-gettext-editor,zovo,Gettext PO Editor & MO Viewer,0.1.0,"Gettext editor for VS Code: open .po and .pot files as a translation table with untranslated and fuzzy filters, search, plural forms and the header, and save the same file with comments, obsolete entries and line wrapping kept. Compiled .mo files open read-only. Offline, no account."

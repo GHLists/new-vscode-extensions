@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 19:20 UTC
+## Latest list — 2026-11-15 20:21 UTC
 
-New extensions published between 2026-11-15 17:20 UTC and 2026-11-15 19:20 UTC.
+New extensions published between 2026-11-15 18:21 UTC and 2026-11-15 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T19-20-56-155767Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T20-21-18-580926Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 18:06:54 | [benjy-the-bear.bear-code](https://marketplace.visualstudio.com/items?itemName=benjy-the-bear.bear-code) | BearCode | 0.1.0 | A whole dev team of AI agents in your editor. |
-| 2026-11-15 18:24:58 | [paugarcia32.wabi-theme](https://marketplace.visualstudio.com/items?itemName=paugarcia32.wabi-theme) | Wabi | 0.1.0 | A minimal, calm and warm colour theme, in dark and light. |
-| 2026-11-15 18:26:57 | [everyinit.everyinit](https://marketplace.visualstudio.com/items?itemName=everyinit.everyinit) | Everyinit | 0.2.8 | Language support, diagnostics, and workflow orchestration for Evin (.flow) and… |
-| 2026-11-15 18:33:18 | [cleangamedev.revue-companion](https://marketplace.visualstudio.com/items?itemName=cleangamedev.revue-companion) | Revue Companion | 0.1.0 | Your repository's pull requests from Revue, in VS Code: the list, each one's pa… |
-| 2026-11-15 18:55:22 | [TayambaMwanza.angular-component-jumper](https://marketplace.visualstudio.com/items?itemName=TayambaMwanza.angular-component-jumper) | Angular Component Jumper | 1.0.0 | Fast status-bar navigation for Angular component files. |
-| 2026-11-15 19:01:43 | [jackprtda.agent-rtl](https://marketplace.visualstudio.com/items?itemName=jackprtda.agent-rtl) | Agent RTL — Claude Code, Codex & Kimi | 0.5.2 | Smart Persian and Arabic direction for Claude Code, Codex and Kimi: mixed-langu… |
-| 2026-11-15 19:15:04 | [derekhoang.live-wallpaper-studio](https://marketplace.visualstudio.com/items?itemName=derekhoang.live-wallpaper-studio) | Live Wallpaper Studio | 1.0.0 | Wallpapers, GIFs, videos & animated pixel themes for VS Code and Antigravity ID… |
+| 2026-11-15 19:29:51 | [beatahumeniuk.data-lab](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.data-lab) | DataLab | 1.1.0 | Sample data in any format (JSON, XML, YAML, CSV, key=value) and its transformat… |
+| 2026-11-15 19:32:11 | [coldsofttech.sweepito](https://marketplace.visualstudio.com/items?itemName=coldsofttech.sweepito) | Sweepito | 0.1.0 | Safely clean caches and build artifacts from inside VS Code. Runs natively, wit… |
+| 2026-11-15 19:38:57 | [SmallStepsStudio.can-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.can-atlas) | CAN Atlas | 0.1.0 | CAN DBC workbench: outline, hover, problems, frame decode and encode, bit layou… |
+| 2026-11-15 19:47:45 | [PabloHenriquez.workspace-style](https://marketplace.visualstudio.com/items?itemName=PabloHenriquez.workspace-style) | Workspace Style | 0.0.1 | Identify with colors, badges, and prefixes which folder or repository each tab… |
+| 2026-11-15 19:56:41 | [PigonAI.echolive](https://marketplace.visualstudio.com/items?itemName=PigonAI.echolive) | EchoLive™ | 0.0.1 | Coming soon from PiGON. |
+| 2026-11-15 19:57:10 | [PigonAI.echoteams](https://marketplace.visualstudio.com/items?itemName=PigonAI.echoteams) | EchoTeams™ | 0.0.1 | Coming soon from PiGON. |
+| 2026-11-15 20:01:57 | [my-workspace-tools.flutter-qei-tools-zev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-zev) | Flutter Zev | 1.0.17 | Инструменты для текущей рабочей папки. |
+| 2026-11-15 20:02:42 | [zovo.zovo-gettext-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-gettext-editor) | Gettext PO Editor & MO Viewer | 0.1.0 | Gettext editor for VS Code: open .po and .pot files as a translation table with… |
 
 ## Data source
 
