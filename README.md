@@ -12,19 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 21:21 UTC
+## Latest list — 2026-11-15 22:19 UTC
 
-New extensions published between 2026-11-15 19:21 UTC and 2026-11-15 21:21 UTC.
+New extensions published between 2026-11-15 20:19 UTC and 2026-11-15 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T21-21-11-596106Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T22-19-59-424355Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 20:15:59 | [ahmedkhattab.posedge](https://marketplace.visualstudio.com/items?itemName=ahmedkhattab.posedge) | Posedge — SystemVerilog & UVM Theme | 0.8.0 | SystemVerilog & UVM color themes, lexer, file icons and clock where every color… |
-| 2026-11-15 20:18:21 | [coppersail.branchflow-for-git](https://marketplace.visualstudio.com/items?itemName=coppersail.branchflow-for-git) | Branchflow for Git | 1.0.0 | A clear Git graph for VS Code: branches in their own lanes with master and deve… |
-| 2026-11-15 20:33:37 | [SmallStepsStudio.big-log-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.big-log-atlas) | Big Log Atlas | 0.1.0 | Open multi-gigabyte log files without loading them: instant scrolling, search,… |
-| 2026-11-15 20:39:01 | [hakase-studio.tsumugi](https://marketplace.visualstudio.com/items?itemName=hakase-studio.tsumugi) | Tsumugi | 1.0.0 | A development tool for writing, testing and managing various components of Game… |
-| 2026-11-15 20:57:40 | [blown.vscode-ha-config](https://marketplace.visualstudio.com/items?itemName=blown.vscode-ha-config) | HA Config - Home Assistant Configuration | 3.0.0 | Completion for entity-id's in Home Assistant Configurations |
+| 2026-11-15 21:29:44 | [puzaricloud.i18n-translation-editor](https://marketplace.visualstudio.com/items?itemName=puzaricloud.i18n-translation-editor) | i18n Translation Editor – Missing Keys… | 1.0.0 | See the translated text next to every t('key'), $t, i18n.t and <FormattedMessag… |
+| 2026-11-15 21:32:20 | [GALA.gala](https://marketplace.visualstudio.com/items?itemName=GALA.gala) | GALA | 0.102.0 | GALA language support: syntax highlighting plus the full GALA language server (… |
+| 2026-11-15 21:36:10 | [my-workspace-tools.flutter-qei-tools-xev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-xev) | Flutter Xev | 1.0.18 | Инструменты для текущей рабочей папки. |
+| 2026-11-15 21:46:15 | [maciejziel.pytest-queryguard](https://marketplace.visualstudio.com/items?itemName=maciejziel.pytest-queryguard) | pytest-queryguard | 0.1.0 | Shows the N+1 queries that pytest-queryguard found in the last test run on thei… |
+| 2026-11-15 21:57:54 | [ArnauGiralt.leggio](https://marketplace.visualstudio.com/items?itemName=ArnauGiralt.leggio) | Leggio | 0.1.0 | Reads markdown the way Leggio does: a calm look for the built-in preview, with… |
+| 2026-11-15 21:58:55 | [boomba286.sass-scss-completion](https://marketplace.visualstudio.com/items?itemName=boomba286.sass-scss-completion) | Sass/SCSS Parameter Completion | 0.1.0 | Completes Sass function and mixin parameter names in SCSS, Sass, and Vue files. |
 
 ## Data source
 

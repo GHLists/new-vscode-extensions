@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T21:29:44.227Z,puzaricloud.i18n-translation-editor,puzaricloud,i18n Translation Editor – Missing Keys & Inline Preview,1.0.0,"See the translated text next to every t('key'), $t, i18n.t and <FormattedMessage id>, hover for every language, missing-key warnings per language, go to definition and a quick fix to add a key. Works with i18next, react-i18next, vue-i18n, next-intl and react-intl, JSON and YAML. Pro: translation tab"
+2026-11-15T21:32:20.08Z,GALA.gala,GALA,GALA,0.102.0,"GALA language support: syntax highlighting plus the full GALA language server (`gala lsp`) — diagnostics, hover, go-to-definition, references, completion, signature help, inlay hints and symbols."
+2026-11-15T21:36:10.543Z,my-workspace-tools.flutter-qei-tools-xev,my-workspace-tools,Flutter Xev,1.0.18,Инструменты для текущей рабочей папки.
+2026-11-15T21:46:15.607Z,maciejziel.pytest-queryguard,maciejziel,pytest-queryguard,0.1.0,"Shows the N+1 queries that pytest-queryguard found in the last test run on their lines: SQL, count and fix on hover."
+2026-11-15T21:57:54.443Z,ArnauGiralt.leggio,ArnauGiralt,Leggio,0.1.0,"Reads markdown the way Leggio does: a calm look for the built-in preview, with diagrams, task lists, and your own fonts and colors."
+2026-11-15T21:58:55.707Z,boomba286.sass-scss-completion,boomba286,Sass/SCSS Parameter Completion,0.1.0,"Completes Sass function and mixin parameter names in SCSS, Sass, and Vue files."
