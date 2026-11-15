@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T08:18:36.853Z,Snezhig.codex-harbor,Snezhig,Codex Harbor,0.1.0,"Remote-aware Codex session manager with local usage, search, groups, archive, and tab reload."
+2026-11-15T08:24:32.13Z,llmcode.llmcode,llmcode,LLMcode,0.1.1,"opencode remastered as a VS Code extension — chat, inline code assistant, and full config control"
+2026-11-15T08:32:48.993Z,Algotricz.fixlock,Algotricz,fixlock by Algotricz — stop AI from undoing your bug fixes,0.7.1,"See locked bug fixes and features right in the editor, get warned the moment an edit changes one, lock a selection in two clicks, and give Copilot agent mode fixlock's MCP tools so it checks before editing. A product of Algotricz."
+2026-11-15T08:43:43.96Z,saki1999.rust-agent,saki1999,铁锈战争 Mod 生成 Agent,0.0.1,通过对话生成铁锈战争 mod 项目文件的 AI 插件（RAG + 多智能体）
+2026-11-15T08:48:42.123Z,beshoysabri.diagramist,beshoysabri,Diagramist: Mermaid & Pele diagrams for AI agents,0.1.2,"Mermaid diagrams checked with Mermaid.js and Pele: Problems-panel errors, a live preview and export, and setup for Claude Code, Gemini CLI, Antigravity CLI and Codex."

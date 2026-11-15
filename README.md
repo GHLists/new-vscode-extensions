@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 08:21 UTC
+## Latest list — 2026-11-15 09:21 UTC
 
-New extensions published between 2026-11-15 06:21 UTC and 2026-11-15 08:21 UTC.
+New extensions published between 2026-11-15 07:21 UTC and 2026-11-15 09:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T08-21-10-256803Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T09-21-03-576449Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 07:24:48 | [Ym-mY.codex-usage-widget](https://marketplace.visualstudio.com/items?itemName=Ym-mY.codex-usage-widget) | Codex Usage Widget | 0.5.32 | Session usage and shared date statistics inside the Codex composer. |
-| 2026-11-15 07:46:31 | [zovo.zovo-git-patch](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-git-patch) | Git Patch Viewer & Apply Diff | 0.1.0 | Git patch viewer and apply tool: open .patch, .diff and format-patch emails as… |
-| 2026-11-15 08:05:21 | [hari72.bis-code](https://marketplace.visualstudio.com/items?itemName=hari72.bis-code) | bis-code | 0.0.1 | An AI coding agent for VS Code powered by OpenRouter: chat, read and search you… |
+| 2026-11-15 08:18:36 | [Snezhig.codex-harbor](https://marketplace.visualstudio.com/items?itemName=Snezhig.codex-harbor) | Codex Harbor | 0.1.0 | Remote-aware Codex session manager with local usage, search, groups, archive, a… |
+| 2026-11-15 08:24:32 | [llmcode.llmcode](https://marketplace.visualstudio.com/items?itemName=llmcode.llmcode) | LLMcode | 0.1.1 | opencode remastered as a VS Code extension — chat, inline code assistant, and f… |
+| 2026-11-15 08:32:48 | [Algotricz.fixlock](https://marketplace.visualstudio.com/items?itemName=Algotricz.fixlock) | fixlock by Algotricz — stop AI from und… | 0.7.1 | See locked bug fixes and features right in the editor, get warned the moment an… |
+| 2026-11-15 08:43:43 | [saki1999.rust-agent](https://marketplace.visualstudio.com/items?itemName=saki1999.rust-agent) | 铁锈战争 Mod 生成 Agent | 0.0.1 | 通过对话生成铁锈战争 mod 项目文件的 AI 插件（RAG + 多智能体） |
+| 2026-11-15 08:48:42 | [beshoysabri.diagramist](https://marketplace.visualstudio.com/items?itemName=beshoysabri.diagramist) | Diagramist: Mermaid & Pele diagrams for… | 0.1.2 | Mermaid diagrams checked with Mermaid.js and Pele: Problems-panel errors, a liv… |
 
 ## Data source
 
