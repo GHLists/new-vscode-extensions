@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 20:21 UTC
+## Latest list — 2026-11-15 21:21 UTC
 
-New extensions published between 2026-11-15 18:21 UTC and 2026-11-15 20:21 UTC.
+New extensions published between 2026-11-15 19:21 UTC and 2026-11-15 21:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T20-21-18-580926Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T21-21-11-596106Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 19:29:51 | [beatahumeniuk.data-lab](https://marketplace.visualstudio.com/items?itemName=beatahumeniuk.data-lab) | DataLab | 1.1.0 | Sample data in any format (JSON, XML, YAML, CSV, key=value) and its transformat… |
-| 2026-11-15 19:32:11 | [coldsofttech.sweepito](https://marketplace.visualstudio.com/items?itemName=coldsofttech.sweepito) | Sweepito | 0.1.0 | Safely clean caches and build artifacts from inside VS Code. Runs natively, wit… |
-| 2026-11-15 19:38:57 | [SmallStepsStudio.can-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.can-atlas) | CAN Atlas | 0.1.0 | CAN DBC workbench: outline, hover, problems, frame decode and encode, bit layou… |
-| 2026-11-15 19:47:45 | [PabloHenriquez.workspace-style](https://marketplace.visualstudio.com/items?itemName=PabloHenriquez.workspace-style) | Workspace Style | 0.0.1 | Identify with colors, badges, and prefixes which folder or repository each tab… |
-| 2026-11-15 19:56:41 | [PigonAI.echolive](https://marketplace.visualstudio.com/items?itemName=PigonAI.echolive) | EchoLive™ | 0.0.1 | Coming soon from PiGON. |
-| 2026-11-15 19:57:10 | [PigonAI.echoteams](https://marketplace.visualstudio.com/items?itemName=PigonAI.echoteams) | EchoTeams™ | 0.0.1 | Coming soon from PiGON. |
-| 2026-11-15 20:01:57 | [my-workspace-tools.flutter-qei-tools-zev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-zev) | Flutter Zev | 1.0.17 | Инструменты для текущей рабочей папки. |
-| 2026-11-15 20:02:42 | [zovo.zovo-gettext-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-gettext-editor) | Gettext PO Editor & MO Viewer | 0.1.0 | Gettext editor for VS Code: open .po and .pot files as a translation table with… |
+| 2026-11-15 20:15:59 | [ahmedkhattab.posedge](https://marketplace.visualstudio.com/items?itemName=ahmedkhattab.posedge) | Posedge — SystemVerilog & UVM Theme | 0.8.0 | SystemVerilog & UVM color themes, lexer, file icons and clock where every color… |
+| 2026-11-15 20:18:21 | [coppersail.branchflow-for-git](https://marketplace.visualstudio.com/items?itemName=coppersail.branchflow-for-git) | Branchflow for Git | 1.0.0 | A clear Git graph for VS Code: branches in their own lanes with master and deve… |
+| 2026-11-15 20:33:37 | [SmallStepsStudio.big-log-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.big-log-atlas) | Big Log Atlas | 0.1.0 | Open multi-gigabyte log files without loading them: instant scrolling, search,… |
+| 2026-11-15 20:39:01 | [hakase-studio.tsumugi](https://marketplace.visualstudio.com/items?itemName=hakase-studio.tsumugi) | Tsumugi | 1.0.0 | A development tool for writing, testing and managing various components of Game… |
+| 2026-11-15 20:57:40 | [blown.vscode-ha-config](https://marketplace.visualstudio.com/items?itemName=blown.vscode-ha-config) | HA Config - Home Assistant Configuration | 3.0.0 | Completion for entity-id's in Home Assistant Configurations |
 
 ## Data source
 
