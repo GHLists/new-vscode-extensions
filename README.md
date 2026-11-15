@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 13:20 UTC
+## Latest list — 2026-11-15 14:21 UTC
 
-New extensions published between 2026-11-15 11:20 UTC and 2026-11-15 13:20 UTC.
+New extensions published between 2026-11-15 12:21 UTC and 2026-11-15 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T13-20-13-441682Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T14-21-06-555253Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 12:20:18 | [MikeLucis.comment-translate-lmstudio](https://marketplace.visualstudio.com/items?itemName=MikeLucis.comment-translate-lmstudio) | Comment Translate: LM Studio | 0.1.0 | LM Studio local LLM translate source for Comment Translate |
-| 2026-11-15 12:21:46 | [JIALINLIN.tex-bionic-morandi](https://marketplace.visualstudio.com/items?itemName=JIALINLIN.tex-bionic-morandi) | TeX Bionic Morandi | 1.0.0 | Bionic Reading for LaTeX (.tex) files, with soft Morandi colours and adjustable… |
-| 2026-11-15 12:29:19 | [ShavilyaRajput.appledouble-cleaner](https://marketplace.visualstudio.com/items?itemName=ShavilyaRajput.appledouble-cleaner) | AppleDouble Cleaner | 0.0.1 | Automatically moves paired macOS AppleDouble sidecar files to Trash. |
-| 2026-11-15 12:34:39 | [anetsystems.clavis-opener](https://marketplace.visualstudio.com/items?itemName=anetsystems.clavis-opener) | Clavis | 1.0.0 | Browse workspace files, preview Markdown and images, and inspect CSS, HTML, Jav… |
-| 2026-11-15 12:38:34 | [statescout-ai.statescout-vscode](https://marketplace.visualstudio.com/items?itemName=statescout-ai.statescout-vscode) | StateScout AI | 0.2.1 | Run policy-aware UI audits and review forbidden interface states without leavin… |
-| 2026-11-15 12:54:44 | [philipp-manhart.datsumi](https://marketplace.visualstudio.com/items?itemName=philipp-manhart.datsumi) | Datsumi — Database Explorer | 0.0.1 | A modern, unified database client for VS Code. Explore, query, and manage SQL a… |
-| 2026-11-15 12:56:49 | [chamnan.cyberchef-vscode](https://marketplace.visualstudio.com/items?itemName=chamnan.cyberchef-vscode) | CyberChef (Offline) | 0.2.1 | The Cyber Swiss Army Knife inside VS Code. Runs the full GCHQ CyberChef web app… |
-| 2026-11-15 13:05:48 | [KazushiKamegawa.sound-notifier-local-audio-hostex](https://marketplace.visualstudio.com/items?itemName=KazushiKamegawa.sound-notifier-local-audio-hostex) | Sound Notifier Local Audio Hostex | 1.0.1 | Plays Sound Notifier completion audio on the local VS Code client. |
-| 2026-11-15 13:09:30 | [Joseph-dev.github-compagnon](https://marketplace.visualstudio.com/items?itemName=Joseph-dev.github-compagnon) | GitHub Companion for VS Code | 0.0.16 | Gère ton projet GitHub (création de repo, commit, push) via des boutons groupés… |
+| 2026-11-15 13:15:58 | [agenteca.agenteca](https://marketplace.visualstudio.com/items?itemName=agenteca.agenteca) | Agenteca | 0.1.0 | Browse, install and update AI agent packages for Claude Code, Codex, GitHub Cop… |
+| 2026-11-15 13:18:47 | [otoneko1102.ushiroe](https://marketplace.visualstudio.com/items?itemName=otoneko1102.ushiroe) | UshiroE | 0.1.1 | Add background images to VS Code. Use one for the entire window or set them by… |
+| 2026-11-15 13:36:42 | [sebgad.playbook-runner](https://marketplace.visualstudio.com/items?itemName=sebgad.playbook-runner) | Playbook Runner | 0.5.0 | Run Ansible playbooks and manage vaults from a dashboard, discovered from the f… |
+| 2026-11-15 13:45:02 | [hsctech-dev.blobl-test-runner](https://marketplace.visualstudio.com/items?itemName=hsctech-dev.blobl-test-runner) | Bloblang Test Runner | 0.0.1 | Test explorer for bento bloblang/YAML test definitions, with run and debug prof… |
+| 2026-11-15 13:57:34 | [codepulse-tracker.codepulse-tracker](https://marketplace.visualstudio.com/items?itemName=codepulse-tracker.codepulse-tracker) | CodePulse Tracker | 1.0.3 | Offline-first productivity analytics dashboard for VS Code. |
+| 2026-11-15 14:00:48 | [Symthosm.gythosm](https://marketplace.visualstudio.com/items?itemName=Symthosm.gythosm) | Gythosm | 1.0.0 | Generate side-by-side HTML diff reports and 3-column merge reports for local an… |
+| 2026-11-15 14:07:25 | [samadrit-dev.route-mapper](https://marketplace.visualstudio.com/items?itemName=samadrit-dev.route-mapper) | Route Mapper | 0.0.1 | Auto-detects backend routes (Express, Next.js, Flask, FastAPI, Go) and draws ho… |
 
 ## Data source
 

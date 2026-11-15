@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T13:15:58.727Z,agenteca.agenteca,agenteca,Agenteca,0.1.0,"Browse, install and update AI agent packages for Claude Code, Codex, GitHub Copilot and Cursor."
+2026-11-15T13:18:47.04Z,otoneko1102.ushiroe,otoneko1102,UshiroE,0.1.1,"Add background images to VS Code. Use one for the entire window or set them by area, with presets, image rotation, and live updates."
+2026-11-15T13:36:42.8Z,sebgad.playbook-runner,sebgad,Playbook Runner,0.5.0,"Run Ansible playbooks and manage vaults from a dashboard, discovered from the filesystem."
+2026-11-15T13:45:02.31Z,hsctech-dev.blobl-test-runner,hsctech-dev,Bloblang Test Runner,0.0.1,"Test explorer for bento bloblang/YAML test definitions, with run and debug profiles (blobl-dbg DAP)."
+2026-11-15T13:57:34.137Z,codepulse-tracker.codepulse-tracker,codepulse-tracker,CodePulse Tracker,1.0.3,Offline-first productivity analytics dashboard for VS Code.
+2026-11-15T14:00:48.737Z,Symthosm.gythosm,Symthosm,Gythosm,1.0.0,"Generate side-by-side HTML diff reports and 3-column merge reports for local and Git repositories, plus a C/C++ color theme."
+2026-11-15T14:07:25.043Z,samadrit-dev.route-mapper,samadrit-dev,Route Mapper,0.0.1,"Auto-detects backend routes (Express, Next.js, Flask, FastAPI, Go) and draws how each endpoint flows through your code, from request to response."
