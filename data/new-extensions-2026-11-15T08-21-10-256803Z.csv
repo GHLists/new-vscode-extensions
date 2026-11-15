@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T07:24:48.84Z,Ym-mY.codex-usage-widget,Ym-mY,Codex Usage Widget,0.5.32,Session usage and shared date statistics inside the Codex composer.
+2026-11-15T07:46:31.06Z,zovo.zovo-git-patch,zovo,Git Patch Viewer & Apply Diff,0.1.0,"Git patch viewer and apply tool: open .patch, .diff and format-patch emails as a side-by-side diff per file, then apply or reverse them in the workspace after a dry run. Paths with spaces, multi-root, clipboard. Offline."
+2026-11-15T08:05:21.977Z,hari72.bis-code,hari72,bis-code,0.0.1,"An AI coding agent for VS Code powered by OpenRouter: chat, read and search your project, edit files and run commands with any OpenRouter model."
