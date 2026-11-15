@@ -12,20 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 22:19 UTC
+## Latest list — 2026-11-15 23:20 UTC
 
-New extensions published between 2026-11-15 20:19 UTC and 2026-11-15 22:19 UTC.
+New extensions published between 2026-11-15 21:20 UTC and 2026-11-15 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T22-19-59-424355Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T23-20-01-61457Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 21:29:44 | [puzaricloud.i18n-translation-editor](https://marketplace.visualstudio.com/items?itemName=puzaricloud.i18n-translation-editor) | i18n Translation Editor – Missing Keys… | 1.0.0 | See the translated text next to every t('key'), $t, i18n.t and <FormattedMessag… |
-| 2026-11-15 21:32:20 | [GALA.gala](https://marketplace.visualstudio.com/items?itemName=GALA.gala) | GALA | 0.102.0 | GALA language support: syntax highlighting plus the full GALA language server (… |
-| 2026-11-15 21:36:10 | [my-workspace-tools.flutter-qei-tools-xev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-xev) | Flutter Xev | 1.0.18 | Инструменты для текущей рабочей папки. |
-| 2026-11-15 21:46:15 | [maciejziel.pytest-queryguard](https://marketplace.visualstudio.com/items?itemName=maciejziel.pytest-queryguard) | pytest-queryguard | 0.1.0 | Shows the N+1 queries that pytest-queryguard found in the last test run on thei… |
-| 2026-11-15 21:57:54 | [ArnauGiralt.leggio](https://marketplace.visualstudio.com/items?itemName=ArnauGiralt.leggio) | Leggio | 0.1.0 | Reads markdown the way Leggio does: a calm look for the built-in preview, with… |
-| 2026-11-15 21:58:55 | [boomba286.sass-scss-completion](https://marketplace.visualstudio.com/items?itemName=boomba286.sass-scss-completion) | Sass/SCSS Parameter Completion | 0.1.0 | Completes Sass function and mixin parameter names in SCSS, Sass, and Vue files. |
+| 2026-11-15 22:16:17 | [haorgrix.ultimate-viewer](https://marketplace.visualstudio.com/items?itemName=haorgrix.ultimate-viewer) | FileGrix: Ultimate File Viewer, Editor… | 0.3.2 | View, search, edit and export PDF, Word, Excel, PowerPoint, CSV, Markdown, EPUB… |
+| 2026-11-15 22:34:47 | [multikolay.multikolay](https://marketplace.visualstudio.com/items?itemName=multikolay.multikolay) | MultiKolay | 0.4.0 | MultiKolay temaları için Liquid dil desteği, canlı denetim ve mağaza kısayolları |
+| 2026-11-15 22:48:19 | [egdaemon.eg-vscode](https://marketplace.visualstudio.com/items?itemName=egdaemon.eg-vscode) | EG | 2026.11.1583413 | Launch eg workloads locally and open VS Code inside them. |
+| 2026-11-15 22:49:17 | [tbruneel.markdown-alerts](https://marketplace.visualstudio.com/items?itemName=tbruneel.markdown-alerts) | Markdown Alerts | 1.0.0 | Renders GitHub Alert callouts in VS Code's Markdown Preview and exported .htmd… |
+| 2026-11-15 22:57:47 | [tbruneel.markdown-stylesheets](https://marketplace.visualstudio.com/items?itemName=tbruneel.markdown-stylesheets) | Markdown Stylesheets | 1.0.0 | Provides custom Markdown preview and export styling with a fixed-width centered… |
+| 2026-11-15 22:59:38 | [honestrel.browserslist-query-check](https://marketplace.visualstudio.com/items?itemName=honestrel.browserslist-query-check) | Query Check for Browserslist | 0.1.0 | Check .browserslistrc and package.json "browserslist" queries as you type: inva… |
+| 2026-11-15 23:00:30 | [honestrel.qunit-test-explorer](https://marketplace.visualstudio.com/items?itemName=honestrel.qunit-test-explorer) | Test Explorer for QUnit | 0.1.0 | Run and debug QUnit tests (Node.js CLI) from the VS Code Testing view and the e… |
+| 2026-11-15 23:03:39 | [tbruneel.markdown-htmd-exports](https://marketplace.visualstudio.com/items?itemName=tbruneel.markdown-htmd-exports) | Markdown HTMD Exports | 1.0.0 | Exports Markdown files (.md) to self-contained Markdown HTMD files (.htmd) whic… |
+| 2026-11-15 23:09:48 | [honestrel.manifest-in-check](https://marketplace.visualstudio.com/items?itemName=honestrel.manifest-in-check) | Checks for Python MANIFEST.in | 0.1.0 | Finds mistakes in setuptools MANIFEST.in files: unknown commands, wrong argumen… |
+| 2026-11-15 23:13:19 | [JulianSalvador.thread-trace](https://marketplace.visualstudio.com/items?itemName=JulianSalvador.thread-trace) | Thread Trace — Agent Blame | 0.1.0 | Hover a line to see which agent, model and prompt wrote it. |
+| 2026-11-15 23:15:40 | [tbruneel.markdown-htmd-exports-antigravity](https://marketplace.visualstudio.com/items?itemName=tbruneel.markdown-htmd-exports-antigravity) | Markdown HTMD Exports for Antigravity | 1.0.0 | Keeps exported .htmd files in sync automatically when Google Antigravity agents… |
 
 ## Data source
 
