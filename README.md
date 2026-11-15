@@ -12,17 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 02:21 UTC
+## Latest list — 2026-11-15 03:20 UTC
 
-New extensions published between 2026-11-15 00:21 UTC and 2026-11-15 02:21 UTC.
+New extensions published between 2026-11-15 01:20 UTC and 2026-11-15 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T02-21-08-996054Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T03-20-04-186368Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 01:19:12 | [achrafelkhnissi.streamscope](https://marketplace.visualstudio.com/items?itemName=achrafelkhnissi.streamscope) | Streamscope: HTTP Client with Live Stre… | 0.1.0 | Send requests from .http files and watch streaming responses (NDJSON, SSE, LLM… |
-| 2026-11-15 01:26:17 | [RestMan.bookman](https://marketplace.visualstudio.com/items?itemName=RestMan.bookman) | DocForge 文档工坊 | 1.0.23 | 富文本文档编辑器 + PDF 阅读器：md/docx 可视化编辑，PDF 分页阅读/跳页/记忆页码，json/yaml/toml/源代码结构导航（中英双语） |
-| 2026-11-15 01:51:24 | [xytrolabs.xena-vscode](https://marketplace.visualstudio.com/items?itemName=xytrolabs.xena-vscode) | Xena — Xytro Labs AI | 1.9.0 | Xena in VS Code: a Language Model Chat Provider for GitHub Copilot Chat, a @xen… |
+| 2026-11-15 02:53:10 | [spideythedev.quantum-reimagined](https://marketplace.visualstudio.com/items?itemName=spideythedev.quantum-reimagined) | Quantum Reimagined — Sub-Pixel Architec… | 2.0.0 | A multi-dimensional VS Code theme collection exploring Ocular Luminance Hierarc… |
+| 2026-11-15 03:12:40 | [copilot-speedometer.copilot-speedometer](https://marketplace.visualstudio.com/items?itemName=copilot-speedometer.copilot-speedometer) | Copilot Speedometer | 0.2.0 | Status bar and dashboard showing tokens/second, latency and token usage for eve… |
 
 ## Data source
 

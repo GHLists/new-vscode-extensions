@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T02:53:10.16Z,spideythedev.quantum-reimagined,spideythedev,Quantum Reimagined — Sub-Pixel Architecture,2.0.0,"A multi-dimensional VS Code theme collection exploring Ocular Luminance Hierarchy, Sub-Surface Glassmorphism, and Perceptual Depth Mapping."
+2026-11-15T03:12:40.177Z,copilot-speedometer.copilot-speedometer,copilot-speedometer,Copilot Speedometer,0.2.0,"Status bar and dashboard showing tokens/second, latency and token usage for every GitHub Copilot Chat request, parsed from the local Copilot debug logs."
