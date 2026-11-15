@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T01:19:12.673Z,achrafelkhnissi.streamscope,achrafelkhnissi,Streamscope: HTTP Client with Live Streaming,0.1.0,"Send requests from .http files and watch streaming responses (NDJSON, SSE, LLM streams) arrive event by event. Capture values from any event and reuse them."
+2026-11-15T01:26:17.467Z,RestMan.bookman,RestMan,DocForge 文档工坊,1.0.23,富文本文档编辑器 + PDF 阅读器：md/docx 可视化编辑，PDF 分页阅读/跳页/记忆页码，json/yaml/toml/源代码结构导航（中英双语）
+2026-11-15T01:51:24.17Z,xytrolabs.xena-vscode,xytrolabs,Xena — Xytro Labs AI,1.9.0,"Xena in VS Code: a Language Model Chat Provider for GitHub Copilot Chat, a @xena chat participant with workspace tools, inline edits, and a live balance/usage meter — all powered by the Xena AI gateway (ai.xytro.site)."

@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 01:19 UTC
+## Latest list — 2026-11-15 02:21 UTC
 
-New extensions published between 2026-11-14 23:19 UTC and 2026-11-15 01:19 UTC.
+New extensions published between 2026-11-15 00:21 UTC and 2026-11-15 02:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T01-19-48-72249Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T02-21-08-996054Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 01:01:53 | [synthcity-digilabs.frutiger-aero-theme](https://marketplace.visualstudio.com/items?itemName=synthcity-digilabs.frutiger-aero-theme) | Frutiger Aero Glass Theme Suite | 1.0.0 | Glossy mid-2000s Frutiger Aero color themes (Daylight Glass and Deep Aqua), wit… |
-| 2026-11-15 01:09:42 | [Marpp.yaml-helper](https://marketplace.visualstudio.com/items?itemName=Marpp.yaml-helper) | VN Engine YAML Helper | 0.0.2 | Suggests character look folders and expression image names while editing YAML s… |
-| 2026-11-15 01:13:50 | [niobium-41-nb.vjudge](https://marketplace.visualstudio.com/items?itemName=niobium-41-nb.vjudge) | VJudge | 0.1.0 | 在 VS Code 中浏览 VJudge 题目、阅读题面、提交代码并查看评测结果。 |
+| 2026-11-15 01:19:12 | [achrafelkhnissi.streamscope](https://marketplace.visualstudio.com/items?itemName=achrafelkhnissi.streamscope) | Streamscope: HTTP Client with Live Stre… | 0.1.0 | Send requests from .http files and watch streaming responses (NDJSON, SSE, LLM… |
+| 2026-11-15 01:26:17 | [RestMan.bookman](https://marketplace.visualstudio.com/items?itemName=RestMan.bookman) | DocForge 文档工坊 | 1.0.23 | 富文本文档编辑器 + PDF 阅读器：md/docx 可视化编辑，PDF 分页阅读/跳页/记忆页码，json/yaml/toml/源代码结构导航（中英双语） |
+| 2026-11-15 01:51:24 | [xytrolabs.xena-vscode](https://marketplace.visualstudio.com/items?itemName=xytrolabs.xena-vscode) | Xena — Xytro Labs AI | 1.9.0 | Xena in VS Code: a Language Model Chat Provider for GitHub Copilot Chat, a @xen… |
 
 ## Data source
 
