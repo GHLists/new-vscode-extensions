@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T14:24:24.143Z,ziraflow.ziraflow,ziraflow,Ziraflow,0.1.0,"Preview markdown and DocLang documents, and export them to Word and PDF locally. No account needed."
+2026-11-15T14:30:20.837Z,Jiangbing321.harmonyaidraw-vscode,Jiangbing321,HarmonyAIDraw,0.1.2,HarmonyOS 智能绘图智能体：drawio 编辑器 + AI 对话面板（渐进式作画）
+2026-11-15T14:50:17.903Z,PrinceBiscuit.refinedvs,PrinceBiscuit,RefinedVS,0.1.1,A calm OLED dark theme: Calmppuccin Oledppuccin's UI paired with the VS2015 syntax palette used by VS Code's built-in Markdown preview.
+2026-11-15T15:12:49.29Z,EmirErdem.claude-push-to-talk,EmirErdem,Claude Push-to-Talk,1.0.0,"Push to talk for the Claude Code extension: sends the message when dictation stops, and reads responses aloud."

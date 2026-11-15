@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 14:21 UTC
+## Latest list — 2026-11-15 15:21 UTC
 
-New extensions published between 2026-11-15 12:21 UTC and 2026-11-15 14:21 UTC.
+New extensions published between 2026-11-15 13:21 UTC and 2026-11-15 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T14-21-06-555253Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T15-21-48-735062Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 13:15:58 | [agenteca.agenteca](https://marketplace.visualstudio.com/items?itemName=agenteca.agenteca) | Agenteca | 0.1.0 | Browse, install and update AI agent packages for Claude Code, Codex, GitHub Cop… |
-| 2026-11-15 13:18:47 | [otoneko1102.ushiroe](https://marketplace.visualstudio.com/items?itemName=otoneko1102.ushiroe) | UshiroE | 0.1.1 | Add background images to VS Code. Use one for the entire window or set them by… |
-| 2026-11-15 13:36:42 | [sebgad.playbook-runner](https://marketplace.visualstudio.com/items?itemName=sebgad.playbook-runner) | Playbook Runner | 0.5.0 | Run Ansible playbooks and manage vaults from a dashboard, discovered from the f… |
-| 2026-11-15 13:45:02 | [hsctech-dev.blobl-test-runner](https://marketplace.visualstudio.com/items?itemName=hsctech-dev.blobl-test-runner) | Bloblang Test Runner | 0.0.1 | Test explorer for bento bloblang/YAML test definitions, with run and debug prof… |
-| 2026-11-15 13:57:34 | [codepulse-tracker.codepulse-tracker](https://marketplace.visualstudio.com/items?itemName=codepulse-tracker.codepulse-tracker) | CodePulse Tracker | 1.0.3 | Offline-first productivity analytics dashboard for VS Code. |
-| 2026-11-15 14:00:48 | [Symthosm.gythosm](https://marketplace.visualstudio.com/items?itemName=Symthosm.gythosm) | Gythosm | 1.0.0 | Generate side-by-side HTML diff reports and 3-column merge reports for local an… |
-| 2026-11-15 14:07:25 | [samadrit-dev.route-mapper](https://marketplace.visualstudio.com/items?itemName=samadrit-dev.route-mapper) | Route Mapper | 0.0.1 | Auto-detects backend routes (Express, Next.js, Flask, FastAPI, Go) and draws ho… |
+| 2026-11-15 14:24:24 | [ziraflow.ziraflow](https://marketplace.visualstudio.com/items?itemName=ziraflow.ziraflow) | Ziraflow | 0.1.0 | Preview markdown and DocLang documents, and export them to Word and PDF locally… |
+| 2026-11-15 14:30:20 | [Jiangbing321.harmonyaidraw-vscode](https://marketplace.visualstudio.com/items?itemName=Jiangbing321.harmonyaidraw-vscode) | HarmonyAIDraw | 0.1.2 | HarmonyOS 智能绘图智能体：drawio 编辑器 + AI 对话面板（渐进式作画） |
+| 2026-11-15 14:50:17 | [PrinceBiscuit.refinedvs](https://marketplace.visualstudio.com/items?itemName=PrinceBiscuit.refinedvs) | RefinedVS | 0.1.1 | A calm OLED dark theme: Calmppuccin Oledppuccin's UI paired with the VS2015 syn… |
+| 2026-11-15 15:12:49 | [EmirErdem.claude-push-to-talk](https://marketplace.visualstudio.com/items?itemName=EmirErdem.claude-push-to-talk) | Claude Push-to-Talk | 1.0.0 | Push to talk for the Claude Code extension: sends the message when dictation st… |
 
 ## Data source
 
