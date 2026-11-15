@@ -12,28 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-15 18:20 UTC
+## Latest list — 2026-11-15 19:20 UTC
 
-New extensions published between 2026-11-15 16:20 UTC and 2026-11-15 18:20 UTC.
+New extensions published between 2026-11-15 17:20 UTC and 2026-11-15 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-15T18-20-08-768936Z.csv)
+[Full CSV](data/new-extensions-2026-11-15T19-20-56-155767Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-15 17:18:06 | [zovo.zovo-flame-graph](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-flame-graph) | Flame Graph & pprof Viewer | 0.1.0 | Flame graph viewer for CPU and memory profiles: .cpuprofile, .heapprofile, Chro… |
-| 2026-11-15 17:20:07 | [zovo.zovo-icalendar-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-icalendar-viewer) | iCalendar Viewer & ICS, vCard | 0.1.0 | iCalendar viewer for VS Code: open .ics and .ifb files as a calendar with month… |
-| 2026-11-15 17:22:06 | [zovo.zovo-dmn-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-dmn-editor) | DMN Decision Table Editor | 0.1.0 | DMN editor for VS Code: open .dmn files (DMN 1.1 to 1.6) as decision tables, a… |
-| 2026-11-15 17:24:06 | [zovo.zovo-subtitles-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-subtitles-editor) | Subtitles & SRT Editor, VTT | 0.1.0 | Subtitles editor for SRT, WebVTT, ASS, SSA and SBV files: an editable cue table… |
-| 2026-11-15 17:25:50 | [tipandtale.blood-sweat-and-code](https://marketplace.visualstudio.com/items?itemName=tipandtale.blood-sweat-and-code) | Blood, Sweat and Code | 0.1.1 | A cheerful pastel-purple coding companion for ARMY. Track sweat (keystrokes), b… |
-| 2026-11-15 17:26:06 | [zovo.zovo-fastq-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-fastq-viewer) | FASTQ & FASTA Viewer, VCF, SAM | 0.1.0 | FASTQ viewer and FASTA viewer for VCF, SAM, BED and GFF files, plain or .gz: a… |
-| 2026-11-15 17:28:05 | [zovo.zovo-org-mode](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-org-mode) | Org Mode Viewer & Org Preview | 0.1.0 | Org mode viewer for VS Code: a live Org preview beside the editor with folding… |
-| 2026-11-15 17:35:00 | [camposcloud.camposcloud](https://marketplace.visualstudio.com/items?itemName=camposcloud.camposcloud) | CamposCloud | 1.1.0 | Manage CamposCloud applications, files and databases and watch the live console… |
-| 2026-11-15 17:47:19 | [Persenb.nailong](https://marketplace.visualstudio.com/items?itemName=Persenb.nailong) | Nailong | 0.0.1 | Adds a tiny, unofficial Nailong to your status bar |
-| 2026-11-15 17:48:22 | [SamuelVergaraMartin.nexocolor-theme](https://marketplace.visualstudio.com/items?itemName=SamuelVergaraMartin.nexocolor-theme) | NexoColor Theme | 0.0.3 | NexoColor Theme for VSC |
-| 2026-11-15 17:57:15 | [khatisani.fairy-dust-git-push](https://marketplace.visualstudio.com/items?itemName=khatisani.fairy-dust-git-push) | Fairy Dust: Git Push Sound | 0.0.2 | Plays an audio clip on git push |
-| 2026-11-15 17:58:27 | [VinayakSharma.read-aloud-claude-code](https://marketplace.visualstudio.com/items?itemName=VinayakSharma.read-aloud-claude-code) | Read Aloud: Claude Code Response (Termi… | 0.1.3 | Read Claude Code's latest terminal response aloud, with pause and stop controls. |
-| 2026-11-15 18:03:14 | [cdwilson.open-in-dinkus](https://marketplace.visualstudio.com/items?itemName=cdwilson.open-in-dinkus) | Open in Dinkus | 0.1.0 | Open Markdown files in the Dinkus markdown studio for macOS from the Explorer,… |
-| 2026-11-15 18:05:02 | [njf.njf-theme](https://marketplace.visualstudio.com/items?itemName=njf.njf-theme) | NJF Theme | 0.1.5 | GitHub Dark with expressive Primer colours and Python semantic highlighting. |
+| 2026-11-15 18:06:54 | [benjy-the-bear.bear-code](https://marketplace.visualstudio.com/items?itemName=benjy-the-bear.bear-code) | BearCode | 0.1.0 | A whole dev team of AI agents in your editor. |
+| 2026-11-15 18:24:58 | [paugarcia32.wabi-theme](https://marketplace.visualstudio.com/items?itemName=paugarcia32.wabi-theme) | Wabi | 0.1.0 | A minimal, calm and warm colour theme, in dark and light. |
+| 2026-11-15 18:26:57 | [everyinit.everyinit](https://marketplace.visualstudio.com/items?itemName=everyinit.everyinit) | Everyinit | 0.2.8 | Language support, diagnostics, and workflow orchestration for Evin (.flow) and… |
+| 2026-11-15 18:33:18 | [cleangamedev.revue-companion](https://marketplace.visualstudio.com/items?itemName=cleangamedev.revue-companion) | Revue Companion | 0.1.0 | Your repository's pull requests from Revue, in VS Code: the list, each one's pa… |
+| 2026-11-15 18:55:22 | [TayambaMwanza.angular-component-jumper](https://marketplace.visualstudio.com/items?itemName=TayambaMwanza.angular-component-jumper) | Angular Component Jumper | 1.0.0 | Fast status-bar navigation for Angular component files. |
+| 2026-11-15 19:01:43 | [jackprtda.agent-rtl](https://marketplace.visualstudio.com/items?itemName=jackprtda.agent-rtl) | Agent RTL — Claude Code, Codex & Kimi | 0.5.2 | Smart Persian and Arabic direction for Claude Code, Codex and Kimi: mixed-langu… |
+| 2026-11-15 19:15:04 | [derekhoang.live-wallpaper-studio](https://marketplace.visualstudio.com/items?itemName=derekhoang.live-wallpaper-studio) | Live Wallpaper Studio | 1.0.0 | Wallpapers, GIFs, videos & animated pixel themes for VS Code and Antigravity ID… |
 
 ## Data source
 
