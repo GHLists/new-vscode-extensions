@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T12:20:18.843Z,MikeLucis.comment-translate-lmstudio,MikeLucis,Comment Translate: LM Studio,0.1.0,LM Studio local LLM translate source for Comment Translate
+2026-11-15T12:21:46.747Z,JIALINLIN.tex-bionic-morandi,JIALINLIN,TeX Bionic Morandi,1.0.0,"Bionic Reading for LaTeX (.tex) files, with soft Morandi colours and adjustable depth and contrast."
+2026-11-15T12:29:19.557Z,ShavilyaRajput.appledouble-cleaner,ShavilyaRajput,AppleDouble Cleaner,0.0.1,Automatically moves paired macOS AppleDouble sidecar files to Trash.
+2026-11-15T12:34:39.443Z,anetsystems.clavis-opener,anetsystems,Clavis,1.0.0,"Browse workspace files, preview Markdown and images, and inspect CSS, HTML, JavaScript, PHP and Python structure."
+2026-11-15T12:38:34.797Z,statescout-ai.statescout-vscode,statescout-ai,StateScout AI,0.2.1,Run policy-aware UI audits and review forbidden interface states without leaving the editor.
+2026-11-15T12:54:44.767Z,philipp-manhart.datsumi,philipp-manhart,Datsumi — Database Explorer,0.0.1,"A modern, unified database client for VS Code. Explore, query, and manage SQL and NoSQL databases without leaving your editor."
+2026-11-15T12:56:49Z,chamnan.cyberchef-vscode,chamnan,CyberChef (Offline),0.2.1,"The Cyber Swiss Army Knife inside VS Code. Runs the full GCHQ CyberChef web app completely offline, with editor integration."
+2026-11-15T13:05:48.457Z,KazushiKamegawa.sound-notifier-local-audio-hostex,KazushiKamegawa,Sound Notifier Local Audio Hostex,1.0.1,Plays Sound Notifier completion audio on the local VS Code client.
+2026-11-15T13:09:30.977Z,Joseph-dev.github-compagnon,Joseph-dev,GitHub Companion for VS Code,0.0.16,"Gère ton projet GitHub (création de repo, commit, push) via des boutons groupés — sans automatisation cachée, avec transparence totale sur les commandes exécutées."
