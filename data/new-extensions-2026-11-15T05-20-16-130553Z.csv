@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T04:23:17.897Z,starstwinkle.netease-music-sidebar,starstwinkle,Netease Music,1.6.0,在 VS Code 侧边栏里听网易云音乐：推荐、歌单、搜索、歌词与播放控制，全部收在侧边栏内，不弹出任何大窗口。
+2026-11-15T04:31:28.463Z,bluelang-org.bluelang,bluelang-org,Blue (bluelang.org),0.1.0,"Blue, the language of bluelang.org: highlighting, and errors, types and an outline from Blue's own checker."
+2026-11-15T04:40:47.053Z,cloudcell.om-tools,cloudcell,OM Core,0.1.2,Multidimensional modeling engine GUI for OM Core — connects to the om-core runtime.
+2026-11-15T04:49:18.157Z,Bartholomew.tortuga-markets,Bartholomew,Tortuga — Prediction Markets & Real-World Odds Desk,1.9.2,"Predict tech, macro, and code risk markets directly in your IDE. Drag visual odds, trade predictions with AI agents, and hedge your work with instant trade receipts."
+2026-11-15T04:54:42.917Z,phpwarden.phpwarden,phpwarden,phpwarden — PHP vulnerabilities ranked by exploitation,0.1.1,"Flags vulnerable Composer packages in composer.lock and risky PHP code, ranked by real-world exploitation (CISA KEV, EPSS). Runs the local phpwarden CLI."
+2026-11-15T04:58:31.337Z,CF499.vscode-toolboxgsc,CF499,Toolbox GSC,1.0.0,
+2026-11-15T04:59:19.117Z,zovo.zovo-color-highlight,zovo,Color Highlight & Color Picker,0.1.0,"Color highlight for every file: hex, rgb, hsl, hwb, oklch, lab and named colors, Kotlin 0xAARRGGBB, Flutter and SwiftUI colors, CSS variables. Color picker, hover with every format, offline."
+2026-11-15T05:03:24.73Z,zovo.zovo-onnx-viewer,zovo,ONNX Viewer & Model Graph,0.1.1,"ONNX model viewer for node graphs, inputs, outputs and tensor shapes. Read-only, offline, and built for large local models."
+2026-11-15T05:05:36.98Z,zovo.zovo-vsdx-viewer,zovo,VSDX Viewer for Visio Diagrams,0.1.1,"VSDX viewer for pages, shapes, connectors and text. Browse Visio diagrams offline in VS Code without an Office install."
+2026-11-15T05:07:23.163Z,zovo.zovo-psd-viewer,zovo,PSD Viewer & Layer Preview,0.1.1,"PSD viewer with the merged image, document details and a searchable layer list. Open PSD and PSB files offline in VS Code."
+2026-11-15T05:08:22.717Z,QILNIX.qilnix,QILNIX,QILNIX,1.0.0,"QILNIX quantum programming language support — syntax highlighting, IntelliSense, run & debug"
+2026-11-15T05:09:24.803Z,zovo.zovo-dbf-viewer,zovo,DBF Viewer & DBF Editor,0.1.1,"DBF viewer for dBase and FoxPro tables. Browse fields and rows, search values, sort columns and copy CSV without leaving VS Code."
+2026-11-15T05:11:25.87Z,zovo.zovo-eps-viewer,zovo,EPS Preview & PostScript,0.1.1,"EPS preview and viewer for .eps, .epsi and .ps PostScript files with nothing to install: draws the figure, shows the stored TIFF, WMF or EPSI preview, BoundingBox, fonts and pages. Ghostscript is optional for exact renders."
+2026-11-15T05:12:21.587Z,pseudolearn.pseudolearn-vscode,pseudolearn,PseudoLearn,0.1.0,"Write, check, run and debug PseudoLearn (.pseudo) programs in Spanish or English."
