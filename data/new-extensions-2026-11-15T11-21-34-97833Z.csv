@@ -1,0 +1,20 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T10:15:50.277Z,jinzhongjia.zig-analyzer,jinzhongjia,zig-analyzer,0.0.1,Zig language support through the zig-analyzer language server
+2026-11-15T10:18:53.033Z,Hugoserna.aether-code-vscode,Hugoserna,AETHER Code,0.1.0,"Run AETHER Code in VS Code: an AETHER session in your project's terminal, or ask about the selected code."
+2026-11-15T10:19:02.31Z,dooboostore.simple-web-component-lsp,dooboostore,Simple Web Component,0.1.1,"Completion, hover, go to definition, type errors and highlighting for @dooboostore/simple-web-component templates"
+2026-11-15T10:26:33.363Z,AmrDeveloper.cmake-guru,AmrDeveloper,Cmake Guru,0.1.0,CMake language suppport for Visual Studio Code
+2026-11-15T10:33:28.247Z,2002-rokkam.squeze-cli,2002-rokkam,Squeze,3.0.3,"Local, deterministic, token-budgeted code context for GitHub Copilot and MCP coding agents. Fewer input tokens per task: cited source excerpts and a code graph."
+2026-11-15T10:40:22.3Z,ZOOMONIT.bpmn-visual-diff,ZOOMONIT,BPMN Visual Diff by Zoom On IT,1.0.2,Visual diff tool for BPMN diagrams - GitLab MR & VS Code
+2026-11-15T10:43:36.897Z,baihekang.hexviewer,baihekang,HexViewer,0.0.1,View & Edit hex files.
+2026-11-15T10:47:24.087Z,tabularforge.tabular-forge,tabularforge,Tabular Forge,0.2.1,"Open-source semantic model editor for TMDL in VS Code, built for source control: model explorer and model-wide rename across split files."
+2026-11-15T10:52:25.487Z,mrlink.clion-islands,mrlink,CLion Dark Islands,0.1.5,"Оформление Dark Islands, файловые иконки CLion и панель запуска для C и C++."
+2026-11-15T10:53:31.947Z,mrlink.pycharm-islands,mrlink,PyCharm Dark Islands,0.1.5,"Оформление Dark Islands, файловые иконки PyCharm и панель запуска для Python."
+2026-11-15T10:53:43.913Z,mrlink.jetbrains-islands-keymap,mrlink,JetBrains Islands Keymap,0.1.0,"Rider, CLion and PyCharm shortcuts for C#, C++, Python and Git Log, with Search Everywhere."
+2026-11-15T10:53:59.07Z,mrlink.git-islands,mrlink,Git Islands,0.2.2,"JetBrains-style Changes, Log and Branches in a dedicated Git panel."
+2026-11-15T10:54:09.153Z,mrlink.xaml-preview,mrlink,Islands XAML Preview,0.2.0,WPF XAML completion and live design preview for project controls and image resources.
+2026-11-15T10:54:19.35Z,mrlink.rider-islands,mrlink,Dark Islands for C# (Rider),0.1.7,"Rider-inspired C# development with Dark Islands colors, Rider file icons and run configurations."
+2026-11-15T11:00:57.79Z,m3-welch.ai-dlc-state-tracker,m3-welch,AI-DLC State Tracker,0.0.1,View the workspace AI-DLC state as rendered Markdown.
+2026-11-15T11:10:01.843Z,Granevsky.git-pilot-ext,Granevsky,Git Pilot,1.0.3,"Manage the current branch's GitLab or GitHub Issue, MR/PR labels, and status sync right from VS Code."
+2026-11-15T11:11:50.287Z,aliadnan-dev.shared-remote-history,aliadnan-dev,Shared Remote History,0.2.0,Show Local History snapshots from different Remote SSH aliases in the built-in VS Code Timeline.
+2026-11-15T11:12:27.563Z,GouthamCheedella.sprint-office,GouthamCheedella,Sprint Office,0.0.1,"Visualize Jira sprint work as a living pixel-art office, with teammate details, status filters, and a built-in demo."
+2026-11-15T11:15:08.87Z,aggrega-ai.aggrega,aggrega-ai,Aggrega,0.9.0,"Language support for Aggrega YAML — validation, navigation, hover, completion via the aggrega daemon."
