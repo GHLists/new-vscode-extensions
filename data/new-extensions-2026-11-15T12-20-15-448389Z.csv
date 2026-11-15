@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T11:15:10.78Z,FuiSQL.fuisql-config-sync,FuiSQL,FuiSQL Config Sync,0.1.0,"Compare the setup of two Oracle Fusion environments, see what is missing or different, and complete the configuration. Includes a searchable catalog of offerings, functional areas and setup tasks."
+2026-11-15T11:16:40.84Z,haouore.aspnet-mysql-study-helper,haouore,ASP.NET + MySQL — учебный помощник,0.1.0,"Docker Compose для ASP.NET и MySQL, памятка EF Scaffold и Avalonia для подготовки к ПМ.04."
+2026-11-15T11:19:31.47Z,Sangharsh.jsonspy,Sangharsh,JSONSpy — JSON Workbench & Schema Designer,1.0.4,"Enterprise JSON editing, validation, transformation, and visual schema modeling workbench for VS Code."
+2026-11-15T11:23:56.757Z,myigita.matcha-latte-theme,myigita,Matcha Latte,0.1.0,"A matcha boba latte colour theme in three roasts: dark, light and OLED."
+2026-11-15T11:29:08.527Z,ChunkyDragon.vscode-clutchwork,ChunkyDragon,ClutchWork tickets,0.2.4,"VS Code extension for the ClutchWork ticket system (https://pypi.org/project/clutchwork/): tickets as an SCM-style dependency graph: blocked, queued, running, merged."
+2026-11-15T11:59:07.343Z,lineagepilot.lineagepilot,lineagepilot,LineagePilot,0.2.0,"Lineage and change impact for your project's models, exposures and Airflow tasks, from the artifacts already in your workspace. No server, no account."
+2026-11-15T12:08:12.007Z,CHRONOS-K.my-marker,CHRONOS-K,My Marker,0.0.1,エディタ内の特定の単語やテキストをマーキング・強調表示する拡張機能
