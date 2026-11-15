@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T06:22:27.183Z,CJAbraham.blockwise,CJAbraham,Blockwise NC,0.6.2,"NC (G-code) editing, NC functions, 3D backplot, cycle time and file compare"
+2026-11-15T06:22:32.387Z,Altairu.antigravity-deck,Altairu,Antigravity Deck,0.2.0,Google Antigravityのエージェント状態をAndroidスマートフォンから監視および承認操作するためのコンパニオン拡張機能
+2026-11-15T06:25:59.173Z,lanyue.vsnote-editor,lanyue,VS Note,0.1.0,Rich Text & Markdown Editor in VS Code.
+2026-11-15T06:33:33.37Z,puzaricloud.json-formatter-lossless,puzaricloud,JSON Formatter – Lossless & Large-File Safe,1.0.0,"Format and minify JSON without changing a single value: big integers, decimals, duplicate keys and key order are kept exactly. JSONC/JSON5 tolerant, format selection or document, sort keys, escape/unescape, tree view with search, JSONPath, copy path, and 100 MB files streamed without freezing. Pro:"
+2026-11-15T06:53:49.44Z,nassoo.antigravity-quota-meter,nassoo,Quota Meter for Antigravity,0.4.0,"See how much Google Antigravity model quota you have left: weekly and 5-hour bars per pool with reset countdowns, right in the status bar. Plus a quick menu and a dashboard. Reads the local agy hub; no telemetry."
+2026-11-15T07:05:50.4Z,itnccuong.source-code-visualizer,itnccuong,Source Code Visualizer (Fork),0.2.1,"Explore code and YAML as connected diagrams, with syntax-aware parsing, comment controls, and saved canvases."
+2026-11-15T07:07:59.343Z,touhidul-islam.super-agent-touhid,touhidul-islam,Super Agent,0.3.7,"One agent leads, the team helps: Codex, Claude Code and Antigravity across all your accounts, with seamless hand-over when usage runs out."
