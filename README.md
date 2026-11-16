@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 12:19 UTC
+## Latest list — 2026-11-16 13:18 UTC
 
-New extensions published between 2026-11-16 10:19 UTC and 2026-11-16 12:19 UTC.
+New extensions published between 2026-11-16 11:18 UTC and 2026-11-16 13:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T12-19-05-076461Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T13-18-43-740094Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 11:43:20 | [yfding.oobspreview](https://marketplace.visualstudio.com/items?itemName=yfding.oobspreview) | OobsPreview | 0.1.0 | Better Obsidian preview in Qoder & VS Code: callouts, task markers, properties,… |
-| 2026-11-16 11:53:06 | [Ottili.alran-vscode](https://marketplace.visualstudio.com/items?itemName=Ottili.alran-vscode) | Alran Code | 1.0.0 | Ottili's AI coding agent for VS Code. Describe a task and it plans it, edits th… |
-| 2026-11-16 11:55:36 | [lilinhuang.tidepool-azalea-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.tidepool-azalea-theme) | Tidepool & Azalea Theme | 1.0.0 | A sea-glass aqua and a dusk azalea pink, each in a light and a dark cut: Tidepo… |
-| 2026-11-16 11:57:07 | [zangico.whatsapp-vscode](https://marketplace.visualstudio.com/items?itemName=zangico.whatsapp-vscode) | whatsapp-vscode | 1.0.0 | WhatsApp for VSCode |
-| 2026-11-16 12:03:34 | [Emerson1.qcs-pw-agent-zeeshan](https://marketplace.visualstudio.com/items?itemName=Emerson1.qcs-pw-agent-zeeshan) | Test QCS Playwright Automation Agent | 1.0.58 | Generate Playwright tests from Azure DevOps test cases via the ADO and Playwrig… |
-| 2026-11-16 12:07:48 | [antrazal.threadline](https://marketplace.visualstudio.com/items?itemName=antrazal.threadline) | Threadline — Codex & Claude | 0.3.8 | Codex and Claude threads across accounts. Manual tags, drag-and-drop groups, pr… |
-| 2026-11-16 12:09:15 | [WisangJatiAnggoro.quran-for-claude-code](https://marketplace.visualstudio.com/items?itemName=WisangJatiAnggoro.quran-for-claude-code) | Quran for Claude Code (Unofficial) | 0.1.0 | Unofficial community extension. Not affiliated with or endorsed by Anthropic. R… |
-| 2026-11-16 12:10:57 | [tempest-playground.rust-tempest](https://marketplace.visualstudio.com/items?itemName=tempest-playground.rust-tempest) | RustTempest | 0.1.0 | A pseudo-terminal wrapper for Rust Playground, allowing execution of Rust files… |
+| 2026-11-16 12:19:09 | [deguboard.deguboard-vscode](https://marketplace.visualstudio.com/items?itemName=deguboard.deguboard-vscode) | deguboard for VS Code | 0.35.0 | An agentic kanban board inside your Git repository with the development flow bu… |
+| 2026-11-16 12:26:41 | [ai4e.parallax-github-copilot](https://marketplace.visualstudio.com/items?itemName=ai4e.parallax-github-copilot) | Parallax for Copilot | 2.0.2 | Hands-off coding for GitHub Copilot. Reviewed plans, clean-context execution, i… |
+| 2026-11-16 12:26:59 | [GirgisMamdouh.git-drafts](https://marketplace.visualstudio.com/items?itemName=GirgisMamdouh.git-drafts) | Git Drafts | 0.1.1 | Multi-phase layered staging areas for Git — safe experimentation with AI agents |
+| 2026-11-16 12:31:03 | [MichaelAntolyGreen.xml-viewer](https://marketplace.visualstudio.com/items?itemName=MichaelAntolyGreen.xml-viewer) | XML Viewer | 0.1.3 | View and edit XML files as interactive tables in Visual Studio Code. |
+| 2026-11-16 12:47:39 | [tsastro.vodsl](https://marketplace.visualstudio.com/items?itemName=tsastro.vodsl) | VODSL | 0.1.0 | VODSL language support and VO-DML compilation |
+| 2026-11-16 12:49:55 | [GigaDeviceSemiconductor.gd32-package-manager](https://marketplace.visualstudio.com/items?itemName=GigaDeviceSemiconductor.gd32-package-manager) | GD32 Package Manager | 0.1.0 | Downloads and manages GD32 development packages, currently the build toolchains… |
+| 2026-11-16 13:02:19 | [inlevel9.norang](https://marketplace.visualstudio.com/items?itemName=inlevel9.norang) | norang — 카카오톡과 AI 잇기 | 0.7.0 | VS Code의 AI 채팅에 norang MCP 서버를 등록합니다. 내 카톡으로 받을 글 준비, 톡캘린더, Windows 카카오톡 PC 앱의… |
 
 ## Data source
 
