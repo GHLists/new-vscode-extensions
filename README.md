@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 19:20 UTC
+## Latest list — 2026-11-16 20:19 UTC
 
-New extensions published between 2026-11-16 17:20 UTC and 2026-11-16 19:20 UTC.
+New extensions published between 2026-11-16 18:19 UTC and 2026-11-16 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T19-20-34-558619Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T20-19-12-96783Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 18:31:56 | [miragon-gmbh.board-modeler](https://marketplace.visualstudio.com/items?itemName=miragon-gmbh.board-modeler) | Modeler Board | 0.2.0 | View and edit boards directly in VS Code: a canvas of a repository's own files,… |
-| 2026-11-16 18:56:09 | [Geometricaio.speclog](https://marketplace.visualstudio.com/items?itemName=Geometricaio.speclog) | Speclog | 0.1.0 | Tasks from several git repositories, with their status verified from git. |
-| 2026-11-16 18:58:06 | [onlinecompiler.onlinecompiler](https://marketplace.visualstudio.com/items?itemName=onlinecompiler.onlinecompiler) | OnlineCompiler.io: Run Code Online | 0.1.0 | Run code in 46 languages without installing compilers. Sends the current file t… |
-| 2026-11-16 19:04:37 | [gitwithmasum.phantom-guard](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.phantom-guard) | PhantomGuard // AI Hallucinated Package… | 0.1.0 | Real-time cybernetic defense against AI-hallucinated and phantom packages in Ja… |
-| 2026-11-16 19:09:06 | [bitno.ls-yaml-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-yaml-by-bitno) | YAML Language Server by Bitno | 2026.11.0 | A lightweight YAML formatter, linter and schema-aware editor for VS Code, on Re… |
-| 2026-11-16 19:09:46 | [bitno.ls-toml-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-toml-by-bitno) | TOML Language Server by Bitno | 2026.11.0 | A lightweight TOML formatter, linter and schema-aware editor for VS Code, on ta… |
-| 2026-11-16 19:10:39 | [bitno.editorconfig-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.editorconfig-by-bitno) | EditorConfig by Bitno | 2026.11.0 | A lightweight EditorConfig for VS Code: applies .editorconfig to every file, an… |
-| 2026-11-16 19:13:53 | [jwilenius.jw-differ](https://marketplace.visualstudio.com/items?itemName=jwilenius.jw-differ) | jw-differ | 0.6.0 | IntelliJ-style Git commit diff viewer and three-way merge conflict resolver for… |
+| 2026-11-16 19:20:01 | [LucasLavallee.ti-basic-plus-ce](https://marketplace.visualstudio.com/items?itemName=LucasLavallee.ti-basic-plus-ce) | TI-Basic Plus CE | 1.0.7 | VS Code language support for (e)Z80 TI-BASIC |
+| 2026-11-16 19:23:07 | [malinatrash.jetik](https://marketplace.visualstudio.com/items?itemName=malinatrash.jetik) | Jetik - JetBrains-style Git | 0.1.2 | The IntelliJ IDEA Git workflow in VS Code: graph log, commit tool window, push… |
+| 2026-11-16 19:31:30 | [PTWorks.trello-cards](https://marketplace.visualstudio.com/items?itemName=PTWorks.trello-cards) | Trello Cards | 0.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
+| 2026-11-16 19:35:19 | [wukch.autoapprove-claude-code](https://marketplace.visualstudio.com/items?itemName=wukch.autoapprove-claude-code) | AutoApprove Claude Code | 1.0.0 | Auto-approves Claude Code permission prompts – including agents and ask rules (… |
+| 2026-11-16 19:46:53 | [gisoo.gisoo-vscode](https://marketplace.visualstudio.com/items?itemName=gisoo.gisoo-vscode) | Gisoo — AI Coding Agent | 1.0.5 | An agentic coding assistant for VS Code, powered by Gisoo: plans, reads your co… |
+| 2026-11-16 19:52:04 | [Mauricio.multiple-ia-agents](https://marketplace.visualstudio.com/items?itemName=Mauricio.multiple-ia-agents) | Multiple IA Agents | 0.1.10 | Independent Codex and Ollama panels with access to the official Claude chat. |
+| 2026-11-16 20:11:21 | [quhan.opencode-panel](https://marketplace.visualstudio.com/items?itemName=quhan.opencode-panel) | OpenCode Side Panel | 0.4.19 | A chat panel for your local opencode CLI: streaming replies, sessions tree, nat… |
 
 ## Data source
 

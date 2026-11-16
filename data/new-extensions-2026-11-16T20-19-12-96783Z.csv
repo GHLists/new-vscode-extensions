@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T19:20:01.297Z,LucasLavallee.ti-basic-plus-ce,LucasLavallee,TI-Basic Plus CE,1.0.7,VS Code language support for (e)Z80 TI-BASIC
+2026-11-16T19:23:07.587Z,malinatrash.jetik,malinatrash,Jetik - JetBrains-style Git,0.1.2,"The IntelliJ IDEA Git workflow in VS Code: graph log, commit tool window, push preview, branch actions, squash, reword, drop, cherry-pick."
+2026-11-16T19:31:30.89Z,PTWorks.trello-cards,PTWorks,Trello Cards,0.0.1,"Plan, share, and organize your team work on a collaborative board inside VS Code. Create boards, add cards, and join your teammates boards instantly with short codes."
+2026-11-16T19:35:19.907Z,wukch.autoapprove-claude-code,wukch,AutoApprove Claude Code,1.0.0,"Auto-approves Claude Code permission prompts – including agents and ask rules (like clicking ""1: Yes"") – with a readable log of every request."
+2026-11-16T19:46:53.8Z,gisoo.gisoo-vscode,gisoo,Gisoo — AI Coding Agent,1.0.5,"An agentic coding assistant for VS Code, powered by Gisoo: plans, reads your code, edits with diffs you approve, runs commands, and shows your credit."
+2026-11-16T19:52:04.867Z,Mauricio.multiple-ia-agents,Mauricio,Multiple IA Agents,0.1.10,Independent Codex and Ollama panels with access to the official Claude chat.
+2026-11-16T20:11:21.69Z,quhan.opencode-panel,quhan,OpenCode Side Panel,0.4.19,"A chat panel for your local opencode CLI: streaming replies, sessions tree, native diffs and permission prompts. Reuses your existing opencode login (including OpenCode Go subscriptions)."
