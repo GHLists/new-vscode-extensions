@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 21:20 UTC
+## Latest list — 2026-11-16 22:20 UTC
 
-New extensions published between 2026-11-16 19:20 UTC and 2026-11-16 21:20 UTC.
+New extensions published between 2026-11-16 20:20 UTC and 2026-11-16 22:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T21-20-26-489728Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T22-20-20-159281Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 20:26:13 | [puzaricloud.azure-devops-prs](https://marketplace.visualstudio.com/items?itemName=puzaricloud.azure-devops-prs) | Azure DevOps Pull Requests, Pipelines &… | 1.0.0 | Review Azure DevOps pull requests in VS Code: your PRs, PRs assigned to you and… |
-| 2026-11-16 20:27:24 | [zovo.zovo-certificate-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-certificate-viewer) | Certificate Viewer, X509 & PEM | 0.1.1 | Certificate viewer for VS Code: open PEM, CRT, CER, DER, P7B, PFX, P12, CSR and… |
-| 2026-11-16 20:28:29 | [PTWorks.clam-cards](https://marketplace.visualstudio.com/items?itemName=PTWorks.clam-cards) | Clam Cards | 0.0.1 | Default empty extension scaffold. |
-| 2026-11-16 20:38:42 | [rolld6.d6](https://marketplace.visualstudio.com/items?itemName=rolld6.d6) | d6 | 0.8.0 | d6 language support: highlighting, diagnostics, hover, go-to-definition, comple… |
-| 2026-11-16 20:49:36 | [TGNWorks.power-cards](https://marketplace.visualstudio.com/items?itemName=TGNWorks.power-cards) | Power Cards | 0.0.1 | Default empty extension scaffold. |
-| 2026-11-16 21:02:07 | [gmbeas.brokerdocs](https://marketplace.visualstudio.com/items?itemName=gmbeas.brokerdocs) | BrokerDocs — Markdown con marca, Word y… | 2.0.1 | Vista previa de Markdown con tu marca (logo, colores, fuentes), edición rápida,… |
+| 2026-11-16 21:15:42 | [my-workspace-tools.flutter-qei-tools-aev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-aev) | Flutter Aev | 1.0.20 | Инструменты для текущей рабочей папки. |
+| 2026-11-16 21:20:45 | [devoncline.terrabyte](https://marketplace.visualstudio.com/items?itemName=devoncline.terrabyte) | Terrabyte | 0.1.0 | A coding pet for VS Code: as you type, a little ASCII planet grows — from a sha… |
+| 2026-11-16 21:30:54 | [learntime.learntime-code-snippets](https://marketplace.visualstudio.com/items?itemName=learntime.learntime-code-snippets) | Code Snippets: React, CSS, Java, JavaSc… | 1.0.1 | Clean, practical code snippets for React, JavaScript, TypeScript, CSS and Java.… |
+| 2026-11-16 21:52:32 | [AlexShirshov.sqlient](https://marketplace.visualstudio.com/items?itemName=AlexShirshov.sqlient) | SQLient | 0.2.0 | An SQLite workbench for VS Code, tailored for Cloudflare and mobile development. |
+| 2026-11-16 21:58:07 | [moriyama-dev.vscode-claude-code-home-trust](https://marketplace.visualstudio.com/items?itemName=moriyama-dev.vscode-claude-code-home-trust) | Trust Home Folder for Claude Code | 0.1.0 | Stop Claude Code from asking whether to trust your home folder every time a win… |
+| 2026-11-16 22:00:06 | [damun.verifylens](https://marketplace.visualstudio.com/items?itemName=damun.verifylens) | VerifyLens | 0.5.1 | See per requirement whether an AI-generated change is verified, different, or n… |
+| 2026-11-16 22:14:15 | [bitno.ls-tiltfile-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-tiltfile-by-bitno) | Tiltfile Language Server by Bitno | 2026.11.0 | A lightweight Tiltfile language server for VS Code: completion, hover, signatur… |
 
 ## Data source
 
