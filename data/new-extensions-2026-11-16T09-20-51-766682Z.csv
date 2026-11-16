@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T08:15:44.04Z,zovo.zovo-mdx-preview,zovo,MDX Preview & Live MDX Viewer,0.1.0,"MDX preview for VS Code: a live preview of .mdx files beside the editor with GFM tables, code colors, frontmatter as a table, inline JSX and labeled boxes for components. Bundled MDX 3 compiler, no code from the file runs, no network."
+2026-11-16T08:19:25.837Z,0x2fff.markdown-source-preview,0x2fff,Markdown Source Preview,0.1.0,A source-preserving Markdown preview with inline block editing.
+2026-11-16T08:34:34.797Z,ColinGamez.colins-developer-toolkit,ColinGamez,Colin's Developer Toolkit,2.2.0,"Requires CAD $14.99 lifetime bundle purchase for all seven extensions. All-in-one VS Code toolkit: 32 themes, file icons, theme automation, bug reports, launcher, project sidebar, README editor, and snippets. CAD $14.99 lifetime."
+2026-11-16T08:41:38.247Z,endform.playwright-intent-vscode,endform,Playwright Intent,0.1.0,"Go from an ai.do intent to the step it runs, and see the step's code on hover."
+2026-11-16T08:45:15.283Z,nemreen.dga,nemreen,DGA,0.2.1,"DGA design system for VS Code and Cursor — component/token completions, hover docs, snippets, and agent skills install."
+2026-11-16T08:49:00.527Z,arifmardhatillah.tessly,arifmardhatillah,Tessly: AI Token Tracker,0.1.0,"See how many tokens Claude Code uses today, this month and this year, right in the status bar."
+2026-11-16T08:51:01.98Z,mineengine.sparkle-particles,mineengine,Sparkle particles for Minecraft mods,0.2.0,"Particle systems for Minecraft mods (Forge, NeoForge, Fabric): a visual editor with templates and a 3D preview, and the runtime that plays them in the game."
+2026-11-16T08:56:16.157Z,balthild.models-dev-vscode,balthild,Models.dev,0.1.0,Models.dev as copilot model providers
+2026-11-16T09:04:12.853Z,sb-i-learning.se-room-learningsystem,sb-i-learning,SEの部屋 LearningSystem,0.2.0,https://sb-i.jp/ の各ページに対応したプログラミング課題の作成・自動採点・正答率レポート出力を行うVS Code学習支援プラグイン
+2026-11-16T09:09:55.99Z,my-workspace-tools.flutter-qei-tools-cev,my-workspace-tools,Flutter Cev,1.0.19,Инструменты для текущей рабочей папки.

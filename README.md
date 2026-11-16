@@ -12,18 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 08:21 UTC
+## Latest list — 2026-11-16 09:20 UTC
 
-New extensions published between 2026-11-16 06:21 UTC and 2026-11-16 08:21 UTC.
+New extensions published between 2026-11-16 07:20 UTC and 2026-11-16 09:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T08-21-19-29947Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T09-20-51-766682Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 07:51:44 | [myh456.git-blame-lens-next](https://marketplace.visualstudio.com/items?itemName=myh456.git-blame-lens-next) | Git Blame Lens Next | 0.0.5 | 优雅的Git Blame可视化工具 \| 显示代码行作者信息和提交历史 \| 支持悬停详情和智能缓存 |
-| 2026-11-16 08:01:50 | [sobtic.sobtic](https://marketplace.visualstudio.com/items?itemName=sobtic.sobtic) | Sobtic | 0.1.0 | Chat với Claude, GPT, Gemini, DeepSeek ngay trong VS Code bằng tài khoản Sobtic… |
-| 2026-11-16 08:02:38 | [nqnhut92.branch-and-brew](https://marketplace.visualstudio.com/items?itemName=nqnhut92.branch-and-brew) | Branch and Brew | 1.1.0 | Multi-repository Git panel, TortoiseGit-style log and rebase, three-pane merge,… |
-| 2026-11-16 08:03:51 | [RedsenTechnology.redsen-allowclick](https://marketplace.visualstudio.com/items?itemName=RedsenTechnology.redsen-allowclick) | Redsen AllowClick | 0.2.0 | Valide automatiquement les demandes de confirmation (Allow / Continue) du chat… |
+| 2026-11-16 08:15:44 | [zovo.zovo-mdx-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-mdx-preview) | MDX Preview & Live MDX Viewer | 0.1.0 | MDX preview for VS Code: a live preview of .mdx files beside the editor with GF… |
+| 2026-11-16 08:19:25 | [0x2fff.markdown-source-preview](https://marketplace.visualstudio.com/items?itemName=0x2fff.markdown-source-preview) | Markdown Source Preview | 0.1.0 | A source-preserving Markdown preview with inline block editing. |
+| 2026-11-16 08:34:34 | [ColinGamez.colins-developer-toolkit](https://marketplace.visualstudio.com/items?itemName=ColinGamez.colins-developer-toolkit) | Colin's Developer Toolkit | 2.2.0 | Requires CAD $14.99 lifetime bundle purchase for all seven extensions. All-in-o… |
+| 2026-11-16 08:41:38 | [endform.playwright-intent-vscode](https://marketplace.visualstudio.com/items?itemName=endform.playwright-intent-vscode) | Playwright Intent | 0.1.0 | Go from an ai.do intent to the step it runs, and see the step's code on hover. |
+| 2026-11-16 08:45:15 | [nemreen.dga](https://marketplace.visualstudio.com/items?itemName=nemreen.dga) | DGA | 0.2.1 | DGA design system for VS Code and Cursor — component/token completions, hover d… |
+| 2026-11-16 08:49:00 | [arifmardhatillah.tessly](https://marketplace.visualstudio.com/items?itemName=arifmardhatillah.tessly) | Tessly: AI Token Tracker | 0.1.0 | See how many tokens Claude Code uses today, this month and this year, right in… |
+| 2026-11-16 08:51:01 | [mineengine.sparkle-particles](https://marketplace.visualstudio.com/items?itemName=mineengine.sparkle-particles) | Sparkle particles for Minecraft mods | 0.2.0 | Particle systems for Minecraft mods (Forge, NeoForge, Fabric): a visual editor… |
+| 2026-11-16 08:56:16 | [balthild.models-dev-vscode](https://marketplace.visualstudio.com/items?itemName=balthild.models-dev-vscode) | Models.dev | 0.1.0 | Models.dev as copilot model providers |
+| 2026-11-16 09:04:12 | [sb-i-learning.se-room-learningsystem](https://marketplace.visualstudio.com/items?itemName=sb-i-learning.se-room-learningsystem) | SEの部屋 LearningSystem | 0.2.0 | https://sb-i.jp/ の各ページに対応したプログラミング課題の作成・自動採点・正答率レポート出力を行うVS Code学習支援プラグイン |
+| 2026-11-16 09:09:55 | [my-workspace-tools.flutter-qei-tools-cev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-cev) | Flutter Cev | 1.0.19 | Инструменты для текущей рабочей папки. |
 
 ## Data source
 
