@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T14:17:51.423Z,Karkain.karkain-language-tools,Karkain,Karkain Programming Language Support,0.9.0,"Development environment for the Karkain programming language (.kark): syntax highlighting, Karkain CLI integration (check, build, run, format) and Karkain Language Server (karkain lsp) intelligence. Requires the Karkain 1.1.0 toolchain."
+2026-11-16T14:23:43.837Z,luiscantero.pr-watcher,luiscantero,PR Watcher for Azure DevOps,0.1.0,"Dashboard of your team's Azure DevOps pull requests: who needs to review, approvals, re-approvals after new pushes, failed validation, blocking policies and auto-complete. Merged PRs stay listed for 60 hours."
+2026-11-16T14:29:28.043Z,bitno.ls-jvm-by-bitno,bitno,Language Server for the JVM by Bitno,2026.11.7,The server behind Bitno's language extensions for the JVM: install it with Language Server for Java by Bitno
+2026-11-16T14:30:10.077Z,bitno.ls-kotlin-by-bitno,bitno,Language Server for Kotlin by Bitno,2026.11.7,"A lightweight, private Kotlin language server for VS Code"
+2026-11-16T14:34:40.307Z,TaylorsRus.keysnap,TaylorsRus,Keysnap,0.1.0,"Fast, keybind-driven images of your code, styled with your active theme."
+2026-11-16T14:38:39.72Z,SAMEERGORAI.apicraft-studio,SAMEERGORAI,ApiCraft Studio: REST API Client,1.0.0,"Production-ready Postman alternative for VS Code: Collections, Environments, History, Auth, and Code Generation."
+2026-11-16T14:47:24.51Z,webneststudio.webnest-ai,webneststudio,WebNest AI,0.1.0,"WebNest AI in VS Code: chat about your code, explain and refactor selections, fix errors, and apply suggested code after you approve it. Requires a WebNest Prime pass from webneststudio.co.in."
+2026-11-16T14:48:58.72Z,taylorsrusrbx.codesnapper,taylorsrusrbx,Codesnapper,0.1.0,"Fast, keybind-driven images of your code, styled with your active theme."
+2026-11-16T14:56:29.98Z,Knobdeck.knobdeck-vscode-companion,Knobdeck,KnobDeck VS Code Companion,1.1.0,"Lets the KnobDeck dial and deck control VS Code: run tasks, start debugging, switch editors and terminals, and run any command."
+2026-11-16T15:02:28.437Z,ps-aditya.git-triage,ps-aditya,Git Triage,0.1.0,"Git status, changes, branches, history, and credential triage in one VS Code sidebar."

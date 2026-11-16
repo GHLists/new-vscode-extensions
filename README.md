@@ -12,16 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 14:18 UTC
+## Latest list — 2026-11-16 15:19 UTC
 
-New extensions published between 2026-11-16 12:18 UTC and 2026-11-16 14:18 UTC.
+New extensions published between 2026-11-16 13:19 UTC and 2026-11-16 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T14-18-55-547907Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T15-19-35-297066Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 14:08:20 | [FuiSQL.fbdi-prevalidate](https://marketplace.visualstudio.com/items?itemName=FuiSQL.fbdi-prevalidate) | FuiSQL FBDI Pre-Validate | 0.1.0 | Load FBDI files (CSV, ZIP, XLSM) into a local database and pre-validate them ag… |
-| 2026-11-16 14:08:39 | [wayfarer6.vamp-mcp-tools](https://marketplace.visualstudio.com/items?itemName=wayfarer6.vamp-mcp-tools) | VAMP MCP Tools — VM Automation & Vault | 0.1.8 | VM-isolated GUI automation and MCP for local and remote hypervisors. Includes V… |
+| 2026-11-16 14:17:51 | [Karkain.karkain-language-tools](https://marketplace.visualstudio.com/items?itemName=Karkain.karkain-language-tools) | Karkain Programming Language Support | 0.9.0 | Development environment for the Karkain programming language (.kark): syntax hi… |
+| 2026-11-16 14:23:43 | [luiscantero.pr-watcher](https://marketplace.visualstudio.com/items?itemName=luiscantero.pr-watcher) | PR Watcher for Azure DevOps | 0.1.0 | Dashboard of your team's Azure DevOps pull requests: who needs to review, appro… |
+| 2026-11-16 14:29:28 | [bitno.ls-jvm-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-jvm-by-bitno) | Language Server for the JVM by Bitno | 2026.11.7 | The server behind Bitno's language extensions for the JVM: install it with Lang… |
+| 2026-11-16 14:30:10 | [bitno.ls-kotlin-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-kotlin-by-bitno) | Language Server for Kotlin by Bitno | 2026.11.7 | A lightweight, private Kotlin language server for VS Code |
+| 2026-11-16 14:34:40 | [TaylorsRus.keysnap](https://marketplace.visualstudio.com/items?itemName=TaylorsRus.keysnap) | Keysnap | 0.1.0 | Fast, keybind-driven images of your code, styled with your active theme. |
+| 2026-11-16 14:38:39 | [SAMEERGORAI.apicraft-studio](https://marketplace.visualstudio.com/items?itemName=SAMEERGORAI.apicraft-studio) | ApiCraft Studio: REST API Client | 1.0.0 | Production-ready Postman alternative for VS Code: Collections, Environments, Hi… |
+| 2026-11-16 14:47:24 | [webneststudio.webnest-ai](https://marketplace.visualstudio.com/items?itemName=webneststudio.webnest-ai) | WebNest AI | 0.1.0 | WebNest AI in VS Code: chat about your code, explain and refactor selections, f… |
+| 2026-11-16 14:48:58 | [taylorsrusrbx.codesnapper](https://marketplace.visualstudio.com/items?itemName=taylorsrusrbx.codesnapper) | Codesnapper | 0.1.0 | Fast, keybind-driven images of your code, styled with your active theme. |
+| 2026-11-16 14:56:29 | [Knobdeck.knobdeck-vscode-companion](https://marketplace.visualstudio.com/items?itemName=Knobdeck.knobdeck-vscode-companion) | KnobDeck VS Code Companion | 1.1.0 | Lets the KnobDeck dial and deck control VS Code: run tasks, start debugging, sw… |
+| 2026-11-16 15:02:28 | [ps-aditya.git-triage](https://marketplace.visualstudio.com/items?itemName=ps-aditya.git-triage) | Git Triage | 0.1.0 | Git status, changes, branches, history, and credential triage in one VS Code si… |
 
 ## Data source
 
