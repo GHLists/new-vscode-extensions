@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T01:21:50.147Z,tundraai.tundra-ai,tundraai,Tundra AI,0.1.0,"Агент для кода: чат, изменения с просмотром, команды с подтверждением и ваш аккаунт Tundra."
+2026-11-16T01:26:18.74Z,Labplotlib.labplotlib-sidebar,Labplotlib,LabPlotLib Sidebar,0.1.4,Browse and insert LabPlotLib symbols and plotting calls.
+2026-11-16T01:47:24.52Z,eduardoghi.senior-lsp,eduardoghi,Senior LSP,0.6.2,"Servidor de linguagem não oficial para as regras LSP do ERP Senior (regras, telas SGI, web services e modelos de relatório)"
+2026-11-16T01:58:39.227Z,devalexandre.vscode-ginga,devalexandre,Ginga,0.2.0,VS Code extension that connects to the Ginga CLI through the ACP stdio JSON-RPC server.
+2026-11-16T02:00:51.053Z,goome-ui.vscode-goome,goome-ui,goome,0.4.1,"Snippets, a new project command, a .goome.json preview and hover docs for goome, the see-through overlay and ui library."
+2026-11-16T02:01:11.853Z,sachindahal.read-me-maybe,sachindahal,ReadMeMaybe,0.1.0,"An easy Markdown preview and editor. Opens .md files rendered, edit right in the page, with Mermaid, search and themes. Zero setup."
+2026-11-16T02:01:24.14Z,krobn.tokengotchi,krobn,Tokengotchi,0.8.0,A tamagotchi-style pet that lives on your AI coding tokens. Feed it cookies; it follows Claude Code live and sends out minis for every agent.
+2026-11-16T02:17:56.03Z,wasdzy.biglogview,wasdzy,BigLogView,0.3.6,"View, search, filter and tail huge log, JSON Lines, CSV and plain text files (gigabytes) without loading them into memory."
