@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T16:13:52.61Z,Octocolee.etl-sql-vscode,Octocolee,ETL-SQL Tools,0.22.0,"SQL-like scripting for multi-source data pipelines. Run scripts against MSSQL, Postgres, Snowflake, BigQuery, SFTP, REST APIs, flat files, and more — with IntelliSense, linting, live results, and interactive report authoring."
+2026-11-16T16:22:18.96Z,VoidStar.vscode-wallpaper-glass,VoidStar,VSCode-Wallpaper,1.0.2,"Custom static/animated wallpapers for VS Code, with Wallpaper Engine scene.pkg rendering, frosted glass and floating panels."
+2026-11-16T16:28:44.663Z,cwkr.xtjson,cwkr,XTJSON,0.1.0,"Syntax highlighting, folding and formatting for XTJSON, a superset of JSON for files maintained by people"
+2026-11-16T16:29:52.11Z,yeskiy.yreview,yeskiy,Yreview,1.1.0,Review comments that live in git notes. The same comments show in the Yreview plugin for JetBrains IDEs.
+2026-11-16T16:35:45.987Z,vs-office.dxv,vs-office,dxv,2026.0.1,"View PDF, DOCX and DOC files in VS Code; annotate PDFs and edit the text of DOCX documents."
+2026-11-16T16:50:12.427Z,open-resource-discovery.a2a-editor-vscode,open-resource-discovery,A2A Editor,0.2.3,Visual editor and viewer for A2A (Agent-to-Agent) protocol Agent Cards
+2026-11-16T16:54:12.973Z,ubqtest.ubq,ubqtest,ubq,0.0.12,"The results of ubq test runs in the editor: the code that no test ran, the failures, and the tests that ran each line."
+2026-11-16T17:01:30.143Z,lostwood.osf,lostwood,Open Story Format (OSF),1.0.1,"Syntax highlighting and editing support for .osf files, the Open Story Format language."
+2026-11-16T17:10:33.43Z,UtopikPrompt.agent-roster-for-copilot-chat,UtopikPrompt,Agent Roster for Copilot Chat,0.1.0,A specialist agent roster and reusable workflow skills for GitHub Copilot Chat.
