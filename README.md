@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 05:19 UTC
+## Latest list — 2026-11-16 06:18 UTC
 
-New extensions published between 2026-11-16 03:19 UTC and 2026-11-16 05:19 UTC.
+New extensions published between 2026-11-16 04:18 UTC and 2026-11-16 06:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T05-19-54-942995Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T06-18-51-663785Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 04:17:39 | [angelminga-multigit.multigit](https://marketplace.visualstudio.com/items?itemName=angelminga-multigit.multigit) | MultiGit | 0.22.1 | IntelliJ IDEA-style Git for multi-repository workspaces: common branches, commi… |
-| 2026-11-16 04:24:12 | [fireballenterprise.fireball-sidecar](https://marketplace.visualstudio.com/items?itemName=fireballenterprise.fireball-sidecar) | Fireball Sidecar | 2.0.4 | A first-party Fireball Sidecar AI chat and coding assistant for Vscode. |
-| 2026-11-16 04:25:06 | [OAB714.whos-on-my-port](https://marketplace.visualstudio.com/items?itemName=OAB714.whos-on-my-port) | Who's On My Port | 0.2.4 | See which process holds a port, which VS Code window it belongs to, and free it… |
-| 2026-11-16 04:27:32 | [PirapaakaranPirathapan.croncraft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.croncraft-pro) | CronCraft: Cron Expression Explainer &… | 0.1.0 | Human-readable Cron expression explainer, next execution run simulator, inline… |
-| 2026-11-16 04:27:41 | [PirapaakaranPirathapan.fontcraft-studio-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.fontcraft-studio-pro) | FontCraft: WebFont Inspector & CSS @fon… | 0.1.0 | Local font file inspector, instant CSS @font-face rule generator, typography te… |
-| 2026-11-16 04:27:54 | [PirapaakaranPirathapan.graphql-lens-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.graphql-lens-pro) | GraphQL Lens: Query Runner & Schema Exp… | 0.1.0 | Instant inline GraphQL query runner, schema introspection tree explorer, and qu… |
-| 2026-11-16 04:28:15 | [PirapaakaranPirathapan.md-table-craft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.md-table-craft-pro) | Markdown TableCraft: Formatter, CSV & J… | 0.1.0 | Instant Markdown table auto-formatter & alignment, 2-way CSV/TSV/JSON converter… |
-| 2026-11-16 04:28:26 | [PirapaakaranPirathapan.readmecraft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.readmecraft-pro) | ReadmeCraft: Open-Source README & Badge… | 0.1.0 | Complete open-source README generator, Shields.io badge builder, repo health sc… |
-| 2026-11-16 04:33:01 | [cloudbusting.kanbanzai-board](https://marketplace.visualstudio.com/items?itemName=cloudbusting.kanbanzai-board) | Kanbanzai Board | 0.23.0 | The project's Kanbanzai board as a compact kanban in an editor tab. The board t… |
+| 2026-11-16 05:22:09 | [eorsini.sidecode](https://marketplace.visualstudio.com/items?itemName=eorsini.sidecode) | SideCode | 0.2.1 | OpenCode but Cursor style — VS Code sidebar client for OpenCode sessions. |
+| 2026-11-16 05:23:31 | [zovo.zovo-pdb-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-pdb-viewer) | PDB Viewer & Protein Structure | 0.1.0 | PDB viewer for VS Code: open PDB, mmCIF, SDF, MOL2, XYZ, GRO and PQR files as a… |
+| 2026-11-16 05:25:41 | [zovo.zovo-d2-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-d2-viewer) | D2 Diagram Viewer & D2 Preview | 0.1.0 | D2 diagram viewer for VS Code: a live D2 preview beside the text that redraws a… |
+| 2026-11-16 05:39:57 | [zovo.zovo-xsd-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xsd-viewer) | XSD Viewer & Schema Diagram | 0.1.0 | XSD viewer for VS Code: open XML Schema (.xsd) files and the schemas in .wsdl f… |
+| 2026-11-16 05:41:59 | [zovo.zovo-vba-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-vba-viewer) | VBA Viewer & Macro Extractor | 0.1.0 | VBA viewer for VS Code: open the macros inside .xlsm, .xlsb, .xls, .docm, .doc,… |
+| 2026-11-16 05:44:04 | [zovo.zovo-openscad-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-openscad-viewer) | OpenSCAD Viewer & 3D Preview | 0.1.0 | OpenSCAD 3D preview beside your .scad code: orbit, pan, zoom, grid, print bed a… |
+| 2026-11-16 05:45:58 | [zovo.zovo-resx-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-resx-editor) | ResX Editor & RESX Viewer | 0.1.0 | ResX Editor & RESX Viewer for VS Code: open .resx and .resw files as a grid of… |
+| 2026-11-16 05:47:14 | [CodeQuest.incremental-editing-engine](https://marketplace.visualstudio.com/items?itemName=CodeQuest.incremental-editing-engine) | Incremental Editing Engine | 0.1.1 | Edit code one function at a time with an LLM. Only the code that changes is sen… |
+| 2026-11-16 05:51:27 | [jaeliu2000.vscode-xmind](https://marketplace.visualstudio.com/items?itemName=jaeliu2000.vscode-xmind) | XMind Preview | 0.2.0 | XMind mind map editor for VS Code |
+| 2026-11-16 05:55:30 | [RadwanAlmsora.ai-code-verifier](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.ai-code-verifier) | AI Code Verifier | 1.0.0 | Verify AI-generated code before you merge it: static logic analysis, spec-vs-im… |
+| 2026-11-16 05:57:28 | [sb-i-learning.sb-i-learning](https://marketplace.visualstudio.com/items?itemName=sb-i-learning.sb-i-learning) | sb-i.jp Learning System | 0.1.0 | https://sb-i.jp/ の各ページに対応したプログラミング課題の作成・自動採点・正答率レポート出力を行うVS Code学習支援プラグイン |
+| 2026-11-16 06:10:36 | [myh456.git-blame-another-lens](https://marketplace.visualstudio.com/items?itemName=myh456.git-blame-another-lens) | Git Blame Another Lens | 0.0.5 | 优雅的Git Blame可视化工具 \| 显示代码行作者信息和提交历史 \| 支持悬停详情和智能缓存 |
 
 ## Data source
 
