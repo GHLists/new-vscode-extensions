@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T15:15:32.863Z,mdsvex.vscode-pfm,mdsvex,mdsvex,0.3.4,"Language support for mdsvex documents, .svx and .pfm files written in PFM (Penguin-Flavoured Markdown)"
+2026-11-16T15:23:13.873Z,leandrosilva.add-to-claude,leandrosilva,CØdeZØne Add to Claude,0.1.0,Right-click files or folders in the Explorer to @-mention them in the Claude Code chat — a stand-in for drag-and-drop.
+2026-11-16T15:23:24.287Z,silaskael.commitcraft-git,silaskael,CommitCraft — Git Commit Message Builder,1.0.0,"Build consistent Git commit messages with guided input, customizable templates, and saved suggestions."
+2026-11-16T15:25:24.69Z,kivilcim.kivilcim-language,kivilcim,KIVILCIM Language Support,1.1.0,"KIVILCIM dili için renklendirme, otomatik tamamlama ve VS Code içinden çalıştırma desteği."
+2026-11-16T15:30:15.827Z,cleversonnobrega.php-tipos-icones,cleversonnobrega,PHP Tipos (Material + anel C/I/T/E),0.2.1,"Material Icon Theme com ícone em anel para classe, interface, trait e enum do PHP."
+2026-11-16T15:39:14.71Z,lordprogrammer.kotlin-mobile,lordprogrammer,Kotlin Mobile: Android & iOS App Generator,0.1.0,"Create Kotlin apps for Android, or Android + iOS with Compose Multiplatform, and build signed Debug/Release APKs and iOS apps from VS Code, without opening Android Studio or Xcode."
+2026-11-16T15:46:59.547Z,arabella-dev.semaforo-env,arabella-dev,Semáforo Env,0.2.0,"Troque de banco no .env com um clique, por grupos independentes, sem comentar linha na mão. Status bar verde, amarela ou vermelha conforme o ambiente ativo."
+2026-11-16T15:49:28.257Z,Wovalab.tdms-viewer,Wovalab,TDMS Viewer,0.1.0,"View and chart NI TDMS files in VS Code: properties, groups, channel values and charts with measurement cursors. Read-only, nothing else to install."
+2026-11-16T15:52:11.787Z,Skema.skema-vscode,Skema,Skema Architecture Diagrams,1.15.0,Create and edit enterprise architecture diagrams live inside VS Code
+2026-11-16T15:55:00.997Z,bmukheja.console-session-resume,bmukheja,Console Session Resume,0.3.0,"Separate, reboot-persistent command history for native Bash, Zsh, Fish, and PowerShell terminals."
+2026-11-16T15:55:28.267Z,vs-office.xlv,vs-office,xlv,2026.1.0,"View and edit CSV, TSV and XLSX files in VS Code."
+2026-11-16T16:07:26.32Z,harrahx3.vscode-run-configs,harrahx3,Run Configurations Panel,1.0.0,"Create, edit and start the run and debug configurations of Python and web projects from a form and a side panel, without editing launch.json by hand."
+2026-11-16T16:07:32.88Z,harrahx3.vscode-csv-plot,harrahx3,CSV & Excel Plot,1.0.0,"Plot the columns of a CSV file or an Excel sheet as interactive line or stacked-area charts or histograms with statistics, with timestamp support and automatic multiple Y axes."
+2026-11-16T16:07:43.32Z,harrahx3.vscode-git-tool,harrahx3,Git Changelists & Log,1.0.0,"Commit graph, branches, worktrees, changelists with per-file checkboxes, annotate and history, and GitLab/GitHub merge requests and issues, in Git tool windows inspired by PyCharm."
+2026-11-16T16:08:17.423Z,ganjinbo.rbtflow,ganjinbo,RBTFlow,0.3.0,"Native VS Code views for Review Board submission, review and comparison."
