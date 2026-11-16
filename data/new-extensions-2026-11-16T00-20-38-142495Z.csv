@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-15T23:27:40.94Z,MichaelBobov.skilltree,MichaelBobov,SkillTree,0.2.0,"Map your Claude Code skills, install new ones from GitHub with a preview, and see which skills Claude actually uses."
+2026-11-15T23:29:42.72Z,0x4fmr.ordova,0x4fmr,Ordova: real code complexity,0.1.0,"Big-O for every function, derived from your code, measured in a sandbox, with verified faster versions in Python and guided fixes elsewhere. Python, JavaScript, TypeScript, Java, C++ and Go."
+2026-11-15T23:33:10.887Z,dmundt.stemlink,dmundt,Stemlink,0.1.1,Plain Markdown vault navigation and note management for Stemlink.
+2026-11-15T23:46:28.697Z,MHuzaifa.air-canada-flight-deck-theme,MHuzaifa,Air Canada Flight Deck,0.3.1,"VS Code colour themes, aviation product/file icons, a status-bar flight timer and cockpit-style notifications for Air Canada employees."
+2026-11-15T23:59:33.697Z,Noshpotosh.difflet,Noshpotosh,Difflet,1.0.0,"Net saved Git additions and deletions in your status bar, with a per-file breakdown."
+2026-11-16T00:05:35.453Z,SheiphanJoseph.spokedown,SheiphanJoseph,"Spokedown: Markdown Read Aloud, Word by Word",0.1.0,Reads Markdown aloud with natural local voices and highlights each word in the editor.
