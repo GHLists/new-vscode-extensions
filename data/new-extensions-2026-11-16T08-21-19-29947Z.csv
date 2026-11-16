@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T07:51:44.483Z,myh456.git-blame-lens-next,myh456,Git Blame Lens Next,0.0.5,优雅的Git Blame可视化工具 | 显示代码行作者信息和提交历史 | 支持悬停详情和智能缓存
+2026-11-16T08:01:50.693Z,sobtic.sobtic,sobtic,Sobtic,0.1.0,"Chat với Claude, GPT, Gemini, DeepSeek ngay trong VS Code bằng tài khoản Sobtic: giải thích, sửa lỗi, viết test cho code đang chọn."
+2026-11-16T08:02:38.58Z,nqnhut92.branch-and-brew,nqnhut92,Branch and Brew,1.1.0,"Multi-repository Git panel, TortoiseGit-style log and rebase, three-pane merge, and a Java/Maven toolchain."
+2026-11-16T08:03:51.3Z,RedsenTechnology.redsen-allowclick,RedsenTechnology,Redsen AllowClick,0.2.0,Valide automatiquement les demandes de confirmation (Allow / Continue) du chat GitHub Copilot.
