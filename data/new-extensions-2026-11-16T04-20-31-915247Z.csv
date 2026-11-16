@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T03:12:00.97Z,sxpt.sxpt-agent,sxpt,SXPT AI Coding Agent,0.3.0,实训平台内置 VS Code 的 AI 编程 Agent：自主查看代码、修改文件、运行命令并验证，所有修改经 Diff 审核、可一键撤销。界面全部使用 VS Code 原生组件，局域网 http 环境下也能使用。
+2026-11-16T03:57:55.233Z,kuon.claude-account-profiles,kuon,Claude Account Profiles,0.3.0,"Keep several Claude Code accounts signed in, pick one per project automatically, and switch quickly from the status bar."

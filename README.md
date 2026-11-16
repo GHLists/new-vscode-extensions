@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 03:21 UTC
+## Latest list — 2026-11-16 04:20 UTC
 
-New extensions published between 2026-11-16 01:21 UTC and 2026-11-16 03:21 UTC.
+New extensions published between 2026-11-16 02:20 UTC and 2026-11-16 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T03-21-15-151217Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T04-20-31-915247Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 02:43:20 | [SmallStepsStudio.mask-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.mask-atlas) | Mask Atlas | 0.1.0 | Find and replace identifiers in HL7 v2, FHIR JSON and X12 test messages. Free r… |
-| 2026-11-16 03:07:08 | [matquant14.cd-dark-theme-vscode](https://marketplace.visualstudio.com/items?itemName=matquant14.cd-dark-theme-vscode) | CD Dark Theme | 1.3.10 | The CD Dark and CD Dark Islands JetBrains themes for VS Code. |
+| 2026-11-16 03:12:00 | [sxpt.sxpt-agent](https://marketplace.visualstudio.com/items?itemName=sxpt.sxpt-agent) | SXPT AI Coding Agent | 0.3.0 | 实训平台内置 VS Code 的 AI 编程 Agent：自主查看代码、修改文件、运行命令并验证，所有修改经 Diff 审核、可一键撤销。界面全部使用 VS… |
+| 2026-11-16 03:57:55 | [kuon.claude-account-profiles](https://marketplace.visualstudio.com/items?itemName=kuon.claude-account-profiles) | Claude Account Profiles | 0.3.0 | Keep several Claude Code accounts signed in, pick one per project automatically… |
 
 ## Data source
 
