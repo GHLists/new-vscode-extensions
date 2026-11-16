@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 10:18 UTC
+## Latest list — 2026-11-16 11:44 UTC
 
-New extensions published between 2026-11-16 08:18 UTC and 2026-11-16 10:18 UTC.
+New extensions published between 2026-11-16 09:44 UTC and 2026-11-16 11:44 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T10-18-54-218673Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T11-44-39-215876Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 09:20:27 | [AlexFire.stack-upgrade-comparator](https://marketplace.visualstudio.com/items?itemName=AlexFire.stack-upgrade-comparator) | СТЕК: Сравнение версий | 0.2.5 | Поиск доработок и индивидуальных разработок в словарях, функциях, отчётах и инт… |
-| 2026-11-16 09:38:55 | [bitno.java-pack-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.java-pack-by-bitno) | Bitno Pack for Java | 2026.11.1 | Bitno's language servers for Java projects in one install: Java and Gradle. |
-| 2026-11-16 09:40:21 | [inka-project.inka-vscode](https://marketplace.visualstudio.com/items?itemName=inka-project.inka-vscode) | inka | 0.0.2 | Language support for the inka argumentation DSL |
-| 2026-11-16 09:45:06 | [twogog.package-scripts-menu](https://marketplace.visualstudio.com/items?itemName=twogog.package-scripts-menu) | Package Scripts Menu | 1.1.1 | Запуск scripts из package.json, избранное и часто запускаемые команды отдельно… |
-| 2026-11-16 09:46:55 | [CarrierOs.carrieros-agent-staging](https://marketplace.visualstudio.com/items?itemName=CarrierOs.carrieros-agent-staging) | Carrier OS Agent (Staging) | 0.2.1 | Staging build of Carrier OS Agent, connected only to carrieros.site and its sta… |
-| 2026-11-16 09:50:37 | [fengjl.msrt](https://marketplace.visualstudio.com/items?itemName=fengjl.msrt) | MSR & MST | 0.3.0 | MSR (.msr) 语言支持 + MST (.mst) 工程文件编辑器：高亮、语法检查、代码补全、定义跳转、格式化（统一插件） |
-| 2026-11-16 09:53:10 | [AlexanderSmirnov.throttle-proxy](https://marketplace.visualstudio.com/items?itemName=AlexanderSmirnov.throttle-proxy) | Throttle Proxy | 0.1.0 | Throttling for custom endpoint models in VS Code Chat: a local proxy that queue… |
-| 2026-11-16 10:06:01 | [puzaricloud.nginx-config](https://marketplace.visualstudio.com/items?itemName=puzaricloud.nginx-config) | NGINX Config – Syntax, Format, Lint & S… | 1.0.0 | NGINX configuration support: syntax highlighting, hover docs and completion for… |
-| 2026-11-16 10:08:45 | [lilinhuang.cedar-sand-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.cedar-sand-theme) | Cedar & Sand Theme | 1.0.0 | A cedar forest and warm sand: deep cedar green and sand gold on bone paper in t… |
+| 2026-11-16 10:17:59 | [MastyfLabs.mastyf-shield](https://marketplace.visualstudio.com/items?itemName=MastyfLabs.mastyf-shield) | Mastyf Shield | 0.1.0 | See whether your editor's MCP servers are routed through Mastyf Shield, and wha… |
+| 2026-11-16 10:29:24 | [samuelj1519.lingua-lens](https://marketplace.visualstudio.com/items?itemName=samuelj1519.lingua-lens) | LinguaLens - Translate Comments & Docs | 0.8.3 | Translate comments, strings, and docs in the editor with your own OpenAI-compat… |
+| 2026-11-16 10:41:45 | [deguboard.deguboard-test](https://marketplace.visualstudio.com/items?itemName=deguboard.deguboard-test) | deguboard-test | 0.0.8 | An agentic kanban board inside your Git repository with the development flow bu… |
+| 2026-11-16 11:00:57 | [TheHumanDev.sushi-language](https://marketplace.visualstudio.com/items?itemName=TheHumanDev.sushi-language) | Sushi Language Support | 0.1.0 | Language support for the Sushi programming language. |
+| 2026-11-16 11:04:39 | [lilinhuang.snowline-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.snowline-theme) | Snowline Theme | 1.0.0 | One snow line, six cuts: Glacier, Tundra, Frostbell and Icefall in the light, F… |
+| 2026-11-16 11:07:52 | [ai4e.parallax-copilot](https://marketplace.visualstudio.com/items?itemName=ai4e.parallax-copilot) | Parallax for GitHub Copilot | 2.0.1 | Hands-off coding for GitHub Copilot. Reviewed plans, clean-context execution, i… |
+| 2026-11-16 11:11:30 | [huynvic.albertcode](https://marketplace.visualstudio.com/items?itemName=huynvic.albertcode) | AlbertCode SWE Agent | 1.57.2 | Enterprise, multi-model coding agent with tenant-aware approvals, isolated exec… |
+| 2026-11-16 11:14:37 | [PetheanRaj.archlens-vscode](https://marketplace.visualstudio.com/items?itemName=PetheanRaj.archlens-vscode) | ArchLens: Visual Architecture, Dead Cod… | 0.1.0 | Interactive React/Next.js component visualizer, AST-powered dead code & orphan… |
+| 2026-11-16 11:33:46 | [syamprasadkalarikkal.nextjs-security-guardian](https://marketplace.visualstudio.com/items?itemName=syamprasadkalarikkal.nextjs-security-guardian) | Next.js Security Guardian | 0.1.0 | VS Code security scanner for Next.js with real-time vulnerability detection and… |
 
 ## Data source
 

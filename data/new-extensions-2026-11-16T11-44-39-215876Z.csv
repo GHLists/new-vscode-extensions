@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T10:17:59.103Z,MastyfLabs.mastyf-shield,MastyfLabs,Mastyf Shield,0.1.0,"See whether your editor's MCP servers are routed through Mastyf Shield, and what Shield blocked and why."
+2026-11-16T10:29:24.693Z,samuelj1519.lingua-lens,samuelj1519,LinguaLens - Translate Comments & Docs,0.8.3,"Translate comments, strings, and docs in the editor with your own OpenAI-compatible LLM."
+2026-11-16T10:41:45.18Z,deguboard.deguboard-test,deguboard,deguboard-test,0.0.8,"An agentic kanban board inside your Git repository with the development flow built in, inspired by Agentic-Agile. Hand small tickets to AI agents, run them in parallel, and measure how the work goes."
+2026-11-16T11:00:57.093Z,TheHumanDev.sushi-language,TheHumanDev,Sushi Language Support,0.1.0,Language support for the Sushi programming language.
+2026-11-16T11:04:39.063Z,lilinhuang.snowline-theme,lilinhuang,Snowline Theme,1.0.0,"One snow line, six cuts: Glacier, Tundra, Frostbell and Icefall in the light, Fjord and Frostpine in the dark. Cool, quiet winter colour."
+2026-11-16T11:07:52.22Z,ai4e.parallax-copilot,ai4e,Parallax for GitHub Copilot,2.0.1,"Hands-off coding for GitHub Copilot. Reviewed plans, clean-context execution, independent audits."
+2026-11-16T11:11:30.783Z,huynvic.albertcode,huynvic,AlbertCode SWE Agent,1.57.2,"Enterprise, multi-model coding agent with tenant-aware approvals, isolated execution, verification and diff review."
+2026-11-16T11:14:37.763Z,PetheanRaj.archlens-vscode,PetheanRaj,"ArchLens: Visual Architecture, Dead Code Reaper & Codebase Tours",0.1.0,"Interactive React/Next.js component visualizer, AST-powered dead code & orphan file reaper, and interactive codebase walkthrough recorder."
+2026-11-16T11:33:46.31Z,syamprasadkalarikkal.nextjs-security-guardian,syamprasadkalarikkal,Next.js Security Guardian,0.1.0,VS Code security scanner for Next.js with real-time vulnerability detection and AI-assisted security reviews.
