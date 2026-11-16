@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T09:20:27.703Z,AlexFire.stack-upgrade-comparator,AlexFire,СТЕК: Сравнение версий,0.2.5,"Поиск доработок и индивидуальных разработок в словарях, функциях, отчётах и интерфейсах."
+2026-11-16T09:38:55.393Z,bitno.java-pack-by-bitno,bitno,Bitno Pack for Java,2026.11.1,Bitno's language servers for Java projects in one install: Java and Gradle.
+2026-11-16T09:40:21.25Z,inka-project.inka-vscode,inka-project,inka,0.0.2,Language support for the inka argumentation DSL
+2026-11-16T09:45:06.817Z,twogog.package-scripts-menu,twogog,Package Scripts Menu,1.1.1,"Запуск scripts из package.json, избранное и часто запускаемые команды отдельно для каждого репозитория."
+2026-11-16T09:46:55.93Z,CarrierOs.carrieros-agent-staging,CarrierOs,Carrier OS Agent (Staging),0.2.1,"Staging build of Carrier OS Agent, connected only to carrieros.site and its staging API."
+2026-11-16T09:50:37.6Z,fengjl.msrt,fengjl,MSR & MST,0.3.0,MSR (.msr) 语言支持 + MST (.mst) 工程文件编辑器：高亮、语法检查、代码补全、定义跳转、格式化（统一插件）
+2026-11-16T09:53:10.27Z,AlexanderSmirnov.throttle-proxy,AlexanderSmirnov,Throttle Proxy,0.1.0,Throttling for custom endpoint models in VS Code Chat: a local proxy that queues requests and retries HTTP 429 with backoff.
+2026-11-16T10:06:01.023Z,puzaricloud.nginx-config,puzaricloud,"NGINX Config – Syntax, Format, Lint & Security Check",1.0.0,"NGINX configuration support: syntax highlighting, hover docs and completion for directives, a formatter that keeps comments and Lua blocks, outline, and checks for unbalanced braces, missing semicolons and unknown directives. Pro: security lint (weak TLS, missing HSTS, alias traversal, add_header in"
+2026-11-16T10:08:45.883Z,lilinhuang.cedar-sand-theme,lilinhuang,Cedar & Sand Theme,1.0.0,"A cedar forest and warm sand: deep cedar green and sand gold on bone paper in the light variant, midnight cedar with a sand status bar in the dark one."

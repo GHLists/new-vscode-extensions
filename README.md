@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 09:20 UTC
+## Latest list — 2026-11-16 10:18 UTC
 
-New extensions published between 2026-11-16 07:20 UTC and 2026-11-16 09:20 UTC.
+New extensions published between 2026-11-16 08:18 UTC and 2026-11-16 10:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T09-20-51-766682Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T10-18-54-218673Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 08:15:44 | [zovo.zovo-mdx-preview](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-mdx-preview) | MDX Preview & Live MDX Viewer | 0.1.0 | MDX preview for VS Code: a live preview of .mdx files beside the editor with GF… |
-| 2026-11-16 08:19:25 | [0x2fff.markdown-source-preview](https://marketplace.visualstudio.com/items?itemName=0x2fff.markdown-source-preview) | Markdown Source Preview | 0.1.0 | A source-preserving Markdown preview with inline block editing. |
-| 2026-11-16 08:34:34 | [ColinGamez.colins-developer-toolkit](https://marketplace.visualstudio.com/items?itemName=ColinGamez.colins-developer-toolkit) | Colin's Developer Toolkit | 2.2.0 | Requires CAD $14.99 lifetime bundle purchase for all seven extensions. All-in-o… |
-| 2026-11-16 08:41:38 | [endform.playwright-intent-vscode](https://marketplace.visualstudio.com/items?itemName=endform.playwright-intent-vscode) | Playwright Intent | 0.1.0 | Go from an ai.do intent to the step it runs, and see the step's code on hover. |
-| 2026-11-16 08:45:15 | [nemreen.dga](https://marketplace.visualstudio.com/items?itemName=nemreen.dga) | DGA | 0.2.1 | DGA design system for VS Code and Cursor — component/token completions, hover d… |
-| 2026-11-16 08:49:00 | [arifmardhatillah.tessly](https://marketplace.visualstudio.com/items?itemName=arifmardhatillah.tessly) | Tessly: AI Token Tracker | 0.1.0 | See how many tokens Claude Code uses today, this month and this year, right in… |
-| 2026-11-16 08:51:01 | [mineengine.sparkle-particles](https://marketplace.visualstudio.com/items?itemName=mineengine.sparkle-particles) | Sparkle particles for Minecraft mods | 0.2.0 | Particle systems for Minecraft mods (Forge, NeoForge, Fabric): a visual editor… |
-| 2026-11-16 08:56:16 | [balthild.models-dev-vscode](https://marketplace.visualstudio.com/items?itemName=balthild.models-dev-vscode) | Models.dev | 0.1.0 | Models.dev as copilot model providers |
-| 2026-11-16 09:04:12 | [sb-i-learning.se-room-learningsystem](https://marketplace.visualstudio.com/items?itemName=sb-i-learning.se-room-learningsystem) | SEの部屋 LearningSystem | 0.2.0 | https://sb-i.jp/ の各ページに対応したプログラミング課題の作成・自動採点・正答率レポート出力を行うVS Code学習支援プラグイン |
-| 2026-11-16 09:09:55 | [my-workspace-tools.flutter-qei-tools-cev](https://marketplace.visualstudio.com/items?itemName=my-workspace-tools.flutter-qei-tools-cev) | Flutter Cev | 1.0.19 | Инструменты для текущей рабочей папки. |
+| 2026-11-16 09:20:27 | [AlexFire.stack-upgrade-comparator](https://marketplace.visualstudio.com/items?itemName=AlexFire.stack-upgrade-comparator) | СТЕК: Сравнение версий | 0.2.5 | Поиск доработок и индивидуальных разработок в словарях, функциях, отчётах и инт… |
+| 2026-11-16 09:38:55 | [bitno.java-pack-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.java-pack-by-bitno) | Bitno Pack for Java | 2026.11.1 | Bitno's language servers for Java projects in one install: Java and Gradle. |
+| 2026-11-16 09:40:21 | [inka-project.inka-vscode](https://marketplace.visualstudio.com/items?itemName=inka-project.inka-vscode) | inka | 0.0.2 | Language support for the inka argumentation DSL |
+| 2026-11-16 09:45:06 | [twogog.package-scripts-menu](https://marketplace.visualstudio.com/items?itemName=twogog.package-scripts-menu) | Package Scripts Menu | 1.1.1 | Запуск scripts из package.json, избранное и часто запускаемые команды отдельно… |
+| 2026-11-16 09:46:55 | [CarrierOs.carrieros-agent-staging](https://marketplace.visualstudio.com/items?itemName=CarrierOs.carrieros-agent-staging) | Carrier OS Agent (Staging) | 0.2.1 | Staging build of Carrier OS Agent, connected only to carrieros.site and its sta… |
+| 2026-11-16 09:50:37 | [fengjl.msrt](https://marketplace.visualstudio.com/items?itemName=fengjl.msrt) | MSR & MST | 0.3.0 | MSR (.msr) 语言支持 + MST (.mst) 工程文件编辑器：高亮、语法检查、代码补全、定义跳转、格式化（统一插件） |
+| 2026-11-16 09:53:10 | [AlexanderSmirnov.throttle-proxy](https://marketplace.visualstudio.com/items?itemName=AlexanderSmirnov.throttle-proxy) | Throttle Proxy | 0.1.0 | Throttling for custom endpoint models in VS Code Chat: a local proxy that queue… |
+| 2026-11-16 10:06:01 | [puzaricloud.nginx-config](https://marketplace.visualstudio.com/items?itemName=puzaricloud.nginx-config) | NGINX Config – Syntax, Format, Lint & S… | 1.0.0 | NGINX configuration support: syntax highlighting, hover docs and completion for… |
+| 2026-11-16 10:08:45 | [lilinhuang.cedar-sand-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.cedar-sand-theme) | Cedar & Sand Theme | 1.0.0 | A cedar forest and warm sand: deep cedar green and sand gold on bone paper in t… |
 
 ## Data source
 
