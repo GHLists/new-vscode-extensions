@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T18:31:56.017Z,miragon-gmbh.board-modeler,miragon-gmbh,Modeler Board,0.2.0,"View and edit boards directly in VS Code: a canvas of a repository's own files, with its models edited in place, as plain-text *.board files."
+2026-11-16T18:56:09.94Z,Geometricaio.speclog,Geometricaio,Speclog,0.1.0,"Tasks from several git repositories, with their status verified from git."
+2026-11-16T18:58:06.133Z,onlinecompiler.onlinecompiler,onlinecompiler,OnlineCompiler.io: Run Code Online,0.1.0,Run code in 46 languages without installing compilers. Sends the current file to the OnlineCompiler.io API and shows the output.
+2026-11-16T19:04:37.523Z,gitwithmasum.phantom-guard,gitwithmasum,PhantomGuard // AI Hallucinated Package Sentinel,0.1.0,"Real-time cybernetic defense against AI-hallucinated and phantom packages in JavaScript, TypeScript & Python. Stop supply-chain vectors before they strike."
+2026-11-16T19:09:06.32Z,bitno.ls-yaml-by-bitno,bitno,YAML Language Server by Bitno,2026.11.0,"A lightweight YAML formatter, linter and schema-aware editor for VS Code, on Red Hat's yaml-language-server"
+2026-11-16T19:09:46.46Z,bitno.ls-toml-by-bitno,bitno,TOML Language Server by Bitno,2026.11.0,"A lightweight TOML formatter, linter and schema-aware editor for VS Code, on taplo"
+2026-11-16T19:10:39.05Z,bitno.editorconfig-by-bitno,bitno,EditorConfig by Bitno,2026.11.0,"A lightweight EditorConfig for VS Code: applies .editorconfig to every file, and checks and completes .editorconfig files"
+2026-11-16T19:13:53.667Z,jwilenius.jw-differ,jwilenius,jw-differ,0.6.0,IntelliJ-style Git commit diff viewer and three-way merge conflict resolver for VS Code
