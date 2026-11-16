@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T22:24:14.853Z,dasax.smartvisu-toolkit,dasax,smartVISU Toolkit,1.0.0,"Write smartVISU pages faster: widgets and code blocks with previews to drag into the page, completion with Ctrl+Space, help for every parameter and SmartHomeNG items as suggestions"
+2026-11-16T22:24:41.14Z,mattiamalonni.chat-for-opencode,mattiamalonni,Chat for OpenCode,0.2.0,"Unofficial Copilot-style chat for the OpenCode coding agent: streaming, sessions, diffs and inline permissions, powered by your local `opencode serve`."
+2026-11-16T22:35:00.68Z,drax-lang.drax-lang,drax-lang,Drax,0.1.0,"Syntax highlighting, snippets and language configuration for the Drax language"
+2026-11-16T22:42:34.09Z,RobDerr.vnc-desktop-view,RobDerr,VNC Desktop View,0.1.0,"See and control your remote machine's desktop in an editor tab, over your existing Remote Tunnels / Remote-SSH connection"
+2026-11-16T23:09:19.88Z,bitno.workbench-for-git,bitno,Workbench for Git by Bitno,2026.11.1,"A Git log with a graph, branches and tags, checkout, cherry-pick and revert, a commit window, stashes, worktrees, conflict resolution and blame, like IntelliJ's"
