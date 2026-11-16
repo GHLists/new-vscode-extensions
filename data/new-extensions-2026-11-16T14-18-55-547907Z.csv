@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T14:08:20.823Z,FuiSQL.fbdi-prevalidate,FuiSQL,FuiSQL FBDI Pre-Validate,0.1.0,"Load FBDI files (CSV, ZIP, XLSM) into a local database and pre-validate them against rules and live Oracle Fusion lookups before you upload. Produces an error report."
+2026-11-16T14:08:39.373Z,wayfarer6.vamp-mcp-tools,wayfarer6,VAMP MCP Tools — VM Automation & Vault,0.1.8,VM-isolated GUI automation and MCP for local and remote hypervisors. Includes VAMP Vault for encrypted credentials and certificates.
