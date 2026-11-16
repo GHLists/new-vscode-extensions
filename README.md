@@ -12,21 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 20:19 UTC
+## Latest list — 2026-11-16 21:20 UTC
 
-New extensions published between 2026-11-16 18:19 UTC and 2026-11-16 20:19 UTC.
+New extensions published between 2026-11-16 19:20 UTC and 2026-11-16 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T20-19-12-96783Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T21-20-26-489728Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 19:20:01 | [LucasLavallee.ti-basic-plus-ce](https://marketplace.visualstudio.com/items?itemName=LucasLavallee.ti-basic-plus-ce) | TI-Basic Plus CE | 1.0.7 | VS Code language support for (e)Z80 TI-BASIC |
-| 2026-11-16 19:23:07 | [malinatrash.jetik](https://marketplace.visualstudio.com/items?itemName=malinatrash.jetik) | Jetik - JetBrains-style Git | 0.1.2 | The IntelliJ IDEA Git workflow in VS Code: graph log, commit tool window, push… |
-| 2026-11-16 19:31:30 | [PTWorks.trello-cards](https://marketplace.visualstudio.com/items?itemName=PTWorks.trello-cards) | Trello Cards | 0.0.1 | Plan, share, and organize your team work on a collaborative board inside VS Cod… |
-| 2026-11-16 19:35:19 | [wukch.autoapprove-claude-code](https://marketplace.visualstudio.com/items?itemName=wukch.autoapprove-claude-code) | AutoApprove Claude Code | 1.0.0 | Auto-approves Claude Code permission prompts – including agents and ask rules (… |
-| 2026-11-16 19:46:53 | [gisoo.gisoo-vscode](https://marketplace.visualstudio.com/items?itemName=gisoo.gisoo-vscode) | Gisoo — AI Coding Agent | 1.0.5 | An agentic coding assistant for VS Code, powered by Gisoo: plans, reads your co… |
-| 2026-11-16 19:52:04 | [Mauricio.multiple-ia-agents](https://marketplace.visualstudio.com/items?itemName=Mauricio.multiple-ia-agents) | Multiple IA Agents | 0.1.10 | Independent Codex and Ollama panels with access to the official Claude chat. |
-| 2026-11-16 20:11:21 | [quhan.opencode-panel](https://marketplace.visualstudio.com/items?itemName=quhan.opencode-panel) | OpenCode Side Panel | 0.4.19 | A chat panel for your local opencode CLI: streaming replies, sessions tree, nat… |
+| 2026-11-16 20:26:13 | [puzaricloud.azure-devops-prs](https://marketplace.visualstudio.com/items?itemName=puzaricloud.azure-devops-prs) | Azure DevOps Pull Requests, Pipelines &… | 1.0.0 | Review Azure DevOps pull requests in VS Code: your PRs, PRs assigned to you and… |
+| 2026-11-16 20:27:24 | [zovo.zovo-certificate-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-certificate-viewer) | Certificate Viewer, X509 & PEM | 0.1.1 | Certificate viewer for VS Code: open PEM, CRT, CER, DER, P7B, PFX, P12, CSR and… |
+| 2026-11-16 20:28:29 | [PTWorks.clam-cards](https://marketplace.visualstudio.com/items?itemName=PTWorks.clam-cards) | Clam Cards | 0.0.1 | Default empty extension scaffold. |
+| 2026-11-16 20:38:42 | [rolld6.d6](https://marketplace.visualstudio.com/items?itemName=rolld6.d6) | d6 | 0.8.0 | d6 language support: highlighting, diagnostics, hover, go-to-definition, comple… |
+| 2026-11-16 20:49:36 | [TGNWorks.power-cards](https://marketplace.visualstudio.com/items?itemName=TGNWorks.power-cards) | Power Cards | 0.0.1 | Default empty extension scaffold. |
+| 2026-11-16 21:02:07 | [gmbeas.brokerdocs](https://marketplace.visualstudio.com/items?itemName=gmbeas.brokerdocs) | BrokerDocs — Markdown con marca, Word y… | 2.0.1 | Vista previa de Markdown con tu marca (logo, colores, fuentes), edición rápida,… |
 
 ## Data source
 

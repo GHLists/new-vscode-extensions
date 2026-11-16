@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T20:26:13.45Z,puzaricloud.azure-devops-prs,puzaricloud,"Azure DevOps Pull Requests, Pipelines & Work Items",1.0.0,"Review Azure DevOps pull requests in VS Code: your PRs, PRs assigned to you and PRs you created in a side bar, the changed files as diffs, comments and votes (approve, approve with suggestions, wait for author, reject). Sign in with a personal access token kept in SecretStorage. Pro: inline review t"
+2026-11-16T20:27:24.413Z,zovo.zovo-certificate-viewer,zovo,"Certificate Viewer, X509 & PEM",0.1.1,"Certificate viewer for VS Code: open PEM, CRT, CER, DER, P7B, PFX, P12, CSR and KEY files as a readable card with subject, issuer, expiry and days left, SANs, key type, fingerprints and every extension. Chain tree, hover on PEM blocks in any file. Offline."
+2026-11-16T20:28:29.357Z,PTWorks.clam-cards,PTWorks,Clam Cards,0.0.1,Default empty extension scaffold.
+2026-11-16T20:38:42.853Z,rolld6.d6,rolld6,d6,0.8.0,"d6 language support: highlighting, diagnostics, hover, go-to-definition, completion and debugging"
+2026-11-16T20:49:36.957Z,TGNWorks.power-cards,TGNWorks,Power Cards,0.0.1,Default empty extension scaffold.
+2026-11-16T21:02:07.617Z,gmbeas.brokerdocs,gmbeas,"BrokerDocs — Markdown con marca, Word y PDF",2.0.1,"Vista previa de Markdown con tu marca (logo, colores, fuentes), edición rápida, diagramas, imágenes y adjuntos, y exportación a Word y PDF. Liviana y sin navegador incluido."
