@@ -12,23 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 11:44 UTC
+## Latest list — 2026-11-16 12:19 UTC
 
-New extensions published between 2026-11-16 09:44 UTC and 2026-11-16 11:44 UTC.
+New extensions published between 2026-11-16 10:19 UTC and 2026-11-16 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T11-44-39-215876Z.csv)
+[Full CSV](data/new-extensions-2026-11-16T12-19-05-076461Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 10:17:59 | [MastyfLabs.mastyf-shield](https://marketplace.visualstudio.com/items?itemName=MastyfLabs.mastyf-shield) | Mastyf Shield | 0.1.0 | See whether your editor's MCP servers are routed through Mastyf Shield, and wha… |
-| 2026-11-16 10:29:24 | [samuelj1519.lingua-lens](https://marketplace.visualstudio.com/items?itemName=samuelj1519.lingua-lens) | LinguaLens - Translate Comments & Docs | 0.8.3 | Translate comments, strings, and docs in the editor with your own OpenAI-compat… |
-| 2026-11-16 10:41:45 | [deguboard.deguboard-test](https://marketplace.visualstudio.com/items?itemName=deguboard.deguboard-test) | deguboard-test | 0.0.8 | An agentic kanban board inside your Git repository with the development flow bu… |
-| 2026-11-16 11:00:57 | [TheHumanDev.sushi-language](https://marketplace.visualstudio.com/items?itemName=TheHumanDev.sushi-language) | Sushi Language Support | 0.1.0 | Language support for the Sushi programming language. |
-| 2026-11-16 11:04:39 | [lilinhuang.snowline-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.snowline-theme) | Snowline Theme | 1.0.0 | One snow line, six cuts: Glacier, Tundra, Frostbell and Icefall in the light, F… |
-| 2026-11-16 11:07:52 | [ai4e.parallax-copilot](https://marketplace.visualstudio.com/items?itemName=ai4e.parallax-copilot) | Parallax for GitHub Copilot | 2.0.1 | Hands-off coding for GitHub Copilot. Reviewed plans, clean-context execution, i… |
-| 2026-11-16 11:11:30 | [huynvic.albertcode](https://marketplace.visualstudio.com/items?itemName=huynvic.albertcode) | AlbertCode SWE Agent | 1.57.2 | Enterprise, multi-model coding agent with tenant-aware approvals, isolated exec… |
-| 2026-11-16 11:14:37 | [PetheanRaj.archlens-vscode](https://marketplace.visualstudio.com/items?itemName=PetheanRaj.archlens-vscode) | ArchLens: Visual Architecture, Dead Cod… | 0.1.0 | Interactive React/Next.js component visualizer, AST-powered dead code & orphan… |
-| 2026-11-16 11:33:46 | [syamprasadkalarikkal.nextjs-security-guardian](https://marketplace.visualstudio.com/items?itemName=syamprasadkalarikkal.nextjs-security-guardian) | Next.js Security Guardian | 0.1.0 | VS Code security scanner for Next.js with real-time vulnerability detection and… |
+| 2026-11-16 11:43:20 | [yfding.oobspreview](https://marketplace.visualstudio.com/items?itemName=yfding.oobspreview) | OobsPreview | 0.1.0 | Better Obsidian preview in Qoder & VS Code: callouts, task markers, properties,… |
+| 2026-11-16 11:53:06 | [Ottili.alran-vscode](https://marketplace.visualstudio.com/items?itemName=Ottili.alran-vscode) | Alran Code | 1.0.0 | Ottili's AI coding agent for VS Code. Describe a task and it plans it, edits th… |
+| 2026-11-16 11:55:36 | [lilinhuang.tidepool-azalea-theme](https://marketplace.visualstudio.com/items?itemName=lilinhuang.tidepool-azalea-theme) | Tidepool & Azalea Theme | 1.0.0 | A sea-glass aqua and a dusk azalea pink, each in a light and a dark cut: Tidepo… |
+| 2026-11-16 11:57:07 | [zangico.whatsapp-vscode](https://marketplace.visualstudio.com/items?itemName=zangico.whatsapp-vscode) | whatsapp-vscode | 1.0.0 | WhatsApp for VSCode |
+| 2026-11-16 12:03:34 | [Emerson1.qcs-pw-agent-zeeshan](https://marketplace.visualstudio.com/items?itemName=Emerson1.qcs-pw-agent-zeeshan) | Test QCS Playwright Automation Agent | 1.0.58 | Generate Playwright tests from Azure DevOps test cases via the ADO and Playwrig… |
+| 2026-11-16 12:07:48 | [antrazal.threadline](https://marketplace.visualstudio.com/items?itemName=antrazal.threadline) | Threadline — Codex & Claude | 0.3.8 | Codex and Claude threads across accounts. Manual tags, drag-and-drop groups, pr… |
+| 2026-11-16 12:09:15 | [WisangJatiAnggoro.quran-for-claude-code](https://marketplace.visualstudio.com/items?itemName=WisangJatiAnggoro.quran-for-claude-code) | Quran for Claude Code (Unofficial) | 0.1.0 | Unofficial community extension. Not affiliated with or endorsed by Anthropic. R… |
+| 2026-11-16 12:10:57 | [tempest-playground.rust-tempest](https://marketplace.visualstudio.com/items?itemName=tempest-playground.rust-tempest) | RustTempest | 0.1.0 | A pseudo-terminal wrapper for Rust Playground, allowing execution of Rust files… |
 
 ## Data source
 

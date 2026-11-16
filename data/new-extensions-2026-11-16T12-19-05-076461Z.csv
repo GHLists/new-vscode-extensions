@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T11:43:20.59Z,yfding.oobspreview,yfding,OobsPreview,0.1.0,"Better Obsidian preview in Qoder & VS Code: callouts, task markers, properties, wikilinks, embeds, highlights, tags, footnotes. Independent; not affiliated with Obsidian."
+2026-11-16T11:53:06.663Z,Ottili.alran-vscode,Ottili,Alran Code,1.0.0,"Ottili's AI coding agent for VS Code. Describe a task and it plans it, edits the files, runs your tests and keeps going — with Ottili Werk, Claude or your own model. Needs the Alran Code CLI."
+2026-11-16T11:55:36.26Z,lilinhuang.tidepool-azalea-theme,lilinhuang,Tidepool & Azalea Theme,1.0.0,"A sea-glass aqua and a dusk azalea pink, each in a light and a dark cut: Tidepool Light, Tidepool Dark, Azalea Light and Azalea Dark."
+2026-11-16T11:57:07.663Z,zangico.whatsapp-vscode,zangico,whatsapp-vscode,1.0.0,WhatsApp for VSCode
+2026-11-16T12:03:34.733Z,Emerson1.qcs-pw-agent-zeeshan,Emerson1,Test QCS Playwright Automation Agent,1.0.58,"Generate Playwright tests from Azure DevOps test cases via the ADO and Playwright MCP servers. Deterministic scaffolding, mismatch detection, prerequisite + ADO-origin checks; agent prompt loaded privately from Azure DevOps."
+2026-11-16T12:07:48.54Z,antrazal.threadline,antrazal,Threadline — Codex & Claude,0.3.8,"Codex and Claude threads across accounts. Manual tags, drag-and-drop groups, priorities, usage, and parallel editor tabs."
+2026-11-16T12:09:15.123Z,WisangJatiAnggoro.quran-for-claude-code,WisangJatiAnggoro,Quran for Claude Code (Unofficial),0.1.0,Unofficial community extension. Not affiliated with or endorsed by Anthropic. Read the Quran while Claude Code works — totally offline.
+2026-11-16T12:10:57.143Z,tempest-playground.rust-tempest,tempest-playground,RustTempest,0.1.0,"A pseudo-terminal wrapper for Rust Playground, allowing execution of Rust files without rustup installed."
