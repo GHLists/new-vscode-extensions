@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-16T23:29:19.34Z,wickend.beckon,wickend,beckon,0.2.1,Lets the beckon panel jump to the exact VS Code window and terminal where Claude Code is waiting.
+2026-11-16T23:32:22.457Z,saboyafelipe.plan-relay,saboyafelipe,Plan Relay,0.1.0,Shows the workspace's agent plans and opens Claude Code to run them.
+2026-11-16T23:34:04.72Z,csharma2212.window-theme-toggler,csharma2212,Window Theme Toggler,1.2.6,One-click widget to toggle contrasting multi-panel window colors (Now with 33 themes: 8 base + 15 Lighter/Medium/Darker + 10 Dim/Bright)

@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-16 23:18 UTC
+## Latest list — 2026-11-17 00:20 UTC
 
-New extensions published between 2026-11-16 21:18 UTC and 2026-11-16 23:18 UTC.
+New extensions published between 2026-11-16 22:20 UTC and 2026-11-17 00:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-16T23-18-40-629611Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T00-20-57-75968Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 22:24:14 | [dasax.smartvisu-toolkit](https://marketplace.visualstudio.com/items?itemName=dasax.smartvisu-toolkit) | smartVISU Toolkit | 1.0.0 | Write smartVISU pages faster: widgets and code blocks with previews to drag int… |
-| 2026-11-16 22:24:41 | [mattiamalonni.chat-for-opencode](https://marketplace.visualstudio.com/items?itemName=mattiamalonni.chat-for-opencode) | Chat for OpenCode | 0.2.0 | Unofficial Copilot-style chat for the OpenCode coding agent: streaming, session… |
-| 2026-11-16 22:35:00 | [drax-lang.drax-lang](https://marketplace.visualstudio.com/items?itemName=drax-lang.drax-lang) | Drax | 0.1.0 | Syntax highlighting, snippets and language configuration for the Drax language |
-| 2026-11-16 22:42:34 | [RobDerr.vnc-desktop-view](https://marketplace.visualstudio.com/items?itemName=RobDerr.vnc-desktop-view) | VNC Desktop View | 0.1.0 | See and control your remote machine's desktop in an editor tab, over your exist… |
-| 2026-11-16 23:09:19 | [bitno.workbench-for-git](https://marketplace.visualstudio.com/items?itemName=bitno.workbench-for-git) | Workbench for Git by Bitno | 2026.11.1 | A Git log with a graph, branches and tags, checkout, cherry-pick and revert, a… |
+| 2026-11-16 23:29:19 | [wickend.beckon](https://marketplace.visualstudio.com/items?itemName=wickend.beckon) | beckon | 0.2.1 | Lets the beckon panel jump to the exact VS Code window and terminal where Claud… |
+| 2026-11-16 23:32:22 | [saboyafelipe.plan-relay](https://marketplace.visualstudio.com/items?itemName=saboyafelipe.plan-relay) | Plan Relay | 0.1.0 | Shows the workspace's agent plans and opens Claude Code to run them. |
+| 2026-11-16 23:34:04 | [csharma2212.window-theme-toggler](https://marketplace.visualstudio.com/items?itemName=csharma2212.window-theme-toggler) | Window Theme Toggler | 1.2.6 | One-click widget to toggle contrasting multi-panel window colors (Now with 33 t… |
 
 ## Data source
 
