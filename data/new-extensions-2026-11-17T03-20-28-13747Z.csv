@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T02:18:24.943Z,Bridgetek.bridgetek-esd-codex,Bridgetek,Bridgetek ESD for Codex (Development),1.0.0,Consent-driven local ESD MCP and canonical Skill integration for Codex CLI.
+2026-11-17T02:45:43.37Z,omeranha.profile-autopilot,omeranha,Profile Autopilot,1.0.0,"Opens each folder in the VS Code profile that fits it, inferred from the extensions installed in each profile"
+2026-11-17T02:46:19.547Z,myzles.myzles-todo-lens,myzles,"TODO Lens: TODO Tree, Highlights & Reports",1.0.0,"Find every TODO, FIXME, BUG and HACK in your workspace. Fast tree view and highlights with a built-in scanner: no ripgrep, no setup. Imports Todo Tree settings."
+2026-11-17T02:50:39.407Z,codex-sidekick.codex-sidekick,codex-sidekick,Codex Sidekick,1.7.2,"Connect Stream Deck Neo to OpenAI Codex in VS Code: recent chats, activity colors, dictation, and usage at a glance. macOS only."
+2026-11-17T02:56:30.943Z,liuhualiang.mvn-quick-run,liuhualiang,Maven Quick Run,0.1.2,右键 pom.xml / 文件夹快速执行 mvn install / mvn package / mvn package -f pom-war.xml，可选 clean、线程数与是否跳过测试
+2026-11-17T03:02:06.697Z,alexmultiagent.quota-deck,alexmultiagent,QuotaDeck CN — MiniMax DeepSeek Qwen,0.1.1,国产大模型额度监控 · MiniMax、DeepSeek、Qwen 余额、用量与重置倒计时
+2026-11-17T03:02:50.493Z,CatHouseStudio.os4-test-bridge,CatHouseStudio,OS4 Test Bridge,0.1.0,Thin VS Code adapter for the OS4 Test Bridge CLI.
+2026-11-17T03:08:43.3Z,ss14studio.ss14-studio,ss14studio,SS14 Studio,0.2.0,"An all-in-one Space Station 14 development studio: construction graphs with sprites, YAML prototype inheritance and partials, RobustToolbox XAML tooling, RSI animation and pixel editing, and diff/merge views."
+2026-11-17T03:11:39.13Z,Fishererer.json-reading,Fishererer,json_reading,0.0.2,为表格型 JSON 数据显示首行定义的字段名
