@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T06:27:27.377Z,Hemantshet.kiva-agent,Hemantshet,Kiva AI – Coding Agent for Ollama,0.3.1,"Kiva is a coding agent for VS Code that runs on Ollama models, on your computer or a shared server: chat, edit files with diffs you approve, run commands."
+2026-11-17T06:36:45.16Z,Aurorp1g.aurora-icon-theme,Aurorp1g,Aurora Icon Theme,1.0.0,Aurora Icon Theme for Visual Studio Code
+2026-11-17T06:37:57.947Z,LemuelAdane.accentlang,LemuelAdane,accentlang,0.1.0,IDE support for the Accent programming language
+2026-11-17T06:41:47.507Z,Giteasy.giteasy-workbench,Giteasy,GitEasy Git 工作台,3.4.4,在 VS Code 查看文件历史、Blame 与分支差异。GitEasy Pro 解锁提交图和 Git 工作台。
+2026-11-17T06:43:17.06Z,RadwanAlmsora.pulsar-live-server,RadwanAlmsora,Pulsar Live Server,1.0.0,"Blazing-fast dev server with instant live reload, CSS hot-injection, live-as-you-type updates, HTTPS, proxy, SPA mode & one-click mobile testing."
+2026-11-17T07:00:17.48Z,ztds.ztds-guard,ztds,ZTDS Guard — Local In-RAM PII & Secret Sanitizer (MCP & AI Firewall),1.0.0,"Zero-Trust Data Sanitization (ZTDS RFC v1.0) for VS Code, Copilot & MCP agents. Mask PII and secrets in volatile RAM, audit files with SHA-256 receipts, and configure ztds-mcp."
+2026-11-17T07:01:04.59Z,yongyaoli.l-language-support,yongyaoli,L Language - Embedded & IoT Support,0.3.0,L 语言 (lang) 官方扩展：语法高亮、类与方法 Hover 悬停提示、Ctrl+Click 跳转定义与 CodeLens 引用计数 (PHP级IDE体验)
+2026-11-17T07:05:32Z,RadwanAlmsora.ignite-runner,RadwanAlmsora,Ignite Runner,1.0.0,"Run any code in one click — 65+ languages, smart runtime detection, input prompts, timeouts, watch mode, run history and error squiggles."
+2026-11-17T07:08:04.283Z,NaughtFound.kaizo-vscode,NaughtFound,Kaizo,0.2.1,"Kaizo (.kiz) language support: Python-aware linting, completion, go to definition, hover, references and rename."
