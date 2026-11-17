@@ -12,29 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 17:18 UTC
+## Latest list — 2026-11-17 18:21 UTC
 
-New extensions published between 2026-11-17 15:18 UTC and 2026-11-17 17:18 UTC.
+New extensions published between 2026-11-17 16:21 UTC and 2026-11-17 18:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T17-18-41-401198Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T18-21-28-220407Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 16:18:45 | [Vee9.vee9-icons](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-icons) | Vee9 Icons | 1.0.0 | Warm file and folder icons in ember orange, amber and sand. The perfect compani… |
-| 2026-11-17 16:18:54 | [Vee9.vee9-time-tracker](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-time-tracker) | Vee9 Time Tracker | 1.0.0 | Track how long you work on each project: daily timer, total time, time per file… |
-| 2026-11-17 16:22:08 | [jlopez.commits-with-claude-code](https://marketplace.visualstudio.com/items?itemName=jlopez.commits-with-claude-code) | Commits with Claude Code (unofficial) | 0.1.1 | Generate commit messages and split your changes into minimal commits with the C… |
-| 2026-11-17 16:25:41 | [mistpine.mistpine](https://marketplace.visualstudio.com/items?itemName=mistpine.mistpine) | mistpine | 1.0.0 | A dark color theme of cool, misty grays over a deep blue-green night, with mute… |
-| 2026-11-17 16:27:20 | [CleanDevelopment.function-only-folding](https://marketplace.visualstudio.com/items?itemName=CleanDevelopment.function-only-folding) | Function Folding (Ctrl+M+O) | 1.0.1 | Fold TypeScript function and method bodies only, using the Ctrl+M, Ctrl+O short… |
-| 2026-11-17 16:27:58 | [PawanMall.pm-visualforge](https://marketplace.visualstudio.com/items?itemName=PawanMall.pm-visualforge) | PM VisualForge — Visual HTML/CSS/JS Edi… | 1.0.0 | Dreamweaver-style visual editor for VS Code & Antigravity: click-to-edit any HT… |
-| 2026-11-17 16:33:18 | [Vee9.vee9-todo-board](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-todo-board) | Vee9 TODO Board | 1.0.0 | All TODO, FIXME, BUG, HACK and NOTE comments of your project in one sidebar tab… |
-| 2026-11-17 16:35:06 | [yurtemre.claude-commit-msg](https://marketplace.visualstudio.com/items?itemName=yurtemre.claude-commit-msg) | claude: commit msg! | 0.1.2 | Generate git commit messages from your diff with your local Claude Code CLI (Ha… |
-| 2026-11-17 16:38:39 | [andreashuthe.retro-computing-themes](https://marketplace.visualstudio.com/items?itemName=andreashuthe.retro-computing-themes) | Retro Computing Themes | 0.1.0 | Eight color themes inspired by classic computers and DOS tools: C64, Amiga Work… |
-| 2026-11-17 16:41:00 | [Vee9.vee9-env-guard](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-env-guard) | Vee9 Env Guard | 1.0.0 | Hides the values in your .env files so secrets never leak while screen sharing… |
-| 2026-11-17 16:41:11 | [Vee9.vee9-file-size](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-file-size) | Vee9 File Size | 1.0.0 | Shows the size, line count and gzip size of the current file in the status bar,… |
-| 2026-11-17 16:50:21 | [beklight.git-file-hash](https://marketplace.visualstudio.com/items?itemName=beklight.git-file-hash) | Git File Hash | 1.0.0 | MD5 / SHA-1 / SHA-256 / SHA-384 / SHA-512 / CRC32 of a file at any commit, acro… |
-| 2026-11-17 17:06:38 | [tangoai.tangoai-code](https://marketplace.visualstudio.com/items?itemName=tangoai.tangoai-code) | tangoai Code | 0.6.2 | Coding agent for VS Code. Runs on your own GPU (Qwen3.8 via Ollama) or a fronti… |
-| 2026-11-17 17:10:43 | [GiorgiDalakishvili.vscode-efcore-visualizer](https://marketplace.visualstudio.com/items?itemName=GiorgiDalakishvili.vscode-efcore-visualizer) | EFCore Visualizer | 1.0.0 | View the execution plan of an Entity Framework Core query while debugging. SQL… |
-| 2026-11-17 17:10:58 | [RenesasElectronicsCorporation.renesas-common-project-converter](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-common-project-converter) | Renesas Common Project Converter | 1.30.0 | Convert Renesas common project file to Cmake project |
+| 2026-11-17 17:11:44 | [lukas-urban.red-noon](https://marketplace.visualstudio.com/items?itemName=lukas-urban.red-noon) | Red Noon | 1.0.1 | Beautiful, simple and easy on the eyes. Dark and dampened-light variants with c… |
+| 2026-11-17 17:12:12 | [yoann-corgnet.inlinetex](https://marketplace.visualstudio.com/items?itemName=yoann-corgnet.inlinetex) | InlineTeX | 0.3.0 | Édition WYSIWYG en ligne pour LaTeX : formules rendues et mise en forme directe… |
+| 2026-11-17 17:50:06 | [esbron.vybsafe](https://marketplace.visualstudio.com/items?itemName=esbron.vybsafe) | VybSafe | 1.0.2 | Security that speaks human. Scan the app you built with AI and see each problem… |
+| 2026-11-17 17:52:59 | [bornio.markdown-diff-vscode](https://marketplace.visualstudio.com/items?itemName=bornio.markdown-diff-vscode) | Markdown Diff Preview by bornio | 0.1.3 | Read rendered Markdown differences from the comparison already open in VS Code. |
+| 2026-11-17 17:57:41 | [si-world.agent-task-manager-si-world](https://marketplace.visualstudio.com/items?itemName=si-world.agent-task-manager-si-world) | Agent Task Manager (si-world) | 1.5.0 | A task management tool that dispatches work to AI |
+| 2026-11-17 18:10:05 | [EthanSK.prettify-ts-plus-plus](https://marketplace.visualstudio.com/items?itemName=EthanSK.prettify-ts-plus-plus) | Prettify TypeScript++ | 1.1.4 | View "prettified" and nested types in hover tooltips. |
+| 2026-11-17 18:11:40 | [whatdoesthatdo.red-accent-theme](https://marketplace.visualstudio.com/items?itemName=whatdoesthatdo.red-accent-theme) | Red-Accent-Theme | 0.0.1 | Go from blue to red in VSCode. |
 
 ## Data source
 

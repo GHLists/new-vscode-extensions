@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T17:11:44.287Z,lukas-urban.red-noon,lukas-urban,Red Noon,1.0.1,"Beautiful, simple and easy on the eyes. Dark and dampened-light variants with calm, high-contrast syntax colors."
+2026-11-17T17:12:12.763Z,yoann-corgnet.inlinetex,yoann-corgnet,InlineTeX,0.3.0,"Édition WYSIWYG en ligne pour LaTeX : formules rendues et mise en forme directement dans l'éditeur, source révélé sous le curseur."
+2026-11-17T17:50:06.83Z,esbron.vybsafe,esbron,VybSafe,1.0.2,"Security that speaks human. Scan the app you built with AI and see each problem underlined in your code, with the fix to paste."
+2026-11-17T17:52:59.807Z,bornio.markdown-diff-vscode,bornio,Markdown Diff Preview by bornio,0.1.3,Read rendered Markdown differences from the comparison already open in VS Code.
+2026-11-17T17:57:41.04Z,si-world.agent-task-manager-si-world,si-world,Agent Task Manager (si-world),1.5.0,A task management tool that dispatches work to AI
+2026-11-17T18:10:05.163Z,EthanSK.prettify-ts-plus-plus,EthanSK,Prettify TypeScript++,1.1.4,"View ""prettified"" and nested types in hover tooltips."
+2026-11-17T18:11:40.6Z,whatdoesthatdo.red-accent-theme,whatdoesthatdo,Red-Accent-Theme,0.0.1,Go from blue to red in VSCode.
