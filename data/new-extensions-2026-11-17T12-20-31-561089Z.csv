@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T11:17:31.467Z,PRYSKY-Studio.cloak-env-secrets,PRYSKY-Studio,Env Cloak & Shield,1.1.8,"Cloak .env & API keys on screen in 1 click, block Git & AI agent leaks, scan exposed secrets & generate .env.example (VS Code, Cursor, Antigravity, Devin, Trae)."
+2026-11-17T11:22:59.46Z,phronergon.phronergon,phronergon,phronērgon,0.1.0,"Sign in to phronērgon, watch the connection, approve cards, and start sandboxes."
+2026-11-17T11:23:38.847Z,ssrs2.ssrs2-report-designer,ssrs2,SSRS2 Report Designer,2.0.0,"Design RDLC and RDL reports in VS Code: the SSRS2 Designer on your own machine, previews as Report Viewer renders them, exports to PDF, Excel, Word and PowerPoint."
+2026-11-17T11:29:53.02Z,MinhLuu.reviewdock,MinhLuu,ReviewDock,0.1.1,GitHub Pull Request and GitLab Merge Request reviews in VS Code
+2026-11-17T11:35:36.797Z,TeletypeGames.warpengine-toolbox,TeletypeGames,WarpEngine Toolbox,1.0.0,"Make a game for a WarpEngine host from nothing to a released, playable catalog entry without leaving the editor. Needs a WarpEngine 3.9+ host."
+2026-11-17T11:45:54.19Z,daan-adk.daan-adk,daan-adk,DAAN ADK Runtime,1.0.0,"Runs DAAN use cases built by the DAAN to Google ADK builder, directly from VS Code."
+2026-11-17T11:56:50.063Z,OrgTown.orgtown,OrgTown,OrgTown,0.1.0,"Metadata intelligence for Salesforce, right inside VS Code - an org visualizer for dependency analysis, relationship mapping, and impact analysis before you make a change."
+2026-11-17T11:58:00.14Z,BiznoxCybersecurity.codeaegix-agent,BiznoxCybersecurity,CodeAegix Agent,0.2.3,"Lets a CodeAegix secure code review read (and, when you allow it, fix) the folder open in VS Code. Your code stays on your machine."
