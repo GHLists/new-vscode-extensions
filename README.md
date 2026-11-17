@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 03:20 UTC
+## Latest list — 2026-11-17 04:20 UTC
 
-New extensions published between 2026-11-17 01:20 UTC and 2026-11-17 03:20 UTC.
+New extensions published between 2026-11-17 02:20 UTC and 2026-11-17 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T03-20-28-13747Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T04-20-41-840863Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 02:18:24 | [Bridgetek.bridgetek-esd-codex](https://marketplace.visualstudio.com/items?itemName=Bridgetek.bridgetek-esd-codex) | Bridgetek ESD for Codex (Development) | 1.0.0 | Consent-driven local ESD MCP and canonical Skill integration for Codex CLI. |
-| 2026-11-17 02:45:43 | [omeranha.profile-autopilot](https://marketplace.visualstudio.com/items?itemName=omeranha.profile-autopilot) | Profile Autopilot | 1.0.0 | Opens each folder in the VS Code profile that fits it, inferred from the extens… |
-| 2026-11-17 02:46:19 | [myzles.myzles-todo-lens](https://marketplace.visualstudio.com/items?itemName=myzles.myzles-todo-lens) | TODO Lens: TODO Tree, Highlights & Repo… | 1.0.0 | Find every TODO, FIXME, BUG and HACK in your workspace. Fast tree view and high… |
-| 2026-11-17 02:50:39 | [codex-sidekick.codex-sidekick](https://marketplace.visualstudio.com/items?itemName=codex-sidekick.codex-sidekick) | Codex Sidekick | 1.7.2 | Connect Stream Deck Neo to OpenAI Codex in VS Code: recent chats, activity colo… |
-| 2026-11-17 02:56:30 | [liuhualiang.mvn-quick-run](https://marketplace.visualstudio.com/items?itemName=liuhualiang.mvn-quick-run) | Maven Quick Run | 0.1.2 | 右键 pom.xml / 文件夹快速执行 mvn install / mvn package / mvn package -f pom-war.xml，可选… |
-| 2026-11-17 03:02:06 | [alexmultiagent.quota-deck](https://marketplace.visualstudio.com/items?itemName=alexmultiagent.quota-deck) | QuotaDeck CN — MiniMax DeepSeek Qwen | 0.1.1 | 国产大模型额度监控 · MiniMax、DeepSeek、Qwen 余额、用量与重置倒计时 |
-| 2026-11-17 03:02:50 | [CatHouseStudio.os4-test-bridge](https://marketplace.visualstudio.com/items?itemName=CatHouseStudio.os4-test-bridge) | OS4 Test Bridge | 0.1.0 | Thin VS Code adapter for the OS4 Test Bridge CLI. |
-| 2026-11-17 03:08:43 | [ss14studio.ss14-studio](https://marketplace.visualstudio.com/items?itemName=ss14studio.ss14-studio) | SS14 Studio | 0.2.0 | An all-in-one Space Station 14 development studio: construction graphs with spr… |
-| 2026-11-17 03:11:39 | [Fishererer.json-reading](https://marketplace.visualstudio.com/items?itemName=Fishererer.json-reading) | json_reading | 0.0.2 | 为表格型 JSON 数据显示首行定义的字段名 |
+| 2026-11-17 03:26:36 | [junyorff12.junyorff12-mirage-theme](https://marketplace.visualstudio.com/items?itemName=junyorff12.junyorff12-mirage-theme) | junyorff12 Mirage Themes | 1.1.0 | Dark and light Visual Studio Code themes adapted from Ayu Mirage. |
+| 2026-11-17 03:27:12 | [jacobdemille.japanese-vs-translator](https://marketplace.visualstudio.com/items?itemName=jacobdemille.japanese-vs-translator) | Japanese VS Dictionary | 0.1.3 | Inline Japanese popup dictionary for VS Code: offline JMdict/JMnedict/KANJIDIC… |
+| 2026-11-17 03:30:18 | [PiliClient.pili-client](https://marketplace.visualstudio.com/items?itemName=PiliClient.pili-client) | Pili Client | 0.1.0 | Fast, Git-friendly, and privacy-first REST API client for Visual Studio Code an… |
+| 2026-11-17 03:41:49 | [Rogiedoji.craftos-mcp](https://marketplace.visualstudio.com/items?itemName=Rogiedoji.craftos-mcp) | craftos-mcp: CC:Tweaked emulator | 0.2.0 | Run and test ComputerCraft (CC:Tweaked) Lua without Minecraft, and give your AI… |
+| 2026-11-17 03:43:16 | [joeydash.oplo-claude-sync](https://marketplace.visualstudio.com/items?itemName=joeydash.oplo-claude-sync) | SVP Claude Management | 0.0.1 | Log in with your phone number and sync your Claude Code session names, prompts… |
+| 2026-11-17 03:51:34 | [AROLLC.power-code-canvas](https://marketplace.visualstudio.com/items?itemName=AROLLC.power-code-canvas) | Code Canvas for Power Apps | 0.16.2 | A visual designer for new and existing React code apps on Microsoft Power Platf… |
+| 2026-11-17 03:57:47 | [KACHIHRO.spfx-pretty](https://marketplace.visualstudio.com/items?itemName=KACHIHRO.spfx-pretty) | SPFX Pretty | 0.9.0 | Nice names, icons and versions for SPFx apps - in the App Catalog, Site Content… |
+| 2026-11-17 03:59:50 | [acedatacloud.mcp-acemusic](https://marketplace.visualstudio.com/items?itemName=acedatacloud.mcp-acemusic) | ACE Music by Ace Data Cloud | 2026.1117.1 | ACE Music songs and lyrics with Ace Data Cloud; retrieve original task results. |
+| 2026-11-17 04:02:20 | [etnflash.pyrewind](https://marketplace.visualstudio.com/items?itemName=etnflash.pyrewind) | PyRewind — 한줄씩 되감는 파이썬 | 0.2.0 | 파이썬 코드를 한 줄씩 앞뒤로 되감으며 변수가 만들어지고 바뀌는 과정을 에디터 옆에서 봅니다 (.py / .ipynb, pandas, 한국어… |
 
 ## Data source
 
