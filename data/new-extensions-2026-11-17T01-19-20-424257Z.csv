@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T00:33:47.27Z,RookSurveySoftware.insert-files,RookSurveySoftware,Insert Files,0.1.0,"Insert the contents of several files at the cursor, or combine files from the Explorer into one, like TextPad's Edit > Insert > Files."
+2026-11-17T00:37:32.613Z,21HoKim.youtube-music-player-vscode,21HoKim,YouTube Music Player for VS Code,1.0.0,"Unofficial: listen to YouTube Music and watch YouTube in the VS Code sidebar: a compact player, your library and search as lists, the queue, and videos in an editor tab. No API keys."
+2026-11-17T00:47:37.803Z,ULusofona-MartijnKuipers.typst-review-comments,ULusofona-MartijnKuipers,Typst Review Comments,0.1.0,"Manage review comments (the review-comments Typst package): list, edit, resolve, delete, insert, and toggle them in the preview/PDF."
+2026-11-17T00:54:19.377Z,qunqin.dick-black-tune,qunqin,迪克的黑调,0.18.2,现场演示用的 VS Code 插件：提前录好代码，台上点一下空行随便按键，编辑器里像真人一样一个字一个字打出预设的正确代码。
+2026-11-17T01:04:14.52Z,Di-Ferreira.story-deck,Di-Ferreira,Story Deck — ENTRELINHAS,0.1.0,"Construa histórias com o deck ENTRELINHAS v4: explore cartas, defina gêneros e planeje sua obra junto ao Novel Assistant."

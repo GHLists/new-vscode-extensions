@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 00:20 UTC
+## Latest list — 2026-11-17 01:19 UTC
 
-New extensions published between 2026-11-16 22:20 UTC and 2026-11-17 00:20 UTC.
+New extensions published between 2026-11-16 23:19 UTC and 2026-11-17 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T00-20-57-75968Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T01-19-20-424257Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-16 23:29:19 | [wickend.beckon](https://marketplace.visualstudio.com/items?itemName=wickend.beckon) | beckon | 0.2.1 | Lets the beckon panel jump to the exact VS Code window and terminal where Claud… |
-| 2026-11-16 23:32:22 | [saboyafelipe.plan-relay](https://marketplace.visualstudio.com/items?itemName=saboyafelipe.plan-relay) | Plan Relay | 0.1.0 | Shows the workspace's agent plans and opens Claude Code to run them. |
-| 2026-11-16 23:34:04 | [csharma2212.window-theme-toggler](https://marketplace.visualstudio.com/items?itemName=csharma2212.window-theme-toggler) | Window Theme Toggler | 1.2.6 | One-click widget to toggle contrasting multi-panel window colors (Now with 33 t… |
+| 2026-11-17 00:33:47 | [RookSurveySoftware.insert-files](https://marketplace.visualstudio.com/items?itemName=RookSurveySoftware.insert-files) | Insert Files | 0.1.0 | Insert the contents of several files at the cursor, or combine files from the E… |
+| 2026-11-17 00:37:32 | [21HoKim.youtube-music-player-vscode](https://marketplace.visualstudio.com/items?itemName=21HoKim.youtube-music-player-vscode) | YouTube Music Player for VS Code | 1.0.0 | Unofficial: listen to YouTube Music and watch YouTube in the VS Code sidebar: a… |
+| 2026-11-17 00:47:37 | [ULusofona-MartijnKuipers.typst-review-comments](https://marketplace.visualstudio.com/items?itemName=ULusofona-MartijnKuipers.typst-review-comments) | Typst Review Comments | 0.1.0 | Manage review comments (the review-comments Typst package): list, edit, resolve… |
+| 2026-11-17 00:54:19 | [qunqin.dick-black-tune](https://marketplace.visualstudio.com/items?itemName=qunqin.dick-black-tune) | 迪克的黑调 | 0.18.2 | 现场演示用的 VS Code 插件：提前录好代码，台上点一下空行随便按键，编辑器里像真人一样一个字一个字打出预设的正确代码。 |
+| 2026-11-17 01:04:14 | [Di-Ferreira.story-deck](https://marketplace.visualstudio.com/items?itemName=Di-Ferreira.story-deck) | Story Deck — ENTRELINHAS | 0.1.0 | Construa histórias com o deck ENTRELINHAS v4: explore cartas, defina gêneros e… |
 
 ## Data source
 
