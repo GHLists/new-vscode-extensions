@@ -12,18 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 05:20 UTC
+## Latest list — 2026-11-17 06:19 UTC
 
-New extensions published between 2026-11-17 03:20 UTC and 2026-11-17 05:20 UTC.
+New extensions published between 2026-11-17 04:19 UTC and 2026-11-17 06:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T05-20-57-434698Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T06-19-28-380835Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 04:24:30 | [codenameryuu.adonis-edge-js](https://marketplace.visualstudio.com/items?itemName=codenameryuu.adonis-edge-js) | Adonis Edge JS | 1.0.0 | AdonisJS toolkit: route→controller navigation, Edge formatter, publicAsset/@vit… |
-| 2026-11-17 04:58:18 | [workbench-soft.open-in-remote-repo](https://marketplace.visualstudio.com/items?itemName=workbench-soft.open-in-remote-repo) | Open in Remote Repo | 2026.1117.4 | Open or copy a link to a file or folder on GitHub, GitLab or Bitbucket. Links p… |
-| 2026-11-17 04:58:59 | [querytorque.querytorque-dax](https://marketplace.visualstudio.com/items?itemName=querytorque.querytorque-dax) | QueryTorque DAX | 1.1.1 | Find Power BI bottlenecks locally, prepare agent context, compare measured cand… |
-| 2026-11-17 05:01:47 | [PRYSKY-Studio.settings-sync-ide](https://marketplace.visualstudio.com/items?itemName=PRYSKY-Studio.settings-sync-ide) | Settings Sync for IDEs | 1.1.8 | Sync settings, extensions & AI rules in 1 click. IDEs: VS Code, Cursor, Antigra… |
+| 2026-11-17 05:18:25 | [VibeCoder1412.vibe-studio](https://marketplace.visualstudio.com/items?itemName=VibeCoder1412.vibe-studio) | Vibe Studio | 0.1.0 | Vibe code with several AI agents at once: your Claude Code and Codex chats side… |
+| 2026-11-17 05:37:33 | [ZeesuRoyalist.z-accept](https://marketplace.visualstudio.com/items?itemName=ZeesuRoyalist.z-accept) | Z-Accept | 1.0.0 | Auto-confirm intermediate AI tool popups (git, cd, ls, npm) while keeping full… |
+| 2026-11-17 05:38:41 | [ameon.nftables-ameon](https://marketplace.visualstudio.com/items?itemName=ameon.nftables-ameon) | nftables Syntax Highlighting (Ameon) | 0.0.1 | Syntax highlighting for nftables configuration files |
+| 2026-11-17 05:52:01 | [zovo.zovo-xcode-project-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xcode-project-viewer) | Xcode Project Viewer (pbxproj) | 0.1.1 | Xcode project viewer for VS Code: open project.pbxproj as targets, build phases… |
+| 2026-11-17 05:53:54 | [zovo.zovo-plist-editor](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-plist-editor) | Plist Viewer & Editor (Binary) | 0.1.1 | Plist editor and viewer for binary, XML and OpenStep plists: an Xcode-style tre… |
+| 2026-11-17 05:55:55 | [zovo.zovo-minidump-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-minidump-viewer) | Minidump Viewer & Crash Dump | 0.1.2 | Minidump viewer for Windows, Linux and macOS crash dumps (.dmp, .mdmp): the exc… |
+| 2026-11-17 05:56:46 | [bitno.ls-tilt-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.ls-tilt-by-bitno) | Language Server for Tilt by Bitno | 2026.11.0 | A lightweight Tiltfile language server for VS Code: completion, hover, signatur… |
+| 2026-11-17 06:00:09 | [kent-code-dev.markdown-unread-changes](https://marketplace.visualstudio.com/items?itemName=kent-code-dev.markdown-unread-changes) | Markdown Unread Changes | 0.0.1 | Markdown ファイルの、前回読んだときからの変更箇所を、VS Code 標準の Markdown プレビューで色付けします。拡張機能自体はインターネット… |
+| 2026-11-17 06:10:43 | [htmlhost.htmlhost](https://marketplace.visualstudio.com/items?itemName=htmlhost.htmlhost) | htmlhost: Deploy HTML Sites | 0.2.1 | Put an HTML site online from the folder you have open: deploy, save drafts, pul… |
 
 ## Data source
 
