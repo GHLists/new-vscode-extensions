@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T19:33:16.08Z,SepiaGroup.kiro-cli-chat,SepiaGroup,Kiro CLI Chat,0.1.0,"Chat with the Kiro agent in editor tabs, the side bar or a terminal. Approvals, slash commands, session resume, and remote control from your phone over Tailscale. Runs on Macs without AVX."
+2026-11-17T19:36:39.443Z,garyyeap.github-style-markdown-editor,garyyeap,GitHub Style Markdown Editor,1.0.0,A GitHub style WYSIWYG markdown editor for VS Code
+2026-11-17T19:44:53.333Z,LEO-VSCODE-TOOLS.python-slow-runner,LEO-VSCODE-TOOLS,Python Slow Runner,0.0.1,Execute Python scripts slowly while highlighting each line for classroom demonstrations.
+2026-11-17T19:52:19.297Z,grok-rs.nats-admin,grok-rs,"NATS Admin — JetStream, KV & Dashboards",0.2.0,"Operate NATS from VS Code: auto-discovered contexts, production-safe connections, fleet/server/stream/cluster dashboards, health checks, topology graph, Key-Value data-structure browser, message browser, live tail, consumer lab and JetStream config as code."
+2026-11-17T19:57:58.58Z,lovits.hot100-practice,lovits,Hot100 ACM,0.2.8,在 VS Code 中练习 Hot100：ACM 与核心代码模式、题库组合筛选、本机测试、收藏笔记与间隔复习。
+2026-11-17T20:00:12.767Z,pushkaltoocool.pika-x-char,pushkaltoocool,Pika × Char,1.0.0,"Captain Pikachu and Charizard toddle beside your code, cheer you on, keep your focus timer and peek at your AI usage. Made with love for Charlene (Char the Charizard) by Pushkal (pika pika)."
+2026-11-17T20:01:06.883Z,Nochnik.int-onedev,Nochnik,OneDev Integration,0.10.4,"An intermediary layer between OneDev and local projects: project trees, cloning, folder linking, issues/pull requests/builds, and auto-synchronization."

@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 19:21 UTC
+## Latest list — 2026-11-17 20:19 UTC
 
-New extensions published between 2026-11-17 17:21 UTC and 2026-11-17 19:21 UTC.
+New extensions published between 2026-11-17 18:19 UTC and 2026-11-17 20:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T19-21-11-646085Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T20-19-13-792128Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 18:15:23 | [muhammadumair.ngx-nudge-sync](https://marketplace.visualstudio.com/items?itemName=muhammadumair.ngx-nudge-sync) | ngx-nudge Sync | 0.1.0 | Writes ngx-nudge layout, style and inspector changes from the browser into your… |
-| 2026-11-17 18:22:09 | [kontrax-ai.kontrax](https://marketplace.visualstudio.com/items?itemName=kontrax-ai.kontrax) | Kontrax | 0.1.207 | Automated bug prevention, caller safety auditing, and behavioral rule synthesis… |
-| 2026-11-17 18:30:38 | [AndreLanzieri.protheus-screen-preview](https://marketplace.visualstudio.com/items?itemName=AndreLanzieri.protheus-screen-preview) | Protheus Screen Preview | 1.3.0 | Prévia e montagem visual das telas AdvPL/TLPP do TOTVS Protheus no estilo do Sm… |
-| 2026-11-17 18:48:06 | [fluorinestudios.codeglyph-vscode](https://marketplace.visualstudio.com/items?itemName=fluorinestudios.codeglyph-vscode) | CodeGlyph | 0.1.1 | Subtle AI-chosen watermark icons behind functions, classes and properties, in a… |
-| 2026-11-17 18:50:43 | [LemuelAdane.springboot-analyzer](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.springboot-analyzer) | Spring Boot Analyzer | 0.1.1 | Run AI-assisted whole-project analysis for Java and Spring Boot projects with C… |
-| 2026-11-17 18:52:51 | [reediculous456.npm-package-page-links](https://marketplace.visualstudio.com/items?itemName=reediculous456.npm-package-page-links) | npm Package Page Links | 1.0.0 | Open npm package pages directly from dependency names in package.json. |
-| 2026-11-17 19:10:39 | [shamanch.witness-vscode](https://marketplace.visualstudio.com/items?itemName=shamanch.witness-vscode) | Witness | 0.1.0 | Проверяет, что AI-агент реально сделал задачу: критерии приёмки, прогон, badge |
+| 2026-11-17 19:33:16 | [SepiaGroup.kiro-cli-chat](https://marketplace.visualstudio.com/items?itemName=SepiaGroup.kiro-cli-chat) | Kiro CLI Chat | 0.1.0 | Chat with the Kiro agent in editor tabs, the side bar or a terminal. Approvals,… |
+| 2026-11-17 19:36:39 | [garyyeap.github-style-markdown-editor](https://marketplace.visualstudio.com/items?itemName=garyyeap.github-style-markdown-editor) | GitHub Style Markdown Editor | 1.0.0 | A GitHub style WYSIWYG markdown editor for VS Code |
+| 2026-11-17 19:44:53 | [LEO-VSCODE-TOOLS.python-slow-runner](https://marketplace.visualstudio.com/items?itemName=LEO-VSCODE-TOOLS.python-slow-runner) | Python Slow Runner | 0.0.1 | Execute Python scripts slowly while highlighting each line for classroom demons… |
+| 2026-11-17 19:52:19 | [grok-rs.nats-admin](https://marketplace.visualstudio.com/items?itemName=grok-rs.nats-admin) | NATS Admin — JetStream, KV & Dashboards | 0.2.0 | Operate NATS from VS Code: auto-discovered contexts, production-safe connection… |
+| 2026-11-17 19:57:58 | [lovits.hot100-practice](https://marketplace.visualstudio.com/items?itemName=lovits.hot100-practice) | Hot100 ACM | 0.2.8 | 在 VS Code 中练习 Hot100：ACM 与核心代码模式、题库组合筛选、本机测试、收藏笔记与间隔复习。 |
+| 2026-11-17 20:00:12 | [pushkaltoocool.pika-x-char](https://marketplace.visualstudio.com/items?itemName=pushkaltoocool.pika-x-char) | Pika × Char | 1.0.0 | Captain Pikachu and Charizard toddle beside your code, cheer you on, keep your… |
+| 2026-11-17 20:01:06 | [Nochnik.int-onedev](https://marketplace.visualstudio.com/items?itemName=Nochnik.int-onedev) | OneDev Integration | 0.10.4 | An intermediary layer between OneDev and local projects: project trees, cloning… |
 
 ## Data source
 
