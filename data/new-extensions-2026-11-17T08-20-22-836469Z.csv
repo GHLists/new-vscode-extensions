@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T07:15:11.92Z,Maincode.matilda-code,Maincode,Matilda Code,1.0.3,Enable Matilda Code with direct access to your VS Code workspace.
+2026-11-17T07:19:40.56Z,z4nny.lyricode,z4nny,Lyricode,0.1.3,"Synced lyrics in your VS Code sidebar from Windows Media Session (Spotify, Browser, and more)"
+2026-11-17T07:23:52.203Z,purple-hawk.jj-lens,purple-hawk,JJ Lens,0.0.1,"Browse the Jujutsu (jj) log, inspect changes, and run jj actions from VS Code."
+2026-11-17T07:24:02.55Z,danielonnet.app-brain,danielonnet,App Brain,0.1.1,Configure and watch the app-brain MCP server: knowledge base and docs generated from your code.
+2026-11-17T07:26:40.327Z,P-Kalsi.lumen-pptx,P-Kalsi,Lumen PPTX,0.1.0,"View PowerPoint (.pptx) slides right in VS Code with thumbnails, search, zoom and speaker notes. Nothing is converted or uploaded."
+2026-11-17T07:29:22.017Z,st-eve-code.auto-ship,st-eve-code,Auto Ship,0.1.0,"Commit, push, run checks, open an issue and pull request, and merge in one command."
+2026-11-17T07:35:29.567Z,Astrix-26.quackgit,Astrix-26,quackGIT,0.1.0,Analyze the current VS Code file with quackGIT.
+2026-11-17T07:43:23.337Z,LemuelAdane.accenture-typescript-formatter,LemuelAdane,Accenture Typescript Formatter,0.2.0,Enterprise-grade TypeScript formatter extension for Visual Studio Code.
+2026-11-17T07:45:46.573Z,x1phyr.code-detective-ai,x1phyr,Code Detective AI,0.2.0,"Hand-holding AI code walkthroughs: narrative step-by-step mentor guides, inline Q&A, and coarse-grained call graphs."
+2026-11-17T07:48:07.227Z,PRYSKY-Studio.format-layout-toggles,PRYSKY-Studio,Layout & Quick Toggles,1.1.8,"Format on Save, Word Wrap, Auto-Hide panels & Classic IDE layout in 1 click. Zero setup. IDEs: VS Code, Cursor, Antigravity, Devin, Trae, Kiro."
+2026-11-17T07:51:26.117Z,wangriyu.jetbrains-style-changes,wangriyu,JetBrains-style Changes,0.2.2,A JetBrains-inspired changes view for multi-repository workspaces.
+2026-11-17T07:51:27.95Z,nakita628.vscode-inferql,nakita628,InferQL,0.0.4,"SQL completion and types for InferQL's sql(...): keywords, tables and columns at the cursor, each column with its table, database type and TypeScript type."
+2026-11-17T07:54:40.613Z,MonsieurMouarf.kanban-notes-md,MonsieurMouarf,Kanban Notes MD,0.1.0,"Un kanban dont chaque carte est un fichier Markdown avec front matter : glisser-déposer, recherche et filtres, panneau de détail avec images et Mermaid, archivage, annulation, édition du Markdown."
+2026-11-17T08:06:51.393Z,souhail555.devsecops-copilot,souhail555,DevSecOps Copilot,0.1.0,"Inline code security findings mapped to GCC (NCA ECC) and EU (CRA, NIS2, DORA, GDPR) compliance controls — Arabic & English."
