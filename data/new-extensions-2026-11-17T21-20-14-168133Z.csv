@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T20:41:13.637Z,vexilologia.vewilo-guia,vexilologia,Vewilología,1.0.0,Guía básica sobre el estudio y diseño de banderas
+2026-11-17T20:45:36.267Z,JavadEsmaeili.scanline,JavadEsmaeili,Scanline,0.7.1,"Search files, text, symbols and commands from one editor tab, with folder scope and file-type filters. Native search under the hood."
+2026-11-17T20:50:29.143Z,eduardo-moro.visual-studio-g,eduardo-moro,Visual Studio G,0.1.0,"VisuAlg (Portugol) no VS Code: execute, depure com breakpoints e passo a passo e acompanhe as variáveis, sem precisar do VisuAlg nem do Wine."
+2026-11-17T20:56:13.107Z,elambert.prism-dev-pack,elambert,Prism Dev Pack,1.1.0,"Visual readability, semantic autocompletion, column metadata, and Go-to-Definition for SQL & dbt."
+2026-11-17T20:58:16.58Z,Mault.mault-governance,Mault,Mault,0.243.0,"7-day free trial, then $19.99/month. Governance for AI-assisted development: three-step project setup with a governance chain that blocks instead of suggesting, and multi-agent workflows with role isolation and runtime enforcement. Works with Claude Code and GitHub Copilot. Physics, not policy."
+2026-11-17T20:58:40.777Z,NexoraLabsCo.xora-theme,NexoraLabsCo,Xora,0.3.0,A minimal theme with purple accents for Visual Studio Code
+2026-11-17T21:09:25.423Z,barmoen.blekk,barmoen,Blekk,0.1.0,Preview and check a Markdown documentation site in VS Code: live preview on localhost and problems as you save. Needs only Git.

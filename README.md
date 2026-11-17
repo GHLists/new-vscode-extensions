@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 20:19 UTC
+## Latest list — 2026-11-17 21:20 UTC
 
-New extensions published between 2026-11-17 18:19 UTC and 2026-11-17 20:19 UTC.
+New extensions published between 2026-11-17 19:20 UTC and 2026-11-17 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T20-19-13-792128Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T21-20-14-168133Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 19:33:16 | [SepiaGroup.kiro-cli-chat](https://marketplace.visualstudio.com/items?itemName=SepiaGroup.kiro-cli-chat) | Kiro CLI Chat | 0.1.0 | Chat with the Kiro agent in editor tabs, the side bar or a terminal. Approvals,… |
-| 2026-11-17 19:36:39 | [garyyeap.github-style-markdown-editor](https://marketplace.visualstudio.com/items?itemName=garyyeap.github-style-markdown-editor) | GitHub Style Markdown Editor | 1.0.0 | A GitHub style WYSIWYG markdown editor for VS Code |
-| 2026-11-17 19:44:53 | [LEO-VSCODE-TOOLS.python-slow-runner](https://marketplace.visualstudio.com/items?itemName=LEO-VSCODE-TOOLS.python-slow-runner) | Python Slow Runner | 0.0.1 | Execute Python scripts slowly while highlighting each line for classroom demons… |
-| 2026-11-17 19:52:19 | [grok-rs.nats-admin](https://marketplace.visualstudio.com/items?itemName=grok-rs.nats-admin) | NATS Admin — JetStream, KV & Dashboards | 0.2.0 | Operate NATS from VS Code: auto-discovered contexts, production-safe connection… |
-| 2026-11-17 19:57:58 | [lovits.hot100-practice](https://marketplace.visualstudio.com/items?itemName=lovits.hot100-practice) | Hot100 ACM | 0.2.8 | 在 VS Code 中练习 Hot100：ACM 与核心代码模式、题库组合筛选、本机测试、收藏笔记与间隔复习。 |
-| 2026-11-17 20:00:12 | [pushkaltoocool.pika-x-char](https://marketplace.visualstudio.com/items?itemName=pushkaltoocool.pika-x-char) | Pika × Char | 1.0.0 | Captain Pikachu and Charizard toddle beside your code, cheer you on, keep your… |
-| 2026-11-17 20:01:06 | [Nochnik.int-onedev](https://marketplace.visualstudio.com/items?itemName=Nochnik.int-onedev) | OneDev Integration | 0.10.4 | An intermediary layer between OneDev and local projects: project trees, cloning… |
+| 2026-11-17 20:41:13 | [vexilologia.vewilo-guia](https://marketplace.visualstudio.com/items?itemName=vexilologia.vewilo-guia) | Vewilología | 1.0.0 | Guía básica sobre el estudio y diseño de banderas |
+| 2026-11-17 20:45:36 | [JavadEsmaeili.scanline](https://marketplace.visualstudio.com/items?itemName=JavadEsmaeili.scanline) | Scanline | 0.7.1 | Search files, text, symbols and commands from one editor tab, with folder scope… |
+| 2026-11-17 20:50:29 | [eduardo-moro.visual-studio-g](https://marketplace.visualstudio.com/items?itemName=eduardo-moro.visual-studio-g) | Visual Studio G | 0.1.0 | VisuAlg (Portugol) no VS Code: execute, depure com breakpoints e passo a passo… |
+| 2026-11-17 20:56:13 | [elambert.prism-dev-pack](https://marketplace.visualstudio.com/items?itemName=elambert.prism-dev-pack) | Prism Dev Pack | 1.1.0 | Visual readability, semantic autocompletion, column metadata, and Go-to-Definit… |
+| 2026-11-17 20:58:16 | [Mault.mault-governance](https://marketplace.visualstudio.com/items?itemName=Mault.mault-governance) | Mault | 0.243.0 | 7-day free trial, then $19.99/month. Governance for AI-assisted development: th… |
+| 2026-11-17 20:58:40 | [NexoraLabsCo.xora-theme](https://marketplace.visualstudio.com/items?itemName=NexoraLabsCo.xora-theme) | Xora | 0.3.0 | A minimal theme with purple accents for Visual Studio Code |
+| 2026-11-17 21:09:25 | [barmoen.blekk](https://marketplace.visualstudio.com/items?itemName=barmoen.blekk) | Blekk | 0.1.0 | Preview and check a Markdown documentation site in VS Code: live preview on loc… |
 
 ## Data source
 
