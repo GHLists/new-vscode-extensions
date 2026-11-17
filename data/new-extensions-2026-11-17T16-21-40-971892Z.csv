@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T15:11:30.85Z,HMCTS.hmcts-template-preview,HMCTS,HMCTS Template Preview,0.1.8,"Preview Docmosis .docx templates: detects the template's variables, builds an input form and renders the PDF through the hosted dtsse-doc-render service (VPN)."
+2026-11-17T15:25:51.053Z,a-abushaqra.twincat-plc-toolkit,a-abushaqra,TC Toolkit,0.11.0,"Structured Text editor, language server and project tools for Beckhoff TwinCAT 3 PLC projects: two-pane editor, offline IntelliSense and diagnostics, object and library explorers. Unofficial; not affiliated with Beckhoff."
+2026-11-17T15:26:22.58Z,bitno.ls-maven-by-bitno,bitno,Language Server for Maven by Bitno,2026.11.0,"A lightweight, fast Maven language server for VS Code"
+2026-11-17T15:32:35.853Z,VerbaDraw.verbadraw-vscode,VerbaDraw,VerbaDraw,0.1.0,"Edit Markdown with live, editable Mermaid diagrams — drag, connect and restyle flowcharts, sequence, class, ER and state diagrams; your .md stays plain Markdown."
+2026-11-17T15:33:32.647Z,sukoaa.pg-safe-migrate-vscode,sukoaa,PG Safe Migrate,0.3.0,Standalone PostgreSQL migration linting and safe migration guidance
+2026-11-17T15:34:38.5Z,TokensBD.tokens-code,TokensBD,Tokens Code: AI Coding Agent,0.1.0,"AI coding agent by tokens.bd. Log in with your tokens.bd plan or wallet, or bring your own API key. Plans, writes and fixes code, runs terminal commands and uses MCP tools, with modes for planning, coding and debugging. Works with Claude, GPT, Gemini, DeepSeek, Qwen, GLM, Kimi and local models."
+2026-11-17T15:35:31.757Z,local-stock-watch.stock-watch-box,local-stock-watch,盯盘盒子,0.1.13,简洁的股票与场内基金盯盘侧栏 · 腾讯行情 · 分类自选 · 持仓盈亏
+2026-11-17T15:40:23.717Z,alekseialeinikov.phew,alekseialeinikov,Phew,0.1.3,"Bug fixed. Phew. Open-source AI coding agent for VS Code: one-click fixes, review in the editor, checkpoints, chat history, worktree agents, and any model."
+2026-11-17T15:44:49.677Z,aleksandr71914-cell.pion-dark-2026,aleksandr71914-cell,Pion 2026,1.0.0,VSCode - Dark Theme - Pion-2026
+2026-11-17T15:48:42.59Z,vitalivu992.k8s-explorer-vsce,vitalivu992,K8s Explorer,0.1.0,"Read-only Kubernetes / OpenShift explorer: browse namespaces, workloads, config and networking; view dashboards, YAML, describe and logs. Uses oc, kubectl or microk8s."
+2026-11-17T16:01:39.69Z,Vee9.vee9-theme,Vee9,Vee9 Custom Theme,1.0.1,"A warm, low-glare dark theme with ember orange and burnt amber on deep espresso brown. Easy on the eyes for long coding sessions."
+2026-11-17T16:01:57.747Z,jatai.jatai,jatai,Jataí,1.0.0,"Agentes para software que já existe. Metodologia agêntica para Claude Code e GitHub Copilot, com aprovações humanas e estado em arquivos."
+2026-11-17T16:07:40.7Z,michediana.remotefs-2,michediana,Remote FS 2,0.3.1,"Work with files on SFTP/FTP servers as if they were local, with a connection manager UI."
+2026-11-17T16:12:23.877Z,ritsuwastaken.l2txt,ritsuwastaken,L2 Script Linter,1.0.0,Linter for Lineage2 .txt scripts from C1 and C2 clients
