@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T13:20:07.08Z,JoroGeorgiev.porthub,JoroGeorgiev,Port Hub,0.1.1,"See every listening port and which process (and project) holds it, right next to your terminal. Kill it in one click."
+2026-11-17T13:31:34.12Z,alfo.python-import-footprint,alfo,Python Import Cost and Usage,0.2.0,Python import module cost/disk footprints and opt-in cold/sequential time and memory profiling.
+2026-11-17T13:47:58.26Z,irwinarruda.lila-theme,irwinarruda,Lila,0.1.0,"Lilac: Lila Dusk for the dark and Lila Petal for the light, with the contrast to read code all day."
+2026-11-17T13:52:58.117Z,Jamestwu.ai-cost-dashboard,Jamestwu,AI Cost Dashboard — OpenRouter & Claude Spend Tracker,0.0.1,"Real-time cost tracker for OpenRouter and Anthropic. See today/month spend by project, 14-day trend, budget alerts — stop bill shock."
+2026-11-17T13:56:13.84Z,giridharans1729.claude-per-device-usage,giridharans1729,Claude per Device Usage,1.0.0,"Community tool. Shows how much of your Claude 5-hour and 7-day limits this device used, versus others on the same account."
+2026-11-17T14:11:08.057Z,ID-wj.api-debugger,ID-wj,API Debugger,0.1.0,"Postman-style REST client inside VS Code: compose requests, switch environments, keep history and collections."
