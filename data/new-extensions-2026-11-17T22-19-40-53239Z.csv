@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T21:15:28.33Z,bitno.kotlin-pack-by-bitno,bitno,Bitno Pack for Kotlin,2026.11.26,"Bitno's language servers for Kotlin projects in one install: Kotlin, Gradle and Maven."
+2026-11-17T21:17:43.797Z,M1n.mistral-vibe-copilot,M1n,Mistral Vibe for Copilot Chat,1.4.0,Mistral Models integration for Copilot Chat
+2026-11-17T21:20:37.773Z,PumasAI.data-tables,PumasAI,Data Tables,0.1.0,"Opens CSV, Parquet, Arrow, SAS, Stata, SPSS and Excel files, and JSON records, as tables that load only the rows in view."
+2026-11-17T21:33:20.417Z,TheBox.thebox-language-support,TheBox,TheBox Language Support,0.1.0,"Diagnostics, formatting, navigation, and debugging for TheBox .in and .out source files."
+2026-11-17T21:34:51.057Z,Fruti.pastel-daydream,Fruti,Pastel Daydream,1.0.0,"20 dreamy pastel color themes in 10 light and dark families, each with a distinct syntax palette."
+2026-11-17T22:00:03.113Z,dandxy89.lp-lsp,dandxy89,LP & MPS Language Server,1.0.2,"Language support for LP (linear programming) files, powered by the lp-lsp language server."
+2026-11-17T22:09:19.72Z,KaiPatel.sidebar-todo,KaiPatel,sidebar-todo,0.0.1,this is a to do list extension

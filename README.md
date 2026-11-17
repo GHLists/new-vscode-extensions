@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 21:20 UTC
+## Latest list — 2026-11-17 22:19 UTC
 
-New extensions published between 2026-11-17 19:20 UTC and 2026-11-17 21:20 UTC.
+New extensions published between 2026-11-17 20:19 UTC and 2026-11-17 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T21-20-14-168133Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T22-19-40-53239Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 20:41:13 | [vexilologia.vewilo-guia](https://marketplace.visualstudio.com/items?itemName=vexilologia.vewilo-guia) | Vewilología | 1.0.0 | Guía básica sobre el estudio y diseño de banderas |
-| 2026-11-17 20:45:36 | [JavadEsmaeili.scanline](https://marketplace.visualstudio.com/items?itemName=JavadEsmaeili.scanline) | Scanline | 0.7.1 | Search files, text, symbols and commands from one editor tab, with folder scope… |
-| 2026-11-17 20:50:29 | [eduardo-moro.visual-studio-g](https://marketplace.visualstudio.com/items?itemName=eduardo-moro.visual-studio-g) | Visual Studio G | 0.1.0 | VisuAlg (Portugol) no VS Code: execute, depure com breakpoints e passo a passo… |
-| 2026-11-17 20:56:13 | [elambert.prism-dev-pack](https://marketplace.visualstudio.com/items?itemName=elambert.prism-dev-pack) | Prism Dev Pack | 1.1.0 | Visual readability, semantic autocompletion, column metadata, and Go-to-Definit… |
-| 2026-11-17 20:58:16 | [Mault.mault-governance](https://marketplace.visualstudio.com/items?itemName=Mault.mault-governance) | Mault | 0.243.0 | 7-day free trial, then $19.99/month. Governance for AI-assisted development: th… |
-| 2026-11-17 20:58:40 | [NexoraLabsCo.xora-theme](https://marketplace.visualstudio.com/items?itemName=NexoraLabsCo.xora-theme) | Xora | 0.3.0 | A minimal theme with purple accents for Visual Studio Code |
-| 2026-11-17 21:09:25 | [barmoen.blekk](https://marketplace.visualstudio.com/items?itemName=barmoen.blekk) | Blekk | 0.1.0 | Preview and check a Markdown documentation site in VS Code: live preview on loc… |
+| 2026-11-17 21:15:28 | [bitno.kotlin-pack-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.kotlin-pack-by-bitno) | Bitno Pack for Kotlin | 2026.11.26 | Bitno's language servers for Kotlin projects in one install: Kotlin, Gradle and… |
+| 2026-11-17 21:17:43 | [M1n.mistral-vibe-copilot](https://marketplace.visualstudio.com/items?itemName=M1n.mistral-vibe-copilot) | Mistral Vibe for Copilot Chat | 1.4.0 | Mistral Models integration for Copilot Chat |
+| 2026-11-17 21:20:37 | [PumasAI.data-tables](https://marketplace.visualstudio.com/items?itemName=PumasAI.data-tables) | Data Tables | 0.1.0 | Opens CSV, Parquet, Arrow, SAS, Stata, SPSS and Excel files, and JSON records,… |
+| 2026-11-17 21:33:20 | [TheBox.thebox-language-support](https://marketplace.visualstudio.com/items?itemName=TheBox.thebox-language-support) | TheBox Language Support | 0.1.0 | Diagnostics, formatting, navigation, and debugging for TheBox .in and .out sour… |
+| 2026-11-17 21:34:51 | [Fruti.pastel-daydream](https://marketplace.visualstudio.com/items?itemName=Fruti.pastel-daydream) | Pastel Daydream | 1.0.0 | 20 dreamy pastel color themes in 10 light and dark families, each with a distin… |
+| 2026-11-17 22:00:03 | [dandxy89.lp-lsp](https://marketplace.visualstudio.com/items?itemName=dandxy89.lp-lsp) | LP & MPS Language Server | 1.0.2 | Language support for LP (linear programming) files, powered by the lp-lsp langu… |
+| 2026-11-17 22:09:19 | [KaiPatel.sidebar-todo](https://marketplace.visualstudio.com/items?itemName=KaiPatel.sidebar-todo) | sidebar-todo | 0.0.1 | this is a to do list extension |
 
 ## Data source
 
