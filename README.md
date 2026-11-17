@@ -12,22 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 12:20 UTC
+## Latest list — 2026-11-17 13:21 UTC
 
-New extensions published between 2026-11-17 10:20 UTC and 2026-11-17 12:20 UTC.
+New extensions published between 2026-11-17 11:21 UTC and 2026-11-17 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T12-20-31-561089Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T13-21-14-513151Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 11:17:31 | [PRYSKY-Studio.cloak-env-secrets](https://marketplace.visualstudio.com/items?itemName=PRYSKY-Studio.cloak-env-secrets) | Env Cloak & Shield | 1.1.8 | Cloak .env & API keys on screen in 1 click, block Git & AI agent leaks, scan ex… |
-| 2026-11-17 11:22:59 | [phronergon.phronergon](https://marketplace.visualstudio.com/items?itemName=phronergon.phronergon) | phronērgon | 0.1.0 | Sign in to phronērgon, watch the connection, approve cards, and start sandboxes. |
-| 2026-11-17 11:23:38 | [ssrs2.ssrs2-report-designer](https://marketplace.visualstudio.com/items?itemName=ssrs2.ssrs2-report-designer) | SSRS2 Report Designer | 2.0.0 | Design RDLC and RDL reports in VS Code: the SSRS2 Designer on your own machine,… |
-| 2026-11-17 11:29:53 | [MinhLuu.reviewdock](https://marketplace.visualstudio.com/items?itemName=MinhLuu.reviewdock) | ReviewDock | 0.1.1 | GitHub Pull Request and GitLab Merge Request reviews in VS Code |
-| 2026-11-17 11:35:36 | [TeletypeGames.warpengine-toolbox](https://marketplace.visualstudio.com/items?itemName=TeletypeGames.warpengine-toolbox) | WarpEngine Toolbox | 1.0.0 | Make a game for a WarpEngine host from nothing to a released, playable catalog… |
-| 2026-11-17 11:45:54 | [daan-adk.daan-adk](https://marketplace.visualstudio.com/items?itemName=daan-adk.daan-adk) | DAAN ADK Runtime | 1.0.0 | Runs DAAN use cases built by the DAAN to Google ADK builder, directly from VS C… |
-| 2026-11-17 11:56:50 | [OrgTown.orgtown](https://marketplace.visualstudio.com/items?itemName=OrgTown.orgtown) | OrgTown | 0.1.0 | Metadata intelligence for Salesforce, right inside VS Code - an org visualizer… |
-| 2026-11-17 11:58:00 | [BiznoxCybersecurity.codeaegix-agent](https://marketplace.visualstudio.com/items?itemName=BiznoxCybersecurity.codeaegix-agent) | CodeAegix Agent | 0.2.3 | Lets a CodeAegix secure code review read (and, when you allow it, fix) the fold… |
+| 2026-11-17 12:08:43 | [delta-forge.osdu-delivery](https://marketplace.visualstudio.com/items?itemName=delta-forge.osdu-delivery) | OSDU Delivery, powered by SQLFlow | 1.0.0 | Write the pipelines that deliver subsurface records into an OSDU® data platform… |
+| 2026-11-17 12:26:47 | [thangnc0101.window-switcher](https://marketplace.visualstudio.com/items?itemName=thangnc0101.window-switcher) | Quick Window Switcher | 0.1.0 | List open VS Code windows in the sidebar, sorted by most recently used, and swi… |
+| 2026-11-17 12:29:28 | [icrmahin.wolfvane](https://marketplace.visualstudio.com/items?itemName=icrmahin.wolfvane) | WOLFVANE | 1.0.0 | WOLFVANE dark color theme with Fogio JetBrains New UI file and product icon the… |
+| 2026-11-17 12:30:03 | [secretqsan.vscode-slurm-toolset](https://marketplace.visualstudio.com/items?itemName=secretqsan.vscode-slurm-toolset) | VSCode Slurm Toolset | 0.0.2 | Slurm 脚本语法支持与集群可视化工具 |
+| 2026-11-17 12:35:44 | [unsw-robotics-competition-club.v5-simulacrum-vscode](https://marketplace.visualstudio.com/items?itemName=unsw-robotics-competition-club.v5-simulacrum-vscode) | V5 Brain Simulator | 0.3.10 | Test VEX V5 robot code without a robot: a simulated V5 brain running VEXos, wit… |
+| 2026-11-17 12:37:45 | [j69.directr-workflow-links](https://marketplace.visualstudio.com/items?itemName=j69.directr-workflow-links) | DirectoR Workflow Links | 1.0.0 | DirectoR の workflow YAML と profile / エージェント定義を行き来するためのリンクを提供します。 |
+| 2026-11-17 12:46:05 | [anwin.for-vscode](https://marketplace.visualstudio.com/items?itemName=anwin.for-vscode) | Anwin | 1.4.4 | Anwin: A higher order of code intelligence, without leaving your IDE. |
+| 2026-11-17 12:58:15 | [IDCTpl.umbra-oled-theme](https://marketplace.visualstudio.com/items?itemName=IDCTpl.umbra-oled-theme) | Umbra OLED | 0.1.2 | True-black OLED theme with soft, warm, low-glare syntax colors that are easy on… |
+| 2026-11-17 13:05:29 | [WMK.wmk-ia-assistente](https://marketplace.visualstudio.com/items?itemName=WMK.wmk-ia-assistente) | WMK IA Assistente | 0.6.0 | WMK IA: chat com contexto opt-in do arquivo ativo, skills, agentes, ferramentas… |
+| 2026-11-17 13:07:33 | [stefanos-larkou.zoneless-night](https://marketplace.visualstudio.com/items?itemName=stefanos-larkou.zoneless-night) | Zoneless Night | 1.1.2 | A dark Angular theme with vivid, distinct colours for TypeScript and Angular te… |
+| 2026-11-17 13:13:44 | [gitwithmasum.neuro-focus](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.neuro-focus) | NeuroFocus // ADHD & Deep Focus Code Di… | 0.1.0 | Futuristic ADHD & deep-focus code dimmer. Illuminates your active function whil… |
+| 2026-11-17 13:16:13 | [rocketracerrebel.deep-session-themes](https://marketplace.visualstudio.com/items?itemName=rocketracerrebel.deep-session-themes) | Deep Session Themes | 1.2.0 | Five deep navy themes with pink accents, readable syntax and distinct moods, fr… |
 
 ## Data source
 

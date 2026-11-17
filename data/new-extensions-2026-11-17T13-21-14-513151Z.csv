@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T12:08:43.06Z,delta-forge.osdu-delivery,delta-forge,"OSDU Delivery, powered by SQLFlow",1.0.0,"Write the pipelines that deliver subsurface records into an OSDU® data platform: every YAML document understood, a mapping previewed as you write it, your estate's pages beside your files, and an AI assistant built in."
+2026-11-17T12:26:47.727Z,thangnc0101.window-switcher,thangnc0101,Quick Window Switcher,0.1.0,"List open VS Code windows in the sidebar, sorted by most recently used, and switch with one click."
+2026-11-17T12:29:28.943Z,icrmahin.wolfvane,icrmahin,WOLFVANE,1.0.0,WOLFVANE dark color theme with Fogio JetBrains New UI file and product icon themes.
+2026-11-17T12:30:03.36Z,secretqsan.vscode-slurm-toolset,secretqsan,VSCode Slurm Toolset,0.0.2,Slurm 脚本语法支持与集群可视化工具
+2026-11-17T12:35:44.08Z,unsw-robotics-competition-club.v5-simulacrum-vscode,unsw-robotics-competition-club,V5 Brain Simulator,0.3.10,"Test VEX V5 robot code without a robot: a simulated V5 brain running VEXos, with its screen, controller, field and motors as panes. Windows (WSL) and macOS."
+2026-11-17T12:37:45.89Z,j69.directr-workflow-links,j69,DirectoR Workflow Links,1.0.0,DirectoR の workflow YAML と profile / エージェント定義を行き来するためのリンクを提供します。
+2026-11-17T12:46:05.133Z,anwin.for-vscode,anwin,Anwin,1.4.4,"Anwin: A higher order of code intelligence, without leaving your IDE."
+2026-11-17T12:58:15.843Z,IDCTpl.umbra-oled-theme,IDCTpl,Umbra OLED,0.1.2,"True-black OLED theme with soft, warm, low-glare syntax colors that are easy on the eyes."
+2026-11-17T13:05:29.27Z,WMK.wmk-ia-assistente,WMK,WMK IA Assistente,0.6.0,"WMK IA: chat com contexto opt-in do arquivo ativo, skills, agentes, ferramentas e propostas revisáveis."
+2026-11-17T13:07:33.287Z,stefanos-larkou.zoneless-night,stefanos-larkou,Zoneless Night,1.1.2,"A dark Angular theme with vivid, distinct colours for TypeScript and Angular templates"
+2026-11-17T13:13:44.813Z,gitwithmasum.neuro-focus,gitwithmasum,NeuroFocus // ADHD & Deep Focus Code Dimmer,0.1.0,Futuristic ADHD & deep-focus code dimmer. Illuminates your active function while fading surrounding visual noise into cyber-space.
+2026-11-17T13:16:13.14Z,rocketracerrebel.deep-session-themes,rocketracerrebel,Deep Session Themes,1.2.0,"Five deep navy themes with pink accents, readable syntax and distinct moods, from quiet to vivid."
