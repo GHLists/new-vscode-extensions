@@ -12,28 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 08:20 UTC
+## Latest list — 2026-11-17 09:19 UTC
 
-New extensions published between 2026-11-17 06:20 UTC and 2026-11-17 08:20 UTC.
+New extensions published between 2026-11-17 07:19 UTC and 2026-11-17 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T08-20-22-836469Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T09-19-34-917214Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 07:15:11 | [Maincode.matilda-code](https://marketplace.visualstudio.com/items?itemName=Maincode.matilda-code) | Matilda Code | 1.0.3 | Enable Matilda Code with direct access to your VS Code workspace. |
-| 2026-11-17 07:19:40 | [z4nny.lyricode](https://marketplace.visualstudio.com/items?itemName=z4nny.lyricode) | Lyricode | 0.1.3 | Synced lyrics in your VS Code sidebar from Windows Media Session (Spotify, Brow… |
-| 2026-11-17 07:23:52 | [purple-hawk.jj-lens](https://marketplace.visualstudio.com/items?itemName=purple-hawk.jj-lens) | JJ Lens | 0.0.1 | Browse the Jujutsu (jj) log, inspect changes, and run jj actions from VS Code. |
-| 2026-11-17 07:24:02 | [danielonnet.app-brain](https://marketplace.visualstudio.com/items?itemName=danielonnet.app-brain) | App Brain | 0.1.1 | Configure and watch the app-brain MCP server: knowledge base and docs generated… |
-| 2026-11-17 07:26:40 | [P-Kalsi.lumen-pptx](https://marketplace.visualstudio.com/items?itemName=P-Kalsi.lumen-pptx) | Lumen PPTX | 0.1.0 | View PowerPoint (.pptx) slides right in VS Code with thumbnails, search, zoom a… |
-| 2026-11-17 07:29:22 | [st-eve-code.auto-ship](https://marketplace.visualstudio.com/items?itemName=st-eve-code.auto-ship) | Auto Ship | 0.1.0 | Commit, push, run checks, open an issue and pull request, and merge in one comm… |
-| 2026-11-17 07:35:29 | [Astrix-26.quackgit](https://marketplace.visualstudio.com/items?itemName=Astrix-26.quackgit) | quackGIT | 0.1.0 | Analyze the current VS Code file with quackGIT. |
-| 2026-11-17 07:43:23 | [LemuelAdane.accenture-typescript-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.accenture-typescript-formatter) | Accenture Typescript Formatter | 0.2.0 | Enterprise-grade TypeScript formatter extension for Visual Studio Code. |
-| 2026-11-17 07:45:46 | [x1phyr.code-detective-ai](https://marketplace.visualstudio.com/items?itemName=x1phyr.code-detective-ai) | Code Detective AI | 0.2.0 | Hand-holding AI code walkthroughs: narrative step-by-step mentor guides, inline… |
-| 2026-11-17 07:48:07 | [PRYSKY-Studio.format-layout-toggles](https://marketplace.visualstudio.com/items?itemName=PRYSKY-Studio.format-layout-toggles) | Layout & Quick Toggles | 1.1.8 | Format on Save, Word Wrap, Auto-Hide panels & Classic IDE layout in 1 click. Ze… |
-| 2026-11-17 07:51:26 | [wangriyu.jetbrains-style-changes](https://marketplace.visualstudio.com/items?itemName=wangriyu.jetbrains-style-changes) | JetBrains-style Changes | 0.2.2 | A JetBrains-inspired changes view for multi-repository workspaces. |
-| 2026-11-17 07:51:27 | [nakita628.vscode-inferql](https://marketplace.visualstudio.com/items?itemName=nakita628.vscode-inferql) | InferQL | 0.0.4 | SQL completion and types for InferQL's sql(...): keywords, tables and columns a… |
-| 2026-11-17 07:54:40 | [MonsieurMouarf.kanban-notes-md](https://marketplace.visualstudio.com/items?itemName=MonsieurMouarf.kanban-notes-md) | Kanban Notes MD | 0.1.0 | Un kanban dont chaque carte est un fichier Markdown avec front matter : glisser… |
-| 2026-11-17 08:06:51 | [souhail555.devsecops-copilot](https://marketplace.visualstudio.com/items?itemName=souhail555.devsecops-copilot) | DevSecOps Copilot | 0.1.0 | Inline code security findings mapped to GCC (NCA ECC) and EU (CRA, NIS2, DORA,… |
+| 2026-11-17 08:39:44 | [PoyChang.dotnet-file-apps-toolkit](https://marketplace.visualstudio.com/items?itemName=PoyChang.dotnet-file-apps-toolkit) | .NET File Apps Toolkit | 0.2.2 | Run, restore, convert and preview .NET 10+ file-based apps (single .cs files),… |
+| 2026-11-17 08:43:12 | [Sware.ssh-folder-sync](https://marketplace.visualstudio.com/items?itemName=Sware.ssh-folder-sync) | SSH Folder Sync | 0.3.0 | Visually compare and sync local and SSH folders |
+| 2026-11-17 08:44:53 | [Aaronlu2026.xwebsearch](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.xwebsearch) | xwebsearch — 网页搜索 CLI | 0.1.0 | 给 AI agent 装好 xwebsearch：自带本仓库源码，一键放到固定位置、npm link，并可让 Claude Code / Codex / Tr… |
+| 2026-11-17 08:45:16 | [Aaronlu2026.xwebfetch](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.xwebfetch) | xwebfetch — 网页正文抓取 CLI | 0.1.0 | 给 AI agent 装好 xwebfetch：自带本仓库源码，一键放到固定位置、装依赖、npm link，并可让 Claude Code / Codex /… |
+| 2026-11-17 08:45:52 | [karthik.classloom-less-intellisense](https://marketplace.visualstudio.com/items?itemName=karthik.classloom-less-intellisense) | ClassLoom — CSS & LESS IntelliSense | 0.1.1 | Weave workspace CSS classes and LESS utilities into Vue styles with project-awa… |
+| 2026-11-17 08:48:58 | [SmileTortoise.clangd-style-cpp-hints](https://marketplace.visualstudio.com/items?itemName=SmileTortoise.clangd-style-cpp-hints) | Clangd-Style C/C++ Inlay Hints | 0.1.1 | Clangd-style inlay hints for C and C++ with clangd or Microsoft C/C++. Adds enu… |
+| 2026-11-17 08:49:37 | [sdkdeepa.steplab](https://marketplace.visualstudio.com/items?itemName=sdkdeepa.steplab) | StepLab: Codelabs from Markdown | 0.1.2 | Write a step-by-step codelab in one markdown file (## Step 0, ## Step 1…) and p… |
+| 2026-11-17 08:49:58 | [quiet-tools.mermaid-export-preview](https://marketplace.visualstudio.com/items?itemName=quiet-tools.mermaid-export-preview) | Mermaid Export & Preview | 0.0.2 | Preview & export .mmd files to SVG/PNG. Works offline and in Restricted Mode. N… |
+| 2026-11-17 08:52:07 | [xlt-icon.xlt-project-switcher](https://marketplace.visualstudio.com/items?itemName=xlt-icon.xlt-project-switcher) | XLT Project Switcher | 0.2.0 | Quickly switch between projects with auto-generated colorful icons. |
 
 ## Data source
 

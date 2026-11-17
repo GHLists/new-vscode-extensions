@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T08:39:44.317Z,PoyChang.dotnet-file-apps-toolkit,PoyChang,.NET File Apps Toolkit,0.2.2,"Run, restore, convert and preview .NET 10+ file-based apps (single .cs files), with language-tagged comment rendering for /*markdown, /*yaml, /*json and more."
+2026-11-17T08:43:12.027Z,Sware.ssh-folder-sync,Sware,SSH Folder Sync,0.3.0,Visually compare and sync local and SSH folders
+2026-11-17T08:44:53.11Z,Aaronlu2026.xwebsearch,Aaronlu2026,xwebsearch — 网页搜索 CLI,0.1.0,给 AI agent 装好 xwebsearch：自带本仓库源码，一键放到固定位置、npm link，并可让 Claude Code / Codex / Trae 认识它。装完即可搜索网页。
+2026-11-17T08:45:16.633Z,Aaronlu2026.xwebfetch,Aaronlu2026,xwebfetch — 网页正文抓取 CLI,0.1.0,给 AI agent 装好 xwebfetch：自带本仓库源码，一键放到固定位置、装依赖、npm link，并可让 Claude Code / Codex / Trae 认识它。装完即可把网页抓成干净的 Markdown。
+2026-11-17T08:45:52.13Z,karthik.classloom-less-intellisense,karthik,ClassLoom — CSS & LESS IntelliSense,0.1.1,Weave workspace CSS classes and LESS utilities into Vue styles with project-aware IntelliSense.
+2026-11-17T08:48:58.143Z,SmileTortoise.clangd-style-cpp-hints,SmileTortoise,Clangd-Style C/C++ Inlay Hints,0.1.1,Clangd-style inlay hints for C and C++ with clangd or Microsoft C/C++. Adds enum values at declarations and references to clangd's existing hints.
+2026-11-17T08:49:37.997Z,sdkdeepa.steplab,sdkdeepa,StepLab: Codelabs from Markdown,0.1.2,"Write a step-by-step codelab in one markdown file (## Step 0, ## Step 1…) and preview it live: steps, timer, slides, YouTube, copyable code and a finish line. Export it as one HTML file."
+2026-11-17T08:49:58.703Z,quiet-tools.mermaid-export-preview,quiet-tools,Mermaid Export & Preview,0.0.2,Preview & export .mmd files to SVG/PNG. Works offline and in Restricted Mode. No login. No telemetry. No Chromium download.
+2026-11-17T08:52:07.44Z,xlt-icon.xlt-project-switcher,xlt-icon,XLT Project Switcher,0.2.0,Quickly switch between projects with auto-generated colorful icons.
