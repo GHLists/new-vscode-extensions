@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 18:21 UTC
+## Latest list — 2026-11-17 19:21 UTC
 
-New extensions published between 2026-11-17 16:21 UTC and 2026-11-17 18:21 UTC.
+New extensions published between 2026-11-17 17:21 UTC and 2026-11-17 19:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T18-21-28-220407Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T19-21-11-646085Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 17:11:44 | [lukas-urban.red-noon](https://marketplace.visualstudio.com/items?itemName=lukas-urban.red-noon) | Red Noon | 1.0.1 | Beautiful, simple and easy on the eyes. Dark and dampened-light variants with c… |
-| 2026-11-17 17:12:12 | [yoann-corgnet.inlinetex](https://marketplace.visualstudio.com/items?itemName=yoann-corgnet.inlinetex) | InlineTeX | 0.3.0 | Édition WYSIWYG en ligne pour LaTeX : formules rendues et mise en forme directe… |
-| 2026-11-17 17:50:06 | [esbron.vybsafe](https://marketplace.visualstudio.com/items?itemName=esbron.vybsafe) | VybSafe | 1.0.2 | Security that speaks human. Scan the app you built with AI and see each problem… |
-| 2026-11-17 17:52:59 | [bornio.markdown-diff-vscode](https://marketplace.visualstudio.com/items?itemName=bornio.markdown-diff-vscode) | Markdown Diff Preview by bornio | 0.1.3 | Read rendered Markdown differences from the comparison already open in VS Code. |
-| 2026-11-17 17:57:41 | [si-world.agent-task-manager-si-world](https://marketplace.visualstudio.com/items?itemName=si-world.agent-task-manager-si-world) | Agent Task Manager (si-world) | 1.5.0 | A task management tool that dispatches work to AI |
-| 2026-11-17 18:10:05 | [EthanSK.prettify-ts-plus-plus](https://marketplace.visualstudio.com/items?itemName=EthanSK.prettify-ts-plus-plus) | Prettify TypeScript++ | 1.1.4 | View "prettified" and nested types in hover tooltips. |
-| 2026-11-17 18:11:40 | [whatdoesthatdo.red-accent-theme](https://marketplace.visualstudio.com/items?itemName=whatdoesthatdo.red-accent-theme) | Red-Accent-Theme | 0.0.1 | Go from blue to red in VSCode. |
+| 2026-11-17 18:15:23 | [muhammadumair.ngx-nudge-sync](https://marketplace.visualstudio.com/items?itemName=muhammadumair.ngx-nudge-sync) | ngx-nudge Sync | 0.1.0 | Writes ngx-nudge layout, style and inspector changes from the browser into your… |
+| 2026-11-17 18:22:09 | [kontrax-ai.kontrax](https://marketplace.visualstudio.com/items?itemName=kontrax-ai.kontrax) | Kontrax | 0.1.207 | Automated bug prevention, caller safety auditing, and behavioral rule synthesis… |
+| 2026-11-17 18:30:38 | [AndreLanzieri.protheus-screen-preview](https://marketplace.visualstudio.com/items?itemName=AndreLanzieri.protheus-screen-preview) | Protheus Screen Preview | 1.3.0 | Prévia e montagem visual das telas AdvPL/TLPP do TOTVS Protheus no estilo do Sm… |
+| 2026-11-17 18:48:06 | [fluorinestudios.codeglyph-vscode](https://marketplace.visualstudio.com/items?itemName=fluorinestudios.codeglyph-vscode) | CodeGlyph | 0.1.1 | Subtle AI-chosen watermark icons behind functions, classes and properties, in a… |
+| 2026-11-17 18:50:43 | [LemuelAdane.springboot-analyzer](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.springboot-analyzer) | Spring Boot Analyzer | 0.1.1 | Run AI-assisted whole-project analysis for Java and Spring Boot projects with C… |
+| 2026-11-17 18:52:51 | [reediculous456.npm-package-page-links](https://marketplace.visualstudio.com/items?itemName=reediculous456.npm-package-page-links) | npm Package Page Links | 1.0.0 | Open npm package pages directly from dependency names in package.json. |
+| 2026-11-17 19:10:39 | [shamanch.witness-vscode](https://marketplace.visualstudio.com/items?itemName=shamanch.witness-vscode) | Witness | 0.1.0 | Проверяет, что AI-агент реально сделал задачу: критерии приёмки, прогон, badge |
 
 ## Data source
 
