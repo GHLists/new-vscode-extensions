@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T01:24:47.483Z,ei-show.codex-inline-suggest,ei-show,Codex Inline Suggest,1.0.3,Inline code suggestions using the Codex CLI.
+2026-11-17T01:41:42.66Z,Legesus.neuraldash,Legesus,NeuralDash - Energy Board,0.7.1,Live NeuralWatt energy-per-request board with value ranking and status bar.
+2026-11-17T01:46:40.027Z,FlameOfUdun.winche,FlameOfUdun,Winche,0.2.0,"Winche in VS Code: access rules (.rules, .rules.test) with colours, suggestions, errors as you type, formatting and live tests; and functions set up with Deno so @winche/functions resolves."
+2026-11-17T01:52:05.84Z,ai-runner.ai-runner-vscode,ai-runner,AI Runner,0.0.1,AI development platform for VS Code
+2026-11-17T01:57:43.547Z,asagiri076.ikizulive-theme,asagiri076,Ikizulive — Orange & Bluebird + Members,0.2.3,イキヅライブ！のオレンジ・水色と10人のメンバーカラー。Visual Studio のコード配色を維持した全22テーマ。
+2026-11-17T02:00:29.73Z,certkor.certone-ai,certkor,CertOne AI Compliance,0.2.1,"Confidential AI-compliance scans from the editor: findings at the exact line, from a hardware-attested sandbox."
+2026-11-17T02:08:29.273Z,almirgouvea.smartshift-for-codex,almirgouvea,SmartShift for Codex,1.0.0,"Automatically picks the Codex model and reasoning effort for each request, without spending tokens to decide. Unofficial extension, not affiliated with OpenAI."
