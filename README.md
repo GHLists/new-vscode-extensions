@@ -12,23 +12,31 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 09:19 UTC
+## Latest list — 2026-11-17 10:18 UTC
 
-New extensions published between 2026-11-17 07:19 UTC and 2026-11-17 09:19 UTC.
+New extensions published between 2026-11-17 08:18 UTC and 2026-11-17 10:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T09-19-34-917214Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T10-18-59-456032Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 08:39:44 | [PoyChang.dotnet-file-apps-toolkit](https://marketplace.visualstudio.com/items?itemName=PoyChang.dotnet-file-apps-toolkit) | .NET File Apps Toolkit | 0.2.2 | Run, restore, convert and preview .NET 10+ file-based apps (single .cs files),… |
-| 2026-11-17 08:43:12 | [Sware.ssh-folder-sync](https://marketplace.visualstudio.com/items?itemName=Sware.ssh-folder-sync) | SSH Folder Sync | 0.3.0 | Visually compare and sync local and SSH folders |
-| 2026-11-17 08:44:53 | [Aaronlu2026.xwebsearch](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.xwebsearch) | xwebsearch — 网页搜索 CLI | 0.1.0 | 给 AI agent 装好 xwebsearch：自带本仓库源码，一键放到固定位置、npm link，并可让 Claude Code / Codex / Tr… |
-| 2026-11-17 08:45:16 | [Aaronlu2026.xwebfetch](https://marketplace.visualstudio.com/items?itemName=Aaronlu2026.xwebfetch) | xwebfetch — 网页正文抓取 CLI | 0.1.0 | 给 AI agent 装好 xwebfetch：自带本仓库源码，一键放到固定位置、装依赖、npm link，并可让 Claude Code / Codex /… |
-| 2026-11-17 08:45:52 | [karthik.classloom-less-intellisense](https://marketplace.visualstudio.com/items?itemName=karthik.classloom-less-intellisense) | ClassLoom — CSS & LESS IntelliSense | 0.1.1 | Weave workspace CSS classes and LESS utilities into Vue styles with project-awa… |
-| 2026-11-17 08:48:58 | [SmileTortoise.clangd-style-cpp-hints](https://marketplace.visualstudio.com/items?itemName=SmileTortoise.clangd-style-cpp-hints) | Clangd-Style C/C++ Inlay Hints | 0.1.1 | Clangd-style inlay hints for C and C++ with clangd or Microsoft C/C++. Adds enu… |
-| 2026-11-17 08:49:37 | [sdkdeepa.steplab](https://marketplace.visualstudio.com/items?itemName=sdkdeepa.steplab) | StepLab: Codelabs from Markdown | 0.1.2 | Write a step-by-step codelab in one markdown file (## Step 0, ## Step 1…) and p… |
-| 2026-11-17 08:49:58 | [quiet-tools.mermaid-export-preview](https://marketplace.visualstudio.com/items?itemName=quiet-tools.mermaid-export-preview) | Mermaid Export & Preview | 0.0.2 | Preview & export .mmd files to SVG/PNG. Works offline and in Restricted Mode. N… |
-| 2026-11-17 08:52:07 | [xlt-icon.xlt-project-switcher](https://marketplace.visualstudio.com/items?itemName=xlt-icon.xlt-project-switcher) | XLT Project Switcher | 0.2.0 | Quickly switch between projects with auto-generated colorful icons. |
+| 2026-11-17 09:13:55 | [qqzxc276869-bot.keil-assistant-optimized-276869](https://marketplace.visualstudio.com/items?itemName=qqzxc276869-bot.keil-assistant-optimized-276869) | Keil Assistant (优化版) · Goal | 1.7.25 | 在 VS Code 中管理和编译 Keil uVision 工程 |
+| 2026-11-17 09:18:01 | [rust-analyzer-lingo.compny](https://marketplace.visualstudio.com/items?itemName=rust-analyzer-lingo.compny) | Compny | 1.0.1 | AI code completion powered by OpenAI. |
+| 2026-11-17 09:19:59 | [entire.entire](https://marketplace.visualstudio.com/items?itemName=entire.entire) | Entire for VS Code | 0.1.0 | Browse the Entire checkpoints behind your commits, the agent sessions behind ea… |
+| 2026-11-17 09:30:42 | [idris1980.lookfirst](https://marketplace.visualstudio.com/items?itemName=idris1980.lookfirst) | LookFirst: See What Code Does Before Yo… | 0.22.1 | Shows what code would build or do before you run it: a picture of servers, port… |
+| 2026-11-17 09:31:19 | [pookdeveloper.project-color-picker](https://marketplace.visualstudio.com/items?itemName=pookdeveloper.project-color-picker) | Project Color Picker | 0.1.0 | Change the look of the current project (status bar, title bar, etc.) with a col… |
+| 2026-11-17 09:32:33 | [gai-dev.todo-comment-board](https://marketplace.visualstudio.com/items?itemName=gai-dev.todo-comment-board) | TODO 看板 | 0.1.1 | 收集项目中的 TODO / FIXME / NOTE 注释，在侧边面板中展示、筛选、跳转与标记完成 |
+| 2026-11-17 09:33:13 | [datastep-labs.datastep-r](https://marketplace.visualstudio.com/items?itemName=datastep-labs.datastep-r) | DataStep Studio for R (Clinical) | 0.20.1 | See what your R program did, stop where it goes wrong, prove your fix. RStudio… |
+| 2026-11-17 09:34:10 | [soundshapes.soundshapes-gamemonkey](https://marketplace.visualstudio.com/items?itemName=soundshapes.soundshapes-gamemonkey) | Sound Shapes GameMonkey | 0.3.1 | GameMonkey script support for the Sound Shapes engine: completion, hover docs,… |
+| 2026-11-17 09:34:23 | [soundshaper.soundshaper-mods](https://marketplace.visualstudio.com/items?itemName=soundshaper.soundshaper-mods) | SoundShaper Mods | 0.4.0 | Make SoundShaper mods for Sound Shapes: .edit files checked against the game's… |
+| 2026-11-17 09:38:30 | [DiogenDev.ai-assistant-deepseek](https://marketplace.visualstudio.com/items?itemName=DiogenDev.ai-assistant-deepseek) | Deepseek AI Assistant | 1.0.5 | Copilot-style inline completions and an agentic chat panel powered by DeepSeek. |
+| 2026-11-17 09:43:06 | [idris1980.copyable-pdf](https://marketplace.visualstudio.com/items?itemName=idris1980.copyable-pdf) | Markdown to Copyable PDF | 2.3.1 | Turns Markdown into an A4 PDF with Edge or Chrome, where every code line can be… |
+| 2026-11-17 09:47:10 | [AnlogicTiller.anlogic-tiller](https://marketplace.visualstudio.com/items?itemName=AnlogicTiller.anlogic-tiller) | Anlogic Tiller | 0.1.0 | 为 Copilot Agent 提供安路 TD 技能，并注册 anxinwen 与本机 TD MCP 两个 MCP 服务。 |
+| 2026-11-17 09:50:02 | [Emerson1.qcs-pw-agent-zeeshans](https://marketplace.visualstudio.com/items?itemName=Emerson1.qcs-pw-agent-zeeshans) | Testing QCS Playwright Automation Agent | 1.0.60 | Generate Playwright tests from Azure DevOps test cases via the ADO and Playwrig… |
+| 2026-11-17 09:53:01 | [rahulchouhan.imgpreview](https://marketplace.visualstudio.com/items?itemName=rahulchouhan.imgpreview) | Img Preview | 0.1.0 | Blazing fast, lightweight image preview in editor gutter and hover tooltip. Sup… |
+| 2026-11-17 10:04:35 | [Engineerx0.monkeytype-vscode](https://marketplace.visualstudio.com/items?itemName=Engineerx0.monkeytype-vscode) | Monkeytype for VS Code | 0.1.0 | Quick access to Monkeytype inside Visual Studio Code's integrated browser. |
+| 2026-11-17 10:05:08 | [VRXT.ssh-config-manager](https://marketplace.visualstudio.com/items?itemName=VRXT.ssh-config-manager) | SSH Config Manager | 0.4.1 | Manage your ssh_config from a GUI: groups, icons, colors, tags and notes — all… |
+| 2026-11-17 10:06:50 | [giridharans1729.workspace-folder-toggle](https://marketplace.visualstudio.com/items?itemName=giridharans1729.workspace-folder-toggle) | Workspace Folder Toggle | 1.0.0 | Checkbox view to include or exclude folders in your multi-root workspace and sa… |
 
 ## Data source
 
