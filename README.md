@@ -12,21 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-17 22:19 UTC
+## Latest list — 2026-11-17 23:21 UTC
 
-New extensions published between 2026-11-17 20:19 UTC and 2026-11-17 22:19 UTC.
+New extensions published between 2026-11-17 21:21 UTC and 2026-11-17 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-17T22-19-40-53239Z.csv)
+[Full CSV](data/new-extensions-2026-11-17T23-21-28-794676Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-17 21:15:28 | [bitno.kotlin-pack-by-bitno](https://marketplace.visualstudio.com/items?itemName=bitno.kotlin-pack-by-bitno) | Bitno Pack for Kotlin | 2026.11.26 | Bitno's language servers for Kotlin projects in one install: Kotlin, Gradle and… |
-| 2026-11-17 21:17:43 | [M1n.mistral-vibe-copilot](https://marketplace.visualstudio.com/items?itemName=M1n.mistral-vibe-copilot) | Mistral Vibe for Copilot Chat | 1.4.0 | Mistral Models integration for Copilot Chat |
-| 2026-11-17 21:20:37 | [PumasAI.data-tables](https://marketplace.visualstudio.com/items?itemName=PumasAI.data-tables) | Data Tables | 0.1.0 | Opens CSV, Parquet, Arrow, SAS, Stata, SPSS and Excel files, and JSON records,… |
-| 2026-11-17 21:33:20 | [TheBox.thebox-language-support](https://marketplace.visualstudio.com/items?itemName=TheBox.thebox-language-support) | TheBox Language Support | 0.1.0 | Diagnostics, formatting, navigation, and debugging for TheBox .in and .out sour… |
-| 2026-11-17 21:34:51 | [Fruti.pastel-daydream](https://marketplace.visualstudio.com/items?itemName=Fruti.pastel-daydream) | Pastel Daydream | 1.0.0 | 20 dreamy pastel color themes in 10 light and dark families, each with a distin… |
-| 2026-11-17 22:00:03 | [dandxy89.lp-lsp](https://marketplace.visualstudio.com/items?itemName=dandxy89.lp-lsp) | LP & MPS Language Server | 1.0.2 | Language support for LP (linear programming) files, powered by the lp-lsp langu… |
-| 2026-11-17 22:09:19 | [KaiPatel.sidebar-todo](https://marketplace.visualstudio.com/items?itemName=KaiPatel.sidebar-todo) | sidebar-todo | 0.0.1 | this is a to do list extension |
+| 2026-11-17 22:17:10 | [NordicMoonlight.quota-monitor-cockpit](https://marketplace.visualstudio.com/items?itemName=NordicMoonlight.quota-monitor-cockpit) | Quota Monitor — Cockpit & Dashboard for… | 1.0.5 | See what is left of your GitHub Copilot, Claude Code and Codex limits in the st… |
+| 2026-11-17 23:13:08 | [unipivot.vscode-language-pack-th-by-unipivot](https://marketplace.visualstudio.com/items?itemName=unipivot.vscode-language-pack-th-by-unipivot) | Thai Language Pack for Visual Studio Co… | 1.145.2 | Language pack extension for Thai |
 
 ## Data source
 
