@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-17T14:12:52.28Z,datastep-labs.sapling-sap,datastep-labs,Sapling SAP,0.15.0,"Write a statistical analysis plan for a clinical trial as a structured document: forms, checks, a decision interview, PDF and Word. Works without AI; an AI of your choice can propose."
+2026-11-17T14:18:59.75Z,rahulchouhan.class-fold,rahulchouhan,Class Fold,0.1.0,"Intelligent inline folding for Tailwind CSS classes, JSX classNames, SVG paths, and long image URLs."
+2026-11-17T14:29:35.28Z,Testifly.testifly-vscode,Testifly,Testifly for VS Code,0.1.0,"Find the blast radius of your local changes while in your IDE, before you ship them to production. See which Testifly tests to run and run them on your machine."
+2026-11-17T14:30:06.2Z,ex-codes.codemark-bookmarks,ex-codes,CodeMark Bookmarks,0.1.0,"Bookmarks with groups, colours, notes, numbered slots and a project file."
+2026-11-17T14:32:14.893Z,kish21.sessioncost,kish21,SessionCost,1.2.1,"Your coding agent's tokens, cost and safety guard in the status bar: report, token tips, fix it with undo, guard on/off. Runs the SessionCost tool on this computer; sends nothing anywhere."
+2026-11-17T14:33:54Z,MiroslavBursa.legacy-test-explorer,MiroslavBursa,Legacy .NET Test Explorer,0.1.0,"Shows, runs and debugs xUnit, MSTest and NUnit tests of legacy .NET Framework projects (old-style .csproj, packages.config) in the VS Code Testing view."
+2026-11-17T14:55:31.683Z,PFLabs.pflabs-vscode-extension,PFLabs,PFLabs,0.0.1,AI-powered coding assistant with local API integration for enhanced development workflow
