@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T07:21:46.693Z,huangyuhang.awesome-markdown,huangyuhang,Awesome Markdown,0.1.0,像 Typora 一样直接在渲染后的 Markdown 上编辑，支持右键插入段落/引用/表格等块
+2026-11-18T07:32:33.263Z,hieuv0711.cozy-agent-office-claude,hieuv0711,Agent Office,0.1.0,"Your Claude Code sessions as little people at work in a cozy 3D room: a loft office, a ramen kitchen or a toy workshop. Reads Claude Code's files on this computer; installs nothing into Claude Code."
+2026-11-18T07:37:13.457Z,diacode.diacode-vscode,diacode,DiaCode,0.3.0,"A plan you and your coding agents share: a diagram in your repository that you edit by hand, with each step showing who has it and how that is known. Built for VS Code; Cursor and Antigravity are forks of it and should accept it, but have not been tried."
+2026-11-18T07:59:50.087Z,superdevai.superdevai,superdevai,SuperDevAI,0.0.28,"An AI software engineer in your editor: builds apps, investigates and fixes bugs with a test that proves the fix, and asks before it changes anything that matters. Invite-only beta."
+2026-11-18T08:00:39.513Z,lucqa-it.bitbucket-pipelines-preview,lucqa-it,Bitbucket Pipelines Preview,0.3.1,Previsualiza bitbucket-pipelines.yml con una vista similar a Bitbucket Pipelines
+2026-11-18T08:01:40.76Z,temperature89.copy-current-file-content,temperature89,Copy Current File Content,0.0.1,Copy the complete contents of the active editor to the clipboard.
+2026-11-18T08:04:28.52Z,LemuelAdane.a-typescript-formatter,LemuelAdane,A Typescript Formatter,0.2.1,Enterprise-grade TypeScript formatter extension for Visual Studio Code.
+2026-11-18T08:07:59.457Z,Daniel-ChenJH.hdfs-explorer-local,Daniel-ChenJH,HDFS Explorer Local Transfer,0.1.0,Use files on your computer when HDFS Explorer runs over Remote SSH.

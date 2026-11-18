@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 07:21 UTC
+## Latest list — 2026-11-18 08:21 UTC
 
-New extensions published between 2026-11-18 05:21 UTC and 2026-11-18 07:21 UTC.
+New extensions published between 2026-11-18 06:21 UTC and 2026-11-18 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T07-21-31-686846Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T08-21-10-316434Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 06:24:40 | [redoral.kanagawa-dragon-theme](https://marketplace.visualstudio.com/items?itemName=redoral.kanagawa-dragon-theme) | Kanagawa Dragon Theme | 0.1.0 | A dark, muted VS Code port of the "dragon" variant of kanagawa.nvim by rebelot. |
-| 2026-11-18 06:38:06 | [AshtonShears.ash-vscode-tools](https://marketplace.visualstudio.com/items?itemName=AshtonShears.ash-vscode-tools) | Ash VS Code Tools | 0.1.1 | Read PDFs in VS Code and give Copilot passages with page numbers. |
-| 2026-11-18 06:44:09 | [rewindagents.rewindagents](https://marketplace.visualstudio.com/items?itemName=rewindagents.rewindagents) | rewindagents | 1.1.0 | Undo for AI coding agents in your editor: a per-step timeline of what the agent… |
-| 2026-11-18 07:03:14 | [YangHui.dsh-native](https://marketplace.visualstudio.com/items?itemName=YangHui.dsh-native) | Vscode-Native-DSH | 0.1.0 | A native DeepSeek Harness chat panel for VS Code - workspace chats, streaming M… |
-| 2026-11-18 07:07:37 | [Buger.nuaa-oj-vscode-web](https://marketplace.visualstudio.com/items?itemName=Buger.nuaa-oj-vscode-web) | NUAA OJ Web Client | 0.1.7 | NUAA OJ 的 VS Code for the Web 版本：云端测试、云端提交，代码与界面复用桌面版。 |
-| 2026-11-18 07:08:30 | [Florian-Noever.al-workspace-focus](https://marketplace.visualstudio.com/items?itemName=Florian-Noever.al-workspace-focus) | AL Workspace Focus | 1.0.0 | Focus an AL workspace on selected apps, their local dependencies and optional m… |
-| 2026-11-18 07:09:15 | [LemuelAdane.a-java-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.a-java-formatter) | A Java Formatter | 0.9.11 | Enterprise-grade Java code formatting extension for Visual Studio Code, inspire… |
+| 2026-11-18 07:21:46 | [huangyuhang.awesome-markdown](https://marketplace.visualstudio.com/items?itemName=huangyuhang.awesome-markdown) | Awesome Markdown | 0.1.0 | 像 Typora 一样直接在渲染后的 Markdown 上编辑，支持右键插入段落/引用/表格等块 |
+| 2026-11-18 07:32:33 | [hieuv0711.cozy-agent-office-claude](https://marketplace.visualstudio.com/items?itemName=hieuv0711.cozy-agent-office-claude) | Agent Office | 0.1.0 | Your Claude Code sessions as little people at work in a cozy 3D room: a loft of… |
+| 2026-11-18 07:37:13 | [diacode.diacode-vscode](https://marketplace.visualstudio.com/items?itemName=diacode.diacode-vscode) | DiaCode | 0.3.0 | A plan you and your coding agents share: a diagram in your repository that you… |
+| 2026-11-18 07:59:50 | [superdevai.superdevai](https://marketplace.visualstudio.com/items?itemName=superdevai.superdevai) | SuperDevAI | 0.0.28 | An AI software engineer in your editor: builds apps, investigates and fixes bug… |
+| 2026-11-18 08:00:39 | [lucqa-it.bitbucket-pipelines-preview](https://marketplace.visualstudio.com/items?itemName=lucqa-it.bitbucket-pipelines-preview) | Bitbucket Pipelines Preview | 0.3.1 | Previsualiza bitbucket-pipelines.yml con una vista similar a Bitbucket Pipelines |
+| 2026-11-18 08:01:40 | [temperature89.copy-current-file-content](https://marketplace.visualstudio.com/items?itemName=temperature89.copy-current-file-content) | Copy Current File Content | 0.0.1 | Copy the complete contents of the active editor to the clipboard. |
+| 2026-11-18 08:04:28 | [LemuelAdane.a-typescript-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.a-typescript-formatter) | A Typescript Formatter | 0.2.1 | Enterprise-grade TypeScript formatter extension for Visual Studio Code. |
+| 2026-11-18 08:07:59 | [Daniel-ChenJH.hdfs-explorer-local](https://marketplace.visualstudio.com/items?itemName=Daniel-ChenJH.hdfs-explorer-local) | HDFS Explorer Local Transfer | 0.1.0 | Use files on your computer when HDFS Explorer runs over Remote SSH. |
 
 ## Data source
 
