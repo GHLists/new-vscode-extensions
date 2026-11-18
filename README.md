@@ -12,23 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 14:22 UTC
+## Latest list — 2026-11-18 15:19 UTC
 
-New extensions published between 2026-11-18 12:22 UTC and 2026-11-18 14:22 UTC.
+New extensions published between 2026-11-18 13:19 UTC and 2026-11-18 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T14-22-39-729139Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T15-19-34-168763Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 13:18:58 | [LxStudio.snippetvault-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.snippetvault-lx) | SnippetVault — Local Snippet Manager | 1.0.0 | Organize, search, and manage VS Code snippets locally. No cloud needed. Never l… |
-| 2026-11-18 13:20:11 | [wingtrill.wingtrill](https://marketplace.visualstudio.com/items?itemName=wingtrill.wingtrill) | WingTrill | 0.1.4 | Your WingTrill workspace's AI agents, channels and approvals, next to your code. |
-| 2026-11-18 13:23:29 | [ASNBV.asnfd-assistant](https://marketplace.visualstudio.com/items?itemName=ASNBV.asnfd-assistant) | ASNFD Assistant | 0.1.65 | Design, validate and deploy digital filters with ASN Filter Designer guidance i… |
-| 2026-11-18 13:27:06 | [AkashdeepSingh.threads](https://marketplace.visualstudio.com/items?itemName=AkashdeepSingh.threads) | Threads | 0.5.1 | WhatsApp in your sidebar — chats, groups and contacts, with native Copilot tools |
-| 2026-11-18 13:27:51 | [marcusvsa.azure-template-parameters-v2](https://marketplace.visualstudio.com/items?itemName=marcusvsa.azure-template-parameters-v2) | Azure Template Parameters | 0.2.0 | Parameter IntelliSense, navigation, and validation for local Azure Pipelines te… |
-| 2026-11-18 13:38:11 | [SmallStepsStudio.nginx-config-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.nginx-config-atlas) | Nginx Config Atlas | 0.1.0 | nginx configuration files: summary, syntax check, server blocks. Pro: security… |
-| 2026-11-18 13:43:24 | [lsiq-software.logpilot](https://marketplace.visualstudio.com/items?itemName=lsiq-software.logpilot) | LogPilot - Log Viewer with ANSI Colors,… | 1.0.0 | View log files with real ANSI colors, severity highlighting, instant filters, r… |
-| 2026-11-18 13:53:05 | [tmxio.tmxio-sftp](https://marketplace.visualstudio.com/items?itemName=tmxio.tmxio-sftp) | TMXIO SFTP | 1.0.0 | TMXIO-maintained SFTP/FTP sync for VS Code, compatible with VS Code 1.123+ and… |
-| 2026-11-18 14:01:44 | [wildgrid.ya-git-graph](https://marketplace.visualstudio.com/items?itemName=wildgrid.ya-git-graph) | YA Git Graph | 0.2.13 | A fast Git graph view powered by an in-process Rust engine: browse branches, ta… |
+| 2026-11-18 14:22:00 | [AndreaButtarelli.feega](https://marketplace.visualstudio.com/items?itemName=AndreaButtarelli.feega) | Feega | 0.1.3 | Open .feega canvases in your editor: motion video, UI and graphic design that y… |
+| 2026-11-18 14:28:10 | [armanossiloko.repo-visibility](https://marketplace.visualstudio.com/items?itemName=armanossiloko.repo-visibility) | Repo Visibility | 0.3.0 | Hide and show Git repositories in the Source Control view with one click. Made… |
+| 2026-11-18 14:44:00 | [martincodes.nestline](https://marketplace.visualstudio.com/items?itemName=martincodes.nestline) | Nestline — Native Outliner | 0.1.1 | Turn .outline files into a keyboard-first outliner with nested bullets, tasks,… |
+| 2026-11-18 14:44:20 | [DavidCastagnaro.esforco-claude](https://marketplace.visualstudio.com/items?itemName=DavidCastagnaro.esforco-claude) | Esforço Claude | 0.1.2 | Veja com que nível de esforço o Claude Code respondeu e quantos tokens cada res… |
+| 2026-11-18 14:48:23 | [alialp.reading-modes](https://marketplace.visualstudio.com/items?itemName=alialp.reading-modes) | Reading Modes | 0.1.0 | Dyslexia, autism and ADHD reading modes for the editor, Markdown preview and te… |
+| 2026-11-18 14:52:17 | [veddy1674.convey](https://marketplace.visualstudio.com/items?itemName=veddy1674.convey) | Convey | 1.0.0 | Interactive 2D Convolution Visualizer: kernel_size, stride, padding and dilatio… |
+| 2026-11-18 14:54:09 | [NikolaiRadke.arduinoplus](https://marketplace.visualstudio.com/items?itemName=NikolaiRadke.arduinoplus) | Arduino+ | 1.1.1 | Essential IDE helpers for Arduino development |
+| 2026-11-18 15:01:49 | [SmallStepsStudio.zpl-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.zpl-atlas) | ZPL Atlas | 0.1.0 | ZPL label files: labels, text fields, structure check. Pro: barcode check with… |
+| 2026-11-18 15:02:54 | [xardiant.strata-copilot-chat](https://marketplace.visualstudio.com/items?itemName=xardiant.strata-copilot-chat) | Strata for Copilot Chat | 0.2.1 | Strata for Copilot Chat: run Strata local OpenAI-compatible models in GitHub Co… |
+| 2026-11-18 15:04:05 | [lsiq-software.agentboard](https://marketplace.visualstudio.com/items?itemName=lsiq-software.agentboard) | AgentBoard - Claude Code & Codex Sessio… | 1.0.0 | All your Claude Code and Codex sessions in one dashboard: project, prompt, mode… |
+| 2026-11-18 15:05:58 | [lsiq-software.keydock](https://marketplace.visualstudio.com/items?itemName=lsiq-software.keydock) | KeyDock - Redis & MongoDB Client with S… | 1.1.0 | Fast Redis and MongoDB client for VS Code. ACL, TLS, SCAN key browser, type-awa… |
+| 2026-11-18 15:13:11 | [vaclav-stach.bitbucket-dc-pr](https://marketplace.visualstudio.com/items?itemName=vaclav-stach.bitbucket-dc-pr) | Bitbucket Data Center Comments | 0.3.1 | View, create and edit pull request comments (inline and general) for Bitbucket… |
 
 ## Data source
 
