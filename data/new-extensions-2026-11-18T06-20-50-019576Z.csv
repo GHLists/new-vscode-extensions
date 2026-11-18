@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T05:18:19.347Z,msmckimgpt-tech.usage-atlas,msmckimgpt-tech,Usage Atlas,0.3.9,"Codex, Claude Code, Antigravity 사용량 기록과 계획"
+2026-11-18T05:23:17.553Z,jazzykid.ile-oyo-theme,jazzykid,Ilé-Ọ̀yọ́ Theme,0.1.1,"Home of Ọ̀yọ́: a color theme woven from aṣọ-òkè, with Alẹ́ (dark) and Ọ̀sán (light) variants."
+2026-11-18T05:27:05.063Z,uday0508.devsync-sitecoreai,uday0508,DevSync for SitecoreAI,0.2.6,"Pull SitecoreAI cloud content into your local Docker CM, with every template, rendering, datasource and media item it depends on."
+2026-11-18T05:31:42.04Z,codenameryuu.laravel-blade-all-in-one,codenameryuu,Laravel Blade All-in-one,1.1.0,"All-in-one Laravel Blade pack: format, highlight, spacer, snippets (Blade + Model::), path/middleware navigation, and IntelliSense"
+2026-11-18T05:40:13.047Z,builtbyvijay.neubrut,builtbyvijay,NeuBrut,0.1.0,Bold neo-brutalist color themes for Visual Studio Code.
+2026-11-18T05:50:54.307Z,metalabs.metalabs,metalabs,MetaLabs — задания и подсказки,0.2.1,"Задания курса MetaLabs по ключу со слайда, подсказки по-русски прямо в коде и проверка по шагам."
+2026-11-18T05:55:39.29Z,mryu888-plus.research-blog,mryu888-plus,Research Blog Language Tools,0.3.0,研究博客写作与文献管理：Zotero、PDF 批注笔记、引用排版、系列、双链和 Typst。
+2026-11-18T05:55:45.113Z,mryu888-plus.research-notes-theme,mryu888-plus,Research Notes · 研究手记,0.1.0,"A quiet graphite and warm paper color theme, with terracotta accents from the 研究手记 research blog."
+2026-11-18T05:56:18.267Z,mdfahadzulfiqar.fz-pikonox-com,mdfahadzulfiqar,FZ-Craft Code: AI Coding Agent,0.4.0,"FZ-Craft Code — an agentic AI coding assistant for VS Code. Works out of the box with FZ-Craft and any other OpenAI-compatible API (OpenAI, OpenRouter, Gemini, DeepSeek, Groq, Ollama, LM Studio…)."
+2026-11-18T06:02:50.43Z,TavisBohne.vscwclang,TavisBohne,vscwClang,0.0.1,"Build, run and debug C and C++ with Clang in VS Code for the Web, entirely in your browser. Nothing to install."
+2026-11-18T06:09:47.303Z,TabishAliMughal.Entity-SVNWorkflow,TabishAliMughal,Entity-SVNWorkflow,0.1.0,"SVN workflows for VS Code using TortoiseSVN's svn.exe: override update/commit, blame, history and partial pull."
