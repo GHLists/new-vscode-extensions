@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T15:14:08.68Z,Aurumjin.dsh-vscode-extension,Aurumjin,DeepSeek Harness Sidebar Embed,0.3.0,把 DeepSeek Harness (dsh) 嵌入 VS Code 右侧（辅助）边栏：工作区可复用当前打开的文件夹或新建文件夹，会话与 dsh web 实时同步。
+2026-11-18T15:18:03.813Z,lsiq-software.sd-infrapilot,lsiq-software,InfraPilot - Terraform/OpenTofu Plan Viewer & Ansible Vault,1.0.1,"Run Terraform and OpenTofu plans as a clear color-coded list, and open Ansible Vault files without leaving the editor. Free tier included; Pro unlocks attribute diffs, apply, state browser and in-place vault editing."
+2026-11-18T15:36:35.783Z,GreedConn.greedcon,GreedConn,Greedcon,1.0.0,"Professional API testing and development platform for VS Code. Build, send and inspect HTTP requests, manage collections, environments and automated tests — all locally."
+2026-11-18T15:51:51.59Z,mercurykd.githelm,mercurykd,Git Helm,0.0.1,"Keyboard-driven git client for VS Code: status buffer, log graph, staging, diffs, stash, rebase and worktrees — GitSavvy-style, one screen per task."
+2026-11-18T16:02:33.427Z,vendayx.mini-pomodoro,vendayx,Mini Pomodoro,0.0.1,"A visible Pomodoro countdown in the VS Code status bar, with start and pause controls."
+2026-11-18T16:08:23.573Z,datifique.datifique,datifique,Datifique,0.1.0,"A Nuvem da Datifique no editor: os arquivos do projeto, o que chegou do celular, e a IA que organiza."
+2026-11-18T16:09:49.05Z,linkrjr.buildkite-pipeline-explorer,linkrjr,Buildkite Pipeline Explorer,1.0.0,Securely browse and trigger authorized Buildkite pipelines.
+2026-11-18T16:10:37.527Z,Boopathi08.port-manager-dashboard,Boopathi08,Port Manager Dashboard,0.2.0,"Live sidebar of listening ports: what holds each one, its CPU and memory, and one-click Stop. Click an EADDRINUSE error in the terminal to free its port."

@@ -12,26 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 15:19 UTC
+## Latest list — 2026-11-18 16:20 UTC
 
-New extensions published between 2026-11-18 13:19 UTC and 2026-11-18 15:19 UTC.
+New extensions published between 2026-11-18 14:20 UTC and 2026-11-18 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T15-19-34-168763Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T16-20-20-091044Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 14:22:00 | [AndreaButtarelli.feega](https://marketplace.visualstudio.com/items?itemName=AndreaButtarelli.feega) | Feega | 0.1.3 | Open .feega canvases in your editor: motion video, UI and graphic design that y… |
-| 2026-11-18 14:28:10 | [armanossiloko.repo-visibility](https://marketplace.visualstudio.com/items?itemName=armanossiloko.repo-visibility) | Repo Visibility | 0.3.0 | Hide and show Git repositories in the Source Control view with one click. Made… |
-| 2026-11-18 14:44:00 | [martincodes.nestline](https://marketplace.visualstudio.com/items?itemName=martincodes.nestline) | Nestline — Native Outliner | 0.1.1 | Turn .outline files into a keyboard-first outliner with nested bullets, tasks,… |
-| 2026-11-18 14:44:20 | [DavidCastagnaro.esforco-claude](https://marketplace.visualstudio.com/items?itemName=DavidCastagnaro.esforco-claude) | Esforço Claude | 0.1.2 | Veja com que nível de esforço o Claude Code respondeu e quantos tokens cada res… |
-| 2026-11-18 14:48:23 | [alialp.reading-modes](https://marketplace.visualstudio.com/items?itemName=alialp.reading-modes) | Reading Modes | 0.1.0 | Dyslexia, autism and ADHD reading modes for the editor, Markdown preview and te… |
-| 2026-11-18 14:52:17 | [veddy1674.convey](https://marketplace.visualstudio.com/items?itemName=veddy1674.convey) | Convey | 1.0.0 | Interactive 2D Convolution Visualizer: kernel_size, stride, padding and dilatio… |
-| 2026-11-18 14:54:09 | [NikolaiRadke.arduinoplus](https://marketplace.visualstudio.com/items?itemName=NikolaiRadke.arduinoplus) | Arduino+ | 1.1.1 | Essential IDE helpers for Arduino development |
-| 2026-11-18 15:01:49 | [SmallStepsStudio.zpl-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.zpl-atlas) | ZPL Atlas | 0.1.0 | ZPL label files: labels, text fields, structure check. Pro: barcode check with… |
-| 2026-11-18 15:02:54 | [xardiant.strata-copilot-chat](https://marketplace.visualstudio.com/items?itemName=xardiant.strata-copilot-chat) | Strata for Copilot Chat | 0.2.1 | Strata for Copilot Chat: run Strata local OpenAI-compatible models in GitHub Co… |
-| 2026-11-18 15:04:05 | [lsiq-software.agentboard](https://marketplace.visualstudio.com/items?itemName=lsiq-software.agentboard) | AgentBoard - Claude Code & Codex Sessio… | 1.0.0 | All your Claude Code and Codex sessions in one dashboard: project, prompt, mode… |
-| 2026-11-18 15:05:58 | [lsiq-software.keydock](https://marketplace.visualstudio.com/items?itemName=lsiq-software.keydock) | KeyDock - Redis & MongoDB Client with S… | 1.1.0 | Fast Redis and MongoDB client for VS Code. ACL, TLS, SCAN key browser, type-awa… |
-| 2026-11-18 15:13:11 | [vaclav-stach.bitbucket-dc-pr](https://marketplace.visualstudio.com/items?itemName=vaclav-stach.bitbucket-dc-pr) | Bitbucket Data Center Comments | 0.3.1 | View, create and edit pull request comments (inline and general) for Bitbucket… |
+| 2026-11-18 15:14:08 | [Aurumjin.dsh-vscode-extension](https://marketplace.visualstudio.com/items?itemName=Aurumjin.dsh-vscode-extension) | DeepSeek Harness Sidebar Embed | 0.3.0 | 把 DeepSeek Harness (dsh) 嵌入 VS Code 右侧（辅助）边栏：工作区可复用当前打开的文件夹或新建文件夹，会话与 dsh web 实… |
+| 2026-11-18 15:18:03 | [lsiq-software.sd-infrapilot](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-infrapilot) | InfraPilot - Terraform/OpenTofu Plan Vi… | 1.0.1 | Run Terraform and OpenTofu plans as a clear color-coded list, and open Ansible… |
+| 2026-11-18 15:36:35 | [GreedConn.greedcon](https://marketplace.visualstudio.com/items?itemName=GreedConn.greedcon) | Greedcon | 1.0.0 | Professional API testing and development platform for VS Code. Build, send and… |
+| 2026-11-18 15:51:51 | [mercurykd.githelm](https://marketplace.visualstudio.com/items?itemName=mercurykd.githelm) | Git Helm | 0.0.1 | Keyboard-driven git client for VS Code: status buffer, log graph, staging, diff… |
+| 2026-11-18 16:02:33 | [vendayx.mini-pomodoro](https://marketplace.visualstudio.com/items?itemName=vendayx.mini-pomodoro) | Mini Pomodoro | 0.0.1 | A visible Pomodoro countdown in the VS Code status bar, with start and pause co… |
+| 2026-11-18 16:08:23 | [datifique.datifique](https://marketplace.visualstudio.com/items?itemName=datifique.datifique) | Datifique | 0.1.0 | A Nuvem da Datifique no editor: os arquivos do projeto, o que chegou do celular… |
+| 2026-11-18 16:09:49 | [linkrjr.buildkite-pipeline-explorer](https://marketplace.visualstudio.com/items?itemName=linkrjr.buildkite-pipeline-explorer) | Buildkite Pipeline Explorer | 1.0.0 | Securely browse and trigger authorized Buildkite pipelines. |
+| 2026-11-18 16:10:37 | [Boopathi08.port-manager-dashboard](https://marketplace.visualstudio.com/items?itemName=Boopathi08.port-manager-dashboard) | Port Manager Dashboard | 0.2.0 | Live sidebar of listening ports: what holds each one, its CPU and memory, and o… |
 
 ## Data source
 
