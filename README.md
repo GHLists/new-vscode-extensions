@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 06:20 UTC
+## Latest list — 2026-11-18 07:21 UTC
 
-New extensions published between 2026-11-18 04:20 UTC and 2026-11-18 06:20 UTC.
+New extensions published between 2026-11-18 05:21 UTC and 2026-11-18 07:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T06-20-50-019576Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T07-21-31-686846Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 05:18:19 | [msmckimgpt-tech.usage-atlas](https://marketplace.visualstudio.com/items?itemName=msmckimgpt-tech.usage-atlas) | Usage Atlas | 0.3.9 | Codex, Claude Code, Antigravity 사용량 기록과 계획 |
-| 2026-11-18 05:23:17 | [jazzykid.ile-oyo-theme](https://marketplace.visualstudio.com/items?itemName=jazzykid.ile-oyo-theme) | Ilé-Ọ̀yọ́ Theme | 0.1.1 | Home of Ọ̀yọ́: a color theme woven from aṣọ-òkè, with Alẹ́ (dark) and Ọ̀sán (li… |
-| 2026-11-18 05:27:05 | [uday0508.devsync-sitecoreai](https://marketplace.visualstudio.com/items?itemName=uday0508.devsync-sitecoreai) | DevSync for SitecoreAI | 0.2.6 | Pull SitecoreAI cloud content into your local Docker CM, with every template, r… |
-| 2026-11-18 05:31:42 | [codenameryuu.laravel-blade-all-in-one](https://marketplace.visualstudio.com/items?itemName=codenameryuu.laravel-blade-all-in-one) | Laravel Blade All-in-one | 1.1.0 | All-in-one Laravel Blade pack: format, highlight, spacer, snippets (Blade + Mod… |
-| 2026-11-18 05:40:13 | [builtbyvijay.neubrut](https://marketplace.visualstudio.com/items?itemName=builtbyvijay.neubrut) | NeuBrut | 0.1.0 | Bold neo-brutalist color themes for Visual Studio Code. |
-| 2026-11-18 05:50:54 | [metalabs.metalabs](https://marketplace.visualstudio.com/items?itemName=metalabs.metalabs) | MetaLabs — задания и подсказки | 0.2.1 | Задания курса MetaLabs по ключу со слайда, подсказки по-русски прямо в коде и п… |
-| 2026-11-18 05:55:39 | [mryu888-plus.research-blog](https://marketplace.visualstudio.com/items?itemName=mryu888-plus.research-blog) | Research Blog Language Tools | 0.3.0 | 研究博客写作与文献管理：Zotero、PDF 批注笔记、引用排版、系列、双链和 Typst。 |
-| 2026-11-18 05:55:45 | [mryu888-plus.research-notes-theme](https://marketplace.visualstudio.com/items?itemName=mryu888-plus.research-notes-theme) | Research Notes · 研究手记 | 0.1.0 | A quiet graphite and warm paper color theme, with terracotta accents from the 研… |
-| 2026-11-18 05:56:18 | [mdfahadzulfiqar.fz-pikonox-com](https://marketplace.visualstudio.com/items?itemName=mdfahadzulfiqar.fz-pikonox-com) | FZ-Craft Code: AI Coding Agent | 0.4.0 | FZ-Craft Code — an agentic AI coding assistant for VS Code. Works out of the bo… |
-| 2026-11-18 06:02:50 | [TavisBohne.vscwclang](https://marketplace.visualstudio.com/items?itemName=TavisBohne.vscwclang) | vscwClang | 0.0.1 | Build, run and debug C and C++ with Clang in VS Code for the Web, entirely in y… |
-| 2026-11-18 06:09:47 | [TabishAliMughal.Entity-SVNWorkflow](https://marketplace.visualstudio.com/items?itemName=TabishAliMughal.Entity-SVNWorkflow) | Entity-SVNWorkflow | 0.1.0 | SVN workflows for VS Code using TortoiseSVN's svn.exe: override update/commit,… |
+| 2026-11-18 06:24:40 | [redoral.kanagawa-dragon-theme](https://marketplace.visualstudio.com/items?itemName=redoral.kanagawa-dragon-theme) | Kanagawa Dragon Theme | 0.1.0 | A dark, muted VS Code port of the "dragon" variant of kanagawa.nvim by rebelot. |
+| 2026-11-18 06:38:06 | [AshtonShears.ash-vscode-tools](https://marketplace.visualstudio.com/items?itemName=AshtonShears.ash-vscode-tools) | Ash VS Code Tools | 0.1.1 | Read PDFs in VS Code and give Copilot passages with page numbers. |
+| 2026-11-18 06:44:09 | [rewindagents.rewindagents](https://marketplace.visualstudio.com/items?itemName=rewindagents.rewindagents) | rewindagents | 1.1.0 | Undo for AI coding agents in your editor: a per-step timeline of what the agent… |
+| 2026-11-18 07:03:14 | [YangHui.dsh-native](https://marketplace.visualstudio.com/items?itemName=YangHui.dsh-native) | Vscode-Native-DSH | 0.1.0 | A native DeepSeek Harness chat panel for VS Code - workspace chats, streaming M… |
+| 2026-11-18 07:07:37 | [Buger.nuaa-oj-vscode-web](https://marketplace.visualstudio.com/items?itemName=Buger.nuaa-oj-vscode-web) | NUAA OJ Web Client | 0.1.7 | NUAA OJ 的 VS Code for the Web 版本：云端测试、云端提交，代码与界面复用桌面版。 |
+| 2026-11-18 07:08:30 | [Florian-Noever.al-workspace-focus](https://marketplace.visualstudio.com/items?itemName=Florian-Noever.al-workspace-focus) | AL Workspace Focus | 1.0.0 | Focus an AL workspace on selected apps, their local dependencies and optional m… |
+| 2026-11-18 07:09:15 | [LemuelAdane.a-java-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.a-java-formatter) | A Java Formatter | 0.9.11 | Enterprise-grade Java code formatting extension for Visual Studio Code, inspire… |
 
 ## Data source
 

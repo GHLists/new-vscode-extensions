@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T06:24:40.933Z,redoral.kanagawa-dragon-theme,redoral,Kanagawa Dragon Theme,0.1.0,"A dark, muted VS Code port of the ""dragon"" variant of kanagawa.nvim by rebelot."
+2026-11-18T06:38:06.883Z,AshtonShears.ash-vscode-tools,AshtonShears,Ash VS Code Tools,0.1.1,Read PDFs in VS Code and give Copilot passages with page numbers.
+2026-11-18T06:44:09.273Z,rewindagents.rewindagents,rewindagents,rewindagents,1.1.0,"Undo for AI coding agents in your editor: a per-step timeline of what the agent did, each step's diff, preview rewind and rewind to here. Uses the rewindagents CLI."
+2026-11-18T07:03:14.827Z,YangHui.dsh-native,YangHui,Vscode-Native-DSH,0.1.0,"A native DeepSeek Harness chat panel for VS Code - workspace chats, streaming Markdown, models, permissions, approvals, file changes and token statistics."
+2026-11-18T07:07:37.227Z,Buger.nuaa-oj-vscode-web,Buger,NUAA OJ Web Client,0.1.7,NUAA OJ 的 VS Code for the Web 版本：云端测试、云端提交，代码与界面复用桌面版。
+2026-11-18T07:08:30.593Z,Florian-Noever.al-workspace-focus,Florian-Noever,AL Workspace Focus,1.0.0,"Focus an AL workspace on selected apps, their local dependencies and optional matching tests without changing the original workspace."
+2026-11-18T07:09:15.273Z,LemuelAdane.a-java-formatter,LemuelAdane,A Java Formatter,0.9.11,"Enterprise-grade Java code formatting extension for Visual Studio Code, inspired by Language Support for Java(TM) by Red Hat."
