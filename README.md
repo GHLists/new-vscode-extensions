@@ -12,23 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 11:20 UTC
+## Latest list — 2026-11-18 12:21 UTC
 
-New extensions published between 2026-11-18 09:20 UTC and 2026-11-18 11:20 UTC.
+New extensions published between 2026-11-18 10:21 UTC and 2026-11-18 12:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T11-20-21-512831Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T12-21-56-133418Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 10:18:41 | [fatcorn753.image-list-view](https://marketplace.visualstudio.com/items?itemName=fatcorn753.image-list-view) | Image List View | 0.4.0 | Show only the images you pick, side by side in one tab, vertically or horizonta… |
-| 2026-11-18 10:28:23 | [nocthost.nocthost](https://marketplace.visualstudio.com/items?itemName=nocthost.nocthost) | NoctHost | 0.1.0 | See and manage your NoctHost cloud servers (Hetzner, Vultr, DigitalOcean, Linod… |
-| 2026-11-18 10:29:45 | [NTHU115062401.agent-orbit-lens](https://marketplace.visualstudio.com/items?itemName=NTHU115062401.agent-orbit-lens) | Agent Orbit Lens | 0.4.12 | 唯讀本機代理觀測：共用畫布顯示 VS Code 與 Claude Desktop Code，保留來源區分。零模型呼叫。 |
-| 2026-11-18 10:32:27 | [RenesasElectronicsCorporation.renesas-fsp-ui-smart-configurator](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-fsp-ui-smart-configurator) | Renesas FSP Smart Configurator | 2.40.0 | The Smart Configurator allows graphical configuration of Renesas FSP projects. |
-| 2026-11-18 10:34:27 | [carlosmorcillo.vikunja-tasks](https://marketplace.visualstudio.com/items?itemName=carlosmorcillo.vikunja-tasks) | Vikunja Tasks | 0.2.5 | Manage tasks on your Vikunja server from the VS Code sidebar. |
-| 2026-11-18 10:43:30 | [hopeunfilteredd.claude-context-sidebar](https://marketplace.visualstudio.com/items?itemName=hopeunfilteredd.claude-context-sidebar) | Claude Context Sidebar | 0.1.1 | A list of every Claude Code chat's context window, right inside the Claude Code… |
-| 2026-11-18 10:44:40 | [mavvynet.codex-editor-tab](https://marketplace.visualstudio.com/items?itemName=mavvynet.codex-editor-tab) | Codex Editor Tab | 0.2.0 | Open a new official Codex chat in its own VS Code editor tab. |
-| 2026-11-18 11:05:53 | [quantology.modelmaker](https://marketplace.visualstudio.com/items?itemName=quantology.modelmaker) | Model-Maker | 0.3.0 | Visual pipeline builder for financial model development: the Model-Maker canvas… |
-| 2026-11-18 11:07:13 | [meir-arad.hebrew-agent-cockpit](https://marketplace.visualstudio.com/items?itemName=meir-arad.hebrew-agent-cockpit) | קוקפיט · Hebrew Agent Cockpit | 0.16.4 | כל סוכני הקוד בחלון אחד, בעברית: Claude Code, ‏Codex, ‏Grok ו־Antigravity, במנו… |
+| 2026-11-18 11:19:18 | [SmallStepsStudio.unit-file-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.unit-file-atlas) | Unit File Atlas | 0.1.0 | systemd unit files (.service, .timer, .socket): overview, syntax and value chec… |
+| 2026-11-18 11:19:52 | [haps02.lazy-extension](https://marketplace.visualstudio.com/items?itemName=haps02.lazy-extension) | Project Lazy | 0.1.1 | Drive a Codex or Kilo Code session from your phone, end-to-end encrypted. |
+| 2026-11-18 11:37:45 | [Zurisen.wpf-xaml-ls](https://marketplace.visualstudio.com/items?itemName=Zurisen.wpf-xaml-ls) | WPF XAML Language Server | 0.1.0 | Completion, diagnostics, quick fixes, hover and go to definition for WPF XAML,… |
+| 2026-11-18 11:50:23 | [SmallStepsStudio.sbom-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.sbom-atlas) | SBOM Atlas | 0.1.0 | SBOM files (CycloneDX and SPDX JSON): summary, components, duplicate versions.… |
+| 2026-11-18 11:51:26 | [moscait.pr-this](https://marketplace.visualstudio.com/items?itemName=moscait.pr-this) | PR This — AI Change Lens | 0.1.0 | Understand any commit, branch comparison, or working change at a glance. Zoom f… |
+| 2026-11-18 11:55:51 | [LanceFeldman.galley-dark](https://marketplace.visualstudio.com/items?itemName=LanceFeldman.galley-dark) | Galley Dark | 0.2.1 | Clean, legible dark and light themes designed for Atkinson Hyperlegible Mono. |
+| 2026-11-18 12:00:34 | [ZhenRGuo.tex-hover-docs](https://marketplace.visualstudio.com/items?itemName=ZhenRGuo.tex-hover-docs) | TeX Hover Docs | 0.1.0 | Show hover documentation for custom LaTeX classes, Beamer themes, and options d… |
+| 2026-11-18 12:02:41 | [SmallStepsStudio.sarif-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.sarif-atlas) | SARIF Atlas | 0.1.0 | SARIF files from code scanners and linters: summary, results by file, top rules… |
+| 2026-11-18 12:06:39 | [browsedown.browsedown](https://marketplace.visualstudio.com/items?itemName=browsedown.browsedown) | Browsedown | 1.0.0 | Open a Markdown folder or file from VS Code and read it in your browser with Gi… |
+| 2026-11-18 12:16:15 | [ric3.weihnachten-theme](https://marketplace.visualstudio.com/items?itemName=ric3.weihnachten-theme) | Weihnachten Theme 🎄 | 1.0.0 | Three cozy Christmas color themes: Tannengrün (dark), Schnee (light) and Lebkuc… |
 
 ## Data source
 

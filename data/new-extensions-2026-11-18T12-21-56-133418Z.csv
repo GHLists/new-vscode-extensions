@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T11:19:18.183Z,SmallStepsStudio.unit-file-atlas,SmallStepsStudio,Unit File Atlas,0.1.0,"systemd unit files (.service, .timer, .socket): overview, syntax and value checks. Pro: hardening checklist and reliability review. Works offline."
+2026-11-18T11:19:52.657Z,haps02.lazy-extension,haps02,Project Lazy,0.1.1,"Drive a Codex or Kilo Code session from your phone, end-to-end encrypted."
+2026-11-18T11:37:45.33Z,Zurisen.wpf-xaml-ls,Zurisen,WPF XAML Language Server,0.1.0,"Completion, diagnostics, quick fixes, hover and go to definition for WPF XAML, with your project's types, resources and bindings."
+2026-11-18T11:50:23.707Z,SmallStepsStudio.sbom-atlas,SmallStepsStudio,SBOM Atlas,0.1.0,"SBOM files (CycloneDX and SPDX JSON): summary, components, duplicate versions. Pro: license risk review and NTIA minimum elements check. Works offline."
+2026-11-18T11:51:26.163Z,moscait.pr-this,moscait,PR This — AI Change Lens,0.1.0,"Understand any commit, branch comparison, or working change at a glance. Zoom from a one-line intent down to line-level explanations, powered by local or cloud AI."
+2026-11-18T11:55:51.027Z,LanceFeldman.galley-dark,LanceFeldman,Galley Dark,0.2.1,"Clean, legible dark and light themes designed for Atkinson Hyperlegible Mono."
+2026-11-18T12:00:34.377Z,ZhenRGuo.tex-hover-docs,ZhenRGuo,TeX Hover Docs,0.1.0,"Show hover documentation for custom LaTeX classes, Beamer themes, and options documented in .cls and .sty files."
+2026-11-18T12:02:41.35Z,SmallStepsStudio.sarif-atlas,SmallStepsStudio,SARIF Atlas,0.1.0,"SARIF files from code scanners and linters: summary, results by file, top rules. Pro: new results against a baseline and a suppression audit. Works offline."
+2026-11-18T12:06:39.83Z,browsedown.browsedown,browsedown,Browsedown,1.0.0,Open a Markdown folder or file from VS Code and read it in your browser with GitHub-style rendering and working navigation.
+2026-11-18T12:16:15.2Z,ric3.weihnachten-theme,ric3,Weihnachten Theme 🎄,1.0.0,"Three cozy Christmas color themes: Tannengrün (dark), Schnee (light) and Lebkuchen (warm dark)."
