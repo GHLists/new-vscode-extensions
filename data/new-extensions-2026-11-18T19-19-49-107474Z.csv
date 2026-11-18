@@ -1,0 +1,17 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T18:13:25.313Z,HMCTS.dtsse-jenkins,HMCTS,HMCTS Jenkins,0.1.23,"Watch HMCTS CFT Jenkins pipelines by team, get alerts when your pull request builds finish, and investigate failures with Claude."
+2026-11-18T18:15:45.73Z,fluorinestudios.tablinks-vscode,fluorinestudios,TabLinks,0.1.1,"Shows links between your open tabs, such as interface to implementation, and jumps to the exact place."
+2026-11-18T18:30:56.337Z,kashif.kashif,kashif,Kashif (كاشِف) — Security Scanner,1.3.0,"Static application security testing in the editor: type-aware, cross-file taint analysis for 12 languages, powered by the open-source Kashif (vulnscan) language server."
+2026-11-18T18:31:09.13Z,bitno.bitno-bash,bitno,Language Server for Bash by Bitno,2026.11.10,"A lightweight, fast Bash language server for VS Code"
+2026-11-18T18:35:23.447Z,OseeLabs.jnl-syntax,OseeLabs,Journal (.jnl) Syntax,0.1.0,Lightweight syntax highlighting and folding for compact .jnl files
+2026-11-18T18:42:32.5Z,PumasAI.document-review,PumasAI,Document Review,0.1.0,"View PDF, Word and HTML reports in VS Code, and comment on them for a colleague or an AI agent to act on."
+2026-11-18T18:45:01.867Z,GCSBOSS.vscode-php-typedef,GCSBOSS,PHP Typedef,0.1.0,"Global JSDoc-style @typedef for PHPDoc, with autocomplete, hover and go-to-definition. No class required."
+2026-11-18T18:46:44.597Z,bitno.bitno-convert,bitno,Convert by Bitno,2026.11.6,"Quick conversions on the selection from one menu: Base64, URL, JWT, JSON and YAML, timestamps, case, lines and UUIDs"
+2026-11-18T18:50:15.593Z,bharatcode.bharatcode-agent,bharatcode,BharatCode Agent,7.8.113,"The VS Code extension for BharatCode (bharatcode.ai). Sign in and the agent runs - the provider, endpoint and models are configured for you, so there is nothing to set up by hand."
+2026-11-18T18:51:02.533Z,bitno.bitno-editorconfig,bitno,EditorConfig by Bitno,2026.11.7,"A lightweight EditorConfig for VS Code: applies .editorconfig to every file, and checks and completes .editorconfig files"
+2026-11-18T18:52:31.907Z,bitno.bitno-workbench,bitno,Workbench for Git by Bitno,2026.11.10,"A lightweight, fast Git log with a graph, branches and tags, checkout, cherry-pick and revert, a commit window, stashes, worktrees, conflict resolution and blame"
+2026-11-18T18:53:12.28Z,bitno.bitno-maven,bitno,Language Server for Maven by Bitno,2026.11.9,"A lightweight, fast Maven language server for VS Code"
+2026-11-18T18:53:44.583Z,bitno.bitno-paths,bitno,Paths by Bitno,2026.11.7,"A lightweight, fast path completion for VS Code"
+2026-11-18T18:54:12.613Z,bitno.bitno-services,bitno,"Services for Docker, Kubernetes, Kafka, Postgres, Redis and MongoDB by Bitno",2026.11.21,"A lightweight, fast Services panel for Docker, Kubernetes, Postgres, Cassandra, Kafka, Redis, MongoDB, Elasticsearch logs, S3 buckets and SSH hosts, and editing of SQL, CQL, SQL++, Redis, MongoDB, Cypher, PartiQL and PromQL files"
+2026-11-18T18:59:30.793Z,HumanOrigin.humanorigin-vscode,HumanOrigin,HumanOrigin pour VS Code (aperçu),0.1.3,"Observe, à votre demande, les modifications d'un document et produit une preuve vérifiable sur verify.humanorigin.io. N'atteste ni frappe humaine, ni absence d'IA, ni origine du texte. macOS seulement."
+2026-11-18T19:05:01.313Z,robertorvbj.columbina-omarchy,robertorvbj,Columbina Omarchy,1.0.0,"Dark and light themes in the moonlit periwinkle colors of Columbina (Genshin Impact). Unofficial, fan-made, generated from an Omarchy theme."
