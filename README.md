@@ -12,18 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 03:20 UTC
+## Latest list — 2026-11-18 04:21 UTC
 
-New extensions published between 2026-11-18 01:20 UTC and 2026-11-18 03:20 UTC.
+New extensions published between 2026-11-18 02:21 UTC and 2026-11-18 04:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T03-20-15-946613Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T04-21-09-13094Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 02:23:42 | [r0851.svelte-hilight-blocks](https://marketplace.visualstudio.com/items?itemName=r0851.svelte-hilight-blocks) | Svelte Hilight Blocks | 0.1.3 | hilight Svelte script and style blocks with customizable background colors |
-| 2026-11-18 02:25:11 | [passhu.git-vanity](https://marketplace.visualstudio.com/items?itemName=passhu.git-vanity) | Git Goro | 1.0.0 | Mine beautiful Git commit hashes from the Source Control view. Proof of Work, b… |
-| 2026-11-18 02:54:21 | [shuying2244.erlang-lsx](https://marketplace.visualstudio.com/items?itemName=shuying2244.erlang-lsx) | Erlang Ls Fork | 0.0.47 | Erlang Ls Fork：原 Erlang LS 停止维护后继续更新的独立 Erlang 语言插件 |
-| 2026-11-18 02:57:23 | [beaconhop.beaconhop-tabs](https://marketplace.visualstudio.com/items?itemName=beaconhop.beaconhop-tabs) | BeaconHop Tabs | 0.2.1 | Expose editor tabs in the focused VS Code window to BeaconHop. |
+| 2026-11-18 03:31:39 | [Pro-qing.dual-mind](https://marketplace.visualstudio.com/items?itemName=Pro-qing.dual-mind) | DualMind | 0.0.1 | A local Worker/Reviewer workbench with tasks, connection settings and bilingual… |
+| 2026-11-18 03:48:06 | [tekateyy.plugin-eco](https://marketplace.visualstudio.com/items?itemName=tekateyy.plugin-eco) | Plugin Eco — Green Coding | 0.4.0 | Analyse statique de la consommation énergétique du code Java, JavaScript, TypeS… |
+| 2026-11-18 03:56:36 | [lucqa-it.gh-actions-form-preview](https://marketplace.visualstudio.com/items?itemName=lucqa-it.gh-actions-form-preview) | GitHub Actions Form Preview | 0.2.0 | Live preview of the GitHub Actions "Run workflow" form (workflow_dispatch / wor… |
+| 2026-11-18 03:58:15 | [orgcw01.context-hub-vscode](https://marketplace.visualstudio.com/items?itemName=orgcw01.context-hub-vscode) | 上下文枢纽 Context Hub | 1.0.0 | IDE 与 AI 编码 Agent 之间的上下文中间件：捕获、压缩、续接与输出整理，决定给 Agent 看什么、以什么密度看。 |
+| 2026-11-18 04:01:55 | [PirapaakaranPirathapan.changelogcraft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.changelogcraft-pro) | ChangelogCraft: Automated Git Changelog… | 0.1.0 | Scan Git commit history, automatically categorize Conventional Commits into Kee… |
+| 2026-11-18 04:02:03 | [PirapaakaranPirathapan.codeccraft-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.codeccraft-pro) | CodecCraft: Base64, URL, Hash & Case En… | 0.1.0 | 100% offline Base64, URL, HTML Entity, SHA-256/MD5/SHA-512 hash, UUID v4, and s… |
+| 2026-11-18 04:02:11 | [PirapaakaranPirathapan.sqlcraft-studio-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.sqlcraft-studio-pro) | SQLCraft: SQL Formatter, Query Linter &… | 0.1.0 | Instant SQL beautifier, minifier, dangerous query safety linter (flags DELETE/U… |
+| 2026-11-18 04:02:19 | [PirapaakaranPirathapan.svglens-studio-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.svglens-studio-pro) | SVGLens: Live SVG Previewer, Optimizer… | 0.1.0 | Live SVG visual previewer with checkered/dark/light canvas, lossless SVG minifi… |
+| 2026-11-18 04:02:26 | [PirapaakaranPirathapan.typecraft-converter-pro](https://marketplace.visualstudio.com/items?itemName=PirapaakaranPirathapan.typecraft-converter-pro) | TypeCraft: JSON to TypeScript, Zod, Pyt… | 0.1.0 | Instant 1-click converter transforming any JSON payload (clipboard or selection… |
+| 2026-11-18 04:03:18 | [jss.local-comments-jss](https://marketplace.visualstudio.com/items?itemName=jss.local-comments-jss) | Local Comments (lc) | 0.2.0 | 個人用のローカルコメント（lcコメント）を作成できるVS Code拡張機能 |
+| 2026-11-18 04:11:43 | [dscorpsolutions.knowframe-vscode](https://marketplace.visualstudio.com/items?itemName=dscorpsolutions.knowframe-vscode) | KnowFrame - Knowledge Management Framew… | 1.0.3 | KnowFrame — Knowledge Management Framework: dynamic knowledge graph, determinis… |
 
 ## Data source
 
