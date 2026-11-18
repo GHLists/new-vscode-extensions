@@ -12,19 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 22:21 UTC
+## Latest list — 2026-11-18 23:21 UTC
 
-New extensions published between 2026-11-18 20:21 UTC and 2026-11-18 22:21 UTC.
+New extensions published between 2026-11-18 21:21 UTC and 2026-11-18 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T22-21-24-512948Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T23-21-58-129758Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 21:18:58 | [zorzenstudios.monovue](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.monovue) | MonoVue | 1.0.0 | See what a change breaks across your monorepo, and which instructions your AI a… |
-| 2026-11-18 21:21:14 | [alamdilshad87.codesense-codebase-explorer](https://marketplace.visualstudio.com/items?itemName=alamdilshad87.codesense-codebase-explorer) | CodeSense: Codebase Explorer | 0.1.1 | Understand any codebase: interactive dependency map, circular dependency detect… |
-| 2026-11-18 21:22:26 | [zorzenstudios.agent-watchdog](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.agent-watchdog) | Agent Watchdog | 1.0.0 | Checks the code your AI agent writes: invented packages and calls, broken team… |
-| 2026-11-18 21:36:02 | [seanahn.chirp](https://marketplace.visualstudio.com/items?itemName=seanahn.chirp) | chirp | 0.2.0 | Microsoft Teams chats and channels in a sidebar of their own, each conversation… |
-| 2026-11-18 22:01:11 | [9CEB31201BBBADA66A21FB104E6C5CEF.jenuine-jj](https://marketplace.visualstudio.com/items?itemName=9CEB31201BBBADA66A21FB104E6C5CEF.jenuine-jj) | Jenuine JJ | 1.0.0 | Jujutsu (jj) source control integration for VS Code with native SCM, inline dif… |
+| 2026-11-18 22:14:23 | [Caleb-J-Rhodenbaugh.power-platform-workbench](https://marketplace.visualstudio.com/items?itemName=Caleb-J-Rhodenbaugh.power-platform-workbench) | Power Platform Workbench | 0.62.0 | Inspect metadata, prepare exact component packages, verify deployments, and man… |
+| 2026-11-18 22:21:23 | [AaronAxvig.extremexos](https://marketplace.visualstudio.com/items?itemName=AaronAxvig.extremexos) | ExtremeXOS | 1.0.1 | Syntax highlighting for ExtremeXOS configuration files and Markdown code fences. |
+| 2026-11-18 22:27:27 | [RadwanAlmsora.vantawave-theme](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.vantawave-theme) | VantaWave — Visual Studio Code Theme | 1.0.0 | A carefully balanced, high-contrast editor theme with deep ink surfaces, electr… |
+| 2026-11-18 22:33:14 | [fahadmahmud2004.thirdnote](https://marketplace.visualstudio.com/items?itemName=fahadmahmud2004.thirdnote) | ThirdNote: Code Highlights, Notes, Boar… | 1.1.0 | The ThirdNote library, rich reader, board and flashcard review inside VS Code.… |
+| 2026-11-18 22:41:52 | [clanker-controller.ai-chat-panel](https://marketplace.visualstudio.com/items?itemName=clanker-controller.ai-chat-panel) | Clanker Controller | 0.1.0 | Unified Liquid Glass launcher for headless Claude Code, Codex, and Gemini 3.8 c… |
+| 2026-11-18 22:44:16 | [ti-development-tools.energy-trace-tool](https://marketplace.visualstudio.com/items?itemName=ti-development-tools.energy-trace-tool) | CCStudio EnergyTrace | 1.0.0 | A VS Code extension for measuring and visualizing energy consumption of embedde… |
+| 2026-11-18 22:45:45 | [gurdasss.blueprint-pbi](https://marketplace.visualstudio.com/items?itemName=gurdasss.blueprint-pbi) | Blueprint for Power BI | 0.1.0 | Build and check Power BI PBIP report pages from YAML specs, as MCP tools for Co… |
+| 2026-11-18 22:48:41 | [wilmervasquez.color-studio](https://marketplace.visualstudio.com/items?itemName=wilmervasquez.color-studio) | Color Studio | 0.1.0 | Color explorer, universal converter, palette generator and contrast analyzer fo… |
+| 2026-11-18 22:52:41 | [fahadmahmud2004.focuswaves](https://marketplace.visualstudio.com/items?itemName=fahadmahmud2004.focuswaves) | Focus Waves: Focus Timer and Live Natur… | 1.0.1 | Stay in flow while you code. A focus timer in the status bar and calm sounds ma… |
+| 2026-11-18 23:04:02 | [SirCesarium.hellcat-theme](https://marketplace.visualstudio.com/items?itemName=SirCesarium.hellcat-theme) | Hellcat | 1.0.0 | A charred theme for Visual Studio Code. |
+| 2026-11-18 23:06:40 | [skr0ls.slate-rose](https://marketplace.visualstudio.com/items?itemName=skr0ls.slate-rose) | Slate Rose | 0.3.0 | A dark color theme for the VS Code editor and workbench. |
 
 ## Data source
 

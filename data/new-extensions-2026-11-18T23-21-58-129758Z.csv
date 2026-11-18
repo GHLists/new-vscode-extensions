@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T22:14:23.237Z,Caleb-J-Rhodenbaugh.power-platform-workbench,Caleb-J-Rhodenbaugh,Power Platform Workbench,0.62.0,"Inspect metadata, prepare exact component packages, verify deployments, and manage developer change sets."
+2026-11-18T22:21:23.75Z,AaronAxvig.extremexos,AaronAxvig,ExtremeXOS,1.0.1,Syntax highlighting for ExtremeXOS configuration files and Markdown code fences.
+2026-11-18T22:27:27.93Z,RadwanAlmsora.vantawave-theme,RadwanAlmsora,VantaWave — Visual Studio Code Theme,1.0.0,"A carefully balanced, high-contrast editor theme with deep ink surfaces, electric cyan accents, and vivid syntax colors. Includes Dark and Light variants."
+2026-11-18T22:33:14.36Z,fahadmahmud2004.thirdnote,fahadmahmud2004,"ThirdNote: Code Highlights, Notes, Board and Review",1.1.0,"The ThirdNote library, rich reader, board and flashcard review inside VS Code. Highlight code in colours with notes that stay on their code, add images, and export to PDF or Markdown."
+2026-11-18T22:41:52.257Z,clanker-controller.ai-chat-panel,clanker-controller,Clanker Controller,0.1.0,"Unified Liquid Glass launcher for headless Claude Code, Codex, and Gemini 3.8 chat sessions, opened as movable floating windows alongside the File Explorer."
+2026-11-18T22:44:16.22Z,ti-development-tools.energy-trace-tool,ti-development-tools,CCStudio EnergyTrace,1.0.0,A VS Code extension for measuring and visualizing energy consumption of embedded targets that support Texas Instruments EnergyTrace technology.
+2026-11-18T22:45:45.68Z,gurdasss.blueprint-pbi,gurdasss,Blueprint for Power BI,0.1.0,"Build and check Power BI PBIP report pages from YAML specs, as MCP tools for Copilot. Bundles the Blueprint engine: no Python needed."
+2026-11-18T22:48:41.523Z,wilmervasquez.color-studio,wilmervasquez,Color Studio,0.1.0,"Color explorer, universal converter, palette generator and contrast analyzer for VS Code"
+2026-11-18T22:52:41.62Z,fahadmahmud2004.focuswaves,fahadmahmud2004,Focus Waves: Focus Timer and Live Nature Sounds for Coding,1.0.1,"Stay in flow while you code. A focus timer in the status bar and calm sounds made live while you listen: sea waves, rain, a fan, lofi, brown noise and a gentle focus pulse. Nothing loops."
+2026-11-18T23:04:02.967Z,SirCesarium.hellcat-theme,SirCesarium,Hellcat,1.0.0,A charred theme for Visual Studio Code.
+2026-11-18T23:06:40.273Z,skr0ls.slate-rose,skr0ls,Slate Rose,0.3.0,A dark color theme for the VS Code editor and workbench.
