@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T21:18:58.393Z,zorzenstudios.monovue,zorzenstudios,MonoVue,1.0.0,"See what a change breaks across your monorepo, and which instructions your AI agent receives, before you save."
+2026-11-18T21:21:14.293Z,alamdilshad87.codesense-codebase-explorer,alamdilshad87,CodeSense: Codebase Explorer,0.1.1,"Understand any codebase: interactive dependency map, circular dependency detection, and explanations for files and code."
+2026-11-18T21:22:26.68Z,zorzenstudios.agent-watchdog,zorzenstudios,Agent Watchdog,1.0.0,"Checks the code your AI agent writes: invented packages and calls, broken team rules and risky MCP servers. Every flag shows its source and reason."
+2026-11-18T21:36:02.467Z,seanahn.chirp,seanahn,chirp,0.2.0,"Microsoft Teams chats and channels in a sidebar of their own, each conversation an editor tab, with its text available to the AI agent beside it. Not affiliated with Microsoft."
+2026-11-18T22:01:11.207Z,9CEB31201BBBADA66A21FB104E6C5CEF.jenuine-jj,9CEB31201BBBADA66A21FB104E6C5CEF,Jenuine JJ,1.0.0,"Jujutsu (jj) source control integration for VS Code with native SCM, inline diffs, and an interactive commit graph."
