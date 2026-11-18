@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T16:16:14.98Z,woogajjangka.cool-icon-vscode,woogajjangka,Cool Icon,1.0.0,Atom Material Icons for Visual Studio Code (unofficial fork)
+2026-11-18T16:20:00.017Z,lsiq-software.sd-querydock,lsiq-software,QueryDock - Database Client,1.0.0,"Lightweight database client for VS Code. Browse schemas, run SQL, page results. Free: PostgreSQL, SQLite, H2-compatible HTTP, one connection, 500-row grid. Pro: MySQL/MariaDB, unlimited connections, 5000-row paging, CSV/JSON export, query favorites."
+2026-11-18T16:20:41.31Z,tau-lang.tau-lang,tau-lang,Tau Syntax Highlighter,0.0.1,Syntax highlighting support for the experimental Tau language.
+2026-11-18T16:21:18.203Z,JordanYoder.fm-clipboard-bridge,JordanYoder,FileMaker Clipboard Bridge,1.1.2,"Copy and paste FileMaker scripts, steps, custom functions and more between FileMaker Pro and VS Code as XML, with a readable Script Workspace-style view."
+2026-11-18T16:23:29.157Z,MaskenNetwork.atom-ui-colors,MaskenNetwork,Atom UI Colors,0.1.3,Keep VS Code's native UI icons and give them the Atom Material color palette. File icons stay independent.
+2026-11-18T16:33:01.42Z,emkay-voice.emkay-dev,emkay-voice,Emkay Dev,0.1.0,"Write an OpenVoiceOS skill and talk to it at once: Emkay runs next to your code, in VS Code – also in the browser (vscode.dev, github.dev)."
+2026-11-18T16:38:20.02Z,kevinhegg.askama-vscode,kevinhegg,Askama IntelliSense,1.0.0,"Highlighting, navigation and completion for Askama templates in Rust projects."
+2026-11-18T16:40:06.697Z,bigtoymarket.damnisitdown,bigtoymarket,Damn Is It Down,1.0.0,"See in your status bar when GitHub, npm, AWS, Vercel, OpenAI or any service you use is down. Confirmed outages only. No account, no tracking."
+2026-11-18T16:51:05.107Z,SmallStepsStudio.migration-atlas,SmallStepsStudio,Migration Atlas,0.1.0,"SQL migration files: summary, destructive operations, tables. Pro: PostgreSQL lock-risk review and a rollback plan. Works offline."
+2026-11-18T16:57:15.803Z,aleksandr71914-cell.Pion,aleksandr71914-cell,Pion,1.0.0,VSCode Dark Theme Pion
+2026-11-18T17:08:03.68Z,lsiq-software.sd-restmate,lsiq-software,RestMate - REST Client,1.0.0,"Postman-style REST client in VS Code. Free: send HTTP requests, pretty JSON, last-10 history. Pro: collections, {{variable}} environments, curl import, .http export, unlimited history, response export, auth helpers."
