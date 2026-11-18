@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T09:09:46.22Z,querytorque.power-bi-performance,querytorque,Power BI Performance Tuner,1.2.0,"Fix slow and expensive Power BI reports. Finds the slowest visuals and why, lets your AI agent (Copilot, Claude Code, Cursor) rewrite the DAX, and proves it is faster with the same answers under your report's real filters. Runs locally; nothing to install."
+2026-11-18T09:18:10.417Z,LaRevueGeek.karbon-ui-language,LaRevueGeek,Karbon UI,0.2.0,"Syntax highlighting, indentation and snippets for karbon-ui .ui templates (HTML-like markup with Rust expressions)."
+2026-11-18T09:31:26.523Z,ZhangPeng.aica-collector-vscode,ZhangPeng,AICA Collector,0.1.4,采集目录、代码仓库、分支观测与项目绑定
+2026-11-18T09:37:33.697Z,MZainUlAbideen.universal-ai-prompt-engineer,MZainUlAbideen,Universal AI Prompt Engineer,0.1.0,"Transforms rough prompts into professional, actionable instructions for AI coding agents."
+2026-11-18T09:44:27.24Z,maratib.android-device-hub,maratib,Android Device Hub,0.1.0,"Manage, start, stop, restart, and mirror Android emulators (AVDs) and physical devices from VS Code using the official Google Android CLI & Android Device Hub."
+2026-11-18T09:44:53.913Z,MartimGomes.gomes-notebook,MartimGomes,Gomes Notebook,0.1.0,"Visual notebook for notes: cards or list, Markdown with preview, colors, labels, pinning and archive. English and Portuguese."
+2026-11-18T09:49:34.263Z,ws-rush.sikka-vscode,ws-rush,Sikka,0.1.0,Syntax highlighting for Sikka (.sikka) templates
+2026-11-18T09:54:20.913Z,buciputaoge.beibagu,buciputaoge,beibagu · 面试背题,0.1.59,IDEA/VS Code 摸鱼刷题插件：DeepSeek AI 一键详解/打分（白嫖网页 Token），艾宾浩斯复习，题库导入导出。
+2026-11-18T10:04:08.733Z,sagarawale.apple-foundation-vscode,sagarawale,Apple Foundation Models,0.2.0,"Private, offline AI-assisted development powered by Apple's on-device Foundation Models. macOS only."
+2026-11-18T10:05:19.25Z,spacev.lsmp-lua-vscode,spacev,LS:MP Lua,0.1.1,Unofficial IntelliSense for LS:MP
+2026-11-18T10:18:51.99Z,SmallStepsStudio.har-atlas,SmallStepsStudio,HAR Atlas,0.1.0,"HAR (HTTP Archive) files from browser DevTools: summary, failed and slowest requests with timings. Pro: host breakdown, caching and compression review. Works offline."
