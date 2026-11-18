@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T00:20:20.707Z,Kaue-14.medusa-void-theme,Kaue-14,Medusa.void OLED,1.0.2,"An OLED-dark VS Code theme inspired by Medusa, a calico cat. Near-black surfaces, warm ivory, caramel, violet accents, and soft pastel syntax."
+2026-11-18T00:42:09.553Z,AndreSalvador.terminal-fly,AndreSalvador,Terminal Fly,0.2.0,"Free-floating terminals on an infinite canvas, inspired by Apple Freeform: drag, resize and see all your terminals at once."
+2026-11-18T00:49:22.917Z,novafile.vscode-novafile,novafile,"NOVA Notation for Objects, Values & Agents",0.1.0,"Language support for NOVA (Notation for Objects, Values & Agents): documents, schemas (.novs), templates and patches, with syntax highlighting and the nvf-lsp language server."
+2026-11-18T01:06:08.717Z,LemuelAdane.accenture-springboot-analyzer,LemuelAdane,Accenture Spring Boot Analyzer,0.1.1,Run AI-assisted whole-project analysis for Java and Spring Boot projects with Copilot Chat.
