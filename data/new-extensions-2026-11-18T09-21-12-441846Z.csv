@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T08:19:08.023Z,sightsnow.serialterminal-share,sightsnow,Serial Terminal Share,0.2.0,An interactive serial terminal tool
+2026-11-18T08:21:32.257Z,dongwang.iis-web-deploy,dongwang,IIS Web Deploy,0.5.0,将编译产物通过 Web Deploy 发布到 IIS 网站
+2026-11-18T08:25:25.12Z,DeepakKN.hoplink,DeepakKN,HopLink,1.0.0,Instantly bridge frontend API calls to backend route definitions in VS Code.
+2026-11-18T08:27:49.723Z,EasyTouch.agentlab-vscode,EasyTouch,AgentLab 开发工具,0.3.81,在 VS Code 中连接 AgentLab iOS App，查看实时画面、截图并运行和调试 Python 项目。
+2026-11-18T08:31:52.32Z,haiyongchen.devtrace-memory,haiyongchen,DevTrace Memory,0.1.0,Capture Cursor and Qoder agent memory into a local database
+2026-11-18T08:32:27.587Z,rxflare.rxflare,rxflare,RxFlare,1.0.0,Official RxFlare extension for Flutter and Dart developers.
+2026-11-18T08:37:54.003Z,liangjunheng.vscode-android-ide,liangjunheng,VSCode Android IDE,1.0.0,"A VS Code Android IDE for managing devices, emulators, Logcat, and debugging without leaving your editor."
+2026-11-18T08:38:14.173Z,Alec269.too-dark-pro,Alec269,Too Dark Pro,1.0.1,
+2026-11-18T08:46:49.417Z,nubanjiang.netsuite-suitescript-navigator,nubanjiang,NetSuite SuiteScript Navigator,0.1.0,"SuiteScript 2.x navigation for VS Code: jump between AMD modules, custom functions, classes, JSDoc types, and NetSuite N/* APIs."
+2026-11-18T08:47:08.913Z,KvcHub.ki-complete,KvcHub,Ki Complete,0.1.1,"Code suggestions as you type, from a code model running on your own computer. Private, free, and works offline."
+2026-11-18T08:52:29.367Z,TestPublisherMapawade.platformio-PPEM282DVT,TestPublisherMapawade,PPEM282 TEST one On Platform,3.3.8,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)"
+2026-11-18T08:53:29.98Z,ric3.weihnachtslichter,ric3,Weihnachtslichter 🎄,1.2.2,Pixel-Lichterkette am oberen Fensterrand mit pulsierenden Lämpchen und ein Weihnachts-Farbschema.
+2026-11-18T08:54:12.367Z,aoiflux.rohy-vi,aoiflux,Rohy VI,0.1.0,Checks and formats rohy correlation rule files with rohyctl — the check the application loads them with — and with the rule schema when rohyctl is not installed.
+2026-11-18T08:59:12.323Z,hrdkkmr.netbox-vscode,hrdkkmr,NetBox,0.8.0,"An AI-assisted Computer Networks learning environment that lets students run real networking experiments, inspect socket operations and packets, visualize network activity, and understand concepts through an evidence-grounded AI tutor."
