@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T19:05:35.377Z,qronos-ai.qronos-code,qronos-ai,Qronos Code — Autonomous AI Agent,1.1.0,"Autonomous AI coding agent in VS Code powered by Qronos AI. 10M daily coding tokens, multi-turn plan mode, autonomous terminal tools, subagents, and direct gateway integration."
+2026-11-18T19:20:42.723Z,BBYZenith.orbit-and-ocean,BBYZenith,Orbit & Ocean — 6 Themes & 3D Worlds,1.0.0,"Six dark themes, matching file icons, and optional animated 3D worlds: space, ocean, glass, zen, neon rain, and liquid chrome."
+2026-11-18T19:27:14.64Z,birdone.birdone-vscode,birdone,BirdOne Quality Engineering,1.0.0,"Universal Quality Engineering Platform extension for BirdOne V1.0 — run and inspect Selenium, Playwright, Postman, Apache JMeter, Grafana k6 executions, and CI/CD Quality Gates."
+2026-11-18T19:40:31.03Z,PlatformOnline.mystatus,PlatformOnline,MyStatus – GitHub Followers & Status,0.1.0,"See the GitHub status of your followers and the people you follow, and set your own status without leaving VS Code."
+2026-11-18T19:45:59.553Z,robertorvbj.hyacine-omarchy,robertorvbj,Hyacine Omarchy,1.0.0,"A light theme in the pastel sky colors of Hyacine (Honkai: Star Rail): lavender, pink and a rainbow of syntax colors. Unofficial, fan-made, generated from an Omarchy theme."
+2026-11-18T19:57:03.013Z,Code2Business.swiss-knife-dev-tools,Code2Business,Swiss Knife Dev Tools,0.1.0,"Hashers, converters, encoders, formatters and other utilities"
+2026-11-18T19:57:07.41Z,aiekick.bitcalc,aiekick,BitCalc,0.0.1,"Programmer calculator and bitfield structure decoder: hex, decimal, octal, binary, bit toggling, LE/BE, LSB0/MSB0"
+2026-11-18T20:04:23.707Z,unicco33.ssh-terminal-buttons,unicco33,SSH Terminal Buttons,1.1.0,Open three configurable OpenSSH destinations directly from the terminal toolbar.
+2026-11-18T20:05:32.963Z,DicedPineapple.justexplain,DicedPineapple,JustExplain – AI Code Explainer,0.1.0,"Select a class or function and get a structured explanation, real problems and applicable improvements in a panel beside your code."
