@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T13:18:58.407Z,LxStudio.snippetvault-lx,LxStudio,SnippetVault — Local Snippet Manager,1.0.0,"Organize, search, and manage VS Code snippets locally. No cloud needed. Never lose a snippet again."
+2026-11-18T13:20:11.81Z,wingtrill.wingtrill,wingtrill,WingTrill,0.1.4,"Your WingTrill workspace's AI agents, channels and approvals, next to your code."
+2026-11-18T13:23:29.663Z,ASNBV.asnfd-assistant,ASNBV,ASNFD Assistant,0.1.65,"Design, validate and deploy digital filters with ASN Filter Designer guidance in Codex."
+2026-11-18T13:27:06.543Z,AkashdeepSingh.threads,AkashdeepSingh,Threads,0.5.1,"WhatsApp in your sidebar — chats, groups and contacts, with native Copilot tools"
+2026-11-18T13:27:51.53Z,marcusvsa.azure-template-parameters-v2,marcusvsa,Azure Template Parameters,0.2.0,"Parameter IntelliSense, navigation, and validation for local Azure Pipelines templates."
+2026-11-18T13:38:11.223Z,SmallStepsStudio.nginx-config-atlas,SmallStepsStudio,Nginx Config Atlas,0.1.0,"nginx configuration files: summary, syntax check, server blocks. Pro: security review and proxy and upstream review. Works offline."
+2026-11-18T13:43:24.693Z,lsiq-software.logpilot,lsiq-software,"LogPilot - Log Viewer with ANSI Colors, Filters & Tail",1.0.0,"View log files with real ANSI colors, severity highlighting, instant filters, regex search, follow/tail mode and JSON formatting. Free tier included; Pro unlocks unlimited filters, tail and large files."
+2026-11-18T13:53:05.14Z,tmxio.tmxio-sftp,tmxio,TMXIO SFTP,1.0.0,"TMXIO-maintained SFTP/FTP sync for VS Code, compatible with VS Code 1.123+ and Node 24."
+2026-11-18T14:01:44.103Z,wildgrid.ya-git-graph,wildgrid,YA Git Graph,0.2.13,"A fast Git graph view powered by an in-process Rust engine: browse branches, tags and stashes, inspect commit details, diffs and file history, compare binaries (hex & image), code review and Gerrit integration — every repository read runs in-process."

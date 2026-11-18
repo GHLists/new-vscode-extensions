@@ -12,19 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 13:19 UTC
+## Latest list — 2026-11-18 14:22 UTC
 
-New extensions published between 2026-11-18 11:19 UTC and 2026-11-18 13:19 UTC.
+New extensions published between 2026-11-18 12:22 UTC and 2026-11-18 14:22 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T13-19-19-075548Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T14-22-39-729139Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 12:48:53 | [SK3L3T0R.bonecode-themes](https://marketplace.visualstudio.com/items?itemName=SK3L3T0R.bonecode-themes) | BoneCode Themes | 1.0.1 | BoneCode Dark and Light: bone yellow, purple and blue, inspired by BoneVim. |
-| 2026-11-18 12:57:16 | [congnguyencn.vc-smart-git](https://marketplace.visualstudio.com/items?itemName=congnguyencn.vc-smart-git) | VC Smart Git | 0.8.2 | A JetBrains-inspired Git tool window for Visual Studio Code. |
-| 2026-11-18 12:58:52 | [spsoni.copy-pasta-files](https://marketplace.visualstudio.com/items?itemName=spsoni.copy-pasta-files) | Copy-Pasta Files | 0.1.2 | Send files and folders through any chat as one block of text, and paste them ba… |
-| 2026-11-18 13:03:33 | [yelingjie.c-call-graph](https://marketplace.visualstudio.com/items?itemName=yelingjie.c-call-graph) | C Call Graph Explorer by yelingjie | 1.0.1 | 可视化 GCC 与 Keil MDK C 工程的函数调用、线程和消息队列，分析调用路径上的参数、变量及调试暂停值。 |
-| 2026-11-18 13:11:20 | [CTabdul15.collab-share](https://marketplace.visualstudio.com/items?itemName=CTabdul15.collab-share) | Collab Share | 1.0.0 | Free Live Share alternative: code together in real time with friends anywhere.… |
+| 2026-11-18 13:18:58 | [LxStudio.snippetvault-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.snippetvault-lx) | SnippetVault — Local Snippet Manager | 1.0.0 | Organize, search, and manage VS Code snippets locally. No cloud needed. Never l… |
+| 2026-11-18 13:20:11 | [wingtrill.wingtrill](https://marketplace.visualstudio.com/items?itemName=wingtrill.wingtrill) | WingTrill | 0.1.4 | Your WingTrill workspace's AI agents, channels and approvals, next to your code. |
+| 2026-11-18 13:23:29 | [ASNBV.asnfd-assistant](https://marketplace.visualstudio.com/items?itemName=ASNBV.asnfd-assistant) | ASNFD Assistant | 0.1.65 | Design, validate and deploy digital filters with ASN Filter Designer guidance i… |
+| 2026-11-18 13:27:06 | [AkashdeepSingh.threads](https://marketplace.visualstudio.com/items?itemName=AkashdeepSingh.threads) | Threads | 0.5.1 | WhatsApp in your sidebar — chats, groups and contacts, with native Copilot tools |
+| 2026-11-18 13:27:51 | [marcusvsa.azure-template-parameters-v2](https://marketplace.visualstudio.com/items?itemName=marcusvsa.azure-template-parameters-v2) | Azure Template Parameters | 0.2.0 | Parameter IntelliSense, navigation, and validation for local Azure Pipelines te… |
+| 2026-11-18 13:38:11 | [SmallStepsStudio.nginx-config-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.nginx-config-atlas) | Nginx Config Atlas | 0.1.0 | nginx configuration files: summary, syntax check, server blocks. Pro: security… |
+| 2026-11-18 13:43:24 | [lsiq-software.logpilot](https://marketplace.visualstudio.com/items?itemName=lsiq-software.logpilot) | LogPilot - Log Viewer with ANSI Colors,… | 1.0.0 | View log files with real ANSI colors, severity highlighting, instant filters, r… |
+| 2026-11-18 13:53:05 | [tmxio.tmxio-sftp](https://marketplace.visualstudio.com/items?itemName=tmxio.tmxio-sftp) | TMXIO SFTP | 1.0.0 | TMXIO-maintained SFTP/FTP sync for VS Code, compatible with VS Code 1.123+ and… |
+| 2026-11-18 14:01:44 | [wildgrid.ya-git-graph](https://marketplace.visualstudio.com/items?itemName=wildgrid.ya-git-graph) | YA Git Graph | 0.2.13 | A fast Git graph view powered by an in-process Rust engine: browse branches, ta… |
 
 ## Data source
 
