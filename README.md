@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 17:22 UTC
+## Latest list — 2026-11-18 18:20 UTC
 
-New extensions published between 2026-11-18 15:22 UTC and 2026-11-18 17:22 UTC.
+New extensions published between 2026-11-18 16:20 UTC and 2026-11-18 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T17-22-15-280135Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T18-20-12-555057Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 16:16:14 | [woogajjangka.cool-icon-vscode](https://marketplace.visualstudio.com/items?itemName=woogajjangka.cool-icon-vscode) | Cool Icon | 1.0.0 | Atom Material Icons for Visual Studio Code (unofficial fork) |
-| 2026-11-18 16:20:00 | [lsiq-software.sd-querydock](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-querydock) | QueryDock - Database Client | 1.0.0 | Lightweight database client for VS Code. Browse schemas, run SQL, page results.… |
-| 2026-11-18 16:20:41 | [tau-lang.tau-lang](https://marketplace.visualstudio.com/items?itemName=tau-lang.tau-lang) | Tau Syntax Highlighter | 0.0.1 | Syntax highlighting support for the experimental Tau language. |
-| 2026-11-18 16:21:18 | [JordanYoder.fm-clipboard-bridge](https://marketplace.visualstudio.com/items?itemName=JordanYoder.fm-clipboard-bridge) | FileMaker Clipboard Bridge | 1.1.2 | Copy and paste FileMaker scripts, steps, custom functions and more between File… |
-| 2026-11-18 16:23:29 | [MaskenNetwork.atom-ui-colors](https://marketplace.visualstudio.com/items?itemName=MaskenNetwork.atom-ui-colors) | Atom UI Colors | 0.1.3 | Keep VS Code's native UI icons and give them the Atom Material color palette. F… |
-| 2026-11-18 16:33:01 | [emkay-voice.emkay-dev](https://marketplace.visualstudio.com/items?itemName=emkay-voice.emkay-dev) | Emkay Dev | 0.1.0 | Write an OpenVoiceOS skill and talk to it at once: Emkay runs next to your code… |
-| 2026-11-18 16:38:20 | [kevinhegg.askama-vscode](https://marketplace.visualstudio.com/items?itemName=kevinhegg.askama-vscode) | Askama IntelliSense | 1.0.0 | Highlighting, navigation and completion for Askama templates in Rust projects. |
-| 2026-11-18 16:40:06 | [bigtoymarket.damnisitdown](https://marketplace.visualstudio.com/items?itemName=bigtoymarket.damnisitdown) | Damn Is It Down | 1.0.0 | See in your status bar when GitHub, npm, AWS, Vercel, OpenAI or any service you… |
-| 2026-11-18 16:51:05 | [SmallStepsStudio.migration-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.migration-atlas) | Migration Atlas | 0.1.0 | SQL migration files: summary, destructive operations, tables. Pro: PostgreSQL l… |
-| 2026-11-18 16:57:15 | [aleksandr71914-cell.Pion](https://marketplace.visualstudio.com/items?itemName=aleksandr71914-cell.Pion) | Pion | 1.0.0 | VSCode Dark Theme Pion |
-| 2026-11-18 17:08:03 | [lsiq-software.sd-restmate](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-restmate) | RestMate - REST Client | 1.0.0 | Postman-style REST client in VS Code. Free: send HTTP requests, pretty JSON, la… |
+| 2026-11-18 17:16:27 | [JayBeeDe.foss-office](https://marketplace.visualstudio.com/items?itemName=JayBeeDe.foss-office) | foss-office | 0.0.2 | FOSS editor for Markdown, document, spreadsheet, Parquet, presentation, PDF, eB… |
+| 2026-11-18 17:32:04 | [InnovataLux.auren-ai](https://marketplace.visualstudio.com/items?itemName=InnovataLux.auren-ai) | Auren AI | 0.2.3 | Local Auren chat and approval-gated source edits |
+| 2026-11-18 17:32:57 | [Janahan.jit-commit-risk](https://marketplace.visualstudio.com/items?itemName=Janahan.jit-commit-risk) | JIT Commit Risk Analyzer | 0.2.0 | Analyze Git commit risk using machine learning, with automatic commit scoring a… |
+| 2026-11-18 17:35:51 | [lsiq-software.sd-springbox](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-springbox) | SpringBox - Spring Boot Tools | 1.0.3 | Spring Boot tooling for VS Code. Free: Endpoints panel — scan @RequestMapping r… |
+| 2026-11-18 17:49:56 | [euler1729.claudeswitch](https://marketplace.visualstudio.com/items?itemName=euler1729.claudeswitch) | ClaudeSwitch — Claude Account Switcher | 0.2.5 | Automatically switches Claude Code accounts when one hits its usage limit, and… |
+| 2026-11-18 17:54:46 | [DarkAuraX.poppet-x](https://marketplace.visualstudio.com/items?itemName=DarkAuraX.poppet-x) | Poppet-x | 5.0.2 | Your cursor moves like someone is still in the room — human-like OS mouse motio… |
+| 2026-11-18 17:57:06 | [HMCTS.hmcts-notify](https://marketplace.visualstudio.com/items?itemName=HMCTS.hmcts-notify) | GOV.UK Notify Templates | 0.1.23 | Browse, preview and draft changes to GOV.UK Notify templates, with the personal… |
 
 ## Data source
 

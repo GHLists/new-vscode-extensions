@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-18T17:16:27.987Z,JayBeeDe.foss-office,JayBeeDe,foss-office,0.0.2,"FOSS editor for Markdown, document, spreadsheet, Parquet, presentation, PDF, eBook and xMind"
+2026-11-18T17:32:04.667Z,InnovataLux.auren-ai,InnovataLux,Auren AI,0.2.3,Local Auren chat and approval-gated source edits
+2026-11-18T17:32:57.653Z,Janahan.jit-commit-risk,Janahan,JIT Commit Risk Analyzer,0.2.0,"Analyze Git commit risk using machine learning, with automatic commit scoring and on-demand analysis of staged changes and previous commits."
+2026-11-18T17:35:51.547Z,lsiq-software.sd-springbox,lsiq-software,SpringBox - Spring Boot Tools,1.0.3,"Spring Boot tooling for VS Code. Free: Endpoints panel — scan @RequestMapping routes and jump to handlers. Pro: application.yml/.properties key completion, bean navigation, Boot run helper, Spring Initializr launcher."
+2026-11-18T17:49:56.327Z,euler1729.claudeswitch,euler1729,ClaudeSwitch — Claude Account Switcher,0.2.5,"Automatically switches Claude Code accounts when one hits its usage limit, and spreads usage across accounts so no capacity goes to waste."
+2026-11-18T17:54:46.137Z,DarkAuraX.poppet-x,DarkAuraX,Poppet-x,5.0.2,Your cursor moves like someone is still in the room — human-like OS mouse motion from the status bar.
+2026-11-18T17:57:06.383Z,HMCTS.hmcts-notify,HMCTS,GOV.UK Notify Templates,0.1.23,"Browse, preview and draft changes to GOV.UK Notify templates, with the personalisation Notify's own preview needs."
