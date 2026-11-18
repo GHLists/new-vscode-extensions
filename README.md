@@ -12,25 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-18 10:23 UTC
+## Latest list — 2026-11-18 11:20 UTC
 
-New extensions published between 2026-11-18 08:23 UTC and 2026-11-18 10:23 UTC.
+New extensions published between 2026-11-18 09:20 UTC and 2026-11-18 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-18T10-23-46-664908Z.csv)
+[Full CSV](data/new-extensions-2026-11-18T11-20-21-512831Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-18 09:09:46 | [querytorque.power-bi-performance](https://marketplace.visualstudio.com/items?itemName=querytorque.power-bi-performance) | Power BI Performance Tuner | 1.2.0 | Fix slow and expensive Power BI reports. Finds the slowest visuals and why, let… |
-| 2026-11-18 09:18:10 | [LaRevueGeek.karbon-ui-language](https://marketplace.visualstudio.com/items?itemName=LaRevueGeek.karbon-ui-language) | Karbon UI | 0.2.0 | Syntax highlighting, indentation and snippets for karbon-ui .ui templates (HTML… |
-| 2026-11-18 09:31:26 | [ZhangPeng.aica-collector-vscode](https://marketplace.visualstudio.com/items?itemName=ZhangPeng.aica-collector-vscode) | AICA Collector | 0.1.4 | 采集目录、代码仓库、分支观测与项目绑定 |
-| 2026-11-18 09:37:33 | [MZainUlAbideen.universal-ai-prompt-engineer](https://marketplace.visualstudio.com/items?itemName=MZainUlAbideen.universal-ai-prompt-engineer) | Universal AI Prompt Engineer | 0.1.0 | Transforms rough prompts into professional, actionable instructions for AI codi… |
-| 2026-11-18 09:44:27 | [maratib.android-device-hub](https://marketplace.visualstudio.com/items?itemName=maratib.android-device-hub) | Android Device Hub | 0.1.0 | Manage, start, stop, restart, and mirror Android emulators (AVDs) and physical… |
-| 2026-11-18 09:44:53 | [MartimGomes.gomes-notebook](https://marketplace.visualstudio.com/items?itemName=MartimGomes.gomes-notebook) | Gomes Notebook | 0.1.0 | Visual notebook for notes: cards or list, Markdown with preview, colors, labels… |
-| 2026-11-18 09:49:34 | [ws-rush.sikka-vscode](https://marketplace.visualstudio.com/items?itemName=ws-rush.sikka-vscode) | Sikka | 0.1.0 | Syntax highlighting for Sikka (.sikka) templates |
-| 2026-11-18 09:54:20 | [buciputaoge.beibagu](https://marketplace.visualstudio.com/items?itemName=buciputaoge.beibagu) | beibagu · 面试背题 | 0.1.59 | IDEA/VS Code 摸鱼刷题插件：DeepSeek AI 一键详解/打分（白嫖网页 Token），艾宾浩斯复习，题库导入导出。 |
-| 2026-11-18 10:04:08 | [sagarawale.apple-foundation-vscode](https://marketplace.visualstudio.com/items?itemName=sagarawale.apple-foundation-vscode) | Apple Foundation Models | 0.2.0 | Private, offline AI-assisted development powered by Apple's on-device Foundatio… |
-| 2026-11-18 10:05:19 | [spacev.lsmp-lua-vscode](https://marketplace.visualstudio.com/items?itemName=spacev.lsmp-lua-vscode) | LS:MP Lua | 0.1.1 | Unofficial IntelliSense for LS:MP |
-| 2026-11-18 10:18:51 | [SmallStepsStudio.har-atlas](https://marketplace.visualstudio.com/items?itemName=SmallStepsStudio.har-atlas) | HAR Atlas | 0.1.0 | HAR (HTTP Archive) files from browser DevTools: summary, failed and slowest req… |
+| 2026-11-18 10:18:41 | [fatcorn753.image-list-view](https://marketplace.visualstudio.com/items?itemName=fatcorn753.image-list-view) | Image List View | 0.4.0 | Show only the images you pick, side by side in one tab, vertically or horizonta… |
+| 2026-11-18 10:28:23 | [nocthost.nocthost](https://marketplace.visualstudio.com/items?itemName=nocthost.nocthost) | NoctHost | 0.1.0 | See and manage your NoctHost cloud servers (Hetzner, Vultr, DigitalOcean, Linod… |
+| 2026-11-18 10:29:45 | [NTHU115062401.agent-orbit-lens](https://marketplace.visualstudio.com/items?itemName=NTHU115062401.agent-orbit-lens) | Agent Orbit Lens | 0.4.12 | 唯讀本機代理觀測：共用畫布顯示 VS Code 與 Claude Desktop Code，保留來源區分。零模型呼叫。 |
+| 2026-11-18 10:32:27 | [RenesasElectronicsCorporation.renesas-fsp-ui-smart-configurator](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-fsp-ui-smart-configurator) | Renesas FSP Smart Configurator | 2.40.0 | The Smart Configurator allows graphical configuration of Renesas FSP projects. |
+| 2026-11-18 10:34:27 | [carlosmorcillo.vikunja-tasks](https://marketplace.visualstudio.com/items?itemName=carlosmorcillo.vikunja-tasks) | Vikunja Tasks | 0.2.5 | Manage tasks on your Vikunja server from the VS Code sidebar. |
+| 2026-11-18 10:43:30 | [hopeunfilteredd.claude-context-sidebar](https://marketplace.visualstudio.com/items?itemName=hopeunfilteredd.claude-context-sidebar) | Claude Context Sidebar | 0.1.1 | A list of every Claude Code chat's context window, right inside the Claude Code… |
+| 2026-11-18 10:44:40 | [mavvynet.codex-editor-tab](https://marketplace.visualstudio.com/items?itemName=mavvynet.codex-editor-tab) | Codex Editor Tab | 0.2.0 | Open a new official Codex chat in its own VS Code editor tab. |
+| 2026-11-18 11:05:53 | [quantology.modelmaker](https://marketplace.visualstudio.com/items?itemName=quantology.modelmaker) | Model-Maker | 0.3.0 | Visual pipeline builder for financial model development: the Model-Maker canvas… |
+| 2026-11-18 11:07:13 | [meir-arad.hebrew-agent-cockpit](https://marketplace.visualstudio.com/items?itemName=meir-arad.hebrew-agent-cockpit) | קוקפיט · Hebrew Agent Cockpit | 0.16.4 | כל סוכני הקוד בחלון אחד, בעברית: Claude Code, ‏Codex, ‏Grok ו־Antigravity, במנו… |
 
 ## Data source
 
