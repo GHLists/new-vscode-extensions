@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 20:21 UTC
+## Latest list — 2026-11-19 21:21 UTC
 
-New extensions published between 2026-11-19 18:21 UTC and 2026-11-19 20:21 UTC.
+New extensions published between 2026-11-19 19:21 UTC and 2026-11-19 21:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T20-21-11-068272Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T21-21-05-935248Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 19:19:40 | [nearo.nearo-gaze](https://marketplace.visualstudio.com/items?itemName=nearo.nearo-gaze) | Nearo Gaze | 1.4.2 | Dark theme with desaturated blue-cyan backgrounds and vivid neon accents: cyan,… |
-| 2026-11-19 19:41:12 | [MarioEscuderoIzquierdo.gitbrainslog](https://marketplace.visualstudio.com/items?itemName=MarioEscuderoIzquierdo.gitbrainslog) | GitBrainsLog | 1.0.0 | Panel de Git Log al estilo de los IDE de JetBrains: ramas, grafo de commits, de… |
-| 2026-11-19 20:12:46 | [zovo.zovo-mcap-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-mcap-viewer) | MCAP Viewer & ROS Bag Viewer | 0.1.0 | MCAP viewer for VS Code: open .mcap and ROS 1 .bag files to see topics, message… |
-| 2026-11-19 20:14:44 | [zovo.zovo-pcd-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-pcd-viewer) | PCD Viewer & LAS Point Cloud | 0.1.0 | PCD viewer for VS Code: open .pcd point clouds (ascii, binary, binary_compresse… |
+| 2026-11-19 20:26:21 | [nodevisa.nodevisa](https://marketplace.visualstudio.com/items?itemName=nodevisa.nodevisa) | Nodevisa | 0.1.0 | Language server client for Nodevisa Builder projects |
+| 2026-11-19 20:34:35 | [dotgram.GramForVSCode](https://marketplace.visualstudio.com/items?itemName=dotgram.GramForVSCode) | .Gram for VS Code | 0.3.0 | Colours, diagnostics, completion, Quick Info, navigation, rename, folding and o… |
+| 2026-11-19 20:41:25 | [AlexDoesITLLC.mega-find-and-replace](https://marketplace.visualstudio.com/items?itemName=AlexDoesITLLC.mega-find-and-replace) | Mega Find and Replace | 0.1.5 | Case-aware search and replace across file contents, filenames, and folders, wit… |
+| 2026-11-19 20:43:16 | [CLdForge.keyblaze](https://marketplace.visualstudio.com/items?itemName=CLdForge.keyblaze) | KeyBlaze | 0.1.0 | Make Every Keystroke Count. Particle bursts, fire, lightning, fireworks, combos… |
+| 2026-11-19 20:56:17 | [soris.arc-copilot-bridge](https://marketplace.visualstudio.com/items?itemName=soris.arc-copilot-bridge) | ARC: Copilot Bridge | 1.4.0 | Let an AI agent send prompts to GitHub Copilot Chat in a specific project windo… |
+| 2026-11-19 21:08:13 | [daviderolando.markdown-utils](https://marketplace.visualstudio.com/items?itemName=daviderolando.markdown-utils) | Markdown Utils | 0.0.1 | Creates markdown files with predefined templates |
+| 2026-11-19 21:08:27 | [BirdfiluStudio.prompt-bridge-vscode](https://marketplace.visualstudio.com/items?itemName=BirdfiluStudio.prompt-bridge-vscode) | Prompt Bridge by Birdfilu | 0.1.0 | Connect VS Code to your own Claude.ai browser session. Send prompts, files, and… |
 
 ## Data source
 

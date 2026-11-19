@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T20:26:21.273Z,nodevisa.nodevisa,nodevisa,Nodevisa,0.1.0,Language server client for Nodevisa Builder projects
+2026-11-19T20:34:35.823Z,dotgram.GramForVSCode,dotgram,.Gram for VS Code,0.3.0,"Colours, diagnostics, completion, Quick Info, navigation, rename, folding and outline for .gram grammars, and colours, diagnostics, Quick Info and navigation for grammars written in C# strings, from the same language core as the DotGram source generator."
+2026-11-19T20:41:25.667Z,AlexDoesITLLC.mega-find-and-replace,AlexDoesITLLC,Mega Find and Replace,0.1.5,"Case-aware search and replace across file contents, filenames, and folders, with regex, diff previews, and undo."
+2026-11-19T20:43:16.533Z,CLdForge.keyblaze,CLdForge,KeyBlaze,0.1.0,"Make Every Keystroke Count. Particle bursts, fire, lightning, fireworks, combos and cursor effects as you type, built on supported VS Code APIs."
+2026-11-19T20:56:17.367Z,soris.arc-copilot-bridge,soris,ARC: Copilot Bridge,1.4.0,"Let an AI agent send prompts to GitHub Copilot Chat in a specific project window, read the results, and get notified when chats finish. Local-only (127.0.0.1)."
+2026-11-19T21:08:13.363Z,daviderolando.markdown-utils,daviderolando,Markdown Utils,0.0.1,Creates markdown files with predefined templates
+2026-11-19T21:08:27.07Z,BirdfiluStudio.prompt-bridge-vscode,BirdfiluStudio,Prompt Bridge by Birdfilu,0.1.0,"Connect VS Code to your own Claude.ai browser session. Send prompts, files, and terminal output directly from your editor."
