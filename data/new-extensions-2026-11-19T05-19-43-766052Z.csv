@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T04:52:58.96Z,wangmax.openharmony-dev-tools,wangmax,OpenHarmony Dev Tools,0.0.1,"Development, debugging and deployment tooling for OpenHarmony system adaptation and chip bring-up."
+2026-11-19T05:04:41.837Z,flowbuddy.flowbuddy-vscode,flowbuddy,Flow Buddy,0.1.2,"Tells the local Flow Buddy daemon whether the editor has focus, vscodevim's mode and how the cursor moved. Numbers and flags only; nothing leaves your machine."
+2026-11-19T05:12:03.473Z,nojram-dev.vice-city-colors,nojram-dev,vice-city-colors,0.0.1,color theme
