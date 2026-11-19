@@ -1,0 +1,21 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T07:12:57.937Z,salehgholamian.open-code-pilot,salehgholamian,OpenCodePilot,0.1.0,"Full graphical client for the OpenCode coding agent — streaming chat, tool activity, permissions, diffs, sessions and dynamic model selection, with first-class RTL/Persian support."
+2026-11-19T07:14:59.583Z,ipwhoisnet.ipwhois-net,ipwhoisnet,IPWHOIS.net IP Lookup,1.0.1,"Hover any IP address in your code, logs or configs to see who owns it: network, ASN, location and blacklist status. Look up domains too."
+2026-11-19T07:15:06.05Z,SmartAssist.smart-assist,SmartAssist,Smart Assist,1.6.0,"Build, run, debug, validate, pack and install Smart Assist modules: a thin shell over the sa CLI."
+2026-11-19T07:21:38.887Z,the-protobuf-project.tpp-aip-linter,the-protobuf-project,Protobuf AIP Linter for VS Code,2.0.6,"Design Protocol Buffer APIs that follow the Google AIPs — lint, fix findings the linter states, browse the Buf Schema Registry, and document the whole API without leaving the editor."
+2026-11-19T07:23:21.733Z,Absera.freview,Absera,freview,0.1.0,"Free, local-first AI code review for staged commits and branches"
+2026-11-19T07:24:16.93Z,kaim-ru.rexel-composer-vscode,kaim-ru,RexelComposer,0.1.0,"Edit RexelComposer node-based pixel art projects (.rxc, .rxcp) inside VS Code"
+2026-11-19T07:34:17.797Z,EnnoZudemEis.remote-hosts-compare-sync,EnnoZudemEis,Remote Hosts Compare & Sync,0.1.3,"Browse, upload, download and compare FTP/FTPS/SFTP servers with your local project."
+2026-11-19T07:38:41.447Z,RajatMalik.commitwriter,RajatMalik,CommitWriter,1.0.0,"Generate AI commit messages from staged Git diffs in VS Code. Works with OpenAI, Claude, Gemini, DeepSeek, OpenRouter, Ollama, LM Studio, llama.cpp, vLLM or OpenCode. Keys stay in the OS keychain. Never commits."
+2026-11-19T07:56:23.893Z,shivvvpp.cuemd,shivvvpp,CueMD,0.13.0,"Highlight Markdown passages, annotate diagrams, and ask AI right where you read."
+2026-11-19T07:58:00.637Z,Nishitox.7z-secure-workspace,Nishitox,7z Secure Workspace,1.0.1,"Open and edit encrypted 7z archives as VS Code workspaces with Secure Virtual, Standard Virtual, and Materialized modes."
+2026-11-19T08:04:12.317Z,SmallStepsStudio.gtin-code-atlas,SmallStepsStudio,GTIN Code Atlas,0.1.0,"GS1 element strings and barcode data: validation, decoded elements, check digits. Pro: Digital Link conversion and GTIN and serial inventory. Works offline."
+2026-11-19T08:04:22.75Z,yanga-project.yanga-vscode,yanga-project,Yanga,1.2.0,"Sidebar UI for Software Product Line projects, pick variant and platform, browse components, build without leaving the editor."
+2026-11-19T08:05:04.393Z,SmallStepsStudio.ns-script-atlas,SmallStepsStudio,NS Script Atlas,0.1.0,"SuiteScript 2.x files: script summary, entry point check, module usage. Pro: governance review and version compatibility check. Works offline."
+2026-11-19T08:05:33.867Z,LyaQanYi.neko-vscode-extension,LyaQanYi,N.E.K.O. VSCode 桥接,0.1.3,让 N.E.K.O. 通过本地桥接读取和修改 VSCode 工作区代码。
+2026-11-19T08:06:07.903Z,SmallStepsStudio.detection-rule-atlas,SmallStepsStudio,Detection Rule Atlas,0.1.0,"YARA and Sigma detection rules: rule summary, syntax check, metadata check. Pro: quality review and ATT&CK coverage. Works offline."
+2026-11-19T08:07:14.25Z,SmallStepsStudio.geojson-atlas,SmallStepsStudio,GeoJSON Atlas,0.1.0,"GeoJSON files: summary, RFC 7946 validation, properties. Pro: geometry quality review and lengths and areas. Works offline."
+2026-11-19T08:07:15.027Z,liangliang-ai.select-opened-file,liangliang-ai,定位文件,0.1.0,仿照 WebStorm 的 Select Opened File 功能，在资源管理器标题栏一键定位当前文件
+2026-11-19T08:08:18.077Z,SmallStepsStudio.syslog-atlas,SmallStepsStudio,Syslog Atlas,0.1.0,"Syslog and CEF log files: summary, parse check, severity overview. Pro: sources and security events such as failed logins. Works offline."
+2026-11-19T08:09:20.887Z,SmallStepsStudio.queue-definitions-atlas,SmallStepsStudio,Queue Definitions Atlas,0.1.0,"RabbitMQ definitions exports: summary, queues, exchanges and bindings. Pro: topology check and security review. Works offline."
+2026-11-19T08:10:23.323Z,SmallStepsStudio.integration-route-atlas,SmallStepsStudio,Integration Route Atlas,0.1.0,"Apache Camel routes in XML or YAML: route summary, endpoints, route check. Pro: error handling and security review. Works offline."
