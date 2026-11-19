@@ -12,21 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 13:19 UTC
+## Latest list — 2026-11-19 14:21 UTC
 
-New extensions published between 2026-11-19 11:19 UTC and 2026-11-19 13:19 UTC.
+New extensions published between 2026-11-19 12:21 UTC and 2026-11-19 14:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T13-19-35-397849Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T14-21-20-979358Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 12:15:57 | [zangico.telegram-sidebar](https://marketplace.visualstudio.com/items?itemName=zangico.telegram-sidebar) | Telegram Sidebar | 2.1.1 | Telegram for VSCode |
-| 2026-11-19 12:36:39 | [lesyhau.archery](https://marketplace.visualstudio.com/items?itemName=lesyhau.archery) | Archery | 0.1.0 | Architecture docs as code in VS Code: an arc42 document with a model-based UML… |
-| 2026-11-19 12:49:27 | [javapractical.java-practical-exam](https://marketplace.visualstudio.com/items?itemName=javapractical.java-practical-exam) | Java Practical Exam Programs | 1.0.0 | 23 ready-to-use Java practical programs with sample outputs. Insert any program… |
-| 2026-11-19 12:54:28 | [folmate.crml](https://marketplace.visualstudio.com/items?itemName=folmate.crml) | CRML | 0.0.1 | Language support for CRML, the Common Requirement Modeling Language |
-| 2026-11-19 12:59:54 | [cityvistion.nl2cga](https://marketplace.visualstudio.com/items?itemName=cityvistion.nl2cga) | NL2CGA | 0.1.0 | Generate and repair CityEngine CGA with NL2CGA. |
-| 2026-11-19 13:03:11 | [brentlee-personal.spaceship-writer](https://marketplace.visualstudio.com/items?itemName=brentlee-personal.spaceship-writer) | Spaceship 中文写作台 | 0.1.0 | 在 VS Code 中编辑稿件，用多个独立旋钮引导中文续写，并写回原文件或选区。 |
-| 2026-11-19 13:03:32 | [Teevee98.synapse-hub-vscode](https://marketplace.visualstudio.com/items?itemName=Teevee98.synapse-hub-vscode) | Synapse Hub - Enterprise AI QA Sentinel | 4.6.3 | Real-time QA Linter, Anti-Fake-Pass Sentinel, Smart Wait Quick Fixes, and 1-Cli… |
+| 2026-11-19 13:15:47 | [robertorvbj.varesa-omarchy](https://marketplace.visualstudio.com/items?itemName=robertorvbj.varesa-omarchy) | Varesa Omarchy | 1.0.0 | A light theme in the pink and mint colors of Varesa (Genshin Impact). Unofficia… |
+| 2026-11-19 13:16:01 | [robertorvbj.mualani-omarchy](https://marketplace.visualstudio.com/items?itemName=robertorvbj.mualani-omarchy) | Mualani Omarchy | 1.0.0 | Dark and light themes in the surf colors of Mualani (Genshin Impact): ocean blu… |
+| 2026-11-19 13:17:15 | [melonruntime.melon-proto](https://marketplace.visualstudio.com/items?itemName=melonruntime.melon-proto) | Melon Proto | 1.0.0 | melon 框架 proto 文件支持：语法高亮、跨文件智能补全、悬浮文档、跳转与大纲（clientdata / crossdata / proxymessa… |
+| 2026-11-19 13:28:13 | [melonruntime.melon-phase-syntax](https://marketplace.visualstudio.com/items?itemName=melonruntime.melon-phase-syntax) | Melon Phase Syntax | 1.0.0 | .phase 文件的语法高亮、格式化与资源跳转（phase DSL） |
+| 2026-11-19 13:32:29 | [dmitrysrtx.colab-gpu-status](https://marketplace.visualstudio.com/items?itemName=dmitrysrtx.colab-gpu-status) | Google Colab GPU Status | 0.2.1 | Native VS Code status bar extension for Google Colab: live GPU/VRAM metrics, Co… |
+| 2026-11-19 13:33:05 | [argalla.viewkeeper](https://marketplace.visualstudio.com/items?itemName=argalla.viewkeeper) | ViewKeeper | 0.1.0 | See your dev server on several devices and routes at once inside VS Code. Scrol… |
+| 2026-11-19 13:35:48 | [zhaosongtao.paper-reading-workbench](https://marketplace.visualstudio.com/items?itemName=zhaosongtao.paper-reading-workbench) | 纸感阅读 | 2.0.0 | 为编辑器、侧栏、终端和 Markdown 预览提供纸纹与阅读排版，可一键启用或恢复。 |
+| 2026-11-19 13:39:01 | [agentpeepsx.agentpeeps](https://marketplace.visualstudio.com/items?itemName=agentpeepsx.agentpeeps) | Agent Peeps | 0.1.1 | See which AI agent or subagent (Claude Code, Codex, Copilot, Antigravity) is wo… |
+| 2026-11-19 13:50:22 | [Zyrndotio.ghost-trace](https://marketplace.visualstudio.com/items?itemName=Zyrndotio.ghost-trace) | ghost-trace | 0.3.0 | Finds phantom errors in your code on blank lines. |
+| 2026-11-19 13:54:13 | [maratib.android-developer-studio](https://marketplace.visualstudio.com/items?itemName=maratib.android-developer-studio) | Android Developer Studio | 0.0.2 | Lightweight Android development in VS Code for Kotlin, Jetpack Compose, KMP & C… |
+| 2026-11-19 13:57:42 | [masanori-satake.snipgate-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.snipgate-solo) | SnipGate-Solo | 1.0.2 | Show snippets only where they belong. Define rules in settings.json — regular e… |
+| 2026-11-19 14:03:37 | [dutobo.filecon-icons](https://marketplace.visualstudio.com/items?itemName=dutobo.filecon-icons) | Filecon Icons | 0.3.1 | File icon themes with 650+ file-type icons from the Filecon icon pack – in nine… |
+| 2026-11-19 14:11:43 | [Toximiner.python-statement-coverage](https://marketplace.visualstudio.com/items?itemName=Toximiner.python-statement-coverage) | Python Statement Coverage | 0.1.1 | PyCharm-style coverage backgrounds across complete Python statements. |
 
 ## Data source
 
