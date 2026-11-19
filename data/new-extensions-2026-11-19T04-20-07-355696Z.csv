@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T03:18:01.117Z,SolutionLink.fault-tree-analysis-tool,SolutionLink,Fault Tree Analysis,0.9.0,"Write fault trees as text in .fta files, view them as diagrams, extract minimal cut sets, and export standalone HTML reports."
+2026-11-19T03:21:44.66Z,project-chats-tools.project-chat-explorer-for-codex,project-chats-tools,Project Chats for Codex,0.2.0,Find the current project's Codex chats in Explorer and open them in the editor.
+2026-11-19T03:22:24.46Z,DevVN.devvn-markdown,DevVN,DEVVN Markdown,0.3.0,Artifact-style markdown rendering with working local file links and #L line ranges.
+2026-11-19T03:23:11.16Z,longhand.longhand,longhand,Longhand,0.2.0,Private inline code completion from a model that runs on your machine and was trained only on code people wrote before AI assistants existed.
+2026-11-19T03:23:53.843Z,DevVN.opencode-commit,DevVN,OpenCode Commit Message,0.6.0,"Generate a single-line Conventional Commit message with OpenCode, straight from the Source Control input box."
+2026-11-19T03:24:26.13Z,chenbuxiuu.go-code-insight,chenbuxiuu,Go Code Insight,0.2.5,"Go CodeLens for workspace and dependency code (references, implementations, implemented interfaces, methods, package imports), plus inline variable values while debugging. / Go 代码的 CodeLens（引用、实现、实现的接口、方法、包导入），覆盖工作区与依赖包；调试时内联显示变量值。"
+2026-11-19T03:25:49.88Z,huxerui.huxerui,huxerui,HuxerUI,0.1.0,"Create, build, and run HuxerUI projects in Visual Studio Code."
+2026-11-19T03:36:39.653Z,zadeon.latex-dollar-pair,zadeon,LaTeX Dollar Pair,0.1.0,Pair or skip dollar signs in LaTeX editors.
+2026-11-19T03:43:11.463Z,oxidocs.oxi-office-viewer,oxidocs,Oxi — .docx / .xlsx / .pptx editor,0.9.2,"Open, edit and save .docx, .xlsx and .pptx files inside VS Code, rendered by the Oxi engine — a Rust + WebAssembly Office engine measured page by page against Microsoft Office itself. Nothing is uploaded."
+2026-11-19T03:43:21.493Z,rsong.derust,rsong,Derust,0.9.0,"AI-generated, line-anchored readings of Rust: module operations, function walkthroughs, spotlights, and ownership."
+2026-11-19T03:58:54.233Z,lqzh.webull-dev-kit,lqzh,Webull DevKit,0.7.9,生成中文提交草稿、更换 TeamUp 单号，并在项目侧边栏运行 Jenkins → Rancher 开发部署。
+2026-11-19T03:59:57Z,pinecone-studio.pinecone-ai-tutor,pinecone-studio,Pinecone AI Tutor,0.1.0,"An AI tutor for Pinecone Academy students: it catches errors in your terminal and editor and gives step-by-step hints, never the answer, in Mongolian."
+2026-11-19T04:07:44.86Z,greenarmor.gesf-vscode,greenarmor,GESF - Green Engineering Standard Framework,1.7.0,"Real-time GDPR, security, and compliance warnings for your project"
+2026-11-19T04:11:56.123Z,1108762718.vs-code-references,1108762718,VS Code References,1.0.0,Shows inline reference counts across VS Code languages with symbol and reference providers.
