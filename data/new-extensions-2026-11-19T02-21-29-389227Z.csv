@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T01:20:47.62Z,ShunsukeF.tsugi,ShunsukeF,Tsugi,0.1.6,Copilot Chatのコンテキスト消費を表示し、新しいチャットへ引き継ぐ。
+2026-11-19T01:20:49.357Z,ShunsukeF.ne-memory,ShunsukeF,Ne,0.1.6,繰り返した修正指示を分析し、承認後にルールとして登録する。
+2026-11-19T01:20:51.06Z,ShunsukeF.eien,ShunsukeF,Eien,0.1.6,夜間に処理中のまま止まったチャットへ継続指示を送り、Git参照へチェックポイントを残す。
+2026-11-19T01:20:52.957Z,ShunsukeF.vscode-chat-tools-pack,ShunsukeF,Tsugi Eien Ne Pack,0.1.6,Tsugi・Eien・Neをまとめて入れる拡張機能パック。
+2026-11-19T01:24:34.507Z,HiddenTenon.optaize-developer-tools,HiddenTenon,optAIze Developer Tools,0.1.10,Connect to your optAIze control plane and securely load your organization's authorized developer tools.
+2026-11-19T01:28:26.887Z,WarRaft.wc3,WarRaft,WC3,0.0.1,"Warcraft III language support for VS Code — JASS/vJASS, Zinc, Lua and AngelScript: semantic highlighting and live diagnostics."
+2026-11-19T01:36:39Z,zena-lang.vscode-zena,zena-lang,Zena Language,0.1.0,Language support for the Zena programming language
+2026-11-19T01:40:18.18Z,PCK.gitlane-flow,PCK,GitLane Flow,0.1.0,팀 공용 초간단 Git 워크플로우 (develop → YYYYMMDD_작업명 → develop → master)
+2026-11-19T01:44:53.057Z,rajithdev.route-explorer,rajithdev,Route Explorer for Next.js & Express,0.1.0,"See every Next.js and Express route in a sidebar tree, jump to its code, and send it a test request."
+2026-11-19T01:53:49.513Z,RichardPhillip.rust-python-functional-dark-theme,RichardPhillip,Rust Python Functional Dark Theme,0.1.21,A dark color theme optimized for Rust and Python development.
+2026-11-19T01:55:13.26Z,Unsafezero.pdfword,Unsafezero,PDF & Word Viewer,0.0.1,"Fast, lightweight, and offline viewer for PDF and Word (.docx) documents in VS Code"
+2026-11-19T02:09:40.993Z,fw.fw-editor,fw,fw graph editor,0.1.0,Edit fw graph files on a canvas
+2026-11-19T02:10:15.723Z,fw.fw-viewer,fw,fw recording viewer,0.1.0,Replay fw recordings (mcap): behavior trees and taps
+2026-11-19T02:14:41.833Z,RichardPhillip.tempo-language,RichardPhillip,Eigenform Tempo,0.1.0,Syntax highlighting for the Tempo programming language.
