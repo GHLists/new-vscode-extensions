@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 09:19 UTC
+## Latest list — 2026-11-19 10:19 UTC
 
-New extensions published between 2026-11-19 07:19 UTC and 2026-11-19 09:19 UTC.
+New extensions published between 2026-11-19 08:19 UTC and 2026-11-19 10:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T09-19-00-602741Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T10-19-01-967704Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 08:50:51 | [ZBXAPCY.competitive-companion-samples](https://marketplace.visualstudio.com/items?itemName=ZBXAPCY.competitive-companion-samples) | SampleForge | 2.5.1 | A competitive programming sample manager and local judge for C/C++ and Python,… |
-| 2026-11-19 09:03:48 | [KodeMargin.devproof-vscode-telemetry](https://marketplace.visualstudio.com/items?itemName=KodeMargin.devproof-vscode-telemetry) | DevProof (TikTrack) - Privacy-First Wor… | 0.2.0 | Opt-in IDE workspace/branch task mapper, debug session lifecycle, and test runn… |
-| 2026-11-19 09:08:05 | [BSimjoo.kangaroo](https://marketplace.visualstudio.com/items?itemName=BSimjoo.kangaroo) | Kangaroo | 0.1.0 | Inline go-to-line (no dialog) with a jump-back history that survives edits. |
+| 2026-11-19 09:14:23 | [YuHaoran251.metero-netcdf-viewer](https://marketplace.visualstudio.com/items?itemName=YuHaoran251.metero-netcdf-viewer) | Metero NetCDF Viewer | 0.1.0 | NetCDF/NC4 scientific data viewer: status-bar launcher, editor-area visualizati… |
+| 2026-11-19 09:24:55 | [mozilla-ai.otari-vscode](https://marketplace.visualstudio.com/items?itemName=mozilla-ai.otari-vscode) | Otari | 0.1.3 | Your Otari gateway in VS Code: any model in chat, Claude Code and Codex routed… |
+| 2026-11-19 09:36:30 | [localness.localness-vscode](https://marketplace.visualstudio.com/items?itemName=localness.localness-vscode) | Localness | 0.1.0 | Hover, inline hints, diagnostics and a key browser for Localness translation ke… |
+| 2026-11-19 09:38:17 | [andrianllmm.grizzly](https://marketplace.visualstudio.com/items?itemName=andrianllmm.grizzly) | Grizzly | 0.2.0 | Grizzly language support for .griz files and griz Markdown code blocks |
+| 2026-11-19 09:54:24 | [Uranolith.struktogramm](https://marketplace.visualstudio.com/items?itemName=Uranolith.struktogramm) | Struktograf – Nassi-Shneiderman-Strukto… | 0.8.2 | Struktogramme (Nassi-Shneiderman-Diagramme) zeichnen, Schritt für Schritt ausfü… |
 
 ## Data source
 

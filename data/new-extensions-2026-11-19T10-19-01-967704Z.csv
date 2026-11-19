@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T09:14:23.3Z,YuHaoran251.metero-netcdf-viewer,YuHaoran251,Metero NetCDF Viewer,0.1.0,"NetCDF/NC4 scientific data viewer: status-bar launcher, editor-area visualization, multidimensional slicing and zoom. 状态栏入口、主编辑区可视化。"
+2026-11-19T09:24:55.017Z,mozilla-ai.otari-vscode,mozilla-ai,Otari,0.1.3,"Your Otari gateway in VS Code: any model in chat, Claude Code and Codex routed through Otari, and Agent Guardrails in Problems."
+2026-11-19T09:36:30.43Z,localness.localness-vscode,localness,Localness,0.1.0,"Hover, inline hints, diagnostics and a key browser for Localness translation keys."
+2026-11-19T09:38:17.85Z,andrianllmm.grizzly,andrianllmm,Grizzly,0.2.0,Grizzly language support for .griz files and griz Markdown code blocks
+2026-11-19T09:54:24.763Z,Uranolith.struktogramm,Uranolith,Struktograf – Nassi-Shneiderman-Struktogramme,0.8.2,"Struktogramme (Nassi-Shneiderman-Diagramme) zeichnen, Schritt für Schritt ausführen und in Code umwandeln – und umgekehrt: Python, Java, C, C++, C#, JavaScript/TypeScript, Pascal, Kotlin und Rust. Structorizer-kompatibel (.nsd, voller Befehlssatz inkl. Turtleizer), optional mit dem Original-Structor"
