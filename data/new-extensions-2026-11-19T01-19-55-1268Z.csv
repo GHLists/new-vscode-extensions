@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T00:22:15.03Z,alissonpef.agy-button,alissonpef,Agy Button,0.1.0,"Um botão na barra do editor que abre o painel do Antigravity (agy), ao lado dos botões do Claude Code e do Codex."
+2026-11-19T00:24:21.667Z,vadikus.mcpstat-dashboard,vadikus,mcpstat - MCP Usage & Latency Dashboard,0.3.0,"Monitor MCP tool, prompt and resource usage, errors and latency from servers instrumented with mcpstat."
+2026-11-19T00:27:25.297Z,aspael.neurix,aspael,Neurix — LLM Token Calculator,0.2.1,"Tokens, cost in USD/BRL, context window, cheapest format, RAG, budget, cost alerts and local-model VRAM — right inside VS Code. English and Portuguese."
+2026-11-19T00:28:53.24Z,max-bronner.bigfs,max-bronner,bigFS,0.1.1,"Mod the Battle for Middle-earth games in VS Code: browse and edit BIG archives, INI, STR and WND language support, and previews for W3D models, APT movies, maps, textures and audio."
+2026-11-19T00:29:59.737Z,bolu-atx.ghit-vscode,bolu-atx,ghit,0.1.0,Open the ghit GitHub issues and PRs terminal UI inside VS Code.
+2026-11-19T00:39:56.03Z,Edgemodders.edgefab,Edgemodders,EDGEfab,0.1.0,"The EDGE asset maker for Cyberpunk 2077: turn a textured 3D model, your own or made by Tripo from your words, into a prop the game can use."
+2026-11-19T00:42:47.713Z,hyperplasm.hyperplasm,hyperplasm,HyperPlasm,1.0.0,"Language support for HyperPlasm — the photonic computing language. Syntax highlighting, theme-aware file icons, snippets, and language features for .hpm, .pc, .hmx, .hpx, .plx, and .hpc files."
+2026-11-19T00:49:08.927Z,trilinex.trilinex,trilinex,Trilinex,1.0.0,"Language support for Trilinex — the neurotechnology programming language. Syntax highlighting, theme-aware file icons, snippets, and language features for .tlx, .tnt, .ntx, .tn, .ns, and .nsx files."
+2026-11-19T01:13:57.343Z,lean4-ide-tools.lean4-semantic-highlighting,lean4-ide-tools,Lean 4 Semantic Highlighting,0.1.0,"Additional semantic highlighting for Lean types, functions, constructors, fields, and local variables."
