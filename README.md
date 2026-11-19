@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 16:21 UTC
+## Latest list — 2026-11-19 17:19 UTC
 
-New extensions published between 2026-11-19 14:21 UTC and 2026-11-19 16:21 UTC.
+New extensions published between 2026-11-19 15:19 UTC and 2026-11-19 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T16-21-52-702115Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T17-19-45-9892Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 15:37:26 | [dock-colors.vscode-dock-colors](https://marketplace.visualstudio.com/items?itemName=dock-colors.vscode-dock-colors) | Dock Colors | 0.0.1 | Choose a custom VS Code app icon color on macOS. |
-| 2026-11-19 15:42:05 | [delta-solutions.sftp-remote-editor](https://marketplace.visualstudio.com/items?itemName=delta-solutions.sftp-remote-editor) | SFTP Remote Editor | 0.1.1 | Edit files directly on your server over SFTP or FTPS. Browse the server in a si… |
-| 2026-11-19 15:48:02 | [gliide.brainstorm](https://marketplace.visualstudio.com/items?itemName=gliide.brainstorm) | Brainstorm | 0.1.0 | Ask how part of your codebase works and get an animated diagram. |
-| 2026-11-19 15:56:15 | [bluscape.coil](https://marketplace.visualstudio.com/items?itemName=bluscape.coil) | Coil for ESP32 | 0.2.3 | Fast ESP32 debugging on Coil's own JTAG stack: one-key debug, build, flash and… |
-| 2026-11-19 15:57:10 | [MKDeveloperTools.mk-api-client](https://marketplace.visualstudio.com/items?itemName=MKDeveloperTools.mk-api-client) | MK API Client | 1.0.2 | A lightweight, local-first API client for VS Code. |
-| 2026-11-19 16:03:19 | [cityvistion.cgajs](https://marketplace.visualstudio.com/items?itemName=cityvistion.cgajs) | CGA.js — CGA 编译与3D预览 | 0.1.0 | CGA language support with online compile and interactive 3D preview, powered by… |
-| 2026-11-19 16:03:21 | [cityvistion.cityengine](https://marketplace.visualstudio.com/items?itemName=cityvistion.cityengine) | CityEngine 工具箱 — 官方案例库与函数速查 | 0.1.0 | Browse official CityEngine CGA demo library, inspect CGA attributes online, and… |
-| 2026-11-19 16:09:55 | [neilwang.shortcut-launcher](https://marketplace.visualstudio.com/items?itemName=neilwang.shortcut-launcher) | Shortcut Launcher | 0.1.0 | Search 250+ Windows / Office / VS Code / Git / GDB shortcuts and commands with… |
-| 2026-11-19 16:14:00 | [vendayx.vendayx-docker](https://marketplace.visualstudio.com/items?itemName=vendayx.vendayx-docker) | vendayx docker | 0.1.0 | Manage Docker resources from Visual Studio Code. |
+| 2026-11-19 16:24:02 | [ChimarraoTech.polaroica](https://marketplace.visualstudio.com/items?itemName=ChimarraoTech.polaroica) | Polaroica | 0.10.8 | Browse and organize photo libraries — local folders and SMB network shares — in… |
+| 2026-11-19 16:33:41 | [trainvent.arcubic](https://marketplace.visualstudio.com/items?itemName=trainvent.arcubic) | Arcubic | 0.4.2 | Teal, amber and burnt orange on neutral grayscale surfaces. |
+| 2026-11-19 16:42:35 | [unfold-hq.unfold-workbench](https://marketplace.visualstudio.com/items?itemName=unfold-hq.unfold-workbench) | Unfold — Remote Agent Workbench | 0.4.10163 | Steer agent work from VS Code: review evidence and control sessions on your mac… |
+| 2026-11-19 16:43:01 | [QuantagITSolutionsGmbH.quantag-studio](https://marketplace.visualstudio.com/items?itemName=QuantagITSolutionsGmbH.quantag-studio) | Quantag Studio | 1.0.40 | Quantag Studio: Quantum circuit debugger, compiler, and visualizer for OpenQASM… |
+| 2026-11-19 16:47:43 | [AMAMazing.ama-code](https://marketplace.visualstudio.com/items?itemName=AMAMazing.ama-code) | AMA Code | 1.0.0 | Autonomous coding agent right in your IDE, capable of creating/editing files, r… |
+| 2026-11-19 17:09:32 | [vendayx.vendayx](https://marketplace.visualstudio.com/items?itemName=vendayx.vendayx) | Vendayx | 0.1.0 | Lightweight, local scanning for hardcoded credentials. |
 
 ## Data source
 
