@@ -12,20 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 17:19 UTC
+## Latest list — 2026-11-19 18:20 UTC
 
-New extensions published between 2026-11-19 15:19 UTC and 2026-11-19 17:19 UTC.
+New extensions published between 2026-11-19 16:20 UTC and 2026-11-19 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T17-19-45-9892Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T18-20-21-987822Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 16:24:02 | [ChimarraoTech.polaroica](https://marketplace.visualstudio.com/items?itemName=ChimarraoTech.polaroica) | Polaroica | 0.10.8 | Browse and organize photo libraries — local folders and SMB network shares — in… |
-| 2026-11-19 16:33:41 | [trainvent.arcubic](https://marketplace.visualstudio.com/items?itemName=trainvent.arcubic) | Arcubic | 0.4.2 | Teal, amber and burnt orange on neutral grayscale surfaces. |
-| 2026-11-19 16:42:35 | [unfold-hq.unfold-workbench](https://marketplace.visualstudio.com/items?itemName=unfold-hq.unfold-workbench) | Unfold — Remote Agent Workbench | 0.4.10163 | Steer agent work from VS Code: review evidence and control sessions on your mac… |
-| 2026-11-19 16:43:01 | [QuantagITSolutionsGmbH.quantag-studio](https://marketplace.visualstudio.com/items?itemName=QuantagITSolutionsGmbH.quantag-studio) | Quantag Studio | 1.0.40 | Quantag Studio: Quantum circuit debugger, compiler, and visualizer for OpenQASM… |
-| 2026-11-19 16:47:43 | [AMAMazing.ama-code](https://marketplace.visualstudio.com/items?itemName=AMAMazing.ama-code) | AMA Code | 1.0.0 | Autonomous coding agent right in your IDE, capable of creating/editing files, r… |
-| 2026-11-19 17:09:32 | [vendayx.vendayx](https://marketplace.visualstudio.com/items?itemName=vendayx.vendayx) | Vendayx | 0.1.0 | Lightweight, local scanning for hardcoded credentials. |
+| 2026-11-19 17:38:23 | [flightcoders.veyra-blast-radius](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-blast-radius) | Veyra Blast Radius | 1.0.0 | Know what your change can break before you commit. See every file, page, API ro… |
+| 2026-11-19 17:45:08 | [RodrigoMecheri.csharp-object-explorer](https://marketplace.visualstudio.com/items?itemName=RodrigoMecheri.csharp-object-explorer) | C# Object Explorer | 0.1.0 | Explore C# solution types, members, and referenced assemblies. |
+| 2026-11-19 17:48:59 | [vendayx.sql-detective](https://marketplace.visualstudio.com/items?itemName=vendayx.sql-detective) | SQL Detective | 0.1.0 | A lightweight, local static analyzer for SQL files. |
+| 2026-11-19 17:52:01 | [nemesis.vscode-htmx](https://marketplace.visualstudio.com/items?itemName=nemesis.vscode-htmx) | HTMX | 0.1.0 | High-performance HTMX 2.0 language server powered by htmx-analyzer (autocomplet… |
+| 2026-11-19 17:52:17 | [BooterLabs.draftline-vscode-agent](https://marketplace.visualstudio.com/items?itemName=BooterLabs.draftline-vscode-agent) | Draftline | 0.3.0 | Draftline — Native AI Frontend & Codebase Engineering Extension for VS Code. Sy… |
+| 2026-11-19 17:53:38 | [shargus.tiff-viewer-vscode](https://marketplace.visualstudio.com/items?itemName=shargus.tiff-viewer-vscode) | TIFF Viewer VS Code | 0.2.0 | View TIFF, BigTIFF and GeoTIFF images in VS Code, including files far larger th… |
+| 2026-11-19 17:55:10 | [vikash-patel-lorbic-dot-com.gosig](https://marketplace.visualstudio.com/items?itemName=vikash-patel-lorbic-dot-com.gosig) | gosig — Go: Change Signature | 0.1.0 | GoLand-equivalent Change Signature refactoring for Go, backed by the gosig CLI. |
+| 2026-11-19 17:59:28 | [ErmesonSilva.markdown-slides](https://marketplace.visualstudio.com/items?itemName=ErmesonSilva.markdown-slides) | Markdown Slides | 0.1.0 | Transforme arquivos Markdown em apresentações de slides diretamente no VS Code. |
+| 2026-11-19 18:00:15 | [JcDulas.class-scanner](https://marketplace.visualstudio.com/items?itemName=JcDulas.class-scanner) | classScanner | 0.1.0 | Scans a folder of C++ sources and displays an interactive WebGL class diagram t… |
+| 2026-11-19 18:01:49 | [maricastroc.understory-vscode](https://marketplace.visualstudio.com/items?itemName=maricastroc.understory-vscode) | Understory | 0.1.0 | Investigate why a line of code is the way it is, from your editor. |
+| 2026-11-19 18:03:49 | [YoviLabs.just-black-3](https://marketplace.visualstudio.com/items?itemName=YoviLabs.just-black-3) | Just Black 3 | 1.0.0 | A pure black VS Code theme with vibrant syntax highlighting, purple accents, an… |
 
 ## Data source
 

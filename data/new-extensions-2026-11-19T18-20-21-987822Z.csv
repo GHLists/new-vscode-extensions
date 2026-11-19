@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T17:38:23.94Z,flightcoders.veyra-blast-radius,flightcoders,Veyra Blast Radius,1.0.0,"Know what your change can break before you commit. See every file, page, API route, component and test that depends on what you edited, as a list and a graph, and run only the affected tests in one click. JavaScript, TypeScript, React, Vue, Svelte and Python. 100% local."
+2026-11-19T17:45:08.027Z,RodrigoMecheri.csharp-object-explorer,RodrigoMecheri,C# Object Explorer,0.1.0,"Explore C# solution types, members, and referenced assemblies."
+2026-11-19T17:48:59.083Z,vendayx.sql-detective,vendayx,SQL Detective,0.1.0,"A lightweight, local static analyzer for SQL files."
+2026-11-19T17:52:01.263Z,nemesis.vscode-htmx,nemesis,HTMX,0.1.0,"High-performance HTMX 2.0 language server powered by htmx-analyzer (autocompletion, target navigation, hover docs, diagnostics, quick-fixes)"
+2026-11-19T17:52:17.37Z,BooterLabs.draftline-vscode-agent,BooterLabs,Draftline,0.3.0,"Draftline — Native AI Frontend & Codebase Engineering Extension for VS Code. Synthesizes prompts, screenshots, Figma frames, and live URLs into .canvas previews and repository code using Google models (new models coming soon)."
+2026-11-19T17:53:38.917Z,shargus.tiff-viewer-vscode,shargus,TIFF Viewer VS Code,0.2.0,"View TIFF, BigTIFF and GeoTIFF images in VS Code, including files far larger than memory: band composites and band math for multi-band imagery (Sentinel-1, Sentinel-2) with presets, multi-page, tiled, pyramidal (COG), 1–64-bit and float data, and LZW / Deflate / JPEG / ZSTD / WebP / LERC / PackBits"
+2026-11-19T17:55:10.543Z,vikash-patel-lorbic-dot-com.gosig,vikash-patel-lorbic-dot-com,gosig — Go: Change Signature,0.1.0,"GoLand-equivalent Change Signature refactoring for Go, backed by the gosig CLI."
+2026-11-19T17:59:28.013Z,ErmesonSilva.markdown-slides,ErmesonSilva,Markdown Slides,0.1.0,Transforme arquivos Markdown em apresentações de slides diretamente no VS Code.
+2026-11-19T18:00:15.48Z,JcDulas.class-scanner,JcDulas,classScanner,0.1.0,Scans a folder of C++ sources and displays an interactive WebGL class diagram that stays usable beyond 1000 classes.
+2026-11-19T18:01:49.103Z,maricastroc.understory-vscode,maricastroc,Understory,0.1.0,"Investigate why a line of code is the way it is, from your editor."
+2026-11-19T18:03:49.017Z,YoviLabs.just-black-3,YoviLabs,Just Black 3,1.0.0,"A pure black VS Code theme with vibrant syntax highlighting, purple accents, and a clean development interface."
