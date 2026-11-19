@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T05:15:48.8Z,runic-artifex.runic-devkit,runic-artifex,Runic DevKit,0.22.1000,"Runic SDK and Runic Translations in VS Code: dotnet runic dev, F5 of the Window, doctor, the ViewModel/Bridge tree, and MF2/RMF2 authoring through the project-local language server."
+2026-11-19T05:38:34.85Z,Osgood001.deepseek-harness-sidebar,Osgood001,DeepSeek Harness Sidebar by Osgood,0.1.3,Run the local DeepSeek Harness (dsh) web UI in a VS Code sidebar.
+2026-11-19T05:39:09.077Z,TestPublisherMapawade.platformio-PPEM282DVTNew,TestPublisherMapawade,PPEM282 TEST one On Platform New,3.3.8,"Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeRTOS, libOpenCM3, mbed OS, SPL, STM32Cube, Zephyr RTOS, Arduino, ARM, AVR, Espressif (ESP8266/ESP32), FPGA, MCS-51 (8051), MSP430, Nordic (nRF51/nRF52), PIC32, RISC-V, Raspberry Pi (RP2040), STMicroelectronics (STM8/STM32)"
+2026-11-19T05:39:15.52Z,xdev-asia.xdev-ai,xdev-asia,xDev AI,0.3.0,Chat with AI providers and open Claude Code terminals for multiple accounts in VS Code.
+2026-11-19T05:41:06.897Z,AnandShah.djangolens,AnandShah,DjangoLens,0.25.0,"Deep Django codebase intelligence: architecture linting, N+1 detection, migration risk, signals, settings drift, admin UX, URL explorer, API contract drift, and CI-ready CLI. Local-only analysis."
+2026-11-19T05:45:08.517Z,Daniel-ChenJH.hdfs-file-manager-local,Daniel-ChenJH,HDFS File Manager Local Transfer,0.1.0,Use files on your computer when HDFS File Manager runs over Remote SSH.
+2026-11-19T05:46:38.54Z,coderlzw.polyglot-glance,coderlzw,Polyglot Glance,1.0.0,"Preview, navigate and edit translations for React i18next and NestJS i18n."
+2026-11-19T05:51:03.333Z,Daniel-ChenJH.hdfs-file-manager,Daniel-ChenJH,HDFS File Manager,0.1.0,"A lightweight HDFS file browser for VS Code and Cursor. Add a connection to browse, preview, upload, and download files."
+2026-11-19T05:54:56.71Z,buchochelliq-labs.verlato-vscode,buchochelliq-labs,Verlato,0.2.0,"Release notes you can trust, drafted from what your code actually changed. Powered by IntentumDiff and your agent."
+2026-11-19T06:05:32.05Z,omenwd.codex-agent-sessions,omenwd,Codex Agent + Sessions,0.1.0,Open multiple Codex agent sessions in VS Code.
+2026-11-19T06:11:25.563Z,artelo.artelo-vscode,artelo,Artelo,0.1.0,"Brief in, spec, approve, run: the Artelo pipeline in a side panel. Your agents write the code; tests and the build decide."
+2026-11-19T06:16:26.933Z,AlexWonton.antigravity-history-sidebar,AlexWonton,AntiGravity History,0.1.0,"Browse local AntiGravity CLI history by workspace folder with rename and a dedicated Archived view; a static, refresh-on-demand sidebar with no background processes."
