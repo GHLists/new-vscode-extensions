@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 06:20 UTC
+## Latest list — 2026-11-19 07:19 UTC
 
-New extensions published between 2026-11-19 04:20 UTC and 2026-11-19 06:20 UTC.
+New extensions published between 2026-11-19 05:19 UTC and 2026-11-19 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T06-20-25-345375Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T07-19-43-380662Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 05:15:48 | [runic-artifex.runic-devkit](https://marketplace.visualstudio.com/items?itemName=runic-artifex.runic-devkit) | Runic DevKit | 0.22.1000 | Runic SDK and Runic Translations in VS Code: dotnet runic dev, F5 of the Window… |
-| 2026-11-19 05:38:34 | [Osgood001.deepseek-harness-sidebar](https://marketplace.visualstudio.com/items?itemName=Osgood001.deepseek-harness-sidebar) | DeepSeek Harness Sidebar by Osgood | 0.1.3 | Run the local DeepSeek Harness (dsh) web UI in a VS Code sidebar. |
-| 2026-11-19 05:39:09 | [TestPublisherMapawade.platformio-PPEM282DVTNew](https://marketplace.visualstudio.com/items?itemName=TestPublisherMapawade.platformio-PPEM282DVTNew) | PPEM282 TEST one On Platform New | 3.3.8 | Your Gateway to Embedded Software Development Excellence: CMSIS, ESP-IDF, FreeR… |
-| 2026-11-19 05:39:15 | [xdev-asia.xdev-ai](https://marketplace.visualstudio.com/items?itemName=xdev-asia.xdev-ai) | xDev AI | 0.3.0 | Chat with AI providers and open Claude Code terminals for multiple accounts in… |
-| 2026-11-19 05:41:06 | [AnandShah.djangolens](https://marketplace.visualstudio.com/items?itemName=AnandShah.djangolens) | DjangoLens | 0.25.0 | Deep Django codebase intelligence: architecture linting, N+1 detection, migrati… |
-| 2026-11-19 05:45:08 | [Daniel-ChenJH.hdfs-file-manager-local](https://marketplace.visualstudio.com/items?itemName=Daniel-ChenJH.hdfs-file-manager-local) | HDFS File Manager Local Transfer | 0.1.0 | Use files on your computer when HDFS File Manager runs over Remote SSH. |
-| 2026-11-19 05:46:38 | [coderlzw.polyglot-glance](https://marketplace.visualstudio.com/items?itemName=coderlzw.polyglot-glance) | Polyglot Glance | 1.0.0 | Preview, navigate and edit translations for React i18next and NestJS i18n. |
-| 2026-11-19 05:51:03 | [Daniel-ChenJH.hdfs-file-manager](https://marketplace.visualstudio.com/items?itemName=Daniel-ChenJH.hdfs-file-manager) | HDFS File Manager | 0.1.0 | A lightweight HDFS file browser for VS Code and Cursor. Add a connection to bro… |
-| 2026-11-19 05:54:56 | [buchochelliq-labs.verlato-vscode](https://marketplace.visualstudio.com/items?itemName=buchochelliq-labs.verlato-vscode) | Verlato | 0.2.0 | Release notes you can trust, drafted from what your code actually changed. Powe… |
-| 2026-11-19 06:05:32 | [omenwd.codex-agent-sessions](https://marketplace.visualstudio.com/items?itemName=omenwd.codex-agent-sessions) | Codex Agent + Sessions | 0.1.0 | Open multiple Codex agent sessions in VS Code. |
-| 2026-11-19 06:11:25 | [artelo.artelo-vscode](https://marketplace.visualstudio.com/items?itemName=artelo.artelo-vscode) | Artelo | 0.1.0 | Brief in, spec, approve, run: the Artelo pipeline in a side panel. Your agents… |
-| 2026-11-19 06:16:26 | [AlexWonton.antigravity-history-sidebar](https://marketplace.visualstudio.com/items?itemName=AlexWonton.antigravity-history-sidebar) | AntiGravity History | 0.1.0 | Browse local AntiGravity CLI history by workspace folder with rename and a dedi… |
+| 2026-11-19 06:19:35 | [RadwanAlmsora.nexora-ultimate-theme](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.nexora-ultimate-theme) | Nexora — Ultimate UI & Syntax Themes | 1.0.0 | A complete, carefully tuned Visual Studio Code theme suite: editor syntax, sema… |
+| 2026-11-19 06:35:48 | [bitno.bitno-gradle](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-gradle) | Language Server for Gradle by Bitno | 2026.11.26 | A lightweight, fast Gradle language server for VS Code |
+| 2026-11-19 06:36:13 | [SiddhantaMaity.quick-code-templates](https://marketplace.visualstudio.com/items?itemName=SiddhantaMaity.quick-code-templates) | Quick Code Templates | 0.24.65 | Language-aware coding templates with composition, previews, saved templates and… |
+| 2026-11-19 06:47:07 | [bitno.bitno-jvm](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-jvm) | Platform for the JVM by Bitno | 2026.11.29 | Required by Language Server for Java by Bitno and Language Server for Kotlin by… |
+| 2026-11-19 06:56:04 | [bitno.bitno-java](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-java) | Language Server for Java by Bitno | 2026.11.29 | A lightweight, fast Java language server for VS Code |
+| 2026-11-19 06:56:35 | [bitno.bitno-kotlin](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-kotlin) | Language Server for Kotlin by Bitno | 2026.11.29 | A lightweight, private Kotlin language server for VS Code |
+| 2026-11-19 06:56:56 | [bitno.bitno-java-pack](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-java-pack) | Bitno Pack for Java | 2026.11.29 | Bitno's language servers for Java projects in one install: Java, Gradle and Mav… |
+| 2026-11-19 06:56:57 | [bitno.bitno-kotlin-pack](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-kotlin-pack) | Bitno Pack for Kotlin | 2026.11.29 | Bitno's language servers for Kotlin projects in one install: Kotlin, Gradle and… |
+| 2026-11-19 07:00:06 | [bitno.bitno-tilt](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-tilt) | Language Server for Tilt by Bitno | 2026.11.8 | A lightweight Tiltfile language server for VS Code: completion, hover, signatur… |
+| 2026-11-19 07:02:27 | [tanding0304.vscode-reference-panel](https://marketplace.visualstudio.com/items?itemName=tanding0304.vscode-reference-panel) | Reference Panel | 0.5.0 | Browse semantic references and code previews in the bottom panel. |
+| 2026-11-19 07:13:40 | [kyuzan0.ag-ide-prompt-enhancer](https://marketplace.visualstudio.com/items?itemName=kyuzan0.ag-ide-prompt-enhancer) | Antigravity IDE Prompt Enhancer | 1.1.0 | Adds an Enhance Prompt button, customizable keyboard shortcut, and settings in… |
 
 ## Data source
 

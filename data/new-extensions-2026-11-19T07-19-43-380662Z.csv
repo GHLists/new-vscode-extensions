@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T06:19:35.75Z,RadwanAlmsora.nexora-ultimate-theme,RadwanAlmsora,Nexora — Ultimate UI & Syntax Themes,1.0.0,"A complete, carefully tuned Visual Studio Code theme suite: editor syntax, semantic highlighting, workbench, terminal, file icons and product icons."
+2026-11-19T06:35:48.787Z,bitno.bitno-gradle,bitno,Language Server for Gradle by Bitno,2026.11.26,"A lightweight, fast Gradle language server for VS Code"
+2026-11-19T06:36:13.727Z,SiddhantaMaity.quick-code-templates,SiddhantaMaity,Quick Code Templates,0.24.65,"Language-aware coding templates with composition, previews, saved templates and reference help across thirty-four languages."
+2026-11-19T06:47:07.01Z,bitno.bitno-jvm,bitno,Platform for the JVM by Bitno,2026.11.29,"Required by Language Server for Java by Bitno and Language Server for Kotlin by Bitno: it runs their server, and does nothing on its own"
+2026-11-19T06:56:04.323Z,bitno.bitno-java,bitno,Language Server for Java by Bitno,2026.11.29,"A lightweight, fast Java language server for VS Code"
+2026-11-19T06:56:35.753Z,bitno.bitno-kotlin,bitno,Language Server for Kotlin by Bitno,2026.11.29,"A lightweight, private Kotlin language server for VS Code"
+2026-11-19T06:56:56.9Z,bitno.bitno-java-pack,bitno,Bitno Pack for Java,2026.11.29,"Bitno's language servers for Java projects in one install: Java, Gradle and Maven."
+2026-11-19T06:56:57.02Z,bitno.bitno-kotlin-pack,bitno,Bitno Pack for Kotlin,2026.11.29,"Bitno's language servers for Kotlin projects in one install: Kotlin, Gradle and Maven."
+2026-11-19T07:00:06.557Z,bitno.bitno-tilt,bitno,Language Server for Tilt by Bitno,2026.11.8,"A lightweight Tiltfile language server for VS Code: completion, hover, signature help, symbols, diagnostics and Run buttons for Tilt's Starlark API"
+2026-11-19T07:02:27.847Z,tanding0304.vscode-reference-panel,tanding0304,Reference Panel,0.5.0,Browse semantic references and code previews in the bottom panel.
+2026-11-19T07:13:40.093Z,kyuzan0.ag-ide-prompt-enhancer,kyuzan0,Antigravity IDE Prompt Enhancer,1.1.0,"Adds an Enhance Prompt button, customizable keyboard shortcut, and settings in Antigravity IDE while preserving @mentions and attachments."
