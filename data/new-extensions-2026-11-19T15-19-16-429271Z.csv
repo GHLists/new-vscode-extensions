@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T14:16:07.377Z,rusha-corp.task-master-vscode,rusha-corp,Task Master CE,0.1.3,Contract-engineering governance and delivery tracking for VS Code
+2026-11-19T14:28:23.137Z,worsley.worsley,worsley,Worsley,0.1.0,"An LLM that points you at the code: ask about a selection, change it across the codebase with the tests kept passing, or take a step-by-step tour. Works with a local llama.cpp server or OpenRouter."
+2026-11-19T14:28:25.7Z,YW.session-sweeper,YW,Session Sweeper for Claude Code & Codex,0.1.0,"Browse, search and completely delete local Claude Code and Codex conversations: transcripts, sub-agent logs, file snapshots, temp folders and helper threads."
+2026-11-19T14:38:01.147Z,tomascosta.parquet-viewer-editor,tomascosta,Parquet Viewer Editor,0.3.0,"View and edit Parquet files of any size and compression: fast table with search, filter and sort, exact decimals and 64-bit integers, edit values, delete rows, column profiles and file comparison."
+2026-11-19T14:40:19.497Z,peppeamodio.claude-code-chat-manager,peppeamodio,C3M,1.0.0,"View, search, organize, resume, rename and delete your Claude Code chats, with Trash and protection of recent chats. · Vedi, cerca, ordina, riprendi, rinomina ed elimina le chat di Claude Code, con Cestino e protezione delle chat recenti."
+2026-11-19T14:54:36.167Z,Toximiner.live-file-colors,Toximiner,Live File Colors,0.1.0,PyCharm-style file name colors for unsaved changes in editor tabs and Explorer.
+2026-11-19T14:55:01.26Z,vendayx.api-tester-pro,vendayx,Vendayx API Tester Pro,1.0.0,A lightweight REST API client inside Visual Studio Code.
+2026-11-19T15:07:02.08Z,rizzzuu.solveai,rizzzuu,SolveAI — Local AI Code Solver,0.1.0,"Solve coding questions directly inside VS Code using a local Ollama LLM. Select or type a question, click Solve, and replace it with the generated answer."
+2026-11-19T15:11:16.967Z,haagos.css-compass,haagos,CSS Compass,0.1.0,"Go to definition, hover and completion for CSS Modules, global classes and custom properties."

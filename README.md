@@ -12,27 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 14:21 UTC
+## Latest list — 2026-11-19 15:19 UTC
 
-New extensions published between 2026-11-19 12:21 UTC and 2026-11-19 14:21 UTC.
+New extensions published between 2026-11-19 13:19 UTC and 2026-11-19 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T14-21-20-979358Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T15-19-16-429271Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 13:15:47 | [robertorvbj.varesa-omarchy](https://marketplace.visualstudio.com/items?itemName=robertorvbj.varesa-omarchy) | Varesa Omarchy | 1.0.0 | A light theme in the pink and mint colors of Varesa (Genshin Impact). Unofficia… |
-| 2026-11-19 13:16:01 | [robertorvbj.mualani-omarchy](https://marketplace.visualstudio.com/items?itemName=robertorvbj.mualani-omarchy) | Mualani Omarchy | 1.0.0 | Dark and light themes in the surf colors of Mualani (Genshin Impact): ocean blu… |
-| 2026-11-19 13:17:15 | [melonruntime.melon-proto](https://marketplace.visualstudio.com/items?itemName=melonruntime.melon-proto) | Melon Proto | 1.0.0 | melon 框架 proto 文件支持：语法高亮、跨文件智能补全、悬浮文档、跳转与大纲（clientdata / crossdata / proxymessa… |
-| 2026-11-19 13:28:13 | [melonruntime.melon-phase-syntax](https://marketplace.visualstudio.com/items?itemName=melonruntime.melon-phase-syntax) | Melon Phase Syntax | 1.0.0 | .phase 文件的语法高亮、格式化与资源跳转（phase DSL） |
-| 2026-11-19 13:32:29 | [dmitrysrtx.colab-gpu-status](https://marketplace.visualstudio.com/items?itemName=dmitrysrtx.colab-gpu-status) | Google Colab GPU Status | 0.2.1 | Native VS Code status bar extension for Google Colab: live GPU/VRAM metrics, Co… |
-| 2026-11-19 13:33:05 | [argalla.viewkeeper](https://marketplace.visualstudio.com/items?itemName=argalla.viewkeeper) | ViewKeeper | 0.1.0 | See your dev server on several devices and routes at once inside VS Code. Scrol… |
-| 2026-11-19 13:35:48 | [zhaosongtao.paper-reading-workbench](https://marketplace.visualstudio.com/items?itemName=zhaosongtao.paper-reading-workbench) | 纸感阅读 | 2.0.0 | 为编辑器、侧栏、终端和 Markdown 预览提供纸纹与阅读排版，可一键启用或恢复。 |
-| 2026-11-19 13:39:01 | [agentpeepsx.agentpeeps](https://marketplace.visualstudio.com/items?itemName=agentpeepsx.agentpeeps) | Agent Peeps | 0.1.1 | See which AI agent or subagent (Claude Code, Codex, Copilot, Antigravity) is wo… |
-| 2026-11-19 13:50:22 | [Zyrndotio.ghost-trace](https://marketplace.visualstudio.com/items?itemName=Zyrndotio.ghost-trace) | ghost-trace | 0.3.0 | Finds phantom errors in your code on blank lines. |
-| 2026-11-19 13:54:13 | [maratib.android-developer-studio](https://marketplace.visualstudio.com/items?itemName=maratib.android-developer-studio) | Android Developer Studio | 0.0.2 | Lightweight Android development in VS Code for Kotlin, Jetpack Compose, KMP & C… |
-| 2026-11-19 13:57:42 | [masanori-satake.snipgate-solo](https://marketplace.visualstudio.com/items?itemName=masanori-satake.snipgate-solo) | SnipGate-Solo | 1.0.2 | Show snippets only where they belong. Define rules in settings.json — regular e… |
-| 2026-11-19 14:03:37 | [dutobo.filecon-icons](https://marketplace.visualstudio.com/items?itemName=dutobo.filecon-icons) | Filecon Icons | 0.3.1 | File icon themes with 650+ file-type icons from the Filecon icon pack – in nine… |
-| 2026-11-19 14:11:43 | [Toximiner.python-statement-coverage](https://marketplace.visualstudio.com/items?itemName=Toximiner.python-statement-coverage) | Python Statement Coverage | 0.1.1 | PyCharm-style coverage backgrounds across complete Python statements. |
+| 2026-11-19 14:16:07 | [rusha-corp.task-master-vscode](https://marketplace.visualstudio.com/items?itemName=rusha-corp.task-master-vscode) | Task Master CE | 0.1.3 | Contract-engineering governance and delivery tracking for VS Code |
+| 2026-11-19 14:28:23 | [worsley.worsley](https://marketplace.visualstudio.com/items?itemName=worsley.worsley) | Worsley | 0.1.0 | An LLM that points you at the code: ask about a selection, change it across the… |
+| 2026-11-19 14:28:25 | [YW.session-sweeper](https://marketplace.visualstudio.com/items?itemName=YW.session-sweeper) | Session Sweeper for Claude Code & Codex | 0.1.0 | Browse, search and completely delete local Claude Code and Codex conversations:… |
+| 2026-11-19 14:38:01 | [tomascosta.parquet-viewer-editor](https://marketplace.visualstudio.com/items?itemName=tomascosta.parquet-viewer-editor) | Parquet Viewer Editor | 0.3.0 | View and edit Parquet files of any size and compression: fast table with search… |
+| 2026-11-19 14:40:19 | [peppeamodio.claude-code-chat-manager](https://marketplace.visualstudio.com/items?itemName=peppeamodio.claude-code-chat-manager) | C3M | 1.0.0 | View, search, organize, resume, rename and delete your Claude Code chats, with… |
+| 2026-11-19 14:54:36 | [Toximiner.live-file-colors](https://marketplace.visualstudio.com/items?itemName=Toximiner.live-file-colors) | Live File Colors | 0.1.0 | PyCharm-style file name colors for unsaved changes in editor tabs and Explorer. |
+| 2026-11-19 14:55:01 | [vendayx.api-tester-pro](https://marketplace.visualstudio.com/items?itemName=vendayx.api-tester-pro) | Vendayx API Tester Pro | 1.0.0 | A lightweight REST API client inside Visual Studio Code. |
+| 2026-11-19 15:07:02 | [rizzzuu.solveai](https://marketplace.visualstudio.com/items?itemName=rizzzuu.solveai) | SolveAI — Local AI Code Solver | 0.1.0 | Solve coding questions directly inside VS Code using a local Ollama LLM. Select… |
+| 2026-11-19 15:11:16 | [haagos.css-compass](https://marketplace.visualstudio.com/items?itemName=haagos.css-compass) | CSS Compass | 0.1.0 | Go to definition, hover and completion for CSS Modules, global classes and cust… |
 
 ## Data source
 
