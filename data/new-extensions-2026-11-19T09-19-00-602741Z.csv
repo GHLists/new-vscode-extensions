@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T08:50:51.99Z,ZBXAPCY.competitive-companion-samples,ZBXAPCY,SampleForge,2.5.1,"A competitive programming sample manager and local judge for C/C++ and Python, with Competitive Companion import."
+2026-11-19T09:03:48.717Z,KodeMargin.devproof-vscode-telemetry,KodeMargin,DevProof (TikTrack) - Privacy-First Work Verification,0.2.0,"Opt-in IDE workspace/branch task mapper, debug session lifecycle, and test runner summary collector for DevProof (zero source code or keystroke exfiltration)."
+2026-11-19T09:08:05.593Z,BSimjoo.kangaroo,BSimjoo,Kangaroo,0.1.0,Inline go-to-line (no dialog) with a jump-back history that survives edits.
