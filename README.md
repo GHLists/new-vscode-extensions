@@ -12,25 +12,31 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 18:20 UTC
+## Latest list — 2026-11-19 19:20 UTC
 
-New extensions published between 2026-11-19 16:20 UTC and 2026-11-19 18:20 UTC.
+New extensions published between 2026-11-19 17:20 UTC and 2026-11-19 19:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T18-20-21-987822Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T19-20-49-885731Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 17:38:23 | [flightcoders.veyra-blast-radius](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-blast-radius) | Veyra Blast Radius | 1.0.0 | Know what your change can break before you commit. See every file, page, API ro… |
-| 2026-11-19 17:45:08 | [RodrigoMecheri.csharp-object-explorer](https://marketplace.visualstudio.com/items?itemName=RodrigoMecheri.csharp-object-explorer) | C# Object Explorer | 0.1.0 | Explore C# solution types, members, and referenced assemblies. |
-| 2026-11-19 17:48:59 | [vendayx.sql-detective](https://marketplace.visualstudio.com/items?itemName=vendayx.sql-detective) | SQL Detective | 0.1.0 | A lightweight, local static analyzer for SQL files. |
-| 2026-11-19 17:52:01 | [nemesis.vscode-htmx](https://marketplace.visualstudio.com/items?itemName=nemesis.vscode-htmx) | HTMX | 0.1.0 | High-performance HTMX 2.0 language server powered by htmx-analyzer (autocomplet… |
-| 2026-11-19 17:52:17 | [BooterLabs.draftline-vscode-agent](https://marketplace.visualstudio.com/items?itemName=BooterLabs.draftline-vscode-agent) | Draftline | 0.3.0 | Draftline — Native AI Frontend & Codebase Engineering Extension for VS Code. Sy… |
-| 2026-11-19 17:53:38 | [shargus.tiff-viewer-vscode](https://marketplace.visualstudio.com/items?itemName=shargus.tiff-viewer-vscode) | TIFF Viewer VS Code | 0.2.0 | View TIFF, BigTIFF and GeoTIFF images in VS Code, including files far larger th… |
-| 2026-11-19 17:55:10 | [vikash-patel-lorbic-dot-com.gosig](https://marketplace.visualstudio.com/items?itemName=vikash-patel-lorbic-dot-com.gosig) | gosig — Go: Change Signature | 0.1.0 | GoLand-equivalent Change Signature refactoring for Go, backed by the gosig CLI. |
-| 2026-11-19 17:59:28 | [ErmesonSilva.markdown-slides](https://marketplace.visualstudio.com/items?itemName=ErmesonSilva.markdown-slides) | Markdown Slides | 0.1.0 | Transforme arquivos Markdown em apresentações de slides diretamente no VS Code. |
-| 2026-11-19 18:00:15 | [JcDulas.class-scanner](https://marketplace.visualstudio.com/items?itemName=JcDulas.class-scanner) | classScanner | 0.1.0 | Scans a folder of C++ sources and displays an interactive WebGL class diagram t… |
-| 2026-11-19 18:01:49 | [maricastroc.understory-vscode](https://marketplace.visualstudio.com/items?itemName=maricastroc.understory-vscode) | Understory | 0.1.0 | Investigate why a line of code is the way it is, from your editor. |
-| 2026-11-19 18:03:49 | [YoviLabs.just-black-3](https://marketplace.visualstudio.com/items?itemName=YoviLabs.just-black-3) | Just Black 3 | 1.0.0 | A pure black VS Code theme with vibrant syntax highlighting, purple accents, an… |
+| 2026-11-19 18:16:19 | [local-ai-studio.vscode-pipeline-plugin](https://marketplace.visualstudio.com/items?itemName=local-ai-studio.vscode-pipeline-plugin) | Pipeline Flows | 0.10.4 | Visual pipelines inside VS Code — replace brittle bash and tasks.json with read… |
+| 2026-11-19 18:17:05 | [Esri.arcgis-pro-sdk-vs-code-integration](https://marketplace.visualstudio.com/items?itemName=Esri.arcgis-pro-sdk-vs-code-integration) | ArcGIS Pro SDK for .NET | 3.8.4371 | A collection of project and item templates to create ArcGIS Pro Add-ins. |
+| 2026-11-19 18:17:18 | [flightcoders.veyra-hotspots](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-hotspots) | Veyra Hotspots | 1.0.0 | A living heat map of your codebase. Find the files where bugs live: complex cod… |
+| 2026-11-19 18:19:34 | [rodrigues-dev.rodrigues-theme](https://marketplace.visualstudio.com/items?itemName=rodrigues-dev.rodrigues-theme) | Rodrigues Theme | 0.0.1 | Tema escuro baseado no Min Dark, com barra de status rosa. |
+| 2026-11-19 18:21:50 | [interface-layer.claude-auto-split-fix](https://marketplace.visualstudio.com/items?itemName=interface-layer.claude-auto-split-fix) | Auto-split Fix for New Claude Code Tabs | 0.4.1 | Fix Claude tabs. No splitting! |
+| 2026-11-19 18:27:49 | [debjoy-howlader.rosin-theme](https://marketplace.visualstudio.com/items?itemName=debjoy-howlader.rosin-theme) | Rosin | 1.0.1 | Six calm, low-glare dark themes, including a stealth and an OLED variant, with… |
+| 2026-11-19 18:37:00 | [bitno.bitno-markdown](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-markdown) | Language Server for Markdown by Bitno | 2026.11.8 | A private, fast Markdown formatter and linter for VS Code |
+| 2026-11-19 18:40:04 | [plyground.pas-turkce-rust](https://marketplace.visualstudio.com/items?itemName=plyground.pas-turkce-rust) | Pas (Turkce Rust) | 0.3.0 | Rust'ı Türkçe anahtar sözcüklerle yaz: renklendirme, Türkçe hata mesajları, tan… |
+| 2026-11-19 18:42:44 | [californiaAlmonds.uncenai-free-gpu](https://marketplace.visualstudio.com/items?itemName=californiaAlmonds.uncenai-free-gpu) | UncenAI — 1-Click Free T4 GPU (Colab, L… | 1.0.1 | 1-click Free T4 GPU launcher (Colab, Lightning.ai, Modal), quota monitor & hot-… |
+| 2026-11-19 18:45:58 | [abstracta.vscode-cobalto](https://marketplace.visualstudio.com/items?itemName=abstracta.vscode-cobalto) | Cobalto | 0.1.0 | Unit testing for COBOL with Cobalto: Test Explorer, coverage in the gutter, deb… |
+| 2026-11-19 18:47:58 | [zovo.zovo-hwp-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-hwp-viewer) | HWP Viewer & HWPX Reader | 0.1.0 | HWP viewer and HWPX reader for VS Code: open Hangul .hwp (HWP 5.0) and .hwpx do… |
+| 2026-11-19 18:49:34 | [bitno.bitno-toml](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-toml) | Language Server for TOML by Bitno | 2026.11.10 | A private, fast TOML formatter, linter and schema-aware editor for VS Code, on… |
+| 2026-11-19 18:54:17 | [HagiCode.hagicode](https://marketplace.visualstudio.com/items?itemName=HagiCode.hagicode) | HagiCode | 0.0.1001 | Open your HagiCode dashboard from Visual Studio Code. |
+| 2026-11-19 18:58:34 | [bitno.bitno-yaml](https://marketplace.visualstudio.com/items?itemName=bitno.bitno-yaml) | Language Server for YAML by Bitno | 2026.11.9 | A private, fast YAML formatter, linter and schema-aware editor for VS Code, on… |
+| 2026-11-19 19:01:34 | [simonjamesfowler-ux.rebel-bot-swarm](https://marketplace.visualstudio.com/items?itemName=simonjamesfowler-ux.rebel-bot-swarm) | Rebel Bot Swarm | 0.2.0 | See your Claude Code sessions as a team: status, original avatars, who holds wh… |
+| 2026-11-19 19:03:35 | [zovo.zovo-msgpack-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-msgpack-viewer) | MsgPack Viewer & BSON, CBOR | 0.1.0 | MsgPack viewer for VS Code: open MessagePack (.msgpack, .mpk), BSON and CBOR fi… |
+| 2026-11-19 19:13:13 | [TheoEwzZer.sheetwise-xlsx](https://marketplace.visualstudio.com/items?itemName=TheoEwzZer.sheetwise-xlsx) | Sheetwise XLSX Editor | 0.1.0 | View and edit .xlsx spreadsheets in VS Code with their real formatting: formula… |
 
 ## Data source
 
