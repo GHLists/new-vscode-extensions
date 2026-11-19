@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T19:19:40.823Z,nearo.nearo-gaze,nearo,Nearo Gaze,1.4.2,"Dark theme with desaturated blue-cyan backgrounds and vivid neon accents: cyan, blue-violet, orange-yellow, reddish magenta and lime."
+2026-11-19T19:41:12.057Z,MarioEscuderoIzquierdo.gitbrainslog,MarioEscuderoIzquierdo,GitBrainsLog,1.0.0,"Panel de Git Log al estilo de los IDE de JetBrains: ramas, grafo de commits, detalles y menú contextual."
+2026-11-19T20:12:46.043Z,zovo.zovo-mcap-viewer,zovo,MCAP Viewer & ROS Bag Viewer,0.1.0,"MCAP viewer for VS Code: open .mcap and ROS 1 .bag files to see topics, message types, counts, rates, the time range, schemas and chunk compression, read decoded messages (ROS 1, ROS 2 CDR, JSON, protobuf) and plot a field over time. Offline, no account."
+2026-11-19T20:14:44.857Z,zovo.zovo-pcd-viewer,zovo,PCD Viewer & LAS Point Cloud,0.1.0,"PCD viewer for VS Code: open .pcd point clouds (ascii, binary, binary_compressed) and uncompressed .las LiDAR files in a 3D view. Color by height, intensity, RGB, label or class with a legend, read the header and field table, pick a point to see its fields. Offline, no account."
