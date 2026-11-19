@@ -12,23 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 15:19 UTC
+## Latest list — 2026-11-19 16:21 UTC
 
-New extensions published between 2026-11-19 13:19 UTC and 2026-11-19 15:19 UTC.
+New extensions published between 2026-11-19 14:21 UTC and 2026-11-19 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T15-19-16-429271Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T16-21-52-702115Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 14:16:07 | [rusha-corp.task-master-vscode](https://marketplace.visualstudio.com/items?itemName=rusha-corp.task-master-vscode) | Task Master CE | 0.1.3 | Contract-engineering governance and delivery tracking for VS Code |
-| 2026-11-19 14:28:23 | [worsley.worsley](https://marketplace.visualstudio.com/items?itemName=worsley.worsley) | Worsley | 0.1.0 | An LLM that points you at the code: ask about a selection, change it across the… |
-| 2026-11-19 14:28:25 | [YW.session-sweeper](https://marketplace.visualstudio.com/items?itemName=YW.session-sweeper) | Session Sweeper for Claude Code & Codex | 0.1.0 | Browse, search and completely delete local Claude Code and Codex conversations:… |
-| 2026-11-19 14:38:01 | [tomascosta.parquet-viewer-editor](https://marketplace.visualstudio.com/items?itemName=tomascosta.parquet-viewer-editor) | Parquet Viewer Editor | 0.3.0 | View and edit Parquet files of any size and compression: fast table with search… |
-| 2026-11-19 14:40:19 | [peppeamodio.claude-code-chat-manager](https://marketplace.visualstudio.com/items?itemName=peppeamodio.claude-code-chat-manager) | C3M | 1.0.0 | View, search, organize, resume, rename and delete your Claude Code chats, with… |
-| 2026-11-19 14:54:36 | [Toximiner.live-file-colors](https://marketplace.visualstudio.com/items?itemName=Toximiner.live-file-colors) | Live File Colors | 0.1.0 | PyCharm-style file name colors for unsaved changes in editor tabs and Explorer. |
-| 2026-11-19 14:55:01 | [vendayx.api-tester-pro](https://marketplace.visualstudio.com/items?itemName=vendayx.api-tester-pro) | Vendayx API Tester Pro | 1.0.0 | A lightweight REST API client inside Visual Studio Code. |
-| 2026-11-19 15:07:02 | [rizzzuu.solveai](https://marketplace.visualstudio.com/items?itemName=rizzzuu.solveai) | SolveAI — Local AI Code Solver | 0.1.0 | Solve coding questions directly inside VS Code using a local Ollama LLM. Select… |
-| 2026-11-19 15:11:16 | [haagos.css-compass](https://marketplace.visualstudio.com/items?itemName=haagos.css-compass) | CSS Compass | 0.1.0 | Go to definition, hover and completion for CSS Modules, global classes and cust… |
+| 2026-11-19 15:37:26 | [dock-colors.vscode-dock-colors](https://marketplace.visualstudio.com/items?itemName=dock-colors.vscode-dock-colors) | Dock Colors | 0.0.1 | Choose a custom VS Code app icon color on macOS. |
+| 2026-11-19 15:42:05 | [delta-solutions.sftp-remote-editor](https://marketplace.visualstudio.com/items?itemName=delta-solutions.sftp-remote-editor) | SFTP Remote Editor | 0.1.1 | Edit files directly on your server over SFTP or FTPS. Browse the server in a si… |
+| 2026-11-19 15:48:02 | [gliide.brainstorm](https://marketplace.visualstudio.com/items?itemName=gliide.brainstorm) | Brainstorm | 0.1.0 | Ask how part of your codebase works and get an animated diagram. |
+| 2026-11-19 15:56:15 | [bluscape.coil](https://marketplace.visualstudio.com/items?itemName=bluscape.coil) | Coil for ESP32 | 0.2.3 | Fast ESP32 debugging on Coil's own JTAG stack: one-key debug, build, flash and… |
+| 2026-11-19 15:57:10 | [MKDeveloperTools.mk-api-client](https://marketplace.visualstudio.com/items?itemName=MKDeveloperTools.mk-api-client) | MK API Client | 1.0.2 | A lightweight, local-first API client for VS Code. |
+| 2026-11-19 16:03:19 | [cityvistion.cgajs](https://marketplace.visualstudio.com/items?itemName=cityvistion.cgajs) | CGA.js — CGA 编译与3D预览 | 0.1.0 | CGA language support with online compile and interactive 3D preview, powered by… |
+| 2026-11-19 16:03:21 | [cityvistion.cityengine](https://marketplace.visualstudio.com/items?itemName=cityvistion.cityengine) | CityEngine 工具箱 — 官方案例库与函数速查 | 0.1.0 | Browse official CityEngine CGA demo library, inspect CGA attributes online, and… |
+| 2026-11-19 16:09:55 | [neilwang.shortcut-launcher](https://marketplace.visualstudio.com/items?itemName=neilwang.shortcut-launcher) | Shortcut Launcher | 0.1.0 | Search 250+ Windows / Office / VS Code / Git / GDB shortcuts and commands with… |
+| 2026-11-19 16:14:00 | [vendayx.vendayx-docker](https://marketplace.visualstudio.com/items?itemName=vendayx.vendayx-docker) | vendayx docker | 0.1.0 | Manage Docker resources from Visual Studio Code. |
 
 ## Data source
 

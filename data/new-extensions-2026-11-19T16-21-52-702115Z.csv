@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T15:37:26.12Z,dock-colors.vscode-dock-colors,dock-colors,Dock Colors,0.0.1,Choose a custom VS Code app icon color on macOS.
+2026-11-19T15:42:05.753Z,delta-solutions.sftp-remote-editor,delta-solutions,SFTP Remote Editor,0.1.1,"Edit files directly on your server over SFTP or FTPS. Browse the server in a side panel, open a file, change it and save: no local copy, no upload step. Uses your existing .vscode/sftp.json."
+2026-11-19T15:48:02.727Z,gliide.brainstorm,gliide,Brainstorm,0.1.0,Ask how part of your codebase works and get an animated diagram.
+2026-11-19T15:56:15.77Z,bluscape.coil,bluscape,Coil for ESP32,0.2.3,"Fast ESP32 debugging on Coil's own JTAG stack: one-key debug, build, flash and monitor for ESP-IDF projects."
+2026-11-19T15:57:10.477Z,MKDeveloperTools.mk-api-client,MKDeveloperTools,MK API Client,1.0.2,"A lightweight, local-first API client for VS Code."
+2026-11-19T16:03:19.647Z,cityvistion.cgajs,cityvistion,CGA.js — CGA 编译与3D预览,0.1.0,"CGA language support with online compile and interactive 3D preview, powered by cgajs.com."
+2026-11-19T16:03:21.95Z,cityvistion.cityengine,cityvistion,CityEngine 工具箱 — 官方案例库与函数速查,0.1.0,"Browse official CityEngine CGA demo library, inspect CGA attributes online, and get builtin function reference on hover. Powered by cityengine.cn."
+2026-11-19T16:09:55.707Z,neilwang.shortcut-launcher,neilwang,Shortcut Launcher,0.1.0,Search 250+ Windows / Office / VS Code / Git / GDB shortcuts and commands with Chinese descriptions. Copy commands or view keycaps without leaving VS Code.
+2026-11-19T16:14:00.633Z,vendayx.vendayx-docker,vendayx,vendayx docker,0.1.0,Manage Docker resources from Visual Studio Code.
