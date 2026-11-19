@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T10:08:26.673Z,RenesasElectronicsCorporation.renesas-fsp-smart-configurator,RenesasElectronicsCorporation,Renesas FSP UI Smart Configurator,2.40.1,Preview: The Smart Configurator allows graphical configuration of Renesas FSP projects.
+2026-11-19T10:32:35.657Z,jitendra-kumarr.syntaxswap,jitendra-kumarr,SyntaxSwap,0.1.0,"Convert code between programming languages using AI, with a real syntax check on the result."
+2026-11-19T10:33:46.64Z,CodeJam.codejam-workspace,CodeJam,CodeJam Workspace,1.0.6,"Repository-aware team chat, code discussions, searchable decisions, reviewed AI drafts, and audio huddles."
+2026-11-19T10:38:42.56Z,dewan.git-assist,dewan,Git Assist by Dewan,0.5.3,使用自定义 AI API 生成提交信息、审查分支合并、分析并解决 Git 冲突。
+2026-11-19T10:47:58.883Z,linmengmeng-1314.agent-worktree-monitor,linmengmeng-1314,Agent Worktree Monitor,0.1.0,多 Agent Git Worktree 代码变更监控:worktree 发现、变更列表、基准分支统计、跨 worktree 重叠检测
+2026-11-19T10:50:06.103Z,Prashant6769.3d-viewer,Prashant6769,3d Viewer Prabhu,0.0.1,visualize step files
+2026-11-19T10:54:41.01Z,abekdev.markflow-preview,abekdev,MarkFlow Markdown Preview,0.1.0,"Fast, secure, and native Markdown preview and utilities powered by MarkFlow"

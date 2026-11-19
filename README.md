@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 10:19 UTC
+## Latest list — 2026-11-19 11:19 UTC
 
-New extensions published between 2026-11-19 08:19 UTC and 2026-11-19 10:19 UTC.
+New extensions published between 2026-11-19 09:19 UTC and 2026-11-19 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T10-19-01-967704Z.csv)
+[Full CSV](data/new-extensions-2026-11-19T11-19-39-301294Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 09:14:23 | [YuHaoran251.metero-netcdf-viewer](https://marketplace.visualstudio.com/items?itemName=YuHaoran251.metero-netcdf-viewer) | Metero NetCDF Viewer | 0.1.0 | NetCDF/NC4 scientific data viewer: status-bar launcher, editor-area visualizati… |
-| 2026-11-19 09:24:55 | [mozilla-ai.otari-vscode](https://marketplace.visualstudio.com/items?itemName=mozilla-ai.otari-vscode) | Otari | 0.1.3 | Your Otari gateway in VS Code: any model in chat, Claude Code and Codex routed… |
-| 2026-11-19 09:36:30 | [localness.localness-vscode](https://marketplace.visualstudio.com/items?itemName=localness.localness-vscode) | Localness | 0.1.0 | Hover, inline hints, diagnostics and a key browser for Localness translation ke… |
-| 2026-11-19 09:38:17 | [andrianllmm.grizzly](https://marketplace.visualstudio.com/items?itemName=andrianllmm.grizzly) | Grizzly | 0.2.0 | Grizzly language support for .griz files and griz Markdown code blocks |
-| 2026-11-19 09:54:24 | [Uranolith.struktogramm](https://marketplace.visualstudio.com/items?itemName=Uranolith.struktogramm) | Struktograf – Nassi-Shneiderman-Strukto… | 0.8.2 | Struktogramme (Nassi-Shneiderman-Diagramme) zeichnen, Schritt für Schritt ausfü… |
+| 2026-11-19 10:08:26 | [RenesasElectronicsCorporation.renesas-fsp-smart-configurator](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-fsp-smart-configurator) | Renesas FSP UI Smart Configurator | 2.40.1 | Preview: The Smart Configurator allows graphical configuration of Renesas FSP p… |
+| 2026-11-19 10:32:35 | [jitendra-kumarr.syntaxswap](https://marketplace.visualstudio.com/items?itemName=jitendra-kumarr.syntaxswap) | SyntaxSwap | 0.1.0 | Convert code between programming languages using AI, with a real syntax check o… |
+| 2026-11-19 10:33:46 | [CodeJam.codejam-workspace](https://marketplace.visualstudio.com/items?itemName=CodeJam.codejam-workspace) | CodeJam Workspace | 1.0.6 | Repository-aware team chat, code discussions, searchable decisions, reviewed AI… |
+| 2026-11-19 10:38:42 | [dewan.git-assist](https://marketplace.visualstudio.com/items?itemName=dewan.git-assist) | Git Assist by Dewan | 0.5.3 | 使用自定义 AI API 生成提交信息、审查分支合并、分析并解决 Git 冲突。 |
+| 2026-11-19 10:47:58 | [linmengmeng-1314.agent-worktree-monitor](https://marketplace.visualstudio.com/items?itemName=linmengmeng-1314.agent-worktree-monitor) | Agent Worktree Monitor | 0.1.0 | 多 Agent Git Worktree 代码变更监控:worktree 发现、变更列表、基准分支统计、跨 worktree 重叠检测 |
+| 2026-11-19 10:50:06 | [Prashant6769.3d-viewer](https://marketplace.visualstudio.com/items?itemName=Prashant6769.3d-viewer) | 3d Viewer Prabhu | 0.0.1 | visualize step files |
+| 2026-11-19 10:54:41 | [abekdev.markflow-preview](https://marketplace.visualstudio.com/items?itemName=abekdev.markflow-preview) | MarkFlow Markdown Preview | 0.1.0 | Fast, secure, and native Markdown preview and utilities powered by MarkFlow |
 
 ## Data source
 
