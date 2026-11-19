@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T21:20:20.77Z,seanahn.kestrel-prs,seanahn,kestrel PRs,0.1.1,"Your open GitHub pull requests in a bottom-panel tab: review state, checks, and one-click merge."
+2026-11-19T21:21:49.233Z,Hendrick-Dias.odin-test-explorer,Hendrick-Dias,Odin Test Explorer,0.1.0,Discover and run Odin @(test) procedures directly in VS Code's Test Explorer.
+2026-11-19T21:24:08.133Z,lukassolvar.spacelift-vscode,lukassolvar,Stacks for Spacelift (Unofficial),0.1.0,"Unofficial. Browse Spacelift stacks and runs, read plan and apply logs, and approve or discard runs from VS Code."
+2026-11-19T21:26:54.05Z,brasuca.brasuca,brasuca,"Brasuca — CPF, CNPJ, Pix e Telefone",0.1.0,"Valide, formate e gere CPF e CNPJ (inclusive o novo CNPJ alfanumérico), decodifique Pix copia-e-cola e identifique o estado de telefones pelo DDD, direto no editor."
+2026-11-19T21:30:17.13Z,k-pulkit.cognitune,k-pulkit,cognitune,0.3.8,"Understand the code you (or an AI) wrote: lenses that explain, quizzes that prove you got it, review that keeps it. In a panel beside your code."
+2026-11-19T21:35:11.977Z,Appling.appling-vscode,Appling,Appling,0.1.0,"Appling for VS Code: language support, the read only model inspector in a tab per project, implementation marks and agent sessions"
+2026-11-19T21:41:41.923Z,kevinblake.vscode-note-plugin,kevinblake,PARA Notes,0.2.17,"PARA vault features for VS Code: wikilinks, daily notes, templates, tasks, and Inbox."
+2026-11-19T21:43:22.433Z,zovo.zovo-msg-viewer,zovo,MSG Viewer for Outlook Email,0.1.0,"MSG viewer for Outlook email in VS Code: open .msg files read-only with From, To, Cc, Date, Subject and all headers, the body as safe HTML (scripts and remote images blocked), the RTF body decoded, and the attachments. Save one attachment or open an attached message. Offline, no account."
+2026-11-19T21:47:54.327Z,agent-orchestrator-dev.ao-workbench,agent-orchestrator-dev,AO Workbench,0.1.1,"Provider-independent control plane for AI coding agents with reliable, measurable, recoverable cross-agent handoff."
+2026-11-19T21:58:11.23Z,seanahn.jay,seanahn,jay,0.1.1,"Jira in a sidebar of its own: your epics and tickets by quarter, each ticket an editor tab, with its text available to the AI agent beside it. Not affiliated with Atlassian."
+2026-11-19T22:01:07.187Z,larrylcc.codex-quota,larrylcc,Quota Dial,0.2.4,See remaining Codex and Antigravity quota in the VS Code status bar.
+2026-11-19T22:03:47.82Z,krishna-paul-india-sde.mota-android,krishna-paul-india-sde,MoTA Android,0.7.3,"Android device controls, screenshots, video capture, recording and replay, APK installs and diagnostics."
+2026-11-19T22:13:59.48Z,malkhodary.files-by-type-sort-modified,malkhodary,Files by Type (Sort by Modified),0.1.0,An Explorer view that groups workspace files by type and sorts each group by last modified time.
