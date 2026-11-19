@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-19T12:15:57.04Z,zangico.telegram-sidebar,zangico,Telegram Sidebar,2.1.1,Telegram for VSCode
+2026-11-19T12:36:39.21Z,lesyhau.archery,lesyhau,Archery,0.1.0,"Architecture docs as code in VS Code: an arc42 document with a model-based UML editor for all 13 UML 2 diagram types, PDF/HTML export, and tools for Claude Code and GitHub Copilot that show their edits live."
+2026-11-19T12:49:27.627Z,javapractical.java-practical-exam,javapractical,Java Practical Exam Programs,1.0.0,23 ready-to-use Java practical programs with sample outputs. Insert any program via snippets or the Command Palette.
+2026-11-19T12:54:28.803Z,folmate.crml,folmate,CRML,0.0.1,"Language support for CRML, the Common Requirement Modeling Language"
+2026-11-19T12:59:54.45Z,cityvistion.nl2cga,cityvistion,NL2CGA,0.1.0,Generate and repair CityEngine CGA with NL2CGA.
+2026-11-19T13:03:11.66Z,brentlee-personal.spaceship-writer,brentlee-personal,Spaceship 中文写作台,0.1.0,在 VS Code 中编辑稿件，用多个独立旋钮引导中文续写，并写回原文件或选区。
+2026-11-19T13:03:32.323Z,Teevee98.synapse-hub-vscode,Teevee98,Synapse Hub - Enterprise AI QA Sentinel,4.6.3,"Real-time QA Linter, Anti-Fake-Pass Sentinel, Smart Wait Quick Fixes, and 1-Click DoD Runner for VS Code and Cursor."
