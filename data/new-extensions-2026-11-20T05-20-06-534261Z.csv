@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T04:15:21.24Z,MuneebMughal.reverb-notebooks,MuneebMughal,Reverb Notebooks,0.2.1,Reactive C# notebooks in VS Code.
+2026-11-20T04:19:10.913Z,kaiser-dev.kaiser-go,kaiser-dev,KAISER_GO,1.3.1,"Extension VS Code pour écrire, analyser, exécuter, déboguer et partager des algorithmes en français."
+2026-11-20T04:24:58.363Z,4nkproject.astro-markdown-visual-editor,4nkproject,Astro Markdown Visual Editor,0.1.0,Astroの記事用Markdownを、記事情報フォームとビジュアル画面で安全に編集します。
+2026-11-20T04:30:40.347Z,Edgemodders.edgehack,Edgemodders,EDGEhack: Cyberpunk 2077 Game Mod Editor,0.1.2,"A mod editor for the video game Cyberpunk 2077. Edit the game's quickhacks, the in-game abilities the player's character uses in the story: their names, icons, costs and effects. Writes game mod files (TweakXL). A game modding tool, not a security or hacking tool."
+2026-11-20T04:32:03.62Z,cloud-fronts-group.sound-lab,cloud-fronts-group,Sound Lab — FFmpeg Audio Toolkit,0.1.0,"Sound sampling, slicing, loudness, effects, spectrograms and speech-to-text transcription in VS Code, powered by FFmpeg."
+2026-11-20T04:36:42.213Z,RonakChotaliya.task-notifier,RonakChotaliya,Task Notifier for Claude Code,1.0.0,"Windows notifications when Claude Code finishes a task, hits an error, or waits for your permission or answer."
+2026-11-20T04:38:45.453Z,anhhuanvg002.xml-visual-preview,anhhuanvg002,XML Visual Preview & UI Dashboard,1.0.0,"Visual UI cards, structured dashboard, and interactive tree viewer for XML files. Hides raw tags, formats data into cards, badges & tables with real-time search."
+2026-11-20T04:43:34.603Z,FlowLinks.flowlinks,FlowLinks,FlowLinks,0.3.3,Link source bookmarks into call trees and message handoffs.
+2026-11-20T05:04:26.87Z,AceBesmonte.crystal-analyzer,AceBesmonte,Crystal Analyzer,0.1.0,"Crystal language support: language server client (completion, navigation, hover, signature help, inlay hints, semantic highlighting), syntax highlighting, snippets, spec/run tasks and CodeLLDB debugging."
+2026-11-20T05:09:30.743Z,xiaobing.pi-shadow-agent,xiaobing,Pi — Agent with Shadow Git,0.2.0,在 VS Code 原生侧栏里使用 Pi coding agent，并用独立的影子 Git 仓库记录每次对话带来的文件改动。
+2026-11-20T05:12:37.233Z,EthanZ.remote-ssh-file-clipboard,EthanZ,Remote SSH File Clipboard,1.0.0,Copy files from the VS Code Remote - SSH Explorer to the Windows file clipboard.
