@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T06:14:46.973Z,harimo9.vimcode,harimo9,VimCode,0.3.2,"Keyboard-first editor and IDE navigation hints for VS Code, inspired by Vimium."
+2026-11-20T06:21:57.437Z,ramcrack.ghost-code,ramcrack,Ghost Code,0.1.0,Guía de código invisible para grabaciones y videollamadas: un visor protegido contra captura y un modo de Live Coding paso a paso.
+2026-11-20T06:26:47.55Z,grimjoff.vscaraoke,grimjoff,VSCaraoke,0.2.0,"Synced lyrics for what is playing on Spotify, with dancing pixel sproutlings."
+2026-11-20T06:31:50.89Z,Grupo3UPTFAING.db-health-monitor-nosql,Grupo3UPTFAING,DB Health Monitor,1.0.2,Observabilidad proactiva y diagnóstico de salud para MongoDB y Redis en tiempo real directamente en Visual Studio Code.
+2026-11-20T06:42:31.42Z,BelugaRex.user-agent-model-sync,BelugaRex,Agent Model Sync,0.1.0,Keep your user-defined VS Code agents on the same model as the Explore agent.
+2026-11-20T06:43:27.9Z,midwaveai.tough-round,midwaveai,Tough Round,0.1.0,"Connects VS Code to the Tough Round desktop app: opens the code a card points at, tells the app which code you are looking at, and previews change plans as diffs."
+2026-11-20T06:47:22.73Z,qualireq-upt.qualireq-vscode,qualireq-upt,QualiReq,0.1.0,"Revisa la calidad de requisitos de software, propone correcciones y genera casos de prueba sin IA. Incluye skills, un agente y herramientas para el chat de VS Code."
+2026-11-20T06:51:26.623Z,lupee.download-studio,lupee,Download Studio,26.11.4,"Multi-threaded file downloader for VS Code: HTTP/HTTPS downloads over multiple connections, resume after restart, thread counts adjustable on the fly. VS Code 多线程文件下载工具：HTTP/HTTPS 多线程下载，断点续传，线程数随调随生效"
+2026-11-20T06:55:34.867Z,rzndwb.steno-vscode,rzndwb,steno spec,0.1.2,"Shorthand specs for any coding agent: requirements → design → tasks → execute, each stage linted and approved first."

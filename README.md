@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 06:19 UTC
+## Latest list — 2026-11-20 07:20 UTC
 
-New extensions published between 2026-11-20 04:19 UTC and 2026-11-20 06:19 UTC.
+New extensions published between 2026-11-20 05:20 UTC and 2026-11-20 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T06-19-14-566339Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T07-20-20-490611Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 05:15:04 | [bala-ai.bala-ai-code](https://marketplace.visualstudio.com/items?itemName=bala-ai.bala-ai-code) | B-AI Code | 0.8.4 | Coding agent for VS Code. Runs on your own GPU (Qwen3.8 via Ollama) or a fronti… |
-| 2026-11-20 05:23:03 | [turtle-lang.turtle-lang](https://marketplace.visualstudio.com/items?itemName=turtle-lang.turtle-lang) | Turtle Programming Language | 1.0.1 | The Turtle programming language: run files, colors, errors as you type, complet… |
-| 2026-11-20 05:28:16 | [AnandShah.laralens](https://marketplace.visualstudio.com/items?itemName=AnandShah.laralens) | LaraLens — Laravel Intelligence | 0.3.0 | Deep Laravel-aware code intelligence for VS Code: routes, Eloquent relationship… |
-| 2026-11-20 05:30:07 | [nayan-mle.nayan-prime](https://marketplace.visualstudio.com/items?itemName=nayan-mle.nayan-prime) | Nayan Prime | 0.0.1 | With Intent, Care & Precision |
-| 2026-11-20 05:33:55 | [nuclearlang.nuclearlang](https://marketplace.visualstudio.com/items?itemName=nuclearlang.nuclearlang) | NuclearLang | 0.78.0 | NuclearLang (.nuc) support: the Nuclear workspace (projects as tabs, tools full… |
-| 2026-11-20 05:38:29 | [ashutosh-vijay.design-studio-mulesoft](https://marketplace.visualstudio.com/items?itemName=ashutosh-vijay.design-studio-mulesoft) | Design Studio for MuleSoft (BETA) | 0.1.0 | Design MuleSoft Anypoint API specs (RAML, OpenAPI, AsyncAPI) in VS Code with li… |
-| 2026-11-20 05:59:42 | [furrysalamander.niblick](https://marketplace.visualstudio.com/items?itemName=furrysalamander.niblick) | Niblick | 1.0.0 | Niblick language support for the Hackaday Supercon.6 badge |
-| 2026-11-20 06:02:01 | [kiro.kiro-for-vscode](https://marketplace.visualstudio.com/items?itemName=kiro.kiro-for-vscode) | Kiro for VS Code | 1.5.0 | Spec-driven development with agent chat, specs, steering, hooks, and MCP integr… |
+| 2026-11-20 06:14:46 | [harimo9.vimcode](https://marketplace.visualstudio.com/items?itemName=harimo9.vimcode) | VimCode | 0.3.2 | Keyboard-first editor and IDE navigation hints for VS Code, inspired by Vimium. |
+| 2026-11-20 06:21:57 | [ramcrack.ghost-code](https://marketplace.visualstudio.com/items?itemName=ramcrack.ghost-code) | Ghost Code | 0.1.0 | Guía de código invisible para grabaciones y videollamadas: un visor protegido c… |
+| 2026-11-20 06:26:47 | [grimjoff.vscaraoke](https://marketplace.visualstudio.com/items?itemName=grimjoff.vscaraoke) | VSCaraoke | 0.2.0 | Synced lyrics for what is playing on Spotify, with dancing pixel sproutlings. |
+| 2026-11-20 06:31:50 | [Grupo3UPTFAING.db-health-monitor-nosql](https://marketplace.visualstudio.com/items?itemName=Grupo3UPTFAING.db-health-monitor-nosql) | DB Health Monitor | 1.0.2 | Observabilidad proactiva y diagnóstico de salud para MongoDB y Redis en tiempo… |
+| 2026-11-20 06:42:31 | [BelugaRex.user-agent-model-sync](https://marketplace.visualstudio.com/items?itemName=BelugaRex.user-agent-model-sync) | Agent Model Sync | 0.1.0 | Keep your user-defined VS Code agents on the same model as the Explore agent. |
+| 2026-11-20 06:43:27 | [midwaveai.tough-round](https://marketplace.visualstudio.com/items?itemName=midwaveai.tough-round) | Tough Round | 0.1.0 | Connects VS Code to the Tough Round desktop app: opens the code a card points a… |
+| 2026-11-20 06:47:22 | [qualireq-upt.qualireq-vscode](https://marketplace.visualstudio.com/items?itemName=qualireq-upt.qualireq-vscode) | QualiReq | 0.1.0 | Revisa la calidad de requisitos de software, propone correcciones y genera caso… |
+| 2026-11-20 06:51:26 | [lupee.download-studio](https://marketplace.visualstudio.com/items?itemName=lupee.download-studio) | Download Studio | 26.11.4 | Multi-threaded file downloader for VS Code: HTTP/HTTPS downloads over multiple… |
+| 2026-11-20 06:55:34 | [rzndwb.steno-vscode](https://marketplace.visualstudio.com/items?itemName=rzndwb.steno-vscode) | steno spec | 0.1.2 | Shorthand specs for any coding agent: requirements → design → tasks → execute,… |
 
 ## Data source
 
