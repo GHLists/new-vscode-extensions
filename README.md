@@ -12,21 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 14:19 UTC
+## Latest list — 2026-11-20 15:19 UTC
 
-New extensions published between 2026-11-20 12:19 UTC and 2026-11-20 14:19 UTC.
+New extensions published between 2026-11-20 13:19 UTC and 2026-11-20 15:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T14-19-27-301919Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T15-19-33-823789Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 13:20:41 | [zorzenstudios.haar-theme](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.haar-theme) | Haar Theme | 1.0.0 | Six calm fog colour themes for VS Code, each in light and dark. Free, from Zorz… |
-| 2026-11-20 13:27:24 | [flatfile.basalt-colour-scheme](https://marketplace.visualstudio.com/items?itemName=flatfile.basalt-colour-scheme) | Basalt Theme | 1.0.1 | Dark and light colour themes from one palette, with every contrast ratio measur… |
-| 2026-11-20 13:43:20 | [uiuxicon.uiuxicon](https://marketplace.visualstudio.com/items?itemName=uiuxicon.uiuxicon) | UIUXIcon | 0.1.0 | Search 6,800+ open-source UI icons by meaning and insert them as SVG, React or… |
-| 2026-11-20 13:45:42 | [carlwr.better-zsh](https://marketplace.visualstudio.com/items?itemName=carlwr.better-zsh) | Better Zsh | 0.1.0 | Zsh language support: hovers and completions from the zsh manual, syntax checks… |
-| 2026-11-20 13:50:07 | [hrshbrdhnn.embedded-json-xml-formatter](https://marketplace.visualstudio.com/items?itemName=hrshbrdhnn.embedded-json-xml-formatter) | Embedded JSON/XML Formatter | 1.0.0 | A lightweight offline VS Code extension to preview formatted XML and JSON embed… |
-| 2026-11-20 13:55:15 | [rysh-ai.rysh-vscode](https://marketplace.visualstudio.com/items?itemName=rysh-ai.rysh-vscode) | rysh | 0.1.0 | See your rysh session's panes in VS Code — which agent needs you — open a pane,… |
-| 2026-11-20 14:09:48 | [Quvly.qasmith-vscode](https://marketplace.visualstudio.com/items?itemName=Quvly.qasmith-vscode) | Qasmith | 0.9.0 | Smith language support and local quantum compiler integration |
+| 2026-11-20 14:17:34 | [costaff.costaff-workspace-vscode](https://marketplace.visualstudio.com/items?itemName=costaff.costaff-workspace-vscode) | CoStaff Workspace | 0.1.0 | See and edit open-x workspaces (open-doc, open-dashboard, open-slide, open-spre… |
+| 2026-11-20 14:19:42 | [yotsuda.orecchiante](https://marketplace.visualstudio.com/items?itemName=yotsuda.orecchiante) | Orecchiante Chord Chart Transcriber | 0.13.2 | Reads a recording into an editable Lily# (.lys) chord chart: tempo, meter, key,… |
+| 2026-11-20 14:20:24 | [barron-local.barron-test](https://marketplace.visualstudio.com/items?itemName=barron-local.barron-test) | barron-test | 1.0.7 | barron-test |
+| 2026-11-20 14:29:10 | [Quvly.qasmith-language](https://marketplace.visualstudio.com/items?itemName=Quvly.qasmith-language) | Qasmith Smith Tools by Quvly | 0.9.0 | Smith language support and local quantum compiler integration |
+| 2026-11-20 14:30:04 | [gitwithmasum.secretsanitizer-ai-vscode](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.secretsanitizer-ai-vscode) | SecretSanitizer AI — Privacy Firewall &… | 1.0.0 | Production-grade developer privacy firewall that detects, classifies, and redac… |
+| 2026-11-20 14:43:50 | [PatriksKrastins.all-over-tools](https://marketplace.visualstudio.com/items?itemName=PatriksKrastins.all-over-tools) | All Over Tools | 0.1.3 | Apply text and code tools to your files in one step. Regular tools run offline,… |
+| 2026-11-20 14:51:31 | [kusamaru-93.tate-script](https://marketplace.visualstudio.com/items?itemName=kusamaru-93.tate-script) | TateScript | 0.1.0 | 日本語の脚本・シナリオを縦書きで執筆し、PDF出力できる拡張機能 |
+| 2026-11-20 14:57:35 | [qrcode-ai-com.qrcode-barcode-scanner](https://marketplace.visualstudio.com/items?itemName=qrcode-ai-com.qrcode-barcode-scanner) | QR Code & Barcode Scanner | 0.1.0 | Read QR codes and barcodes in image files on your machine, with the open-source… |
+| 2026-11-20 15:00:54 | [CodeMaman.pr-watch](https://marketplace.visualstudio.com/items?itemName=CodeMaman.pr-watch) | PR Watcher: CI Notifier | 0.1.0 | Watch GitHub pull request CI checks and get OS-level notifications when they pa… |
+| 2026-11-20 15:03:30 | [RenesasElectronicsCorporation.renesas-fsp-sc-mcp](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-fsp-sc-mcp) | Renesas FSP Smart Configurator MCP | 1.4.1 | Preview: Lets AI agents such as GitHub Copilot and Claude Code create and confi… |
+| 2026-11-20 15:14:39 | [si783-grupo4.framework-sql-qa](https://marketplace.visualstudio.com/items?itemName=si783-grupo4.framework-sql-qa) | Framework SQL QA | 1.1.0 | Ejecuta suites de comprobaciones SQL contra Oracle, importa casos desde Excel,… |
 
 ## Data source
 

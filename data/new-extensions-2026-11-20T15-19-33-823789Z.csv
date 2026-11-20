@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T14:17:34.763Z,costaff.costaff-workspace-vscode,costaff,CoStaff Workspace,0.1.0,"See and edit open-x workspaces (open-doc, open-dashboard, open-slide, open-spreadsheet, open-design-frame) in a panel beside your agent."
+2026-11-20T14:19:42.957Z,yotsuda.orecchiante,yotsuda,Orecchiante Chord Chart Transcriber,0.13.2,"Reads a recording into an editable Lily# (.lys) chord chart: tempo, meter, key, bar lines and the chord of every bar, with the uncertain places marked. Open source (Apache-2.0). Runs locally on Windows; no cloud."
+2026-11-20T14:20:24.477Z,barron-local.barron-test,barron-local,barron-test,1.0.7,barron-test
+2026-11-20T14:29:10.667Z,Quvly.qasmith-language,Quvly,Qasmith Smith Tools by Quvly,0.9.0,Smith language support and local quantum compiler integration
+2026-11-20T14:30:04.227Z,gitwithmasum.secretsanitizer-ai-vscode,gitwithmasum,SecretSanitizer AI — Privacy Firewall & Code Scanner,1.0.0,"Production-grade developer privacy firewall that detects, classifies, and redacts sensitive credentials and secrets in VS Code with real-time squigglies, quick-fixes, and Git pre-commit guardrails."
+2026-11-20T14:43:50.367Z,PatriksKrastins.all-over-tools,PatriksKrastins,All Over Tools,0.1.3,"Apply text and code tools to your files in one step. Regular tools run offline, AI tools use your allovertools.com coins."
+2026-11-20T14:51:31.73Z,kusamaru-93.tate-script,kusamaru-93,TateScript,0.1.0,日本語の脚本・シナリオを縦書きで執筆し、PDF出力できる拡張機能
+2026-11-20T14:57:35.097Z,qrcode-ai-com.qrcode-barcode-scanner,qrcode-ai-com,QR Code & Barcode Scanner,0.1.0,"Read QR codes and barcodes in image files on your machine, with the open-source QR Code & Barcode Scanner engine. No network, no native binary."
+2026-11-20T15:00:54.537Z,CodeMaman.pr-watch,CodeMaman,PR Watcher: CI Notifier,0.1.0,Watch GitHub pull request CI checks and get OS-level notifications when they pass or fail.
+2026-11-20T15:03:30.95Z,RenesasElectronicsCorporation.renesas-fsp-sc-mcp,RenesasElectronicsCorporation,Renesas FSP Smart Configurator MCP,1.4.1,Preview: Lets AI agents such as GitHub Copilot and Claude Code create and configure Renesas FSP projects through the Smart Configurator.
+2026-11-20T15:14:39.003Z,si783-grupo4.framework-sql-qa,si783-grupo4,Framework SQL QA,1.1.0,"Ejecuta suites de comprobaciones SQL contra Oracle, importa casos desde Excel, exporta resultados y muestra el historial de ejecuciones dentro de VS Code, usando la CLI del Framework de pruebas SQL."
