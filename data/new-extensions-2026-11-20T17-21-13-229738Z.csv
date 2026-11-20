@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T16:17:41.89Z,kestrel-lang.kestrel-language,kestrel-lang,Kestrel for VS Code,0.4.4,"Kestrel language support: highlighting, completion, diagnostics, inlay hints and a live proof state."
+2026-11-20T16:18:08.457Z,ChristopherAlphonse.sqlite-peek,ChristopherAlphonse,SQLite Peek,1.0.1,"Free, read-only SQLite viewer for VS Code: browse tables and views, page through rows, and run SQL queries without modifying the file."
+2026-11-20T16:24:18.93Z,lyjy.open-selected-folder,lyjy,Open Selected Folder,0.0.1,Open the focused Explorer item's folder in a new VS Code window.
+2026-11-20T16:31:30.637Z,vendayx.log-lens-analyzer,vendayx,vendayx loglens,1.0.4,"A local, offline log viewer and analyzer for VS Code."
+2026-11-20T16:32:56.027Z,CBSJohn.collab-latex,CBSJohn,Collab LaTeX,0.1.0,"Comments, PDF-source jumps and a branch/pull-request workflow for writing LaTeX together in VS Code and GitHub"
+2026-11-20T16:33:10.717Z,gunnargrosch.awsesh-vscode,gunnargrosch,Sesh AWS SSO,0.1.1,"Switch AWS SSO accounts, roles, and credentials from VS Code and compatible editors."
+2026-11-20T16:43:00.18Z,Duobase.duobase,Duobase,Duobase — SQL Server & PostgreSQL,0.1.0,"Conecte a SQL Server e PostgreSQL: autocomplete que conhece seu banco, grid com navegação por relacionamentos e edição segura, sugestões por IA e integração com o Claude Code."
+2026-11-20T16:55:33.187Z,TwoGuysDev.explorer-for-penpot,TwoGuysDev,Explorer for Penpot,0.2.1,"Browse your Penpot teams, projects, files, pages and boards and preview designs right inside VS Code. Unofficial; not affiliated with Penpot."
+2026-11-20T16:55:51.723Z,SyeedMDTalha.peace-of-eye-lighter,SyeedMDTalha,Peace of the Eye Lighter,1.0.0,"A slightly lighter variant of the Peace of the Eye dark theme, with a softer, less crushed background."
+2026-11-20T17:00:19.65Z,gordon-vidal.video-preview-enhanced,gordon-vidal,Video Preview Enhanced,0.7.1,"Play MP4, MKV, MOV, AVI and WebM with sound in VS Code. Remote-SSH, WSL, video URLs, frame-accurate stepping, synchronized comparison and PNG export."
+2026-11-20T17:02:43.907Z,zorzenstudios.chakra-moments,zorzenstudios,Chakra Moments,1.0.0,"Seven quiet colour themes, and a breath beside your code."
+2026-11-20T17:02:52.6Z,mathias82.hushavyr,mathias82,Hushavyr - Private AI Code Review,0.0.11,Privacy-aware local AI routing
+2026-11-20T17:06:21.05Z,vitalivu992.csv-explorer-vsce,vitalivu992,CSV Explorer,0.1.0,"Lean CSV/TSV table viewer with delimiter detection, typed column filters and sorting"

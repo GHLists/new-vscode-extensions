@@ -12,25 +12,27 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 16:21 UTC
+## Latest list — 2026-11-20 17:21 UTC
 
-New extensions published between 2026-11-20 14:21 UTC and 2026-11-20 16:21 UTC.
+New extensions published between 2026-11-20 15:21 UTC and 2026-11-20 17:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T16-21-04-422769Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T17-21-13-229738Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 15:16:55 | [GregorBiswanger.featherspec-studio](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.featherspec-studio) | FeatherSpec Studio | 0.1.0 | Spec-driven development for GitHub Copilot and Claude Code: see every spec, its… |
-| 2026-11-20 15:17:00 | [tidjan.autopic-vscode](https://marketplace.visualstudio.com/items?itemName=tidjan.autopic-vscode) | Autopic Studio — Smart Illustrations | 0.1.6 | Interactive illustration studio for VS Code, Cursor, Windsurf & Antigravity. Au… |
-| 2026-11-20 15:29:34 | [TristanFarran.tensi](https://marketplace.visualstudio.com/items?itemName=TristanFarran.tensi) | tensi | 0.3.0 | Hover any PyTorch tensor to see its shape, with every dimension named after the… |
-| 2026-11-20 15:32:44 | [lsiq-software.sd-configdiff](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-configdiff) | ConfigDiff - Compare Configs Across Env… | 1.0.1 | Compare .env, YAML, JSON, and properties files across environments. Free side-b… |
-| 2026-11-20 15:32:57 | [lsiq-software.sd-portpilot](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-portpilot) | PortPilot - Kubernetes Port-Forward Man… | 1.0.0 | Kubernetes port-forwards that manage themselves inside VS Code. Free: one forwa… |
-| 2026-11-20 15:47:43 | [naice.reqvyn](https://marketplace.visualstudio.com/items?itemName=naice.reqvyn) | REQVYN – API Client | 0.1.0 | Local-first API client: Send. Inspect. Repeat. |
-| 2026-11-20 15:48:47 | [fedetomassini.nycta-dark](https://marketplace.visualstudio.com/items?itemName=fedetomassini.nycta-dark) | Nycta Dark | 1.0.0 | A near-black VS Code dark theme with muted text, minimal separators, subtle UI… |
-| 2026-11-20 15:53:43 | [Symthosm.gymthosm](https://marketplace.visualstudio.com/items?itemName=Symthosm.gymthosm) | Gymthosm | 1.0.0 | Generate side-by-side HTML diff reports and 3-column merge reports for local an… |
-| 2026-11-20 16:00:12 | [mathias82.ai-privacy-router](https://marketplace.visualstudio.com/items?itemName=mathias82.ai-privacy-router) | Hushavyr | 0.0.10 | Privacy-aware local AI routing |
-| 2026-11-20 16:02:31 | [ratatoskr.salamander-schemas](https://marketplace.visualstudio.com/items?itemName=ratatoskr.salamander-schemas) | Salamander Language Support | 0.0.1 | Highlighting and snippets for Salamander's .sal schemas |
-| 2026-11-20 16:03:11 | [ratatoskr.wraith](https://marketplace.visualstudio.com/items?itemName=ratatoskr.wraith) | Wraith | 0.0.1 | Language support for Wraith files: tweaks, scripts, address lists and projects |
+| 2026-11-20 16:17:41 | [kestrel-lang.kestrel-language](https://marketplace.visualstudio.com/items?itemName=kestrel-lang.kestrel-language) | Kestrel for VS Code | 0.4.4 | Kestrel language support: highlighting, completion, diagnostics, inlay hints an… |
+| 2026-11-20 16:18:08 | [ChristopherAlphonse.sqlite-peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek) | SQLite Peek | 1.0.1 | Free, read-only SQLite viewer for VS Code: browse tables and views, page throug… |
+| 2026-11-20 16:24:18 | [lyjy.open-selected-folder](https://marketplace.visualstudio.com/items?itemName=lyjy.open-selected-folder) | Open Selected Folder | 0.0.1 | Open the focused Explorer item's folder in a new VS Code window. |
+| 2026-11-20 16:31:30 | [vendayx.log-lens-analyzer](https://marketplace.visualstudio.com/items?itemName=vendayx.log-lens-analyzer) | vendayx loglens | 1.0.4 | A local, offline log viewer and analyzer for VS Code. |
+| 2026-11-20 16:32:56 | [CBSJohn.collab-latex](https://marketplace.visualstudio.com/items?itemName=CBSJohn.collab-latex) | Collab LaTeX | 0.1.0 | Comments, PDF-source jumps and a branch/pull-request workflow for writing LaTeX… |
+| 2026-11-20 16:33:10 | [gunnargrosch.awsesh-vscode](https://marketplace.visualstudio.com/items?itemName=gunnargrosch.awsesh-vscode) | Sesh AWS SSO | 0.1.1 | Switch AWS SSO accounts, roles, and credentials from VS Code and compatible edi… |
+| 2026-11-20 16:43:00 | [Duobase.duobase](https://marketplace.visualstudio.com/items?itemName=Duobase.duobase) | Duobase — SQL Server & PostgreSQL | 0.1.0 | Conecte a SQL Server e PostgreSQL: autocomplete que conhece seu banco, grid com… |
+| 2026-11-20 16:55:33 | [TwoGuysDev.explorer-for-penpot](https://marketplace.visualstudio.com/items?itemName=TwoGuysDev.explorer-for-penpot) | Explorer for Penpot | 0.2.1 | Browse your Penpot teams, projects, files, pages and boards and preview designs… |
+| 2026-11-20 16:55:51 | [SyeedMDTalha.peace-of-eye-lighter](https://marketplace.visualstudio.com/items?itemName=SyeedMDTalha.peace-of-eye-lighter) | Peace of the Eye Lighter | 1.0.0 | A slightly lighter variant of the Peace of the Eye dark theme, with a softer, l… |
+| 2026-11-20 17:00:19 | [gordon-vidal.video-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=gordon-vidal.video-preview-enhanced) | Video Preview Enhanced | 0.7.1 | Play MP4, MKV, MOV, AVI and WebM with sound in VS Code. Remote-SSH, WSL, video… |
+| 2026-11-20 17:02:43 | [zorzenstudios.chakra-moments](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.chakra-moments) | Chakra Moments | 1.0.0 | Seven quiet colour themes, and a breath beside your code. |
+| 2026-11-20 17:02:52 | [mathias82.hushavyr](https://marketplace.visualstudio.com/items?itemName=mathias82.hushavyr) | Hushavyr - Private AI Code Review | 0.0.11 | Privacy-aware local AI routing |
+| 2026-11-20 17:06:21 | [vitalivu992.csv-explorer-vsce](https://marketplace.visualstudio.com/items?itemName=vitalivu992.csv-explorer-vsce) | CSV Explorer | 0.1.0 | Lean CSV/TSV table viewer with delimiter detection, typed column filters and so… |
 
 ## Data source
 
