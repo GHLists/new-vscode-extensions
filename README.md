@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 21:20 UTC
+## Latest list — 2026-11-20 22:19 UTC
 
-New extensions published between 2026-11-20 19:20 UTC and 2026-11-20 21:20 UTC.
+New extensions published between 2026-11-20 20:19 UTC and 2026-11-20 22:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T21-20-03-877278Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T22-19-17-122273Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 20:15:00 | [GilbertZenner.vowel-consonant-generator](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.vowel-consonant-generator) | Vowel-Consonant Generator | 0.1.0 | Insert pseudo-random placeholder text from a vowel/consonant word engine. |
-| 2026-11-20 20:21:45 | [LatticeAI.mux-ai](https://marketplace.visualstudio.com/items?itemName=LatticeAI.mux-ai) | mux-ai | 2.0.0 | mux in your editor — chat, inline commands, native diffs, and shared sessions o… |
-| 2026-11-20 20:30:59 | [universaltools.universaltools-web-core](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-web-core) | UniversalTools: Web Core | 4.0.0 | Linting, formatting, Git and GitHub, preview, testing, Node.js and everyday edi… |
-| 2026-11-20 20:31:01 | [universaltools.universaltools-html-css](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-html-css) | UniversalTools: HTML & CSS | 4.0.0 | HTML tags, Tailwind CSS, UnoCSS, Sass, PostCSS, Stylus, Stylelint and CSS helpe… |
-| 2026-11-20 20:31:03 | [universaltools.universaltools-frameworks](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-frameworks) | UniversalTools: Frameworks | 4.0.0 | Official tooling for Vue, Svelte, Astro and MDX, plus React snippets and refact… |
-| 2026-11-20 20:31:05 | [universaltools.universaltools-quasar](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-quasar) | UniversalTools: Quasar | 4.0.0 | Vue - Official plus IntelliSense for Quasar 2 components and Quasar CSS classes. |
-| 2026-11-20 20:31:08 | [universaltools.universaltools-everyday-tools](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-everyday-tools) | UniversalTools: Everyday Tools | 4.0.0 | Code screenshots, translation, random data, a status bar clock, work-start trac… |
-| 2026-11-20 20:50:05 | [agentica-lang.agentica-lsp](https://marketplace.visualstudio.com/items?itemName=agentica-lang.agentica-lsp) | Agentica LSP | 0.4.0 | Diagnostics, hover, completion, go to definition, references and symbols for Ag… |
-| 2026-11-20 20:55:12 | [Yamin.spid3r-vscode](https://marketplace.visualstudio.com/items?itemName=Yamin.spid3r-vscode) | Spid3r Language & SpiderBD Templates | 1.0.0 | Complete language support for the Spid3r programming language (.matrix) and the… |
-| 2026-11-20 21:01:34 | [caspel26.lilac-nights](https://marketplace.visualstudio.com/items?itemName=caspel26.lilac-nights) | Lilac Nights | 1.1.1 | A dark and light theme with a lilac/violet spine and a full, contrast-checked s… |
-| 2026-11-20 21:06:02 | [thaisemanuele.midnight-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.midnight-princess) | Midnight Princess | 1.0.0 | A dark VS Code theme with midnight blues, glass-slipper light and a touch of go… |
-| 2026-11-20 21:06:23 | [ANSNEWTECH.spid3r-formatter](https://marketplace.visualstudio.com/items?itemName=ANSNEWTECH.spid3r-formatter) | Spid3r Formatter & Language Support | 1.0.0 | Syntax highlighting, formatting, completions, diagnostics and snippets for the… |
+| 2026-11-20 21:16:46 | [friction-killer.vscode-workspace-profile-config](https://marketplace.visualstudio.com/items?itemName=friction-killer.vscode-workspace-profile-config) | ExtProfileLock | 0.1.1 | Enforce repo-level VS Code extension locks, interpolate .env variables into .co… |
+| 2026-11-20 21:26:20 | [Toximiner.pydantic-tools](https://marketplace.visualstudio.com/items?itemName=Toximiner.pydantic-tools) | Pydantic Tools | 0.1.1 | PyCharm-inspired Pydantic actions: insert arguments, complete field names, navi… |
+| 2026-11-20 21:32:45 | [universaltools.universaltools-python](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-python) | UniversalTools: Python | 4.2.0 | Python language support, Pylance, debugging, environments, Ruff linting and for… |
+| 2026-11-20 21:32:47 | [universaltools.universaltools-cpp](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-cpp) | UniversalTools: C/C++ | 4.2.0 | C/C++ IntelliSense and debugging, CMake and Makefile projects, and the CodeLLDB… |
+| 2026-11-20 21:35:50 | [CakeSliceAI.cakeslice-vscode](https://marketplace.visualstudio.com/items?itemName=CakeSliceAI.cakeslice-vscode) | CakeSlice.ai | 0.0.1 | Sign in to CakeSlice.ai and browse, open and save your cake files from VS Code. |
+| 2026-11-20 21:37:22 | [Stef302.rose-langage](https://marketplace.visualstudio.com/items?itemName=Stef302.rose-langage) | Rose — langage (édition 0.1.7) | 0.1.7 | Prise en charge complète du langage Rose (v0.1.7) : coloration syntaxique, thèm… |
+| 2026-11-20 21:38:34 | [thaisemanuele.blossom-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.blossom-princess) | Blossom Princess | 1.0.0 | A dark VS Code theme with plum night, crimson silk, jade and parchment light. |
+| 2026-11-20 21:45:10 | [ConnerBrunner.colorwarning](https://marketplace.visualstudio.com/items?itemName=ConnerBrunner.colorwarning) | ColorWarning | 0.0.1 | Warns when website colors fail for people with color-vision deficiency. |
+| 2026-11-20 21:55:19 | [GilbertZenner.inumber-calculator](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.inumber-calculator) | INumber Calculator | 0.1.0 | Arbitrarily large number calculator powered by INumber (unlimited precision, RA… |
+| 2026-11-20 22:07:36 | [jfigueiras.whitetar-vs-light-theme](https://marketplace.visualstudio.com/items?itemName=jfigueiras.whitetar-vs-light-theme) | WhiteTar Light Theme | 1.0.0 | White Tar is a modern light theme for Visual Studio Code, featuring a refined c… |
+| 2026-11-20 22:11:42 | [thaisemanuele.dawn-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.dawn-princess) | Dawn Princess | 1.0.0 | A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a stran… |
 
 ## Data source
 

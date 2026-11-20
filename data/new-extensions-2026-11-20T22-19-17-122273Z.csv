@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T21:16:46.467Z,friction-killer.vscode-workspace-profile-config,friction-killer,ExtProfileLock,0.1.1,"Enforce repo-level VS Code extension locks, interpolate .env variables into .code-workspace files, and eliminate profile drift."
+2026-11-20T21:26:20.913Z,Toximiner.pydantic-tools,Toximiner,Pydantic Tools,0.1.1,"PyCharm-inspired Pydantic actions: insert arguments, complete field names, navigate to fields, and check include/exclude."
+2026-11-20T21:32:45.14Z,universaltools.universaltools-python,universaltools,UniversalTools: Python,4.2.0,"Python language support, Pylance, debugging, environments, Ruff linting and formatting, Jupyter notebooks and Mypy type checking."
+2026-11-20T21:32:47.97Z,universaltools.universaltools-cpp,universaltools,UniversalTools: C/C++,4.2.0,"C/C++ IntelliSense and debugging, CMake and Makefile projects, and the CodeLLDB debugger."
+2026-11-20T21:35:50.927Z,CakeSliceAI.cakeslice-vscode,CakeSliceAI,CakeSlice.ai,0.0.1,"Sign in to CakeSlice.ai and browse, open and save your cake files from VS Code."
+2026-11-20T21:37:22.21Z,Stef302.rose-langage,Stef302,Rose — langage (édition 0.1.7),0.1.7,"Prise en charge complète du langage Rose (v0.1.7) : coloration syntaxique, thème sombre à types rouges, snippets, icônes, ligatures, diagnostics, auto-complétion, navigation, formatage, exécution, rendu LaTeX complet ou par lignes marquées %%."
+2026-11-20T21:38:34.617Z,thaisemanuele.blossom-princess,thaisemanuele,Blossom Princess,1.0.0,"A dark VS Code theme with plum night, crimson silk, jade and parchment light."
+2026-11-20T21:45:10.153Z,ConnerBrunner.colorwarning,ConnerBrunner,ColorWarning,0.0.1,Warns when website colors fail for people with color-vision deficiency.
+2026-11-20T21:55:19.657Z,GilbertZenner.inumber-calculator,GilbertZenner,INumber Calculator,0.1.0,"Arbitrarily large number calculator powered by INumber (unlimited precision, RAM-limited)"
+2026-11-20T22:07:36.92Z,jfigueiras.whitetar-vs-light-theme,jfigueiras,WhiteTar Light Theme,1.0.0,"White Tar is a modern light theme for Visual Studio Code, featuring a refined color palette, balanced syntax highlighting, and carefully crafted UI colors for a clean, comfortable coding experience."
+2026-11-20T22:11:42.207Z,thaisemanuele.dawn-princess,thaisemanuele,Dawn Princess,1.0.0,"A dark VS Code theme with a plum night sky, lilac dreams, rose dawn and a strand of golden light."
