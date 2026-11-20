@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-19 23:20 UTC
+## Latest list — 2026-11-20 00:21 UTC
 
-New extensions published between 2026-11-19 21:20 UTC and 2026-11-19 23:20 UTC.
+New extensions published between 2026-11-19 22:21 UTC and 2026-11-20 00:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-19T23-20-14-78992Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T00-21-26-186028Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-19 22:27:33 | [Fixorafoundation.fixora-ai](https://marketplace.visualstudio.com/items?itemName=Fixorafoundation.fixora-ai) | Fixora AI | 0.1.0 | AI-powered Code Reviewer, Bug Detector and Debugging Assistant. Find Bugs. Unde… |
-| 2026-11-19 23:12:20 | [mazsola739.rika-unicorn-theme](https://marketplace.visualstudio.com/items?itemName=mazsola739.rika-unicorn-theme) | Rika Unicorn Theme | 0.2.0 | A unicorn, flower and butterfly color theme + icon theme for VS Code, in dark,… |
+| 2026-11-19 23:15:37 | [XiaoXuRemoteClaude.xiaoxu-cloud-claude-code](https://marketplace.visualstudio.com/items?itemName=XiaoXuRemoteClaude.xiaoxu-cloud-claude-code) | 小徐云端 Claude Code | 0.3.2 | 在 VS Code 里使用小徐云端的 Claude Code：登录、云端容器、对话和本机工具都在扩展里完成，无需另外安装客户端。 |
+| 2026-11-20 00:11:01 | [iAmKabiru.notebook-ink](https://marketplace.visualstudio.com/items?itemName=iAmKabiru.notebook-ink) | Notebook Ink | 1.0.0 | A light notebook-inspired color theme with ivory paper, blue guides, and handwr… |
 
 ## Data source
 
