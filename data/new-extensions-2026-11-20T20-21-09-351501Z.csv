@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T19:35:47.627Z,JhonAlexander.crepr,JhonAlexander,Crepr,0.0.1,Modelo conexion con modelo local usando FastApi con tools
+2026-11-20T19:38:00.23Z,ellygent-context.ellygent-context,ellygent-context,Ellygent Context,0.4.4,Browse pinned requirements and their evidence without leaving VS Code.
+2026-11-20T19:40:56.823Z,juanpbacallao.openspec-diagrams,juanpbacallao,OpenSpec Diagrams,0.1.0,"Render OpenSpec spec.md files as live Mermaid diagrams, always derived from the scenarios."
+2026-11-20T19:44:04.05Z,vimninja.vimninja,vimninja,VimNinja: Learn Vim (Interactive Tutor),1.0.0,"Learn Vim in VS Code with an interactive Vim tutor: lessons with a real Vim editor, a two-minute daily review, drills, Vim golf and practice on your own code. Works with VSCodeVim and VSCode Neovim."
+2026-11-20T19:45:10.567Z,c4-tools.claude-code-plugin-toggler,c4-tools,Claude Code Plugin Toggler,1.0.0,"Enable and disable Claude Code plugins per project from a VS Code sidebar, and install plugins from your marketplaces."
+2026-11-20T19:53:22.633Z,modelware.sysmantic,modelware,Sysmantic,0.2.0,"Sysmantic (formerly Sysight). SysML v2 and KerML models, understood: live diagnostics across the workspace, navigation, computed values and requirement verdicts, and SPARQL queries over the model."
+2026-11-20T19:53:58.233Z,Ienfald.punaise,Ienfald,Punaise,0.1.0,Keep the code you are reasoning about in view.
+2026-11-20T19:56:54.433Z,thaisemanuele.tower-princess,thaisemanuele,Tower Princess,0.0.3,"A dark VS Code theme with midnight purples, lavender and lantern gold."
+2026-11-20T20:02:23.913Z,agentica-lang.agentica-language,agentica-lang,Agentica,0.4.2,"Syntax highlighting for Agentica, a language for AI agents"
+2026-11-20T20:03:44.127Z,prelo.prelo-seguro,prelo,Prelo para VS Code,0.2.0,"Edite o rascunho do seu site da Prelo no VS Code: a pasta do projeto autorizado sincroniza com a Prelo a cada salvamento, com as verificações de segurança da plataforma."
+2026-11-20T20:05:59.723Z,JohnMehler.pipeline-manager-azure-devops,JohnMehler,Pipeline Manager for Azure DevOps,0.1.0,"Browse, run, and inspect Azure DevOps pipelines from VS Code."
+2026-11-20T20:07:35.54Z,GilbertZenner.line-undo-redo,GilbertZenner,Line Undo/Redo,0.0.1,"Undo/redo history tracked per line, per file, instead of one global undo tree."
+2026-11-20T20:10:54.233Z,Toximiner.quiet-ember-theme,Toximiner,Quiet Ember Theme,1.0.0,"A dark theme with warm accents and distinct Python semantic colors for types, attributes, parameters and keyword arguments."
+2026-11-20T20:14:51.847Z,LatticeAI.armada-ai,LatticeAI,Armada AI,1.3.0,"Armada in VS Code: connect to your Armada Admiral, navigate every Armada area, and work the mission and voyage black box (failures, FIX THIS briefs, recovery, timelines, attempt diffs, overlap previews, conflict decorations) with live updates."
