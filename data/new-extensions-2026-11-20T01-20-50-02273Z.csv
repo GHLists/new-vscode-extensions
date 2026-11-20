@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T00:49:21.373Z,ppfjuni.markdown-in-browser,ppfjuni,Markdown in Browser,0.1.0,"Open Markdown files rendered in your browser, distraction-free: links between .md files, relative images and live update on save."
+2026-11-20T00:58:19.07Z,quickread.quickread,quickread,quickread,1.6.0,VSCode 状态栏书籍阅读插件：底部状态栏隐蔽阅读本地 txt，支持编码检测、快捷键翻页、老板键伪装
+2026-11-20T01:14:53.54Z,rubrikpulsasoftware.dbcommanderx-sqlite-viewer,rubrikpulsasoftware,SQLite Viewer — DB CommanderX,1.0.0,"Fast, offline, read-only SQLite viewer & SQL query inspector for .sqlite and .db files."
+2026-11-20T01:15:28.82Z,axforge.axforge,axforge,AxForge,0.1.0,"AxForge's open models in VS Code's chat: add your key once, and every chat model we offer is in the model picker."
