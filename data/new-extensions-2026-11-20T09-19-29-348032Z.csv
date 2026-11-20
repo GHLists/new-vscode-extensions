@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T08:19:52.157Z,samandari.chatgpt-md-export-vscode,samandari,ChatGPT Markdown Export,0.2.0,"Export a ChatGPT conversation into clean Markdown, HTML and attachments, straight from VS Code"
+2026-11-20T08:24:02.17Z,svgforge.svgforge,svgforge,SVGForge,0.1.1,Search Iconify icons via your SVGForge account and insert SVG into the editor. Requires an API token from svgforge.dev.
+2026-11-20T08:45:39.797Z,KanoChan.imgbed-uploader,KanoChan,ImgBed Uploader,1.0.0,把 Markdown / MDX 文档里的本地图像一键上传到 CloudFlare ImgBed 图床，并把链接回写进文档。粘贴截图自动上传，远程图可转存，支持自定义 CDN 回写。
+2026-11-20T08:48:27.51Z,tuanchauict.redline-preview,tuanchauict,Redline: spot what an AI agent edited in your docs,0.0.3,"A Markdown preview that marks what changed since you last read it, with History and Contents."
+2026-11-20T09:00:59.223Z,hkle.codex-history-lens-hkle,hkle,Codex History Lens,1.2.0,在 VS Code 中浏览本机 Codex 会话的完整聊天记录：消息、工具调用、思考过程与截图。
+2026-11-20T09:02:04.43Z,asomiya.asomiya,asomiya,Asomiya (অসমীয়া),0.1.0,"Write code in Assamese: syntax colours, errors as you type, hover help, a Run button and Show in Python for the Asomiya programming language."
+2026-11-20T09:02:53.903Z,YangZheng.bili-in-code,YangZheng,bili-in-code,0.7.7,把 B 站视频铺在 VS Code 编辑区背景层播放，边写代码边看视频（支持直播、弹幕、小屏模式）。
+2026-11-20T09:04:53.44Z,Mammouth.mammouthai,Mammouth,MammouthAI,0.0.1,Use Mammouth AI models in VS Code and GitHub Copilot.
+2026-11-20T09:06:33.427Z,MarkMpn.vscode-sql4cds,MarkMpn,SQL 4 CDS for Visual Studio Code,10.6.0,Query and modify Dataverse data using standard SQL syntax
+2026-11-20T09:14:45.6Z,zovo.zovo-nbt-viewer,zovo,NBT Viewer & Minecraft Region,0.1.0,"NBT viewer for VS Code: open Minecraft NBT files (Java and Bedrock, gzip, zlib or raw), level.dat with Open as NBT, .mca and .mcr region files on a chunk grid, and .schem, .schematic and .litematic files as a tag tree with SNBT text and search. Offline, no account."
