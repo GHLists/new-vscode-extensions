@@ -12,28 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 20:21 UTC
+## Latest list — 2026-11-20 21:20 UTC
 
-New extensions published between 2026-11-20 18:21 UTC and 2026-11-20 20:21 UTC.
+New extensions published between 2026-11-20 19:20 UTC and 2026-11-20 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T20-21-09-351501Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T21-20-03-877278Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 19:35:47 | [JhonAlexander.crepr](https://marketplace.visualstudio.com/items?itemName=JhonAlexander.crepr) | Crepr | 0.0.1 | Modelo conexion con modelo local usando FastApi con tools |
-| 2026-11-20 19:38:00 | [ellygent-context.ellygent-context](https://marketplace.visualstudio.com/items?itemName=ellygent-context.ellygent-context) | Ellygent Context | 0.4.4 | Browse pinned requirements and their evidence without leaving VS Code. |
-| 2026-11-20 19:40:56 | [juanpbacallao.openspec-diagrams](https://marketplace.visualstudio.com/items?itemName=juanpbacallao.openspec-diagrams) | OpenSpec Diagrams | 0.1.0 | Render OpenSpec spec.md files as live Mermaid diagrams, always derived from the… |
-| 2026-11-20 19:44:04 | [vimninja.vimninja](https://marketplace.visualstudio.com/items?itemName=vimninja.vimninja) | VimNinja: Learn Vim (Interactive Tutor) | 1.0.0 | Learn Vim in VS Code with an interactive Vim tutor: lessons with a real Vim edi… |
-| 2026-11-20 19:45:10 | [c4-tools.claude-code-plugin-toggler](https://marketplace.visualstudio.com/items?itemName=c4-tools.claude-code-plugin-toggler) | Claude Code Plugin Toggler | 1.0.0 | Enable and disable Claude Code plugins per project from a VS Code sidebar, and… |
-| 2026-11-20 19:53:22 | [modelware.sysmantic](https://marketplace.visualstudio.com/items?itemName=modelware.sysmantic) | Sysmantic | 0.2.0 | Sysmantic (formerly Sysight). SysML v2 and KerML models, understood: live diagn… |
-| 2026-11-20 19:53:58 | [Ienfald.punaise](https://marketplace.visualstudio.com/items?itemName=Ienfald.punaise) | Punaise | 0.1.0 | Keep the code you are reasoning about in view. |
-| 2026-11-20 19:56:54 | [thaisemanuele.tower-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.tower-princess) | Tower Princess | 0.0.3 | A dark VS Code theme with midnight purples, lavender and lantern gold. |
-| 2026-11-20 20:02:23 | [agentica-lang.agentica-language](https://marketplace.visualstudio.com/items?itemName=agentica-lang.agentica-language) | Agentica | 0.4.2 | Syntax highlighting for Agentica, a language for AI agents |
-| 2026-11-20 20:03:44 | [prelo.prelo-seguro](https://marketplace.visualstudio.com/items?itemName=prelo.prelo-seguro) | Prelo para VS Code | 0.2.0 | Edite o rascunho do seu site da Prelo no VS Code: a pasta do projeto autorizado… |
-| 2026-11-20 20:05:59 | [JohnMehler.pipeline-manager-azure-devops](https://marketplace.visualstudio.com/items?itemName=JohnMehler.pipeline-manager-azure-devops) | Pipeline Manager for Azure DevOps | 0.1.0 | Browse, run, and inspect Azure DevOps pipelines from VS Code. |
-| 2026-11-20 20:07:35 | [GilbertZenner.line-undo-redo](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.line-undo-redo) | Line Undo/Redo | 0.0.1 | Undo/redo history tracked per line, per file, instead of one global undo tree. |
-| 2026-11-20 20:10:54 | [Toximiner.quiet-ember-theme](https://marketplace.visualstudio.com/items?itemName=Toximiner.quiet-ember-theme) | Quiet Ember Theme | 1.0.0 | A dark theme with warm accents and distinct Python semantic colors for types, a… |
-| 2026-11-20 20:14:51 | [LatticeAI.armada-ai](https://marketplace.visualstudio.com/items?itemName=LatticeAI.armada-ai) | Armada AI | 1.3.0 | Armada in VS Code: connect to your Armada Admiral, navigate every Armada area,… |
+| 2026-11-20 20:15:00 | [GilbertZenner.vowel-consonant-generator](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.vowel-consonant-generator) | Vowel-Consonant Generator | 0.1.0 | Insert pseudo-random placeholder text from a vowel/consonant word engine. |
+| 2026-11-20 20:21:45 | [LatticeAI.mux-ai](https://marketplace.visualstudio.com/items?itemName=LatticeAI.mux-ai) | mux-ai | 2.0.0 | mux in your editor — chat, inline commands, native diffs, and shared sessions o… |
+| 2026-11-20 20:30:59 | [universaltools.universaltools-web-core](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-web-core) | UniversalTools: Web Core | 4.0.0 | Linting, formatting, Git and GitHub, preview, testing, Node.js and everyday edi… |
+| 2026-11-20 20:31:01 | [universaltools.universaltools-html-css](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-html-css) | UniversalTools: HTML & CSS | 4.0.0 | HTML tags, Tailwind CSS, UnoCSS, Sass, PostCSS, Stylus, Stylelint and CSS helpe… |
+| 2026-11-20 20:31:03 | [universaltools.universaltools-frameworks](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-frameworks) | UniversalTools: Frameworks | 4.0.0 | Official tooling for Vue, Svelte, Astro and MDX, plus React snippets and refact… |
+| 2026-11-20 20:31:05 | [universaltools.universaltools-quasar](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-quasar) | UniversalTools: Quasar | 4.0.0 | Vue - Official plus IntelliSense for Quasar 2 components and Quasar CSS classes. |
+| 2026-11-20 20:31:08 | [universaltools.universaltools-everyday-tools](https://marketplace.visualstudio.com/items?itemName=universaltools.universaltools-everyday-tools) | UniversalTools: Everyday Tools | 4.0.0 | Code screenshots, translation, random data, a status bar clock, work-start trac… |
+| 2026-11-20 20:50:05 | [agentica-lang.agentica-lsp](https://marketplace.visualstudio.com/items?itemName=agentica-lang.agentica-lsp) | Agentica LSP | 0.4.0 | Diagnostics, hover, completion, go to definition, references and symbols for Ag… |
+| 2026-11-20 20:55:12 | [Yamin.spid3r-vscode](https://marketplace.visualstudio.com/items?itemName=Yamin.spid3r-vscode) | Spid3r Language & SpiderBD Templates | 1.0.0 | Complete language support for the Spid3r programming language (.matrix) and the… |
+| 2026-11-20 21:01:34 | [caspel26.lilac-nights](https://marketplace.visualstudio.com/items?itemName=caspel26.lilac-nights) | Lilac Nights | 1.1.1 | A dark and light theme with a lilac/violet spine and a full, contrast-checked s… |
+| 2026-11-20 21:06:02 | [thaisemanuele.midnight-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.midnight-princess) | Midnight Princess | 1.0.0 | A dark VS Code theme with midnight blues, glass-slipper light and a touch of go… |
+| 2026-11-20 21:06:23 | [ANSNEWTECH.spid3r-formatter](https://marketplace.visualstudio.com/items?itemName=ANSNEWTECH.spid3r-formatter) | Spid3r Formatter & Language Support | 1.0.0 | Syntax highlighting, formatting, completions, diagnostics and snippets for the… |
 
 ## Data source
 

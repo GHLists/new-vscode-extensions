@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T20:15:00.853Z,GilbertZenner.vowel-consonant-generator,GilbertZenner,Vowel-Consonant Generator,0.1.0,Insert pseudo-random placeholder text from a vowel/consonant word engine.
+2026-11-20T20:21:45.913Z,LatticeAI.mux-ai,LatticeAI,mux-ai,2.0.0,"mux in your editor — chat, inline commands, native diffs, and shared sessions over the local mux agent."
+2026-11-20T20:30:59.8Z,universaltools.universaltools-web-core,universaltools,UniversalTools: Web Core,4.0.0,"Linting, formatting, Git and GitHub, preview, testing, Node.js and everyday editor helpers for web development."
+2026-11-20T20:31:01.89Z,universaltools.universaltools-html-css,universaltools,UniversalTools: HTML & CSS,4.0.0,"HTML tags, Tailwind CSS, UnoCSS, Sass, PostCSS, Stylus, Stylelint and CSS helpers."
+2026-11-20T20:31:03.747Z,universaltools.universaltools-frameworks,universaltools,UniversalTools: Frameworks,4.0.0,"Official tooling for Vue, Svelte, Astro and MDX, plus React snippets and refactoring."
+2026-11-20T20:31:05.953Z,universaltools.universaltools-quasar,universaltools,UniversalTools: Quasar,4.0.0,Vue - Official plus IntelliSense for Quasar 2 components and Quasar CSS classes.
+2026-11-20T20:31:08.397Z,universaltools.universaltools-everyday-tools,universaltools,UniversalTools: Everyday Tools,4.0.0,"Code screenshots, translation, random data, a status bar clock, work-start tracking, folder formatting, plus a theme and file icons."
+2026-11-20T20:50:05.36Z,agentica-lang.agentica-lsp,agentica-lang,Agentica LSP,0.4.0,"Diagnostics, hover, completion, go to definition, references and symbols for Agentica (.agc) files from the agc-lsp language server."
+2026-11-20T20:55:12.02Z,Yamin.spid3r-vscode,Yamin,Spid3r Language & SpiderBD Templates,1.0.0,"Complete language support for the Spid3r programming language (.matrix) and the SpiderBD template engine (.bd.html) used by the Spid3rWeb / spid3r_ecommerce framework — syntax highlighting, formatter, completions, diagnostics, tag matching and snippets."
+2026-11-20T21:01:34.49Z,caspel26.lilac-nights,caspel26,Lilac Nights,1.1.1,"A dark and light theme with a lilac/violet spine and a full, contrast-checked syntax palette."
+2026-11-20T21:06:02.727Z,thaisemanuele.midnight-princess,thaisemanuele,Midnight Princess,1.0.0,"A dark VS Code theme with midnight blues, glass-slipper light and a touch of gold."
+2026-11-20T21:06:23.593Z,ANSNEWTECH.spid3r-formatter,ANSNEWTECH,Spid3r Formatter & Language Support,1.0.0,"Syntax highlighting, formatting, completions, diagnostics and snippets for the Spid3r programming language (.matrix) and the SpiderBD template engine (.bd.html) used by the Spid3rWeb / spid3r_ecommerce framework."
