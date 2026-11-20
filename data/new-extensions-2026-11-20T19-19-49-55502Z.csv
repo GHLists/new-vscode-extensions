@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T18:33:19.663Z,TJA.optilint-vscode,TJA,optilint,0.1.1,"JavaScript and TypeScript performance findings in the Problems panel, with type-checked quick fixes, powered by the optilint CLI."
+2026-11-20T18:37:19.96Z,Staris.staris-security-review,Staris,Staris Security Review,0.2.0,"Upload your project to Staris AI for automated security review and integrate findings into VS Code, Cursor, or Kiro."
+2026-11-20T18:42:41.667Z,DissappointedDaddy.disappointed-dad-vscode,DissappointedDaddy,Disappointed Dad,0.1.1,I'm not angry. I'm just disappointed you can't explain your own backend. An AI interviewer that makes you defend your code.
+2026-11-20T18:55:24.173Z,Toximiner.jetbrains-finder-linux,Toximiner,JetBrains Finder for Linux,0.4.0,"JetBrains-style find and replace for Linux x64, with live results and code previews."
+2026-11-20T18:59:51.137Z,RadwanAlmsora.shieldlocal,RadwanAlmsora,ShieldLocal — Offline Security Scanner,1.0.0,"Find hard-coded secrets, injection flaws, weak crypto and vulnerable dependencies as you type. 77 rules, quick fixes, dashboard and SARIF export — 100% offline, zero telemetry."
+2026-11-20T19:10:32.687Z,jxn.parquet-xplore,jxn,Parquet Xplore,0.1.0,The lightest Apache Parquet viewer for VS Code.
+2026-11-20T19:11:13.213Z,serge45-md-draw.markdown-draw-overlay,serge45-md-draw,Markdown Draw Overlay,0.1.0,"Draw, highlight, and annotate with a laser pointer directly on VS Code's Markdown Preview."

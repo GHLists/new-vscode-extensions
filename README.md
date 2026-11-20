@@ -12,21 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 18:20 UTC
+## Latest list — 2026-11-20 19:19 UTC
 
-New extensions published between 2026-11-20 16:20 UTC and 2026-11-20 18:20 UTC.
+New extensions published between 2026-11-20 17:19 UTC and 2026-11-20 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T18-20-24-555504Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T19-19-49-55502Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 17:22:23 | [r11s.morning-vscode-theme](https://marketplace.visualstudio.com/items?itemName=r11s.morning-vscode-theme) | Morning (Vim Port) | 1.0.0 | A port of Vim's "morning.vim" colorscheme: light grey background, with bold and… |
-| 2026-11-20 17:31:29 | [clev3r-community.clev3r-basic-plus](https://marketplace.visualstudio.com/items?itemName=clev3r-community.clev3r-basic-plus) | Clev3r Lab | 0.23.0 | Среда разработки для EV3: редактор, справка, симулятор и работа с роботом. |
-| 2026-11-20 17:34:15 | [FilipDobrocky.patcher-view](https://marketplace.visualstudio.com/items?itemName=FilipDobrocky.patcher-view) | PatcherView | 0.1.2 | Shows Pure Data and Max patches as graphs, and changes to them as a patch diff. |
-| 2026-11-20 17:52:15 | [RPForge.rpforge-script-checker](https://marketplace.visualstudio.com/items?itemName=RPForge.rpforge-script-checker) | RPForge Script Checker | 0.1.0 | Runs the free RPForge Script Checker on the open FiveM resource and lists what… |
-| 2026-11-20 17:57:43 | [goodov.fast-quick-open](https://marketplace.visualstudio.com/items?itemName=goodov.fast-quick-open) | Fast Quick Open | 1.1.1 | A fast, persistent file picker for large workspaces, powered by fd and fzf |
-| 2026-11-20 18:01:33 | [ve2cuy.simulateur-arduino-grove](https://marketplace.visualstudio.com/items?itemName=ve2cuy.simulateur-arduino-grove) | Simulateur Arduino Grove | 1.3.0 | Simulateur Arduino UNO et MEGA avec modules Grove, à partir du firmware compilé… |
-| 2026-11-20 18:03:49 | [r11s.blue-vscode-theme](https://marketplace.visualstudio.com/items?itemName=r11s.blue-vscode-theme) | Blue (Vim Port) | 1.0.0 | A port of Vim's "blue.vim" colorscheme: dark blue background with gold text, wi… |
+| 2026-11-20 18:33:19 | [TJA.optilint-vscode](https://marketplace.visualstudio.com/items?itemName=TJA.optilint-vscode) | optilint | 0.1.1 | JavaScript and TypeScript performance findings in the Problems panel, with type… |
+| 2026-11-20 18:37:19 | [Staris.staris-security-review](https://marketplace.visualstudio.com/items?itemName=Staris.staris-security-review) | Staris Security Review | 0.2.0 | Upload your project to Staris AI for automated security review and integrate fi… |
+| 2026-11-20 18:42:41 | [DissappointedDaddy.disappointed-dad-vscode](https://marketplace.visualstudio.com/items?itemName=DissappointedDaddy.disappointed-dad-vscode) | Disappointed Dad | 0.1.1 | I'm not angry. I'm just disappointed you can't explain your own backend. An AI… |
+| 2026-11-20 18:55:24 | [Toximiner.jetbrains-finder-linux](https://marketplace.visualstudio.com/items?itemName=Toximiner.jetbrains-finder-linux) | JetBrains Finder for Linux | 0.4.0 | JetBrains-style find and replace for Linux x64, with live results and code prev… |
+| 2026-11-20 18:59:51 | [RadwanAlmsora.shieldlocal](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.shieldlocal) | ShieldLocal — Offline Security Scanner | 1.0.0 | Find hard-coded secrets, injection flaws, weak crypto and vulnerable dependenci… |
+| 2026-11-20 19:10:32 | [jxn.parquet-xplore](https://marketplace.visualstudio.com/items?itemName=jxn.parquet-xplore) | Parquet Xplore | 0.1.0 | The lightest Apache Parquet viewer for VS Code. |
+| 2026-11-20 19:11:13 | [serge45-md-draw.markdown-draw-overlay](https://marketplace.visualstudio.com/items?itemName=serge45-md-draw.markdown-draw-overlay) | Markdown Draw Overlay | 0.1.0 | Draw, highlight, and annotate with a laser pointer directly on VS Code's Markdo… |
 
 ## Data source
 
