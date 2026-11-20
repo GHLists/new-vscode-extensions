@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T12:36:20.327Z,thalovant.thalovant-skills,thalovant,Thalovant Skills,0.1.0,"Write a Thalovant skill and try it at once: a device simulator next to your code that runs the skill in a real OVOS core, shows what it says, writes and puts on a screen, plus SkillKit checks, golden utterances and locale intelligence."
+2026-11-20T12:48:19.757Z,zsolt-tarczali.lz80n,zsolt-tarczali,LZ80N,1.2.0,"LZ80N language support for the ZX Spectrum Next: syntax highlighting, diagnostics, build and run in CSpect."
+2026-11-20T12:56:35.993Z,acikeldev.agent-session-finder,acikeldev,Session Finder for Claude Code,0.1.0,Full-text search across all your Claude Code sessions — and resume any of them in the Claude Code panel with one click.
+2026-11-20T13:03:55.317Z,friday-ai.friday-code,friday-ai,Пятница,0.5.2,"Пятница в VS Code: чат, объяснение кода, правки проекта с просмотром изменений и автодополнение."
