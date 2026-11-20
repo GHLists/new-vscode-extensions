@@ -12,22 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 11:19 UTC
+## Latest list — 2026-11-20 12:19 UTC
 
-New extensions published between 2026-11-20 09:19 UTC and 2026-11-20 11:19 UTC.
+New extensions published between 2026-11-20 10:19 UTC and 2026-11-20 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T11-19-28-199346Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T12-19-55-787482Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 10:14:34 | [sajib91.bug-dhor](https://marketplace.visualstudio.com/items?itemName=sajib91.bug-dhor) | Bug-Dhor: AI Code Security Analyzer | 0.1.0 | Local-first security diagnostics, evidence-grounded explanations, and proposal-… |
-| 2026-11-20 10:34:09 | [TimPillinger.cylc-flow-linker](https://marketplace.visualstudio.com/items?itemName=TimPillinger.cylc-flow-linker) | Cylc Flow Linker | 1.0.0 | Convert Jinja2 imports, app-key references, and optional config keys to navigab… |
-| 2026-11-20 10:36:29 | [delta-solutions.sftp-folder-upload](https://marketplace.visualstudio.com/items?itemName=delta-solutions.sftp-folder-upload) | SFTP Folder Upload | 0.2.0 | Upload a folder or your whole project to your server over SFTP or FTPS in one g… |
-| 2026-11-20 10:46:58 | [abchy.mcool-reader](https://marketplace.visualstudio.com/items?itemName=abchy.mcool-reader) | MCOOL Reader | 0.4.0 | Open .cool and .mcool Hi-C contact maps, explore heatmaps, and inspect Cooler m… |
-| 2026-11-20 10:53:33 | [kodall.kodall-deploy-vscode](https://marketplace.visualstudio.com/items?itemName=kodall.kodall-deploy-vscode) | Kodall Deploy | 1.1.0 | Deploy, manage environments, check live health, and rollback Kodall web applica… |
-| 2026-11-20 10:55:40 | [wittwitt.git-plus-plus](https://marketplace.visualstudio.com/items?itemName=wittwitt.git-plus-plus) | Git ++ | 0.1.7 | Browse Git branches, tags, and commit history in VS Code. |
-| 2026-11-20 10:58:36 | [tecacc.sdysyhj](https://marketplace.visualstudio.com/items?itemName=tecacc.sdysyhj) | Sdysyhj | 0.1.3 | Sdysyhj（山巅一石一壶酒）— Pi Agent for VS Code: chat-based coding agent inside the edit… |
-| 2026-11-20 11:10:25 | [commitflow.commitflow-vscode](https://marketplace.visualstudio.com/items?itemName=commitflow.commitflow-vscode) | CommitFlow | 0.4.6 | Visual Git commit history, interactive graph, side-by-side diff viewer, file hi… |
+| 2026-11-20 11:13:50 | [ClemboMembo.tasks-sidebar](https://marketplace.visualstudio.com/items?itemName=ClemboMembo.tasks-sidebar) | Tasks Sidebar | 0.1.1 | Browse, run, and track workspace tasks from a dedicated Visual Studio Code side… |
+| 2026-11-20 11:17:16 | [nidalbenyakhelf.code-humanizer](https://marketplace.visualstudio.com/items?itemName=nidalbenyakhelf.code-humanizer) | Code Humanizer | 0.1.4 | Make AI-generated code look human, natural, or raw stone-age across C, C++, Pyt… |
+| 2026-11-20 11:30:25 | [byteland-app.ghidra-lsp](https://marketplace.visualstudio.com/items?itemName=byteland-app.ghidra-lsp) | Ghidra LSP | 0.1.0 | Browse and rename Ghidra symbols through ghidra-mcp |
+| 2026-11-20 11:31:21 | [ChristianBonzelet.kiro-threads](https://marketplace.visualstudio.com/items?itemName=ChristianBonzelet.kiro-threads) | Kiro Threads for VSCode | 1.0.0 | Terminal-backed Kiro CLI threads in a sidebar, modelled on Zed's Terminal Threa… |
+| 2026-11-20 11:35:27 | [bjoern621.searchplusplus](https://marketplace.visualstudio.com/items?itemName=bjoern621.searchplusplus) | Search Plus Plus | 0.1.2 | Search text and the key paths of YAML, JSON and TOML files. Typos and umlaut sp… |
+| 2026-11-20 11:37:40 | [ElLoko.stack-builder](https://marketplace.visualstudio.com/items?itemName=ElLoko.stack-builder) | Stack Builder | 0.1.2 | Scan any folder, see every project inside it and the stack it uses, and turn it… |
+| 2026-11-20 11:40:04 | [rabbinatix.flow-pseudocode](https://marketplace.visualstudio.com/items?itemName=rabbinatix.flow-pseudocode) | Flow Pseudocode (FPC) | 1.0.0 | Flow Pseudocode (FPC) support: highlighting, errors as you type, format on save… |
+| 2026-11-20 11:47:18 | [r11s.elflord-vscode-theme](https://marketplace.visualstudio.com/items?itemName=r11s.elflord-vscode-theme) | Elflord (Vim Port) | 1.0.0 | A faithful port of Vim's "elflord.vim" colorscheme: black background, cyan text… |
+| 2026-11-20 11:47:54 | [SocketSecurity.socket-calm](https://marketplace.visualstudio.com/items?itemName=SocketSecurity.socket-calm) | Socket Calm | 1.0.0 | A low-noise syntax theme in warm plum and sand. Six colors, no shouting — light… |
+| 2026-11-20 11:58:20 | [gxsextension.gxs-extension](https://marketplace.visualstudio.com/items?itemName=gxsextension.gxs-extension) | GXS Extension | 0.0.1 | Coloration, autocomplétion, erreurs en direct et aperçu pour les docs GX Studio… |
+| 2026-11-20 12:00:29 | [tumr.tumr-vscode](https://marketplace.visualstudio.com/items?itemName=tumr.tumr-vscode) | Toolchain Universal Mobile Runtime | 0.1.4 | Run your Android app on an emulator right inside VS Code: a live phone preview… |
 
 ## Data source
 
