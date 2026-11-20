@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T07:20:35.803Z,SivanLiu.dsh-vscode-sivan,SivanLiu,dsh-vscode-mini,0.0.3,Run DeepSeek Harness in VS Code through ACP v1.
+2026-11-20T07:32:37.163Z,sxcooler.cbm-vscode-navigator,sxcooler,CBM Navigator,0.1.6,"Lightweight, high-performance VS Code navigation for the AI coding era, powered by codebase-memory-mcp."
+2026-11-20T07:55:10.377Z,notime-labs.heftmap,notime-labs,Heftmap — what's heavy in your repo,0.1.0,"What's heavy in your repo and whether it's used: file table, treemap, unreferenced assets, git history and hotspots."
+2026-11-20T07:56:27.813Z,proxymail-qa.proxymail-qa-vscode,proxymail-qa,Proxy Mail QA,0.1.0,"Test inboxes for sign-up, login and password reset in VS Code, Cursor, Windsurf and Qoder: make a test address, copy its code or link, and insert Playwright or Cypress tests."
+2026-11-20T08:07:51.58Z,triviumcode.trivium-cockpit,triviumcode,TriviumCode 驾驶舱,0.3.0,TriviumCode 双审流水线的 VS Code 前端：环境健康、装配点火（终端协同）、运行监控、审查意见行内批注（Comments/Problems/Diff）、运行历史回放、裁决台（预览确认后落盘契约裁决件——唯一写例外）、带外人工审批（approve/reject/abandon）、保存防护三色灯与装配预设。集成面：CLI（--json + 退出码，含审批动作）、只读文件 watcher、只读 git status 提示性摘要。
