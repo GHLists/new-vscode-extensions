@@ -12,27 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 17:21 UTC
+## Latest list — 2026-11-20 18:20 UTC
 
-New extensions published between 2026-11-20 15:21 UTC and 2026-11-20 17:21 UTC.
+New extensions published between 2026-11-20 16:20 UTC and 2026-11-20 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T17-21-13-229738Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T18-20-24-555504Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 16:17:41 | [kestrel-lang.kestrel-language](https://marketplace.visualstudio.com/items?itemName=kestrel-lang.kestrel-language) | Kestrel for VS Code | 0.4.4 | Kestrel language support: highlighting, completion, diagnostics, inlay hints an… |
-| 2026-11-20 16:18:08 | [ChristopherAlphonse.sqlite-peek](https://marketplace.visualstudio.com/items?itemName=ChristopherAlphonse.sqlite-peek) | SQLite Peek | 1.0.1 | Free, read-only SQLite viewer for VS Code: browse tables and views, page throug… |
-| 2026-11-20 16:24:18 | [lyjy.open-selected-folder](https://marketplace.visualstudio.com/items?itemName=lyjy.open-selected-folder) | Open Selected Folder | 0.0.1 | Open the focused Explorer item's folder in a new VS Code window. |
-| 2026-11-20 16:31:30 | [vendayx.log-lens-analyzer](https://marketplace.visualstudio.com/items?itemName=vendayx.log-lens-analyzer) | vendayx loglens | 1.0.4 | A local, offline log viewer and analyzer for VS Code. |
-| 2026-11-20 16:32:56 | [CBSJohn.collab-latex](https://marketplace.visualstudio.com/items?itemName=CBSJohn.collab-latex) | Collab LaTeX | 0.1.0 | Comments, PDF-source jumps and a branch/pull-request workflow for writing LaTeX… |
-| 2026-11-20 16:33:10 | [gunnargrosch.awsesh-vscode](https://marketplace.visualstudio.com/items?itemName=gunnargrosch.awsesh-vscode) | Sesh AWS SSO | 0.1.1 | Switch AWS SSO accounts, roles, and credentials from VS Code and compatible edi… |
-| 2026-11-20 16:43:00 | [Duobase.duobase](https://marketplace.visualstudio.com/items?itemName=Duobase.duobase) | Duobase — SQL Server & PostgreSQL | 0.1.0 | Conecte a SQL Server e PostgreSQL: autocomplete que conhece seu banco, grid com… |
-| 2026-11-20 16:55:33 | [TwoGuysDev.explorer-for-penpot](https://marketplace.visualstudio.com/items?itemName=TwoGuysDev.explorer-for-penpot) | Explorer for Penpot | 0.2.1 | Browse your Penpot teams, projects, files, pages and boards and preview designs… |
-| 2026-11-20 16:55:51 | [SyeedMDTalha.peace-of-eye-lighter](https://marketplace.visualstudio.com/items?itemName=SyeedMDTalha.peace-of-eye-lighter) | Peace of the Eye Lighter | 1.0.0 | A slightly lighter variant of the Peace of the Eye dark theme, with a softer, l… |
-| 2026-11-20 17:00:19 | [gordon-vidal.video-preview-enhanced](https://marketplace.visualstudio.com/items?itemName=gordon-vidal.video-preview-enhanced) | Video Preview Enhanced | 0.7.1 | Play MP4, MKV, MOV, AVI and WebM with sound in VS Code. Remote-SSH, WSL, video… |
-| 2026-11-20 17:02:43 | [zorzenstudios.chakra-moments](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.chakra-moments) | Chakra Moments | 1.0.0 | Seven quiet colour themes, and a breath beside your code. |
-| 2026-11-20 17:02:52 | [mathias82.hushavyr](https://marketplace.visualstudio.com/items?itemName=mathias82.hushavyr) | Hushavyr - Private AI Code Review | 0.0.11 | Privacy-aware local AI routing |
-| 2026-11-20 17:06:21 | [vitalivu992.csv-explorer-vsce](https://marketplace.visualstudio.com/items?itemName=vitalivu992.csv-explorer-vsce) | CSV Explorer | 0.1.0 | Lean CSV/TSV table viewer with delimiter detection, typed column filters and so… |
+| 2026-11-20 17:22:23 | [r11s.morning-vscode-theme](https://marketplace.visualstudio.com/items?itemName=r11s.morning-vscode-theme) | Morning (Vim Port) | 1.0.0 | A port of Vim's "morning.vim" colorscheme: light grey background, with bold and… |
+| 2026-11-20 17:31:29 | [clev3r-community.clev3r-basic-plus](https://marketplace.visualstudio.com/items?itemName=clev3r-community.clev3r-basic-plus) | Clev3r Lab | 0.23.0 | Среда разработки для EV3: редактор, справка, симулятор и работа с роботом. |
+| 2026-11-20 17:34:15 | [FilipDobrocky.patcher-view](https://marketplace.visualstudio.com/items?itemName=FilipDobrocky.patcher-view) | PatcherView | 0.1.2 | Shows Pure Data and Max patches as graphs, and changes to them as a patch diff. |
+| 2026-11-20 17:52:15 | [RPForge.rpforge-script-checker](https://marketplace.visualstudio.com/items?itemName=RPForge.rpforge-script-checker) | RPForge Script Checker | 0.1.0 | Runs the free RPForge Script Checker on the open FiveM resource and lists what… |
+| 2026-11-20 17:57:43 | [goodov.fast-quick-open](https://marketplace.visualstudio.com/items?itemName=goodov.fast-quick-open) | Fast Quick Open | 1.1.1 | A fast, persistent file picker for large workspaces, powered by fd and fzf |
+| 2026-11-20 18:01:33 | [ve2cuy.simulateur-arduino-grove](https://marketplace.visualstudio.com/items?itemName=ve2cuy.simulateur-arduino-grove) | Simulateur Arduino Grove | 1.3.0 | Simulateur Arduino UNO et MEGA avec modules Grove, à partir du firmware compilé… |
+| 2026-11-20 18:03:49 | [r11s.blue-vscode-theme](https://marketplace.visualstudio.com/items?itemName=r11s.blue-vscode-theme) | Blue (Vim Port) | 1.0.0 | A port of Vim's "blue.vim" colorscheme: dark blue background with gold text, wi… |
 
 ## Data source
 
