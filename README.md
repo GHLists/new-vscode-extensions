@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 02:20 UTC
+## Latest list — 2026-11-20 03:19 UTC
 
-New extensions published between 2026-11-20 00:20 UTC and 2026-11-20 02:20 UTC.
+New extensions published between 2026-11-20 01:19 UTC and 2026-11-20 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T02-20-58-179107Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T03-19-46-119285Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 01:36:00 | [rtcloud.rtcloud](https://marketplace.visualstudio.com/items?itemName=rtcloud.rtcloud) | RT Cloud | 1.0.0 | Gerencie a sua hospedagem RT Cloud sem sair do editor: aplicações, bancos, logs… |
-| 2026-11-20 01:43:05 | [c1b3r0y.imp-skins](https://marketplace.visualstudio.com/items?itemName=c1b3r0y.imp-skins) | IMP SKINS | 1.0.0 | Skins 8-bit para VS Code: aplica, crea y comparte temas con tus amigos desde un… |
-| 2026-11-20 01:56:37 | [josebruno10.flexbox-trainer](https://marketplace.visualstudio.com/items?itemName=josebruno10.flexbox-trainer) | FlexBox Trainer | 0.7.0 | Extensão para treinamento de recriação de layouts em HTML e CSS, no formato do… |
-| 2026-11-20 02:05:06 | [OneFanki.project-rail](https://marketplace.visualstudio.com/items?itemName=OneFanki.project-rail) | Project Rail | 0.0.1 | A project manager for VS Code. Every project in one list, grouped, one click aw… |
+| 2026-11-20 02:50:00 | [Airiet.yichip-assembler](https://marketplace.visualstudio.com/items?itemName=Airiet.yichip-assembler) | Yichip Assembler | 1.2.3 | YiChip 汇编开发扩展，支持 PROG、FORMAT、DAT 语法高亮、指令补全、悬浮说明与可视化规则编辑。 |
+| 2026-11-20 02:50:14 | [paper-dust.paper-dust](https://marketplace.visualstudio.com/items?itemName=paper-dust.paper-dust) | Paper Dust | 0.1.1 | A quieter place to code. A warm, minimal VS Code theme with thoughtful syntax c… |
+| 2026-11-20 02:54:40 | [theexe.lunaut-luau](https://marketplace.visualstudio.com/items?itemName=theexe.lunaut-luau) | Lunaut - Luau Language Server | 0.0.8 | Luau language server written in C++: FFlags, prioritized .d.luau definitions an… |
+| 2026-11-20 02:56:01 | [geonoo.pr-kit-ko](https://marketplace.visualstudio.com/items?itemName=geonoo.pr-kit-ko) | PR Kit — 한국어 PR/커밋 규칙 | 0.1.0 | 한국어 PR 템플릿, 커밋 메시지 규칙, 체크리스트를 워크스페이스에 바로 넣습니다. |
 
 ## Data source
 

@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T02:50:00.01Z,Airiet.yichip-assembler,Airiet,Yichip Assembler,1.2.3,YiChip 汇编开发扩展，支持 PROG、FORMAT、DAT 语法高亮、指令补全、悬浮说明与可视化规则编辑。
+2026-11-20T02:50:14.22Z,paper-dust.paper-dust,paper-dust,Paper Dust,0.1.1,"A quieter place to code. A warm, minimal VS Code theme with thoughtful syntax colours."
+2026-11-20T02:54:40.36Z,theexe.lunaut-luau,theexe,Lunaut - Luau Language Server,0.0.8,"Luau language server written in C++: FFlags, prioritized .d.luau definitions and Rojo support"
+2026-11-20T02:56:01.4Z,geonoo.pr-kit-ko,geonoo,PR Kit — 한국어 PR/커밋 규칙,0.1.0,"한국어 PR 템플릿, 커밋 메시지 규칙, 체크리스트를 워크스페이스에 바로 넣습니다."
