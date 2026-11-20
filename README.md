@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 13:20 UTC
+## Latest list — 2026-11-20 14:19 UTC
 
-New extensions published between 2026-11-20 11:20 UTC and 2026-11-20 13:20 UTC.
+New extensions published between 2026-11-20 12:19 UTC and 2026-11-20 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T13-20-58-68891Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T14-19-27-301919Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 12:36:20 | [thalovant.thalovant-skills](https://marketplace.visualstudio.com/items?itemName=thalovant.thalovant-skills) | Thalovant Skills | 0.1.0 | Write a Thalovant skill and try it at once: a device simulator next to your cod… |
-| 2026-11-20 12:48:19 | [zsolt-tarczali.lz80n](https://marketplace.visualstudio.com/items?itemName=zsolt-tarczali.lz80n) | LZ80N | 1.2.0 | LZ80N language support for the ZX Spectrum Next: syntax highlighting, diagnosti… |
-| 2026-11-20 12:56:35 | [acikeldev.agent-session-finder](https://marketplace.visualstudio.com/items?itemName=acikeldev.agent-session-finder) | Session Finder for Claude Code | 0.1.0 | Full-text search across all your Claude Code sessions — and resume any of them… |
-| 2026-11-20 13:03:55 | [friday-ai.friday-code](https://marketplace.visualstudio.com/items?itemName=friday-ai.friday-code) | Пятница | 0.5.2 | Пятница в VS Code: чат, объяснение кода, правки проекта с просмотром изменений… |
+| 2026-11-20 13:20:41 | [zorzenstudios.haar-theme](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.haar-theme) | Haar Theme | 1.0.0 | Six calm fog colour themes for VS Code, each in light and dark. Free, from Zorz… |
+| 2026-11-20 13:27:24 | [flatfile.basalt-colour-scheme](https://marketplace.visualstudio.com/items?itemName=flatfile.basalt-colour-scheme) | Basalt Theme | 1.0.1 | Dark and light colour themes from one palette, with every contrast ratio measur… |
+| 2026-11-20 13:43:20 | [uiuxicon.uiuxicon](https://marketplace.visualstudio.com/items?itemName=uiuxicon.uiuxicon) | UIUXIcon | 0.1.0 | Search 6,800+ open-source UI icons by meaning and insert them as SVG, React or… |
+| 2026-11-20 13:45:42 | [carlwr.better-zsh](https://marketplace.visualstudio.com/items?itemName=carlwr.better-zsh) | Better Zsh | 0.1.0 | Zsh language support: hovers and completions from the zsh manual, syntax checks… |
+| 2026-11-20 13:50:07 | [hrshbrdhnn.embedded-json-xml-formatter](https://marketplace.visualstudio.com/items?itemName=hrshbrdhnn.embedded-json-xml-formatter) | Embedded JSON/XML Formatter | 1.0.0 | A lightweight offline VS Code extension to preview formatted XML and JSON embed… |
+| 2026-11-20 13:55:15 | [rysh-ai.rysh-vscode](https://marketplace.visualstudio.com/items?itemName=rysh-ai.rysh-vscode) | rysh | 0.1.0 | See your rysh session's panes in VS Code — which agent needs you — open a pane,… |
+| 2026-11-20 14:09:48 | [Quvly.qasmith-vscode](https://marketplace.visualstudio.com/items?itemName=Quvly.qasmith-vscode) | Qasmith | 0.9.0 | Smith language support and local quantum compiler integration |
 
 ## Data source
 

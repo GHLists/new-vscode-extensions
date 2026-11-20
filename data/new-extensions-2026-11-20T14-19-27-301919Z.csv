@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T13:20:41.03Z,zorzenstudios.haar-theme,zorzenstudios,Haar Theme,1.0.0,"Six calm fog colour themes for VS Code, each in light and dark. Free, from Zorzen Studios."
+2026-11-20T13:27:24.727Z,flatfile.basalt-colour-scheme,flatfile,Basalt Theme,1.0.1,"Dark and light colour themes from one palette, with every contrast ratio measured and published rather than asserted. The same scheme ships for 30 other apps."
+2026-11-20T13:43:20.757Z,uiuxicon.uiuxicon,uiuxicon,UIUXIcon,0.1.0,"Search 6,800+ open-source UI icons by meaning and insert them as SVG, React or an image link."
+2026-11-20T13:45:42.52Z,carlwr.better-zsh,carlwr,Better Zsh,0.1.0,"Zsh language support: hovers and completions from the zsh manual, syntax checks, snippets, and function navigation"
+2026-11-20T13:50:07.607Z,hrshbrdhnn.embedded-json-xml-formatter,hrshbrdhnn,Embedded JSON/XML Formatter,1.0.0,"A lightweight offline VS Code extension to preview formatted XML and JSON embedded inside JSON or XML documents — handles nested, escaped, and entity-encoded payloads."
+2026-11-20T13:55:15.453Z,rysh-ai.rysh-vscode,rysh-ai,rysh,0.1.0,"See your rysh session's panes in VS Code — which agent needs you — open a pane, and hand an agent a file or a selection through the session's policy gate."
+2026-11-20T14:09:48.267Z,Quvly.qasmith-vscode,Quvly,Qasmith,0.9.0,Smith language support and local quantum compiler integration
