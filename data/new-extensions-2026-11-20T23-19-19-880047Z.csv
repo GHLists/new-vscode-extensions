@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T22:18:04.743Z,thaisemanuele.desert-princess,thaisemanuele,Desert Princess,1.0.0,"A dark VS Code theme with desert-night indigo, palace turquoise, lilac silk and a glint of lamp gold."
+2026-11-20T22:18:13.687Z,KeyCode.keycode-vscode,KeyCode,KeyCode,0.1.2,"Local-first coding agent for VS Code, powered by the KeyCode CLI."
+2026-11-20T22:41:27.927Z,thaisemanuele.rose-princess,thaisemanuele,Rose Princess,1.0.0,"A dark VS Code theme with castle-night plum, a golden ballgown, an enchanted rose and old library parchment."
+2026-11-20T22:43:16.823Z,okko.agent-keys,okko,Agent Keys,4.0.0,Show local agent session status on Work Louder keyboards and open conversations with configured keys.
+2026-11-20T22:48:59.247Z,kovallent.kv-cli-vscode,kovallent,Kovallent kv-cli,0.1.0,"Shows kv-cli findings (missing contract parameters, hardcoded credentials, pinned infrastructure, naming rules) as editor diagnostics. Runs the kv-cli you installed; never downloads one. No network, no telemetry."
+2026-11-20T22:58:37.48Z,Benjamin-Davies.vscode-nestor,Benjamin-Davies,Nestor C LSP,0.0.2,C LSP that takes a silly amount of shortcuts
+2026-11-20T22:59:03.817Z,Toximiner.universal-usage-lens,Toximiner,Universal Usage Lens,0.1.2,"Reference counts for Python, TypeScript, JavaScript and other languages, without blank CodeLens rows."
+2026-11-20T23:11:28.023Z,cesar-rellan.stratio-mcp-local,cesar-rellan,Stratio MCP Local,0.1.2,"Instala, actualiza y configura Stratio MCP local con sesiones personales."
+2026-11-20T23:13:53.673Z,LxStudio.commitflow-lx,LxStudio,CommitFlow — Batch Commit Orchestrator,1.0.0,"Split your messy working tree into atomic commits. Group by rules, preview diffs, execute in batch."
