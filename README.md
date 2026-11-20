@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 01:20 UTC
+## Latest list — 2026-11-20 02:20 UTC
 
-New extensions published between 2026-11-19 23:20 UTC and 2026-11-20 01:20 UTC.
+New extensions published between 2026-11-20 00:20 UTC and 2026-11-20 02:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T01-20-50-02273Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T02-20-58-179107Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 00:49:21 | [ppfjuni.markdown-in-browser](https://marketplace.visualstudio.com/items?itemName=ppfjuni.markdown-in-browser) | Markdown in Browser | 0.1.0 | Open Markdown files rendered in your browser, distraction-free: links between .… |
-| 2026-11-20 00:58:19 | [quickread.quickread](https://marketplace.visualstudio.com/items?itemName=quickread.quickread) | quickread | 1.6.0 | VSCode 状态栏书籍阅读插件：底部状态栏隐蔽阅读本地 txt，支持编码检测、快捷键翻页、老板键伪装 |
-| 2026-11-20 01:14:53 | [rubrikpulsasoftware.dbcommanderx-sqlite-viewer](https://marketplace.visualstudio.com/items?itemName=rubrikpulsasoftware.dbcommanderx-sqlite-viewer) | SQLite Viewer — DB CommanderX | 1.0.0 | Fast, offline, read-only SQLite viewer & SQL query inspector for .sqlite and .d… |
-| 2026-11-20 01:15:28 | [axforge.axforge](https://marketplace.visualstudio.com/items?itemName=axforge.axforge) | AxForge | 0.1.0 | AxForge's open models in VS Code's chat: add your key once, and every chat mode… |
+| 2026-11-20 01:36:00 | [rtcloud.rtcloud](https://marketplace.visualstudio.com/items?itemName=rtcloud.rtcloud) | RT Cloud | 1.0.0 | Gerencie a sua hospedagem RT Cloud sem sair do editor: aplicações, bancos, logs… |
+| 2026-11-20 01:43:05 | [c1b3r0y.imp-skins](https://marketplace.visualstudio.com/items?itemName=c1b3r0y.imp-skins) | IMP SKINS | 1.0.0 | Skins 8-bit para VS Code: aplica, crea y comparte temas con tus amigos desde un… |
+| 2026-11-20 01:56:37 | [josebruno10.flexbox-trainer](https://marketplace.visualstudio.com/items?itemName=josebruno10.flexbox-trainer) | FlexBox Trainer | 0.7.0 | Extensão para treinamento de recriação de layouts em HTML e CSS, no formato do… |
+| 2026-11-20 02:05:06 | [OneFanki.project-rail](https://marketplace.visualstudio.com/items?itemName=OneFanki.project-rail) | Project Rail | 0.0.1 | A project manager for VS Code. Every project in one list, grouped, one click aw… |
 
 ## Data source
 
