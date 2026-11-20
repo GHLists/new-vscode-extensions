@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T05:15:04.96Z,bala-ai.bala-ai-code,bala-ai,B-AI Code,0.8.4,"Coding agent for VS Code. Runs on your own GPU (Qwen3.8 via Ollama) or a frontier API — same harness, model is a setting."
+2026-11-20T05:23:03.083Z,turtle-lang.turtle-lang,turtle-lang,Turtle Programming Language,1.0.1,"The Turtle programming language: run files, colors, errors as you type, completion, hover help and go to definition (through turtle lsp)."
+2026-11-20T05:28:16.807Z,AnandShah.laralens,AnandShah,LaraLens — Laravel Intelligence,0.3.0,"Deep Laravel-aware code intelligence for VS Code: routes, Eloquent relationships, events, N+1 detection, dependency graphs, dead code, config/env safety, migration risk, and more."
+2026-11-20T05:30:07.44Z,nayan-mle.nayan-prime,nayan-mle,Nayan Prime,0.0.1,"With Intent, Care & Precision"
+2026-11-20T05:33:55.503Z,nuclearlang.nuclearlang,nuclearlang,NuclearLang,0.78.0,"NuclearLang (.nuc) support: the Nuclear workspace (projects as tabs, tools full screen, keyboard first), language server, semantic highlighting, code metrics, the Synapsis dialects (flutter, fastapi, nestjs, react) and the Chernobyl theme"
+2026-11-20T05:38:29.647Z,ashutosh-vijay.design-studio-mulesoft,ashutosh-vijay,Design Studio for MuleSoft (BETA),0.1.0,"Design MuleSoft Anypoint API specs (RAML, OpenAPI, AsyncAPI) in VS Code with live AMF validation, forms, a local mock and governance. Syncs with Design Center and Exchange, works offline."
+2026-11-20T05:59:42.56Z,furrysalamander.niblick,furrysalamander,Niblick,1.0.0,Niblick language support for the Hackaday Supercon.6 badge
+2026-11-20T06:02:01.83Z,kiro.kiro-for-vscode,kiro,Kiro for VS Code,1.5.0,"Spec-driven development with agent chat, specs, steering, hooks, and MCP integration."
