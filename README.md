@@ -12,25 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 15:19 UTC
+## Latest list — 2026-11-20 16:21 UTC
 
-New extensions published between 2026-11-20 13:19 UTC and 2026-11-20 15:19 UTC.
+New extensions published between 2026-11-20 14:21 UTC and 2026-11-20 16:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T15-19-33-823789Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T16-21-04-422769Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 14:17:34 | [costaff.costaff-workspace-vscode](https://marketplace.visualstudio.com/items?itemName=costaff.costaff-workspace-vscode) | CoStaff Workspace | 0.1.0 | See and edit open-x workspaces (open-doc, open-dashboard, open-slide, open-spre… |
-| 2026-11-20 14:19:42 | [yotsuda.orecchiante](https://marketplace.visualstudio.com/items?itemName=yotsuda.orecchiante) | Orecchiante Chord Chart Transcriber | 0.13.2 | Reads a recording into an editable Lily# (.lys) chord chart: tempo, meter, key,… |
-| 2026-11-20 14:20:24 | [barron-local.barron-test](https://marketplace.visualstudio.com/items?itemName=barron-local.barron-test) | barron-test | 1.0.7 | barron-test |
-| 2026-11-20 14:29:10 | [Quvly.qasmith-language](https://marketplace.visualstudio.com/items?itemName=Quvly.qasmith-language) | Qasmith Smith Tools by Quvly | 0.9.0 | Smith language support and local quantum compiler integration |
-| 2026-11-20 14:30:04 | [gitwithmasum.secretsanitizer-ai-vscode](https://marketplace.visualstudio.com/items?itemName=gitwithmasum.secretsanitizer-ai-vscode) | SecretSanitizer AI — Privacy Firewall &… | 1.0.0 | Production-grade developer privacy firewall that detects, classifies, and redac… |
-| 2026-11-20 14:43:50 | [PatriksKrastins.all-over-tools](https://marketplace.visualstudio.com/items?itemName=PatriksKrastins.all-over-tools) | All Over Tools | 0.1.3 | Apply text and code tools to your files in one step. Regular tools run offline,… |
-| 2026-11-20 14:51:31 | [kusamaru-93.tate-script](https://marketplace.visualstudio.com/items?itemName=kusamaru-93.tate-script) | TateScript | 0.1.0 | 日本語の脚本・シナリオを縦書きで執筆し、PDF出力できる拡張機能 |
-| 2026-11-20 14:57:35 | [qrcode-ai-com.qrcode-barcode-scanner](https://marketplace.visualstudio.com/items?itemName=qrcode-ai-com.qrcode-barcode-scanner) | QR Code & Barcode Scanner | 0.1.0 | Read QR codes and barcodes in image files on your machine, with the open-source… |
-| 2026-11-20 15:00:54 | [CodeMaman.pr-watch](https://marketplace.visualstudio.com/items?itemName=CodeMaman.pr-watch) | PR Watcher: CI Notifier | 0.1.0 | Watch GitHub pull request CI checks and get OS-level notifications when they pa… |
-| 2026-11-20 15:03:30 | [RenesasElectronicsCorporation.renesas-fsp-sc-mcp](https://marketplace.visualstudio.com/items?itemName=RenesasElectronicsCorporation.renesas-fsp-sc-mcp) | Renesas FSP Smart Configurator MCP | 1.4.1 | Preview: Lets AI agents such as GitHub Copilot and Claude Code create and confi… |
-| 2026-11-20 15:14:39 | [si783-grupo4.framework-sql-qa](https://marketplace.visualstudio.com/items?itemName=si783-grupo4.framework-sql-qa) | Framework SQL QA | 1.1.0 | Ejecuta suites de comprobaciones SQL contra Oracle, importa casos desde Excel,… |
+| 2026-11-20 15:16:55 | [GregorBiswanger.featherspec-studio](https://marketplace.visualstudio.com/items?itemName=GregorBiswanger.featherspec-studio) | FeatherSpec Studio | 0.1.0 | Spec-driven development for GitHub Copilot and Claude Code: see every spec, its… |
+| 2026-11-20 15:17:00 | [tidjan.autopic-vscode](https://marketplace.visualstudio.com/items?itemName=tidjan.autopic-vscode) | Autopic Studio — Smart Illustrations | 0.1.6 | Interactive illustration studio for VS Code, Cursor, Windsurf & Antigravity. Au… |
+| 2026-11-20 15:29:34 | [TristanFarran.tensi](https://marketplace.visualstudio.com/items?itemName=TristanFarran.tensi) | tensi | 0.3.0 | Hover any PyTorch tensor to see its shape, with every dimension named after the… |
+| 2026-11-20 15:32:44 | [lsiq-software.sd-configdiff](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-configdiff) | ConfigDiff - Compare Configs Across Env… | 1.0.1 | Compare .env, YAML, JSON, and properties files across environments. Free side-b… |
+| 2026-11-20 15:32:57 | [lsiq-software.sd-portpilot](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-portpilot) | PortPilot - Kubernetes Port-Forward Man… | 1.0.0 | Kubernetes port-forwards that manage themselves inside VS Code. Free: one forwa… |
+| 2026-11-20 15:47:43 | [naice.reqvyn](https://marketplace.visualstudio.com/items?itemName=naice.reqvyn) | REQVYN – API Client | 0.1.0 | Local-first API client: Send. Inspect. Repeat. |
+| 2026-11-20 15:48:47 | [fedetomassini.nycta-dark](https://marketplace.visualstudio.com/items?itemName=fedetomassini.nycta-dark) | Nycta Dark | 1.0.0 | A near-black VS Code dark theme with muted text, minimal separators, subtle UI… |
+| 2026-11-20 15:53:43 | [Symthosm.gymthosm](https://marketplace.visualstudio.com/items?itemName=Symthosm.gymthosm) | Gymthosm | 1.0.0 | Generate side-by-side HTML diff reports and 3-column merge reports for local an… |
+| 2026-11-20 16:00:12 | [mathias82.ai-privacy-router](https://marketplace.visualstudio.com/items?itemName=mathias82.ai-privacy-router) | Hushavyr | 0.0.10 | Privacy-aware local AI routing |
+| 2026-11-20 16:02:31 | [ratatoskr.salamander-schemas](https://marketplace.visualstudio.com/items?itemName=ratatoskr.salamander-schemas) | Salamander Language Support | 0.0.1 | Highlighting and snippets for Salamander's .sal schemas |
+| 2026-11-20 16:03:11 | [ratatoskr.wraith](https://marketplace.visualstudio.com/items?itemName=ratatoskr.wraith) | Wraith | 0.0.1 | Language support for Wraith files: tweaks, scripts, address lists and projects |
 
 ## Data source
 

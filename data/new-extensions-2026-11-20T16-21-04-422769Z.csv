@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T15:16:55.25Z,GregorBiswanger.featherspec-studio,GregorBiswanger,FeatherSpec Studio,0.1.0,"Spec-driven development for GitHub Copilot and Claude Code: see every spec, its plan and next step, and send it to your agent."
+2026-11-20T15:17:00.2Z,tidjan.autopic-vscode,tidjan,Autopic Studio — Smart Illustrations,0.1.6,"Interactive illustration studio for VS Code, Cursor, Windsurf & Antigravity. Auto-palette detection, multi-provider search & 1-click cursor insertion."
+2026-11-20T15:29:34.267Z,TristanFarran.tensi,TristanFarran,tensi,0.3.0,"Hover any PyTorch tensor to see its shape, with every dimension named after the variable that sized it. Shape errors underlined. No annotations needed."
+2026-11-20T15:32:44.74Z,lsiq-software.sd-configdiff,lsiq-software,ConfigDiff - Compare Configs Across Environments,1.0.1,"Compare .env, YAML, JSON, and properties files across environments. Free side-by-side diffs; Pro adds multi-env reports and contract checks."
+2026-11-20T15:32:57.857Z,lsiq-software.sd-portpilot,lsiq-software,PortPilot - Kubernetes Port-Forward Manager,1.0.0,"Kubernetes port-forwards that manage themselves inside VS Code. Free: one forward, context switcher, live list. Pro: unlimited forwards, auto-reconnect, saved profiles, port-conflict warnings, per-forward logs."
+2026-11-20T15:47:43.867Z,naice.reqvyn,naice,REQVYN – API Client,0.1.0,Local-first API client: Send. Inspect. Repeat.
+2026-11-20T15:48:47.227Z,fedetomassini.nycta-dark,fedetomassini,Nycta Dark,1.0.0,"A near-black VS Code dark theme with muted text, minimal separators, subtle UI contrast, and balanced pastel syntax colors."
+2026-11-20T15:53:43.667Z,Symthosm.gymthosm,Symthosm,Gymthosm,1.0.0,"Generate side-by-side HTML diff reports and 3-column merge reports for local and Git repositories, plus a C/C++ color theme."
+2026-11-20T16:00:12.533Z,mathias82.ai-privacy-router,mathias82,Hushavyr,0.0.10,Privacy-aware local AI routing
+2026-11-20T16:02:31.923Z,ratatoskr.salamander-schemas,ratatoskr,Salamander Language Support,0.0.1,Highlighting and snippets for Salamander's .sal schemas
+2026-11-20T16:03:11.207Z,ratatoskr.wraith,ratatoskr,Wraith,0.0.1,"Language support for Wraith files: tweaks, scripts, address lists and projects"
