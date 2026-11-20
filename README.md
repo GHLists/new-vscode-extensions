@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-20 03:19 UTC
+## Latest list — 2026-11-20 04:21 UTC
 
-New extensions published between 2026-11-20 01:19 UTC and 2026-11-20 03:19 UTC.
+New extensions published between 2026-11-20 02:21 UTC and 2026-11-20 04:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-20T03-19-46-119285Z.csv)
+[Full CSV](data/new-extensions-2026-11-20T04-21-36-69477Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 02:50:00 | [Airiet.yichip-assembler](https://marketplace.visualstudio.com/items?itemName=Airiet.yichip-assembler) | Yichip Assembler | 1.2.3 | YiChip 汇编开发扩展，支持 PROG、FORMAT、DAT 语法高亮、指令补全、悬浮说明与可视化规则编辑。 |
-| 2026-11-20 02:50:14 | [paper-dust.paper-dust](https://marketplace.visualstudio.com/items?itemName=paper-dust.paper-dust) | Paper Dust | 0.1.1 | A quieter place to code. A warm, minimal VS Code theme with thoughtful syntax c… |
-| 2026-11-20 02:54:40 | [theexe.lunaut-luau](https://marketplace.visualstudio.com/items?itemName=theexe.lunaut-luau) | Lunaut - Luau Language Server | 0.0.8 | Luau language server written in C++: FFlags, prioritized .d.luau definitions an… |
-| 2026-11-20 02:56:01 | [geonoo.pr-kit-ko](https://marketplace.visualstudio.com/items?itemName=geonoo.pr-kit-ko) | PR Kit — 한국어 PR/커밋 규칙 | 0.1.0 | 한국어 PR 템플릿, 커밋 메시지 규칙, 체크리스트를 워크스페이스에 바로 넣습니다. |
+| 2026-11-20 03:53:28 | [doubao-coder.doubao-coder](https://marketplace.visualstudio.com/items?itemName=doubao-coder.doubao-coder) | 豆包编程助手 | 0.45.1 | 第三方豆包编程助手：侧边栏 AI 对话、Agent 工具调用、行内补全、行内改写（Ctrl+Alt+I），并支持把选区投送到豆包桌面客户端。 |
+| 2026-11-20 04:02:55 | [avighnac.caide-inliner](https://marketplace.visualstudio.com/items?itemName=avighnac.caide-inliner) | Caide Inliner | 1.0.0 | Use caide-inliner in Visual Studio Code to inline C/C++ code and remove unused… |
+| 2026-11-20 04:16:29 | [nimeus.agent-glasses](https://marketplace.visualstudio.com/items?itemName=nimeus.agent-glasses) | Agent Glasses | 0.11.0 | See what your Claude Code agents are doing: live sessions and subagents, costs,… |
 
 ## Data source
 

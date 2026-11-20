@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T03:53:28.92Z,doubao-coder.doubao-coder,doubao-coder,豆包编程助手,0.45.1,第三方豆包编程助手：侧边栏 AI 对话、Agent 工具调用、行内补全、行内改写（Ctrl+Alt+I），并支持把选区投送到豆包桌面客户端。
+2026-11-20T04:02:55.08Z,avighnac.caide-inliner,avighnac,Caide Inliner,1.0.0,Use caide-inliner in Visual Studio Code to inline C/C++ code and remove unused functions.
+2026-11-20T04:16:29.46Z,nimeus.agent-glasses,nimeus,Agent Glasses,0.11.0,"See what your Claude Code agents are doing: live sessions and subagents, costs, usage limits, insights, history and a read-only phone page."
