@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T05:19:57.34Z,Angues.texel,Angues,Texel — AI PDF-Centric LaTeX Editor,0.1.0,"Lightweight PDF-centric AI LaTeX workspace inside VS Code: draw boxes on compiled PDFs, map via SyncTeX, revise with AI, and review typeset before/after diffs."
+2026-11-21T05:26:50.897Z,UpdateDay.claude-desktop-bridge,UpdateDay,Claude Desktop Bridge,0.3.0,"One-click bridge that lets Claude Desktop (free) work in your VS Code workspace over MCP: what Claude says, files it views, edits and commands, a website viewer in the VS Code browser, a permission list, and compact responses that save tokens."
+2026-11-21T05:29:06.93Z,pow.spring-jpa-linter,pow,Spring Data JPA Query Method Linter,0.2.3,Real-time validation and diagnostics for Spring Data JPA derived query methods
+2026-11-21T05:31:42.78Z,olewin.olewin,olewin,OLEWIN,1.0.0,"Language support for OLEWIN — workspace, project, module, and config file syntax highlighting, theme-aware file icons, and snippets for .olw, .ol, .oe, .olx, .olp, .ows, .olc, and .olm files."
+2026-11-21T06:00:20.327Z,jarvisappleslice.errorwise,jarvisappleslice,Errorwise: Errors in Plain English,0.2.0,Turns confusing error messages into plain-language steps with everyday metaphors. Built for people learning to code.

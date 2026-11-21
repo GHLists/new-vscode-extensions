@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 05:20 UTC
+## Latest list — 2026-11-21 06:20 UTC
 
-New extensions published between 2026-11-21 03:20 UTC and 2026-11-21 05:20 UTC.
+New extensions published between 2026-11-21 04:20 UTC and 2026-11-21 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T05-20-47-864412Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T06-20-46-656135Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 04:28:33 | [SunnyZhang.mtz-package-preview](https://marketplace.visualstudio.com/items?itemName=SunnyZhang.mtz-package-preview) | MTZ 主题包预览 | 0.1.0 | 在 VS Code 中浏览小米 MTZ 主题包，扫描工作区中的 MTZ 文件，并预览包内文本、图片等内容。 |
-| 2026-11-21 04:38:49 | [udodi-js.udodi](https://marketplace.visualstudio.com/items?itemName=udodi-js.udodi) | Udodi | 1.0.0 | Language support for Udodi templates in JavaScript and TypeScript |
-| 2026-11-21 04:49:40 | [tungsfer512.maxpool-claude-quota-bar](https://marketplace.visualstudio.com/items?itemName=tungsfer512.maxpool-claude-quota-bar) | Maxpool Claude Quota Bar | 1.0.1 | Monitor real-time session and weekly token usage across multiple Claude account… |
+| 2026-11-21 05:19:57 | [Angues.texel](https://marketplace.visualstudio.com/items?itemName=Angues.texel) | Texel — AI PDF-Centric LaTeX Editor | 0.1.0 | Lightweight PDF-centric AI LaTeX workspace inside VS Code: draw boxes on compil… |
+| 2026-11-21 05:26:50 | [UpdateDay.claude-desktop-bridge](https://marketplace.visualstudio.com/items?itemName=UpdateDay.claude-desktop-bridge) | Claude Desktop Bridge | 0.3.0 | One-click bridge that lets Claude Desktop (free) work in your VS Code workspace… |
+| 2026-11-21 05:29:06 | [pow.spring-jpa-linter](https://marketplace.visualstudio.com/items?itemName=pow.spring-jpa-linter) | Spring Data JPA Query Method Linter | 0.2.3 | Real-time validation and diagnostics for Spring Data JPA derived query methods |
+| 2026-11-21 05:31:42 | [olewin.olewin](https://marketplace.visualstudio.com/items?itemName=olewin.olewin) | OLEWIN | 1.0.0 | Language support for OLEWIN — workspace, project, module, and config file synta… |
+| 2026-11-21 06:00:20 | [jarvisappleslice.errorwise](https://marketplace.visualstudio.com/items?itemName=jarvisappleslice.errorwise) | Errorwise: Errors in Plain English | 0.2.0 | Turns confusing error messages into plain-language steps with everyday metaphor… |
 
 ## Data source
 
