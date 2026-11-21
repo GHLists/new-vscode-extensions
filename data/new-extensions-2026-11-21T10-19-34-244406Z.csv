@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T09:19:55.837Z,masanori-satake.actionsboard-duo,masanori-satake,ActionsBoard-Duo,1.0.0,"An extension for keeping track of your CI. It shows CI build status as a tree (account = server → workflow/plan → run/build → job), with a summary in the status bar. Tokens are kept only in SecretStorage; polling is read-only, with no tracking."
+2026-11-21T09:20:25.367Z,p10node.p10-project-manager,p10node,P10 Project Manager,0.1.1,"Save, tag, sort and quickly switch between projects from the sidebar, quick pick or status bar. Auto-detects Git repositories. Plain JSON storage, zero dependencies."
+2026-11-21T09:30:13.637Z,woogajjangka.cool-theme-kit,woogajjangka,Cool Theme Kit (JetBrains Look),0.1.0,"JetBrains (PyCharm New UI) style theme for VS Code: file icons, colors and product icons, with other installed themes layered on top by priority"
+2026-11-21T10:06:43.113Z,elambert.zip-prism,elambert,ZIP Prism,1.0.0,"Inspect, search, and preview files inside ZIP archives directly in VS Code without extracting them."
