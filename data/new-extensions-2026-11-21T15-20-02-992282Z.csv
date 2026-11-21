@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T14:21:59.623Z,codespeedy.brisqal-code,codespeedy,Brisqal Code,0.7.0,"AI coding agent for VS Code: chat about your code, edit files with diffs you approve, run commands and tests, and keep a task list. Uses your Brisqal plan."
+2026-11-21T14:22:00.347Z,nimbusxr.axx,nimbusxr,axx,0.1.0,"Gherkin support for axx acceptance tests: step completion, hover docs, links to and completion of the files steps name, and diagnostics from the axx language server, and running scenarios from the editor. Watch shows the browsers of web scenarios, slowed down, one scenario at a time; Debug stops at"
+2026-11-21T14:29:25.34Z,Ienfald.stanza-docs,Ienfald,Stanza Docs,0.1.0,"A visual editor for Stanza documents (.stanza.md), bound to the Markdown file."
+2026-11-21T14:29:35.923Z,r11s.netbeans-earth-theme,r11s,NetBeans Earth,1.0.3,"A light VS Code theme ported from the ""Earth"" editor profile of Apache NetBeans: white background, dark blue keywords, earthy orange and olive accents."
+2026-11-21T14:42:43.667Z,autogibbon.lichen,autogibbon,Lichen Low Contrast,0.1.1,"Ultra low contrast dark theme: green-tinted near-black with muted mint, amber, teal and lavender accents."
+2026-11-21T14:43:35.37Z,directivefile.df,directivefile,Directivefile,0.0.8,Syntax highlighting and formatting for Directivefile configuration files.
+2026-11-21T14:53:49.13Z,ideahub.ideahub-vscode,ideahub,IdeaHub,1.0.0,Your Ideas. Your History. Your Proof.
+2026-11-21T14:54:10.377Z,ORIGINX.originx-extension,ORIGINX,GitWhisper by ORIGINX,0.2.0,"Understand why code changed with GitWhisper by ORIGINX — evidence-grounded code history explanations combining local Git line evolution, Neo4j knowledge graph provenance, and GitHub Copilot."
+2026-11-21T15:13:01.307Z,lusia.lusia-vscode,lusia,Lusia,0.1.1,"Make .lusia files easy to write: colors, autocomplete, errors, format."

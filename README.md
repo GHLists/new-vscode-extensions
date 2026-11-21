@@ -12,24 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 14:19 UTC
+## Latest list — 2026-11-21 15:20 UTC
 
-New extensions published between 2026-11-21 12:19 UTC and 2026-11-21 14:19 UTC.
+New extensions published between 2026-11-21 13:20 UTC and 2026-11-21 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T14-19-54-195222Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T15-20-02-992282Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 13:14:59 | [chikurin1014.serval](https://marketplace.visualstudio.com/items?itemName=chikurin1014.serval) | Serval | 0.8.0 | Cross-Platform Serial Visualizer |
-| 2026-11-21 13:36:36 | [emirbugra.restart-vsc](https://marketplace.visualstudio.com/items?itemName=emirbugra.restart-vsc) | Restart VS Code | 0.1.0 | Reload the window, reload every window, restart the extension host, or restart… |
-| 2026-11-21 13:46:45 | [rizzzuu.macos-studio-ui](https://marketplace.visualstudio.com/items?itemName=rizzzuu.macos-studio-ui) | macOS Studio UI — Native macOS Experien… | 0.1.0 | Transform VS Code, Cursor, Windsurf, and Code OSS into a refined, native macOS… |
-| 2026-11-21 13:59:36 | [ishi720.mirror-text](https://marketplace.visualstudio.com/items?itemName=ishi720.mirror-text) | Mirror Text (鏡文字) | 1.0.0 | エディタの文字を左右反転（鏡文字）して表示します。1文字ずつ反転と、行全体の反転を切り替えられます |
-| 2026-11-21 14:07:18 | [holse.zabbix-js-debug](https://marketplace.visualstudio.com/items?itemName=holse.zabbix-js-debug) | Zabbix JS Debug | 0.1.5 | Debug Zabbix JavaScript preprocessing and script items locally in VS Code. |
-| 2026-11-21 14:09:00 | [RichardBeech.quota-monitor-claude-code](https://marketplace.visualstudio.com/items?itemName=RichardBeech.quota-monitor-claude-code) | Quota Monitor for Claude Code | 0.3.3 | Show Claude Code (claude.ai subscription) quota usage in the VS Code status bar. |
-| 2026-11-21 14:09:39 | [RichardBeech.quota-monitor-codex](https://marketplace.visualstudio.com/items?itemName=RichardBeech.quota-monitor-codex) | Quota Monitor for Codex | 0.10.1 | Show Codex quota usage in the VS Code status bar. |
-| 2026-11-21 14:09:41 | [RichardBeech.quota-monitor-glm](https://marketplace.visualstudio.com/items?itemName=RichardBeech.quota-monitor-glm) | Quota Monitor for GLM (z.ai) | 0.7.1 | Show z.ai GLM Coding Plan quota usage in the VS Code status bar. |
-| 2026-11-21 14:09:45 | [RichardBeech.workspace-colour-wheel](https://marketplace.visualstudio.com/items?itemName=RichardBeech.workspace-colour-wheel) | Workspace Colour Wheel | 0.9.5 | Give each VS Code workspace a memorable title bar, sidebar, and status bar colo… |
-| 2026-11-21 14:13:37 | [paper-animator.paper-animator-theme](https://marketplace.visualstudio.com/items?itemName=paper-animator.paper-animator-theme) | Paper Animator Warm Paper Theme | 1.0.0 | A warm, low-glare editorial paper light theme for VS Code inspired by paper-cra… |
+| 2026-11-21 14:21:59 | [codespeedy.brisqal-code](https://marketplace.visualstudio.com/items?itemName=codespeedy.brisqal-code) | Brisqal Code | 0.7.0 | AI coding agent for VS Code: chat about your code, edit files with diffs you ap… |
+| 2026-11-21 14:22:00 | [nimbusxr.axx](https://marketplace.visualstudio.com/items?itemName=nimbusxr.axx) | axx | 0.1.0 | Gherkin support for axx acceptance tests: step completion, hover docs, links to… |
+| 2026-11-21 14:29:25 | [Ienfald.stanza-docs](https://marketplace.visualstudio.com/items?itemName=Ienfald.stanza-docs) | Stanza Docs | 0.1.0 | A visual editor for Stanza documents (.stanza.md), bound to the Markdown file. |
+| 2026-11-21 14:29:35 | [r11s.netbeans-earth-theme](https://marketplace.visualstudio.com/items?itemName=r11s.netbeans-earth-theme) | NetBeans Earth | 1.0.3 | A light VS Code theme ported from the "Earth" editor profile of Apache NetBeans… |
+| 2026-11-21 14:42:43 | [autogibbon.lichen](https://marketplace.visualstudio.com/items?itemName=autogibbon.lichen) | Lichen Low Contrast | 0.1.1 | Ultra low contrast dark theme: green-tinted near-black with muted mint, amber,… |
+| 2026-11-21 14:43:35 | [directivefile.df](https://marketplace.visualstudio.com/items?itemName=directivefile.df) | Directivefile | 0.0.8 | Syntax highlighting and formatting for Directivefile configuration files. |
+| 2026-11-21 14:53:49 | [ideahub.ideahub-vscode](https://marketplace.visualstudio.com/items?itemName=ideahub.ideahub-vscode) | IdeaHub | 1.0.0 | Your Ideas. Your History. Your Proof. |
+| 2026-11-21 14:54:10 | [ORIGINX.originx-extension](https://marketplace.visualstudio.com/items?itemName=ORIGINX.originx-extension) | GitWhisper by ORIGINX | 0.2.0 | Understand why code changed with GitWhisper by ORIGINX — evidence-grounded code… |
+| 2026-11-21 15:13:01 | [lusia.lusia-vscode](https://marketplace.visualstudio.com/items?itemName=lusia.lusia-vscode) | Lusia | 0.1.1 | Make .lusia files easy to write: colors, autocomplete, errors, format. |
 
 ## Data source
 
