@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T21:48:16.3Z,SweetReactives.codex-project-sessions,SweetReactives,Codex Project Sessions,0.2.7,"Сессии Codex только для открытого проекта, включая Remote SSH."
+2026-11-21T21:48:25.743Z,benasvaiciulis.ghost-tutor,benasvaiciulis,Ghost Tutor,0.5.1,"Plan code with an AI tutor, then type it yourself over ghost text. Understand the ideas first, learn by writing, not by accepting."
+2026-11-21T21:51:54.727Z,meghjs.megh-templates,meghjs,Megh Templates,0.1.0,"Highlighting, completion (HTML, components, view variables), hover, formatting and validation for Megh view templates (.megh.html)."
