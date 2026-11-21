@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T12:16:19.127Z,universaltools.universaltools-ai,universaltools,UniversalTools: AI,4.4.0,"AI coding agents and assistants: Claude Code, OpenAI Codex, Google Antigravity, Gemini Code Assist, Cline, Continue, plus local and Hugging Face models through Ollama and the Hugging Face provider for Copilot Chat (GitHub Copilot Chat itself is built into VS Code)."
+2026-11-21T12:16:19.457Z,gerardovitale.tablas,gerardovitale,"Tablas - CSV, Parquet, SQLite, DuckDB & Excel Viewer",0.1.0,"Open CSV, Parquet, SQLite, DuckDB, and Excel (.xlsx) files in a pretty, theme-aware table view."
+2026-11-21T12:16:21.4Z,universaltools.universaltools-devops,universaltools,UniversalTools: DevOps & Config,4.4.0,"Remote SSH and Remote Explorer, PowerShell, ShellCheck and shell-format for scripts, and support for nginx, Apache and systemd config files, log files and CSV."
+2026-11-21T12:30:57.297Z,Vereshchak.rst-previews,Vereshchak,reStructuredText Preview (docutils),0.2.0,"Accurate live preview for reStructuredText, rendered by docutils, with Sphinx and Zephyr roles and directives, scroll sync and syntax highlighting."
+2026-11-21T12:33:54.41Z,NoogKim.unitysense,NoogKim,UnitySense,1.0.0,"JetBrains Rider 수준의 Unity 개발 지능형 지원 확장 (ShaderLab/HLSL LSP, Roslyn 분석기, YAML 에셋 인덱서, .meta 자동 동기화)."
+2026-11-21T12:35:20.587Z,ZEROTRUSTEDDIGITALLTDA.titan-architect-studio,ZEROTRUSTEDDIGITALLTDA,Titan Architect Studio,0.1.1,"Desenvolva plugins Titan com preview do shell, validação e FEX no VS Code."
+2026-11-21T12:45:42.73Z,PaulAvram.devjack,PaulAvram,DevJack,0.1.0,Blackjack beside your editor while Claude Code works: the table opens when Claude starts on a prompt and closes when it is done. Works with the Claude Code extension and the claude CLI.
+2026-11-21T13:03:12.907Z,yashpanpaliya11.founder-fightclub,yashpanpaliya11,Founder Fightclub — Pixel Coding Companions,0.2.0,"Two or three tiny pixel founders fight and roast each other in the VS Code or Cursor bottom panel, and react to real editor errors."
+2026-11-21T13:06:22.177Z,rizzzuu.aeroui,rizzzuu,AeroUI — macOS UI for Code Editors,0.1.0,"macOS-inspired clean appearance, refined themes, presets, and UI controls for VS Code-compatible code editors."
+2026-11-21T13:08:07.897Z,UmeshSingh.flow-docs,UmeshSingh,Flow Docs - Visual Project Documentation,0.1.0,Flow — offline-first visual project documentation
+2026-11-21T13:09:54.46Z,JcDulas.tortue-git,JcDulas,Tortue Git,0.2.0,A TortoiseGit-inspired Git client for Visual Studio Code.
+2026-11-21T13:11:05.193Z,RahulChaube.blyxtorch,RahulChaube,BlyxTorch,0.2.0,"Train and evaluate dense CPU networks in Blyx. Includes native trainers, editable machine-learning projects and editor snippets."
+2026-11-21T13:12:18.903Z,phoenixtan2.gerrit-workbench,phoenixtan2,Gerrit Workbench,1.1.5,"Gerrit uploads, code reviews, comments, voting and change management in VS Code"
