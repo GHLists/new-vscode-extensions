@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 04:20 UTC
+## Latest list — 2026-11-21 05:20 UTC
 
-New extensions published between 2026-11-21 02:20 UTC and 2026-11-21 04:20 UTC.
+New extensions published between 2026-11-21 03:20 UTC and 2026-11-21 05:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T04-20-46-717494Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T05-20-47-864412Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 03:16:15 | [KauanDeveloper.launcher-for-claude-code](https://marketplace.visualstudio.com/items?itemName=KauanDeveloper.launcher-for-claude-code) | Launcher for Claude Code | 1.0.0 | Abre o chat oficial do Claude Code e mostra, de forma didática, o que ele mudou… |
-| 2026-11-21 03:33:28 | [jeinn-co.antigravity-native-accept](https://marketplace.visualstudio.com/items?itemName=jeinn-co.antigravity-native-accept) | Antigravity Native Accept | 0.1.4 | Auto-accept Antigravity edits in VS Code via native commands without CDP or rem… |
-| 2026-11-21 04:07:51 | [afzaalshoukat.dep-sentinel](https://marketplace.visualstudio.com/items?itemName=afzaalshoukat.dep-sentinel) | DepSentinel – Dependency CVE & Supply-C… | 1.0.0 | Continuously scans package.json, lockfiles, pom.xml, Gradle, Python, Go, Cargo,… |
-| 2026-11-21 04:10:15 | [Lambogenius.biztalk-xsd-viewer](https://marketplace.visualstudio.com/items?itemName=Lambogenius.biztalk-xsd-viewer) | Lambogenius XSD Viewer | 0.1.0 | Explore XML schemas in a BizTalk-inspired record and field tree with a properti… |
-| 2026-11-21 04:14:52 | [wangwenho.arglyph](https://marketplace.visualstudio.com/items?itemName=wangwenho.arglyph) | Arglyph | 1.0.0 | Browse, preview and inspect CJK fonts glyph by glyph. |
+| 2026-11-21 04:28:33 | [SunnyZhang.mtz-package-preview](https://marketplace.visualstudio.com/items?itemName=SunnyZhang.mtz-package-preview) | MTZ 主题包预览 | 0.1.0 | 在 VS Code 中浏览小米 MTZ 主题包，扫描工作区中的 MTZ 文件，并预览包内文本、图片等内容。 |
+| 2026-11-21 04:38:49 | [udodi-js.udodi](https://marketplace.visualstudio.com/items?itemName=udodi-js.udodi) | Udodi | 1.0.0 | Language support for Udodi templates in JavaScript and TypeScript |
+| 2026-11-21 04:49:40 | [tungsfer512.maxpool-claude-quota-bar](https://marketplace.visualstudio.com/items?itemName=tungsfer512.maxpool-claude-quota-bar) | Maxpool Claude Quota Bar | 1.0.1 | Monitor real-time session and weekly token usage across multiple Claude account… |
 
 ## Data source
 

@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T04:28:33.453Z,SunnyZhang.mtz-package-preview,SunnyZhang,MTZ 主题包预览,0.1.0,在 VS Code 中浏览小米 MTZ 主题包，扫描工作区中的 MTZ 文件，并预览包内文本、图片等内容。
+2026-11-21T04:38:49.243Z,udodi-js.udodi,udodi-js,Udodi,1.0.0,Language support for Udodi templates in JavaScript and TypeScript
+2026-11-21T04:49:40.44Z,tungsfer512.maxpool-claude-quota-bar,tungsfer512,Maxpool Claude Quota Bar,1.0.1,Monitor real-time session and weekly token usage across multiple Claude accounts via Maxpool directly in the VS Code status bar.
