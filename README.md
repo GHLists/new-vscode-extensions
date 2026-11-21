@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 00:21 UTC
+## Latest list — 2026-11-21 01:20 UTC
 
-New extensions published between 2026-11-20 22:21 UTC and 2026-11-21 00:21 UTC.
+New extensions published between 2026-11-20 23:20 UTC and 2026-11-21 01:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T00-21-36-766741Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T01-20-38-119726Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-20 23:18:53 | [sudsy.sudsy](https://marketplace.visualstudio.com/items?itemName=sudsy.sudsy) | Sudsy | 0.0.3 | Formatter and linter for C#, JavaScript/TypeScript, Python, Java, Kotlin, C/C++… |
-| 2026-11-20 23:19:34 | [LxStudio.stylesync-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.stylesync-lx) | StyleSync — Local Config Sync | 1.0.0 | Export and import VS Code config (settings, keybindings, snippets) as encrypted… |
-| 2026-11-20 23:22:57 | [LxStudio.contextboard-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.contextboard-lx) | ContextBoard — Workspace Context Switch… | 1.0.0 | Save and switch your dev workspace context (terminal cwd, git branch, open file… |
-| 2026-11-20 23:31:43 | [Toximiner.commit-harbor](https://marketplace.visualstudio.com/items?itemName=Toximiner.commit-harbor) | Commit Harbor | 0.1.1 | A Git workbench derived from Git Jet, with persistent commit message pane heigh… |
-| 2026-11-20 23:32:09 | [guardsastteam.guard-sast-analyzer](https://marketplace.visualstudio.com/items?itemName=guardsastteam.guard-sast-analyzer) | Guard SAST Analyzer | 0.2.0 | Analyze Python and JavaScript projects with 27 security controls and optional C… |
+| 2026-11-21 00:15:32 | [JooVitorAparecidoCarpimdeSouza.safemerge](https://marketplace.visualstudio.com/items?itemName=JooVitorAparecidoCarpimdeSouza.safemerge) | safemerge: pode mergear? | 0.3.1 | Saiba se a sua branch pode ser mergeada antes do merge: conflitos (inclusive co… |
+| 2026-11-21 00:52:43 | [BlueBonsai.talkative](https://marketplace.visualstudio.com/items?itemName=BlueBonsai.talkative) | Talkative: Claude Code Read Aloud | 0.7.2 | Reads Claude Code's replies aloud, with play, pause, speed control and plain-En… |
+| 2026-11-21 01:14:08 | [moriyama-dev.vscode-claude-code-usage-meter](https://marketplace.visualstudio.com/items?itemName=moriyama-dev.vscode-claude-code-usage-meter) | Usage Meter for Claude Code | 0.1.0 | Shows in the status bar whether your Claude Code plan limits will last until th… |
 
 ## Data source
 
