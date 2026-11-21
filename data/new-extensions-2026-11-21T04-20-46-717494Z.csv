@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T03:16:15.457Z,KauanDeveloper.launcher-for-claude-code,KauanDeveloper,Launcher for Claude Code,1.0.0,"Abre o chat oficial do Claude Code e mostra, de forma didática, o que ele mudou em cada arquivo. Extensão independente: não é um produto da Anthropic."
+2026-11-21T03:33:28.297Z,jeinn-co.antigravity-native-accept,jeinn-co,Antigravity Native Accept,0.1.4,Auto-accept Antigravity edits in VS Code via native commands without CDP or remote debugging flags.
+2026-11-21T04:07:51.303Z,afzaalshoukat.dep-sentinel,afzaalshoukat,DepSentinel – Dependency CVE & Supply-Chain Monitor,1.0.0,"Continuously scans package.json, lockfiles, pom.xml, Gradle, Python, Go, Cargo, Ruby, Composer and NuGet manifests (including transitive dependencies) against published CVEs/OSV advisories and flags suspicious supply-chain risks."
+2026-11-21T04:10:15.797Z,Lambogenius.biztalk-xsd-viewer,Lambogenius,Lambogenius XSD Viewer,0.1.0,Explore XML schemas in a BizTalk-inspired record and field tree with a properties inspector.
+2026-11-21T04:14:52.65Z,wangwenho.arglyph,wangwenho,Arglyph,1.0.0,"Browse, preview and inspect CJK fonts glyph by glyph."

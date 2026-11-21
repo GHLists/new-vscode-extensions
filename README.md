@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 03:21 UTC
+## Latest list — 2026-11-21 04:20 UTC
 
-New extensions published between 2026-11-21 01:21 UTC and 2026-11-21 03:21 UTC.
+New extensions published between 2026-11-21 02:20 UTC and 2026-11-21 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T03-21-17-466525Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T04-20-46-717494Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 02:21:14 | [svlang.svlang](https://marketplace.visualstudio.com/items?itemName=svlang.svlang) | svlang — SystemVerilog & UVM | 0.2.1 | IEEE 1800-2023 SystemVerilog & UVM language server and linter: 445+ live rules,… |
-| 2026-11-21 02:21:36 | [ntson9p.geet](https://marketplace.visualstudio.com/items?itemName=ntson9p.geet) | Geet for Git | 0.1.0 | IntelliJ-grade Git integration for VS Code: changelists, log graph, interactive… |
-| 2026-11-21 02:22:41 | [me-tool.commit-helper-me-tool](https://marketplace.visualstudio.com/items?itemName=me-tool.commit-helper-me-tool) | Commit Helper for VS Code | 0.1.0 | Generate a ready-to-commit message from staged or working-tree changes, with lo… |
-| 2026-11-21 02:29:18 | [louis-15.block-reference-interpreter](https://marketplace.visualstudio.com/items?itemName=louis-15.block-reference-interpreter) | 块引用解读工具 | 0.3.6 | 让 AI 读懂 Tine / Logseq 笔记中的 ((uuid)) 块引用，展开为真实内容 |
-| 2026-11-21 02:41:02 | [woogajjangka.vscode-profile-kit](https://marketplace.visualstudio.com/items?itemName=woogajjangka.vscode-profile-kit) | Profile Kit | 0.1.0 | Declare core + per-purpose extension groups once, then create and check VS Code… |
-| 2026-11-21 02:42:37 | [supermila.supermila-log-lens](https://marketplace.visualstudio.com/items?itemName=supermila.supermila-log-lens) | Supermila Log Lens | 0.10.0 | Explore logs with time navigation, elapsed-time bars, and configurable keyword… |
-| 2026-11-21 02:59:47 | [basukiwinoto.opencode-cursor-ui](https://marketplace.visualstudio.com/items?itemName=basukiwinoto.opencode-cursor-ui) | OpenCode Cursor UI | 0.1.1 | Cursor-style Agent and Chat sidebar for VS Code, powered by OpenCode. Detect, i… |
+| 2026-11-21 03:16:15 | [KauanDeveloper.launcher-for-claude-code](https://marketplace.visualstudio.com/items?itemName=KauanDeveloper.launcher-for-claude-code) | Launcher for Claude Code | 1.0.0 | Abre o chat oficial do Claude Code e mostra, de forma didática, o que ele mudou… |
+| 2026-11-21 03:33:28 | [jeinn-co.antigravity-native-accept](https://marketplace.visualstudio.com/items?itemName=jeinn-co.antigravity-native-accept) | Antigravity Native Accept | 0.1.4 | Auto-accept Antigravity edits in VS Code via native commands without CDP or rem… |
+| 2026-11-21 04:07:51 | [afzaalshoukat.dep-sentinel](https://marketplace.visualstudio.com/items?itemName=afzaalshoukat.dep-sentinel) | DepSentinel – Dependency CVE & Supply-C… | 1.0.0 | Continuously scans package.json, lockfiles, pom.xml, Gradle, Python, Go, Cargo,… |
+| 2026-11-21 04:10:15 | [Lambogenius.biztalk-xsd-viewer](https://marketplace.visualstudio.com/items?itemName=Lambogenius.biztalk-xsd-viewer) | Lambogenius XSD Viewer | 0.1.0 | Explore XML schemas in a BizTalk-inspired record and field tree with a properti… |
+| 2026-11-21 04:14:52 | [wangwenho.arglyph](https://marketplace.visualstudio.com/items?itemName=wangwenho.arglyph) | Arglyph | 1.0.0 | Browse, preview and inspect CJK fonts glyph by glyph. |
 
 ## Data source
 
