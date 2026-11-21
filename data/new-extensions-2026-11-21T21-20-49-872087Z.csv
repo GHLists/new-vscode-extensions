@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T20:22:10.343Z,Requestarium.requestarium,Requestarium,Requestarium,0.1.0,"Collections, requests (HTTP, GraphQL, gRPC, WebSocket, MQTT, NATS, Kafka, RabbitMQ), scripts, local .env and an AI assistant from Requestarium, inside VS Code."
+2026-11-21T20:28:20.31Z,thaisemanuele.winter-princess,thaisemanuele,Winter Princess,1.0.0,"A dark VS Code theme with a frozen night sky, ice-blue magic, frost and fresh snow."
+2026-11-21T20:34:48.447Z,chasingdaylight.skein,chasingdaylight,skein,0.1.0,Highlights skein's item markers and references in Markdown.
+2026-11-21T20:36:57.223Z,Andreasb95.billes-salesforce-ai-atlas,Andreasb95,Bille's Salesforce AI Atlas,0.1.0,"100% offline Salesforce AST/Metadata indexer, repo map generator, and agent tools for VS Code."
+2026-11-21T20:46:41.477Z,bedirhangurler.egehan-vscode,bedirhangurler,Egehan — Living Code Chronicle,0.1.0,"Turns your repository's git history into a living chronicle, in the status bar and in an interactive timeline. Offline, deterministic, no API key."
+2026-11-21T20:50:34.92Z,await.await,await,await,0.0.1,"Write, run and publish await macros. The extension isn't available yet: follow await.gg for the launch."
+2026-11-21T20:59:13.167Z,MarwoodX.forge-program,MarwoodX,The Forge Program,0.1.98,"Your own AI for the Forge, in VS Code. It runs on the Forge's own model and keeps your work on your computer."
+2026-11-21T21:08:49.653Z,Gepheum.typeprompt-vscode,Gepheum,TypePrompt,0.8.6,VS Code support for TypePrompt templates
+2026-11-21T21:12:59.827Z,diffgrid.diffgrid,diffgrid,"DiffGrid — Excel, CSV, JSONL & SQLite Visual Diff & Editor",0.1.0,"100% local visual diff, inline editor, conflict merge, and SQL console for .xlsx, .csv, .tsv, .json, .jsonl, and .sqlite/.db files — compare two files or diff against Git HEAD."
