@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T07:54:07.497Z,SubwayCoders.impactxcode-vscode-extension,SubwayCoders,ImpactXCode,0.0.1,A starter Visual Studio Code extension.
+2026-11-21T07:54:16.687Z,nbkdevs.kitchen-remodeling-cost-planner,nbkdevs,Kitchen Remodeling Cost Planner,1.0.0,"Kitchen remodeling budget planner for VS Code: split a remodel budget into 12 line items with sales tax, contingency and permits, and insert the breakdown as a Markdown table. Offline, no telemetry."
+2026-11-21T07:55:16.533Z,nbkdevs.concrete-contractors-estimator,nbkdevs,Concrete Contractors Estimator,1.0.0,"Concrete contractors take-off in VS Code: slab, footing, column and steps volume in cubic yards, ready-mix order, 80/60/40 lb bag counts, rebar and mesh, rough cost. Insert results as a Markdown table. Offline, no telemetry."
+2026-11-21T08:05:48.607Z,mhmd-3rafat.context-menu-manager,mhmd-3rafat,Context Menu Manager,1.0.3,"Inspect, organize, and toggle context-menu items contributed by any installed VS Code extension."
+2026-11-21T08:07:55.207Z,MizuanMohamed.owl-lifted,MizuanMohamed,Owl Lifted,1.0.0,"Night Owl's syntax colors on a lighter navy, plus a matching soft light theme."
