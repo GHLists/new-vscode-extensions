@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-20T23:18:53.403Z,sudsy.sudsy,sudsy,Sudsy,0.0.3,"Formatter and linter for C#, JavaScript/TypeScript, Python, Java, Kotlin, C/C++ and more."
+2026-11-20T23:19:34.637Z,LxStudio.stylesync-lx,LxStudio,StyleSync — Local Config Sync,1.0.0,"Export and import VS Code config (settings, keybindings, snippets) as encrypted local ZIPs. No cloud. No Gist risk."
+2026-11-20T23:22:57.893Z,LxStudio.contextboard-lx,LxStudio,ContextBoard — Workspace Context Switcher,1.0.0,"Save and switch your dev workspace context (terminal cwd, git branch, open files) in one click. No cloud required."
+2026-11-20T23:31:43.893Z,Toximiner.commit-harbor,Toximiner,Commit Harbor,0.1.1,"A Git workbench derived from Git Jet, with persistent commit message pane height."
+2026-11-20T23:32:09.933Z,guardsastteam.guard-sast-analyzer,guardsastteam,Guard SAST Analyzer,0.2.0,Analyze Python and JavaScript projects with 27 security controls and optional Copilot assistance.
