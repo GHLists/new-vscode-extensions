@@ -12,19 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 06:20 UTC
+## Latest list — 2026-11-21 07:20 UTC
 
-New extensions published between 2026-11-21 04:20 UTC and 2026-11-21 06:20 UTC.
+New extensions published between 2026-11-21 05:20 UTC and 2026-11-21 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T06-20-46-656135Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T07-20-07-694472Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 05:19:57 | [Angues.texel](https://marketplace.visualstudio.com/items?itemName=Angues.texel) | Texel — AI PDF-Centric LaTeX Editor | 0.1.0 | Lightweight PDF-centric AI LaTeX workspace inside VS Code: draw boxes on compil… |
-| 2026-11-21 05:26:50 | [UpdateDay.claude-desktop-bridge](https://marketplace.visualstudio.com/items?itemName=UpdateDay.claude-desktop-bridge) | Claude Desktop Bridge | 0.3.0 | One-click bridge that lets Claude Desktop (free) work in your VS Code workspace… |
-| 2026-11-21 05:29:06 | [pow.spring-jpa-linter](https://marketplace.visualstudio.com/items?itemName=pow.spring-jpa-linter) | Spring Data JPA Query Method Linter | 0.2.3 | Real-time validation and diagnostics for Spring Data JPA derived query methods |
-| 2026-11-21 05:31:42 | [olewin.olewin](https://marketplace.visualstudio.com/items?itemName=olewin.olewin) | OLEWIN | 1.0.0 | Language support for OLEWIN — workspace, project, module, and config file synta… |
-| 2026-11-21 06:00:20 | [jarvisappleslice.errorwise](https://marketplace.visualstudio.com/items?itemName=jarvisappleslice.errorwise) | Errorwise: Errors in Plain English | 0.2.0 | Turns confusing error messages into plain-language steps with everyday metaphor… |
+| 2026-11-21 06:28:55 | [managea.quick-search-box](https://marketplace.visualstudio.com/items?itemName=managea.quick-search-box) | Quick Search Box | 0.29.0 | Search, read and navigate code from the keyboard: a query box for shell command… |
+| 2026-11-21 06:49:22 | [askeden.eden-code](https://marketplace.visualstudio.com/items?itemName=askeden.eden-code) | Eden Code | 1.0.0 | Eden Code, by Ask Eden: your Eden Code sessions, chat and approvals inside VS C… |
 
 ## Data source
 
