@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T13:14:59.807Z,chikurin1014.serval,chikurin1014,Serval,0.8.0,Cross-Platform Serial Visualizer
+2026-11-21T13:36:36.307Z,emirbugra.restart-vsc,emirbugra,Restart VS Code,0.1.0,"Reload the window, reload every window, restart the extension host, or restart VS Code completely (every process ends, then it starts again) — on Linux, macOS and Windows."
+2026-11-21T13:46:45.19Z,rizzzuu.macos-studio-ui,rizzzuu,macOS Studio UI — Native macOS Experience for Code Editors,0.1.0,"Transform VS Code, Cursor, Windsurf, and Code OSS into a refined, native macOS development studio with authentic palettes, typography, and controls."
+2026-11-21T13:59:36.067Z,ishi720.mirror-text,ishi720,Mirror Text (鏡文字),1.0.0,エディタの文字を左右反転（鏡文字）して表示します。1文字ずつ反転と、行全体の反転を切り替えられます
+2026-11-21T14:07:18.227Z,holse.zabbix-js-debug,holse,Zabbix JS Debug,0.1.5,Debug Zabbix JavaScript preprocessing and script items locally in VS Code.
+2026-11-21T14:09:00.637Z,RichardBeech.quota-monitor-claude-code,RichardBeech,Quota Monitor for Claude Code,0.3.3,Show Claude Code (claude.ai subscription) quota usage in the VS Code status bar.
+2026-11-21T14:09:39.347Z,RichardBeech.quota-monitor-codex,RichardBeech,Quota Monitor for Codex,0.10.1,Show Codex quota usage in the VS Code status bar.
+2026-11-21T14:09:41.18Z,RichardBeech.quota-monitor-glm,RichardBeech,Quota Monitor for GLM (z.ai),0.7.1,Show z.ai GLM Coding Plan quota usage in the VS Code status bar.
+2026-11-21T14:09:45.253Z,RichardBeech.workspace-colour-wheel,RichardBeech,Workspace Colour Wheel,0.9.5,"Give each VS Code workspace a memorable title bar, sidebar, and status bar colour."
+2026-11-21T14:13:37.947Z,paper-animator.paper-animator-theme,paper-animator,Paper Animator Warm Paper Theme,1.0.0,"A warm, low-glare editorial paper light theme for VS Code inspired by paper-craft and stop-motion animation."
