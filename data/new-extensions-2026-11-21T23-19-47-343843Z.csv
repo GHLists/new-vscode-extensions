@@ -1,0 +1,2 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T22:21:19.62Z,nanoflags.vscode-nanoflags,nanoflags,NanoFlags,0.1.0,"See NanoFlags feature flags where they are used: hovers with per-environment status, flag key completion, unknown and archived flag warnings, and a flag explorer."

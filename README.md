@@ -12,17 +12,15 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 22:18 UTC
+## Latest list — 2026-11-21 23:19 UTC
 
-New extensions published between 2026-11-21 20:18 UTC and 2026-11-21 22:18 UTC.
+New extensions published between 2026-11-21 21:19 UTC and 2026-11-21 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T22-18-34-277177Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T23-19-47-343843Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 21:48:16 | [SweetReactives.codex-project-sessions](https://marketplace.visualstudio.com/items?itemName=SweetReactives.codex-project-sessions) | Codex Project Sessions | 0.2.7 | Сессии Codex только для открытого проекта, включая Remote SSH. |
-| 2026-11-21 21:48:25 | [benasvaiciulis.ghost-tutor](https://marketplace.visualstudio.com/items?itemName=benasvaiciulis.ghost-tutor) | Ghost Tutor | 0.5.1 | Plan code with an AI tutor, then type it yourself over ghost text. Understand t… |
-| 2026-11-21 21:51:54 | [meghjs.megh-templates](https://marketplace.visualstudio.com/items?itemName=meghjs.megh-templates) | Megh Templates | 0.1.0 | Highlighting, completion (HTML, components, view variables), hover, formatting… |
+| 2026-11-21 22:21:19 | [nanoflags.vscode-nanoflags](https://marketplace.visualstudio.com/items?itemName=nanoflags.vscode-nanoflags) | NanoFlags | 0.1.0 | See NanoFlags feature flags where they are used: hovers with per-environment st… |
 
 ## Data source
 
