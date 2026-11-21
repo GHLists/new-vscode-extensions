@@ -12,19 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 18:19 UTC
+## Latest list — 2026-11-21 19:19 UTC
 
-New extensions published between 2026-11-21 16:19 UTC and 2026-11-21 18:19 UTC.
+New extensions published between 2026-11-21 17:19 UTC and 2026-11-21 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T18-19-41-425857Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T19-19-08-121833Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 17:31:57 | [thaisemanuele.forest-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.forest-princess) | Forest Princess | 1.0.0 | A dark VS Code theme with enchanted-forest night, a royal blue bodice, a poison… |
-| 2026-11-21 17:37:36 | [MHashi.loremfa](https://marketplace.visualstudio.com/items?itemName=MHashi.loremfa) | LoremFA | 0.1.0 | Type loremfa and press Tab to insert Persian placeholder text: loremfa for a pa… |
-| 2026-11-21 17:47:48 | [icrmahin.nacre](https://marketplace.visualstudio.com/items?itemName=icrmahin.nacre) | Nacre — Premium Dark Theme | 1.0.0 | A premium near-black and graphite Visual Studio Code theme with vibrant, carefu… |
-| 2026-11-21 17:48:18 | [kitfunso.hippo-memory](https://marketplace.visualstudio.com/items?itemName=kitfunso.hippo-memory) | Hippo Memory | 3.12.0 | One memory for every agent you'll ever use. Hippo writes what you teach a codin… |
-| 2026-11-21 17:52:04 | [thaisemanuele.frog-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.frog-princess) | Frog Princess | 1.0.0 | A dark VS Code theme with bayou-night greens, lily-pad jade, pale moss light an… |
+| 2026-11-21 18:18:52 | [KoolkidGhost.codespeed](https://marketplace.visualstudio.com/items?itemName=KoolkidGhost.codespeed) | CodeSpeed | 0.1.1 | In-editor coding speed trainer with progressive Python and JavaScript lessons. |
+| 2026-11-21 18:25:33 | [vegtemediagroup.vmgx](https://marketplace.visualstudio.com/items?itemName=vegtemediagroup.vmgx) | VMGX | 1.0.2 | Syntax colors, live error checking, formatting and JSON conversion for VMGX (.v… |
+| 2026-11-21 18:29:34 | [Pallattu.archpilot-studio](https://marketplace.visualstudio.com/items?itemName=Pallattu.archpilot-studio) | ArchPilot | 0.2.0 | Executable architecture guardrails and AI-readiness auditor for VS Code, Cursor… |
+| 2026-11-21 18:35:39 | [flightcoders.veyra-live-values](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-live-values) | Veyra Live Values | 1.0.0 | See console.log values, warnings, errors and crashes right next to the line tha… |
+| 2026-11-21 18:45:45 | [lookoutstats.lookout-vercel-analytics](https://marketplace.visualstudio.com/items?itemName=lookoutstats.lookout-vercel-analytics) | Lookout for Vercel Analytics | 0.1.0 | Vercel Web Analytics and Speed Insights for the project you have open: visitors… |
+| 2026-11-21 18:50:35 | [eduardo239.vice-hour](https://marketplace.visualstudio.com/items?itemName=eduardo239.vice-hour) | Vice Hour | 1.1.0 | Temas inspirados em Vice City: noites de neon rosa e ciano, ou um dia pastel de… |
+| 2026-11-21 18:55:36 | [thaisemanuele.island-princess](https://marketplace.visualstudio.com/items?itemName=thaisemanuele.island-princess) | Island Princess | 1.0.2 | A dark VS Code theme with a tropical island night, palm leaves, terracotta eart… |
+| 2026-11-21 18:56:59 | [flightcoders.veyra-aura](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-aura) | Veyra Aura | 1.0.0 | Your coding aura ✨ Farm aura for clearing errors, clean saves, commits, passing… |
 
 ## Data source
 
