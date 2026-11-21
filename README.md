@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 02:19 UTC
+## Latest list — 2026-11-21 03:21 UTC
 
-New extensions published between 2026-11-21 00:19 UTC and 2026-11-21 02:19 UTC.
+New extensions published between 2026-11-21 01:21 UTC and 2026-11-21 03:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T02-19-45-411812Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T03-21-17-466525Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 01:23:13 | [Infrawrench.infrawrench](https://marketplace.visualstudio.com/items?itemName=Infrawrench.infrawrench) | Infrawrench | 0.2.0 | See the live resource, monthly cost, owning service and open posture findings b… |
-| 2026-11-21 01:39:05 | [grupo14-si783.dataforge-nosql](https://marketplace.visualstudio.com/items?itemName=grupo14-si783.dataforge-nosql) | DataForge NoSQL | 1.0.0 | Inicia, abre y prueba DataForge NoSQL desde Visual Studio Code. |
-| 2026-11-21 01:43:21 | [pasztet211.colorComments](https://marketplace.visualstudio.com/items?itemName=pasztet211.colorComments) | Coloring Comments | 1.5.4 | Customize the colors of comments in VS Code |
-| 2026-11-21 01:55:05 | [fluxenginejp.fluxenginejp-sftest-editor](https://marketplace.visualstudio.com/items?itemName=fluxenginejp.fluxenginejp-sftest-editor) | sfTest Editor | 0.1.0 | sfTest（Salesforce の画面を日本語のシナリオで自動テストするツール）の .feature を書くための VS Code 拡張機能 |
-| 2026-11-21 02:00:10 | [ORBITZ-TEAM.orbitz](https://marketplace.visualstudio.com/items?itemName=ORBITZ-TEAM.orbitz) | ORBITZ | 0.2.4 | A focused coding agent with safe workspace edits and visible costs. |
-| 2026-11-21 02:00:36 | [ScienceandHumanityLab.pdp-vscode](https://marketplace.visualstudio.com/items?itemName=ScienceandHumanityLab.pdp-vscode) | PDP | 0.0.4 | Run and watch your pdp project from the sidebar: tasks, remote runs, and the Da… |
+| 2026-11-21 02:21:14 | [svlang.svlang](https://marketplace.visualstudio.com/items?itemName=svlang.svlang) | svlang — SystemVerilog & UVM | 0.2.1 | IEEE 1800-2023 SystemVerilog & UVM language server and linter: 445+ live rules,… |
+| 2026-11-21 02:21:36 | [ntson9p.geet](https://marketplace.visualstudio.com/items?itemName=ntson9p.geet) | Geet for Git | 0.1.0 | IntelliJ-grade Git integration for VS Code: changelists, log graph, interactive… |
+| 2026-11-21 02:22:41 | [me-tool.commit-helper-me-tool](https://marketplace.visualstudio.com/items?itemName=me-tool.commit-helper-me-tool) | Commit Helper for VS Code | 0.1.0 | Generate a ready-to-commit message from staged or working-tree changes, with lo… |
+| 2026-11-21 02:29:18 | [louis-15.block-reference-interpreter](https://marketplace.visualstudio.com/items?itemName=louis-15.block-reference-interpreter) | 块引用解读工具 | 0.3.6 | 让 AI 读懂 Tine / Logseq 笔记中的 ((uuid)) 块引用，展开为真实内容 |
+| 2026-11-21 02:41:02 | [woogajjangka.vscode-profile-kit](https://marketplace.visualstudio.com/items?itemName=woogajjangka.vscode-profile-kit) | Profile Kit | 0.1.0 | Declare core + per-purpose extension groups once, then create and check VS Code… |
+| 2026-11-21 02:42:37 | [supermila.supermila-log-lens](https://marketplace.visualstudio.com/items?itemName=supermila.supermila-log-lens) | Supermila Log Lens | 0.10.0 | Explore logs with time navigation, elapsed-time bars, and configurable keyword… |
+| 2026-11-21 02:59:47 | [basukiwinoto.opencode-cursor-ui](https://marketplace.visualstudio.com/items?itemName=basukiwinoto.opencode-cursor-ui) | OpenCode Cursor UI | 0.1.1 | Cursor-style Agent and Chat sidebar for VS Code, powered by OpenCode. Detect, i… |
 
 ## Data source
 

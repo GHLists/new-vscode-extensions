@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T02:21:14.357Z,svlang.svlang,svlang,svlang — SystemVerilog & UVM,0.2.1,"IEEE 1800-2023 SystemVerilog & UVM language server and linter: 445+ live rules, quick fixes, formal-readiness checks, code browsing, completion, and UVM snippets"
+2026-11-21T02:21:36.843Z,ntson9p.geet,ntson9p,Geet for Git,0.1.0,"IntelliJ-grade Git integration for VS Code: changelists, log graph, interactive rebase, 3-pane merge, shelve, and local history."
+2026-11-21T02:22:41.05Z,me-tool.commit-helper-me-tool,me-tool,Commit Helper for VS Code,0.1.0,"Generate a ready-to-commit message from staged or working-tree changes, with local grouping and optional LLM wording."
+2026-11-21T02:29:18.053Z,louis-15.block-reference-interpreter,louis-15,块引用解读工具,0.3.6,让 AI 读懂 Tine / Logseq 笔记中的 ((uuid)) 块引用，展开为真实内容
+2026-11-21T02:41:02.06Z,woogajjangka.vscode-profile-kit,woogajjangka,Profile Kit,0.1.0,"Declare core + per-purpose extension groups once, then create and check VS Code profiles from that preset"
+2026-11-21T02:42:37.7Z,supermila.supermila-log-lens,supermila,Supermila Log Lens,0.10.0,"Explore logs with time navigation, elapsed-time bars, and configurable keyword highlighting."
+2026-11-21T02:59:47.553Z,basukiwinoto.opencode-cursor-ui,basukiwinoto,OpenCode Cursor UI,0.1.1,"Cursor-style Agent and Chat sidebar for VS Code, powered by OpenCode. Detect, install, launch, and drive OpenCode without leaving the editor."
