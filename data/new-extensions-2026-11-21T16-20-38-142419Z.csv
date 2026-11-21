@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T15:18:55.5Z,Quinethor.dmi-studio,Quinethor,DMI Studio,1.0.0,"Edit BYOND sprites, reorder animations and work with groups of DMI states and frames."
+2026-11-21T15:20:17.753Z,phucdnh.jetgit-scm,phucdnh,JetGit - IntelliJ & JetBrains Style Git Client,0.1.6,"JetBrains IntelliJ-style Git integration for VS Code — visual commit graph, colored branch lines, inline blame annotations, interactive rebase, changelists, 3-way merge, and side-by-side diff viewer. Fast, reactive, and powered by Svelte 5."
+2026-11-21T15:20:29.097Z,grethel-labs.excaliplant,grethel-labs,Excaliplant: PlantUML as Excalidraw,1.2.0,"Draw PlantUML as hand-drawn diagrams in the Markdown preview, a live side preview, and Excalidraw/SVG export. No Java, no server, no network."
+2026-11-21T15:41:26.943Z,accessnow.pressmark,accessnow,Pressmark,1.0.0,"A Markdown preview that draws maths and Mermaid diagrams in your VS Code theme, and saves your document as an HTML page or EPUB e-book, or copies it as rich text."
+2026-11-21T15:48:59.74Z,pointplot.pointplot,pointplot,PointPlot,0.12.1,"Point and speak to Python figures in VS Code notebooks. Edit with Codex, Claude Code or OpenRouter."
+2026-11-21T16:02:37.77Z,mabdallah.visualbasic-language-server,mabdallah,VB.NET Dev Kit,0.1.1,"Syntax highlighting, diagnostics, completion, navigation, formatting, and refactoring support for VB.NET files."
+2026-11-21T16:14:54.897Z,eduardo239.canary9,eduardo239,Canary9,0.1.0,"Alerta precoce de vulnerabilidades: analisa as dependências do workspace (npm, pnpm, pip e uv) usando a base OSV.dev."

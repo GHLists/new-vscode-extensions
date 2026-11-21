@@ -12,23 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 15:20 UTC
+## Latest list — 2026-11-21 16:20 UTC
 
-New extensions published between 2026-11-21 13:20 UTC and 2026-11-21 15:20 UTC.
+New extensions published between 2026-11-21 14:20 UTC and 2026-11-21 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T15-20-02-992282Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T16-20-38-142419Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 14:21:59 | [codespeedy.brisqal-code](https://marketplace.visualstudio.com/items?itemName=codespeedy.brisqal-code) | Brisqal Code | 0.7.0 | AI coding agent for VS Code: chat about your code, edit files with diffs you ap… |
-| 2026-11-21 14:22:00 | [nimbusxr.axx](https://marketplace.visualstudio.com/items?itemName=nimbusxr.axx) | axx | 0.1.0 | Gherkin support for axx acceptance tests: step completion, hover docs, links to… |
-| 2026-11-21 14:29:25 | [Ienfald.stanza-docs](https://marketplace.visualstudio.com/items?itemName=Ienfald.stanza-docs) | Stanza Docs | 0.1.0 | A visual editor for Stanza documents (.stanza.md), bound to the Markdown file. |
-| 2026-11-21 14:29:35 | [r11s.netbeans-earth-theme](https://marketplace.visualstudio.com/items?itemName=r11s.netbeans-earth-theme) | NetBeans Earth | 1.0.3 | A light VS Code theme ported from the "Earth" editor profile of Apache NetBeans… |
-| 2026-11-21 14:42:43 | [autogibbon.lichen](https://marketplace.visualstudio.com/items?itemName=autogibbon.lichen) | Lichen Low Contrast | 0.1.1 | Ultra low contrast dark theme: green-tinted near-black with muted mint, amber,… |
-| 2026-11-21 14:43:35 | [directivefile.df](https://marketplace.visualstudio.com/items?itemName=directivefile.df) | Directivefile | 0.0.8 | Syntax highlighting and formatting for Directivefile configuration files. |
-| 2026-11-21 14:53:49 | [ideahub.ideahub-vscode](https://marketplace.visualstudio.com/items?itemName=ideahub.ideahub-vscode) | IdeaHub | 1.0.0 | Your Ideas. Your History. Your Proof. |
-| 2026-11-21 14:54:10 | [ORIGINX.originx-extension](https://marketplace.visualstudio.com/items?itemName=ORIGINX.originx-extension) | GitWhisper by ORIGINX | 0.2.0 | Understand why code changed with GitWhisper by ORIGINX — evidence-grounded code… |
-| 2026-11-21 15:13:01 | [lusia.lusia-vscode](https://marketplace.visualstudio.com/items?itemName=lusia.lusia-vscode) | Lusia | 0.1.1 | Make .lusia files easy to write: colors, autocomplete, errors, format. |
+| 2026-11-21 15:18:55 | [Quinethor.dmi-studio](https://marketplace.visualstudio.com/items?itemName=Quinethor.dmi-studio) | DMI Studio | 1.0.0 | Edit BYOND sprites, reorder animations and work with groups of DMI states and f… |
+| 2026-11-21 15:20:17 | [phucdnh.jetgit-scm](https://marketplace.visualstudio.com/items?itemName=phucdnh.jetgit-scm) | JetGit - IntelliJ & JetBrains Style Git… | 0.1.6 | JetBrains IntelliJ-style Git integration for VS Code — visual commit graph, col… |
+| 2026-11-21 15:20:29 | [grethel-labs.excaliplant](https://marketplace.visualstudio.com/items?itemName=grethel-labs.excaliplant) | Excaliplant: PlantUML as Excalidraw | 1.2.0 | Draw PlantUML as hand-drawn diagrams in the Markdown preview, a live side previ… |
+| 2026-11-21 15:41:26 | [accessnow.pressmark](https://marketplace.visualstudio.com/items?itemName=accessnow.pressmark) | Pressmark | 1.0.0 | A Markdown preview that draws maths and Mermaid diagrams in your VS Code theme,… |
+| 2026-11-21 15:48:59 | [pointplot.pointplot](https://marketplace.visualstudio.com/items?itemName=pointplot.pointplot) | PointPlot | 0.12.1 | Point and speak to Python figures in VS Code notebooks. Edit with Codex, Claude… |
+| 2026-11-21 16:02:37 | [mabdallah.visualbasic-language-server](https://marketplace.visualstudio.com/items?itemName=mabdallah.visualbasic-language-server) | VB.NET Dev Kit | 0.1.1 | Syntax highlighting, diagnostics, completion, navigation, formatting, and refac… |
+| 2026-11-21 16:14:54 | [eduardo239.canary9](https://marketplace.visualstudio.com/items?itemName=eduardo239.canary9) | Canary9 | 0.1.0 | Alerta precoce de vulnerabilidades: analisa as dependências do workspace (npm,… |
 
 ## Data source
 
