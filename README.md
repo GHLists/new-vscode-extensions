@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 01:20 UTC
+## Latest list — 2026-11-21 02:19 UTC
 
-New extensions published between 2026-11-20 23:20 UTC and 2026-11-21 01:20 UTC.
+New extensions published between 2026-11-21 00:19 UTC and 2026-11-21 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T01-20-38-119726Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T02-19-45-411812Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 00:15:32 | [JooVitorAparecidoCarpimdeSouza.safemerge](https://marketplace.visualstudio.com/items?itemName=JooVitorAparecidoCarpimdeSouza.safemerge) | safemerge: pode mergear? | 0.3.1 | Saiba se a sua branch pode ser mergeada antes do merge: conflitos (inclusive co… |
-| 2026-11-21 00:52:43 | [BlueBonsai.talkative](https://marketplace.visualstudio.com/items?itemName=BlueBonsai.talkative) | Talkative: Claude Code Read Aloud | 0.7.2 | Reads Claude Code's replies aloud, with play, pause, speed control and plain-En… |
-| 2026-11-21 01:14:08 | [moriyama-dev.vscode-claude-code-usage-meter](https://marketplace.visualstudio.com/items?itemName=moriyama-dev.vscode-claude-code-usage-meter) | Usage Meter for Claude Code | 0.1.0 | Shows in the status bar whether your Claude Code plan limits will last until th… |
+| 2026-11-21 01:23:13 | [Infrawrench.infrawrench](https://marketplace.visualstudio.com/items?itemName=Infrawrench.infrawrench) | Infrawrench | 0.2.0 | See the live resource, monthly cost, owning service and open posture findings b… |
+| 2026-11-21 01:39:05 | [grupo14-si783.dataforge-nosql](https://marketplace.visualstudio.com/items?itemName=grupo14-si783.dataforge-nosql) | DataForge NoSQL | 1.0.0 | Inicia, abre y prueba DataForge NoSQL desde Visual Studio Code. |
+| 2026-11-21 01:43:21 | [pasztet211.colorComments](https://marketplace.visualstudio.com/items?itemName=pasztet211.colorComments) | Coloring Comments | 1.5.4 | Customize the colors of comments in VS Code |
+| 2026-11-21 01:55:05 | [fluxenginejp.fluxenginejp-sftest-editor](https://marketplace.visualstudio.com/items?itemName=fluxenginejp.fluxenginejp-sftest-editor) | sfTest Editor | 0.1.0 | sfTest（Salesforce の画面を日本語のシナリオで自動テストするツール）の .feature を書くための VS Code 拡張機能 |
+| 2026-11-21 02:00:10 | [ORBITZ-TEAM.orbitz](https://marketplace.visualstudio.com/items?itemName=ORBITZ-TEAM.orbitz) | ORBITZ | 0.2.4 | A focused coding agent with safe workspace edits and visible costs. |
+| 2026-11-21 02:00:36 | [ScienceandHumanityLab.pdp-vscode](https://marketplace.visualstudio.com/items?itemName=ScienceandHumanityLab.pdp-vscode) | PDP | 0.0.4 | Run and watch your pdp project from the sidebar: tasks, remote runs, and the Da… |
 
 ## Data source
 
