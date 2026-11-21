@@ -12,21 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-21 16:20 UTC
+## Latest list — 2026-11-21 17:20 UTC
 
-New extensions published between 2026-11-21 14:20 UTC and 2026-11-21 16:20 UTC.
+New extensions published between 2026-11-21 15:20 UTC and 2026-11-21 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-21T16-20-38-142419Z.csv)
+[Full CSV](data/new-extensions-2026-11-21T17-20-12-642449Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 15:18:55 | [Quinethor.dmi-studio](https://marketplace.visualstudio.com/items?itemName=Quinethor.dmi-studio) | DMI Studio | 1.0.0 | Edit BYOND sprites, reorder animations and work with groups of DMI states and f… |
-| 2026-11-21 15:20:17 | [phucdnh.jetgit-scm](https://marketplace.visualstudio.com/items?itemName=phucdnh.jetgit-scm) | JetGit - IntelliJ & JetBrains Style Git… | 0.1.6 | JetBrains IntelliJ-style Git integration for VS Code — visual commit graph, col… |
-| 2026-11-21 15:20:29 | [grethel-labs.excaliplant](https://marketplace.visualstudio.com/items?itemName=grethel-labs.excaliplant) | Excaliplant: PlantUML as Excalidraw | 1.2.0 | Draw PlantUML as hand-drawn diagrams in the Markdown preview, a live side previ… |
-| 2026-11-21 15:41:26 | [accessnow.pressmark](https://marketplace.visualstudio.com/items?itemName=accessnow.pressmark) | Pressmark | 1.0.0 | A Markdown preview that draws maths and Mermaid diagrams in your VS Code theme,… |
-| 2026-11-21 15:48:59 | [pointplot.pointplot](https://marketplace.visualstudio.com/items?itemName=pointplot.pointplot) | PointPlot | 0.12.1 | Point and speak to Python figures in VS Code notebooks. Edit with Codex, Claude… |
-| 2026-11-21 16:02:37 | [mabdallah.visualbasic-language-server](https://marketplace.visualstudio.com/items?itemName=mabdallah.visualbasic-language-server) | VB.NET Dev Kit | 0.1.1 | Syntax highlighting, diagnostics, completion, navigation, formatting, and refac… |
-| 2026-11-21 16:14:54 | [eduardo239.canary9](https://marketplace.visualstudio.com/items?itemName=eduardo239.canary9) | Canary9 | 0.1.0 | Alerta precoce de vulnerabilidades: analisa as dependências do workspace (npm,… |
+| 2026-11-21 16:22:37 | [jamalAmeer.absher-ds-css-autocomplete](https://marketplace.visualstudio.com/items?itemName=jamalAmeer.absher-ds-css-autocomplete) | Absher CS Autocomplete | 0.0.1 | This extension for to autocomplete the absher design system library |
+| 2026-11-21 16:25:57 | [tessaridb.tessariql](https://marketplace.visualstudio.com/items?itemName=tessaridb.tessariql) | TessariQL language server | 0.1.0 | TessariQL language support — diagnostics, completion, hover, run statement — th… |
+| 2026-11-21 16:30:48 | [learntime.bulk-files-creator](https://marketplace.visualstudio.com/items?itemName=learntime.bulk-files-creator) | Bulk Files Creator | 1.0.0 | Type a list of paths, one per line, and create all the files and folders in one… |
+| 2026-11-21 16:49:20 | [AdjaiTechLabs.eternix](https://marketplace.visualstudio.com/items?itemName=AdjaiTechLabs.eternix) | ETERNIX | 1.0.0 | ETERNIX autonomous engineering agent for VS Code |
+| 2026-11-21 16:55:34 | [yangjongwon.cli-sidebar](https://marketplace.visualstudio.com/items?itemName=yangjongwon.cli-sidebar) | CLI Sidebar | 0.1.3 | Run a CLI from the sidebar and keep a named session you can resume. 사이드바에서 CLI를… |
+| 2026-11-21 16:57:37 | [MohamedSalahNassar.device-control](https://marketplace.visualstudio.com/items?itemName=MohamedSalahNassar.device-control) | Device Control | 0.1.2 | Control local iOS simulators and Android emulators in VS Code, with live views… |
+| 2026-11-21 16:57:39 | [konvert7.klint](https://marketplace.visualstudio.com/items?itemName=konvert7.klint) | klint | 1.10.0 | Architecture-as-Code linter: layer boundaries, import rules and forbidden patte… |
+| 2026-11-21 17:01:45 | [Genbeya.genbeya](https://marketplace.visualstudio.com/items?itemName=Genbeya.genbeya) | Genbeya for VS Code | 0.1.0 | The wiki and the task board of your Git repository, kept as plain Markdown file… |
+| 2026-11-21 17:06:42 | [juddersoft.git-repo-and-branch-explorer](https://marketplace.visualstudio.com/items?itemName=juddersoft.git-repo-and-branch-explorer) | Git Repo & Branch Explorer | 1.4.3 | Visual Studio-style Git Repository explorer: branch/remote/tag tree in the Acti… |
+| 2026-11-21 17:11:30 | [oaklake89.vsc-t-sql-strings](https://marketplace.visualstudio.com/items?itemName=oaklake89.vsc-t-sql-strings) | T-SQL Strings | 1.0.0 | Syntax highlighting for dynamic T-SQL inside string literals in VS Code. |
 
 ## Data source
 
