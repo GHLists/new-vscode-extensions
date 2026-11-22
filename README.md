@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 09:21 UTC
+## Latest list — 2026-11-22 10:19 UTC
 
-New extensions published between 2026-11-22 07:21 UTC and 2026-11-22 09:21 UTC.
+New extensions published between 2026-11-22 08:19 UTC and 2026-11-22 10:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T09-21-20-626457Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T10-19-16-250159Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 08:30:12 | [Jean-ChristopheLejeune.envhue](https://marketplace.visualstudio.com/items?itemName=Jean-ChristopheLejeune.envhue) | Envhue – Never Mistake PROD for DEV | 0.1.0 | Color and protect your VS Code windows by environment (DEV, TEST, PREPROD, PROD… |
-| 2026-11-22 08:42:54 | [szeevs.claude-code-session-restore](https://marketplace.visualstudio.com/items?itemName=szeevs.claude-code-session-restore) | Session Restore for Claude Code | 0.3.0 | Brings back the Claude Code sessions running in each window's terminals after V… |
-| 2026-11-22 09:02:47 | [ThulirLabs.agent-cockpit-vscode](https://marketplace.visualstudio.com/items?itemName=ThulirLabs.agent-cockpit-vscode) | Agent Cockpit — Multi-Agent CLI Termina… | 0.1.1 | Run and switch between interactive CLI coding agents (Claude Code, Codex, Gemin… |
-| 2026-11-22 09:08:14 | [manikanta-dev5533.promptcode-assistant](https://marketplace.visualstudio.com/items?itemName=manikanta-dev5533.promptcode-assistant) | PROMPT CODE | 0.1.0 | An AI coding agent in your sidebar. Bring your own key: OpenRouter, OpenAI, Gem… |
+| 2026-11-22 09:18:11 | [jaks-360.codeshave](https://marketplace.visualstudio.com/items?itemName=jaks-360.codeshave) | CodeShave: AST Code Compressor & MCP Se… | 0.2.1 | High-speed AST code context compressor & 1-click MCP server for AI coding assis… |
+| 2026-11-22 09:29:47 | [Tomverse.tomverse-vscode](https://marketplace.visualstudio.com/items?itemName=Tomverse.tomverse-vscode) | Tomverse | 1.0.1 | Ask and edit your local workspace with Tomverse. Review every change and comman… |
+| 2026-11-22 10:04:44 | [niobium-41-nb.overleaf-workshop-cn](https://marketplace.visualstudio.com/items?itemName=niobium-41-nb.overleaf-workshop-cn) | Overleaf Workshop CN (Unofficial) | 0.15.11 | Open Overleaf/ShareLaTex projects in VSCode, with full collaboration support. C… |
+| 2026-11-22 10:07:13 | [h3lv1x.bracket-glow](https://marketplace.visualstudio.com/items?itemName=h3lv1x.bracket-glow) | Bracket Glow by H3LV1X | 1.0.6 | Bracket pair highlighting with customizable color and overview ruler marks for… |
+| 2026-11-22 10:09:58 | [niobium-41-nb.paperleaf-vscode](https://marketplace.visualstudio.com/items?itemName=niobium-41-nb.paperleaf-vscode) | PaperLeaf | 0.2.0 | 使用 Cookie 登录 PaperLeaf，在 VS Code 中直接编辑线上 LaTeX 项目文件 |
+| 2026-11-22 10:12:37 | [liminalia.liminalia](https://marketplace.visualstudio.com/items?itemName=liminalia.liminalia) | Liminalia | 0.8.3 | Write Liminalia scripts (.lim) in VS Code: highlighting, checks, completion, ho… |
 
 ## Data source
 

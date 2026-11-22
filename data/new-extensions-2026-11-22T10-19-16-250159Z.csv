@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T09:18:11.457Z,jaks-360.codeshave,jaks-360,CodeShave: AST Code Compressor & MCP Server,0.2.1,"High-speed AST code context compressor & 1-click MCP server for AI coding assistants (Claude, Cursor, Copilot, Antigravity). Saves 90%+ prompt tokens."
+2026-11-22T09:29:47.227Z,Tomverse.tomverse-vscode,Tomverse,Tomverse,1.0.1,Ask and edit your local workspace with Tomverse. Review every change and command.
+2026-11-22T10:04:44.397Z,niobium-41-nb.overleaf-workshop-cn,niobium-41-nb,Overleaf Workshop CN (Unofficial),0.15.11,"Open Overleaf/ShareLaTex projects in VSCode, with full collaboration support. CN build: defaults to https://cn.overleaf.com."
+2026-11-22T10:07:13.91Z,h3lv1x.bracket-glow,h3lv1x,Bracket Glow by H3LV1X,1.0.6,Bracket pair highlighting with customizable color and overview ruler marks for VS Code.
+2026-11-22T10:09:58.017Z,niobium-41-nb.paperleaf-vscode,niobium-41-nb,PaperLeaf,0.2.0,使用 Cookie 登录 PaperLeaf，在 VS Code 中直接编辑线上 LaTeX 项目文件
+2026-11-22T10:12:37.53Z,liminalia.liminalia,liminalia,Liminalia,0.8.3,"Write Liminalia scripts (.lim) in VS Code: highlighting, checks, completion, hovers, go to definition, find references, symbol search, formatting, quick fixes, renaming and play from here"
