@@ -12,19 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 14:20 UTC
+## Latest list — 2026-11-22 15:20 UTC
 
-New extensions published between 2026-11-22 12:20 UTC and 2026-11-22 14:20 UTC.
+New extensions published between 2026-11-22 13:20 UTC and 2026-11-22 15:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T14-20-58-334357Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T15-20-17-818085Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 13:19:05 | [jstrullu.readable-tests](https://marketplace.visualstudio.com/items?itemName=jstrullu.readable-tests) | Readable Tests | 0.4.0 | Readable test results for .NET and JavaScript: TUnit / Microsoft.Testing.Platfo… |
-| 2026-11-22 13:27:05 | [zovo.zovo-xbrl-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xbrl-viewer) | XBRL Report Viewer | 0.1.0 | Open XBRL financial reports in VS Code: facts with contexts, units and periods,… |
-| 2026-11-22 13:28:46 | [eduardo239.neon-kiroshi](https://marketplace.visualstudio.com/items?itemName=eduardo239.neon-kiroshi) | N3on Kiroshi | 1.0.1 | Temas escuros inspirados em Cyberpunk 2077: Neon Kiroshi (neon amarelo e ciano)… |
-| 2026-11-22 14:04:35 | [kiiyaaa.codequest-vscode-tour](https://marketplace.visualstudio.com/items?itemName=kiiyaaa.codequest-vscode-tour) | CodeQuest: Your VS Code Tour Guide | 0.1.0 | A friendly tour for VS Code beginners. It highlights each part of the real wind… |
-| 2026-11-22 14:11:27 | [SohamTilekar.llvm-ir-advance](https://marketplace.visualstudio.com/items?itemName=SohamTilekar.llvm-ir-advance) | LLVM IR Advance | 0.1.0 | Advanced LLVM IR Language Server, SSA Def-Use analysis, CFG visualizer & diagno… |
+| 2026-11-22 14:19:51 | [CoreXyte.corextrader-tdsl](https://marketplace.visualstudio.com/items?itemName=CoreXyte.corextrader-tdsl) | CoreXTrader TDSL | 0.1.0 | Write, run, backtest, optimize and publish TDSL indicators and strategies with… |
+| 2026-11-22 14:34:11 | [codepilot-ai.codepilot-ai-assistant](https://marketplace.visualstudio.com/items?itemName=codepilot-ai.codepilot-ai-assistant) | CodePilot Coder | 1.0.0 | Privacy-first AI coding assistant for VS Code with encrypted SecretStorage API… |
+| 2026-11-22 14:36:19 | [qhai-dev.zed-file-tree](https://marketplace.visualstudio.com/items?itemName=qhai-dev.zed-file-tree) | Zed File Tree | 0.1.1 | Restyle only the VS Code Explorer file tree to match the Zed editor's project p… |
+| 2026-11-22 14:39:03 | [Hayes.washi-theme](https://marketplace.visualstudio.com/items?itemName=Hayes.washi-theme) | Washi | 1.0.0 | Ink on silk-white paper. A calm light theme built on traditional Japanese pigme… |
+| 2026-11-22 14:41:53 | [oliviercado.deep-diff-links](https://marketplace.visualstudio.com/items?itemName=oliviercado.deep-diff-links) | Deep Diff Links | 0.4.0 | Deep-linkable code review viewer: turn Markdown review comments into clickable… |
+| 2026-11-22 14:45:32 | [whlshy.function-bookmarks](https://marketplace.visualstudio.com/items?itemName=whlshy.function-bookmarks) | Function Bookmarks | 0.6.0 | Bookmarks that survive git pull and branch switches — on functions or on any li… |
+| 2026-11-22 14:48:48 | [trademav.ramdeck-auto-build](https://marketplace.visualstudio.com/items?itemName=trademav.ramdeck-auto-build) | RAMDeck Auto-Build | 1.0.0 | Connect VS Code, Cursor, or Windsurf to your RAMDeck Hardware Hub for local 30B… |
+| 2026-11-22 14:58:04 | [ixena-unreal-tools.ixena-unreal-tools](https://marketplace.visualstudio.com/items?itemName=ixena-unreal-tools.ixena-unreal-tools) | iXenaUnrealTools | 0.6.2 | Unreal tools: plugin/MCP setup, grouped views, English/Chinese UI, Live Coding,… |
+| 2026-11-22 15:05:47 | [murcie.ege-informatics-template-solver](https://marketplace.visualstudio.com/items?itemName=murcie.ege-informatics-template-solver) | Informatics Template Solver | 0.1.0 | Офлайн-помощник для шаблонных заданий первой части ЕГЭ по информатике: распозна… |
+| 2026-11-22 15:08:04 | [alenfrancis.earworm](https://marketplace.visualstudio.com/items?itemName=alenfrancis.earworm) | Earworm | 0.1.0 | Control Spotify from VS Code: the desktop app on macOS, Linux and Windows with… |
+| 2026-11-22 15:13:18 | [adam-wiacek-ch.wsl-rsync-cmake](https://marketplace.visualstudio.com/items?itemName=adam-wiacek-ch.wsl-rsync-cmake) | WSL Rsync CMake | 0.0.1 | Self-contained WSL2 C++ build backend for VS Code — configure, build, clean, an… |
 
 ## Data source
 
