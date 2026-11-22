@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T21:35:09.507Z,redbison.redbison-tools,redbison,RedBison Tools,0.2.0,"Format JSON, decode a JWT, hash a string, convert a timestamp and 96 more developer tools, on the selection, without leaving the editor. 89 run offline."
+2026-11-22T21:56:50.907Z,arniebradfo.themer-lab,arniebradfo,Themer Lab: Live Theme Builder,0.1.0,"Create a custom theme from a few colors. Preview UI and syntax highlighting live, then apply or export your theme."
+2026-11-22T22:08:07.753Z,ScanlineClassic.libretro-slang,ScanlineClassic,Libretro Slang,0.1.1,Syntax highlighting and language support for Libretro .slang shaders and .slangp presets
