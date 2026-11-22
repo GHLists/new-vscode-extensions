@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 00:19 UTC
+## Latest list — 2026-11-22 01:19 UTC
 
-New extensions published between 2026-11-21 22:19 UTC and 2026-11-22 00:19 UTC.
+New extensions published between 2026-11-21 23:19 UTC and 2026-11-22 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T00-19-39-73754Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T01-19-34-996978Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-21 23:22:29 | [WasakaTechnologies.cant-vscode](https://marketplace.visualstudio.com/items?itemName=WasakaTechnologies.cant-vscode) | Cant | 0.10.3 | Language support for Cant: problems, go to definition, references, hover, outli… |
-| 2026-11-21 23:29:31 | [arthurxk.tuca-rpg](https://marketplace.visualstudio.com/items?itemName=arthurxk.tuca-rpg) | Tuca RPG | 0.4.2 | Your Claude Code usage becomes an RPG character: level, attributes, spells and… |
-| 2026-11-21 23:35:31 | [CPQConsultant.cpq-devkit-sn](https://marketplace.visualstudio.com/items?itemName=CPQConsultant.cpq-devkit-sn) | CPQ DevKit™ for ServiceNow | 2.8.1 | CPQ DevKit™ for ServiceNow: edit ServiceNow CPQ (Logik.io) enrichment scripts a… |
-| 2026-11-21 23:48:03 | [elklang.elk](https://marketplace.visualstudio.com/items?itemName=elklang.elk) | Elk | 0.0.1 | Elk language support. |
-| 2026-11-21 23:51:52 | [qrlifetime.qrlifetime-qr-code](https://marketplace.visualstudio.com/items?itemName=qrlifetime.qrlifetime-qr-code) | QRLifetime QR Code Generator | 1.0.0 | Generate a QR code from a URL or any text, offline, and insert it as SVG in you… |
-| 2026-11-22 00:00:29 | [sebdata.har-file-viewer](https://marketplace.visualstudio.com/items?itemName=sebdata.har-file-viewer) | HAR File Viewer | 1.0.0 | Open .har files as a request table: filter, sort, and read headers, query, timi… |
-| 2026-11-22 00:02:20 | [lsiq-software.sd-hello-check](https://marketplace.visualstudio.com/items?itemName=lsiq-software.sd-hello-check) | Hello Check | 1.0.0 | Minimal test extension. |
+| 2026-11-22 00:21:35 | [Arviixzuh.mlp-fim-themes](https://marketplace.visualstudio.com/items?itemName=Arviixzuh.mlp-fim-themes) | Visual Studio Code MLP Themes | 1.0.0 | A Catppuccin-inspired pastel dark theme collection featuring the Mane 6 and the… |
+| 2026-11-22 00:42:05 | [freevideoai-app.freevideoai-shot-plan](https://marketplace.visualstudio.com/items?itemName=freevideoai-app.freevideoai-shot-plan) | FreeVideo AI Shot Plan Validator | 0.1.0 | Check a video shot plan in the active JSON document, including reference counts… |
+| 2026-11-22 00:51:35 | [abdelfattahradwan.estamba](https://marketplace.visualstudio.com/items?itemName=abdelfattahradwan.estamba) | Estamba | 1.0.0 | Adds Estamba template support to VS Code: error checking, completion, hover doc… |
+| 2026-11-22 01:02:33 | [switchblade34.oxford-brookes-racing-autonomous-theme](https://marketplace.visualstudio.com/items?itemName=switchblade34.oxford-brookes-racing-autonomous-theme) | Oxford Brookes Racing Autonomous Theme | 1.0.0 | Dark and Light themes for Oxford Brookes Racing Autonomous (OBRA), built from t… |
 
 ## Data source
 
