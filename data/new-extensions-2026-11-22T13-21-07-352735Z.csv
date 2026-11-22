@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T12:40:39.56Z,nosparetime.sequencediagramorg,nosparetime,SequenceDiagram.org for VS Code,9.19.0,"Sequence and architecture diagrams from text, edited as text and on the canvas."
+2026-11-22T12:41:20.123Z,zovo.zovo-qfx-viewer,zovo,QFX OFX Statement Viewer,0.1.0,"Open Quicken .qfx and QuickBooks .qbo bank statements in VS Code: transactions, balances and totals, read locally with nothing to install."
+2026-11-22T12:43:57.723Z,promptlio.promptlio-context,promptlio,Promptlio Project Context,0.1.1,Save project context and bring it into your next AI session.
+2026-11-22T12:50:33.16Z,Adliance.qmdoc-preview,Adliance,QmDoc Preview,1.0.1,"Live preview of Markdown files as rendered by QmDoc (Adliance.QmDoc), with the same theme as the PDF."
+2026-11-22T12:52:13.82Z,MaximeLefrancois.sparql-generate,MaximeLefrancois,SPARQL-Generate,0.1.0,"SPARQL-Generate (.rqg): highlighting, snippets, and running queries with the engine — RDF or text generated from RDF and from CSV, JSON, XML, HTML… documents."
+2026-11-22T12:56:45.563Z,zovo.zovo-exo-viewer,zovo,Exodus II File Viewer,0.1.0,"Open Exodus II .exo mesh datasets in VS Code: blocks, node sets, side sets and results variables, read locally with nothing to install."
+2026-11-22T13:00:32.703Z,zovo.zovo-scc-viewer,zovo,SCC Caption Viewer,0.1.0,"Open Scenarist .scc closed caption files in VS Code: decoded captions with timecodes and styles, read locally with nothing to install."
+2026-11-22T13:03:46.853Z,kaptenamv.petal-memory,kaptenamv,PeTal Memory,2.0.0,Never lose your project. Never lose to AI mistakes.
+2026-11-22T13:11:28.85Z,zovo.zovo-ach-viewer,zovo,NACHA ACH File Viewer,0.1.0,"Open NACHA .ach payment files in VS Code: batches, entries, addenda and totals, read locally with nothing to install."
+2026-11-22T13:13:37.987Z,stefantasie.claude-pets,stefantasie,Claude Pets,0.2.4,A pixel pet that lives on the Claude Code prompt box and reacts to what Claude is doing. Free and open source.
+2026-11-22T13:15:25.903Z,marroxo.edgar-spojenie,marroxo,Edgar++,0.3.9,Sinkronizira lokalni C kod s Edgarovim uređivačem i pokreće lokalne provjere primjera.

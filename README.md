@@ -12,25 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 12:21 UTC
+## Latest list — 2026-11-22 13:21 UTC
 
-New extensions published between 2026-11-22 10:21 UTC and 2026-11-22 12:21 UTC.
+New extensions published between 2026-11-22 11:21 UTC and 2026-11-22 13:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T12-21-19-020608Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T13-21-07-352735Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 11:21:28 | [FosteIT.fostry](https://marketplace.visualstudio.com/items?itemName=FosteIT.fostry) | Fostry | 0.2.0 | Edit and run Fostry's scripts in VS Code — each save a new revision in Fostry. |
-| 2026-11-22 11:23:06 | [OpenLamda-RED.lamda-red-vscode-preview](https://marketplace.visualstudio.com/items?itemName=OpenLamda-RED.lamda-red-vscode-preview) | Lamda RED VSCode Diagram Preview | 1.1.0 | Preview Drizzle requirements diagrams beside the source editor on save. |
-| 2026-11-22 11:38:55 | [Garrard.mcp-tool-xplorer](https://marketplace.visualstudio.com/items?itemName=Garrard.mcp-tool-xplorer) | MCP Tool Xplorer | 0.1.17 | Browse tools from the MCP servers configured in VS Code, inspect each tool's ic… |
-| 2026-11-22 11:39:31 | [slates-build.slates-extension](https://marketplace.visualstudio.com/items?itemName=slates-build.slates-extension) | Slate Build | 0.1.16 | Generate Ninja files and browse, build, test, and run Slate targets. |
-| 2026-11-22 11:49:36 | [mbiakop94.hello-clint](https://marketplace.visualstudio.com/items?itemName=mbiakop94.hello-clint) | hello-clint | 0.0.1 | hello-clint |
-| 2026-11-22 11:50:37 | [janar153.dbml-extension](https://marketplace.visualstudio.com/items?itemName=janar153.dbml-extension) | DBML Extension | 2.0.1 | Create and edit DBML database and architecture diagrams in VS Code. Share Git-f… |
-| 2026-11-22 11:53:24 | [x-ror.alder](https://marketplace.visualstudio.com/items?itemName=x-ror.alder) | Alder: Ruby Templates (ERB, Haml, Slim) | 1.1.2 | Rails view tooling for ERB, Haml and Slim: highlighting, errors as you type, sa… |
-| 2026-11-22 11:59:10 | [humanmode.human-mode](https://marketplace.visualstudio.com/items?itemName=humanmode.human-mode) | Human Mode | 0.1.0 | Turn it on and AI stops writing: it hints, explains and reviews while you drive. |
-| 2026-11-22 12:09:46 | [k19.risc-v-harness-vscode](https://marketplace.visualstudio.com/items?itemName=k19.risc-v-harness-vscode) | RISC-V Harness | 0.1.0 | Language server and debugger for RISC-V assembly: hover, quick fixes, completio… |
-| 2026-11-22 12:12:01 | [zovo.zovo-qif-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-qif-viewer) | QIF File Viewer | 0.1.0 | Open Quicken .qif ledgers in VS Code: transactions, splits, category totals and… |
-| 2026-11-22 12:14:41 | [SamMain.markdown-wordcount-extension](https://marketplace.visualstudio.com/items?itemName=SamMain.markdown-wordcount-extension) | markdown-wordcount-extension | 0.0.1 | A simple way to count all uncommented words in a markdown document. |
+| 2026-11-22 12:40:39 | [nosparetime.sequencediagramorg](https://marketplace.visualstudio.com/items?itemName=nosparetime.sequencediagramorg) | SequenceDiagram.org for VS Code | 9.19.0 | Sequence and architecture diagrams from text, edited as text and on the canvas. |
+| 2026-11-22 12:41:20 | [zovo.zovo-qfx-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-qfx-viewer) | QFX OFX Statement Viewer | 0.1.0 | Open Quicken .qfx and QuickBooks .qbo bank statements in VS Code: transactions,… |
+| 2026-11-22 12:43:57 | [promptlio.promptlio-context](https://marketplace.visualstudio.com/items?itemName=promptlio.promptlio-context) | Promptlio Project Context | 0.1.1 | Save project context and bring it into your next AI session. |
+| 2026-11-22 12:50:33 | [Adliance.qmdoc-preview](https://marketplace.visualstudio.com/items?itemName=Adliance.qmdoc-preview) | QmDoc Preview | 1.0.1 | Live preview of Markdown files as rendered by QmDoc (Adliance.QmDoc), with the… |
+| 2026-11-22 12:52:13 | [MaximeLefrancois.sparql-generate](https://marketplace.visualstudio.com/items?itemName=MaximeLefrancois.sparql-generate) | SPARQL-Generate | 0.1.0 | SPARQL-Generate (.rqg): highlighting, snippets, and running queries with the en… |
+| 2026-11-22 12:56:45 | [zovo.zovo-exo-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-exo-viewer) | Exodus II File Viewer | 0.1.0 | Open Exodus II .exo mesh datasets in VS Code: blocks, node sets, side sets and… |
+| 2026-11-22 13:00:32 | [zovo.zovo-scc-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-scc-viewer) | SCC Caption Viewer | 0.1.0 | Open Scenarist .scc closed caption files in VS Code: decoded captions with time… |
+| 2026-11-22 13:03:46 | [kaptenamv.petal-memory](https://marketplace.visualstudio.com/items?itemName=kaptenamv.petal-memory) | PeTal Memory | 2.0.0 | Never lose your project. Never lose to AI mistakes. |
+| 2026-11-22 13:11:28 | [zovo.zovo-ach-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-ach-viewer) | NACHA ACH File Viewer | 0.1.0 | Open NACHA .ach payment files in VS Code: batches, entries, addenda and totals,… |
+| 2026-11-22 13:13:37 | [stefantasie.claude-pets](https://marketplace.visualstudio.com/items?itemName=stefantasie.claude-pets) | Claude Pets | 0.2.4 | A pixel pet that lives on the Claude Code prompt box and reacts to what Claude… |
+| 2026-11-22 13:15:25 | [marroxo.edgar-spojenie](https://marketplace.visualstudio.com/items?itemName=marroxo.edgar-spojenie) | Edgar++ | 0.3.9 | Sinkronizira lokalni C kod s Edgarovim uređivačem i pokreće lokalne provjere pr… |
 
 ## Data source
 
