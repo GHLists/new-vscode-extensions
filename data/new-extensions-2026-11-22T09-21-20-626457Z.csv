@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T08:30:12.367Z,Jean-ChristopheLejeune.envhue,Jean-ChristopheLejeune,Envhue – Never Mistake PROD for DEV,0.1.0,"Color and protect your VS Code windows by environment (DEV, TEST, PREPROD, PROD): colors, window title, confirmation and optional read-only mode for local, SSH, WSL and Dev Container folders."
+2026-11-22T08:42:54.597Z,szeevs.claude-code-session-restore,szeevs,Session Restore for Claude Code,0.3.0,"Brings back the Claude Code sessions running in each window's terminals after VS Code quits, crashes or the machine restarts."
+2026-11-22T09:02:47.03Z,ThulirLabs.agent-cockpit-vscode,ThulirLabs,Agent Cockpit — Multi-Agent CLI Terminal Manager,0.1.1,"Run and switch between interactive CLI coding agents (Claude Code, Codex, Gemini CLI, shells) as full-height Editor Tabs with cwd picker, isolated Git worktrees, live git status/diff, and @file:line context injection."
+2026-11-22T09:08:14.163Z,manikanta-dev5533.promptcode-assistant,manikanta-dev5533,PROMPT CODE,0.1.0,"An AI coding agent in your sidebar. Bring your own key: OpenRouter, OpenAI, Gemini, Claude, OpenCode or local Ollama."
