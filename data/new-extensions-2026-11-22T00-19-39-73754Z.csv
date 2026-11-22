@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-21T23:22:29.977Z,WasakaTechnologies.cant-vscode,WasakaTechnologies,Cant,0.10.3,"Language support for Cant: problems, go to definition, references, hover, outline and completion, and highlighting, including cant code blocks in Markdown"
+2026-11-21T23:29:31.783Z,arthurxk.tuca-rpg,arthurxk,Tuca RPG,0.4.2,"Your Claude Code usage becomes an RPG character: level, attributes, spells and gold."
+2026-11-21T23:35:31.023Z,CPQConsultant.cpq-devkit-sn,CPQConsultant,CPQ DevKit™ for ServiceNow,2.8.1,"CPQ DevKit™ for ServiceNow: edit ServiceNow CPQ (Logik.io) enrichment scripts and rules in VS Code, compare them with your tenant, deploy blueprints, load managed tables from CSV, and test configurations, with named environments for each tenant."
+2026-11-21T23:48:03.403Z,elklang.elk,elklang,Elk,0.0.1,Elk language support.
+2026-11-21T23:51:52.503Z,qrlifetime.qrlifetime-qr-code,qrlifetime,QRLifetime QR Code Generator,1.0.0,"Generate a QR code from a URL or any text, offline, and insert it as SVG in your file or save it in your project."
+2026-11-22T00:00:29.347Z,sebdata.har-file-viewer,sebdata,HAR File Viewer,1.0.0,"Open .har files as a request table: filter, sort, and read headers, query, timings and bodies. Read-only and offline."
+2026-11-22T00:02:20.003Z,lsiq-software.sd-hello-check,lsiq-software,Hello Check,1.0.0,Minimal test extension.
