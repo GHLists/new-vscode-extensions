@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T15:28:50.333Z,ixena-unreal-tools.ixena-unreal-tools-vscode,ixena-unreal-tools,iXena Unreal Tools for VS Code,0.6.3,"Unreal tools: plugin/MCP setup, grouped views, English/Chinese UI, Live Coding, CPU/memory monitoring, C++ class creation, and project editing."
+2026-11-22T15:29:00.207Z,Adliance.qmdoc-previewer,Adliance,Adliance QmDoc Previewer,1.0.3,"Live preview of Markdown files as rendered by Adliance QmDoc, with the same theme as the PDF. Installs and updates the QmDoc .NET global tool automatically."
+2026-11-22T15:31:39.39Z,AbhishekChoudhury.lofree,AbhishekChoudhury,Lofree — Focus Sounds,0.1.0,"Endless lo-fi beats, café, airport, rain and colored noise — synthesized live in code. No streaming, no network."
+2026-11-22T15:33:32.883Z,jaytankdev.chatleak,jaytankdev,ChatLeak: AI Chat History and Agent Session Leak Checker,0.1.0,"Finds AI coding tool transcripts, prompt histories and local-only agent settings that leak through git or published packages: Aider chat and input history, SpecStory history, Claude Code settings.local.json and CLAUDE.local.md, Continue .continue/.env, Jupyter AI chats. Flags committed files, missin"
+2026-11-22T15:35:01.36Z,MohamedSoliman.ai-blackbox,MohamedSoliman,AI Blackbox,0.1.0,"See What AI Does. Secure What It Changes. Local-first developer intelligence, activity observability, and security monitoring for VS Code."
+2026-11-22T15:40:37.63Z,marlic.ediwok,marlic,Ediwok,0.6.1,"Visual editor for Wokwi's diagram.json: add, move, rotate and wire parts and boards in a schematic view inside VS Code."
+2026-11-22T15:52:56.087Z,kinder.vscode-herdr-bridge,kinder,Herdr Bridge,0.3.0,Send VS Code file and source context to an agent running in Herdr.
+2026-11-22T15:55:00.31Z,EnsarJanova.shqipcode,EnsarJanova,ShqipCode,0.4.0,Programming language support and web development tools for ShqipCode
+2026-11-22T15:56:58.14Z,Praxenfold.sqlquerypilot,Praxenfold,SQLQueryPilot,0.8.0,Explore databases and generate application code from Visual Studio Code.
+2026-11-22T16:02:31.04Z,ChronoATX.chronoatx-ide,ChronoATX,ChronoATX Smart Full-Stack Test Suite,1.0.1,"VS Code extension for ChronoATX test automation platform. Provides .atx syntax highlighting, IntelliSense, run/debug, multi-platform Codegen recorder, and Allure report visualization."
+2026-11-22T16:03:42.49Z,KEICOON15.code-diorama,KEICOON15,Code Diorama,0.1.0,Interactive ambient worlds in your VS Code sidebar that react to your coding rhythm

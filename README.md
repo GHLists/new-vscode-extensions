@@ -12,25 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 15:20 UTC
+## Latest list — 2026-11-22 16:20 UTC
 
-New extensions published between 2026-11-22 13:20 UTC and 2026-11-22 15:20 UTC.
+New extensions published between 2026-11-22 14:20 UTC and 2026-11-22 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T15-20-17-818085Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T16-20-15-816251Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 14:19:51 | [CoreXyte.corextrader-tdsl](https://marketplace.visualstudio.com/items?itemName=CoreXyte.corextrader-tdsl) | CoreXTrader TDSL | 0.1.0 | Write, run, backtest, optimize and publish TDSL indicators and strategies with… |
-| 2026-11-22 14:34:11 | [codepilot-ai.codepilot-ai-assistant](https://marketplace.visualstudio.com/items?itemName=codepilot-ai.codepilot-ai-assistant) | CodePilot Coder | 1.0.0 | Privacy-first AI coding assistant for VS Code with encrypted SecretStorage API… |
-| 2026-11-22 14:36:19 | [qhai-dev.zed-file-tree](https://marketplace.visualstudio.com/items?itemName=qhai-dev.zed-file-tree) | Zed File Tree | 0.1.1 | Restyle only the VS Code Explorer file tree to match the Zed editor's project p… |
-| 2026-11-22 14:39:03 | [Hayes.washi-theme](https://marketplace.visualstudio.com/items?itemName=Hayes.washi-theme) | Washi | 1.0.0 | Ink on silk-white paper. A calm light theme built on traditional Japanese pigme… |
-| 2026-11-22 14:41:53 | [oliviercado.deep-diff-links](https://marketplace.visualstudio.com/items?itemName=oliviercado.deep-diff-links) | Deep Diff Links | 0.4.0 | Deep-linkable code review viewer: turn Markdown review comments into clickable… |
-| 2026-11-22 14:45:32 | [whlshy.function-bookmarks](https://marketplace.visualstudio.com/items?itemName=whlshy.function-bookmarks) | Function Bookmarks | 0.6.0 | Bookmarks that survive git pull and branch switches — on functions or on any li… |
-| 2026-11-22 14:48:48 | [trademav.ramdeck-auto-build](https://marketplace.visualstudio.com/items?itemName=trademav.ramdeck-auto-build) | RAMDeck Auto-Build | 1.0.0 | Connect VS Code, Cursor, or Windsurf to your RAMDeck Hardware Hub for local 30B… |
-| 2026-11-22 14:58:04 | [ixena-unreal-tools.ixena-unreal-tools](https://marketplace.visualstudio.com/items?itemName=ixena-unreal-tools.ixena-unreal-tools) | iXenaUnrealTools | 0.6.2 | Unreal tools: plugin/MCP setup, grouped views, English/Chinese UI, Live Coding,… |
-| 2026-11-22 15:05:47 | [murcie.ege-informatics-template-solver](https://marketplace.visualstudio.com/items?itemName=murcie.ege-informatics-template-solver) | Informatics Template Solver | 0.1.0 | Офлайн-помощник для шаблонных заданий первой части ЕГЭ по информатике: распозна… |
-| 2026-11-22 15:08:04 | [alenfrancis.earworm](https://marketplace.visualstudio.com/items?itemName=alenfrancis.earworm) | Earworm | 0.1.0 | Control Spotify from VS Code: the desktop app on macOS, Linux and Windows with… |
-| 2026-11-22 15:13:18 | [adam-wiacek-ch.wsl-rsync-cmake](https://marketplace.visualstudio.com/items?itemName=adam-wiacek-ch.wsl-rsync-cmake) | WSL Rsync CMake | 0.0.1 | Self-contained WSL2 C++ build backend for VS Code — configure, build, clean, an… |
+| 2026-11-22 15:28:50 | [ixena-unreal-tools.ixena-unreal-tools-vscode](https://marketplace.visualstudio.com/items?itemName=ixena-unreal-tools.ixena-unreal-tools-vscode) | iXena Unreal Tools for VS Code | 0.6.3 | Unreal tools: plugin/MCP setup, grouped views, English/Chinese UI, Live Coding,… |
+| 2026-11-22 15:29:00 | [Adliance.qmdoc-previewer](https://marketplace.visualstudio.com/items?itemName=Adliance.qmdoc-previewer) | Adliance QmDoc Previewer | 1.0.3 | Live preview of Markdown files as rendered by Adliance QmDoc, with the same the… |
+| 2026-11-22 15:31:39 | [AbhishekChoudhury.lofree](https://marketplace.visualstudio.com/items?itemName=AbhishekChoudhury.lofree) | Lofree — Focus Sounds | 0.1.0 | Endless lo-fi beats, café, airport, rain and colored noise — synthesized live i… |
+| 2026-11-22 15:33:32 | [jaytankdev.chatleak](https://marketplace.visualstudio.com/items?itemName=jaytankdev.chatleak) | ChatLeak: AI Chat History and Agent Ses… | 0.1.0 | Finds AI coding tool transcripts, prompt histories and local-only agent setting… |
+| 2026-11-22 15:35:01 | [MohamedSoliman.ai-blackbox](https://marketplace.visualstudio.com/items?itemName=MohamedSoliman.ai-blackbox) | AI Blackbox | 0.1.0 | See What AI Does. Secure What It Changes. Local-first developer intelligence, a… |
+| 2026-11-22 15:40:37 | [marlic.ediwok](https://marketplace.visualstudio.com/items?itemName=marlic.ediwok) | Ediwok | 0.6.1 | Visual editor for Wokwi's diagram.json: add, move, rotate and wire parts and bo… |
+| 2026-11-22 15:52:56 | [kinder.vscode-herdr-bridge](https://marketplace.visualstudio.com/items?itemName=kinder.vscode-herdr-bridge) | Herdr Bridge | 0.3.0 | Send VS Code file and source context to an agent running in Herdr. |
+| 2026-11-22 15:55:00 | [EnsarJanova.shqipcode](https://marketplace.visualstudio.com/items?itemName=EnsarJanova.shqipcode) | ShqipCode | 0.4.0 | Programming language support and web development tools for ShqipCode |
+| 2026-11-22 15:56:58 | [Praxenfold.sqlquerypilot](https://marketplace.visualstudio.com/items?itemName=Praxenfold.sqlquerypilot) | SQLQueryPilot | 0.8.0 | Explore databases and generate application code from Visual Studio Code. |
+| 2026-11-22 16:02:31 | [ChronoATX.chronoatx-ide](https://marketplace.visualstudio.com/items?itemName=ChronoATX.chronoatx-ide) | ChronoATX Smart Full-Stack Test Suite | 1.0.1 | VS Code extension for ChronoATX test automation platform. Provides .atx syntax… |
+| 2026-11-22 16:03:42 | [KEICOON15.code-diorama](https://marketplace.visualstudio.com/items?itemName=KEICOON15.code-diorama) | Code Diorama | 0.1.0 | Interactive ambient worlds in your VS Code sidebar that react to your coding rh… |
 
 ## Data source
 
