@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T22:29:36.073Z,Gizzant.highbeam-hud,Gizzant,Highbeam — AI Context & Token Monitor,4.5.0,"Highbeam shows what's filling your AI coding context, warns before model switches or idle gaps waste prompt cache, and trims noisy tool output — 100% local, zero cloud."
+2026-11-22T22:34:04.943Z,LabtooStudios.smooth-cursor,LabtooStudios,Smooth Cursor,0.1.0,Fluid caret movement and lightweight Kitty-inspired cursor trails for the VS Code editor.
+2026-11-22T22:38:50.163Z,etalii.adp,etalii,ADP: A Different Perspective,0.1.0,"Specialized tools for text-based files: diagrams, designers and editors, each tuned for one task."
+2026-11-22T22:53:36.743Z,ongandrew.universal-web-vscode,ongandrew,Universal.Web,0.1.0,"Browser module JSDoc hover, template parsing, HTML and binding completions, and diagnostics for Universal.Web."

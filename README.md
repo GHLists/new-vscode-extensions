@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 22:21 UTC
+## Latest list — 2026-11-22 23:21 UTC
 
-New extensions published between 2026-11-22 20:21 UTC and 2026-11-22 22:21 UTC.
+New extensions published between 2026-11-22 21:21 UTC and 2026-11-22 23:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T22-21-18-038508Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T23-21-01-017802Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 21:35:09 | [redbison.redbison-tools](https://marketplace.visualstudio.com/items?itemName=redbison.redbison-tools) | RedBison Tools | 0.2.0 | Format JSON, decode a JWT, hash a string, convert a timestamp and 96 more devel… |
-| 2026-11-22 21:56:50 | [arniebradfo.themer-lab](https://marketplace.visualstudio.com/items?itemName=arniebradfo.themer-lab) | Themer Lab: Live Theme Builder | 0.1.0 | Create a custom theme from a few colors. Preview UI and syntax highlighting liv… |
-| 2026-11-22 22:08:07 | [ScanlineClassic.libretro-slang](https://marketplace.visualstudio.com/items?itemName=ScanlineClassic.libretro-slang) | Libretro Slang | 0.1.1 | Syntax highlighting and language support for Libretro .slang shaders and .slang… |
+| 2026-11-22 22:29:36 | [Gizzant.highbeam-hud](https://marketplace.visualstudio.com/items?itemName=Gizzant.highbeam-hud) | Highbeam — AI Context & Token Monitor | 4.5.0 | Highbeam shows what's filling your AI coding context, warns before model switch… |
+| 2026-11-22 22:34:04 | [LabtooStudios.smooth-cursor](https://marketplace.visualstudio.com/items?itemName=LabtooStudios.smooth-cursor) | Smooth Cursor | 0.1.0 | Fluid caret movement and lightweight Kitty-inspired cursor trails for the VS Co… |
+| 2026-11-22 22:38:50 | [etalii.adp](https://marketplace.visualstudio.com/items?itemName=etalii.adp) | ADP: A Different Perspective | 0.1.0 | Specialized tools for text-based files: diagrams, designers and editors, each t… |
+| 2026-11-22 22:53:36 | [ongandrew.universal-web-vscode](https://marketplace.visualstudio.com/items?itemName=ongandrew.universal-web-vscode) | Universal.Web | 0.1.0 | Browser module JSDoc hover, template parsing, HTML and binding completions, and… |
 
 ## Data source
 
