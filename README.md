@@ -12,18 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 20:21 UTC
+## Latest list — 2026-11-22 21:20 UTC
 
-New extensions published between 2026-11-22 18:21 UTC and 2026-11-22 20:21 UTC.
+New extensions published between 2026-11-22 19:20 UTC and 2026-11-22 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T20-21-02-66453Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T21-20-02-432175Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 19:33:34 | [ChaiMaii.fakescript-vscode](https://marketplace.visualstudio.com/items?itemName=ChaiMaii.fakescript-vscode) | FakeScript | 0.1.1 | Syntax highlighting, language configuration, and snippets for FakeScript (.fks)… |
-| 2026-11-22 19:45:54 | [mahfuz0712.mux-dark](https://marketplace.visualstudio.com/items?itemName=mahfuz0712.mux-dark) | MUX Dark | 1.0.1 | A minimal pure-black VS Code theme with subtle translucent cyan accents. |
-| 2026-11-22 20:11:19 | [AlfonsoFuentes.cli-side-panel-extension](https://marketplace.visualstudio.com/items?itemName=AlfonsoFuentes.cli-side-panel-extension) | CLI Side Panel | 1.0.0 | A simple VS Code extension that opens independent CLI tools and terminals in th… |
-| 2026-11-22 20:17:51 | [RahulChaube.blyx-bowerbird](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-bowerbird) | Blyx Bowerbird | 0.1.0 | Decide whether a proposed numeric-core dependency upgrade fits a declared versi… |
+| 2026-11-22 20:17:56 | [RahulChaube.blyx-bulbul](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-bulbul) | Blyx Bulbul | 0.1.0 | Check required and extra fields in an already parsed object. |
+| 2026-11-22 20:18:01 | [RahulChaube.blyx-bunting](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-bunting) | Blyx Bunting | 0.1.0 | Publish a distribution as a standalone HTML table with interval labels, counts… |
+| 2026-11-22 20:18:06 | [RahulChaube.blyx-chaffinch](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-chaffinch) | Blyx Chaffinch | 0.1.0 | Reconcile sorted collection snapshots without materializing their union. |
+| 2026-11-22 20:18:11 | [RahulChaube.blyx-conformal](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-conformal) | Blyx Conformal | 0.1.0 | Calibrate a regression interval from held-out errors and measure coverage on a… |
+| 2026-11-22 20:18:16 | [RahulChaube.blyx-cormorant](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-cormorant) | Blyx Cormorant | 0.1.0 | Separate variation in packet delivery from a constant difference between clocks. |
+| 2026-11-22 20:30:36 | [kuscamara.inheritsense](https://marketplace.visualstudio.com/items?itemName=kuscamara.inheritsense) | InheritSense | 1.0.0 | Trace JavaScript member origins across class factories and mixins. |
+| 2026-11-22 20:54:49 | [000AG000.promela-spin-toolkit](https://marketplace.visualstudio.com/items?itemName=000AG000.promela-spin-toolkit) | Promela Language Tools | 0.1.0 | Language support for the ProMeLa (Protocol Meta Language) for the model checker… |
+| 2026-11-22 21:03:16 | [eelcoh.punk-lang](https://marketplace.visualstudio.com/items?itemName=eelcoh.punk-lang) | punk-lang | 0.0.0 | punk-lang for VS Code: syntax highlighting, punk fmt on save, and the problems… |
+| 2026-11-22 21:11:14 | [umay-official.umay](https://marketplace.visualstudio.com/items?itemName=umay-official.umay) | Umay: Türkçe Yapay Zeka Kod Asistanı | 1.0.0 | Umay yapay zekası editörünün içinde: sohbet eder, projendeki dosyaları okur, dü… |
 
 ## Data source
 
