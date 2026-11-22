@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T10:18:02.94Z,ryoikarashi.image-pixel-coords,ryoikarashi,Image Pixel Coords,0.1.1,Show the pixel coordinates under the cursor while viewing images.
+2026-11-22T10:35:58.75Z,klcheungaj.hdl-support,klcheungaj,HDL Support,0.4.4,"Language support for Verilog, SystemVerilog, VHDL, Tcl, SDC and XDC"
+2026-11-22T10:40:47.957Z,100-mcrh.mcrh,100-mcrh,MCRH: Minecraft Resourcepack Helper,1.0.0,"Minecraft resource pack tools for textures, PBR maps, models, GUI previews and pack diagnostics."
+2026-11-22T10:51:05.363Z,omegaapi.omegaapi-ai,omegaapi,OmegaAPI AI - Offline AI Agent,1.0.0,"Fully offline AI coding agent — 6 specialized agents, 50+ languages, self-learning memory, autonomous code generation. Works with Ollama, LM Studio, llama-cpp-python, koboldcpp, LocalAI, vLLM, or any OpenAI-compatible AI. No API keys, no cloud, 100% private. Supports Hindi, Hinglish & English. | AI"
+2026-11-22T11:17:35.77Z,synkronyx.synkronyx-dark-blue,synkronyx,Synkronyx Dark Blue,0.2.0,A cool navy and aqua Visual Studio Code colour theme built from the Synkronyx Image palette.
