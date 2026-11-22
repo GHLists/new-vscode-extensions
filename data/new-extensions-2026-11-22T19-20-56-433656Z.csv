@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T18:16:27.98Z,quickdm.qdm-np-4105,quickdm,QDM NP 4105,0.0.1,A test extension.
+2026-11-22T18:20:23.637Z,Xomagat.fab-sharp,Xomagat,FAB#,0.4.0,"Поддержка языка FAB#: подсветка, автодополнение, hover, диагностика, запуск и компиляция."
+2026-11-22T18:26:11.68Z,RahulChava.component-tree-cleaner,RahulChava,React Component Tree Cleaner,0.1.0,"Explore a React component tree, see where every component is used, and safely remove a component or unlink a child from its parent. Review a diff of each change before anything is written."
+2026-11-22T18:38:30.83Z,Aisu.allyproof,Aisu,Allyproof – WCAG 2.2 Accessibility Checker,0.1.1,"Check HTML, React, Vue, Svelte, Angular and Astro code against WCAG 2.2 AA while you type, with optional AI Review. No telemetry, no account."
+2026-11-22T18:40:24.177Z,ashray.bashcoach,ashray,BashCoach,0.1.0,"Coaches you to write safer bash scripts: security linting with explanations, quick fixes and a 126-snippet library"
+2026-11-22T18:54:07.77Z,adesh-lang-org.adesh-vscode,adesh-lang-org,Adesh Language Support,0.3.0,"Visual Studio Code extension for AdeshLang — ALS Language Server, CFG ownership & borrow checking, type inference, ADL manifests, and smart auto-completion."
+2026-11-22T19:02:16.01Z,TagHost.taghost,TagHost,TagHost — Autonomous Edge Cloud & Hosting,1.1.0,"Deploy edge web apps, manage headless collections, and run serverless D1 databases directly from Cursor, Windsurf, and VS Code."
+2026-11-22T19:10:42.963Z,wealthguide.wealthguide-skill-workspace,wealthguide,WealthGuide Skill Workspace,0.1.3,Open the WealthGuide Skill Workspace inside VS Code and Cursor.
