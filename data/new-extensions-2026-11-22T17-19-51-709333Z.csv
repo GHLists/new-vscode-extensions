@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T16:53:39.09Z,pikiby.graphfrontier-vscode,pikiby,GraphFrontier,0.9.7,"Interactive graph workspace for Markdown and codebase vaults with layout saving, pinning, subgraphs, local graph sidebar, and MCP."
+2026-11-22T17:12:15.997Z,kebarko.simis-formatter,kebarko,SimisFormatter,0.1.0,"Formats the text files of Microsoft Train Simulator (MSTS) and Open Rails, such as engines, wagons, consists and activities."
+2026-11-22T17:15:04.697Z,uniolik.claude-usage-by-chat,uniolik,Claude usage by chat (unofficial),0.0.1,"Claude Code usage in the status bar: 5h and weekly limits, and how much each chat uses. Unofficial, not made by Anthropic."
