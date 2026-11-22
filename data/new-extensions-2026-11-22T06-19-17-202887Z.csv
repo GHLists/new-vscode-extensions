@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T05:23:08.82Z,guardian-ai.eigenscope-vscode-pi,guardian-ai,EigenScope for VS Code & Pi,0.2.16,"Protected Pi coding agent inside VS Code with EigenScope zero-tag semantic separation, untrusted tool IPI sanitization, deterministic vault restoration, and a 3-stage protection and reasoning trace inspector."
+2026-11-22T05:31:17.963Z,SteffenBlake.poefilterx,SteffenBlake,PoeFilterX,3.30.70000,PoeFilterX language support and entrypoint selection. Commit 236289003b3b2f42a83b6639077d6b69e084ca0b.
+2026-11-22T05:50:12.627Z,convertpantone.convertpantone-pms-matcher,convertpantone,ConvertPantone - Free Pantone (PMS) Color Matcher,1.0.0,"Instantly match HEX codes to 4,280+ Pantone (PMS) Coated & Uncoated swatches using D65 CIEDE2000 directly inside VS Code."
+2026-11-22T06:06:12.79Z,ShunsukeF.waza,ShunsukeF,Waza - One-Click Skill Compiler,0.1.1,"Compile an explicitly selected AI workflow into a reusable Agent Skill with a deterministic script, preview, and validation gates."
+2026-11-22T06:10:06.21Z,gablooge.punk-records,gablooge,Punk Records,0.1.0,"Sync status, commands, conflict diffs and a memories sidebar for Punk Records (CLAUDE.md, AGENTS.md, napkins, rules across projects and machines)."
+2026-11-22T06:10:33.813Z,SchemaSafeNoSQL.schemasafe-vscode,SchemaSafeNoSQL,SchemaSafe NoSQL,1.1.0,Analiza cambios de esquema NoSQL en modo solo lectura y muestra riesgo y procedencia.
