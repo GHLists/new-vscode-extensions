@@ -12,25 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 13:21 UTC
+## Latest list — 2026-11-22 14:20 UTC
 
-New extensions published between 2026-11-22 11:21 UTC and 2026-11-22 13:21 UTC.
+New extensions published between 2026-11-22 12:20 UTC and 2026-11-22 14:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T13-21-07-352735Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T14-20-58-334357Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 12:40:39 | [nosparetime.sequencediagramorg](https://marketplace.visualstudio.com/items?itemName=nosparetime.sequencediagramorg) | SequenceDiagram.org for VS Code | 9.19.0 | Sequence and architecture diagrams from text, edited as text and on the canvas. |
-| 2026-11-22 12:41:20 | [zovo.zovo-qfx-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-qfx-viewer) | QFX OFX Statement Viewer | 0.1.0 | Open Quicken .qfx and QuickBooks .qbo bank statements in VS Code: transactions,… |
-| 2026-11-22 12:43:57 | [promptlio.promptlio-context](https://marketplace.visualstudio.com/items?itemName=promptlio.promptlio-context) | Promptlio Project Context | 0.1.1 | Save project context and bring it into your next AI session. |
-| 2026-11-22 12:50:33 | [Adliance.qmdoc-preview](https://marketplace.visualstudio.com/items?itemName=Adliance.qmdoc-preview) | QmDoc Preview | 1.0.1 | Live preview of Markdown files as rendered by QmDoc (Adliance.QmDoc), with the… |
-| 2026-11-22 12:52:13 | [MaximeLefrancois.sparql-generate](https://marketplace.visualstudio.com/items?itemName=MaximeLefrancois.sparql-generate) | SPARQL-Generate | 0.1.0 | SPARQL-Generate (.rqg): highlighting, snippets, and running queries with the en… |
-| 2026-11-22 12:56:45 | [zovo.zovo-exo-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-exo-viewer) | Exodus II File Viewer | 0.1.0 | Open Exodus II .exo mesh datasets in VS Code: blocks, node sets, side sets and… |
-| 2026-11-22 13:00:32 | [zovo.zovo-scc-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-scc-viewer) | SCC Caption Viewer | 0.1.0 | Open Scenarist .scc closed caption files in VS Code: decoded captions with time… |
-| 2026-11-22 13:03:46 | [kaptenamv.petal-memory](https://marketplace.visualstudio.com/items?itemName=kaptenamv.petal-memory) | PeTal Memory | 2.0.0 | Never lose your project. Never lose to AI mistakes. |
-| 2026-11-22 13:11:28 | [zovo.zovo-ach-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-ach-viewer) | NACHA ACH File Viewer | 0.1.0 | Open NACHA .ach payment files in VS Code: batches, entries, addenda and totals,… |
-| 2026-11-22 13:13:37 | [stefantasie.claude-pets](https://marketplace.visualstudio.com/items?itemName=stefantasie.claude-pets) | Claude Pets | 0.2.4 | A pixel pet that lives on the Claude Code prompt box and reacts to what Claude… |
-| 2026-11-22 13:15:25 | [marroxo.edgar-spojenie](https://marketplace.visualstudio.com/items?itemName=marroxo.edgar-spojenie) | Edgar++ | 0.3.9 | Sinkronizira lokalni C kod s Edgarovim uređivačem i pokreće lokalne provjere pr… |
+| 2026-11-22 13:19:05 | [jstrullu.readable-tests](https://marketplace.visualstudio.com/items?itemName=jstrullu.readable-tests) | Readable Tests | 0.4.0 | Readable test results for .NET and JavaScript: TUnit / Microsoft.Testing.Platfo… |
+| 2026-11-22 13:27:05 | [zovo.zovo-xbrl-viewer](https://marketplace.visualstudio.com/items?itemName=zovo.zovo-xbrl-viewer) | XBRL Report Viewer | 0.1.0 | Open XBRL financial reports in VS Code: facts with contexts, units and periods,… |
+| 2026-11-22 13:28:46 | [eduardo239.neon-kiroshi](https://marketplace.visualstudio.com/items?itemName=eduardo239.neon-kiroshi) | N3on Kiroshi | 1.0.1 | Temas escuros inspirados em Cyberpunk 2077: Neon Kiroshi (neon amarelo e ciano)… |
+| 2026-11-22 14:04:35 | [kiiyaaa.codequest-vscode-tour](https://marketplace.visualstudio.com/items?itemName=kiiyaaa.codequest-vscode-tour) | CodeQuest: Your VS Code Tour Guide | 0.1.0 | A friendly tour for VS Code beginners. It highlights each part of the real wind… |
+| 2026-11-22 14:11:27 | [SohamTilekar.llvm-ir-advance](https://marketplace.visualstudio.com/items?itemName=SohamTilekar.llvm-ir-advance) | LLVM IR Advance | 0.1.0 | Advanced LLVM IR Language Server, SSA Def-Use analysis, CFG visualizer & diagno… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T13:19:05.58Z,jstrullu.readable-tests,jstrullu,Readable Tests,0.4.0,"Readable test results for .NET and JavaScript: TUnit / Microsoft.Testing.Platform, xUnit, NUnit, MSTest, Vitest, Jest, Angular CLI. Expected/actual diff, code excerpt, clean stack traces, inline errors, fast runs."
+2026-11-22T13:27:05.81Z,zovo.zovo-xbrl-viewer,zovo,XBRL Report Viewer,0.1.0,"Open XBRL financial reports in VS Code: facts with contexts, units and periods, read locally with nothing to install."
+2026-11-22T13:28:46.697Z,eduardo239.neon-kiroshi,eduardo239,N3on Kiroshi,1.0.1,"Temas escuros inspirados em Cyberpunk 2077: Neon Kiroshi (neon amarelo e ciano), Neon Kiroshi Mint (suave, verde-menta), Neon Kiroshi Cherry (suave, rosa-cereja) e Neon Kiroshi Noir (somente tons de cinza)."
+2026-11-22T14:04:35.407Z,kiiyaaa.codequest-vscode-tour,kiiyaaa,CodeQuest: Your VS Code Tour Guide,0.1.0,"A friendly tour for VS Code beginners. It highlights each part of the real window, answers ""How do I…?"" questions, and lets you make your own colours."
+2026-11-22T14:11:27.41Z,SohamTilekar.llvm-ir-advance,SohamTilekar,LLVM IR Advance,0.1.0,"Advanced LLVM IR Language Server, SSA Def-Use analysis, CFG visualizer & diagnostics"
