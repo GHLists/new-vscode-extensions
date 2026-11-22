@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T02:40:20.387Z,goatedcode.safercode,goatedcode,safercode,0.4.0,"Your AI agent learns what to watch for in your kind of app, and has to flag every security decision to you before it makes the change. Python, JavaScript, TypeScript, C and C++. Claude Code, Codex and Copilot are refused a change that wasn't flagged; each decision is recorded where it happened."
+2026-11-22T02:40:34.583Z,goatedcode.strictercode,goatedcode,strictercode,0.4.0,"Make your AI agent prove every function it writes, with tests that would catch a real bug, kept in your repo. Python, JavaScript, TypeScript, C and C++. Claude Code isn't allowed to finish until they pass, or to delete them."

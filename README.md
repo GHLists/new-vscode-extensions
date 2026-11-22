@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 02:19 UTC
+## Latest list — 2026-11-22 03:20 UTC
 
-New extensions published between 2026-11-22 00:19 UTC and 2026-11-22 02:19 UTC.
+New extensions published between 2026-11-22 01:20 UTC and 2026-11-22 03:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T02-19-03-828847Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T03-20-42-031011Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 01:23:51 | [geb-algebra.simplegtd](https://marketplace.visualstudio.com/items?itemName=geb-algebra.simplegtd) | Simple GTD for Markdown | 0.0.1 | Manage tasks in plain Markdown lists. |
-| 2026-11-22 01:41:22 | [marc14444.query-autopsy](https://marketplace.visualstudio.com/items?itemName=marc14444.query-autopsy) | QueryAutopsy | 1.6.0 | X-Ray your PostgreSQL, MySQL, and SQLite queries inside VS Code. Inspect EXPLAI… |
-| 2026-11-22 01:55:16 | [amr-io.ansible-lens](https://marketplace.visualstudio.com/items?itemName=amr-io.ansible-lens) | Ansible Lens | 0.1.2 | Fast Ansible language server, IntelliSense, and <20ms linter for YAML & Jinja2.… |
-| 2026-11-22 02:01:52 | [GabrielCamara3526.right-click-delete](https://marketplace.visualstudio.com/items?itemName=GabrielCamara3526.right-click-delete) | Right Click Delete | 1.0.0 | Delete any piece of text with the mouse |
+| 2026-11-22 02:40:20 | [goatedcode.safercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.safercode) | safercode | 0.4.0 | Your AI agent learns what to watch for in your kind of app, and has to flag eve… |
+| 2026-11-22 02:40:34 | [goatedcode.strictercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.strictercode) | strictercode | 0.4.0 | Make your AI agent prove every function it writes, with tests that would catch… |
 
 ## Data source
 
