@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T19:33:34.69Z,ChaiMaii.fakescript-vscode,ChaiMaii,FakeScript,0.1.1,"Syntax highlighting, language configuration, and snippets for FakeScript (.fks) — the strictly zero-symbol AOT programming language."
+2026-11-22T19:45:54.61Z,mahfuz0712.mux-dark,mahfuz0712,MUX Dark,1.0.1,A minimal pure-black VS Code theme with subtle translucent cyan accents.
+2026-11-22T20:11:19.527Z,AlfonsoFuentes.cli-side-panel-extension,AlfonsoFuentes,CLI Side Panel,1.0.0,A simple VS Code extension that opens independent CLI tools and terminals in the secondary side bar with custom commands.
+2026-11-22T20:17:51.88Z,RahulChaube.blyx-bowerbird,RahulChaube,Blyx Bowerbird,0.1.0,Decide whether a proposed numeric-core dependency upgrade fits a declared version range.
