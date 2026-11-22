@@ -12,18 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 01:19 UTC
+## Latest list — 2026-11-22 02:19 UTC
 
-New extensions published between 2026-11-21 23:19 UTC and 2026-11-22 01:19 UTC.
+New extensions published between 2026-11-22 00:19 UTC and 2026-11-22 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T01-19-34-996978Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T02-19-03-828847Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 00:21:35 | [Arviixzuh.mlp-fim-themes](https://marketplace.visualstudio.com/items?itemName=Arviixzuh.mlp-fim-themes) | Visual Studio Code MLP Themes | 1.0.0 | A Catppuccin-inspired pastel dark theme collection featuring the Mane 6 and the… |
-| 2026-11-22 00:42:05 | [freevideoai-app.freevideoai-shot-plan](https://marketplace.visualstudio.com/items?itemName=freevideoai-app.freevideoai-shot-plan) | FreeVideo AI Shot Plan Validator | 0.1.0 | Check a video shot plan in the active JSON document, including reference counts… |
-| 2026-11-22 00:51:35 | [abdelfattahradwan.estamba](https://marketplace.visualstudio.com/items?itemName=abdelfattahradwan.estamba) | Estamba | 1.0.0 | Adds Estamba template support to VS Code: error checking, completion, hover doc… |
-| 2026-11-22 01:02:33 | [switchblade34.oxford-brookes-racing-autonomous-theme](https://marketplace.visualstudio.com/items?itemName=switchblade34.oxford-brookes-racing-autonomous-theme) | Oxford Brookes Racing Autonomous Theme | 1.0.0 | Dark and Light themes for Oxford Brookes Racing Autonomous (OBRA), built from t… |
+| 2026-11-22 01:23:51 | [geb-algebra.simplegtd](https://marketplace.visualstudio.com/items?itemName=geb-algebra.simplegtd) | Simple GTD for Markdown | 0.0.1 | Manage tasks in plain Markdown lists. |
+| 2026-11-22 01:41:22 | [marc14444.query-autopsy](https://marketplace.visualstudio.com/items?itemName=marc14444.query-autopsy) | QueryAutopsy | 1.6.0 | X-Ray your PostgreSQL, MySQL, and SQLite queries inside VS Code. Inspect EXPLAI… |
+| 2026-11-22 01:55:16 | [amr-io.ansible-lens](https://marketplace.visualstudio.com/items?itemName=amr-io.ansible-lens) | Ansible Lens | 0.1.2 | Fast Ansible language server, IntelliSense, and <20ms linter for YAML & Jinja2.… |
+| 2026-11-22 02:01:52 | [GabrielCamara3526.right-click-delete](https://marketplace.visualstudio.com/items?itemName=GabrielCamara3526.right-click-delete) | Right Click Delete | 1.0.0 | Delete any piece of text with the mouse |
 
 ## Data source
 

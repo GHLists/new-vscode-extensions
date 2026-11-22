@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T01:23:51.027Z,geb-algebra.simplegtd,geb-algebra,Simple GTD for Markdown,0.0.1,Manage tasks in plain Markdown lists.
+2026-11-22T01:41:22.037Z,marc14444.query-autopsy,marc14444,QueryAutopsy,1.6.0,"X-Ray your PostgreSQL, MySQL, and SQLite queries inside VS Code. Inspect EXPLAIN execution plans, catch Full Table Scans, buffer bottlenecks, and row misestimates."
+2026-11-22T01:55:16.943Z,amr-io.ansible-lens,amr-io,Ansible Lens,0.1.2,"Fast Ansible language server, IntelliSense, and <20ms linter for YAML & Jinja2. Zero Python, WSL, or Docker."
+2026-11-22T02:01:52.96Z,GabrielCamara3526.right-click-delete,GabrielCamara3526,Right Click Delete,1.0.0,Delete any piece of text with the mouse
