@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T17:17:34.06Z,Buggypather.view-me-claude,Buggypather,View Me Claude,0.2.0,"A light panel beside Claude Code: your phones (adb), running Claude agents and builds, plan usage, servers your agents started, and recent sessions to resume."
+2026-11-22T17:30:17.577Z,xKiro.xkcode,xKiro,xKCode,0.2.0,"AI coding agent in your side bar: it plans changes, edits files and runs commands with your approval. Sign in with xKiro or bring your own model keys."
+2026-11-22T17:50:40.09Z,serge45-md-draw.amdgpu-isa-support,serge45-md-draw,AMDGPU ISA Language Support,0.1.1,"Syntax highlighting, ISA instruction hover documentation, and go-to-definition for AMD GCN/CDNA/RDNA assembly (.s, .S, .gcn)."
+2026-11-22T18:13:21.75Z,quickdm.qdm-probe-7391,quickdm,QDM Probe 7391,0.0.5,A minimal test extension that shows a hello message.
+2026-11-22T18:16:07.543Z,quickdm.qdm-np-4103,quickdm,QDM NP 4103,0.0.1,A minimal test extension that shows a hello message.
+2026-11-22T18:16:54.57Z,quickdm.qdm-np-4108,quickdm,QDM NP 4108,0.0.1,"A free Kanban and Scrum board inside VS Code. Plan sprints, assign tasks, connect commits to tasks, post progress updates for non-code work, and see team contributions."
