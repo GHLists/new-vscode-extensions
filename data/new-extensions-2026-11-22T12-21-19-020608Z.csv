@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T11:21:28.327Z,FosteIT.fostry,FosteIT,Fostry,0.2.0,Edit and run Fostry's scripts in VS Code — each save a new revision in Fostry.
+2026-11-22T11:23:06.217Z,OpenLamda-RED.lamda-red-vscode-preview,OpenLamda-RED,Lamda RED VSCode Diagram Preview,1.1.0,Preview Drizzle requirements diagrams beside the source editor on save.
+2026-11-22T11:38:55.007Z,Garrard.mcp-tool-xplorer,Garrard,MCP Tool Xplorer,0.1.17,"Browse tools from the MCP servers configured in VS Code, inspect each tool's icon, parameter datatypes, and response schema, try a tool from a parameter dialog, and connect a machine-to-machine client credentials grant."
+2026-11-22T11:39:31.07Z,slates-build.slates-extension,slates-build,Slate Build,0.1.16,"Generate Ninja files and browse, build, test, and run Slate targets."
+2026-11-22T11:49:36.163Z,mbiakop94.hello-clint,mbiakop94,hello-clint,0.0.1,hello-clint
+2026-11-22T11:50:37.72Z,janar153.dbml-extension,janar153,DBML Extension,2.0.1,"Create and edit DBML database and architecture diagrams in VS Code. Share Git-friendly layouts and export PostgreSQL SQL, TypeORM, SVG, and PNG."
+2026-11-22T11:53:24.467Z,x-ror.alder,x-ror,"Alder: Ruby Templates (ERB, Haml, Slim)",1.1.2,"Rails view tooling for ERB, Haml and Slim: highlighting, errors as you type, safe formatting, and Rails-aware go to partial, completion and hover for components, routes, ivars and i18n."
+2026-11-22T11:59:10.317Z,humanmode.human-mode,humanmode,Human Mode,0.1.0,"Turn it on and AI stops writing: it hints, explains and reviews while you drive."
+2026-11-22T12:09:46.683Z,k19.risc-v-harness-vscode,k19,RISC-V Harness,0.1.0,"Language server and debugger for RISC-V assembly: hover, quick fixes, completion and instruction-level stepping."
+2026-11-22T12:12:01.433Z,zovo.zovo-qif-viewer,zovo,QIF File Viewer,0.1.0,"Open Quicken .qif ledgers in VS Code: transactions, splits, category totals and the signed balance, read locally with nothing to install."
+2026-11-22T12:14:41.75Z,SamMain.markdown-wordcount-extension,SamMain,markdown-wordcount-extension,0.0.1,A simple way to count all uncommented words in a markdown document.
