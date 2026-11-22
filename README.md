@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 03:20 UTC
+## Latest list — 2026-11-22 04:19 UTC
 
-New extensions published between 2026-11-22 01:20 UTC and 2026-11-22 03:20 UTC.
+New extensions published between 2026-11-22 02:19 UTC and 2026-11-22 04:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T03-20-42-031011Z.csv)
+[Full CSV](data/new-extensions-2026-11-22T04-19-27-684805Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 02:40:20 | [goatedcode.safercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.safercode) | safercode | 0.4.0 | Your AI agent learns what to watch for in your kind of app, and has to flag eve… |
-| 2026-11-22 02:40:34 | [goatedcode.strictercode](https://marketplace.visualstudio.com/items?itemName=goatedcode.strictercode) | strictercode | 0.4.0 | Make your AI agent prove every function it writes, with tests that would catch… |
+| 2026-11-22 04:10:27 | [EOF.selection-translator-extension](https://marketplace.visualstudio.com/items?itemName=EOF.selection-translator-extension) | Easy Translate | 0.0.1 | Easy Translate (ET)：在 VS Code 编辑器中翻译选区，支持 OpenAI 兼容接口、有道、百度、DeepL 和 Google。 |
+| 2026-11-22 04:12:44 | [renatorroliveira.vscode-a11ly-matrix-theme](https://marketplace.visualstudio.com/items?itemName=renatorroliveira.vscode-a11ly-matrix-theme) | A11y Matrix Theme | 0.1.0 | An accessibility-first high contrast dark theme for VS Code with build-time WCA… |
 
 ## Data source
 
