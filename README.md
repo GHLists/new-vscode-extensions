@@ -12,16 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 06:20 UTC
+## Latest list — 2026-11-23 07:19 UTC
 
-New extensions published between 2026-11-23 04:20 UTC and 2026-11-23 06:20 UTC.
+New extensions published between 2026-11-23 05:19 UTC and 2026-11-23 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T06-20-40-27612Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T07-19-38-428424Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 05:19:26 | [Ashin06.vibeaudit](https://marketplace.visualstudio.com/items?itemName=Ashin06.vibeaudit) | vibeaudit | 0.11.3 | Security and quality findings for AI-built and LLM apps, with one-click fixes,… |
-| 2026-11-23 05:48:56 | [Tayari24.lottie-view](https://marketplace.visualstudio.com/items?itemName=Tayari24.lottie-view) | Lottie View | 1.0.0 | Instantly preview .lottie and Lottie JSON animations inside VS Code — playback… |
+| 2026-11-23 06:20:43 | [CodingHUB.ai-tech-hub-vscode-plugin](https://marketplace.visualstudio.com/items?itemName=CodingHUB.ai-tech-hub-vscode-plugin) | Coding HUB 助手 (争舻) | 1.0.20261105 | ???? AI ????,????????Agent?Skills ? MCP,? VS Code ??????????????????? |
+| 2026-11-23 06:22:45 | [waszdy.mindmap-waszdy](https://marketplace.visualstudio.com/items?itemName=waszdy.mindmap-waszdy) | Mind Map by waszdy | 1.0.0 | A powerful visual mind map editor with drag-to-pan canvas support |
+| 2026-11-23 06:22:54 | [GuyAnonymous.icns-file-viewer](https://marketplace.visualstudio.com/items?itemName=GuyAnonymous.icns-file-viewer) | ICNS Viewer | 1.0.0 | Adds an image preview for .icns files |
+| 2026-11-23 06:27:54 | [Miaoo.codevocab](https://marketplace.visualstudio.com/items?itemName=Miaoo.codevocab) | CodeVocab · 码上背单词 | 0.1.0 | 写代码时在后台朗读单词和中文释义，状态栏同步显示词性和意思。内置四六级、考研、雅思、托福、GRE 词库。Listen to vocabulary while… |
+| 2026-11-23 06:36:40 | [santu-dev.portwise](https://marketplace.visualstudio.com/items?itemName=santu-dev.portwise) | Portwise: Codex Account & Provider Swit… | 0.1.0 | Switch Codex accounts and manage OpenAI-compatible providers, with a local gate… |
+| 2026-11-23 06:47:26 | [AdityaaKulkarni.truecase](https://marketplace.visualstudio.com/items?itemName=AdityaaKulkarni.truecase) | TrueCase | 1.0.0 | Fixes the casing of your code as you type. Keywords, standard library names and… |
+| 2026-11-23 06:48:14 | [grcxai.codeguard-grcxai](https://marketplace.visualstudio.com/items?itemName=grcxai.codeguard-grcxai) | CodeGuard by GRCxAI | 0.2.27 | Deep Audits of your code on your own machine, with your own Claude Code or Code… |
+| 2026-11-23 06:55:33 | [ombarmaiya.devnest-extension](https://marketplace.visualstudio.com/items?itemName=ombarmaiya.devnest-extension) | Devnest | 1.0.0 | UI-First Project Generator for full-stack modern web applications |
 
 ## Data source
 

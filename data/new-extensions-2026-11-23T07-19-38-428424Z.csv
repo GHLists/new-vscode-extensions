@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T06:20:43.007Z,CodingHUB.ai-tech-hub-vscode-plugin,CodingHUB,Coding HUB 助手 (争舻),1.0.20261105,"???? AI ????,????????Agent?Skills ? MCP,? VS Code ???????????????????"
+2026-11-23T06:22:45.333Z,waszdy.mindmap-waszdy,waszdy,Mind Map by waszdy,1.0.0,A powerful visual mind map editor with drag-to-pan canvas support
+2026-11-23T06:22:54.74Z,GuyAnonymous.icns-file-viewer,GuyAnonymous,ICNS Viewer,1.0.0,Adds an image preview for .icns files
+2026-11-23T06:27:54.247Z,Miaoo.codevocab,Miaoo,CodeVocab · 码上背单词,0.1.0,写代码时在后台朗读单词和中文释义，状态栏同步显示词性和意思。内置四六级、考研、雅思、托福、GRE 词库。Listen to vocabulary while you code.
+2026-11-23T06:36:40.64Z,santu-dev.portwise,santu-dev,Portwise: Codex Account & Provider Switcher,0.1.0,"Switch Codex accounts and manage OpenAI-compatible providers, with a local gateway that stays on the right port."
+2026-11-23T06:47:26.22Z,AdityaaKulkarni.truecase,AdityaaKulkarni,TrueCase,1.0.0,"Fixes the casing of your code as you type. Keywords, standard library names and your own identifiers snap to their correct case the moment you finish a word. No suggestions to accept, no Tab to press."
+2026-11-23T06:48:14.247Z,grcxai.codeguard-grcxai,grcxai,CodeGuard by GRCxAI,0.2.27,"Deep Audits of your code on your own machine, with your own Claude Code or Codex, linked to CodeGuard."
+2026-11-23T06:55:33.043Z,ombarmaiya.devnest-extension,ombarmaiya,Devnest,1.0.0,UI-First Project Generator for full-stack modern web applications
