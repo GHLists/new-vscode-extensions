@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T14:18:45.37Z,Christian879.spyglass-web,Christian879,Spyglass Web (inoffizieller Fork),0.1.0,Heavy language features for Minecraft: Java Edition data pack files
+2026-11-23T14:33:09.79Z,nabi-lang.nabi,nabi-lang,Nabi,0.1.0,Nabi language support: syntax highlighting and the nabils language server
+2026-11-23T15:04:13.263Z,Aminedjeddi.delta-lens,Aminedjeddi,Delta Lens — Delta Table Viewer,0.4.0,"Visualisez vos tables Delta Lake (spark-warehouse) dans VS Code, sans Spark : données, schéma, historique, time travel, diff et aides Data Vault 2.0."
+2026-11-23T15:04:21.603Z,LucasSerafim.svn-extension,LucasSerafim,GeckoSVN,0.0.1,"Subversion no VS Code: tela de commit completa, log detalhado, blame, editor de conflitos e propriedades, tudo dentro do editor."
