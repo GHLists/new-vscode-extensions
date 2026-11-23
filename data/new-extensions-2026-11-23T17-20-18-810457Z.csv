@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T16:18:14.563Z,akhmadaliyev082.my-notes,akhmadaliyev082,My Notes,0.2.0,Personal notes and cheatsheets to copy text directly within VS Code
+2026-11-23T16:35:55.367Z,vedic.vedic,vedic,Vedic Code Formatter,2.1.1,Format Vedic source and run programs from Visual Studio Code using the Vedic CLI.
+2026-11-23T16:39:34.823Z,plaitcode.plaitcode,plaitcode,PlaitCode,0.5.0,"A secure coding agent for VS Code with DeepSeek: approval-controlled workspace tools, plan-tracking task lists, copyable local/server commands and durable local history."
+2026-11-23T16:41:28.85Z,EngineerSmith.luajit-2-1-syntax,EngineerSmith,LuaJIT 2.1 Syntax,1.0.0,Adds syntax highlighting for extra LuaJIT keywords and operators.
+2026-11-23T16:42:09.28Z,kuza.kuza-vscode,kuza,Kuza,0.5.7,"Kuza language support: syntax, completions, hovers and run"
+2026-11-23T16:47:19.16Z,Eradani.eradani-devops,Eradani,Eradani DevOps,1.3.0,Eradani DevOps access for VSCode / IBM i
+2026-11-23T16:50:09.5Z,zutsiy.pcs,zutsiy,PCS — Project Control,1.39.0,"PCS sync status, commit, pull, locks and conflicts inside VS Code; needs the PCS desktop app. · PCS holati, commit, pull, qulf va konfliktlar VS Code ichida; PCS desktop dasturi kerak."
+2026-11-23T16:59:01.803Z,wavecoders.specwatch,wavecoders,Specwatch,0.0.26,"Watch what an AI agent does at each stage of an OpenSpec change, live in VS Code."
+2026-11-23T17:01:21.133Z,MichaelPaulus.git-repository-window,MichaelPaulus,Git Repository Window,0.2.0,"A Visual Studio style Git Repository window for VS Code: branches, tags, stashes, worktrees, submodules, commit graph, incoming/outgoing history and commit details."

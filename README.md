@@ -12,28 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 16:19 UTC
+## Latest list — 2026-11-23 17:20 UTC
 
-New extensions published between 2026-11-23 14:19 UTC and 2026-11-23 16:19 UTC.
+New extensions published between 2026-11-23 15:20 UTC and 2026-11-23 17:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T16-19-26-442082Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T17-20-18-810457Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 15:16:48 | [llm-quay.local-llm-agent](https://marketplace.visualstudio.com/items?itemName=llm-quay.local-llm-agent) | LLM Quay | 0.8.4 | Coding agent for local and OpenAI-compatible models, with file tools, diff revi… |
-| 2026-11-23 15:17:26 | [opentide.opentide-vscode](https://marketplace.visualstudio.com/items?itemName=opentide.opentide-vscode) | opentide for VS Code | 0.3.3 | The opentide workbench for detection engineering: live checks for Tide objects… |
-| 2026-11-23 15:33:04 | [tms-outsource.clearsight-theme](https://marketplace.visualstudio.com/items?itemName=tms-outsource.clearsight-theme) | Clearsight | 0.1.0 | A calm, readable theme. Every syntax color, comments included, passes WCAG AA c… |
-| 2026-11-23 15:39:08 | [SeakKimhour.env-safety](https://marketplace.visualstudio.com/items?itemName=SeakKimhour.env-safety) | Env Safety — post-quantum secret lock f… | 0.8.0 | Encrypts .env and other secret files (any language) with ML-KEM-768 + X25519 wh… |
-| 2026-11-23 15:46:19 | [alexnguyen.cafe-snippets](https://marketplace.visualstudio.com/items?itemName=alexnguyen.cafe-snippets) | Cafe Menu Code Snippets | 1.0.1 | Bo code snippets cho CafeMenuApp. Go on-TenTrang de tu dong chen toan bo code. |
-| 2026-11-23 15:50:58 | [alexnguyen.react-native-typescript-snippet-flash](https://marketplace.visualstudio.com/items?itemName=alexnguyen.react-native-typescript-snippet-flash) | React Native typescript snippet flash | 1.0.1 | React Native TypeScript snippet flash - Go on-TenTrang hoac on-install de tu do… |
-| 2026-11-23 15:56:18 | [DenysDavydov.hoverdeck-promo](https://marketplace.visualstudio.com/items?itemName=DenysDavydov.hoverdeck-promo) | HoverDeck🏆 AI Agent + Browser + MCP + C… | 1.0.8 | One deck for all your AI agents: Claude Code, Codex, Gemini, OpenCode, Pi, Open… |
-| 2026-11-23 16:04:06 | [r11s.vim-colorschemes](https://marketplace.visualstudio.com/items?itemName=r11s.vim-colorschemes) | Vim Colorschemes | 1.0.0 | The color schemes of Vim 9.2 for VS Code and VSCodium, generated automatically… |
-| 2026-11-23 16:07:16 | [remote-agents.rem-agents](https://marketplace.visualstudio.com/items?itemName=remote-agents.rem-agents) | Remote Agents: Copilot Chat on Your Pho… | 1.3.1 | Use GitHub Copilot Chat from your phone: approve tool calls, answer questions a… |
-| 2026-11-23 16:07:56 | [StartFrom.packman](https://marketplace.visualstudio.com/items?itemName=StartFrom.packman) | Packman | 1.1.0 | Script runners and dependency intelligence right inside your package.json. |
-| 2026-11-23 16:09:49 | [yup-audio.vscode-yui](https://marketplace.visualstudio.com/items?itemName=yup-audio.vscode-yui) | YUI - YUP UI Language | 2.0.1 | Syntax highlighting, snippets, diagnostics, completions, navigation, live previ… |
-| 2026-11-23 16:10:47 | [ShitaoLi.devops-connector](https://marketplace.visualstudio.com/items?itemName=ShitaoLi.devops-connector) | DevOps Connector | 0.2.1 | Import, track and safely synchronize Azure DevOps work items as local Markdown. |
-| 2026-11-23 16:15:27 | [nimble-123.abap-origami](https://marketplace.visualstudio.com/items?itemName=nimble-123.abap-origami) | origami – ABAP & CDS formatter | 0.2.1 | Layout-only formatter for ABAP, CDS views, metadata extensions, access controls… |
-| 2026-11-23 16:15:30 | [AryanDevTools.teamboard](https://marketplace.visualstudio.com/items?itemName=AryanDevTools.teamboard) | TeamBoard | 0.2.1 | A simple task board for teams inside VS Code. Plan sprints, assign tasks, link… |
+| 2026-11-23 16:18:14 | [akhmadaliyev082.my-notes](https://marketplace.visualstudio.com/items?itemName=akhmadaliyev082.my-notes) | My Notes | 0.2.0 | Personal notes and cheatsheets to copy text directly within VS Code |
+| 2026-11-23 16:35:55 | [vedic.vedic](https://marketplace.visualstudio.com/items?itemName=vedic.vedic) | Vedic Code Formatter | 2.1.1 | Format Vedic source and run programs from Visual Studio Code using the Vedic CL… |
+| 2026-11-23 16:39:34 | [plaitcode.plaitcode](https://marketplace.visualstudio.com/items?itemName=plaitcode.plaitcode) | PlaitCode | 0.5.0 | A secure coding agent for VS Code with DeepSeek: approval-controlled workspace… |
+| 2026-11-23 16:41:28 | [EngineerSmith.luajit-2-1-syntax](https://marketplace.visualstudio.com/items?itemName=EngineerSmith.luajit-2-1-syntax) | LuaJIT 2.1 Syntax | 1.0.0 | Adds syntax highlighting for extra LuaJIT keywords and operators. |
+| 2026-11-23 16:42:09 | [kuza.kuza-vscode](https://marketplace.visualstudio.com/items?itemName=kuza.kuza-vscode) | Kuza | 0.5.7 | Kuza language support: syntax, completions, hovers and run |
+| 2026-11-23 16:47:19 | [Eradani.eradani-devops](https://marketplace.visualstudio.com/items?itemName=Eradani.eradani-devops) | Eradani DevOps | 1.3.0 | Eradani DevOps access for VSCode / IBM i |
+| 2026-11-23 16:50:09 | [zutsiy.pcs](https://marketplace.visualstudio.com/items?itemName=zutsiy.pcs) | PCS — Project Control | 1.39.0 | PCS sync status, commit, pull, locks and conflicts inside VS Code; needs the PC… |
+| 2026-11-23 16:59:01 | [wavecoders.specwatch](https://marketplace.visualstudio.com/items?itemName=wavecoders.specwatch) | Specwatch | 0.0.26 | Watch what an AI agent does at each stage of an OpenSpec change, live in VS Cod… |
+| 2026-11-23 17:01:21 | [MichaelPaulus.git-repository-window](https://marketplace.visualstudio.com/items?itemName=MichaelPaulus.git-repository-window) | Git Repository Window | 0.2.0 | A Visual Studio style Git Repository window for VS Code: branches, tags, stashe… |
 
 ## Data source
 
