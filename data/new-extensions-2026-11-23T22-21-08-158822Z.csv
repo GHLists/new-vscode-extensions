@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T21:26:52.153Z,nandwright.nandwright,nandwright,"Nandwright: Nand2Tetris IDE (HDL, Hack Assembly, VM, Jack)",0.3.1,"Run, test and debug every Nand2Tetris project inside VS Code: hardware simulator for HDL chips, test scripts (.tst) in the Testing view, Hack assembler and CPU emulator, VM emulator, Jack compiler, screen and keyboard. No Java, nothing else to install."
+2026-11-23T21:28:13.787Z,l2m.vscode-l2m-agent,l2m,L2M Agent,0.1.0,"A coding and data agent in VS Code, backed by workflows on your own self-hosted L2M server."
+2026-11-23T21:28:56.927Z,ThalesoMilas.vsofx,ThalesoMilas,VsOfx,0.25.0,"View and edit Office documents (.docx .xlsx .pptx .odt .ods .odp .odg), CSV tables and PDF forms in VS Code. Sandboxed, no network."
+2026-11-23T21:29:29.77Z,fischeti.astli,fischeti,astli,0.7.0,"SystemVerilog and Verilog through astli's language server: problems, formatting, navigation, hover and inlay hints"
+2026-11-23T21:31:38.11Z,DevCode15.terminal-folders,DevCode15,Terminal Folders,0.1.0,Organize os terminais do VS Code em pastas.
+2026-11-23T21:36:29.977Z,PrasanthPrasad.oci-function-tools,PrasanthPrasad,OCI Code-only Function Tools,0.2.3,"Create, package, deploy, and invoke Python OCI Code-only Functions."
+2026-11-23T21:38:21.12Z,DestyNova.review-bridge,DestyNova,Reply Notes,0.7.2,"Quote AI answers, write paragraph-level replies, and continue Codex or Claude conversations in one VS Code workspace."
+2026-11-23T22:00:32.46Z,goleedev.review-pins,goleedev,Review Pins,0.1.0,Keep code questions and notes local. Carry unresolved questions into your next coding session.
+2026-11-23T22:01:03.963Z,maratib.twarp,maratib,TWarp,0.0.3,"Warp-style block terminal inside VS Code. Brings Warp's command blocks, blinking prompt, Up-arrow history overlay, smart autocomplete, and Warp history sync into your bottom panel."
