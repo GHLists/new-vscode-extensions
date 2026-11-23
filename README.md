@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 22:21 UTC
+## Latest list — 2026-11-23 23:19 UTC
 
-New extensions published between 2026-11-23 20:21 UTC and 2026-11-23 22:21 UTC.
+New extensions published between 2026-11-23 21:19 UTC and 2026-11-23 23:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T22-21-08-158822Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T23-19-13-72226Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 21:26:52 | [nandwright.nandwright](https://marketplace.visualstudio.com/items?itemName=nandwright.nandwright) | Nandwright: Nand2Tetris IDE (HDL, Hack… | 0.3.1 | Run, test and debug every Nand2Tetris project inside VS Code: hardware simulato… |
-| 2026-11-23 21:28:13 | [l2m.vscode-l2m-agent](https://marketplace.visualstudio.com/items?itemName=l2m.vscode-l2m-agent) | L2M Agent | 0.1.0 | A coding and data agent in VS Code, backed by workflows on your own self-hosted… |
-| 2026-11-23 21:28:56 | [ThalesoMilas.vsofx](https://marketplace.visualstudio.com/items?itemName=ThalesoMilas.vsofx) | VsOfx | 0.25.0 | View and edit Office documents (.docx .xlsx .pptx .odt .ods .odp .odg), CSV tab… |
-| 2026-11-23 21:29:29 | [fischeti.astli](https://marketplace.visualstudio.com/items?itemName=fischeti.astli) | astli | 0.7.0 | SystemVerilog and Verilog through astli's language server: problems, formatting… |
-| 2026-11-23 21:31:38 | [DevCode15.terminal-folders](https://marketplace.visualstudio.com/items?itemName=DevCode15.terminal-folders) | Terminal Folders | 0.1.0 | Organize os terminais do VS Code em pastas. |
-| 2026-11-23 21:36:29 | [PrasanthPrasad.oci-function-tools](https://marketplace.visualstudio.com/items?itemName=PrasanthPrasad.oci-function-tools) | OCI Code-only Function Tools | 0.2.3 | Create, package, deploy, and invoke Python OCI Code-only Functions. |
-| 2026-11-23 21:38:21 | [DestyNova.review-bridge](https://marketplace.visualstudio.com/items?itemName=DestyNova.review-bridge) | Reply Notes | 0.7.2 | Quote AI answers, write paragraph-level replies, and continue Codex or Claude c… |
-| 2026-11-23 22:00:32 | [goleedev.review-pins](https://marketplace.visualstudio.com/items?itemName=goleedev.review-pins) | Review Pins | 0.1.0 | Keep code questions and notes local. Carry unresolved questions into your next… |
-| 2026-11-23 22:01:03 | [maratib.twarp](https://marketplace.visualstudio.com/items?itemName=maratib.twarp) | TWarp | 0.0.3 | Warp-style block terminal inside VS Code. Brings Warp's command blocks, blinkin… |
+| 2026-11-23 22:42:28 | [Fuja.fuja-ui-previewer](https://marketplace.visualstudio.com/items?itemName=Fuja.fuja-ui-previewer) | Fuja UI Previewer | 0.0.1 | Click Preview above any React component to render it in a side panel with auto-… |
+| 2026-11-23 22:44:43 | [brokspace.brokspace](https://marketplace.visualstudio.com/items?itemName=brokspace.brokspace) | Brokspace | 0.1.0 | Your workspace, understood: search by meaning, answers from your own LLM with s… |
+| 2026-11-23 22:51:38 | [Fuja.ui-previewer](https://marketplace.visualstudio.com/items?itemName=Fuja.ui-previewer) | UI Previewer | 0.0.1 | Click Preview above any React component to render it in a side panel with auto-… |
+| 2026-11-23 22:53:24 | [yashjain.gitlab-pipeline-companion](https://marketplace.visualstudio.com/items?itemName=yashjain.gitlab-pipeline-companion) | GitLab Pipeline Companion | 1.0.3 | This extension can be used to control the pipelines from VSCode panels directly |
+| 2026-11-23 23:06:27 | [recato.recato](https://marketplace.visualstudio.com/items?itemName=recato.recato) | Recato Code for VS Code | 0.1.0 | An AI coding assistant in your editor: it reads your project, changes files and… |
+| 2026-11-23 23:10:48 | [KaikySantosBR.vscode-xournalpp-sync](https://marketplace.visualstudio.com/items?itemName=KaikySantosBR.vscode-xournalpp-sync) | Xournal++ Sync | 1.0.0 | Sync Xournal++ notes (.xopp) with PDF for viewing in VS Code. Auto-export on sa… |
 
 ## Data source
 

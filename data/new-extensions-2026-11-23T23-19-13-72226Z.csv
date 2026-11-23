@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T22:42:28.84Z,Fuja.fuja-ui-previewer,Fuja,Fuja UI Previewer,0.0.1,Click Preview above any React component to render it in a side panel with auto-generated dummy props.
+2026-11-23T22:44:43.763Z,brokspace.brokspace,brokspace,Brokspace,0.1.0,"Your workspace, understood: search by meaning, answers from your own LLM with sources, memory that lasts, and linked workspaces, through the local-first brok CLI."
+2026-11-23T22:51:38.027Z,Fuja.ui-previewer,Fuja,UI Previewer,0.0.1,Click Preview above any React component to render it in a side panel with auto-generated dummy props.
+2026-11-23T22:53:24.437Z,yashjain.gitlab-pipeline-companion,yashjain,GitLab Pipeline Companion,1.0.3,This extension can be used to control the pipelines from VSCode panels directly
+2026-11-23T23:06:27.97Z,recato.recato,recato,Recato Code for VS Code,0.1.0,"An AI coding assistant in your editor: it reads your project, changes files and runs commands until the job is done, and you approve every change. With one of its models, your code stays encrypted all the way to a secure enclave."
+2026-11-23T23:10:48.627Z,KaikySantosBR.vscode-xournalpp-sync,KaikySantosBR,Xournal++ Sync,1.0.0,"Sync Xournal++ notes (.xopp) with PDF for viewing in VS Code. Auto-export on save, open in Xournal++, create new notes, search, rename, delete."
