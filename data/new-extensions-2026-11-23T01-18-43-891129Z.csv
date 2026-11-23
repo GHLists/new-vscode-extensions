@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T00:52:43.04Z,LuisHuertas.routerlux,LuisHuertas,RouterLux,0.1.1,"Autocompletado a demanda, corrección de fallos con cambios mínimos e implementación de comentarios, con tu propia clave de OpenRouter, Google Vertex AI o cualquier API compatible con OpenAI."
+2026-11-23T01:09:49.967Z,sorcererdev.scry,sorcererdev,Scry,0.1.0,"Scry in VS Code: save a file and scry reviews what changed, putting each verified finding on its line"
+2026-11-23T01:09:49.9Z,sorcererdev.conjure,sorcererdev,Conjure,0.1.0,"Conjure in VS Code: a code action writes one small change through the editor, marks every file it changed, and offers Undo, Try harder and Show why"

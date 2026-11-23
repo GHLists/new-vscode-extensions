@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 00:19 UTC
+## Latest list — 2026-11-23 01:18 UTC
 
-New extensions published between 2026-11-22 22:19 UTC and 2026-11-23 00:19 UTC.
+New extensions published between 2026-11-22 23:18 UTC and 2026-11-23 01:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T00-19-17-60506Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T01-18-43-891129Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 23:28:23 | [Pallattu.themepilot](https://marketplace.visualstudio.com/items?itemName=Pallattu.themepilot) | ThemePilot | 0.1.0 | Curated IDE-inspired color themes and typography presets for VS Code, Cursor, a… |
-| 2026-11-22 23:39:08 | [gokhanmaden.vscode-quick-log-by-maden](https://marketplace.visualstudio.com/items?itemName=gokhanmaden.vscode-quick-log-by-maden) | Quick Log — Smart console.log | 0.2.0 | Insert console.log for the selected variable with one shortcut. |
-| 2026-11-22 23:53:46 | [navasvarela.walkdiff-vscode](https://marketplace.visualstudio.com/items?itemName=navasvarela.walkdiff-vscode) | Walkdiff | 0.1.0 | Review GitHub pull requests and GitLab merge requests with Walkdiff: each chang… |
+| 2026-11-23 00:52:43 | [LuisHuertas.routerlux](https://marketplace.visualstudio.com/items?itemName=LuisHuertas.routerlux) | RouterLux | 0.1.1 | Autocompletado a demanda, corrección de fallos con cambios mínimos e implementa… |
+| 2026-11-23 01:09:49 | [sorcererdev.scry](https://marketplace.visualstudio.com/items?itemName=sorcererdev.scry) | Scry | 0.1.0 | Scry in VS Code: save a file and scry reviews what changed, putting each verifi… |
+| 2026-11-23 01:09:49 | [sorcererdev.conjure](https://marketplace.visualstudio.com/items?itemName=sorcererdev.conjure) | Conjure | 0.1.0 | Conjure in VS Code: a code action writes one small change through the editor, m… |
 
 ## Data source
 
