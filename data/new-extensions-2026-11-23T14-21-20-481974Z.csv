@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T13:45:28.74Z,IkeaSourPatches.tmcpp,IkeaSourPatches,TMC++,0.2.0,TMC with Classes: syntax highlighting and live compile errors for .tmcpp files (Desmos via DesModder Text Mode).
+2026-11-23T13:52:31.847Z,Rain-yangshaopu.rain-comment-translator,Rain-yangshaopu,注释翻译 · Comment Translator,0.1.2,悬停英文注释显示简体中文译文。支持 C/C++、JS/TS、Python；推理可走本地 LM Studio / Ollama 或云端 OpenAI 兼容服务，运行期对目标项目零写入。
+2026-11-23T13:52:57.03Z,lineward.lineward-for-dbt,lineward,Lineward for dbt™,0.1.1,"Offline language server, MCP server and CLI for dbt™ on Snowflake: catch the errors that fail your run, and the silent ones. No dbt™ install, no account."
+2026-11-23T13:56:39.993Z,stmicroelectronics.stm32cube-ide-debug-openocd-gdbserver,stmicroelectronics,STM32Cube Debug OpenOCD GDB Server,0.18.0,Debug for OpenOCD GDB server
+2026-11-23T14:02:44.103Z,mohitm15.bl--kpi-k-theme,mohitm15,BLɅϽKPIИK THEME,0.0.1,"An unofficial BLACKPINK-inspired dark VS Code theme featuring midnight black, deep plum, rose-pink and neon accents, with carefully tuned syntax and semantic highlighting."
+2026-11-23T14:05:46.903Z,pyrossh.databricks-sql,pyrossh,Databricks SQL (Lakeflow),0.1.5,"Syntax highlighting for Databricks SQL, including the Lakeflow Declarative Pipelines dialect."
+2026-11-23T14:05:57.3Z,winterYANGWT.autocommit-for-deepseek,winterYANGWT,AutoCommit For DeepSeek,1.0.0,Generate smart git commit messages from staged changes with the DeepSeek API
