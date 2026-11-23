@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-22T23:28:23.483Z,Pallattu.themepilot,Pallattu,ThemePilot,0.1.0,"Curated IDE-inspired color themes and typography presets for VS Code, Cursor, and Windsurf (starting with IntelliJ IDEA Dark New UI, Classic Darcula, and Light)"
+2026-11-22T23:39:08.863Z,gokhanmaden.vscode-quick-log-by-maden,gokhanmaden,Quick Log — Smart console.log,0.2.0,Insert console.log for the selected variable with one shortcut.
+2026-11-22T23:53:46.133Z,navasvarela.walkdiff-vscode,navasvarela,Walkdiff,0.1.0,"Review GitHub pull requests and GitLab merge requests with Walkdiff: each changed function whole, where the rest of the code uses it, and what looks risky."

@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-22 23:21 UTC
+## Latest list — 2026-11-23 00:19 UTC
 
-New extensions published between 2026-11-22 21:21 UTC and 2026-11-22 23:21 UTC.
+New extensions published between 2026-11-22 22:19 UTC and 2026-11-23 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-22T23-21-01-017802Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T00-19-17-60506Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-22 22:29:36 | [Gizzant.highbeam-hud](https://marketplace.visualstudio.com/items?itemName=Gizzant.highbeam-hud) | Highbeam — AI Context & Token Monitor | 4.5.0 | Highbeam shows what's filling your AI coding context, warns before model switch… |
-| 2026-11-22 22:34:04 | [LabtooStudios.smooth-cursor](https://marketplace.visualstudio.com/items?itemName=LabtooStudios.smooth-cursor) | Smooth Cursor | 0.1.0 | Fluid caret movement and lightweight Kitty-inspired cursor trails for the VS Co… |
-| 2026-11-22 22:38:50 | [etalii.adp](https://marketplace.visualstudio.com/items?itemName=etalii.adp) | ADP: A Different Perspective | 0.1.0 | Specialized tools for text-based files: diagrams, designers and editors, each t… |
-| 2026-11-22 22:53:36 | [ongandrew.universal-web-vscode](https://marketplace.visualstudio.com/items?itemName=ongandrew.universal-web-vscode) | Universal.Web | 0.1.0 | Browser module JSDoc hover, template parsing, HTML and binding completions, and… |
+| 2026-11-22 23:28:23 | [Pallattu.themepilot](https://marketplace.visualstudio.com/items?itemName=Pallattu.themepilot) | ThemePilot | 0.1.0 | Curated IDE-inspired color themes and typography presets for VS Code, Cursor, a… |
+| 2026-11-22 23:39:08 | [gokhanmaden.vscode-quick-log-by-maden](https://marketplace.visualstudio.com/items?itemName=gokhanmaden.vscode-quick-log-by-maden) | Quick Log — Smart console.log | 0.2.0 | Insert console.log for the selected variable with one shortcut. |
+| 2026-11-22 23:53:46 | [navasvarela.walkdiff-vscode](https://marketplace.visualstudio.com/items?itemName=navasvarela.walkdiff-vscode) | Walkdiff | 0.1.0 | Review GitHub pull requests and GitLab merge requests with Walkdiff: each chang… |
 
 ## Data source
 
