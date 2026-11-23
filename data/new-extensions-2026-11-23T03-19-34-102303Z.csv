@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T02:14:34.913Z,puzaricloud.ai-code-review-any-model,puzaricloud,"AI Code Review - GPT, Claude, Gemini, DeepSeek, Ollama",1.0.0,"AI code review of your uncommitted changes, a file or a selection, with your own API key or a local model. No account, no sign-in, no daily limit. Findings (bug, security, performance, style) in the Problems panel, in the editor and in a tree. OpenAI GPT, Anthropic Claude, Google Gemini, DeepSeek, M"
+2026-11-23T02:16:26.007Z,sichen7263.bailian-tp-quota,sichen7263,百炼 Token Plan 额度,0.3.1,状态栏常驻显示百炼 Token Plan 额度余量，快用完自动变黄，悬停看各窗口用量与重置时间。

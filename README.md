@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 02:18 UTC
+## Latest list — 2026-11-23 03:19 UTC
 
-New extensions published between 2026-11-23 00:18 UTC and 2026-11-23 02:18 UTC.
+New extensions published between 2026-11-23 01:19 UTC and 2026-11-23 03:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T02-18-48-079479Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T03-19-34-102303Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 01:23:44 | [theekshithalabs.keypulse](https://marketplace.visualstudio.com/items?itemName=theekshithalabs.keypulse) | KeyPulse | 1.0.0 | See which environments have the config keys your code uses, find missing ones,… |
-| 2026-11-23 01:36:45 | [ljleb.dagdocdiff](https://marketplace.visualstudio.com/items?itemName=ljleb.dagdocdiff) | Dagdocdiff | 0.1.1 | Review C and C++ documentation from Source Control and navigate from code to it… |
-| 2026-11-23 01:54:38 | [axc-dev.side-project-notes](https://marketplace.visualstudio.com/items?itemName=axc-dev.side-project-notes) | Side Project Notes | 0.9.3 | Private, per-project notes in the Explorer sidebar, stored outside the repo so… |
-| 2026-11-23 01:54:47 | [clyde-tingnb.nbcompletion](https://marketplace.visualstudio.com/items?itemName=clyde-tingnb.nbcompletion) | nbCompletion | 0.3.2 | Low-latency AI code completion, Next Edit Prediction (NES), and Inline Chat for… |
+| 2026-11-23 02:14:34 | [puzaricloud.ai-code-review-any-model](https://marketplace.visualstudio.com/items?itemName=puzaricloud.ai-code-review-any-model) | AI Code Review - GPT, Claude, Gemini, D… | 1.0.0 | AI code review of your uncommitted changes, a file or a selection, with your ow… |
+| 2026-11-23 02:16:26 | [sichen7263.bailian-tp-quota](https://marketplace.visualstudio.com/items?itemName=sichen7263.bailian-tp-quota) | 百炼 Token Plan 额度 | 0.3.1 | 状态栏常驻显示百炼 Token Plan 额度余量，快用完自动变黄，悬停看各窗口用量与重置时间。 |
 
 ## Data source
 
