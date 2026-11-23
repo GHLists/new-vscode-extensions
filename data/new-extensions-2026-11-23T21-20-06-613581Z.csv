@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T20:20:41.807Z,RahulChaube.blyx-fulmar,RahulChaube,Blyx Fulmar,0.1.0,Choose a contiguous commit offset from an out-of-order delivery trace.
+2026-11-23T20:20:46.697Z,RahulChaube.blyx-grebe,RahulChaube,Blyx Grebe,0.1.0,Build a repeatable keyset page and return the exact next cursor.
+2026-11-23T20:20:51.43Z,RahulChaube.blyx-harrier,RahulChaube,Blyx Harrier,0.1.0,Apply time and assurance policy to a session after upstream identity verification.
+2026-11-23T20:20:56.44Z,RahulChaube.blyx-heron,RahulChaube,Blyx Heron,0.1.0,"Track one sensor feed’s accepted messages, duplicate sequence numbers, out-of-order arrivals and missed deadlines."
+2026-11-23T20:21:02.367Z,RahulChaube.blyx-hoopoe,RahulChaube,Blyx Hoopoe,0.1.0,Plan a thumbnail and check the decoded pixel buffer against a byte budget.
+2026-11-23T20:21:07.347Z,RahulChaube.blyx-ibis,RahulChaube,Blyx Ibis,0.1.0,Reconcile an invoice with split payments in integer minor units.
+2026-11-23T20:23:23.943Z,RichardTraviolia.mdmod-click-edit,RichardTraviolia,mdmod: Markdown Click-to-Edit,0.1.0,"View a Markdown file rendered, click any element to edit its raw text in place."
+2026-11-23T20:31:01.073Z,marpaia.microfluidics,marpaia,Microfluidics,0.1.0,"See a microfluidic chip as you write it: the chip beside its source, findings on the lines that caused them, and the flow through it."
+2026-11-23T20:34:17.72Z,JeffSallans.plover,JeffSallans,Plover,0.6.0,"Quickly set up, test and monitor application alerts that post to Microsoft Teams."
+2026-11-23T20:37:04.627Z,openthunder.thunderlang,openthunder,ThunderLang,0.5.4,"Read and check ThunderLang rules in VS Code: highlighting, live errors, completion, and hover from the same compiler that checks AI changes against your rules. Runs locally, no AI involved."
+2026-11-23T20:45:08.84Z,clcmo.urban-neon-clean-theme,clcmo,Urban Neon Clean Theme (Dark & Light),1.1.1,Temas Dark e Light para VS Code com contraste WCAG validado e Clean Architecture.
+2026-11-23T20:54:15.863Z,AlgorProgramming.algor-language,AlgorProgramming,ALGOR Programming Language,0.1.1,ALGOR programlama dili için VS Code desteği
+2026-11-23T20:59:49.267Z,StickyCliff.codenibbl,StickyCliff,CodeNibbl 🐹🌶️ — Spicy Codebase Lore & Snippets,0.1.0,"Stop doomscrolling while your AI cooks! Async, GenZ-styled micro-insights, edge-case glazes, Mermaid maps, and codebase lore powered by any LLM."
+2026-11-23T21:09:33.08Z,erkos.pluvian-vscode,erkos,pluvian,2.2.2,"In-editor pluvian findings for Terraform — the same engine, spec, and verdicts as the CLI, as you save."
