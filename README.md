@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 11:19 UTC
+## Latest list — 2026-11-23 12:19 UTC
 
-New extensions published between 2026-11-23 09:19 UTC and 2026-11-23 11:19 UTC.
+New extensions published between 2026-11-23 10:19 UTC and 2026-11-23 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T11-19-54-912388Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T12-19-25-310804Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 10:15:40 | [heeler.heeler](https://marketplace.visualstudio.com/items?itemName=heeler.heeler) | Heeler | 2.2.0 | Heeler security findings in the editor: secrets, dependencies and code. |
-| 2026-11-23 10:38:55 | [baebranch.openboard](https://marketplace.visualstudio.com/items?itemName=baebranch.openboard) | OpenBoard | 0.0.1 | Whiteboard custom editor for VS Code-compatible hosts |
-| 2026-11-23 11:02:14 | [viral-code-x.lois-language](https://marketplace.visualstudio.com/items?itemName=viral-code-x.lois-language) | LOIS — Language Orienting ItSelf | 0.1.0 | Language support for LOIS (.is): syntax highlighting, code snippets, and run-cu… |
+| 2026-11-23 11:17:04 | [hxss.search-filters](https://marketplace.visualstudio.com/items?itemName=hxss.search-filters) | Search Filters | 0.0.2 | Toggle frequently used include/exclude patterns for Search right from the Searc… |
+| 2026-11-23 11:39:27 | [Atrix21.portpilot-dev](https://marketplace.visualstudio.com/items?itemName=Atrix21.portpilot-dev) | PortPilot: Ports, Projects & Agents | 1.1.0 | Every port on your machine, grouped by git project, tagged with the coding agen… |
+| 2026-11-23 11:56:27 | [tickwise.tickwise](https://marketplace.visualstudio.com/items?itemName=tickwise.tickwise) | Tickwise: Earn from Claude Code | 0.1.0 | Show sponsor lines in the Claude Code spinner and earn per impression. Plain te… |
 
 ## Data source
 

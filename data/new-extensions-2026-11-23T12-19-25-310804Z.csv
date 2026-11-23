@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T11:17:04.423Z,hxss.search-filters,hxss,Search Filters,0.0.2,Toggle frequently used include/exclude patterns for Search right from the Search panel
+2026-11-23T11:39:27.397Z,Atrix21.portpilot-dev,Atrix21,"PortPilot: Ports, Projects & Agents",1.1.0,"Every port on your machine, grouped by git project, tagged with the coding agent that started it (Claude Code, Codex, Gemini…), with Start Again when a dev server stops and clean-up for what agents left behind."
+2026-11-23T11:56:27.18Z,tickwise.tickwise,tickwise,Tickwise: Earn from Claude Code,0.1.0,"Show sponsor lines in the Claude Code spinner and earn per impression. Plain text ads, nothing read from your code."
