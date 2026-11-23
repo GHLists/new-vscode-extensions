@@ -12,17 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 19:18 UTC
+## Latest list — 2026-11-23 20:20 UTC
 
-New extensions published between 2026-11-23 17:18 UTC and 2026-11-23 19:18 UTC.
+New extensions published between 2026-11-23 18:20 UTC and 2026-11-23 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T19-18-47-000026Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T20-20-37-647068Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 17:47:33 | [JetBrains.goland-server](https://marketplace.visualstudio.com/items?itemName=JetBrains.goland-server) | Go by GoLand | 0.0.153 | GoLand-powered code engine |
-| 2026-11-23 18:27:16 | [AryanDevTools.commitboard](https://marketplace.visualstudio.com/items?itemName=AryanDevTools.commitboard) | CommitBoard | 0.3.0 | A simple task board for teams inside VS Code. Plan sprints, assign tasks, link… |
-| 2026-11-23 19:06:05 | [AristoteMoteHernandez.nc-language](https://marketplace.visualstudio.com/items?itemName=AristoteMoteHernandez.nc-language) | nC Language | 1.0.22 | nC language support for VS Code: persistent LSP diagnostics, compiler-backed to… |
+| 2026-11-23 19:20:35 | [hangquan.codex-studio](https://marketplace.visualstudio.com/items?itemName=hangquan.codex-studio) | Codex Studio (Unofficial) | 0.1.0 | A beautiful chat panel for the Codex CLI with per-folder session history, model… |
+| 2026-11-23 19:32:00 | [henrycatalinismith.darkstar-deep-space-colour-palette](https://marketplace.visualstudio.com/items?itemName=henrycatalinismith.darkstar-deep-space-colour-palette) | Darkstar – Deep Space Colour Palette | 0.1.0 | Deep space colour palette |
+| 2026-11-23 20:00:10 | [ezar101.viewsense-codeigniter](https://marketplace.visualstudio.com/items?itemName=ezar101.viewsense-codeigniter) | ViewSense for CodeIgniter | 0.1.0 | Knows the variables your controllers pass to your CodeIgniter 3 and 4 views, an… |
 
 ## Data source
 

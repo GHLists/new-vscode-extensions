@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T19:20:35.633Z,hangquan.codex-studio,hangquan,Codex Studio (Unofficial),0.1.0,"A beautiful chat panel for the Codex CLI with per-folder session history, model and access pickers."
+2026-11-23T19:32:00.71Z,henrycatalinismith.darkstar-deep-space-colour-palette,henrycatalinismith,Darkstar – Deep Space Colour Palette,0.1.0,Deep space colour palette
+2026-11-23T20:00:10.867Z,ezar101.viewsense-codeigniter,ezar101,ViewSense for CodeIgniter,0.1.0,"Knows the variables your controllers pass to your CodeIgniter 3 and 4 views, and their types: no more hand-written @var comments."
