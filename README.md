@@ -12,17 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 01:18 UTC
+## Latest list — 2026-11-23 02:18 UTC
 
-New extensions published between 2026-11-22 23:18 UTC and 2026-11-23 01:18 UTC.
+New extensions published between 2026-11-23 00:18 UTC and 2026-11-23 02:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T01-18-43-891129Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T02-18-48-079479Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 00:52:43 | [LuisHuertas.routerlux](https://marketplace.visualstudio.com/items?itemName=LuisHuertas.routerlux) | RouterLux | 0.1.1 | Autocompletado a demanda, corrección de fallos con cambios mínimos e implementa… |
-| 2026-11-23 01:09:49 | [sorcererdev.scry](https://marketplace.visualstudio.com/items?itemName=sorcererdev.scry) | Scry | 0.1.0 | Scry in VS Code: save a file and scry reviews what changed, putting each verifi… |
-| 2026-11-23 01:09:49 | [sorcererdev.conjure](https://marketplace.visualstudio.com/items?itemName=sorcererdev.conjure) | Conjure | 0.1.0 | Conjure in VS Code: a code action writes one small change through the editor, m… |
+| 2026-11-23 01:23:44 | [theekshithalabs.keypulse](https://marketplace.visualstudio.com/items?itemName=theekshithalabs.keypulse) | KeyPulse | 1.0.0 | See which environments have the config keys your code uses, find missing ones,… |
+| 2026-11-23 01:36:45 | [ljleb.dagdocdiff](https://marketplace.visualstudio.com/items?itemName=ljleb.dagdocdiff) | Dagdocdiff | 0.1.1 | Review C and C++ documentation from Source Control and navigate from code to it… |
+| 2026-11-23 01:54:38 | [axc-dev.side-project-notes](https://marketplace.visualstudio.com/items?itemName=axc-dev.side-project-notes) | Side Project Notes | 0.9.3 | Private, per-project notes in the Explorer sidebar, stored outside the repo so… |
+| 2026-11-23 01:54:47 | [clyde-tingnb.nbcompletion](https://marketplace.visualstudio.com/items?itemName=clyde-tingnb.nbcompletion) | nbCompletion | 0.3.2 | Low-latency AI code completion, Next Edit Prediction (NES), and Inline Chat for… |
 
 ## Data source
 

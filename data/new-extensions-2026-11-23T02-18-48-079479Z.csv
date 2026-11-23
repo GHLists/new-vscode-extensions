@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T01:23:44.993Z,theekshithalabs.keypulse,theekshithalabs,KeyPulse,1.0.0,"See which environments have the config keys your code uses, find missing ones, and copy values from KeyPulse without them ever entering your editor."
+2026-11-23T01:36:45.017Z,ljleb.dagdocdiff,ljleb,Dagdocdiff,0.1.1,Review C and C++ documentation from Source Control and navigate from code to its referring docs.
+2026-11-23T01:54:38.72Z,axc-dev.side-project-notes,axc-dev,Side Project Notes,0.9.3,"Private, per-project notes in the Explorer sidebar, stored outside the repo so they never get committed."
+2026-11-23T01:54:47.5Z,clyde-tingnb.nbcompletion,clyde-tingnb,nbCompletion,0.3.2,"Low-latency AI code completion, Next Edit Prediction (NES), and Inline Chat for VS Code supporting OpenAI GPT-6.2/GPT-6.1/GPT-6, DeepSeek V4.1 Flash, and Ollama."
