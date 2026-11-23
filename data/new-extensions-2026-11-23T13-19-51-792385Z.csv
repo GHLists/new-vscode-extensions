@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T12:16:07.7Z,suru-lang.suru,suru-lang,する,0.4.0,日本語の関数型プログラミング言語「する」の色分け・書きながらの型の検査・型のホバー・定義へ移動・補完・名前の変更・実行・kumu(プロジェクトの実行・試験・点検)
+2026-11-23T12:21:01.32Z,SajjadMotamed.inkwell-markdown,SajjadMotamed,Inkwell Markdown,0.4.0,"Edit markdown directly in a beautiful rendered page: Obsidian-style live preview, Markdown Preview Enhanced themes, a Word-style toolbar and shortcuts."
+2026-11-23T12:37:16.863Z,SujeetThakur.exact-contract-language,SujeetThakur,Exact Contract Language Support,0.1.1,"Language detection, syntax highlighting, snippets, and formatting for Expo Exact Contract (.contract) files and tests."
+2026-11-23T12:44:40.297Z,CamiloAgudelo.renting-sdd-agent,CamiloAgudelo,Renting SDD Agent,0.1.0,Private corporate extension for Spec-Driven Development (SDD) with Microsoft corporate authentication and bundled Renting skills.
+2026-11-23T12:51:14.16Z,jlopez.git-lore,jlopez,Git Lore,0.1.0,"Free and open-source Git blame, file and line history, commit graph and branch comparison. No account, no paywall."
+2026-11-23T12:58:56.313Z,SohamTilekar.llvm-ir-studio,SohamTilekar,LLVM IR Studio,0.1.1,"Advanced LLVM IR Language Server, SSA Def-Use analysis, CFG visualizer & diagnostics"
+2026-11-23T13:00:38.927Z,hcl1981.pbcplus,hcl1981,PBC+ for VS Code,0.2.3,"PicoBoy Color Plus in C: create a project from the book template, run, debug and profile it in the PBConPC emulator."
+2026-11-23T13:10:15.877Z,foxy155.command-by-extension,foxy155,Command by Extension,0.10.1,"Run, automate, and share command workflows for files by extension."
