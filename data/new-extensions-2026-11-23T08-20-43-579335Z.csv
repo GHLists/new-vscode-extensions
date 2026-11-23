@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T07:15:19.59Z,milkman.mindflow-vscode,milkman,MindFlow - Markdown Mind Map Editor,1.0.0,"Edit Markdown files as mind maps, with two-way sync. Local only, no account needed."
+2026-11-23T07:15:48.373Z,culpritsql.culprit-sql,culpritsql,Culprit SQL,0.5.6,"Interactive SQL execution plan diagrams, side-by-side plan diffs, deadlock cycle graphs, and SQL migration safety checks powered locally by WebAssembly."
+2026-11-23T07:36:57.07Z,dagmawi-m.shibo,dagmawi-m,Shibo,0.1.2,"Simulate Arduino circuits offline: drag parts, wire them, and run your real sketch before you buy anything."
+2026-11-23T07:46:20.257Z,chtools.ch-md-to-image,chtools,Markdown 转图片,0.1.0,将 Markdown 预览为卡片并导出/复制高清 PNG（支持 KaTeX 公式与 Mermaid 图）。
+2026-11-23T07:57:49.32Z,ideaflow.ideaflow-vscode,ideaflow,IdeaFlow,0.1.8,Install and connect the IdeaFlow MCP connector to Codex and Claude Code.
+2026-11-23T08:10:05.637Z,panda-repair.panda-api,panda-repair,Panda API,0.1.0,Use Panda's Auto models and Panels in VS Code Chat.

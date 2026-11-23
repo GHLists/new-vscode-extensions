@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 07:19 UTC
+## Latest list — 2026-11-23 08:20 UTC
 
-New extensions published between 2026-11-23 05:19 UTC and 2026-11-23 07:19 UTC.
+New extensions published between 2026-11-23 06:20 UTC and 2026-11-23 08:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T07-19-38-428424Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T08-20-43-579335Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 06:20:43 | [CodingHUB.ai-tech-hub-vscode-plugin](https://marketplace.visualstudio.com/items?itemName=CodingHUB.ai-tech-hub-vscode-plugin) | Coding HUB 助手 (争舻) | 1.0.20261105 | ???? AI ????,????????Agent?Skills ? MCP,? VS Code ??????????????????? |
-| 2026-11-23 06:22:45 | [waszdy.mindmap-waszdy](https://marketplace.visualstudio.com/items?itemName=waszdy.mindmap-waszdy) | Mind Map by waszdy | 1.0.0 | A powerful visual mind map editor with drag-to-pan canvas support |
-| 2026-11-23 06:22:54 | [GuyAnonymous.icns-file-viewer](https://marketplace.visualstudio.com/items?itemName=GuyAnonymous.icns-file-viewer) | ICNS Viewer | 1.0.0 | Adds an image preview for .icns files |
-| 2026-11-23 06:27:54 | [Miaoo.codevocab](https://marketplace.visualstudio.com/items?itemName=Miaoo.codevocab) | CodeVocab · 码上背单词 | 0.1.0 | 写代码时在后台朗读单词和中文释义，状态栏同步显示词性和意思。内置四六级、考研、雅思、托福、GRE 词库。Listen to vocabulary while… |
-| 2026-11-23 06:36:40 | [santu-dev.portwise](https://marketplace.visualstudio.com/items?itemName=santu-dev.portwise) | Portwise: Codex Account & Provider Swit… | 0.1.0 | Switch Codex accounts and manage OpenAI-compatible providers, with a local gate… |
-| 2026-11-23 06:47:26 | [AdityaaKulkarni.truecase](https://marketplace.visualstudio.com/items?itemName=AdityaaKulkarni.truecase) | TrueCase | 1.0.0 | Fixes the casing of your code as you type. Keywords, standard library names and… |
-| 2026-11-23 06:48:14 | [grcxai.codeguard-grcxai](https://marketplace.visualstudio.com/items?itemName=grcxai.codeguard-grcxai) | CodeGuard by GRCxAI | 0.2.27 | Deep Audits of your code on your own machine, with your own Claude Code or Code… |
-| 2026-11-23 06:55:33 | [ombarmaiya.devnest-extension](https://marketplace.visualstudio.com/items?itemName=ombarmaiya.devnest-extension) | Devnest | 1.0.0 | UI-First Project Generator for full-stack modern web applications |
+| 2026-11-23 07:15:19 | [milkman.mindflow-vscode](https://marketplace.visualstudio.com/items?itemName=milkman.mindflow-vscode) | MindFlow - Markdown Mind Map Editor | 1.0.0 | Edit Markdown files as mind maps, with two-way sync. Local only, no account nee… |
+| 2026-11-23 07:15:48 | [culpritsql.culprit-sql](https://marketplace.visualstudio.com/items?itemName=culpritsql.culprit-sql) | Culprit SQL | 0.5.6 | Interactive SQL execution plan diagrams, side-by-side plan diffs, deadlock cycl… |
+| 2026-11-23 07:36:57 | [dagmawi-m.shibo](https://marketplace.visualstudio.com/items?itemName=dagmawi-m.shibo) | Shibo | 0.1.2 | Simulate Arduino circuits offline: drag parts, wire them, and run your real ske… |
+| 2026-11-23 07:46:20 | [chtools.ch-md-to-image](https://marketplace.visualstudio.com/items?itemName=chtools.ch-md-to-image) | Markdown 转图片 | 0.1.0 | 将 Markdown 预览为卡片并导出/复制高清 PNG（支持 KaTeX 公式与 Mermaid 图）。 |
+| 2026-11-23 07:57:49 | [ideaflow.ideaflow-vscode](https://marketplace.visualstudio.com/items?itemName=ideaflow.ideaflow-vscode) | IdeaFlow | 0.1.8 | Install and connect the IdeaFlow MCP connector to Codex and Claude Code. |
+| 2026-11-23 08:10:05 | [panda-repair.panda-api](https://marketplace.visualstudio.com/items?itemName=panda-repair.panda-api) | Panda API | 0.1.0 | Use Panda's Auto models and Panels in VS Code Chat. |
 
 ## Data source
 
