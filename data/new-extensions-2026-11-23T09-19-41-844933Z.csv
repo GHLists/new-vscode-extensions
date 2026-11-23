@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T08:19:15.423Z,RahulChaube.blyx-curlew,RahulChaube,Blyx Curlew,0.1.0,Plan grid tiles covering every observation in a projected point survey.
+2026-11-23T08:19:20.173Z,RahulChaube.blyx-dipper,RahulChaube,Blyx Dipper,0.1.0,"Parse quoted CSV records, preserve embedded line breaks, and validate a row width before consuming a file."
+2026-11-23T08:19:24.943Z,RahulChaube.blyx-dunlin,RahulChaube,Blyx Dunlin,0.1.0,Audit a table export for duplicate parents and orphaned child rows.
+2026-11-23T08:19:29.77Z,RahulChaube.blyx-egret,RahulChaube,Blyx Egret,0.1.0,"Summarize richness, singletons and dominance in an ecological field survey."
+2026-11-23T08:19:34.457Z,RahulChaube.blyx-fantail,RahulChaube,Blyx Fantail,0.1.0,Resolve a layered setting and report where an invalid override came from.
+2026-11-23T08:19:39.1Z,RahulChaube.blyx-flamingo,RahulChaube,Blyx Flamingo,0.1.0,Produce chart-ready axis limits and labeled tick spacing from raw data.
+2026-11-23T08:29:40.12Z,timepp.file-color-by-age,timepp,FileColorByAge,0.0.2,Color Explorer files by modification time and folders by their newest descendant file.
+2026-11-23T08:38:54.407Z,BananaGames.phosphor-terminal-theme,BananaGames,Phosphor Terminal,1.0.1,"A monochrome green CRT-terminal colour theme. Every colour is a shade of green; syntax is told apart by brightness, italic and bold."
+2026-11-23T08:45:02.527Z,MushtaqMA.mac-connector-windows,MushtaqMA,Mac Connector for .NET iOS (Windows),0.4.0,"Pair to Mac from Windows: remote build, IPA generation, simulator/device deploy and debugging for .NET MAUI / .NET iOS apps."
+2026-11-23T08:57:36.283Z,coliff.design-md-vs-code-extension,coliff,DESIGN.md,1.0.0,"Write, validate and preview DESIGN.md design system files"

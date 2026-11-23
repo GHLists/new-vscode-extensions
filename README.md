@@ -12,20 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 08:20 UTC
+## Latest list — 2026-11-23 09:19 UTC
 
-New extensions published between 2026-11-23 06:20 UTC and 2026-11-23 08:20 UTC.
+New extensions published between 2026-11-23 07:19 UTC and 2026-11-23 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T08-20-43-579335Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T09-19-41-844933Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 07:15:19 | [milkman.mindflow-vscode](https://marketplace.visualstudio.com/items?itemName=milkman.mindflow-vscode) | MindFlow - Markdown Mind Map Editor | 1.0.0 | Edit Markdown files as mind maps, with two-way sync. Local only, no account nee… |
-| 2026-11-23 07:15:48 | [culpritsql.culprit-sql](https://marketplace.visualstudio.com/items?itemName=culpritsql.culprit-sql) | Culprit SQL | 0.5.6 | Interactive SQL execution plan diagrams, side-by-side plan diffs, deadlock cycl… |
-| 2026-11-23 07:36:57 | [dagmawi-m.shibo](https://marketplace.visualstudio.com/items?itemName=dagmawi-m.shibo) | Shibo | 0.1.2 | Simulate Arduino circuits offline: drag parts, wire them, and run your real ske… |
-| 2026-11-23 07:46:20 | [chtools.ch-md-to-image](https://marketplace.visualstudio.com/items?itemName=chtools.ch-md-to-image) | Markdown 转图片 | 0.1.0 | 将 Markdown 预览为卡片并导出/复制高清 PNG（支持 KaTeX 公式与 Mermaid 图）。 |
-| 2026-11-23 07:57:49 | [ideaflow.ideaflow-vscode](https://marketplace.visualstudio.com/items?itemName=ideaflow.ideaflow-vscode) | IdeaFlow | 0.1.8 | Install and connect the IdeaFlow MCP connector to Codex and Claude Code. |
-| 2026-11-23 08:10:05 | [panda-repair.panda-api](https://marketplace.visualstudio.com/items?itemName=panda-repair.panda-api) | Panda API | 0.1.0 | Use Panda's Auto models and Panels in VS Code Chat. |
+| 2026-11-23 08:19:15 | [RahulChaube.blyx-curlew](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-curlew) | Blyx Curlew | 0.1.0 | Plan grid tiles covering every observation in a projected point survey. |
+| 2026-11-23 08:19:20 | [RahulChaube.blyx-dipper](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-dipper) | Blyx Dipper | 0.1.0 | Parse quoted CSV records, preserve embedded line breaks, and validate a row wid… |
+| 2026-11-23 08:19:24 | [RahulChaube.blyx-dunlin](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-dunlin) | Blyx Dunlin | 0.1.0 | Audit a table export for duplicate parents and orphaned child rows. |
+| 2026-11-23 08:19:29 | [RahulChaube.blyx-egret](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-egret) | Blyx Egret | 0.1.0 | Summarize richness, singletons and dominance in an ecological field survey. |
+| 2026-11-23 08:19:34 | [RahulChaube.blyx-fantail](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-fantail) | Blyx Fantail | 0.1.0 | Resolve a layered setting and report where an invalid override came from. |
+| 2026-11-23 08:19:39 | [RahulChaube.blyx-flamingo](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-flamingo) | Blyx Flamingo | 0.1.0 | Produce chart-ready axis limits and labeled tick spacing from raw data. |
+| 2026-11-23 08:29:40 | [timepp.file-color-by-age](https://marketplace.visualstudio.com/items?itemName=timepp.file-color-by-age) | FileColorByAge | 0.0.2 | Color Explorer files by modification time and folders by their newest descendan… |
+| 2026-11-23 08:38:54 | [BananaGames.phosphor-terminal-theme](https://marketplace.visualstudio.com/items?itemName=BananaGames.phosphor-terminal-theme) | Phosphor Terminal | 1.0.1 | A monochrome green CRT-terminal colour theme. Every colour is a shade of green;… |
+| 2026-11-23 08:45:02 | [MushtaqMA.mac-connector-windows](https://marketplace.visualstudio.com/items?itemName=MushtaqMA.mac-connector-windows) | Mac Connector for .NET iOS (Windows) | 0.4.0 | Pair to Mac from Windows: remote build, IPA generation, simulator/device deploy… |
+| 2026-11-23 08:57:36 | [coliff.design-md-vs-code-extension](https://marketplace.visualstudio.com/items?itemName=coliff.design-md-vs-code-extension) | DESIGN.md | 1.0.0 | Write, validate and preview DESIGN.md design system files |
 
 ## Data source
 
