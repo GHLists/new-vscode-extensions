@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T09:24:15.197Z,nikhil-13.ios-sim-viewer,nikhil-13,iOS Simulator Viewer,0.1.0,"See and drive a booted iOS simulator right inside VS Code: hardware-decoded video up to 60 fps, live touch, trackpad scrolling and a hardware keyboard. macOS only."
+2026-11-23T09:25:38.313Z,KaiWang.i18n-kyle,KaiWang,i18n Kyle：Vue 中文提取,0.1.0,从 Vue 文件的 template 提取中文，生成 src/i18n/lang 下的 cn.js 与 en.js。
+2026-11-23T10:00:17.953Z,wealthguide.investpro,wealthguide,InvestPro,0.1.1,InvestPro in VS Code and Cursor. The page stays on this computer. Account and API stay on invest-pro.ai.
+2026-11-23T10:06:49.76Z,coccor.fastdraw,coccor,FastDraw,0.1.0,"Live preview of FastDraw diagrams (.fdraw), with the checker's problems in the Problems panel"
+2026-11-23T10:07:34.01Z,SDevtool.code-lerner,SDevtool,Code-Lerner (offline),0.1.0,"Lernt deinen eigenen HTML/CSS/JS-Code und schreibt fehlende Teile aus deinen Kommentaren – komplett offline, ohne KI-Modell."
+2026-11-23T10:09:20.373Z,WavyPanda.powerapps-bridge,WavyPanda,Power Apps X VS Code,0.6.0,"Live two-way sync between the Power Apps Studio formula bar (browser) and VS Code. Unofficial, not affiliated with Microsoft."

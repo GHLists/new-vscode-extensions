@@ -12,24 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 09:19 UTC
+## Latest list — 2026-11-23 10:18 UTC
 
-New extensions published between 2026-11-23 07:19 UTC and 2026-11-23 09:19 UTC.
+New extensions published between 2026-11-23 08:18 UTC and 2026-11-23 10:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T09-19-41-844933Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T10-18-43-877353Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 08:19:15 | [RahulChaube.blyx-curlew](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-curlew) | Blyx Curlew | 0.1.0 | Plan grid tiles covering every observation in a projected point survey. |
-| 2026-11-23 08:19:20 | [RahulChaube.blyx-dipper](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-dipper) | Blyx Dipper | 0.1.0 | Parse quoted CSV records, preserve embedded line breaks, and validate a row wid… |
-| 2026-11-23 08:19:24 | [RahulChaube.blyx-dunlin](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-dunlin) | Blyx Dunlin | 0.1.0 | Audit a table export for duplicate parents and orphaned child rows. |
-| 2026-11-23 08:19:29 | [RahulChaube.blyx-egret](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-egret) | Blyx Egret | 0.1.0 | Summarize richness, singletons and dominance in an ecological field survey. |
-| 2026-11-23 08:19:34 | [RahulChaube.blyx-fantail](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-fantail) | Blyx Fantail | 0.1.0 | Resolve a layered setting and report where an invalid override came from. |
-| 2026-11-23 08:19:39 | [RahulChaube.blyx-flamingo](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-flamingo) | Blyx Flamingo | 0.1.0 | Produce chart-ready axis limits and labeled tick spacing from raw data. |
-| 2026-11-23 08:29:40 | [timepp.file-color-by-age](https://marketplace.visualstudio.com/items?itemName=timepp.file-color-by-age) | FileColorByAge | 0.0.2 | Color Explorer files by modification time and folders by their newest descendan… |
-| 2026-11-23 08:38:54 | [BananaGames.phosphor-terminal-theme](https://marketplace.visualstudio.com/items?itemName=BananaGames.phosphor-terminal-theme) | Phosphor Terminal | 1.0.1 | A monochrome green CRT-terminal colour theme. Every colour is a shade of green;… |
-| 2026-11-23 08:45:02 | [MushtaqMA.mac-connector-windows](https://marketplace.visualstudio.com/items?itemName=MushtaqMA.mac-connector-windows) | Mac Connector for .NET iOS (Windows) | 0.4.0 | Pair to Mac from Windows: remote build, IPA generation, simulator/device deploy… |
-| 2026-11-23 08:57:36 | [coliff.design-md-vs-code-extension](https://marketplace.visualstudio.com/items?itemName=coliff.design-md-vs-code-extension) | DESIGN.md | 1.0.0 | Write, validate and preview DESIGN.md design system files |
+| 2026-11-23 09:24:15 | [nikhil-13.ios-sim-viewer](https://marketplace.visualstudio.com/items?itemName=nikhil-13.ios-sim-viewer) | iOS Simulator Viewer | 0.1.0 | See and drive a booted iOS simulator right inside VS Code: hardware-decoded vid… |
+| 2026-11-23 09:25:38 | [KaiWang.i18n-kyle](https://marketplace.visualstudio.com/items?itemName=KaiWang.i18n-kyle) | i18n Kyle：Vue 中文提取 | 0.1.0 | 从 Vue 文件的 template 提取中文，生成 src/i18n/lang 下的 cn.js 与 en.js。 |
+| 2026-11-23 10:00:17 | [wealthguide.investpro](https://marketplace.visualstudio.com/items?itemName=wealthguide.investpro) | InvestPro | 0.1.1 | InvestPro in VS Code and Cursor. The page stays on this computer. Account and A… |
+| 2026-11-23 10:06:49 | [coccor.fastdraw](https://marketplace.visualstudio.com/items?itemName=coccor.fastdraw) | FastDraw | 0.1.0 | Live preview of FastDraw diagrams (.fdraw), with the checker's problems in the… |
+| 2026-11-23 10:07:34 | [SDevtool.code-lerner](https://marketplace.visualstudio.com/items?itemName=SDevtool.code-lerner) | Code-Lerner (offline) | 0.1.0 | Lernt deinen eigenen HTML/CSS/JS-Code und schreibt fehlende Teile aus deinen Ko… |
+| 2026-11-23 10:09:20 | [WavyPanda.powerapps-bridge](https://marketplace.visualstudio.com/items?itemName=WavyPanda.powerapps-bridge) | Power Apps X VS Code | 0.6.0 | Live two-way sync between the Power Apps Studio formula bar (browser) and VS Co… |
 
 ## Data source
 
