@@ -12,20 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 18:18 UTC
+## Latest list — 2026-11-23 19:18 UTC
 
-New extensions published between 2026-11-23 16:18 UTC and 2026-11-23 18:18 UTC.
+New extensions published between 2026-11-23 17:18 UTC and 2026-11-23 19:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T18-18-59-80618Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T19-18-47-000026Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 17:14:32 | [Marabunta.sql-dbmap](https://marketplace.visualstudio.com/items?itemName=Marabunta.sql-dbmap) | SQL DBMap | 0.1.0 | Generate database ER diagrams from SQL files. |
-| 2026-11-23 17:18:34 | [joernberkefeld.waba-devtools](https://marketplace.visualstudio.com/items?itemName=joernberkefeld.waba-devtools) | WABA DevTools | 0.0.1 | Retrieve, deploy, back up and compare WhatsApp Business message templates acros… |
-| 2026-11-23 17:40:26 | [Marabunta.json-lens](https://marketplace.visualstudio.com/items?itemName=Marabunta.json-lens) | JSON Lens Compare | 0.2.0 | Validate, format, sort and compare JSON with precise error messages. |
-| 2026-11-23 17:47:23 | [bjoern621.helm-values-lens](https://marketplace.visualstudio.com/items?itemName=bjoern621.helm-values-lens) | Helm Values Lens | 1.10.1 | Shows next to each line of a Helm values file the value that the release ends u… |
-| 2026-11-23 17:59:11 | [Zelavis.fuzor](https://marketplace.visualstudio.com/items?itemName=Zelavis.fuzor) | Fuzor | 0.7.0 | TypeScript in Fuzor HTML components: completion, diagnostics, navigation and re… |
-| 2026-11-23 18:11:10 | [OrchestrAI.orchestrai-live](https://marketplace.visualstudio.com/items?itemName=OrchestrAI.orchestrai-live) | OrchestrAI Live | 0.1.0 | Live co-coding, team chat and shared AI context for your team, in the editor yo… |
+| 2026-11-23 17:47:33 | [JetBrains.goland-server](https://marketplace.visualstudio.com/items?itemName=JetBrains.goland-server) | Go by GoLand | 0.0.153 | GoLand-powered code engine |
+| 2026-11-23 18:27:16 | [AryanDevTools.commitboard](https://marketplace.visualstudio.com/items?itemName=AryanDevTools.commitboard) | CommitBoard | 0.3.0 | A simple task board for teams inside VS Code. Plan sprints, assign tasks, link… |
+| 2026-11-23 19:06:05 | [AristoteMoteHernandez.nc-language](https://marketplace.visualstudio.com/items?itemName=AristoteMoteHernandez.nc-language) | nC Language | 1.0.22 | nC language support for VS Code: persistent LSP diagnostics, compiler-backed to… |
 
 ## Data source
 
