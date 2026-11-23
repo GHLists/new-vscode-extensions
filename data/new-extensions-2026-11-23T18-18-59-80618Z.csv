@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T17:14:32.613Z,Marabunta.sql-dbmap,Marabunta,SQL DBMap,0.1.0,Generate database ER diagrams from SQL files.
+2026-11-23T17:18:34.383Z,joernberkefeld.waba-devtools,joernberkefeld,WABA DevTools,0.0.1,"Retrieve, deploy, back up and compare WhatsApp Business message templates across WABAs from VS Code, powered by the bundled waba CLI."
+2026-11-23T17:40:26.687Z,Marabunta.json-lens,Marabunta,JSON Lens Compare,0.2.0,"Validate, format, sort and compare JSON with precise error messages."
+2026-11-23T17:47:23.643Z,bjoern621.helm-values-lens,bjoern621,Helm Values Lens,1.10.1,"Shows next to each line of a Helm values file the value that the release ends up with and the layer that sets it. Reads the layer order from Argo CD, Helmfile, Flux and Kustomize."
+2026-11-23T17:59:11.397Z,Zelavis.fuzor,Zelavis,Fuzor,0.7.0,"TypeScript in Fuzor HTML components: completion, diagnostics, navigation and rename inside <script type=""text/typescript"">"
+2026-11-23T18:11:10.76Z,OrchestrAI.orchestrai-live,OrchestrAI,OrchestrAI Live,0.1.0,"Live co-coding, team chat and shared AI context for your team, in the editor you already use. A free Live Share alternative for VS Code, Cursor, Windsurf, Kiro and VSCodium."

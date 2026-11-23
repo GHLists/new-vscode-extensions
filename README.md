@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 17:20 UTC
+## Latest list — 2026-11-23 18:18 UTC
 
-New extensions published between 2026-11-23 15:20 UTC and 2026-11-23 17:20 UTC.
+New extensions published between 2026-11-23 16:18 UTC and 2026-11-23 18:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T17-20-18-810457Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T18-18-59-80618Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 16:18:14 | [akhmadaliyev082.my-notes](https://marketplace.visualstudio.com/items?itemName=akhmadaliyev082.my-notes) | My Notes | 0.2.0 | Personal notes and cheatsheets to copy text directly within VS Code |
-| 2026-11-23 16:35:55 | [vedic.vedic](https://marketplace.visualstudio.com/items?itemName=vedic.vedic) | Vedic Code Formatter | 2.1.1 | Format Vedic source and run programs from Visual Studio Code using the Vedic CL… |
-| 2026-11-23 16:39:34 | [plaitcode.plaitcode](https://marketplace.visualstudio.com/items?itemName=plaitcode.plaitcode) | PlaitCode | 0.5.0 | A secure coding agent for VS Code with DeepSeek: approval-controlled workspace… |
-| 2026-11-23 16:41:28 | [EngineerSmith.luajit-2-1-syntax](https://marketplace.visualstudio.com/items?itemName=EngineerSmith.luajit-2-1-syntax) | LuaJIT 2.1 Syntax | 1.0.0 | Adds syntax highlighting for extra LuaJIT keywords and operators. |
-| 2026-11-23 16:42:09 | [kuza.kuza-vscode](https://marketplace.visualstudio.com/items?itemName=kuza.kuza-vscode) | Kuza | 0.5.7 | Kuza language support: syntax, completions, hovers and run |
-| 2026-11-23 16:47:19 | [Eradani.eradani-devops](https://marketplace.visualstudio.com/items?itemName=Eradani.eradani-devops) | Eradani DevOps | 1.3.0 | Eradani DevOps access for VSCode / IBM i |
-| 2026-11-23 16:50:09 | [zutsiy.pcs](https://marketplace.visualstudio.com/items?itemName=zutsiy.pcs) | PCS — Project Control | 1.39.0 | PCS sync status, commit, pull, locks and conflicts inside VS Code; needs the PC… |
-| 2026-11-23 16:59:01 | [wavecoders.specwatch](https://marketplace.visualstudio.com/items?itemName=wavecoders.specwatch) | Specwatch | 0.0.26 | Watch what an AI agent does at each stage of an OpenSpec change, live in VS Cod… |
-| 2026-11-23 17:01:21 | [MichaelPaulus.git-repository-window](https://marketplace.visualstudio.com/items?itemName=MichaelPaulus.git-repository-window) | Git Repository Window | 0.2.0 | A Visual Studio style Git Repository window for VS Code: branches, tags, stashe… |
+| 2026-11-23 17:14:32 | [Marabunta.sql-dbmap](https://marketplace.visualstudio.com/items?itemName=Marabunta.sql-dbmap) | SQL DBMap | 0.1.0 | Generate database ER diagrams from SQL files. |
+| 2026-11-23 17:18:34 | [joernberkefeld.waba-devtools](https://marketplace.visualstudio.com/items?itemName=joernberkefeld.waba-devtools) | WABA DevTools | 0.0.1 | Retrieve, deploy, back up and compare WhatsApp Business message templates acros… |
+| 2026-11-23 17:40:26 | [Marabunta.json-lens](https://marketplace.visualstudio.com/items?itemName=Marabunta.json-lens) | JSON Lens Compare | 0.2.0 | Validate, format, sort and compare JSON with precise error messages. |
+| 2026-11-23 17:47:23 | [bjoern621.helm-values-lens](https://marketplace.visualstudio.com/items?itemName=bjoern621.helm-values-lens) | Helm Values Lens | 1.10.1 | Shows next to each line of a Helm values file the value that the release ends u… |
+| 2026-11-23 17:59:11 | [Zelavis.fuzor](https://marketplace.visualstudio.com/items?itemName=Zelavis.fuzor) | Fuzor | 0.7.0 | TypeScript in Fuzor HTML components: completion, diagnostics, navigation and re… |
+| 2026-11-23 18:11:10 | [OrchestrAI.orchestrai-live](https://marketplace.visualstudio.com/items?itemName=OrchestrAI.orchestrai-live) | OrchestrAI Live | 0.1.0 | Live co-coding, team chat and shared AI context for your team, in the editor yo… |
 
 ## Data source
 
