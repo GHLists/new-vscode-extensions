@@ -12,16 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 05:20 UTC
+## Latest list — 2026-11-23 06:20 UTC
 
-New extensions published between 2026-11-23 03:20 UTC and 2026-11-23 05:20 UTC.
+New extensions published between 2026-11-23 04:20 UTC and 2026-11-23 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T05-20-09-538529Z.csv)
+[Full CSV](data/new-extensions-2026-11-23T06-20-40-27612Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 04:17:43 | [UniversityofToronto.clean-architecture-visualizer](https://marketplace.visualstudio.com/items?itemName=UniversityofToronto.clean-architecture-visualizer) | CAVE: Clean Architecture Visualizer for… | 0.1.1 | Check that your project follows Clean Architecture, with each violation shown o… |
-| 2026-11-23 04:56:23 | [puxpux.puxcode](https://marketplace.visualstudio.com/items?itemName=puxpux.puxcode) | PuxCode | 1.1.0 | Launch and stop PuxCode, a coding agent on free LLMs (FreeLLMAPI + GitHub Copil… |
+| 2026-11-23 05:19:26 | [Ashin06.vibeaudit](https://marketplace.visualstudio.com/items?itemName=Ashin06.vibeaudit) | vibeaudit | 0.11.3 | Security and quality findings for AI-built and LLM apps, with one-click fixes,… |
+| 2026-11-23 05:48:56 | [Tayari24.lottie-view](https://marketplace.visualstudio.com/items?itemName=Tayari24.lottie-view) | Lottie View | 1.0.0 | Instantly preview .lottie and Lottie JSON animations inside VS Code — playback… |
 
 ## Data source
 
