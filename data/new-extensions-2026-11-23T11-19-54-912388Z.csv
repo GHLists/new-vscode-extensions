@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T10:15:40.683Z,heeler.heeler,heeler,Heeler,2.2.0,"Heeler security findings in the editor: secrets, dependencies and code."
+2026-11-23T10:38:55.047Z,baebranch.openboard,baebranch,OpenBoard,0.0.1,Whiteboard custom editor for VS Code-compatible hosts
+2026-11-23T11:02:14.66Z,viral-code-x.lois-language,viral-code-x,LOIS — Language Orienting ItSelf,0.1.0,"Language support for LOIS (.is): syntax highlighting, code snippets, and run-current-file integration."
