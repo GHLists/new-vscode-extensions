@@ -12,21 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 16:20 UTC
+## Latest list — 2026-11-24 17:19 UTC
 
-New extensions published between 2026-11-24 14:20 UTC and 2026-11-24 16:20 UTC.
+New extensions published between 2026-11-24 15:19 UTC and 2026-11-24 17:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T16-20-52-753043Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T17-19-21-908187Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 15:16:42 | [ceslava.mdn-in-your-language](https://marketplace.visualstudio.com/items?itemName=ceslava.mdn-in-your-language) | MDN in Your Language | 0.1.8 | Read MDN Web Docs on hover in Spanish, English, French, Brazilian Portuguese, G… |
-| 2026-11-24 15:24:39 | [GilbertZenner.kerla-script-runner](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.kerla-script-runner) | Kerla Script Runner | 0.1.0 | Führe Shell-Skripte deines Projekts in einer winzigen Kerla-Linux-VM (QEMU, 440… |
-| 2026-11-24 15:46:07 | [quendistudio.qsftp](https://marketplace.visualstudio.com/items?itemName=quendistudio.qsftp) | qSFTP | 1.16.5 | SFTP/FTP sync |
-| 2026-11-24 15:48:15 | [mindconnect-ai.architector](https://marketplace.visualstudio.com/items?itemName=mindconnect-ai.architector) | Architector – Visual PlantUML, C4 & Str… | 0.1.0 | Software architecture diagrams like in a drawing tool: draw, move and edit Plan… |
-| 2026-11-24 15:49:09 | [dsh-harness-vscode.dsh-acp-vscode](https://marketplace.visualstudio.com/items?itemName=dsh-harness-vscode.dsh-acp-vscode) | DSH ACP for VS Code | 0.2.1 | Chat with a DSH Host from VS Code, with diffs, approvals and editor context. |
-| 2026-11-24 15:52:18 | [selyh.selyh](https://marketplace.visualstudio.com/items?itemName=selyh.selyh) | Selyh | 0.1.0 | Check-ins de un toque en pausas naturales, tu carga frente a tu propio ritmo y… |
-| 2026-11-24 15:58:15 | [HardC0reJerry.logros-vscode](https://marketplace.visualstudio.com/items?itemName=HardC0reJerry.logros-vscode) | Logros — Achievements for VS Code | 0.1.0 | Desbloquea logros mientras programas, con notificaciones discretas estilo Steam… |
+| 2026-11-24 16:15:34 | [RayIci.vscode-config-workbench](https://marketplace.visualstudio.com/items?itemName=RayIci.vscode-config-workbench) | VS Code Configuration Workbench | 0.1.0 | Modular, configurable tools for a personal Visual Studio Code setup. |
+| 2026-11-24 16:20:45 | [MzwandileZulu.soga-lang](https://marketplace.visualstudio.com/items?itemName=MzwandileZulu.soga-lang) | Soga | 0.7.2 | Write C++ and Arduino code in all 10 written official South African languages:… |
 
 ## Data source
 

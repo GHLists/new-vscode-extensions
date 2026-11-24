@@ -1,0 +1,3 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T16:15:34.343Z,RayIci.vscode-config-workbench,RayIci,VS Code Configuration Workbench,0.1.0,"Modular, configurable tools for a personal Visual Studio Code setup."
+2026-11-24T16:20:45.667Z,MzwandileZulu.soga-lang,MzwandileZulu,Soga,0.7.2,"Write C++ and Arduino code in all 10 written official South African languages: every Arduino-compatible board (Uno, Nano, Mega, Uno R4, Nano 33, ESP32, Raspberry Pi Pico, STM32, ...), ROS 2, OpenCV, Eigen, CUDA and PyTorch, with error messages in your language and a full language server. Includes a"
