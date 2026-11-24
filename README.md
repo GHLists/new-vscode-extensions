@@ -12,19 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 00:18 UTC
+## Latest list — 2026-11-24 01:18 UTC
 
-New extensions published between 2026-11-23 22:18 UTC and 2026-11-24 00:18 UTC.
+New extensions published between 2026-11-23 23:18 UTC and 2026-11-24 01:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T00-18-56-989063Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T01-18-41-206891Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 23:20:29 | [cadogy.opencode-sidecar](https://marketplace.visualstudio.com/items?itemName=cadogy.opencode-sidecar) | Sidecar for OpenCode | 0.1.1 | The complete OpenCode coding agent in a VS Code chat panel: a timeline of every… |
-| 2026-11-23 23:34:12 | [semantic-devtools.agent-multitask-pro](https://marketplace.visualstudio.com/items?itemName=semantic-devtools.agent-multitask-pro) | Agent Multitask Pro — Monitor Codex, Cl… | 1.0.247 | Monitor what your agents are doing across VS Code windows and switch to them wh… |
-| 2026-11-23 23:36:43 | [OrestBida.axaml-live](https://marketplace.visualstudio.com/items?itemName=OrestBida.axaml-live) | AXAML Live | 0.1.1 | Live preview, completion, diagnostics and formatting for Avalonia XAML (.axaml)… |
-| 2026-11-23 23:51:53 | [badbit.badbit](https://marketplace.visualstudio.com/items?itemName=badbit.badbit) | BadBit | 0.11.0 | Run and debug LISP and Python in BadBit CAD, with completion, hover help and di… |
-| 2026-11-23 23:57:34 | [bensiegel.revloop](https://marketplace.visualstudio.com/items?itemName=bensiegel.revloop) | Revloop | 0.1.0 | Review local coding-agent changes with persistent inline threads in native VS C… |
+| 2026-11-24 00:08:25 | [20luisma.itv-calidad-vscode](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode) | ITV de Código | 1.2.2 | Gate DevSecOps local de 7 estaciones en tu barra lateral: sintaxis, tipos, cobe… |
+| 2026-11-24 00:49:23 | [freebasecloud.freebase-vscode](https://marketplace.visualstudio.com/items?itemName=freebasecloud.freebase-vscode) | Freebase — Your databases, in your edit… | 0.1.2 | Create private hosted databases, query real data, share and configure projects… |
+| 2026-11-24 01:00:57 | [gneiss-theme.gneiss-vscode](https://marketplace.visualstudio.com/items?itemName=gneiss-theme.gneiss-vscode) | Gneiss | 0.1.0 | Nord's colors on neutral dark grays. |
+| 2026-11-24 01:10:43 | [galeikan.galeikan-eclipse](https://marketplace.visualstudio.com/items?itemName=galeikan.galeikan-eclipse) | Galeikan Eclipse | 0.1.0 | An ice-blue dark theme for Visual Studio Code |
 
 ## Data source
 
