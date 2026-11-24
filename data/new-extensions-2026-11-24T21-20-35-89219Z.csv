@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T20:22:28.077Z,KaikySantosBR.kaiky-xournalpp-pdf,KaikySantosBR,Kaiky xournal ++ pdf,1.0.1,"Sync Xournal++ notes (.xopp) with PDF for viewing in VS Code. Auto-export on save, open in Xournal++, create new notes, search, rename, delete."
+2026-11-24T20:35:55.52Z,doubleD.copilot-auto-allow,doubleD,Auto Allow for Copilot Chat (Experimental),0.1.0,An ON/OFF switch that repeatedly invokes VS Code's single-tool approval action in the last focused chat.
+2026-11-24T20:48:21.353Z,matthewaburton.critical-rhino,matthewaburton,Critical Rhino,1.0.0,"A warm dark and light color theme: cream on near-black, readable at 4.5:1 everywhere."
+2026-11-24T21:02:05.1Z,ceafive.browser-hub-mcp,ceafive,Browser Hub for Agents (MCP),0.3.1,"Drive VS Code's integrated browser from Claude Code and other agents over MCP: tabs you share are picked up automatically, forms and logins are remembered, plus debugging, emulation, performance, audits, visual diffs and recorded flows."
+2026-11-24T21:05:14.61Z,lofrance.pebble-code-companion,lofrance,Pebble · Code Path Companion,0.7.19,"Walk the path. You write the code. A pair engineer in your editor: it plans the path, prepares the structure, checks your work with your tests and helps you think."
+2026-11-24T21:07:26.677Z,muowl.cadenza-theme,muowl,Cadenza,0.2.0,"A restrained near-black theme in the colors of Astra Yao: scarlet, gold, jade and lilac. Fan-made and unaffiliated with HoYoverse; inspired by Astra Yao from Zenless Zone Zero."
+2026-11-24T21:11:36.553Z,kcoto18.codegraph-map,kcoto18,CodeGraph Map,0.1.0,"Interactive graph of files, functions, imports and calls for TypeScript, JavaScript, Python, Java, C# and Go projects."

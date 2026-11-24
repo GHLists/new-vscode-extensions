@@ -12,18 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 20:21 UTC
+## Latest list — 2026-11-24 21:20 UTC
 
-New extensions published between 2026-11-24 18:21 UTC and 2026-11-24 20:21 UTC.
+New extensions published between 2026-11-24 19:20 UTC and 2026-11-24 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T20-21-01-470808Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T21-20-35-89219Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 19:05:05 | [ThalesoMilas.seldia-vscode](https://marketplace.visualstudio.com/items?itemName=ThalesoMilas.seldia-vscode) | SelDiA | 1.77.0 | Unified Diagram-as-Code with Rough.js — 21+ diagram types, interactive editing,… |
-| 2026-11-24 19:25:12 | [Alvorak.vscode-power-meme](https://marketplace.visualstudio.com/items?itemName=Alvorak.vscode-power-meme) | VSCode Power Meme | 0.0.2 | Shows a short meme GIF when code execution finishes. |
-| 2026-11-24 19:28:26 | [klgomez.gitsos](https://marketplace.visualstudio.com/items?itemName=klgomez.gitsos) | GitSOS — Guía Interactiva de Git | 0.2.3 | Guía interactiva de Git y GitHub en español para principiantes, 100% offline, c… |
-| 2026-11-24 19:54:35 | [hinmil.hinmil](https://marketplace.visualstudio.com/items?itemName=hinmil.hinmil) | HinMil — Hindley-Milner for JavaScript | 0.1.0 | Hindley-Milner type inference LSP for JavaScript |
+| 2026-11-24 20:22:28 | [KaikySantosBR.kaiky-xournalpp-pdf](https://marketplace.visualstudio.com/items?itemName=KaikySantosBR.kaiky-xournalpp-pdf) | Kaiky xournal ++ pdf | 1.0.1 | Sync Xournal++ notes (.xopp) with PDF for viewing in VS Code. Auto-export on sa… |
+| 2026-11-24 20:35:55 | [doubleD.copilot-auto-allow](https://marketplace.visualstudio.com/items?itemName=doubleD.copilot-auto-allow) | Auto Allow for Copilot Chat (Experiment… | 0.1.0 | An ON/OFF switch that repeatedly invokes VS Code's single-tool approval action… |
+| 2026-11-24 20:48:21 | [matthewaburton.critical-rhino](https://marketplace.visualstudio.com/items?itemName=matthewaburton.critical-rhino) | Critical Rhino | 1.0.0 | A warm dark and light color theme: cream on near-black, readable at 4.5:1 every… |
+| 2026-11-24 21:02:05 | [ceafive.browser-hub-mcp](https://marketplace.visualstudio.com/items?itemName=ceafive.browser-hub-mcp) | Browser Hub for Agents (MCP) | 0.3.1 | Drive VS Code's integrated browser from Claude Code and other agents over MCP:… |
+| 2026-11-24 21:05:14 | [lofrance.pebble-code-companion](https://marketplace.visualstudio.com/items?itemName=lofrance.pebble-code-companion) | Pebble · Code Path Companion | 0.7.19 | Walk the path. You write the code. A pair engineer in your editor: it plans the… |
+| 2026-11-24 21:07:26 | [muowl.cadenza-theme](https://marketplace.visualstudio.com/items?itemName=muowl.cadenza-theme) | Cadenza | 0.2.0 | A restrained near-black theme in the colors of Astra Yao: scarlet, gold, jade a… |
+| 2026-11-24 21:11:36 | [kcoto18.codegraph-map](https://marketplace.visualstudio.com/items?itemName=kcoto18.codegraph-map) | CodeGraph Map | 0.1.0 | Interactive graph of files, functions, imports and calls for TypeScript, JavaSc… |
 
 ## Data source
 
