@@ -12,18 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 01:18 UTC
+## Latest list — 2026-11-24 02:19 UTC
 
-New extensions published between 2026-11-23 23:18 UTC and 2026-11-24 01:18 UTC.
+New extensions published between 2026-11-24 00:19 UTC and 2026-11-24 02:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T01-18-41-206891Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T02-19-16-69555Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 00:08:25 | [20luisma.itv-calidad-vscode](https://marketplace.visualstudio.com/items?itemName=20luisma.itv-calidad-vscode) | ITV de Código | 1.2.2 | Gate DevSecOps local de 7 estaciones en tu barra lateral: sintaxis, tipos, cobe… |
-| 2026-11-24 00:49:23 | [freebasecloud.freebase-vscode](https://marketplace.visualstudio.com/items?itemName=freebasecloud.freebase-vscode) | Freebase — Your databases, in your edit… | 0.1.2 | Create private hosted databases, query real data, share and configure projects… |
-| 2026-11-24 01:00:57 | [gneiss-theme.gneiss-vscode](https://marketplace.visualstudio.com/items?itemName=gneiss-theme.gneiss-vscode) | Gneiss | 0.1.0 | Nord's colors on neutral dark grays. |
-| 2026-11-24 01:10:43 | [galeikan.galeikan-eclipse](https://marketplace.visualstudio.com/items?itemName=galeikan.galeikan-eclipse) | Galeikan Eclipse | 0.1.0 | An ice-blue dark theme for Visual Studio Code |
+| 2026-11-24 01:27:21 | [lucacicii.herdr-core-bridge](https://marketplace.visualstudio.com/items?itemName=lucacicii.herdr-core-bridge) | Herdr Core Bridge | 0.1.1 | Connect VS Code to local herdr-core (hc) — manage Spaces, monitor live AI agent… |
+| 2026-11-24 01:50:00 | [koji-language.koji](https://marketplace.visualstudio.com/items?itemName=koji-language.koji) | Koji | 0.1.0 | Koji for VS Code: syntax highlighting, and the errors, types and declarations o… |
+| 2026-11-24 02:05:00 | [wang-dong.agent-proxy](https://marketplace.visualstudio.com/items?itemName=wang-dong.agent-proxy) | Agent Proxy (Codex & Claude 模型路由) | 1.0.0 | 为 Codex 与 Claude 提供本地路由服务，接入任意 OpenAI / Anthropic 兼容模型；原生面板、自动获取模型、一键应用配置。 Loca… |
+| 2026-11-24 02:11:11 | [monroedean.vimcoach](https://marketplace.visualstudio.com/items?itemName=monroedean.vimcoach) | VimCoach (for VSCodeVim) | 0.1.0 | Real-time Vim motion coach for VSCodeVim — catches inefficient habits and shows… |
+| 2026-11-24 02:13:49 | [zimuyi.opencode-edits-review](https://marketplace.visualstudio.com/items?itemName=zimuyi.opencode-edits-review) | OpenCode Edits Review | 0.2.0 | Review cumulative OpenCode edits in the native VS Code diff editor. |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T01:27:21.157Z,lucacicii.herdr-core-bridge,lucacicii,Herdr Core Bridge,0.1.1,"Connect VS Code to local herdr-core (hc) — manage Spaces, monitor live AI agent sessions, attach shared terminals in Native or XTerm Webview mode, and send editor code references."
+2026-11-24T01:50:00.173Z,koji-language.koji,koji-language,Koji,0.1.0,"Koji for VS Code: syntax highlighting, and the errors, types and declarations of the Koji language server"
+2026-11-24T02:05:00.3Z,wang-dong.agent-proxy,wang-dong,Agent Proxy (Codex & Claude 模型路由),1.0.0,为 Codex 与 Claude 提供本地路由服务，接入任意 OpenAI / Anthropic 兼容模型；原生面板、自动获取模型、一键应用配置。 Local model router for Codex and Claude.
+2026-11-24T02:11:11.263Z,monroedean.vimcoach,monroedean,VimCoach (for VSCodeVim),0.1.0,"Real-time Vim motion coach for VSCodeVim — catches inefficient habits and shows shorter, practical Vim motions with inline hints and a Mastery Dashboard."
+2026-11-24T02:13:49.403Z,zimuyi.opencode-edits-review,zimuyi,OpenCode Edits Review,0.2.0,Review cumulative OpenCode edits in the native VS Code diff editor.
