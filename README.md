@@ -12,22 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 07:20 UTC
+## Latest list — 2026-11-24 08:21 UTC
 
-New extensions published between 2026-11-24 05:20 UTC and 2026-11-24 07:20 UTC.
+New extensions published between 2026-11-24 06:21 UTC and 2026-11-24 08:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T07-20-09-852672Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T08-21-16-732126Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 06:22:53 | [zyan.cursor-zh](https://marketplace.visualstudio.com/items?itemName=zyan.cursor-zh) | Chinese (Simplified) (简体中文) Language Pa… | 1.131.1 | 简体中文语言包，覆盖 VS Code 界面以及 Cursor 3.31 内核文案。VS Code 译文来自 https://github.com/micros… |
-| 2026-11-24 06:28:21 | [qxide-lang.qxide](https://marketplace.visualstudio.com/items?itemName=qxide-lang.qxide) | Qxide | 0.1.0 | Syntax highlighting and language server support for Qxide (.qx): diagnostics, f… |
-| 2026-11-24 06:31:31 | [TBN.codex-reply-sound](https://marketplace.visualstudio.com/items?itemName=TBN.codex-reply-sound) | Codex Sound | 0.2.5 | Play a customizable sound when Codex finishes a reply in VS Code on Windows. |
-| 2026-11-24 06:33:24 | [gautham-nvidia.charmlet](https://marketplace.visualstudio.com/items?itemName=gautham-nvidia.charmlet) | CharmBits: Coding Charms | 0.16.0 | Free coding companions, calm pet reactions, charm bracelets, focus sessions, a… |
-| 2026-11-24 06:51:19 | [chandankr014.gpkg-viewer](https://marketplace.visualstudio.com/items?itemName=chandankr014.gpkg-viewer) | GeoPackage Viewer | 0.1.0 | Open .gpkg files on a map with an attribute table. |
-| 2026-11-24 06:51:33 | [ykid.gcode-debug](https://marketplace.visualstudio.com/items?itemName=ykid.gcode-debug) | gcode-debug | 0.3.2 |  |
-| 2026-11-24 07:08:50 | [quibits.routemap-vscode](https://marketplace.visualstudio.com/items?itemName=quibits.routemap-vscode) | RouteMap for Express | 0.1.0 | Static analysis for Express routes, middleware and request flow, inside VS Code. |
-| 2026-11-24 07:08:57 | [Noorakhyar.css-structure-analyzer](https://marketplace.visualstudio.com/items?itemName=Noorakhyar.css-structure-analyzer) | CSS Structure Analyzer | 0.1.0 | On-demand static CSS analysis using HTML, limited PHP and JavaScript class refe… |
+| 2026-11-24 07:16:49 | [tinderbox.adb-wifi-wireless](https://marketplace.visualstudio.com/items?itemName=tinderbox.adb-wifi-wireless) | ADB WIFI 无线调试 | 0.1.0 | 在 VS Code 中管理 Android 无线调试：二维码/配对码配对、设备发现、无线连接、历史配对与 ADB 诊断。 |
+| 2026-11-24 07:35:40 | [AizuOnlineJudge.aoj-for-vscode](https://marketplace.visualstudio.com/items?itemName=AizuOnlineJudge.aoj-for-vscode) | AOJ for VS Code | 0.2.7 | Aizu Online Judge Extension for VS Code |
+| 2026-11-24 07:51:41 | [Fenlyin.git-graph-fenlyin](https://marketplace.visualstudio.com/items?itemName=Fenlyin.git-graph-fenlyin) | Git Graph (Fenlyin) | 1.30.1 | View a Git Graph of your repository, and perform Git actions from the graph. |
+| 2026-11-24 07:51:42 | [thunderkex.tinkr-companion](https://marketplace.visualstudio.com/items?itemName=thunderkex.tinkr-companion) | Tinkr | 0.1.0 | Status bar token savings & Doctor command for the local Tinkr binary (works in… |
+| 2026-11-24 07:51:43 | [asarthak2003.devlogstudio](https://marketplace.visualstudio.com/items?itemName=asarthak2003.devlogstudio) | DevLog Studio | 0.0.1 | Local-only activity tracking, automatic standups, and resume-context for develo… |
+| 2026-11-24 07:54:25 | [theosylvestre.dbt-lens](https://marketplace.visualstudio.com/items?itemName=theosylvestre.dbt-lens) | dbt Lens — Lineage & Snowflake | 0.1.0 | Lignage dbt façon canvas, colonnes du schema.yml, tests, statuts et autocomplét… |
+| 2026-11-24 07:58:07 | [Doop.doop](https://marketplace.visualstudio.com/items?itemName=Doop.doop) | Doop | 0.1.0 | Your Doop canvases inside your editor: design live with your coding agents next… |
+| 2026-11-24 07:59:13 | [lvliangxiong.vscode-enhanced-git-icon-theme](https://marketplace.visualstudio.com/items?itemName=lvliangxiong.vscode-enhanced-git-icon-theme) | Enhanced Git File Icon Theme Bridge | 0.1.292 | Shares the local VS Code file icon theme with Enhanced Git, including Remote SS… |
+| 2026-11-24 07:59:15 | [lvliangxiong.vscode-enhanced-git](https://marketplace.visualstudio.com/items?itemName=lvliangxiong.vscode-enhanced-git) | Enhanced Git for Visual Studio Code | 0.1.292 | A JetBrains-inspired three-pane Git history for VS Code. |
+| 2026-11-24 08:06:41 | [Aurumjin.diff-compare](https://marketplace.visualstudio.com/items?itemName=Aurumjin.diff-compare) | Diff Compare | 0.1.1 | 像 Beyond Compare 一样在 VS Code 标签页里做双栏对比：比较文本、十六进制与二进制文件，对比整个目录，并按差异逐处或整体同步。 |
+| 2026-11-24 08:07:04 | [AiCodeAgent.aicodeagent](https://marketplace.visualstudio.com/items?itemName=AiCodeAgent.aicodeagent) | AiCodeAgent | 1.0.0 | VS Code 侧边栏 AI 编程 Agent：流式对话、文件读写 Diff 审批、多页签、语义导航、MCP、Skills、子 Agent、网页搜索、多模态与… |
+| 2026-11-24 08:10:44 | [zhouhl.codex-restart](https://marketplace.visualstudio.com/items?itemName=zhouhl.codex-restart) | Codex Restart | 1.0.1 | Recover a stuck Codex extension by restarting VS Code extension hosts, with an… |
 
 ## Data source
 
