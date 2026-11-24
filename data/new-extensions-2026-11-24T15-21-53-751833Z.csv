@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T14:28:26.08Z,ajaypranav25.hindsight-vscode,ajaypranav25,Hindsight,0.4.1,"The Hindsight language (.sight) in VS Code: syntax highlighting, run on save, call counts, never-ran lines with why-not explanations, crash slices and links into Hindsight Studio."
+2026-11-24T14:29:16.437Z,shreyan1999.kvstream-monitor,shreyan1999,KVStream Monitor,0.1.0,"Unofficial monitor for KVStream and Microsoft Foundry Local: live health, requests, queue and admission budget, with start, stop and model loading from VS Code."
+2026-11-24T14:39:29.967Z,linkbunny.linkbunny-placement-checker,linkbunny,LinkBunny Backlink Checker MCP Server,1.0.0,"Adds LinkBunny's free hosted MCP server that checks one published page for a backlink's destination, anchor text and nofollow status."
+2026-11-24T14:42:17.24Z,lebon.campfire-notes,lebon,Campfire Notes: Quick Notes & Claude Code Usage Timer,0.1.4,A quiet place to capture notes and prompts while your AI assistant works — plus a transparent Claude Code usage and reset monitor.
+2026-11-24T14:42:45.233Z,ZohmControlGmbH.ultrazohm-extension,ZohmControlGmbH,ultrazohm-extension,0.1.12,"UltraZohm DataViewer, interactive CLI, Python environment and firmware tools."
+2026-11-24T15:01:51.35Z,presio.presio-preview,presio,Presio Preview,0.1.0,"Preview Presio PDF decks in VS Code: slides with their videos, GIFs, HTML animations, drawings and speaker notes, reloaded whenever the PDF is rebuilt."
+2026-11-24T15:02:37.517Z,anujshrigiriwar.auroralens,anujshrigiriwar,AuroraLens,0.4.3,The secure way to query Amazon Aurora from VS Code. No VPN. No bastion. No stored passwords.
+2026-11-24T15:05:29.057Z,KiranpreetKaur.coding-agent,KiranpreetKaur,Coding Agent,0.1.2,"Index-first coding agent: find files, answer questions, propose edits with human approval. Uses Groq + Gemini embeddings."

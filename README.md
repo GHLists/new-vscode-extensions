@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 14:19 UTC
+## Latest list — 2026-11-24 15:21 UTC
 
-New extensions published between 2026-11-24 12:19 UTC and 2026-11-24 14:19 UTC.
+New extensions published between 2026-11-24 13:21 UTC and 2026-11-24 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T14-19-37-04162Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T15-21-53-751833Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 13:29:38 | [lipelix.git-fate](https://marketplace.visualstudio.com/items?itemName=lipelix.git-fate) | Git Fate | 0.1.1 | See who changed every line, when and why: inline blame, file blame heatmap, fil… |
-| 2026-11-24 13:39:04 | [sorcererdev.spellbook](https://marketplace.visualstudio.com/items?itemName=sorcererdev.spellbook) | Spellbook | 0.2.0 | Spellbook in VS Code: a project's generators with holes to fill, and its rules… |
-| 2026-11-24 13:47:45 | [AmitPatel.claude-code-account-switcher-ap](https://marketplace.visualstudio.com/items?itemName=AmitPatel.claude-code-account-switcher-ap) | Claude Code Accounts Switcher | 0.1.0 | Switch between multiple Claude Code accounts (work / personal) and always see w… |
-| 2026-11-24 13:50:58 | [LxStudio.flowtasks-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.flowtasks-lx) | FlowTasks — Natural Language Task Runner | 1.0.0 | Describe workflows in plain language, group tasks, execute locally with one cli… |
-| 2026-11-24 13:50:58 | [LxStudio.depguard-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.depguard-lx) | DepGuard — Local Dependency Security Sc… | 1.0.0 | Scan npm/pip dependencies for vulnerabilities locally. Zero uploads. Color-code… |
-| 2026-11-24 13:55:49 | [LemuelAdane.accent-go-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.accent-go-formatter) | Accent Go Formatter | 0.1.0 | Configurable Go code formatter for Visual Studio Code. |
-| 2026-11-24 13:56:07 | [tabdeck.tabdeck](https://marketplace.visualstudio.com/items?itemName=tabdeck.tabdeck) | TabDeck | 0.3.0 | Use an Android tablet as a context-aware side screen for your Windows PCs, over… |
+| 2026-11-24 14:28:26 | [ajaypranav25.hindsight-vscode](https://marketplace.visualstudio.com/items?itemName=ajaypranav25.hindsight-vscode) | Hindsight | 0.4.1 | The Hindsight language (.sight) in VS Code: syntax highlighting, run on save, c… |
+| 2026-11-24 14:29:16 | [shreyan1999.kvstream-monitor](https://marketplace.visualstudio.com/items?itemName=shreyan1999.kvstream-monitor) | KVStream Monitor | 0.1.0 | Unofficial monitor for KVStream and Microsoft Foundry Local: live health, reque… |
+| 2026-11-24 14:39:29 | [linkbunny.linkbunny-placement-checker](https://marketplace.visualstudio.com/items?itemName=linkbunny.linkbunny-placement-checker) | LinkBunny Backlink Checker MCP Server | 1.0.0 | Adds LinkBunny's free hosted MCP server that checks one published page for a ba… |
+| 2026-11-24 14:42:17 | [lebon.campfire-notes](https://marketplace.visualstudio.com/items?itemName=lebon.campfire-notes) | Campfire Notes: Quick Notes & Claude Co… | 0.1.4 | A quiet place to capture notes and prompts while your AI assistant works — plus… |
+| 2026-11-24 14:42:45 | [ZohmControlGmbH.ultrazohm-extension](https://marketplace.visualstudio.com/items?itemName=ZohmControlGmbH.ultrazohm-extension) | ultrazohm-extension | 0.1.12 | UltraZohm DataViewer, interactive CLI, Python environment and firmware tools. |
+| 2026-11-24 15:01:51 | [presio.presio-preview](https://marketplace.visualstudio.com/items?itemName=presio.presio-preview) | Presio Preview | 0.1.0 | Preview Presio PDF decks in VS Code: slides with their videos, GIFs, HTML anima… |
+| 2026-11-24 15:02:37 | [anujshrigiriwar.auroralens](https://marketplace.visualstudio.com/items?itemName=anujshrigiriwar.auroralens) | AuroraLens | 0.4.3 | The secure way to query Amazon Aurora from VS Code. No VPN. No bastion. No stor… |
+| 2026-11-24 15:05:29 | [KiranpreetKaur.coding-agent](https://marketplace.visualstudio.com/items?itemName=KiranpreetKaur.coding-agent) | Coding Agent | 0.1.2 | Index-first coding agent: find files, answer questions, propose edits with huma… |
 
 ## Data source
 
