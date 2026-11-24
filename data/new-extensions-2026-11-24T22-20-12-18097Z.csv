@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T21:22:00.617Z,BrMacCath.mdsvex-draft-manager,BrMacCath,Mdsvex Draft Manager,0.0.1,Creates new drafts from markdown files. Can fill in sections of mdsvex files with these markdown
+2026-11-24T21:45:31.807Z,AlfonsoFuentes.black2017,AlfonsoFuentes,black2017,1.0.0,A dark theme inspired by VS Code Dark 2017
+2026-11-24T21:52:36.17Z,local-capstone.cpp-security-workbench,local-capstone,C++ Security Workbench,0.1.0,Local C++ SQL-injection and memory-leak review with location-pattern reports.
