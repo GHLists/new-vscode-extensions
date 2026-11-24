@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T06:22:53.093Z,zyan.cursor-zh,zyan,Chinese (Simplified) (简体中文) Language Pack for Cursor,1.131.1,简体中文语言包，覆盖 VS Code 界面以及 Cursor 3.31 内核文案。VS Code 译文来自 https://github.com/microsoft/vscode-loc
+2026-11-24T06:28:21.287Z,qxide-lang.qxide,qxide-lang,Qxide,0.1.0,"Syntax highlighting and language server support for Qxide (.qx): diagnostics, formatting, and completion"
+2026-11-24T06:31:31.283Z,TBN.codex-reply-sound,TBN,Codex Sound,0.2.5,Play a customizable sound when Codex finishes a reply in VS Code on Windows.
+2026-11-24T06:33:24.113Z,gautham-nvidia.charmlet,gautham-nvidia,CharmBits: Coding Charms,0.16.0,"Free coding companions, calm pet reactions, charm bracelets, focus sessions, a daily garden and local photo keepsakes."
+2026-11-24T06:51:19.65Z,chandankr014.gpkg-viewer,chandankr014,GeoPackage Viewer,0.1.0,Open .gpkg files on a map with an attribute table.
+2026-11-24T06:51:33.58Z,ykid.gcode-debug,ykid,gcode-debug,0.3.2,
+2026-11-24T07:08:50.43Z,quibits.routemap-vscode,quibits,RouteMap for Express,0.1.0,"Static analysis for Express routes, middleware and request flow, inside VS Code."
+2026-11-24T07:08:57.383Z,Noorakhyar.css-structure-analyzer,Noorakhyar,CSS Structure Analyzer,0.1.0,"On-demand static CSS analysis using HTML, limited PHP and JavaScript class references to identify unused CSS candidates, duplicate styles, similar styles, and provide manual refactoring recommendations. Dynamic behavior requires manual review."

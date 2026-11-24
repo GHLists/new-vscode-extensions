@@ -12,21 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 06:20 UTC
+## Latest list — 2026-11-24 07:20 UTC
 
-New extensions published between 2026-11-24 04:20 UTC and 2026-11-24 06:20 UTC.
+New extensions published between 2026-11-24 05:20 UTC and 2026-11-24 07:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T06-20-20-54995Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T07-20-09-852672Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 05:22:19 | [Zilvereyes.wow-addon-toc](https://marketplace.visualstudio.com/items?itemName=Zilvereyes.wow-addon-toc) | Zilvereyes WoW TOC | 0.6.1 | WoW TOC grammar, editor theme, LuaLS SavedVariables sync, file reference warnin… |
-| 2026-11-24 05:22:42 | [Zilvereyes.wow-addon-dev](https://marketplace.visualstudio.com/items?itemName=Zilvereyes.wow-addon-dev) | Zilvereyes WoW AddOn Development Preview | 0.2.1 | WoW TOC, XML references, client-specific LuaLS API libraries and local Lua comp… |
-| 2026-11-24 05:32:33 | [nguyenthanhdat.cswap-manager](https://marketplace.visualstudio.com/items?itemName=nguyenthanhdat.cswap-manager) | Cswap Manager | 0.3.0 | Manage Claude Swap (cswap) accounts and usage from VS Code. |
-| 2026-11-24 05:34:49 | [kasifraza.ux4g-design-system](https://marketplace.visualstudio.com/items?itemName=kasifraza.ux4g-design-system) | UX4G Design System Extension | 0.3.0 | Unofficial editor support for the UX4G design system: hover a design token to s… |
-| 2026-11-24 05:42:50 | [metaphore.same-ink](https://marketplace.visualstudio.com/items?itemName=metaphore.same-ink) | Same Ink | 0.1.0 | Highlights code blocks in the Markdown preview with your current editor color t… |
-| 2026-11-24 05:52:02 | [jammiguelyfish.django-fetchlens](https://marketplace.visualstudio.com/items?itemName=jammiguelyfish.django-fetchlens) | Django FetchLens | 0.1.0 | Browse your Django routes, jump from a frontend fetch() call to the view that s… |
-| 2026-11-24 06:06:19 | [Praktical.githawk-graph](https://marketplace.visualstudio.com/items?itemName=Praktical.githawk-graph) | GitHawk Graph | 0.11.0 | A simple, fast git graph for VS Code. MIT licensed. No AI, no telemetry. |
+| 2026-11-24 06:22:53 | [zyan.cursor-zh](https://marketplace.visualstudio.com/items?itemName=zyan.cursor-zh) | Chinese (Simplified) (简体中文) Language Pa… | 1.131.1 | 简体中文语言包，覆盖 VS Code 界面以及 Cursor 3.31 内核文案。VS Code 译文来自 https://github.com/micros… |
+| 2026-11-24 06:28:21 | [qxide-lang.qxide](https://marketplace.visualstudio.com/items?itemName=qxide-lang.qxide) | Qxide | 0.1.0 | Syntax highlighting and language server support for Qxide (.qx): diagnostics, f… |
+| 2026-11-24 06:31:31 | [TBN.codex-reply-sound](https://marketplace.visualstudio.com/items?itemName=TBN.codex-reply-sound) | Codex Sound | 0.2.5 | Play a customizable sound when Codex finishes a reply in VS Code on Windows. |
+| 2026-11-24 06:33:24 | [gautham-nvidia.charmlet](https://marketplace.visualstudio.com/items?itemName=gautham-nvidia.charmlet) | CharmBits: Coding Charms | 0.16.0 | Free coding companions, calm pet reactions, charm bracelets, focus sessions, a… |
+| 2026-11-24 06:51:19 | [chandankr014.gpkg-viewer](https://marketplace.visualstudio.com/items?itemName=chandankr014.gpkg-viewer) | GeoPackage Viewer | 0.1.0 | Open .gpkg files on a map with an attribute table. |
+| 2026-11-24 06:51:33 | [ykid.gcode-debug](https://marketplace.visualstudio.com/items?itemName=ykid.gcode-debug) | gcode-debug | 0.3.2 |  |
+| 2026-11-24 07:08:50 | [quibits.routemap-vscode](https://marketplace.visualstudio.com/items?itemName=quibits.routemap-vscode) | RouteMap for Express | 0.1.0 | Static analysis for Express routes, middleware and request flow, inside VS Code. |
+| 2026-11-24 07:08:57 | [Noorakhyar.css-structure-analyzer](https://marketplace.visualstudio.com/items?itemName=Noorakhyar.css-structure-analyzer) | CSS Structure Analyzer | 0.1.0 | On-demand static CSS analysis using HTML, limited PHP and JavaScript class refe… |
 
 ## Data source
 
