@@ -12,26 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 08:21 UTC
+## Latest list — 2026-11-24 09:19 UTC
 
-New extensions published between 2026-11-24 06:21 UTC and 2026-11-24 08:21 UTC.
+New extensions published between 2026-11-24 07:19 UTC and 2026-11-24 09:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T08-21-16-732126Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T09-19-41-248873Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 07:16:49 | [tinderbox.adb-wifi-wireless](https://marketplace.visualstudio.com/items?itemName=tinderbox.adb-wifi-wireless) | ADB WIFI 无线调试 | 0.1.0 | 在 VS Code 中管理 Android 无线调试：二维码/配对码配对、设备发现、无线连接、历史配对与 ADB 诊断。 |
-| 2026-11-24 07:35:40 | [AizuOnlineJudge.aoj-for-vscode](https://marketplace.visualstudio.com/items?itemName=AizuOnlineJudge.aoj-for-vscode) | AOJ for VS Code | 0.2.7 | Aizu Online Judge Extension for VS Code |
-| 2026-11-24 07:51:41 | [Fenlyin.git-graph-fenlyin](https://marketplace.visualstudio.com/items?itemName=Fenlyin.git-graph-fenlyin) | Git Graph (Fenlyin) | 1.30.1 | View a Git Graph of your repository, and perform Git actions from the graph. |
-| 2026-11-24 07:51:42 | [thunderkex.tinkr-companion](https://marketplace.visualstudio.com/items?itemName=thunderkex.tinkr-companion) | Tinkr | 0.1.0 | Status bar token savings & Doctor command for the local Tinkr binary (works in… |
-| 2026-11-24 07:51:43 | [asarthak2003.devlogstudio](https://marketplace.visualstudio.com/items?itemName=asarthak2003.devlogstudio) | DevLog Studio | 0.0.1 | Local-only activity tracking, automatic standups, and resume-context for develo… |
-| 2026-11-24 07:54:25 | [theosylvestre.dbt-lens](https://marketplace.visualstudio.com/items?itemName=theosylvestre.dbt-lens) | dbt Lens — Lineage & Snowflake | 0.1.0 | Lignage dbt façon canvas, colonnes du schema.yml, tests, statuts et autocomplét… |
-| 2026-11-24 07:58:07 | [Doop.doop](https://marketplace.visualstudio.com/items?itemName=Doop.doop) | Doop | 0.1.0 | Your Doop canvases inside your editor: design live with your coding agents next… |
-| 2026-11-24 07:59:13 | [lvliangxiong.vscode-enhanced-git-icon-theme](https://marketplace.visualstudio.com/items?itemName=lvliangxiong.vscode-enhanced-git-icon-theme) | Enhanced Git File Icon Theme Bridge | 0.1.292 | Shares the local VS Code file icon theme with Enhanced Git, including Remote SS… |
-| 2026-11-24 07:59:15 | [lvliangxiong.vscode-enhanced-git](https://marketplace.visualstudio.com/items?itemName=lvliangxiong.vscode-enhanced-git) | Enhanced Git for Visual Studio Code | 0.1.292 | A JetBrains-inspired three-pane Git history for VS Code. |
-| 2026-11-24 08:06:41 | [Aurumjin.diff-compare](https://marketplace.visualstudio.com/items?itemName=Aurumjin.diff-compare) | Diff Compare | 0.1.1 | 像 Beyond Compare 一样在 VS Code 标签页里做双栏对比：比较文本、十六进制与二进制文件，对比整个目录，并按差异逐处或整体同步。 |
-| 2026-11-24 08:07:04 | [AiCodeAgent.aicodeagent](https://marketplace.visualstudio.com/items?itemName=AiCodeAgent.aicodeagent) | AiCodeAgent | 1.0.0 | VS Code 侧边栏 AI 编程 Agent：流式对话、文件读写 Diff 审批、多页签、语义导航、MCP、Skills、子 Agent、网页搜索、多模态与… |
-| 2026-11-24 08:10:44 | [zhouhl.codex-restart](https://marketplace.visualstudio.com/items?itemName=zhouhl.codex-restart) | Codex Restart | 1.0.1 | Recover a stuck Codex extension by restarting VS Code extension hosts, with an… |
+| 2026-11-24 08:24:14 | [youmengyu-mem.youmengyu-mem](https://marketplace.visualstudio.com/items?itemName=youmengyu-mem.youmengyu-mem) | 游梦鱼·长记忆 (AI Memory for Git Repos) | 0.3.3 | 给每个 Git 仓库一份可长期积累、可注入 AI 编程助手的本地长记忆：事实化存储、画像注入、语义重排检索、版本链与关系图、空间分区；数据按条目存进仓库自身的… |
+| 2026-11-24 08:31:07 | [fiu-ai.fiu-finance-mcp](https://marketplace.visualstudio.com/items?itemName=fiu-ai.fiu-finance-mcp) | FIU Financial Data MCP | 1.0.0 | Connect VS Code Chat to FIU global financial data: historical market data, comp… |
+| 2026-11-24 08:34:08 | [NocoldBob.deepseek-cost-monitor](https://marketplace.visualstudio.com/items?itemName=NocoldBob.deepseek-cost-monitor) | DeepSeek Cost Monitor | 0.1.0 | 在 VS Code 侧边栏显示今日 DeepSeek API 估算消费（基于 Claude Code 本地会话记录） |
+| 2026-11-24 08:53:17 | [devwords.devwords](https://marketplace.visualstudio.com/items?itemName=devwords.devwords) | DevWords · 知码词典 | 1.0.0 | Look up programming terms and everyday English, break down code names, and keep… |
+| 2026-11-24 08:54:51 | [dadi-tongtu.image-alt-caption-fill](https://marketplace.visualstudio.com/items?itemName=dadi-tongtu.image-alt-caption-fill) | 图片语义化补充 | 1.1.0 | 为 Markdown 图片生成简短图名（如 XXX示意图），不复述上方示例；支持 AI 图意理解、本地保守兜底、受控修复旧描述与成对清单；默认排除作业平台及… |
+| 2026-11-24 09:07:57 | [jokeran.git-diff-quick](https://marketplace.visualstudio.com/items?itemName=jokeran.git-diff-quick) | Git Diff Qucik | 0.1.0 | 在 VS Code 查看 Git 文件与行历史，比较分支和提交。 |
+| 2026-11-24 09:12:06 | [OsmanX5.git-branch-explorer](https://marketplace.visualstudio.com/items?itemName=OsmanX5.git-branch-explorer) | Git Branch Explorer | 0.1.0 | A Plastic SCM style Branch Explorer for Git: one horizontal lane per branch, me… |
 
 ## Data source
 

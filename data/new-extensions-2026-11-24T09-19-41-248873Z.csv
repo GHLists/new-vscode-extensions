@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T08:24:14.2Z,youmengyu-mem.youmengyu-mem,youmengyu-mem,游梦鱼·长记忆 (AI Memory for Git Repos),0.3.3,给每个 Git 仓库一份可长期积累、可注入 AI 编程助手的本地长记忆：事实化存储、画像注入、语义重排检索、版本链与关系图、空间分区；数据按条目存进仓库自身的 .youmengyu/memory/long-memory，与游梦鱼数字人共用同一份本仓记忆。
+2026-11-24T08:31:07.61Z,fiu-ai.fiu-finance-mcp,fiu-ai,FIU Financial Data MCP,1.0.0,"Connect VS Code Chat to FIU global financial data: historical market data, company financials, funds, bonds and news."
+2026-11-24T08:34:08.51Z,NocoldBob.deepseek-cost-monitor,NocoldBob,DeepSeek Cost Monitor,0.1.0,在 VS Code 侧边栏显示今日 DeepSeek API 估算消费（基于 Claude Code 本地会话记录）
+2026-11-24T08:53:17.517Z,devwords.devwords,devwords,DevWords · 知码词典,1.0.0,"Look up programming terms and everyday English, break down code names, and keep local search history with the offline DevWords dictionary."
+2026-11-24T08:54:51.75Z,dadi-tongtu.image-alt-caption-fill,dadi-tongtu,图片语义化补充,1.1.0,为 Markdown 图片生成简短图名（如 XXX示意图），不复述上方示例；支持 AI 图意理解、本地保守兜底、受控修复旧描述与成对清单；默认排除作业平台及 REF 托管块
+2026-11-24T09:07:57.393Z,jokeran.git-diff-quick,jokeran,Git Diff Qucik,0.1.0,在 VS Code 查看 Git 文件与行历史，比较分支和提交。
+2026-11-24T09:12:06.557Z,OsmanX5.git-branch-explorer,OsmanX5,Git Branch Explorer,0.1.0,"A Plastic SCM style Branch Explorer for Git: one horizontal lane per branch, merges and branch-offs drawn as links, author-colored commits."
