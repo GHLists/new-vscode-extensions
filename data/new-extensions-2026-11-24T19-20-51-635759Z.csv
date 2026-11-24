@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T18:11:08.143Z,hari930531.aws-arch-studio,hari930531,AWS Arch Studio (2D/3D & FinOps),0.1.0,"Design AWS architectures in 2D/3D, calculate live monthly costs, and apply FinOps optimizations inside VS Code."
+2026-11-24T18:32:41.543Z,MartinAlejandroOviedo.binasm-vscode,MartinAlejandroOviedo,BinASM Assembly Language,1.0.0,"Syntax highlighting, code snippets, and real-time linter for BinASM - certified semantic x86-64 assembler & L1 structured assembly"
+2026-11-24T18:49:42.8Z,uniquetrij.freellmapi-chat-provider,uniquetrij,FreeLLMAPI,0.2.0,Brings FreeLLMAPI's OpenAI-compatible free-model router into VS Code's native Chat model picker.
+2026-11-24T18:55:17.313Z,mkq.ostagora,mkq,Ostagora,0.1.0,Private company AI chat and reviewed code improvements using your local Ostagora gateway.
+2026-11-24T19:07:01.12Z,JooVitorAparecidoCarpimdeSouza.liveflow-cards,JooVitorAparecidoCarpimdeSouza,liveflow cards: testes de fluxo,0.1.2,"Testa o fluxo de tela de cada card, em blocos, antes de entregar. Sem IA na execução."
+2026-11-24T19:07:56.423Z,ABRAHAMBOSIRE.natural-typing,ABRAHAMBOSIRE,Natural Typing,0.2.0,"Generates code with Claude and types it into the editor with a natural, human-like cadence."
+2026-11-24T19:10:01.88Z,m80-mainframe-id.m80-mainframe,m80-mainframe-id,M80 Mainframe,1.17.6,"Retro 80s and modern VS Code themes, a live console for Claude Code (map, arcade, costs, context) and a one-click installer for the M80 Claude Code components. Windows."
