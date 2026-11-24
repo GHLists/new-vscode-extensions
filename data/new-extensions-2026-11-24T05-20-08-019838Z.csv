@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T04:44:19.367Z,ramesh-katakwar.pure-black-torch-by-ramesh,ramesh-katakwar,PURE BLACK - TORCH MODE,1.0.0,PURE BLACK TORCH MODE with editor detection support and distraction-free coding.
+2026-11-24T04:46:27.773Z,WaterKeyqwq.haltd-embedded,WaterKeyqwq,Haltd Embedded,0.7.1,STM32 debugging through a long-running J-Link backend
+2026-11-24T04:52:07.783Z,agivant.slopsquatshield-vscode,agivant,SlopSquatShield,1.0.0,Advisory warnings for hallucinated and slopsquat-style packages in your manifests. Install-time enforcement is the SlopSquatShield CLI wrapper and agent hooks — this extension only reports.
+2026-11-24T04:55:44.257Z,cristianencarnacion.ferroreport,cristianencarnacion,ferroreport templates (.ferro),1.0.1,"Syntax highlighting, folding and snippets for ferroreport's .ferro report templates."
+2026-11-24T05:02:41.91Z,Uttarana.preai-sentry,Uttarana,"PreAI - Sentry : Secrets, PII & Dependency Vulnerability Scanner",2.6.3,"Local-first VS Code security scanner for malicious code, vulnerable dependencies across major package ecosystems, leaked secrets, and regulated PII (global + India-specific). Supports SARIF and CycloneDX SBOM export, import-level reachability, signed catalog updates, policy enforcement, and CI/CD in"
