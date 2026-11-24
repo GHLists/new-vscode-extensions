@@ -1,0 +1,18 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T11:12:43.937Z,azizdevfull.mysql-lens,azizdevfull,MySQL Lens,0.1.0,"MySQL & MariaDB client for VS Code with unlimited connections, SSH tunnels, an editable data grid, SQL autocomplete, and import/export (CSV, Excel, JSON, SQL dump)."
+2026-11-24T11:18:46.437Z,amalkali.terminal-blueprint,amalkali,Terminal Blueprint,0.0.1,"Scan projects, review verified terminal suggestions, and manage reusable terminal blueprints"
+2026-11-24T11:21:56.74Z,GiancarloMangiagli.codex-kde-connect-notify,GiancarloMangiagli,Codex Phone,0.3.2,Private Android notifications for Codex through KDE Connect on your local network.
+2026-11-24T11:24:22.383Z,tachbit.tachbit-lang,tachbit,Tachbit Language,0.9.7,"Tachbit language: colors, Tachbit Dark/Light themes, run with one button (F5, ▶, Touch Bar) and errors right in the code"
+2026-11-24T11:24:26.433Z,Gnegnoli.magi-system,Gnegnoli,MAGI System,1.1.0,"Three Claude agents (MELCHIOR, BALTHASAR, CASPER) deliberate on your code, vote, and implement the approved decision with your review. Runs on your Claude subscription via Claude Code."
+2026-11-24T11:25:49.89Z,delgado.antigravity-x,delgado,Antigravity X,0.5.7,Cliente ACP para usar o Antigravity diretamente no VS Code
+2026-11-24T11:26:53.767Z,flutterqei.Flutter-xqa,flutterqei,Flutter xqa,0.0.8,Оптимизация с FLutter и Dart
+2026-11-24T11:27:10.113Z,JorgeMathausAlmeidaMartins.spike-prime-theme,JorgeMathausAlmeidaMartins,SPIKE Prime Theme,0.2.4,"Transforma o VS Code na interface do LEGO Education SPIKE Prime (tema, tela inicial, barra de ferramentas e console)."
+2026-11-24T11:30:48.34Z,romezvz.nox-graphite,romezvz,NOX — Graphite,1.0.2,Minimal interface. Expressive syntax.
+2026-11-24T11:31:20.09Z,veetaw.remote-sync-workspace,veetaw,Remote Sync Workspace,0.1.2,"Persistent local FTP, FTPS and SFTP workspaces with verified synchronization and recoverable history."
+2026-11-24T11:37:10.61Z,Orvyn.orvyn-lang,Orvyn,Orvyn Language,0.2.1,"Syntax colours, snippets and file icons for Orvyn (.orv) — one language for web, iPhone and Android."
+2026-11-24T11:50:08.55Z,nikodinovicf.a11y-audit,nikodinovicf,A11y Audit,0.6.0,"Audit live web pages (including behind SSO) against WCAG 2.2 A/AA with axe-core plus keyboard, focus, screen-reader-tree, live-region and widget checks, complete a manual checklist with evidence and sign-off, and export a VPAT 2.5 report."
+2026-11-24T11:51:33.747Z,contextback.contextvscode,contextback,ContextVSCode,1.1.2,"When the open file contains a saved snippet, the sidebar shows that note. The file stays on this machine."
+2026-11-24T11:53:44.147Z,jiangyx.copilot-gateway-sync,jiangyx,Copilot 网关模型同步,0.4.5,通用网关模型管理、选择增删、完整能力检测与思维级别配置。
+2026-11-24T11:58:54.307Z,acm-ascis.leetgrind,acm-ascis,LeetGrind,0.1.0,"Your ACM LeetGrind sheets in VS Code: read problems, run tests and submit to LeetCode without leaving the editor."
+2026-11-24T12:01:42.68Z,flutterqei.flutter-cqa,flutterqei,Flutter сqa,0.0.10,Оптимизация с FLutter и Dart
+2026-11-24T12:07:28.19Z,lyrestudio.amble-agents,lyrestudio,Amble Agents,0.2.0,"Browse and control Amble agents, conversations and model orchestration using your shared Amble connection."
