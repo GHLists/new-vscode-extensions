@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T03:21:21.44Z,pengsen.vscode-visual-html-designer,pengsen,VSCode HTML Editor,0.1.2,Edit HTML visually alongside its source in Visual Studio Code.
+2026-11-24T03:37:42.843Z,alex09x.rust-intelligence,alex09x,Rust Intelligence,0.1.1,"Rust language server built on the compiler: ridx lsp for completion, navigation, hover, diagnostics and refactoring."
+2026-11-24T03:44:38.703Z,YuanhaoLiu.dashboard-simple-code-time-tracker,YuanhaoLiu,Dashboard - a simple code time tracker,1.0.1,Local file-level code time and cumulative edit tracking with a minimal dashboard and timeline.
+2026-11-24T03:54:23.797Z,EOF.gopher-nav,EOF,Gopher Nav,1.0.0,GoLand 风格的 Go 代码导航：接口定义跳转、接口实现查找、方法定义跳转（内置 Go 语法解析与索引）
+2026-11-24T04:01:22.647Z,DevDrop.auto-evidence-activity,DevDrop,Auto Evidence Activity,0.2.1,"Tells the local Auto Evidence desktop application which workspace and file the editor shows, whether the window has focus, and that a file changed. Metadata only, 127.0.0.1 only."

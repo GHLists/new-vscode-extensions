@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 03:19 UTC
+## Latest list — 2026-11-24 04:20 UTC
 
-New extensions published between 2026-11-24 01:19 UTC and 2026-11-24 03:19 UTC.
+New extensions published between 2026-11-24 02:20 UTC and 2026-11-24 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T03-19-14-315723Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T04-20-38-336379Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 03:07:07 | [iconpik.iconpik](https://marketplace.visualstudio.com/items?itemName=iconpik.iconpik) | iconPik - SVG Icon Search | 0.1.0 | Search and copy brand logos and cloud icons (AWS, Azure, GCP, Kubernetes) plus… |
-| 2026-11-24 03:09:25 | [omnibuf.omnibuf-vscode](https://marketplace.visualstudio.com/items?itemName=omnibuf.omnibuf-vscode) | OmniBuf | 0.1.0 | View and edit OmniBuf (.obuf) binary files as decoded JSON and hex using the om… |
-| 2026-11-24 03:13:03 | [lvliangxiong.vsgit-icon-theme](https://marketplace.visualstudio.com/items?itemName=lvliangxiong.vsgit-icon-theme) | VS Git File Icon Theme Bridge | 0.1.284 | Shares the local VS Code file icon theme with VS Git, including Remote SSH wind… |
+| 2026-11-24 03:21:21 | [pengsen.vscode-visual-html-designer](https://marketplace.visualstudio.com/items?itemName=pengsen.vscode-visual-html-designer) | VSCode HTML Editor | 0.1.2 | Edit HTML visually alongside its source in Visual Studio Code. |
+| 2026-11-24 03:37:42 | [alex09x.rust-intelligence](https://marketplace.visualstudio.com/items?itemName=alex09x.rust-intelligence) | Rust Intelligence | 0.1.1 | Rust language server built on the compiler: ridx lsp for completion, navigation… |
+| 2026-11-24 03:44:38 | [YuanhaoLiu.dashboard-simple-code-time-tracker](https://marketplace.visualstudio.com/items?itemName=YuanhaoLiu.dashboard-simple-code-time-tracker) | Dashboard - a simple code time tracker | 1.0.1 | Local file-level code time and cumulative edit tracking with a minimal dashboar… |
+| 2026-11-24 03:54:23 | [EOF.gopher-nav](https://marketplace.visualstudio.com/items?itemName=EOF.gopher-nav) | Gopher Nav | 1.0.0 | GoLand 风格的 Go 代码导航：接口定义跳转、接口实现查找、方法定义跳转（内置 Go 语法解析与索引） |
+| 2026-11-24 04:01:22 | [DevDrop.auto-evidence-activity](https://marketplace.visualstudio.com/items?itemName=DevDrop.auto-evidence-activity) | Auto Evidence Activity | 0.2.1 | Tells the local Auto Evidence desktop application which workspace and file the… |
 
 ## Data source
 
