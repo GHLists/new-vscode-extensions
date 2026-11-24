@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T15:16:42.83Z,ceslava.mdn-in-your-language,ceslava,MDN in Your Language,0.1.8,"Read MDN Web Docs on hover in Spanish, English, French, Brazilian Portuguese, German, Italian, Japanese, Korean, Simplified Chinese, or Russian, with English fallback."
+2026-11-24T15:24:39.253Z,GilbertZenner.kerla-script-runner,GilbertZenner,Kerla Script Runner,0.1.0,"Führe Shell-Skripte deines Projekts in einer winzigen Kerla-Linux-VM (QEMU, 440 KB) aus und sieh den echten Exit-Code. Vorschau."
+2026-11-24T15:46:07.927Z,quendistudio.qsftp,quendistudio,qSFTP,1.16.5,SFTP/FTP sync
+2026-11-24T15:48:15.573Z,mindconnect-ai.architector,mindconnect-ai,"Architector – Visual PlantUML, C4 & Structurizr Editor",0.1.0,"Software architecture diagrams like in a drawing tool: draw, move and edit PlantUML, C4 and Structurizr diagrams, and the text follows."
+2026-11-24T15:49:09.2Z,dsh-harness-vscode.dsh-acp-vscode,dsh-harness-vscode,DSH ACP for VS Code,0.2.1,"Chat with a DSH Host from VS Code, with diffs, approvals and editor context."
+2026-11-24T15:52:18.827Z,selyh.selyh,selyh,Selyh,0.1.0,"Check-ins de un toque en pausas naturales, tu carga frente a tu propio ritmo y pausas breves guiadas, sin salir del editor."
+2026-11-24T15:58:15.68Z,HardC0reJerry.logros-vscode,HardC0reJerry,Logros — Achievements for VS Code,0.1.0,"Desbloquea logros mientras programas, con notificaciones discretas estilo Steam en la esquina inferior derecha."
