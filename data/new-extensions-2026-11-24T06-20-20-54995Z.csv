@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T05:22:19.503Z,Zilvereyes.wow-addon-toc,Zilvereyes,Zilvereyes WoW TOC,0.6.1,"WoW TOC grammar, editor theme, LuaLS SavedVariables sync, file reference warnings and an add-on report"
+2026-11-24T05:22:42.9Z,Zilvereyes.wow-addon-dev,Zilvereyes,Zilvereyes WoW AddOn Development Preview,0.2.1,"WoW TOC, XML references, client-specific LuaLS API libraries and local Lua completion"
+2026-11-24T05:32:33.55Z,nguyenthanhdat.cswap-manager,nguyenthanhdat,Cswap Manager,0.3.0,Manage Claude Swap (cswap) accounts and usage from VS Code.
+2026-11-24T05:34:49.85Z,kasifraza.ux4g-design-system,kasifraza,UX4G Design System Extension,0.3.0,"Unofficial editor support for the UX4G design system: hover a design token to see its final value, Ctrl+Click a token or class to jump to its definition. Your own token overrides win over the package defaults."
+2026-11-24T05:42:50.55Z,metaphore.same-ink,metaphore,Same Ink,0.1.0,Highlights code blocks in the Markdown preview with your current editor color theme.
+2026-11-24T05:52:02.68Z,jammiguelyfish.django-fetchlens,jammiguelyfish,Django FetchLens,0.1.0,"Browse your Django routes, jump from a frontend fetch() call to the view that serves it, and get warned about URLs and methods that do not exist."
+2026-11-24T06:06:19.35Z,Praktical.githawk-graph,Praktical,GitHawk Graph,0.11.0,"A simple, fast git graph for VS Code. MIT licensed. No AI, no telemetry."

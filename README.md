@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 05:20 UTC
+## Latest list — 2026-11-24 06:20 UTC
 
-New extensions published between 2026-11-24 03:20 UTC and 2026-11-24 05:20 UTC.
+New extensions published between 2026-11-24 04:20 UTC and 2026-11-24 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T05-20-08-019838Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T06-20-20-54995Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 04:44:19 | [ramesh-katakwar.pure-black-torch-by-ramesh](https://marketplace.visualstudio.com/items?itemName=ramesh-katakwar.pure-black-torch-by-ramesh) | PURE BLACK - TORCH MODE | 1.0.0 | PURE BLACK TORCH MODE with editor detection support and distraction-free coding. |
-| 2026-11-24 04:46:27 | [WaterKeyqwq.haltd-embedded](https://marketplace.visualstudio.com/items?itemName=WaterKeyqwq.haltd-embedded) | Haltd Embedded | 0.7.1 | STM32 debugging through a long-running J-Link backend |
-| 2026-11-24 04:52:07 | [agivant.slopsquatshield-vscode](https://marketplace.visualstudio.com/items?itemName=agivant.slopsquatshield-vscode) | SlopSquatShield | 1.0.0 | Advisory warnings for hallucinated and slopsquat-style packages in your manifes… |
-| 2026-11-24 04:55:44 | [cristianencarnacion.ferroreport](https://marketplace.visualstudio.com/items?itemName=cristianencarnacion.ferroreport) | ferroreport templates (.ferro) | 1.0.1 | Syntax highlighting, folding and snippets for ferroreport's .ferro report templ… |
-| 2026-11-24 05:02:41 | [Uttarana.preai-sentry](https://marketplace.visualstudio.com/items?itemName=Uttarana.preai-sentry) | PreAI - Sentry : Secrets, PII & Depende… | 2.6.3 | Local-first VS Code security scanner for malicious code, vulnerable dependencie… |
+| 2026-11-24 05:22:19 | [Zilvereyes.wow-addon-toc](https://marketplace.visualstudio.com/items?itemName=Zilvereyes.wow-addon-toc) | Zilvereyes WoW TOC | 0.6.1 | WoW TOC grammar, editor theme, LuaLS SavedVariables sync, file reference warnin… |
+| 2026-11-24 05:22:42 | [Zilvereyes.wow-addon-dev](https://marketplace.visualstudio.com/items?itemName=Zilvereyes.wow-addon-dev) | Zilvereyes WoW AddOn Development Preview | 0.2.1 | WoW TOC, XML references, client-specific LuaLS API libraries and local Lua comp… |
+| 2026-11-24 05:32:33 | [nguyenthanhdat.cswap-manager](https://marketplace.visualstudio.com/items?itemName=nguyenthanhdat.cswap-manager) | Cswap Manager | 0.3.0 | Manage Claude Swap (cswap) accounts and usage from VS Code. |
+| 2026-11-24 05:34:49 | [kasifraza.ux4g-design-system](https://marketplace.visualstudio.com/items?itemName=kasifraza.ux4g-design-system) | UX4G Design System Extension | 0.3.0 | Unofficial editor support for the UX4G design system: hover a design token to s… |
+| 2026-11-24 05:42:50 | [metaphore.same-ink](https://marketplace.visualstudio.com/items?itemName=metaphore.same-ink) | Same Ink | 0.1.0 | Highlights code blocks in the Markdown preview with your current editor color t… |
+| 2026-11-24 05:52:02 | [jammiguelyfish.django-fetchlens](https://marketplace.visualstudio.com/items?itemName=jammiguelyfish.django-fetchlens) | Django FetchLens | 0.1.0 | Browse your Django routes, jump from a frontend fetch() call to the view that s… |
+| 2026-11-24 06:06:19 | [Praktical.githawk-graph](https://marketplace.visualstudio.com/items?itemName=Praktical.githawk-graph) | GitHawk Graph | 0.11.0 | A simple, fast git graph for VS Code. MIT licensed. No AI, no telemetry. |
 
 ## Data source
 
