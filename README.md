@@ -12,21 +12,18 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 19:20 UTC
+## Latest list — 2026-11-24 20:21 UTC
 
-New extensions published between 2026-11-24 17:20 UTC and 2026-11-24 19:20 UTC.
+New extensions published between 2026-11-24 18:21 UTC and 2026-11-24 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T19-20-51-635759Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T20-21-01-470808Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 18:11:08 | [hari930531.aws-arch-studio](https://marketplace.visualstudio.com/items?itemName=hari930531.aws-arch-studio) | AWS Arch Studio (2D/3D & FinOps) | 0.1.0 | Design AWS architectures in 2D/3D, calculate live monthly costs, and apply FinO… |
-| 2026-11-24 18:32:41 | [MartinAlejandroOviedo.binasm-vscode](https://marketplace.visualstudio.com/items?itemName=MartinAlejandroOviedo.binasm-vscode) | BinASM Assembly Language | 1.0.0 | Syntax highlighting, code snippets, and real-time linter for BinASM - certified… |
-| 2026-11-24 18:49:42 | [uniquetrij.freellmapi-chat-provider](https://marketplace.visualstudio.com/items?itemName=uniquetrij.freellmapi-chat-provider) | FreeLLMAPI | 0.2.0 | Brings FreeLLMAPI's OpenAI-compatible free-model router into VS Code's native C… |
-| 2026-11-24 18:55:17 | [mkq.ostagora](https://marketplace.visualstudio.com/items?itemName=mkq.ostagora) | Ostagora | 0.1.0 | Private company AI chat and reviewed code improvements using your local Ostagor… |
-| 2026-11-24 19:07:01 | [JooVitorAparecidoCarpimdeSouza.liveflow-cards](https://marketplace.visualstudio.com/items?itemName=JooVitorAparecidoCarpimdeSouza.liveflow-cards) | liveflow cards: testes de fluxo | 0.1.2 | Testa o fluxo de tela de cada card, em blocos, antes de entregar. Sem IA na exe… |
-| 2026-11-24 19:07:56 | [ABRAHAMBOSIRE.natural-typing](https://marketplace.visualstudio.com/items?itemName=ABRAHAMBOSIRE.natural-typing) | Natural Typing | 0.2.0 | Generates code with Claude and types it into the editor with a natural, human-l… |
-| 2026-11-24 19:10:01 | [m80-mainframe-id.m80-mainframe](https://marketplace.visualstudio.com/items?itemName=m80-mainframe-id.m80-mainframe) | M80 Mainframe | 1.17.6 | Retro 80s and modern VS Code themes, a live console for Claude Code (map, arcad… |
+| 2026-11-24 19:05:05 | [ThalesoMilas.seldia-vscode](https://marketplace.visualstudio.com/items?itemName=ThalesoMilas.seldia-vscode) | SelDiA | 1.77.0 | Unified Diagram-as-Code with Rough.js — 21+ diagram types, interactive editing,… |
+| 2026-11-24 19:25:12 | [Alvorak.vscode-power-meme](https://marketplace.visualstudio.com/items?itemName=Alvorak.vscode-power-meme) | VSCode Power Meme | 0.0.2 | Shows a short meme GIF when code execution finishes. |
+| 2026-11-24 19:28:26 | [klgomez.gitsos](https://marketplace.visualstudio.com/items?itemName=klgomez.gitsos) | GitSOS — Guía Interactiva de Git | 0.2.3 | Guía interactiva de Git y GitHub en español para principiantes, 100% offline, c… |
+| 2026-11-24 19:54:35 | [hinmil.hinmil](https://marketplace.visualstudio.com/items?itemName=hinmil.hinmil) | HinMil — Hindley-Milner for JavaScript | 0.1.0 | Hindley-Milner type inference LSP for JavaScript |
 
 ## Data source
 

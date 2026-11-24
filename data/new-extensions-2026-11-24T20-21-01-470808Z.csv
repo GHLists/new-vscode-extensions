@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T19:05:05.113Z,ThalesoMilas.seldia-vscode,ThalesoMilas,SelDiA,1.77.0,"Unified Diagram-as-Code with Rough.js — 21+ diagram types, interactive editing, Markdown integration, PDF export"
+2026-11-24T19:25:12.657Z,Alvorak.vscode-power-meme,Alvorak,VSCode Power Meme,0.0.2,Shows a short meme GIF when code execution finishes.
+2026-11-24T19:28:26.967Z,klgomez.gitsos,klgomez,GitSOS — Guía Interactiva de Git,0.2.3,"Guía interactiva de Git y GitHub en español para principiantes, 100% offline, con Conventional Commits guiados y confirmación segura."
+2026-11-24T19:54:35.52Z,hinmil.hinmil,hinmil,HinMil — Hindley-Milner for JavaScript,0.1.0,Hindley-Milner type inference LSP for JavaScript
