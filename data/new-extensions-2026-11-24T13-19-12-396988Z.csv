@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T12:07:14.827Z,lyrestudio.amble-studio,lyrestudio,Amble,0.2.0,"Amble workspace and conversations in VS Code, connected to your Amble host."
+2026-11-24T12:20:22.767Z,22712881.baithi-nhanvien-viewer,22712881,BaiThi NhanVien - Java Source Viewer,1.0.0,Xem nhanh toàn bộ mã nguồn dự án Java RMI & JPA (BaiThi_NhanVien) ở chế độ chỉ đọc ngay trong VS Code.
+2026-11-24T12:26:54.437Z,kanimegane.source-screen-map,kanimegane,Source Screen Map,0.1.1,アプリを起動せず、ソースから画面・操作・遷移先を調べる VS Code 拡張。
+2026-11-24T12:32:27.147Z,manuelCebreiro.context-meter-for-claude-code,manuelCebreiro,Context Meter for Claude Code,0.4.2,"Unofficial, not affiliated with Anthropic. Context, session tokens, 5-hour and weekly limits and usage history for Claude Code, right below the Claude Code chat. 100% local."
+2026-11-24T12:58:24.387Z,pl4nty.kaitai-ide,pl4nty,Kaitai Struct IDE,0.1.0,"Parse binary files with Kaitai Struct (.ksy) specs: field-coloured hex view, structure tree, value inspector, .ksy diagnostics and code generation. Works in VS Code for the Web."
