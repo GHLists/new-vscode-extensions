@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T09:20:36.5Z,TeXLoom.texloom,TeXLoom,TeXLoom comments,0.1.0,"The comments and suggestions of a TeXLoom project, in your own editor: as threads beside the text, with reply and resolve."
+2026-11-24T09:41:26.94Z,dadi-tongtu.image-caption-enricher,dadi-tongtu,image-caption-enricher,1.1.0,为 Markdown 图片生成简短图名（如 XXX示意图），不复述上方示例；支持 AI 图意理解、本地保守兜底、受控修复旧描述与成对清单；默认排除作业平台及 REF 托管块
+2026-11-24T09:43:25.97Z,reona-ou.agy-sync-dashboard,reona-ou,AGY Sync Dashboard,1.6.3,"Multi-device Antigravity token usage dashboard, live quota forecast, session context monitor, and status bar capsule."
+2026-11-24T09:48:12.087Z,dadi-tongtu.dadi-tongtu-docfixer,dadi-tongtu,DocFixer,1.1.0,工艺文档结构唯一入口：活动栏一棵树承载章节 / 格式问题 / 悬置段 / 本地批注，节点上直接改结构、一键修复、跳转。仅对 YAML 头含合规 id/producer 的工艺文档校验与写入；其它 Markdown 只读，仅可查看结构与添加本地批注。已含全部标题编辑能力。
+2026-11-24T09:49:24.987Z,chadetov.glyph-vscode,chadetov,Glyph (glyphlang.io),0.1.2,"Glyph language support: syntax highlighting + the glyph language server (diagnostics, hover, go-to-definition, completion, format-on-save)."
+2026-11-24T09:52:17.327Z,flutterqei.Flutter-qein,flutterqei,Flutter qein,0.0.3,Оптимизация с FLutter и Dart
+2026-11-24T09:53:39.733Z,CaffeineCat.copilot-mentions-completions,CaffeineCat,Copilot Mentions,0.0.1,Restores #tool / @mention completions and selection/file pins in the chat input
+2026-11-24T09:54:33.89Z,RahulChaube.blyx-jacana,RahulChaube,Blyx Jacana,0.1.0,Compare a crude event rate with a directly standardized rate.
+2026-11-24T09:54:39.07Z,RahulChaube.blyx-kestrel,RahulChaube,Blyx Kestrel,0.1.0,"Run a bounded number of simulation ticks per rendered frame, carry fractional frame time and interpolate a moving object between updates."
+2026-11-24T09:54:44.397Z,RahulChaube.blyx-kinglet,RahulChaube,Blyx Kinglet,0.1.0,Plan a full or single-range HTTP response against a known representation size.
+2026-11-24T09:54:49.63Z,RahulChaube.blyx-lapwing,RahulChaube,Blyx Lapwing,0.1.0,Preflight fixed-line document pagination with indivisible paragraphs.
+2026-11-24T09:54:54.683Z,RahulChaube.blyx-linearfit,RahulChaube,Blyx LinearFit,0.1.0,"Train, merge and deploy a single-feature least-squares or ridge regression with an unpenalized intercept."
+2026-11-24T09:54:59.623Z,RahulChaube.blyx-linnet,RahulChaube,Blyx Linnet,0.1.0,Summarize speech-activity intervals from a precomputed frame-level envelope.
+2026-11-24T09:55:07.303Z,dadi-tongtu.cross-doc-ref,dadi-tongtu,cross-doc-ref,1.0.0,在光标处三步点选生成跨文档跳转链接或 REF 引用块：选意图→选文档→选章节，自动写入并按手册 12/13 校验。脚本内置、自包含，不依赖工作区 skill。

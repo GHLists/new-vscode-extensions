@@ -12,21 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 09:19 UTC
+## Latest list — 2026-11-24 10:21 UTC
 
-New extensions published between 2026-11-24 07:19 UTC and 2026-11-24 09:19 UTC.
+New extensions published between 2026-11-24 08:21 UTC and 2026-11-24 10:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T09-19-41-248873Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T10-21-28-681447Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 08:24:14 | [youmengyu-mem.youmengyu-mem](https://marketplace.visualstudio.com/items?itemName=youmengyu-mem.youmengyu-mem) | 游梦鱼·长记忆 (AI Memory for Git Repos) | 0.3.3 | 给每个 Git 仓库一份可长期积累、可注入 AI 编程助手的本地长记忆：事实化存储、画像注入、语义重排检索、版本链与关系图、空间分区；数据按条目存进仓库自身的… |
-| 2026-11-24 08:31:07 | [fiu-ai.fiu-finance-mcp](https://marketplace.visualstudio.com/items?itemName=fiu-ai.fiu-finance-mcp) | FIU Financial Data MCP | 1.0.0 | Connect VS Code Chat to FIU global financial data: historical market data, comp… |
-| 2026-11-24 08:34:08 | [NocoldBob.deepseek-cost-monitor](https://marketplace.visualstudio.com/items?itemName=NocoldBob.deepseek-cost-monitor) | DeepSeek Cost Monitor | 0.1.0 | 在 VS Code 侧边栏显示今日 DeepSeek API 估算消费（基于 Claude Code 本地会话记录） |
-| 2026-11-24 08:53:17 | [devwords.devwords](https://marketplace.visualstudio.com/items?itemName=devwords.devwords) | DevWords · 知码词典 | 1.0.0 | Look up programming terms and everyday English, break down code names, and keep… |
-| 2026-11-24 08:54:51 | [dadi-tongtu.image-alt-caption-fill](https://marketplace.visualstudio.com/items?itemName=dadi-tongtu.image-alt-caption-fill) | 图片语义化补充 | 1.1.0 | 为 Markdown 图片生成简短图名（如 XXX示意图），不复述上方示例；支持 AI 图意理解、本地保守兜底、受控修复旧描述与成对清单；默认排除作业平台及… |
-| 2026-11-24 09:07:57 | [jokeran.git-diff-quick](https://marketplace.visualstudio.com/items?itemName=jokeran.git-diff-quick) | Git Diff Qucik | 0.1.0 | 在 VS Code 查看 Git 文件与行历史，比较分支和提交。 |
-| 2026-11-24 09:12:06 | [OsmanX5.git-branch-explorer](https://marketplace.visualstudio.com/items?itemName=OsmanX5.git-branch-explorer) | Git Branch Explorer | 0.1.0 | A Plastic SCM style Branch Explorer for Git: one horizontal lane per branch, me… |
+| 2026-11-24 09:20:36 | [TeXLoom.texloom](https://marketplace.visualstudio.com/items?itemName=TeXLoom.texloom) | TeXLoom comments | 0.1.0 | The comments and suggestions of a TeXLoom project, in your own editor: as threa… |
+| 2026-11-24 09:41:26 | [dadi-tongtu.image-caption-enricher](https://marketplace.visualstudio.com/items?itemName=dadi-tongtu.image-caption-enricher) | image-caption-enricher | 1.1.0 | 为 Markdown 图片生成简短图名（如 XXX示意图），不复述上方示例；支持 AI 图意理解、本地保守兜底、受控修复旧描述与成对清单；默认排除作业平台及… |
+| 2026-11-24 09:43:25 | [reona-ou.agy-sync-dashboard](https://marketplace.visualstudio.com/items?itemName=reona-ou.agy-sync-dashboard) | AGY Sync Dashboard | 1.6.3 | Multi-device Antigravity token usage dashboard, live quota forecast, session co… |
+| 2026-11-24 09:48:12 | [dadi-tongtu.dadi-tongtu-docfixer](https://marketplace.visualstudio.com/items?itemName=dadi-tongtu.dadi-tongtu-docfixer) | DocFixer | 1.1.0 | 工艺文档结构唯一入口：活动栏一棵树承载章节 / 格式问题 / 悬置段 / 本地批注，节点上直接改结构、一键修复、跳转。仅对 YAML 头含合规 id/prod… |
+| 2026-11-24 09:49:24 | [chadetov.glyph-vscode](https://marketplace.visualstudio.com/items?itemName=chadetov.glyph-vscode) | Glyph (glyphlang.io) | 0.1.2 | Glyph language support: syntax highlighting + the glyph language server (diagno… |
+| 2026-11-24 09:52:17 | [flutterqei.Flutter-qein](https://marketplace.visualstudio.com/items?itemName=flutterqei.Flutter-qein) | Flutter qein | 0.0.3 | Оптимизация с FLutter и Dart |
+| 2026-11-24 09:53:39 | [CaffeineCat.copilot-mentions-completions](https://marketplace.visualstudio.com/items?itemName=CaffeineCat.copilot-mentions-completions) | Copilot Mentions | 0.0.1 | Restores #tool / @mention completions and selection/file pins in the chat input |
+| 2026-11-24 09:54:33 | [RahulChaube.blyx-jacana](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-jacana) | Blyx Jacana | 0.1.0 | Compare a crude event rate with a directly standardized rate. |
+| 2026-11-24 09:54:39 | [RahulChaube.blyx-kestrel](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-kestrel) | Blyx Kestrel | 0.1.0 | Run a bounded number of simulation ticks per rendered frame, carry fractional f… |
+| 2026-11-24 09:54:44 | [RahulChaube.blyx-kinglet](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-kinglet) | Blyx Kinglet | 0.1.0 | Plan a full or single-range HTTP response against a known representation size. |
+| 2026-11-24 09:54:49 | [RahulChaube.blyx-lapwing](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-lapwing) | Blyx Lapwing | 0.1.0 | Preflight fixed-line document pagination with indivisible paragraphs. |
+| 2026-11-24 09:54:54 | [RahulChaube.blyx-linearfit](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-linearfit) | Blyx LinearFit | 0.1.0 | Train, merge and deploy a single-feature least-squares or ridge regression with… |
+| 2026-11-24 09:54:59 | [RahulChaube.blyx-linnet](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-linnet) | Blyx Linnet | 0.1.0 | Summarize speech-activity intervals from a precomputed frame-level envelope. |
+| 2026-11-24 09:55:07 | [dadi-tongtu.cross-doc-ref](https://marketplace.visualstudio.com/items?itemName=dadi-tongtu.cross-doc-ref) | cross-doc-ref | 1.0.0 | 在光标处三步点选生成跨文档跳转链接或 REF 引用块：选意图→选文档→选章节，自动写入并按手册 12/13 校验。脚本内置、自包含，不依赖工作区 skill。 |
 
 ## Data source
 
