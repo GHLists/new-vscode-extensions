@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T13:29:38.013Z,lipelix.git-fate,lipelix,Git Fate,0.1.1,"See who changed every line, when and why: inline blame, file blame heatmap, file history and line history. Free, light, private."
+2026-11-24T13:39:04.913Z,sorcererdev.spellbook,sorcererdev,Spellbook,0.2.0,"Spellbook in VS Code: a project's generators with holes to fill, and its rules in Problems"
+2026-11-24T13:47:45.78Z,AmitPatel.claude-code-account-switcher-ap,AmitPatel,Claude Code Accounts Switcher,0.1.0,Switch between multiple Claude Code accounts (work / personal) and always see which one is active.
+2026-11-24T13:50:58.357Z,LxStudio.flowtasks-lx,LxStudio,FlowTasks — Natural Language Task Runner,1.0.0,"Describe workflows in plain language, group tasks, execute locally with one click. No cloud, no accounts."
+2026-11-24T13:50:58.617Z,LxStudio.depguard-lx,LxStudio,DepGuard — Local Dependency Security Scanner,1.0.0,Scan npm/pip dependencies for vulnerabilities locally. Zero uploads. Color-coded severity panel. AI fix explanations (Pro).
+2026-11-24T13:55:49.78Z,LemuelAdane.accent-go-formatter,LemuelAdane,Accent Go Formatter,0.1.0,Configurable Go code formatter for Visual Studio Code.
+2026-11-24T13:56:07.583Z,tabdeck.tabdeck,tabdeck,TabDeck,0.3.0,"Use an Android tablet as a context-aware side screen for your Windows PCs, over Bluetooth LE."

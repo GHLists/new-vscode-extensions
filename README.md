@@ -12,19 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 13:19 UTC
+## Latest list — 2026-11-24 14:19 UTC
 
-New extensions published between 2026-11-24 11:19 UTC and 2026-11-24 13:19 UTC.
+New extensions published between 2026-11-24 12:19 UTC and 2026-11-24 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T13-19-12-396988Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T14-19-37-04162Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 12:07:14 | [lyrestudio.amble-studio](https://marketplace.visualstudio.com/items?itemName=lyrestudio.amble-studio) | Amble | 0.2.0 | Amble workspace and conversations in VS Code, connected to your Amble host. |
-| 2026-11-24 12:20:22 | [22712881.baithi-nhanvien-viewer](https://marketplace.visualstudio.com/items?itemName=22712881.baithi-nhanvien-viewer) | BaiThi NhanVien - Java Source Viewer | 1.0.0 | Xem nhanh toàn bộ mã nguồn dự án Java RMI & JPA (BaiThi_NhanVien) ở chế độ chỉ… |
-| 2026-11-24 12:26:54 | [kanimegane.source-screen-map](https://marketplace.visualstudio.com/items?itemName=kanimegane.source-screen-map) | Source Screen Map | 0.1.1 | アプリを起動せず、ソースから画面・操作・遷移先を調べる VS Code 拡張。 |
-| 2026-11-24 12:32:27 | [manuelCebreiro.context-meter-for-claude-code](https://marketplace.visualstudio.com/items?itemName=manuelCebreiro.context-meter-for-claude-code) | Context Meter for Claude Code | 0.4.2 | Unofficial, not affiliated with Anthropic. Context, session tokens, 5-hour and… |
-| 2026-11-24 12:58:24 | [pl4nty.kaitai-ide](https://marketplace.visualstudio.com/items?itemName=pl4nty.kaitai-ide) | Kaitai Struct IDE | 0.1.0 | Parse binary files with Kaitai Struct (.ksy) specs: field-coloured hex view, st… |
+| 2026-11-24 13:29:38 | [lipelix.git-fate](https://marketplace.visualstudio.com/items?itemName=lipelix.git-fate) | Git Fate | 0.1.1 | See who changed every line, when and why: inline blame, file blame heatmap, fil… |
+| 2026-11-24 13:39:04 | [sorcererdev.spellbook](https://marketplace.visualstudio.com/items?itemName=sorcererdev.spellbook) | Spellbook | 0.2.0 | Spellbook in VS Code: a project's generators with holes to fill, and its rules… |
+| 2026-11-24 13:47:45 | [AmitPatel.claude-code-account-switcher-ap](https://marketplace.visualstudio.com/items?itemName=AmitPatel.claude-code-account-switcher-ap) | Claude Code Accounts Switcher | 0.1.0 | Switch between multiple Claude Code accounts (work / personal) and always see w… |
+| 2026-11-24 13:50:58 | [LxStudio.flowtasks-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.flowtasks-lx) | FlowTasks — Natural Language Task Runner | 1.0.0 | Describe workflows in plain language, group tasks, execute locally with one cli… |
+| 2026-11-24 13:50:58 | [LxStudio.depguard-lx](https://marketplace.visualstudio.com/items?itemName=LxStudio.depguard-lx) | DepGuard — Local Dependency Security Sc… | 1.0.0 | Scan npm/pip dependencies for vulnerabilities locally. Zero uploads. Color-code… |
+| 2026-11-24 13:55:49 | [LemuelAdane.accent-go-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.accent-go-formatter) | Accent Go Formatter | 0.1.0 | Configurable Go code formatter for Visual Studio Code. |
+| 2026-11-24 13:56:07 | [tabdeck.tabdeck](https://marketplace.visualstudio.com/items?itemName=tabdeck.tabdeck) | TabDeck | 0.3.0 | Use an Android tablet as a context-aware side screen for your Windows PCs, over… |
 
 ## Data source
 
