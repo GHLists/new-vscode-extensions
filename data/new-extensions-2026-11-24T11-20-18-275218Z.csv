@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T10:18:04.587Z,salah-barkai.kalam,salah-barkai,Kalam — programmer en arabe tchadien,0.2.0,"Langage de programmation en arabe tchadien (lettres latines) : couleurs, erreurs en rouge, autocomplétion, aide en français et exécution avec F5."
+2026-11-24T10:26:48.08Z,BusyMinds.gurita-vscode,BusyMinds,Gurita for VS Code,0.2.0,"Gurita is a plugin for Claude Code, Codex, and Antigravity that settles a mission's questions before handing its work to agents, and this extension adds a side-bar view and windows over the plugin's missions, questions, and recipes, doing nothing unless the plugin is installed."
+2026-11-24T10:30:05.603Z,team-yonguk.team-yonguk-markdown-editor,team-yonguk,Team Yonguk Markdown Editor,1.1.0,"Edit rendered Markdown in place, expand snippets and tables, and export a PDF beside the original file."
+2026-11-24T10:33:11.067Z,AryaCodeLabs.effortflow,AryaCodeLabs,EffortFlow,0.1.0,Log and review your EffortFlow timesheet without leaving VS Code.
+2026-11-24T10:39:25.59Z,enigma-solutions.coffee-code,enigma-solutions,Coffee Code,0.1.0,An AI coding assistant for VS Code with read-only Ask mode and approval-gated Build mode.
+2026-11-24T10:40:58.613Z,CaffeineCat.quote-chat-response,CaffeineCat,Quote Chat Response,0.0.2,Quote selected text from a chat response into the Copilot chat input as a Markdown blockquote.
+2026-11-24T10:44:13.013Z,s32ds-tools.bcu-live-plot,s32ds-tools,S32DS 工程导入,0.7.4,在 VS Code 中导入和编译 S32DS 工程，通过 J-Link 连接板子调试、下载 ELF 并查看实时变量曲线。
+2026-11-24T10:45:43.593Z,JaheemHarris.i18n-view-angular,JaheemHarris,i18n View Angular,0.2.0,"Inspect, preview, and navigate ngx-translate keys in Angular templates and TypeScript."
+2026-11-24T11:01:19.75Z,flutterqei.Flutter-zqa,flutterqei,Flutter zqa,0.0.7,Оптимизация с FLutter и Dart
+2026-11-24T11:07:31.84Z,LemuelAdane.accent-java-formatter,LemuelAdane,Accent Java Formatter,0.1.0,"Enterprise-grade Java code formatting extension for Visual Studio Code, inspired by Language Support for Java(TM) by Red Hat."
