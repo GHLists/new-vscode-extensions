@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-23 23:19 UTC
+## Latest list — 2026-11-24 00:18 UTC
 
-New extensions published between 2026-11-23 21:19 UTC and 2026-11-23 23:19 UTC.
+New extensions published between 2026-11-23 22:18 UTC and 2026-11-24 00:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-23T23-19-13-72226Z.csv)
+[Full CSV](data/new-extensions-2026-11-24T00-18-56-989063Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-23 22:42:28 | [Fuja.fuja-ui-previewer](https://marketplace.visualstudio.com/items?itemName=Fuja.fuja-ui-previewer) | Fuja UI Previewer | 0.0.1 | Click Preview above any React component to render it in a side panel with auto-… |
-| 2026-11-23 22:44:43 | [brokspace.brokspace](https://marketplace.visualstudio.com/items?itemName=brokspace.brokspace) | Brokspace | 0.1.0 | Your workspace, understood: search by meaning, answers from your own LLM with s… |
-| 2026-11-23 22:51:38 | [Fuja.ui-previewer](https://marketplace.visualstudio.com/items?itemName=Fuja.ui-previewer) | UI Previewer | 0.0.1 | Click Preview above any React component to render it in a side panel with auto-… |
-| 2026-11-23 22:53:24 | [yashjain.gitlab-pipeline-companion](https://marketplace.visualstudio.com/items?itemName=yashjain.gitlab-pipeline-companion) | GitLab Pipeline Companion | 1.0.3 | This extension can be used to control the pipelines from VSCode panels directly |
-| 2026-11-23 23:06:27 | [recato.recato](https://marketplace.visualstudio.com/items?itemName=recato.recato) | Recato Code for VS Code | 0.1.0 | An AI coding assistant in your editor: it reads your project, changes files and… |
-| 2026-11-23 23:10:48 | [KaikySantosBR.vscode-xournalpp-sync](https://marketplace.visualstudio.com/items?itemName=KaikySantosBR.vscode-xournalpp-sync) | Xournal++ Sync | 1.0.0 | Sync Xournal++ notes (.xopp) with PDF for viewing in VS Code. Auto-export on sa… |
+| 2026-11-23 23:20:29 | [cadogy.opencode-sidecar](https://marketplace.visualstudio.com/items?itemName=cadogy.opencode-sidecar) | Sidecar for OpenCode | 0.1.1 | The complete OpenCode coding agent in a VS Code chat panel: a timeline of every… |
+| 2026-11-23 23:34:12 | [semantic-devtools.agent-multitask-pro](https://marketplace.visualstudio.com/items?itemName=semantic-devtools.agent-multitask-pro) | Agent Multitask Pro — Monitor Codex, Cl… | 1.0.247 | Monitor what your agents are doing across VS Code windows and switch to them wh… |
+| 2026-11-23 23:36:43 | [OrestBida.axaml-live](https://marketplace.visualstudio.com/items?itemName=OrestBida.axaml-live) | AXAML Live | 0.1.1 | Live preview, completion, diagnostics and formatting for Avalonia XAML (.axaml)… |
+| 2026-11-23 23:51:53 | [badbit.badbit](https://marketplace.visualstudio.com/items?itemName=badbit.badbit) | BadBit | 0.11.0 | Run and debug LISP and Python in BadBit CAD, with completion, hover help and di… |
+| 2026-11-23 23:57:34 | [bensiegel.revloop](https://marketplace.visualstudio.com/items?itemName=bensiegel.revloop) | Revloop | 0.1.0 | Review local coding-agent changes with persistent inline threads in native VS C… |
 
 ## Data source
 

@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-23T23:20:29.133Z,cadogy.opencode-sidecar,cadogy,Sidecar for OpenCode,0.1.1,"The complete OpenCode coding agent in a VS Code chat panel: a timeline of every step, live subagents, diffs, @ mentions, images, permissions, fork and rewind."
+2026-11-23T23:34:12.893Z,semantic-devtools.agent-multitask-pro,semantic-devtools,"Agent Multitask Pro — Monitor Codex, Claude, Copilot across VS Code windows",1.0.247,Monitor what your agents are doing across VS Code windows and switch to them when they need you
+2026-11-23T23:36:43.58Z,OrestBida.axaml-live,OrestBida,AXAML Live,0.1.1,"Live preview, completion, diagnostics and formatting for Avalonia XAML (.axaml) files. Community project, not affiliated with AvaloniaUI."
+2026-11-23T23:51:53.017Z,badbit.badbit,badbit,BadBit,0.11.0,"Run and debug LISP and Python in BadBit CAD, with completion, hover help and diagnostics for LISP."
+2026-11-23T23:57:34.287Z,bensiegel.revloop,bensiegel,Revloop,0.1.0,Review local coding-agent changes with persistent inline threads in native VS Code diffs.
