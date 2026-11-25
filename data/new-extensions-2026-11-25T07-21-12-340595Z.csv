@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T06:17:53.423Z,dragon-charm-local.dragon-charm-companion,dragon-charm-local,Dragon Charm Companion · Preview,0.2.3,Пиксельный дракон и его зимний дом в Проводнике VS Code.
+2026-11-25T06:26:18.85Z,TimoBeermann.chess-arena,TimoBeermann,Chess Arena - Play Chess with a Friend,0.1.0,"Play 1v1 chess against a friend directly in VS Code — peer-to-peer, no server, no account."
+2026-11-25T06:28:19.98Z,AdhaBakhtiar.agy-pixel-buddy,AdhaBakhtiar,Agy Pixel Buddy,0.1.1,"Animated pixel character buddy that reacts in real time when Antigravity AI is thinking, coding, reading, or running commands."
+2026-11-25T06:56:09.85Z,zeroDtree.comonad,zeroDtree,Comonad Agent,0.2.0,"Local-first, auditable coding agent: graph-orchestrated tool loop, sandboxed shell, checkpoints, hooks, subagents and MCP."
+2026-11-25T06:59:48.523Z,Dabaz.boostbox-vscode,Dabaz,BoostBox,0.3.0,Submit supported build and test jobs from VS Code to your local BoostBox Host on macOS.
+2026-11-25T07:01:13.643Z,Ockersz.bigo-complexity-analyzer,Ockersz,Big-O Complexity Analyzer,1.0.1,Inline time and space complexity (Big-O) analysis for JavaScript and TypeScript files using the TypeScript AST.
+2026-11-25T07:01:35.18Z,B2BToolStudio.envdrift-guard,B2BToolStudio,EnvDrift Guard,1.0.0,"Local-first environment variable drift detector, hardcoded secret scanner, multi-env matrix diff, and strict Zod/Pydantic schema generator."
+2026-11-25T07:01:46.773Z,NiteshYadav.ux4g-ui-snippets,NiteshYadav,UX4G UI Snippets & IntelliSense,3.4.0,"Editor support for the UX4G design system in VS Code: Token values on hover, Go to definition (Ctrl+Click/F12), 29+ accessible snippets, and autocomplete."
+2026-11-25T07:01:48.66Z,B2BToolStudio.openapi-contract-sentinel,B2BToolStudio,OpenAPI Contract Sentinel,1.0.0,"Local-first OpenAPI 3.0/3.1 linter, Endpoint TreeView, Git breaking-change diff, Express/Fastify/Hono/FastAPI route drift auditor, and TypeScript + Zod client generator."
+2026-11-25T07:04:01.383Z,peteroooooooo.claude-code-context-fix,peteroooooooo,Claude Code Context Window Fix,1.0.1,"Fixes Claude Code VS Code extension's context usage ring to respect CLAUDE_CODE_AUTO_COMPACT_WINDOW / autoCompactWindow, show before first reply, and display exact token counts."
+2026-11-25T07:07:34.437Z,funnypets.funny-pets,funnypets,Funny Pets,1.0.0,"Silly little pets wander around a panel in VS Code. Poke them, drag them, throw them."
+2026-11-25T07:13:54.993Z,gogojo.cursor-chess,gogojo,Cursor Chess,0.7.1,Solve bite-sized tactical chess puzzles in your sidebar while your agents work.
