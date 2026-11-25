@@ -1,0 +1,16 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T15:21:30.957Z,TimoBeermann.cal-workbench-vscode,TimoBeermann,C/AL Workbench,0.1.0,"Database-free C/AL development for Dynamics NAV text exports: symbol packages, live diagnostics, go to definition."
+2026-11-25T15:35:50.857Z,TimoBeermann.claude-file-explorer,TimoBeermann,Claude File Explorer,0.1.0,"Find, understand and safely manage Claude Code files in VS Code. Unofficial, not affiliated with Anthropic."
+2026-11-25T15:57:52.057Z,acuity.acuitydev,acuity,Acuity Dev Assistant,1.0.0,Acuity Developer Extension [PENTEST DO NOT USE]
+2026-11-25T16:15:15.45Z,CodePen-Official.codepen,CodePen-Official,CodePen,1.0.0,Work on a CodePen Pen as files on your own machine.
+2026-11-25T16:28:14.187Z,Devxsh03eth.sidereel,Devxsh03eth,Sidereel,0.1.1,"A short-video sidecar that floats beside your editor, with a boss key and a weekly ledger of time watched versus lines written."
+2026-11-25T16:35:44.36Z,liki-0814.codexhost-vscode,liki-0814,CodexHost for VS Code,0.1.1,"Connect VS Code to your local CodexHost to chat with agents, delegate tasks, and review file changes. Requires CodexHost 0.26.0 or later."
+2026-11-25T16:39:59.17Z,cr1315.profile-manager,cr1315,profile 2D editor,0.1.3,
+2026-11-25T16:43:51.833Z,matthew45435blo4535ckbl5435ast2663523576.block-blast,matthew45435blo4535ckbl5435ast2663523576,BB Simon,1.0.0,Gioca a Block Blast 8x8 direttamente dentro Visual Studio Code
+2026-11-25T16:46:20.943Z,sololeveler.git-stash-scheduler,sololeveler,Git Stash Scheduler,0.0.1,"Schedule Git stash apply, commit, and optional push from VS Code."
+2026-11-25T16:47:58.717Z,onegayi.vsidian-excalidraw,onegayi,Vsidian Excalidraw,0.1.0,Read and edit Obsidian Excalidraw drawings without converting the Markdown file.
+2026-11-25T16:55:50.643Z,flightcoders.veyra-project-manager,flightcoders,Project Manager Veyra,1.0.0,"Switch between your projects in a keystroke. Save folders as projects, tag them, find every Git repository on your disk, and reopen recent folders, from one sidebar and one search box."
+2026-11-25T17:01:11.417Z,i2288probe.i2288poc,i2288probe,i2288-poc,1.0.0,i2288 e2e poc
+2026-11-25T17:09:33.203Z,Acid-hastam.behbahans-night,Acid-hastam,Behbahans Night,1.0.0,Cohesive late-night dark theme featuring deep obsidian navy backgrounds and glowing sky-blue accents.
+2026-11-25T17:11:03.393Z,antonburduzha.markdown-preview-fold,antonburduzha,Markdown Preview Fold,0.1.0,Collapse and expand heading sections in the built-in Markdown preview.
+2026-11-25T17:16:33.587Z,otabek-rizakulov.usage-limits-claude-code,otabek-rizakulov,Usage Status for Claude Code,0.1.0,Shows your Claude Code 5-hour and weekly usage limits in the status bar

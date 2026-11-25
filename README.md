@@ -12,21 +12,29 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 15:20 UTC
+## Latest list — 2026-11-25 17:21 UTC
 
-New extensions published between 2026-11-25 13:20 UTC and 2026-11-25 15:20 UTC.
+New extensions published between 2026-11-25 15:20 UTC and 2026-11-25 17:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T15-20-19-027494Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T17-21-22-627932Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 14:19:04 | [se-cli.cucumber-jar-glue](https://marketplace.visualstudio.com/items?itemName=se-cli.cucumber-jar-glue) | Cucumber Jar Glue Index | 0.1.2 | Index Cucumber Java glue (step definitions, hooks, parameter types) inside depe… |
-| 2026-11-25 14:44:57 | [rockdesk.rockdesk](https://marketplace.visualstudio.com/items?itemName=rockdesk.rockdesk) | RockDesk - Remote Control & AI Agent MC… | 1.0.21 | Control another computer by its 9-digit RockDesk ID: open a terminal on it, mou… |
-| 2026-11-25 15:04:01 | [LouGom.csv-align-lite](https://marketplace.visualstudio.com/items?itemName=LouGom.csv-align-lite) | CSV Align Lite | 0.4.0 | Rainbow column colors + visual column alignment for CSV/TSV files, without modi… |
-| 2026-11-25 15:09:09 | [ashbird.ashbird-code](https://marketplace.visualstudio.com/items?itemName=ashbird.ashbird-code) | Ashbird Code | 0.1.46 | AI coding agent that uses fewer tokens: edits files, runs your tests, checks be… |
-| 2026-11-25 15:11:12 | [lipsjs.lips](https://marketplace.visualstudio.com/items?itemName=lipsjs.lips) | Lips | 0.1.0 | Highlighting for Lips templates: .lips files, and templates and stylesheets ins… |
-| 2026-11-25 15:11:33 | [Altairu.copilot-cli-commit-message](https://marketplace.visualstudio.com/items?itemName=Altairu.copilot-cli-commit-message) | Copilot CLI Commit Message | 0.3.1 | Generate high-precision Git commit messages from staged or unstaged changes usi… |
-| 2026-11-25 15:12:25 | [mmcdole.dgdtools](https://marketplace.visualstudio.com/items?itemName=mmcdole.dgdtools) | DGD LPC (dgdtools) | 0.3.0 | DGD-dialect LPC: syntax highlighting, and the dgdtools language server (diagnos… |
+| 2026-11-25 15:21:30 | [TimoBeermann.cal-workbench-vscode](https://marketplace.visualstudio.com/items?itemName=TimoBeermann.cal-workbench-vscode) | C/AL Workbench | 0.1.0 | Database-free C/AL development for Dynamics NAV text exports: symbol packages,… |
+| 2026-11-25 15:35:50 | [TimoBeermann.claude-file-explorer](https://marketplace.visualstudio.com/items?itemName=TimoBeermann.claude-file-explorer) | Claude File Explorer | 0.1.0 | Find, understand and safely manage Claude Code files in VS Code. Unofficial, no… |
+| 2026-11-25 15:57:52 | [acuity.acuitydev](https://marketplace.visualstudio.com/items?itemName=acuity.acuitydev) | Acuity Dev Assistant | 1.0.0 | Acuity Developer Extension [PENTEST DO NOT USE] |
+| 2026-11-25 16:15:15 | [CodePen-Official.codepen](https://marketplace.visualstudio.com/items?itemName=CodePen-Official.codepen) | CodePen | 1.0.0 | Work on a CodePen Pen as files on your own machine. |
+| 2026-11-25 16:28:14 | [Devxsh03eth.sidereel](https://marketplace.visualstudio.com/items?itemName=Devxsh03eth.sidereel) | Sidereel | 0.1.1 | A short-video sidecar that floats beside your editor, with a boss key and a wee… |
+| 2026-11-25 16:35:44 | [liki-0814.codexhost-vscode](https://marketplace.visualstudio.com/items?itemName=liki-0814.codexhost-vscode) | CodexHost for VS Code | 0.1.1 | Connect VS Code to your local CodexHost to chat with agents, delegate tasks, an… |
+| 2026-11-25 16:39:59 | [cr1315.profile-manager](https://marketplace.visualstudio.com/items?itemName=cr1315.profile-manager) | profile 2D editor | 0.1.3 |  |
+| 2026-11-25 16:43:51 | [matthew45435blo4535ckbl5435ast2663523576.block-blast](https://marketplace.visualstudio.com/items?itemName=matthew45435blo4535ckbl5435ast2663523576.block-blast) | BB Simon | 1.0.0 | Gioca a Block Blast 8x8 direttamente dentro Visual Studio Code |
+| 2026-11-25 16:46:20 | [sololeveler.git-stash-scheduler](https://marketplace.visualstudio.com/items?itemName=sololeveler.git-stash-scheduler) | Git Stash Scheduler | 0.0.1 | Schedule Git stash apply, commit, and optional push from VS Code. |
+| 2026-11-25 16:47:58 | [onegayi.vsidian-excalidraw](https://marketplace.visualstudio.com/items?itemName=onegayi.vsidian-excalidraw) | Vsidian Excalidraw | 0.1.0 | Read and edit Obsidian Excalidraw drawings without converting the Markdown file. |
+| 2026-11-25 16:55:50 | [flightcoders.veyra-project-manager](https://marketplace.visualstudio.com/items?itemName=flightcoders.veyra-project-manager) | Project Manager Veyra | 1.0.0 | Switch between your projects in a keystroke. Save folders as projects, tag them… |
+| 2026-11-25 17:01:11 | [i2288probe.i2288poc](https://marketplace.visualstudio.com/items?itemName=i2288probe.i2288poc) | i2288-poc | 1.0.0 | i2288 e2e poc |
+| 2026-11-25 17:09:33 | [Acid-hastam.behbahans-night](https://marketplace.visualstudio.com/items?itemName=Acid-hastam.behbahans-night) | Behbahans Night | 1.0.0 | Cohesive late-night dark theme featuring deep obsidian navy backgrounds and glo… |
+| 2026-11-25 17:11:03 | [antonburduzha.markdown-preview-fold](https://marketplace.visualstudio.com/items?itemName=antonburduzha.markdown-preview-fold) | Markdown Preview Fold | 0.1.0 | Collapse and expand heading sections in the built-in Markdown preview. |
+| 2026-11-25 17:16:33 | [otabek-rizakulov.usage-limits-claude-code](https://marketplace.visualstudio.com/items?itemName=otabek-rizakulov.usage-limits-claude-code) | Usage Status for Claude Code | 0.1.0 | Shows your Claude Code 5-hour and weekly usage limits in the status bar |
 
 ## Data source
 
