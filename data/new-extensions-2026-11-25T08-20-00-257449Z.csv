@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T07:17:31.153Z,AnsarK.claude-code-commit-sparkle,AnsarK,Commit Sparkle for Claude Code,1.0.0,"One-click git commit messages from the Source Control view, written by Claude through your Claude Code extension. Unofficial."
+2026-11-25T07:21:13.25Z,caudexstudio.caudex,caudexstudio,caudex — Kaggle GPUs,0.2.0,Run your notebooks on Kaggle's free GPUs from VS Code.
+2026-11-25T07:28:02.223Z,JudeMichaeldeRoma.reviewlens,JudeMichaeldeRoma,ReviewLens: AI Change Review,0.1.0,"Explain, categorise and approve AI-written code changes, file by file: your local changes and GitHub pull requests or GitLab merge requests."
+2026-11-25T07:35:08.37Z,Lukdrasil.lexis-platform,Lukdrasil,IT4I Workflows,0.0.1,"Browse your projects, computing resources, workflows, and datasets, manage EXA4MIND AI inference models, and submit the current workspace to HPC workflows."
+2026-11-25T07:35:38.28Z,GuillermoGarcia.code-context-builder,GuillermoGarcia,Code Context Builder,0.1.0,Select workspace files and copy a structured Markdown context document to the clipboard.
+2026-11-25T07:38:25.707Z,NiravPatel15.authora,NiravPatel15,Authora — 2FA Authenticator,0.1.2,"Password-protected two-factor authenticator (TOTP/HOTP/Steam) in your VS Code sidebar. Encrypted vault, no cloud, no telemetry."
+2026-11-25T08:00:26.893Z,rocksphe.prism-shell,rocksphe,Prism Shell,0.3.0,"Style every shell in the VS Code terminal (PowerShell, bash, Git Bash, zsh, Docker): one prompt, 10 color palettes, typography controls and an animated startup logo."
+2026-11-25T08:04:43.447Z,ahaider110-tools.fleet-worktree-sessions,ahaider110-tools,Fleet — Parallel Branch Sessions,0.1.0,"Run a Claude Code session per git branch in VS Code, each in its own worktree with its own dev-server ports."
+2026-11-25T08:10:49.267Z,ksckaan1.goi,ksckaan1,Goi,0.1.0,"Goi design file (.goi) support: syntax highlighting, diagnostics, completion, hover, outline, formatting and go-to-definition."
