@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T19:20:48.12Z,oushi.oushi,oushi,Oushi,0.0.2,Sidebar AI chat powered by xAI Grok
+2026-11-25T19:28:15.677Z,urdr-db.urdr-xml,urdr-db,Urðr-XML,0.3.1,"Checks TEI and other XML against RELAX NG, XSD, Schematron and DTD, checks XSLT, XQuery and XPath, suggests what the schema allows, runs and previews XSLT, and reads TEI ODD files as schemas, with Urðr's own engine. No server, no Java."
+2026-11-25T19:36:19.75Z,c0m1c5an5.pre-commit-formatter,c0m1c5an5,pre-commit-formatter,0.0.5,Run pre-commit as file formatter
+2026-11-25T19:41:28.9Z,LuukP.octave-session,LuukP,GNU Octave Session,0.2.0,"MATLAB-style workflow for GNU Octave: one persistent session with a Command Window, run file / selection / %% section, breakpoint debugging, a Workspace view and live completion."
+2026-11-25T20:07:29.557Z,sirmspencer.clj-kondo-fix,sirmspencer,clj-kondo-fix,0.2.0,Auto-fix Clojure code based on clj-kondo findings
+2026-11-25T20:11:07.227Z,converterstudio.converter-studio,converterstudio,Converter Studio File Converter,1.1.0,"Convert files from the Explorer, on your computer first: images to WebP, PNG or JPG, video and audio with FFmpeg, DOCX to PDF with LibreOffice, Markdown with Pandoc, JSON to CSV, OCR. The desktop app and the cloud when you choose them."
+2026-11-25T20:13:22.013Z,ZeniF.tradutor-de-erros,ZeniF,Tradutor de Erros (PT-BR),0.1.0,"Mostra os erros e sugestões do editor em inglês e em português, para quem está aprendendo a programar."

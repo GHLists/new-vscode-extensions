@@ -12,22 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 19:19 UTC
+## Latest list — 2026-11-25 20:21 UTC
 
-New extensions published between 2026-11-25 17:19 UTC and 2026-11-25 19:19 UTC.
+New extensions published between 2026-11-25 18:21 UTC and 2026-11-25 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T19-19-48-170091Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T20-21-01-936953Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 18:14:20 | [pinlyx.pinlyx](https://marketplace.visualstudio.com/items?itemName=pinlyx.pinlyx) | Pinlyx | 0.1.0 | Adds the Pinlyx MCP server to VS Code in one step: your omnichannel inbox, cont… |
-| 2026-11-25 18:25:52 | [raboo.ai-autocomplete-prediction](https://marketplace.visualstudio.com/items?itemName=raboo.ai-autocomplete-prediction) | AI Autocomplete Prediction | 1.6.2 | Fast AI code completion for self-hosted and cloud models. Autocomplete only: no… |
-| 2026-11-25 18:28:26 | [sirmspencer.pgfmt](https://marketplace.visualstudio.com/items?itemName=sirmspencer.pgfmt) | pgfmt | 0.1.2 | Format PostgreSQL files with pgfmt |
-| 2026-11-25 18:28:39 | [GilbertZenner.folder-diff-view](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.folder-diff-view) | Folder Diff View | 0.1.0 | Compare two whole folders byte by byte: see what is only on one side, what diff… |
-| 2026-11-25 18:32:24 | [gurtinho.scriptorium](https://marketplace.visualstudio.com/items?itemName=gurtinho.scriptorium) | Scriptorium | 1.0.0 | A quiet light theme on warm paper. No colors in your code: only grays, bold and… |
-| 2026-11-25 18:55:25 | [bumkom.revit-preview](https://marketplace.visualstudio.com/items?itemName=bumkom.revit-preview) | Revit Preview | 1.0.0 | Xem trước model Revit (file .rvt đã export IFC) ngay trong VS Code: hiển thị 3D… |
-| 2026-11-25 19:02:03 | [LuukP.matlab-command-window](https://marketplace.visualstudio.com/items?itemName=LuukP.matlab-command-window) | MATLAB Command Window | 0.3.0 | A better Command Window for the official MATLAB extension: HTML output with cli… |
-| 2026-11-25 19:10:19 | [OmkarSanap.lwc-aura-smart-cleaner](https://marketplace.visualstudio.com/items?itemName=OmkarSanap.lwc-aura-smart-cleaner) | LWC & Aura Smart Cleaner | 1.0.0 | A Visual Studio Code extension for cleaning Salesforce Aura and Lightning Web C… |
+| 2026-11-25 19:20:48 | [oushi.oushi](https://marketplace.visualstudio.com/items?itemName=oushi.oushi) | Oushi | 0.0.2 | Sidebar AI chat powered by xAI Grok |
+| 2026-11-25 19:28:15 | [urdr-db.urdr-xml](https://marketplace.visualstudio.com/items?itemName=urdr-db.urdr-xml) | Urðr-XML | 0.3.1 | Checks TEI and other XML against RELAX NG, XSD, Schematron and DTD, checks XSLT… |
+| 2026-11-25 19:36:19 | [c0m1c5an5.pre-commit-formatter](https://marketplace.visualstudio.com/items?itemName=c0m1c5an5.pre-commit-formatter) | pre-commit-formatter | 0.0.5 | Run pre-commit as file formatter |
+| 2026-11-25 19:41:28 | [LuukP.octave-session](https://marketplace.visualstudio.com/items?itemName=LuukP.octave-session) | GNU Octave Session | 0.2.0 | MATLAB-style workflow for GNU Octave: one persistent session with a Command Win… |
+| 2026-11-25 20:07:29 | [sirmspencer.clj-kondo-fix](https://marketplace.visualstudio.com/items?itemName=sirmspencer.clj-kondo-fix) | clj-kondo-fix | 0.2.0 | Auto-fix Clojure code based on clj-kondo findings |
+| 2026-11-25 20:11:07 | [converterstudio.converter-studio](https://marketplace.visualstudio.com/items?itemName=converterstudio.converter-studio) | Converter Studio File Converter | 1.1.0 | Convert files from the Explorer, on your computer first: images to WebP, PNG or… |
+| 2026-11-25 20:13:22 | [ZeniF.tradutor-de-erros](https://marketplace.visualstudio.com/items?itemName=ZeniF.tradutor-de-erros) | Tradutor de Erros (PT-BR) | 0.1.0 | Mostra os erros e sugestões do editor em inglês e em português, para quem está… |
 
 ## Data source
 
