@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T09:24:36.937Z,eduser.eduser-dark-theme,eduser,EDUSER Dark Theme,0.1.2,"Rich, saturated VS Code dark theme for the EDUSER ecosystem. Calm indigo-blue background with vivid syntax colors, optimized for SQL, HTML, CSS, JavaScript and Python."
+2026-11-25T09:31:41.817Z,ReadyStack.rollout-doku-betriebsrat-lint,ReadyStack,Rollout-Doku Lint – Betriebsrat & IT-Einführung,1.0.9,"Prüft Markdown-Systembeschreibungen vor dem Go-Live eines IT-Tools: fehlt, was der Betriebsrat nach § 87 Abs. 1 Nr. 6 und § 90 BetrVG braucht? Mit KI-, Protokoll- und Löschfristen-Check."
+2026-11-25T09:35:55.62Z,sanshixiong.logveil,sanshixiong,LogVeil,1.0.0,Read local text logs in the VS Code panel with pages and bookmarks.
+2026-11-25T09:36:32.177Z,notionmaster.tokenaudit-live,notionmaster,TokenAudit Live — AI Coding Cost & Cache Guard,1.0.0,"Real-time AI token cost, prompt cache hit ratio, and context bloat auditor for Cursor, Claude Code, OpenAI, and DeepSeek. 100% offline local log scanning."
+2026-11-25T09:51:24.793Z,dsyx.file-statbar,dsyx,File StatBar,0.1.0,File stats at a glance in your status bar.
+2026-11-25T09:59:39.937Z,techneoncode.bananabox,techneoncode,Bananabox,2.0.2,"Your Epitech projects, grader, commit diffs and coding style, right in VS Code."
+2026-11-25T10:00:47.393Z,saeris.markdown-obsidian-image-size,saeris,Markdown Obsidian Image Size,0.1.0,Adds Obsidian image size (![alt|100x145](src)) support to VSCode's markdown preview
+2026-11-25T10:08:57.487Z,22712881.import-class-viewer,22712881,Import Class - Java Source Viewer,1.0.0,Xem nhanh toàn bộ mã nguồn dự án Import Class (Cinema Socket/JPA - Client & Server) ở chế độ chỉ đọc ngay trong VS Code.
+2026-11-25T10:12:05.847Z,songshouli123.duduniao,songshouli123,DuDuNiao · 渡渡鸟,0.6.0,渡渡鸟 (DuDuNiao)：第三方开源 AI 桥接工具，通过本地 DevSpace MCP 与 SSH 反向隧道连接远程 Linux VPS 上的 Claude Code 与 Google Antigravity (agy)，代码留在本地、AI 流量留在远程，提供多标签侧边栏、多主题、可视化设置中心与 4 步新机配置向导。

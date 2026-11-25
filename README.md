@@ -12,27 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 09:20 UTC
+## Latest list — 2026-11-25 10:19 UTC
 
-New extensions published between 2026-11-25 07:20 UTC and 2026-11-25 09:20 UTC.
+New extensions published between 2026-11-25 08:19 UTC and 2026-11-25 10:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T09-20-46-583779Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T10-19-27-213907Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 08:31:28 | [Lambogenius.lambogenius-migration-studio](https://marketplace.visualstudio.com/items?itemName=Lambogenius.lambogenius-migration-studio) | Lambogenius Migration Studio | 0.0.17 | Configure, run and watch Lambogenius batch migrations from VS Code, with live H… |
-| 2026-11-25 08:54:25 | [AkshayKumarKN.autogit-sync](https://marketplace.visualstudio.com/items?itemName=AkshayKumarKN.autogit-sync) | AutoGit Sync | 0.0.4 | Auto-syncs error-free code to GitHub on Ctrl+S |
-| 2026-11-25 08:55:12 | [netismic.difflinks](https://marketplace.visualstudio.com/items?itemName=netismic.difflinks) | Deep Diff Links | 0.6.0 | Deep-linkable code review viewer: turn Markdown review comments into clickable… |
-| 2026-11-25 08:58:02 | [RahulChaube.blyx-magpie](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-magpie) | Blyx Magpie | 0.1.0 | Integrate an increasing sample grid and flag under-sampled sections. |
-| 2026-11-25 08:58:07 | [RahulChaube.blyx-martin](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-martin) | Blyx Martin | 0.1.0 | Decide whether another RPC attempt fits the remaining end-to-end deadline. |
-| 2026-11-25 08:58:13 | [RahulChaube.blyx-merganser](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-merganser) | Blyx Merganser | 0.1.0 | Report drawdown depth and time below the running peak for a historical series. |
-| 2026-11-25 08:58:18 | [RahulChaube.blyx-modelgate](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-modelgate) | Blyx ModelGate | 0.1.0 | Compare two binary classifiers on the same observations and stop a release when… |
-| 2026-11-25 08:58:23 | [RahulChaube.blyx-nightingale](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-nightingale) | Blyx Nightingale | 0.1.0 | Bound a percentile from histogram counts without inventing a within-bin value. |
-| 2026-11-25 08:58:29 | [RahulChaube.blyx-nuthatch](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-nuthatch) | Blyx Nuthatch | 0.1.0 | Wrap a message and preserve a valid scroll position after resizing a terminal. |
-| 2026-11-25 08:58:46 | [react-bits.react-bits-themes](https://marketplace.visualstudio.com/items?itemName=react-bits.react-bits-themes) | react bits theme | 1.0.1 | The React Bits syntax colors for VS Code, in dark and light. |
-| 2026-11-25 09:04:09 | [nota-adoc.nota-vscode](https://marketplace.visualstudio.com/items?itemName=nota-adoc.nota-vscode) | Nota | 0.1.0 | Visual AsciiDoc editor for .adoc files in VS Code |
-| 2026-11-25 09:08:24 | [rajan694.clean-push](https://marketplace.visualstudio.com/items?itemName=rajan694.clean-push) | Clean Push: catch leftovers before you… | 0.1.0 | Finds debug leftovers in the lines you changed (console.log, debugger, .only in… |
-| 2026-11-25 09:08:45 | [rajan694.task-hub](https://marketplace.visualstudio.com/items?itemName=rajan694.task-hub) | Task Hub | 0.1.0 | Finds every command your project can run (npm scripts, Makefile, docker-compose… |
+| 2026-11-25 09:24:36 | [eduser.eduser-dark-theme](https://marketplace.visualstudio.com/items?itemName=eduser.eduser-dark-theme) | EDUSER Dark Theme | 0.1.2 | Rich, saturated VS Code dark theme for the EDUSER ecosystem. Calm indigo-blue b… |
+| 2026-11-25 09:31:41 | [ReadyStack.rollout-doku-betriebsrat-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rollout-doku-betriebsrat-lint) | Rollout-Doku Lint – Betriebsrat & IT-Ei… | 1.0.9 | Prüft Markdown-Systembeschreibungen vor dem Go-Live eines IT-Tools: fehlt, was… |
+| 2026-11-25 09:35:55 | [sanshixiong.logveil](https://marketplace.visualstudio.com/items?itemName=sanshixiong.logveil) | LogVeil | 1.0.0 | Read local text logs in the VS Code panel with pages and bookmarks. |
+| 2026-11-25 09:36:32 | [notionmaster.tokenaudit-live](https://marketplace.visualstudio.com/items?itemName=notionmaster.tokenaudit-live) | TokenAudit Live — AI Coding Cost & Cach… | 1.0.0 | Real-time AI token cost, prompt cache hit ratio, and context bloat auditor for… |
+| 2026-11-25 09:51:24 | [dsyx.file-statbar](https://marketplace.visualstudio.com/items?itemName=dsyx.file-statbar) | File StatBar | 0.1.0 | File stats at a glance in your status bar. |
+| 2026-11-25 09:59:39 | [techneoncode.bananabox](https://marketplace.visualstudio.com/items?itemName=techneoncode.bananabox) | Bananabox | 2.0.2 | Your Epitech projects, grader, commit diffs and coding style, right in VS Code. |
+| 2026-11-25 10:00:47 | [saeris.markdown-obsidian-image-size](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-obsidian-image-size) | Markdown Obsidian Image Size | 0.1.0 | Adds Obsidian image size (![alt\|100x145](src)) support to VSCode's markdown pre… |
+| 2026-11-25 10:08:57 | [22712881.import-class-viewer](https://marketplace.visualstudio.com/items?itemName=22712881.import-class-viewer) | Import Class - Java Source Viewer | 1.0.0 | Xem nhanh toàn bộ mã nguồn dự án Import Class (Cinema Socket/JPA - Client & Ser… |
+| 2026-11-25 10:12:05 | [songshouli123.duduniao](https://marketplace.visualstudio.com/items?itemName=songshouli123.duduniao) | DuDuNiao · 渡渡鸟 | 0.6.0 | 渡渡鸟 (DuDuNiao)：第三方开源 AI 桥接工具，通过本地 DevSpace MCP 与 SSH 反向隧道连接远程 Linux VPS 上的 Clau… |
 
 ## Data source
 
