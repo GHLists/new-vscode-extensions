@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 00:19 UTC
+## Latest list — 2026-11-25 01:19 UTC
 
-New extensions published between 2026-11-24 22:19 UTC and 2026-11-25 00:19 UTC.
+New extensions published between 2026-11-24 23:19 UTC and 2026-11-25 01:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T00-19-24-013238Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T01-19-38-876049Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 23:13:16 | [PatSmuk.stale-node-modules](https://marketplace.visualstudio.com/items?itemName=PatSmuk.stale-node-modules) | Stale node_modules | 1.0.0 | Warns you when a git branch switch leaves node_modules out of date with package… |
-| 2026-11-25 00:03:28 | [i55490probe.i55756c](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756c) | i55756-marker-c | 1.0.0 | probe |
-| 2026-11-25 00:05:05 | [i55490probe.i55756e1](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e1) | m55756-dq x55756" onmouseover=alert(1)… | 1.0.0 | probe |
-| 2026-11-25 00:05:06 | [i55490probe.i55756e2](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e2) | m55756-lt m55756<img src=x onerror=aler… | 1.0.0 | probe |
-| 2026-11-25 00:05:08 | [i55490probe.i55756e3](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e3) | m55756-sq m55756' onmouseover=alert(3)… | 1.0.0 | probe |
-| 2026-11-25 00:06:59 | [penpilot.penpilot-vscode](https://marketplace.visualstudio.com/items?itemName=penpilot.penpilot-vscode) | PenPilot 文档查看器 | 0.1.26 | 在 VS Code 里直接打开 docx / doc / rtf / pdf / xlsx / pptx / epub 等富文档：复用 PenPilot 的本… |
+| 2026-11-25 00:34:44 | [limccn.kbmcp-mini-vscode](https://marketplace.visualstudio.com/items?itemName=limccn.kbmcp-mini-vscode) | hyseed mini | 0.2.2 | hyseed mini — the pip-runtime edition of hyseed: local knowledge base inside VS… |
+| 2026-11-25 00:36:39 | [Code2Business.sql-beautifier-pro](https://marketplace.visualstudio.com/items?itemName=Code2Business.sql-beautifier-pro) | SQL Beautifier Pro | 0.1.2 | A local, token-aware SQL formatter for MySQL and MariaDB. |
+| 2026-11-25 00:39:38 | [xnervwang.opencode-agent-plus](https://marketplace.visualstudio.com/items?itemName=xnervwang.opencode-agent-plus) | OpenCode Agent Plus | 0.0.1 | Chat with OpenCode, an open-source coding agent, in VS Code editor tabs using a… |
+| 2026-11-25 00:44:52 | [turbonop.hexcavator-vscode](https://marketplace.visualstudio.com/items?itemName=turbonop.hexcavator-vscode) | Hexcavator | 0.0.10 | Explore executables, objects, libraries, and WebAssembly modules with their deb… |
+| 2026-11-25 00:45:33 | [puzaricloud.settings-layers-shared-per-os](https://marketplace.visualstudio.com/items?itemName=puzaricloud.settings-layers-shared-per-os) | Settings Layers - Shared Team Settings,… | 1.0.0 | Extend settings.json from a shared base file in the repo, add per-OS blocks (Wi… |
+| 2026-11-25 00:47:32 | [EmperorAndFool.tommys-hermes-acp](https://marketplace.visualstudio.com/items?itemName=EmperorAndFool.tommys-hermes-acp) | Tommys Hermes ACP | 2.6.1 | Run Hermes Agent in VS Code — two independent agents side by side, steerable wh… |
+| 2026-11-25 01:00:19 | [prashasti1005.mcdc-sbfl-localizer](https://marketplace.visualstudio.com/items?itemName=prashasti1005.mcdc-sbfl-localizer) | MC/DC-SBFL Fault Localizer | 1.0.0 | Sub-expression level Spectrum-Based Fault Localization using MC/DC condition pr… |
 
 ## Data source
 
