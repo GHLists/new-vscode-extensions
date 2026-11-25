@@ -12,17 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 11:20 UTC
+## Latest list — 2026-11-25 12:18 UTC
 
-New extensions published between 2026-11-25 09:20 UTC and 2026-11-25 11:20 UTC.
+New extensions published between 2026-11-25 10:18 UTC and 2026-11-25 12:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T11-20-04-231092Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T12-18-56-230674Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 10:37:57 | [klepo1.texmark](https://marketplace.visualstudio.com/items?itemName=klepo1.texmark) | TeXmark | 0.1.0 | Language support for TeXmark (.tmd), Markdown that's secretly LaTeX: syntax hig… |
-| 2026-11-25 10:59:01 | [AetherUE.aether-ue-class-blocks](https://marketplace.visualstudio.com/items?itemName=AetherUE.aether-ue-class-blocks) | 以太 | 0.2.0 | 在 VS Code 中按 C++ 类和结构体分块、标记与折叠代码，为 Unreal 技能及修饰器添加标题提示。 |
-| 2026-11-25 11:14:58 | [jitendra-kumarr.syntaxshift](https://marketplace.visualstudio.com/items?itemName=jitendra-kumarr.syntaxshift) | SyntaxShift | 0.0.1 | Convert code between Python, Java, JavaScript, C and C++ with GitHub Copilot or… |
+| 2026-11-25 11:54:27 | [NiravPatel15.wintrail](https://marketplace.visualstudio.com/items?itemName=NiravPatel15.wintrail) | Wintrail | 0.1.0 | Your private, encrypted trail of work wins: quick log, standup drafts for Teams… |
+| 2026-11-25 11:57:22 | [sporange-dev.packwise](https://marketplace.visualstudio.com/items?itemName=sporange-dev.packwise) | Packwise — Package Manager for NuGet, n… | 0.5.3 | Manage the NuGet packages of your .NET solutions, the npm packages of your Node… |
+| 2026-11-25 12:01:06 | [NiravPatel15.pr-ready](https://marketplace.visualstudio.com/items?itemName=NiravPatel15.pr-ready) | PR Ready Check | 0.1.0 | Find leftover debug statements (console.log, debugger, System.out.println, prin… |
+| 2026-11-25 12:01:26 | [yedera.yedera](https://marketplace.visualstudio.com/items?itemName=yedera.yedera) | Yedera Companion | 0.1.0 | AI coding companion for VS Code with project context, code editing, and browser… |
+| 2026-11-25 12:10:22 | [wbcode.avron](https://marketplace.visualstudio.com/items?itemName=wbcode.avron) | Avron | 0.1.0 | One labelled sponsor line in the status bar while an AI agent thinks; it clears… |
+| 2026-11-25 12:13:10 | [einvoiceengine.einvoice-validator](https://marketplace.visualstudio.com/items?itemName=einvoiceengine.einvoice-validator) | E-Invoice Validator (XRechnung, ZUGFeRD… | 0.1.0 | Validate XRechnung, ZUGFeRD / Factur-X, Peppol BIS, EN 16931 (UBL, CII), Factur… |
 
 ## Data source
 
