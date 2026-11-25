@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T01:19:41.56Z,tzfm.rustel-vscode,tzfm,Rustel,0.1.0,"Language server, live playback, and real-time pattern highlighting for Rustel (.strudel) scores."
+2026-11-25T01:21:11.92Z,asteroid.asteroid,asteroid,asteroid (.ath),0.1.0,"Syntax highlighting for asteroid (.ath) programs: circuits, claims, Lean proofs."
+2026-11-25T01:23:22.993Z,MartinAlejandroOviedo.indie-icons,MartinAlejandroOviedo,Indie Icons,1.1.0,Tema de iconos indie con más de 70 ilustraciones detalladas y una paleta cálida para el explorador de VS Code
+2026-11-25T01:36:40.787Z,fatground.sql-parameter-fusion,fatground,SQL Parameter Fusion,1.0.1,将带占位符的SQL语句与参数融合
+2026-11-25T01:38:18.583Z,PRYSKY-Studio.ai-agent-remote-control,PRYSKY-Studio,Claude AI Remote Control,1.2.8,"Mobile remote control for Claude Code, Cursor, Antigravity, Codex & Gemini via Telegram push — step approval & voice control on an open or locked PC (5s QR)."
+2026-11-25T01:40:12.57Z,SK-Clownsoft.lispnt,SK-Clownsoft,Lispnt,0.1.1,"Lispnt - a gentle, read-only diagnostic path for Common Lisp (SBCL), alongside OLIVE."
+2026-11-25T01:45:47.93Z,senkytech.argv,senkytech,ARGV,0.8.0,"ARGV in your editor: project, Task Pack, and execution entry points."
+2026-11-25T01:51:25.473Z,MartinAlejandroOviedo.8bit-icons,MartinAlejandroOviedo,8bit Icons,1.0.0,Tema de iconos pixel art para el explorador de VS Code: más de 70 iconos de 16×16 con estética 8-bit
+2026-11-25T02:07:13.437Z,sulho.claude-task-notifier,sulho,Claude Task Notifier,1.0.1,"Get a desktop notification and a sound when Claude Code finishes a task, asks a question, or waits for your approval."
+2026-11-25T02:09:47.107Z,archaison-commits.tabword,archaison-commits,Tabword,0.1.1,"Quiet, terminal-style word completion from the current document."
