@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T14:19:04.583Z,se-cli.cucumber-jar-glue,se-cli,Cucumber Jar Glue Index,0.1.2,"Index Cucumber Java glue (step definitions, hooks, parameter types) inside dependency JARs without extracting them, and merge it with workspace source for Gherkin navigation."
+2026-11-25T14:44:57.607Z,rockdesk.rockdesk,rockdesk,RockDesk - Remote Control & AI Agent MCP Toolkit,1.0.21,"Control another computer by its 9-digit RockDesk ID: open a terminal on it, mount its folders, forward its ports, and give VS Code agent mode, Claude Code, Codex, Cursor or Trae RockDesk's 18-tool MCP server. Install the RockDesk app on both computers."
+2026-11-25T15:04:01.14Z,LouGom.csv-align-lite,LouGom,CSV Align Lite,0.4.0,"Rainbow column colors + visual column alignment for CSV/TSV files, without modifying the file. Fast on huge files (widths computed from the first rows)."
+2026-11-25T15:09:09.157Z,ashbird.ashbird-code,ashbird,Ashbird Code,0.1.46,"AI coding agent that uses fewer tokens: edits files, runs your tests, checks before it's done. European, private, pay at cost."
+2026-11-25T15:11:12.95Z,lipsjs.lips,lipsjs,Lips,0.1.0,"Highlighting for Lips templates: .lips files, and templates and stylesheets inside TypeScript and JavaScript"
+2026-11-25T15:11:33.463Z,Altairu.copilot-cli-commit-message,Altairu,Copilot CLI Commit Message,0.3.1,Generate high-precision Git commit messages from staged or unstaged changes using GitHub Copilot CLI or OpenAI-compatible APIs.
+2026-11-25T15:12:25.89Z,mmcdole.dgdtools,mmcdole,DGD LPC (dgdtools),0.3.0,"DGD-dialect LPC: syntax highlighting, and the dgdtools language server (diagnostics as you type, fixes, formatting, navigation, completion, rename) for the language dgdlpc."
