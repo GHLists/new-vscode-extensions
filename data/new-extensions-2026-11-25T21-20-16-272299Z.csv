@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T20:31:58.107Z,joshuamadrid.live-design-view,joshuamadrid,Live Design View,1.0.1,"Visual Code / Split / Design design view for plain HTML: select, insert and edit elements on the page, style them in a CSS designer, check accessibility (WCAG), links and forms. Every change is written into your real .html and .css files."
+2026-11-25T20:44:07.01Z,odlot-marco-lutz.odlot-canvas,odlot-marco-lutz,Odlot Canvas,0.0.4,An infinite canvas for connecting your thoughts and ideas — a JSON Canvas 1.0 editor for VS Code.
+2026-11-25T20:45:49.743Z,cytwyatt.orca-helper-vscode,cytwyatt,ORCA 6 Helper,0.1.0,"All-in-one VS Code extension for ORCA 6 quantum chemistry: syntax highlighting, completions, hover docs, diagnostics, output outline TOC, 3D molecular & trajectory visualization, convergence charts, vibrational animations, and IR/UV-Vis spectra."
+2026-11-25T20:46:13.413Z,harikalyan.qemu-debug,harikalyan,qemu-debug,0.1.1,QEMU Cortex-M3 debugging for mps2-an385
+2026-11-25T20:56:37.93Z,emtech.blueprint-paper,emtech,Blueprint Paper,0.1.0,"A clean paper-and-ink theme inspired by architecture diagrams: crisp slate borders, deep blue accents and a dark console. Light and dark variants."
+2026-11-25T20:59:27.95Z,RahulChaube.blyx-oriole,RahulChaube,Blyx Oriole,0.1.0,Decide whether a scheduled revision can go live after independent review.
+2026-11-25T20:59:32.65Z,RahulChaube.blyx-osprey,RahulChaube,Blyx Osprey,0.1.0,Score a detection against a reference after clipping both to the camera frame.
+2026-11-25T20:59:37.397Z,RahulChaube.blyx-pelican,RahulChaube,Blyx Pelican,0.1.0,Compare per-request aligned I/O with coalesced unaligned reads for a sorted trace.
+2026-11-25T20:59:42.15Z,RahulChaube.blyx-petrel,RahulChaube,Blyx Petrel,0.1.0,Admit an immediate charge or report the wait a request can afford.
+2026-11-25T20:59:46.787Z,RahulChaube.blyx-pintail,RahulChaube,Blyx Pintail,0.1.0,Compare long-only portfolio snapshots under a one-way turnover budget.
+2026-11-25T20:59:51.497Z,RahulChaube.blyx-pipit,RahulChaube,Blyx Pipit,0.1.0,Plan the next CLI batch from child exit codes and a failure allowance.
+2026-11-25T21:05:17.607Z,CristianMartinezMontes.bc-version-switcher,CristianMartinezMontes,BC Version Switcher,0.0.2,Selecciona la versión de Business Central (app.json desde .versions/<VERSION>.app.json) y su caché de símbolos.
+2026-11-25T21:10:18.517Z,deskworthy.claude-code-multi-account-shared-history,deskworthy,Claude Code Multi-Account: Shared History,0.1.0,"A different Claude account in each VS Code window, with one shared history, memory, skills and settings. Unofficial, not affiliated with Anthropic. Never reads login data, makes no network calls."
+2026-11-25T21:14:47.62Z,mtorres11.pr-status-panel,mtorres11,PR Status Panel,0.8.0,"Live sidebar with checks, review comments and approvals for your open GitHub pull requests, plus a Deployments view showing where each PR is: in main, and which pipeline stages it reached."

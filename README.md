@@ -12,21 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 20:21 UTC
+## Latest list — 2026-11-25 21:20 UTC
 
-New extensions published between 2026-11-25 18:21 UTC and 2026-11-25 20:21 UTC.
+New extensions published between 2026-11-25 19:20 UTC and 2026-11-25 21:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T20-21-01-936953Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T21-20-16-272299Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 19:20:48 | [oushi.oushi](https://marketplace.visualstudio.com/items?itemName=oushi.oushi) | Oushi | 0.0.2 | Sidebar AI chat powered by xAI Grok |
-| 2026-11-25 19:28:15 | [urdr-db.urdr-xml](https://marketplace.visualstudio.com/items?itemName=urdr-db.urdr-xml) | Urðr-XML | 0.3.1 | Checks TEI and other XML against RELAX NG, XSD, Schematron and DTD, checks XSLT… |
-| 2026-11-25 19:36:19 | [c0m1c5an5.pre-commit-formatter](https://marketplace.visualstudio.com/items?itemName=c0m1c5an5.pre-commit-formatter) | pre-commit-formatter | 0.0.5 | Run pre-commit as file formatter |
-| 2026-11-25 19:41:28 | [LuukP.octave-session](https://marketplace.visualstudio.com/items?itemName=LuukP.octave-session) | GNU Octave Session | 0.2.0 | MATLAB-style workflow for GNU Octave: one persistent session with a Command Win… |
-| 2026-11-25 20:07:29 | [sirmspencer.clj-kondo-fix](https://marketplace.visualstudio.com/items?itemName=sirmspencer.clj-kondo-fix) | clj-kondo-fix | 0.2.0 | Auto-fix Clojure code based on clj-kondo findings |
-| 2026-11-25 20:11:07 | [converterstudio.converter-studio](https://marketplace.visualstudio.com/items?itemName=converterstudio.converter-studio) | Converter Studio File Converter | 1.1.0 | Convert files from the Explorer, on your computer first: images to WebP, PNG or… |
-| 2026-11-25 20:13:22 | [ZeniF.tradutor-de-erros](https://marketplace.visualstudio.com/items?itemName=ZeniF.tradutor-de-erros) | Tradutor de Erros (PT-BR) | 0.1.0 | Mostra os erros e sugestões do editor em inglês e em português, para quem está… |
+| 2026-11-25 20:31:58 | [joshuamadrid.live-design-view](https://marketplace.visualstudio.com/items?itemName=joshuamadrid.live-design-view) | Live Design View | 1.0.1 | Visual Code / Split / Design design view for plain HTML: select, insert and edi… |
+| 2026-11-25 20:44:07 | [odlot-marco-lutz.odlot-canvas](https://marketplace.visualstudio.com/items?itemName=odlot-marco-lutz.odlot-canvas) | Odlot Canvas | 0.0.4 | An infinite canvas for connecting your thoughts and ideas — a JSON Canvas 1.0 e… |
+| 2026-11-25 20:45:49 | [cytwyatt.orca-helper-vscode](https://marketplace.visualstudio.com/items?itemName=cytwyatt.orca-helper-vscode) | ORCA 6 Helper | 0.1.0 | All-in-one VS Code extension for ORCA 6 quantum chemistry: syntax highlighting,… |
+| 2026-11-25 20:46:13 | [harikalyan.qemu-debug](https://marketplace.visualstudio.com/items?itemName=harikalyan.qemu-debug) | qemu-debug | 0.1.1 | QEMU Cortex-M3 debugging for mps2-an385 |
+| 2026-11-25 20:56:37 | [emtech.blueprint-paper](https://marketplace.visualstudio.com/items?itemName=emtech.blueprint-paper) | Blueprint Paper | 0.1.0 | A clean paper-and-ink theme inspired by architecture diagrams: crisp slate bord… |
+| 2026-11-25 20:59:27 | [RahulChaube.blyx-oriole](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-oriole) | Blyx Oriole | 0.1.0 | Decide whether a scheduled revision can go live after independent review. |
+| 2026-11-25 20:59:32 | [RahulChaube.blyx-osprey](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-osprey) | Blyx Osprey | 0.1.0 | Score a detection against a reference after clipping both to the camera frame. |
+| 2026-11-25 20:59:37 | [RahulChaube.blyx-pelican](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-pelican) | Blyx Pelican | 0.1.0 | Compare per-request aligned I/O with coalesced unaligned reads for a sorted tra… |
+| 2026-11-25 20:59:42 | [RahulChaube.blyx-petrel](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-petrel) | Blyx Petrel | 0.1.0 | Admit an immediate charge or report the wait a request can afford. |
+| 2026-11-25 20:59:46 | [RahulChaube.blyx-pintail](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-pintail) | Blyx Pintail | 0.1.0 | Compare long-only portfolio snapshots under a one-way turnover budget. |
+| 2026-11-25 20:59:51 | [RahulChaube.blyx-pipit](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-pipit) | Blyx Pipit | 0.1.0 | Plan the next CLI batch from child exit codes and a failure allowance. |
+| 2026-11-25 21:05:17 | [CristianMartinezMontes.bc-version-switcher](https://marketplace.visualstudio.com/items?itemName=CristianMartinezMontes.bc-version-switcher) | BC Version Switcher | 0.0.2 | Selecciona la versión de Business Central (app.json desde .versions/<VERSION>.a… |
+| 2026-11-25 21:10:18 | [deskworthy.claude-code-multi-account-shared-history](https://marketplace.visualstudio.com/items?itemName=deskworthy.claude-code-multi-account-shared-history) | Claude Code Multi-Account: Shared Histo… | 0.1.0 | A different Claude account in each VS Code window, with one shared history, mem… |
+| 2026-11-25 21:14:47 | [mtorres11.pr-status-panel](https://marketplace.visualstudio.com/items?itemName=mtorres11.pr-status-panel) | PR Status Panel | 0.8.0 | Live sidebar with checks, review comments and approvals for your open GitHub pu… |
 
 ## Data source
 
