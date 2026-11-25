@@ -12,25 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 18:21 UTC
+## Latest list — 2026-11-25 19:19 UTC
 
-New extensions published between 2026-11-25 16:21 UTC and 2026-11-25 18:21 UTC.
+New extensions published between 2026-11-25 17:19 UTC and 2026-11-25 19:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T18-21-16-21993Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T19-19-48-170091Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 17:18:12 | [DataDev.ecps-language-vscode](https://marketplace.visualstudio.com/items?itemName=DataDev.ecps-language-vscode) | ECPS Language Support by DataDev | 1.0.3 | Language support for ECPS: syntax highlighting, smart completions, variable col… |
-| 2026-11-25 17:26:29 | [FarazQuazi.db-desk](https://marketplace.visualstudio.com/items?itemName=FarazQuazi.db-desk) | DB Desk | 0.7.2 | A simple database manager for PostgreSQL, MySQL/MariaDB, SQL Server, SQLite, Mo… |
-| 2026-11-25 17:26:38 | [llriglana.vs-chess](https://marketplace.visualstudio.com/items?itemName=llriglana.vs-chess) | VS Chess | 0.3.3 | Offline chess in your VS Code sidebar. Play Stockfish, solve 9,781 puzzles, and… |
-| 2026-11-25 17:38:25 | [mohirlab.workstory](https://marketplace.visualstudio.com/items?itemName=mohirlab.workstory) | Workstory | 1.0.0 | Finished work in human language: a visual changelog of what was done, when and… |
-| 2026-11-25 17:38:48 | [peariforme.jes-reader](https://marketplace.visualstudio.com/items?itemName=peariforme.jes-reader) | JES Reader | 0.1.0 | Navigable z/OS JES2 sysouts: failures in Problems, job steps in the Outline, me… |
-| 2026-11-25 17:38:56 | [aikellogg.focus-guard](https://marketplace.visualstudio.com/items?itemName=aikellogg.focus-guard) | Focus Guard: Back to Claude Code | 1.1.1 | Typing into nothing? It tells you out loud and puts you back in Claude Code, ke… |
-| 2026-11-25 17:39:30 | [fortwhimsy.tandem-markdown](https://marketplace.visualstudio.com/items?itemName=fortwhimsy.tandem-markdown) | Tandem Markdown | 0.1.0 | A WYSIWYG markdown editor for VS Code with support for a wide range of markdown… |
-| 2026-11-25 17:45:37 | [panto.cool-formatter](https://marketplace.visualstudio.com/items?itemName=panto.cool-formatter) | Cool Formatter™ | 0.3.1 | Operator spacing that follows precedence, so code reads the way it binds. |
-| 2026-11-25 17:46:49 | [c0m1c5an5.structured-english-vscode](https://marketplace.visualstudio.com/items?itemName=c0m1c5an5.structured-english-vscode) | Structured English | 0.0.2 | Syntax highlighting, error checking and auto-indent for Structured English pseu… |
-| 2026-11-25 17:49:51 | [ScuroGuardiano.mdlive](https://marketplace.visualstudio.com/items?itemName=ScuroGuardiano.mdlive) | SGMdLive | 0.1.1 | ScuroGuardiano's live Markdown preview rendered with your own Markdig pipeline,… |
-| 2026-11-25 17:51:12 | [katagarov.minimax-agent](https://marketplace.visualstudio.com/items?itemName=katagarov.minimax-agent) | MiniMax Agent | 0.42.1 | Coding agent for VS Code powered by MiniMax models |
+| 2026-11-25 18:14:20 | [pinlyx.pinlyx](https://marketplace.visualstudio.com/items?itemName=pinlyx.pinlyx) | Pinlyx | 0.1.0 | Adds the Pinlyx MCP server to VS Code in one step: your omnichannel inbox, cont… |
+| 2026-11-25 18:25:52 | [raboo.ai-autocomplete-prediction](https://marketplace.visualstudio.com/items?itemName=raboo.ai-autocomplete-prediction) | AI Autocomplete Prediction | 1.6.2 | Fast AI code completion for self-hosted and cloud models. Autocomplete only: no… |
+| 2026-11-25 18:28:26 | [sirmspencer.pgfmt](https://marketplace.visualstudio.com/items?itemName=sirmspencer.pgfmt) | pgfmt | 0.1.2 | Format PostgreSQL files with pgfmt |
+| 2026-11-25 18:28:39 | [GilbertZenner.folder-diff-view](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.folder-diff-view) | Folder Diff View | 0.1.0 | Compare two whole folders byte by byte: see what is only on one side, what diff… |
+| 2026-11-25 18:32:24 | [gurtinho.scriptorium](https://marketplace.visualstudio.com/items?itemName=gurtinho.scriptorium) | Scriptorium | 1.0.0 | A quiet light theme on warm paper. No colors in your code: only grays, bold and… |
+| 2026-11-25 18:55:25 | [bumkom.revit-preview](https://marketplace.visualstudio.com/items?itemName=bumkom.revit-preview) | Revit Preview | 1.0.0 | Xem trước model Revit (file .rvt đã export IFC) ngay trong VS Code: hiển thị 3D… |
+| 2026-11-25 19:02:03 | [LuukP.matlab-command-window](https://marketplace.visualstudio.com/items?itemName=LuukP.matlab-command-window) | MATLAB Command Window | 0.3.0 | A better Command Window for the official MATLAB extension: HTML output with cli… |
+| 2026-11-25 19:10:19 | [OmkarSanap.lwc-aura-smart-cleaner](https://marketplace.visualstudio.com/items?itemName=OmkarSanap.lwc-aura-smart-cleaner) | LWC & Aura Smart Cleaner | 1.0.0 | A Visual Studio Code extension for cleaning Salesforce Aura and Lightning Web C… |
 
 ## Data source
 

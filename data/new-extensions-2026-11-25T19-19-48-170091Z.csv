@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T18:14:20.02Z,pinlyx.pinlyx,pinlyx,Pinlyx,0.1.0,"Adds the Pinlyx MCP server to VS Code in one step: your omnichannel inbox, contacts, deals and tasks inside your AI assistant."
+2026-11-25T18:25:52.717Z,raboo.ai-autocomplete-prediction,raboo,AI Autocomplete Prediction,1.6.2,"Fast AI code completion for self-hosted and cloud models. Autocomplete only: no chat, no agents, no telemetry."
+2026-11-25T18:28:26.29Z,sirmspencer.pgfmt,sirmspencer,pgfmt,0.1.2,Format PostgreSQL files with pgfmt
+2026-11-25T18:28:39.737Z,GilbertZenner.folder-diff-view,GilbertZenner,Folder Diff View,0.1.0,"Compare two whole folders byte by byte: see what is only on one side, what differs, and open any difference in the diff editor."
+2026-11-25T18:32:24.127Z,gurtinho.scriptorium,gurtinho,Scriptorium,1.0.0,"A quiet light theme on warm paper. No colors in your code: only grays, bold and italic."
+2026-11-25T18:55:25.577Z,bumkom.revit-preview,bumkom,Revit Preview,1.0.0,Xem trước model Revit (file .rvt đã export IFC) ngay trong VS Code: hiển thị 3D + thống kê phần tử
+2026-11-25T19:02:03.353Z,LuukP.matlab-command-window,LuukP,MATLAB Command Window,0.3.0,"A better Command Window for the official MATLAB extension: HTML output with clickable error links, collapsible output, completion pop-up, help tooltips and Stop, attached to the MATLAB the official extension already runs (no second MATLAB). Not affiliated with or endorsed by MathWorks."
+2026-11-25T19:10:19.84Z,OmkarSanap.lwc-aura-smart-cleaner,OmkarSanap,LWC & Aura Smart Cleaner,1.0.0,A Visual Studio Code extension for cleaning Salesforce Aura and Lightning Web Components (LWC) JavaScript files.
