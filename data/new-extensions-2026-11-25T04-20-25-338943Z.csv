@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T03:19:22.393Z,rickedb.agent-call-stack-copilot,rickedb,Agent Call Stack for Copilot,0.1.0,"See what GitHub Copilot's agent is doing as a live call stack: prompts, the model's thinking and replies, subagents and tool calls, as a tree or a waterfall with status, duration and token sizes."
+2026-11-25T03:19:31.813Z,rickedb.agent-call-stack-claude,rickedb,Agent Call Stack for Claude,0.1.0,"See what Claude Code is doing as a live call stack: prompts, the model's thinking and replies, subagents and tool calls, as a tree or a waterfall with status, duration, models, tokens, approvals, errors and compactions."
+2026-11-25T03:50:00.897Z,hardzim.php-pdo-snippets,hardzim,PHP PDO Snippets,0.2.1,Atalhos de PHP e PDO para login e CRUD.
+2026-11-25T03:56:54.21Z,shannu.securereflex-ai,shannu,SecureReflex AI,0.1.0,"Scan the file you are editing for security vulnerabilities and run the reflexion repair loop, powered by a SecureReflex AI backend."
+2026-11-25T04:02:27.227Z,artisanbase.artisan-base,artisanbase,Artisan Base,0.1.0,Editor utilities that keep Laravel project workspaces consistent.
+2026-11-25T04:06:42.53Z,engcode.engcode,engcode,EngCode,1.0.0,"Simple English programming for scripts, websites, and desktop apps."

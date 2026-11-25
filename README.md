@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 03:20 UTC
+## Latest list — 2026-11-25 04:20 UTC
 
-New extensions published between 2026-11-25 01:20 UTC and 2026-11-25 03:20 UTC.
+New extensions published between 2026-11-25 02:20 UTC and 2026-11-25 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T03-20-02-715492Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T04-20-25-338943Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 02:28:53 | [seta-international.adex](https://marketplace.visualstudio.com/items?itemName=seta-international.adex) | Adex | 0.2.0 | Install AELC, sign in to AELC Central and set up your projects in a few clicks.… |
-| 2026-11-25 02:31:03 | [VincentFontaine.showme](https://marketplace.visualstudio.com/items?itemName=VincentFontaine.showme) | V-ShowMe | 0.1.0 | Narrated code walkthroughs: an AI agent opens files, highlights code and explai… |
-| 2026-11-25 02:38:30 | [JavaLens.javalens](https://marketplace.visualstudio.com/items?itemName=JavaLens.javalens) | JavaLens | 1.4.0 | See your Java program run step by step: the call stack, objects on the heap, me… |
-| 2026-11-25 03:01:49 | [mpower-codeworks.blue-lines](https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.blue-lines) | Blue Lines for VS Code | 0.1.0 | Blue Lines: a near-black high-contrast color theme with crisp cornflower-blue a… |
+| 2026-11-25 03:19:22 | [rickedb.agent-call-stack-copilot](https://marketplace.visualstudio.com/items?itemName=rickedb.agent-call-stack-copilot) | Agent Call Stack for Copilot | 0.1.0 | See what GitHub Copilot's agent is doing as a live call stack: prompts, the mod… |
+| 2026-11-25 03:19:31 | [rickedb.agent-call-stack-claude](https://marketplace.visualstudio.com/items?itemName=rickedb.agent-call-stack-claude) | Agent Call Stack for Claude | 0.1.0 | See what Claude Code is doing as a live call stack: prompts, the model's thinki… |
+| 2026-11-25 03:50:00 | [hardzim.php-pdo-snippets](https://marketplace.visualstudio.com/items?itemName=hardzim.php-pdo-snippets) | PHP PDO Snippets | 0.2.1 | Atalhos de PHP e PDO para login e CRUD. |
+| 2026-11-25 03:56:54 | [shannu.securereflex-ai](https://marketplace.visualstudio.com/items?itemName=shannu.securereflex-ai) | SecureReflex AI | 0.1.0 | Scan the file you are editing for security vulnerabilities and run the reflexio… |
+| 2026-11-25 04:02:27 | [artisanbase.artisan-base](https://marketplace.visualstudio.com/items?itemName=artisanbase.artisan-base) | Artisan Base | 0.1.0 | Editor utilities that keep Laravel project workspaces consistent. |
+| 2026-11-25 04:06:42 | [engcode.engcode](https://marketplace.visualstudio.com/items?itemName=engcode.engcode) | EngCode | 1.0.0 | Simple English programming for scripts, websites, and desktop apps. |
 
 ## Data source
 
