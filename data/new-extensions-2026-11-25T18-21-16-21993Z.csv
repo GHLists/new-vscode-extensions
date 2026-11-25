@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T17:18:12.877Z,DataDev.ecps-language-vscode,DataDev,ECPS Language Support by DataDev,1.0.3,"Language support for ECPS: syntax highlighting, smart completions, variable coloring, and F5 execution."
+2026-11-25T17:26:29.263Z,FarazQuazi.db-desk,FarazQuazi,DB Desk,0.7.2,"A simple database manager for PostgreSQL, MySQL/MariaDB, SQL Server, SQLite, MongoDB and Redis: browse, edit, search, export and import."
+2026-11-25T17:26:38.293Z,llriglana.vs-chess,llriglana,VS Chess,0.3.3,"Offline chess in your VS Code sidebar. Play Stockfish, solve 9,781 puzzles, and review your games."
+2026-11-25T17:38:25.903Z,mohirlab.workstory,mohirlab,Workstory,1.0.0,"Finished work in human language: a visual changelog of what was done, when and where — with steps, links, pictures and videos. Your AI agents write it through MCP, you approve it, and you show it to a client as a web link, HTML, PDF or Markdown."
+2026-11-25T17:38:48.857Z,peariforme.jes-reader,peariforme,JES Reader,0.1.0,"Navigable z/OS JES2 sysouts: failures in Problems, job steps in the Outline, messages colored by severity. Works with Zowe Explorer."
+2026-11-25T17:38:56.963Z,aikellogg.focus-guard,aikellogg,Focus Guard: Back to Claude Code,1.1.1,"Typing into nothing? It tells you out loud and puts you back in Claude Code, keys and all. Click to stay where you are. macOS and Windows."
+2026-11-25T17:39:30.05Z,fortwhimsy.tandem-markdown,fortwhimsy,Tandem Markdown,0.1.0,"A WYSIWYG markdown editor for VS Code with support for a wide range of markdown syntax styles. You can keep a note open while an AI agent works on the same file, or while someone else's changes come in through a sync tool, a shared folder or git."
+2026-11-25T17:45:37.837Z,panto.cool-formatter,panto,Cool Formatter™,0.3.1,"Operator spacing that follows precedence, so code reads the way it binds."
+2026-11-25T17:46:49.873Z,c0m1c5an5.structured-english-vscode,c0m1c5an5,Structured English,0.0.2,"Syntax highlighting, error checking and auto-indent for Structured English pseudocode"
+2026-11-25T17:49:51.81Z,ScuroGuardiano.mdlive,ScuroGuardiano,SGMdLive,0.1.1,"ScuroGuardiano's live Markdown preview rendered with your own Markdig pipeline, template and styles (mdlive), in a split next to the editor. Does not have any relation to MdLive extensions by jackspace."
+2026-11-25T17:51:12.173Z,katagarov.minimax-agent,katagarov,MiniMax Agent,0.42.1,Coding agent for VS Code powered by MiniMax models
