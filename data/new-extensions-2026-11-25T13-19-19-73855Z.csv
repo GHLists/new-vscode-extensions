@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T12:09:48.017Z,CodeLaser.maddi-vscode,CodeLaser,maddi,0.9.7,"Modification, immutability and independence analysis for Java"
+2026-11-25T12:16:10.747Z,higorferreira.txt2bin-vscode,higorferreira,txt2bin,0.3.1,"Write binary files as plain text: syntax highlighting, live errors and byte offsets for txt2bin (.ttb) files"
+2026-11-25T12:19:09.17Z,LemuelAdane.accent-java-class-optimizer,LemuelAdane,Accent Java Class Optimizer,0.1.0,Run behavior-preserving Java refactoring with installed AI coding agents.
+2026-11-25T12:22:31.76Z,LemuelAdane.a-springboot-analyzer,LemuelAdane,Accent Spring Boot Analyzer,0.1.0,"Prepare whole-project Java and Spring Boot analysis for any AI coding agent, with optional Copilot Chat integration."
+2026-11-25T12:25:15.617Z,Toximiner.vscode-deps-sync,Toximiner,Deps Sync (uv / requirements),0.4.0,"PyCharm-style banner for unsatisfied package requirements: finds missing packages and version drift in uv.lock / pyproject.toml / requirements.txt (PEP 508 markers, multi-root), offers to fix them."
+2026-11-25T12:26:34.573Z,yangsuiyun.qianzhang,yangsuiyun,Qianzhang,0.1.12,浏览并连接可用的Devspace
+2026-11-25T12:52:03.993Z,DevNodeForge.forge-theme,DevNodeForge,ForgeTheme,0.1.0,"A clean, focused VS Code theme with crisp syntax colors, warm yellow highlights, and balanced light and dark variants by DevNodeForge."
+2026-11-25T12:59:16.117Z,m4rcus0912.testcase-paste,m4rcus0912,Testcase Paste,0.3.0,"Run sample testcases sequentially or in split terminals, and auto-paste into VS Code Debug sessions with full Scanner and FastReader support."
+2026-11-25T13:15:27.743Z,Parv-Upadhyay.codepilot-guardian-ai,Parv-Upadhyay,CodePilotGuardian AI,1.1.0,"AI-driven bug detection, root cause analysis, quick fixes, and validation in VS Code. Supports Python, JavaScript, TypeScript, JSX, TSX, Java, C, C++, and Go."
