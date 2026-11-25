@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T13:16:42.54Z,Sylith.v3code,Sylith,V3Code,0.2.2,"The control plane for coding agents on VS Code: Claude Code, Codex, Cursor Agent, Copilot, Antigravity, OpenCode and more, side by side, in threads you can hand from one agent to another."
+2026-11-25T13:24:45.38Z,fairyan.splash-model-provider,fairyan,Splash Local Model Provider,0.7.0,Connect VS Code Chat to a local splash model server.
+2026-11-25T13:40:09.593Z,davdev.react-icons-lookup,davdev,React Icons Lookup,0.0.1,Search and insert icons from React Icons into React files
+2026-11-25T13:41:29.64Z,lencelg.simple-leet,lencelg,Simple Leet,2.0.2,"Sign in to LeetCode, search problems, generate solution files in many languages, test solutions online and submit them."
+2026-11-25T13:44:13.623Z,dragonking026.claude-tool-output-viewer,dragonking026,Claude Code Tool Output Viewer (unofficial),0.1.0,"Unofficial. Syntax highlighting, ANSI colors, word wrap and JSON formatting for tool output documents opened from Claude Code."
+2026-11-25T13:58:49.347Z,hwtnb.translation-lsp,hwtnb,Translation LSP,0.10.0,"Translates comments, selections, and documents with a language model or a translation service."
+2026-11-25T14:03:46.083Z,oddmash.boundra-vscode,oddmash,Boundra,0.1.0,Workspace boundary diagnostics from the Boundra CLI
+2026-11-25T14:03:57.423Z,Lerg.vscode-luadls,Lerg,Lua Defold Language Server,0.1.0,"Lua language server for Defold projects: flow-sensitive type checking, Defold engine and library zip APIs without hand-written stubs, completion, navigation and an always-aligning formatter."
