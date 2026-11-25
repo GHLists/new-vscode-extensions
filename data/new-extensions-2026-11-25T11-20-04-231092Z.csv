@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T10:37:57.723Z,klepo1.texmark,klepo1,TeXmark,0.1.0,"Language support for TeXmark (.tmd), Markdown that's secretly LaTeX: syntax highlighting, snippets, completion for labels, citations and macros, outline, Convert to .tex and Build PDF."
+2026-11-25T10:59:01.017Z,AetherUE.aether-ue-class-blocks,AetherUE,以太,0.2.0,在 VS Code 中按 C++ 类和结构体分块、标记与折叠代码，为 Unreal 技能及修饰器添加标题提示。
+2026-11-25T11:14:58.043Z,jitendra-kumarr.syntaxshift,jitendra-kumarr,SyntaxShift,0.0.1,"Convert code between Python, Java, JavaScript, C and C++ with GitHub Copilot or Gemini."

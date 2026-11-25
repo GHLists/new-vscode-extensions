@@ -12,23 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 10:19 UTC
+## Latest list — 2026-11-25 11:20 UTC
 
-New extensions published between 2026-11-25 08:19 UTC and 2026-11-25 10:19 UTC.
+New extensions published between 2026-11-25 09:20 UTC and 2026-11-25 11:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T10-19-27-213907Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T11-20-04-231092Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 09:24:36 | [eduser.eduser-dark-theme](https://marketplace.visualstudio.com/items?itemName=eduser.eduser-dark-theme) | EDUSER Dark Theme | 0.1.2 | Rich, saturated VS Code dark theme for the EDUSER ecosystem. Calm indigo-blue b… |
-| 2026-11-25 09:31:41 | [ReadyStack.rollout-doku-betriebsrat-lint](https://marketplace.visualstudio.com/items?itemName=ReadyStack.rollout-doku-betriebsrat-lint) | Rollout-Doku Lint – Betriebsrat & IT-Ei… | 1.0.9 | Prüft Markdown-Systembeschreibungen vor dem Go-Live eines IT-Tools: fehlt, was… |
-| 2026-11-25 09:35:55 | [sanshixiong.logveil](https://marketplace.visualstudio.com/items?itemName=sanshixiong.logveil) | LogVeil | 1.0.0 | Read local text logs in the VS Code panel with pages and bookmarks. |
-| 2026-11-25 09:36:32 | [notionmaster.tokenaudit-live](https://marketplace.visualstudio.com/items?itemName=notionmaster.tokenaudit-live) | TokenAudit Live — AI Coding Cost & Cach… | 1.0.0 | Real-time AI token cost, prompt cache hit ratio, and context bloat auditor for… |
-| 2026-11-25 09:51:24 | [dsyx.file-statbar](https://marketplace.visualstudio.com/items?itemName=dsyx.file-statbar) | File StatBar | 0.1.0 | File stats at a glance in your status bar. |
-| 2026-11-25 09:59:39 | [techneoncode.bananabox](https://marketplace.visualstudio.com/items?itemName=techneoncode.bananabox) | Bananabox | 2.0.2 | Your Epitech projects, grader, commit diffs and coding style, right in VS Code. |
-| 2026-11-25 10:00:47 | [saeris.markdown-obsidian-image-size](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-obsidian-image-size) | Markdown Obsidian Image Size | 0.1.0 | Adds Obsidian image size (![alt\|100x145](src)) support to VSCode's markdown pre… |
-| 2026-11-25 10:08:57 | [22712881.import-class-viewer](https://marketplace.visualstudio.com/items?itemName=22712881.import-class-viewer) | Import Class - Java Source Viewer | 1.0.0 | Xem nhanh toàn bộ mã nguồn dự án Import Class (Cinema Socket/JPA - Client & Ser… |
-| 2026-11-25 10:12:05 | [songshouli123.duduniao](https://marketplace.visualstudio.com/items?itemName=songshouli123.duduniao) | DuDuNiao · 渡渡鸟 | 0.6.0 | 渡渡鸟 (DuDuNiao)：第三方开源 AI 桥接工具，通过本地 DevSpace MCP 与 SSH 反向隧道连接远程 Linux VPS 上的 Clau… |
+| 2026-11-25 10:37:57 | [klepo1.texmark](https://marketplace.visualstudio.com/items?itemName=klepo1.texmark) | TeXmark | 0.1.0 | Language support for TeXmark (.tmd), Markdown that's secretly LaTeX: syntax hig… |
+| 2026-11-25 10:59:01 | [AetherUE.aether-ue-class-blocks](https://marketplace.visualstudio.com/items?itemName=AetherUE.aether-ue-class-blocks) | 以太 | 0.2.0 | 在 VS Code 中按 C++ 类和结构体分块、标记与折叠代码，为 Unreal 技能及修饰器添加标题提示。 |
+| 2026-11-25 11:14:58 | [jitendra-kumarr.syntaxshift](https://marketplace.visualstudio.com/items?itemName=jitendra-kumarr.syntaxshift) | SyntaxShift | 0.0.1 | Convert code between Python, Java, JavaScript, C and C++ with GitHub Copilot or… |
 
 ## Data source
 
