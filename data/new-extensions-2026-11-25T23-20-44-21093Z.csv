@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T22:15:44.077Z,matinfo-tech.markdown-pdf-export,matinfo-tech,Markdown PDF Export,0.1.1,"The real PDF beside your Markdown, as you type. Design the header, footer, page numbers and logo by clicking, then export."
+2026-11-25T22:28:45.41Z,SheikhyDev.file-icons-vscode,SheikhyDev,File Icons VSCode,0.2.0,"Custom file icon theme for Visual Studio Code, built from your own SVG icon set."
+2026-11-25T22:34:49.347Z,onegtmlab.gtm-tool-finder,onegtmlab,GTM Tool Finder,1.0.0,"Search the OneGTMLab GTM tool directory (API reviews, comparisons, glossary) from a quick pick and open the page."
+2026-11-25T22:46:20.957Z,LucasSchiavini.gesu-lang,LucasSchiavini,Gesù Language,0.1.3,"Gesù language support: syntax colors, errors as you type, completion and hover. There is only one Truth, Jesus."
+2026-11-25T22:52:30.897Z,wayfarer6.vamp-studio,wayfarer6,VAMP Studio (Preview),0.1.5,Review sample RPA workflows and edit draft notes in a VS Code tab. No runtime required.
+2026-11-25T23:00:32.973Z,wayfarer6.vamp-agent-console,wayfarer6,VAMP Agent Console,0.1.4,Preview the VAMP Agent Console layout with sample VM sessions.
+2026-11-25T23:03:12.047Z,wayfarer6.vamp-extension-pack,wayfarer6,VAMP Extension Pack,0.1.1,"Install VAMP MCP Tools, Vault, Studio, Agent Console, and RobotCode together."
+2026-11-25T23:12:38.083Z,kevinboss.vscode-tabs,kevinboss,VS Code Tabs,0.1.0,Groups VS Code windows into tabs in the title bar.
