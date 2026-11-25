@@ -1,0 +1,14 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T08:31:28.407Z,Lambogenius.lambogenius-migration-studio,Lambogenius,Lambogenius Migration Studio,0.0.17,"Configure, run and watch Lambogenius batch migrations from VS Code, with live HTML reports"
+2026-11-25T08:54:25.58Z,AkshayKumarKN.autogit-sync,AkshayKumarKN,AutoGit Sync,0.0.4,Auto-syncs error-free code to GitHub on Ctrl+S
+2026-11-25T08:55:12.73Z,netismic.difflinks,netismic,Deep Diff Links,0.6.0,"Deep-linkable code review viewer: turn Markdown review comments into clickable Git diffs, from any branch, without touching your working tree."
+2026-11-25T08:58:02.537Z,RahulChaube.blyx-magpie,RahulChaube,Blyx Magpie,0.1.0,Integrate an increasing sample grid and flag under-sampled sections.
+2026-11-25T08:58:07.923Z,RahulChaube.blyx-martin,RahulChaube,Blyx Martin,0.1.0,Decide whether another RPC attempt fits the remaining end-to-end deadline.
+2026-11-25T08:58:13.097Z,RahulChaube.blyx-merganser,RahulChaube,Blyx Merganser,0.1.0,Report drawdown depth and time below the running peak for a historical series.
+2026-11-25T08:58:18.507Z,RahulChaube.blyx-modelgate,RahulChaube,Blyx ModelGate,0.1.0,Compare two binary classifiers on the same observations and stop a release when mistake costs or Brier score regress.
+2026-11-25T08:58:23.727Z,RahulChaube.blyx-nightingale,RahulChaube,Blyx Nightingale,0.1.0,Bound a percentile from histogram counts without inventing a within-bin value.
+2026-11-25T08:58:29.147Z,RahulChaube.blyx-nuthatch,RahulChaube,Blyx Nuthatch,0.1.0,Wrap a message and preserve a valid scroll position after resizing a terminal.
+2026-11-25T08:58:46.39Z,react-bits.react-bits-themes,react-bits,react bits theme,1.0.1,"The React Bits syntax colors for VS Code, in dark and light."
+2026-11-25T09:04:09.57Z,nota-adoc.nota-vscode,nota-adoc,Nota,0.1.0,Visual AsciiDoc editor for .adoc files in VS Code
+2026-11-25T09:08:24.06Z,rajan694.clean-push,rajan694,Clean Push: catch leftovers before you push,0.1.0,"Finds debug leftovers in the lines you changed (console.log, debugger, .only in tests, new TODOs, secrets, merge-conflict markers) and shows them in Source Control before you push."
+2026-11-25T09:08:45.573Z,rajan694.task-hub,rajan694,Task Hub,0.1.0,"Finds every command your project can run (npm scripts, Makefile, docker-compose, Maven, Gradle, shell and PowerShell scripts, VS Code tasks) and runs it with one click, with live status, stop, restart and port links."
