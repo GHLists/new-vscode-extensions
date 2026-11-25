@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T04:20:17.913Z,Franky755.claude-quota-statusbar,Franky755,Claude Quota Status Bar,1.1.0,"Real-time Claude 5-hour session, 7-day weekly, and model-scoped (Fable) quota percentages with reset countdowns, burn-rate forecasts and threshold alerts on the VS Code status bar."
+2026-11-25T04:29:16.997Z,coliff.bootstrap-ng,coliff,Bootstrap-ng,0.9.0,"Autocomplete, hovers, snippets, and diagnostics for bootstrap-ng in Angular templates."
+2026-11-25T04:35:57.47Z,IrfanYasin.smart-git-commit,IrfanYasin,Smart Git Commit Generator,0.2.0,Generate Conventional Commit suggestions from staged changes locally or with an OpenAI-compatible model.
+2026-11-25T04:42:41.79Z,saeris.markdown-block-ids,saeris,Markdown Obsidian Block IDs,0.1.0,Adds Obsidian block identifier (^id) support to VSCode's markdown preview
+2026-11-25T04:42:47.62Z,saeris.markdown-task-lists,saeris,Markdown Task Lists & Obsidian Statuses,0.1.0,Adds task lists and Obsidian's task status markers to VSCode's markdown preview
+2026-11-25T04:48:19.233Z,LittleRicky.idea-git-plugin,LittleRicky,IDEA GIT REPLICA,0.55.5,IntelliJ IDEA & Android Studio Git features — 100% recreated.
