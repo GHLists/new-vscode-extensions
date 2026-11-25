@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-24T23:13:16.94Z,PatSmuk.stale-node-modules,PatSmuk,Stale node_modules,1.0.0,Warns you when a git branch switch leaves node_modules out of date with package.json / package-lock.json.
+2026-11-25T00:03:28.107Z,i55490probe.i55756c,i55490probe,i55756-marker-c,1.0.0,probe
+2026-11-25T00:05:05.603Z,i55490probe.i55756e1,i55490probe,"m55756-dq x55756"" onmouseover=alert(1) x=""",1.0.0,probe
+2026-11-25T00:05:06.993Z,i55490probe.i55756e2,i55490probe,m55756-lt m55756<img src=x onerror=alert(2)>,1.0.0,probe
+2026-11-25T00:05:08.383Z,i55490probe.i55756e3,i55490probe,m55756-sq m55756' onmouseover=alert(3) x=',1.0.0,probe
+2026-11-25T00:06:59.107Z,penpilot.penpilot-vscode,penpilot,PenPilot 文档查看器,0.1.26,在 VS Code 里直接打开 docx / doc / rtf / pdf / xlsx / pptx / epub 等富文档：复用 PenPilot 的本地渲染引擎，不重新解析、不联网。

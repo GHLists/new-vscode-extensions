@@ -12,26 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-24 23:19 UTC
+## Latest list — 2026-11-25 00:19 UTC
 
-New extensions published between 2026-11-24 21:19 UTC and 2026-11-24 23:19 UTC.
+New extensions published between 2026-11-24 22:19 UTC and 2026-11-25 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-24T23-19-20-791925Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T00-19-24-013238Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-24 22:13:53 | [Manprachin.rowsmith](https://marketplace.visualstudio.com/items?itemName=Manprachin.rowsmith) | Rowsmith — JSON Table Editor | 0.1.0 | Edit JSON files like a spreadsheet: filter, sort, paste from Excel and save cle… |
-| 2026-11-24 22:15:12 | [matca.matca-code](https://marketplace.visualstudio.com/items?itemName=matca.matca-code) | Matca Code | 0.1.0 | A coding agent that keeps your code in Europe. It explains every change and cal… |
-| 2026-11-24 22:24:31 | [YEUNGCHIE.skfmt](https://marketplace.visualstudio.com/items?itemName=YEUNGCHIE.skfmt) | SKILL Formatter | 0.1.0 | Format Cadence SKILL source with skfmt. |
-| 2026-11-24 22:39:37 | [Mrmaeazadi.cyva](https://marketplace.visualstudio.com/items?itemName=Mrmaeazadi.cyva) | Cyva | 1.0.0 | Cyva Programming Language Official Extension |
-| 2026-11-24 22:44:23 | [fallemand.claude-multirepo-sessions](https://marketplace.visualstudio.com/items?itemName=fallemand.claude-multirepo-sessions) | Multi-Repo Sessions for Claude Code | 0.2.0 | All your Claude Code sessions across projects in one list. One click opens a se… |
-| 2026-11-24 22:47:49 | [AbdurRehmanMalik.curseforge-mod-uploader](https://marketplace.visualstudio.com/items?itemName=AbdurRehmanMalik.curseforge-mod-uploader) | CurseForge Mod Uploader | 0.2.0 | Upload a whole release folder of Minecraft mod jars to CurseForge in one go. Lo… |
-| 2026-11-24 22:55:41 | [i55490probe.i55490xss](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55490xss) | i55490-marker | 1.0.1 | i55490 e2e probe |
-| 2026-11-24 22:55:56 | [drackp2m.transloco-ulid-i18n](https://marketplace.visualstudio.com/items?itemName=drackp2m.transloco-ulid-i18n) | Transloco ULID i18n | 0.3.0 | Inline translations, hover, go-to-definition and diagnostics for the ULID-based… |
-| 2026-11-24 22:59:45 | [a7med404.hey-human](https://marketplace.visualstudio.com/items?itemName=a7med404.hey-human) | Hey, Human | 0.3.0 | Plays a sound whenever Claude Code needs your input or finishes its turn. |
-| 2026-11-24 23:02:21 | [i55490probe.i55490poc](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55490poc) | i55490-poc | 1.0.1 | i55490 e2e poc |
-| 2026-11-24 23:06:40 | [JorgeRomeuHuidobro.worktree-workspace](https://marketplace.visualstudio.com/items?itemName=JorgeRomeuHuidobro.worktree-workspace) | Worktree Workspace | 0.6.0 | Ctrl+Shift+W: open git worktrees next to the main checkout in one window and sw… |
-| 2026-11-24 23:07:18 | [i55490probe.i55444x](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55444x) | i55444t"><img src=x onerror=window.__xs… | 1.0.2 | i55444d</title><img src=x onerror=window.__xss_desc=1>ZQK |
+| 2026-11-24 23:13:16 | [PatSmuk.stale-node-modules](https://marketplace.visualstudio.com/items?itemName=PatSmuk.stale-node-modules) | Stale node_modules | 1.0.0 | Warns you when a git branch switch leaves node_modules out of date with package… |
+| 2026-11-25 00:03:28 | [i55490probe.i55756c](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756c) | i55756-marker-c | 1.0.0 | probe |
+| 2026-11-25 00:05:05 | [i55490probe.i55756e1](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e1) | m55756-dq x55756" onmouseover=alert(1)… | 1.0.0 | probe |
+| 2026-11-25 00:05:06 | [i55490probe.i55756e2](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e2) | m55756-lt m55756<img src=x onerror=aler… | 1.0.0 | probe |
+| 2026-11-25 00:05:08 | [i55490probe.i55756e3](https://marketplace.visualstudio.com/items?itemName=i55490probe.i55756e3) | m55756-sq m55756' onmouseover=alert(3)… | 1.0.0 | probe |
+| 2026-11-25 00:06:59 | [penpilot.penpilot-vscode](https://marketplace.visualstudio.com/items?itemName=penpilot.penpilot-vscode) | PenPilot 文档查看器 | 0.1.26 | 在 VS Code 里直接打开 docx / doc / rtf / pdf / xlsx / pptx / epub 等富文档：复用 PenPilot 的本… |
 
 ## Data source
 
