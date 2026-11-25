@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T05:36:57.27Z,coderlzw.comment-fold-preview,coderlzw,Comment Fold Preview,0.1.0,Show single-line summaries for folded comments while preserving the default VS Code editor appearance.
+2026-11-25T05:40:58.397Z,EmorZz1G.antigravity-agy-proxy,EmorZz1G,Antigravity AGY Proxy,0.1.1,"Independent enhanced proxy & resilience extension for Antigravity IDE Remote-SSH (v2.6.0+ agy & legacy language servers), featuring UDP/FD leak prevention, SSH keepalive, crontab FD guard, and auto-troubleshooting."
+2026-11-25T05:45:27.71Z,SEARATS.seapower-ini,SEARATS,Sea Power INI,0.4.1,"Autocomplete, error checking and Go to Definition for Sea Power INI files."
+2026-11-25T05:47:04.6Z,cblessing.database-studio-vscode,cblessing,Database Studio,1.0.0,"Universal database client for VS Code supporting PostgreSQL, MySQL, MariaDB, SQL Server, Oracle, ClickHouse, MongoDB, Redis, DuckDB, and SQLite with SSH bastion tunneling, visual ER diagrams, live EXPLAIN plans, and paginated data grid."
+2026-11-25T05:56:41.833Z,LemuelAdane.accent-typescript-formatter,LemuelAdane,Accent Typescript Formatter,0.1.0,Enterprise-grade TypeScript formatter extension for Visual Studio Code.
+2026-11-25T05:58:30.473Z,notto-work.android-device-runner,notto-work,Android Device Runner,1.2.4,在 VSCode 内一键检查设备、自动探测编译环境、编译、安装并启动 Android App，替代切到 Android Studio 点运行
+2026-11-25T06:04:04.947Z,moha358.node-plot,moha358,Node Plot - 物語プロット＆アイデア構築ノードエディタ,0.1.4,小説・シナリオの構想やアイデアを付箋ノードとして書き溜め、時系列・登場人物・伏線の提示と回収をマルチソケットで視覚的に繋いで構成できるVS Code拡張機能。Genkou Sheet（原稿用紙エディタ）連携対応。

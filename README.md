@@ -12,20 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 05:20 UTC
+## Latest list — 2026-11-25 06:21 UTC
 
-New extensions published between 2026-11-25 03:20 UTC and 2026-11-25 05:20 UTC.
+New extensions published between 2026-11-25 04:21 UTC and 2026-11-25 06:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T05-20-29-720942Z.csv)
+[Full CSV](data/new-extensions-2026-11-25T06-21-07-242525Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 04:20:17 | [Franky755.claude-quota-statusbar](https://marketplace.visualstudio.com/items?itemName=Franky755.claude-quota-statusbar) | Claude Quota Status Bar | 1.1.0 | Real-time Claude 5-hour session, 7-day weekly, and model-scoped (Fable) quota p… |
-| 2026-11-25 04:29:16 | [coliff.bootstrap-ng](https://marketplace.visualstudio.com/items?itemName=coliff.bootstrap-ng) | Bootstrap-ng | 0.9.0 | Autocomplete, hovers, snippets, and diagnostics for bootstrap-ng in Angular tem… |
-| 2026-11-25 04:35:57 | [IrfanYasin.smart-git-commit](https://marketplace.visualstudio.com/items?itemName=IrfanYasin.smart-git-commit) | Smart Git Commit Generator | 0.2.0 | Generate Conventional Commit suggestions from staged changes locally or with an… |
-| 2026-11-25 04:42:41 | [saeris.markdown-block-ids](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-block-ids) | Markdown Obsidian Block IDs | 0.1.0 | Adds Obsidian block identifier (^id) support to VSCode's markdown preview |
-| 2026-11-25 04:42:47 | [saeris.markdown-task-lists](https://marketplace.visualstudio.com/items?itemName=saeris.markdown-task-lists) | Markdown Task Lists & Obsidian Statuses | 0.1.0 | Adds task lists and Obsidian's task status markers to VSCode's markdown preview |
-| 2026-11-25 04:48:19 | [LittleRicky.idea-git-plugin](https://marketplace.visualstudio.com/items?itemName=LittleRicky.idea-git-plugin) | IDEA GIT REPLICA | 0.55.5 | IntelliJ IDEA & Android Studio Git features — 100% recreated. |
+| 2026-11-25 05:36:57 | [coderlzw.comment-fold-preview](https://marketplace.visualstudio.com/items?itemName=coderlzw.comment-fold-preview) | Comment Fold Preview | 0.1.0 | Show single-line summaries for folded comments while preserving the default VS… |
+| 2026-11-25 05:40:58 | [EmorZz1G.antigravity-agy-proxy](https://marketplace.visualstudio.com/items?itemName=EmorZz1G.antigravity-agy-proxy) | Antigravity AGY Proxy | 0.1.1 | Independent enhanced proxy & resilience extension for Antigravity IDE Remote-SS… |
+| 2026-11-25 05:45:27 | [SEARATS.seapower-ini](https://marketplace.visualstudio.com/items?itemName=SEARATS.seapower-ini) | Sea Power INI | 0.4.1 | Autocomplete, error checking and Go to Definition for Sea Power INI files. |
+| 2026-11-25 05:47:04 | [cblessing.database-studio-vscode](https://marketplace.visualstudio.com/items?itemName=cblessing.database-studio-vscode) | Database Studio | 1.0.0 | Universal database client for VS Code supporting PostgreSQL, MySQL, MariaDB, SQ… |
+| 2026-11-25 05:56:41 | [LemuelAdane.accent-typescript-formatter](https://marketplace.visualstudio.com/items?itemName=LemuelAdane.accent-typescript-formatter) | Accent Typescript Formatter | 0.1.0 | Enterprise-grade TypeScript formatter extension for Visual Studio Code. |
+| 2026-11-25 05:58:30 | [notto-work.android-device-runner](https://marketplace.visualstudio.com/items?itemName=notto-work.android-device-runner) | Android Device Runner | 1.2.4 | 在 VSCode 内一键检查设备、自动探测编译环境、编译、安装并启动 Android App，替代切到 Android Studio 点运行 |
+| 2026-11-25 06:04:04 | [moha358.node-plot](https://marketplace.visualstudio.com/items?itemName=moha358.node-plot) | Node Plot - 物語プロット＆アイデア構築ノードエディタ | 0.1.4 | 小説・シナリオの構想やアイデアを付箋ノードとして書き溜め、時系列・登場人物・伏線の提示と回収をマルチソケットで視覚的に繋いで構成できるVS Code拡張機能。… |
 
 ## Data source
 
