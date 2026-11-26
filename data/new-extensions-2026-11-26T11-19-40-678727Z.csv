@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T10:13:41.997Z,NanamiKite.coyote-2-code-punisher,NanamiKite,Coyote V2/V3 Code Punisher,2.2.0,Coyote V2/V3 VS Code game feedback controller
+2026-11-26T10:25:21.833Z,cgi-bin.kroki-preview-vscode-pached,cgi-bin,Kroki Preview (patched),0.0.13,Provides ability to preview diagrams supported by Kroki.io
+2026-11-26T10:32:16.663Z,ryanbalsdon.vaultual,ryanbalsdon,Vaultual,1.0.2,Edit password-encrypted tar archives directly in VS Code.
+2026-11-26T10:39:50.757Z,Balkh.balkh-language,Balkh,Balkh Language,0.5.0,"Balkh syntax highlighting, RTL editing, and program execution for Dari and Pashto (.blk)."
+2026-11-26T10:41:34.997Z,TencentDesign-Ardot.ardot,TencentDesign-Ardot,Ardot,0.0.11,"Open, browse and collaborate on Ardot designs in your editor, and let your IDE's AI understand them via MCP."
+2026-11-26T10:49:53.243Z,CameronWhite.wslp,CameronWhite,WSLP — WSL Picker,0.1.3,"Choose which WSL distribution to work in when VS Code starts, and shut down the one you switched away from."
+2026-11-26T11:00:16.223Z,sibernaga.baronglock-vscode,sibernaga,BarongLock,0.1.0,"Open, edit and save BarongLock locked files (.blj, .baronglock) as normal text."
+2026-11-26T11:01:23.83Z,sitebuild-note.japanese-text-breakdown,sitebuild-note,Japanese Text Breakdown,0.1.0,"Counts characters, lines, sentences and character kinds (hiragana, katakana, kanji and more) in the open document or selection. Numbers only; no network, nothing stored."
+2026-11-26T11:03:06.113Z,MohamedHakeem.hexmap-viewer,MohamedHakeem,HexMap — Hex Viewer,0.1.0,"View Intel HEX, Motorola S-record and binary files with absolute addresses, gap detection and ASCII column."
+2026-11-26T11:08:54.42Z,ferry.ferry-lan-transfer,ferry,Ferry LAN Transfer,1.0.1,"Send files, secrets, and short messages straight to your teammates' machines over the local network — no server, no cloud, no account"

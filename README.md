@@ -12,22 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 10:20 UTC
+## Latest list — 2026-11-26 11:19 UTC
 
-New extensions published between 2026-11-26 08:20 UTC and 2026-11-26 10:20 UTC.
+New extensions published between 2026-11-26 09:19 UTC and 2026-11-26 11:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T10-20-25-470814Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T11-19-40-678727Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 09:21:00 | [hexhad.hexhad-dark](https://marketplace.visualstudio.com/items?itemName=hexhad.hexhad-dark) | HEXHAD Dark Theme: Calm Colors & File I… | 1.0.4 | A calm, low-glare dark theme for VS Code with colourful file icons. Deep graphi… |
-| 2026-11-26 09:22:47 | [zaka-lang.zaka](https://marketplace.visualstudio.com/items?itemName=zaka-lang.zaka) | Zaka | 0.1.0 | Zaka (စံကား) for VS Code: errors while editing, colors, and kinds on hover, fro… |
-| 2026-11-26 09:26:00 | [NanamiKite.colabdeck](https://marketplace.visualstudio.com/items?itemName=NanamiKite.colabdeck) | ColabDeck | 0.1.0 | Companion operations and cost-control panel for the official Google Colab VS Co… |
-| 2026-11-26 09:49:27 | [robinmaomao.originium-ide](https://marketplace.visualstudio.com/items?itemName=robinmaomao.originium-ide) | Originium IDE for Code::Blocks | 0.10.0 | Unofficial Code::Blocks-compatible IDE kernel for VS Code: open .cbp / .workspa… |
-| 2026-11-26 09:52:05 | [getaktar.aktar](https://marketplace.visualstudio.com/items?itemName=getaktar.aktar) | Aktar: Upload to S3, R2 and B2 | 0.1.0 | Paste or drop a screenshot or any file into the editor and get a link from your… |
-| 2026-11-26 09:58:26 | [cardona-oss.cabildo](https://marketplace.visualstudio.com/items?itemName=cardona-oss.cabildo) | cabildo | 0.0.2 | A side bar for cabildo: hosted Claude sessions, agents and your unread messages. |
-| 2026-11-26 10:04:04 | [tgiann.cfx-lua-ls](https://marketplace.visualstudio.com/items?itemName=tgiann.cfx-lua-ls) | CfxLua Language Server | 1.1.0 | Fast language server for FiveM Lua (CfxLua), written in Rust. |
-| 2026-11-26 10:08:23 | [PappuKumarMahto.token-meter-for-claude-code](https://marketplace.visualstudio.com/items?itemName=PappuKumarMahto.token-meter-for-claude-code) | Token Meter for Claude Code | 0.0.2 | Shows tokens used in the current Claude Code session in the status bar. Unoffic… |
+| 2026-11-26 10:13:41 | [NanamiKite.coyote-2-code-punisher](https://marketplace.visualstudio.com/items?itemName=NanamiKite.coyote-2-code-punisher) | Coyote V2/V3 Code Punisher | 2.2.0 | Coyote V2/V3 VS Code game feedback controller |
+| 2026-11-26 10:25:21 | [cgi-bin.kroki-preview-vscode-pached](https://marketplace.visualstudio.com/items?itemName=cgi-bin.kroki-preview-vscode-pached) | Kroki Preview (patched) | 0.0.13 | Provides ability to preview diagrams supported by Kroki.io |
+| 2026-11-26 10:32:16 | [ryanbalsdon.vaultual](https://marketplace.visualstudio.com/items?itemName=ryanbalsdon.vaultual) | Vaultual | 1.0.2 | Edit password-encrypted tar archives directly in VS Code. |
+| 2026-11-26 10:39:50 | [Balkh.balkh-language](https://marketplace.visualstudio.com/items?itemName=Balkh.balkh-language) | Balkh Language | 0.5.0 | Balkh syntax highlighting, RTL editing, and program execution for Dari and Pash… |
+| 2026-11-26 10:41:34 | [TencentDesign-Ardot.ardot](https://marketplace.visualstudio.com/items?itemName=TencentDesign-Ardot.ardot) | Ardot | 0.0.11 | Open, browse and collaborate on Ardot designs in your editor, and let your IDE'… |
+| 2026-11-26 10:49:53 | [CameronWhite.wslp](https://marketplace.visualstudio.com/items?itemName=CameronWhite.wslp) | WSLP — WSL Picker | 0.1.3 | Choose which WSL distribution to work in when VS Code starts, and shut down the… |
+| 2026-11-26 11:00:16 | [sibernaga.baronglock-vscode](https://marketplace.visualstudio.com/items?itemName=sibernaga.baronglock-vscode) | BarongLock | 0.1.0 | Open, edit and save BarongLock locked files (.blj, .baronglock) as normal text. |
+| 2026-11-26 11:01:23 | [sitebuild-note.japanese-text-breakdown](https://marketplace.visualstudio.com/items?itemName=sitebuild-note.japanese-text-breakdown) | Japanese Text Breakdown | 0.1.0 | Counts characters, lines, sentences and character kinds (hiragana, katakana, ka… |
+| 2026-11-26 11:03:06 | [MohamedHakeem.hexmap-viewer](https://marketplace.visualstudio.com/items?itemName=MohamedHakeem.hexmap-viewer) | HexMap — Hex Viewer | 0.1.0 | View Intel HEX, Motorola S-record and binary files with absolute addresses, gap… |
+| 2026-11-26 11:08:54 | [ferry.ferry-lan-transfer](https://marketplace.visualstudio.com/items?itemName=ferry.ferry-lan-transfer) | Ferry LAN Transfer | 1.0.1 | Send files, secrets, and short messages straight to your teammates' machines ov… |
 
 ## Data source
 
