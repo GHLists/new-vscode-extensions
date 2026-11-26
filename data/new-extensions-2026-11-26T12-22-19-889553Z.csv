@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T11:32:09.703Z,AliyarBayramov123.atmosphere-winter,AliyarBayramov123,Atmosphere: Winter,0.1.0,"Icy dark theme, a snowy sidebar window with wind sound, and optional experimental full-window snow."
+2026-11-26T11:33:17.783Z,digitalhat.hadid-lang,digitalhat,Hadid Programming Language,0.8.0,"Official VS Code extension for the Hadid programming language (TR/EN): syntax highlighting, file icons, auto-formatting, LSP IntelliSense, snippets, and one-click Run/Build/Test."
+2026-11-26T11:35:38.453Z,icrmahin.iriqode,icrmahin,IRIQODE,0.1.0,A spectral dark theme for Visual Studio Code.
+2026-11-26T11:39:50.037Z,qqqqqq771.cpp-standards,qqqqqq771,C/C++ Standards Manager,0.2.0,"Choose the target C/C++ language standard, enable or disable individual standards, and get warnings for features the selected standards do not support."
+2026-11-26T11:39:57.793Z,UpwindSecurity.upwind-code-scanner,UpwindSecurity,Upwind Code Scanner,0.5.32,"Scan the workspace with the Upwind CLI — CVE, Secrets, and IaC — from VS Code / Cursor. Alpha staging."
+2026-11-26T11:45:18.067Z,mpellicc.organize-imports-all,mpellicc,Organize Imports on All Files,0.3.2,Run VS Code's Organize Imports action across all code files in your workspace.
+2026-11-26T11:46:39.887Z,MohammadRamiz.vscode-ray,MohammadRamiz,Ray Cluster,0.1.1,"See your Ray cluster's nodes, jobs, resources and problems without leaving VS Code."
+2026-11-26T11:50:36.47Z,Vader89.customizable-cyberpunk-theme,Vader89,Customizable Cyberpunk Theme,1.0.0,"Dark cyberpunk theme in red, cyan and neon yellow – Classic and Neon. Part of a complete cyberpunk desktop theme for KDE Plasma."
+2026-11-26T11:53:18.02Z,Macle-Community.telebirr-miniapp-dev-kit,Macle-Community,Telebirr miniapp dev kit,1.0.0,"Create Vue uni-app, React Taro, or Pure Macle projects, compile for Macle, inspect compatibility, and run or debug them in VS Code."
+2026-11-26T11:56:36.817Z,CJ7.auto-unit-test-agent,CJ7,Test Automation Agent,1.0.0,"Automated unit test writing app. Connects to GitHub Copilot, analyzes your repository, and writes unit tests on a new branch."
+2026-11-26T12:00:42.44Z,jayanez.spectorque,jayanez,SpecTorque,0.3.0,Score agent-ready specifications against 40 EPIC practices with source evidence and reviewed refinements.
+2026-11-26T12:03:58.797Z,AnzerAyoob.anzer-language-support,AnzerAyoob,Anzer Language Support,0.1.0,Anzer syntax highlighting and commands for the installed Anzer compiler.
