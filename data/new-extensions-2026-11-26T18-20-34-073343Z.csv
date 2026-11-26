@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T17:16:05.907Z,Lacanna.vertex-copilot-router,Lacanna,Vertex Router for GitHub Copilot,0.3.0,"Use Claude and Gemini models from your own Google Cloud Vertex AI project inside GitHub Copilot Chat, with live cost tracking. Hard allowlist: only Anthropic and Google models can ever be called."
+2026-11-26T17:30:59.363Z,synaptrica.synaptrica-workspace,synaptrica,Synaptrica Workspace,0.4.0,"Connect VS Code to your Synaptrica cloud projects: browse files, review saved proposals and access project AI workflows."
+2026-11-26T17:31:18.447Z,synaptrica.synaptrica-vscode,synaptrica,Synaptrica AI,0.2.1,"Synaptrica AI chat, account and cloud projects in VS Code. Sign in with your Synaptrica account and use your shared plan credit."
+2026-11-26T17:38:29.767Z,YCG.external-ai-providers,YCG,External AI Providers,4.1.0,"Bring your own AI provider to VS Code. Chat, code, coordinate agent teams and run persistent goals with OpenAI or NVIDIA NIM."
+2026-11-26T17:49:37.083Z,zeokku.zamn-vscode,zeokku,zamn,1.0.0,"Syntax highlighting for zamn templates, in .zamn files and in Vue single-file components."
+2026-11-26T17:55:04.08Z,dnd-labs-co.flux-devkit,dnd-labs-co,Flux DevKit,0.1.0,"Syntax highlighting, completion, error checking, simulation and board deployment for Flux hardware projects."
+2026-11-26T17:59:48.243Z,el-ermitanho.arcanos-theme,el-ermitanho,Arcanos Theme,1.0.1,"Temas de color inspirados en los Arcanos Mayores del tarot: Arcanos, La Luna, La Estrella, El Ermitaño, El Sol y La Emperatriz."
+2026-11-26T18:00:09.727Z,ATSCreativeMedia.atslang-language-support,ATSCreativeMedia,ATSLang - Türkçe Programlama Dili,0.7.5,"Türkçe programlama dili ATSLang için renklendirme, otomatik tamamlama ve kod kalıpları"
+2026-11-26T18:14:20.893Z,Ethernium.chezmoi-vscode,Ethernium,Chezmoi,0.1.1,"Full-featured Chezmoi support for VS Code: source-attribute language detection, Go template syntax highlighting, live variable IntelliSense & hover, template linting, rendered preview, diff, apply-on-save, and SCM integration."
+2026-11-26T18:14:44.233Z,gui97.wisp-support,gui97,Wisp Language Tools,0.10.0,"Language support for Wisp: highlighting, diagnostics, completion, hover, rename, snippets and a file icon."

@@ -12,24 +12,24 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 17:20 UTC
+## Latest list — 2026-11-26 18:20 UTC
 
-New extensions published between 2026-11-26 15:20 UTC and 2026-11-26 17:20 UTC.
+New extensions published between 2026-11-26 16:20 UTC and 2026-11-26 18:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T17-20-00-63681Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T18-20-34-073343Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 16:18:09 | [OmniAI.omniai-vscode](https://marketplace.visualstudio.com/items?itemName=OmniAI.omniai-vscode) | OmniAI | 0.5.326 | OmniAI in VS Code — chat, code, build and manage live sessions right from your… |
-| 2026-11-26 16:28:15 | [dishant-kathiriya.agentdoc-reader](https://marketplace.visualstudio.com/items?itemName=dishant-kathiriya.agentdoc-reader) | AgentDoc Reader | 0.1.0 | Dedicated, local-first, secure reader for Markdown documentation and AI agentic… |
-| 2026-11-26 16:38:55 | [foreverlearning.learn-api](https://marketplace.visualstudio.com/items?itemName=foreverlearning.learn-api) | Learn API | 0.1.0 | Add a tutor that teaches to your app with the Learn API. Your coding assistant… |
-| 2026-11-26 16:40:53 | [DNA666777.gitflow-for-vscode](https://marketplace.visualstudio.com/items?itemName=DNA666777.gitflow-for-vscode) | GitFlow for VS Code | 1.9.2 | Standard Gitflow (feature, release, hotfix) without leaving VS Code: start, fin… |
-| 2026-11-26 16:45:19 | [stilt-lang.stilt](https://marketplace.visualstudio.com/items?itemName=stilt-lang.stilt) | Stilt Language | 2027.1.0 | Stilt for Visual Studio Code: highlighting, and a language server that shows ea… |
-| 2026-11-26 16:45:39 | [asymptomatik.mdlayout](https://marketplace.visualstudio.com/items?itemName=asymptomatik.mdlayout) | mdlayout — Markdown layout | 0.1.2 | Reads mdlayout and MarkdownRoxor documents in VS Code's Markdown preview: page… |
-| 2026-11-26 16:50:28 | [BingVader.unagi](https://marketplace.visualstudio.com/items?itemName=BingVader.unagi) | UNAGI - Sprints, Tasks, Notes & Focus | 2.3.0 | Achieve total workflow awareness: track active sprints, checklists, reminders,… |
-| 2026-11-26 17:04:17 | [zecro.cron-desk](https://marketplace.visualstudio.com/items?itemName=zecro.cron-desk) | Cron Desk: Cron Expression Explainer &… | 0.1.1 | Plain-English meaning and the next run times of every cron expression, in cront… |
-| 2026-11-26 17:09:19 | [SarraTest.hello-publish-test](https://marketplace.visualstudio.com/items?itemName=SarraTest.hello-publish-test) | Hello Publish Test | 0.0.1 | Extension de test pour valider le processus de publication sur le Marketplace. |
-| 2026-11-26 17:11:09 | [Urquelle.cui-visual-designer](https://marketplace.visualstudio.com/items?itemName=Urquelle.cui-visual-designer) | CUI Visual Designer | 0.1.1 | Unofficial preview: put CUI interfaces together with the mouse and generate the… |
+| 2026-11-26 17:16:05 | [Lacanna.vertex-copilot-router](https://marketplace.visualstudio.com/items?itemName=Lacanna.vertex-copilot-router) | Vertex Router for GitHub Copilot | 0.3.0 | Use Claude and Gemini models from your own Google Cloud Vertex AI project insid… |
+| 2026-11-26 17:30:59 | [synaptrica.synaptrica-workspace](https://marketplace.visualstudio.com/items?itemName=synaptrica.synaptrica-workspace) | Synaptrica Workspace | 0.4.0 | Connect VS Code to your Synaptrica cloud projects: browse files, review saved p… |
+| 2026-11-26 17:31:18 | [synaptrica.synaptrica-vscode](https://marketplace.visualstudio.com/items?itemName=synaptrica.synaptrica-vscode) | Synaptrica AI | 0.2.1 | Synaptrica AI chat, account and cloud projects in VS Code. Sign in with your Sy… |
+| 2026-11-26 17:38:29 | [YCG.external-ai-providers](https://marketplace.visualstudio.com/items?itemName=YCG.external-ai-providers) | External AI Providers | 4.1.0 | Bring your own AI provider to VS Code. Chat, code, coordinate agent teams and r… |
+| 2026-11-26 17:49:37 | [zeokku.zamn-vscode](https://marketplace.visualstudio.com/items?itemName=zeokku.zamn-vscode) | zamn | 1.0.0 | Syntax highlighting for zamn templates, in .zamn files and in Vue single-file c… |
+| 2026-11-26 17:55:04 | [dnd-labs-co.flux-devkit](https://marketplace.visualstudio.com/items?itemName=dnd-labs-co.flux-devkit) | Flux DevKit | 0.1.0 | Syntax highlighting, completion, error checking, simulation and board deploymen… |
+| 2026-11-26 17:59:48 | [el-ermitanho.arcanos-theme](https://marketplace.visualstudio.com/items?itemName=el-ermitanho.arcanos-theme) | Arcanos Theme | 1.0.1 | Temas de color inspirados en los Arcanos Mayores del tarot: Arcanos, La Luna, L… |
+| 2026-11-26 18:00:09 | [ATSCreativeMedia.atslang-language-support](https://marketplace.visualstudio.com/items?itemName=ATSCreativeMedia.atslang-language-support) | ATSLang - Türkçe Programlama Dili | 0.7.5 | Türkçe programlama dili ATSLang için renklendirme, otomatik tamamlama ve kod ka… |
+| 2026-11-26 18:14:20 | [Ethernium.chezmoi-vscode](https://marketplace.visualstudio.com/items?itemName=Ethernium.chezmoi-vscode) | Chezmoi | 0.1.1 | Full-featured Chezmoi support for VS Code: source-attribute language detection,… |
+| 2026-11-26 18:14:44 | [gui97.wisp-support](https://marketplace.visualstudio.com/items?itemName=gui97.wisp-support) | Wisp Language Tools | 0.10.0 | Language support for Wisp: highlighting, diagnostics, completion, hover, rename… |
 
 ## Data source
 
