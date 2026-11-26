@@ -12,20 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 06:20 UTC
+## Latest list — 2026-11-26 07:19 UTC
 
-New extensions published between 2026-11-26 04:20 UTC and 2026-11-26 06:20 UTC.
+New extensions published between 2026-11-26 05:19 UTC and 2026-11-26 07:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T06-20-02-992458Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T07-19-10-635395Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 05:28:47 | [Chroniton.chronbridge](https://marketplace.visualstudio.com/items?itemName=Chroniton.chronbridge) | Chroniton Bridge | 0.0.1 | Open a sandboxed Chroniton Bridge session in VS Code with one click from the we… |
-| 2026-11-26 05:34:21 | [tadokoro.uv-simple-generator](https://marketplace.visualstudio.com/items?itemName=tadokoro.uv-simple-generator) | uv Simple Project Generator | 0.2.1 | Create and run simple Python projects managed with uv. |
-| 2026-11-26 05:41:56 | [redcell.redcell-vscode](https://marketplace.visualstudio.com/items?itemName=redcell.redcell-vscode) | RedCell | 0.1.0 | RedCell AI pentesting chat in VS Code, powered by the RedCell CLI. |
-| 2026-11-26 05:55:19 | [niranjanpotter.muleguard](https://marketplace.visualstudio.com/items?itemName=niranjanpotter.muleguard) | MuleGuard -- MuleSoft Code Review | 1.0.1 | Real-time linting, security scanning, connector tooltips, and structured code r… |
-| 2026-11-26 05:59:40 | [srM4RC0S.isaac-react-your-code](https://marketplace.visualstudio.com/items?itemName=srM4RC0S.isaac-react-your-code) | Isaac React your Code | 0.0.1 |  |
-| 2026-11-26 06:05:04 | [dopic.dopic-image-helper](https://marketplace.visualstudio.com/items?itemName=dopic.dopic-image-helper) | Dopic — Image Base64, Inspector & Photo… | 1.0.0 | Right-click any image in VS Code to copy Base64 Data URI, inspect file size & d… |
+| 2026-11-26 06:17:03 | [ImmersiveDataAI.immersivedata-login-keeper](https://marketplace.visualstudio.com/items?itemName=ImmersiveDataAI.immersivedata-login-keeper) | Login Keeper for Claude Code | 0.8.0 | Keep your Claude Code logins (work, personal, a client's) and switch between th… |
+| 2026-11-26 06:40:02 | [JimWeiss.Kedit](https://marketplace.visualstudio.com/items?itemName=JimWeiss.Kedit) | Kedit | 0.1.62 | 采用 Keep 主题风格的 Markdown 编辑器，在同一个 Monaco 编辑器中即时切换可视和源码模式。 |
+| 2026-11-26 06:42:59 | [RayuCode.rayucode-legacy](https://marketplace.visualstudio.com/items?itemName=RayuCode.rayucode-legacy) | RayuCode (Legacy) | 2.6.0 | Legacy Node.js edition of the RayuCode AI coding agent for VS Code. For the new… |
+| 2026-11-26 06:46:29 | [tampv.md-color-accent](https://marketplace.visualstudio.com/items?itemName=tampv.md-color-accent) | MD Color – Markdown Accent | 0.2.0 | Calm, modern colors for Markdown — styled preview (callouts, tables, task lists… |
+| 2026-11-26 06:54:43 | [KanaihyaKumar.agent-control-center](https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.agent-control-center) | Agent Control Center | 0.1.0 | Run, watch, and control multiple AI agents with GitHub Copilot and Claude model… |
 
 ## Data source
 

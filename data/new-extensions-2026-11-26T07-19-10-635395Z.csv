@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T06:17:03.783Z,ImmersiveDataAI.immersivedata-login-keeper,ImmersiveDataAI,Login Keeper for Claude Code,0.8.0,"Keep your Claude Code logins (work, personal, a client's) and switch between them in one click, without /login. Shows each account's usage and when its login expires."
+2026-11-26T06:40:02.7Z,JimWeiss.Kedit,JimWeiss,Kedit,0.1.62,采用 Keep 主题风格的 Markdown 编辑器，在同一个 Monaco 编辑器中即时切换可视和源码模式。
+2026-11-26T06:42:59.89Z,RayuCode.rayucode-legacy,RayuCode,RayuCode (Legacy),2.6.0,"Legacy Node.js edition of the RayuCode AI coding agent for VS Code. For the new Rust engine, install RayuCode (RayuCode.rayucode)."
+2026-11-26T06:46:29.887Z,tampv.md-color-accent,tampv,MD Color – Markdown Accent,0.2.0,"Calm, modern colors for Markdown — styled preview (callouts, tables, task lists, code blocks) and editor highlighting. Tô màu Markdown dễ đọc cho cả preview lẫn editor."
+2026-11-26T06:54:43.363Z,KanaihyaKumar.agent-control-center,KanaihyaKumar,Agent Control Center,0.1.0,"Run, watch, and control multiple AI agents with GitHub Copilot and Claude models. Live activity, pause and stop, safe modes, approvals with diff preview, undo, usage limits, smart model routing, and role presets for writers, researchers, analysts, managers, students, developers, and testers."
