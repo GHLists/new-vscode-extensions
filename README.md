@@ -12,22 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-25 23:20 UTC
+## Latest list — 2026-11-26 00:19 UTC
 
-New extensions published between 2026-11-25 21:20 UTC and 2026-11-25 23:20 UTC.
+New extensions published between 2026-11-25 22:19 UTC and 2026-11-26 00:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-25T23-20-44-21093Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T00-19-41-846747Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-25 22:15:44 | [matinfo-tech.markdown-pdf-export](https://marketplace.visualstudio.com/items?itemName=matinfo-tech.markdown-pdf-export) | Markdown PDF Export | 0.1.1 | The real PDF beside your Markdown, as you type. Design the header, footer, page… |
-| 2026-11-25 22:28:45 | [SheikhyDev.file-icons-vscode](https://marketplace.visualstudio.com/items?itemName=SheikhyDev.file-icons-vscode) | File Icons VSCode | 0.2.0 | Custom file icon theme for Visual Studio Code, built from your own SVG icon set. |
-| 2026-11-25 22:34:49 | [onegtmlab.gtm-tool-finder](https://marketplace.visualstudio.com/items?itemName=onegtmlab.gtm-tool-finder) | GTM Tool Finder | 1.0.0 | Search the OneGTMLab GTM tool directory (API reviews, comparisons, glossary) fr… |
-| 2026-11-25 22:46:20 | [LucasSchiavini.gesu-lang](https://marketplace.visualstudio.com/items?itemName=LucasSchiavini.gesu-lang) | Gesù Language | 0.1.3 | Gesù language support: syntax colors, errors as you type, completion and hover.… |
-| 2026-11-25 22:52:30 | [wayfarer6.vamp-studio](https://marketplace.visualstudio.com/items?itemName=wayfarer6.vamp-studio) | VAMP Studio (Preview) | 0.1.5 | Review sample RPA workflows and edit draft notes in a VS Code tab. No runtime r… |
-| 2026-11-25 23:00:32 | [wayfarer6.vamp-agent-console](https://marketplace.visualstudio.com/items?itemName=wayfarer6.vamp-agent-console) | VAMP Agent Console | 0.1.4 | Preview the VAMP Agent Console layout with sample VM sessions. |
-| 2026-11-25 23:03:12 | [wayfarer6.vamp-extension-pack](https://marketplace.visualstudio.com/items?itemName=wayfarer6.vamp-extension-pack) | VAMP Extension Pack | 0.1.1 | Install VAMP MCP Tools, Vault, Studio, Agent Console, and RobotCode together. |
-| 2026-11-25 23:12:38 | [kevinboss.vscode-tabs](https://marketplace.visualstudio.com/items?itemName=kevinboss.vscode-tabs) | VS Code Tabs | 0.1.0 | Groups VS Code windows into tabs in the title bar. |
+| 2026-11-25 23:17:22 | [roberto-menezes.git-dock](https://marketplace.visualstudio.com/items?itemName=roberto-menezes.git-dock) | GitDock | 1.13.22 | An integrated Git workflow for VS Code: Commit tool window, Log with graph, Pus… |
+| 2026-11-25 23:25:29 | [Tortoil.leak-hunter](https://marketplace.visualstudio.com/items?itemName=Tortoil.leak-hunter) | Leak Hunter — C memory leaks | 0.1.0 | Finds the memory leaks of any C program (leaks on macOS, Valgrind on Linux, Dr.… |
+| 2026-11-25 23:36:09 | [filipe-cauduro.csproj-auto-include](https://marketplace.visualstudio.com/items?itemName=filipe-cauduro.csproj-auto-include) | CSProj Auto Include | 1.0.6 | Automatically update explicit .csproj file includes when creating, moving, rena… |
+| 2026-11-25 23:41:01 | [alex09x.mitts](https://marketplace.visualstudio.com/items?itemName=alex09x.mitts) | Mitts Build | 0.1.0 | Build, check, test and lint Rust projects with Mitts, a Cargo-compatible build… |
+| 2026-11-25 23:54:55 | [jenna-studio.velvet-ribbon](https://marketplace.visualstudio.com/items?itemName=jenna-studio.velvet-ribbon) | Velvet Ribbon | 0.2.1 | An all-pink VS Code theme with a rosewater editor, pink terminal, and high-cont… |
+| 2026-11-26 00:09:06 | [mpower-codeworks.grey-lines](https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.grey-lines) | Grey Lines for VS Code | 0.1.0 | Grey Lines: a near-black high-contrast color theme with crisp medium grey accen… |
 
 ## Data source
 

@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-25T23:17:22.24Z,roberto-menezes.git-dock,roberto-menezes,GitDock,1.13.22,"An integrated Git workflow for VS Code: Commit tool window, Log with graph, Push and Conflicts dialogs, Shelf, changelists and familiar IDE shortcuts."
+2026-11-25T23:25:29.963Z,Tortoil.leak-hunter,Tortoil,Leak Hunter — C memory leaks,0.1.0,"Finds the memory leaks of any C program (leaks on macOS, Valgrind on Linux, Dr. Memory on Windows, clang or GCC static analysis) and shows the file, function and line of each one."
+2026-11-25T23:36:09.177Z,filipe-cauduro.csproj-auto-include,filipe-cauduro,CSProj Auto Include,1.0.6,"Automatically update explicit .csproj file includes when creating, moving, renaming, or deleting files in VS Code."
+2026-11-25T23:41:01.083Z,alex09x.mitts,alex09x,Mitts Build,0.1.0,"Build, check, test and lint Rust projects with Mitts, a Cargo-compatible build tool with a shared artifact cache."
+2026-11-25T23:54:55.76Z,jenna-studio.velvet-ribbon,jenna-studio,Velvet Ribbon,0.2.1,"An all-pink VS Code theme with a rosewater editor, pink terminal, and high-contrast syntax."
+2026-11-26T00:09:06.477Z,mpower-codeworks.grey-lines,mpower-codeworks,Grey Lines for VS Code,0.1.0,Grey Lines: a near-black high-contrast color theme with crisp medium grey accents.
