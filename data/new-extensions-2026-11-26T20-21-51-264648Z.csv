@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T19:24:03.56Z,CharlesSimpsonIII.edit3,CharlesSimpsonIII,Edit3,0.3.0,"Keep each component in one file, but edit its template or JSX and its styles in their own tabs, with full language support in each."
+2026-11-26T19:27:33.853Z,innovayse.innovayse-code,innovayse,Innovayse Code,0.4.0,Innovayse AI coding agent in your editor
+2026-11-26T19:31:11.933Z,Ethernium.ethernal-theme-vscode,Ethernium,Ethernal Theme,0.1.0,"Warm Paper, Charcoal & Vermilion dark and light color themes for VS Code, inspired by ethernal.me."
+2026-11-26T19:37:31.927Z,Vee9.vee9-dependency-audit,Vee9,Vee9 Dependency Audit,1.0.0,"Finds outdated and vulnerable dependencies in package.json, requirements.txt, pyproject.toml and Cargo.toml. Inline hints, known CVEs from OSV.dev and one-click updates, in its own sidebar tab."
+2026-11-26T19:38:24.64Z,Vee9.vee9-secret-scanner,Vee9,Vee9 Secret Scanner,1.0.1,"Warns you about hard-coded API keys and other secrets in your source code before you commit them, so you can move them to environment variables. Results in its own sidebar tab."
+2026-11-26T19:54:40.723Z,aem2create.artifact-drawer,aem2create,Artifact Drawer,0.0.3,A tool for viewing and integrating code artifacts from a library.
+2026-11-26T19:55:22.593Z,aem2create.artifact-workbench,aem2create,Artifact Workbench,0.0.2,A toolkit for creating and organizing an artifact library.
+2026-11-26T19:56:19.523Z,powerline-dev.codex-powerline-vscode,powerline-dev,Codex Powerline,0.2.3,Run the Codex Powerline terminal in a VS Code sidebar.
+2026-11-26T20:05:29.053Z,Szazs.fast-jxl-viewer,Szazs,Fast JXL Viewer,1.2.0,"Open JPEG XL (.jxl) images in VS Code, fast."
+2026-11-26T20:15:24.253Z,dishantsharma1123.diet-toke,dishantsharma1123,Diet Toke,1.1.0,"Maximum-savings AI token compressor via local multi-provider proxy, 1-hop import slicing, and global MCP server."
+2026-11-26T20:16:33.243Z,zorzenstudios.neon-palms,zorzenstudios,Neon Palms,1.0.0,"Sunset neon for your editor. Hot pink, golden hour and lagoon blue on a deep night sky. Two free themes: Night Drive and Beach Day."

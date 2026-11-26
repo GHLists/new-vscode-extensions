@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 19:18 UTC
+## Latest list — 2026-11-26 20:21 UTC
 
-New extensions published between 2026-11-26 17:18 UTC and 2026-11-26 19:18 UTC.
+New extensions published between 2026-11-26 18:21 UTC and 2026-11-26 20:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T19-18-54-801967Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T20-21-51-264648Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 18:18:11 | [foreverlearning.conversations-api](https://marketplace.visualstudio.com/items?itemName=foreverlearning.conversations-api) | Conversations API | 0.1.0 | Put conversation practice in your app with the Conversations API. Your coding a… |
-| 2026-11-26 18:27:22 | [rodolfoplondero.open-with-external](https://marketplace.visualstudio.com/items?itemName=rodolfoplondero.open-with-external) | Open With External Application | 0.2.1 | Open local files with compatible Windows applications from a searchable VS Code… |
-| 2026-11-26 18:30:34 | [RahulChaube.cat-workspace](https://marketplace.visualstudio.com/items?itemName=RahulChaube.cat-workspace) | Cat by EverestQai | 0.1.0 | Open your Cat agent workspace, sign in, and prepare code selections for your ag… |
-| 2026-11-26 18:32:08 | [HtoTheB.vscode-cap1131-cfi](https://marketplace.visualstudio.com/items?itemName=HtoTheB.vscode-cap1131-cfi) | CAP1131 CFI for VS Code | 0.0.2 | Syntax highlighting and language support for CAP1131 IDE .cfi files (IEC 61131-… |
-| 2026-11-26 18:38:37 | [hexhad.file-tree-copy](https://marketplace.visualstudio.com/items?itemName=hexhad.file-tree-copy) | Tree: Copy File Tree as Text | 0.1.0 | Right-click a folder and copy its file tree as text, Markdown or JSON. Respects… |
-| 2026-11-26 18:38:51 | [hexhad.git-trail](https://marketplace.visualstudio.com/items?itemName=hexhad.git-trail) | Trail: Git Graph, Blame & History | 0.1.0 | Inline Git blame with rich hovers, an interactive commit graph, file and line h… |
-| 2026-11-26 18:38:57 | [SarraTest.hello-test-pack](https://marketplace.visualstudio.com/items?itemName=SarraTest.hello-test-pack) | Hello Test Extension Pack | 0.0.1 | Pack d'extensions de démonstration : installe en un clic toutes les extensions… |
-| 2026-11-26 18:39:07 | [hexhad.import-weigh](https://marketplace.visualstudio.com/items?itemName=hexhad.import-weigh) | Weigh: Import Cost & Bundle Size | 0.1.0 | See the bundle size of every import inline: minified, gzip and brotli, with tre… |
-| 2026-11-26 18:44:42 | [ferroxlabs.fuigo](https://marketplace.visualstudio.com/items?itemName=ferroxlabs.fuigo) | Fuigo | 0.1.0 | Fuigo coding agent in VS Code: chat panel, native permission prompts and edits. |
-| 2026-11-26 18:45:32 | [yapi-net.yapi](https://marketplace.visualstudio.com/items?itemName=yapi-net.yapi) | Yapi.net - Real Estate Platform | 0.1.3 | Discover, list and manage real estate with Yapi.net — the property marketplace… |
-| 2026-11-26 18:50:54 | [CatScn.terminal-relay](https://marketplace.visualstudio.com/items?itemName=CatScn.terminal-relay) | Terminal Relay | 0.4.0 | Let AI agents and scripts run commands in your VS Code / Cursor terminal and re… |
-| 2026-11-26 18:57:00 | [stahlb.explorer-focus-repos](https://marketplace.visualstudio.com/items?itemName=stahlb.explorer-focus-repos) | Explorer Focus - Repos | 0.1.0 | Select which git repositories stay visible in the Explorer in a multi-repo work… |
+| 2026-11-26 19:24:03 | [CharlesSimpsonIII.edit3](https://marketplace.visualstudio.com/items?itemName=CharlesSimpsonIII.edit3) | Edit3 | 0.3.0 | Keep each component in one file, but edit its template or JSX and its styles in… |
+| 2026-11-26 19:27:33 | [innovayse.innovayse-code](https://marketplace.visualstudio.com/items?itemName=innovayse.innovayse-code) | Innovayse Code | 0.4.0 | Innovayse AI coding agent in your editor |
+| 2026-11-26 19:31:11 | [Ethernium.ethernal-theme-vscode](https://marketplace.visualstudio.com/items?itemName=Ethernium.ethernal-theme-vscode) | Ethernal Theme | 0.1.0 | Warm Paper, Charcoal & Vermilion dark and light color themes for VS Code, inspi… |
+| 2026-11-26 19:37:31 | [Vee9.vee9-dependency-audit](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-dependency-audit) | Vee9 Dependency Audit | 1.0.0 | Finds outdated and vulnerable dependencies in package.json, requirements.txt, p… |
+| 2026-11-26 19:38:24 | [Vee9.vee9-secret-scanner](https://marketplace.visualstudio.com/items?itemName=Vee9.vee9-secret-scanner) | Vee9 Secret Scanner | 1.0.1 | Warns you about hard-coded API keys and other secrets in your source code befor… |
+| 2026-11-26 19:54:40 | [aem2create.artifact-drawer](https://marketplace.visualstudio.com/items?itemName=aem2create.artifact-drawer) | Artifact Drawer | 0.0.3 | A tool for viewing and integrating code artifacts from a library. |
+| 2026-11-26 19:55:22 | [aem2create.artifact-workbench](https://marketplace.visualstudio.com/items?itemName=aem2create.artifact-workbench) | Artifact Workbench | 0.0.2 | A toolkit for creating and organizing an artifact library. |
+| 2026-11-26 19:56:19 | [powerline-dev.codex-powerline-vscode](https://marketplace.visualstudio.com/items?itemName=powerline-dev.codex-powerline-vscode) | Codex Powerline | 0.2.3 | Run the Codex Powerline terminal in a VS Code sidebar. |
+| 2026-11-26 20:05:29 | [Szazs.fast-jxl-viewer](https://marketplace.visualstudio.com/items?itemName=Szazs.fast-jxl-viewer) | Fast JXL Viewer | 1.2.0 | Open JPEG XL (.jxl) images in VS Code, fast. |
+| 2026-11-26 20:15:24 | [dishantsharma1123.diet-toke](https://marketplace.visualstudio.com/items?itemName=dishantsharma1123.diet-toke) | Diet Toke | 1.1.0 | Maximum-savings AI token compressor via local multi-provider proxy, 1-hop impor… |
+| 2026-11-26 20:16:33 | [zorzenstudios.neon-palms](https://marketplace.visualstudio.com/items?itemName=zorzenstudios.neon-palms) | Neon Palms | 1.0.0 | Sunset neon for your editor. Hot pink, golden hour and lagoon blue on a deep ni… |
 
 ## Data source
 
