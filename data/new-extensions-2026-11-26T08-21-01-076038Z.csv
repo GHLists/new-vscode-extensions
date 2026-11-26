@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T07:26:10.127Z,asong-dev.byok-manager,asong-dev,BYOK Manager,0.5.0,"Manage VS Code BYOK models, API keys and backups."
+2026-11-26T07:26:58.337Z,ruiyun.mr-tool,ruiyun,MR Tool — 图形化创建合并请求,0.1.0,在 VS Code 中图形化创建 GitLab Merge Request / GitHub Pull Request，支持分支选择、Assignee 搜索、提交预览与多种 API 回退。
+2026-11-26T07:42:33.623Z,mpower-codeworks.black-lines,mpower-codeworks,Black Lines for VS Code,0.1.3,Black Lines: a
+2026-11-26T07:45:44.623Z,yuanzhoulvpi2017.git-bgraph,yuanzhoulvpi2017,BGraph Lineage,0.1.0,在编辑器中查看行与函数作者，在本地 Git 提交图中追溯每次更改。
+2026-11-26T07:51:00.443Z,stlife.darcula-stlife,stlife,Darcula Stlife,1.0.0,"A calm, matte JetBrains Darcula-inspired dark theme, tuned for Angular and TypeScript."
+2026-11-26T07:53:33.523Z,staffquery.staff-coding,staffquery,StaffQuery Coding,1.0.0,"StaffQuery's coding interview workspace: timed technical assessments and real-repository coding challenges, right inside VS Code."
+2026-11-26T07:55:43.193Z,nearia.shilpa-vscode,nearia,Shilpa,0.2.0,Shilpa の自分のタスクと、AI コーディングに渡す仕様のまとめ(指示書)を VS Code で。 / Your Shilpa tasks and spec handoffs inside VS Code.
+2026-11-26T07:56:17.45Z,WaseemAbbas.10xengineer-eda,WaseemAbbas,"10xEngineers EDA: Verilog, SystemVerilog & UVM Verification Suite",0.12.4,"All-in-one Verilog, SystemVerilog and UVM design-verification suite. Generates SV, UVM and cocotb testbenches from your RTL and runs regressions on Icarus, Verilator (UVM included, no license), Questa or VCS, with the open-source tools in Docker. Adds a waveform viewer with protocol decoders and X-t"
+2026-11-26T08:05:35.097Z,heyliam.filebay,heyliam,"Filebay — Browse Disk, Zip Archives & Preview CSV, Excel, PDF",0.1.0,"Browse your whole disk from the sidebar, open zip, jar, apk and tar.gz files like folders, read files inside archives in the normal editor, and preview CSV, Excel and PDF without leaving VS Code."
+2026-11-26T08:07:40.263Z,AkshayKumarKN.autogit-dsa,AkshayKumarKN,AutoGit DSA,0.1.0,"Organize DSA practice links (LeetCode, GeeksforGeeks, HackerRank), scaffold solution files in VS Code, track progress, and auto-sync to GitHub on Ctrl+S with AutoGit Sync."
+2026-11-26T08:10:48.177Z,VectorGroup.confugami,VectorGroup,Vector Confµgami Configuration Support,0.35.0,Confµgami Configuration Extension and Language support for *.cfg.json5 and *.cfg.json files
