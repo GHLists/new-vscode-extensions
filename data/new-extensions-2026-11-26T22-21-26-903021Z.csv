@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T21:27:29.513Z,littleFORTH.littleforth,littleFORTH,littleFORTH,0.5.1,"A small, native Forth for microcontrollers: type a line, it runs on the chip. Live stacks, values, memory and registers; debugger and profiler."
+2026-11-26T22:10:07.193Z,cellaxon.haven-vscode,cellaxon,Haven for VS Code,0.1.0,"Manage WSL containers (wslc) from VS Code: containers, logs, usage, images, volumes, networks and ports. The Haven Desktop experience in your editor."
+2026-11-26T22:15:45.743Z,jherostudio.crypto-guardian,jherostudio,Crypto Guardian,0.0.1,"Enterprise-grade AES-256-GCM (CG01) encryption, password generation, and entropy auditing directly in VS Code."
+2026-11-26T22:15:52.957Z,mpower-codeworks.titanium-lines,mpower-codeworks,Titanium Lines for VS Code,0.1.0,"Titanium Lines is a dark, high-contrast VS Code color theme with cool metallic borders, subtle background depth, and ice-blue accents."
