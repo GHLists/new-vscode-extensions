@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T12:32:49.49Z,vuei91.md-preview-editor,vuei91,Markdown Preview Editor & Diff,1.0.4,"Markdown 미리보기에서 바로 편집하고, 렌더링된 상태로 diff를 비교하는 확장"
+2026-11-26T12:48:32.087Z,ToTt0G.winforms-designer-modern,ToTt0G,Modern WinForms Designer,1.0.0,"A visual Windows Forms designer inside VS Code, inspired by Visual Studio 2026."
+2026-11-26T12:52:43.467Z,AndrewKim.foo-vscode,AndrewKim,foo — BOJ workspace,1.0.1,Sidebar and buttons for the foo Baekjoon Online Judge CLI.
+2026-11-26T13:07:11.297Z,VijayArther.helix-tickets-to-prs,VijayArther,Helix: Tickets to Tested PRs,4.3.0,"Type a ticket number or a bug in plain words in the Claude chat; Helix adds the right files, past-bug lessons and tests, then opens the PR. Works with Claude Code on your own login."
