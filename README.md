@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 03:19 UTC
+## Latest list — 2026-11-26 04:20 UTC
 
-New extensions published between 2026-11-26 01:19 UTC and 2026-11-26 03:19 UTC.
+New extensions published between 2026-11-26 02:20 UTC and 2026-11-26 04:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T03-19-50-060925Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T04-20-47-358819Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 02:15:27 | [mpower-codeworks.green-lines](https://marketplace.visualstudio.com/items?itemName=mpower-codeworks.green-lines) | Green Lines for VS Code | 0.1.0 | Green Lines: a near-black high-contrast color theme with crisp green accents. |
-| 2026-11-26 02:16:02 | [ForgeGUI.forgegui-studio](https://marketplace.visualstudio.com/items?itemName=ForgeGUI.forgegui-studio) | ForgeGUI | 0.0.2 | ForgeGUI panel for VS Code with quick access to the ForgeGUI Studio. Requires a… |
-| 2026-11-26 02:17:20 | [MiConvert.miconvert-3d-viewer](https://marketplace.visualstudio.com/items?itemName=MiConvert.miconvert-3d-viewer) | 3D Viewer: STL, STEP, 3MF, GLB, OBJ, G-… | 0.1.1 | View STL, STEP, IGES, 3MF, GLB, glTF, OBJ, FBX, PLY and G-code inside VS Code.… |
-| 2026-11-26 02:18:05 | [jenna-studio.moonstone-rainbow](https://marketplace.visualstudio.com/items?itemName=jenna-studio.moonstone-rainbow) | Moonstone Rainbow Dark | 0.1.2 | A graphite dark theme for VS Code with a readable rainbow syntax palette. |
-| 2026-11-26 02:28:11 | [oleksiiko.konashevich-pdf-viewer](https://marketplace.visualstudio.com/items?itemName=oleksiiko.konashevich-pdf-viewer) | PDF Viewer (Page Scroll) | 1.0.2 | PDF viewer based on PDF.js with page-by-page scrolling, Page Fit by default, a… |
-| 2026-11-26 02:31:23 | [jenna-studio.moonstone-rainbow-day](https://marketplace.visualstudio.com/items?itemName=jenna-studio.moonstone-rainbow-day) | Moonstone Rainbow Day | 0.2.3 | A soft gray light theme with readable rainbow syntax and a muted lime status ba… |
-| 2026-11-26 02:38:20 | [jenna-studio.blue-of-wonder](https://marketplace.visualstudio.com/items?itemName=jenna-studio.blue-of-wonder) | Blue of Wonder | 0.1.2 | A sky-blue light theme with a cyan Explorer, periwinkle terminal, and deep coba… |
-| 2026-11-26 03:03:30 | [lucasgfabris.vscode-scm-changed-filter](https://marketplace.visualstudio.com/items?itemName=lucasgfabris.vscode-scm-changed-filter) | SCM Changed Filter | 0.1.0 | Adds a Source Control button to show only repositories with changes, using the… |
-| 2026-11-26 03:13:54 | [Turnhuddle.turnhuddle](https://marketplace.visualstudio.com/items?itemName=Turnhuddle.turnhuddle) | Turnhuddle | 0.2.1 | Claude Code and Codex in one chat: Claude proposes, Codex reviews, and they kee… |
+| 2026-11-26 03:24:25 | [HermitPal.sealscript](https://marketplace.visualstudio.com/items?itemName=HermitPal.sealscript) | SealScript | 2.2.0 | Syntax highlighting and language server support for SealScript (.seal) |
+| 2026-11-26 03:31:40 | [tadokoro.processing-py-project-generator](https://marketplace.visualstudio.com/items?itemName=tadokoro.processing-py-project-generator) | processing-py Project Generator | 0.2.0 | Create and run processing-py (libprocessing for Python) sketch projects, manage… |
+| 2026-11-26 03:46:41 | [Crystal2030.ai-smart-commit-studio](https://marketplace.visualstudio.com/items?itemName=Crystal2030.ai-smart-commit-studio) | AI Smart Commit Studio | 0.2.1 | 根据 Git 暂存区智能生成中英文 Conventional Commits 提交信息 |
+| 2026-11-26 03:55:59 | [DanielLucario.panoptikon](https://marketplace.visualstudio.com/items?itemName=DanielLucario.panoptikon) | Panoptikon | 0.3.1 | Watch expressions side bar for .NET debugging: key/value pairs refreshed on eve… |
+| 2026-11-26 03:58:54 | [bpcarson.aeroflow](https://marketplace.visualstudio.com/items?itemName=bpcarson.aeroflow) | AeroFlow | 0.1.1 | Author GitHub Agentic Workflows in VS Code for the Web. |
+| 2026-11-26 03:59:19 | [DanielLucario.rocky-raccoon](https://marketplace.visualstudio.com/items?itemName=DanielLucario.rocky-raccoon) | Rocky Raccoon | 0.1.0 | Muted, dark-monochrome palette over pure black, with low-chroma hues to tell sy… |
 
 ## Data source
 
