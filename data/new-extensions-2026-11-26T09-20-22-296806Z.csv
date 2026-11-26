@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T08:23:48.963Z,jinydev.jiny-markdown,jinydev,Jiny Markdown - Live Editor & preview,1.0.6,"Typora-like WYSIWYG markdown editor and split preview with white background, line numbers, and bidirectional sync."
+2026-11-26T08:27:36.617Z,wang934.kostal-compile-commands,wang934,Kostal Commands: Kostal Compile Commands,1.3.3,Kostal Commands: Generate compile_commands.json from Eclipse CDT projects for clangd.
+2026-11-26T08:31:57.093Z,ctrysbita.open-settings-sync,ctrysbita,Open Settings Sync,0.0.1,Sync portable user settings and user-installed extensions across VS Code and Cursor through Git.
+2026-11-26T08:41:05.493Z,belvoirdynamics.groves,belvoirdynamics,GROVES,1.0.0,Pick and install open-source nuclear engineering tools from the GROVES catalog.
+2026-11-26T08:54:09.543Z,litchi-gh.pc-e500-devtools,litchi-gh,PC-E500 Development Tools,0.1.0,"PC-E500 series BASIC and SC62015 assembly (e500asm) syntax checking, and running, debugging and testing in the PC-E500 emulator."
+2026-11-26T09:00:49.53Z,RahulChaube.blyx-plover,RahulChaube,Blyx Plover,0.1.0,Gate alerts on error-budget burn in both a short and a long window.
+2026-11-26T09:00:54.157Z,RahulChaube.blyx-quail,RahulChaube,Blyx Quail,0.1.0,Simulate a short real-amplitude single-qubit circuit and compare shot counts.
+2026-11-26T09:01:08.783Z,RahulChaube.blyx-raven,RahulChaube,Blyx Raven,0.1.0,Budget a bounded log buffer while preserving higher-severity events first.
+2026-11-26T09:01:13.403Z,RahulChaube.blyx-redstart,RahulChaube,Blyx Redstart,0.1.0,Update a binary-event model and report uncertainty in its probability.
+2026-11-26T09:01:18.497Z,RahulChaube.blyx-residualwatch,RahulChaube,Blyx ResidualWatch,0.1.0,Monitor prediction drift by detecting sustained upward or downward changes in errors against a frozen reference period.
+2026-11-26T09:01:23.323Z,RahulChaube.blyx-robin,RahulChaube,Blyx Robin,0.1.0,"Convert a validated civil date into an ordinal, weekday and comparable day number."
+2026-11-26T09:05:22.233Z,irthlabs.caelo,irthlabs,Caelo Security Scan,0.1.0,"Run the free, local Caelo security scanner on your workspace and see findings inline and in the Problems panel. Reads files only, uploads nothing, redacts secrets."
