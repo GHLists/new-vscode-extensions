@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T13:18:13.92Z,GeorgeLin.obsccure-env-vscode,GeorgeLin,Obsccure Env Guard,0.2.2,One-click encrypt and restore .env files to protect secrets from AI agents.
+2026-11-26T13:23:19.98Z,adornelles.drift-beacon,adornelles,Drift Beacon,1.0.0,Deep charcoal theme with luminous teal accents to guide you through unpredictable currents.
+2026-11-26T13:24:48.937Z,MarcelloBassiato.easynuget,MarcelloBassiato,EasyNuGet,0.1.1,"Manage NuGet packages for your whole solution, the Visual Studio way: Browse, Installed, Updates and Consolidate."
+2026-11-26T13:25:36.35Z,zis3c.codex-notifier-ssh,zis3c,Codex Notifier Remote,0.1.14,Runs on the Remote SSH host and reports Codex session events to Codex Notifier without transferring session logs.
+2026-11-26T13:34:01.93Z,glibiqicons.glibiq-icons,glibiqicons,Glibiq Icons,1.0.0,Insert Glibiq icons as SVG or React JSX.
+2026-11-26T13:37:24.433Z,stevieTheTurtle.open-scriptorium,stevieTheTurtle,Open Scriptorium,0.3.0,"LaTeX writing studio for VS Code & Antigravity: Tectonic builds, SyncTeX PDF preview, bundled Research Assistant CLI & opt-in MCP, Zotero sync, and verbatim citation verification."
+2026-11-26T13:43:23.597Z,RoccoCaruso.ai-plan-usage-monitor,RoccoCaruso,AI Plan Usage Monitor,1.2.0,"Plan limits and token usage per project for Claude, ChatGPT (Codex) and Gemini (Antigravity, Gemini CLI), read from local files."
+2026-11-26T13:43:23.627Z,Gepheum.skir-lang,Gepheum,Skir,0.2.25,"IDE support for Skir - define data types and APIs once, generate idiomatic code across 12 languages"
+2026-11-26T13:45:10.34Z,leuk0cyte.fpga-lsp-anlogic,leuk0cyte,Anlogic FPGA LSP (TangDynasty),0.36.3,"Language support and IDE views for Anlogic TD FPGA projects: ADC pin constraints, SDC, project .al, Verilog index, TD-backed diagnostics, module hierarchy, syn/phy flow control and QoR/timing/area reports."
+2026-11-26T13:51:45.33Z,jensalmkvist.habamax-theme,jensalmkvist,Habamax Theme,0.1.1,A port of Vim's habamax color scheme for VS Code.
+2026-11-26T13:54:01.913Z,yyszh01.pyj,yyszh01,pyj — Python with braces,0.1.0,"Syntax highlighting for .pyj (Python with { } blocks), with a guided install of pyj, and commands to run a file or convert it to .py."
+2026-11-26T13:59:42.05Z,BuikemVans.codehort,BuikemVans,Codehort,0.1.0,"Public technical discussions, questions and code reviews, inside VS Code."
+2026-11-26T14:02:54.813Z,clanker-controller.clanker-usage-statusbar,clanker-controller,"Gemini, Claude & Codex Usage",0.2.1,"Shows Gemini (Antigravity), Claude Code, and Codex rate-limit usage in the Antigravity IDE status bar."
+2026-11-26T14:02:56.917Z,clanker-controller.clanker-theme,clanker-controller,Clanker Paper & Ink,0.1.0,"Two colour themes taken from clankercontroller.com: Clanker Paper (warm paper, ink rules, orange accent) and Clanker Ink (the same page after dark)."

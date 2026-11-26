@@ -12,18 +12,28 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 13:21 UTC
+## Latest list — 2026-11-26 14:19 UTC
 
-New extensions published between 2026-11-26 11:21 UTC and 2026-11-26 13:21 UTC.
+New extensions published between 2026-11-26 12:19 UTC and 2026-11-26 14:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T13-21-47-203224Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T14-19-30-882694Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 12:32:49 | [vuei91.md-preview-editor](https://marketplace.visualstudio.com/items?itemName=vuei91.md-preview-editor) | Markdown Preview Editor & Diff | 1.0.4 | Markdown 미리보기에서 바로 편집하고, 렌더링된 상태로 diff를 비교하는 확장 |
-| 2026-11-26 12:48:32 | [ToTt0G.winforms-designer-modern](https://marketplace.visualstudio.com/items?itemName=ToTt0G.winforms-designer-modern) | Modern WinForms Designer | 1.0.0 | A visual Windows Forms designer inside VS Code, inspired by Visual Studio 2026. |
-| 2026-11-26 12:52:43 | [AndrewKim.foo-vscode](https://marketplace.visualstudio.com/items?itemName=AndrewKim.foo-vscode) | foo — BOJ workspace | 1.0.1 | Sidebar and buttons for the foo Baekjoon Online Judge CLI. |
-| 2026-11-26 13:07:11 | [VijayArther.helix-tickets-to-prs](https://marketplace.visualstudio.com/items?itemName=VijayArther.helix-tickets-to-prs) | Helix: Tickets to Tested PRs | 4.3.0 | Type a ticket number or a bug in plain words in the Claude chat; Helix adds the… |
+| 2026-11-26 13:18:13 | [GeorgeLin.obsccure-env-vscode](https://marketplace.visualstudio.com/items?itemName=GeorgeLin.obsccure-env-vscode) | Obsccure Env Guard | 0.2.2 | One-click encrypt and restore .env files to protect secrets from AI agents. |
+| 2026-11-26 13:23:19 | [adornelles.drift-beacon](https://marketplace.visualstudio.com/items?itemName=adornelles.drift-beacon) | Drift Beacon | 1.0.0 | Deep charcoal theme with luminous teal accents to guide you through unpredictab… |
+| 2026-11-26 13:24:48 | [MarcelloBassiato.easynuget](https://marketplace.visualstudio.com/items?itemName=MarcelloBassiato.easynuget) | EasyNuGet | 0.1.1 | Manage NuGet packages for your whole solution, the Visual Studio way: Browse, I… |
+| 2026-11-26 13:25:36 | [zis3c.codex-notifier-ssh](https://marketplace.visualstudio.com/items?itemName=zis3c.codex-notifier-ssh) | Codex Notifier Remote | 0.1.14 | Runs on the Remote SSH host and reports Codex session events to Codex Notifier… |
+| 2026-11-26 13:34:01 | [glibiqicons.glibiq-icons](https://marketplace.visualstudio.com/items?itemName=glibiqicons.glibiq-icons) | Glibiq Icons | 1.0.0 | Insert Glibiq icons as SVG or React JSX. |
+| 2026-11-26 13:37:24 | [stevieTheTurtle.open-scriptorium](https://marketplace.visualstudio.com/items?itemName=stevieTheTurtle.open-scriptorium) | Open Scriptorium | 0.3.0 | LaTeX writing studio for VS Code & Antigravity: Tectonic builds, SyncTeX PDF pr… |
+| 2026-11-26 13:43:23 | [RoccoCaruso.ai-plan-usage-monitor](https://marketplace.visualstudio.com/items?itemName=RoccoCaruso.ai-plan-usage-monitor) | AI Plan Usage Monitor | 1.2.0 | Plan limits and token usage per project for Claude, ChatGPT (Codex) and Gemini… |
+| 2026-11-26 13:43:23 | [Gepheum.skir-lang](https://marketplace.visualstudio.com/items?itemName=Gepheum.skir-lang) | Skir | 0.2.25 | IDE support for Skir - define data types and APIs once, generate idiomatic code… |
+| 2026-11-26 13:45:10 | [leuk0cyte.fpga-lsp-anlogic](https://marketplace.visualstudio.com/items?itemName=leuk0cyte.fpga-lsp-anlogic) | Anlogic FPGA LSP (TangDynasty) | 0.36.3 | Language support and IDE views for Anlogic TD FPGA projects: ADC pin constraint… |
+| 2026-11-26 13:51:45 | [jensalmkvist.habamax-theme](https://marketplace.visualstudio.com/items?itemName=jensalmkvist.habamax-theme) | Habamax Theme | 0.1.1 | A port of Vim's habamax color scheme for VS Code. |
+| 2026-11-26 13:54:01 | [yyszh01.pyj](https://marketplace.visualstudio.com/items?itemName=yyszh01.pyj) | pyj — Python with braces | 0.1.0 | Syntax highlighting for .pyj (Python with { } blocks), with a guided install of… |
+| 2026-11-26 13:59:42 | [BuikemVans.codehort](https://marketplace.visualstudio.com/items?itemName=BuikemVans.codehort) | Codehort | 0.1.0 | Public technical discussions, questions and code reviews, inside VS Code. |
+| 2026-11-26 14:02:54 | [clanker-controller.clanker-usage-statusbar](https://marketplace.visualstudio.com/items?itemName=clanker-controller.clanker-usage-statusbar) | Gemini, Claude & Codex Usage | 0.2.1 | Shows Gemini (Antigravity), Claude Code, and Codex rate-limit usage in the Anti… |
+| 2026-11-26 14:02:56 | [clanker-controller.clanker-theme](https://marketplace.visualstudio.com/items?itemName=clanker-controller.clanker-theme) | Clanker Paper & Ink | 0.1.0 | Two colour themes taken from clankercontroller.com: Clanker Paper (warm paper,… |
 
 ## Data source
 
