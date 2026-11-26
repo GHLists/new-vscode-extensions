@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T02:15:27.71Z,mpower-codeworks.green-lines,mpower-codeworks,Green Lines for VS Code,0.1.0,Green Lines: a near-black high-contrast color theme with crisp green accents.
+2026-11-26T02:16:02.237Z,ForgeGUI.forgegui-studio,ForgeGUI,ForgeGUI,0.0.2,ForgeGUI panel for VS Code with quick access to the ForgeGUI Studio. Requires a ForgeGUI Studio Core key.
+2026-11-26T02:17:20.46Z,MiConvert.miconvert-3d-viewer,MiConvert,"3D Viewer: STL, STEP, 3MF, GLB, OBJ, G-code",0.1.1,"View STL, STEP, IGES, 3MF, GLB, glTF, OBJ, FBX, PLY and G-code inside VS Code. Measure, section and check dimensions. Runs locally: your files never leave your machine."
+2026-11-26T02:18:05.863Z,jenna-studio.moonstone-rainbow,jenna-studio,Moonstone Rainbow Dark,0.1.2,A graphite dark theme for VS Code with a readable rainbow syntax palette.
+2026-11-26T02:28:11.023Z,oleksiiko.konashevich-pdf-viewer,oleksiiko,PDF Viewer (Page Scroll),1.0.2,"PDF viewer based on PDF.js with page-by-page scrolling, Page Fit by default, a Dual Page Mode action, and printing through the system print dialog."
+2026-11-26T02:31:23.477Z,jenna-studio.moonstone-rainbow-day,jenna-studio,Moonstone Rainbow Day,0.2.3,A soft gray light theme with readable rainbow syntax and a muted lime status bar.
+2026-11-26T02:38:20.697Z,jenna-studio.blue-of-wonder,jenna-studio,Blue of Wonder,0.1.2,"A sky-blue light theme with a cyan Explorer, periwinkle terminal, and deep cobalt status bar."
+2026-11-26T03:03:30.28Z,lucasgfabris.vscode-scm-changed-filter,lucasgfabris,SCM Changed Filter,0.1.0,"Adds a Source Control button to show only repositories with changes, using the native tree."
+2026-11-26T03:13:54.19Z,Turnhuddle.turnhuddle,Turnhuddle,Turnhuddle,0.2.1,"Claude Code and Codex in one chat: Claude proposes, Codex reviews, and they keep going until both agree."
