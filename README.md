@@ -12,24 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 15:20 UTC
+## Latest list — 2026-11-26 16:20 UTC
 
-New extensions published between 2026-11-26 13:20 UTC and 2026-11-26 15:20 UTC.
+New extensions published between 2026-11-26 14:20 UTC and 2026-11-26 16:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T15-20-39-275241Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T16-20-38-831231Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 14:24:11 | [everport-dev.everport-vscode](https://marketplace.visualstudio.com/items?itemName=everport-dev.everport-vscode) | Everport | 1.0.0 | Stable public URLs for your local services, on a relay in your own Cloudflare a… |
-| 2026-11-26 14:27:49 | [WebSign-Dev.sillbeam-for-vs-code](https://marketplace.visualstudio.com/items?itemName=WebSign-Dev.sillbeam-for-vs-code) | Sillbeam for VS Code | 0.1.0 | Architecture diagnostics for Symfony applications using Sillbeam Core. |
-| 2026-11-26 14:30:05 | [ItmoCode.itmo-code-dictation](https://marketplace.visualstudio.com/items?itemName=ItmoCode.itmo-code-dictation) | ITMO Code Local Dictation | 1.1.0 | Private, CPU-only streaming prompt dictation on your desktop, including remote… |
-| 2026-11-26 14:34:03 | [dragon-archer.smart-tab](https://marketplace.visualstudio.com/items?itemName=dragon-archer.smart-tab) | Smart Tab | 0.1.0 | Indent by editor.indentSize columns and pack leading whitespace into tabs. |
-| 2026-11-26 14:34:26 | [soulkey-tools.reqbridge-local-api](https://marketplace.visualstudio.com/items?itemName=soulkey-tools.reqbridge-local-api) | ReqBridge: Postman & Thunder Client to… | 0.1.0 | Lossless local migration from Postman v2.1, Thunder Client, Bruno (.bru), OpenA… |
-| 2026-11-26 14:50:00 | [sontouf.accepttc](https://marketplace.visualstudio.com/items?itemName=sontouf.accepttc) | AcceptTC | 0.4.1 | 테스트 케이스 승인 게이트(AcceptTC)를 프로젝트에 설치하고, 테스트 케이스별 검증 상태와 과정을 VS Code 안에서 봅니다. 서버가… |
-| 2026-11-26 14:54:52 | [DmytroHeleshko.dark-2026-modern-syntax](https://marketplace.visualstudio.com/items?itemName=DmytroHeleshko.dark-2026-modern-syntax) | Dark 2026 Modern Syntax | 1.0.1 | Dark 2026 with Dark Modern code highlights. |
-| 2026-11-26 14:59:54 | [Sintoo.italiaviva10-sintoo-ai](https://marketplace.visualstudio.com/items?itemName=Sintoo.italiaviva10-sintoo-ai) | ItaliaViva10 - Assistente Didattico Sin… | 1.4.3 | IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello… |
-| 2026-11-26 15:08:14 | [kratess.harness-console](https://marketplace.visualstudio.com/items?itemName=kratess.harness-console) | Harness Console | 0.0.19 | Run Codex in the Harness console and follow subagent logs. |
-| 2026-11-26 15:10:21 | [nexfield.nexfield-color-contrast](https://marketplace.visualstudio.com/items?itemName=nexfield.nexfield-color-contrast) | Color Contrast Checker (WCAG) by Nexfie… | 0.1.0 | Hover any hex, rgb() or hsl() colour to see its WCAG 2.2 contrast ratio and AA/… |
+| 2026-11-26 15:29:00 | [lspajic.firearm-emulator](https://marketplace.visualstudio.com/items?itemName=lspajic.firearm-emulator) | FireArm Emulator | 0.1.1 | FireArm Emulator: write, assemble, run and debug ARM assembly for the SSPARCSS… |
+| 2026-11-26 15:29:21 | [kaptenamv.prite](https://marketplace.visualstudio.com/items?itemName=kaptenamv.prite) | PRiTE | 0.0.1 | PRiTE language support for VS Code: syntax highlighting, Run button, and snippe… |
+| 2026-11-26 15:32:15 | [hb2708.sidecar-for-reactotron](https://marketplace.visualstudio.com/items?itemName=hb2708.sidecar-for-reactotron) | Sidecar for Reactotron | 0.1.5 | Unofficial Reactotron inspector inside your editor. View logs, network, and sta… |
+| 2026-11-26 15:46:25 | [zeco.delimgrid](https://marketplace.visualstudio.com/items?itemName=zeco.delimgrid) | DelimGrid | 0.1.0 | View and edit CSV and TSV files as tables in VS Code. |
+| 2026-11-26 15:53:55 | [heaphop.heaphop](https://marketplace.visualstudio.com/items?itemName=heaphop.heaphop) | HeapHop: C++ Memory Visualizer | 1.1.1 | See your C++ linked lists, trees, vectors, stacks and maps come alive: step thr… |
+| 2026-11-26 16:02:32 | [UrquelleVSCodeMarketplace.cui-designer](https://marketplace.visualstudio.com/items?itemName=UrquelleVSCodeMarketplace.cui-designer) | CUI Designer | 0.1.0 | Put CUI interfaces together with the mouse and generate the C code that builds… |
+| 2026-11-26 16:05:05 | [MohamedHakeem.ldscript-linker](https://marketplace.visualstudio.com/items?itemName=MohamedHakeem.ldscript-linker) | Linker Script (GNU LD) | 0.1.0 | Syntax highlighting, outline symbols, size hover, snippets, and formatting conf… |
+| 2026-11-26 16:05:11 | [DaniloFG.coverage-tools](https://marketplace.visualstudio.com/items?itemName=DaniloFG.coverage-tools) | Coverage Tools | 0.1.0 | Run tests with coverage and show the results in VS Code's native coverage view. |
 
 ## Data source
 

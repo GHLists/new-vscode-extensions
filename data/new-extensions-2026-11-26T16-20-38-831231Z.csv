@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T15:29:00.22Z,lspajic.firearm-emulator,lspajic,FireArm Emulator,0.1.1,"FireArm Emulator: write, assemble, run and debug ARM assembly for the SSPARCSS ARM7TDMI teaching system (FER), with the same results as the original SSPARCSS simulator."
+2026-11-26T15:29:21.01Z,kaptenamv.prite,kaptenamv,PRiTE,0.0.1,"PRiTE language support for VS Code: syntax highlighting, Run button, and snippets for the PRiTE programming language."
+2026-11-26T15:32:15.223Z,hb2708.sidecar-for-reactotron,hb2708,Sidecar for Reactotron,0.1.5,"Unofficial Reactotron inspector inside your editor. View logs, network, and state with zero extra Electron app — plus jump-to-source and MCP."
+2026-11-26T15:46:25.207Z,zeco.delimgrid,zeco,DelimGrid,0.1.0,View and edit CSV and TSV files as tables in VS Code.
+2026-11-26T15:53:55.29Z,heaphop.heaphop,heaphop,HeapHop: C++ Memory Visualizer,1.1.1,"See your C++ linked lists, trees, vectors, stacks and maps come alive: step through the program and watch the stack, the heap, every node and every pointer change."
+2026-11-26T16:02:32.31Z,UrquelleVSCodeMarketplace.cui-designer,UrquelleVSCodeMarketplace,CUI Designer,0.1.0,Put CUI interfaces together with the mouse and generate the C code that builds them.
+2026-11-26T16:05:05.023Z,MohamedHakeem.ldscript-linker,MohamedHakeem,Linker Script (GNU LD),0.1.0,"Syntax highlighting, outline symbols, size hover, snippets, and formatting config for GNU Linker Scripts (.ld, .lds)."
+2026-11-26T16:05:11.177Z,DaniloFG.coverage-tools,DaniloFG,Coverage Tools,0.1.0,Run tests with coverage and show the results in VS Code's native coverage view.
