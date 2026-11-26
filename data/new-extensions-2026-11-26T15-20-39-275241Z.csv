@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T14:24:11.89Z,everport-dev.everport-vscode,everport-dev,Everport,1.0.0,"Stable public URLs for your local services, on a relay in your own Cloudflare account"
+2026-11-26T14:27:49.117Z,WebSign-Dev.sillbeam-for-vs-code,WebSign-Dev,Sillbeam for VS Code,0.1.0,Architecture diagnostics for Symfony applications using Sillbeam Core.
+2026-11-26T14:30:05.507Z,ItmoCode.itmo-code-dictation,ItmoCode,ITMO Code Local Dictation,1.1.0,"Private, CPU-only streaming prompt dictation on your desktop, including remote workspaces."
+2026-11-26T14:34:03.713Z,dragon-archer.smart-tab,dragon-archer,Smart Tab,0.1.0,Indent by editor.indentSize columns and pack leading whitespace into tabs.
+2026-11-26T14:34:26.927Z,soulkey-tools.reqbridge-local-api,soulkey-tools,ReqBridge: Postman & Thunder Client to .http / OpenAPI + CSV Batch Runner,0.1.0,"Lossless local migration from Postman v2.1, Thunder Client, Bruno (.bru), OpenAPI 3.1 & cURL to Git-native .http + OpenAPI 3.1, plus unlimited CSV batch runs and Staging-vs-Prod schema diff."
+2026-11-26T14:50:00.003Z,sontouf.accepttc,sontouf,AcceptTC,0.4.1,"테스트 케이스 승인 게이트(AcceptTC)를 프로젝트에 설치하고, 테스트 케이스별 검증 상태와 과정을 VS Code 안에서 봅니다. 서버가 필요 없습니다."
+2026-11-26T14:54:52.703Z,DmytroHeleshko.dark-2026-modern-syntax,DmytroHeleshko,Dark 2026 Modern Syntax,1.0.1,Dark 2026 with Dark Modern code highlights.
+2026-11-26T14:59:54.393Z,Sintoo.italiaviva10-sintoo-ai,Sintoo,ItaliaViva10 - Assistente Didattico Sintoo,1.4.3,"IA locale per esercizi di HTML, CSS e JavaScript: funziona offline, il modello si scarica da solo la prima volta."
+2026-11-26T15:08:14.083Z,kratess.harness-console,kratess,Harness Console,0.0.19,Run Codex in the Harness console and follow subagent logs.
+2026-11-26T15:10:21.287Z,nexfield.nexfield-color-contrast,nexfield,Color Contrast Checker (WCAG) by Nexfield,0.1.0,"Hover any hex, rgb() or hsl() colour to see its WCAG 2.2 contrast ratio and AA/AAA results. Compare two colours from the command palette."
