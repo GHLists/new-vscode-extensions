@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T18:18:11.55Z,foreverlearning.conversations-api,foreverlearning,Conversations API,0.1.0,"Put conversation practice in your app with the Conversations API. Your coding assistant gets the guide, the contract and the verified kits, plus a test turn with your own key."
+2026-11-26T18:27:22.487Z,rodolfoplondero.open-with-external,rodolfoplondero,Open With External Application,0.2.1,Open local files with compatible Windows applications from a searchable VS Code picker.
+2026-11-26T18:30:34.097Z,RahulChaube.cat-workspace,RahulChaube,Cat by EverestQai,0.1.0,"Open your Cat agent workspace, sign in, and prepare code selections for your agents from VS Code."
+2026-11-26T18:32:08.633Z,HtoTheB.vscode-cap1131-cfi,HtoTheB,CAP1131 CFI for VS Code,0.0.2,Syntax highlighting and language support for CAP1131 IDE .cfi files (IEC 61131-3).
+2026-11-26T18:38:37.637Z,hexhad.file-tree-copy,hexhad,Tree: Copy File Tree as Text,0.1.0,"Right-click a folder and copy its file tree as text, Markdown or JSON. Respects .gitignore, depth limits, sizes and counts. Paste project structure into docs, issues and AI chats."
+2026-11-26T18:38:51.417Z,hexhad.git-trail,hexhad,"Trail: Git Graph, Blame & History",0.1.0,"Inline Git blame with rich hovers, an interactive commit graph, file and line history, visual file history, branches, stashes, worktrees, an interactive rebase editor and remote permalinks. Free, fast, offline."
+2026-11-26T18:38:57.293Z,SarraTest.hello-test-pack,SarraTest,Hello Test Extension Pack,0.0.1,Pack d'extensions de démonstration : installe en un clic toutes les extensions Hello Test.
+2026-11-26T18:39:07.527Z,hexhad.import-weigh,hexhad,Weigh: Import Cost & Bundle Size,0.1.0,"See the bundle size of every import inline: minified, gzip and brotli, with tree shaking, lazy imports, a per-file total, nested dependency breakdown and lighter alternatives. Fast esbuild measuring, offline."
+2026-11-26T18:44:42.223Z,ferroxlabs.fuigo,ferroxlabs,Fuigo,0.1.0,"Fuigo coding agent in VS Code: chat panel, native permission prompts and edits."
+2026-11-26T18:45:32.247Z,yapi-net.yapi,yapi-net,Yapi.net - Real Estate Platform,0.1.3,"Discover, list and manage real estate with Yapi.net — the property marketplace and digital office for real estate professionals."
+2026-11-26T18:50:54.637Z,CatScn.terminal-relay,CatScn,Terminal Relay,0.4.0,Let AI agents and scripts run commands in your VS Code / Cursor terminal and read back the output.
+2026-11-26T18:57:00.483Z,stahlb.explorer-focus-repos,stahlb,Explorer Focus - Repos,0.1.0,"Select which git repositories stay visible in the Explorer in a multi-repo workspace, hiding the rest."

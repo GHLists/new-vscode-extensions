@@ -12,24 +12,26 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 18:20 UTC
+## Latest list — 2026-11-26 19:18 UTC
 
-New extensions published between 2026-11-26 16:20 UTC and 2026-11-26 18:20 UTC.
+New extensions published between 2026-11-26 17:18 UTC and 2026-11-26 19:18 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T18-20-34-073343Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T19-18-54-801967Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 17:16:05 | [Lacanna.vertex-copilot-router](https://marketplace.visualstudio.com/items?itemName=Lacanna.vertex-copilot-router) | Vertex Router for GitHub Copilot | 0.3.0 | Use Claude and Gemini models from your own Google Cloud Vertex AI project insid… |
-| 2026-11-26 17:30:59 | [synaptrica.synaptrica-workspace](https://marketplace.visualstudio.com/items?itemName=synaptrica.synaptrica-workspace) | Synaptrica Workspace | 0.4.0 | Connect VS Code to your Synaptrica cloud projects: browse files, review saved p… |
-| 2026-11-26 17:31:18 | [synaptrica.synaptrica-vscode](https://marketplace.visualstudio.com/items?itemName=synaptrica.synaptrica-vscode) | Synaptrica AI | 0.2.1 | Synaptrica AI chat, account and cloud projects in VS Code. Sign in with your Sy… |
-| 2026-11-26 17:38:29 | [YCG.external-ai-providers](https://marketplace.visualstudio.com/items?itemName=YCG.external-ai-providers) | External AI Providers | 4.1.0 | Bring your own AI provider to VS Code. Chat, code, coordinate agent teams and r… |
-| 2026-11-26 17:49:37 | [zeokku.zamn-vscode](https://marketplace.visualstudio.com/items?itemName=zeokku.zamn-vscode) | zamn | 1.0.0 | Syntax highlighting for zamn templates, in .zamn files and in Vue single-file c… |
-| 2026-11-26 17:55:04 | [dnd-labs-co.flux-devkit](https://marketplace.visualstudio.com/items?itemName=dnd-labs-co.flux-devkit) | Flux DevKit | 0.1.0 | Syntax highlighting, completion, error checking, simulation and board deploymen… |
-| 2026-11-26 17:59:48 | [el-ermitanho.arcanos-theme](https://marketplace.visualstudio.com/items?itemName=el-ermitanho.arcanos-theme) | Arcanos Theme | 1.0.1 | Temas de color inspirados en los Arcanos Mayores del tarot: Arcanos, La Luna, L… |
-| 2026-11-26 18:00:09 | [ATSCreativeMedia.atslang-language-support](https://marketplace.visualstudio.com/items?itemName=ATSCreativeMedia.atslang-language-support) | ATSLang - Türkçe Programlama Dili | 0.7.5 | Türkçe programlama dili ATSLang için renklendirme, otomatik tamamlama ve kod ka… |
-| 2026-11-26 18:14:20 | [Ethernium.chezmoi-vscode](https://marketplace.visualstudio.com/items?itemName=Ethernium.chezmoi-vscode) | Chezmoi | 0.1.1 | Full-featured Chezmoi support for VS Code: source-attribute language detection,… |
-| 2026-11-26 18:14:44 | [gui97.wisp-support](https://marketplace.visualstudio.com/items?itemName=gui97.wisp-support) | Wisp Language Tools | 0.10.0 | Language support for Wisp: highlighting, diagnostics, completion, hover, rename… |
+| 2026-11-26 18:18:11 | [foreverlearning.conversations-api](https://marketplace.visualstudio.com/items?itemName=foreverlearning.conversations-api) | Conversations API | 0.1.0 | Put conversation practice in your app with the Conversations API. Your coding a… |
+| 2026-11-26 18:27:22 | [rodolfoplondero.open-with-external](https://marketplace.visualstudio.com/items?itemName=rodolfoplondero.open-with-external) | Open With External Application | 0.2.1 | Open local files with compatible Windows applications from a searchable VS Code… |
+| 2026-11-26 18:30:34 | [RahulChaube.cat-workspace](https://marketplace.visualstudio.com/items?itemName=RahulChaube.cat-workspace) | Cat by EverestQai | 0.1.0 | Open your Cat agent workspace, sign in, and prepare code selections for your ag… |
+| 2026-11-26 18:32:08 | [HtoTheB.vscode-cap1131-cfi](https://marketplace.visualstudio.com/items?itemName=HtoTheB.vscode-cap1131-cfi) | CAP1131 CFI for VS Code | 0.0.2 | Syntax highlighting and language support for CAP1131 IDE .cfi files (IEC 61131-… |
+| 2026-11-26 18:38:37 | [hexhad.file-tree-copy](https://marketplace.visualstudio.com/items?itemName=hexhad.file-tree-copy) | Tree: Copy File Tree as Text | 0.1.0 | Right-click a folder and copy its file tree as text, Markdown or JSON. Respects… |
+| 2026-11-26 18:38:51 | [hexhad.git-trail](https://marketplace.visualstudio.com/items?itemName=hexhad.git-trail) | Trail: Git Graph, Blame & History | 0.1.0 | Inline Git blame with rich hovers, an interactive commit graph, file and line h… |
+| 2026-11-26 18:38:57 | [SarraTest.hello-test-pack](https://marketplace.visualstudio.com/items?itemName=SarraTest.hello-test-pack) | Hello Test Extension Pack | 0.0.1 | Pack d'extensions de démonstration : installe en un clic toutes les extensions… |
+| 2026-11-26 18:39:07 | [hexhad.import-weigh](https://marketplace.visualstudio.com/items?itemName=hexhad.import-weigh) | Weigh: Import Cost & Bundle Size | 0.1.0 | See the bundle size of every import inline: minified, gzip and brotli, with tre… |
+| 2026-11-26 18:44:42 | [ferroxlabs.fuigo](https://marketplace.visualstudio.com/items?itemName=ferroxlabs.fuigo) | Fuigo | 0.1.0 | Fuigo coding agent in VS Code: chat panel, native permission prompts and edits. |
+| 2026-11-26 18:45:32 | [yapi-net.yapi](https://marketplace.visualstudio.com/items?itemName=yapi-net.yapi) | Yapi.net - Real Estate Platform | 0.1.3 | Discover, list and manage real estate with Yapi.net — the property marketplace… |
+| 2026-11-26 18:50:54 | [CatScn.terminal-relay](https://marketplace.visualstudio.com/items?itemName=CatScn.terminal-relay) | Terminal Relay | 0.4.0 | Let AI agents and scripts run commands in your VS Code / Cursor terminal and re… |
+| 2026-11-26 18:57:00 | [stahlb.explorer-focus-repos](https://marketplace.visualstudio.com/items?itemName=stahlb.explorer-focus-repos) | Explorer Focus - Repos | 0.1.0 | Select which git repositories stay visible in the Explorer in a multi-repo work… |
 
 ## Data source
 
