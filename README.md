@@ -12,18 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-26 05:20 UTC
+## Latest list — 2026-11-26 06:20 UTC
 
-New extensions published between 2026-11-26 03:20 UTC and 2026-11-26 05:20 UTC.
+New extensions published between 2026-11-26 04:20 UTC and 2026-11-26 06:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-26T05-20-46-640654Z.csv)
+[Full CSV](data/new-extensions-2026-11-26T06-20-02-992458Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-26 04:24:24 | [pecuniaestai.project-scope](https://marketplace.visualstudio.com/items?itemName=pecuniaestai.project-scope) | Project Scope | 0.8.2 | View AI-analyzed code (.scope/analysis.jsonl) as a tree, call graph, hovers and… |
-| 2026-11-26 04:29:38 | [batuoz.deepvis](https://marketplace.visualstudio.com/items?itemName=batuoz.deepvis) | deepvis — see your network | 0.3.0 | Pick a PyTorch, JAX or Keras model — or one loaded from ONNX, .keras or .safete… |
-| 2026-11-26 04:43:56 | [hexhad.peek-document-viewer](https://marketplace.visualstudio.com/items?itemName=hexhad.peek-document-viewer) | Peek: PDF, Excel, Word & File Viewer | 0.1.0 | Open PDF, Excel (xlsx, csv), Word (docx), PowerPoint (pptx), draw.io, ZIP/7z/RA… |
-| 2026-11-26 04:55:11 | [offsight.offsight-ai](https://marketplace.visualstudio.com/items?itemName=offsight.offsight-ai) | Offsight AI | 1.0.0 | Use Offsight AI in GitHub Copilot: the Live board, products, zones, checklists,… |
+| 2026-11-26 05:28:47 | [Chroniton.chronbridge](https://marketplace.visualstudio.com/items?itemName=Chroniton.chronbridge) | Chroniton Bridge | 0.0.1 | Open a sandboxed Chroniton Bridge session in VS Code with one click from the we… |
+| 2026-11-26 05:34:21 | [tadokoro.uv-simple-generator](https://marketplace.visualstudio.com/items?itemName=tadokoro.uv-simple-generator) | uv Simple Project Generator | 0.2.1 | Create and run simple Python projects managed with uv. |
+| 2026-11-26 05:41:56 | [redcell.redcell-vscode](https://marketplace.visualstudio.com/items?itemName=redcell.redcell-vscode) | RedCell | 0.1.0 | RedCell AI pentesting chat in VS Code, powered by the RedCell CLI. |
+| 2026-11-26 05:55:19 | [niranjanpotter.muleguard](https://marketplace.visualstudio.com/items?itemName=niranjanpotter.muleguard) | MuleGuard -- MuleSoft Code Review | 1.0.1 | Real-time linting, security scanning, connector tooltips, and structured code r… |
+| 2026-11-26 05:59:40 | [srM4RC0S.isaac-react-your-code](https://marketplace.visualstudio.com/items?itemName=srM4RC0S.isaac-react-your-code) | Isaac React your Code | 0.0.1 |  |
+| 2026-11-26 06:05:04 | [dopic.dopic-image-helper](https://marketplace.visualstudio.com/items?itemName=dopic.dopic-image-helper) | Dopic — Image Base64, Inspector & Photo… | 1.0.0 | Right-click any image in VS Code to copy Base64 Data URI, inspect file size & d… |
 
 ## Data source
 

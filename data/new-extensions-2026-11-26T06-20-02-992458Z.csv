@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T05:28:47.74Z,Chroniton.chronbridge,Chroniton,Chroniton Bridge,0.0.1,Open a sandboxed Chroniton Bridge session in VS Code with one click from the web client: enrolls this computer and connects Remote - SSH over iroh.
+2026-11-26T05:34:21.3Z,tadokoro.uv-simple-generator,tadokoro,uv Simple Project Generator,0.2.1,Create and run simple Python projects managed with uv.
+2026-11-26T05:41:56.843Z,redcell.redcell-vscode,redcell,RedCell,0.1.0,"RedCell AI pentesting chat in VS Code, powered by the RedCell CLI."
+2026-11-26T05:55:19.363Z,niranjanpotter.muleguard,niranjanpotter,MuleGuard -- MuleSoft Code Review,1.0.1,"Real-time linting, security scanning, connector tooltips, and structured code review for MuleSoft Mule 4 applications."
+2026-11-26T05:59:40.373Z,srM4RC0S.isaac-react-your-code,srM4RC0S,Isaac React your Code,0.0.1,
+2026-11-26T06:05:04.953Z,dopic.dopic-image-helper,dopic,"Dopic — Image Base64, Inspector & Photo Studio",1.0.0,"Right-click any image in VS Code to copy Base64 Data URI, inspect file size & dimensions offline, or open 36+ privacy-first image tools on Dopic."
