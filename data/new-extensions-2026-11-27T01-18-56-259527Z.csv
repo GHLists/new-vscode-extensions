@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T00:18:23.667Z,MohamedHakeem.ldmap-syntax,MohamedHakeem,MemMap — Linker Map Analyzer,0.1.0,"Syntax highlighting, outline symbols, and size hover for GNU LD linker map files (.map)."
+2026-11-27T00:18:38.153Z,MohamedHakeem.ldf-syntax-analyzer,MohamedHakeem,LinMap — LDF Syntax & Analyzer,0.1.0,"Syntax highlighting, outline symbols, hover docs, and interactive network/frame/schedule analyzer for LIN Description Files (.ldf)."
+2026-11-27T00:18:59.893Z,MohamedHakeem.elfmap-viewer,MohamedHakeem,ElfMap — ELF Binary Inspector,0.1.0,"Inspect ELF32/ELF64 firmware binaries (.elf, .axf): ELF header, program headers, sections, symbols, Flash/RAM totals, and strings."
+2026-11-27T00:23:38.39Z,SnowPandaSoftware.markdownmonkey,SnowPandaSoftware,Markdown Monkey for VS Code,1.0.0,A simple WYSIWYG markdown editor for VS Code.
+2026-11-27T00:25:17.713Z,MohamedHakeem.linkmap-ld,MohamedHakeem,LinkMap — GNU Linker Script,0.1.0,"Syntax highlighting, outline symbols, size hover, snippets, and formatting config for GNU Linker Scripts (.ld, .lds)."
+2026-11-27T00:46:44.363Z,Integrallis.rankcli-vscode,Integrallis,RankCLI — SEO & AI Search Audit,0.1.0,"280+ SEO and AI-search readiness checks in your editor: audit live URLs or build directories, lint robots.txt by AI bot class, and catch HTML/JSX/Vue/Astro/Svelte issues as you type."
+2026-11-27T00:48:01.197Z,notsujansharma.lakebase-connect,notsujansharma,Lakebase Connect,0.3.0,"Connect to Databricks Lakebase (managed Postgres) with automatic short-lived credentials, run SQL from the editor, and let Copilot query it safely. Unofficial, not affiliated with Databricks."
