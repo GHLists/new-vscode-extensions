@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-26T23:19:44.653Z,d2lang.d2lang,d2lang,d2lang,0.8.9,"The official D2 extension for Visual Studio Code. Preview diagrams, format D2 files, and navigate definitions with the D2 language server."
+2026-11-26T23:55:31.867Z,jpalacios-labs.blueprint-hdl,jpalacios-labs,Blueprint HDL,0.3.7,"Offline viewer for VHDL projects: hierarchy, block diagrams and state machines. Fully local, no network."
+2026-11-27T00:07:20.893Z,RadwanAlmsora.repro-forge,RadwanAlmsora,Repro Forge,1.0.0,The Universal Bug Reproduction Platform. Capture Once. Reproduce Anywhere.
