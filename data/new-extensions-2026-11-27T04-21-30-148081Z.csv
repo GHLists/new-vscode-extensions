@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T03:15:15.32Z,yujindai.serverpush,yujindai,ServerPush,0.1.0,WebStorm / IntelliJ 风格的 VS Code 部署工具：SFTP / FTP / FTPS 多服务器、上传 / 下载 / 同步、Remote Host 浏览。
+2026-11-27T03:16:04.473Z,devenvmanager.active-state-monitor,devenvmanager,active-state-monitor,0.0.5,
+2026-11-27T03:18:25.673Z,devenvmanager.cannlab-entry,devenvmanager,CANNLab-entry,0.0.17,
+2026-11-27T03:22:55.983Z,sergiogarciadev.vscode-mesh-splat-viewer,sergiogarciadev,3D Mesh & Gaussian Splat Viewer,0.1.0,"View 3D meshes, point clouds, and Gaussian splats in VS Code using VSCode Mesh Viewer (WASM/WebGL2)."
+2026-11-27T03:23:53.277Z,wuwuzhazha.eide-ai,wuwuzhazha,EIDE AI,4.3.5,EIDE AI: embedded IDE with headless CLI/MCP for 8051/STM8/Cortex-M/MIPS/RISC-V
+2026-11-27T03:25:49.26Z,devenvmanager.sync-tool,devenvmanager,sync-tool,1.0.16,One-click data synchronization from CPU to NPU
+2026-11-27T03:47:28.887Z,sergiogarciadev.abandon-all-hope,sergiogarciadev,Abandon All Hope,0.1.2,Play Abandon All Hope (Raylib 3D zombie survival shooter) directly inside VS Code.
+2026-11-27T03:58:54.037Z,Adalie.chiaki-companion,Adalie,Chiaki Companion,1.7.14,Chiaki nanami in your terminal helping out from below :3
+2026-11-27T04:02:46.033Z,Ancoder.aio-ide,Ancoder,AIO · AI CLI Workbench,0.1.43,"Open installed OMP, Claude Code, and Codex in project terminals, or enter the AIO workbench."

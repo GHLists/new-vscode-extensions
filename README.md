@@ -12,28 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 03:19 UTC
+## Latest list — 2026-11-27 04:21 UTC
 
-New extensions published between 2026-11-27 01:19 UTC and 2026-11-27 03:19 UTC.
+New extensions published between 2026-11-27 02:21 UTC and 2026-11-27 04:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T03-19-22-263043Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T04-21-30-148081Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 02:21:34 | [iskander-sitdikov.glyphorakit](https://marketplace.visualstudio.com/items?itemName=iskander-sitdikov.glyphorakit) | GlyphoraKit | 0.0.1 | Diagrams as code for Visual Studio Code |
-| 2026-11-27 02:24:31 | [brakerham.bilingual-markdown-ai-preview](https://marketplace.visualstudio.com/items?itemName=brakerham.bilingual-markdown-ai-preview) | Bilingual Markdown AI Preview | 0.1.0 | AI-powered immersive translation for Markdown documents: full-document translat… |
-| 2026-11-27 02:28:29 | [RainXD.tmux-hub](https://marketplace.visualstudio.com/items?itemName=RainXD.tmux-hub) | tmux Hub | 0.1.0 | Multi-session tmux hub for VS Code terminals — manage multiple persistent tmux… |
-| 2026-11-27 02:30:33 | [calderonmango.nosql-anomaly-monitor](https://marketplace.visualstudio.com/items?itemName=calderonmango.nosql-anomaly-monitor) | NoSQL Anomaly Monitor | 1.0.1 | Detecta y analiza anomalías NoSQL desde VS Code: eventos, alertas, Score, Disco… |
-| 2026-11-27 02:37:43 | [high-speed-steel.trusted-folders-picker](https://marketplace.visualstudio.com/items?itemName=high-speed-steel.trusted-folders-picker) | Trusted Folders Picker | 0.3.2 | 快速選擇並開啟你信任的各個資料夾 |
-| 2026-11-27 02:56:57 | [CryzeZz.iris-schema](https://marketplace.visualstudio.com/items?itemName=CryzeZz.iris-schema) | iris schema | 1.0.0 | 浏览与查询 InterSystems IRIS 表结构、类定义与 ER 图 |
-| 2026-11-27 02:57:37 | [selvadev.ai-dev-monitor](https://marketplace.visualstudio.com/items?itemName=selvadev.ai-dev-monitor) | AI Dev Monitor | 0.2.6 | See what Claude Code is doing, live: a 3D view (Neural or Galaxy) of your proje… |
-| 2026-11-27 03:00:32 | [benchdog.benchdog-keyvault](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-keyvault) | Benchdog Key Vault | 26.4.2 | Browse Azure Key Vault secrets across your vaults, and show or copy values only… |
-| 2026-11-27 03:00:38 | [benchdog.benchdog-shell](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-shell) | Benchdog Shell | 26.4.2 | Azure Cloud Shell, Bash or PowerShell, right inside VS Code, signed in as you,… |
-| 2026-11-27 03:00:44 | [benchdog.benchdog-sql-data-comparer](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-sql-data-comparer) | Benchdog SQL Data Comparer | 26.4.2 | Compare the rows of two SQL Server or Azure SQL databases, see what differs, an… |
-| 2026-11-27 03:00:51 | [benchdog.benchdog-sql-data-filler](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-sql-data-filler) | Benchdog SQL Data Filler | 26.4.2 | Fill a SQL Server or Azure SQL database's tables with realistic test data: name… |
-| 2026-11-27 03:00:57 | [benchdog.benchdog-sql-data-scrambler](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-sql-data-scrambler) | Benchdog SQL Data Scrambler | 26.4.2 | Scramble the personal data in a test or dev copy of a SQL Server or Azure SQL d… |
-| 2026-11-27 03:01:03 | [benchdog.benchdog-sql-documenter](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-sql-documenter) | Benchdog SQL Documenter | 26.4.2 | Browse SQL Server and Azure SQL databases, edit their descriptions, and documen… |
-| 2026-11-27 03:01:09 | [benchdog.benchdog-sql-finder](https://marketplace.visualstudio.com/items?itemName=benchdog.benchdog-sql-finder) | Benchdog SQL Finder | 26.4.2 | Find text in the names, column names and code of the tables, views, procedures,… |
+| 2026-11-27 03:15:15 | [yujindai.serverpush](https://marketplace.visualstudio.com/items?itemName=yujindai.serverpush) | ServerPush | 0.1.0 | WebStorm / IntelliJ 风格的 VS Code 部署工具：SFTP / FTP / FTPS 多服务器、上传 / 下载 / 同步、Remote… |
+| 2026-11-27 03:16:04 | [devenvmanager.active-state-monitor](https://marketplace.visualstudio.com/items?itemName=devenvmanager.active-state-monitor) | active-state-monitor | 0.0.5 |  |
+| 2026-11-27 03:18:25 | [devenvmanager.cannlab-entry](https://marketplace.visualstudio.com/items?itemName=devenvmanager.cannlab-entry) | CANNLab-entry | 0.0.17 |  |
+| 2026-11-27 03:22:55 | [sergiogarciadev.vscode-mesh-splat-viewer](https://marketplace.visualstudio.com/items?itemName=sergiogarciadev.vscode-mesh-splat-viewer) | 3D Mesh & Gaussian Splat Viewer | 0.1.0 | View 3D meshes, point clouds, and Gaussian splats in VS Code using VSCode Mesh… |
+| 2026-11-27 03:23:53 | [wuwuzhazha.eide-ai](https://marketplace.visualstudio.com/items?itemName=wuwuzhazha.eide-ai) | EIDE AI | 4.3.5 | EIDE AI: embedded IDE with headless CLI/MCP for 8051/STM8/Cortex-M/MIPS/RISC-V |
+| 2026-11-27 03:25:49 | [devenvmanager.sync-tool](https://marketplace.visualstudio.com/items?itemName=devenvmanager.sync-tool) | sync-tool | 1.0.16 | One-click data synchronization from CPU to NPU |
+| 2026-11-27 03:47:28 | [sergiogarciadev.abandon-all-hope](https://marketplace.visualstudio.com/items?itemName=sergiogarciadev.abandon-all-hope) | Abandon All Hope | 0.1.2 | Play Abandon All Hope (Raylib 3D zombie survival shooter) directly inside VS Co… |
+| 2026-11-27 03:58:54 | [Adalie.chiaki-companion](https://marketplace.visualstudio.com/items?itemName=Adalie.chiaki-companion) | Chiaki Companion | 1.7.14 | Chiaki nanami in your terminal helping out from below :3 |
+| 2026-11-27 04:02:46 | [Ancoder.aio-ide](https://marketplace.visualstudio.com/items?itemName=Ancoder.aio-ide) | AIO · AI CLI Workbench | 0.1.43 | Open installed OMP, Claude Code, and Codex in project terminals, or enter the A… |
 
 ## Data source
 
