@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T09:31:44.417Z,ReviewProjection.reviewprojection,ReviewProjection,ReviewProjection (Preview),0.1.54,"Early beta: helps humans understand and review software changes through structured, source-linked review projections."
+2026-11-27T09:32:31.187Z,krishnacreator74.backseatcoders,krishnacreator74,BackseatCoders,0.1.0,Never code alone again.
+2026-11-27T09:46:36.893Z,ayushsshukla.lilim,ayushsshukla,lilim,0.1.0,"Create and manage cross-platform C++ projects: CMake presets, Conan 2 or vcpkg, CI, tests and tooling."
+2026-11-27T10:00:13.677Z,lukaslabs.rowslate,lukaslabs,"RowSlate — Parquet, SQLite, Excel, CSV & JSONL Viewer + Visual Git Diff",0.1.0,"Zero-dependency local data workbench for VS Code & Cursor. Open multi-GB Parquet, SQLite, Excel (.xlsx), CSV & JSONL files without crashing, plus primary-key Visual Diff & Git Diff."
+2026-11-27T10:00:25.503Z,teolin.repo-terminal-icon,teolin,Repo Terminal Icon,0.0.1,New terminals get the repo emoji as icon and a color per repo.
+2026-11-27T10:01:28.117Z,Chat-Agent-Pico.opencode-pico,Chat-Agent-Pico,Pico Code Chat,2.4.0,"Pico, a coding agent for VS Code"
+2026-11-27T10:12:50.91Z,RahulChaube.blyx-sanderling,RahulChaube,Blyx Sanderling,0.1.0,"Choose a cache serving mode from stored age, local elapsed time and grace policy."
+2026-11-27T10:12:55.56Z,RahulChaube.blyx-sandpiper,RahulChaube,Blyx Sandpiper,0.1.0,Schedule a deterministic redelivery after both lease expiry and retry backoff.
+2026-11-27T10:13:00.24Z,RahulChaube.blyx-shrike,RahulChaube,Blyx Shrike,0.1.0,"Combine lexical and semantic search results by rank, then walk the merged list in a deterministic order."
+2026-11-27T10:13:04.907Z,RahulChaube.blyx-siskin,RahulChaube,Blyx Siskin,0.1.0,Inspect a cash-flow schedule for shortfalls that disappear by the closing date.
+2026-11-27T10:13:11.693Z,RahulChaube.blyx-skimmer,RahulChaube,Blyx Skimmer,0.1.0,Compare parity and marginal balance in two-bit shot data.
+2026-11-27T10:13:16.227Z,RahulChaube.blyx-spoonbill,RahulChaube,Blyx Spoonbill,0.1.0,Preflight caption cue timings against an explicit overlap policy.
