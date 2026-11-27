@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T05:27:43.707Z,SuwonLee.slx-viewer,SuwonLee,Simulink Diagram Viewer,0.1.2,Read-only block diagrams and subsystem navigation for Simulink SLX models.
+2026-11-27T05:35:51.193Z,megumichai.vs-flat,megumichai,VS Flat,0.0.1,Flat themes based on the built-in Visual Studio themes
+2026-11-27T05:36:33.097Z,ShunsukeF.makaseru-mcp,ShunsukeF,Makaseru MCP - Task Handoff & Verification,0.1.0,"Give lightweight agents small tasks, pause for parent decisions, and verify completion using scope, evidence, file state, and objective checks."
+2026-11-27T05:46:19.37Z,HanhThong.bfast,HanhThong,BFAST,0.1.0,BFAST Model
