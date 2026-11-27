@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T18:15:19.473Z,Codivitra.codivitra,Codivitra,Codivitra,0.1.5,"Grave, revise e exporte mudanças de código localmente no VS Code."
+2026-11-27T18:27:42.457Z,jubart-connect.jubart-connect,jubart-connect,Jubart Connect,0.18.5,"Gerencie instalações Jubart via MCP diretamente no VS Code, com monitoramento e chat opcional com provedores de IA nativos ou por API."
+2026-11-27T18:34:38.29Z,msalmi.git-sift,msalmi,Git Sift,1.0.0,"Plan a large change set into reviewed, atomic commits, and ask the AI of your choice about any line."
+2026-11-27T18:39:37.96Z,wlfxgh.magy,wlfxgh,MAGY - Antigravity (反重力) AI,0.2.1,在 VS Code 和 Cursor 侧边栏中使用 Antigravity（反重力 / agy）AI 编程助手，支持代码上下文引用、交互式问答、用量统计与 Cursor 对话导入。
+2026-11-27T18:50:08.83Z,croftlang.croft,croftlang,Croft,0.1.0,"Croft language support: highlighting, errors as you type, hover, go to definition and completion through croft lsp."
+2026-11-27T19:00:18.807Z,fiona-studio.sippy-water-pet,fiona-studio,Sippy — Virtual Hydration Pet,0.8.4,"A compact cozy pixel-art Sippy pet for VS Code Explorer: feed, pat, rest, and water reminders."
+2026-11-27T19:07:01.007Z,dineshkaarthik.snippo-code-snippets,dineshkaarthik,Snippo - Code Snippets,1.0.0,"Save snippets in your web library, then search and insert them in VS Code."
+2026-11-27T19:07:13.23Z,LuisBernartt.oppai-linter,LuisBernartt,OppaiLinter — Validador de roteiro Ren'Py,0.1.0,"Valida roteiros Ren'Py (.rpy) dentro de blocos label: blocos vazios, aspas não fechadas, variáveis/personagens com nome errado, labels sem jump/return, jumps para labels inexistentes e mais."
+2026-11-27T19:11:47.733Z,TheLearningSpark.archnexa-ai,TheLearningSpark,ArchNexa AI,1.1.0,Local-first architecture explorer with optional Professional analysis
+2026-11-27T19:12:49.37Z,MotohiroOgawa.msentity-msms-viewer,MotohiroOgawa,msentity MSMS Viewer,1.4.2,"View msentity datasets (MSDS, MSP, MGF, TSV, CSV) and similarity results (.mssim) in VS Code, powered by the msentity C++ library."
