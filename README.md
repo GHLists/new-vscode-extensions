@@ -12,17 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 21:21 UTC
+## Latest list — 2026-11-27 22:21 UTC
 
-New extensions published between 2026-11-27 19:21 UTC and 2026-11-27 21:21 UTC.
+New extensions published between 2026-11-27 20:21 UTC and 2026-11-27 22:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T21-21-58-324814Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T22-21-36-646519Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 20:41:50 | [optona.mydebug-hotreload](https://marketplace.visualstudio.com/items?itemName=optona.mydebug-hotreload) | MyDebug HotReload | 0.1.0 | Save a Java file and see the change in the running application instantly. Sprin… |
-| 2026-11-27 21:00:45 | [axyome-ai.axyome-lite](https://marketplace.visualstudio.com/items?itemName=axyome-ai.axyome-lite) | Axyome Lite — Copilot, Claude Code & Co… | 0.1.0 | Find where Copilot, Claude Code and Codex keep your chats, open any chat, expor… |
-| 2026-11-27 21:05:13 | [rolando-s-solutions.freellmapi-vscode](https://marketplace.visualstudio.com/items?itemName=rolando-s-solutions.freellmapi-vscode) | FreeLLMAPI for VS Code | 0.1.3 | Bring FreeLLMAPI's model router (auto, fusion, 70+ open models) into VS Code Ch… |
+| 2026-11-27 21:44:32 | [smithja06.folio-universal-editor](https://marketplace.visualstudio.com/items?itemName=smithja06.folio-universal-editor) | Folio Universal Editor | 1.0.0 | Opt-in editors for Markdown, plain text, Word documents and spreadsheets, plus… |
+| 2026-11-27 21:47:46 | [enbinario.repohangar](https://marketplace.visualstudio.com/items?itemName=enbinario.repohangar) | RepoHangar - Multi-Repo Git Dashboard | 0.1.0 | One dashboard for all your Git repositories: fetch, pull and switch branches ac… |
+| 2026-11-27 21:51:43 | [anti049.macchiato-vivid](https://marketplace.visualstudio.com/items?itemName=anti049.macchiato-vivid) | Macchiato Vivid | 0.5.0 | Catppuccin Macchiato's window colors with Dracula-style syntax highlighting |
+| 2026-11-27 22:09:20 | [JonhSousa.amethyst-notes](https://marketplace.visualstudio.com/items?itemName=JonhSousa.amethyst-notes) | Amethyst Notes | 1.0.0 | A local-first Markdown notes vault in the VS Code Activity Bar. |
+| 2026-11-27 22:16:50 | [OxfordMetadata.rooster-panel](https://marketplace.visualstudio.com/items?itemName=OxfordMetadata.rooster-panel) | Rooster Panel | 0.1.0 | Open your Rooster Panel workspaces in VS Code and work there with Claude Code:… |
 
 ## Data source
 

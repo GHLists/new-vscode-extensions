@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T21:44:32.417Z,smithja06.folio-universal-editor,smithja06,Folio Universal Editor,1.0.0,"Opt-in editors for Markdown, plain text, Word documents and spreadsheets, plus a read-only PDF viewer."
+2026-11-27T21:47:46.893Z,enbinario.repohangar,enbinario,RepoHangar - Multi-Repo Git Dashboard,0.1.0,"One dashboard for all your Git repositories: fetch, pull and switch branches across repos, open Git Graph, and create GitLab merge requests and GitHub pull requests with saved reviewers, squash and delete-branch defaults."
+2026-11-27T21:51:43.003Z,anti049.macchiato-vivid,anti049,Macchiato Vivid,0.5.0,Catppuccin Macchiato's window colors with Dracula-style syntax highlighting
+2026-11-27T22:09:20.183Z,JonhSousa.amethyst-notes,JonhSousa,Amethyst Notes,1.0.0,A local-first Markdown notes vault in the VS Code Activity Bar.
+2026-11-27T22:16:50.687Z,OxfordMetadata.rooster-panel,OxfordMetadata,Rooster Panel,0.1.0,"Open your Rooster Panel workspaces in VS Code and work there with Claude Code: one click pairs this machine, makes the SSH key and opens the remote window. Send a local project to a workspace in one step."
