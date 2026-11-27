@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T10:18:20.72Z,rs-design.espresso-navi,rs-design,Espresso Navi,0.2.0,"Nested element navigator for HTML, PHP templates, CSS/SCSS, XML & JS – fold/unfold in the editor and select whole elements with one click."
+2026-11-27T10:19:00.677Z,oddfishsociety.cluau,oddfishsociety,cluau,0.33.1,"cluau, C-syntax-flavoured Luau: highlighting, the checker's errors, completion, hover and navigation as you type, and the debugger."
+2026-11-27T10:19:53.79Z,teolin.explorer-pane-font,teolin,Explorer Font,0.0.3,Shows the explorer pane in a fixed-width font.
+2026-11-27T10:34:54.97Z,RahulChaube.blyx-flightdeck,RahulChaube,Blyx Flightdeck,0.1.0,"Browse 50 Blyx training and inference workflows, inspect tensor inputs and open the bundled Blyx source."
+2026-11-27T10:39:01.607Z,varun2045.flaglens,varun2045,FlagLens — Flagsmith Live Feature Flags,1.0.0,"Live inline feature flag status, 1-click toggles, wrap-in-flag code actions, and typo/stale flag auditing for self-hosted Flagsmith right inside VS Code."
+2026-11-27T10:39:16.82Z,jurgen-keller.hpnut-syntax,jurgen-keller,Calypsi HP Nut Assembly,0.1.0,Syntax highlighting for Calypsi HP Nut assembly
+2026-11-27T10:40:06.86Z,TeamPico.pico-chat,TeamPico,Team Pico Chat,0.0.0,"Pico, a coding agent for VS Code"
+2026-11-27T10:50:20.037Z,mfast99.concourse-lint,mfast99,Concourse Lint,0.2.0,"Finds errors, security issues and bad practice in Concourse CI pipelines while you type."
+2026-11-27T11:00:36.767Z,erdemm1020.retro-2000,erdemm1020,Retro 2000,1.0.0,"Early-2000s desktop look: light color theme, pixel file icons, sounds and optional classic 3D bevels."
+2026-11-27T11:01:21.57Z,gbytl.git-diff-review,gbytl,Git Diff Review,0.1.0,"Review working-tree changes against a Git branch or tag, file by file and hunk by hunk."
+2026-11-27T11:08:36.723Z,HsomeYang.encoding-switcher,HsomeYang,编码自动切换器 (GB2312/UTF-8),1.0.1,打开 .c/.h 文件时自动检测编码并以正确编码打开，防止中文乱码；支持 UTF-8 与 GB2312 一键互相切换

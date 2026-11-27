@@ -12,26 +12,25 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 10:20 UTC
+## Latest list — 2026-11-27 11:21 UTC
 
-New extensions published between 2026-11-27 08:20 UTC and 2026-11-27 10:20 UTC.
+New extensions published between 2026-11-27 09:21 UTC and 2026-11-27 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T10-20-42-274134Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T11-21-28-898066Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 09:31:44 | [ReviewProjection.reviewprojection](https://marketplace.visualstudio.com/items?itemName=ReviewProjection.reviewprojection) | ReviewProjection (Preview) | 0.1.54 | Early beta: helps humans understand and review software changes through structu… |
-| 2026-11-27 09:32:31 | [krishnacreator74.backseatcoders](https://marketplace.visualstudio.com/items?itemName=krishnacreator74.backseatcoders) | BackseatCoders | 0.1.0 | Never code alone again. |
-| 2026-11-27 09:46:36 | [ayushsshukla.lilim](https://marketplace.visualstudio.com/items?itemName=ayushsshukla.lilim) | lilim | 0.1.0 | Create and manage cross-platform C++ projects: CMake presets, Conan 2 or vcpkg,… |
-| 2026-11-27 10:00:13 | [lukaslabs.rowslate](https://marketplace.visualstudio.com/items?itemName=lukaslabs.rowslate) | RowSlate — Parquet, SQLite, Excel, CSV… | 0.1.0 | Zero-dependency local data workbench for VS Code & Cursor. Open multi-GB Parque… |
-| 2026-11-27 10:00:25 | [teolin.repo-terminal-icon](https://marketplace.visualstudio.com/items?itemName=teolin.repo-terminal-icon) | Repo Terminal Icon | 0.0.1 | New terminals get the repo emoji as icon and a color per repo. |
-| 2026-11-27 10:01:28 | [Chat-Agent-Pico.opencode-pico](https://marketplace.visualstudio.com/items?itemName=Chat-Agent-Pico.opencode-pico) | Pico Code Chat | 2.4.0 | Pico, a coding agent for VS Code |
-| 2026-11-27 10:12:50 | [RahulChaube.blyx-sanderling](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-sanderling) | Blyx Sanderling | 0.1.0 | Choose a cache serving mode from stored age, local elapsed time and grace polic… |
-| 2026-11-27 10:12:55 | [RahulChaube.blyx-sandpiper](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-sandpiper) | Blyx Sandpiper | 0.1.0 | Schedule a deterministic redelivery after both lease expiry and retry backoff. |
-| 2026-11-27 10:13:00 | [RahulChaube.blyx-shrike](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-shrike) | Blyx Shrike | 0.1.0 | Combine lexical and semantic search results by rank, then walk the merged list… |
-| 2026-11-27 10:13:04 | [RahulChaube.blyx-siskin](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-siskin) | Blyx Siskin | 0.1.0 | Inspect a cash-flow schedule for shortfalls that disappear by the closing date. |
-| 2026-11-27 10:13:11 | [RahulChaube.blyx-skimmer](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-skimmer) | Blyx Skimmer | 0.1.0 | Compare parity and marginal balance in two-bit shot data. |
-| 2026-11-27 10:13:16 | [RahulChaube.blyx-spoonbill](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-spoonbill) | Blyx Spoonbill | 0.1.0 | Preflight caption cue timings against an explicit overlap policy. |
+| 2026-11-27 10:18:20 | [rs-design.espresso-navi](https://marketplace.visualstudio.com/items?itemName=rs-design.espresso-navi) | Espresso Navi | 0.2.0 | Nested element navigator for HTML, PHP templates, CSS/SCSS, XML & JS – fold/unf… |
+| 2026-11-27 10:19:00 | [oddfishsociety.cluau](https://marketplace.visualstudio.com/items?itemName=oddfishsociety.cluau) | cluau | 0.33.1 | cluau, C-syntax-flavoured Luau: highlighting, the checker's errors, completion,… |
+| 2026-11-27 10:19:53 | [teolin.explorer-pane-font](https://marketplace.visualstudio.com/items?itemName=teolin.explorer-pane-font) | Explorer Font | 0.0.3 | Shows the explorer pane in a fixed-width font. |
+| 2026-11-27 10:34:54 | [RahulChaube.blyx-flightdeck](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-flightdeck) | Blyx Flightdeck | 0.1.0 | Browse 50 Blyx training and inference workflows, inspect tensor inputs and open… |
+| 2026-11-27 10:39:01 | [varun2045.flaglens](https://marketplace.visualstudio.com/items?itemName=varun2045.flaglens) | FlagLens — Flagsmith Live Feature Flags | 1.0.0 | Live inline feature flag status, 1-click toggles, wrap-in-flag code actions, an… |
+| 2026-11-27 10:39:16 | [jurgen-keller.hpnut-syntax](https://marketplace.visualstudio.com/items?itemName=jurgen-keller.hpnut-syntax) | Calypsi HP Nut Assembly | 0.1.0 | Syntax highlighting for Calypsi HP Nut assembly |
+| 2026-11-27 10:40:06 | [TeamPico.pico-chat](https://marketplace.visualstudio.com/items?itemName=TeamPico.pico-chat) | Team Pico Chat | 0.0.0 | Pico, a coding agent for VS Code |
+| 2026-11-27 10:50:20 | [mfast99.concourse-lint](https://marketplace.visualstudio.com/items?itemName=mfast99.concourse-lint) | Concourse Lint | 0.2.0 | Finds errors, security issues and bad practice in Concourse CI pipelines while… |
+| 2026-11-27 11:00:36 | [erdemm1020.retro-2000](https://marketplace.visualstudio.com/items?itemName=erdemm1020.retro-2000) | Retro 2000 | 1.0.0 | Early-2000s desktop look: light color theme, pixel file icons, sounds and optio… |
+| 2026-11-27 11:01:21 | [gbytl.git-diff-review](https://marketplace.visualstudio.com/items?itemName=gbytl.git-diff-review) | Git Diff Review | 0.1.0 | Review working-tree changes against a Git branch or tag, file by file and hunk… |
+| 2026-11-27 11:08:36 | [HsomeYang.encoding-switcher](https://marketplace.visualstudio.com/items?itemName=HsomeYang.encoding-switcher) | 编码自动切换器 (GB2312/UTF-8) | 1.0.1 | 打开 .c/.h 文件时自动检测编码并以正确编码打开，防止中文乱码；支持 UTF-8 与 GB2312 一键互相切换 |
 
 ## Data source
 
