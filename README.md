@@ -12,19 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 22:21 UTC
+## Latest list — 2026-11-27 23:20 UTC
 
-New extensions published between 2026-11-27 20:21 UTC and 2026-11-27 22:21 UTC.
+New extensions published between 2026-11-27 21:20 UTC and 2026-11-27 23:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T22-21-36-646519Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T23-20-15-104103Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 21:44:32 | [smithja06.folio-universal-editor](https://marketplace.visualstudio.com/items?itemName=smithja06.folio-universal-editor) | Folio Universal Editor | 1.0.0 | Opt-in editors for Markdown, plain text, Word documents and spreadsheets, plus… |
-| 2026-11-27 21:47:46 | [enbinario.repohangar](https://marketplace.visualstudio.com/items?itemName=enbinario.repohangar) | RepoHangar - Multi-Repo Git Dashboard | 0.1.0 | One dashboard for all your Git repositories: fetch, pull and switch branches ac… |
-| 2026-11-27 21:51:43 | [anti049.macchiato-vivid](https://marketplace.visualstudio.com/items?itemName=anti049.macchiato-vivid) | Macchiato Vivid | 0.5.0 | Catppuccin Macchiato's window colors with Dracula-style syntax highlighting |
-| 2026-11-27 22:09:20 | [JonhSousa.amethyst-notes](https://marketplace.visualstudio.com/items?itemName=JonhSousa.amethyst-notes) | Amethyst Notes | 1.0.0 | A local-first Markdown notes vault in the VS Code Activity Bar. |
-| 2026-11-27 22:16:50 | [OxfordMetadata.rooster-panel](https://marketplace.visualstudio.com/items?itemName=OxfordMetadata.rooster-panel) | Rooster Panel | 0.1.0 | Open your Rooster Panel workspaces in VS Code and work there with Claude Code:… |
+| 2026-11-27 22:21:53 | [thonny-dev.kero-ai](https://marketplace.visualstudio.com/items?itemName=thonny-dev.kero-ai) | Kero AI | 1.0.0 | Агент для кода в VS Code. Читает проект, правит файлы через diff, запускает ком… |
+| 2026-11-27 22:45:09 | [bryanT4N.pico-8-ls](https://marketplace.visualstudio.com/items?itemName=bryanT4N.pico-8-ls) | PICO-8 Lua Language Server | 0.8.0 | A personal fork of PICO-8 LS that provides a language server for PICO-8 Lua in… |
+| 2026-11-27 23:13:05 | [moriyama-dev.vscode-eisha](https://marketplace.visualstudio.com/items?itemName=moriyama-dev.vscode-eisha) | Eisha — Video Player with Sound | 0.1.0 | Play MP4, MOV, M4V, WebM and MKV videos with sound in an editor tab. Formats VS… |
 
 ## Data source
 

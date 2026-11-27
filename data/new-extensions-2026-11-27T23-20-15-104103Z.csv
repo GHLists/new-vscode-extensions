@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T22:21:53.807Z,thonny-dev.kero-ai,thonny-dev,Kero AI,1.0.0,"Агент для кода в VS Code. Читает проект, правит файлы через diff, запускает команды и тесты, работает с MCP-серверами"
+2026-11-27T22:45:09.73Z,bryanT4N.pico-8-ls,bryanT4N,PICO-8 Lua Language Server,0.8.0,A personal fork of PICO-8 LS that provides a language server for PICO-8 Lua in .p8 carts and .lua files.
+2026-11-27T23:13:05.097Z,moriyama-dev.vscode-eisha,moriyama-dev,Eisha — Video Player with Sound,0.1.0,"Play MP4, MOV, M4V, WebM and MKV videos with sound in an editor tab. Formats VS Code cannot play, such as AAC sound, are converted while they play. Works with or without ffmpeg installed."
