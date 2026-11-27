@@ -12,24 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 19:21 UTC
+## Latest list — 2026-11-27 20:20 UTC
 
-New extensions published between 2026-11-27 17:21 UTC and 2026-11-27 19:21 UTC.
+New extensions published between 2026-11-27 18:20 UTC and 2026-11-27 20:20 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T19-21-46-062451Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T20-20-15-753878Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 18:15:19 | [Codivitra.codivitra](https://marketplace.visualstudio.com/items?itemName=Codivitra.codivitra) | Codivitra | 0.1.5 | Grave, revise e exporte mudanças de código localmente no VS Code. |
-| 2026-11-27 18:27:42 | [jubart-connect.jubart-connect](https://marketplace.visualstudio.com/items?itemName=jubart-connect.jubart-connect) | Jubart Connect | 0.18.5 | Gerencie instalações Jubart via MCP diretamente no VS Code, com monitoramento e… |
-| 2026-11-27 18:34:38 | [msalmi.git-sift](https://marketplace.visualstudio.com/items?itemName=msalmi.git-sift) | Git Sift | 1.0.0 | Plan a large change set into reviewed, atomic commits, and ask the AI of your c… |
-| 2026-11-27 18:39:37 | [wlfxgh.magy](https://marketplace.visualstudio.com/items?itemName=wlfxgh.magy) | MAGY - Antigravity (反重力) AI | 0.2.1 | 在 VS Code 和 Cursor 侧边栏中使用 Antigravity（反重力 / agy）AI 编程助手，支持代码上下文引用、交互式问答、用量统计与 C… |
-| 2026-11-27 18:50:08 | [croftlang.croft](https://marketplace.visualstudio.com/items?itemName=croftlang.croft) | Croft | 0.1.0 | Croft language support: highlighting, errors as you type, hover, go to definiti… |
-| 2026-11-27 19:00:18 | [fiona-studio.sippy-water-pet](https://marketplace.visualstudio.com/items?itemName=fiona-studio.sippy-water-pet) | Sippy — Virtual Hydration Pet | 0.8.4 | A compact cozy pixel-art Sippy pet for VS Code Explorer: feed, pat, rest, and w… |
-| 2026-11-27 19:07:01 | [dineshkaarthik.snippo-code-snippets](https://marketplace.visualstudio.com/items?itemName=dineshkaarthik.snippo-code-snippets) | Snippo - Code Snippets | 1.0.0 | Save snippets in your web library, then search and insert them in VS Code. |
-| 2026-11-27 19:07:13 | [LuisBernartt.oppai-linter](https://marketplace.visualstudio.com/items?itemName=LuisBernartt.oppai-linter) | OppaiLinter — Validador de roteiro Ren'… | 0.1.0 | Valida roteiros Ren'Py (.rpy) dentro de blocos label: blocos vazios, aspas não… |
-| 2026-11-27 19:11:47 | [TheLearningSpark.archnexa-ai](https://marketplace.visualstudio.com/items?itemName=TheLearningSpark.archnexa-ai) | ArchNexa AI | 1.1.0 | Local-first architecture explorer with optional Professional analysis |
-| 2026-11-27 19:12:49 | [MotohiroOgawa.msentity-msms-viewer](https://marketplace.visualstudio.com/items?itemName=MotohiroOgawa.msentity-msms-viewer) | msentity MSMS Viewer | 1.4.2 | View msentity datasets (MSDS, MSP, MGF, TSV, CSV) and similarity results (.mssi… |
+| 2026-11-27 19:28:00 | [ziyisun85-ops.serverlens](https://marketplace.visualstudio.com/items?itemName=ziyisun85-ops.serverlens) | ServerLens | 0.1.2 | Lightweight multi-server monitor for AI research: GPUs, CPU, memory, disks and… |
+| 2026-11-27 19:42:15 | [maumneto.fimse-pseudocodigo](https://marketplace.visualstudio.com/items?itemName=maumneto.fimse-pseudocodigo) | FimSe: Pseudocódigo em Português Brasil… | 1.0.0 | Pseudocódigo em português no VS Code: realce, estruturas prontas, avisos didáti… |
+| 2026-11-27 19:57:53 | [patrickcorral.codetonode](https://marketplace.visualstudio.com/items?itemName=patrickcorral.codetonode) | CodeToNode | 0.1.0 | Preview Unreal Engine C++ as Blueprint nodes, and copy them straight into the B… |
+| 2026-11-27 20:02:14 | [EteyeMonday.openprojectManager](https://marketplace.visualstudio.com/items?itemName=EteyeMonday.openprojectManager) | OpenProject Manager | 0.1.0 | Browse, filter and update OpenProject work packages, log time and link git bran… |
+| 2026-11-27 20:04:58 | [gentil-devkit.workers-tail-pro](https://marketplace.visualstudio.com/items?itemName=gentil-devkit.workers-tail-pro) | Workers Tail Pro | 0.1.0 | Tail Cloudflare Workers with JSON parsing, filters, grouped errors, and stack t… |
+| 2026-11-27 20:12:49 | [khevingm.taglupa-lint](https://marketplace.visualstudio.com/items?itemName=khevingm.taglupa-lint) | TagLupa Lint — dataLayer & GA4 validator | 1.0.0 | Validate dataLayer.push and gtag GA4 events as you code: ecommerce, value, curr… |
+| 2026-11-27 20:13:26 | [maschinenlesbar.gurkencheck](https://marketplace.visualstudio.com/items?itemName=maschinenlesbar.gurkencheck) | gurkencheck | 0.3.0 | A Gherkin linter/validator written in TypeScript, with no build step beyond tsc |
 
 ## Data source
 

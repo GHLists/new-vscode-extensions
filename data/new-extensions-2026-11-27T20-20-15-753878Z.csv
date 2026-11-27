@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T19:28:00.113Z,ziyisun85-ops.serverlens,ziyisun85-ops,ServerLens,0.1.2,"Lightweight multi-server monitor for AI research: GPUs, CPU, memory, disks and quotas over SSH, no remote agent"
+2026-11-27T19:42:15.523Z,maumneto.fimse-pseudocodigo,maumneto,FimSe: Pseudocódigo em Português Brasileiro,1.0.0,"Pseudocódigo em português no VS Code: realce, estruturas prontas, avisos didáticos e formatação. Compatível com a sintaxe do VisuAlg, em minúsculas ou MAIÚSCULAS."
+2026-11-27T19:57:53.643Z,patrickcorral.codetonode,patrickcorral,CodeToNode,0.1.0,"Preview Unreal Engine C++ as Blueprint nodes, and copy them straight into the Blueprint editor."
+2026-11-27T20:02:14.7Z,EteyeMonday.openprojectManager,EteyeMonday,OpenProject Manager,0.1.0,"Browse, filter and update OpenProject work packages, log time and link git branches and commits, all from VS Code."
+2026-11-27T20:04:58.967Z,gentil-devkit.workers-tail-pro,gentil-devkit,Workers Tail Pro,0.1.0,"Tail Cloudflare Workers with JSON parsing, filters, grouped errors, and stack trace navigation"
+2026-11-27T20:12:49.73Z,khevingm.taglupa-lint,khevingm,TagLupa Lint — dataLayer & GA4 validator,1.0.0,"Validate dataLayer.push and gtag GA4 events as you code: ecommerce, value, currency, items and transaction_id. By the makers of TagLupa."
+2026-11-27T20:13:26.893Z,maschinenlesbar.gurkencheck,maschinenlesbar,gurkencheck,0.3.0,"A Gherkin linter/validator written in TypeScript, with no build step beyond tsc"
