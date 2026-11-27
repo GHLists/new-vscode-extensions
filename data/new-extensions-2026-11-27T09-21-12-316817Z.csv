@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T08:41:14.58Z,threat-protector.threat-protector-extension,threat-protector,Threat Protector,0.2.1,Local-first supply-chain protection for VS Code and Cursor.
+2026-11-27T08:59:43.127Z,beatahumeniuk.visual-api-client,beatahumeniuk,Visual API Client,0.1.0,Call REST and SOAP APIs through forms generated from OpenAPI and WSDL — no hand-written JSON or XML.
+2026-11-27T09:01:17.31Z,dongxn.bettercomment-colors,dongxn,Better Comment Colors,1.0.0,Independent theme colors for Better Comments
+2026-11-27T09:11:46.727Z,harish-chirati.semb-shareit,harish-chirati,SEMB ShareIt,0.1.0,"Share code and text files through named paths, with private spaces and synced VS Code editors."
