@@ -12,21 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 12:19 UTC
+## Latest list — 2026-11-27 13:19 UTC
 
-New extensions published between 2026-11-27 10:19 UTC and 2026-11-27 12:19 UTC.
+New extensions published between 2026-11-27 11:19 UTC and 2026-11-27 13:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T12-19-36-829801Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T13-19-37-180633Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 11:41:36 | [smartcodex-test.smarttest-mcp](https://marketplace.visualstudio.com/items?itemName=smartcodex-test.smarttest-mcp) | SmartTest | 0.1.0 | Conecta o VS Code (Copilot/MCP) ao seu servidor SmartTest, local ou remoto, sem… |
-| 2026-11-27 11:43:51 | [hendrik101.vscode-workspace-mcp](https://marketplace.visualstudio.com/items?itemName=hendrik101.vscode-workspace-mcp) | Workspace MCP | 0.1.4 | A small, authenticated MCP bridge to VS Code virtual workspaces and live editor… |
-| 2026-11-27 11:50:25 | [RoccoCaruso.ai-auto-resume](https://marketplace.visualstudio.com/items?itemName=RoccoCaruso.ai-auto-resume) | AI Auto Resume | 1.2.0 | Resumes Claude Code, Codex and Antigravity conversations after a usage limit: a… |
-| 2026-11-27 11:55:25 | [diegoorta.ibmi-line-commands](https://marketplace.visualstudio.com/items?itemName=diegoorta.ibmi-line-commands) | IBM i Line Commands | 0.0.5 | SEU/RDi-style line command column (M, C, A, B, D, R, I, MM, CC, DD, RR) for IBM… |
-| 2026-11-27 12:03:48 | [textadventures.squiffy](https://marketplace.visualstudio.com/items?itemName=textadventures.squiffy) | Squiffy | 7.0.0 | Write Squiffy interactive stories in VS Code, with a live preview and a story m… |
-| 2026-11-27 12:08:34 | [nowhere.cstcloud-latex](https://marketplace.visualstudio.com/items?itemName=nowhere.cstcloud-latex) | CSTCloud LaTeX | 0.1.0 | Mount, edit, compile, and bidirectionally sync CSTCloud (latex.cstcloud.cn) Ove… |
-| 2026-11-27 12:13:18 | [SnapBridge.snapbridge-companion](https://marketplace.visualstudio.com/items?itemName=SnapBridge.snapbridge-companion) | SnapBridge Companion | 0.1.14 | Receives screenshots and prompts from the SnapBridge Windows app and prepares t… |
+| 2026-11-27 12:26:37 | [EdrisAhani.codex-smart-bidi](https://marketplace.visualstudio.com/items?itemName=EdrisAhani.codex-smart-bidi) | Codex Smart Bidi | 0.1.3 | Independent Persian/Arabic direction detection for Codex paragraphs and separat… |
+| 2026-11-27 12:31:00 | [tracecloak.tracecloak](https://marketplace.visualstudio.com/items?itemName=tracecloak.tracecloak) | TraceCloak — Secret Redaction for AI Co… | 0.1.2 | IDE-native secret redaction keeping API keys and secrets out of AI coding assis… |
+| 2026-11-27 12:37:58 | [CODEKARMA.ck-karma-lens-node](https://marketplace.visualstudio.com/items?itemName=CODEKARMA.ck-karma-lens-node) | CK Karma-Lens Node.js | 0.1.0 | Runtime metrics, code-block coverage, dead-code insights and call-hierarchy wit… |
+| 2026-11-27 12:49:16 | [ArcThemes.vscode-theme-onedark-pro](https://marketplace.visualstudio.com/items?itemName=ArcThemes.vscode-theme-onedark-pro) | Atom One Dark Theme Pro | 2.3.0 | One Dark Theme based on Atom |
+| 2026-11-27 12:49:52 | [Nickchung.claude-code-account-switch-button](https://marketplace.visualstudio.com/items?itemName=Nickchung.claude-code-account-switch-button) | Account Switch Button for Claude Code | 1.0.0 | Unofficial. Switch the Claude Code extension between accounts (personal, work,… |
 
 ## Data source
 
