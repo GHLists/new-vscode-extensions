@@ -12,25 +12,21 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 11:21 UTC
+## Latest list — 2026-11-27 12:19 UTC
 
-New extensions published between 2026-11-27 09:21 UTC and 2026-11-27 11:21 UTC.
+New extensions published between 2026-11-27 10:19 UTC and 2026-11-27 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T11-21-28-898066Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T12-19-36-829801Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 10:18:20 | [rs-design.espresso-navi](https://marketplace.visualstudio.com/items?itemName=rs-design.espresso-navi) | Espresso Navi | 0.2.0 | Nested element navigator for HTML, PHP templates, CSS/SCSS, XML & JS – fold/unf… |
-| 2026-11-27 10:19:00 | [oddfishsociety.cluau](https://marketplace.visualstudio.com/items?itemName=oddfishsociety.cluau) | cluau | 0.33.1 | cluau, C-syntax-flavoured Luau: highlighting, the checker's errors, completion,… |
-| 2026-11-27 10:19:53 | [teolin.explorer-pane-font](https://marketplace.visualstudio.com/items?itemName=teolin.explorer-pane-font) | Explorer Font | 0.0.3 | Shows the explorer pane in a fixed-width font. |
-| 2026-11-27 10:34:54 | [RahulChaube.blyx-flightdeck](https://marketplace.visualstudio.com/items?itemName=RahulChaube.blyx-flightdeck) | Blyx Flightdeck | 0.1.0 | Browse 50 Blyx training and inference workflows, inspect tensor inputs and open… |
-| 2026-11-27 10:39:01 | [varun2045.flaglens](https://marketplace.visualstudio.com/items?itemName=varun2045.flaglens) | FlagLens — Flagsmith Live Feature Flags | 1.0.0 | Live inline feature flag status, 1-click toggles, wrap-in-flag code actions, an… |
-| 2026-11-27 10:39:16 | [jurgen-keller.hpnut-syntax](https://marketplace.visualstudio.com/items?itemName=jurgen-keller.hpnut-syntax) | Calypsi HP Nut Assembly | 0.1.0 | Syntax highlighting for Calypsi HP Nut assembly |
-| 2026-11-27 10:40:06 | [TeamPico.pico-chat](https://marketplace.visualstudio.com/items?itemName=TeamPico.pico-chat) | Team Pico Chat | 0.0.0 | Pico, a coding agent for VS Code |
-| 2026-11-27 10:50:20 | [mfast99.concourse-lint](https://marketplace.visualstudio.com/items?itemName=mfast99.concourse-lint) | Concourse Lint | 0.2.0 | Finds errors, security issues and bad practice in Concourse CI pipelines while… |
-| 2026-11-27 11:00:36 | [erdemm1020.retro-2000](https://marketplace.visualstudio.com/items?itemName=erdemm1020.retro-2000) | Retro 2000 | 1.0.0 | Early-2000s desktop look: light color theme, pixel file icons, sounds and optio… |
-| 2026-11-27 11:01:21 | [gbytl.git-diff-review](https://marketplace.visualstudio.com/items?itemName=gbytl.git-diff-review) | Git Diff Review | 0.1.0 | Review working-tree changes against a Git branch or tag, file by file and hunk… |
-| 2026-11-27 11:08:36 | [HsomeYang.encoding-switcher](https://marketplace.visualstudio.com/items?itemName=HsomeYang.encoding-switcher) | 编码自动切换器 (GB2312/UTF-8) | 1.0.1 | 打开 .c/.h 文件时自动检测编码并以正确编码打开，防止中文乱码；支持 UTF-8 与 GB2312 一键互相切换 |
+| 2026-11-27 11:41:36 | [smartcodex-test.smarttest-mcp](https://marketplace.visualstudio.com/items?itemName=smartcodex-test.smarttest-mcp) | SmartTest | 0.1.0 | Conecta o VS Code (Copilot/MCP) ao seu servidor SmartTest, local ou remoto, sem… |
+| 2026-11-27 11:43:51 | [hendrik101.vscode-workspace-mcp](https://marketplace.visualstudio.com/items?itemName=hendrik101.vscode-workspace-mcp) | Workspace MCP | 0.1.4 | A small, authenticated MCP bridge to VS Code virtual workspaces and live editor… |
+| 2026-11-27 11:50:25 | [RoccoCaruso.ai-auto-resume](https://marketplace.visualstudio.com/items?itemName=RoccoCaruso.ai-auto-resume) | AI Auto Resume | 1.2.0 | Resumes Claude Code, Codex and Antigravity conversations after a usage limit: a… |
+| 2026-11-27 11:55:25 | [diegoorta.ibmi-line-commands](https://marketplace.visualstudio.com/items?itemName=diegoorta.ibmi-line-commands) | IBM i Line Commands | 0.0.5 | SEU/RDi-style line command column (M, C, A, B, D, R, I, MM, CC, DD, RR) for IBM… |
+| 2026-11-27 12:03:48 | [textadventures.squiffy](https://marketplace.visualstudio.com/items?itemName=textadventures.squiffy) | Squiffy | 7.0.0 | Write Squiffy interactive stories in VS Code, with a live preview and a story m… |
+| 2026-11-27 12:08:34 | [nowhere.cstcloud-latex](https://marketplace.visualstudio.com/items?itemName=nowhere.cstcloud-latex) | CSTCloud LaTeX | 0.1.0 | Mount, edit, compile, and bidirectionally sync CSTCloud (latex.cstcloud.cn) Ove… |
+| 2026-11-27 12:13:18 | [SnapBridge.snapbridge-companion](https://marketplace.visualstudio.com/items?itemName=SnapBridge.snapbridge-companion) | SnapBridge Companion | 0.1.14 | Receives screenshots and prompts from the SnapBridge Windows app and prepares t… |
 
 ## Data source
 

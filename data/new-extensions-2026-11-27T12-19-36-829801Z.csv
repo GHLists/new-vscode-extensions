@@ -1,0 +1,8 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T11:41:36.67Z,smartcodex-test.smarttest-mcp,smartcodex-test,SmartTest,0.1.0,"Conecta o VS Code (Copilot/MCP) ao seu servidor SmartTest, local ou remoto, sem editar JSON na mão."
+2026-11-27T11:43:51.75Z,hendrik101.vscode-workspace-mcp,hendrik101,Workspace MCP,0.1.4,"A small, authenticated MCP bridge to VS Code virtual workspaces and live editors."
+2026-11-27T11:50:25.27Z,RoccoCaruso.ai-auto-resume,RoccoCaruso,AI Auto Resume,1.2.0,"Resumes Claude Code, Codex and Antigravity conversations after a usage limit: at the limit reset or at a chosen time, with the CLI or in the chat panel."
+2026-11-27T11:55:25.3Z,diegoorta.ibmi-line-commands,diegoorta,IBM i Line Commands,0.0.5,"SEU/RDi-style line command column (M, C, A, B, D, R, I, MM, CC, DD, RR) for IBM i source editing in VS Code."
+2026-11-27T12:03:48.557Z,textadventures.squiffy,textadventures,Squiffy,7.0.0,"Write Squiffy interactive stories in VS Code, with a live preview and a story map"
+2026-11-27T12:08:34.683Z,nowhere.cstcloud-latex,nowhere,CSTCloud LaTeX,0.1.0,"Mount, edit, compile, and bidirectionally sync CSTCloud (latex.cstcloud.cn) Overleaf projects directly in VS Code."
+2026-11-27T12:13:18.63Z,SnapBridge.snapbridge-companion,SnapBridge,SnapBridge Companion,0.1.14,Receives screenshots and prompts from the SnapBridge Windows app and prepares them in a dedicated chat panel.
