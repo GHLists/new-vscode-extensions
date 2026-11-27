@@ -1,0 +1,13 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T13:17:48.45Z,uclix-modernizer.legacy-to-agent-modernizer,uclix-modernizer,Legacy-to-Agent Modernizer,1.0.0,레거시 REST API의 HAR을 정리해 Azure OpenAI로 OpenAPI 명세 초안을 만드는 도구
+2026-11-27T13:23:30.67Z,Nodejsdev84.nodejs-openspin,Nodejsdev84,Node.js Jump Tag,0.0.7,"Jump to Node.js module imports, export tags, and symbol references across your workspace."
+2026-11-27T13:24:22.46Z,Sungero.development-studio-vscode-extension,Sungero,Development Studio,2.0.1,Development Studio Extension for VS Code
+2026-11-27T13:26:03.913Z,EpicGames.lore-vs-code-plugin,EpicGames,Lore Version Control System,0.14.3,%lore-vs-code.description%
+2026-11-27T13:32:51.683Z,agrzegorzewski.markdown-checkbox-action,agrzegorzewski,Markdown Checkbox Action,1.0.0,Toggle Markdown checkboxes from VS Code code actions.
+2026-11-27T13:33:33.177Z,Gr4phO.vortex-systems,Gr4phO,Vortex Systems Language (.vx),1.1.6,"One-click Run in Terminal, syntax highlighting, --ultrasafe checks, REPL, and native LSP support for the Vortex systems language."
+2026-11-27T13:42:20.457Z,fordimalanda.phive-server,fordimalanda,Phive - PHP Live Server,1.3.0,"Local PHP server with automatic port conflict resolution, live reloading, and WiFi network sharing."
+2026-11-27T13:51:07.877Z,viral-code-x.lois-demo-vscode,viral-code-x,LOIS Programming Language — Official Demo,0.1.1,"Language support for LOIS (.is): syntax highlighting, code snippets, and run-current-file integration."
+2026-11-27T13:55:41.98Z,ArcThemes.vscode-theme-onedark-extended,ArcThemes,Atom One Dark Theme Extended,2.3.0,One Dark Theme based on Atom
+2026-11-27T14:01:22.367Z,ABAgenticAI.achat-coding-assistant,ABAgenticAI,AChat Coding Assistant,0.1.0,Use AChat agents to understand and safely update the open VS Code workspace.
+2026-11-27T14:05:16.533Z,arqawa.agycli,arqawa,ARQAWA AGYCLI,0.0.1,
+2026-11-27T14:09:53.623Z,dinhchau.hawkguard,dinhchau,HawkGuard,0.2.1,AI-powered secret detection and leakage prevention directly in your editor.
