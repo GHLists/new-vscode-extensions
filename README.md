@@ -12,18 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 06:21 UTC
+## Latest list — 2026-11-27 07:21 UTC
 
-New extensions published between 2026-11-27 04:21 UTC and 2026-11-27 06:21 UTC.
+New extensions published between 2026-11-27 05:21 UTC and 2026-11-27 07:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T06-21-04-921387Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T07-21-39-291517Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 05:27:43 | [SuwonLee.slx-viewer](https://marketplace.visualstudio.com/items?itemName=SuwonLee.slx-viewer) | Simulink Diagram Viewer | 0.1.2 | Read-only block diagrams and subsystem navigation for Simulink SLX models. |
-| 2026-11-27 05:35:51 | [megumichai.vs-flat](https://marketplace.visualstudio.com/items?itemName=megumichai.vs-flat) | VS Flat | 0.0.1 | Flat themes based on the built-in Visual Studio themes |
-| 2026-11-27 05:36:33 | [ShunsukeF.makaseru-mcp](https://marketplace.visualstudio.com/items?itemName=ShunsukeF.makaseru-mcp) | Makaseru MCP - Task Handoff & Verificat… | 0.1.0 | Give lightweight agents small tasks, pause for parent decisions, and verify com… |
-| 2026-11-27 05:46:19 | [HanhThong.bfast](https://marketplace.visualstudio.com/items?itemName=HanhThong.bfast) | BFAST | 0.1.0 | BFAST Model |
+| 2026-11-27 06:17:21 | [RadwanAlmsora.forge-studio-pro](https://marketplace.visualstudio.com/items?itemName=RadwanAlmsora.forge-studio-pro) | Forge Studio Pro | 1.0.0 | The software development control center: command center, problem graph, project… |
+| 2026-11-27 06:26:34 | [CaliberHTTP.caliberhttp](https://marketplace.visualstudio.com/items?itemName=CaliberHTTP.caliberhttp) | CaliberHTTP — Git-Native .http Studio &… | 1.0.0 | Git-native .http studio & local API runner for VS Code. Visual Request Builder,… |
+| 2026-11-27 06:45:46 | [joeyslomowitz.gilt-gmt-theme](https://marketplace.visualstudio.com/items?itemName=joeyslomowitz.gilt-gmt-theme) | Gilt GMT | 1.0.1 | A dark theme of dial black, burgundy and warm gilt, inspired by vintage burgund… |
 
 ## Data source
 
