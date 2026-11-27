@@ -12,23 +12,17 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-27 04:21 UTC
+## Latest list — 2026-11-27 05:21 UTC
 
-New extensions published between 2026-11-27 02:21 UTC and 2026-11-27 04:21 UTC.
+New extensions published between 2026-11-27 03:21 UTC and 2026-11-27 05:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-27T04-21-30-148081Z.csv)
+[Full CSV](data/new-extensions-2026-11-27T05-21-09-827369Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 03:15:15 | [yujindai.serverpush](https://marketplace.visualstudio.com/items?itemName=yujindai.serverpush) | ServerPush | 0.1.0 | WebStorm / IntelliJ 风格的 VS Code 部署工具：SFTP / FTP / FTPS 多服务器、上传 / 下载 / 同步、Remote… |
-| 2026-11-27 03:16:04 | [devenvmanager.active-state-monitor](https://marketplace.visualstudio.com/items?itemName=devenvmanager.active-state-monitor) | active-state-monitor | 0.0.5 |  |
-| 2026-11-27 03:18:25 | [devenvmanager.cannlab-entry](https://marketplace.visualstudio.com/items?itemName=devenvmanager.cannlab-entry) | CANNLab-entry | 0.0.17 |  |
-| 2026-11-27 03:22:55 | [sergiogarciadev.vscode-mesh-splat-viewer](https://marketplace.visualstudio.com/items?itemName=sergiogarciadev.vscode-mesh-splat-viewer) | 3D Mesh & Gaussian Splat Viewer | 0.1.0 | View 3D meshes, point clouds, and Gaussian splats in VS Code using VSCode Mesh… |
-| 2026-11-27 03:23:53 | [wuwuzhazha.eide-ai](https://marketplace.visualstudio.com/items?itemName=wuwuzhazha.eide-ai) | EIDE AI | 4.3.5 | EIDE AI: embedded IDE with headless CLI/MCP for 8051/STM8/Cortex-M/MIPS/RISC-V |
-| 2026-11-27 03:25:49 | [devenvmanager.sync-tool](https://marketplace.visualstudio.com/items?itemName=devenvmanager.sync-tool) | sync-tool | 1.0.16 | One-click data synchronization from CPU to NPU |
-| 2026-11-27 03:47:28 | [sergiogarciadev.abandon-all-hope](https://marketplace.visualstudio.com/items?itemName=sergiogarciadev.abandon-all-hope) | Abandon All Hope | 0.1.2 | Play Abandon All Hope (Raylib 3D zombie survival shooter) directly inside VS Co… |
-| 2026-11-27 03:58:54 | [Adalie.chiaki-companion](https://marketplace.visualstudio.com/items?itemName=Adalie.chiaki-companion) | Chiaki Companion | 1.7.14 | Chiaki nanami in your terminal helping out from below :3 |
-| 2026-11-27 04:02:46 | [Ancoder.aio-ide](https://marketplace.visualstudio.com/items?itemName=Ancoder.aio-ide) | AIO · AI CLI Workbench | 0.1.43 | Open installed OMP, Claude Code, and Codex in project terminals, or enter the A… |
+| 2026-11-27 04:24:56 | [brendanjohnharris.latex-colors](https://marketplace.visualstudio.com/items?itemName=brendanjohnharris.latex-colors) | LaTeX Colors | 0.9.1 | Colors LaTeX source the way xcolor colors the PDF, and highlights editorial mar… |
+| 2026-11-27 04:41:08 | [simjounhax.git-graph-manager](https://marketplace.visualstudio.com/items?itemName=simjounhax.git-graph-manager) | Git Graph Manager | 1.0.0 | Interactive Git commit graph with drag-and-drop branch splitting, reordering, s… |
+| 2026-11-27 05:10:04 | [reworld.reworld-ai-usage-bar](https://marketplace.visualstudio.com/items?itemName=reworld.reworld-ai-usage-bar) | ReWorld AI Usage Bar | 0.3.0 | Claude and Codex plan usage (5-hour / weekly limits) as progress bars in the st… |
 
 ## Data source
 

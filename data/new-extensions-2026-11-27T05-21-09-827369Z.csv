@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T04:24:56.41Z,brendanjohnharris.latex-colors,brendanjohnharris,LaTeX Colors,0.9.1,"Colors LaTeX source the way xcolor colors the PDF, and highlights editorial marks in LaTeX, Markdown and plain text."
+2026-11-27T04:41:08.037Z,simjounhax.git-graph-manager,simjounhax,Git Graph Manager,1.0.0,"Interactive Git commit graph with drag-and-drop branch splitting, reordering, squashing, and integration"
+2026-11-27T05:10:04.703Z,reworld.reworld-ai-usage-bar,reworld,ReWorld AI Usage Bar,0.3.0,Claude and Codex plan usage (5-hour / weekly limits) as progress bars in the status bar.
