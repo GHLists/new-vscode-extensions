@@ -1,0 +1,15 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T17:22:08.327Z,LemonLin.ros2-clicks,LemonLin,ROS2 Clicks,1.0.0,"Build, launch and run ROS 2 packages from the sidebar with one click, with automatic environment sourcing."
+2026-11-27T17:36:10.86Z,KamaleshAP.ram-cache,KamaleshAP,RAM Cache,0.7.1,"Live RAM graph and an in-depth breakdown by process, application and folder. Clears the OS file cache automatically at a threshold without stopping any program. Linux, macOS and Windows."
+2026-11-27T17:38:36.003Z,AshutoshDishagat.ashutosh-quick-push,AshutoshDishagat,Ashutosh Quick Push,1.0.1,"One-click GitHub push, branch selector, and revoke tools in VS Code."
+2026-11-27T17:43:36.123Z,ShivamKalangan.nextcodeai,ShivamKalangan,NextCode AI,0.1.1,"AI code completion where you choose where your code goes: a local model on your machine, or your own API key with Gemini, Claude or OpenAI."
+2026-11-27T17:46:03.99Z,NicoR.semantic-symbols-labels,NicoR,Semantic Symbols Labels,0.1.3,"A language-agnostic Product Icon Theme that replaces symbol icons with compact text labels like class, method, property, and enum."
+2026-11-27T17:50:06.93Z,OnetPNGG.onet-language,OnetPNGG,ONET Language,2.0.0,"Suporte à linguagem ONET 4: sintaxe, snippets, sugestões e execução."
+2026-11-27T17:52:57.917Z,emanuelebartolesi.bitcoin-bar,emanuelebartolesi,Bitcoin Bar,1.0.0,Daily Bitcoin rates in your VS Code status bar
+2026-11-27T17:52:59.713Z,YagoBorba.stackcode-vscode,YagoBorba,StackCode DevOps Assistant,2.1.3,"Complete development assistant with project scaffolding, Git workflow, and real-time best practices enforcement"
+2026-11-27T17:53:00.257Z,emanuelebartolesi.weatherbar,emanuelebartolesi,WeatherBar,2.0.0,Current weather for a city in your VS Code status bar
+2026-11-27T17:53:02.747Z,emanuelebartolesi.current-weather,emanuelebartolesi,Current Weather,1.0.0,Current weather near your IP-based location in the status bar
+2026-11-27T17:58:38.993Z,sorcererdev.lackey,sorcererdev,Lackey,0.3.0,"A coding agent whose whole interface is your editor: it answers and checks what you write, offers what you ask for, and works in your buffers when you accept. Runs Claude Code (claude -p) on your own subscription"
+2026-11-27T18:00:18.77Z,DualBrain.vscodevb,DualBrain,Visual Basic (Roslyn),0.1.0,"Full-featured Visual Basic support for VS Code on Windows and Linux, built directly on Roslyn."
+2026-11-27T18:08:20.76Z,IngJoelCaraballo.device-view-official,IngJoelCaraballo,Device View Official,1.1.0,See how your site looks on an iPhone 17 Pro Max or Google Pixel 7 while you work in VS Code.
+2026-11-27T18:15:11.11Z,sschuman.luma-lang-vscode,sschuman,Luma Syntax Highlighting (luma-lang),0.1.0,Syntax highlighting for the Luma language from sschuman/luma.
