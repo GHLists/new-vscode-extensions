@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T07:18:27.763Z,boyaxu.code-assistant-boya,boyaxu,代码小助手,0.1.1,登录后使用行内代码补全和侧栏代码问答。
+2026-11-28T07:46:27.893Z,mde-tools.w2m,mde-tools,Word to Markdown - w2m,1.0.1,"Convert Word (.docx) files to Markdown, split by chapter or as a single file. Pure VS Code extension: no Word and no other install needed."
+2026-11-28T08:13:47.137Z,h3lv1x.rainbow-brackets-snippets,h3lv1x,Rainbow Brackets & Sketch Snippets,0.1.0,Rainbow-подсветка скобок и быстрая вставка готовых Arduino-скетчей.
