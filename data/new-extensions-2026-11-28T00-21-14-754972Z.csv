@@ -1,0 +1,5 @@
+created_at,extension,publisher,title,version,description
+2026-11-27T23:23:01.633Z,HunterRei.banner-board,HunterRei,Banner Board,1.0.0,"Preview every HTML5 banner size side by side in VS Code, with synced replay and GSAP 3 scrubbing, spec checks, a console for each banner, screenshots and handoff zips."
+2026-11-27T23:47:10.563Z,sharkk.kyogre-hl,sharkk,Kyogre Highlighter,0.1.0,"Syntax highlighting for Kyogre assembly (.asm) — x86 (16/32/64-bit), AArch64, contracts, and scoped extensions."
+2026-11-27T23:53:56.217Z,alessandracosteant.marshmeadow,alessandracosteant,Marshmeadow Pets,0.1.1,Original pastel pixel pets that live in your editor.
+2026-11-27T23:59:49.773Z,TareqHossain.megh-view,TareqHossain,MeghJs,0.1.0,"Highlighting, completion (HTML, components, view variables), hover, formatting and validation for Megh view templates (.megh.html)."
