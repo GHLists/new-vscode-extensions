@@ -1,0 +1,4 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T02:29:34.433Z,naiij.screenframes,naiij,ScreenFrames,0.0.1,"Record code & Markdown walkthroughs with initial source, timestamped diffs, and microphone audio for downstream rendering"
+2026-11-28T02:29:35.847Z,skillbenchai.skillbench-vscode,skillbenchai,SkillBench: Claude Code Skill Grader,0.0.1,"Grades Claude Code skills (SKILL.md + references/) against the SkillBench rubric offline: diagnostics, quick fixes, security coverage, reports and a skills tree."
+2026-11-28T02:38:45.073Z,InnopiaPteLtd.agentgloss,InnopiaPteLtd,agentgloss Review,1.0.1,"Review Markdown specs and agent plans with comments, suggested edits, and crisp Mermaid diagrams."
