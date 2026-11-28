@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T03:11:40.893Z,plutext.docx4j-editor,plutext,docx4j editor,0.3.0,"Edit Word documents in VS Code: the XML in view, content controls and OpenDoPE templates, tracked changes, and an agent's edits under its own name."
+2026-11-28T03:16:17.797Z,HongKongProgrammingSociety.hkps-vscode-verilog,HongKongProgrammingSociety,HKPS Verilog Reader,0.1.1,"A reading coach for Verilog: hierarchy, drivers, always-block meaning, and FSMs for programmers learning hardware."
+2026-11-28T03:18:06.973Z,xpncore.xpncore-agent,xpncore,XPNCORE,0.1.0,AI coding agent of XPNCORE in your editor
+2026-11-28T03:29:26.78Z,UllasJs.why-code,UllasJs,Why Code,0.1.0,"Explains in plain words why a piece of code exists and what it is connected to, using git history and (optionally) your Claude Code sessions."
+2026-11-28T03:36:38.8Z,CryzeZz.iris-anchor,CryzeZz,iris anchor,1.0.0,"Maintain an anchor directory in your workspace: mark files or lines, organize them with tags, and view, jump to, and remove them from a tree in the Explorer sidebar."
+2026-11-28T03:38:06.98Z,hellsparadise.hells-paraside-theme,hellsparadise,Hells Paraside Theme,0.6.0,"Four VS Code color themes and matching product icons inspired by Hell's Paradise: Jigokuraku — Gabimaru, Sagiri, Yuzuriha, and Tao Fa."
+2026-11-28T03:45:55.807Z,SitanHuang.ledg,SitanHuang,ledg,0.1.0,"Syntax highlighting, live diagnostics and account completion for ledg journals."
+2026-11-28T03:58:42.957Z,NotY215.vayu-Official,NotY215,Vayu Official,1.0.0,"Official Vayu language support for Visual Studio Code: syntax highlighting, language server, formatter, and linter."
+2026-11-28T04:10:46.787Z,basilio.pixel-art-spritesheet-editor,basilio,Pixel Art & Spritesheet Editor,0.5.2,"Pixel art and spritesheet editor with animation preview, inside VS Code."
