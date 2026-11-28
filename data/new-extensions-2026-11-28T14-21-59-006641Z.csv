@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T13:19:12.113Z,llwllw.comment-translator-llw,llwllw,Comment Translator (CPA),0.2.0,"Translate code comments with your own Claude/OpenAI-compatible CPA gateway. Inserts the translation under each original comment, with one-click cleanup."
+2026-11-28T13:32:36.463Z,kokybiskasvetaine.steadfast-themes,kokybiskasvetaine,Steadfast Light Themes,1.0.0,Four light themes with warm paper backgrounds and one accent colour.
+2026-11-28T13:41:19.397Z,msolutions-hq.envshield-ai-vault,msolutions-hq,"EnvShield — .env Vault, Secret & AI Firewall",1.0.0,"Keep AI assistants out of your .env vault. 1-click Cursor & Claude ignore firewall, screen camouflage, multi-env matrix, pre-commit secret scanner & local AES-256 vault."
+2026-11-28T13:42:31.973Z,Saywork.saycode,Saywork,SayCode by Saywork,1.1.0,"Saywork's AI worker for code. Talk or type in any folder: SayCode builds, fixes and explains, uses your own Chrome, and shows every step."
+2026-11-28T13:46:04.687Z,ayushsshukla.rocqinit,ayushsshukla,rocqinit,0.1.0,"Create Rocq Prover and Coq projects built with Dune, and check your Rocq setup."
+2026-11-28T13:58:36.713Z,evaabuilds.gatekeep-live,evaabuilds,GateKeep Live,0.1.0,"Live security scanning for Python and JavaScript: Semgrep + AI explanations and one-click fixes, powered by your GateKeep server."
+2026-11-28T14:08:13.803Z,alexander-demin.jbc-vscode,alexander-demin,jBC,0.1.0,Syntax highlighting for jBC and T24 TESTCASE sources.
+2026-11-28T14:11:40.117Z,TastefulOLED.tasteful-oled,TastefulOLED,Tasteful OLED,1.0.0,"VS Code's default dark theme brought down to pure black for OLED screens, with layered surfaces you can still tell apart."
