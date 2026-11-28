@@ -1,0 +1,12 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T12:13:03.19Z,vacaroiudavid.pcbforge,vacaroiudavid,PCB-Forge,0.3.0,Next-gen PCB design tool for VS Code
+2026-11-28T12:18:02.537Z,magatonca.devlite-studio-theme,magatonca,DevLite Studio Theme,1.0.0,Color and file icon themes from DevLite Studio. Designed for Developers. Built for Productivity.
+2026-11-28T12:20:58.27Z,Microcraft.syntaxlens,Microcraft,SyntaxLens,0.0.2,Real-time syntax analysis and code structure validation for modern web projects.
+2026-11-28T12:22:25.503Z,logbrew.logbrew,logbrew,LogBrew,0.1.0,"See the newest errors, issues, and logs of your project in the editor, and open each one in LogBrew."
+2026-11-28T12:28:28.01Z,SahityaPatel.branch-harbor,SahityaPatel,Branch Harbor,1.1.1,"Pull, push, sync and manage local Git branches without switching your working branch."
+2026-11-28T12:39:18.743Z,ui-markdown.ui-markdown-editor,ui-markdown,UI-Markdown (UMD) Visual Editor,0.0.9,"Interactive Notion-style visual editor for .umd and .md files — live charts, stat cards, pipelines, tables, images, and rich typography in pure plain text."
+2026-11-28T12:40:51.473Z,callmemcp.call-me,callmemcp,CallMeMCP: phone calls from your AI agent,0.1.0,"Let your agent call their human. Registers the /call-me MCP server: your AI agent rings your phone (iPhone or Android), reads its question aloud and gets your spoken answer back, or texts you when it is done or blocked."
+2026-11-28T12:42:42.35Z,aadithya-kl.grokmap,aadithya-kl,grokmap: who understands this code?,0.5.0,Colours AI-written code in the gutter by whether anyone on your team has shown they understand it. Hover for who wrote it and who knows it; one click for a quiz.
+2026-11-28T12:59:07.623Z,HamedSanaei.md-reader-rtl-hs,HamedSanaei,Md Reader RTL,0.2.2,"A polished Markdown viewer for Persian, Arabic, and bilingual technical documents, with first-class RTL/LTR support."
+2026-11-28T13:06:38.647Z,Haihe8177.bwiki-wikitext,Haihe8177,BWiki Wikitext,0.1.1,"Wikitext editing support for BWiki (wiki.biligame.com) with SESSDATA sign-in, sub-site switching, session keep-alive and WikiParser Language Server integration. Installs alongside the original Wikitext extension without ID, command or setting conflicts."
+2026-11-28T13:07:46.437Z,hongyuproject.esp32-wireless-serial-debug,hongyuproject,无线监视器,0.0.1,基于ESP32的无线串口调试与数据透传系统设计与实现
