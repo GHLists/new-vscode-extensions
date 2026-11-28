@@ -12,18 +12,16 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 00:21 UTC
+## Latest list — 2026-11-28 01:21 UTC
 
-New extensions published between 2026-11-27 22:21 UTC and 2026-11-28 00:21 UTC.
+New extensions published between 2026-11-27 23:21 UTC and 2026-11-28 01:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-28T00-21-14-754972Z.csv)
+[Full CSV](data/new-extensions-2026-11-28T01-21-57-818439Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-27 23:23:01 | [HunterRei.banner-board](https://marketplace.visualstudio.com/items?itemName=HunterRei.banner-board) | Banner Board | 1.0.0 | Preview every HTML5 banner size side by side in VS Code, with synced replay and… |
-| 2026-11-27 23:47:10 | [sharkk.kyogre-hl](https://marketplace.visualstudio.com/items?itemName=sharkk.kyogre-hl) | Kyogre Highlighter | 0.1.0 | Syntax highlighting for Kyogre assembly (.asm) — x86 (16/32/64-bit), AArch64, c… |
-| 2026-11-27 23:53:56 | [alessandracosteant.marshmeadow](https://marketplace.visualstudio.com/items?itemName=alessandracosteant.marshmeadow) | Marshmeadow Pets | 0.1.1 | Original pastel pixel pets that live in your editor. |
-| 2026-11-27 23:59:49 | [TareqHossain.megh-view](https://marketplace.visualstudio.com/items?itemName=TareqHossain.megh-view) | MeghJs | 0.1.0 | Highlighting, completion (HTML, components, view variables), hover, formatting… |
+| 2026-11-28 00:25:12 | [danielsmenezes.advpl-define-hover](https://marketplace.visualstudio.com/items?itemName=danielsmenezes.advpl-define-hover) | AdvPL/TLPP #define Hover | 1.0.1 | Mostra o valor de constantes #define (do próprio fonte e dos includes .ch/.th)… |
+| 2026-11-28 01:05:26 | [LINQe.lotus-extension](https://marketplace.visualstudio.com/items?itemName=LINQe.lotus-extension) | Lotus Language (LINQe) | 0.1.4 | Language support for Lotus: highlighting, completion, navigation and compiler d… |
 
 ## Data source
 
