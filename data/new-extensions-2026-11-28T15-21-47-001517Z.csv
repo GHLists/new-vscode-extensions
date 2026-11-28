@@ -1,0 +1,10 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T14:18:54.25Z,ArcThemes.vscode-theme-darcula-pro-extended,ArcThemes,Darcula Theme Pro Extended,1.2.3,A theme extension for VS Code based on Darcula theme from Jetbrains IDEs
+2026-11-28T14:21:30.85Z,codex077.wadi-theme-free,codex077,Wadi Theme,1.0.0,Wadi Dark — the free accessibility-first dark theme for programmers.
+2026-11-28T14:34:37.487Z,commitmate.commitmate-umut,commitmate,CommitMate - Smart Git Commits,1.0.1,"Fast, offline Conventional Commits message and change summary generator. Detects functions, classes, and scopes directly from local Git diff."
+2026-11-28T14:37:16.693Z,hosteday.hosteday-vscode,hosteday,Hosteday,1.0.0,"Official VS Code extension for Hosteday Cloud — inspect environments, schemas & dynamic routes, auto-configure Flutter/Kotlin/Python/Web workspaces, test live APIs, get schema IntelliSense, and scaffold full starter projects."
+2026-11-28T14:46:17.32Z,makr-code.themisdb-devdb-vscode-preview,makr-code,ThemisDB DevDB — E2E Preview,0.1.0,"Bounded, read-only VS Code preview for local DevDB health and PR trace snapshots."
+2026-11-28T14:49:24.713Z,buraby1.compactify,buraby1,Compactify,1.0.1,"Reduce unnecessary line breaks in JavaScript, JSON, JSONC and Power Fx. Configurable compact formatting."
+2026-11-28T14:54:07.76Z,chris1377.christmas-tree,chris1377,Christmas Tree,0.0.3,Decorate your own Christmas tree right inside VS Code
+2026-11-28T14:54:27.907Z,JeesLionel.zampoint,JeesLionel,ZamPoint,0.2.0,Bring back the part that worked.
+2026-11-28T15:17:12.99Z,codeguard-dev.codeguard-ai-guard,codeguard-dev,CodeGuard AI — Local Security,0.0.1,Real-time security guardrails for AI-generated code

@@ -12,22 +12,23 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 14:21 UTC
+## Latest list — 2026-11-28 15:21 UTC
 
-New extensions published between 2026-11-28 12:21 UTC and 2026-11-28 14:21 UTC.
+New extensions published between 2026-11-28 13:21 UTC and 2026-11-28 15:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-28T14-21-59-006641Z.csv)
+[Full CSV](data/new-extensions-2026-11-28T15-21-47-001517Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-28 13:19:12 | [llwllw.comment-translator-llw](https://marketplace.visualstudio.com/items?itemName=llwllw.comment-translator-llw) | Comment Translator (CPA) | 0.2.0 | Translate code comments with your own Claude/OpenAI-compatible CPA gateway. Ins… |
-| 2026-11-28 13:32:36 | [kokybiskasvetaine.steadfast-themes](https://marketplace.visualstudio.com/items?itemName=kokybiskasvetaine.steadfast-themes) | Steadfast Light Themes | 1.0.0 | Four light themes with warm paper backgrounds and one accent colour. |
-| 2026-11-28 13:41:19 | [msolutions-hq.envshield-ai-vault](https://marketplace.visualstudio.com/items?itemName=msolutions-hq.envshield-ai-vault) | EnvShield — .env Vault, Secret & AI Fir… | 1.0.0 | Keep AI assistants out of your .env vault. 1-click Cursor & Claude ignore firew… |
-| 2026-11-28 13:42:31 | [Saywork.saycode](https://marketplace.visualstudio.com/items?itemName=Saywork.saycode) | SayCode by Saywork | 1.1.0 | Saywork's AI worker for code. Talk or type in any folder: SayCode builds, fixes… |
-| 2026-11-28 13:46:04 | [ayushsshukla.rocqinit](https://marketplace.visualstudio.com/items?itemName=ayushsshukla.rocqinit) | rocqinit | 0.1.0 | Create Rocq Prover and Coq projects built with Dune, and check your Rocq setup. |
-| 2026-11-28 13:58:36 | [evaabuilds.gatekeep-live](https://marketplace.visualstudio.com/items?itemName=evaabuilds.gatekeep-live) | GateKeep Live | 0.1.0 | Live security scanning for Python and JavaScript: Semgrep + AI explanations and… |
-| 2026-11-28 14:08:13 | [alexander-demin.jbc-vscode](https://marketplace.visualstudio.com/items?itemName=alexander-demin.jbc-vscode) | jBC | 0.1.0 | Syntax highlighting for jBC and T24 TESTCASE sources. |
-| 2026-11-28 14:11:40 | [TastefulOLED.tasteful-oled](https://marketplace.visualstudio.com/items?itemName=TastefulOLED.tasteful-oled) | Tasteful OLED | 1.0.0 | VS Code's default dark theme brought down to pure black for OLED screens, with… |
+| 2026-11-28 14:18:54 | [ArcThemes.vscode-theme-darcula-pro-extended](https://marketplace.visualstudio.com/items?itemName=ArcThemes.vscode-theme-darcula-pro-extended) | Darcula Theme Pro Extended | 1.2.3 | A theme extension for VS Code based on Darcula theme from Jetbrains IDEs |
+| 2026-11-28 14:21:30 | [codex077.wadi-theme-free](https://marketplace.visualstudio.com/items?itemName=codex077.wadi-theme-free) | Wadi Theme | 1.0.0 | Wadi Dark — the free accessibility-first dark theme for programmers. |
+| 2026-11-28 14:34:37 | [commitmate.commitmate-umut](https://marketplace.visualstudio.com/items?itemName=commitmate.commitmate-umut) | CommitMate - Smart Git Commits | 1.0.1 | Fast, offline Conventional Commits message and change summary generator. Detect… |
+| 2026-11-28 14:37:16 | [hosteday.hosteday-vscode](https://marketplace.visualstudio.com/items?itemName=hosteday.hosteday-vscode) | Hosteday | 1.0.0 | Official VS Code extension for Hosteday Cloud — inspect environments, schemas &… |
+| 2026-11-28 14:46:17 | [makr-code.themisdb-devdb-vscode-preview](https://marketplace.visualstudio.com/items?itemName=makr-code.themisdb-devdb-vscode-preview) | ThemisDB DevDB — E2E Preview | 0.1.0 | Bounded, read-only VS Code preview for local DevDB health and PR trace snapshot… |
+| 2026-11-28 14:49:24 | [buraby1.compactify](https://marketplace.visualstudio.com/items?itemName=buraby1.compactify) | Compactify | 1.0.1 | Reduce unnecessary line breaks in JavaScript, JSON, JSONC and Power Fx. Configu… |
+| 2026-11-28 14:54:07 | [chris1377.christmas-tree](https://marketplace.visualstudio.com/items?itemName=chris1377.christmas-tree) | Christmas Tree | 0.0.3 | Decorate your own Christmas tree right inside VS Code |
+| 2026-11-28 14:54:27 | [JeesLionel.zampoint](https://marketplace.visualstudio.com/items?itemName=JeesLionel.zampoint) | ZamPoint | 0.2.0 | Bring back the part that worked. |
+| 2026-11-28 15:17:12 | [codeguard-dev.codeguard-ai-guard](https://marketplace.visualstudio.com/items?itemName=codeguard-dev.codeguard-ai-guard) | CodeGuard AI — Local Security | 0.0.1 | Real-time security guardrails for AI-generated code |
 
 ## Data source
 
