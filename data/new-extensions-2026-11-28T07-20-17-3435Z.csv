@@ -1,0 +1,9 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T06:16:24.51Z,RakeshRajaiah.kode-s,RakeshRajaiah,Kode-S,0.2.0,"Hand a feature to Claude and get back working code, proven against its spec by integration tests or UI automation."
+2026-11-28T06:29:49.297Z,ParthPatel.sheet-viewer,ParthPatel,Sheet Viewer,0.1.1,"View and edit Excel (.xlsx, .xls, .ods) and CSV/TSV files as a spreadsheet grid inside VS Code."
+2026-11-28T06:33:44.623Z,proxystacks.proxystacks-relay,proxystacks,ProxyStacks Relay — Coding Agent Cost & Config Helper,0.1.0,"Live UTC+8 off-peak discount status bar, 21-model USD & cache rate lookup, coding session cost estimator, and 1-click config generator for Claude Code, OpenCode, Kilo Code, Cline, and Aider."
+2026-11-28T06:34:02.613Z,nut-phitsavath.element-to-claude,nut-phitsavath,Element to Claude,1.0.1,"Click an element on your localhost page: Claude Code gets its exact source and CSS lines, no screenshot. Alt+click jumps to its text or a CSS value, selected, for quick edits without the chat. For React (Vite, Next.js)."
+2026-11-28T06:35:25.887Z,ItzAjx.kiddo-lang,ItzAjx,KIDDO Language Support (.kid),1.0.0,"Official KIDDO (.kid) language extension: file icons, syntax highlighting, auto-indent, autocomplete, snippets, Run/VM/Debug toolbar, and .exe builder."
+2026-11-28T06:39:51.247Z,sulucky5.ermaster-vscode,sulucky5,ERMaster for VS Code,1.0.0,A modern ER Diagram editor for VS Code compatible with Eclipse ERMaster (.erm)
+2026-11-28T07:01:19.67Z,KashifAli.pairbridge,KashifAli,PairBridge,0.1.0,"Share reviewed code folders with a teammate, browse live files, and copy snippets in native read-only VS Code editors."
+2026-11-28T07:04:45.837Z,sukyo.docquill,sukyo,"Docquill – Python Docstring Generator (Google, NumPy, Sphinx) + AI",0.1.0,"Type """""" under a def to get a Google, NumPy or Sphinx docstring with your arguments, types, defaults, returns and raises filled in. Optional AI fill with your own key or a local model."
