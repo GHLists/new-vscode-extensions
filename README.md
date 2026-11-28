@@ -12,22 +12,19 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 11:21 UTC
+## Latest list — 2026-11-28 12:19 UTC
 
-New extensions published between 2026-11-28 09:21 UTC and 2026-11-28 11:21 UTC.
+New extensions published between 2026-11-28 10:19 UTC and 2026-11-28 12:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-28T11-21-37-842538Z.csv)
+[Full CSV](data/new-extensions-2026-11-28T12-19-22-297196Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-28 10:16:47 | [ml-ai-code.mlai-code](https://marketplace.visualstudio.com/items?itemName=ml-ai-code.mlai-code) | ML AI Code | 0.2.6 | The ML AI Code agent in your editor: local-first chat with Agent, Plan, Ask and… |
-| 2026-11-28 10:27:52 | [aicheckerhumanizer.aicheckerhumanizer](https://marketplace.visualstudio.com/items?itemName=aicheckerhumanizer.aicheckerhumanizer) | AI Checker Humanizer: AI Detector & Hum… | 1.0.0 | Check selected Markdown, LaTeX or plain text for AI writing, then humanize it i… |
-| 2026-11-28 10:37:02 | [erp-development.goeasyerp](https://marketplace.visualstudio.com/items?itemName=erp-development.goeasyerp) | GoEasyERP | 0.1.1 | Write GoEasyERP extension apps, compile them, and publish them to a local devel… |
-| 2026-11-28 10:40:41 | [Yazwh0.bitmagic-x16oscar64](https://marketplace.visualstudio.com/items?itemName=Yazwh0.bitmagic-x16oscar64) | BitMagic X16 Oscar64 | 0.1.2 | Debug C on the Commander X16, compiled with Oscar64: breakpoints on C lines, st… |
-| 2026-11-28 10:54:55 | [sukyo.doxquill](https://marketplace.visualstudio.com/items?itemName=sukyo.doxquill) | Doxquill – Doxygen Documentation Genera… | 0.1.0 | Type /** and press Enter above a C, C++ or CUDA function to get a Doxygen comme… |
-| 2026-11-28 10:56:53 | [kunwen01.mixed-md-editor](https://marketplace.visualstudio.com/items?itemName=kunwen01.mixed-md-editor) | Mixed Markdown Editor | 0.1.27 | 在一个文件中混排编辑 Markdown、Python、HTML、CSV、SVG 与服务端脚本，内置换编辑器预览；可直接渲染 .html 网页，并只读查看 Wo… |
-| 2026-11-28 11:11:53 | [maomao2dreaming.vscode-comment-folder](https://marketplace.visualstudio.com/items?itemName=maomao2dreaming.vscode-comment-folder) | VSCode Comment Folder MM | 1.0.0 | Fold consecutive single-line comments without breaking VS Code native folding.… |
-| 2026-11-28 11:18:20 | [valireyimbergenov.ai-context-packer](https://marketplace.visualstudio.com/items?itemName=valireyimbergenov.ai-context-packer) | AI Context Packer | 1.0.0 | Pack workspace files into clean, token-counted AI prompts for Claude, ChatGPT,… |
+| 2026-11-28 11:34:22 | [novix-community.novix-language-support](https://marketplace.visualstudio.com/items?itemName=novix-community.novix-language-support) | NOVIX Language Support | 1.9.1 | NOVIX language support with persistent reusable runner terminal and distinct Ru… |
+| 2026-11-28 11:36:25 | [Justin1230.caduceus-dsl](https://marketplace.visualstudio.com/items?itemName=Justin1230.caduceus-dsl) | Caduceus Programming Language | 1.0.4 | Domain-Specific Language & Spatial CSI Engine for Hardware & AI |
+| 2026-11-28 11:37:32 | [easydb-lite.easydb-lite](https://marketplace.visualstudio.com/items?itemName=easydb-lite.easydb-lite) | EasyDB Lite | 0.2.2 | 面向本地开发的中文 MySQL 表格编辑器，支持 SQL 预览、事务保存和 CSV 导出。 |
+| 2026-11-28 11:43:15 | [mediatourl.mediatourl](https://marketplace.visualstudio.com/items?itemName=mediatourl.mediatourl) | MediaToURL Studio: Upload & Insert CDN… | 1.0.0 | Upload project assets to MediaToURL from VS Code and insert hosted URLs directl… |
+| 2026-11-28 12:14:00 | [emkay-voice.emkay-code](https://marketplace.visualstudio.com/items?itemName=emkay-voice.emkay-code) | Emkay Code | 0.2.0 | Write an OpenVoiceOS skill and talk to it at once: Emkay runs next to your code… |
 
 ## Data source
 

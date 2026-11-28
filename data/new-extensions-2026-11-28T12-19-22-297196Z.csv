@@ -1,0 +1,6 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T11:34:22.22Z,novix-community.novix-language-support,novix-community,NOVIX Language Support,1.9.1,NOVIX language support with persistent reusable runner terminal and distinct Run/Debug actions.
+2026-11-28T11:36:25.323Z,Justin1230.caduceus-dsl,Justin1230,Caduceus Programming Language,1.0.4,Domain-Specific Language & Spatial CSI Engine for Hardware & AI
+2026-11-28T11:37:32.193Z,easydb-lite.easydb-lite,easydb-lite,EasyDB Lite,0.2.2,面向本地开发的中文 MySQL 表格编辑器，支持 SQL 预览、事务保存和 CSV 导出。
+2026-11-28T11:43:15.073Z,mediatourl.mediatourl,mediatourl,MediaToURL Studio: Upload & Insert CDN Links,1.0.0,"Upload project assets to MediaToURL from VS Code and insert hosted URLs directly into Markdown, HTML, CSS, code, and documentation. Requires an eligible MediaToURL plan."
+2026-11-28T12:14:00.773Z,emkay-voice.emkay-code,emkay-voice,Emkay Code,0.2.0,"Write an OpenVoiceOS skill and talk to it at once: Emkay runs next to your code, in VS Code – also in the browser (vscode.dev, github.dev)."
