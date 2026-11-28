@@ -12,20 +12,22 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 10:19 UTC
+## Latest list — 2026-11-28 11:21 UTC
 
-New extensions published between 2026-11-28 08:19 UTC and 2026-11-28 10:19 UTC.
+New extensions published between 2026-11-28 09:21 UTC and 2026-11-28 11:21 UTC.
 
-[Full CSV](data/new-extensions-2026-11-28T10-19-25-708561Z.csv)
+[Full CSV](data/new-extensions-2026-11-28T11-21-37-842538Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-28 09:12:40 | [Riemac.docstring-mermaid](https://marketplace.visualstudio.com/items?itemName=Riemac.docstring-mermaid) | Mermaid in Comments | 0.1.0 | Render Mermaid fences inline in Python docstrings and source comments. |
-| 2026-11-28 09:17:40 | [MrEmu.rainbow-typing-flow](https://marketplace.visualstudio.com/items?itemName=MrEmu.rainbow-typing-flow) | Rainbow Typing Flow | 1.0.0 | Sharp 5-color flowing text gradients on typing, autocomplete, paste, arrow-key… |
-| 2026-11-28 09:23:00 | [gio-del.claude-layout](https://marketplace.visualstudio.com/items?itemName=gio-del.claude-layout) | Claude Layout | 0.4.1 | Unofficial. Opens every window with the explorer on the left and Claude Code ru… |
-| 2026-11-28 09:50:53 | [GilbertZenner.flow-lens](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.flow-lens) | Flow Lens Plotter | 0.7.6 | Pick a folder: FlowPlotter uploads it to the FlowPlotter server, which finds ri… |
-| 2026-11-28 09:51:41 | [snowman.vibezik](https://marketplace.visualstudio.com/items?itemName=snowman.vibezik) | vibeZik - Vibe Code Security Scanner | 0.1.0 | Real-time security vulnerability and bug scanner for vibe-coded projects. Detec… |
-| 2026-11-28 10:04:35 | [eriseven.markdown-auto-preview-bridge](https://marketplace.visualstudio.com/items?itemName=eriseven.markdown-auto-preview-bridge) | Markdown Auto Preview Bridge | 0.1.5 | Automatically open Markdown in Markdown Preview Enhanced while keeping editing… |
+| 2026-11-28 10:16:47 | [ml-ai-code.mlai-code](https://marketplace.visualstudio.com/items?itemName=ml-ai-code.mlai-code) | ML AI Code | 0.2.6 | The ML AI Code agent in your editor: local-first chat with Agent, Plan, Ask and… |
+| 2026-11-28 10:27:52 | [aicheckerhumanizer.aicheckerhumanizer](https://marketplace.visualstudio.com/items?itemName=aicheckerhumanizer.aicheckerhumanizer) | AI Checker Humanizer: AI Detector & Hum… | 1.0.0 | Check selected Markdown, LaTeX or plain text for AI writing, then humanize it i… |
+| 2026-11-28 10:37:02 | [erp-development.goeasyerp](https://marketplace.visualstudio.com/items?itemName=erp-development.goeasyerp) | GoEasyERP | 0.1.1 | Write GoEasyERP extension apps, compile them, and publish them to a local devel… |
+| 2026-11-28 10:40:41 | [Yazwh0.bitmagic-x16oscar64](https://marketplace.visualstudio.com/items?itemName=Yazwh0.bitmagic-x16oscar64) | BitMagic X16 Oscar64 | 0.1.2 | Debug C on the Commander X16, compiled with Oscar64: breakpoints on C lines, st… |
+| 2026-11-28 10:54:55 | [sukyo.doxquill](https://marketplace.visualstudio.com/items?itemName=sukyo.doxquill) | Doxquill – Doxygen Documentation Genera… | 0.1.0 | Type /** and press Enter above a C, C++ or CUDA function to get a Doxygen comme… |
+| 2026-11-28 10:56:53 | [kunwen01.mixed-md-editor](https://marketplace.visualstudio.com/items?itemName=kunwen01.mixed-md-editor) | Mixed Markdown Editor | 0.1.27 | 在一个文件中混排编辑 Markdown、Python、HTML、CSV、SVG 与服务端脚本，内置换编辑器预览；可直接渲染 .html 网页，并只读查看 Wo… |
+| 2026-11-28 11:11:53 | [maomao2dreaming.vscode-comment-folder](https://marketplace.visualstudio.com/items?itemName=maomao2dreaming.vscode-comment-folder) | VSCode Comment Folder MM | 1.0.0 | Fold consecutive single-line comments without breaking VS Code native folding.… |
+| 2026-11-28 11:18:20 | [valireyimbergenov.ai-context-packer](https://marketplace.visualstudio.com/items?itemName=valireyimbergenov.ai-context-packer) | AI Context Packer | 1.0.0 | Pack workspace files into clean, token-counted AI prompts for Claude, ChatGPT,… |
 
 ## Data source
 
