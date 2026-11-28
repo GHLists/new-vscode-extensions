@@ -1,0 +1,11 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T01:24:31.267Z,pledgeandgrow.fid-lang,pledgeandgrow,Fid Language,0.1.1,"Fid language support: syntax highlighting, diagnostics, completion, go to definition, hover, rename, formatting and quick fixes, powered by the Fid compiler's own language server."
+2026-11-28T01:31:10.373Z,MartinAlejandroOviedo.glossy-icons,MartinAlejandroOviedo,Glossy Icons,1.0.0,"Tema de iconos glossy para VS Code: baldosas de caramelo con brillo humedo, mas de 60 familias y una paleta joya"
+2026-11-28T01:31:27.64Z,dags0n.taskspace,dags0n,Taskspace,0.3.0,"Run several AI coding tasks in parallel: each task is an isolated copy of your workspace (git worktrees for the repos it changes, the rest as read-only context), with the live status of every Claude Code session."
+2026-11-28T01:54:22.81Z,RahulChaube.blyx-starling,RahulChaube,Blyx Starling,0.1.0,Estimate resource capacity and actual occupied time from a booking schedule.
+2026-11-28T01:54:27.827Z,RahulChaube.blyx-swallow,RahulChaube,Blyx Swallow,0.1.0,"Validate an exported payload's declared spans and checksum, then locate a byte."
+2026-11-28T01:54:32.683Z,RahulChaube.blyx-swiftlet,RahulChaube,Blyx Swiftlet,0.1.0,Dispatch a method and request path against a table of literal and parameterized routes. Return a matched template and the methods a client can use.
+2026-11-28T01:54:37.9Z,RahulChaube.blyx-tanager,RahulChaube,Blyx Tanager,0.1.0,Audit a directed edge list before interpreting a vertex's degree.
+2026-11-28T01:54:42.823Z,RahulChaube.blyx-towhee,RahulChaube,Blyx Towhee,0.1.0,Combine indentation and line-width diagnostics for a measured source file.
+2026-11-28T01:54:47.97Z,RahulChaube.blyx-turnstone,RahulChaube,Blyx Turnstone,0.1.0,Resume a chunked file job from acknowledged checkpoints.
+2026-11-28T02:12:34.02Z,MartinAlejandroOviedo.glossy-candy-theme,MartinAlejandroOviedo,Glossy Candy,1.0.0,"Tema oscuro Glossy Candy para Visual Studio Code: vidrio de ciruela, brillo de chicle y una paleta joya en menta, oro y periwinkle"
