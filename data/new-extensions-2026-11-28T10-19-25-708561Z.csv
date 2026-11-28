@@ -1,0 +1,7 @@
+created_at,extension,publisher,title,version,description
+2026-11-28T09:12:40.633Z,Riemac.docstring-mermaid,Riemac,Mermaid in Comments,0.1.0,Render Mermaid fences inline in Python docstrings and source comments.
+2026-11-28T09:17:40.583Z,MrEmu.rainbow-typing-flow,MrEmu,Rainbow Typing Flow,1.0.0,"Sharp 5-color flowing text gradients on typing, autocomplete, paste, arrow-key comet trails, and manual save waves."
+2026-11-28T09:23:00.573Z,gio-del.claude-layout,gio-del,Claude Layout,0.4.1,Unofficial. Opens every window with the explorer on the left and Claude Code running in a terminal on the right; external launchers can ask it to resume a session.
+2026-11-28T09:50:53.29Z,GilbertZenner.flow-lens,GilbertZenner,Flow Lens Plotter,0.7.6,"Pick a folder: FlowPlotter uploads it to the FlowPlotter server, which finds risky values and unused functions, draws the flow map and runs the code. Everything is saved next to your code. The analysis runs on the server, so the folder is uploaded."
+2026-11-28T09:51:41.293Z,snowman.vibezik,snowman,vibeZik - Vibe Code Security Scanner,0.1.0,"Real-time security vulnerability and bug scanner for vibe-coded projects. Detects OWASP Top 10, CWE/SANS Top 25 issues with zero API keys required."
+2026-11-28T10:04:35.55Z,eriseven.markdown-auto-preview-bridge,eriseven,Markdown Auto Preview Bridge,0.1.5,Automatically open Markdown in Markdown Preview Enhanced while keeping editing under your control.

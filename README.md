@@ -12,23 +12,20 @@ runs every hour and commits one CSV per run to [`data/`](data/), e.g.
 
 Read the latest list below.
 
-## Latest list — 2026-11-28 09:20 UTC
+## Latest list — 2026-11-28 10:19 UTC
 
-New extensions published between 2026-11-28 07:20 UTC and 2026-11-28 09:20 UTC.
+New extensions published between 2026-11-28 08:19 UTC and 2026-11-28 10:19 UTC.
 
-[Full CSV](data/new-extensions-2026-11-28T09-20-56-568622Z.csv)
+[Full CSV](data/new-extensions-2026-11-28T10-19-25-708561Z.csv)
 
 | Created (UTC) | Extension | Title | Version | Description |
 | :------------ | :-------- | :---- | :------ | :---------- |
-| 2026-11-28 08:14:58 | [priyankaghansela.react-architect](https://marketplace.visualstudio.com/items?itemName=priyankaghansela.react-architect) | React Architect | 0.1.0 | Scaffold React + Vite projects and generate components, hooks and features that… |
-| 2026-11-28 08:27:56 | [stratosapp.stratos-macos](https://marketplace.visualstudio.com/items?itemName=stratosapp.stratos-macos) | Stratos — Local PHP, Laravel & AI MCP f… | 1.0.0 | Control Stratos native macOS PHP 8.1–8.6 stacks, switch PHP versions, open .tes… |
-| 2026-11-28 08:33:00 | [HadiEsmaeili.git-workspace-graph](https://marketplace.visualstudio.com/items?itemName=HadiEsmaeili.git-workspace-graph) | Git Workspace Graph | 0.7.7 | Modern Git graph, source control and inline blame for VS Code. |
-| 2026-11-28 08:33:17 | [Unsafezero.clockedin](https://marketplace.visualstudio.com/items?itemName=Unsafezero.clockedin) | ClockedIn Time Tracker | 0.0.1 | Track your coding time, maintain daily streaks, and compete on global developer… |
-| 2026-11-28 08:36:50 | [tomoyukinakama.avaloniavs](https://marketplace.visualstudio.com/items?itemName=tomoyukinakama.avaloniavs) | avaloniavs – XAML previewer for Avalonia | 0.1.18 | Unofficial live XAML previewer and editing tools for Avalonia UI: preview rende… |
-| 2026-11-28 08:42:27 | [sukyo.tagtrail](https://marketplace.visualstudio.com/items?itemName=sukyo.tagtrail) | Tagtrail – TODO Tree, FIXME Highlights… | 0.1.1 | Find every TODO, FIXME, BUG, HACK and NOTE in your workspace: a tree in the Exp… |
-| 2026-11-28 08:59:03 | [kitkungza.vscode-meme-companion](https://marketplace.visualstudio.com/items?itemName=kitkungza.vscode-meme-companion) | Meme Companion | 0.1.0 | Floating hover-to-play anime & meme companions with sound for VS Code — drag an… |
-| 2026-11-28 09:11:02 | [Yeatol.git-quick-actions](https://marketplace.visualstudio.com/items?itemName=Yeatol.git-quick-actions) | Git Quick Actions | 1.0.0 | Git Quick Actions for the Source Control Manager |
-| 2026-11-28 09:15:06 | [dlrudqls99.san-marcos-sunset](https://marketplace.visualstudio.com/items?itemName=dlrudqls99.san-marcos-sunset) | San Marcos Sunset | 0.1.0 | A California sunset palette — magenta, violet and orange over deep plum, inspir… |
+| 2026-11-28 09:12:40 | [Riemac.docstring-mermaid](https://marketplace.visualstudio.com/items?itemName=Riemac.docstring-mermaid) | Mermaid in Comments | 0.1.0 | Render Mermaid fences inline in Python docstrings and source comments. |
+| 2026-11-28 09:17:40 | [MrEmu.rainbow-typing-flow](https://marketplace.visualstudio.com/items?itemName=MrEmu.rainbow-typing-flow) | Rainbow Typing Flow | 1.0.0 | Sharp 5-color flowing text gradients on typing, autocomplete, paste, arrow-key… |
+| 2026-11-28 09:23:00 | [gio-del.claude-layout](https://marketplace.visualstudio.com/items?itemName=gio-del.claude-layout) | Claude Layout | 0.4.1 | Unofficial. Opens every window with the explorer on the left and Claude Code ru… |
+| 2026-11-28 09:50:53 | [GilbertZenner.flow-lens](https://marketplace.visualstudio.com/items?itemName=GilbertZenner.flow-lens) | Flow Lens Plotter | 0.7.6 | Pick a folder: FlowPlotter uploads it to the FlowPlotter server, which finds ri… |
+| 2026-11-28 09:51:41 | [snowman.vibezik](https://marketplace.visualstudio.com/items?itemName=snowman.vibezik) | vibeZik - Vibe Code Security Scanner | 0.1.0 | Real-time security vulnerability and bug scanner for vibe-coded projects. Detec… |
+| 2026-11-28 10:04:35 | [eriseven.markdown-auto-preview-bridge](https://marketplace.visualstudio.com/items?itemName=eriseven.markdown-auto-preview-bridge) | Markdown Auto Preview Bridge | 0.1.5 | Automatically open Markdown in Markdown Preview Enhanced while keeping editing… |
 
 ## Data source
 
